@@ -62,7 +62,7 @@ export async function getStaticProps() {
       .map(([cuisine, count]) => ({
         name: cuisine.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
         count,
-        href: `/${cuisine.replace(/\s+/g, '-')}-restaurants-london`,
+        href: `/${cuisine.replace(/\s+/g, '-')}`,
         image: cuisineImages[cuisine] || 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=85'
       }));
     
