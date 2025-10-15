@@ -25,7 +25,7 @@ export async function getStaticProps() {
         return searchText.includes('halal') || 
                searchText.includes('muslim') ||
                searchText.includes('islamic') ||
-               v.dietary_tags?.includes('halal');
+               v.dietary_tags?.halal === true;
       })
       .sort((a, b) => (b.rating || 0) - (a.rating || 0));
     
