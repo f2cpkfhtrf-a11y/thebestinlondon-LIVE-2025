@@ -62,7 +62,7 @@ export default function ChineseRestaurants({ venues }) {
           <div style={{ fontSize: '64px', marginBottom: '16px' }}>🥢</div>
           <h1 style={{ fontSize: 'clamp(32px, 5vw, 52px)', fontWeight: '800', margin: '0 0 16px 0' }}>Best Chinese Restaurants in London</h1>
           <p style={{ fontSize: 'clamp(16px, 2.5vw, 20px)', opacity: 0.95, margin: '0 0 12px 0' }}>{venues.length} authentic Chinese restaurants • Dim Sum • Noodles • Peking Duck</p>
-          <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', fontSize: '14px', opacity: 0.9' }}>
+          <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', fontSize: '14px', opacity: 0.9 }}>
             <span>🥟 Dim Sum</span><span>⭐ 4.0+ Rated</span><span>💰 £12-35pp</span><span>📸 Real Photos</span>
           </div>
         </div>
