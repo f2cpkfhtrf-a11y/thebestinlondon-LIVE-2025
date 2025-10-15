@@ -1,0 +1,224 @@
+{
+  "place_id": "ChIJ1fRYjo4ddkgRRZq7lphil6E",
+  "name": "Rosslyn Coffee London Wall",
+  "formatted_address": "118 London Wall, London EC2Y 5JA, UK",
+  "vicinity": "FOX Building, 118 London Wall, London",
+  "rating": 4.8,
+  "user_ratings_total": 375,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51768990000001,
+      "lng": -0.0890369
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5189301802915,
+        "lng": -0.08752411970849797
+      },
+      "southwest": {
+        "lat": 51.5162322197085,
+        "lng": -0.09022208029150203
+      }
+    }
+  },
+  "lat": 51.51768990000001,
+  "lng": -0.0890369,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.rosslyncoffee.com/",
+  "url": "https://maps.google.com/?cid=11643883769093134917",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 6:30 AM – 5:00 PM",
+      "Tuesday: 6:30 AM – 5:00 PM",
+      "Wednesday: 6:30 AM – 5:00 PM",
+      "Thursday: 6:30 AM – 5:00 PM",
+      "Friday: 6:30 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0630"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d0I8FN9OBmwif_ENewkSJ5HmP6scyBGl_6BVM8QXcwsvKWPqYSRer_D-zdy6LIkMzztxCnjZFZkZ2hzudG-YD7ZE_hXdvOMokdPmmxoJ-kiQA6p9q5tbCokEfpGbE90WVcWoqLNpbcdDaduqvJZJhCfq05A5HAxJ8dKX0m8MqPsdDMCcNvAChrldxkOf0ZZSnV36vv4lSxqQeBd78CWLkT0dzZvWbB8bgbwWGsUukRc-2dz74Pp_V-av5aPS7M04h_9kCL_PieQ_DyjsapJTqQc-e7UqkE1Z5V_BOU90wc9g",
+      "width": 1200,
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109208422511533128100\">Rosslyn Coffee London Wall</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fXgb6dCaWH5lQN3ypIqD3qCPlAIsVKM76AB9T9lwmfUKha5XbTnJFdxS9ZFl-NmPug5rjKxLBEozQ0s95r54hfe490Z1C-5ieI6iK9vXSyogqCmbY7sC93HD-H3Th0njWfNJE1MSkAuJAiRvHqF0yZalDCOE0Lz1KFiI6IgWtzmUYCb6PX05Kft8lArEGygpJZjZW3TVChHJgR7dCfNi9xj04dxklvrxJ3nmrOSzgjiW2FCwrGbhMvXojq0GY1YtooL0ECDeltYFGIIDqBSVoG9zvtJRtVglNkwY6qCDdAZg",
+      "width": 1000,
+      "height": 667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109208422511533128100\">Rosslyn Coffee London Wall</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exm0iHxaHweNgI_pc87wS23QNYeN5i3W8depYJXDHukRZZQKcgK7JKodwgf3XttpBNITZnu4W_QOoMuBNPSa5GV8dmIq4O6YYDktM10bTl3VQWNs2zp2BhL_2p3jI40a76vP-JPMOcVVxTdAfpcd_DbfWsR_LgZnSwjGdyk1Qy3Vhz2Og35RnQRRWtAQ4ehhrPstPMgnOUKqYdZLtxUaNCH569dLv57Akh6teevxXEQOxTAckawOQtSx--e0KaMB4KIWTf3w9igjCXjsFNF1cUjAwhOsKJHmZajFdHQscrZep5Eh3eBThkWhfYX9IpRiPBt8Ba2-kpaueMQupAYvJY5crLSb8sPBMCNLisaw6cacip_Y13WXhN1DAOG8ra7ZfYNoR4P3iv0TWOPz_fzl-WYAly9VLiI-bQGM4mcpbgiFYU",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106844852599913969714\">Um.khalid</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ftj2tkzZaipR1cdLGJ4u21qRA-oMA3Ng1apujbgOYPZUnacYglWt1ikjojHYRlhczu695Rad1Bvg9KZehShWBedpk5v_Ic9LeDyvSoekFzDLfQGxTDN11Yn3Xh_3UOvk5YmLApQLxEh9okFURwhEDMMCMoZ8vN6H2mHWRwbTprNTw4Awwr2X0vMV2Nd8J1CrEpzPeGtLeSImlMXNBEPGKziMPcT66gaAhtAk_x-ZV4Ccr7VvK6OhDOJ_7VrmEBNBBJ9wa5B2lXSdm2rBjzXtiiuQeicPrTdx-8Ck4jJGlonzp_lZ3Ez4MgvzHzQ_FAEJZcwBUqL8FyfT8E8glsAfHqjI79ouSI-DZKtSMlwJNJUmdgRMozUXAcsMWeiUnEQjpNt9hueqj20QRBV_OnNo6Hw4-lnTacJiMMEnU24q2Aiw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117963408821019462851\">BoBo-brioche</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cAPTPkdWU0u4nAefuW98qZZD_3o8wl9_EvP-FQ9B7rQt-l_EnUVIr05-Isf5Zp-AjNvJ-KP-1W-gdHlDOc6usRs5DrTsm2sll_KZ19EgyqcGl6EsGIpns2zztqPebn7B6jOj5Fru0j4pWtBekowxn21_3aeunv-NVNYtTEJcSgnU4f4r_3ikeAUigXKwo5W3by43e5HHEIZw4v21_mlr__DYf9I-dE_tieFCCHvNF_1iYjIQvV9LQuzHrlkeLCMGXcMje8UOrQxbySeh4-eDB38uZWVU8BPLLMVYxdyM65aDQLfyoMwhSq_mzmwzuEKPMyAOyRJfPZKJfwiakw8u9JnVgnRnRojJ-e9WSQFwNvvbTtNSrRz8xfxOjkQEQ5G_MqBOd73q--JHJHWF-uKTasRQR4JxqNayeXyU8-mMZ3yBfBm1yMbTjb-emBe9e2",
+      "width": 2700,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111512438271459193876\">Brandon Pacheco</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eXsYABuNZMi4WydOOFM0Q8x_svRtWNa5Bz_qfVMNgA52U14yJzStN7-bcvje1knPPCO9FJFvKo--Aau-CAzMTCeMDsRW1Mnelf-2SMpuayFv3rn7tguiX4Z6hFMdjZfztGpAJ38pdEdbvAEW2lEizba_Vjc6JoIWbbeqVLOZjx7_2mq45rbNzZF9iLOD_IPhXKuPuN682O_-9HHnypM5HbLxj-AhKOr_FQmTDoApS0lxFm8MICOfvdH6pT-u0zEX2ZkQFvGJhxWmsL9hXuM0p5NsmnLAQrBWpIhsKPvmwyeY3O-OZ7Rt04tP5XU7nFPiIzdJDohDMBCIm1EY_ARNwR6_4YchDaMZ-PkWzq538k4GwIiEki0miaVaPrBfnEvR1Avc1lU3B5TsEGe49ScfoiQlz8Cvgfgjtci2iz8kg",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105321459872535683112\">wiesiom x</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d6HsBpwTkEeLYUYQgbDHVagr2EKy_IEiRFGA1PTHzz5wKVYUibeXZufUSyMQ0KVL6rYsDD24DSlcNCu6rM2MXZbLVlou8zBTua3_l7lx5eAJAnUP24n5l4r3u5hh6-jvWpmWLJKngnO4XsaNCE2zriXwYRBfPPjtp9bAjurH_4UoJjnaqjwct5L45bpzDhov7ALk7hpq0B62LFPFDEnwMWFmUEI57Gn46wvTPx9M-QqUCSQl22VdoG64ttBUDLTWSa--4_-wJZLitqcm53s0uQi-wDDnSu8CIq1H-uyYUeSJAttyzH4iOjUOKB2dfvraa_eaR3q3bqTENGEMaKzgMOoK7wYO9sJoekKbRqsmHLH4ZPgXWeknEzYkRadj-lLk9Aym6ktsWa5j2ZJEUCieyG15CTQi9QTpZ8nyTXJDw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117963408821019462851\">BoBo-brioche</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHQb7VmHuit8S4RolYzzXE0xVgE1XJZ3DBAFfbsrNcna8Rmv6teHHZ80fwq_ZJo1wEbVF_K6Z6dvDfG_89baAxK_8mf6TeKjd3cdfl48C-wJfWIvvKkoAxbf9qY4gLrX3ZaSu6bqxNKq0LDFVhMp1mSCzu1g5vE8P7OOBDs6rGTLtlaVgq05ygIFAOzqra2hLFNWoiwhG4Y1akFfAkI-XzI7aNKUH9bdtlK5Qfr44360ZgAgJHyDxU8rR_vif0uIlFd8_uInYJ6fO_WxhHANTVOT9x2GnDPCOLDsXYY7sq4o9i_bPIwFota-m1zZ9Q1UNn2zYAMyYgmrLiLHFkNmcXoOBGmSroOvqkqrZ50Sv3A_GsggqJQ2vINIXcFRa8ge5gb4uO5Gq2ePATnYGe6YMDAxpmHa0M52_cECNGKNdbe4t9",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104765340207011638270\">Dennis check</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cBg4DU4AobBOsU4ydrLkHb-1tl4YTR_lwXMECBK_31V7eZ5wtG4WtgCug3eA-10-e7JbHaEjyBrue7aVUXIOXTsTKvIP0nMXYsAH02btd3BWbYjuclD1r62nDmBF5o_N99vdlRVl8-8DnShuOYYpMYMrQP5XAbDRG2ZwDkPi3DRCXFF1NYTtQFFbL1pTOAMdZvcjECA4R_bpeIt-5DxqlSa9Nc453l9hkvEaJx6AlFAjwBTBzrmJtx3iGWM7bjJ7d-7Dt0SdxWJJufCCouCz7IcYtWvAHaT4fzWl54w4TEqIqpoD8Iw-oiuPpKyUTnwgV6SGpdFBUfqbcxFBIvmlBV0m09gy5-d565PSjRF-f7ryFtjZBJ4SSDKEfPQLm8ZbZM47n7psGV4LphE5vl2wTFwwBs8YaAcOdPDDV8qawD3A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108110905258149831804\">Alina Khodymchuk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cRzyPskWPrXpnjWyh6sV9hsH5z0Q1zvCoMCAOgQ9SNB68QwnovkcUmvikC1JQsj4ttVsDx3_uQF00xbXzJhbmXHbdVFUxP9y5WjI-xp84AoThZeFPoIOlkuHGRD5sdmrmMaNF-TbT5jfFbE56KmZnKMKYj1x6S0jZ3JvnZrny-HIU1FkiLM0x8R0HgYtyDTHNgmUhXSwUVXZA_ogWwHA3nCtP6N8_WizaYuH2LDptHOBS2redbaI1Kal64hK27O3X-3sIXlHzdfDxXLPiE8MihJih11v_7wp2AVovxmGi51pij_lxO1HKJNCsYzIvAuITx1SgvX3OrMnJYk8gs5-AQVU-UvaHo_DzSuhkxIhdYwfsR0uOF5uNRT14_1MytH0aRBckxgIU2coT7sC45IByQ3LW6N3PlMGzv6M0BLdrP-cvb6OWIKgi4y4SlOQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114660059518502944681\">Ira Noviani</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Pastries & custom-brewed gourmet coffee offered in a trendy, compact environment.",
+  "reviews": [
+    {
+      "author_name": "Brandon Pacheco",
+      "rating": 5,
+      "text": "One of the busiest coffee shops I’ve ever seen and even with all the chaos and having over 5 people working, they manage to give the best costumer experience.\n\nCongrats to the team for having a really good coffee with nice tones and as well having a smile at all times.\n\nThey seemed like they were having the best time even though we know how busy it is and how things can be tricky.\n\nCoffee was really good with strong flavour and I had a vegan protein ball which was tasty.\n\nOnce again congrats to the team and recommended to pass by and enjoy",
+      "time": 1759605098,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Ira Noviani",
+      "rating": 5,
+      "text": "A sign post of espresso soft serve beckoned outside the shop. Willingly I heeded its command and ordered one. The place had people going in and out and it was not hard to see why. The baristas are all female with happy energy working together. I guess if your house is a happy one, you don’t need social media for advertisement; people are drawn to it like moths to a flame. I added my order too so you can admire its beauty.",
+      "time": 1758147071,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Wassim Jeridi Gharbi",
+      "rating": 5,
+      "text": "Whenever I am in London this is my go to place for coffee.\nBoth the drinks and the sold bean are solid quality.\nUse the stamps to get one coffee free every 10 purchased.",
+      "time": 1759732613,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Joe Moore",
+      "rating": 1,
+      "text": "Found the coffee tasteless brown water and threw it away after a few sips.\n\nEach to their own I guess. The shop looks cool but £3.60 for tasteless coffee. Think Pret coffee tastes better. Ended up throwing it in the bin after a few sips and buying a coffee opposite the road at another place as didn’t want to waste my daily caffeine hit on this.",
+      "time": 1758119878,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Bianca mae",
+      "rating": 5,
+      "text": "One of the best coffees in London. Soy and cow Flat whites like they were straight from a Melbourne hipsters teat.\nAll gals behind the counter definitely made a difference!\nThey all deserve a raise for their efficient and exceptional service.\nCould do with a better line up /waiting set up as people milling about in the way of the doors was a bit chaotic.\nNot the fault of the staff though, perhaps the owners could make it a bit easier for staff and customers!\nnot really a space for sit down, more a takeaway option. Although some bench seating and outside on the forecourt.\nThanks Ladies!",
+      "time": 1757867539,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:22.732Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fRYjo4ddkgRRZq7lphil6E"
+}

@@ -1,0 +1,315 @@
+{
+  "place_id": "ChIJG9ssOq8FdkgRGTu5-ErLMaI",
+  "name": "manteca",
+  "formatted_address": "49-51 Curtain Rd, London EC2A 3PT, UK",
+  "vicinity": "49-51 Curtain Rd, London",
+  "rating": 4.4,
+  "user_ratings_total": 2929,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5240111,
+      "lng": -0.0805608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52537038029149,
+        "lng": -0.07909681970849798
+      },
+      "southwest": {
+        "lat": 51.5226724197085,
+        "lng": -0.08179478029150204
+      }
+    }
+  },
+  "lat": 51.5240111,
+  "lng": -0.0805608,
+  "formatted_phone_number": "020 7139 5172",
+  "international_phone_number": "+44 20 7139 5172",
+  "website": "http://www.mantecarestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=11687346030864055065",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Sunday: 12:00 – 3:00 PM, 5:30 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cE46CjXS3et1-npiRj6hbnpu8LipezawnhKapzCHzWWVcAGNWLzAviZuoobBgkRyPAhW4cdD3KDHd6apRF_GDn-nWk5BL9zjEGhplG9Ac0V-OQgU5J8LbyMO5wZIf0lDiuEnRfEwbbJ18416W0JpG4kfp2HSARG-iCdgdJntc-q9d_RtNDpH4pyX8k52UeDhJnam7YYW15WvH68-apJJDQIFUKy5EXhiVzT0vgPIL42vRu5p5ioscHaKxEoPjyBwheCOyW63BRcvXnKekvLjO1vzGNvCYchy7vbceZVmWVPQ",
+      "width": 1066,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107851380762543681681\">manteca</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHwx8aep3bJh9DVNdNyiuhZTfbLllqVeLQjhm3RIqaq1AW43AGZ-mC7QEOFBkuq5S4FjJIDww-HG54L53sTWAUNXEvrW6g_3H2Pdc9vc1-Pd09OpfNzGr8pnsi3YgO0lEZzxKlRim3NwSvPibns1VNAbotZ4s9xiX6Ua8MGe0Hh14LzzVKCUxy0a_r-sG-bXg5FBAC-5swb1sZZWvZTiSOE5bl9K6ISQSc8FP-sSYhjMxXWS3GWa8K_-iEkXsZdKsGeISqwhWUfz4wgCh29r3B8MCZ9FBOZS9H3szNhscH6g",
+      "width": 750,
+      "height": 422,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107851380762543681681\">manteca</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fLJTFnRM3_kjHHzr3gUUjHHSLa5yF4VRmb0Kc0clbU-AjJvVFbWjuRe2ndXdch3tBWgISFcovXdAeAZ4JuX8Jtv3KO-JTGcFDw2e2thwzdjT5SN4FUgo4xwzfJ9-Ha8A-gZf4Rg5YqIpNb06BnMTJIhliMlK6kTRIMeqhyE_SnfZNwQprp93hgwLLfQemiG2rAk26CqrgkkvWPlVYufDjHSr7mVIuhppatlxl-E6EZXw7rW1s80a1ImQWSqEeYsTdoVgVuHo_u9yeYZrrtfPJKZh9DFV2UPfOh0YLv6zEceGErnIFTErQwnAFFpdbIbv59EiCYNHxrQqkh_ju60M6NCbHPSQisIeoPvxN4l3j3IEqMkWYuIuZnNbBs9U76meN8lcm5-FL7RZZEvEcjK00QFheJj3nR8hcuhD31vGRc6ALxZKo4hzaaMw99zQ",
+      "width": 1290,
+      "height": 763,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111488755909443711394\">Litianqi Fan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0MIoMQmh3AJpRX3IeSaxcYVtC3TpbkqV4m1EkYmfM3uAQkfzoGOEaXw_7-OteOE1OYi2un8WiendLqK3MjFDskddyh1n7YBU436cv59HYqbVl7RIZ8o2p4I3F_LbRYDZtQ-12wBXTWaS70dd0PnS7RGlSWIKQIKoM0zYKQzL70q46VMqfuIqJsU5r2Fd7rRXdC82HnZGNKj7z1vEWSCP_6JsjC6MuXUo7RYhVxL8Ipm54uYMH3iNE44zjq-3kbVxPUWUX7bXTW-iXoxene1qtowQHcRIllEteC2h_Z-whRfRX20HWdcp3-MfBwfPpxEwWU-8GeLX3Bou7EJ6gtCyYT076Q_9cfmIZywrLTHwSFTJvBQ-vr97mtTD7qjKhFyMQ9CAeI5rnEsHWUKPNgevd369MiMFwe5Jp5KVQEXhkXqmw",
+      "width": 4080,
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107350528269575881254\">Vincent Teh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2emCYu0op7uTTf4sa3DF5z4mPeIkoT3OP7pvatBV6tQwLwaNaBIw8MI8xpiJcV-9akMCJEG-COd2LWsqAlQl41irgtt2kEq-v6fSMS2AuFfuXUN-p00w3zngLmco749Hrq3X_w8KMIow-FfWiwvdOigdfETy1sMtrYsctF4MpzYHCAGEtBXoFJ5sbXfXTShWsHaInP-GyPGKslBraDcMgWixjFONGIr4cAfA38V3zPqgBVjBr57y4V27WorA4fmR4Gl7P7mV4h797snzKa-TZsS0nXVHxmGfoIa4H3A9yjkqyusH4uk26XjGy3z1oBuQk4W8ZoIxxrPmEth52n2kZp2f8Pv0mur8BO08npbp_DyRN9Ievjm34qqYVRtNFR9y-s1WVNLlOVyD5aYUA-S7qQyzLKtitfP5jygCURff42Gtqwp",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115865291632831859372\">Minh Anh Su</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ePaMlFcVGlj1baTsTaI1lVhRS8q7FA_WLZSP7Ikoaxsn83TfrLAPDEfkz3CTdTpJrKi6nIzwP0Hcc6zEBbk9V1-SyeW3bXMzH1IXsxTx1Awi2D_tR1tvsj4xYpA4efQ2kpSXHJtRkwp8tWzjgyquYnLlqD10ueHO7wBwFcOfMdRqs6ejPdIFRTGIBgr1oRIbUrro_QRpTL6eWfWnbgXqjesB70FKVSJGUhf_qPj1fz9L9VFItoAqeZpn_xZbrop9s1hkhMvGIPRko5rtE7-5SvO3-62EsxIRdio3lKnH3SOS8__kfuROIOCUtpNKQhMYRj_yLYgZ_NUSuqEwCo9Sol5BPXCIKOzqvmxWEtRi29AvuWVas2yI3sLORsWvq1qa2JH-mdHEG2ukLqBcCBZjZl-1fZPA7BEAMJjIuSmrCiAftCJfS_VtXMR74rEBBT",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100350525845762044547\">Michael Nam</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dZXX7OLdOAz1HgYyl4uikc3yxCNnGSsBWm2NehFzh8AUEWX-orAcBUa_8y7sBS8rr_5Vc9vKuocRMOV4b7YLb5d6JZ5L01cotb5URaO7sN7HnZKmN1kch6mZ7-c5z8QJ9bL8P7G6sG9YzxjxKh34KrZnTWHdTFUM20cyEc-JSxyAndFSYb6bmtvRL2Kzr6lxnGHdbYnAIzT1_59CbMaqXdvD-N7u1sK-fAG1y_43UutPqUi0UvZ2NcbLKLqdNwzx8QIDXossNyiniJ0-KAfCGc5mTu6NXq1Vew4xZSclq5drgtL-c017Ta8kHHVsQgfKFr3EVkRUHGJLC-uEqXx5KEzSfEj0Ew2Qw5z6sCXjIzgPUDzjHkICyt7zOIAcpmA27HQRj3_3SVBtXqJ5WobOswgC8ezBtPf967hH3BUtozUf4",
+      "width": 2177,
+      "height": 2476,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104980680485531543558\">Andrew Jones</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvMZGf9yiitaOqcF5Hb-428zvKFMFt0kUFCLWC5O1c_QtI_mDLPiwWgnnRizKkEc-32Vrwj7KXZYtr_XmZcRIGcFfZqWQqXuEeksbgVzqFQkiUZd3_31q1jqPwMks9XoXMI6Ort2JHkKgfuyy-yu-8uJw4rG1sDtf-MsMXjIdXh9jQJ189IwG5C3y6JaSAVgIfmdGU0k8u8UUBJYwBsOHsvuklRDP4fFYreI14HA0BvGsD-J78-Ds-32P-hIJZgAPpzd3B13aAPHsQvVDRjnfpdf3zwN9w6uWrBKo-5bNB8JKPq-nJohCzcEPeI8dRu3r9Cj_F6pgTiaxH_Hp-OokqCNVhbX7wKGhvRDM4DUOn1N17tDnsIkcfiCRwqBF9xsOhhsUZry8Ujr8rNjlK6L_Stb14mxoJm_btW0TlXAeXvNTE",
+      "width": 1440,
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115895147116375532109\">Peter Ross</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cVAbL2U0CnJVBV20M7oL9MDpL7qeT83P2oQZjLa8STcJAGoCh73m9FHimNewBY5z-yzFQOyy67qeZGIZYHxrTfqr_mNzNB1ivWQ5hOZiujZPXvwwPrX6ictnrajuDJXgfzv7YCLWq2dFFViqic2mStYGGshcGVZNhQ004hYqJcwt7aMF8xBoZm8gbQlSLNaYdeR_VWEjqhZztYVbyWzeXm26d-M9oUscLgw_0BPYxlt86UcuP0GMFVC6xvgXpUmd3vgfbooy5tQ15qVl15PpkVmmTTvvn08wzWIQkmVM9xQvyR6aNPxkqvJmSbFoyo-Inu078ZjfgGu8e50kuHJeckbwDNbyUHUl79ire0aSHSt-MZ01ZOGg-l2W85upZNvdAuahUXBdOVSFUIu4d_u6f_URTYufRvJS_TgmSEvzdwoBM",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115445005635537764464\">Ki Kitiya</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPPYQddlrwgXnoV2fKyMZ_zLUwh7pcRnFheNALb-58qzjOGn4TgnN2fNmXAhN9rqlAMMuQJgLu5lSrSWDE4wayJKLrUZ8W32U7aGBeRBRH67769oQHe2T_QJcjmpgn6Oux8kPmYfq9uK1JaFjGzbuQMHc0GbTOmBaxLs-1P_io84M2lNbh6avgBp66NuHd9S0eyLymoka481_lomrfQ1mSkAPpbwYogS8-GSRqti3F24CAhWzAAx0emDCTCDHnDl9xvDIi7TIDkKD56613x0khoAv29uLVX6qkeoUj88Sbgd3tZbHGaoSIhqBOKAQ1hM5BZZDNedUG2bshIeaRVzTeWHsqm212SuwuMKe_n2dLfilvCFrc34wHb_ZXEBLcoUISdxVLFdRrzIG58yPrzAgBbBkJ9g0KWMT6kxLrZxelOnGt69HBr2CM_eubOQ",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109221069773024107703\">Richard Mangual</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Fire-cooked nose-to-tail cuts of meat meet hand-rolled pasta in this simple, Italian-inspired diner.",
+  "reviews": [
+    {
+      "author_name": "hannah feldman",
+      "rating": 5,
+      "text": "- Incredible. Definitely coming back. Pasta was absolutely perfectly cooked to an al dente that was so satisfying. The kale sauce was the best (and cheapest). It paired so well with the white wine the lovely waitress suggested. Crab bucatini was also banging but wouldn’t get beef nduja again. The focaccia was so fluffy and great evoo. Ricotta was super lemony-so interesting. Lovely staff, lovely ambience, amazing pasta. Even tho pricey & smallish portions I’d say quality is so good it’s good value",
+      "time": 1760175466,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Tim Hewitt",
+      "rating": 4,
+      "text": "Manteca is a real gem of London showcasing refined Italian cuisine and extensive wine list. The menu is meant to be shared, so bring your friends, grab some wine and enjoy. The flavors are excellent and you will walk away from the meal feeling fulfilled. There are subtle technique changes that could be made to the dishes that would further elevate their offerings, but the flavor is what matters and Manteca does not disappoint in that department.",
+      "time": 1759449693,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Litianqi Fan",
+      "rating": 5,
+      "text": "Lovely restaurant. We ordered coppa, beef shin fritti, and focaccia as entrees. Ewe chop and fazzoletti as main dish, finished with a chocolate tart. Everything was well cooked and taste great. Highly recommended!",
+      "time": 1760281471,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Asami Oba",
+      "rating": 5,
+      "text": "The atmosphere was so lovely, and we truly appreciated that you paid attention to the note we left when we made our reservation (we wanted a seat closer to the window). We enjoyed every dish we ordered, especially the fried olives, kale sauce pasta, and the duck. We'll definitely be back. Thank you so much! :)",
+      "time": 1755589094,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Jackeline Ascarrunz (Jackie)",
+      "rating": 5,
+      "text": "I had an amazing experience! I enjoyed the crab cacio e pepe (they offer gluten-free pasta), and the steak was perfectly cooked and delicious. The wine selection, including options by the glass, is wonderful. The attention to detail was impeccable. I look forward to coming back soon! I absolutely loved it!",
+      "time": 1759572485,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:23.932Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9ssOq8FdkgRGTu5-ErLMaI"
+}

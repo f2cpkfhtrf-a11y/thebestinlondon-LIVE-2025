@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJN16p1UUbdkgRTuyXr3hwQDU",
+  "name": "Omotesando Koffee",
+  "formatted_address": "8 Newman St, London W1T 1FB, UK",
+  "vicinity": "8 Newman St, London",
+  "rating": 4.5,
+  "user_ratings_total": 1615,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51658399999999,
+      "lng": -0.1348038
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5179636802915,
+        "lng": -0.133543969708498
+      },
+      "southwest": {
+        "lat": 51.5152657197085,
+        "lng": -0.136241930291502
+      }
+    }
+  },
+  "lat": 51.51658399999999,
+  "lng": -0.1348038,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://ooo-koffee.com/",
+  "url": "https://maps.google.com/?cid=3837190546164018254",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fHVv-nDLhTa5j3LpEMIHuxbArnx6UHHPAGKkWT2NO2cce0a-WD2VRlXAyDYjU36n8ZaBtwulcmaS_4whnezRfMULW-5EsUKIm5SgFoY9vsa4jXhIE8yMcfouOWxuFn3ND2IHDL2yaX2lWrR2Z70kFstC7AIu5dpfxjtJrwr-RmdMyaVPTHc_ugb6V4iHexQmktHRWkjEJROlWwU2rslmAem90NcBMU1dZCJTPyQ9Oy046UNqFnVD524MRBGga2xb4eMb88tDhtIjplX0K4ySnviF1Q309uG2ic5qYcBm6CJyiYwHUhNFZwk6WvjiRXdMO0jdd4t6DafUr90fETzkthB9dxOf8RjJ5mYw3W5wLeAtWl1ZG6oCFiCF_bbkTng0-MpVW7nQw6KB8BYZJj2JTanxabOVBCMKlJ1WIzgNtgvsFL",
+      "width": 4366,
+      "height": 3276,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102937272449787535767\">Mikey East (8bit_ginge)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cluBcfZVBVXHYXqbYEgDmbhfmVoGPrl67l2ym-x0gS0lVh7H1fR2zoKZiIMH2fPI5oMxS8DeZ5pZmy3BqDGOAklxFarIuCO_boWUtoGX6G4CGo_irL4qDem-FyzVvMLTg7VI9y8DC5-XQQEDPMTrFz2axlDpNn9Zdfks6Xah79_R8g5t2fDHftxjDn5MIIz9s9s7jGanSuqfMhm6BkpwV0zvlJTa5z-Z1Y5eKw3QNpTjaOin6KhOnUSAAohKC2uhvo4sJs-E1X7V6O7r1EoX-jvgD7q4FNr98VHBOXsUULBEqeSrgUi6cS0PU7pAofTAUwlztzarahT8eZBVxov3P7sToMQKTM9mgFo99LbUEwhdHiJBMP3VYOp7pt0ig6yiQqxsr12pwVcz_XJpC3kogrNbNoe8BVv7SCv71LoEJ6Ow",
+      "width": 4608,
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114045183288571203322\">Simon Dahla</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJuIgpYXVyc4PKgweg7cfcUagka_5OjwpmRdY2FrHs7V0VNvhRqtV5sa1yr1sezlax6f3XWtmvjVgjZziaQaeZWjW0RYAGFzglfhA_Ed1X1BRNZcc5mfCqKw_48q1JCXxLrJ0upZsiCy8J8cN_TIkOkI7HbXcmQy4j6HEfb1kErxT2ze33c5tanAYRfg8gDUa0I9xeOf6axEg4sSL2wBNv9Au8DgJmZsdK2IG06obKN5HKFYHJHTMumU72MM_gvvEvfJJ8Obw49EUUT84I3mEdsiLQCEBopKy7FxOwcHroO3RZA6IB7PjUvhTac1jCtBEP3ZPUr3ckJAJK0ueu1Opz_Wf8rKiG6kV9OThxHavSIz4yYqJgUsN_7rCoevAQ9XV-B6GErBAenhrXrVeGesvAlkRTXB6hb1HOui8r1E1zg-8pcvAJLy1JZudqRSnh",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114355522075570960631\">Gregory Borsch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dlCPXTP875bhx5CAaJDbI_Y79SgPAGt5cIo8jNPt-di60moKSb4oZfdrSWXPmWrh4WzAEU42ZDH2XNh7JslOPFBinZWRT45Ee2v5vnCbVeFTfuMurIZ0OKg0V05geqltrjGgzUroygXBESQmnPeQZu-Ipn_bKz8z_XmPL6o97y8zaIwlHzLFIg8STD4MUN32JL9DSS4CvPL58yhfXsPlTIjQq8ccYf7nlojnTMnQXEelclDrZi3arAYvhIMw7qYP9o0uv4TE69DqinT7rZjloLfUoC558KIXQSspmzyj8Woikdhuvj6BUQz213Ho_52tDOimbMoBI-Aaq-gNCSzCfYX0LefsejA12SAfcQbgc9l14Y-NohEMbPTnaH4rnlriyIzFTNFlVVU32jk0id3W9VP2KRpfjNvdUI_VrcwAv--A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111194274262614042401\">adeeb alabbasi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxhm8yLN-gc9uRBJZCbt-t7WHbT_F6nLUzk3r1lXhphBiZsCowPRFE2_QA5wiFXeG-a3FZvCdfLYATWKE0xfd3XiWKByu_wNH3Ow66mbihTFcO6EJucIGx2t9J-vfF84YLkJte1OSWC06KEC0GQ6tEVKHQWlHrNpc6WYo-riCKRr4R7SZ_C_zScjjRoAsIL9zsyBRBJ3Ma8O8n-znTgARZTYUrLs_41alVBPrtzP81k5Wt71uVEKVvFRIwEc6aKC4Vz6eVdv_s-SgH1ZwT7VgTCN1JBJ8_O3c2z5ovvmEGsR_jVsQwEwEGP0Oo3aUx9QiH8BoJjR4aKuixNKvNJ88gic6bQlGEl8nYuX9aI8SI96GQatdfLnqadPaefUWQux0Q6oFiEv8Li2uCnp5c_EdfCU2kE5wP_PCTu12qzsqrHGWMo-HJbrbJde2gjzd0",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103812415362764423518\">Adelya the Explorer</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f_swwAuWv0QTe3947u5IhbNqafVDPALRxn8dGwpEJvFxTyVDbhpmfEkMWPz5hUo1xKT1wnZ6sVComPwNa2vUAKWJdSAjjC2HV_3fbJbyDll57JusEsIJPNywnb9dbLCDYMNEZNS34hMA6lG_j0OvRwjfpU0GvH9XES5-halZLXSdRtIlwA3iXUTwK9Oc5-JrfEgx5TAx6GkG_MwMptSZYn9O68EsCNikdyJuRQ1irFEnX05usbkI33YXQbLsUNMxMYU6T0x04_MH_brRhsE5QGWRizKj3nb4JASZ5d3DGXLxR4VfnGy6i-6J98H8N_ckwsccrpz-erDm7IaE8zR6N4G3cRhzCAFxGDYUlRdQ8zp6AB6DByB-9dR1qL4W4TL96h-XjDtFjvcKA1QCi8bFZw3c6AEN5wZCqRrAZMH2SLPz_0JuqTmFSQ6NGbjbvu",
+      "width": 3840,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103519655975029093996\">Gordon Laing</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cNkRxNMtcM_d4DET7AazcHJYYMwa3XHQJhVF1spZP6KBhW7PCM_8QXK2aVnMdOoSm1zCFb4kb3oIoALy7iuMXPldKimt4fOg_Wg6RJHXzHumSW9fyItWCe5Oy-4VW7GJATm8-JfdFy-CV7hj1wZ6qQgaC03h7gFPUZFhHQhGqqL-MNZEfMbMvNaMzmMcbAaz94PQrBoIrfDGA-mH1h7VjiJ8bJXDuF0TsPffGBSNTESU-PNFQnj2M--OmQxEuGRE4D_lmlWODKTIDlPtrJ1zRKDTVeC1wT62fv4IA5q2241p3WYsmR7KupHlnK9JbRp6ik6Le7OqG9ursgr823ORodB8GmG6tCvDBRXbqzs8OwJcuRIZxX_xW0BH-psQT5AxRobnnogx2Lzd2UdOwL5n-2_y5_v5cbRtKTcxXDqI-YUrVg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104984963072718499778\">Camille Ho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eH6Pihoev_TRfDsis-3-4AM3PpnvzoVx3JTb5M6x6dgd_nRMquB_u4RRLWxQFtKow4U7_xLb2DCQAIaCDHdaHL0fLdppcXkItXxks3lawjm10H199xZkDDpgJT3CFqeT2okGMA5TpU1T31WUZHVfhCCTUF4tDy-ZmgcJc65Opkqf_bqBm5sYQIzPDWkI2wtwzxp7xaipMP5nV86GRtz3PmRQykZHEGFEEaGDkxr54QmQuByRjKGloyR7x6qapbYsEasPD4Wm9ZBcRdwYlWJ2eeQhyAt8YuJoKV3O3Gv9hechf_S5FQMzM1a1sGXdM0iphD4bDDpQUVyaP-tohWFqFQsRud7tU7uFHHMlxhu5RT5X3uwlNF9aMtTGjmJQOdOK3bfI7gu_QdnABfYfLuYy90EZZDQrLamWqyLP9xcnKZEbHCiT0IVmjP2piv87FS",
+      "width": 3510,
+      "height": 4644,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106525369420391701960\">K K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ficqj2PCCpUFAusoWOltKnolYt7M2H0yul2H9T8tdJz3qTXubD31WboBlPksiB9wkC9qdJqV7xYWE5bZsRMBS9vI1HRJalKgRXOsj7DO_k635CTAyoMBRwAi77K6u64hpsRwnZENYz6ry67Ppm61qBnWPgZNxw7zlF8gBpPr7jElyerKv4tl-1BkJ-z2w9968NvyuTWVAwHbnV6R4I8J_IA06Bx53XKy4Hu9IB3e2MDhG9enBc5bY15bANDc9Ux9ihktOx_SgV5pPOQhUAfUyDDP5M7QLTfwmMCRFbFZ12IjhtpcTQM0UIxUUxuGS9mVEDgn3_LO3uMg-sCLHCv63bgcMoE-gzkJ7HInwar0sKC1Lt1wKP5M7iNB3Rh4TnJDaiiP1bgkTY3hYiPmgRFhI0L5zfR9w8mnki0Gh3ZvNGhg",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101666429064367322945\">chienfei._.c</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cG_R4cy-jkULfJ8Wsmz2XcA0Lcn35BKtAKS4zJPjawdfIS7iWO4SspVkvI0lCMffC9Ydw-zveueous_2ofzVm1M6_J9QRyuzYQwud3LgIeCkK9qsUJw4dI50PILO8o83KqP4pwP_VCTJy_F9kyzHppy9BNgJvoHmCWk9LvqixQWuC3NBsNJgY0uxpdKPn6zg-2UQboghEbxcmHwPI_CT1Ln7T7PSWlTA4-wqEtt-4SAYauU82Cpho5SPhijrL9MIn-d-_iP4VrmgkZU6w41bDMb3ePiILTjC04GxbFFmupnPuLrWRXxFf2kTGY9p3jkQL8uLCE0TZjI64w4-4fi_pcEfL7rmip-J61OGQxGNkETTHBbXoFSVLOQuplgib2fkaQc4xEXgvXNqIt19gF7Q9aIJDHlqpHu0tieLF_s6Q",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112165155127209829049\">lina aprilhyna</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Boutique coffee chain across SouthEast Asia, light wood interior details, & Japanese-style design.",
+  "reviews": [
+    {
+      "author_name": "Daniel So",
+      "rating": 4,
+      "text": "Better to study the menu online before, because you can only see the menu until you reach the till. Quiet, in favour of the wood interior, although the barista crazy busy on making coffee and super speedy. Coffee normal, and sit in experience is recommended. May need to wait for the seats.",
+      "time": 1756133645,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Rosi Petkova",
+      "rating": 4,
+      "text": "Lovely little coffee shop with a sleek, minimalistic vibe. Great location and ideal for grabbing a quality drink on the go. I met there with friends before heading to an event and we enjoyed our drinks inside. The drinks are definitely the highlight – my hot chocolate was rich and full of flavour (though I do wish it came in a larger mug!), and my partner’s mocha was excellent.\n\nThe staff were friendly and attentive, which really added to the experience. That said, seating is a bit limited and not the most comfortable, and it can feel quite cramped when it gets busy. Also worth noting there’s no customer toilet. Still, for the quality of the drinks and the overall vibe, it’s definitely worth a visit.",
+      "time": 1746978174,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "hannah jones",
+      "rating": 4,
+      "text": "I usually pick up a matcha to go and the taste is always strong and it’s clearly made well. Very cool spot but often can get incredibly busy and is a bit cramped. Service varies but it’s also a morning coffee pick up, so hard to expect much when churning out coffees. The square Japanese style little treats are really good.",
+      "time": 1758971065,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Abdulaziz",
+      "rating": 3,
+      "text": "Decent coffee place\n\nSmall and no tables . I got a cortado, which was ok. it was quite busy inside. Coffee is a bit on the pricier side. They only have one option of sweet\nStaff could be improved and coffee",
+      "time": 1757719192,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Explorer O",
+      "rating": 5,
+      "text": "🤩This small, stylish coffee shop offers a cozy atmosphere with a sleek, minimalistic design—perfect for grabbing a high-quality drink or catching up with a friend.\n👍The standout here is undeniably the hot matcha latte, which is crafted with noticeable care and precision. Smooth, rich, and perfectly balanced, it’s a clear sign that the shop uses high-grade matcha powder, making it one of the best matcha lattes around for true matcha lovers.\n\n🙁The staff are just fine,\n👎👎👎They had so dirty aprons that I immediately wanted to see the manager and say it to him/her. I just was in shock where these staff looks and what is in their minds, that they don’t see it and can’t see their colleagues too... It doesn’t add the welcoming vibe at all, though the space itself is quite compact with 👎😥limited and not particularly comfortable seating. It can get crowded, and it’s important to note there’s no customer restroom🤯😱.\nStill, the overall drink quality more than makes up for the small drawbacks. Whether you're a matcha enthusiast or just looking for a well-made beverage, or a 👍coffee which is definitely is very good es well, this spot is definitely worth a visit. 👍It's a great place for a short break, a quick catch-up, or simply enjoying a perfectly made hot drink.\nI definitely come back here to try something else and want to see what matcha powder they use.\n🤯But I definitely know that there is NO washroom\nIf the manager or someone from this place will read my review, please write me what matcha powder you use🙏 It was the best I ever tried👍😜\n👍👍👍🤗I definitely recommend this place",
+      "time": 1752429551,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:21.511Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN16p1UUbdkgRTuyXr3hwQDU"
+}

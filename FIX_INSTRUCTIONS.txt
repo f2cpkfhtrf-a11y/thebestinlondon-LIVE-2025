@@ -1,0 +1,44 @@
+# ============================================================================
+# MANUAL COMMANDS TO FIX THE MISSING VENUES.JSON ISSUE
+# ============================================================================
+#
+# Your site shows "0 restaurants" because public/venues.json is missing from GitHub!
+#
+# SOLUTION: Run these 4 commands in your Terminal
+# ============================================================================
+
+# 1. Navigate to your project folder
+cd /Users/htanweer/Desktop/thebestinlondon
+
+# 2. Add the venues.json file to git
+git add public/venues.json
+
+# 3. Commit the change
+git commit -m "Add venues.json data file to public folder"
+
+# 4. Push to GitHub (this triggers automatic Vercel deployment!)
+git push origin main
+
+
+# ============================================================================
+# OR USE THE AUTOMATED SCRIPT:
+# ============================================================================
+
+bash FIX_VENUES_NOW.sh
+
+
+# ============================================================================
+# WHAT HAPPENS AFTER YOU RUN THESE COMMANDS:
+# ============================================================================
+#
+# ✅ venues.json gets uploaded to GitHub (in the public/ folder)
+# ✅ Vercel detects the change automatically (30 seconds)
+# ✅ Vercel rebuilds your site with the data file (2-3 minutes)
+# ✅ Your site goes live with ALL restaurants!
+#
+# CHECK YOUR SITE IN 3 MINUTES:
+# https://thebestinlondon-live-2025.vercel.app/halal-restaurants-london
+#
+# You should see 40+ halal restaurants with photos, ratings, etc!
+#
+# ============================================================================

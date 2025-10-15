@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJvQutyiMbdkgRH9iuZGcbIvY",
+  "name": "Plaza Khao Gaeng",
+  "formatted_address": "103-105 New Oxford St, London WC1A 1DB, UK",
+  "vicinity": "103-105 New Oxford St, London",
+  "rating": 4.7,
+  "user_ratings_total": 3201,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.516275,
+      "lng": -0.1292201
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51755893029149,
+        "lng": -0.127639719708498
+      },
+      "southwest": {
+        "lat": 51.51486096970849,
+        "lng": -0.130337680291502
+      }
+    }
+  },
+  "lat": 51.516275,
+  "lng": -0.1292201,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://plazakhaogaeng.com/",
+  "url": "https://maps.google.com/?cid=17735768413423196191",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 8:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d-dQL-onQstWz-j0u80Nq27ph5hAXg-N47wlTJe7XEWiGlZFYz_YJssbLXgNWumIWBZ72bFy7oV3bfQOokGhw_C6K0V9CDd_nKuoyp-FGofJlK3HzhZ3E4kK-SUbzwlOUFnbSq8280LRzVxeSKedSGBxoBc5lBVI57rexmloKOagu8GqHYHTZvre787sOGOWWYYBX1-xl7mYlIpltCd9Q7YVUnZVwwLhHVAmxLeEDHogAHmVQDyHGFAk0AUlTkSQYS7_xk8A1LRcunY-0OnD8jZfPSZXEyes--ibM_InchG9RJHBXJIQFdmhLQBeK2vfQe5CHQmoHBiT2UGkcU7nrI0s51VVCoQLNYuIdzfxqoFUaXmF9nak0zHM-UIsQX5gR--RfuYIkmM_CcFy8GoUoejywN6cy6M6CrNN_t_JEWfXA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112580470060019163041\">Lulu M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fH8bf7mhbM8TTCpO0ZCgufLG8EIRXWHlZlFLFeRZpKOOO6zUWmGt6elOekqcVq5gkgNke3XGCL_urRCGfh0B6yabUwuiGc2Dlpp3A66Y05nd4nU4dicD1hA4HHMbVibBdNp2Ltg-lPJKBbL71H4zgBAx3xBW4FvHhdPN_XE69HwzqlxFEunPoZKsJLGA1-kAVTnept2hEj5_009ByONPFgq7EKDVk5cCGI-HwnQ5QdB-sAq18LKHWVol8Xz__4HPEIh90bfZXq3OmuyJyqBtMxYD1MhvUR3WcVM1HtzDuSAQ",
+      "width": 1080,
+      "height": 746,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117988078175178234275\">Plaza Khao Gaeng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cB6_gCW_ke381l45Rlb8FK6WxUwRTvsx1rpHC8AJkjNo7aJhROvs2A3PomhqnOsRfZ87tqAJDxEYaKJrlPrTxUyXQWzK7R0j0eTN2KdxUEkO2LQ1f4THZ8nCHbCA0EUPbvZmrkeFREfg_ALyzZ00Z6IkO_cNXkc46jtZiIoM4H7QOTXCTs9O9S2ZwAczqW2BxJoNHQr7294OlwYJYDcX-5Aa-RxoYrNuw2e_LnQp_lgpqFJy3c8HHdBzlr9v9WxUDoIrkRH2ijVSI3uEXXgsDvZ4zG_j4ZRRvrEGNDN7NrOdlW_HPgve3ia9XziLCdYI5lhmrkZfQjwFrZcuXnVOQatOLu4QufY60QNjBy8BLiVadKpoio81ijQQCFZj24pr1UC27ECLg17GYYi4kNh56JdfqoKJIbIKBFyUplclEVmrNAHjuCSvMS4ektkviF",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111242105599291354727\">Keshia Kon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cBbGaG9xlIueGE6l7Hjd4MN-ioZqDsLnCSk5gi-rkXVvMcX31UdJWPwPQ8cZd8UWl-q4hVKdUmBqoLfqKRRoH51rFqpY_akBRFsgs1Qc3TPSYcMNoMed329zNU9fBKS8ivL68SQ_ZpIJDafYgFW50J4QryUIiKfXXT9incGuwtKvL86SU9FTLWWaVmREX_aogBCJHIowUw0ZiuTNBgBc-S_Co8EM0WwkyF_HZAF5TNoMs5viXQICcytiSkuq4mtUMbVq9jrr59ZIpWOiTX38QvWF2T10NvpWH3FzI9zyAgmXhItj0u8Ew7CA6Z9SAdipIe5ly9VSMF5i9aQHmjrv3TcuAUrp0eprqGD_TbZT54Gu-Xx0ieHz8BkiCYK1Qxy1Nwe2EKkHBeL0G-ylXbEk8WHvMmx3J4L9wwtg_UtZ1_Phq2",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104787080651366165700\">Sherman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cT8rWOMp81ozbreaqQSAsjuWcEyTpdfngRvtpSH8s48vJ7PsFH6jQ3fXdaKG0DC_YgKrUn4psYJA68Hgd81StVtk5UxBa__ZVny1VK4BIsDAmItfQLBGjWWo-uwYCudUETZI1Dur6AlnkWVbpxUc_bVzDnBOHtwLbmyMycHRGZ8LT9d1_1ZkEcww3NO8xjBeEWYzLc8kVaQbF3lBY9xgDjUfrrqvFj50ZSkTHrhtZTHVL4TcLPCEafBILf84iKG_CdHyfoqsAEkF1aoHdHuljxlJ8J5o2Q908OBVlkwEzJu8PkB8bAXCR8wSxWCmfmSakR_9f1EJfnajPDHH6DcJXFa6LT6QBnugp1KLsM_aP4komU7ta_YK0Mfrl4MScPlBqgoLWQRfVCZuK4UxePwsuoPAj-wV5eKBrHgRfIgEijl9pz1ojNtA98mxLCTzG4",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113552176436252683259\">Asanga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dDCg_3AOUM0ZAEzbWztpz_d44Wg3uooo7fPbbedrcIRiJtVzbzrHrTxA9qf3M3-IEY3_wJgFNpUhLeA_bezT51XfXCBQ4mua2peC35eS_8MfA3DplR0mZ-K7BRaqL9vK4EwFUqjM-gBaThFUeE9fLpvmDoSOlb37f5XtbOrBZrbeYlmo0T8FP5boWL-SCqWXCbwUwT4LBIz_XLQKW7mhK3dZJ0VL6kOPe7H0msPJV2EZ59IPFaqCUGHlQf56Q8XuvCXLEsAWsHoY_BkTm-0Nyh9a1NPfrAkf8JineXMm_5GtAGRN5qlZmsXCfAlBOPL8j4sU7QUmBVgjvtx9X07ZaPkel53ubi7dWAQ36l3PYqL_fLBlulQ0McctUA0P7zYZQtc4FZjNo33JTKW0pP6WauZ2dQXx_MdMEwmWYUPXeBBpioAodHclOt9pq0zTyt",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105183437402499292082\">Janice</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exrloMyvQ8UM_fk5EzPt2zs1Yf0BbL1bn6iBuoahwBht5VlHTvMOeVOxeDbjulTpHZy_P3aOY5bdHPBz2GqjvN-7s22H_jVQAEItO_wy1NEm3nynxMjZJw9k1h9m5Fsp9VwvXWzpYzDBrM764BLiNnv3kDWp_bi2RkbP04htcgaf9NqASxlRTAPHyiGKw-vm1XwRjT-8y5xqaGKh9jqzlb7SzR-9TCVJ49Xoq30UA9cP8NBaIMZD66hSx3-96_BHqMjazpyTb0u34ouj7GEmyPbULp7y8KykN0iSZs88KujQ",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117988078175178234275\">Plaza Khao Gaeng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eazS0Vh128CGUy3TYxVJCdGX_bVXH_q6H_Dvqh4SrZ73C5mPDi8A_i5hAWpX72VWUGuMsOy-negN0Lp87xl00-FzUJHHGsoIV_sG3Pigy0Zuc5760B2r51vr452Hb64DBWq7ngXSYtxoxVJMbSOBAvc4EeDW1Xv523ZA4S2ZSIyH9gEsbs0qSz5aDb4oQEZUpDAQ0WcShqdwhjv04wR0oV9iFWct2Tml-PnVIDEe1k0HZFgV0nhy5ftBlHPdxkvWxnomQAM9SPSI8a96a0F22LwbU-uyxV1nbttXna9eDr9w",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117988078175178234275\">Plaza Khao Gaeng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ehuwOXXcpiY8wROeUYGb-v0egqV_WaEA-hoQsN5MJSD2VVFooY5xLti0UAdCCDdooPqnOW14YTxRyEBbuNEwQLXP1mYx8qNxLsvFwSRz9kSDSyVuS8S5t-hX_n6FPgoELq5gK5c2n8l54KtmmW-UsCJadEj459fstgZizm9m_CAgh8fdGtPkCDraP7xl3dh6B12keVMHI7PqAPd2sJVvnEOeMDgwO7GBPBEGylimK6dVHaoMBKcwyej-nfwak7aYw0Q4BO4qjlojwPHXYUEXp3L3315eq8fztI00Db98bJ2r8f1uyhjtFipB1k3He149mS6nu6t_mQ8JiQwL1lozWVzhw-smRafx7CotICh6r7BXTA2yZY2ADuPAZNKUTMu5hsAmY6WYxpbDreXR-M3R0T-kpfEuBpMb7-0zCJBIeB-jXv72iykTAHLzU6aJGQ",
+      "width": 1179,
+      "height": 1492,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117067688537958368601\">Jiwon Kokomong Kim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBbpFUPjLWCVbVqzdF2ObbQi6C9KzOg22KN_yLhakd5E-HfIE_fz76EFgWAx2FL1jlZhAQhGvh_4ZbIsctsTem7LFyURRH68N5UGsAf6-LFokJx1e2tl5ev81Vbo_2GI7k6g7xYciXD6VzYxPRJ5-ZTPQFRZpsLOVdgNwHKm9qEihofqsSK1j8fuKyww7zwHqvwVUl3_PP5j3axq8-dPERbFtd824wu_Ylsov0Dqg7bMYVVtj6SVwSqZhzSs77-Idoa2SyBG2U3jjmihpeduf95efmfb0-BMat0mr8_Po4z53NUCeZjQh-BdiUNRqMF9QyiZrv1_na6RkA2qmbJ13EHlOmH_5CyYtWHmHBTBfTIas2Wm47hInAZ-nZQ3akKVo3q8hbeySJwzVv7LhIbBDsUc6BJI-1pviS91iyYRM10Kxo",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116645551536035914137\">Cynthia Lee</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Ronald Lee",
+      "rating": 5,
+      "text": "My fave Thai restaurant in London!\nI’ve been going here for the past three years and I love the fact that they always have a special menu that changes. It keeps the food exciting and different.\n\nThe flavours always burst in your mouth and I love spicy food too!\n\nTruly authentic and amazing food!\n\nThe service was really good with helpful staff in making your decisions.\n\nTruly a gem!",
+      "time": 1756731087,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Cleo Amelia",
+      "rating": 5,
+      "text": "Was really impressed by the flavours of the dishes here. The roti bread and Morning Glory had a divine, delicate in flavour. The crust quails egg was good, but the accompanying sauce made it an excellent dish. The Massaman curry had rich flavours, and even though I didn’t sample the fried chicken dish, the other diner said that it was amazing. Many of the dishes do have a kick to them, so be mindful of that if you’re not good with hot food.\n\nThe staff were nice and attentive, they also treated us to some coconut pudding due to it being one of our parties birthday.\n\nThe only qualm I had was the fact that we were a party of three, sat at a table for two and it was quite cramped. I had to sit with my legs to the side and we couldn’t easily fit all our dishes on the table.",
+      "time": 1758995214,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Palmay",
+      "rating": 4,
+      "text": "The food tastes really good and very authentic 🍽️ Portions are okay for the price. Service wasn’t the best, which does affect the overall experience, but would I return? Yes haha, I believe one fish can’t make the whole sea rotten ka!",
+      "time": 1760047479,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Yanin Naiyachit",
+      "rating": 5,
+      "text": "Amazing Authentic Thai Food in a Buzzing Spot\n\nAbsolutely fantastic Thai food in a lively and vibrant setting. We tried three dishes, including several that are rarely found in typical Thai restaurants abroad each one was packed with flavour and clearly made with care.\n\nThe atmosphere is casual and no-frills, reminiscent of a Bangkok street food canteen. It feels like a little piece of Thailand transported straight to London. The soft drinks were also a highlight; refreshing and not overly sweet. I highly recommend the Thai iced lemon tea.\n\nThe staff were friendly and provided great customer service throughout. A must-visit for anyone craving truly authentic Thai dishes.\n\nTip: Make sure to book if you’re going in the evening — seating is limited. We walked in and ended up sitting at the bar facing the wall, which wasn’t ideal for sharing multiple plates, but the food made up for it",
+      "time": 1753785284,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "V C",
+      "rating": 5,
+      "text": "Very authentic Thai food! Highly recommend the iced milk tea, glass noodles, and pork belly – all were delicious. Although seating is limited to a set time, the service was excellent and the restaurant had a lively atmosphere with affordable prices. I’ll definitely be coming back to try more from the menu!",
+      "time": 1756845810,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:36.221Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQutyiMbdkgRH9iuZGcbIvY"
+}

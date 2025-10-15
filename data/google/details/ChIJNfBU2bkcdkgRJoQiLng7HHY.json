@@ -1,0 +1,283 @@
+{
+  "place_id": "ChIJNfBU2bkcdkgRJoQiLng7HHY",
+  "name": "Rochelle Canteen",
+  "formatted_address": "16 Playground Gardens, London E2 7FA, UK",
+  "vicinity": "16 Playground Gardens, London",
+  "rating": 4.4,
+  "user_ratings_total": 763,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5257669,
+      "lng": -0.07429179999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5271409302915,
+        "lng": -0.07309871970849796
+      },
+      "southwest": {
+        "lat": 51.5244429697085,
+        "lng": -0.07579668029150202
+      }
+    }
+  },
+  "lat": 51.5257669,
+  "lng": -0.07429179999999999,
+  "formatted_phone_number": "020 3928 8328",
+  "international_phone_number": "+44 20 3928 8328",
+  "website": "http://www.rochellecanteen.com/",
+  "url": "https://maps.google.com/?cid=8510742783179523110",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM",
+      "Tuesday: 12:00 – 3:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 7:45 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 7:45 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 7:45 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:30 – 7:45 PM",
+      "Sunday: 12:00 – 3:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1945"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1945"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1945"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1945"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eaMzZe8wUg5HEy6xiwm_cSIzKup-llGgNkhCvr7EW4_qlRakBEidHEMEdB3Zb62EpRBhK1-uwcs961LWzAq5-wKEqnDeP7qCAqQuD9eoZxhLJiJWf-HyI2aQfMwN-FaRpACuvLBQZirob2XVT4NHdatEZkK-KCjWoT0-1ljAYVRycmh7u3ypSOJTyZMURd-NbWPtfqTrJdxUJ3otfsmU5zYNe4ow2ybPnLRfXGKK-t69XdblucV_XSdBP43C-hk-ngo9HGaMgCikWLNzWqvOsRYp_xreiAZEFDHiqUtB6tbpRyaDaL0DDhEg_4Zn9sOk3FUQ5b_zMCDe0MFOBcCH7lFKqjLpi_nJ1uhoPeUWuAq37Bz66tltqA3cePCTwvzudLVZfR9dEDp0fTsYlzjV_159QD3AufuaknEy4_RhQuGDnX",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110405906702176204463\">sueyaa Vibe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eRfzfTFchmZQhrKQ85U99FjpNUgnJpC9r7gjk6BXs7b5mi_-Nv0hbHxlaA7o0VSZ9KRs8I1Y6bmFD9SMUxwW0i6AzRdQbyfu6Z4UJiDKuXDjm9tPh8IT0uY59L6YxXuJCl8fDOuGV3sjbXGb3qUixs1Bu2nXn1opqcJOJidNLywI2PozIXVpCeE3NsBvuUwrO5v1XmvO5nHAB6molCNrR7lxE9AuwOSXiHUVbBZH4bZmIXmG0KoEl1T8fmZa7cgL5mA3ojG2Tki4Xg85k9TfueRRTJljb83QM_v62yBRKPc-1G6X6UzwasFcSBvQ-lAtppH50Grqd9tA7LxBLrxyvrz40WY-aKREHyp_VE0pm_gM4L1bHrP74hkD0jrPTbUxS9rFxfGHz0BI6pZ7Xc5DLAovnup7kR2GXYW4gY-nwjrQBs3jcRP5Bjlt-RBT4f",
+      "width": 1720,
+      "height": 1291,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112940126439568764782\">Nick Jarzembowski</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dX9ehmm95srtnncAoUhuHB6_1G9fcx7GP-nDnQqT7Wtvxp6Vtf3V6pTFClu70nDrMUyOZNhyQhkJhbv1H1MqpnvnMMssVOtI6dsr6nbs1cByHUvcPxa6_ia2QovnZEujc7A0xiYwPUGAA_mPpnn7ewuwxnm7n_SWydnlEsrvRbkF5q1o4sEmfHW07IaU6frozQfUTmy3uKrncMQSf37e4nj_kb0-S6V7bZoostRbEbHCRFFS-JWTP5XCCmeA6OnlSqlMzdtlyvCerxlQJV8jWNyTzJkVuZTYocTaq2r_M3g6TSY7cE9j12IsdIQiA0FJBvt8zn8DaECvMX6wFADJhXZ6Noh0jAfzqKg_ddbH9cxjFgtNbdqyB0s71yxeG_CF6TIXqg0kj7jMw6WqzbKAcfQj4dPreO13wSQt3nZ_EHtL-FjopWr3W4l2jZYrwW",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104206064012465179058\">Linda McLoon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEV0a78TtOD_Myv60f6YEJ3uKXvfc7ABZPwhRGkH0d4tTz7G-lSiY9y9S80V3p6u4oJnvZNzzQhl6k1nTdDK-7lLtoEB6LCPw73WCm9GjxYbQJV4ErWoQybnRmxF-Os2NuL5-HkAt9Y7WblO4iu8Kc_VWEXTmk7LOAj1L4298GCOYgEjATvkByj0N29I_MAA_T5-tkTsjJDpFN1uM1nhNzODVusbl0J8bZkte6lWv2wAk-5k21r-WngFhY60KSIitmQBbPPGdmw9CID9suFLIs7Zp9VFwezxXo0HjX_fdd30gYIllpXbogVlOdVNTgWqj9M7oyV004EH1PdNwwkkx0OW3pBNwRk6moo-dHgSFekYmKRn5bZNIQH2GClXC--7jhlMKbpPizKQhuJErst_EgZMzEtVTEYvPrpY9xf2m6g4gQJ94KXhkOS4VoIg",
+      "width": 3072,
+      "height": 3597,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104206064012465179058\">Linda McLoon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ege5AMD6EALZeUHyVS0FUDzgmrUfDFJtFqJILMbif6ZKuaOfk6h8_vCBHY8oqU6uzy1luW4i_rh6Fkz5BLsDzqxX6O4HM4lNBUrC9jOM7cQCYszHvHm6GMXrMjMAXtdCg-FeMMHBdeV43vFvcfPlg0i7kiM92iIAOBx2CbNwOivSHvsU7jLnaT1XEuL6vLG1aEqVh-ihI6NscKXac0WiJ0vnjMvTTmt_q7LOVjmoMW0LzZFWUq6I3TIo3GoaqJx85SQjIcFBIOq2ZtbHrz9ExpodEj7OoF_OKDWjjoueoM0r-TVFzKlN1RHIClx2ddrbQ5E2VtIGIitBPX9SsBm9zFPmCZCsFsMwzH5VM-KQ76mKAy5GOKELNDT9FppsJKkbRtG_Rhm8nlQCHCHVGBAp1Zbh4yw5qymzbDxMXDaxyFnA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102385731833845002323\">Gabi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dOVuhcEV3FaDlz2C_qtH_Y6_ZVgKDg9cmYis56Fqhn49f2BwzdGx0Rd77HSVvcCjcwTGsx5roIGasyfNtWmbxPYBOTDSyJGrdt_c4gehg7YbmPkWnAA98lGfOC2vA4eMLdhXxouhHCDBB3IJMHY3nIzjInfClKAWkORFsNpieLzExvxrVwSnyxctVuYBFEmXhiqAM2JDo9shaEVMhbz-M5ZCGaOIiTNvQU_dsYvAjMULfho31KTpL5GSo0c9HuwIofWi3ebsfiiNK1_d6sYja-o-4VJJLF2XpEW-UapFOp_b_fU4Gllee4TY2eYAnEiPnwdcQZm0oMSb7d21AdeYbC-umSLDkwpsldbZCV_2Pn797xw10S4fW8DK5X6-0NFv43iecR0xkBDdG5gcle1kkPlY2wYPWI8FLIxMHOjoWl3uWefkTl_jXsgRd4Zfom",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104206064012465179058\">Linda McLoon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2epim9IwC40P_I12f0oUN3RCxqol_ig-F7c2QyB1QHQRnlOMBNddLfeFtKn7eymB7jfjwp1h9mOthvJ3Egb9nUC3XQhuhqhoqkmluiQF49oYUVKrKjzOPogNTcjNsbVyjL7RUGAaLauWky-oKlnpWF0ptJo2paMZNu-SiNKD1Ybpjyl2sulMrGrlUPKG-ONaRQwzh4HAGZIDMNKoT1_gWFKnQiDxNa-TiS0Ma5zunjuezuftZ8dQaLs0B42j0rrLygBbCFAyGqeLGiQmLHcByw0SYYAT2vwMUc5oUar94FsSbxPMF_hf2DFNtgtMoFbyApCrxOdJGj_myF2owu8ufMgRVTVnDzFffBWUILvUnbXZkFqqKuj006rC2Lxf6q_yjwg7XXgtckQiELCCaIghwNzsMA721aLrcGoZ1Vc7Bdaimgf_zFoqkhAXUEGog",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108929295959476299044\">Amanda Derhy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fKrZYl3lUCkgK5atuhX_FiciwXIrr-fMJdwFyi2CdwVhNXGZWwGDS7eWcunFngn5LLxL2kAcWMgKEftzDYR1xpCEQeAHOkwMjMYXtRc_h9hZLPehfxsJpH5T4vZXEHmp4zBc0wSzcQ5FwMH_RxtT2yjoKxoucV3K2xBvAcjS5txi5R2LhztuTu8Gwi1SlgdyIxMdV4SlZD7kxNyhpGtSVpyd9HwzMoN3SgOMdRRenR9wKu1APD44lLEBGnwrdxii1A8-Eqh9ddWbdvCywRhLDYLYjiFmN88ISUnEiJbH_3GNzA1Tqiysp9mioH1nL3P0toH-RVO8oqTrrQn9Hy0XjlkJVblMv6LEbgBNBqkNFuVnfIru65cDOlSMVMj0jqRCCM2rpFHzvEetCGDu3oaSQhsSmesnZay2E_az9ZSG1Jpf9MtXPQCSumE9Ndyu32",
+      "width": 1720,
+      "height": 1291,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112940126439568764782\">Nick Jarzembowski</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fCm-RWTJs9zoQT8-CSIh7htC1JdYqvVxwlYJIiB2gT035eTQhAMJVky7ExfpiLlDM2MYBaNrOgkssTutawsNFkiwriPuorDsmT8pVVMZ7DKEyKejqNTHBOngWZ2QeaJwyvgxKO6Fa-CfLoci_b5gfqH3V83aj0zd_s0n2omaCOmKUG9ThlMPdWdgmMC_BEvYHDIujEQzWcPr8H5Vg-Asv1bXWMoD7Cyfemxx1ikYIpxya_xhWW10_vMx9u2rGkVBC73Ip8VW_V4QjoksuZW4cxOSmoWRpvBxFYEvXsCMzz1_cJKYmEa0wP1ipNUxasCxVZF7Ka8weRWR31VSboY8o-7LX3YQ_oe-ci0M5Bq3iQDsmVVz1WR-2OD2zb1iVR-izOtFQIAi6krcWMtxEYrjjiWXqQwdQsLz-mMGo_X4xMjQ",
+      "width": 960,
+      "height": 1280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115514365704607751197\">Jeannette</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dgWHmd0zbdlbWPS7GDhcEO4LJe5Le34cf9g93EwOp8hl1CX2__9zGmcpQIK31QElkvDIdB8hSkgKgIW2brRthjD90As4OAhp5FoYy1fIGuIV91nvApkcndj4WXTGqNFaMMs_PQjYk53i20GfNqsBEdzXmtF_QRkDoTbM5k4T0L4Onl8FvhC25Fc0yWlzlpUvmtO19PI5vaALvM86b0GMjICXjVw2DhoVNFe1GKVTYIIryVDq8Dp_2cZvqYSfpOcqxC3F7ZzAqGDjHm4UVhllP44ED8sYQTGBmvbN-l5EFNCWePsbzuN9PD2Vd0KJNkjZO9nSZeBEYjDJ-s-EIpqHYkmqULDvHn-hnYekW2SAllidS_SJ-bTaTce8gWw0WCXL9MBY45ACnOb_nTW6_54HgbBR_0uWCSGeFDlQoxI0QAHtSrRCwaniEZ7ZPfLQ",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110216750322137706753\">Maciej L.</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Cafe/restaurant in bike shed of school turned arts and media complex serving short, modern menu.",
+  "reviews": [
+    {
+      "author_name": "Linda McLoon",
+      "rating": 5,
+      "text": "This is a lovely restaurant tucked away behind a wall. You need to be buzzed in to eat here. What this means, of course, is that you have to be intentional to eat here, and make a reservation. It is worth it.\n\nIt was a lovely day, so we ate outside under the pergola filled with ripening grapes. For starters, we had the cod roe dip with fresh baby radishes and absolutely delicious tomato salad topped with feta. The tomatoes were fresh and juicy, and it was just a lovely summer dish. For an entrees, one of us had the tuna with white beans. The fish was perfectly cooked, and the portion was substantial. The rest of us had two of the specials of the day. I had the crispy lamb ribs, which were quite an unusual preparation, but they were very tender and tasty. The wagyu beef entree was sensational. Perfectly cooked beef served with horseradish and some spicy greens. It was truly a lovely meal.\n\nThey have several cocktails plus a nice list of wines by the glass.\n\nThe staff is great, and the ambience very calm and beautiful. Beautiful. I highly recommend this lovely restaurant.",
+      "time": 1755809282,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Amanda Derhy",
+      "rating": 4,
+      "text": "The food was great with good ingredients. The service was excellent and very quick. The restaurant was in a covered area which was nice but would have been nicer in the outside garden area in the summertime. Overall was a bit pricey but the quality of the food was good. Portion sizes were normal",
+      "time": 1753943513,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "David Walley",
+      "rating": 4,
+      "text": "Been wanting to come here for a while now.\nFood was mostly good. Cod was cooked perfectly, short rib was a beautiful cut in a delicious gravy. The lamb croquettes were a highlight!\n\nSides were a bit undercooked for my liking. Tough cabbage and potatoes. Wine was excellent and service mostly good.\nOne waiter would just dump our plates on the table without talking us through the dishes. Maybe that's not their policy but it's a nice touch to be reminded of the elements.\nOtherwise, our main waitress was excellent.",
+      "time": 1748777793,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Olivier",
+      "rating": 3,
+      "text": "Rochelle is certainly one of the institutions in East London and I have been trying many times to visit.\nI left very disappointed.\nThe food was ok, good products but nothing to rave about. My main garnish was stone cold and the steak cooking instructions was not as requested. The service was so slow, although they do ask you to place your order within 15 minutes of your booking to get the tables back, but didn’t deliver speedy delivery.\nThat’s a shame as the setup is great, a little oasis in the middle of London.",
+      "time": 1755453891,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nandini Mazumdar",
+      "rating": 5,
+      "text": "Delicious food with delicate and amazing flavours - loved the scallops, the mussels, the courgettes and the pumpkin soup (bread was a bit disappointing as it was cold and the butter was hard to spread - excellent to dip in the sauces of the dishes though). Excellent wine list. Servers were friendly and attentive. The garden area is really beautiful on a sunny day. Will definitely be back!",
+      "time": 1742228195,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:49.622Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfBU2bkcdkgRJoQiLng7HHY"
+}

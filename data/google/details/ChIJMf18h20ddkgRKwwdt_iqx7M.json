@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJMf18h20ddkgRKwwdt_iqx7M",
+  "name": "Unity Diner",
+  "formatted_address": "60 Wentworth St, London E1 7AL, UK",
+  "vicinity": "60 Wentworth St, London",
+  "rating": 4.6,
+  "user_ratings_total": 2337,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51684540000001,
+      "lng": -0.0736917
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51824858029151,
+        "lng": -0.07220361970849798
+      },
+      "southwest": {
+        "lat": 51.51555061970851,
+        "lng": -0.07490158029150204
+      }
+    }
+  },
+  "lat": 51.51684540000001,
+  "lng": -0.0736917,
+  "formatted_phone_number": "020 7426 0224",
+  "international_phone_number": "+44 20 7426 0224",
+  "website": "https://www.unitydiner.co.uk/",
+  "url": "https://maps.google.com/?cid=12954510838355266603",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 7:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1930"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fX9YJ1B_oM80vdwQiIYO3Ha-Mk_md2J1vctce7UrP8xg7z4Pv8cXo4OV03IIK5cRlGurv5TbZRw-IQH22u5T4UVa3aPwm21swRtjJzxsk9c4uU0J7DmhiM-3MWWsxSvS5cLOldwxfM-VetalAW7i6cDXzII_h_zPzXjEBQ7jP67xAuPW-RrJcISb8WDgVHPKO3qRV4kNI4pOjST889qkoYVCdBe7dAyxHip7Sbvpax74xUjNGMgiq8j3PvbyrarN9BOHsMAg-dFzLeauPzOKxUmzB5ENNz4xlcJvoHqEhJnA",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104241790444876394196\">Unity Diner</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzjqJqCU46ZZLR85U43X9HIUOmgZ1jzlfiOlmzDF1w9cuayP2aZkRi-JAOp_7DA8218ZyPFjkI1vBxVSkYh-03_yEaBcnfiG7hz7KK7J_4VBnfuLnViV9o2hNnCnbbXeE7MO-1ji0EYMSYLdRUEEHSCo-lMzBo2VJaY-G5-jUkwKQsLiWSK88LarbDQg7cHHo6f52x__4EmNwYQDAjgQthU4NvEhl-WBZZs7UdJGTrxkhpYxjPI5-CU2-i4qVnt4gEZdL1ZbfMGF64OQ-5cwUyDdyHpTDvaucYbMnzg6D1mw",
+      "width": 2768,
+      "height": 1846,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104241790444876394196\">Unity Diner</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f67jd3clHvGWYFLra8u93TkyGRwryVSMNQQPyAFVqASPXhZh3_JIw73jKb3HDlaHdg0VFc0Sy7eWde9N1nWmvYl52rVul2vTtq3P5fHBY0-LomGp8GHWDyr7E-5eK2UiZtMMXjRht8B9Yr8UQGjljW_Ye-Rk0Gwta4pTDSN8RXjU1Vv4MZeAjTNWHTgyaOKTLH24UeB2MvacUMJRqwij-Ob8upRKjoaQ2egykaS92qOMZTYUfgfoFLDqIowjXCLH0M4NQsUAE6at847vWifLPQIfY9QjBRvaPSpiGitkTIsyRTbqHkCm09M9G_tHqGfVUgtTsArTzDueoBzIt4LUZeXBUM0hOUePNnR774hQFzL5jAbRSPhESDOAzrkVCcYXBltiJaoytX_yMCJSf1ve8u3IXuwxXJJlOWt9iCLl1shQEH53K_831y842dMD1h",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107376673094300863863\">Michael</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRyELk7PoJlrP15tkrDNsZe2oeAO-ubq3XDBhQeN3oBfGjpky4JDU92oha48cBlro0e_MHVg9UgMOEQObUYNlFqJovSZyUz-HFQl4xh_-cfPh23_11DOwtfs3RqFygoeQRimVq8G7FZIaV_z6ZNW6NqT4qcJNE0q81RYszxin9-4B7OTz7GE9hoaSGQ1TjxPUdzloGjKc0selZbbUhEsGak4Ha095dsNSAMTYawa8nGVULcIQ7BlpDwap-729AWbitGZtA0DtucZ24pk2_t1hhBkTbx5dytizzXqBvNLAyUv8UUtB6I_hr4xdFOlTYoJXXBDU7C0MLte3to4tIuYHU6qM1m12hVWoXDkW6zKPAhsVpZvqdhzAj5gs_uTo__PqNe-1Syb6hDrnQkFecxndT6YEiD8V4WSVvsJs37viv2BDUs9Ft6K4BGPzW_qHp",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109865169450928687390\">Stefanos Antonakopoulos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fdDjPHqznO8rwq1e8eSp4PiOYMu7_M87PmYg7dRkyB2IgfLg3SnjV1SfptbUSBT8Magoi8XlpQ_AVfYV5tJ56tk3iLwEswGtIk7EgPu6aEsvhRvnmDRoGdUDq1LrYR8u_UldRpbq8IIeJmSilEmiafozM-6mzuiwymcN864Oi3vnXGIm3zlyuQqhubyHGXt7T_QbM72HKWbkDG1cL87hPCB5qWEs988m482SaQTaTkvHjO187NqCtfx_3Ab2QKflvznsbdvklnWQ1twxR-81z747gkGLrE1fSE0RIH2k73wCsXoeLNcQGbMpz2DA8t3bbZ6Mr1rIaqYu1UCMaSlAXJrUvKqbhpDJGs_SubATw9yyL_0kmY9YtjIOXFKoKGmD9IvzxVUQZFWK2sIL5YsOHClNh-gYEdjCMIQ9QCJVHFu9VG5EAuf-K_5SiX-WjS",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107376673094300863863\">Michael</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dL8qxW67ignKeYWv6uKm6nN1D8vis438fYX1sPcu2rAi01p-8Pn9tbkKsdgLORLUoANBh7W4BcWBV15HyRFpqJWboW7-RCD_ik0ut343tJRXRrIsh8oTBYZkQ96FGSNqz5TEOSvuPiCMg5V1YCWhCpQZ2F78SMKHU2Du2zeHuw_-FeGV7m5lWZlasRR7gfGHzPYFZdqsTdghfhUHYmS0z3yIf5nDczrpfovDZ2zjkXKvmpFPc1l2p08g9tDJVLqb4Ui5y2i2ee-akvehsObBGDBRL9ElLAzSftpzDM4htEW1ywX9cPof1OMU4mURTqR8J8v7s7j3sKDh_8V3RUzS-YLOieMnXz4brHqT-mWGLt1ewxWrZAhGkMqhiVbeI5gHjaHhNhErnvqOXe6HCGnvrdDB1_4RjXQ4jdUmVjXWuViJl0ZVpsEocEglMzGFsF",
+      "width": 4800,
+      "height": 3036,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106573281287524351934\">Rita</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fqX5S9hy_WptIb7Za4cavwFfxZAPhLp38ej5KCoqcbuiro7olbRu4D_3BM_a8zFxa3KIEmFBkJSKRvCf18nlcTb5Vh-BS2jpOqWYwhetB09KpP--2lx-x3reBpLGvg7irZPSxwJZZact42lW1FyLJmOx3WqIEMkWUi8LP2UpXfGhe9WycTm0yx4vJKauZdVaMAkcVDAPGpIJEByL-NZg7MyXSuy1zjmnXlor53qVunj8Swywl_LLyKUHk8lBbqvB2I7rKQ9eDgxvOfhPrwJhd8hsausSN7ynvGIiVXT83lh6PUut6kiWlaERE3KQ2xOqvFGHXUazwex4-SmLqSySmqFvAq-PciaFQL6_2QlYhVytLz6qEYQquh1PPZ5IY8OhwFdHk_P9KIaevrh31seLIPYO3OOfGNhqeyp3ixctUa82M",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113794464330062279724\">Anne &#39;bam&#39; Thomson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fh7lI57tUkSYjNxKXJc9Z2q78d6aZ0Yqr41lg_08KWWZEl1IiAYTOFARFlELfTrGnYhstonBRKCCAye845Dnbk33UNMliYcRYV1HHzXBWlsmJoM2420k1ksa9yWkF5PvvfUA8Pi3nRC7QnDbIIql2oFV7BK3VfnoIThBWFN2AlVAkGgVUIFo0JqKidStsLwd4KOzmGU-r7fnMqDsmTECnf5gTXLEkIux__PgUoL0MMYrxaNtVK42DAJu-fquNhztiSPUEFsAOqgsY7HsYc4z_2yKStMKbANJN6LHLUKPQ5NMjKYMrnVaRPRZpIcmAIbDhsHaRKwCDe6VH4JwLD6VSuF94p1ckDGo53ZLKHABKmfiPp93FUoDpx44bPRN6mZTTTczBmBpOLmd3Mo6Gg44LVADz8TCIF9lQeEfV5fHkkFw",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115507629719162707709\">Damla Yagmur K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dS8qsmRfucLIn4wQ_09aMY7lIzg2nqfYh8hhLuEUCSAAnFmRBQ1_xBwIRMhDQ-CWb1onoNfMG3aAwxd0CTGO_tvfJBBekRTDah5y56MSk_nzlbD5VuqL6h3D_3Yp-uTusdKELOnD7EKL_-C-tVouxtl87ymaY8AZC84Fk-xD6VWtyJrTAUryo2_57egbX8fhB4Fk4lAlTMFcVrKAlsLHZdVoodTMpHFsqt-a-wwVlokWMVnemR7vT-NLbpHQCRfOlwb6f4MLT6imOlc5Epd_8UnlB5_VLc0FCjzxOTqQq3-hNoU5a6tJlHByAMW-xa-C0PzPSlbTa_bFr-Z4-s7kqdAqn5CRi7vPhZkwj41IRpNCgUa9fxsP0XtLYr2EJ91MX7v27gIsu4sddo4y3e7c5U-c1Yhxud_rNqUbs8QzhNhrwC4uCQKg97B_MsSogk",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112821501790255143924\">Alina A</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6TMiKn6j5E2zLM31mdQtB3oDAaXmFct7Hg8g63Q-mjvGjaB7S4OGkvAfkXqJOOU_xN2oqYxA8-N22zZinUckk5H0ViF28vUKPrlYtt4QtNNZcy-hXxI4xnP6xLATMY9TFEg_VdTFFRiD7WuUW4OEuwZneN4wpyVlINqg2XEDKMjErE8uZYzHEWHrfsYCmGr76ovRo2qNcZBq21K1cpIgtLQXscjnw2NzvWgTHrjR9jsl1uyto7zvYbnBtoDxfGWhDykoO2qqYUyJfQZ3l6QFglT0eTpBBZH48XrtWH4jaaty2BJGSMg_roaBOWdUQCK58vaKh6kZwgI0tBIIRgziGN7fj48UzaVOF4hVBbmxKNMoz0YBIptjge9VxP9XHSl5Eh3l_1KSavib8Gl1O92Gpn4sFQCZIbRqyEShID6dUnunWi_Erav-hk4PbKM1o",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109231324993180233306\">NATTHA PODOK</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Cheery, modern restaurant offering plant-based fare & a non-profit diner & bar ethos.",
+  "reviews": [
+    {
+      "author_name": "NATTHA PODOK",
+      "rating": 4,
+      "text": "I visited Unity Diner for their Sunday Carvery buffet, which is available only on Sundays. For £22 + service charge, you can choose 1–2 mock meats (served only once) and then help yourself to unlimited vegetables and sauces.\n\nThe restaurant ambiance is really nice and welcoming, and the staff were very kind. The food tasted alright overall — I felt the mock meats and side vegetables could use a bit more flavour, but it was still a good experience and filling.\n\nI also really appreciate what they stand for and the work they’re doing to promote plant-based dining. Worth checking out if you’re looking for a vegan Sunday roast in London.",
+      "time": 1755455321,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Frank Diaz",
+      "rating": 5,
+      "text": "Everyone in my family enjoyed the meals.  We were surprised how similar the steak and salmon looked like the real thing.  Flavors were great.  The desserts were excellent too.  Would love to go here again the next time we're in London.",
+      "time": 1755621939,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Jacky Lee",
+      "rating": 5,
+      "text": "I'm atheist but...OMG!! The Diner served up truly great food..... Oh my! Absolutely delicious. I got home and I was a happy bunny. I was so happy I got distracted by the flavors I forgot the names of the dishes ate. Why on earth would you want to eat animal based version of these beats me. But please admire what I and my mother demolished right down to the crumbs I.e photos. And to add they aloud my very handsome 2 large doggies to join us fantastico. In the words of The Terminator \"I'll be back\"",
+      "time": 1755559075,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Hayley I",
+      "rating": 5,
+      "text": "Delicious! We went for the Sunday vegan roast and then went back in the week for the regular menu.\n\nFood is very tasty, creative, and nicely presented. My only feedback would be to add some salad or chips to the burger so it looks better value for money.\n\nThe tofish and calamari were our favourites. And we really loved the sticky toffee pudding. Yum!",
+      "time": 1751017317,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Island Hopper",
+      "rating": 3,
+      "text": "Overall, it’s on the expensive side for what you get. The Mac & Cheese tasted mostly of flour with a bit of salt, though the vegan fish and chips were better. It’s an option if you specifically want vegan alternatives, but the taste was often far off from what you’d expect if you’re used to the meat or cheese versions (we all tried different dishes and felt the same).\n\nDrinks and food are quite pricey considering the portion sizes and taste. On the positive side, the food arrived on time, and everything came out together even though we were a larger group, staff was friendly and welcoming.\n\nNot really a fan, to be honest. It works if you need a vegan option, but I wouldn’t rush back.",
+      "time": 1752312950,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:07.286Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMf18h20ddkgRKwwdt_iqx7M"
+}

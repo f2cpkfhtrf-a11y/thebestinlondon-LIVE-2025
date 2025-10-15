@@ -1,0 +1,224 @@
+{
+  "place_id": "ChIJ8Wy2dvADdkgRr4cikvURs_0",
+  "name": "TOAD Bakery",
+  "formatted_address": "44 Peckham Rd, London SE5 8PX, UK",
+  "vicinity": "44 Peckham Rd, London",
+  "rating": 4.8,
+  "user_ratings_total": 653,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4735143,
+      "lng": -0.0810946
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4749772802915,
+        "lng": -0.07976486970849797
+      },
+      "southwest": {
+        "lat": 51.4722793197085,
+        "lng": -0.08246283029150203
+      }
+    }
+  },
+  "lat": 51.4735143,
+  "lng": -0.0810946,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.toadbakery.com/",
+  "url": "https://maps.google.com/?cid=18280975058843371439",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f3iy1JGFbdixdj2MVilT8wZTpRGlog5DTT4jdKaDZVrv9Hov4C10HSHNdu0N8SsNkjuo9I7dE-KdowUsf-5e29FFzTpiTmjRkc9db9SYRDf9U5Rmg4R7uRyieX5cB_5pMYZuEcLlnIRHmyp1l7gD6i-7M9vAQSgwbXgqiXXcMYuQkNOp1sHysfUfvbxN--B6Zt2u7IF3R6bpSxFcCDhA_Pi3MNaxZoV8p9XyxDcENTbkMP7DmczYcS11tx45pxQ_qoY7JmpgXN2mt_a3sLFp2esdGPYSFiSdL5ZqaipucFPi0kICHnj2qGS2MbAXp5emOeA4LTfj99Lb8vOACZ_SwEiUwLi9BUo8DTTVCDK5BbKhgdU-jtTZeVEJVg2ExaXsjkMSDhO9SXDS2rp0sO8pl7oexg1FrATm4QHZ_OItXjIjkt",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110813575506358960239\">Queenie Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fToWGVeUQfhA_PS6ttdOR8sp6FGmPo8NJFEuUbF5oaxy1dOlePZStkL0CfTGbClFWMbtyqxf9AUg9u68psz5bl0rOajwKFsfqnR5T2AGO5rziz2soIzClNnsWCF6sKo6Ht9W66zgC2ArdQKR6tGwzLGfSHbKSMDTH1XrB4U_jWjAvH2yB1LHM7D5x0C0ESAhg4i5jT95EDjZ47qJd_LBls3XRxNcHc9ImyUaDRCaBV1OGVelCmghWlaV1DGkDNAk9IrjGaUtHRmY01yCX-993NqE4s84SvNY7xMMNWTUH2fQ",
+      "width": 1500,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108349472985538655546\">TOAD Bakery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fE964sW_hf_f_XxO93l_HT9LOfDPJ7AlULWF6sxNEnu683WbozSKnEMcCMVhwoZZny372wVhNYFwcs_8TqeM6WkP02vL4SEVojwUbr2wkn8Ln0Cna6sQ1mFZuXU1AY6VPyNI7bcyoyjliDBQl8SOzT1AjBMeJcWKU5kRYI-8BdO1B4Cawg-BMNhlV0kLfi3ms7vANhbCFax5qQve3oItwdYMBxD5oS1u3l4cpiS1icdSxoIHqSINYxMr4EONXyS3Ta1e7s7dvh4zQSglq4tTLS55wBCI12YhVJIWwkh3BqvU3omFJZUcIv3OXW7sEBHf_y0HtV0jkz-qsAy1OXXQ2HH8N9CN9qreQ2S0v951HIMKJzPErNLjW-ARo0wOBhYmM1ZD41atElj0Q4PO88tqeUY9IaiTzBeTIBYZJDKiYTLCXVTWrIIEqLTSegVKUV",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111769258774794715906\">Cassidy C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fLCOfb2BA8zca5sAzszFAYVxhT1wJssxbNMsriNTHi-wm7HEbftMrAG5AqvIAxKWXIyYqmZ_uJxP3jnIT-hvehP8I5JibT-QcR1qg8rmTebzetrlc00q5wcpUhA8BNtDUwgixN6S3awoJe-FGdygSg6K6sfHomDOxzH-lnnIycVSTIzdHY_pg9E5xRRFDYfkkjlR2nfSpwjiITU9-Bu2tq_zjAMKjqgehbd3Z5-MCDEvlxUMAI1PkRKpvLo2umCf5CKtUTOK462VrbPcFoBVnaA755YGd1GjG2Wur7U8ke_lzhTTGp4t-YCt2-Q0juO1Vdm6vxUE3BEROnnUyCBDiRJOKRBrrNWf159O8tNbWKEeA1nd7FTCjNPLeGVk9uL722CuVzLK8JFaw8lwKSXz0-z6sFhyVWhQ1P4Quyr55r5w",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110179073365435499751\">Ophélie Coupeaux</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eB6d6NNeNR78j0_L1cUEdzqBA0Hn19dL9fbqeeohFs9tfzqW5qMH3UVHDp8UX93_bOhzJgjb7SA1Dbg-F2-WAxmjV6x39XpsX5I7D_8sdqOw8CTq2Jo-luZhtZkE7Ssz_azUM0lh7BpeEza-P6F4pbEhwgesWHDA98B03k-FTuTEUJefKl9aUBR35PQhoZTGdIQ1AUNfvbojEgISRbKsfAKrOyran631LKA6XvNJU4wmNAQ4Ilmw9v4muwOyLWxjE3APAt94nGuVTBbaNrEbIxB1W_UCPLw-6it5_Zehl9v5DNLM94AExuAKhXvUA7z3PhHNOy5aBDE-8y0wRy6DCJgH8f8aXIM0d6OAO6M9_KzjVIlmIBIX1NX14XCAzA4Vg6l6x-Nrw_6HDicxhsOFFvoxoEBydArfFDadhBb9565z5lfH7RuQBRte_S5By2",
+      "width": 2894,
+      "height": 3957,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111005950964485317248\">Olga K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4U9NWsne8Xf7TXd29X0Hw5ke1hqd1J2yLqGfxG6aNhOqv4BK8pc1FgUvKIEyq10QS_lR2XZNztwMw8f_d1ulmxM9OAEo8jTw_u0GJU395SPzYlmYNHB4eVAUOES0ulsr1K3R8I3riWLIt2yQqM6MOq0Ty8YRh2vJQ126C8-xSG7C682yzeTwZihOeSM_6tu2C_TlYC6NmfESeE0x7rkBl8AY5zrv43T8Iv_JAkPcZqcRJzEgmTd3cPJMTJdYHILDprolaxB6TmqvDvXH1walDQcbq1YpjtR3_-Pxt0LxTBOCVZYysxdITjFj-V1jkW0qAh3vNcbUTf6TOfu-dqlybZhZmyT_XYWjc_EU2VQkL8Q0JPVHx8z1uxvs7t4QZLF49ZOf_zFcxB5Bg5IkCmAEamRPJsyzmNVnHFRaUOmUHUw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110179073365435499751\">Ophélie Coupeaux</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvoWffmcYNaGZUPNPDkZMQec0a0eRyKw3RpF06uoCNcos_Ak0WklmlHpZ5wsQShOJN-e5K3_Pp1nHVW5_Ckt5cn1h9J04fkBJFpODMY8D3DjuKxhGou4iUOSAW9B-PGOKdcdRMso0tpaoz2nBEAkOEyuT7WcPLdthHKIYSI8yABrP7TOm5uOKvcILo-_VdCZId_WErO-qx3EcX5mKCBdjxSdLyHsDKYDz1dkYYe0cBkc5KTfZ-zF5VYCHEgDJmyAVbcozl7bH7CKeUDUtIZxeQVIOSYqFb7-fbnQAJf6_gxWinZe4u4sxkHqzeBf0FnmdLMbwrCYQloKntiABVf4eXI15RqcG07gLasdIUQNK5j2NlLaucnuh7rzvVQwSZzCGpArONXmrwfTHAS8XnDyRqimxzRIK3VwQ9L_sXcDs69yM",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104520068588329385021\">Yelena Rovenskaya</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAuEWZxnwZbolHwCdoeT-eR6bOFz41xTp--YMjnKm-MH711zliZJUaxPJVz0X6IZtYXuV2NgrlSOnSgw8Salhcm3Ntc1XeeZV8aKpdlykgPAmG136OVIEeD0ZEOkYEAC9Bfn-2VRs90QdBbwzu9VQt9RZuy5KLYFjP6KgG8M6Nd04JxiEf0xTDSfNVPPVTraSQiPo5vXuIuExNxHcCiTzEAcik2w8-poLNHIimc52Xhe_yHGvJbssfwIsPXbmJ03kJPqGBxcSb3eIrKm7Cd-eEIptceKUMpFgyRG01c6LckyLLt1r9lv6WV_S-98L-v2JOyaxfQt0PDO-R5EooC9WrM4LXDacRJFaTv8bRLpYdXX60aENjCrgj90Lfx35DYYYJ9eG_R7J6e5xRrlC_dfsRSbf_6i-ACFJIK7HwNbeG_wSOk_J4y1VLoeumYA",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108967342029108773999\">Eashwar Mohan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHzeOFLGYpAX7LoiHciBZgXUtF5VyT_tL79DxyD9Jmxnbw2BMdEBInbUtoVfCM-xLx6WuCtkBbPUvf5J2AHBDiakzqqGir4U2m8p2GuhgfGMz5vQ8jijHpWUT7fW6iw9i6GrQ2XnE1k9pQ7ktyM12f0eddQ8vRqKVfvta66jCmBzDTPJpgIoPxIvzzkfD2q9ae-jmG5tI6NJvjdSLtCyrS_SIGA13mownpB2Ks6_C0i1zH9QaKT2_HyJOsB_IITzO1dJEECk18akTfybj6JB5pBBXJM6yCcI0M8sFOfPgm05eVqChghuFgS59Uvy5grA4X2l1-LiTfwvMI_hfDd25SMZxhz26ES2OkEL6PIZ5NedTG-n7BO4Q5le__-m-YhblPjZECOJS9OegfjEybZ3Ob7ZxlC3Lyb36LJjHmfgw29ug4",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104520068588329385021\">Yelena Rovenskaya</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2elNYCDE8ziwLWpf9zxpLSgDBXbiUQ27kaDDyqLToxGwXc_cz0v8u7QUjkY2FCV4L1NX1K2UkYCKIA70n0azp5DerBrt8-b_0XLeGxWnXlZ0tss_raOiaaZEItSUv6CJST1hUFVmjndhXMQvgHJWnyQ21nPK5ukV5ux0RA_JxRX8QN2wDxqf0AnEMF9VXm4X8eH1bsu_LBZnuUR1LRvHPg6NDXyjzQydxu-aBwIcmLXWlOBdEo-WntdLAJ_f2ec1WlHjOyC9srq-1rZ5XOsWbiXuajC7wOLx3SvWSZaJPC1BXf3Bwxn81UNVl8YdaFJEqkisGdwIzktkw5NqwHylr6iNDT5IggYssp2c_YX1TgjhdWnh937EdcEK4nvlgeEjiDXCls_j_rLGjyYcygC0jNyCQAM6ilRq5Autt-G65K-NXyi",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117485595021040106612\">Jessie Decker</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Jerry",
+      "rating": 5,
+      "text": "The line is long but it moves relatively\nquickly! The pastries are delicious and fresh - get the kalamansi and coconut iced bun, this was cheap but delicious, cornbread croissant was savoury but could’ve done with more jalepeno, plum danish was ok, and the everything bagel croissant was delicious! Tastes just like a bagel, but in croissant form so it’s super buttery and flakey.\n\nThe least favourite was the Jaffa cake, texture was a bit too dense.\n\nWould queue again!",
+      "time": 1759773243,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Ella Roberts",
+      "rating": 4,
+      "text": "This was a very nice pastry, and to be honest they seemed to have tonnes of great options. It was delicious! My only gripe with this place is that the queue was mental - I was in it for 45 minutes. I have no issue with a place being popular but the queue was barely moving which was slightly frustrating.",
+      "time": 1759917110,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Irna Bridle",
+      "rating": 5,
+      "text": "The line was sooooo long and you look at it, and think is it worth it for a bakery??\n\nAnd let me tell you… it is SO worth it. I truly believe this is the best bakery in London and is worth every single person in line waiting for pastries. We ordered so much and enjoyed every last bite. They had a collab at the time and we had a beef curry pastry which was fab. The pastry just tasted incredible, the different savoury and sweet options were an added bonus.",
+      "time": 1747262769,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "M. Moonen",
+      "rating": 5,
+      "text": "Great place. Sometimes you need to wait for quite a while but its worth the wait. Lovely pastries, lots to choose from: both sweet and savoury. Go there!!",
+      "time": 1753535731,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Lift_Run_Eat_",
+      "rating": 5,
+      "text": "Legitimately my favourite bakery in London because of their friendly, neighbourhood welcome, their interesting experimenting with bakery products and of course everything is excellent. I can highly recommend their sandwiches as well as the cakes on offer!",
+      "time": 1753883460,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:27.632Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Wy2dvADdkgRr4cikvURs_0"
+}

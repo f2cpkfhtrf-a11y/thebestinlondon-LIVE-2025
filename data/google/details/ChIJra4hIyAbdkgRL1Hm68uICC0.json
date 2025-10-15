@@ -1,0 +1,264 @@
+{
+  "place_id": "ChIJra4hIyAbdkgRL1Hm68uICC0",
+  "name": "La Patagonia",
+  "formatted_address": "31 Camden High St, London NW1 7JE, UK",
+  "vicinity": "31 Camden High St, London",
+  "rating": 4.6,
+  "user_ratings_total": 1568,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5353508,
+      "lng": -0.1393827
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5367256302915,
+        "lng": -0.137975669708498
+      },
+      "southwest": {
+        "lat": 51.5340276697085,
+        "lng": -0.140673630291502
+      }
+    }
+  },
+  "lat": 51.5353508,
+  "lng": -0.1393827,
+  "formatted_phone_number": "020 7388 9861",
+  "international_phone_number": "+44 20 7388 9861",
+  "website": "http://lapatagonia.co.uk/",
+  "url": "https://maps.google.com/?cid=3244993940937920815",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 6:00 – 10:00 PM",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c6K85le2ltHa51jSSn3vobNCNT6xMEnupWQwPTjllvI2PluIJal2Lpr4GGBU1OpecXkgMJDCHue6yi6ZPrW_BascTz0QSvCg3Ag_f6pksxUS0GRGH7o_BZp9565YpMMTyzQfjnsvlvoLdZwFeU6DHmHz2NUfd-CE9fw_80VgpONEo3oGb7UxGdd-5IYr_bRSqreiLbDQ9wHxlNVWG9k93rcCnzjlRlV1Sd4jV_FthhW3zSYvZWV_HlrtXfmGaJWXsoOiOWcdufzWkwmRlnyJ6BVLqOk49TvPmfN1hjZrY",
+      "width": 4800,
+      "height": 3026,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113133107114893670642\">La Patagonia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0ueQg0LILc0FORrcN9uoBdChgpBUSUTSzFMOUONlYO6QuEix-itO8QoRjzsbiFjzZMyx14pWazB_7Zjks94I9vnPA9pTm7d7L0s3B5tHc6GB0S4vATOZttiiAQ0dQ3vwXiTLFo2IfQLMcmizVK3mpBkNJXSbDt6SBMP2zOntKAf7pcVb_ZCTvPBq4zGA5LFhi5Mr4NQyLfwJMfjkofY32u0C-JwfatcMa7oQRu8wonvRl_8upGzNyK7SFu_eVtKwTxMiQk-6viZoNDbEbNlvRyBngh_1qKiLHaooqtyE",
+      "width": 4800,
+      "height": 3193,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113133107114893670642\">La Patagonia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ciNTzS3I-NQuGK7n8djTdiIM-gay8TztuZSBqzIS_2mY0HPNJhi5dKYVETBiY-DM4VGeGtMpG4O-oBgufrSr57KI5g90G1D-i3XmwHV9mixelqOJC_Vygrfid5OgUVLwN2pbiVoid1V80Mb0pja3SwVMiJ5SXHk2G_2z8QJlMo3uwIGUPD5Fd2iVwo-KpFD3uPbxENIdJEgaAw7TPYD9NPKLiEs7u52jemP6PXkWi3s5hjdlIAXTUPBISp54smF-PaHl6EFI3ldoU_U3637JQROrSE5nc4tmmuRDJdnURSQYqK2TeUloY0DNt6Q7U7km9K_okp3evjV8bNL79vFVmxNoaizlZJjGVv_8xVo7A4YWLHG0RPOPLaSR77nYA8nXPrgEliafcVPfcMRPNcgafF-Wemy7Hdg-SFoXViBp4kTGmWyehWIPvvZ5TkrLwH",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117725621134913561488\">Utsav Tiwary</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2de4R9232qmElP9b0aWEKUdiGUvZPj631_P1XL0bzdoBgUUq1PcmbZ8Lunrtqr3O3MreElcUBoV5xpOUPG8TsDTW6bGJ5imBviBe4K-SS-fQZWkVXNXkIaRybGjrNU_otA9dXL4d0ZvrXSXG1l1hkDEufxdXxVipikIVaZL3sVQ9QqqlQhAKWBCIJBAIMN0SFGvw9nOBgP5Q8Tcwrh77jLuVgzPnyshp-H9IHlaiMBOKNxDBCKNpPvdz5z9Q0x7_olIzd2DEDB-JnOR_rss--Ec5-6d_01pJYL0BDyt8sI",
+      "width": 4800,
+      "height": 3193,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113133107114893670642\">La Patagonia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d5IT4JUcr5hcWu9vLF9Daz5t_qNNj8vIxYG84dIWk6GaoCOFjgs0IeLoUHlbktFhOOOn1MpUBM9g5kk0jHSnUUQIvJbey7j-Ffu2GvEBwJnvL_kld9P2un9pUk7maDkfI8uYhd4qdKERZhwQ7E_uyrCB2DDGgBIVKjW2Z7c4B2dq4aVBlamm_rF_tQ-v75fdKEh7vmeFZiACnLIsE_I6STdja5eu7tGD24W_NvAPKiiRS8Qxx6TY6FSNME5tWMY4hpyc-DTtKAPgNNeM2fJyxa-3VHhVTG85HDy568C6woi9WRNT8WsXdqAefN_RC71uvS9g1sscE5qGH_ecJCJkIPNEwIfcEqLBtWcQPT1fUKZy85phmvAR-GHwt9Yb6KpGgFFKC6dUjCo8z4bzqX-IOHdL301HFhUlxyawCRtSuva7P20g3xFBVk7g3lbBfo",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110657436088401881617\">Brian Lazo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJgIGyGlU-jvpzVmjcxYORxbmPY2-6wK45Xc0PEHmNe-g7kZyfDdrGnLqnUSnX5jClXpU4FyAGEAlc8WkaWobttBahQ6tCq8KQtF-iFFq9LCgsk_yDcG9DEOkfAQa05q22oCDn4taenFbzaQZ7OfkAY1jqD_QJ_IWkUUacP8CLlfRM-I7E00Sw2GZdJIDzUgr2lQQGpoQFTOVnjGlDvUsi0GMVIHx9Na5QV6KO63thPBSQ-eC03IoJp1uu2U1l_wKI4LUJVks2G16v2nTO_kbndOL-pKstCoIUgjpbyeVir0yumr3LP_m4BvqLxWFMh2J7S9Thhsj4HXEPhQxjZEkSu8TxLrB3hp8JiyEjwKLR7iEhqIgSqTRnn3G4HL5T6C-vYQsYsSaGhP9BUNliQmiY97dPw0S-xmDsT8RaE-p43Q",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118440663893007364788\">M Q</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eh7qDUwcjMFargQMQ1sp5ViC7VvU6CZVkQMnwSKLtsnhD4_a17kzLYo1tFfkAQe2s8V5xKD5UzKewmYvqL6yljS65i3Q2fgbUg7JkDsV_NwRZIyIyJhSa0KHuuz4ygBYzN8_yOgyOXPcDrGyjRMxP0PzlBxXrxbvVwbWKHqB7oXGAHuAfXDf0f8WcqTczRo4VJB5cdkMGn4YDIZqfGxiQ62IY6O8dJyoEOodbJOs5CsPiSSP5z7lX0QIY7wYBNN97ZCHjt31TD7gf_2D4SX732AiVYm8VUjvJjHqNiS8XVhTJhIE6COcUnK0fmVpirF2xt3-xbSgX8GnANW9xXbMSu2oS9cfMGKippLcKvRSq8zXALz-RLzFSsqxjhzBPIeSpx0MuqI4rU-09xHu4VxnlLTO46zvmmzaw4RxP4-VA",
+      "width": 3689,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113042274571994225286\">Maria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2esCO3960Gd8WDntADM0SklATnyIvR6FvFMbQ3RALm2TzUGd53dnlj4jP0aLUEq8WOnKZvwp07Z_n1TU7vedTiLXOIGnhRETH0BMbkZXaiiU_9pzLOXSZ1M3d2Sbt5F9Anp_vy56Y2taCmpJiFa2gSlCAqGGlUeHvu3iDbXiWg6wPNU0LYhl7MyMYXr45iBSNmtargoJNRrvN7gOkOf_dEZlPuy-6Oc6SZJNWpOt_UIpAfYJvljU2RXlK11kwHV1YmxWWgZU6_Vw81t4paF_zgrRzFQZSGo4UoTT7J2xFgjSO2X8-TucVY9E5zfupWS1cN6aYWhALvLIOQERxAo7zqbnsPcZm77mWDcm-_t1VbeZ0AfOb_3DLf0E6m95m3Cd_LsrhSOj6ah4Fkt49xyYbbD6pPM-Y95Oca1_IlusLFrQDEDnH-Ox_CJfdbSRA",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108677537356871788065\">Kar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0gCkDRsJg1srJFnfO2xNwBcsdMuZBJvZSzflCQNSzxj8ovC4xwvsuoLPO9T9j9wTj8UimjMICwkHsz44i0vu33e_ieFRB1Qv0YQ_0RiyC9ShOtjgqdJRgikpXk9c2PdMijyhhbQaYqBNrxH6oDnXmzZnwZrbBCyr8D6G7-xOQOu8pLDqGNoeTjdkam05l39SgdO4R8sRQrV9-X2XANS2v-uC2uJtOQo7Jd2iGlICjMJPEyP39t8UjUaCLheVAWOzHvIBQeuW7TMdeqEItJgdOcogF5z1j6PxHafmp6CU",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113133107114893670642\">La Patagonia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f76xaLC6NDOXYxTA7MPPwJ8pYeeJEoyi13lKSyoZSAE_9CKXwZIs3VxibKxZXtn3-I0jh8hgxayf2nP6VRs3WIRmC_spvYBOT2B3m0woOqx1SnWbSEUjAkTm-We9wAHUQ8Z_BAcjKAvp3vZNfBwNqKJ2jKFLlYFHhMFqg2zwGbY6dUDoGK41Q3uOcOUmYOBZunAxHzxERbLx-iKcd0mVzT1BdBiTcESaTUPzaAOSwAMgipBx-WjKczRZ6Y2eEd5CISBqgYSQ9NMVGgiMdXc5czHIolttsfJI7v8bWaOwDGTlH1ih7WymlVh_uhW8mh08HD6JYNsAfuNHgG9YVnDQp3Ew6mhoi2uAJqGZoMPdncr4bLK_Zm7gaCobhZA4LUvgXfe2FmeacGPH1LnIIZHFqsgkSlYnKHe9ZKxj_1G4Y",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117458685581968000378\">Giovanni Mega</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Exposed-brick, barrio-style setting featuring hearty homestyle Argentinian cuisine.",
+  "reviews": [
+    {
+      "author_name": "Chelsea Charisma",
+      "rating": 5,
+      "text": "This is such a hidden gem in Camden. The restaurant is very intimate which makes it perfect for date night. We had a party of 6 and all of our food came out just the way we ordered. All the Steak was cooked to perfection. The waiter was extremely attentive. Highly recommend.",
+      "time": 1749209645,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "M Q",
+      "rating": 3,
+      "text": "Went here on a Saturday. My friend chose the place and I generally like Argentinian.\n\nFirst, service was exemplary. Especially with my friend’s daughter. Lovely chap.\n\nOnto the food.\n\nChicken Empanadas - not bad. OK portion size.\n\nRibeye steak - not bad. Reasonably well cooked. Flavour a bit lacking.\n\nLomo - the fillet steak that just tasted average. The peppercorn sauce was decent.\n\nFries - good, can’t mess these up really.\n\nCreamed spinach - bland. Didn’t really enjoy it. Need more flavour, herbs.\n\nOverall it was…not bad. That is to say, not good either. Rather pricey given the quality.\n\nWould I return? No.",
+      "time": 1748102397,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Jonathan Stevenson",
+      "rating": 5,
+      "text": "What a great place to eat, we were a party of 4 and one of out party was from Argentina so I wanted an authentic experience which we got! The owner has their own range of Malbec which goes superbly with the various cuts of meat cooked to perfection!  If you love steak, you definitely have to visit this place!",
+      "time": 1750966670,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Kiril Tasev",
+      "rating": 5,
+      "text": "It was a random find in the \"taste for all\" Camden town. The venue did not disappoint. Atmosphere was chill, argentinian themed. Staff was corteous, present but not overwhelming, accomodating, smiling and giving advice as requested. Food was tasty, arrived hot and on time. Tasty, everyone enjoyed their choices. Excellent place worth repeating.",
+      "time": 1742772631,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Stephen Rayment",
+      "rating": 5,
+      "text": "Excellent quality restaurant with good service and even better dishes. Popular on a Friday evening with people walking in trying to get a table so booking is recommended. The table service is enthusiastic without being overbearing, it's easy to get attention for another round of drinks. It's a mainly meat menu (that shouldn't come as a surprise) with my dish being well cooked (medium rare), well presented, and tender to cut and eat. There are home made pasta options as well if meat is not your thing. There is also a good selection of Argentinian wines and beer to compliment the dishes. So whole heartily recommended.",
+      "time": 1740221509,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:03.710Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJra4hIyAbdkgRL1Hm68uICC0"
+}

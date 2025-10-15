@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJgddVvb4cdkgREEputxh4efI",
+  "name": "Fabrique Bakery Hoxton",
+  "formatted_address": "385 Geffrye St, London E2 8HZ, UK",
+  "vicinity": "385 Geffrye St, London",
+  "rating": 4.5,
+  "user_ratings_total": 826,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5320634,
+      "lng": -0.0757079
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5334131802915,
+        "lng": -0.07444456970849797
+      },
+      "southwest": {
+        "lat": 51.5307152197085,
+        "lng": -0.07714253029150203
+      }
+    }
+  },
+  "lat": 51.5320634,
+  "lng": -0.0757079,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://fabrique.co.uk/",
+  "url": "https://maps.google.com/?cid=17472128276912556560",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cS7Z_M1HIKig7jUodHNMOYzXRrJ0GVC4eGtelb-EStk1svK1RGgoTszAo7S-TbPXs-WOBfNP_CPr6Mjzkjx1EmWVPbGagJANZQcehpI0YLq74WAGprHyPlHRxLGrpw2m_HhILxCFukKwMJSSyZD8kFfrcv2bt-pF0cy7tBjIara2gwctK8dUM9cI6rmr7g6WjhgWVIq6f22482kzCJ4YJJOLu-MU12LPfR3IJ0O9gTyMGYCD8Ul_sPHs7utWtU3ZBOlFhD4G8sguXLPN-z-LqF2AEHOPD9qYb2ucGOJ24",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111658359822407860801\">Fabrique Bakery Hoxton</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ehk05094UclldBhnNMzGYujqUHmmOEbd3wLzBDK9zt1HnQRbixRHMrzaS2nmWppynBY3TTUz6KCRWE5jqANPhnk7vPFZnky4NFTJ1Bgz1_1JO9lPaHjSAa5pZA1J1g1U9dHYkeY9bpqM1J37pfEut9mSO4kUlt6ilOgJDO2L3gpCGRquvO8nxuvTim22gH9zTxnfEZNCeKQ47FIOpUin6Fj6-9VRJP8BkUdDX6G5hY-r34OmoSLRBxu_2zSYzuVhfzAGiOx7NDA13zEZgzyfmpEDv3IZqtWulzjZSuh5lUHJaPHpjc6XBnQ6cYZsWhJ7rJu4ul7M0mdSZvVz2qw8u7RR5a10bJrz72SncNFYmKlA31h0qLLN9KehqyNwsQpF8lYtjTLQoLTEQZESckP5bNp2Sqmx-oLLCqPTGyyyw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100398098310213940030\">Adell Hanson-Kahn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eTVTsFJZ56MKkXcje0lvWe2M75VqlvLdvVUO_arH6FACf0HoMYi52LkxZu0ABDrDMGMBWz-xrKmPbSE_dGAVQBS-k8A769lB2HILnyEOohQWZdZ6sKOUj-TymSSTpICy0i0jvbutQnlba8BKC78cDifgu0LKugAKD0iiI9P9A8mmZyQl8QrR7Pnr-DZhWfJkSvoOfeyPIHN2azIpklGVvbz5i1Pbwq4ZtVAM_lkz3J0NCsp5lSsbb60J3vcw7Dg1FshBN46RPuYWDkbvkC_HgsXqdb3yldowCRQem7xCLFi5pFc0wIsT3vVB9D6CDmSQzIfjef5xsf_SI_F5WIyrhEdGuf-b_KNcBRX122vgaLOhdyiNty4GBysy59faZMUsngGbt5HA6w9jpDldhxU8kcLTwkBUrka4GY8Mo1QWZqug",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100958655001665940234\">Sarah</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMkVqvC64dyJPv_blaTIL05dVBBhBJqwuqeKAkMBHC7aKxnVAjCVGCwe4N7mYfweROFYEaBbY9-9wRYK5s0oqGxxWOehLJGC3bgcs-3U3rYeFOeXfSvup4D-OA7rkCoUDRA5XVrFjY0GzDwS3-iqeTcomUsTMnRVO1kvFjkJGKpXIOjehQ0jmi9S5gipv61W77bvRbgXulIHe5zofU-KllyCYwyAgXqiVAA4IxnBIYRXRc704ZgIk1SbnaD64N1b6vhN0gzAnRkxcin8xEUCyBe9Evf2MaCKCiZyRLN9mML03ukxuACiTWRUKqR689OXbCcJ98oiL0O4zLfmVhgmJvEUKzoKe3TVl0GJ7FDZeUYUO_dgg5NQBCPORkjj1lxyLe9_VP4YEcXuTL8JxDotAjWG6hc0y0DDaGfYoR928iCQ",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115179699501838096335\">Behnoosh Azari</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fuIVW6seFCmloy3-0PAWg60O0eCtJMe6pBdJdFnc51GU7bM7kZNndM8za-my0MijUQo9vMqGCUtbIp8VLtZk3Fz8HOo_nVU-DmwNKYnia_FTN71kcQiONmSjUz1XOuG_i-SYvpo6PlGZL660R4kyVpHYoE53HA87Sgk8Uh6Vvt7uoJX8nlRT3aRzx-P-vAsIRQHDQI6D4yuzOaUSybOiYIKvwD5LZvpZvXBKvIco-S1w0rLRXtYYEY9xnSIV_5iCu91ui-WYK_vzcUVbkHzpKZJbU_TyhS2I6TdN8Bq56OpVy-gd2NqQHpbdjP1GNFrTqw3JJ-fcwUx6EMaAJSmxSyLATNDvym2fIWN-LrAAEhBTzd_j-2G7MJjJOgbm1jq0LgxDn2QwgXXvxkO6GaB92CRLJRUqtn6QG4V8RGdBNA2ZyS",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100958655001665940234\">Sarah</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxmPQIeFTBnGDgiqqILTAqfAOLz4ChH0wyPaKfw5SSOb1MMT3tmlys9Q6O9xbp_ikv0cdoR-ni3j97g74CP-PHooChBPt34La6vr68FtesD3GSvmMbJMKzLluhn8arcrXSsUfc50rPKltQkkFfVaFcE09iec_uI53qMFohL3-BBYltFtnPJIKTQlnfapyc_hZmenpUQ5PziNx0rkQPiCVqk0tCcOGZln9a2rKYTn8imw0QDYuyv1O8OTBML6MPqTnaZasXYBhtXD44RBUn1AH0R1gKpNryHhQ9fQUMnFk-aPIptCSHsxwUZPGG5I53-a2tRVIgvPjQBVHUGdy_T1w1lY4kGgSym9y_csj5YHompJiUOhocrSZCIZVOksK0i1wxg390ZAnOZv2O60WehrZ_8aBgorVfDsc8zbexLYnpt7pE",
+      "width": 3024,
+      "height": 3737,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111668540692099122077\">Carlos Lopez</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJz-EAyrhWklEeqIZLz1F9LSjcRjFwG4-dRFLk7kOWXfTIM636GyEvgc7OmOGRvzoXDl6WmA9AQuXOd5osWU7NdQMbuRMBFFz_b4LpY3o0QkMuiUBh5Ey7SXLNWtBsX5KwXfcJNfgQoc3-UUZnAmiFNllf5t1RUGTGDbE6zeR5AE4OK4eWNQtrR7uOVPVmXmcXhe6VuO8bwejhn6PBexAwQRWV_C8auyzlVrvmMwakJAxWvCu5vVHxtrY5HapYB8Xu4orX6EDST05Nw5qw7uw0p8xYh30LsFkRpt0vXJ5Blf0MTP6JRL45j51WGzx0t06nZriMKWDntS_yNXSWKMxAFi1JQh61xrwzMZogNM90LgC1S0_Cy7Z0XnIHFSk1aR-vaiXOZ57R40eUK6Z5oauWquEnqLl3zKSJVgsJ1boI5YU",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111944377212295997148\">Yung Chih Teng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dHqBnL-aDeN1uNk0wE8RSl4kB1cxsAho0Abe8_vMJLL9HJO_Yln1WTR1_ggz38k6M3ZSDmG5KW5C0RHgJ_ZseMduswMRn_jfoCGTuBbzFEx4PTyqGFxsuZxPCFI4JCPS7_bv_z05HRmwS9fanKheF1vOX95ATBORqO1cKvWAfK4SbdorV3w_YDpiUJ9q-c_pAcnMAc4gmNVWZxr-VaTKNTkN8ifjhr7M_qpNUI3VP8yrI6Q-VfXiv1LeBX1ioXhZTxb9sawy-beBwH0gkENYDhpCvBxQvJJocEUi4TuHXLtiqqV7BlZOLgIvXrfd9SJ4q3pEPrFNi_7izmL087ekvkG70K81IkbQn2R1jeYdft2a15TOCJyUvfTVgjuMaw-Br089u_hTDUFUoUllA0f4LR2SdGI7biXpS9IxZ80KFj7U-s",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105614704307848411752\">Winsome Hull</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dXnRRzNAeONJx9-dBtRwnVjkjEkSfD0iZMZQNqeoNyd7n7WpF69c28TsfT-zYC2-AwDYtGGyOzOHA-WVwbbU1GGn6pGZy2q9aj8LfO3mnUsrorrYhyWInN5n9bLbys4-VKLwxbZ06J6k_Uv0k5NLlpKYhFAfioAqIXW2dB4BF6CP_5Bw_KRyuDB1gLHaD5TEkvaN4bJQ0WYhqwjW0eM8Z7ZhhZPSLfi8wzFn0WfxuMR1zL3xT6aewUQhRqdp-cxP-P2Yf6LgxcwsLWysg9pYpx7VEknaF3shkAXGDS2hrCLagxrgkOdkdURQL1moVDa07p79jlsD0NFFPCIvECzNrbLpD-Bd8NAc0v6GFIWxY6rvSG1gBdYBTPz9UaYp8Jx2lrLeeMwGkSSFtgCpw5Qf7FhuczyvPmWbXQe6_PJvkYJg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108420774883663500743\">Ana Miranda</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cEssmCV_eStHHS6jwsNtMGNSERay50sr1UMmz0PhJND-zGhTIhUqMA89BUIGRQ2lC5WUsUrOYDkeKoP8LtCDGAZ8TIWKz_zIc8aXBIy-XQqA6MZXKlnC8kO-_sE-5A_Rcqd4ZwSauE6RsAS4pLHsLbTo_VVkzlJ1n57ABuq1SjXEO1WKB5A9hPChtR8r-cnjWiq9KAzjU5nq3-oQUWRFY8Wa9IfQ-5GlnDRMnh5aoDybRxv6penYcIaN1wGuT1KZviBoqBLJlPwl_3uxviNY6e9DOxj2Cbwp-zudLpD4vIu79P2iwJb0JRzsUFWREKJMZM-AOJYmXyTQAk2AxyXVONF7Joy8z5mg8xxZGsrfkblaNGJfwFN0xNvPGKCNrQ5GDDJIHspbgCjsRAlQkF0A0Dc_B3CRqWBDWPhH307hMV9X0i",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101865537340809155340\">Vadym Pinchuk</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Maryam Al Dabbagh",
+      "rating": 5,
+      "text": "Love this bakery… sweetest people and the best cinnamon and cardamom buns. The cardamom bun is like a soft hug, reminds me of Iraqi kleicha 🥹♥️",
+      "time": 1754211510,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Myriam Ward",
+      "rating": 4,
+      "text": "The place is known for there cinnamon bun - and they deserve the reputation.\n\nI tried there famous cinnamon bun. It is slightly chewy, feels glazed with some crispy sugar crystals on the top. Perfect way to start a Sunday.  Only downside: could’ve have been slightly more moist, but likely personal preference here.\n\nLikely one of the best cinnamon buns in the city.",
+      "time": 1724508344,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Carlos Lopez",
+      "rating": 5,
+      "text": "I loved the ambiance of eating right in the working area/kitchen, so lovely and lively. The 2 nut pastries we had were fantastic, plus the flaky croissant was delicious. I can’t wait to go back.",
+      "time": 1732636454,
+      "relative_time_description": "10 months ago"
+    },
+    {
+      "author_name": "Hannah Sierp",
+      "rating": 5,
+      "text": "A taste of Stockholm in London! A really lovely, cosy bakery in Hoxton. We arrived at noon and all of the cinnamon buns had gone and there were only a few things left but what we did have was lovely. Soft, chewy buns and great cardamom flavour. Tasty coffee too. On the expensive side but friendly and nice seating in the sunshine too!",
+      "time": 1674328156,
+      "relative_time_description": "2 years ago"
+    },
+    {
+      "author_name": "Vesela Gospodinova",
+      "rating": 5,
+      "text": "Good morning from a lovely little corner, suitable for grabbing a coffee and breakfast on the way and if you have time to sit down for a drink and a bite to eat in peace.  The smiling and friendly young people of the staff will put you in a good mood, and the food and drinks will give you the strength to overcome the stress of everyday life.\nI've been living 5 minutes from the cafe for a month now, but I'm always in a rush for the overground and it never occurred to me to look to the right where Fabrique is. Take a look because the quality of the items on offer is definitely worth it ❤️.\nBuying a surprise bag from the To Good to Go app brought me here.  Exactly for 3.39 you get your breakfast and bread...delicious, like homemade and tempting (despite my diet :))\nEnjoy ❤️ I recommend!",
+      "time": 1727601031,
+      "relative_time_description": "a year ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:29.655Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgddVvb4cdkgREEputxh4efI"
+}

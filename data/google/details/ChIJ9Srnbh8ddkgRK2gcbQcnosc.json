@@ -1,0 +1,195 @@
+{
+  "place_id": "ChIJ9Srnbh8ddkgRK2gcbQcnosc",
+  "name": "Coffee London",
+  "formatted_address": "127 City Rd, London EC1V 1JB, UK",
+  "vicinity": "127 City Rd, London",
+  "rating": 4.7,
+  "user_ratings_total": 14,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5264695,
+      "lng": -0.0876974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52780543029149,
+        "lng": -0.08645021970849796
+      },
+      "southwest": {
+        "lat": 51.5251074697085,
+        "lng": -0.08914818029150204
+      }
+    }
+  },
+  "lat": 51.5264695,
+  "lng": -0.0876974,
+  "formatted_phone_number": "07450 279075",
+  "international_phone_number": "+44 7450 279075",
+  "website": "https://www.coffeelondon-cafe.uk/",
+  "url": "https://maps.google.com/?cid=14385103072623618091",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 7:00 AM – 6:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cwISAAoMFmCOrZ48ZbHfq0R-luWIC7ReQBG9jYiO6kJvfh4lCgtm5HFTSTgDqYZWcC3rahlPZpjd3YN1hhiMM9o-H9OUwIBEt0xzzbNopfhXEr5yCLb2L6JzVvtO0YQ60RHriIhdmgU4yeeXjC-uNxkXGVXQTS4hmpTry2RGXxF1M9s3z4BbBUg9_w7YVDBNg4y0bLF9zga9bJJVi7h3IrSwJBgdQ731RipEO8qqywFdCma5f85ZPVKLjJ390fF5N-GqSrNx2NgVVdg0laUn1Cn6plUqwfOrdpin7EopW7Qg",
+      "width": 1344,
+      "height": 756,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101557762861644256733\">Coffee London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drxU3v5V1wJS2UhF8lPzLzKXpmoxa5RwCL6kjNnGGKJ6sphNfRIqwEd9U232eFB4yM3ylQAXXODMtZj6PwRgGz2ofqqosUiCHsiNsSCyXQBKu5dM4V4c4xPd_Sn73jt9J0Ud2hwkj87tbRQZ7NY2ShGT56StcUZuvHy4HA26x05B1FqOT58IFomJ6aXHy942QVtd0WUXJWYHWZmLJOJ-zXEPRZBuCzWmjRXWGL_ZJUla8pQkPN8bi3AIOrmubuBJ1L8xNjgKh4Ep16wjE3UA26vFyDLLO1na6u8EfNaawjcfAvVGgsFYY-2dnxmOWk2ma6_6uEAdNgOfGbrBJqTkIDbryZz0czWtnHS6pQOigL7khmZH4Oew_48zf27ggkDaK6YOBFCu-Gk5YRK_13yNDt4s9yxJnDgVp8UwIvdjqISCla",
+      "width": 900,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106939858335832723428\">Zanyar Ali</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cED56iztIYutTYRohEqG-l1C1zjT400N3-bzbT2lyeD38yumqU226mPJCj_jen8qAHwD3BP5Tsczxq1h4bMIRdhuSwj_bP8CFHJtFkt50-bmMQJiuO8coEGitog8zX0kmtzU9VsCvXKkWn181rlBMC9GABuL7a-hK_VzPrSS9al2Tjfg0jUcf0BT0eElcv3N1CyEZNXqpOCPjVnPO8k3SCJiZKzp7C6c13plZ4Y6rRawTC7rFFV8LISLQHf0FRTdT6O1pOuiZDwZTm7FfxDi5vsLbysQ4eTI8ujwAWAx1mcIt-dShlPrWKY55Earw-0LCkKnqnGg-JCmNnA0lKDTk8cYGROupF-mb7jrBJv_I8vkyxYXdJ8rwcCTdTuV1_fZDI69dhtg1NAoEMpEONjM9OdwgbWBp_B9mAInXG4bUWoA",
+      "width": 1868,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106939858335832723428\">Zanyar Ali</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ecKq3STg2dAooGpplrtQLaPwtz_jrkeSxWApJL-hhptY6ow-1buU4jjXPlWsn5rEBj3eESambWn09KGkRgjLOiGrpbpujE9w268S-09yrjrNxC2YguYOq_kdxthTWQISHgDvcqVrqEndS7kG_3M_nXPZyImV5WPHDaugvjbT8uyl7bYG29ezfnGcexczPokRkIr9eYok_Jj5BOsKy405HaARQc5ADivEGN3o5PghK8fjR1CtqTUm2dGEFC965ggobciFovp1aC-zwZb2gB736acwJTANRc2lB7_zU-8zKDgA",
+      "width": 640,
+      "height": 640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101557762861644256733\">Coffee London</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Zanyar Ali",
+      "rating": 5,
+      "text": "I wasn't sure whether to give it a go as it looks quite new, but I am glad I gave it a shot. I'll be back definitely.",
+      "time": 1748172154,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "ManLykMo",
+      "rating": 1,
+      "text": "no Ac, disgusting decor with sticky tables and dirty chairs. nobody comes to serve you. and most importantly less than half the menu was available on my visit.\nno ice-cream, barely any of the sides, just pizza",
+      "time": 1752876195,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "bond sultan",
+      "rating": 5,
+      "text": "Amazing place to go and great customer service. Breakfast was amazing.",
+      "time": 1747648957,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Mahadi Hasan",
+      "rating": 5,
+      "text": "Lovely food and lovely customer service. Will come back again for sure.",
+      "time": 1751897042,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Janeth Muñiz",
+      "rating": 5,
+      "text": "Coffee London is a lovely place to enjoy a good coffee in a relaxed atmosphere. Their menu offers a variety of options, from classics such as espresso to more original alternatives, such as cold coffee with oat milk.\n\nThe service is fast and friendly. A perfect place to unwind or have a good time with friends.",
+      "time": 1747655509,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:24.198Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Srnbh8ddkgRK2gcbQcnosc"
+}

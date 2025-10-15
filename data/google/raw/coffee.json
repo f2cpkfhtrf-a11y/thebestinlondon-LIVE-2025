@@ -1,0 +1,694 @@
+{
+  "category": "coffee",
+  "query": "coffee shop london",
+  "count": 20,
+  "results": [
+    {
+      "place_id": "ChIJExFFUUMFdkgR8fKDv4FDsig",
+      "name": "% ARABICA London Covent Garden",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 1169,
+      "formatted_address": "5 King St, London WC2E 8HN, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5117475,
+          "lng": -0.1240356
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51290792989272,
+            "lng": -0.1232452201072778
+          },
+          "southwest": {
+            "lat": 51.51020827010728,
+            "lng": -0.1259448798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJac2MJkwbdkgREaRKCWzWrHc",
+      "name": "Prufrock Coffee",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2442,
+      "formatted_address": "23-25 Leather Ln, London EC1N 7TE, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5199349,
+          "lng": -0.1094301
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52128857989273,
+            "lng": -0.1080543201072778
+          },
+          "southwest": {
+            "lat": 51.51858892010728,
+            "lng": -0.1107539798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJa1ukL80EdkgRhI1r9wFYz4g",
+      "name": "Monmouth Coffee Company",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 3508,
+      "formatted_address": "27 Monmouth St, London WC2H 9EU, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5143834,
+          "lng": -0.1268196
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51572782989273,
+            "lng": -0.1255186701072778
+          },
+          "southwest": {
+            "lat": 51.51302817010728,
+            "lng": -0.1282183298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJN16p1UUbdkgRTuyXr3hwQDU",
+      "name": "Omotesando Koffee",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1615,
+      "formatted_address": "8 Newman St, London W1T 1FB, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51658399999999,
+          "lng": -0.1348038
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51796452989272,
+            "lng": -0.1335431201072778
+          },
+          "southwest": {
+            "lat": 51.51526487010728,
+            "lng": -0.1362427798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJUXqwCGUbdkgRS9_gCSWnwCY",
+      "name": "Kiss the Hippo Coffee",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 1073,
+      "formatted_address": "51 Margaret St, London W1W 8SG, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51651529999999,
+          "lng": -0.1415986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51788362989272,
+            "lng": -0.1404041701072778
+          },
+          "southwest": {
+            "lat": 51.51518397010727,
+            "lng": -0.1431038298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJF0CUcSobdkgRM2Mz_ZJTXgM",
+      "name": "Kaffeine",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2171,
+      "formatted_address": "66 Great Titchfield St., London W1W 7QJ, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5184608,
+          "lng": -0.1404166
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51979877989272,
+            "lng": -0.1391121201072778
+          },
+          "southwest": {
+            "lat": 51.51709912010728,
+            "lng": -0.1418117798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJydPPflUDdkgROER0k8D6E8U",
+      "name": "Rosslyn Coffee Queen Victoria Street",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 1198,
+      "formatted_address": "78 Queen Victoria St, London EC4N 4SJ, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5125801,
+          "lng": -0.09350349999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51388612989273,
+            "lng": -0.09206822010727776
+          },
+          "southwest": {
+            "lat": 51.51118647010728,
+            "lng": -0.0947678798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJtczIQ68cdkgR0m45hoeIN8Y",
+      "name": "Ozone Coffee - Shoreditch",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 3031,
+      "formatted_address": "11 Leonard St, London EC2A 4AQ, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.524665,
+          "lng": -0.086785
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52601007989271,
+            "lng": -0.08542402010727776
+          },
+          "southwest": {
+            "lat": 51.52331042010727,
+            "lng": -0.0881236798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJ1fRYjo4ddkgRRZq7lphil6E",
+      "name": "Rosslyn Coffee London Wall",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 375,
+      "formatted_address": "118 London Wall, London EC2Y 5JA, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51768990000001,
+          "lng": -0.0890369
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51893102989272,
+            "lng": -0.08752327010727778
+          },
+          "southwest": {
+            "lat": 51.51623137010728,
+            "lng": -0.09022292989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJQVuAyHwFdkgRRONXLgGXyGA",
+      "name": "Hideaway Coffee House",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 1060,
+      "formatted_address": "7 Farrier's Psge, London W1D 7DP, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5113375,
+          "lng": -0.1352386
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51282307989272,
+            "lng": -0.1335830701072778
+          },
+          "southwest": {
+            "lat": 51.51012342010728,
+            "lng": -0.1362827298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJ_XJOLvYFdkgR1oW-M-c4fvk",
+      "name": "Chill House Coffee Shop",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 408,
+      "formatted_address": "10 Shepherd St, London W1J 7JE, United Kingdom",
+      "types": [
+        "cafe",
+        "bakery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50628409999999,
+          "lng": -0.146854
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50761262989272,
+            "lng": -0.1454857201072778
+          },
+          "southwest": {
+            "lat": 51.50491297010727,
+            "lng": -0.1481853798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJs3xKsS8bdkgRfycBOXqg7-A",
+      "name": "Lever & Bloom Coffee",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 433,
+      "formatted_address": "Byng Pl, London WC1E 7LE, United Kingdom",
+      "types": [
+        "cafe",
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.523281,
+          "lng": -0.131303
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52462037989272,
+            "lng": -0.1298076201072778
+          },
+          "southwest": {
+            "lat": 51.52192072010727,
+            "lng": -0.1325072798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJdaPpbykddkgRriPViOmOjTY",
+      "name": "Batch Baby",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 353,
+      "formatted_address": "Rose Lipman Building, 43 De Beauvoir Rd, London N1 5SF, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.539154,
+          "lng": -0.0813092
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54046007989272,
+            "lng": -0.07992177010727777
+          },
+          "southwest": {
+            "lat": 51.53776042010727,
+            "lng": -0.08262142989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJ_eb_vDYFdkgRR4N94aXl7BE",
+      "name": "Saint Nine Coffee",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 297,
+      "formatted_address": "67 Southwark St, London SE1 0HX, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5052909,
+          "lng": -0.09845079999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50663857989272,
+            "lng": -0.0977063201072778
+          },
+          "southwest": {
+            "lat": 51.50393892010727,
+            "lng": -0.1004059798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJ9Srnbh8ddkgRK2gcbQcnosc",
+      "name": "Coffee London",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 14,
+      "formatted_address": "127 City Rd, London EC1V 1JB, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5264695,
+          "lng": -0.0876974
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52780627989273,
+            "lng": -0.08644937010727778
+          },
+          "southwest": {
+            "lat": 51.52510662010728,
+            "lng": -0.08914902989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJT3lsCSobdkgRsmpQbI2yp5w",
+      "name": "Attendant Coffee Roasters | Fitzrovia",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 1615,
+      "formatted_address": "27A Foley St, London W1W 6DY, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5192293,
+          "lng": -0.140675
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52055142989273,
+            "lng": -0.1393480201072778
+          },
+          "southwest": {
+            "lat": 51.51785177010728,
+            "lng": -0.1420476798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJMyWOCs0EdkgR36UVVdRiiv0",
+      "name": "Coffee Island",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 1882,
+      "formatted_address": "4b Upper St Martin's Ln, London WC2H 9NY, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5124699,
+          "lng": -0.1272752
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51380287989272,
+            "lng": -0.1258352201072778
+          },
+          "southwest": {
+            "lat": 51.51110322010728,
+            "lng": -0.1285348798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJp2tasVoFdkgRH-742bZvno8",
+      "name": "Formative Coffee",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 852,
+      "formatted_address": "4 Butler Pl, London SW1H 0QD, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4979102,
+          "lng": -0.1354426
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49923522989272,
+            "lng": -0.1342676701072778
+          },
+          "southwest": {
+            "lat": 51.49653557010728,
+            "lng": -0.1369673298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJW0a-n_YFdkgR7XdjA6YeZIk",
+      "name": "Coffee & Friends",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 522,
+      "formatted_address": "12 Regent Street Saint James's, London SW1Y 4PE, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50860429999999,
+          "lng": -0.133517
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50984347989272,
+            "lng": -0.1321225701072778
+          },
+          "southwest": {
+            "lat": 51.50714382010727,
+            "lng": -0.1348222298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    },
+    {
+      "place_id": "ChIJ94DTm1cDdkgRibmgxzXy2EQ",
+      "name": "Monmouth Coffee Company",
+      "category": "coffee",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 2756,
+      "formatted_address": "2 Park St, London SE1 9AB, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5055334,
+          "lng": -0.0914069
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50683482989272,
+            "lng": -0.0900402201072778
+          },
+          "southwest": {
+            "lat": 51.50413517010728,
+            "lng": -0.09273987989272224
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:02.952Z",
+      "query_used": "coffee shop london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:02.952Z"
+}

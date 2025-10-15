@@ -1,0 +1,232 @@
+{
+  "place_id": "ChIJU0MKBKEDdkgRl-5wuxTmHHo",
+  "name": "Bussey Rooftop Bar",
+  "formatted_address": "Roof B, Bussey Building, 133 Rye Ln, London SE15 4ST, UK",
+  "vicinity": "Roof B, Bussey Building, 133 Rye Ln, London",
+  "rating": 4.4,
+  "user_ratings_total": 875,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.4699894,
+      "lng": -0.06694259999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4713063802915,
+        "lng": -0.06536286970849799
+      },
+      "southwest": {
+        "lat": 51.4686084197085,
+        "lng": -0.06806083029150205
+      }
+    }
+  },
+  "lat": 51.4699894,
+  "lng": -0.06694259999999999,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://busseyrooftopbar.com/",
+  "url": "https://maps.google.com/?cid=8799160748693581463",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 11:30 PM",
+      "Wednesday: 5:00 – 11:30 PM",
+      "Thursday: 5:00 – 11:30 PM",
+      "Friday: 5:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fRtg7n_BMmb0b4WnuypOFGvEKjMWZC90jRzKmVBiePUwpPcovInXLRLb4_YQ5tl0YdkwFk_wFzWMFZgMgamx0WdjY2RF0EyejjcjXo_l2pk9Z5VfqOFbrWvseLS-eK3Amfh9TTgZkWKQa6l75on9tBHpjCAf8QPJM2MYa2LNRvsdQ8D1D2yxDHOgbnRVylS740QKE5PSupYUUF0UGxgMuS4nem5zwUBBu1yxoU5rlYAswHpt41WRv_jkz6sZUgx4sStmYC7K5x3y8I_OAzwLeZfMtO1aeWK_PGcoq5qfa-u_fDzHSZgihGWQ1df_1SaO-Gxx4lW2sYWX4uPjRXCW-Lj_4722n7X5IjP_VDOEGgdlSxYuLR1ei_s7mtGfKwB7dC0knX21Ap-wdWL4Famd4AbIBY81XPPlsknhOKZx80HrGj",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100058179944503662554\">Juan Mingorance M.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dE61eRbtsDJ7aU0yW25GoxrgHbfprVyIoQMrt8m0Bs1uBMWLe0Gq6ohjTHpcRdI94yqYVUNFW3xsjPrMH2tpaGkHWQtzP9uNy8v6Q7UGw1t9mziW7-mEIpe-a-HCKvFKTXfubUTWAzmkO7uX3UYsPJ7qsy2hwBZ0HRXu28RjcF3e8AlNab9BYJIFNCXDPNleZqMq94_w3WulMj1blKsMczZaqULy3hAaJiY_V45J3g_XlHCSOiIZ2H-7HxhuRe12diKlxAYJVWkG6--0DcKUNrQTxY2jexntw5QmY8Imnr7A",
+      "width": 1080,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110440695595563774609\">Bussey Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fF6VBNytP92PkLBw9gyFuCpdlg-bmQYKMq73ewkM09GAAvu3_HlHem58x9tYvyxuj_kGEXL9j7-HDlrku1sxJ2KuhqylGctL2DxlZ3x3Vx-PE5UkFUjTzGJ_a52lO_zRcwoxcXyKiOYKahPNvGzieJfy5D1hHT_Ol9ofLT-Eiy9el8dI3LSa4IZoUalfhpsMj1qsW7eswSL2XHPiaSrR4pI3MRgwnbZQUkywc_pA83O8ys8LEUEasfonh-TSovmQKJfDh4UugH0nTavhWEFxruZzzB6SOuXq4Wn3Ilbo6Z2g",
+      "width": 1620,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110440695595563774609\">Bussey Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2frVnLpGImceymr5YJZP2eP8i3RRBYfAQ4SlApfjlkOSQwgfeHGlyGTBsbCjCHBXDGDdu03giicHn3TNNfplgL9J8K-wJDRM-5j0xjjPrAqeZsuZp1KjFjuT2Aiyfi-Yl6HZmmq8svYkDH1Srv87BjdyTM2wnsqGaNOdxJeEv9b5Q3rE7ssswzHny1kaNUXndBmZLzZ90o8O7Q5BOkXoeNUQkj9Xg8hFqRjEedB_cgktcpsvfXUW-liArPFSyOkSFP7aHw9PeJ_HtKQnEZqxTM13Cev2OgqA7sZ6dq_sCpm3g",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110440695595563774609\">Bussey Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fpVqY29oCgrgW0PbDPxxt2GylgjroTTTMMnXijf-RQyHuqLxu9Hzr_n-LArEvX7jgYkdMvATykRZH-Coi3MZrhdGxWWZ7cH2QfmgMdfh96Pd5tHvU_vpzQne-0e1vEFQ4DXDMAB9Qa2jKe204EhF9Cmog6tSL0hfmqi_0ySJM1OeFJa9C8eu6PKva6ZBxuY2JrB4c-ZV0c0gh-4CCLfvkTirkcPuDIWF9EPvAQkMiwEw38yJWIKrCnM3QTfZDu-L9GerMyYCs5JFsnQwN43tzmToZp9ht1kEnXY1TDK-Cw2ijoObjQrvdqDyYc2jaUOLpCTvhtvwSBJYMcBGaGgkS3arfmFT_AgRd82CcQaPWFJebXxhyXGssuINYn-dC2144B3v-Bp8dZhaLytj_n6Xq_8fCM48lLU8NhkdrxNQiK0PnY",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101556288252578084190\">alex the great</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dYliTsdR5Kr1aho8cP49FCEk31krCYxRcTzghJZtL8NPKobf088gR4VCeDwFeFcLlAnHddvfUZ-ECC506bKVn8AvJkCSBhDeyrGRmsAk1tQCxG3UBLWeCilbdbuRrGb-ixh9UUeGvNxt8mOzaUXVLgxZokw2rThKbI9p1fYTxeSQUpIzXr3YgpaizuQnyszzSuB5ET9KHiTh8fuybND3uZeXrAQgHVvOncN6-O_3wHZUUc94pNVOAxTifEw5q3d7ztt8w1dusxatkR4ZpmocPt4YKVphp-3rDO1iow4roUwzp-ebp7bKk7ZdWn9vBazqpyHjxvOL5xrkvS_wVAB2sIYE8tCcxzJx_a55vc89woY3_7klSVkhveBQlWNgtBVbkKf_H_R01RlZsEKSYmWGtSZJun05qMRMtPCsFitPw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107172364601458792211\">Pedro Teixeira</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e9SBFk-BhDS3BdcaY4LjKIWyoDgb51Kj3nBvbrFZrBc_whcxXDGR6bIWm4F2cETR6bKHhZppIhyZ1Op2RcOBj1NH3-JOVAH-SflagYw9L7f1zgBI0pnSawnEeS1HwYstdd5VIe-WSQ7LaWYzlWWBvBfAa1b0Dj3rhdBW3S_AC6wiM_mYteoxRxXgPPHpokMfEPLtImphLXY-bwyDJYlCv7AGCf8rZB_KXHqlNlRpPteNFRsr9zJcFLOmzVMWJvQOYh5Ie7VwLvWNt1EOx1b2ylO1RfClJqVEmEBo3Mspqrxg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110440695595563774609\">Bussey Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0UirYQ3cZfIQbhX9pKc2CVonBt9wMWA4HDoChURehmW6tmRNSbvxulh90lqRRNxOV7hYoPaHU_d2hJWdZhfkl7dOnYsjvYsVZMbUHH6EpAIX4BSSCcYJHqgZq4pEhxeKvh0_1_3yCAz0vR2pOyfWUJRgeAKmzT_jSns35zjuxtgl5frYE4D71ER68u5K0HDV1BLvTfgZfXZiAIgx2AjlpVFH4iBR7XH5XPkZLpvqvKY1SYXrDPazI-T7-8DqYd8uHbc2kKNRPkfEqh6fFidjLstg2Dp5WaJEH0-N_N81bEOwffyf4yFfBFRvIOJ1-QtNGqjIHAOYnfyj-faTct_BqEW-gIGI-yvpGz7H2BHa0ALzDS4eM0YYeQ-aygo9mJMJzbtNEF1av8-CE5qAlAIXppm0es1gUGfc6kz38Zhua3A",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109840366404027767359\">Vyona Stu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eReXKygeIRGJzaVqrOKOvp52ooBnIu8UsjmEWY-e1rOegCxAyC8k1SHcKCd7VftbQ-lGjwa0fPACTSG12ud9uzmdn6KDNI65-zozgPZrBylWNpwAlwbMyMHPqp680VVots-BFykIkaalw3c7xemM0hnr9xmyA7r5_JCSbbcFHsUDSasjTaWbOs34AT7kNm-DPGfk8JQEZ2ysTFgTF49vgipET7RUnInswcNfse2F0EdP6O9yDxKisHzvrbbBlNC0Dvt8YncC6Oza7aW_xyOAeXPJcMglt2YlsePdasEHhGzH1DJSjNNQzAHHkqE4V3bQwDGA6obsQeKjSGsuSxQVHuxE9WzhAg4iQkuEoe_nCphLJ_XMs9bCUx81RFx2n5jobbQ-0Q94fn2n-xlcu6o942wxjzuBG74eJzmwoGtrk",
+      "width": 4048,
+      "height": 3036,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115989874380249008985\">Jayesh Thawrani</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clLB6BXTjnNh0Z04aeiYkNIWbBWTWphHdZJsVbnofVn9xPhC1PemGRbRvajCkcbkhFMaCZN7Ie7eeqVFP9BK3NHsQIdplCCfnBodyqKQgKkoX_c1mtGIxrfI3qi6hPFV8QLeSZNiYg_8jD9DqTbeBukFg2_sMbwgT_UO86tRMVd6bFuGTM9aXaf_PPFsXotxLimDCyQLFAQPxxcjelT8u1ZlkVoQRbl6hG9JAoQ15It8x456XwvuqkOdAScCSGYr_-ONODY3i_qIKKYWTjyZ9CsHmvp35k3RHYvEGxxRkaD311m6HT8jb59iD4jAyX8jnylciCqkX6arDTQsdAfkAHCrT6lZt2K1QvdHO-sS994LKoOH8yeQCzUIXkcN62okeVtmmBNvb7DNIUAdW2m4duBIU4qWkWNm1uHJV5kIR9zuU",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112008210666853243223\">Grant Skinner</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Cozy rooftop bar with 360-degree views of London serving cocktails & beers, plus burgers & chips.",
+  "reviews": [
+    {
+      "author_name": "Em CY W.",
+      "rating": 1,
+      "text": "After failing to get into another nearby rooftop bar, we ended up at Bussey Rooftop instead. It’s on the 5th floor of the building, but getting up there was a bit of a mission. The lift is this old industrial type that felt a bit sketchy, and you need a code to access the top floor, otherwise it only stops at the 4th. If the weather’s not too hot, I’d actually recommend just taking the stairs. There aren’t many stairs in between floors, and it’s probably quicker.\n\nOnce up there, the space itself is okay but a bit underwhelming. The menu is super limited, with only a handful of drink options. Ordering is easy with a QR code at the table, though.\n\nThe biggest letdown was the atmosphere. The whole place smelled a bit like rubbish and it was so warm and muggy. We came up hoping for a bit of a breeze and fresh air, but the space is mostly walled in and there are no fans, so it just traps the heat.\n\nDefinitely not the rooftop escape we were hoping for.",
+      "time": 1750586887,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Ash",
+      "rating": 4,
+      "text": "Great views, music and decor! Cocktails weren’t amazing but there were a range of spirits. Would probably return if in the area.",
+      "time": 1751134999,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Danial Clarence",
+      "rating": 5,
+      "text": "Can't go wrong with in made Pizzas and great beer selections. Roof top views and great temperature with easybup and down windows. Great, happy team and a DJ spinning some great beats!\nGreat for groups or nice intimate time too.\nHopefully the lift is working otherwise the stairs are a great way to earn that first beer!\n\nGreat selection of Alcohol free options available too.",
+      "time": 1754577650,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Jess Fizz",
+      "rating": 5,
+      "text": "SO gorgeous! Such a lovely vibe and great music. We went after the outdoor cinema which is right next door",
+      "time": 1752958297,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Jessica Foxwell",
+      "rating": 5,
+      "text": "Had a the most incredible private party at Bussey Rooftop Bar. The events team were so attentive in the build up, making sure every detail was covered and the bar team on the day could not have been more friendly and made the whole event run effortlessly smoothly. The views and set up inside are just magical, such a great place for a party! Thanks to Nick, Sasha-Sky, Colin and the rest of the team!",
+      "time": 1727113048,
+      "relative_time_description": "a year ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:38.770Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0MKBKEDdkgRl-5wuxTmHHo"
+}

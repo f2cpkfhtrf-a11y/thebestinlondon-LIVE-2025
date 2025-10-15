@@ -1,0 +1,235 @@
+{
+  "place_id": "ChIJI4805ysbdkgRfZMHHR3YA5M",
+  "name": "Double J's Cafe",
+  "formatted_address": "333 Euston Rd., London NW1 3AD, UK",
+  "vicinity": "333 Euston Rd., London",
+  "rating": 4.9,
+  "user_ratings_total": 1657,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5242768,
+      "lng": -0.1400542
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5256988802915,
+        "lng": -0.138761319708498
+      },
+      "southwest": {
+        "lat": 51.5230009197085,
+        "lng": -0.141459280291502
+      }
+    }
+  },
+  "lat": 51.5242768,
+  "lng": -0.1400542,
+  "formatted_phone_number": "020 7388 1212",
+  "international_phone_number": "+44 20 7388 1212",
+  "website": "http://www.doublejscafe.com/",
+  "url": "https://maps.google.com/?cid=10593548368058225533",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1400"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c_DVAuFbWYxXJt1VGc3ZXnwJvUIotNYU2sutPYvw19-HxcPoJsEZoO6G6jDVWj1DDNJnYJsm6Noi9wtQT3N_WZ5o8cKZh-E14mZ_ebGtkB3zSVe42-ljJHPFTptUjsaSjwSHsNiurjOCPrj6Eskxd83R0s8CM4oWXAAoet3jp2eLqxq-JHSyO0xryIJo3FaaX0Y5vw5XwyX6QcCtE9x7PepL3-ri8tC5DB6BAU-mkaM0rQLDbPrWhXaUFdH4Cyy6KL3aWRo-35P5aQxfNSm_bvx7pPPTHHMDKLEFclscMdew",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106475125958689523244\">Double J&#39;s Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dN6hTjYxZdiV6D8Wj9pVMi4w_SrI4OeNWW01lhVH9w27efLJganlrZrzGvC-oRsg_zerAAZdCOE5G_nfomm4tSzhbqWrJBYKvEf8o1GPpXLvKe7layQwTUc9q4uiD7aD-zsst5NP3mBe5noKDH4aisYZSKPseNAHNvJCGJbr78OgRploHMZWbs73xdp1jMcgPhrj94tSO7vr77ar4eiumDBpbHDGvIxU5l1BvyTZPv3K-VSWJrRLXKmlSlfJE_5CK-nJTv48_nPS282STaRi_ltnEJzuHo_ZIF7plI2VHj2Q",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106475125958689523244\">Double J&#39;s Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fFfN_XNcRcytoMN06TnDs8PeCc3gtKjGTemiWCTbtJZ_cOzR5FqbXTXI6L8giWTthy1KttgI1Pvunbbb6zN5xO_QqKSYU6Zk8jTAwa6kmac3qQ04VhzB1WfeuN88fIe0PY50aD_DxosbQcWAC7Xa4yXTaJjoV7JpyTV3QBudgxGxMh9C9idVSt3DXMRVhkM1MD_yTESyi0vl3wSlwlGb5h755V2NQ9Q7K1pXw71W8951xnivIBbY83xEQ02e3K7GgoOC9ZktQU50TepA5XXbkiwUWJwTTbRJfEnqOvNnP2ZS8BdYJ8CSOPbVzrz8np0S59kdhC6xhvXeRWCz_fWmNKpNLT0m2_9rdJNCsHsR3H0DDhdjGl08w0H_7ox75pRHffv47sjX5AKc2Ei0kxGKuP3UZk6n62QpQzIHjVJb-8VhFpcxWdsQxWQPm_GA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117090279160759933230\">G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2egGTJ3P7MFicRp93xuT92OIlDb_fOvdKxqgLoCvvutFE8yQOTaoah3NwztxgAb01INvCReHIql9gzwQiV2NSKATbrsblsChHjfzwokEXdPK5VlgO7ofc807w7B_9NHfbQVW_YzcI-Ue1GN9L-ucjEHnGy7rENfCs-oGREgC_6lgyNQuZwRs8UNYicP1oV_Q0-r3CA7kurTxvGvy4Uma8cHqzX79p51j5CHavPUygqkLhduPMQiTvwUiFikY9xKlmE_Ae0cBcbaawzQUM3c91vGsTcIej1ERkUkbrOHgqUGXGL6Oh28Sq-8dpqGDzojSXYacHBz7riKR12inpPMU0_Z63x6qyBAWVJP4J_zSbJM-lD54BYh48TPJaDVG_TatAS0ZV-0cuFskmszQkEzfdXUE7df3ipD1f5P0sA82vLaAgXG_0EI-x48_P7tqOOV",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110249181089651540475\">Ijeoma Agu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dAKPVusKtUsSXYay70QzzCUePQzgBnkoSSV20o3E_Ml1yrmqTYZ6bHBJdCaZLSdLnVLfLGXk0xihVEbB0a7SKxL2u8W6YV18-gMoPGUpgFc5hTeYEYeup9wfbwDztrka6hh76aN3BTLcDyALQbK6FwbIzxI4PoelN65uWCIKM3CsqloMlOmY0jYUHp2_aO32_Gyk12-56PMd2nM80LkEHJMcxgEFGp2JR2pY9duFiTjebBFCwoPbvOwDyl7mnTRBcG2CxfLpyxKQ_Fi3mE5I84Ld5ifn-WlHPXVB7XoADQHAlSyv-TrYJpNYFogdmjLLa5KPdRJ265zczQxDkiJlu2FzKa-wt5raNfW0xWyAjLE6ihdsnHxuuq-TihUcqdpq0E-AI-sQoJiUDzI6Pz47CKc1chZCf8lVrwBa4x3Xl4IYYfbJ5wSN4w3lYh2w",
+      "width": 1171,
+      "height": 1560,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103105009490483721589\">J U</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dGGI6iMl1zzq8nJYyA3HQI5woDiFYeOGP3qLjLblxSJmtUeb94gMKtOqCC_Ft4ZQjifivBMXz5gsZP44I4vNY8OCEQ18nVQnt3aroYigioBVtrPy4od9BRAUQ53hqo-sbGRuUOGut2S1YqbiD7K5B69RuX8R25OGcFDfyT0eqzU_Xb6WPQX4we4sv8ADA9xvi7LfWh-oh5WW1lMDr6pY7K-SH4hBrRRwlu3YflMw2Z1DBDEnUf34GIZwC3p9Rxe0QZbTmqS6UevB2Q4hGmbFPIo1XoT4_nwgMrYAS9MaFYgsEU0H0ffF-XLfcRFDALjpV_aFPxjiSNmUfPi-OopO6XI9vLI-DjWJ7q0KQCW0HtkYMjNGmDBL6oxESJyxgY6KoiYs75CR_dZMfMjIbHjT-XVFz8sODKNW-eAW0JVNI",
+      "width": 4176,
+      "height": 3619,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101067520069405036571\">A. O</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTd6x-UtGkqMRhv20mj1XgfTUqqO_bTf1CqPjq7bRh7bKvy26yuxVJxGphDPZI5np71pknLpENk58iG4hsZAg-od3drHQvYdFHXBYbTb6_rohwobm66e3fbDUuLJIAGg3xWAYd4wsf-XrxOyyMIHO0tslGiXqZeoiFNNBq4GJUF7QX9TxeSa02_rlQXa5qBsnaEvnHRV38V774uhY150VNC7LEsCbi3gNEmR8swLTZe-B05A17D8Ubo_Ekg7RQ8aQAyoZxw7sz4Bm3gFRp3wl4ik6KlJaR0dKcvw5QjCtcaKY4oWO-PJ7jhk3BhzcSCY7600Lkd_9vS6HiFtYRC6BHAchFjoTV0FRw67LwQvL3MhtLrdLQ9rTwkQi9xBtCoGm297ZDNHbXR3pDgsNUwiGQROP80LFzgZxdr4Z3Iv_q2eha",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113800287554771026653\">Tara Kaur</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dx1zAgLy2q3CgReruBInNtG84_3XRC7ia1X6wABuONNYNKuXRIv8NkdgQxnx1BR5Dj7xMNqk8gNmEkFtPYv61hNhzFFioV7ptmUX-DWboW8ztij4l6yrw3vfqTB44YeUiAASXQZT9XgIeSKAje-PYRhT41WSWdu80WUtJxrWANuQ3IUKnsTxtvg4h7Ji3EuP8Nolbj-hjNaYbQliDCehTJvn2OvSE8QLf7EuXMJWX6RNv68ISpbRgLnmhJj7MNCN2VX6F_28EFIUDN2S1kapV8KHOl5YhIxz2IrUeGLHzvYkv7aMQPaAotijnmO4gulHXwXkVwuRrcXbtEF0WbZ-CkQab0ll4kQR0ekcafRL8EVBBtYVlpmnuHSIO4oqnzaVzXAL6kRRcRNUihflS6PZy28PbV8crmQ90s_WMGftQ",
+      "width": 3043,
+      "height": 1972,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102883019057026290308\">Nikol Genova</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e7TpULcicFVKS_B6TdR8mfzyP4mb2qzXcDZHYo-1han1sTbdliebsJ-n4OuIdSwG1K-ChWwbPdhKHTQ7KN54h0Yk0n7y3tVOeYKjNBhqmrAZ_7N1bQm8jY7S3zXdHifP6bZLnDqe0L_DqTPIKcaIj6iYFh5t3TsfaNwSNX-ebi3FmtLokfYm6KGAvlXyCpbcWVlm8w_-ruOwB3XpIqCBY9cLboA7_Q9MyJVWx5jRp9OfzOpB73ZKuG89Gluk9UK0riBPu0WKstwnd2uGOXrcM4alC_FXrUaXYYjtSsWj9QEs5fyFDl9rRg3GfBSpDtE9zdwiKLsn7pJwpms0PLDV2oX4kuAqhDdfpiT4Kc5oSds06FP5cC4SAsmQbaB7aaLGTwuteUTtFhkKePM3ZL40grlbZrvHm17lrpiAbiOU5YGw",
+      "width": 4107,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114208909676982735857\">Ausra</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOSsP37XvDYXLo9mzhkPgk-eflwKJQA7H673tK1hyxBG_J2cwPiPhzLi2sBOAZZ3O0bgHy8oq6HIMlaLvGQzPek2s00tQRSkkJm2QtWaqWaLSbP9BgKXx_kPPiCd76-UjjK_KB5GcpWItz1fpwpv2PEhtc3o7d9xz4dprnX-ER06VNg2AQHh3ITm75jtcgsKz9sHq5U68SAW6vfIke5dkFyZar30cyWip6AcfJmFE8T81_XK2W4oqZbs09sYcDSw73oOTWfBLH6IaGqITxgSzcA8LHGcmo-fZu1pTEIYrmUPIR-RnSGsL4qw5de_dT2sHVQUm2pM3v6fCx5ZoCj2sZs5dnS-7egdSTV4WJN3TqMveUyOPsVLbwyFxA_-esYOhNSHvTEJpnZpzj0S_gkJcUCQkT7ANRxYF4yv7mkjcNPb8",
+      "width": 1536,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105755041027036477784\">SJ L</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Anette Ruiz",
+      "rating": 5,
+      "text": "Everything was really good we had to go twice before we left. The burger was 10/10 and the pancakes were amazing. The chicken kebabs were delicious. Everyone working was very nice and attentive. We will definitely be going back.",
+      "time": 1759273566,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Chang Chen",
+      "rating": 5,
+      "text": "This place is amazing. After intensive searches, we decided to go to this place for an English traditional breakfast for our last stay in London. It turns out to be a very wise choice. The food is really good, especially for the sausage, very well and evenly cooked, crispy outside and tender inside. We ordered the English traditional, the Veggie and the American, and we all love them. The drink is also good, as well as the coffee. Very nice and welcoming service, making a big plus. We will definitely come back for next visit to London.",
+      "time": 1751963554,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Jesus Agudo",
+      "rating": 5,
+      "text": "Visited Double J’s Cafe today and had such a lovely experience. The coffee was smooth with perfect latte art, and the French toast was beautifully presented with fresh fruit and chocolate drizzle. The menu has a great balance of sweet and savoury, and everything felt fresh and well-prepared.\n\nThe staff were friendly, the vibe was relaxed, and the location is super convenient right by Euston. Definitely a spot worth visiting if you’re looking for a quality brunch in London.",
+      "time": 1756819065,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Farhana Kh",
+      "rating": 5,
+      "text": "This was our first visit and we will be definitely visiting again. As soon as we walked in the staff were so welcoming and friendly. We were surprised with the variety of options and were spoilt for choice! The portions were huge & tasty!\nIt was really busy so we were asked to go straight upstairs served by Nicolette. She was so amazing, and made my coffee just the way I liked! The place was also very clean! Highly recommended & brilliant service!",
+      "time": 1746888802,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Laura Everitt",
+      "rating": 5,
+      "text": "Great service, the girls serving were so lovely, the food was amazing, really fresh quality ingredients and super tasty, really good value for money as well! Would highly recommend, we had the veggie breakfast with bacon and loved it!! As well as Nutella pancakes and the fruit was so fresh and delicious, as well as everything else!",
+      "time": 1750513603,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:20.283Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4805ysbdkgRfZMHHR3YA5M"
+}

@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJtczIQ68cdkgR0m45hoeIN8Y",
+  "name": "Ozone Coffee - Shoreditch",
+  "formatted_address": "11 Leonard St, London EC2A 4AQ, UK",
+  "vicinity": "11 Leonard St, London",
+  "rating": 4.4,
+  "user_ratings_total": 3031,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5247109,
+      "lng": -0.08673439999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5260092302915,
+        "lng": -0.08542486970849796
+      },
+      "southwest": {
+        "lat": 51.5233112697085,
+        "lng": -0.08812283029150202
+      }
+    }
+  },
+  "lat": 51.5247109,
+  "lng": -0.08673439999999999,
+  "formatted_phone_number": "020 7490 1039",
+  "international_phone_number": "+44 20 7490 1039",
+  "website": "http://www.ozonecoffee.co.uk/",
+  "url": "https://maps.google.com/?cid=14283034858882690770",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 4:00 PM",
+      "Tuesday: 7:30 AM – 4:00 PM",
+      "Wednesday: 7:30 AM – 4:00 PM",
+      "Thursday: 7:30 AM – 4:00 PM",
+      "Friday: 7:30 AM – 4:00 PM",
+      "Saturday: 8:30 AM – 4:00 PM",
+      "Sunday: 8:30 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dDr5_R5B58rFOV4pTF8UQoMLK4Xcl5sPclkcTRfsK7Uvew0wtirMu-rMCLV7RkJJEW5hapz9u1WkV1Jpr_n416qfm7xsirVWntKKtiNb1NnAoVxXWGXzxOZCkksO9wrR_idyogShXwAOerifbIMPA_MybGZu2lei6SZAX6p9JkL9BRoiajzkUPDgHTC1yIvoi3PAX0Oq39YJA33IcOFyrThr06LyVOIhCdyqPgHiHtWfDxi_lDC95SbW5Cy87QeUmOk4tVnyh4U2E0NuPiOOkFtovRJNz3Owp7PxmLCb1rCwH3GIraDyiTcdeDsJa7JyPtExI1ntK9n0fuKi7iaUmZdCR_SLmWJFBLD-WI2gc9XduwdrktC87uhKh_NkBY5fA_0IAeaxJbt4_9oDTHieCdjHCXBkUAwDY8TGKdJr3Swguf",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117251461708519813333\">Victor Taiwo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eg6pWmdH_3utaS4GSMnzwnCRW1IkNIjT2nYNSljKhyHECfEocPqsbACt0NZy-DcnUf1NSRAUO9668NjWNVTnAu9lIb6fUjK20NrsBrSKRjl4qCdNc7V8jyKkDVpPOMNnZyeHr0oXmcZvZKK16K6yzpwybbwmySzfXDDTK8mLRJcqAImkatyoDEnrYnsuij2jqtn0NoE2Dmow1zo9tKtiplRk4WMi1QqlTwqwA34UiFykw4o5_SuHdtEwxczlmXz48RT2VYxhvld1hSK5hRQJcBfjv_sP2KYL8vOhmDo2FUX2eKjXzuow0zU0UpFEhYv64HfNeWFfUmGyjxvbuT3rL8rfOBg7agbBcVV_rHcQpyXfdDwAh7ltXtveUrfsBpeFXkc6yYqKZ3L9E8_2I-cvyJtPUhL61RQijYRoqO0IuKTw",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114903380203784962153\">Huiyi Luo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fv2K6l5ryKWFOCe5UHdCXxrMqFH8te4l9cggi-uxAJnZzsGfmxaqVYFDLzhq9u3QZCItaFmRpzRkVIu6T0tdXr7W7p76TM-xyO7Vj1I7Baq0-ZO7nCi07J9uxAx0i2L5swpyqt-wr190qV2BmZTimXjI19XygSuqNwa5Tpo0yT5QBacNzlXaCYPzvBfeXtkjcyKfmd2lq6nVuRLfa3G5JAuV_ZAgMk8pQ5HULnHYgkxlwysMD1UN2A_RrwPumHfJ8rI-Yi-FcbpSP6UqRTCAgOK-5rzv-bq7FOb0-7A8MA32bAGbxyRfQgjN-SmEZ8KRGFE0b1SI-2casJ5nH1iLS_t2pPV89W4KFnVtFajCaSRPa6y-VnQsgm8ArJM-huzGGFQs51tpZhtar_CknWj9rb7jTaDHMef01iVctfuAUWIUCxGR_z34eDOtreoVtt",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104659697585001937904\">Arzu Çelik</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-EGcUJz1X_6Er4L4ni6s_SRZzzC96r3lnl9rNc9-w7NDzYQBN7Gi-vZBwwBr4NYWCx4xb95661duWo0_6wDg0Z1R_YRGDteQqWBiCiPK9_KwUIel9lWs3pOlCSi-yLXi2YC2CQcWlCnN93APhGCcSgmmXOmRSer6twCLBlUdxAigsqJ8NJQDcyLwnKKuzEYTg0y0qB0fCTmmnPCu3nIE6oSLndUDP3AXD91Spc5GyUcqTvLMRV1T-7TRuyjAp6BTD87v1kfPb3uSlt7CJaB6cztxF_h0gC8S9HPySNeYazA",
+      "width": 2048,
+      "height": 1748,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104026774666532771928\">Ozone Coffee - Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c9Z5wqkd6qyeBi9aAVTRjFnpLRrtQcu9lnKhfGBI_2d2MwiIDO5BXxKKA2hmg4Qoyxq2uRnoSAKcdjbA9W69W1xPPaq7RIbn7Of_OF-AEHa2dTeHXP5ZM-VUi7G2UbjUz82buOb-A9OSryUDcD39gSZGFPSCrTvPP558S2W5sx9yGNysbxAX4Cb_HBSSh9i7Z2HDALf-8oECICn8yNUr38ialAjtZmtso2OTvMK3fvF26avCQxr86xPnGNOQ1SRt7dwcomQMSaAnF_WeRRi4GafXHprr95k8K3DeQLKPLhq_1lwAicjy4cYKig_KM4jzmwUmTahNWK77g8LTfBZjujd_8XRugQtlIKwgn6pzqKxZNnmXomJxRe-sJ4p4L2QMZuFjqiK0R8F771e3I33vseRLlXETa-2M49sk75xSHQypTguvDZeXTtfCwNPEKE",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106673996756256704581\">Alexander Komarov</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvwzyzBNjNI-PeJ6eK7ySetVbgNPPrxOXH_e2R0BZciAwrgGHXh6OmnyUTHG5OX98EagadY5sx9xckRjOXy4XmH4QI_7Dzz2vyOvd2WExa0i-HSq82V1ZqHWZsf-QwHNnYVfCGf__WBRrQ877dopDc1y90jNo-Uj-sSGkhwfcgiRHdZ5tFArPTAwjc0MoRmpNXdkk6zTWHg2IqYp7JU-KONwuCgE_I01GrU9beRJZIx7iSK6cbCTH7t8y06zKk4lpB-ZeH6c8Xm4OR6CU6rI9AeVsfn9KgsUD9m1wX85PLZEF_cDOOnoYAmrGB06LY94_X5Un3OrHxhI21DDNJrwGlhtQ-RkQRcC9P8r247QLN_E4Z_ldJp96pWRNExEOwUSXBxCDu9zNCF2de3gOATZj1wfujkIVhfUCy8PqoSw_a1FCS",
+      "width": 2920,
+      "height": 3686,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107825838450933125212\">élise michalla</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2esDaWt4S8_8ZHZP4EKF8r_0z9ZAKXy2jb3iEVKEMjHVgveFWZKTvzWmvOgmqoFa716W2SxNdJm_PbHld79TWTUbG5jm72b3Gw8ik4b-t68VfMNkIHI0MK_riSo6c-K7si6kgYOmhNT1yPf86rD5EsJwatRhX7i0j7Clg3UTecYNcBT-i0fS2zDq6pDkdrswu6WP-_Ooma2dTnBqxKo24rouRarnpY0Q7jVhUvoLE2Ef-xKNhydsW85IhYjFR0RB2durez0AcOjYQ7Yz1ub2VemJqh3l1hFqH8KFrVSHwzRlMUDGuCBuh1ZR7LRSFpHt5n9C-OlORXM7LkIQtxNjr9P8QmfiwHmNJVZhQ0AusJai8PlgCWrVFgyz2WUWoSOe6qzvZ9y8D5jS00SwQ1nw6KRxjk2Z90SL0wGdbsX3l4DHw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101369985470564633620\">Raymond Leung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fS3fs25cUE-n3ikKwBYVkjo7ZNvdZV1-0HYLSxAA7ZLk9gcgulzB1gnlNQd6I42hVbLSySWSsCG0mIjzUopZWjIaAY6X6QvDy1NAwXq4PW6kRE9UGS1JzIvxxtroonl2Ui0mMHd47i39ZbWQzxYx-qhdmf1o3fvqc5U93Oix3dvK7Uxk_TxxVhCVgOUHHzE_gLnvqCL8-Lt4m6yXyUUtPMdV75R-toHqCLPOU-H10VSQ9Fa7BzAx8UV5KyVSGOEVwDOitjVQAdP-tv4UW50M0v1iDk2N-JmFSyOPLuaiP8QfB7dLoMBnt-kPmPwMy9u1r_mGulz_TwEtq0UTIzSKbbi3YNq9Iub3Yd_NZ43J-s72DSYemZCAEK4qIVYKZ1LHg5USoaw6M8JHx94SfsVt86MJQF0SgZmkP46v8i356zWw",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117464269936667576125\">Pier-Olivier Labbé</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYtvXQYedEv_yWwVgHkL55YBNPxPJ1SZe197XngbUroS6cNNABfCndr7_MpES36EYjSP4HtQEZ_V300GQxvlZJ8xcY_hnZtYof9EUA6zfsyYMy9k6hO-UtpH4D0WBD4OfeWTMVq7ulQBb7BQR5IGp7Ix6YBiqcdOGqO8BjcbJ3ThYhSncMd8lZl6L_IVDqtG22H8c4OX1VzLRDwedpi_yJScWRdG8dOgAAhSOa_8plHdauN3ayH_aKU7qaITq1vHG11qvl2AJh_2L1EszdUlK-vNJoMqzjwEik3ys9XXqi0BBwWT1fYgFbaH3IfFxwnB1Lx_fqhwchSaduT_-vvsVPHa4rjWs_4T0MLHBNMHMyJsTFEQPgchiUbZdDmMYI5LLAFEtob_f5gytxQ7UE7T3bS12I9K20juxE4OE6kFI",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113940364167331313931\">Malte Müller-Egloff</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cB-ZG4KMWc_bNeW1_utPm5jG4c10tNUhBu8_xDj_PGWUt4ytpsUXpluzqW42yUTrp0N1uEZVEjsI0bU5aMvFVg5LeLL74U-2ZCcyK4EJf2Z5zD6wrmk1z-6YvB9K4RLrIDP2OvTYJEpiLjSfHVDQ-Lbkc1hVqhqUUTW9OTpUguw3VXH3pLnXicibhnWjSgCjTM7KlJoZq0cLzVeYFVQhJG7bXPyqHu50kDN0veOcAkP5bvFbrW5-EZsZnRYIhATdLWxkyBAcIIrmJNUz2tQQjcLW22eoeqnwMAllBNADfy7_8Hmfvo0adz2IHj5hhZeGsStwn8rFT_DDM2mJs1pgawlvQ2l3G4tSymc3emy4hVpMdcvj_7EeeJRfGEV9VQRmSTtOn71zxco0d7Uw9CEaBOolLdrOv0WSY5ByaYSnGW3kw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114873597642064438377\">Lucas Viegas</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Artisan roastery's coffee shop, with onsite bakery for breakfast, cakes, eggs and lunchtime snacks.",
+  "reviews": [
+    {
+      "author_name": "Thomas Volbach",
+      "rating": 5,
+      "text": "my go-to place for breakfast when in london. the scrambled eggs are so good that i specifically chose my hotel for this trip by the walking distance to ozone. could (and honestly did) eat here every day. the whole place looks really cool, the staff are lovely and the teas and coffees are always great too. totally recommend!",
+      "time": 1756817871,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "May Suprapatanant",
+      "rating": 4,
+      "text": "Poached eggs were lovely. I ordered spicy mushroom as a side dish which it was nice.\nAnyway, lovely staff and atmosphere…good coffee. Just a little bit pricey but they are still the good place for breakfast.",
+      "time": 1758562696,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Jeevan Sidhu",
+      "rating": 5,
+      "text": "I’ve been to Ozone Café in Shoreditch a few times now, and it always hits the mark. The coffee is reliably good, but the hot chocolate is easily the best I’ve had — rich, smooth, and comforting. I’ve tried a few dishes here; the minced lamb with mint yogurt was a favourite, though it’s not on the menu anymore. That said, I don’t mind the seasonal changes — keeps things fresh. I had the burger this time and it was really tasty and satisfying.\n\nThe atmosphere is relaxed and not too busy, making it a great spot for a proper catch-up with a friend. It’s also perfect for an early morning pick-me-up. Whether you’re after a hearty breakfast or a filling lunch, Ozone has you covered. Definitely one of my go-to cafés in the area.",
+      "time": 1747309285,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Sunghyun Ahn",
+      "rating": 5,
+      "text": "For US travelers:\n\nThis place is probably one of the best brunch cafes that I have been to in England. It's a chain so there are a few others in various parts of London, but by this one in Shoreditch knocks the others out of the park. It was so good that I went there twice on back to back days that I stayed in Shoreditch area.\n\nThe food was great! I got the brunch menu that they have on weekends and the lunch menu that they have on weekdays (went on both Sunday and Monday). Portions are a bit small compared to America, but for London standards, it was very good.\n\nI don't remember exactly the food we got but the scrambled eggs and sausage was on point. The lamb meat thing on the bread was on point. The mushroom thing was also on point. The kombucha and the latte was also on point. So good so good.\n\nJust letting you know that there are only two restaurants I went twice in London. Dishoom and this place. If you somehow come by this place, its a good place to go. It's not like a must go place necessarily, but still very very good.",
+      "time": 1752595363,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "IDee ISee IWin",
+      "rating": 5,
+      "text": "When they brought my plate I literally said WOW, first what a presentation and the taste matched!\n\nI ordered mushrooms on toast but this was the best I’ve ever had. Very filling.\n\nI’m not vegan but I try my best to always order vegan when I’m out and this hit all the levels needed. Full of flavour with a bit of spice, if you don’t want the spice just move some of the sauce away but it’s really good.\n\nI also got a Aperol Spritz & a juice, I always have to order two drinks. Complimentary water.\n\nI was able to bring my chihuahua and he just sat on he’s coat beside me, got some work done on my laptop.\n\nThere is certain times that you can sit and eat so make sure to check out the timings. But other times you can still get hot or cold drinks.\n\nDefinitely will be back, cosy warm and comfortable.",
+      "time": 1758558970,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:22.492Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtczIQ68cdkgR0m45hoeIN8Y"
+}

@@ -1,0 +1,104 @@
+{
+  "timestamp": "2025-10-15T10:51:36.649Z",
+  "phase": "PHASE 0: BOOTSTRAP & SANITY CHECK",
+  "checks": [
+    {
+      "name": "Directory: scripts",
+      "passed": true,
+      "details": "Exists"
+    },
+    {
+      "name": "Directory: data/google/raw",
+      "passed": true,
+      "details": "Exists"
+    },
+    {
+      "name": "Directory: data/google/details",
+      "passed": true,
+      "details": "Created"
+    },
+    {
+      "name": "Directory: data/fsa",
+      "passed": true,
+      "details": "Exists"
+    },
+    {
+      "name": "Directory: reports",
+      "passed": true,
+      "details": "Exists"
+    },
+    {
+      "name": "Directory: public/meta",
+      "passed": true,
+      "details": "Exists"
+    },
+    {
+      "name": "Directory: utils",
+      "passed": true,
+      "details": "Exists"
+    },
+    {
+      "name": "Script: scripts/fetchPlaces.js",
+      "passed": true,
+      "details": "9.6KB"
+    },
+    {
+      "name": "Script: scripts/fetchPlaceDetails.js",
+      "passed": true,
+      "details": "9.7KB"
+    },
+    {
+      "name": "Script: scripts/buildVenues.js",
+      "passed": true,
+      "details": "14.9KB"
+    },
+    {
+      "name": "Script: scripts/run-data-pipeline.js",
+      "passed": true,
+      "details": "6.4KB"
+    },
+    {
+      "name": "Util: utils/fsaClient.js",
+      "passed": true,
+      "details": "6.8KB"
+    },
+    {
+      "name": "Util: utils/venueEnhancer.js",
+      "passed": true,
+      "details": "9.4KB"
+    },
+    {
+      "name": ".env.local - Google API Key",
+      "passed": true,
+      "details": "Present (not shown)"
+    },
+    {
+      "name": "public/venues.json",
+      "passed": true,
+      "details": "0.98MB"
+    },
+    {
+      "name": "data/coverage.json",
+      "passed": false,
+      "details": "Will be generated in Phase 1"
+    },
+    {
+      "name": "public/logo.svg",
+      "passed": true,
+      "details": "0.8KB"
+    }
+  ],
+  "errors": [
+    "data/coverage.json"
+  ],
+  "warnings": [
+    {
+      "name": "Venue Data",
+      "message": "venues.json exists but appears empty or malformed"
+    }
+  ],
+  "summary": {
+    "venueCount": 0,
+    "fileSize": "0.98MB"
+  }
+}

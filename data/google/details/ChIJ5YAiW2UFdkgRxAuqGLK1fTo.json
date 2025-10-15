@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ5YAiW2UFdkgRxAuqGLK1fTo",
+  "name": "Beaufort House Chelsea",
+  "formatted_address": "354 King's Rd, London SW3 5UZ, UK",
+  "vicinity": "354 King's Rd, London",
+  "rating": 4.2,
+  "user_ratings_total": 842,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.484533,
+      "lng": -0.176005
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.48586753029149,
+        "lng": -0.174545169708498
+      },
+      "southwest": {
+        "lat": 51.48316956970849,
+        "lng": -0.177243130291502
+      }
+    }
+  },
+  "lat": 51.484533,
+  "lng": -0.176005,
+  "formatted_phone_number": "020 7352 2828",
+  "international_phone_number": "+44 20 7352 2828",
+  "website": "https://www.beauforthousechelsea.co.uk/",
+  "url": "https://maps.google.com/?cid=4214724602811255748",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 12:00 AM",
+      "Tuesday: 9:00 AM – 12:00 AM",
+      "Wednesday: 9:00 AM – 12:00 AM",
+      "Thursday: 9:00 AM – 12:00 AM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dZhFZM4ZePSPBsyKP4nA8a3r7F0YQu6ni6Q2Jw6BSxYtCTNbmQG1UtEC0KLY4LhltJSKS_3EmDEaefpX4buq1QGSTTOeynUA7d02ReTHUctOhm5s5DE3kclZ7lFdac0xbaakkqL72dni7CTN3LDBDqLqxoUzNixNDU5RNQnyrQZZF05bMTZTcJLVJy1U-4z0ML99P5IuzNkUSoW3CG-_L_RQPJTF0INgCvp_NGc3gjRIpl_b1CAHR1sscf73HDl-_ywIUcrdW0NwnU_EIdH0YBHhdX8O1Vg3AsleptberjSw",
+      "width": 1382,
+      "height": 922,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113240954027158774726\">Beaufort House Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eIFT1oWrDjAEMsV3GZ8GsvQU_47wav_d2TTg39uoKDDpFI4ZAuznn95GgBwNJOZk8yBJXA1K69Bo6e5blF6najeVSM18GWPbJANzv2cjf0lVSuzysFPkNOHTNRcqW0PdCn_p5xvDo8B5iV3ENsf4zrdAkY2VrOA3b5tjZUksIMc168AKA0w8jRO20oMcjUxKWKmirK5YXGZn1WQuvgDwsopt5NBJRxVbwkTMl5uU3N0ZQ5aeiVtmwvBhtwDWRdGpNeT03xkccYJPZv4uSxNJ3GYZQ-ajp55IV4IXXIUSkCtw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113240954027158774726\">Beaufort House Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRLGLNSS0R6Xa322NYxkS9EtNKoKGk_nmvHiNvmFCVf527LxoJnntYimYzniI0sbn1zXgwWuKwTcYHnAA8UEUyopMqcauSwULGj1tZYFetLagDIzy6o4bsg6gDNon4g6YSR1I9vXPntw2v4SvpSwXsIGI3KQVINMPiMDYMKqJwWtyOkpXFxR__dDhWL8ByRoJE_9hms_OxQ5OmCvdH4oBlmKTHWXmO-DZE1aNj5mMvDXdGwZ3MuAmMOgZnGsE6AAodl-K-Ah650LdcIBkYJhBat53KnbOTmGjHs3kXiE7zOg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113240954027158774726\">Beaufort House Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eZxgIMBq1RXnxCFUebLptf13LQoaGCEi506PFOplfbngM7jLpvPAqOMP_hlYsZdI_SES-09UzwTTu9F-olyxjU4BRgEzNuLNKgltdekXcaF4GgPCoKqKE0DuASQ2SnDfvvUuSP-3v22WC1kPC5mnqFNVBQ5r2tbaCZFVOxRj1MC8k53y7Z4fvZBXUhX6TePvq5lFN-OV705nmS6SjHgpygE5lbLVPaZJ2HIeVY1S-sl4gFcg9kNZP1Oi2OMF_xUZ-SjZrpB5fxyLvHoY_hE3wfmUYcVmJB1ptKsv04o73fPg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113240954027158774726\">Beaufort House Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cVHZcOIIO7iDplwdJIyucI0cpgd6-EN_al7p9i6zbDjG3T4f5t3itLuB7ktfp2jbc9ZTXsxJ6B_SJ86MYqM7pxkExILEqovMdwv75_pbLrF_DpAdZCDURn3rG6JbZ1vSS_fg-pJhltarGI-bE-Br7Sfj2EXLzNXYqdDPtEHU02BVJZxqRQBAetmf04aPAoQCp24uDacaJaeFuWeHWsCx_jucDxhM0Q9ZLqJkmfgaZdchnYc9hHAZiLSs9sMVWKzifrG0MRBEOEwdmSdQ7zpq2sLKiKtsLucIEUedpwyJgEnw",
+      "width": 2048,
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113240954027158774726\">Beaufort House Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fMjl5qvboP9MD4VO07lL1E476bYkpqmHIJIwWnmylm3e83PLBiPrGYlhkoJqrcwAZdt63qFiH116jrTdgFg_3N1MjLbGDrPjkBbY3JUl37BlENBZVV7cxja9Ux8AABWQOk3cFNC-_k_EMXJitylmypl6ocyYXbiQobXMGj7vTQusBglRjKSemYPspKFAUw-4AvbH0Jc139KCMEx9rZrj3MznGmPx48DVi3idSfNkYM4gN_0k26bvRJI-wF72SIS_VPiXaBdarDjzUiTAG4vVh3oHxU8deeotwqeiqlVauPjGgtXIoNFcJORopryqXecG7yvqhGeZeFNPIU5AxqfgWq7BZJXNFFFXeoH-zr5yGQM9k2FmAyukGbTPFJZ9zP4JDuqVHLO9uutBOvdsdba0oioqFER-LRKXoTo8fBxwA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113238028521311032117\">Darcy Digs</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cth2bB1DnXsAxZMQ0wMYmjG6IUZmbiTpYLKCXHYIkzO2CKIEHTNufthYjskdhTEtrUA585L5afKG7xwb1arFNYlo9uFpIEQyDzOSKL8EmvZmkI9xVXMW4MdE17tzolZqCGg2mUsdRuSyfgb4Njo_NNsYyVT6RS5Ceo9_tusZiX3KqLTTePxKUZXoUDkhBCTMrHIfhq0Oj2oPmhhvzYhV0W9MVHztvV9g21iXJ2PPsMtUCC2STM70z4tOkeypIIaLL1iMVEDQxhWa6iD-8lGx1eTE6x5cZD9dXPVBsKSgxhXg",
+      "width": 1280,
+      "height": 853,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113240954027158774726\">Beaufort House Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebT58fa_HrJbnrs-jBA4qMxJ4vbMZFZq1D9wh9ElIBdTRwNE_u8VKAqHFCbWq37dJxo-W_x6Y3d7FGOqXcsGrTg5sdtZ1dXO_nx6Fpm5rhKkjEBjjZ2xkGcf5hPNEAvC2v2pF4GhgRZ2l0NAw5vaSF7dqdMgXistumt77_OZ0_22vcK0jfaX81L_-2dN2Z7DGGrTcXR5IjcXPKX9HMMTGhkGY5n45sMuONYpvS3lpbzCBVXHqPCu5D1GPfC-HKZ4vo512nEpxUJg4OEY7SBZ3AZBnCOJDGp863S6sWx-7nAl125rkV5XXJVtLhh0BRG9uuGgZsajRCIS4MkZNUmmcLOK7C-orDnbzop5CfW2lIMKL3VJKL3y5QSgmOO6qDjf7O75h3O2KeiWQm0sFbJ9--_UXiCSDw2Q-I5SgnyLOqJ3Q",
+      "width": 1989,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110810825248230521972\">Julian Thorne</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f03GmyQAs99HSRsqpXD-JH9cXeCkKOgdnLQoYABQxnfUQPaCn00HQ7gh_RNXSdrnPU2jHHndwFJ0z8JPJSW86tdHAi0VkL84zFtHruUA_x6LSXkgCKjFVoKcQnHnRaBAO6HSb30MzLNh3976qccemyZw4tN_UTIBEuAyFSaafhCXQYjp5ZiZqjuQPIjwC6Ina3KqydMnzH-mt6jUzEZ7PR4uHc-CcresfBMcpeChuwBvE9kvEfe8CM6haZkGd9mfofv0eYdiuo1o8hJix3AOo2t8MwFXzxh2c-psblnkE-fg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113240954027158774726\">Beaufort House Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ciUCWHiHMFlyZZUIDXSAQDU5U641P_YBZIohHJ48YVuqG5oR4e0aMCclHTOWnUyu2neBcQkG3HzzSJUdSGzii-fOVuJ5uLCotkKDrP6JVocYvBCiatmWFbasott8HsV26-KHxEzJLqRkKvzspJRAZJRgrbYOXO2LvrBMLfyUntcNkW4ylQa9oJ4J_pQxRLgoUBfWAN49h_p0SGqYfUtxES8v317laTyH4AYsJsQOqmXsHq2w0rJTtPbVB9dENUm2FrXon_J9WhGZFqUacL_gsAzrbQk6gEsO7PjsyfsnuWLQ",
+      "width": 1159,
+      "height": 869,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113240954027158774726\">Beaufort House Chelsea</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Sophisticated venue offering all-day European dining & afternoon tea, plus a champagne bar.",
+  "reviews": [
+    {
+      "author_name": "M tsi",
+      "rating": 5,
+      "text": "I had an amazing experience at kora. From the moment I walked in, the atmosphere was warm and inviting. The staff were incredibly friendly and attentive, making sure everything was perfect throughout the meal.\n\nAll the plates we ordered were absolutely delicious and full of flavour, especially the octopus and lamb which were both beautifully presented, and clearly made with fresh ingredients.\n\nThe ambiance was perfect for a relaxing meal—whether you're out with friends, family, or on a date. I also really appreciated how clean and well-kept the space was.\n\nHighly recommend to anyone looking for quality food and great service. I’ll definitely be coming back!",
+      "time": 1751929326,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "kokoro667",
+      "rating": 5,
+      "text": "We went there to meet my wifes school friends.\nAnd our table was like 8 people.\nWe ordered food, cafe  coctails.\nThere were also other tables too like 5 or 6.\nWaiteress was like a little face and  mooddown.\nThan we realised .\nAll restaurant has only one waitress  serving too all tables and also making coctails and brewing coffe and serving.\nThat  day she was alone.\n:))\nWhen i was paying the bill we left extra tip for her because when we were young we worked like her.\nFood was good.\nCoctails was good.\nAll fine..\nNice place to meet and chat with friends.",
+      "time": 1737017138,
+      "relative_time_description": "9 months ago"
+    },
+    {
+      "author_name": "Nicolai Müller",
+      "rating": 5,
+      "text": "Had a great time here with a excellent Christmas dinner party. Really enjoyed the positive energy of the place and especially the staff. Great food, nice wines and cocktails. Have been here serveral times before and will definetly come back again and again.",
+      "time": 1703689919,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Darcy Digs",
+      "rating": 5,
+      "text": "Delightful place on the King’s Road. I spent a relaxing hour here reading and enjoying lunch. The food (octopus and glazed miso aubergine) was gorgeous and the service immaculate.",
+      "time": 1690894615,
+      "relative_time_description": "2 years ago"
+    },
+    {
+      "author_name": "Rubén C. Hernández",
+      "rating": 5,
+      "text": "Just impressive!\n\nAwesome corner location, immaculate presentation both of the dishes and the venue.\n\nBut best of all is the staff that made us feel like home everyday.\n\nWe'll be back!",
+      "time": 1582928827,
+      "relative_time_description": "5 years ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:55.130Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YAiW2UFdkgRxAuqGLK1fTo"
+}

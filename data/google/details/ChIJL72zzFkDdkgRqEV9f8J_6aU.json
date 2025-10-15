@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJL72zzFkDdkgRqEV9f8J_6aU",
+  "name": "Camino Shoreditch",
+  "formatted_address": "2 Curtain Rd, London EC2A 3BL, UK",
+  "vicinity": "2 Curtain Rd, London",
+  "rating": 4.4,
+  "user_ratings_total": 1243,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.52210059999999,
+      "lng": -0.0807137
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5235286802915,
+        "lng": -0.07951556970849796
+      },
+      "southwest": {
+        "lat": 51.52083071970851,
+        "lng": -0.08221353029150202
+      }
+    }
+  },
+  "lat": 51.52210059999999,
+  "lng": -0.0807137,
+  "formatted_phone_number": "020 3948 5003",
+  "international_phone_number": "+44 20 3948 5003",
+  "website": "https://camino.uk.com/restaurant/shoreditch/?utm_source=google&utm_medium=local&utm_campaign=shoreditch",
+  "url": "https://maps.google.com/?cid=11955227159170991528",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 2:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1400"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fjxecRCIJeg3XizXh2KXtV5_19S4N3qfqS8ANK7g26ChTrresjE8PAaLaV1-SNY0P3ZfSTxlcErf6H_qsBdN_C6IMcLsDwpNA-rN7f4UzMbvt4oT7WEOxRs1TP_T8xbKerozrlKW9B8tkMsXiwGheSronQ9KARFlfu0S9wE5aG-Lh19-LlJLCgN6DmvxdN3rGe1JmUDET4Sd1UbGak0QDIL8-ncAaQ9iJG3ODPmWd9rUwKfvWB_g8fyHbQeEVpXJUkGuGuCRCeaJrCOrPwuYmSMd_slRibBuP7KFxbyjDPrYaJ0zWyCm-Gh7PbBf7HObvC7SgjF-VRoCEManGrUDc3vE0_Bv48__KHLDmGp2op944gCBHcZsDKjNzqvkhGZ20o_p6Gzt79i5I9GpPiQwfjaAbq4GKcKA-GdfkIyW5nCg",
+      "width": 3008,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110146190007349185086\">Keshav K Nambiar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJIPhJSVzsH8Iz-ZNwd7Z4OZvvh6w_q5yZRO02ph-83tFd-bW4UDmLmeDNrX0X0Ay3ODFa5AHbuIeTW_ab3oygt1e8fgOrRSMFFcz03xrZeRrtpGDKweAGKlkaDKHtvCOQrbbTO8opatF0mJQlPvFRFNOVTbMd-cAwmOhBHnnwQhjsJdVxzhN4pANLA7qqpEwf7Z9aML43KrL2pZ1dV0HQjPE1IHr-fBFElDRLTzhDKK9Y8Pf9fowMO_NhV_SyveQg-7DJeDiHx9g1YkEIHPsI808WEGZ8cEx-EnXTfjykHg",
+      "width": 3840,
+      "height": 2561,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100871108604602902771\">Camino Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cLYF7WybcGCKNSVrH8-mcePpqa669gEeRN8Lc91cWijB-DIOExtqmeEDNqJp1iPLXUeYNaEUCa0gQsexqRgBhsFCCLE8rkdtDe-nAPKOmguBpse47enhKMOlU85P4Ak4xGOEr-6CAHSRWMHBDQSkvDGsDtPvP4OijNIjlyjZqTzcD0UDrRllX4KcIWJm8DQVXa9MA8Uugpk-kdtewnqtMfbiSutaPXjmeMfB8akd1b45zR9S27RIpxU_AsGDNa0VKltViuoYZaVShc1CQjQc9Y_ahzddVk96-5cVLS3I9OkhbgdQDpK-l44xkRl_JJ9q0b6HQhIBqf9OSgrb_9lQewR9FOIwrRRI4ct7a5B9f9bO_0UtbzdoymBAyCVqytxUtloNcwUdnO0c1iGzqbUiZcDZoUrh1_lcjqSCi_KSEF97OltPCvfEke_1kejb3c",
+      "width": 2790,
+      "height": 2092,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116595481884514306288\">Dougal Hanson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eH9WkXU7xSiQBGMamHkwJoaoSCp6aPMyRNSF_8IzepHlqJJDNjNhEqjL0R0XRkB7aPUp7V6gzyxTUbVmbtbpMdYEAlpVi-q5V4k9EGD5Gi80ZrDOUKc0BFVbVS7OZ4akwobM3kAOSmCE7xf_IuTgT08ES6efr5YGVxG40THKWtSeoH1SzRRlgBaHg6Okh3_ey6OCW0mV-8pGb5MbYvWeoFCPGJcX09m3HNrKmChRX8m94ClQdiYQ7j-OKNeabawQW3gnqoD7AmogY8nooNfRt5ENxYr2f1faIK6IG-T24E4zh9L1GreOsoL49t8byHvdaksDBxhU9AM9fEgpj9loEpp2ZkX1f9lEHl58Ktrd9Ngu4QRvLihqlpresjDIgUpc1IZ85g_0qxziarIeK9pmas1UXy5N16pM2lDXH8m_xEW1M",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106568511615821932849\">Marilia Scabora</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dZc5oLLe-KkX2rAyynetyhqvnJrzxYHU1R16GHaFBeBR9bsEVRw56vzsi9jjrK9qdQ5jhZTK1n4CL9LpICbclEude74Y1fcufDuBESwJgqH_yJykUfV7_2t4P7JKtGTclZlPVbRPUcdwk7lwlid3-pjGQKpq_6KswboCDvGhVpAZIljMpTjh8D4vuE7zs9KwtV2d5xnf3l6ZF5XaaFC4ySXlIP-R9IyJE1B9pdYK3TsqmM9LlRzADxTSQhvQ5oJcQKCsjGXieIKYfthH8ejNwNVbZez8tSlfX1okZVBBWgs1__jPdyBSIOBaqmiDulBoJi2iRHwcUTQEQDssdBxPggG90rnjVyyprs--cZE_nHbqUacwYTtc7dvXmxJdrQyZsN-PkFYcs7iPDDjYCDHprUmQOmX2q1QvZr8q3bPno",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106854919101186139860\">Afua Pokua Poku</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dVq9qAzRqJljWO4_azuu82Gpm0j2aryCLx_EJrUGdgB7OWLv7KP-jG-qNmkccgX7XrFb_raxtc5wYc9xrXj6ovC3QqdnX3gdapf17xKkt7Fhj6Q9-FxMEvEfEju3Ky_WUBong29UGad2wjLreuf9X-AreV9kgIEMoKxE5pvzgnDbOpxNc_PwdGEmyaBF9FUnjz0Fph84WRXQVv7qk-rD13ujZkOuKSGSnWVILl4MuVlEIzYiD-cPoT5JCmH-KG-Tt_c8pfdTzlYKN71KK-zGRKynnVd7oHNiD6p76InS7_XsH4DqaLqKlfFBcQB0ldyln9jv8Jto634vIHPZdEaaMXUBOwRXhK2WSlrWL8UEMXiR4DoBmCU5ru2KI-r6MpMuRWlzFh6-6OIun3GUa_VoSSHyOp6tQhPpj9Lly3wbTZGQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106854919101186139860\">Afua Pokua Poku</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dClwvwAoRuVumotYUikEJc96AXOfTLyJAklQbKT3j0_Y_fqtSBBqg0c3GVZeBMQA1M1Iv4tVnv4H3DjtB6Ank8IvoRi95Gg01WSJGG_jOcKqDjqbXY1tDC0IxWWQKMbqAHKxbVQUAQ7bNpo6Lrh8gzoT5qR5hO7mLmAnxaZTAnS2Bsh5_foxMnR8kKQnXcbKKYxfzBXTGZlSh6F3yvvSJmRCmVvq4n0s4dcamJjALLFUl2Yw2MaoptMFInC4XAdkNxSqvG0QVOEJHBUV8SWD79GzKS3dOjQGdWlH6UioTYkiiwnl8HhIBUeMQi5SCWa7lmDsHx4dOOl-uORLCQdO3IjW-Wn33obVeFk7vz7IKZbfGycPvc6alOLj3PgbgUg-u2eYTvDZaaBSQr-vbkNb6KbTf0PQV-AzJ57R0XDcg0bAkaKx9_jxU7sa6LqWcc",
+      "width": 2736,
+      "height": 3648,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101090252470659528365\">Katia “Katie” Edward</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cgAfFUy1hiY6Q2qAbmYZQgItq29qu5PX93Dt_tzNYlmEWrdGLnjudKDwhZjinLiLiCPcEbBVrvB82FdVzlgWzg70q2WJHc77NcMIXGL4gfo1j1oPfA-qEmbJsRnX3Z9C45VEp7cKDSptJra7KkWqLz87jmY-KdY6nH6P_EN3E_x0zv5MI-EXsXTKpJjyU1ZVui2zlvGARpPKmB58UgZoOh_PJpPk34AsLhDHBdc5A3RK0BaKHq7yUhPY4WTEfDdf66waqYowgacBPw95t6uV8VgkKTuYWIL2sGf4YbqnaLJvtpHbf2jHZqvi31Bpkv1hvLS8uUckWX40GGhF8eqDLvgkOFhEM25tYPanvSluPJ7OlX4lSlHCOoP6zkS3650YCKcysjSilFiC2fnCw7xtIBFeBeekKXJcdLNfYxcOr8NU13",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106568511615821932849\">Marilia Scabora</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c3Hq0qsMLgSjOetQAmT6jzMPKgpnDEWl22ffJdUKR2FT726AnX4c2ZaHbkelv7XPdcWMVXeMcCSjszATmrXIZaH-9Lm32re-MOtzrPJGuH4aXesKLp5YS_hRaAOLk_YObBk_4RHHEIPHjxBrhabXuuRxMs6DMlySnwPDj5GGCbO2Zc6TFsI00nJOJDkFD8EjTpdWDuun84cV5NN0Z796LLeo8F7wC7lTCUjJ_yQHfj37HBOUolv1XscNLpEjhzpFXW-VSeW-6GJYuCLKpqxX47iW2QEok1NPpSSyJdnD-88eqUyP98eU5ZKrPX6gBwRsdjmUzttXHmsrhf0fNwpy6iboqK8-eH5vOODMkq5M74fAN3RqlrQujg4qgkzGhKan6nFjcMF4QJZDozO6pKOWkQ2b0vzNkHAYWHqZazuQ0WRQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105722528949781352770\">D. W.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eAqsdr-ZMscBNuB0C4FCp_0pevgQseZ6T7l48fvr7N4Prp8EXE6OMemxtCGqMxbVnZT5BsXrrWhTVzOBxhlXDHIAbs9c817COlGSEGWeS145B0ZPsq7RrBx7Epikk-e6wOdjSfKm0CGbgSR-Sr9w8HtIAit0aFGTIrfIlmDr76tU2rrKIOLmPnAL3nTPfVBgt-15vkLD19-7xEApVuq3yo7j5_ijK3juv9tx9HdO_04sDwhKwqVPzbOHynVQrH6ZXmOrDctqja7cwChGDvpi00M7Qx1W5Kc-Vc1I68SHfQxYX3UxGkvnz9WomRC1kliLtSCIinqQVUbZlOtI8GVh38VWDpgbqSbLWUTxwG7y_MyvX-B-50aQAA7EF19Gm-FcL3Q2_m_SpE-asBj_au9qJade6tAQAaR8PxjopDHDmu4utV",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110681775198388550007\">Souvik Dey</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Colourful, eclectic venue with a relaxed ambiance for inventive Spanish tapas and interesting wines.",
+  "reviews": [
+    {
+      "author_name": "Katia “Katie” Edward",
+      "rating": 5,
+      "text": "The food was generally very good, but the mushroom coca was truly unique and special — the best mushrooms I’ve ever tasted. The succulent pig was a little on the dry side, but everything else was excellent. The service was outstanding, and the atmosphere was beautiful, with wonderfully tasteful décor.",
+      "time": 1754854335,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Dougal Hanson",
+      "rating": 5,
+      "text": "Firstly, the service was top notch. Lovely, friendly staff. The food was as good as I’ve had in Barcelona. They even got it out to me in a couple of minutes as I was in a rush. 10/10 will be back.",
+      "time": 1758913281,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Laurids",
+      "rating": 5,
+      "text": "Ended up going twice on two consecutive nights! Really nice tapas, selection wasn't huge but everything I had was really well done. Ended up trying both the tomato bread, tortilla, ox cheek, flattened pork, croquettes, bravas, padron peppers and the cheesecake. Everything was really tasty. Cheesecake in particular was incredible - creamy but not too sweet. Prices were about what I expect for the area. Service from Sergio and the other guy (sorry didnt catch his name!) was really friendly and attentive. Will 100% be back when I'm in the area again.",
+      "time": 1746647112,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Russ Barr",
+      "rating": 5,
+      "text": "Went to Camino a while back for a bit of dinner with an old pal and it was a really enjoyable experience. The place was quiet (which is why I’ve only given 4 stars for atmosphere) but the food was great, the wine was delicious and the over experience was top notch.\n\nHighly recommend Camino if you are looking for somewhere for good quality tapas that’s centre to the City or Shoreditch",
+      "time": 1745587773,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Sauce Ville",
+      "rating": 5,
+      "text": "Really good tapas dishes with decent portions. We had 6 plates between the 2 of us and that was enough to fill us up. It was relatively quiet as it was a sat afternoon but would expect it to be busy in the evenings. Would definitely recommend",
+      "time": 1741464809,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:50.170Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL72zzFkDdkgRqEV9f8J_6aU"
+}

@@ -1,0 +1,510 @@
+{
+  "category": "french",
+  "query": "french restaurant london",
+  "count": 15,
+  "results": [
+    {
+      "place_id": "ChIJl-cjD9QEdkgRVkkQt3pySRI",
+      "name": "Brasserie Zedel",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 9472,
+      "formatted_address": "20 Sherwood St, London W1F 7ED, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5105561,
+          "lng": -0.1355974
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51199682989272,
+            "lng": -0.1342092701072778
+          },
+          "southwest": {
+            "lat": 51.50929717010727,
+            "lng": -0.1369089298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJIYBMe0gFdkgRvkjSUGze6lE",
+      "name": "Riviera",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 3709,
+      "formatted_address": "23 St James's St, London SW1A 1HA, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5066242,
+          "lng": -0.1391415
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50804102989272,
+            "lng": -0.1379270701072778
+          },
+          "southwest": {
+            "lat": 51.50534137010727,
+            "lng": -0.1406267298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJyUtvKA0bdkgRSlDGC0DA5VM",
+      "name": "Bouchon Racine",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 940,
+      "formatted_address": "Upstairs, 66 Cowcross St, London EC1M 6BP, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5200706,
+          "lng": -0.1038732
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52144187989273,
+            "lng": -0.1025268201072778
+          },
+          "southwest": {
+            "lat": 51.51874222010728,
+            "lng": -0.1052264798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJZ-1k6w4PdkgRlrbyvfQJcQU",
+      "name": "La Palombe Kensington",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 399,
+      "formatted_address": "267 Kensington High St, London W8 6NA, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4986222,
+          "lng": -0.1996693
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50003787989272,
+            "lng": -0.1983566201072778
+          },
+          "southwest": {
+            "lat": 51.49733822010727,
+            "lng": -0.2010562798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJVVUuwSsbdkgRRSNEGe3BRBU",
+      "name": "64 Goodge Street",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 194,
+      "formatted_address": "64 Goodge St, London W1T 4NF, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5190239,
+          "lng": -0.1368672
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52035482989272,
+            "lng": -0.1354988201072778
+          },
+          "southwest": {
+            "lat": 51.51765517010728,
+            "lng": -0.1381984798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJv2nJxtIEdkgR5BVDRcOlpog",
+      "name": "L'Escargot Restaurant",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1115,
+      "formatted_address": "48 Greek St, London W1D 4EF, United Kingdom",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5139706,
+          "lng": -0.1309972
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51534187989272,
+            "lng": -0.1295692201072778
+          },
+          "southwest": {
+            "lat": 51.51264222010728,
+            "lng": -0.1322688798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJg5eH2LMcdkgRIY4RDHmB8RA",
+      "name": "Galvin La Chapelle",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 2900,
+      "formatted_address": "35 Spital Square, London E1 6DY, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5202204,
+          "lng": -0.0781198
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52157247989272,
+            "lng": -0.07658737010727779
+          },
+          "southwest": {
+            "lat": 51.51887282010727,
+            "lng": -0.07928702989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJFTMRjekFdkgRNMUgOPPr5VY",
+      "name": "Chez Bruce",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 1234,
+      "formatted_address": "2 Bellevue Rd, London SW17 7EG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4460039,
+          "lng": -0.1656422
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.44736937989272,
+            "lng": -0.1643576201072778
+          },
+          "southwest": {
+            "lat": 51.44466972010728,
+            "lng": -0.1670572798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJj6UUV9YEdkgRV51E2yC1YJY",
+      "name": "Maison François",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1084,
+      "formatted_address": "34 Duke Street St James's, London SW1Y 6DF, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5076051,
+          "lng": -0.1381801
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50899332989272,
+            "lng": -0.1367877701072778
+          },
+          "southwest": {
+            "lat": 51.50629367010728,
+            "lng": -0.1394874298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJ-SetlWEFdkgRfEt3-moto_4",
+      "name": "Chez Antoinette Victoria",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1772,
+      "formatted_address": "22 Palmer St, London SW1H 0PH, United Kingdom",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4982576,
+          "lng": -0.1354101
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49974927989271,
+            "lng": -0.1339967701072778
+          },
+          "southwest": {
+            "lat": 51.49704962010727,
+            "lng": -0.1366964298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJgaR1WkAOdkgRh32MzysCr2Y",
+      "name": "La Trompette",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 992,
+      "formatted_address": "3-7 Devonshire Rd, Chiswick, London W4 2EU, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.49190489999999,
+          "lng": -0.2560068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49326742989272,
+            "lng": -0.2546478201072778
+          },
+          "southwest": {
+            "lat": 51.49056777010727,
+            "lng": -0.2573474798927223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJYwXPXNIadkgRhqBqxBm5ddA",
+      "name": "Le Relais de Venise L'Entrecote | Marylebone",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 3509,
+      "formatted_address": "120 Marylebone Ln, London W1U 2QG, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5181617,
+          "lng": -0.1510387
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51949467989272,
+            "lng": -0.1497083701072778
+          },
+          "southwest": {
+            "lat": 51.51679502010728,
+            "lng": -0.1524080298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJJ5p8Ls0EdkgRrtA7GsU0iZs",
+      "name": "Mon Plaisir",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 597,
+      "formatted_address": "21 Monmouth St, London WC2H 9DD, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5145136,
+          "lng": -0.1267387
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51587632989271,
+            "lng": -0.1254643201072778
+          },
+          "southwest": {
+            "lat": 51.51317667010727,
+            "lng": -0.1281639798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJH-wyyCwbdkgRXXZpSOIdcFY",
+      "name": "Pierre Victoire Soho",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 1774,
+      "formatted_address": "5 Dean St, London W1D 3RQ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5154473,
+          "lng": -0.133598
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51677332989272,
+            "lng": -0.1322560201072778
+          },
+          "southwest": {
+            "lat": 51.51407367010727,
+            "lng": -0.1349556798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    },
+    {
+      "place_id": "ChIJFWhXXcwEdkgRkKBKheUNnC4",
+      "name": "Clos Maggiore",
+      "category": "french",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 2719,
+      "formatted_address": "33 King St, London WC2E 8JD, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5116945,
+          "lng": -0.1247301
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51285742989272,
+            "lng": -0.1235719701072778
+          },
+          "southwest": {
+            "lat": 51.51015777010727,
+            "lng": -0.1262716298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:54.663Z",
+      "query_used": "french restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:52:54.663Z"
+}

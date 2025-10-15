@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJHUylZR4RdkgRqtRHULzIPbI",
+  "name": "Holy Carrot",
+  "formatted_address": "156 Portobello Rd, London W11 2EB, UK",
+  "vicinity": "156 Portobello Rd, London",
+  "rating": 4.6,
+  "user_ratings_total": 551,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5151789,
+      "lng": -0.2043253
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51648863029151,
+        "lng": -0.203022919708498
+      },
+      "southwest": {
+        "lat": 51.51379066970851,
+        "lng": -0.205720880291502
+      }
+    }
+  },
+  "lat": 51.5151789,
+  "lng": -0.2043253,
+  "formatted_phone_number": "020 4580 1425",
+  "international_phone_number": "+44 20 4580 1425",
+  "website": "https://www.holycarrot.co.uk/",
+  "url": "https://maps.google.com/?cid=12843642423456814250",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d7Gqu0qKhq1R1XmoS-8GmfW9zhfjAjAwiftHPo-C7iR3cDOXH5XSqA_gdkxOjdwe0I8TlGTsaZ5X5ic7wi2_J3XkuTSnBfCysHB1upvcYoap-0hnmIV3VoMb6I_d0fnUZXNRAT2HGV63msZ2wB9Nhc5_pHMo-bKH7o15DWpu5x0PbCQ2pNJSFrzZ1Jd-z0hx3YQv5x5qH0sPvGtWMywPpx2C5SxPfBy4tu9vdy7nstmidt1FnaJBEz9d0B6qis7H8v9p0F30LFzEEVddonWEDt76amokyLuxDd24GlbgAukQ",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100290995415280399798\">Holy Carrot</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2csF2Rbg6AqBAkMVADygClucgFFC9Zs9zSEIdapdaGU05Mm4Wxubo6pR8dVAyNbX6bYsXrjSnc7kZUMpqUtx_yq6un0eQc_l9moZr8gOM-inpZyq6yi2MLd2cznpPhn4w09h2M5unsvGW8U8YEmcNh4zN0m7aKmVOZVUpBHP6NNC_Tjct5HnU_vRZrawtgsuA7YhASUtltGY_eP5od1f5-vZ1GjuTBvpB5mYTj09kdBDHDB22HrTk9xtMGN7oIQH4Cc1dUIoptDd-ATIBPuLvztwjWUlk90Q9iFI8hBZA3tzQ",
+      "width": 3322,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100290995415280399798\">Holy Carrot</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ftqx-HKloALyZkQPv4URNeuFmOqcSYWY6eZtlckZJ0Bwk8oYJukIpSlv1jBqWY3Dv81ZmdOoFRHq9bNTqXCsEkoLZ3nwSvVO7wCOiX9CM1UzY_xkaqcRWzdVwjdVUAXh5nJySQAVRJ1f6UjB8X7LincDP75Jlo9agY0r3FQ0PqbKeLy5-43aVcOpC5wuAXa2cQPe4rde1X4BHzWXxUyVIu70v0pR4bmZLSuDI5Z8_AZNYoVOVtvw8nZ_DRdrdpWS_WzaPZetJOezWoaZofI7A21x4qQsIvnbJF9sQmvjQf8DosRRMHwMlhmyPU9O61qeQuY7ZN7BxmmzfNITwdhG-144CrS6cUP0O6bKjM1p-0T1q4NdhhyQ9j0rE612D-Qxh231kVWA_4SRi0-4M_7xNE53uuymuMHzq17rR4BpL22hieKs7UJLGFSGpXgu8h",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112436034229037784424\">Alessia Baranzini</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cyT0BiCfjq2VvnwjVJygRVnxZR3ke3-ykKpEajcRAF-WZ_pPAY5srTs1w6SVWYorZMadHyQg6Keos-oBC2YEcuFi32fa0gn5E2aX9wSiKItjRGPl3ofLYL9bL7mmM4UsZK-6C06woQIGt_CHyBhSQ53WA24ZM1ReV-r6EQoijCYrKJ1qLGc47GHCykfJ9xR3zl2Z7FUpSfEBWIhtNsqh9yMZlJcwbAulTMBHtOLfGpvxSVA_h8GZru2zNsvjWR11jAQvBmnOKRzIrDUs6jM7U3ZFHHED7loWTISeSh60zzXyKPyhquHvT2sDKMHDvS882rafyIdNYvkKLZDuljkGL7HikI9hckem8nejbMRBG7we31HqPoCDEbelbYK_Z5kAXuqsRO1S5OB8JmUc5nqbunxTHdqVpmIYrd9zliCrgESFtJTvB0uSmVW8XtwD-6",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109231324993180233306\">NATTHA PODOK</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d9QfQTVJ3gae10mcmkiG96mGflEZbHhJdkjWW_peITpkieH1i6DTwa-clACbZdhSk7XHfmilIlxO0cCMFfkw8pzeNmbv7HJ49tqqYIJTEam7XW8D1j2S_7leaIBzFOBrF4FCke4lpGclGX1b8g5BCKm7AYDwPy0PRKnFQLDNmg9BsYJZIAvw1nVTccD99oM1xdxgeW5vTr2wtFNGZ1bPXCjg5m4oilCWHZFsO6I9-dI8TeIHbgJzm6lWPtKPgUpYnEe9Ocn9551VlBer3_tPgYuL3PYXhAHMCJ-ykuGJAzGkWFE9MNu6qF8uNyQ6gGIyqu9YVg3Rmoeg8HATWIwD3DlwNC7mw79cqeTspHi4CSEhAO-NiGj4EDDVuR4JyUnSeuCWdXGkNPaYBeD7daWqF093n-RUgfSlqlJKmxXLVr1nlTY_TBCF-4YP8pwfgY",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112436034229037784424\">Alessia Baranzini</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dviGifc9hnB1h0Ifufl_k-2l1CCvO7M03_7L-pnX9AESBMeePeWnISftRzCpNtouq_SU64BYbLLPRzonLOmRspl8_OnQixF2B8wNBBkUm550kjvXlLkXiMd7migDMSCLfMedm-8bDmdxmpM9jcXJclBXKOYEP0cfiT9qHQwmT5QPN2IBQYsq0LGK0MKwOruG1qewoMQyU6AJJb1HxqOC0bbsEEmFA3r3DjZufE3qRi7QVekKVJBaH0JKr1K2ZL4jMEC3XNDoklYIQa6QnEUzKa2sDnd8gKNfTTkf03gk2kMKp9HBetLKZSkq-kOEzqJWAfZfonPChFltbJXefkVPX5qhk7sQcRcR4GLYq67NqoTrV1D2h1qMq6AkZfLICPKFy8zbeklQONpZwSWUvSSPx9dgidXlG-VgPfqSsDmJCsfw",
+      "width": 1171,
+      "height": 1053,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105362620810434755825\">Stella Geufke</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1qfmXpD-24IorHh3mv9Oa0BfWchLFOMdT6jiM6zKtjhCsMt-SkyzrIGCtGf_nLpbZ92Rg1lAu6wUznlUessf6Ng7Ve2x8CvH6vZPLvwPOi15TcmylXoNVt3fgnRTqLbZzJWH22ToWaou2Oier3PlQjEeyBYfprQ7w0Fm1QG_jr8sDqAY7CUM9gJVMXF3bJwChgAuwiMJx9hXgbktLWo5z1x2mJw8bfvpS7qy7egxC_lKWVxwl2rpwf6CfcAiUB6VqB_BiuAK5r5togQqN8BvKiDDfAvtaMrjCELZ0Y5eWO7blPPyg_kkNDS0L-U3NdGWjulkQsKKoAZFIL6fmGQWTjvA99qK0mLi1aUugYMaCqYJR0OcGtWu_1YIo8J09n0UEOHfY4dzqiYohVSpoBqd-QrPfkyhc88hrvrJF5iHGCuIfybqdRQMwMRz2RT8m",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114356084835557670350\">Neil T</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dbem7AdNjBqMv8evw-NOxI8KKPiXaSOjS52_rucn54oMpeR6lNhpNVzQZ8YROhHU-ZBxmCoHo-fa_lHXoSDXHhhgKVQDHr0braBdqPpQ8RSJtcLbko5bhS-rjQIuzFrrgpoKNFMxrihufZ9LWRnP-C4Ud2u6FhNSAHko9x6ikQMpC1BCMl3wrzlxjWL4XakgL95FdzGvMNIpydU6bsawh8ZAtLStCn5Dr62wnN6SH-m80wNKLpHctWe4xJ8yHxBFnQorLjPa7HHOGp_32Lq8aQJVId_i5mAGo5PW2vz6bnet6XYeTDaYNZlweRsWs32SJhkmsz0Bg4cr6CtNRBPKHA7UXi7u_1JYRliNO0s_yoKqj06zsrwZ07cal_r9mwHBmUiDZ72EMbH38ESONPL1i1y1ckPiFa_YgV6hKhJO_g36tW",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114774532808189721047\">Lucuma Magazine</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clZahFEE0wR61TVtFmTqyJZjvn4HAbJzGRB0R4KS5WFsQIM1AyQ_XfzJNXCCVG608LkVSn5sB4J6sarFh2trADfXJzKut5EdGGxOykgKBWVMmwyRhqZeUmmA39426PXGlROpry-t7ACvPgRK9vtMLN_YXSzxt-KMcULPNi9l7lhQzfOm27L5GFyT2I58MX-ZbiogodTbeg10NWh2WOjn75mvIoEG7RWvDDERKTeXIkQA2ZbbWTXltMGfuSEboxL-6CgjquGES73SPKlwQ-FXdPn2Lp6pgcqphC0n0q0GM5rtdeRJuxmzpMLdnyL2P6pDjG-ctbmhi64P9J5DYJ4uebsjoi23jf3ET56WL-VLA4PJ-13SqAnxL0keMfKZvTT7FPZQPxLDHB3oywtJ41I9BMN5IlfITxYEI3b1xGVHN-xA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110145056503639460525\">Mig</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flU4EsFInkah6BVOmbJG_lbqmGTtIRG43JgeKUPHVlu8uceaj7x5ixz5wtHFYJpfwG9D5O_LIYh7Ftqen1RuQYveymtuPNvh0YHhzqzyqYOfxTxAX0ButHveaCe58ffOCckK7G7W90UsP1KOFgmVfv6AzxIsctFVWRTLDayM-KX_tVIZzC3Pv9BZwFoHDE5qj85kojsaPQyXQHRRoyHtiv0bcjHFzN1CiRpgs7JmJ1Kie5N4z0VN-9ndAbVqFwzwY5cyuafM2k0z7JioiLEElk8iE8BS2RAtb-A2kcFq1cc_VFyzs5X2fCq2Os8KDg5lBwLgD5Zk3IbeEIcFPPQLCcMYxSbs6RRkqYfp94ib1cs9_vLeRxo1HQdKHu4zGOYNamW3X-As9-e8hlmTIeUbUUAYe-cWSsiKfpJ4RZJ2fbMi0I5yYBac1CEh7mfrnT",
+      "width": 4618,
+      "height": 3464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101434206690106452083\">Kevin Laban</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Simon Atkins",
+      "rating": 5,
+      "text": "Lets start with the food.....thats the important bit.\nBetween us we ordered nearly all the menu, there was not one dish that disappointed on flavour, texture and presentation.\nEach dish had a personality, it fought for its place as a favourite dish!\nStylish restaurant with a lovely look and feel with a good wine and cocktail selection.\nBusy with a real buzz from Portobello Market just outside.\nVegan or not, this is a place to eat great food and enjoy flavour!",
+      "time": 1759171864,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Andrew Mitchell",
+      "rating": 4,
+      "text": "Incredible vegan food. Every course was delicious. The staff was friendly, warm and helpful. The only issue was the speed. We ordered the chef selection, 8 dishes over 4 courses. The first two came basically at the same time and the rest quickly after. For this price I expected a slow food experience. Too bad because everything else was amazing.",
+      "time": 1760125205,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Adarsh",
+      "rating": 5,
+      "text": "My wife and I had an early dinner here on a Wednesday evening and had a really great experience. Shout out to Gabriel for the engaging and enjoyable service he provided, as that really took it from a very good time to an exceptional one.\n\nFood was ordered after taking our server's recommendations into account, which we highly recommend doing. When we went, we especially loved dishes featuring beetroot & blueberries with pine nuts, roasted leeks with almond romesco, and a cassoulet with cep & smoked tofu, and a dessert featuring an orange & bergamot pudding (pictures included). If still available on the menu, also recommend trying the low-ABV drinks from AMA brewery.\n\nThe atmosphere is inviting and lively without being loud. Highly suggest to anyone who has a chance to go!",
+      "time": 1759352207,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Brandon Pacheco",
+      "rating": 2,
+      "text": "First I would like to say that the staff was really helpful and kind at all times and most probably their chefs too.\n\nWith that said I would like to say that I feel their menu is overpriced and their dishes are dull and without taste.\n\nAll dishes that we had were oily and salty, from the bread to the white bean paste to every bite.\n\nAs well I understand they want to “grill” the bread but they burnt it and that’s not a good thing.\n\nI tried their pecan tiramisu and it was just like nothing, I left almost half of it because there was no flavour.\n\nThere are many things wrong with their menu and I think they should really take a look at it and improve.\n\nIt’s not about how many oils you infuse, how many oils you use or the amount of salt or sugar has in it, it should be the simplicity of the flavours and as their name says Holy Carrot, just bring the basic flavours with a twist.\n\nLunch might be expensive anyways it should be tasty and feel the love with every bite.\n\nAs well the restaurant is really tight and they have given priority to their bar, which by the way they had a really nice Spanish speaking person who was really helpful and with a smile at all times.\n\nThe entrance is so tight you can’t move and everyone working there or guests have to juggle their way through it.\n\nIn my opinion they should rethink the layout to improve service and make it less hectic.\n\nI hope with this review they improve and one day come back to see them do better.\n\nI give it 2 stars because of the service they provided.",
+      "time": 1757278017,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Erica Garvey",
+      "rating": 5,
+      "text": "Had a great vegan dinner here - great variety of healthy veggies and hearty dishes. Also, the server told us everything on the menu has some level of fermentation, so we felt great afterward. Delightful cocktails and great selection of wine, including natural wine.",
+      "time": 1759941229,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:07.524Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUylZR4RdkgRqtRHULzIPbI"
+}

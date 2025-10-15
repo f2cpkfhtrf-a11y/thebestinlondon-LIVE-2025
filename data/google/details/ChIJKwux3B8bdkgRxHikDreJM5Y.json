@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJKwux3B8bdkgRxHikDreJM5Y",
+  "name": "Il Sugo",
+  "formatted_address": "1-3 Pratt St., London NW1 0AE, UK",
+  "vicinity": "1-3 Pratt St., London",
+  "rating": 4.5,
+  "user_ratings_total": 721,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5373691,
+      "lng": -0.1407776
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5386832302915,
+        "lng": -0.139359569708498
+      },
+      "southwest": {
+        "lat": 51.5359852697085,
+        "lng": -0.142057530291502
+      }
+    }
+  },
+  "lat": 51.5373691,
+  "lng": -0.1407776,
+  "formatted_phone_number": "020 7267 3575",
+  "international_phone_number": "+44 20 7267 3575",
+  "website": "http://www.ilsugo.co.uk/",
+  "url": "https://maps.google.com/?cid=10823145748819114180",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dfb119VQ-xAy06n0L02Q0_JLI-5PgFQTwmv34ftdHDlkEmKcvKGbeyTe7VHkyO9hB3bcXaldEn8IXFy7GhCncLY0xK91phpVo0RDKZQmyN5IHt-aMH3rRKQEMd05yKvvThfbSsEfzyLNpx8h9UiXz48nXAmayi_4kM6BPddI_AVsUfEUR4_eOfrEizmzc_AilzxvYx6W_J3PJnOjmkURElg-rWtrqRONgnR93QwAsiU6UInTU0oZkiGryKXt3MfQiwNuOvvFxHaGt5PzXratAFXv3FA_QOj3jMtbY_bP1NBDnDoRTfAsQlY5Ug4N49-7yLJhru-V9LginY19HKV3k5rVzw0ImKdoGn1F9jp4uOemHVO5-aVkR7qAFjzAJo0nxSoRvQPKKHEyJEiGOTQlVNUSpfHN7s8Gk7vYZZ71mtHNGd",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114357096984501540911\">patrick jacobs</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBI09BZv_2yYCTQWQekOykMXyaF6njf19kd4ErIb-7excVqJlsOcJNDDhHXu66OEvfiGftj48tVCBE0ObmpM6iS0TDqfsZP_1GvyB51qsoTDFdMhRG-wRwSFxwEAyb6pL6cyJB7ynj-DGPtObAGAplgcKEOoHKtJUsKgctlxTRQsujHuQORavuD7Cuq37bvbRUT_DC2pegrqpMr38Ig8SSo_TL2uU4tJN92X4umo6fRwK5_-5CPlWUZb3NNMSBxUn7s8W_4_ywDe6WHKnIjkAdo0VDOkeXLsHZt_P-G1qdIesgSj4EyyaXKQegmG40SgsG90w-a7kx-gcxxzgwHT633aLSatksNJNrqdR8a1Wp10kzAa3pubvkQS8_DEpZZxVzoIxHpM_COo4krPrbHHzvlRNnO3owGIrgKjIKo_gPNw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103828337214746703492\">volgin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fSoi5pIUbln0ScDa7g2RA8DYgCRewUzYGi-JjwAIAWZmGvCs0q0qnvr29qlFR7hs_XXqnfrngvdVeYikXph_WwmiQarGsBn91VjohaY20yJQAotTUmvasyfwJd62ABYlNEC4NiNERO_oAmdhCIE6yR_DDIObTNaTAnb5Zldicsk9igBjFnwDE2kgXfhb9ck8fxEuefswIUt0GWIA8-LqegKrQCq-E8OZSZJlWcM-6ggCMyCGHr26pqos9JmirrF5r1X4gRZTahqMBjY7J-nPYbNbeZY1u5xB6qRu9CcpEdCJokMcOpz8cwz3j2y1NbKOClbPc83MsNU9Oxn2bHQjMXQl5AYXonC0I-cb82TrICuh-mFAVn3b85cYO7nJavv27rmpkhmsZ3rijppu42DET42pMk3PiFF62SeMhr_0yuHzGsRKGJDavuGwnPymNy",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110301468878284300792\">Marta Parciany</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cssXCZQlItTaUrjErGgtwHX7FJry5cdTL9THx-JqNSpSgKioKMNPMRm5SFY7RvtLcjGbxkGBXD5OKCBlQpJS8g1u8nGyefQSSUY_RAN1CjYQ9S_JFfrFkzHaLIC69u7rhDIgrTuwXB4FgYDoh4HhLtOEMA3Ei86PgZcF94viFMDcGrn09j0IGAtX5_8uJ7ujMZ5HdwhplmFWyFMX10zNeNRyE7BZNj05cUKqMr4LK44xsZHSlENl4Ekx-IfNpfgLK0fxzeem2N38t97BOouKu6KYXl7ZaXCQqop0KaZdMw99LBt8T2dnQOqnP7Ak35dYo9-ur8kpynUbq9z95pfVrEJAXZ3QGUqIAxdQCE30Viy5wlE7dsSLWaXt1MyYARL1cNFOUsp6g6ClkuxvqhIaeCd6EE-CRhAla4TU-QW9b5V9Aa7QNK4XHKQL8VYQ",
+      "width": 3683,
+      "height": 2762,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100402697185367022586\">Layla Blackson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fhonJzTuSefeq8_OMU-qzkYXeidAmxqLzCn_kBcZct33oagCJ4o4AL4Ki6CkkwvjgazUjw96k7tVZUeyVbgvNO6bU5F-TaMW6i4M93qKTeantUg576YY7kN8dCtZJkzQA1Y7UIn3pvd0Ryhu72DkO-fP5e9BX43R05BQO5APvYfw3WrZ2NbKNqe8_58NOi2zElckr6v2BWcTMpoUnsr7ifPl3Mx0-cJC3P2gQnH_sCOsSrzOqlgcno_uoKZWywo3W-CSvT0Qc8WPAQmNwAy6z4BkVL6Aah2lrqwEsDedtLR-QlOaKo8ulLUdYjmJ7bt80coNDq9sjh1ZoGc61TKkyWeL1qeCYDi9XWOBaijMCBtyhUl06KBoEey2poGWwb3xP_QqOwrjOxcqBy8Il_9rTMKM8vLmh2pr7XUHw_eAEdoQ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110269419614475348136\">Alexis Roman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eGuUSNY9JzRMa-GAR0CGof8l8iv0o2-xYXpL4T9nbyiAERdJR2NuNAamAevJ6CUdbQjvWYtDgw7nEoRTzZoh6ITzrFBdTz-w-NHB5osd014gNoH_YD18nH8MTGZ-BHmwZS1oYgPW7PyJEkvnURKWy7fjn7_25_OAgGa7ryqmkzPfy9io30a38jbT7UBmfGCJnlKtPcmL3V5BQ_bprWF-ThwRkPo4E-QXKxnQ8smw1AoS5AW9FqUHcUuhbed8jGuzXEAOAaJp4pnxtgS-7XbWvwSklr-c03TcsfWgxZzV_8sgWzo6S-vi92qrk7QGyJ6nsQVQGEshaibt6_xnlEW7nxA_-GetFb1kVpUrnWvAGRWA-XfHL4idIklZfu22xuxTUUb05-cvuhgjA6LW_SrA-umtMsoyYr34YvMv9SyL8",
+      "width": 4800,
+      "height": 3599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114415506644754857647\">cos bit</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cm3vKMZ4PbVfrawaECG7X6Z3p7ZCHn3-pTIgH-YCOde9cdFq4xvhGJzfSdxNUYZBO0POjMMdWULWD7jVpDwnSLjMyfDwakhoRQ6zYU8NN62Fg4WoM4IAA7k8ISFx0cysMQyxjRMhj5I8cXaqPNCYqIcQsEkcIteRukzYAg-y0tp8wrqNYbIVZ3xbM0Wxmr_wkh1B54ZHr0pfHr2D9AOnvSus64dP3aLAIpDwz0aW1F7bGKoEliOkQQerHMgZlAzaQ0hrS9J2hD8xBBUSe5hicqhfdRkasmCibP0v4mwkYvXfoyKfTYW-y9B7UTtWK5tD1lME6j31o6T_-79cU91EhnoSqfrJV-Iiyf8lLbMz6SVPXA8vpXHOqPcNRTgCiMNtFLjLTbppnV-oOfEgiISbK7DtFDMv4y8ZHDM0ffC_4OnxvBZy5XZV8F4JxYfb5X",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101311387983215943847\">Georgia Blackson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0odiFBGwulh7g1hUCoZNcZKZyvOIRFLWjKfHnspMVlYn04EnttB3wwS1TyubRfOhezDTqwsPxCfi_SNGpXdFahr8gzgWUqO6OISY71K1Kd61Goi4Y9v0LB519TNlISRBnN2pz_8FILBMbduOiTI26M9aqs1cHusbtI941qPgfQQgyld4Y1vUHf4cEuHDZdHWj3qvsIC7CvoKVBw89Nik2zcoLc-bJNADxtkdBruy9pImb06CpMJzRR0qZjv5OqmJhmRViJx_-2_sFSh6GlGgHl6i4Ex-rwVf0prq0c-_aQA82DRFt7yaSeZn3tXNwHIp2MzWVJlmiplive1CMw4TZqOIyoJQX3swzn_KzJ06GCe94-0V3FmyBowb0lOLny-xK44kJR3s6xjxk0W3hjB35fad8-1QQ9qvs8ZbeBwG8X0fy",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111567539577440172431\">Priya Sheth</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2doSDEa3tZ5nnq6HVKs2QZT8KC__YZTYJSCEENTKW5qWKWanRvg4zzXbI_0C5jh8UxCSGD7MwoNGBXmabw_4Ox-CTPkY8mpfDtfKvNFo-uZUJxu12u8rWiEufYnGwz2KKHCzodtg7jxaG-9S9AUXSdZKGtSYRcBHV8jAr5A6uMgOL_dC4gzZGOi4OlYQqIIk_nGbr6eOMVRtbFjrv9poO0rQ8fc5U7PFwuEOnl4YiA1y65cBJOA6ZO5Xv2AYmXBwGqSI_JCNg5ASQY3Ms_vcc3iQGK9WyYUXihfHaWDQ3pF3UeTl9Ck6LsCSUYE_hp1xOgIAVaChnRn6PLgwrYbOfYJYI_3KyTPTGgKW_rqurIL378n16ccl8E0zU4NARpqpQ_QW0I4hPneLitso2aka29MoOkVDyTlxWC55RLS6A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104023442992863275914\">christian denobili</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2daGQtnBkDKYiMEGdsy2aHpPS5EN3FYXJIIbgooTw6cBkpZ63rYHNcv-koEt4LEAOVP5ddgnSJ0jKADHH68Oyl4VCSjFBXOp1Qa9GYHS8BL8fpACCExU-rDzEU27DDBMNA3qGUvLIn4DILCaeqNMsgUNW0X7j4K4PEp6g9fIqBzzPgeCVdY7yrefTtnLw_WZXvffkEhSyBf4HXj1JlJjjbDW8wJ5WKfS5PIJIKKnoaUhlpnU0BbuHOjP75N_JmMNeVt7zi-aLkinq4NFDOQsbRxb1CjXdX-h9deZ5CgGSKjLt-Ar_ZIvQTDHQnzh4LN_Rde6lA6Gn5-39ydhN5sz-UOrMWahgz4rBY7OyiOxtvFrynG9_Br2HE7ADDOlaj_BQLfdXi8KPCEUj2rNoP_bbOWkDVbPq0gw8gbg7U7-m0",
+      "width": 4232,
+      "height": 2393,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107521076307528796729\">Kseniia Aiukova</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Marta Parciany",
+      "rating": 4,
+      "text": "The place was nice and atmosphere was great.\nMy pasta with salmon was tasty and portion was big.\nThe service was very good and helpful.",
+      "time": 1759143683,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Georgia Blackson",
+      "rating": 5,
+      "text": "Some of the best Italian food I have had in London, lovely staff, great service, very great vibe inside. Lasagna was amazing, fair portions and fanstastic cocktails!!!! Couldn’t recommend it more!",
+      "time": 1753553572,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Giorgos Neokleous",
+      "rating": 4,
+      "text": "The staff is friendly and attentive. While the dishes were pleasant enough, they lacked the vibrant flavors and authentic character I'd expect from Italian cuisine. Generous portions and good prices.",
+      "time": 1752952743,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "lahaina",
+      "rating": 5,
+      "text": "Authentic and delicious! My friends and I had booked Il Sugo as we had a day planned throughout London. We didn't really know what to expect, but we left feeling delighted! (and very full) The portions are very generous and the waitress who served us was attentive and lovely. The service was pretty quick too and great prices.",
+      "time": 1756413756,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Kaz Bialobrzeski",
+      "rating": 5,
+      "text": "second visit well worth it. good portion size for normal london prices. friendly staff too",
+      "time": 1752439562,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:06.197Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwux3B8bdkgRxHikDreJM5Y"
+}

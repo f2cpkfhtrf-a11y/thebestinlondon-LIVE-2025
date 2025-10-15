@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJyQlPIyYFdkgRCxg-CkRGRto",
+  "name": "Shahs Halal Food Soho",
+  "formatted_address": "9 St Anne's Ct, London W1F 0BB, UK",
+  "vicinity": "9 St Anne's Ct, London",
+  "rating": 4.6,
+  "user_ratings_total": 628,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51431669999999,
+      "lng": -0.1340833
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5156439302915,
+        "lng": -0.132959869708498
+      },
+      "southwest": {
+        "lat": 51.5129459697085,
+        "lng": -0.135657830291502
+      }
+    }
+  },
+  "lat": 51.51431669999999,
+  "lng": -0.1340833,
+  "formatted_phone_number": "07915 351944",
+  "international_phone_number": "+44 7915 351944",
+  "website": "https://www.shahshalalfooduk.com/",
+  "url": "https://maps.google.com/?cid=15728336006681597963",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d3IntGPn7VoluhqdQvAIwKRYxDEEhgPgUPOH0oSQUbyifGXGkJJ6HZl5Mj7bnIrSYWv-CKKBh-1h4XrHHCWwOwROYOjm5_EZ3aQEtzkzBy1td7J8xbJkm7AeUMrGGCzlhab2rOYgyx_fTt1dTM_je3E96YJE6rkA8F5nOe-lHnYf6VResAt73JN9-O0eoqr5Me3G_jniLKaIvEHps4r0cAd9VN2chAjVkN0G30IRWqJRr6-J7Ui-CeBWHO08nZO_YfCo8eP7KH0uR6R8IASh9fOIYVRbFuPG2GohdoJZMslg",
+      "width": 1125,
+      "height": 2436,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114486358568329741495\">Shahs Halal Food Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eazTndB95OK3bXy0x5hw3K8L_A62gVW2gS96lhiVAdeVmM4OhMQLuqxg1IFPIfT5hCHDThC2Xn1BygwJe0hxOxW92XMj2flOsimtEtnAjNLBPZ_kgf1C3tHwYADhjF5eI_zRDql3qvBdSQDfRGfiBdYbCNEE8Xc9bWDzSRg8kilYk0QTDbL3u7eDeByQSUan7_RaG4csTa6rRhN8TEmT6FjxdhqCcQNK0ZwTGcMfTFBNvSSwHS3FMPN_wQC_bkTm2-FBUzMUYSq6zgqh8HtzMUrkLa3ttdpLSeOLN18Wz9Sw",
+      "width": 1125,
+      "height": 826,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114486358568329741495\">Shahs Halal Food Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2edycf88Eae5il4aOPTpeo7fUugwjm0jXaGOTJJ8jXgu7gRJ2zG3oGldu30o8Y5Zjcx2xJ8cn1EPrqYecKxmpeDWs6hXP2cpnkYaPCGKOx_lCF5oO429yYE_VzVMMCKnkX8AoFkldQi3un-ElzO5tD3hTccAm9iRK_qA-P-zWV_LAHzXuuu8AqT-GrN70hWrd65_ALQ37BIRa7_7ah4PvMQwGj1Ciw6jPT3jn1aXIIy5vPjhdAfBpd0ibXc0yTX99WtlF4sY3fh0jd5F1WEqgqZyqYNzfiAwkGkFytebTYqLBRy2aC8ptQhOKOGMzcGBUE-lF5GgfGT4eM1IHggM5kO6v8XqzHrVADuZFEfg2pdzES1pxU8wFuW9uvcDbJgr6YGtFZeUJNgk-ifubueE_B4-gJ28XlvQAdt_k_JEZN5Lw",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111868505284067362484\">Mohammed Sathick (Shah)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dBtCZRM9ByiKqnsdIQgWQi8hKNg4BaW7cNjX5nSJQ8JxKjOkUfnO5XN1JGmpHb1_YGQEjii3tQYFUayKL4qeMJ16e9ZIBEOoCHXpmJW4BA3kXaQIBisX0qKmiTwjYyA9n47xYH6X4i50-0emKufIdiAcW9DAZMJnI09sGSCbUESAgIy-l6VcqnFD7AJS5mUd8nljBQAk3yIJ_PtpMr4JZGRWd7uTcHHzzJNXkvu74ojKrZdQaTKkbNEFC68m8o1zeXigBVxSgTzhqVqN5O5ptdea2EFlUT6nrEhyaRRkiYGC1XPgIisVMCDEULf-LmDjcHqBUoX-56RWniT5MPHESkXHSQxkQVgPP-76v27_j2faHuLSKVdsJmeMHfRJ5m--I7Vhoyqax7BPvFzi0OV8HehkhXUFvTP_EyjkvAj8i61bAjj33Rc3FGJ1XyMw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105289888119360996466\">Azhar Awan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_XTWgNN-f8yR3VPCqkMdrQhVU2OcbmlOwh0N6av0GGx4HpEXuvqKoBQew150QYeC0XTcGYBHKNAjbISYG_otEPTH9gn-vitZb_mDwrzn9moQc5E8Mk4eu34-7SJetcm9sOLbLTggRR5DJyv4ETprDlneYM_oKGa1hXb0X1eBkuYQp8vAYHSVLVi3kxYcsh8J-o85cm7iYs40okZmDTMIt_cwvC8niZh6198YOfOGFFDq4KMpfNCczQQij2ycW4sgB42DPoa3AQrdnH244GanO81VJMVue3xgbyMsaC7LJJByhF1BuUxpChF711JhPUy8F6NHOVoCLzDXanSRGiHUqgLi3QccifIvr1zZC5c-ehjYoL840GLSFTO4VRWKSdSU-6f6Fok1R1P-MCjlrdmhnOJ4M3unzgmYeDKu-AjFWPdNC",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118442195832313344332\">M NELO</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fxGL-tB8vaCIJARWI_Opy9pOQAkzcS0AKH5OWtxMqWC4ITvRqI305zqcuF0sDY3KueL7SOmOeL6RJxgeI7lPOVG_lW7zRf3cN6tUIxEderzaekiVnYJrqeyyEXWWEZjm45Rit0k_ddjAB1P_n4n5JVSlpe6pESqrcnmql-k4hzg8anlfoYhvZZP687s3YtSqxgAyynOzcJt2eXXiKmIZhPEfGpt6DFFDRyG5yA8M9nf4K9DEpZooz4QluS8B9eBqSuC-Z0SCzCdLO7uMbukP0tn3kPr4cTt73Xt65QnqzsZsoE4d6nCeOI2rRiNkHVnj0aU0Uk1eTSc25aKp8FTwMYXcz4Bhg5aUK_Y6Y6Uxm2_zglaWebHaxhbEa207rbDej599b6He9193DkO6FoiEy21pwyFwcpD-KdL2BOU55A8pplI9xmvIvHm_HR_w",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102720005563032380986\">Meer Baloch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4ANNtrOzE1bv_BoCrfcUiW7ODzcGjvpgUjsRWv0sQpz0qit0TH3LSmNM_BXZWBdpcH1wc5DI8mrqXPtA_FDTN9t8H2Fy4vZhNjG__QHm7zHtjIAPXX4M8PuV0tNKArm7ID_GCykWC-DxD2CH5LP_trp6Zgp-Zci1jH2ie7k1PAIsWUS2qzg_EJJZrSDdo4Ae0nLfK6FpM3Jau3isiNeThs-8WqMZwsZ58H1ybNGlUAnSLp5ormgfYIkuC569qnQPSMe-wUG6XMQQs4t-Qw7krI0qV2F4O_IaSwm3Wl4_IHA",
+      "width": 1125,
+      "height": 730,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114486358568329741495\">Shahs Halal Food Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMeYHJcYMh2IsBWApCzoZiGeSVMlCqHHg5Ti39v1BJLvX4Mi9x-JV_eCR2fnGExB0scgWaLYk8deAK9B_XoyrJBjZ3J2k_rMFao4-NrScJlmuybFR0xsPrCDP12wVDz-_eK5gAc5v5jhde4bBtUuqalibUMLEVZ8Fmz59tkUifGAxpWJG5Vf0Ck_f7tz-rUyIaryEswHf-ITCpoorrL2eqvk9hZ1qFbCfmSiMY8zApIDbjLQ2M0jLC_M8KD8k49cjMumno8n9a46QDtHlls6oabVQWg26FwNe7jYbUi2bvKC_QAM2y58U-2eyZomRgLrs1wDSz1xyR0BF9I7z08laAwaPs2s0bYOa6rrxtuUnl8hZCFgDaABk_VZZ9hynwFmBg7NXpASjIBISGJaFrifX4YpwS1WSNETiqZVikzvpDIg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115675374154121705693\">Dylan Aust</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fWPnpk3lT_p5xgsSEyV-hSFSAalDbZg8ACoBtg-dj05SpsjMND3aQrqDHWYUhl55NSrqmHj0BMFHGxg-3LEQF-hoS9Qu39x9fWISikyQ215wBLIz_FGDPxY1P9yEXwFonHkPBTy0A-YX_j7HgBJMz3jhHEvAjxoNxUA6X2t1MnCvZWLTemorlFJjOGpQWDVlCQkA1RbCpNh-l99jbnIRku95WgNrU0ine8e5w7ZtOCqhxX2DPySiIVee7QCWkrU5gg61EPOj32CmhAF3dwEkSgH-CEkW_6Ukq0A7uKru6nasZ1swrlfEVmeG9Q-ZzsWiV1jX8Kupt6vJrhLwueNXjmzlDlZdcpqpxTrrlsUKDIYmdR9p5Vn0NJgTR7bLeZIkir0HvBqGHoRFB-eqKRYEBZMpsIeY2oopYUxLcsGMq_2Q",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115675374154121705693\">Dylan Aust</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clIg5VBpgEHPbkaOxgNiRu8Og5Uu1XMpnjTOfCMsDnlt37uOMHATG-Be2cqE8rfK1n3LNuZFiyFygmU9X3R3Mc8HgVlpnlAnH7CfvxXI3pVB_MhEIBOxJkaFJOsKbsQvKuTUGLfCAfTZvz1EDcnHIya0TYc5fK90P9pcBDxXkPHwxhQLMDzzhggZP_s-KkR46PNC3kwliZ3tBCHpAJeJ8w8XcBbTswsOvr-3Km8u--xoZI2NxOw9oS2jK8uJkcxqGpR3EoUTQbiviB3mvK-G-Fr2ADXV4xEK5PcxvD_ilAmmFURUjX6bVNDB04quaiuYKvwLa05hJLhRJOUXwGgyMz2r7mP5c3G3Ec6D8opLjaKLZwjD1jvkeMfLfI3kKc3SV_QLQvMumZYyTO6wWfrSQFFlet-3rmAB9miMNIinq5YIouGAGlEP3ZogASa-GM",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102720005563032380986\">Meer Baloch</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Meer Baloch",
+      "rating": 5,
+      "text": "⭐️⭐️⭐️⭐️⭐️\nOne of the best halal food places I’ve tried in Central London near the BT Tower! The taste is unmatched, portions are generous, and the prices are very reasonable. The staff are friendly and supportive, making the whole experience even better. They also have a convenient self-checkout system for ordering food, which is quick and easy. Highly recommend this spot for anyone looking for top-quality halal food in London.",
+      "time": 1755378195,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Trushant Lall",
+      "rating": 3,
+      "text": "⭐️⭐️⭐️ (Okay, but could be better)**\n\nThe food was decent, but the experience didn’t quite live up to expectations. The service was slow—we waited in a long queue just to get our portion, and the cramped seating made it hard to enjoy the meal comfortably. The chicken had an oddly artificial texture, which was disappointing for the price.\n\nIf you’re looking for a quick, reliable bite in the area, you might find better value elsewhere. Hopefully, they can improve on speed and quality control!",
+      "time": 1748891807,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Kelvin Ou",
+      "rating": 4,
+      "text": "Chicken on salad was delicious, and an amazing value. White sauce tasted kinda like ranch. Green sauce is minty. Red sauce has a nice kick.\n\n£10.5 with extra protein.",
+      "time": 1750506170,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Adnan Aleem",
+      "rating": 5,
+      "text": "Absolutely amazing experience at Shah’s Halal Food in Soho. The food was fresh, packed with flavor, and perfectly cooked — I had the [insert dish, e.g. chicken over rice], and it was honestly one of the best halal meals I’ve had in London.\n\nThe service was 10/10 — super friendly, fast, and welcoming. You can tell the team really cares about their food and their customers.\n\nHighly recommend if you’re in Soho and craving something delicious, filling, and halal. Will definitely be coming back!",
+      "time": 1759708412,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Arsalan Ghori",
+      "rating": 5,
+      "text": "\"Had a great experience at Shah Halal's! The food taste was superb, served in a super neat and clean environment. Loved the vibes and the location is perfect too!\"",
+      "time": 1745261853,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:01.809Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQlPIyYFdkgRCxg-CkRGRto"
+}

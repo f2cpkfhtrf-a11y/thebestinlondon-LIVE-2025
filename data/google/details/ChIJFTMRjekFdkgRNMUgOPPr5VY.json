@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJFTMRjekFdkgRNMUgOPPr5VY",
+  "name": "Chez Bruce",
+  "formatted_address": "2 Bellevue Rd, London SW17 7EG, UK",
+  "vicinity": "2 Bellevue Rd, London",
+  "rating": 4.8,
+  "user_ratings_total": 1234,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.4460039,
+      "lng": -0.1656468
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4473685302915,
+        "lng": -0.164358469708498
+      },
+      "southwest": {
+        "lat": 51.4446705697085,
+        "lng": -0.167056430291502
+      }
+    }
+  },
+  "lat": 51.4460039,
+  "lng": -0.1656468,
+  "formatted_phone_number": "020 8672 0114",
+  "international_phone_number": "+44 20 8672 0114",
+  "website": "http://www.chezbruce.co.uk/",
+  "url": "https://maps.google.com/?cid=6261670286779794740",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 2:00 PM, 6:00 – 8:30 PM",
+      "Wednesday: 12:00 – 2:00 PM, 6:00 – 8:30 PM",
+      "Thursday: 12:00 – 2:00 PM, 6:00 – 8:30 PM",
+      "Friday: 12:00 – 2:00 PM, 6:00 – 9:30 PM",
+      "Saturday: 12:00 – 2:00 PM, 6:00 – 9:30 PM",
+      "Sunday: 12:00 – 2:30 PM, 6:30 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1400"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1400"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1400"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1400"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1400"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f7IILTfeNWuRQj-os3SNIIXqO8Ffd9MiG8wNzYs07qqItPAzBotaFrjSY8NHzed5Td7qohNfh430IiPez2JcxnURlFdOPj3huZaQPYNgnCRMYmSLQmtFJDM2SV0kmAbKIBRlnVmVm6GyvQUCiy2O4R_6R1Ajxhc9fK857rINKCoDmoOZkxE4SHKV8wMcbE6KUImOoXcIhs206L8b1L545Xu1CWBg-2qRH9z1Valq0a-Xz9VpboxX853zkDqzpJcJkXRgpiL15W1otOOLvrizn_IMFqVlHnOlGZ0pBuI9JCQQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100603969916257495025\">Chez Bruce</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebcRWbD81_6I-y5Pvcp-MK_pL64ud4Q2rmp6azb8PjJ6W2UG7ZIkiKq01oqUAiYLxCGRvQ8zIsBeQJYySyOllxyfPC9HG99dzLKhZb6c5oDhNcWPahH5mXhoXXm5WofGU2Gd692Fi7bVNcQ15jtmt6anfdKUaIonduFP56xomMEccgjQFCk8vPRu9nGpAZtuSCUNJscMTttbecHTjlWUb_ShVzkbIqNJ_ZvzaFZ8vVchjrg9ANLs_6DZwO3XbghNaaw9CpULkvfS3vSfG_VS4aqqarH1zjKVFh0Mhzhd87iGWjnCVyqLHk4FyRiyVtleAhszpZlJ6EFs6N5lRH717rpyoQ9OLNM_Q9fxM1-U7u8EQUjD7Vup5VlyH791FsGga_icE-eH573-Wnf03itfIkao-8qSDsYwutOI97S6anqA",
+      "width": 1024,
+      "height": 520,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100775035678707840164\">George ken</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2crK3Kn13o3QnXx7PyU06SV0dReVQBlFOJckNLhcTiU9LMuweU0pzjOA6OFUbxht3JcNLOe0qD5g2Nqxp_A3Sf2LKsxO-6ngQ5UTwV65gti4A9ldTDS8rcC04ad49gGjr9opEvfOO7tW-yIoMFzEG0RP_x9C9KENU0xwojg_fDp3-Z2jV1oH5cUHhzt3llPenuyfbHxoqGf9JNdeUVn6Hrbe3CIvtDrxWWXjivr3pQJk7VuTo8kcuqi2hWsLkvuVZaVspwZqgfHA07HY3-kl1aty54kMsciR2-8Qo3tUjEikH1biYDoI3SvG1wXPkosxQULsvVGyMsObsSsgQtLQzFmeW-vk7BN1a8t1YMNfjdppiMB5n27ira4QBuEJeSfSxS3W5PP22hd14VM_lkqEpQlyCzmhp6scTUJllfJQUI5SulNGMsVQfA8PhD8az2Y",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111343807096735236740\">Habib Al Mulla</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVny3G13gmXHvVFPgNyQPkgqDVnMkpoEBBpdDRhfC1SpVaFV2eyO4SPL2cadxK1ulz-z-huhqPJ4TQm0m5vidpjXy9kFwwRuzpgXuMOfARLrija_sZJJPC4Mc3CQCQUucyQuqrRpS_YTl_OVlJAJyGUt1jXSv0YsqRO6PiwpdqyWsE37a1MejjK1EA-M_CqtlUyMEff_cbR4vCsQO3mm7oT39VUTER1jS6i1xD83VetKR5_sZTsItGzVsJQwhI2CJ-eQPlgKScRRmhdibZCOy722fXcTfFE0n4oyDvtk0jH5wIDoD_Ve5LzAUsCIEJo_ayhTQAtkiG8HOAzAFNhYHTqtcdqY2SH6ZI-YAzUvqt177W8vyA2CPXmgI7_3Lr3XPawA8OsfKivUrl4kj-5oaYeqHGuN3SlZhdkHX5HneUXp5g",
+      "width": 1440,
+      "height": 1796,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102456807570965581092\">KASIA MICHALSKA</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d-0RRCBY3lsie5CU_FIUSQFB6Ly6Od6C7rhxD2aycNAhG6-OB1qeJXfUny_fiC18D6v3pOXyj2nLsCeU4jCdckrUr3n3W2kUVVUnPbMlYGRgKfPVMQ3LMU8e0Zd53xnLwavxHYd6mxkXB4lhR4-4Dq2l8irjkE0Bw20PTeRxfNT5GptuOsgZhgWbkTQZ2B-dU-PT7UhAYbfzl2YEAYRLyEGhkvWjBIXuwSzdjrkYAK296_iz_CT57y6BTeEYC3yYruyXrN2_oICV6nDNXecR1x5Oy9m9SEL9hTgn4tS8czCJ_jYf50v0_fOJsJMV8CrDwYPXRtpbivG2ioI8uIukOPaO8-6IrYMciwKujnW5hvCcgKpZSzb49fBFZOFh3qiuqCMHBKfn9eAfbSIIsZnOUTHAcssKu4U3NQbcySGOu6auoe",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108831652797991053155\">Joey Lai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ecnowVfsaXOhdQ8tG1QtkKwsH-gsM92roAva2UVSsTwmalv3U4Yp_vKCrkWY6pSbpONSxkmg31GWV6ZNaAV7DdTaOIx33pvKGXT8racFikEz03DtSjD0eobYrsBhaBYCbZglap7umq6Q3CLrbEZ5Jso31n3TAEz-w5H515tRohRYmBPEy3OTAJUO6i-7-zWfE-qb1PDn7cfibc68FnprJqNjvK1UZETYXuZzTSuOh6CPhvoHODnZ-RBKUD2nXup4z_Y0abhthIp6O5u6cL1JEzHtFM_Ulf6O3eNWdqueN5LpFTwRldg4Jhx9V4Le56kYYuGUzB-NbeiOa0JJdZEjVT2uAnyDo61oVfcreQumS4aZLTZHvvsmBF_q-Fxg03i1EWN5GOGNl4-1aAHvf7STlGa1wNSWSKro1-K1KOl72PM1S_",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110704877399797353189\">lily l</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cGLE8vW1itl8NSAeWkVxb4Rxeoz2XLHI58WLxBH0HnqyMHoUy6UvVtAoYbZ6zanjfMhyvA8NEGkZ9cxFBL4S4pJCod9ewGlKYUQOZJKzHaLkTxUAEsczeYfXzGpMzoOaYjhXhmHRf2Wx2R4lDT1-vU8EiNzkHfQdgOcLCFTkUZmOsUFDT3rY1o01YjGJZZf3q2Qg56UfHihaDn2bwkFlqjLpCIbs-w5EYrdlgpR-YlpkMXMuRLWYvSleoZj_iy-fLjURBdNDEGVV4FM2agboEcybZ3qI__LWce9RZ2kTdqwaFFNqL6iYhHuP2aFjKudPYC8fimxwKriPioGLQpFfaZk4QJgR1t3sJs7T_nTJIJ7Qnedid8BduMllEz490ZajDhEQpu545oO5Jl68emimTEmGHCjM0805TkBd5FRAg97went-5xUKZb_fSKQw",
+      "width": 1290,
+      "height": 2293,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102854433936422495277\">Mark Morris</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_wQ4OGVCEzxxcaEelTAmwSgcdW9zVVOqZG6DK3LVN9dNJxCs_aX6VlveIZWo6Tzo0chwFdEr45VUUnDBpcnCaR5hkNZJHS8dIZGs57oZX10N0bTHqMzHmsFlUEI7Ba10G4e6ZdQesRs0z6TvQdRteP5mR99Pimg9BaGcPdO-8XH3m7aOfA4Tf4GIVWOLa2kVzZRn4-P14Tl1ikZdH3DLUW4jvKlhyv03I2P0ZvFzzJQmLm9tq1sfQFED9Bz5TpssSizPZB48FeBe8CexwqZZ61ilX7hOeiY5-JZnjbDk1Hk6AxYpP-em3Wj3Aucko87ACIoTjMHzk3J7ZGuexpWq7HYHb2Iz0Qro_e6ukV06_jq-WmGQWtheACRypDoGPQt0L_8i7X15kWBky_eo9TbXnUVD99G160axnx0nBZlmQIsFvC-VyRfVRL-wIswTd",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111343807096735236740\">Habib Al Mulla</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dSYjuRaJ28KLgnuWz5pAWVvp4fzIEktsXwIlFLeRrmxna-64P3NXoUF6tgvlpZ7HIP6PKEOf6jZo0XENLHj6Wkj5S1UfEg6Hg3spWDRGKP_FzLR406sV5KAqZm1x5e6HpO3FcmDbXAeNslG2Td6kweRUfyJzFFAvZLXMTqSMM7LsZ_g_N1BeDqwl7Fk3LSP4I-Xj6l5eLop9zUb4mMhisUk1eaTJCKTr8SFRCxJ9pVNj5j0-c-C2Lo1WrJxbu4DHz4CnLksDk20n4wFYPzcfmAbMafQuqy17PUh2gVWEkXNW9G8qc2ZS_ADZAmzQHX7zonYmC0PhAUgiyGbS52h7iJwf41OP6hY8Hb71JKNQBkDOmMTfrBwMBDhg8r_izvwU-katow91uBfPEHEqP-0TVjf9FZkhkse7eqayJmEnYRDw",
+      "width": 3463,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106187864193503835889\">Engrid L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQNVAMfgNMC1hII2blO4RZtKQ_UlSF_Ad0dLyRdxs-88NGx78rYg9MtSZdSG7ICDtZe4MdyJ6YfuM_Os6UyLXMDSamDgixegcLx-m-NCIG7jA2D1QYUX26WfTyrVF036xELc20j4xBhf0heC-TCB8mpddT1QAnJ6Pf17BRE72vJgm367nry_oMZ6o1hn4WW5nYdgls0lyUXaVdXmiqu3PRTIOOkr3UPBubWcHykVH7f-dxQymGGNMfIvQazWQvcSKrjkHPo4QtxV-HiQNTnq5f-tkdkhswhdCj1IOTriSXgdOZcDQ2aPTjCW--AZpunPLjTFwr1h1o6eDPu0td7o_rtonFmbCw7N_YjwgL4XrgvlNrfHSawskORPHFnoK3WRLs9RGyuXoLRbyHY4B0HinDOEEExRUwybxj_7yiCYzsbw",
+      "width": 1440,
+      "height": 1796,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102456807570965581092\">KASIA MICHALSKA</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "High-end Modern French dining, fine wines and an extensive cheese board in a simply decorated space.",
+  "reviews": [
+    {
+      "author_name": "Ale Uk",
+      "rating": 5,
+      "text": "Very impressed with the place. We tried a few dishes, and they were all very well executed. Special mention to the sea bass, which came with a beautifully balanced buttery and acidic sauce — very, very nice. The bread and focaccia were excellent as well. Everything was good, including the desserts. The restaurant's reputation is well deserved. I’d also add that, for what it is, lunch offers decent value. You could spend around £80–£100 per head, and I’d say that’s definitely fair for the level of food.",
+      "time": 1748188054,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Marco Meloni",
+      "rating": 5,
+      "text": "Incredible lunch! Not only the food was insanely delicious, but also the service was impeccable. Everyone is so nice, genuine and welcoming. Not wondering why the restaurant is there since a long time! The care of the team in every single detail is second to none. Favourite restaurant ever!",
+      "time": 1748079580,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Alicia P",
+      "rating": 3,
+      "text": "I was looking forward to try this place! As is a classic in the area, however I was bit disappointed. Yes the food is good, but I have tried better food in places that has no Michelin star, I was pretty shocked. I was expecting better quality of food, prettier platting and just tastier, that is what you would expect in a place with 1 star. I wouldn't recommend it at all!",
+      "time": 1756897767,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Habib Al Mulla",
+      "rating": 4,
+      "text": "Chez Bruce, a modern high-end French dining with one Michelin star. Although the offering is French cuisine but it comes with a twist of Asian flavours which add an exotic flavour to some of the dishes. The desserts were the highlight of the evening.\nThe ambiance is elegant but relaxed.\nService was professional and friendly.",
+      "time": 1754366030,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Katherine French",
+      "rating": 5,
+      "text": "Absolutely beautiful dining experience. The food was exquisite (the tuna sashimi was my favourite) and the service couldn’t have been better. A wonderful birthday treat from my friends!",
+      "time": 1759074476,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:47.344Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTMRjekFdkgRNMUgOPPr5VY"
+}

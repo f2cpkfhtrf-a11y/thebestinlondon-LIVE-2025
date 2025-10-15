@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJhwDB864cdkgRKKsKWOwoSgs",
+  "name": "Aviary",
+  "formatted_address": "Royal London House, 22-25 Finsbury Square, London EC2A 1DX, UK",
+  "vicinity": "Royal London House, 22-25 Finsbury Square, London",
+  "rating": 4.2,
+  "user_ratings_total": 2872,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5218153,
+      "lng": -0.0856108
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52297773029149,
+        "lng": -0.08432286970849796
+      },
+      "southwest": {
+        "lat": 51.5202797697085,
+        "lng": -0.08702083029150202
+      }
+    }
+  },
+  "lat": 51.5218153,
+  "lng": -0.0856108,
+  "formatted_phone_number": "020 3873 4060",
+  "international_phone_number": "+44 20 3873 4060",
+  "website": "http://www.aviarylondon.com/",
+  "url": "https://maps.google.com/?cid=813507678248282920",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 6:30 AM – 12:00 AM",
+      "Tuesday: 6:30 AM – 12:00 AM",
+      "Wednesday: 6:30 AM – 12:00 AM",
+      "Thursday: 6:30 AM – 12:00 AM",
+      "Friday: 6:30 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e5JLanY_kqb1BiB13LAQwTy6kXfvy9R1xOuRcFAPkXwiquLqg-tL7dU4SfY3ZwvQ6t6VcpZhYnKUhXJB8LoLUBO267mtWhbNDpf2kFBBCf3Zb37ZHA28Lxa_MhL8IOtvfQvlofF__K6O18sfpavLZL1iZMz7DVpDQayY2B1TseHRPOV2Zkf_S5_AJH0OQzjW6ewyeGFYGpKURm7G_r295bh5Iy4iU8FAGWqYjbdea4FHh-vfg9IFKh2vV6R-EKzNz9Y_yqcQjwCeQHgugIaX6kB5gv8I-SK85QLY4mWVMG6g",
+      "width": 2048,
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104941673474363026531\">Aviary</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f87WeGBn_FzL6L8XzngAqnZz0EbMamFZKaQIHEoSVIz1Dk9ka4LkfBBohxvYs1Fg6rKDs9SKg4tCdppnVgvi2s7DcjiI-9a6nMiYz3wRdgIPyfte9PBAz5E5FfWYd_UIqrp_CXeH_lNk2aH8I8BvTZYVqdxLGVTMEXdRVCBL4YK9TjOkOIQprHX7zaqY6torkW0FU48ZZMnjPqs8fYJ7myZIrsISQtSx57ZJ99McF-iUJDvlh740HqjLwGtUdJr2A0Qar2S_2seXysKfKZQqurBtmoBKFSboT7Bb8UnmEU3w",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104941673474363026531\">Aviary</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ezaS9PRfhhbgkWXcA9rJ6zmckmO6fS9pnse_mJysuVb38AG7KwDEuqJp6BmQJaMgiLKZUrqc6-CYZHtKN_k_8VBeUMEPOYMwN8hNpx9tksrgx_RdiAbgYNYjAUDzBddkLr0R_RV5x_-5tRFUFDgTfgZ810nLYng6g5_EmdxfE8o4D3GPBMrJoiW6qso_L--i72DhLFeLiATT2Y_QdxOuVbWYEhtoSWN7gpPrVWVFdcbh3HtG6KjTyaCSr1Vz57Ar63S990W-BpiT8QaG2PWjTIdL9O1nnaCpriwwL3kaA39dStOdCejm-ywzW1Js1f128LUX_IDRCiU0W6r3fzUrm4Hr33gPfySO2uoTbdYAJKcs_YqPdDSLtPKN3VGwWUM94cNy2hipQtPkw3r4s05fA5lSSvxOn9_WPgOa08UFvmjw57Jkcdz-yQViECvA",
+      "width": 1600,
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109639592283175192519\">Katya Merrick</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2elz4rk68lHbvHaCC_4RLf1gGv0W1f57hzDmCUnl43T-YWy1arpIlZZuOyBuTQJxjJ1WL_yP-pWz_6BhYygPgRpiAFakedc0v_YGpkBM7C8BEJJH4d8nyB-VojHrKrDuVxEUOt03n4IWwNQXoXbqSwYPms28xqMG8I7ITTECX3zl3I6TqHG60pFyQpD1-qW_jvZ-LV92iw9HH8FldHyDXaLgqxHfRIXa0SBs6WSNYIBBTCo-eqawwy3Bx1cRMFBhNTXSbt4Zq9WQrKumBdqVMdof2lSLjVHi-RgfOagUiHS1Q",
+      "width": 1024,
+      "height": 576,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104941673474363026531\">Aviary</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dE5_GRJBIC8-EdSyOqtsUjSgCuFQ-o6jJSm1F41rZgQIOIG2apZzlmsvZ0CdSTg36GSyMfQMShCCP29cCKqkLBmxr5oEfGcHn202FiRKoqqupgR8P5f59qBtYWiUOaZIeIjDvnWWP3NUOycQmKWu5YCwerpDohHZlnV3wfDF3FE5voXrMBI9ox-bXKqeOwJyLhwZbONMhuDLzXUCjj80SNWlbhjE2TdPQKKiFqjtzM24fAbQLlwC07__JRfLgYLd6Vp2y_KSlEd2pIGjMCOq7vtfiblbAVMJ09Uqs-15H-NIjRmAuKzKxJGzKD4Cm0hMHMBcscDalXuzYIifC_u2WxRksUiporoP-pX6GtKTt9BXWacikRBmnx4sqa8iH6Ox5xxNuLW8N464PfPGGpxXog7UE6vfmvKZPIkNCZxAqhBFOGQZcAq8DifrQHDKPb",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100693708396253507596\">Ibrahim Samy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3nAMb3IZmIFvSN6w27Q79atwepzk1gLYZczozUdnYllf5pLu1LfaYmFqqA1TI8WIqcr9kOi71aFpmP7UHXeorGvXWNgKgOVzrOcCc4ThAo31uF1ItKr-0bT8lsp_-af5XaevI91E2nUOpNbD7ZJHjWW1w_qSASq59rdm76yWTTnUZ2Enj67fXRS2fqV9eU7T-jaeXoeFEXWMmHiTZHT6_2S_LVdfXYYCe5h_Z16OwJXP6J0PChrHcECuNFDgmEXRPmAIWSH5rfksghfGSa7AprAAbXstqN5WDMPiIVcRco5sPGEhmmVeKznMgD8lMjw8Wh_DCA2UyVOqHFc5kAZ657aW34dinZJM3iPL_9En92y4SuNsf_-6IZNWnxUeGMdUD759KGswf240Mp1wnJf0Ln4jZ4WltKOToDMs-p0REdhYrKYhqHxhkiaM3VpcH",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102470865688526276312\">Alex Turff</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dn1CYSbS2E_047_Mdp08Z1XUdtgtu9Xy4WRqyEiSELG0c7tJWdo7e0zCJjaEfqUmFmW_rCo2XT1BygrHLApZB7P462mN6PGELJIDsqrotX0MSmqrVdKEaw3zqGoHA0KlXSX9MmiKsHmR_7tmy1SCGLiJcABKgqKDRf3FTMB1bNwTLaTz4axZg0o2ax95QGjTXVmF55XYAu1u4zHt5OWQDd_YwY2jYQCp57Kh3DnqjoO3Qf47p1rqo15nRNhE8Ih0ijdhD2tVdM7oirgYmnYRX0JBlN1AKupAyggpeP3d09K9YxdhPgpfkV8IGhOPM_So2nJ17OKu7FYIG7Nics215FaKsLZQBrPHIWcx9FiYit9nwjz9UKuLyTxgeKOtX6XOHPBg_2pnX96_TSiu_2g1CxF8RWiv8qkToSKx-NATRb0FVfaTubUPVCkPFAxQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112068674106299124258\">Melissa Di Roma</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fKHw8bX3_trsvbdUTcvHEajtcPfe1tFVX7crjcscvWrmXoeAkGiN57jXmE84rUJo0o9YI2JbPQCI5bTagMu2RHlrsEpTTGFODisyRwbZMtMoSKCeM-gJ-5RVCboGpY9lDyhF6dE0xiB4OI5eWjHAzWdwEJcyiUfPjoIhEgpwd-QVEhTtpVdN4OR8Zz6gxu9yspoKOHpyQQaUgLgtkK27fKMxgK8hQg-sZp66-PBmkhUO7AsPFqG87ztRUqROZ5al1OdBeUEawy7gfbzIU3809VYVA5cuYm0sQo-Abw78KDNAtkFfzPxBLtR-foMSs0XpoWlITNpgtpqLFArVb13awkHp5XVkfVO6s4_HSvnmS8HGO9h01iTSR38BCKKMizoPFgJRRCisLeSVfSrKX87_WHT_6OvTR9eqXXnbrP-SU",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110518447069603103174\">Jeff Keyser</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRRRsX2LvKz7ma9zro9YsQFg2Wj0AFZJpoUB69RSAI69z0VaqQDXASA59lRXzalgyA71rr30wiE4pimEjdCr96i3zZmiT6hCbeq_PdKPlDuSf74_lgYXxx3V6WwaK69b1xBsbBDCJBgoPc91JXs0dF1ee4TXVdbk80lx6DK_O4OIZ1H3gJ7ElzNlKKXtJ6qm-1nzl9hW_ujfW3p8cjF2LUR1pB5tnzmh1Nfp3PzsLL0nfbB0x9rrK7nydxAMP9QCbpguFnq4iBga1VxKb0HySeB2E00UEl2J5BLjuNKZKb2oZMkW1ThaKDQXBhPcHOG9uGKwrDv1tSB8-XaC4T-o21akxXEpXmS3gi3-uRQsRJSPmU5KxTGsc3fxKIMWzw889XtFvkAg1f4x-3uTLy0nNkhr9UYNLyOjXjmaPwbMAdVRPObdcThGoDw2foMCcU",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112068674106299124258\">Melissa Di Roma</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flwJvIJQ6fpJB6dPzXgEVy-iG-82WnLxcl_MjF1yAu1I5mloyq6LP9UWWMUkehk-AmQs1zOucuXlDgU5DL2G_Fk3RacFSsk5wkPdcORFiLMiStXYUyIWe9FF035SIMY-ed2sQK8yr-fDobL5WkEUHTbwNgvio9BcX0_SmV-9Bgql9l-OOweMmGDmYo4lVNdhSLRnzg-zF2grmJPZvxirVHuBv2DD42jxteG78I5yKeURWnIDuB0e5895hmHvNXgSbj37hadFLGgUaScUpVaRfNLEK2GOLbkJRaY3vCG0k4pKybsrLzbomZ6rEPhq8XlwxEhhc9vJu5D3hrjRV3IgS_L4_XndaoC6rTxWKWXwS6pqSDwcB4xuLMPluNWHWX0h8daNhIDrQ-nm1XQXSTzjJCw_eApxB1Jw41gnFLs7O2Cw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112642004110556209214\">Chris Wveen</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Elevated seasonal dishes served in a stylish rooftop restaurant that has sweeping city views.",
+  "reviews": [
+    {
+      "author_name": "Leon Langrish",
+      "rating": 5,
+      "text": "We came here on a Saturday evening and can say im surprised this place doesnt have solid 5 stars. Absolutely lovely place. The venue is very nice, decor is stylish but subtle. Views are amazing outside too. Staff were all very friendly and service was great. But the food, that was the best part. Really impressed with the flavours of both the mains we had, lamb and the pork. Even the side dishes were amazing! Fries and the potatoes. Eton mess was nice although the chocolate dessert was nicer I think. Cocktails were great flavour too. Obviously price is higher than some places here but id say its worth it considering the quality.",
+      "time": 1759351247,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Katya Merrick",
+      "rating": 5,
+      "text": "The Aviary proved to be a great place to meet up with old school friends for Sunday lunch - this place is quite the little gem! Waiting for my friends, I enjoyed a frisky picant0 mocktail on the roof terrace, soaking up the sunshine and the fabulous view. The manageress was very welcoming and attentive, and helpful with the wine selection. We shared a selection of starters, all nicely presented, substantial and delicious - especially the tuna crevice. For my main course I chose the Asian Summer salad - adding the pork belly as I thought a salad wouldn't be enough.In fact it was enormous - and extremely tasty! The vibe was chilled and we were able to have a good catch up over a really nice lunch in a restaurant with a 'wow' factor! All credit to the staff and chef for a great experience.",
+      "time": 1759859274,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Y M",
+      "rating": 4,
+      "text": "Good selection of drinks\nThe Montcalm hotel’s rooftop bar, good atmosphere and panoramic views of the city skyline. The seating strikes the perfect balance between comfort and style. Good selection of drinks.\nAhmed provided exceptional service throughout our visit, maintaining just the right level of attentiveness without being intrusive.",
+      "time": 1755813805,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Melissa Di Roma",
+      "rating": 2,
+      "text": "Unfortunately, I didn’t have a great experience at The Aviary. While the venue itself is stylish, the space was extremely crowded and noisy, making it hard to hear each other and enjoy the meal. The ambience felt more chaotic than relaxing.\n\nI ordered the seafood pasta, but from the very first bite, the tomato sauce tasted unpleasantly acidic, so I had to send it back. I replaced it with the sea bass, which was a decent dish, but the wait for it was so long that my family had already finished eating by the time mine arrived — it really spoiled the flow of the lunch. They would’ve had to eat cold food if they’d waited for me, so I asked them to go ahead.\n\nAnother disappointment was the so-called “large octopus salad,” which cost £23. It came with just five small pieces of octopus, no dressing, and very little flavour — definitely not worth the price or the name.\n\nI did raise the issues with the manager, who politely apologised and offered a dish replacement, but that had already been done. She also suggested we try the terrace for a drink — not complimentary, of course. I want to be clear that I wasn’t looking for compensation, but I would’ve appreciated a more thoughtful response, especially since these kinds of mistakes can affect a special occasion.\n\nOverall, it felt like a place more focused on image than experience. I left disappointed and wouldn’t be in a hurry to return.",
+      "time": 1756337553,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Michael Kelley",
+      "rating": 4,
+      "text": "Despite having above average food, Aviary misses on the fundamentals.\nWe went for brunch at 12pm and were escorted to our seats by a flustered hostess who apologized for the delay as she was in her morning huddle. Well, the huddle continued as we walked by and so we heard all about their service goals for the day. 🥴\nOur server was a bit odd and seemed overwhelmed, although we were her first table.\nOur drinks took 10-15 minutes to be delivered although they sat at the bar for more than half that time.\nThe seafood platter was well made and worth the £20 supplemental fee to our brunch set menu.\nThe vibe was definitely “Girls Brunch” and all you can drink. We were surrounded! 😆\nNot a bad restaurant.\nJust not our scene.",
+      "time": 1747261036,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:38.310Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwDB864cdkgRKKsKWOwoSgs"
+}

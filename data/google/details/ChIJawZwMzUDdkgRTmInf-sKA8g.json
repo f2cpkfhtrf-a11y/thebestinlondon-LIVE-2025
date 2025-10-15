@@ -1,0 +1,283 @@
+{
+  "place_id": "ChIJawZwMzUDdkgRTmInf-sKA8g",
+  "name": "Kolae",
+  "formatted_address": "6 Park St, London SE1 9AB, UK",
+  "vicinity": "6 Park St, London",
+  "rating": 4.6,
+  "user_ratings_total": 893,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5054582,
+      "lng": -0.0916343
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5067632302915,
+        "lng": -0.09026211970849797
+      },
+      "southwest": {
+        "lat": 51.5040652697085,
+        "lng": -0.09296008029150203
+      }
+    }
+  },
+  "lat": 51.5054582,
+  "lng": -0.0916343,
+  "formatted_phone_number": "020 3325 3933",
+  "international_phone_number": "+44 20 3325 3933",
+  "website": "https://www.kolae.com/",
+  "url": "https://maps.google.com/?cid=14412375239082598990",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cmjy0U1gf55UnCrLJm5EXlnWfQLuoGZILrjB_Ng_vUKC5UmibvkhAfYoC3cPGc0guKRlWt0268IM_x2Pg3EEG9UeQupS127nW-uZ2_ShePchnGxn4j3mobvfOz2cMPwUmBN7nAli5VDUX_vFlQXYJPMZ3IpgW1MZv4SmfgbYVabLcZyVEzBKXDN6ltSYBmrURnjHBBYNynOTL87bR05NaqyfbZx31xAC2YIirOHE_1BvMydPfr-VyaTqoU_V8ewFftihfTOJDoG_Y9j9m4ToNeJjqguY4zhn9oOFeMCMb9hA",
+      "width": 4800,
+      "height": 3429,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103268200072197770915\">Kolae</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPiMnXLtZqOjm4Gn60CLFHB8jGDinpDpwUaQvtW96nYUAa0ktZQlAbke4ZjxYZNxMpjDwGvsd24kn3ssljSBe9nNgooecVFPsMEbbeMKUl-j1-Ap6iIj-o0ft1MkhBj_2z2n-bTPNo61e369VU-SawCP89rXE2VX--UlmYr98FZqLkx3MimO9KEc5m6UNc3-92LjO59eRMHUXR1daSWg1wCLpbq-NziYSW2MylEELIE817upZZcFRsbEB5jza8U1CwxZEW7E2dXYpdsBfSn0l1EzVF0y519rpBtZsdnM1DDw",
+      "width": 3200,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103268200072197770915\">Kolae</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eA_E5KO7ZZEJn9f_AkDI3lpFF4HU8QrnETIqfaOaNqMfHTiUckk6jciAzYiIQcd-a9Tl-IUXP-vMXjuFf21WaLzm2qSovN4Ibh_FNDXjtk8Al1FNTqO5YSVmtvyoykuXPukXI-oAGyV_c0TThvPS8T7cxClCveSaTNYy5kXB2n3SpdXX9D-xxQOAHdfmq4hdXsqj4C2j8tp4Ha2ptFLqWzy6XKVRWIyU1-OUgqR9BPyu9CpdJP9YgDqJq2m4-0WWqOViB7EVo5Rxo5LPUVTJSFn3oXmo-zkEp7Q99ofAarvsj5R4EmQ6xs7atGZrJpdQjUu3CDhNf_Akqv-ispHoqnSrqylczsiVqmp34WWYCyGz_-rpNGYT9wFTz4ah0uDSzXMlLS7dA69hHcESg1D_AOsMzeUsOPUkEP1fFV14lgJBsJXFq1nHqobe3YVA",
+      "width": 3794,
+      "height": 2845,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107715376984553565306\">MKO LDN</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwXcFK2ZvO15-mj2x4js8dHpcJWGCWPeJAL_YM9FlNkxzUIPowKeHbyXzW-E4C3T1E6YlhRfpRH4X0cSs7rj1XdpV0sGxjNSyC5oft9NUO_6i46paUYziJFvoANCan1bD0Dh8f1-zn4mZ-ExurSgCU4qt0qCudsky_yIsibCKO7qH9VIHdyUdSthqDI7lDX7OU88tCnGrI8coqZrn9pd2s12OZt-_G8NZXWhFeiU6Nh2CeRrGszQYshJlkM89gyMMYhGBC5ZqWN2eCyz5nTOYdCVyh9kJUemdbhJX_C_srtqphOSf20zktSbvrMxlzoxj5K0FFsZQ1Nb_R1f1XjNaJ_mUBGpD7g_BcEB7omc64i3_6TDnwsBv79K2ATVgRN56iw9kXiz8PWyCJILjQjssGutrwkNXu2jTcaHHeKX7I-g",
+      "width": 2939,
+      "height": 2931,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109804294568581320437\">Paul Bobo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dj4Y2tzYZfYBSja1PCnBQmgmLAUpSK91yAB1zLfEr3Yipenq_TgZk4se88aCjxMW6pgnymigdfAwsvOcCerwml7Xp7UFwwC4Ldzoat6WEHCDq6EzsOgo_h1dR4d2enEaYMK87BUWCkPr_7gS4j8GNQVKdqa7nJO691F00EhqORpnpIbT0ZF2TprVTGOO4S4MNFBhfew-H6F1R1RF93lm8AB2VrudSFnFVp5rxyf0KjDkudVT6YZ2BVvEcgDlSIHyg5NZe1_qLSIQVXHvkbl_irKvBzUHYIZTqZt2_ScpWQla7wqQo1bgqL26qF-heSsUeku_Ef93ILtaE84nj4XyNUMIVDSh7OccWsA5ZFv9Bnlk1bBUW0z-lx0a0UWrRXFNMIuu8Xux2fIy_rkSgQn8oKWeLeAk4pc2MKjM7_6mQA4i5SF7vuDFIFS23N8HxW",
+      "width": 2546,
+      "height": 2546,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107715376984553565306\">MKO LDN</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eNttgi-bA_CEL3q470IZrCXe99vZvRsLBNO4aJQPfVbTVn_X-H8Iab0VdxUVEsPKLu919vLxLynIGo7JHyunBy1Mtb8aBae3sOlih4cVq6DC5DeujTXBWcnV1zanIe-_21eeqiFAEHYGcz_hnNp5A1-7OcTgLYCTJRLChGeDPNa9aXviKX-hYmi2UcJXQLU8EeBkYnCEn_BI2IJhJwPYJ2WxJOlBQiDKkdB3TCFmKow9VCNjYFzcx_o-kej_41_gl8TKkdpkGNPJIHZYODofPk07aFpHGPHoulnfjut3A0qttlm2yw3dft_A1QGYyYveXs9z-GlSxIVEj84zZWubFtGgmODK8yvFdHm5r8i-IsoRguHzQN3HBAchSGOr_MOE22QkYnM7Fnbe7GvN3CdxBKnObEYvV6AAWUHey7wBs",
+      "width": 3590,
+      "height": 2690,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109729604412987265346\">Eira Bernabe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eYXxVQzZh_kp1g9f2PARofGzstpiKDUt8NYs8UYsjxV_ChxbCUyhxg-m76rfp6xM-yYJMqXoM3MF2W7_1-KAeSVWbJ6hLfhiVT3cNr8K9kbb2G_lHjrW-PJf_CYEmR07zT8mQRJJEfdNQiyJP7QW6zpcxkFCJ2k6dqxTEiHHXNkQabbqH0RXavzPfaJdKOLhiEb2wJnwjX9seluRNkCOATwJEYu9sQyF8xWdUESBfEkodejbhj9aMEgL4_-O2N6ukh79QJSrUMo_uYF1SMF135BQvcCjVVq1JlUsCQU8bukPmIoSsc8G8_bZ0OBvpSzNBISr99KAmNNLqvS7z4GSon7QNxjjiU8KHk4qa9EuQ6J5WCQof7MM5tFhwHDDv8teEPWOpwtuanyB3S7OoIi6kXZbLxWkenglrI_v8psej3zdBDyzj0I1RJhzAV0FYh",
+      "width": 2048,
+      "height": 1542,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115183296387558670694\">Gavin Wills</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e6WkNSZT39F0KFVfKYDrBGkK73yMhXgQBH8PYHfnx4158nskIiMqWN1wcp5iBmkLas0jHYZJI6bKM742tf-2yAi7V70ktymzobs038gaxfRVQuumI7rGfFCywVaMYi4pv2o9F7IygIUTevgOypCIoFXbmkqoDj-nOHGQzWWg7H7W4IW0rG3v9F960sL9PCGD4UMBrEfavesG7dYerLNuAO9NI6_W1VA5SqG6Pz-06plENfBYfFbWiuC7yAlomwF-wK4nzaEOn0aRJC_9prKrGde0nzAUInbcY53i9T4OKFEFc-e8xuiX1pJ3_7cAiAmS0MEj_WKuxelLx3PMjTS_fUignefaqIy9eit59DHY6J2Ju4kULOeAave-eb5_vQnmKId-35ZHSp0sdIbbYVl5BQafXBlkhT5cpD6KxTZdr5SA",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101420342929906317138\">Kumar Ghosh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwPXkmCSGQenj1BOe4kf4IBgDj-kOMHeAzVeZXRGPxCHZHyBU70JL1RlF4JAJqs2_cveqrtETjIloi2Qd5cZhmRLl66ssNlMlej4CDWK-PKRajHx68nIJsYOTORm0SWi_f1-zD1C49i1hR0J6aXLiRxq9T3RMzazgkT9JXX477OXQxc0TvFHUOiIYgvKMRQBDqSkm9eqb88eNPc7zof_sdDMTyx14kwL2GdDDhq5jOCXUMhBhlCiI-aXO5P6p7BgGuqDeLCW_RfC0-EyL0u1JxpwighUNYpZ0GGx3_mFAWS4rHjx-Kd_m8RBiHqcOnUwcAJl9iwWqS-hqc0ViZdBBGgC6E6XdelM1wfLf3ppvi3-sidzgb4QXDgYptb3WgbOX3rDgotwGeySdtQJkUStAJBEtMsgEsUkGgiZKQUEm6FufyKKr406LWRAY4ouym",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110713207502748981917\">Zsòfia Veréb</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHRrvFtjV9Odv-YVpM4VhGMKUIdzx5hZb7LOr2rX6lEsFzNUdVC2SjZsEv3QEnDk9oOrpyd6dQPFyEwghGFOqwe_oQUCgk-3Cl9Gyc-zAg7kwFvdE2gqIr7GhwhN3R_O7k9sJhUT6QvQaNOyeVjxiCg0cSONuv6duqxel4SL_WNkBIbr1Q4NYGvKwcrsgGjPwsy-fiBPpVCXJZAagpvg2On6VaNKml7FH05RwdHnIycGDh59VpURo42ksvtRD8waFGWqZqBBic35jFB9YXoed6y-DlVSbneoV0BJxFiP6gu9xicdpAQQzSs8NiZydIIqyFbubJXouXU3sSMz8JTe8sGXn8N5aiSNxUuH57qjdrWfnfbILSOojlX_Og0F68fdjz9GoyhHPjaJ1CPfWgKI04JmXmgtW-QK4qcMB0i7H46g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112114760453681941233\">Jie Lu</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "M Farr-Matt",
+      "rating": 4,
+      "text": "I really enjoyed my visit over the weekend. I was very keen to try Kolae as it had been recommended by a friend and on the whole I was not disappointed.\n\nWe didn’t order a lot of the food on this occasion so I’d definitely like to go back and try some other dishes what we did have was incredibly flavourful and in some instances, very spicy,  the pepper chicken made me lose my voice. It was so spicy but so delicious. Luckily, our server recommended a cooling drink to soothe my throat.\n\nI really liked the building and the place had a really nice vibe, although as is often the case, the toilets were a bit messy.\n\nWe were on the top floor and I don’t think there was a lift. I think we went up three flights of stairs to a smaller, lovely space, so do you bear that in mind when booking.\n\nWe felt rushed at the end but we did have a two hour booking limit. Another 15 mins would have been good.\n\nStand out was the kale, surprisingly, and the pork.\n\nRecommended.",
+      "time": 1752075631,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Brian Fealey",
+      "rating": 5,
+      "text": "One of the best meals we've ever eaten. The lunchtime set menu is a brilliant deal, the prawns, butternut squash, fish curry and rice pudding dessert are all total world class.The guy from Alsace who looked after us was brilliant, friendly  helpful and kind. He did a brilliant job.One of the worlds best restaurants in my book, it was amazing, thanks for a lovely and memorable afternoon Kolae.",
+      "time": 1755015193,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Monica Puri Bangia",
+      "rating": 4,
+      "text": "We had reservations for this very popular place near borough market. We ordered two curries and one salad for our meal. We ordered a wine and a beer. The prawn curry was super spicy which is fine as I like spicy but the curry was too thin and it was okay. We ordered a fish curry which was very good. The mango and cucumber salad was very good and so was the coconut sorbet. It was a good refreshing finish after the meal.",
+      "time": 1754083771,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Helen Robinson-Tsingos",
+      "rating": 5,
+      "text": "Utterly exceptional! Genuine Thai food, should come with a warning for how good it is! I had the set menu which had a fantastic mix of the general menu. Great drinks selection, especially curated to complement the food. Lovely atmosphere, super helpful staff. I would eat here ever day if I could. My new favourite place for sure!",
+      "time": 1757008841,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Simon Stevens",
+      "rating": 5,
+      "text": "Really great meal at Kolae today. Real punchy Thai flavours, all fresh and very well presented. Mussel skewer, crispy kale fritters and stone bass curry our favourites but everything was really good. service was also very good and helpful. Would definitely recommend",
+      "time": 1755009912,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:36.691Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawZwMzUDdkgRTmInf-sKA8g"
+}

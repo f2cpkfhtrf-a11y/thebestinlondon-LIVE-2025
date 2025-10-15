@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJJSEekyoFdkgRLGqXPxdTl1k",
+  "name": "Goodman",
+  "formatted_address": "24-26 Maddox St, London W1S 1QH, UK",
+  "vicinity": "24-26 Maddox St, London",
+  "rating": 4.7,
+  "user_ratings_total": 2365,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.513143,
+      "lng": -0.1422646
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5144478802915,
+        "lng": -0.140847369708498
+      },
+      "southwest": {
+        "lat": 51.5117499197085,
+        "lng": -0.143545330291502
+      }
+    }
+  },
+  "lat": 51.513143,
+  "lng": -0.1422646,
+  "formatted_phone_number": "020 7499 3776",
+  "international_phone_number": "+44 20 7499 3776",
+  "website": "https://www.goodmanrestaurants.com/mayfair?utm_source=google&utm_medium=local&utm_campaign=gmblisting",
+  "url": "https://maps.google.com/?cid=6455719950175136300",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d6J_CPculM2zfnHUXGtOnytju_ogGJ3FMTW6J0PXpkhwDG4rYn4uVCOSBSV9K5b5GNVabCXFdNIKGEiguAh1N96__gMRdd1SwNdAqg-79RQx3UAGbGdZeHAxKYtjcJB3TPCWmFZUfEJq4J3aL-oGwLJRa8f16xqiQfXGcywm0j8Po3I_UPdpPEv26K9HR1aTFXpDshFJZVlVLW0Ku4NNV9jezmOOUVnakjLwQZ40ddNgF9V-RqoVVLXHAQb0VVklBTw0JRMGpviBKJWOTtJEvy-dUpfZBuM802IvgxuFYzeA",
+      "width": 2560,
+      "height": 1068,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114148702600891769964\">Goodman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fy2_8g_gJvk0WnZHgzO1HKBZAYKPbP6N7kLnShdPF9fQYhGXgOnipuShyPtWAmx-UmpgFaVkyppxoikkrHXH1iOC9fhfC5CxSBg2b95DVPrrXBQn1nsZ7NbUg2z0uLW0xHMDsRa8xI7Iur4aC1M6aEa7t8Znc9R29vF650nGf3USpQudQGTyN4oW4_mjxWB-82kgdOvvPDxBZQfwMiZ3gvrdwfYJ4GD73mUJiO_WPdZR1-Raw-mGtTCGYyj2KWiR5j1rwGu64xrXZMCB9Ie5gQUIQqV_eEEXnVrDT1nqwnEVxg4QILha0x7pks92HlM6NJeazG1_GJwWQHrwRNojIyAveiNQiV5Zjv1kUFZ78voEgyfkbIb3IDYrFcVbFAvixbm_W3ua_iBT38jeViBZfc2h0qwQKO9LueTAMbzGqwTB4FzCOcJ-WYEnlsog10",
+      "width": 3840,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116945193235734237783\">Igor Guzvinec</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f0e_v5t7lM9z9cWJBSlC_OtiejgjUHG_fi1DxXZ5VkfGPuaYJ3e_imPPrhuWgwiHco_QjjnBWb4eoSV_-Xm_KINu0dt7odIIQpKaTKtHvTi7znUgoeY4XkBnMszyYpjiqovAl0R6SBs5yGygwr2ZjDA-GTd9-lrzQJNfWsQIU01PlCSwnbCx_RIHu8INHV_zIGy_WXnYYlXMNAWVAZByCpp9NpPmaiJGquB6ux7gVZuFg2frJyIexPXdjA2h7sjqM40Wqg_ak5cuAmQAp8-b1tCAEHEH848NF4aQ--sDDnOw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114148702600891769964\">Goodman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2du8WDk4yU1KucANg-4vabZu7i_ZUvrD7GKEalyMSSwr9Q59f9fFSrUXYf9TyPc6z4Qaaq7fB-gnLPGZXgCvhpG7szW9gAH9rWL8uLj8O3kVHUM86JKL-XpTKpNnY51yRo8ThP1LV9L0x9Sc8l74hAAaX5x2wGEHYZCyv1DqKSAsqy1GtpJ38Nfyn5sbSR5Zdiyx7wxBpVFGv7_U8FdgTVRPaXg__BSTj3anTl3Jl8AG2vyVv9Jt7dBi_BCXv-ESL17I6_tlYHfvjviA1nNRia5fOEJ-WNTLFy8nSEJXvIiBW7mvxvVwvhmJli4ufEPIj1Ei6gowBnEKl6yKq_mYLb42J7hhY6hakxKF9QkeLO-D_U9uHwLuiNDSEcUtAKvcX-JPt865vqoSJITy3NQn-rWsvQ6-Qdzhbiz305kRjTP-V8BCK7okUuJkRSpEiyQ",
+      "width": 2888,
+      "height": 3446,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104018203399660087406\">Michaela Sheppard</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fXu5ERt7uUjYzCQ1c7HnGuwNwfyhY1CijtRcv1uytiqJS7H_J2sdjohTYcQ8X3VxD226LOeVGIlisXEZ949E17Raqgh3V9p8q-b8EkOG5urKzRFU-2vBinS-QA8hZX7INxA1zKgabT5h5wgd-IafkR3FJUIuK0QlQoPh13GR2MW4pPyfo4U8bTiiSejnYBCjJ6T8KEnUgfYMNdYu2pSqYgXLPFjQnukQ_4ihB7B2ncFT6qXjEjkXNs4j3sDiMfCvUksQ15MRsZkpTNdKmvlbb1AF1XcFlJ3qDuMlLSB1buLsNvUGREWqssCuEnkkF4Q_rASqsArXpgSj4xnWneJoXdXX0CUZK-VBAZDt4-RvClOIDjhNSogvClIAarJZn49_bRmYEqiyednJnmnDPSv8W_ncUlyiU9Eoc0zbL8TxBgFLMMeWEdR8lmGVu_Yg",
+      "width": 1440,
+      "height": 1884,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116438615130502415652\">Amar SD</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ew9z-xUvcaKVqXR924GFQHH_i3qHEflgD7shBywD3ZFziC0ZC3lCvy9XiEtMGl1nFj3G59MJmqibj5aWFjaiVX2K3bly5uaejDGq1pA6F8qx5MCYfKiNUopU03rU2mKAqWt6a32wVMV8sMAdHk6UoFqLvXJSPgPHzDjndeloWdQ1Vkjxy_MQOwuocSiWZYRGeBmQ-58hLUC9hoTyhanO0hy0ctVYzpNH2Ng_3HVDJzrJLwZiZyeGiDcZb6ONHTB1Mj8kfHpvW_14bQ4d1v3OALZL5n3hKhRftnCbEeUIWSXhqKrIQLd_3z2hX0ygTdQ0_BzXHyOPZ8GNsq8wa_w7gJVVTQuS0CFSijgdaN60S_GCpTqljyYZ_QWO9m5NvhxtNiuIj_HAGDUHrG7sTmIfHQG_tX8E7lqeoXkCXKv-r3xQ",
+      "width": 2668,
+      "height": 3381,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112840137065902183896\">Alan Pitchforth</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOYucMx5ZK8FIqCMHKFjwcLdmU6SJ6i9A4KzTxYjXUVSXICJEzoZAYMeTBKBuHXXcDYFp_uSm0LBp0ipF4XkP-dxBFRNQe2jZCZbcuNxmOsEz5zpcV2gGjr9g3NQDsFhhJR2m19Iv8bgG6QX1ozop5PUGsYGu83DlG_UAnHAkW9qIuY4SJ-ZvyWcVUxr7jdb5tZaI3tuRy3BM1cEyZkNVGLEtu8PoJERN6uHZWCFoHqIPVgG9wx2ooj61TH77PG3pOK8K-cXNi3viJO2SsZSNF7rYqfPdhmaX77eVyxneHmOStUZlzR1UddKWjIEq6_Vkutn6WoJbRZAO0phODONxP5iZ61llqhltVtHFAfbzKdTt1_ghXMLGauOokDEXcO1yMfWfL8MfgvS2nTondsQYFdbiXjA2BSchWiS_NFZqr3w",
+      "width": 1536,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101961115716072375350\">Laarni Henni</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cMqZYkQ4WCvWcaeUWEFjqC9ooiewF9o0sPReAkOitRes41jWKvtDghRDfhbX4nmgEc4qDk35oqjhnCv10XG6dbE_UoC5ulxd8tUFMxoIsvb-wTPLO6lnaPuw7GVjGOesJiLcluPsCitfQ1iI_x8lUcHye0aGNVTyJWyzzoMT3Lppork5Qh9TDUU37H3dIdG2jqC3inWMQrXFtQVBkE4GDfmATdCJD1LDj23gs2DkQJB6UY89-l5tYm-KkLImTPBUWinBFDAA-VguMfWUvbtLW8bB12P7y0qhppzRYyiu-Gk9nGyxLghD3YwJB2qTXtRnNTvI_cu4PZ3gAvQJ_M_rG_CIfZGlOWCbEP2D-kA7XfpKWRi-Idq8neAUFc_MtU1Phwh3VTM01b46e8WqgbsGf9rG7bUcpXFiwvs6p_VuJ_OW8B",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106940888593059778990\">lisa Aylott</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ccGIOx3V_-famet6kMMzY-LoLnAbmApJvvvMw98eKHBZtmQJ7iPW4ijG5Au-E-KNvTauiCtuYwFLU4ZgyvXKDCdYbKpN0oy4Nec3eNwW7xImsH5cCCfnCmYTMbRKwt_CsTrud9QMyqzppvdZUwlXKYdNyRChEhGAbsTec77CrFOcNngIBURHFqXGi-kaBfjHxRF6oo66BSE7d8ucDr4yoA5v74SvLiAUtBiABRhMyWq_ATqys2BojFrZWmnFe8uTDtq91C9J2M7GNkl0GbDPUY9eSQqfBb6p-8oGgeh3_Zzx565CT4Mq7DISxIOiDKAVZRxle7CQChql7UfDvOqLF_10DBJHMXBTs0Wu6qWoa4XQg4FtZBhdRRseZZFcvh79Dtk2KI0tYP64XUxhSszAu5W-bltIEeuXR0ByYWoikZVsuc916Qe3IX5s0VnWap",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113914926226267946016\">Matei Barbu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fvmdFxrGCro9i8wTeDsaQGU_qnuw5AqHCnHTf4CTkhNZNWCMwvhU_m1jCnqA9S4u_s5lSFTmzuRvHA4EXhVR_SYq8UgVVTEeiJFm4O3p0lm3BvKxZ_VdNHjBjw0iJKkYr6OPaOoW6KiNTnAonLZ2at-7wzQhFFy2gbRNYld_SVYV1bbbwFbPODN-zSNMe75_xeChyd08rmiwRcosHbDds5PK2_iVQVspxPvILZipY_-TR_js8uIUGlBFdNSrxCgK3m1Kocn2PsExR3DpP1y5GVPuWIStBhbHwrXchGy-ENJw",
+      "width": 1080,
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114148702600891769964\">Goodman</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Steakhouse with leather-seated booths, low-hanging pendant lamps and dark wood panelling.",
+  "reviews": [
+    {
+      "author_name": "Michaela Sheppard",
+      "rating": 5,
+      "text": "What a great choice for a special meal on a day out to watch a show. Starting with a nice greeting at the door & shown to our table. The server gave us our menus and talked us through the Steaks on offer, from size to taste & so on. My wife had a stunning ribeye Steak & I had a New York Strip that tasted amazing & was a perfect medium rare. The chips had a great crunch & full of fluffy potato. The stunning garlic mushroom rounded of a great plate of flavour 😋",
+      "time": 1758381705,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Simran Vilkhu",
+      "rating": 5,
+      "text": "Great place! Food was so delicious, service was on point throughout and the team were kind enough to treat us for deserts and wine for our Wedding Anniversary, which was such a lovely surprise!! THANK YOU!!! Hope to come back soon!",
+      "time": 1755981245,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Zialar Zialar",
+      "rating": 5,
+      "text": "Had the best beef tartare I’ve ever tasted incredibly fresh, perfectly seasoned, and packed with flavor.\n\nThe steak was just as impressive: juicy, tender, and beautifully charred on the outside. You can really tell they use high-quality ingredients and know how to prepare them right.\n\nThe restaurant was very clean and had a refined, welcoming atmosphere. It is on the expensive side, so not an everyday spot, but definitely worth it for a special occasion or when you want to treat yourself. Highly recommended for steak and tartare lovers.",
+      "time": 1752873108,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Richard Lee",
+      "rating": 5,
+      "text": "Tonight my girlfriend said it was a 10/10.  Then she decide to say BUT.. what was needed was MORE sauce. Lol Again everything was perfect. So bottom line is if you like steaks then I would recommend coming here.",
+      "time": 1759617841,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Amar SD",
+      "rating": 5,
+      "text": "One of the best steakhouses in london. Quality of the beef is always top tier. Good selection of cuts. I always go for the fillet. Nice big portion of creamy mash potato (probably the tastiest mash i've had) and garlic infused mushrooms on the side. The venue has a chilled vibe and classy decor befitting of a high end steakhouse. Staff are well versed on the menu and are happy to provide recommendations",
+      "time": 1758253081,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:51.356Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSEekyoFdkgRLGqXPxdTl1k"
+}

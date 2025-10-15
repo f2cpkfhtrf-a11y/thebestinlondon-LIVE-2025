@@ -1,0 +1,214 @@
+{
+  "place_id": "ChIJob38vxoFdkgRDoiQbcHuB88",
+  "name": "Maya’s Bakehouse",
+  "formatted_address": "37 Tulse Hill, London SW2 2TJ, UK",
+  "vicinity": "37 Tulse Hill, London",
+  "rating": 4.9,
+  "user_ratings_total": 128,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4541245,
+      "lng": -0.1130471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4554670302915,
+        "lng": -0.1117576697084979
+      },
+      "southwest": {
+        "lat": 51.4527690697085,
+        "lng": -0.114455630291502
+      }
+    }
+  },
+  "lat": 51.4541245,
+  "lng": -0.1130471,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": null,
+  "url": "https://maps.google.com/?cid=14918154805222344718",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cr1gN6dOIvWeX_nHnQGWKuSpPkQsFJK3Bj2i5tYj8rSmxfaTguA7_QzV0lW4rsiczjqKinU1K4xtKoWxUqdW8KkwZsW04D8HJBOH7DjkisCp35HN6U1L-s-z1l1h0a88UCYCAcNEVNNCkamRGZ_z1wbIrqrduVpTRWajUyfM1sqI4aqXNpOGpTASKd-vffzEvplkhJv-UHOoSMTFp9zxq_YXKfIeOcKXLMUaeixF7hBM4WLrw32-aWvm_0Ytv84CuLLjqNEh9SSUHTlLCjKOTQKXjVc_6Oot82r-o00QPR4g",
+      "width": 1170,
+      "height": 1423,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clNDQHS-lXYBZJRKhHJX1Ur1zmvdaElA98xhCkLkug_WLzvuY0YwQKpJQF8sI2kp4tlyOxc0UAjjcA1AJVTnhyYwIW_osdKvUj1Oc5wwIRA361gMpbIbHkWpqAZCNWEBQ1eF6BQKWNYDlR7QQo6z27YYe3oOVoTynd5yE5GnxVmU-9gZAMFXctYXJPEjhawMTcxqrgB3qh6DD6SbWyaQN4axob4U4STEo0_tIsi_0JzGbMoAV3rx_lUv4zMnez2G02h1eEO6ZH9RY3DkSHqw5nyz2kqx5Ki-Vu5bVdC0l71A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3pIDvS-Mi9w8hFqFnFgSxWt_-cQTAtdy8smEkQI0sXdPb74IQz53RztOSfNjmTb0wLcwEJLu5yMX997ySMsaXhdgvPHZegNJGDFPDd4oTGPxw5AjEW6dH1rVhH-JnJAn-q9kP-p0pblqqmJtrY5XsEcokPN_jXCVYwFuU0BkdwVcO1jR2cN92bCkTV4dC4TFbvbsqCkJEeMr3ypGR2fQbvhA6sU4XO26nifxvN9ULpefGF-rF8Wk0ZwetI0KOY7cEaQy2vHMM4dDuP1-6QAWSX-s1xNxzi-oQo-gmoSVy5g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dba3wyrWMUDU1YMaZzA3n0A0tL5ivxGEiXQJzcgbhrPsU8nNH1UREFfHqn6ScKnEg6XGVskWZQU7rvgVy5IL1288mkYFi1HXXxcnOZVSm7d_ZKHhuYLebyKsuJjUISmFLYh1ZPbyyDB_rM3_V5IUdNgPNK8Lgxan1qc3Itg9-MbuItpQkXqpzA1fp2qzlJArUcFYXGBRYPojZOOm5TxR1T1bFPq19TTweWbs_DgVqqKez8b7qcIkxg0tQ-lM2uWHiIpjVxa-y4nrrb7_heHkw_TxY7WPCzjrhg8MRBqUjfQQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d8tHcuz1BbXCuC9xHrlz2umDS76dvO4mVOuhEC1hvdx0wFtALddxDnVGroPhrdGs1K4NC2ztJF7rycB59TeXfiYhhYF9_3-T7JD4XKyHYOML9AEMllvyzeYw-z6D-Lv317NNV4OWkAKDnIUPsuH8cEf7WQWd9ZrccB3bKo9n8EXRmYq919sjmhl3hGB0mEdGyLK8vPRddkv1pz5NaaRpl0c6AoUX-DcEQchN75hueSkjEJjwH5GcIfJGWErxDkHO2WxlAoM-MWWN5lsMXPV_b9TuhHbx9ptmP0mFB5YimO2A",
+      "width": 1200,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d3YRIQxhlo0-VOfe2pMWQnwI_I5TqcPFvMRAlNsmPMvcYLIHbEICnfBo72UqoyYeouB9ZOPObPOt4suUQ8_ljAz_YHif6fCk0ZGjZaHOFQpiUp6R1x3aWdFg1ko_jSkbilHNPYAed15cTS_jCLEV0Xyne-fyRH2GvLTSeqLfVgluY2j_TrgZnQfbPiGPNw1f0PUMwl2djlPnW7gzPQxDYKGyk9_HQ-MEElZF4xMlBNW6DMtxci04BL0mZkZj2E8YzIj4Hud4Sy9vjwLLi7k7I5rvjQGNXYqe7rV55fPGHorQ",
+      "width": 3510,
+      "height": 3657,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d87XuxcOjTZbZyNxWPFK4c66W5hg8aRVvEMMsZyRmS9zsm3UK5NwSyCR925-9bek6chhIGowz7WBXyw5LJ6GoOEVs1dNlHZzoFo_efm_G07d-iaZ_sFp5UIIR3KiJVT7wD3b6iPjuIfzIT_YNyT6dYPD4F3-1QbNRqeXLzYhPYan2clmngE-QcXZDmz2JoI_XWELFZwfaom781Zs8kZBhDs5ERm1_rRIJ1DVyT4H15jFPkftTp6OdBD7sCgm_14tdSjEGTD109y2IyCEkHo98neIYuDyX6zXayDvq53VzMPi3qzhQ7-AZP4H-qNNy4prs-HfzkWH5fcJ-6shL18I9MqrvM02plz22CjtUPx2oMTIjR1-wg-k3NHiJdhi_o12-6Dc77FuV7-C3bDcGLL8VHcFGa96mP0j8iveePRO7a8CG80PlTmZIunKrnxw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117003661413174742824\">Lina Alawieh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fGX7VFRNcbdVU6_IfzY4Vk-jeMxSYs4UMwJOwv1SbnCd2kCLCc7qgWDfWEclzi4sO0rUJrWhCct7_jfsiDdZs54HjPWBAd8QQvF8NQO9wWTKHPH1AKg1tScWYcfYko6hQMonSVmVaeegFMqBNBEnNwGyp3kAslGxiREXZHRfNSdpxBLqXwAml_dnUdJ89mPtAabDV4ohp6Bbc3sdYTrRtQwF9OOUyKS0ztS29dB2StuwkZo-WgaVyDb5yzd3T7fiR4l3DYPd6-duoSxx9EX4dxB1mjm4yEGvzXo7WvEzxEdA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJQ7Yqtw-FR6MNNf48kShIADa7SwoTsQbjd98hxhNXS4ca3aPnsd2kYMAfpE_qMqTm2S0-Jk-Rw6ChYdWjRTJ3fguFLRAuwNrhpxsMaaylrPZroO6hra7yaaQAMMnqdc6GsJQm8qtpH92QtYyeehBIjKMprNjkKtBFpvmqYD6LEv6Y6oBkT3XDB8maUIGWXXFyWJZqPIPRyWzCyO1dkxbS0d0lmr2JRmWEcxkYPxordvRYBqhUEBfA4kZGYFVdRo7wYcCWOusTsBJak_4iJUK9ICzPsdD9pN29YmTh7toIeA",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fk1gVmIEP47tnXznZe8uDd7jzQCbQv0pS-csJdTse9CkkbfzKPFa-Df9c6PIV_E5EaK2YtadMMM2Nn53HjCJHA6cdZkK3WXfnU5_LUJJM1idnFK0H0IqSlvHw1JOL_8iosxk8Jibi8VoZ5_w--_xyHIvricWVm3HrmrKwgxLgyZ7n67Yu3-90dSg8mldF62ohvvWI5LRiXgMFUhme12Y35UVdhtvUbI0kOe8IczitJbNIyy8PTE0M2UaEBGP7JQV4k80cGUNFZUE212EjBURhpwYxXLJdmwQNkF3ycM1nYKA",
+      "width": 1170,
+      "height": 1304,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709532051016506220\">Maya’s Bakehouse</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Alice Parker",
+      "rating": 5,
+      "text": "Amazing little bakery, we tried the cinnamon+cardamon bun, the chimichurri bun and the basque cheesecake! All were immense and will definitely be returning!! Lovely staff as well who even cut our pastries in half so we could try them all in the store 🫶🏻",
+      "time": 1757109721,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Tina HUANG",
+      "rating": 5,
+      "text": "I’m so glad that finally right time walking by and get the coffee and bun from Maya’s ! Bun is very delicious, favorite so far in Lambeth area !",
+      "time": 1759348971,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Enrico Brondelli di Brondello",
+      "rating": 5,
+      "text": "This is hands down the best bakery in London. Baked goods are out of this world. Flavour combinations are chic, original and absolutely delicious. I wish they didn’t run out of things so quickly. I guess that is just a testament to their craft and quality over quantity approach.",
+      "time": 1757093065,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Elsa Correia",
+      "rating": 5,
+      "text": "Amazing seeded sourdough, cardamom bun and mince pie! Great coffee too and they also have a grocery corner with amazing produce. Will definitely come back!",
+      "time": 1734302396,
+      "relative_time_description": "10 months ago"
+    },
+    {
+      "author_name": "Lina Alawieh",
+      "rating": 5,
+      "text": "Freshly baked pastries,bread, and cookies.\nWe also tried the basque cheese cake , and it tasted amazing.\nOnly opens from\nWednesday to Saturday.\nHighly recommended ❤️",
+      "time": 1746654078,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:29.157Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJob38vxoFdkgRDoiQbcHuB88"
+}

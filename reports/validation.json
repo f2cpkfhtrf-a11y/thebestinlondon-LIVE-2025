@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-15T11:00:59.591Z",
+  "phase": "PHASE 2: DATA VALIDATION",
+  "totalVenues": 459,
+  "fileSize": "5.13MB",
+  "metrics": {
+    "withRating": 459,
+    "withReviews": 459,
+    "withPhotos": 459,
+    "withWebsite": 447,
+    "withPhone": 389,
+    "withAddress": 459,
+    "withFSA": 0,
+    "withCuisines": 459,
+    "withDietary": 0,
+    "withSlug": 459,
+    "withCoordinates": 459
+  },
+  "samples": [
+    {
+      "name": "The India - Fleet Street",
+      "area": "Central London",
+      "rating": 4.8,
+      "fsa": "N/A",
+      "photos": 5,
+      "cuisines": "international"
+    },
+    {
+      "name": "Granger & Co. Chelsea",
+      "area": "Central London",
+      "rating": 4.2,
+      "fsa": "N/A",
+      "photos": 5,
+      "cuisines": "international"
+    },
+    {
+      "name": "Capeesh",
+      "area": "Central London",
+      "rating": 4.3,
+      "fsa": "N/A",
+      "photos": 5,
+      "cuisines": "international"
+    }
+  ],
+  "issues": [
+    "Low FSA coverage"
+  ],
+  "recommendations": [
+    "Retry FSA lookups with relaxed matching"
+  ],
+  "avgRating": "4.58",
+  "completeness": "100.0%"
+}

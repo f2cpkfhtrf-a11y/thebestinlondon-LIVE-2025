@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJL5RXfs4EdkgRe0KWUsAHugI",
+  "name": "Bancone Covent Garden",
+  "formatted_address": "39 William IV St, London WC2N 4DD, UK",
+  "vicinity": "39 William IV St, London",
+  "rating": 4.4,
+  "user_ratings_total": 3500,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5095795,
+      "lng": -0.1264051
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5108805802915,
+        "lng": -0.125047169708498
+      },
+      "southwest": {
+        "lat": 51.5081826197085,
+        "lng": -0.127745130291502
+      }
+    }
+  },
+  "lat": 51.5095795,
+  "lng": -0.1264051,
+  "formatted_phone_number": "020 7240 8786",
+  "international_phone_number": "+44 20 7240 8786",
+  "website": "http://www.bancone.co.uk/",
+  "url": "https://maps.google.com/?cid=196478056344732283",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fYXzSfYsyuXGFdQ80Rk17SotTOa_4aSD7XRpu79mfLR3fYu-YHEGt9NMC07IBIf6eZezMdIT8WPJrcBhovYL_GEv-_6NTvRBij3DCr-1ps64Lz59y35i-RDAkUNKpn2cdt30909uCox-4BnHqFGN0elgxzlU4iOvuPVFogQ6-S5sjJIBYsXr-B0m6qg_6oK0B93-RcD7BAXaQ_LGtvgiNP0TBATAUN9GLcch_ly5stvWi81UkbbF3q5tg7vdMSBcR4vENh_kM-YMQJICMV-7skr2EtIArBhK_zOyQgjqRciQ",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108388097294834898832\">Bancone Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dpiL21c7Ard8RYQAdsb-dxjlRX0aB377TzYwKNrKqLz9mDlAkpiDVUg_d3t84BV5BYTYWYwhshcA6jCp8OpMB2Jtp0zNZEJ51EJkSadQQKn5Gn3Vb14fnN1EAIQauGHlFda6YA0fQEM-aWGf-xSFxkIQM7Fu1N5TE-LgBRMTk2soEt-d6eOJTSgXCKi8GIG6aukkbO1VAh9vmpMQ82DIwkDUVgP6rmpvZnayljMKF89pwyFXblVcDC2QeUlJ0dGcktR6RoMdxuFYMO-GufDuGnyaWWSQAe_1q96tpWHl4hOvhPr1_W7zeeW8Y_Qhr-z1rmNBlvUgP8A97Hsvjhy_scMFdm7lGeIbhN1YsZwWjN8DDCfgXQSkI8C9VvNfrp1SpXry_6ou3wI7qyAv681XgkYcEwaiuY1WGSpvFDCl0sPX30tu-2OtzFdBdXPXE3",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112796599628637866948\">Ximena Londoño</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2evFzrBVREA1YPGdjPKDQShq6jQWp9C2cE6DANRn9zt2US8OIJNCzZEMRFqEN8i_3lGQWLhP0F1mUEvxLB4BICOSH2I7ZyHsOWkWCjHWUkK2gE_3Z_P1ea7dwsWNUmW0yDcrYIMRUAMLR8cWrKMpSjOroGQv1DhO2LDylgeNZjjVTBblDCRpFQ4XdiaHLVh_eRa-TgOqwMtBcUmrKxr4T9zPqXPdYX2TMfz3wyt16SX1uMXFxV4U6PsApxKs0qQ5r7Wwqa_G3hcMdmTqb2YJZZ2J-KXaKDBb8iwAxzmw5YJYb-27bkrb9mrFCXCTu9lDWbFEcQ_2LS-p2YaVOGBhoyuSu8nkACwNlFT2ghUi28xGQbYrERrVrl7M7qBbobkY5weQNH6JoF9LcYznhILWiin7_RZJqBBuYpVMmxlCIZHNXLvWvAb-CIEU15xwaiN",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117106561691258999651\">Louis L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cri3VIh7l-aBsXXlf_vksaimWTDiCQxqdLyZ_p5HRTI_1ylRMTZYkeAS2oLBilVSAnDiTgm3B43iI8jn_AtX0OtlKctGc0YQ83F6PvOdH3am4_o2n-BiglLPIoIkDCypNLvCwRlb8ajAhU1IDr85RU-maPB7JHVrB72D9dQAEM2Cy7D_mRthM64EmM1PRQk_JU9HX-VyKUMNhpqwvsP-RDeYyHFCZubcurBWYsLnO5iiu5l9lRHUQwlbe_oZTUUMEcDLFS4MklTIyN1Vdhj4gLe9RbhcReYZ8iuP4Y3NAKJzGXGjJa9Picyb-wqGyQ4kXYBGa7c2KBUlIDrzdnTtm5MOP3f-ZN3qIUsmoYwEgWvKVtg5dkrPEMhcidtr7k6CrEgnRzA9aFABKfLUGnbaCq7r9zdf7FLHEGe5udXGpe6A",
+      "width": 1179,
+      "height": 1500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108562633293702523559\">S Chaudhary</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2efNi0jut3dGkJk5stkrAdX2cO02Oycv4iarVS89jp90dG3Xli1T5KOqsl0QzhbyMN_aeJpwADnHtso99y9rTR2pO-PM2UywNgvvbYV_aar7EvaTu4VLYrmNZHcP8sgowwcdpLJpZyC278BD6eTEstCjOOISICVupDV5OrIBLLXdO6Yq00cdmGhMceWgTidqA6SfDo1SwZexDv4WVR-mrgjWXaePKRwq6IZ1Bz9Nn0FvE6pmTFa36Cxza1bHlpv7EKSIuCvZM77RKSUfOwtQKA6UMVkTyAacQVr2jaKqpGE5Utm1UqoXA0xDZwrFRouFYwYcB_cKYrItC1o0r4iSUv9nzGj7ZNWs97oFkZjH4a_QJ7DR2SjoWbad6zhz1l4ImRsehz1OBgdtOiSeWm-rX_xwc9AdVK4fc0tgL1mVxvme_4BWEzLABtEeaKLlYUQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108772978479175462189\">さ</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cFhN_7yn43BM79EGXZV5bx8mr-_lEKsCE4C-DE1EzTmERFUuM6onR9zPXNBcttK7OBtRHSdpmXsmhDNCPiv3bKSeczPruvKIxfj7Ah7Yx60wJIWvba9TDlcM-GM4nQs9mhexn0bIsBYnF95r7z8U3b-g42ZqJXlWX0G6VUxEtdyCjRKjdvsQia1z3ucFR6uix5usWUdp8mi2DL6rur0EDcSjFQ1oVwrs6eYYXcG9bScoajhD6fhe4mCHuyd-EcFEvu7eUuPNeEMGZFNq6RymNxasT8gni-K6nx2aozWzOzAZ0rToj-NVRA6UBIcTKjIUwBFZZ4NOsK63rolcrbYg0CdYUix4WZO_LxHYm8UOVzuT1XPz4-JiDrp9H66_RvFWBQzSiMrErsFFZZPNWcRS8LXH5tWTjxNbQ_b9MZZS0kaCg",
+      "width": 1800,
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118152748986722839020\">Korn KnightZ</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2chPJ702HvH_QO-AcBIBpRj14IKbFVmPQCmHS9Ybsk-tP3bWwRfRsMGcZCWU75SJyUByjRhat1HMBBFv1geXt1BEZCjrbCqNZEcW2Hmup8jYnwVQMyuo3vx4k8yeGtw5qDrw0cpCzhl1_F7Kbn7tU8LaMNw2bhHCuXP1i1bi2WEbZ6hH3jGeA1M56FY_oD0novkvx_iTmoMb5Xm4AYyX5Avk5OVqDvsm5aDunizV2kLkUcBuQOZqYe0UzN33y33as9SaJTF8xUy-L95vCtZSwUyRw7ZNEOSl-0LFSTPsxirm3rYjgu-hZ3pt7LOy010kTkgLHpzr6NlY7vfV3dVBIU7NrWhKKdr94fxCHvtVzYEKutzwPHtpjOl75g1zrPlggVaqP6HisSApt-sO7RSZ_-fMI8HOHhzSBIYPFbHByseboNz2PrA1n3AArs38KIm",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112130893818737589499\">Hanne Minjauw</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dWp31tgLaWV6JvK1RDA79nSXOPCd8oUJFBrmMwMZapXcAJ71WUBcA0sm5Q1nZgO8AEYxr-bf4UCNMtkrnYaMWlniii-mUDuOCz0U8jOju-S1Zw9HmCWoNdR9A0T23AjeOuixi6NkiALutRfKx9I21AFzCTteUbtsYN99BlZLEX7198YNloXtEHxt4QFVxNCdWFt8KWn20s_2DZmTjssWq2s4fS0_ejuVpoa5SkmHVzRvct270YZLRyytBBWWfKHWcANqplumUMj99zntQD1e_SkO5vlAeGt-X5TlRWXStXGP03gj5LpreId0h300FQ7p15SOK5Ku_K3eq5E-XGVwwhwlUVfhGnO_xsjREsIL-bX2nrBYEPnEzNaE5lvC2C_zGUjBTNTRNiiIEBAsqueSOjs5gr2Z1hdpG9ih6SpAly3A_2",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109801092169582372539\">許力文</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHt0RUNZMey2bDIRif90hgGcPcgJcq7FQGq86VxbV5FjpQC5E0g9wNUNkMwwnkgzpSZ9C5SS5PQu4ZMec8dxRLpWd5jGGkLOmR4-8RuobVgj36BvF6MraNjHdfqOvQheEZ2mgpnoL0-VPB8kYW0IfhoozDG74u5DX8phdKQJdRsnNvTAhjgXg_fzxXdOhiArZaP-UlbaTlQ0Ivl57eSvcMU_kT2O3Et6jKAGWV_vGscgsmbtoXnyI5ycxdJD8umxFzFtPLXK5hfxK55CTwuCl9WYzPcVlh-nwsKnR_Ptz1ElGCBz-9z2JWEmEHpYC2bon_alJcVmEn5-ylUYagZnDh9sH7hryuuRa2XYn217Izpqc3TsoyzZJmGGCAmCyXiLYn9_YvaG7QYdSKAUaTMYc1uvQ_fiVc4C1kZyBth2BxEQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103496747965089954303\">Aytun Gill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dmy-Jedo9TDnHUmYZlZVls_rew5bQJYPAGUr5s9LEQBwbdZiJd7PpNmlRDmq5nJNOI6kGm7kkR-zWOYY2ticvfoqd1OMt1ust_v05S1pF0XERMU0eQPu1eW2GAp8DJWSlxTvmHWeZufQ-rochLT18oMCa7UOvO3FSZpDxssDdyCUVv68G_2NWfRx5ipzySjIjw38roopr5CY1aEOu-JpsD0VH3MYjexapbaeNOCgCV4sODXE-ASrjXwT61d9UjgKFua6T2-ovhykur-ZoWo9TXeLi9_9zeCsYo1P0xoJ1zYDhNlo21AobzmG02xF5o1czFfiQH6S1g1XBFEiqhUfOvWmMdmgSI_eN4ftB8LXa7_nV3tjGkMi382mruiSNL_s1t8a1gq-_V6paEzkPDU7uSsz49FQz9uM_XGRn1BSd4bw",
+      "width": 1280,
+      "height": 960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118412628976656880680\">Fred Contacts</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Housemade pastas are offered with Prosecco & espresso in a chic setting with 3 dining counters.",
+  "reviews": [
+    {
+      "author_name": "omer erbas",
+      "rating": 4,
+      "text": "Let me start off with their famous Silk Handkerchiefs Walnut Butter pasta: it is flawless, I can still remember the taste and feeling, definetelt would wanna eat it again. Additionally Cacio and Pepe was equally good. We also tried burrata, which is nice but a bit pricey compared to what you get.\n\nWe visitied Bancone in an early afternoon, no reservation and we were seated in 5 minutes. It is open kitchen and as we were eating we were also able to watch kitchen, which was really fun.\n\nMy only negative point is that they only accept card",
+      "time": 1759038347,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Ximena Londoño",
+      "rating": 5,
+      "text": "ordered the silk handkerchiefs with walnut butter, the agnolotti, and the artichoke. The pasta was excellent — perfectly al dente and full of flavor. The silk handkerchiefs were my favorite; rich, creamy, and absolutely delicious. The service was a bit slow, but nothing that took away from the overall great experience. Highly recommend!",
+      "time": 1760275013,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Cyrielle AH-FA",
+      "rating": 4,
+      "text": "We were seated on the counter and enjoyed the artichoke, sourdough, signature carbonara and gnocchi. To be honest we really found everything very tasty, the price a bit high. Pasta were all dente and tasty, and all sauces were very interesting. It wasnt just a classic sauce but there was a specific spin to it. The service was nice but quite slow. Decoration wise, it wasnt anything fancy, it is quite small and narrow. Though it is nice to see the staff cooking in front of you.",
+      "time": 1758908813,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Angel",
+      "rating": 3,
+      "text": "My Michelin bucket list in London!\nThe silk handkerchief has a really good chewy texture and is a great match with egg yolk and truffle.\n\nThe stuff might just be a little busy and missed my request, so I’ll probably need to remind them a couple of times.",
+      "time": 1759006363,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "thibault “thibault d.” d.",
+      "rating": 3,
+      "text": "The pasta were excellent.\nThe starter was ok\nThe Campari is a bit a joke, 7 pounds for a big ice cube\nDessert was tasty\n2 problems :\n- quantities are very very small\n- the server dropped dirty cutlery on my partner s jacket while cleaning the table\n\nHe did apologize, but a commercial gesture such as offering a digestif would have been the least he could do.\n\nAll in all\n2 small Campari\n1 starter\n2 small pasta\n2 small desert and sparking water for 90 pounds 😬",
+      "time": 1759086130,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:22.874Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5RXfs4EdkgRe0KWUsAHugI"
+}

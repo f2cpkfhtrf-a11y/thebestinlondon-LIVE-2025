@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ4SojyD4bdkgRDaUS-yosED0",
+  "name": "Camino",
+  "formatted_address": "290 - 292 Pentonville Rd, London N1 9NR, UK",
+  "vicinity": "290 - 292 Pentonville Rd, London",
+  "rating": 4.2,
+  "user_ratings_total": 3514,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5309402,
+      "lng": -0.1217038
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5323190302915,
+        "lng": -0.120443019708498
+      },
+      "southwest": {
+        "lat": 51.5296210697085,
+        "lng": -0.123140980291502
+      }
+    }
+  },
+  "lat": 51.5309402,
+  "lng": -0.1217038,
+  "formatted_phone_number": "020 7841 7330",
+  "international_phone_number": "+44 20 7841 7330",
+  "website": "https://camino.uk.com/restaurant/kings-cross/?utm_source=google&utm_medium=local&utm_campaign=kingscross",
+  "url": "https://maps.google.com/?cid=4400065399053526285",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fqc0ql0zyVogRn2-IkpcQ_U86VDCbUPMoQ1kF2EIdx1g8bkmEDXq62t5AGytQzeIhU9W-p4yjAdrwsUEXoFnGYFpOWH8jIcTj4FHmC-58aYJC2ICo5Dh2lJ24A2aOmM0jiE2BvogY-Aj73KAIjmGLiOaHlqyBSiqerVfXgd53tehaa-B_cB5RyoaVruHD8TMvvqdLoS3A4EbYEsYwcjorxX-Amt3mOvugoPfZ4P6ZQAaXOFDJAMidhJu_RloL1Vapx29yko22k_a6tq2O2iqPwHQqVASv874XkK1O6q5S0kg",
+      "width": 1110,
+      "height": 731,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110142088638762672704\">Camino</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dr-YyDtDjuzXKOXgrV8E21PI-cqgpNwTr0OlPmw3qdkqMpjU1TdTsA2Bqw2Tpd_YJUGBx0Hd7_t-sjRdKbwLBM0Vu6PyvQq6F7jVp7Xy8UWR6cNo1SjdzZ4gytfqCc3Q-ppaDKnFhAf97QE3N1k5wefcNkYZ2r0UAdFwr-VY-Nty1nsQA99GD9gMgILXG0qz7JzdBkn4WcX7-cqfOcWXp1r9Gvu0KA1ZlQLrQq1LrKefkDChDB89MT51Yx9BkbUdLQ-Pwo-Ac1SlSVhzgYeHH82GSFH3UyDUJCzjlEP62NbeI-5Ad3NJKHkVA6aTdw6MCI03LuAgNYiBmxVxXHCLKXukxnzuu7SxBd59N-sYZJqJj8x8gW6q0wkQPMboJVUbUgr473jfqm5cO9DhVfBdBbjoyTqU-V5egrOdVoQP0EH0s3XqEn2hONOtxDaQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106371840267756072611\">Denise Medrano</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cplNOm6rt6cJM02WpYj62r7ag8IbeHkPDo3x5pG7rX3fIcywzZTjte7_aoIFc1W4FWJOi9HwNdjOpvh2BsdBt1haCriUu6z7A4MGiQdFBQGGNH1It_AEERUxXCNd2TQtgrTc8K9TdOHs1HdjGMFxSyX1lIiqttlSIWQFV43VWaEhX8vajn4QijoYw7kJTm9cO8uG1vghq_Z76UUficS0BeSXeNBKa9PKS8SfW5OsLzaD3h-A8D0oYXy9p2W7kiv-v392ibPV3ETKTJsZrQi0NylAhsC39Q8qRMmmHG-bFL3V3YK7nL3DiJqKdeFh8Dg7oDt9B-FLA7_YdAaINY4j6b-wFPXT2qQNUBrSE8S4XSPHhEcsRSPQsZHHLCHDvKHHV3azzhHQDTuVFlbekvEAGgx297oX6P__TXgaWtGzgIvA",
+      "width": 4032,
+      "height": 1908,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100823860784254857952\">Lalla Hussain</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1BkVCg3AaXg01LA9pwLe3UfqHsEXWby0J7TcJVgRskDqHyd5FRxL60BXJ-r-ajfklYlMCotw-M6f5KqlVZdZ3TUSagEu7VRJBcRGIr6VSeIa5rUZn6ti-UOMNw-5DOjPud-BORWlPFxvsfzrNmjI9EIt6aspUVNJD4KD8G-b7mYktfSGKhellsGmXJH_F3JCttUIscTqUG1n0VbMgSRBTO4XsOfy7yaQAyKkt92gSONRScSvt8tDXjUFbEXtt3g9UF2c43iNrv2jXsl0I30rJo7r0TuvIpa1-Jb0wsQbxmHX5x5cdRwadfL1g5CzDG-kLSBCznXAdlUnD93I8AzrtSxxfEs5ZDXVrHrAJjVyvQYMCQs7APxziAoP3_Nlogd7n028wU3ZU_J9Pj0r0hrz_YtdR_qd9ZtKnaybhdJDYWw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107642232020675302263\">Hayeon Shim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eoFD9kOLJ1JTX_9zK2f_ACZj6dPYup_8LTojPrZckji4KDRWB3q_6o3ZOvmlqeA_dpENESt21sgLQ33adldSmyQapxZm-utkITI4kJ4BsnGxYWRL368Z79HA0CS2SKgzk3UHaMdWEQM2-yUGz2rzrV4J5Ol-9_i4BRPomRixyrpGwkg1GE2_R0_Q2ksZLNapjY9Xs8xPRaG00lrO-ueSmBDi4vmUI6f7xnvFFA2UdR9YfNtXJ1a3B8ZYqEjSrtddTxtQjk2UYUs_-_Tbkhb9MnBKVYnefReZ0nnUe-kvl3EfAXPOdWT61EokUYyqkbA5cUsFca3-1zwErE0S4O1HeUoJog2PJ9pWG8A1TNSRkY_T13xIkgZdDb-79qU2sHs7vD6lVkL-yHCcxLde-ryVi606T0RaWutzNJc_eUQSjW-3-JsbkyQzVu2qSAMi2o",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117276352337509495362\">Younes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cAXllA3v_J3i_3kOqQHTCv1Y7jA10wfvU46gjXc7ZMS3bM3Xb3ON8xpy6bS_ztlav3NNlMw0ugEHaWJ5jBLhSnYAaJg1ao7puNcTu0P_CtQgBDbQ99EFn4aKbkcqXetWMRjqzGrtC2vcgyLxXyIbQh9-uGvGPkFlHaLw6jS0YJnL4nEbxqv30Y755J0bN3d2XezrXt2WRI8gSzfFSjMGiYiHqP1polntytHK22w2kIwpnKgsxDUlf0iHeJBChyzbIsesVwmPBt32qd2rYa2_lVxMF58up182isjCKaiR1Dd_5TpAf06zLo4zsUqbCp_aCZfUUr-W7PPguOH7HCYVHUqKsnLL58kYufbIFAvtEpx7NAiCaXKoQfpVKVKEr4CT0NVACPGjL-IdIZfmBpqvF_3-SGFhKvEd4Rw71IeChRhg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107642232020675302263\">Hayeon Shim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fciAJn8mg5RNC5QdVlDsU-Wc2RiQiN1G3VhLNa_HWoM0WkttWKE3nEuMWj3oKBUtocJ3FRm2AE5xujZaGsUxgwy7cOaihRCuLrO6iZajgDw0cZ4zv5mIZcakG1t5iiP_9zFrKsd9bcmzInojbZ-VPn42icS6DhB9skFjXExrN6MW9V-CKYRxX8L-h7pFQ6UszNRTpx0J9Iz5XBSvt2RcW9d5fU-dehCT3x7QQjWjbeO-Bw3ksT3GTM1iBnm2slp4JaJXRDid8KNtNQEeP2kTAK9bxSUTsIoNjxcxJZZG2u7EnTaOrqCIPo_5etSCnHqL4lwQlLawbOQmqadbFap_6jCnsKQ7Lvjddo5Fe2iIpd-y2rwZt4W_trUJr2tXJPzIU3vO2uWPC8SKq9pHJThIonS8dfVROyTuFDz4qoEWR3ins",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115053829070808757435\">Richard Darling</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f6NaaGVNohIrNGA1ZcuCCeXrOcAVvQyT5umm2z1meC1GAwwevF4jJVMK6dfyZ-0BjQjzV13eAxaUPJpcMux-vNhImkfOQhX25W84m-hqRMHQ0OPnMtyQH_JnONZg6txZ1VXpZdTWTgjufmBbzveY6bB_ycsITSzxbOJ776rBmMEhk2cnaLtjmAivYty3eQDHSVinviWOw-0HlGK6VpNuWZ8pEk78IJbjNDbcwiaF930oLFp0dR_HYK2X22FNwgdAyRiHt5M6s9wVFPxt61yZodIWTmDPh2OEMoF0ev9_slHzI1jmI2bc8UumZe0H0JB8bkr1N3AhNenbKKZOuc5gJJJipEgxy4p97ss9hsbdbcJkhxEYZJxAQGToe-ksq27vT7Xj4N2avJu81sfSGogn9MQAExsMuy_DBqHcZvacOypp0",
+      "width": 3510,
+      "height": 2634,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104430801300002548836\">つかちん</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cYxG_UjxtgPIi4sE_2R31eRmpsRitKEnp_l_Dv5HviSkMnTM_NQpGiBVbN21mRz4wSkm0lZptQxzDX6fjzgzzR998ziT7JZ2yJcMF1wqBkFPDD_bUPsz3LjyKiTRtZzRWpVGs8rpzLUkcP1VXf93s2B-iuh1zk46C00rUJXdAgbCLOZjc3bYPx0YvheZp62rksuAXinpS0yeo5LyUSwbBUTAmPx3iPCZRPVSrbnTrkLtoUA7M6nuuNKgDHyJuQEMAKDZ3SUul1IPyHE71FPVik-wPX-3AOgnCNhcOpqTQu4RgXO6hu6UigBzjJhh6KEE3LR2nmPUjItuuCXZF-nEgbaR1KTcPvgUoBdnsFXuvbDk4t_WTLd5YoxRIcSGetxPSOy4bzoYzFoX5uCLdfravmBmn4p4UFS1dw3Sr9ilsYwQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105001397457582225565\">Isaac Chow</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dYmzNpe-j32LLWm4r2WqCPR0GwcMQGILPIXhhRC3ZohZjtM38ShBOPVPuDyQoNgwKpztpIMoINrUfjyX7u9-Oc0FKn6xkG_c9C3F6oz6Y4Ov6F9IaEhC1Sx9DK18XplTjCxGKm2Dqkp9qGL_bH21OFa9O2HHv4iyU93YpRf5Rbk73MUM0gHb0uiCSEWPRQa0W9V10gMhlg5QauX13kB6wlA4Ig_yVBFtK11S_TDE-kJ4BR-_fD69S1b_4Ft3IxKGsgex67xzv6gzM6nJHxZ9JCGh-7zSZRbtFnnYKR-VLLu5e6AVJxxvabCnbgzaB4jqbER_alQwjrNw39RToT_qqYRajyHjD08CFG3jWJ22VqgpTs21h4OXsHY3-nitBFt_OvF-Z1o2ZSqUq9tKnUwwRfSyUxipLJ_kT1YKwC8vM-FeI8",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107383623379527667438\">Alex Delarge</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Tapas, platters, brunches and Spanish wines in an informal brick and wood space, with terrace.",
+  "reviews": [
+    {
+      "author_name": "Martynas Leskevic",
+      "rating": 5,
+      "text": "Visiting Camino felt like stepping into a sunlit corner of Andalusia. The space is cosy yet elegant, perfect for family meals, quiet dinners, or lively evenings. Shreyas, our waiter, welcomed our toddler with warmth while guiding our meal with calm confidence.\n\nMy wife couldn’t get enough of the pulpo. It was tender, lightly charred and impeccably cooked. My solomillo(ordered rare)was a masterclass in flavour. Gambas al ajillo, rich with garlic, transported me straight to Malaga. And the anchovies on bread were clean, briny perfection.\n\nDesserts concluded the evening beautifully: a delicate Basque cheesecake for me, lightly spiced churros for her. Don’t forget to order a bottle of Cava and a glass of sherry! Camino doesn’t just serve tapas - it captures the heart of southern Spain. Thank you!",
+      "time": 1759610167,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Denise Medrano",
+      "rating": 5,
+      "text": "A little gem of a bar in King’s cross. Perfect for a glass after work. Fab Spanish wines to choose from and they even have Pincho Happy Hour! Get a free pincho with every glass of wine between 5-6 pm. I love the gildas. Arthur & Domnal behind the bar are knowledgeable and fabulous! Great service :)",
+      "time": 1759336893,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Alex Delarge",
+      "rating": 4,
+      "text": "During a recent visit to London, we stopped for lunch at Camino, a stylish restaurant nestled beside King’s Cross station. The interior is beautifully designed, sophisticated yet inviting, with an understated elegance that sets the tone for a refined dining experience.\nThe staff were exemplary: highly professional, attentive without being intrusive, and clearly dedicated to ensuring a seamless meal. We sampled a selection of tapas, most of which were well executed and flavorful. The only slight letdown were the potatoes, which felt underwhelming compared to the other dishes.\nWhile prices lean toward the higher end, the quality of the food, coupled with the restaurant’s ambiance and impeccable service, justifies the cost. Camino is a standout choice for those seeking a taste of Spain in central London, perfect for both casual lunches and special occasions.",
+      "time": 1745321421,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Jeff Frankling",
+      "rating": 5,
+      "text": "We booked for 5.30 as we had a theatre booking and wanted to leave enough time to enjoy the meal. Service was very prompt our waitress was very polite and helpful. We had drinks initially and then each chose 2 tapas to share. We were a party of four. So eight between us. This proved to be plenty and we thoroughly enjoyed the meal. The food came hot and promptly. We finished dining and had plenty of time to get to the theatre.",
+      "time": 1744563936,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "David “djt_art_travel” Thomas",
+      "rating": 5,
+      "text": "Great little tapas place with outdoor dining and nice interior. Hidden in an attractive courtyard area off King's Cross. Friendly staff, very helpful. Excellent tapas menu. Great wine selection. Excellent food. Reasonable prices",
+      "time": 1744724979,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:52.376Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SojyD4bdkgRDaUS-yosED0"
+}

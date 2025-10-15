@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJsY8u2_AbdkgRlZEwQq7mA64",
+  "name": "Selale Restaurant",
+  "formatted_address": "1-2-3, Salisbury Promenade, Green Lanes, Harringay Ladder, London N8 0RX, UK",
+  "vicinity": "1-2-3, Salisbury Promenade, The Coliseum, Green Lanes, London",
+  "rating": 4.5,
+  "user_ratings_total": 2797,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.58312249999999,
+      "lng": -0.0996585
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5844869802915,
+        "lng": -0.09840506970849797
+      },
+      "southwest": {
+        "lat": 51.5817890197085,
+        "lng": -0.101103030291502
+      }
+    }
+  },
+  "lat": 51.58312249999999,
+  "lng": -0.0996585,
+  "formatted_phone_number": "020 8800 1636",
+  "international_phone_number": "+44 20 8800 1636",
+  "website": "http://selale.co.uk/",
+  "url": "https://maps.google.com/?cid=12539119423638770069",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 1:00 AM",
+      "Tuesday: 9:00 AM – 1:00 AM",
+      "Wednesday: 9:00 AM – 1:00 AM",
+      "Thursday: 9:00 AM – 1:00 AM",
+      "Friday: 9:00 AM – 2:00 AM",
+      "Saturday: 9:00 AM – 2:00 AM",
+      "Sunday: 9:00 AM – 1:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2epQ7AeTD1sAPABvzcIQWQh4AIJiFr8vCqI6PHtrVHlYpoaY6FNgvVAXwy-gCJQGT_BhoQpiQnZTEaYtPNbAN864uL2MZIbYkW0EMDOSQOSgamlwiD2zttTLNOYPjQKRHnlK4FFDnRGIyBxbA-e4VcBsAzR3z0945Rl4RC3hoitIczQZV-6WHwpLuGDP4Q0Cr7xkQWhsPJNHTrwY6KOwPNvF8-hH82dTGKtzogNTAI0g_DzjQ0VSKnw6edOe2_qpKZqz2FqXazA-LJ-pgSDLFDax7UbGwPz-JVSpfXJYyn_Zg",
+      "width": 1125,
+      "height": 633,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101432760576163518784\">Selale Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dyzYoozkdjJTNWLtqqDXzBLHtBc6vaLUwpUivxIS5FgE8mu6OLJBuIE8bC2NTL5FqHr3hhqctjBGtFfAhYRvTmZahMD22gX-is18se_lFBTvplPPWxEjX6yJt1Apkaci7qB4I9f8bzTKs_xaKJH_fpqKRxgRp9km2HFuiiJlzzkI-9DvkIqUlAWyLKwjZ21WJA3k0aFH26SjGdz3a2PX7tInuzvCsbQS4gfnwBkSiSKHjcCzGTbhbYqVsy-16MeFnj8H5DesbDlMYatNt3r5R6iZFyxLLNDQMxOeSBP0-Zsw",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101432760576163518784\">Selale Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ePYshL8Vz0biSBQpfrAFqWV5mIsIKIcMaS10o24LDgtEyow3hqrTz492OkRTo-N6dRTHPKsjIRwrrc5cuyvkB1ybKBtpVVVqfiDrkyksCZKPNCpGlwfXH3tGm_QQN70ru8vAZO_uvEpFGXRcR2sSg8Epfx8PxfHKq-yYAwaC_uDVrfLW7x_9L6_oNP-Ex1dYbS4CgJdXUwaqSkPP4VmrIOQ4DtS6GESGYxJZp_v6dQ4xw-U_rpyQc_HcbDdCb2govAAVJ-_eyh9klFyLd8ORCmlXCeNTgsqc6V35KaNTOY5Q",
+      "width": 3199,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101432760576163518784\">Selale Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ec_e9KRVXThPQUxzOE2LkKSdbNAim10Pel4JhCYaIUpAzjLeVTcsyeOGWYEBy27ZE6Y19T5bY4_rkkEM2wzXEw9PLUtenTTp-27TIoV72wYXvAQiMXJIBNzGlnyTyKcrWgkgIWSoJfWu4McqSmWP1QQNL67ultVK0EcFe-9CxmZ0mii94dX96GMna3ZKwp2l9eGE5Cp9xVSNn10roDGHY6TSEhJ2cI3lQzoHGmt-Enbd9I3f9imAofFzpSYfGsdLEZ4PpWVPHsG05ZNXGG-sSH-lm0TOrfOi1G35UitChIkarybLVC4cYHGg0yIr6JK05sv3taT-s_Vwke6oZBU-G-LI4PiedmYVIVMeEXQtrh0SDmBj52v7-Bxnxjkbdtuho4cxGZuc-_r3VtRWdL1w1EtorJ7YuCHAhK17BXaPF9WA",
+      "width": 1600,
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115110534442034163118\">Tanya Abdul</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ek9WaWBRCrdmYUcruaJYPYqaMYM30eQ_isb-3jQXidzYTsSKMbOfcuz_n0dwgjkiQgNq3pUimX13TGiDm6V5ensVSPqvK0GnY6gy8SeSErQClThjsMy6EiE-UGqVyvT-PZf7b4DxBYn1-31bUMFFc_v7NJLZBAFtntloFWR5KI3G0dv26Pl76m53mi6JkswKi8sR4-VGVgAmO2i1cCa59_0Edeww6Oq3kkfUk3dKvR3mIEJHD3ylTCSl9bMj8e4t9AdIpUaawAH-YhoGFAWtOyHr56mVJr3juVNo0lcpYwsQ",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101432760576163518784\">Selale Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cgHgcb3laPQArWYyngnxdQ6sEjHN4ysdo479JH_dCJujdfCxJOn9UiqTiLJ6mXoDe1_r9bXI5vrgnWx7XSSHiXOQ_C7CkESuxJ4dfE081inCpbLLIPT6ACm6DURZgdIhVhexGj86ZrICSMICakQ7WlD1ndbTZNTfcBTjxVl8AYSEW8RaSpspHRnfrOpTiCg-yzv7CEDLzFyp8YqvRmWBg1SKyrWZNe5waQs2MenW0LyKYKeo7_x1xx0_vDu8GDgHDbI84qxdJLPnaop4k_vjX1UH97ZeMtVWJlHuvzQkvnmw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101432760576163518784\">Selale Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cLUpGmRLIHhWnyB0aCCHNzj0n4BdJrG_p20QU1vCiGV7n6wlDgyh6TJA99_FN3O1oHTs1K8uNGHhQBFou6VXByQ6bJtG8cv7SZesCxqW1u7ATzIgFjpEQiU2qlwa1Bd8PYJYuoZxgRTXDRLFD4OlV_KC26dbBN65liOVTMEeQge7Xw59y04P544_gMqaeRMs8848NZmr-6FDeBPHLl9uO9U3g34WYdiVg6UjIz46EzsTjz4VTtG0duRuFkX2n1lnXbTHbx72Zqc6jctKBedYmy8mEFiyTCsdGs4GpGr66__9mkErU8mAZIfecJuYBFTh0_056RcUzY6ht0dfCXzWy6zrwXFJ6HL00iFvfq3x2QUjf2R_qKz1Mj9iHuLUMpCnNUU79d82sJvcE8_amepL4IoxH_rQvJqVmjOCs7jHmnDA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100134802044175849143\">Emrah Bayir</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exVZw-jvt1dF10Iou2-LYd3oqULES9xqD6nfC2Y3BvA3OLWTJVBW0UXoujXYrDfQPMvAkVwIk0X-Tg3usrjcHM9cINud0esjOFRl9lCdK5B2JBGmPlorI-Q4J1OnQgz2bmeV2TK8d3R8SHU9uuLGWsoumD2G4NwEaMhQ21j4cdoFJptLkRia7ZH3-U5W-GHX69V1AWC4UPmaoOjreKIxpGVzMGnZbYEleeDdyW36gn5QEUIyZ30nTnoEdhQSb5yuujSuXnU1SjLxbxPzLwk2ehV9wdv-S6wvohRE-i1Bl33h1OaaDJ2HYuJS_tMEBV6CqenmkV9AIBJjjB1ZYvmA_Pq2trcE_vqzLvpWN5VdcspxbsOjs-KOHqjNAoQgyzmLNTGrsbBB8c8ymG42UfCYqoATsVj7iWFKrO8JTu8QJ8p8wM",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109709322409920972395\">Rifrafrefx_x</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRTwvWzOvxpdZPphJVWP5-WwczJAIxYDz9sfxOMVzoEC8YQhPODIuek-Xc1l5mzbs0x15CZboLwXLpyPS-YznIimHkg4wWUKiT8FOLeQihWWCPD4U1mSSHVe4IKTASqcjcld6-9hvfwQMHuOXPMQ8zbdyWK6p0rrA4a8_3xS4c_9_-xU9ryCYUGma0chfa49BtPZvL8BjKZz2d9uoQtjXNiyBlq3D2uzbXTiF7tP8XanErvc-2SVCyzYoC5-1gWZpeX6RYIWlEHXEh5GMFi1dgVKWyYkmgaUhCQtIX2OcWjA",
+      "width": 4800,
+      "height": 2648,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101432760576163518784\">Selale Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1BnUqsZu9wGtsHpvm3URoNAGRvefpgh1z6eIzptTnb0Roi2SMLRtnvY-VmhQvVzEO8LxJX9zw3L4yw6vJwfE3SdGYbJW2bnZUpezerxj2o7zY4kHDzT2pHdLuQnfdbXLjMsPo201bi2hlp31__PqGnThdWhZfU2I6_Y9Q_UF5Wds5HOTLVkinXNsaSTghLa2FIoOxXld58hX6_APQSBBjoXOuc8jOc_xgA_9iMiErvIoyxzUzJgeI1a_BflsuQQuOuHu8GZD_D7WY4FZCf4jPcFDn0YLH2frMe5AbnocoYw",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101432760576163518784\">Selale Restaurant</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Bright, simple dining room with tiled floors, for traditional menu of Turkish kebabs and meze.",
+  "reviews": [
+    {
+      "author_name": "Han",
+      "rating": 5,
+      "text": "Door-to-door kindness and service, just like being hosted by a Turkish family.\n\nThe warm and competent service started right at the entrance, and there was never a “no” to any of my requests.\n\nI ordered the Turkish breakfast, which is world-famous and often rated as the best breakfast in the world.\nI truly enjoyed the traditional spread with sucuk, olives, different kinds of cheese, börek, and more — and of course, unlimited Turkish tea.\n\nI can highly recommend this place to anyone who wants to experience genuine Turkish hospitality and delicious food.\n\nGreat job, guys 👌",
+      "time": 1758572595,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Tanya Abdul",
+      "rating": 5,
+      "text": "Upon entering till leaving Selale the customer service has just been exceptional, the servers are friendly, warm and welcoming.\n\nThe Selale special platter was delicious and enjoyable.\n\nThe only thing I found strange was the price of the chips and soft drinks, very high in price for something that was not exclusive nor special. However that would not stop me from coming back haha.\n\nAt the end of our dinner me and my family were served Turkish tea and baklava on the house and the baklava was just delectable! Absolutely tasty it was.\n\nI would recommend this place, family friendly, kid friendly and a relaxing atmosphere.\n\nThank you for your exceptional service Selale.",
+      "time": 1745892564,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Rion Ward",
+      "rating": 5,
+      "text": "Excellent food and beautiful restaurant. The mix meze and fresh orange juice were unreal.  Our meal was topped off with the amazing service we received from Ahmet. We only needed to lift our heads away from our plates and he was there making sure we was happy. The complimentary Turkish tea and baklava at the end was the cherry on top. Can’t wait to go back!",
+      "time": 1755000065,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "James Church",
+      "rating": 5,
+      "text": "Wonderful Turkish dining experience!  Soooo much food was served we had to take home as it was so delicious.  Staff were very attentive and quick.  Lamb chops and moussakka were probably the best weve ever had.  Had lots of laughs as we tried Raki liqueur after dinner.  Definitely will return!",
+      "time": 1749973942,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Twa'Lea Jordan",
+      "rating": 5,
+      "text": "The food was simply amazing! We got both of the large platters and it served 12 people (kids and adults). The flavors were delicious. 10 out of 10 recommend!",
+      "time": 1755968464,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:43.525Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsY8u2_AbdkgRlZEwQq7mA64"
+}

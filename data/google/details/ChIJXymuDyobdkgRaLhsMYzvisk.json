@@ -1,0 +1,246 @@
+{
+  "place_id": "ChIJXymuDyobdkgRaLhsMYzvisk",
+  "name": "KIN Cafe & Restaurant",
+  "formatted_address": "22 Foley St, London W1W 6DT, UK",
+  "vicinity": "22 Foley St, London",
+  "rating": 4.8,
+  "user_ratings_total": 3360,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5193427,
+      "lng": -0.1403111
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5206496302915,
+        "lng": -0.138948819708498
+      },
+      "southwest": {
+        "lat": 51.5179516697085,
+        "lng": -0.141646780291502
+      }
+    }
+  },
+  "lat": 51.5193427,
+  "lng": -0.1403111,
+  "formatted_phone_number": "020 3589 5185",
+  "international_phone_number": "+44 20 3589 5185",
+  "website": "https://www.kinlondon.com/",
+  "url": "https://maps.google.com/?cid=14522683333813254248",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:30 AM – 4:30 PM",
+      "Tuesday: 8:30 AM – 10:30 PM",
+      "Wednesday: 8:30 AM – 10:30 PM",
+      "Thursday: 8:30 AM – 10:30 PM",
+      "Friday: 8:30 AM – 10:30 PM",
+      "Saturday: 9:30 AM – 10:30 PM",
+      "Sunday: 9:30 AM – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "0930"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1630"
+        },
+        "open": {
+          "day": 1,
+          "time": "0930"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "0930"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e0ldrbexytegoqSrofG8-TcIipgPPZZOqZELc3Z2aYOGrRe2fEI0lsuqsz9FN_YKpO5CfBnEh2QI2MRthIdj4BX9odbtxeHikga807s59uf8XK6g0VpXHUEX1Qb0jPy50c81bbD5r3GmUXkeeF435SeWNzpJ1ibqvwAq04RPm4MN0W5t1D6nnNNBiUnxsYs_IXHmj_9HgtINuZ6D8dhEY_Rxbk5OAiKToZsH9qpj7xS1Nrmuk1eBbszRR_5CprgCWi8FZfnMBAEfFYs_e4NM70XZToE1VFP1UE62-q9RxK1Q",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101716521598985992027\">KIN Cafe &amp; Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMk7m6HS_20VZmE0w7qvP4KIzWSdaro2-lZ18XqTpWC-V2vFGEoL_nLDiior_LG6WMHrnS81V7utOb3ZTRdBGcZ3t5QTaETXWxcNniACdUBbnop15mOvWyQBkthu4QCXFxf78GfR7QuicUoqTT_QqMAhmV5-9L-EhGUCWFwyWgxf36I7wcPsJOx1wJou2aF3f_B6Rl-4qVlRQW6h_sfcWCIlrcN5SRPsNIK9qVUwW4tjdVyEzXqiejp3Q5rUm-p2e5pJ_zcDVRWRe56mavO15MUYNMa7N8CVrrEMnFZ9Gwhg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101716521598985992027\">KIN Cafe &amp; Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dHLCE_CvZbt_PqgDDL00lNgD0RQE_FkTepmOPdlX49vxaEgEjLO7eEFj6w2T1VHIsnMLLyrNEsCn5Q7k8hRve6XcXv-Pz3DuygkVrrkUteS7yZglI6k0OJxj-FCrCgfJ4xXlmlbQH0-zxbZKtpz97gGmmSJbxoiKnHNYyK1LigYQsIXWvP_NfqQtfsiBdwq2cX4wf8IEB1IifPRLa9RoO_xjjnT9P1N0mHG4rCsizndpO3qeCZVUwTAivmvpbROMGJcV5RgeRhAAYA2CXeg1bLFXgt5t2K4vXaDi7-5jkbugL-rXEdOIgVnpfilRLZCk-2_1eIc2VeVoOU0RdmY5t534LoYV98f7XmbbF4UjeUEe5DOxV1ENzR2h5LXQ3zaJeqVVZv5FSuQZfKnmoocxJdE4tYhYY8RznuQhcO3vU4qLYf_54ams3W22NoEQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108909631673709804957\">Lydia Edwards</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cKn1ceMIydR1NzkVWANrxKn89GzCbA_iZS16bIRkPRuGBtUv3OzoD53X4wARTD1s4fLnkMbHmNalF7rTWL_rSV5VAh-unFjZ3EE7w2Z4_L2UXtb0rDdxXjMXdePfjl835-4IqO-Cpb8U6zcvQ8VOAupJQ3zb9E1TqXvfGaoBwSCQoIGGHXuvvE4e-9x43iCNxxIxMwZxR1NHNrm6lwxV_9LKQATUxgJVgS4cAi05j6LTeG9Ek7KzyNQeEfRWXH5jkMIKDZs98TgxabgKIqvKtU79gALxvlvuk2eAHZuGGsdfd64ze5kzyhMZz9VGcN2FSaUw7rrPRqT91YgmlGc-xE8n31osq2hoGZlds4KC5bDjrqquXpedWDUOkBgLgL3nqsNkQ7TQ0XHqtr-4fZORGDowtA1HNkP5Jcs0yyGGYDq6bDzS2HxHbPB2dadAfm",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106348652022021986700\">linoynuni</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cpGE8VPpmZOpis7n0aUon9hngaccGRqkJYJSysufwvQYKc0OvC9-CkarGtT1UFgGE1WKTkHcd-lxETvsZ5mdRpocVFsGq0Z8bPQCcrWdrAZ4Xv1llJuBsNvskNYcDjnc85DzSYti5w6b_iwY9Z4SRrJehBWGsKryMGDYFXZ0p67xpXJei9iwOc94zhVStPi390ewnqMRKQK5ljubIHDuScIT49EoAkLKW6g7aUp5EDzRArn1mmRzKWJiw_e9khcO7Gn9NmGeBPBwjNY6TisH4uJG-EV_C8uvBVa8R4DXHdaSLeM7xa38h_8Z9j2zZWeCdzurrT9wGw3-eT9iXdRgFdv_qaHXkMBYTvk5tf8WxRR8r85tSELKla8H13cLqnnKtl73lbMo0xQAHuvzLkLlp_j0GyqYGyod303lkzhEuUQqgSW4hue0vXcMa53KPL",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108602897782463596094\">C Lu (C LU)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cqgwPzXaT_Cz--B6xW579DjFqnKRXr6yVMNQiU6LMqCa5ubKwUow7XQVNWo1Kex1aEWMRT351jynyx_GKzZNM9ikB3fky056Ez-HarCa4RjlwjrZqyhmJsoHLzcL38wXqoYym3CHqAoNrrq_7Xs6bYXdunYGATujd8hDqUbSt5diYEYJp-ZBaArDRZEb3GrFei9A45UhuNmK-vK0b_4h3aQ0Hp0wsveHHE7_GLXN_J2LXATgrqxeJdJsAUlpHrgOk4hiZLsr-e3Xr8NjVIrvsQMwq_R-U5P0Q5uBLtapoh9b4huKKteF7bOhGATHBTJfiZ2Di9o3xwDGIYnaySAq14whhwp-jS7zVn8Rx1Dz5_x-CIK1sDC281LtsRp6IHOjkFLAZ9UaR81-bT5ey90UN8gDAiJh5BcRnJYOoOCyYfhP3g",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104655316521139868897\">Lina Bitkeviciute</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f7_SsK1SGnDPEhF2OJKZNoesns2-z1MEQYUIWKnJGTGYgXAoMbyAY0chQ8kwGAkQ8XCrBv1BTodrkklDmF7pyPnvmRntHadgUhf2kuw49Z-igYDsDZCQvv7Y2XwQG86rGp6DkAOeNGP7bKTVPgPGxSkrwGia-GhX8YwIXB0zXoY_yfe5HZkRVSV_23m2Z4mG60r9zqhtNBRSBhnLX5xo3DMII8CNV1hnD7DQuJ-CPadn_0uod7MWwqXH-VIcJz5Id2GR0iEOexbxL3l1v_rio1kwvNPaUTfwgS8yR4WeVG-kRVAQCPNI2Dn3wTRe3-aySI-nhsDxbkFaWD1C8RkR9NcKGwU0sck_5sVYLjXk9dwhq4oyiahgmmLCrzfHb6SYSn0ckVPe3uD_BI6RL03rm8WhCF1vVHFfw3ubzSZcRyPmKZ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105368422784006964707\">Anna Ward</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5axFBIXcbqHSnAxjBTIduKhamoYC8oICfYVkcda4mItkAuz3kDrtxMgOOCOUUgcH2rGHz7mHuWdkBg2cNjaoCnZ_QBQEGk2nXpCi2TcVJs2lvaZ0Xp_rbx7IZnfhv3rbw_DCHFBgewjMQ2WweM6JV0-_nB4JA1JQBqFuYr3X4sBjSVTQi-qsmEvZlsfL8V5hhvgvQ0VMSnu1iedwW_LQxBMPRAtyaadnMjekDbhFiZMzJyp1ip01lfN_MCNgbKO74Gf1x2QBzvSCMIy65PcmL_3URTw8qDeJaKLKN9DqGEvenCzrX9ER6vfYbSP5HzfAHdf8bEEuPi9Xo_HNXWf5BJQiOzpoN_Ds8KI3PhJ77RMeHcgETrkQsPxsjSgqOQ8BFLTH9WJamgyjIjmgH41uPh8RcLZUyGKGnUDKlj1neLg",
+      "width": 3024,
+      "height": 3533,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109086983237145789586\">Sam</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f6y767Nj5xLlFNftHDLTOkIH6e-1JTEiV0ROiQyuHKnBO5HRxxun-DkVfYi_Ci7ZJfGBEXLqCLYCP4sm4ZnHAW2NsUfv2lSBC-faW2S1EdI7q_P_9Q5JYPI1kCd9Utmvl-f7QExfwuFIySVgF4CxUuuRkJVHiprP_98tb4O9QKZ-aW10rUO007XnIy-AnvwuuAgIS_GPi8pk3iDRMEy2AYyH8mVe6Kw4Kkd9koHi9uGYmOybhVcQtQhlRuYr4y82-U_5jvJgZM3Opkd2dpuKweWZTVJd2dskMbQBDSR1VLzg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101716521598985992027\">KIN Cafe &amp; Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fob9oyTQKvgu1nMySb6N7DesCqF02_e0cmHuUFZczsTMT6dm5K4ydRs3Ab7U-8m4m2ZUmnGJw1mz7Ob5Al_l76VgMyc03Ho0xwyvhKjQhMSfzvnjLrr7loEoRwo2Lcc6tglrpm6XmZr_6Z5pi1giDSi5M--bbnzJuNcvZ7F-P074zKO-8ZwIg1El3Yovng3UArCkxm265KLKH19WOTN78XFMQxxuCwlqIBgL6tMvgoRSOmVbnf58SNBkuHIY67fp94b7cF7dx3YFAB80yXrcbKoZmrWWd2SF_5zuSmiT9KxtWQi2Cqn7dIscYKZNaEeN4NSWo85XEHUfhxgS3EzaXQsVlsilbKlkyQdRDQSaW8v4crWk8JFY1FuzLpLq0l6yJql-8ttEws6Ujl53OY6LppsJ8X-znxvLRfkXx_2WKSMdAI7wm3HOG8BMighvz8",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105804021256338831500\">Zoran Stojanovic</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Quaint eatery specialising in vegan breakfast staples, sandwiches & sweets, plus coffee & smoothies.",
+  "reviews": [
+    {
+      "author_name": "Yasmin S",
+      "rating": 5,
+      "text": "This food was absolutely delicious. The dishes were some of the best vegetable focused (rather than imitation meat) dishes I’ve had and is probably one of my favourite vegan restaurants I’ve been to in London.\n\nThe staff were incredibly friendly and the interior was nice. Their chai latte was also great which is hard to find in London.\n\nWould highly recommend.",
+      "time": 1760289931,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Eloise Robbie",
+      "rating": 5,
+      "text": "I must admit that when I saw how quiet KIN was compared to the other restaurants nearby, I regretted my reservation. However I definitely should not have. My starter (house style aubergine) was one of the best things I’ve ever eaten at a restaurant, and the others in my group also thoroughly enjoyed theirs (croquettes and corn soup). The service was extremely understanding and helpful when I told them about my nut allergy and brought me a different menu. For my main I chose the truffle rosso pasta due to my allergy. The sauce was quite nice - my complaint would be that the pasta was slightly too soft and was falling apart which was likely due to its being gluten free so I understand that was probably unavoidable. The portions were huge so unfortunately I had no space for dessert, but my companions said the black forest tart was fantastic. Highly recommend KIN; favourite dishes were the aubergine and corn soup small plates.",
+      "time": 1756276573,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Angela Burnell",
+      "rating": 5,
+      "text": "Food was intentionally cooked delicious and not greasy at ALL! I had the KIN Brunch special (make it vegan) and it was DIVINE!\nExcellently decorated but the Café is quite cramped.",
+      "time": 1759749683,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "L D",
+      "rating": 5,
+      "text": "Popped in for brunch and already cannot wait for my next visit. The tofu was delicious, and the breakfast burrito was delicious - we were able to swap it to vegetarian rather than vegan. Coffees were good and the service was lovely! Would also love to try their restaurant next door.",
+      "time": 1755970088,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Marc Sterland",
+      "rating": 5,
+      "text": "An Absolute Gem: Ken Cafe & Restaurant!\nWe recently had the pleasure of dining at Ken Cafe and Restaurant, and it was a truly fantastic experience from start to finish. This place is an absolute gem, and it's easy to see why it has such a loyal following.\nFrom the moment we walked in, we were greeted with a warm and welcoming atmosphere. The staff were incredibly friendly, attentive, and genuinely enthusiastic, making us feel right at home. The decor is charming and cozy, creating the perfect setting for a relaxed and enjoyable meal.\nBut the real star of the show is, of course, the food. The menu offers a wonderful variety, with something to satisfy every craving. We were particularly impressed with the fresh ingredients and the obvious care that goes into every dish. Each plate was a work of art, beautifully presented and bursting with flavor. The portion sizes were generous, and the quality was top-notch—a perfect combination of comfort food and culinary excellence.\nWhether you're looking for a quick coffee and a delicious pastry, a hearty lunch, or a celebratory dinner, Ken Cafe delivers on all fronts. We left feeling completely satisfied and already talking about our next visit. If you're in the area and looking for a fantastic meal with great service and a lovely ambiance, do yourself a favor and visit Ken Cafe. You won't be disappointed!",
+      "time": 1754086593,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:08.001Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXymuDyobdkgRaLhsMYzvisk"
+}

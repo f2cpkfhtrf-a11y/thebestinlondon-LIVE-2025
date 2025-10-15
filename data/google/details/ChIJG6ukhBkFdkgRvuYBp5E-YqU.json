@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJG6ukhBkFdkgRvuYBp5E-YqU",
+  "name": "Gallio",
+  "formatted_address": "Upper Level, 2 Cabot Sq, London E14 4QT, UK",
+  "vicinity": "Upper Level, Cabot Square, 2 Cabot Sq, London",
+  "rating": 4.7,
+  "user_ratings_total": 2065,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5050967,
+      "lng": -0.0201165
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5065630302915,
+        "lng": -0.01879321970849797
+      },
+      "southwest": {
+        "lat": 51.5038650697085,
+        "lng": -0.02149118029150203
+      }
+    }
+  },
+  "lat": 51.5050967,
+  "lng": -0.0201165,
+  "formatted_phone_number": "020 3006 5650",
+  "international_phone_number": "+44 20 3006 5650",
+  "website": "https://www.gallio.uk/",
+  "url": "https://maps.google.com/?cid=11917156359268853438",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:30 PM",
+      "Saturday: 9:00 AM – 10:30 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dXNYKon5kgx1ZafMHBaqxGm_CbJJcbK46qAmLC7-ORIcX3TuCQRCztplwm9V5qGdQvTAYZSX1m3YxDT3XGCmSfS-4yk9Wfw7-nWW8KvOwwJFk6uEBx8wRS4DVdu14YcBiS7TJqVjeaxGcLBBCmdRsBp1V5OHzInT8vPS8OkFZwGiCM1QUEXPYfQUI7BmTWCTo4_ick8BuDzVUQl_Iw_DAdWhICJDmUuY8-qo3eRzZt2e9yd1CPGvOYk6W6NzSS9lNekb8LkhVcaYaEmlC1kwtZuEXbvuAfmLb_f4KQ_fLFxA",
+      "width": 3000,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111684837552167073101\">Gallio</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eiGnK00d0_kw0ZtQ2ykW1JGlYBBJ28SPDWG9inZbZYBLFF2twc3mGa7pT-yQRTagbNOYpNoaudBSohNJctDgc7HZtQiyQcTX6x6NIRGpCcNDD4VqQlZSby6rgGYG8gkuKeMwrdHd_zVonhsRMY1v0MLPE1OFISsSWrZlucnbXDUTbGLxIeOWWWcdLC7HINiZfwXtATMlt2uuHCwMlykKFqMaU8Nuee2hKKQl1LcenKC-wQpSmsr6now583EhgV6orHFEy_2178DbOFaWKcqnuOF33yrB2fo-4WvItOZbsHq2qloFXfkmcI3MXUXScbgRO0r8AaUgmBkAB0VHwBIycadMJHJQyq_F6Ki1BkwH9LLPXGfRfI42ZPR-D3e1kcjUuSjjnq-ZY9s9Bj7KLEriUd5cI0vK5J_6sPIVqNXeZKkEWyn2sTSZRO76IYplAj",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113208124583775499978\">Julia Deckert</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fmHV_oKyhLGjJEK_ZXdbJ_uF6VVJkPUoUy9plEMjO_6keNS_u7YGDnDQYze4hZw8k-7Pp3u-hXRMPE5rUaA19H0nAFqTmfqyk_4_BsH6vtKgUwaWxf_zHwT9_IHsLSZKmnnxa360sTexZsC_xhqIGdbxQf1nauyjFk9ELHCjv6ZaDwPzQ2-tSCyh7a5h_oMa4LJ9S7kPpE4xp85RRj3ST9kxjxxjC0hjbd1bWpET6io8cmEa9qCbmyUhQCHzDDuWobhMrMyoWdIXIOYnzalydoMtX4Bn2ViHpKEyFQ_5hMAg",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111684837552167073101\">Gallio</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eilvYr-cAFLUT_PXXjr59yUkSrNAwHGBtzD89helwCcAeJqDz9iQVgGO2wG47tQB4Dp6-O0v2PcS4hzXL2ctjqQfk11pdiB_vdL7D_pxzhwjU46sx_gekMGzcBlZ0sfIcDvhMc76HkAmMGZb4VTE203U6vzWRPhfR7PNJb2beqmSP1P6gykGM9HZnZjRzGjvy7pw1YZ4XN9XhDaUMGVEvqBHcovXYhh5pUmjUmSy48kwXYSCzYdckIjgCHB3_sY7vpchR-FyS1aZoxsNgmZLgDwLn0cqe6eLtdBIZ2b00O6ZJKijkrocnr5gm-CTsh8ofMjDRKdTf0s2_4GLyop6DgrNxOfMXDimq1-2LOrX73ajK3CvCO8ZZ90j0FL-ue0LhprAjFnaRug2arewRpr4M25Hd3MPc6WtwckqOY9Boe0GVqZnNEs8WR5ueNU5S7",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114755848393748465034\">Snowy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cR3wwFYEBrv9_hny15O1XJOrWAyMF_XgJ3kT-TozvlqQ8WI7cveDemTC2ua7-6Xyadp8BzGNCLIymxU1Ee3VkQmN909Q21FQaSrejDDRh5CL8H21JqG9IExq49yNWiRpbleN0h-97v0OGFGdDeX_Au75I4ch182FNH_TGcrAsKorWNJ6fwuRp76bWsh-48-TAHv5Ny5X3j9qUdQHuY98-bp4HvAevGpS-nHOYOVGklNuOUNvxpIBBIErOzMo7uD4sIGAEzu0bhe6-JHrSN2XQQqcjZsgvZIbPFk4oqDK8acbk4BihQ89GU267zXuqPecVRjInxgsg2DUERIq-uACw7KLac0x0meMRia8kg0EqDcdjGQd8SafX8Df60EWX-ZalNfbxrhotTbr5ae-urbIiagLbfRxJJrFJrj3s3eFNZswvaKZtoA_qbrpFkhBiO",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107386613642105468043\">ВИКТОРИЯ БАГАЗИЙ</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dagW3UXHrtOK31odBXcPFeLZ0qrBY4UgXSX4BNzZteXkpPiHB98virUYUGXJq7w3H09E56UssnsEqV0rAZL4Bg-mXuZngw14UcystX9uSOjQc_aWHF9QOiRIW1Q2--UJ5P0QUiSemWhIcXvSexQdK2-NnjmhHMs7O4jY8w7s9nA7kd823VxaXW3AZ2N48CmGDw_4nAo5s08BPpZArEV6nOm0AJ-JF8BJ-fYXBQ4oRxCHzkFkYpjEUN-wMbJqByN5rDTh18z3HRC8PMi40ZXkopTdPPSVj6A8wsADFyZ_QjVZjO-TijRdetlxT2G4dRFbzI5xnEROr2i5omvjkuigh_JvjuCi_p7h97toAuAUOdIdWL0hWo77UP0gmKHjJHGohBXp2VPZszjiZZ6dwhnj2v42OWVomNtLgHdOp_QRfSzmY",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110120425555375020071\">Sundeep Banga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZDLCgnB8lHXdP-aCBMdp2IWLKezvCQdPY8tTotViMtKJmL7knoDFnfXM3eB0Ixp0YhK7xGhKrj2BbZr9-U631H1mp9vdFifqreXE48w47ywch0kOlLb8xIino8D_rEawnZtpzKNgjcLiJyCATyviOdUzicjs3XIadLiVmk_J8AY9qDqW3AjBWJjXuGGYXm_JRgXvWjPCPzE0hqa4OHx07Kgw-0Za_OpA5KvQI61QVhbuZR-LxVhm-GWpWbYwEUAHLwiqB4y7BQ0PMzr9sDLSMWKhqrlOBu_zUZ4seMGbw0iI1szkmJAKKwnF7f49HCgYzMMT_76UoPx47UHzkWizkyt82DoH61WrNbk6lAazKhoIjfei55Tacho-gpRhGFtrwYhv42066-H9E1MrHoStd7RwP8ejI33UkliCKJEGL1Q",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104187213549474000951\">Zeus Ling-Winston</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJSP8JqmD7RqiqyZ82YE_6UN399ENgFPmKWs6ue6XDjYbPaWE44vTT6FldX76gFoTCSg1OvRrXMvVEdV80g6AdzOZoWYPApVKQiJUijYehQoBd1wAoPy_HtXkBH65XMAnlJu6V6hmn2iue3VXuYLOtdHJjjnYEKCiMD0Wb0s2RfitUFaF_sgjaljsPl5vaJlAstSMMuJcpetwDrJAK-e3BakZ7sxtCLnnZjQhpY8o7DxvBpX8pa8ouyGNouWRik3E-gwtaOgkpWIZhqQ3PYKrMXYnuHHFYtgNiY2sjoLzIhg",
+      "width": 900,
+      "height": 900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111684837552167073101\">Gallio</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fvC7izn1y4NogY-kzjRgigohleBGWHV3Ki57fZgPZ160viPnKWbetHgugxisIcDQ6Zy363SmIbFQPv1EkmoCcREKZFGZr1mefEcLvOk6rkZCMkaEmfSCKtw3NZYAqepNfN5C3xxh2hipuED3z6C9pBugUDcAdMzXrDuAvek3-pTzduUvodZNeYO6MRFMEhyF_jV_xaFfWtfKYeX3a_nKIFiSwtaeQdKxYU2pOSEZm2qaofkPDXGCR8YYa0icmINiqfpJtEReDvnBKxbVE8D-Ksop3QNrDpJkV3m0SaaUfg2eaAm0NbIUFU6sibcJ4ICn8fHdBFIQnLxqznMcBzMWsY6eCBv6A1cCfy9MjlMrkzSAsoiGIp_JpHMShtwvMg1WdsqOF221pzebf8skUz9PHCX7v3FR6Q13JbYwsWBYTikQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112545398130595447137\">Ria Morgan Redman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1Jp0e4CiRtgLLPJAiWOm3Jy8CHoViDRAK7laXy6BfyAhfqQ30OF2sHiJ2ozfL3uNv1vH9dXRbjVrRwUDQj50yX8mYj5uLxb-ccQYJQzXnTmJSMQAhwgb2kIMILCnFQZwSPd5xN90YBFrRHxpReDNj2OCbyYdpzYDvl9cVRHDRDw-AhuhV3h-AN9JKlw7K7DCg2e2ApZ_tvwGUdsrmuofz7VEH7ELfLgXUppUMCczkG5NADmIlj6QK_L2lHZAgvq_ijJRJRxUVdlhwH_h_qT4Fxq7BHruvp-8iJRuGB6gPdw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111684837552167073101\">Gallio</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Julia Deckert",
+      "rating": 5,
+      "text": "My visit at Gallio was fantastic. From the attentive staff, to the refreshing bubbles and the delicious plates. We had a vegetarian shawarma with 4 sides and everything was so flavourful and fragrant. We especially loved the cheesy flatbread and the fatoush salad. We would definitely come back for another dinner here! 5 stars!",
+      "time": 1759174653,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Lorena Plavljanic",
+      "rating": 5,
+      "text": "Me & my friend had a great experience at GALLIO! We went for the bottomless pizza and it was absolutely delicious. Starters were amazing & the bottomless prosecco was great! The mocktails were refreshing and beautifully presented. The service was very friendly and attentive. Perfect place for a tasty meal with great vibes. Highly recommend & we will come again!",
+      "time": 1760172971,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Dom Mccain",
+      "rating": 5,
+      "text": "The food was amazing! We’re still thinking about the sharing platter — full of flavour and perfect for mixing and matching. The pizzas were light, crispy and delicious, and the girls loved finishing off with the chocolate gelato. The whole place had a relaxed but stylish vibe, great for both families and couples. A lovely spot for an easy, high-quality meal with great service and even better food.",
+      "time": 1759049713,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Snowy",
+      "rating": 5,
+      "text": "We came here to celebrate the Mid-Autumn Festival with my best friends, and it turned out to be such a lovely surprise! Everything from the atmosphere to the food felt perfect for a special occasion.\nThe whole experience felt warm, genuine, and celebratory. Highly recommend this place for special occasions, birthdays, or a cozy dinner with friends. Definitely coming back!",
+      "time": 1759916069,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "PERSPECTIVE",
+      "rating": 5,
+      "text": "⭐️⭐️⭐️⭐️⭐️\nHad such a great time at Gallio! We went for the bottomless pizza brunch and it was honestly amazing — the pizzas just kept coming and every one was so tasty. The cocktails were delicious too (definitely try the spritz!). The vibe was super fun and the staff were lovely, really made the experience. Perfect spot for a weekend catch-up with friends — can’t wait to go again! 🍕🥂",
+      "time": 1760183352,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:09.867Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6ukhBkFdkgRvuYBp5E-YqU"
+}

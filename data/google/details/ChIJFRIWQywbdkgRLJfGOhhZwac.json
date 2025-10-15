@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJFRIWQywbdkgRLJfGOhhZwac",
+  "name": "Chettinad Restaurant",
+  "formatted_address": "16 Percy St, London W1T 1DT, UK",
+  "vicinity": "1 Stephen Street, 16 Percy St, London",
+  "rating": 4.6,
+  "user_ratings_total": 8756,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5184897,
+      "lng": -0.1328313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5198779302915,
+        "lng": -0.131532269708498
+      },
+      "southwest": {
+        "lat": 51.5171799697085,
+        "lng": -0.134230230291502
+      }
+    }
+  },
+  "lat": 51.5184897,
+  "lng": -0.1328313,
+  "formatted_phone_number": "020 3556 1229",
+  "international_phone_number": "+44 20 3556 1229",
+  "website": "http://www.chettinadrestaurant.com/",
+  "url": "https://maps.google.com/?cid=12088040835439302444",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e4K9R37P2feoQSODSipnDpmg7mM3-ZM6QPhm5LQXnUK7TLZyb6APuvTZZQKeX6HhBR_sRKp6-f07ox1ISxKQ4ef_dvmKP60r8AJcKWui3mcuWv2b3ghfP3GG1q642boB7rKHjLjuEu-B_-TFocGYDhClaEP-Jn2vAUOX62g14BCA9kZayXgmCoSJomTyykoJuTOvMFJNdlZf8HSvsYsGqe2ebEo5rojnjd4bZRvPFGZFuoLzus5e550rMC4ec2bApG51GInYw2zvu131IfUSqe9Y_geICOEOkSxJVcaq480Q",
+      "width": 3750,
+      "height": 2500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112473309731813462616\">Chettinad Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0fDxcwC4F-SGU-KPBPl2GgsKpjA8-KA8ALVT2X0ITqgarov5Jox7i08POwt1ou8A5CvCBXES3NXQT4DkbGbFy8FHWXhC9sxi5Hj5-mKAFRg2mKfU1u88ukdf1J6X6c8DjXGxiEvQG1t0jBfRZ1mcJ-_D_ysc_VXhkTdoWlmQeRpd_JC6UTS-7A7JEpGF4axCqKfm17Pooht6ARrgQS_Dv_brRGB53BKK9L4CTp86j4NLbePCURfh0P5pZZwd-eLwk5KAGVhcKBlFwuDD79F0TUXVq4X6tO793PH3lEgnnUw",
+      "width": 2832,
+      "height": 2832,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112473309731813462616\">Chettinad Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dkHFb7dwz0YEVjA5qYMYm-caH-Ayt47bOoIsnk2Uz2L7nCG_fgAIJbK5U2KY93sok9hwS7xpwCIWifqhfVHGcHZHvczaGZ4VOQ09UtcSDRhOwzKpCmssIbzbu4DO1VAUE1ZK5P6K3-mKgOKC3LgZOEnyTzlBAJILRbKBHEYacBttPkv0diSFx4fvDlMtjd7fnukbEoHv3O2FtWARumhlAYfS28rfQfA0I-4SBZuv9aev6ZTjcn9HM4BFzBZzXA-SodJadtIMFqPT7b7okGbGr-0uzoREFgl90n4YUfLqYNMQ",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112473309731813462616\">Chettinad Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c57cwLl-7Lp6g5DMZGMbjnZvzx6Lt4t26cYmX0P3MP9GTbEp3LCJOIYr_ksjX6l83Bh8KdRKrOZyhbZSlULQld97Wn9mBeAy9Gw8SyRphYBKxB9D6eHQSA9KgZyuo87ESCiNf3R-Cxr77vJ7uuuK_zPF9BbN-bLgGnJGAGdEKOYKMMVwpLX4nETHcaKQAzgTlK7x17Uqpr1861ZZCqM1DCBgmbQajlu-dESBodreBIs735ZWSBhZK976GeitfhGNDrTN1RDPWEvPVhE25prGwOQrld4Q3MnpmKS3udI46gtdQmkHT4BJ1MK5vm8aHuvuljA09me9lpdBTLoCHv4OXlMIOxQkLsY6JskVU9rsAxH2uk5-dkT0EZ7TuKmnMrSmQjgLpHfVI4xmKx7TRzsQ5lKmrYItyHVBh2OF_5xi7UFd-X1iZjvP5HdnCxwrvb",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103707102981622209956\">Falak sayeeda</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fei3abpxfuobnOjkeDcJAV824sUqB5ynB7Dq35_xyFHlHyzj_p2lqFQDOyVmmecOXLgLrRWCKKLwlJ_fRSQs4uhfw0GDa0-t630OCpW3FnMqcSWgJ1KealYSJ05L1yDzT8kagY7I-J1BlhuF3KHkuFlUvE2Q0sWjyBW_HFelyUolsxCF-5jj3fePBYZvJgWQvZ7tkUY09iCjT0itORVFt0Oqtx6jy-n6ccVw74YRUvM_hwsobKK9BT_tqUEZw8bDFbtKjDojA-suU4p0oTTqvjYBekKO3MYBeXgSNxRLNR7TdnfTVreL6zqUYY5-kegvI1A3PkNv4H6H_GBqK5gdCwBQgYm3z29LBDu8YRO-mH8SyE3s5GaYD9lAQEZWBKMbKKn5t86KQ-vUfuJ6debCgUJEt-ZngknmSXTakYz0GxosvXzaLkwYwmbDjocs-3",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109112655853000938885\">mahima yonjan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNly4R9XdUEd9dRExh9TuNUfg6ztF_IEZcxmidXkT7l7Uf7B4Mk22-7Mck5dceF9Cy4sC7SVMPAeV2Q5gDumOyuAKZx_oTPYndETQU7B5zqJ1CnY6-7_Eg6fPgpbDXXkV_vYL8FF2NXmtryYhNTuxQU05X2REopzv_0Id2lSYGyW5tpLnolfvOydppWwhxSg7gVWxcabNUTfok4x8XychHbCCIHyX1J6fKGeSqsGps6RpTB4ubNF4pum7PZXyjrLbBTZAFkI7etRMj7WpuaB5EX8AWmfcfUNXCiPkVenjUhUn6nqoq8_oO0h0ZX4pJ2EaQn0I0k-kcfLOCzbYrxktwvenGcbvPANPao6NcrRwC1EuK0Ou9VTI__zZM0Q5FC-cPPuYDIsIKb0xMghurV4YucgPAh8TiCLjcT7KVZ19Wqs0YvFNrCAZMPy3f_NyZ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105176901216982766002\">Sairam Rangachari</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fckB3eNbEUezwO8ORDfRx02X4eKDHh9TxSPDKDq4kRSpnH1Lp1CwXtJJfbob63dEy1X-cWnvNzZcaCP5nfbveT2yF_UK9sGbGYvUtIbTfTUgHSLpwRTut3JYuer-aWXAEdrKLe38EWiHOWEcI2Y_GqwBqDUDS7E0LQvIXLz7gX-fmJbQ7vhB7ugaIisZPQJvUtzCA3QroiSZwDrOWOgLCAwk2gbeJVK5OhbXsb5DY7hVhJM1KzYZOKStBtG5pbmFzFg5E8DpJ3FpvTQn-eGKwPxNCDfkzMrvLCjAL9RqKpjSmCfmqPx4600R73K1tP4KhkCceKa5POxQi_Rolbm_oMzTpB-6sz8Sa6dAJNOB8Ujxo4YRFwSI6kQrMRIDGnwOq1RxYSndV2AxXN0M5pwBSTqrmsOdq1bYAhkeUjK19J17_9pQ8neAQ42P5g9mjZ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115331947666320683231\">David W</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fWjAC5CE-UFxPTLj1gPu4eSnrGmkY222BNSQpKL6ndUMnt1X9NpquTmMferUF30YdSYsYfkhJse3C3JjcWl0gtziKuRr7uscK5oEZkXxAlshFRtvEfVCHBSBx3Skom0oAbdfUbFDpxV-wEcVijP_Rs7a7AXcYmiglZ5l_S_A3y-fZZ3nzR6Vap3EJNDW_ufEE3SlaVuzevyM_Dm3Ug9AUrSQ7o3biJzwjRfETZuWcjYChMbM6U1wn19R_5bIbGt9EKB8Maqh_aOuhZTmB8gZTa1bDCXOI-CWF_tcBSguosjITSULpe4yQhCfjG_tL4_-F-kOevrvtV5C-rdQVtUaJfQH3FOY-vyvPUTUy4uklVt1VQpeOLFgwYRS3CmVL0lgNxSNSM61b6KxxR38VcP3Rd60nLjgadZ0fHg0GCqNxu_w",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103148475739056484789\">Hanan Abdulbaqi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cixvoiIQrcU_jKefPFr-EatDfa7QKrCL49x4pbpDSTZxHiPJvLjGY_NhZ57aU9BCsdd71dFDQcD2QJUt3x7ZkmxrNd5hbj3mPGySbtmkL1Z92mUy6-ZdcV-d4QU0qsPSDDJvK8fAPIlo7XB5fBi4_2RgsqiPXogVwSWuMs_ixbkYM4QZP2xppUL0Hj4-Y-nEAnXg_qUfcdGAIpPEg8A5zHouOM7hWQjdmoTPcHNwIxdB0Kllfw4b6tWSQBjYS2DhKeqlLUE2YbsYkVOJCCbo1hTOV9JL_tyThLYCJkRAbG2oMocUXoDadmxAekBcsSh-wd8HsPpvumhZOF-2HID4O2DEhmQ-u3fdeaskzygYSmeN0U9A9f30YwfyGBRPGDsSUH0YAprJFcPIhuQbKHUA0ZZU04nl0LMUQJWeoc4Q4Ds_zHr85P8AgpwmIuHA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114128972547637643469\">Ishan Akshat</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fClX3chxdO4rp91d_ecUhC5aF2CDV4bntoywf20Th9iriGoN5iCxsxu395eaoiaQiULXrcVwCjPDb2PydIZyTWp2krVezeBjsRMnyhmAsZa54Ulyp6BpWSvObLivT-E6XvjeCmkQSSQD_b4gDnydBPvOA5LHvZ2op3GrM7YuODdEte6hbZkkw1sJ43jLzc5QyLb67By6Galt_yDfJxs7KgA8uRu3qcLJ-icLT6hNgEbJdEFj7FzlTySxkJNYYB-rJIyhxvju9GpSJcQelAxQ7kAX-Wh9mDfkcGh7g0qcWEkuQTssjGBoLbm4cxjgiSL-yTu3dU-jrn3VNk6LuI--9IEZWNj1GfRIHfr69gLxD_HY4wz1mRpXIlOf0qnsxTC_O2rmoeFqf2brBQ3HzzxE2PVL2aRNAVoVASYQ9qI80H5L5Lk211qgUVvjU1YEfw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109929896169501059031\">Jiyaa Sarkar</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Tamil food with many vegetarian options, served in an understated dining room with Indian touches.",
+  "reviews": [
+    {
+      "author_name": "Ajay Ashokan",
+      "rating": 5,
+      "text": "Chettinad Restaurant offers a vibrant taste of South India. The Kappa Mincurry blends spicy minced meat with soft tapioca bold and earthy. Chicken Biryani is fragrant, with tender chicken and rich spices. The Masala Dosa is crisp, filled with flavourful potato, and paired with fresh chutneys and sambar. Warm service and authentic ambience elevate the experience. A perfect spot for those craving traditional Chettinad flavours with a touch of finesse.",
+      "time": 1759655476,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Zhao Wendy",
+      "rating": 5,
+      "text": "Best Indian food in town. It serves especially southern Indian food, which suits my taste more as I love hot food. The lamb madras and the house special king prawn, sooooo nice!!!! The service is good, and the decor is very fancy. Defo 5 star review!",
+      "time": 1759527423,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Silvano",
+      "rating": 3,
+      "text": "We walked past this place and decided to pop in for lunch. We were initially the only guest and another table came later. Service was good. I had the prawn curry which had a heavy tomato base that I wasn’t keen on. This wasn’t mentioned in the menu and I was a little disappointed as I had avoided another dish because it mentioned tomatoes in the description. My paratha was lovely. Restaurant clean and well presented.",
+      "time": 1758365146,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Preethi Shaji",
+      "rating": 5,
+      "text": "(Please note this is a independent and unbiased review based on my personal experience alone and not sponsored of any sort)\n\nHave had this on my list for a while now. I wanted to try this restaurant based on the top\nReviews rated in Google. So went here for a family lunch.\n\nAmbience: The ambience is simple yet cool reflecting the true Chettinad culture. Place is clean and again too small or massive just right in other words.\n\nService: had only few people considering the people in there which made us wait for your turn to be served but no complaints other than that. Probably good to serve people with water before asking and it’s one of the important cultural habit of Tamil Nadu to serve water first when the guests are allowed to choose the menu.\n\nFood: 5 stars straight. The food tasted fresh, full of flavour and fantastic from the moment you taste it enjoying them all the way in.\n\nPortions were small but then it’s central London so that’s expected. I think if you are going in a group or as family platters were a good option in terms of selection and quantity.\n\nI am posting here photos from what we had to help you understand better.\n\nParty venue: Also, enquired this place for a work dinner and the menu sounded promising for the price and knowing the food tastes good. We didn’t end up booking here as our group size increased where this place wouldn’t fit anymore but otherwise if you are looking for places for small work gatherings in central London, definitely try !\n\nThe guy working here gave all necessary details clearly and patiently forgot his name else worth a mention.\n\nThanks Chettinad for successfully bringing back the authentic taste of Chettinad in London!",
+      "time": 1746088527,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "jayasree cherukat",
+      "rating": 5,
+      "text": "This was a pleasant surprise! I had one of the yummiest lamb biriyanis ever. I was never a fan of the curry we used to get as a side in TN but theirs blew my mind away! They also had “walls chai” which I have never heard of before which seems to be a chai liqueur kind of like Baileys/ coffee liqueur! It was just awesome 🤩",
+      "time": 1757183108,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:15.324Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRIWQywbdkgRLJfGOhhZwac"
+}

@@ -1,0 +1,263 @@
+{
+  "place_id": "ChIJ6QTiyjgRdkgRNa4eI6iXAhs",
+  "name": "The Barbary Notting Hill",
+  "formatted_address": "112 Westbourne Grove, London W2 5RU, UK",
+  "vicinity": "112 Westbourne Grove, London",
+  "rating": 4.4,
+  "user_ratings_total": 176,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51524509999999,
+      "lng": -0.1949189
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5165776802915,
+        "lng": -0.193654869708498
+      },
+      "southwest": {
+        "lat": 51.5138797197085,
+        "lng": -0.196352830291502
+      }
+    }
+  },
+  "lat": 51.51524509999999,
+  "lng": -0.1949189,
+  "formatted_phone_number": "020 7870 8877",
+  "international_phone_number": "+44 20 7870 8877",
+  "website": "https://www.thebarbary.co.uk/notting-hill",
+  "url": "https://maps.google.com/?cid=1946284737376988725",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 5:30 – 10:30 PM",
+      "Tuesday: 5:30 – 10:30 PM",
+      "Wednesday: 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fON6bpeqwj0Ja8lJBVmUXza7MTYI0NAFUXutIsV79xref5E6IlDdvn_KgdgQDtT3vP8RyBvBURxy7Uy4LV182oGuXSpaRXQSoD9N7rqKdrCebGDjXCg6GjYhPdN5cNQkliEXgn4sY00gO98OKRgN_CHplJdDZ8UdLrRBgO1elXy3g6Xsqknbtxk63T5AZQ3eL8-ZH_nLFWABESKddvCumhIT77REMIk-dtndLUKAIOo8LbeYBNtX3rdLH8xt79Uk4jsojwwQ3pQ7dSCpmz1ptXAyyQ9slV9zwkH2WNm_W1Qg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114825694827407479196\">The Barbary Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f1XMxFz6dZdnSu5RM3Kg8KN0LZymZSPC4fyGUQRBm-zpU8-sBrV-CCPY7ABs7anpIoek7F6SiYdRx3t2ii8vHj9anIHLNTGAjL0XEYK5kKGvbb-5DJjAznG4UNP4Ir3F-YZagKBwL5RTQNiv_y9EN0xKyGSu4jB8UUC8uG1YisAfuNUiRcuMDRkEAU49ZczYxBeb6vh3nlLeKCbws6DB7KDfGJJ-5fjKjuvE62vVaAsPEuB4FWZVl73HlYV5jN4es3cjtZKZMbhSxfaBGSCS0XFTll7QSSE4QNMAavCpPFNg",
+      "width": 4799,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114825694827407479196\">The Barbary Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUQu_en00kwkiw4XJhG37rVXQwLzOJu7gTAtxeNpgp71nvnkPxkOTne5WThWxPTYf_uZp4PK2Eu4_YQki8Y9wuwavqTWGYROeat52WfV974SmiO784wbAhNG-Ud8fg-8q4oeyFmWa8fanu15xQwEBrXVhwtB6jEAr2pScncXzJAAmjJjpLod5pP_rdBqy7aOSjXqWVckErH1OI3vdqbBF4yPMY6-g0txafn6EY7852CfrW4gyQ8YcITohqZPJ3-hPB4gdXHDnaKFG7OBzR5OrZX_ahHgX7zzHEvWIsAC53Rigf1B8iq-mQWasdsLImxM0Jw5PqFaERQiduZhPXoimf4HnSjz1IrIbNcUXknpTn94zi97ja5g-VOo4UJnNp7Sad4kUS-nOOUHrZjSjYfPCUZASL5u6oLpVq3G7VkwnxIA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104199083341369535389\">Adel Naamneh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dm1N1KXX0A6c7gikuxwRLbOPnWLudl4cHFL8EyPbRgeH8ruwDlcEDUpRlBQSfKlN-5pUGMnhnjKd7_jPu99A7WrEPks85d4VFfd6W0HPYSfw-QCRXQ_s4LFVAYVFioiN0BEmhBwbAJmdaGhjF2AN-R6IS815bjmzNZDHQlByBSaXkgE1zlOWu3wQVqm3yHWymfYkhC6J9c55ovJBLrL8zxCqsQLuA0KSJ5U8ovGg8K754QE46ajJld83mmEb1Xv0HHFq8nCsPNb11WoLXPg16G9N0TOKbjx4YidtObbnnAtiZT4NdYPK0lARC1pIKlyUXjIpKE58yEQPr4oP2c9YCeVQR-S7sWkrkcwygJ1ofrIBmiKL50WR8r5k2-U3Unk-B88K53DvmfQjqMjLF9I9Tli_yb1jSEJQuv0wPHqb10vYeG",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109982015153375760750\">Sakura Momoko</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eJwPcrohcCk1BAe_JhnRt_FVBQJRoyraLiIe-1pH11SJEB2gvb4rxEyMPQ2Pbjt0iFIsGq2Yffr9fnSi518EWKgKyD_ipqIQl8pkPN1z3FXzDhV4ciZRGCYxQi7sKe7hXGC3NWRg6OMlb8B2EDsAxjsSidZ8He67npUoOTSfOKhk2HsAKSwbsXenFwk-lRL97-3S8lRI9nGSwI1OM4i4j7BPaBUx8dqtWvpyejoFHJj4w_1v5egdRa0pwzpWPR1fLkNduJPlVSfITqi2t_ozlER_l-4m6m-Z_6Vyf0Xsa7FMf3ktLhlFXR0DDmoa5l9js-DOE1mkHPIT4WcaMiTUFGg7lvdfPvCtMdsH_k-bBDiBCAvuj1fhbhoKcAMlyCyRoDWw2-vS6XcMMm5SeOMgD-hn2jcji0HwnJdpk4QNgExg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114398070844949878436\">Ash Shetty</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ePvYcmSO6g1ylsW5pZiUuolWjbDjmzowZsfIauSIkumq6n1LcCpMsbF20kqOlt0rCgpcUoqZ8bFskqItw_Uk3dBAM_LJTac94oV72YV67HRxRIRoNJOKfnTYr09R6FICSVz1ZfLgtqyu_fTx4aGdQpzXztIVPZ6iEsi0AAWglOTVVzMB8gLSVHw367VcgN6kC-22-D2Kb_LfKb1QpXMP9ytVETwBdrsWCbSx4oz2cPIBar4z8R6WZ228-1uOL_wAVV4-fOiHGLUkq_KS0oBUACz_NfV5qm1FLvra62I74wnQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114825694827407479196\">The Barbary Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTX-AqMavWj7scOPnP1RFqJH-rYZgddTFeJpdHETRae8vF7O8kvT5FZfJuEohTMD5eKzbR3Ly98ivR1ISH1rv6rMRMJhCN3aWWOpQh2liThsbXPGYvHc0LOs-FKkaKsb2Lc7Sa9qT7QsjL9kp5C9sFRRGj3w-KfTxOFXEbHAc1Kgk9hvtpferoox3wpH0oISXyfjaXMkyHBgHnBTOkjHUyquFCgm0NSnRt9CObaDZvA4IBbGrUiGSeWp03VjZpnJtFGA66jwV1awg6ivXAXS4RBduooqhmWSRlq4eETvmu917UuLIUVPeaqqLaM1bM810L1OpCsu4NO4XNidUrjCFNfhc9_-s98xhTPNZ8w9TPT4SvyDCU9gbgN9HIWhSrNgQzoChTDv3x5nOz-XlsfRRsYudDspB3teJbeboIdeE",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114398070844949878436\">Ash Shetty</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cIvVQ6G-F2i2sRmsFcL0c31T5GkOIaq0cinQsE2xll-ydZN3ACNR6OaKbTgAZFxHJaEWNH8EEUDNUu5xQmFNAG4ErGvB-nkTmUn10FTvF75FnhNyaYcZE6HYaR7p89aEPhHHKobfa3UkBPsFV-G6wosy3kif2ezZsju3p-XfnLJ1FGKBNcAvk-_YCA7-vizbFM7Q_0uzxmSmAcVKADaG_411vf6BUvaIeBDiThGoO31fh7VX-jSyPO1Esp2Kg1DPByzN6BXPYak5tnJFdFP_T7G4k1_KZ0OcYnK7blrqtv_SScnhrunVIzL_RCadPGFFVEXdKg6W6wUPLygy5_ykdkMZTr9L-0fVatbKnIjRBhIhKGbwkGaNfewf8WPGxzRX-4nCNGdVwVSrwR7xJZPZQ-WLaR5N8tceeeSsaggnGJ1Q",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101470523591048623394\">nour h</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fTT8j8BsN7K_JjQnLz7KX8Un2jCmFkcjH_hIOLJIuUDTVa_u7wqS1YQYU5GZTbRxiJ6FDKQonIAcA4lMj3fQCuDJ9H98UOubHrUfHkmENpBXcWKoVvtzXzYWWX2l_bxcr1ow7CMkd2pPbZb2tKwnLmJxqP-r1p4v3RZMVy5aZbs324dop4-Ib0c6PnK07YRfc-bIKuZK2Bamt1lt8Qwr-SMIpPbrjCA3V_MlmyRYpnu86XxGGKLSQuQBxddOoMqxeFoExhSeROpBnlxi6B5ugwGuoxpdWN_VYl_vYGgraouhbT37oAOPucLCuoGyobHE0DTzHl71Ho92tSoNCKlcsM_BqVsewTozSsw0sMVqG3t8Xv9iqoYwKLQ-xyNNtYilNhPg6ymdm3agmIs6cdy0gCBdLV9TwDbdXV2uKgfE9Urg",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101373908700552487219\">Ch Wo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-x4N3Bhb8yAEdQPxI9go1erVD85YsTYSVvt0jyuIvxYpxA7NAY75PfqSxYdYANqzQqdG5PPhtBx7mpZQsoxgGkkBnRuz_30lmOncQvFq4qDr7RpJuR3ptDmuDAqtQebB583_t1m-xRBz8zEAsm5uwbs-LrlvaPZ-U8jZt3qswan_ej0S561K1id2kttgz0RdLuh3piznqp1JHCp9hgUnSgV5Pmx3XBWltdufiZ6skERSKqJkDxjTeZlv5uBDdZVUtr_EF-pNBhWVJXG0RUT4Gg10rHQSWa1gaPRFArQA9NNXrYhLBvgxF6yXXkx-gEzpuC15GDNKSNzEU_PCRMHBvCcHYAyhg0OfcOXfMp8RGqbvW7D-knPQp6F7LYhWy0GDswnZk35n_k3GQnc6F-zEcweRkwn-gCvbE1_MGlV9O5ZuK",
+      "width": 3919,
+      "height": 2939,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106940218410473080523\">Mr Wrong</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Saeed Al Noori",
+      "rating": 5,
+      "text": "We had the best experience at The Barbary Notting Hill! We tried everything and every single dish was full of flavor and beautifully prepared. The atmosphere is vibrant and stylish, and you can really feel the energy from the open kitchen. The service was absolutely amazing, friendly, attentive, and made the evening feel special from start to finish. Highly recommend for anyone looking for delicious food, great vibes, and outstanding hospitality. We’ll definitely be coming back!",
+      "time": 1755705154,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Rishab Mathur",
+      "rating": 5,
+      "text": "Absolutely scrumptious meal. The service was excellent from the start. I particularly enjoyed the 7 Spice Lamb Rib, the Coffee Rub Chicken & the Orange wine to wash it down. I also loved the extra effort by the whole team when they signed a birthday card for me. Will definitely be back.",
+      "time": 1755118710,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mitch Helwig",
+      "rating": 5,
+      "text": "We recently stopped in for a martini and a light lunch at The Barbary Notting Hill, and the experience did not disappoint. We were greeted by the friendly head chef, who works behind the open fire grill, creating the most delightful smells of rich Mediterranean flavors. The light from the large windows lets in the busy city outside without the noise, and the architecture is modern and beautiful. The cherry and sumac sorbet was a great way to finish the meal. We will return and add The Barbary to our \"favorites\" list.",
+      "time": 1757001028,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Aziza S",
+      "rating": 4,
+      "text": "We had been planning to go there for a long time. Maybe we expected too much, but the food wasn’t very tasty(sashimi was good). It was good, just a bit too greasy for me, and the portions were quite small. Overall, it’s a nice place, but I was expecting more.",
+      "time": 1757098582,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Aris Ganga",
+      "rating": 5,
+      "text": "We had an amazing time at Barbary!\nThe food was absolutely delicious, and we loved the idea of sharing dishes.\nThe only minor hiccup was that we didn’t receive our main course on time, but the manager was super helpful and quickly rectified the situation. He even offered us dessert on the house as a gesture of goodwill.\nWe paired our meal with a couple of martinis and later with a lovely red wine, which was the perfect complement to the food.\nOverall, it was a fantastic dining experience!",
+      "time": 1743008644,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:01.787Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QTiyjgRdkgRNa4eI6iXAhs"
+}

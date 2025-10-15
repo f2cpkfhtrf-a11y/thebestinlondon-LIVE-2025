@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJI1s27W4FdkgR6UFTIUl6WXo",
+  "name": "The Buttery",
+  "formatted_address": "135-137 Ebury St, London SW1W 9QU, UK",
+  "vicinity": "Lime Tree Hotel, 135-137 Ebury St, London",
+  "rating": 4.6,
+  "user_ratings_total": 837,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.49338650000001,
+      "lng": -0.1499533
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.49476988029151,
+        "lng": -0.148673169708498
+      },
+      "southwest": {
+        "lat": 51.49207191970851,
+        "lng": -0.151371130291502
+      }
+    }
+  },
+  "lat": 51.49338650000001,
+  "lng": -0.1499533,
+  "formatted_phone_number": "020 7730 8191",
+  "international_phone_number": "+44 20 7730 8191",
+  "website": "https://www.limetreehotel.co.uk/the-buttery/",
+  "url": "https://maps.google.com/?cid=8816212200064762345",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 4:00 PM",
+      "Tuesday: 7:30 AM – 4:00 PM",
+      "Wednesday: 7:30 AM – 4:00 PM",
+      "Thursday: 7:30 AM – 4:00 PM",
+      "Friday: 7:30 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cRzA8c7OQFnS3A-0unMdPWm36nLulqd1-rNNtGTPq7F0KJo3M-s1LbN0NRWpcQ1FOJvXJi2urLgOmFsb11S1KUoO8zZ5S4Xvw0nbCB3-6meDvCnWeDxDJlc9_XykLKlyDwEEbhI-fWNVIg8AACXfqW1PQ4efsnQJz2a067ILfuLxNFw1CGb9iKie9YxSfqB1ucTQ4Jv_X_iKOGT-b-aMtQAOfDn8HXOOXZ4Iv-x0dtEE5bHZxE8Dr8gJ86bPFXE2nVS2kn3ylU_KQeKWUgNJpQtsfzFDxRnywBY4sGWHMO_Q",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115460498612834074627\">The Buttery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e4oTzXeHu_V3Wz8-iIV_woNfphKBk14WPW6M8uOCLPGKeWMYmZMacze68Eh-qmGL0wPf2hxA3w-KHOya0ipCYm7NWMvQg2V0_3XgPGEA8FGlyL1kPXg3j0ZNWd0rKeP9jf4P1AgVK1cqXHgEPGMzH6JZvgTXGXV_j0XJcE1QThTiH3izqNg1ZlG3dH6WRIKKA6KSNyh1MD2akdTS6hbAzKlFj5Ecv19J0ZQeYLH_Esh3XIjkVT4Ol0-z1NWSYcEWUidY1tt0tFW-Uk8-1u-XEqwJrErKPowSQeMPmd-j7UYw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115460498612834074627\">The Buttery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-6KP-BdFY7QQZvM9vTcHpNbMPrzbtvco6egomCLT2UPW10r7IGEwWey_uurSAcUXE7O8Kx-4b9z9tVmdCmm1z-B_dhLCISfxVdfr7ixJaPMLBInvBQHs8UhjXCgBGTAMPH2vn-BF_LaEwLNfZj-no8TaqYsSSuwReM57TxlrCi-U4bPGCvvt9j3VQrEieaYFvxSvownFAaeDWGj0zrsfhvdKPaECFEgeBc2QWc0zq3ZoIkgPOrhGtgpqkuvV_wID27b4Bb6Fy-8awF7U3URR4obC6vbP_7NcI-lPGitEwjxNWY3Bvia9jOR42FQWzh-x2ieqGa4nssZx2ePL_SDn00aUNvUC2m8R0QTh--IZm0pGDKudVDnoZMm00CHarFWOtKszEvT6m1C791DaBblUK0-ILs_lIbQkEDOmM2vVYaKbtNRpDVkfJd4egXTem",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118297995400824066632\">Arwa AlBuraikan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dBteXd0bn6A_4fponZ5BqW3cwBI4vtoREVAimW8600K7iwjnMOWNHFHy62d9y9S1sm92UMv7F41rGF4Te9PLL65wFPtcYB-psn1mbRVGz3NLmjOtAlLsNSfr5hac6uxJ7fscvkggHALHMMnNqd2-N7sWo9VixSWWGHO0OdS2wi-az3PgrU6GaZnbUY8TK3yl0CVnjrXKHb3PBI_tkTWoOJ_OpZbKce_CeOVDOv0Co_9tYTdzu-Xrx_RXhBSy3wLgKRLfegDg45N7LhihI4NbyRS4HYugDM1hXcndb3XCsKhSVpiSLftafow4YlfInt0zqysRiergTk2LtUT5b2Dmu8NYWUBtWXJ9--xw9kqkPWcmoS3G9SzKbNuTk1fn3_Nh4b2gvHG6XAjuC7u9Uhv2CdkR935rudNWy7Jyx6hZSeVtkZUNWLxUkFQjIRGPaX",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115309009570365844087\">Morgan Niu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2egyDQiA3SKoyCzCSmqExvfpm-zRB2NuBwbXQsDugQrMEIY8ml7I7dulIjlfmh5UtTUsfNX8zBd8vmN8uwIUvxH6goR5nGLZIJEzSrbEwXCMKn2Q92BeyB0wKU37i5G972j0inJNGE_YthjLkia_olm_miYIvXMqlM5rIZGpiq3P2Nd4eQJJr-8i7HSRK_e77Lst9mR7cdb5oRmqTdEU6fne9xqLzM-FOgqnZh5Z54SWVxBgX2p1IlfAgd7aJ62ZaedCOI0DN9HD9opvd5W50J4Of_wKuzFNOCUl13W0J26Yltg7h6o1XpIVPZHb4GH8ySiCzAce0S0IiPw1bflEz-Slp9e3e_LSu0NTtkEl7PgUxtShy9e87_qWVUQZlGTFoacrAKYsB0qLySW_4Gt9AfGRiCIJxokhi_R-oNv6iI0Zgo0_Jpd-gvybWvAfA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111052572055565543790\">Fahad O</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-1AASu9vcEGt1JS7Mhio1RrRF_O-nhu4fyDVBNUbllrBAyaW_UaUY9uRX1YPzYqw9vOSJbuHFTRcW1Ljy_QKeanwwSVDJZky1y_wpSOTt6_EVgi9ZDj0dWHCffbquDPZfCfxRgfTR4pDzxMXxdnFOvEQsnX-sM-4Gwxh6zgNNlCIs0hrGvmanEvWiSHXC2TlMeBQMb2lx2aSQOdKiGOusF04HzWIuV1isxtXubCTPtDf_VL8MQalUZHtzSQUbqZbLOFR_wYcBhwDGwDdhQ5JMbvJFUPShZcJQ5CF56P5lwimWyWYxNWOufljYf7OesSdkbC7k7F-D1fjb6cBIXSd9kPicbBZ-YY62_ezpTASjP-yXv4kRAjcbeztWM3OFmxlZFKqFlrkkRp_9sDIpUvGyB0FoqbzY3tD54TssjHaGG30c49pMJF7NRk8rlw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103817494674012651456\">Fay Τiger</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e4NaCdV-KVUyaMrv3aPAhwAMAlNs48Yo0SBGhm6j8haQ4_8ppw6OTkjB2Uqa1_7y0SN4MHyFMsXKYMt82eHljmrluY0c9zmU3Gx33uroPp_bp1tk3xXXP4DUd1ZB_hAEAvHYhDDxg1J5uime2W6RgfcYxf3ctQVVI_H4-wEa08xXhaJK3qFKI2wteeqfCF-yjXFmLKYcEWUwdwbdTP_sTlB9yoPUGF8yfYNCzuPWxyxAzal30HUhNkgdqlJwi6unCSMVgamLt2Ajp1tr1gy10rJFIjM28w42S0h5P4oMv3U2PJxsdhNq3rhaZRjnGOQOpLfVwbUB3BixDFP20euTuvQOf8_y5iYAm8spP0ufFa5zDKb8p2VvkYmFESGPT2fTJhIl6mEA3FlPxKlOTdtR2yiXSS4NEk8GEY2y1C8bWeAbpKkPPbFlgcCUsYde1V",
+      "width": 3772,
+      "height": 2829,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100945253071433643160\">Frank Heidenreich</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fDwO-TNl_qNfdPsvwKfJIzax8q3V5BNhlpirYoDJBdris2F4VT015rorPp7tYX81lB4dDCUGj0U9U3PLQvPHTTaaf4KhMoG2CCjhWX11iC4BPQJOEYFnebONNRkpsXBxPFMSvlpDqboxNbAgX5XVZrq2BCRE3w5bOv1Hrr6OCFTWDEgz-s1yddAi4xBiAQNdawD6zVQvHdywPlsqAkOLsHvKvo9D2zAAMiyorzc4fhgA144tugy3Dxr3M-zV9Ce8J3Te6dSxx0_wk5cSdN2frifOXvqIaR8TTLulwoLqL29knMOdyd9kUNETnQL6ZJXicJZfUXvh29wgd1vudEwy-KR7QEGRYoGi4z_xJ88r6L9SsKGhRgODNGC_mUwTWlo8zwT3M8jMahzKrGzKdZiqCl7TqMTZBGKPOSjtvzIxtBag",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111419811719415948590\">christof duero</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e6Za3H5ti7opKMGNSG140gB0wBTzfkKv_6Iw-QvyjcNem6RiTzpto8pgexmWg1sjXBLLMu2TIEmMUlWi9foO723hjLWLn6IcJnb4ZePBP5mrY13mLHqUkBrvlrNCmxswEvC6_gWw343dWJ_u48BCCTT8xstaT9gX6hFWVtG1hPsQRcVpCrXyxFnWQEBBHdXluqSDsHJKWQdTrWwo5KShI7R8y1rjYK91GdWiLUxpBSwm2Veh685rjKm4jIfDeTLXa-j30aDklBP0Mcg2BoqJ4HpOrHtB6ta1iDtciDQjp166xmhAaQ03bF0NkuE5eO5YzcEz-jlE9TcdwlHfqx4BdGXeMUCpLJUc7YlPoBCDCK1pwIKfWBRj3_BmGre81KUUCFXUoRkszLQFHFe2OXCowTeInC6ZHUhQ8xyIBzsR9JpXeO",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113070347242541943673\">JoyC</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjmHEYjFWeQZ5d2_1RMK-IZr3R0fyk05G61RYtaphQs5keU1AamJYrqpdmCJDmmNZry76KZoGLOsjnZVbxbSdo7YyxKi49NAUcN0HBsgLhxMcYUKUhYVAH-DsLDQCVIyjQSVGoZq5zwiIlSmQyrG_1HRhEIOu_GOI29RkXD38HX9s5QeUxk1DiY0sI0xw_88SIMOJGy8-fC1WB7WsgMfS_qYpYZZgI1x8pt5NpeKPlbm4ASqaOP2M7uz-dqBaRvMwJrc99tFyvCCpg1j9xIeI_hYt5cTi4CrZHgU3VmZDFNbFQYDZVqopjWUN17qD4Innjcgn0VuNUOEC4ChXW9L9i42qSu35JKM5dXjsCV6daeadgAhbdjnP18QYLBIn9oShpPsiwit1js2bLmbHQ3hfk0m14cfSR2siQAP3TX5mtjvS3",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113070347242541943673\">JoyC</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Lime Tree Hotel’s charming cafe with elevated breakfast & lunch, plus cocktails & garden seating.",
+  "reviews": [
+    {
+      "author_name": "Fay Τiger",
+      "rating": 4,
+      "text": "Such a nice back yard to have a brunch. The staff was lovely.\nThe food was really tasty, however the service was not so quick, we waited a really long time for our food to be served. Moreover both of us ordered something with poached eggs and one egg on each plate was hard boiled.",
+      "time": 1756909376,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Najoua jojo",
+      "rating": 5,
+      "text": "Absolutely loved my experience at the buttery ! The atmosphere is relaxing and beautifully designed, but what really stood out was the exceptional service. The manager Artan was incredibly welcoming, attentive, and made sure everything was perfect from start to finish. You can tell they truly care about customer satisfaction. Highly recommended!",
+      "time": 1751312395,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Morgan Niu",
+      "rating": 5,
+      "text": "Beautiful and cozy. If you want to be seated in the garden, you should reserve a table ahead of time! Coffee is excellent, the food itself is just normal, not too amazing.",
+      "time": 1754243919,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Inga Trifan",
+      "rating": 5,
+      "text": "Very tasty food and coffee.\nWe sat in the restaurant itself which was fine, the garden is probably way prettier.  Amazing eggs royal, probably best I had in London.\nRestaurant is on the pricier side though.",
+      "time": 1756196157,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Arwa AlBuraikan",
+      "rating": 5,
+      "text": "Loved it!! One of the cutest brunch spots. If you’re looking for a relaxed place in a calm, charming area, this is the perfect match.",
+      "time": 1759579897,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:30.876Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1s27W4FdkgR6UFTIUl6WXo"
+}

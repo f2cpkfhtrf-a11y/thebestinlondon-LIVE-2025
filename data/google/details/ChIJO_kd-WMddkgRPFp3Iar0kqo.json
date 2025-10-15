@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJO_kd-WMddkgRPFp3Iar0kqo",
+  "name": "Marlin's on The Roof",
+  "formatted_address": "45 Curtain Rd, London EC2A 3PT, UK",
+  "vicinity": "45 Curtain Rd, London",
+  "rating": 4.4,
+  "user_ratings_total": 99,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.52367839999999,
+      "lng": -0.08056139999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5249866302915,
+        "lng": -0.07926186970849797
+      },
+      "southwest": {
+        "lat": 51.5222886697085,
+        "lng": -0.08195983029150204
+      }
+    }
+  },
+  "lat": 51.52367839999999,
+  "lng": -0.08056139999999999,
+  "formatted_phone_number": "020 3856 9171",
+  "international_phone_number": "+44 20 3856 9171",
+  "website": "https://bluemarlinibiza.london/",
+  "url": "https://maps.google.com/?cid=12291155344590592572",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eMorGrxkO4LioOcgD-b1bMPshwLhCc58g1MQ3Bs50mJBkvgKVtbxtrRCRxvMNUuKCPjmdWmINqa_nTkPy_JkBHhF_31z4et8Ooh6HjkPZapbRuJx8LAjYIULtLyLy3OMhvwAmHu3z4YjkUd9Shg0DYF3FzrC992R2Iohpt481WpUnKkOJeOJ1VSiKSlAG2v5iMYjZD--5AnYjhG9bOUpDOyUorQI6mX9tzB5v9zUrThURQIs-lssmvObdtEMPw5g4ChuoGMgwURyofYJ9vbGot6Th81ZQtMnVwjkpv7k1HEQ",
+      "width": 4393,
+      "height": 3514,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106880484002461177550\">Marlin&#39;s on The Roof</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d6muFT5SNJqYZTaOGM3-UJiYayUN7ivBSHm8lHs7GM6RN4-E9tiQmuSOlz3qEysp19W9RbYVO9dMKyVBsCaWgD7-RE7lyTQhcQgUv62SslwxXtFHj_aUPwYnKz5ZLZBnOxWGyc0wtepkIkNIsburmyWQI8lcjoSTCLZTg5sZHL_xYLUMBv3258JkLTIWNugQtloPGD5IjCTZxUYnWMqbgBUJUy6EKoZQ5ExjvH5GZV18QDmQQOZHdwJPHooSIW-bHYqwcj5FtijsX1C_pYItX_X1fjMZyGqMJjS4vF_jaOEQ",
+      "width": 2796,
+      "height": 2796,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106880484002461177550\">Marlin&#39;s on The Roof</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cmloRfLYAJvgdcxDe8lLVo5cbCWQUU9sTcxAba9kBg81Ba1hlqmLEm5EEyHH3AwXSTWN4CFqL2uOYJjqok1bozf2-1BWg9FZ2SyVON5Fawtdsj_i5TmUT6TQSXFx4KQ514-LKXMPQEAxP8rXxqqxzhveejX4z8bAZA0IoVA11latfeQs_1fuR7qDsC17HfkwDtjHdgenwKYEcZdI4C5Hf2Gg2hNyMGKKU093dVEEEJ_igFUjLUqEKl_iQXkjtTVpeFAVSgxudJjnhgP1os30iHkA3PQktb3X9DExcEb3indw",
+      "width": 2048,
+      "height": 1896,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106880484002461177550\">Marlin&#39;s on The Roof</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dDdTmv1VaJPQLaUB6832UhzfFyKa2rK4PmTgOU4O8RfJi5B5WJolxeZLkQCxNlaGSmXRXvJ15HhOgSfe80rDU5uTB_lzPAIcVxh1Q7dQzhwCB_QrOqtTA7AhAkA2R5V1gkQgHqe_egu11PM8tFemCAW65kADix8VNFQXVVzssqhkP1T9pAxD8JjvM2du9VNhORqMWyNTXzEc9xPreI-vJfmT8rzKKuoFnlj7Hh9EMhPO2QXvp-xFta51_kugDtli73LY7JX81y15en5pmBDwmNMdT9J8wtfMyYWswqQXeEbg",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106880484002461177550\">Marlin&#39;s on The Roof</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_Y1Ca2ckuzlA-Pg8yHDRIIQMYC2Peoa7nCAUTK5rb6urBmhOuesSgPrY7Ud2gBhsrIzQ3fAZbeUwSZdlCCNHeB1QkII_P4mmRx32rqzz3XUD--O9lJOo3Z2mpooizYGRmM1iJN-Pft6aRFj3yYyksfahfWyNwTlyCEPG5EhMmfOFdi7-UfwY6c_1j4TlYPpA45__UizvNMiolo0bxMMAMLeA7s9psam-X4jjDRE8lQE0wPa08aMMSX_YX2hmbL-satA0q8tsjJnprQ0X30ewjBLIXHSndCWha-RGY8DClHQ",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106880484002461177550\">Marlin&#39;s on The Roof</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e8aadw2wpCP3jOUKfqBVz-otnZG1PwI0hhUsvTcFIXhCAYLdIi4otnPKP6Li40w9TFmu4XSZW2Z0XMuPL9rMJtesS_wLM-hL2yM7rp51rGha2qvd8hINpcV5TMNDwduSuSDxVnt3TxB45F-TwElT0tui7qCKPEO2iDYkwHanOSYo85VljfMD-l28VRlLPhGUDQvD0UebYlQzhYCpj_BBdF_fs305oybzqgsxvB9V2fQ7oWahP0xqLT03rjeUq9aInGUdywNN4Y6zOBs1O9X_OS2D3DGj2H-ovgU00kOLRWl9VhKWaDpjLx2rTBfyAQqGe7E86_B2-T4H2G9nje7vYYLfYS7Z3wNcwE61SrpnREraOGxRIMfZWgy3jnVvRVT-hnQ_n-0IxyBLuHXqSaNBd9rbItR0E1H21UWDA4ThgYpg",
+      "width": 2252,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106232190649178152472\">Simone Mazza</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eIdJXd6TMAQnwYTVTj9jtCK0bgX_LTQw2ccQTIXbaRHno7iVjMKoetHl1Bx5ywbV6sLLE1MH-x5TcTOpqodaFuRvCahiLM8kc2UAJ2g8DbwF5D2TmYFh6T-cddCKAi6bJhiu17NsoGnk8j7no6lGunTpgLXLx3mWvQnhIZBKvETDA7G5sYNoLLls9reePw7gBUOk5KS3BHWE0OE6BTrlx06JD_iXN8Oo580p4b7Us9TwfrQcWBPTKzj1IJVNgKdIAZY-PEJHKhnks2KVF65lRO_5C4r3y8NzEvrvqvKyX7sA",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106880484002461177550\">Marlin&#39;s on The Roof</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f6YVo8WlI0ZKaMV2Y7O8pEMLumYuDMmNX9NK4HuofA7WDR5_6nkw3jN4qcsqPos7NVywtnVU3bLKZVhXbOKg_HftF5iCGhtoYMjC_LvyOZeMrSzxg0hLQsSepkEbm7sXK9OF3AJBrGheLzdTilAR5s2Uo5A1JswqT1bOTM_r2NzQwqEjc2VVqiRgThJUqSsacJ4nMvLtphN6xejfNXPGKlmbFuWVapqjy5Q19GOyuIKozO52hbBLoup8nUylIiT2XMcDgIcFb826zmUsH427TSaP4H4EJ_wxfkXii2f5v38A",
+      "width": 3098,
+      "height": 4647,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106880484002461177550\">Marlin&#39;s on The Roof</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eKTaoNrrnjK-VdrI6eYazEcngKrKi6xFhoB4ZmmBQ3d-xNc_rjeAnAWPacN_7DTmFuspsLFXfXlbqo938MMTZ9I913911UN05yz462OILLEeFttq-lPtw5oA6IHghhINyPbUlxL1LZAYZ-Y9EtXihss8K31POUoNxdjVe8-J80UperFqld7NDkp10fF-IUUQz_bkcE7lwEVZ6Q5Kmw1P3n6N2I0Ggjp5_Wy9NCLm-pRxREzcRwDuFQnhbJnqhLEr-_ciLn-LHx9dM3fwPq8e6735xAr01wOkDKfGlYN6ESYMhXrL0r7bpKldr1Yx0QNvWNV87N_YLErB9nRgYjCEuek7epKq8eQ0cbzITGoFb75a_10MVMwkkw1uoxkcUvsHyIOBgx4OkKW21YG1LQ0v33tSZpGmCt1ScakfFwqIoMPcP1",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112738938785660885735\">Laura Grace S.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fXyTznxR80eIV9pgYgM-L7nGj7hwEfPHjzDG76gMCcLzEsxak6CQhIVM1seLse407sz9Aa8sCUVCm30mTc_lWqLLo0dnZVl37x_mKmSkptl_gRpaVhrQYXrkoR0cpoeUdO9j9haAbysx56gRgoybpbzD4SsNCLDb1Qy86dNDYn3IhSfeQDOBGxUCeVFEWkiHJbDXqAzRL3n4Ke7fNVrC7zuunzTDsMYzxlSUy2o1MwO0_TV9cQ6RXQ3BZMBLoGzy8176KjMSMWfLdXN50oKvIn_o9N_bHPOjFBgIK9y-0TDg",
+      "width": 3777,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106880484002461177550\">Marlin&#39;s on The Roof</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Alisson (Alisson Srr)",
+      "rating": 5,
+      "text": "I had the pleasure of spending a sunny afternoon at Marlin’s on The Roof, and it was an experience worth highlighting. We began on the terrace, which offers truly stunning views of the city skyline and the swimming pool  accessible to hotel guests or members of the Blue Marlin Ibiza London Private Members’ Club. The setting was effortlessly chic, with a relaxed yet elevated atmosphere. My friend enjoyed a crisp white wine, while I sipped on a refreshing pineapple juice.\n\nAs the sun became quite intense, we moved indoors for lunch. The interior is beautifully designed airy, modern, and still allows you to enjoy the outdoor views, which adds a lovely continuity to the experience.\n\nI ordered the Grilled Globe Artichoke with Foie Gras, and as someone who is very particular about foie gras, I was genuinely impressed. The foie gras mousse was smooth and rich, perfectly complemented by the tang of citric cherries. The dish was meticulously prepared, and every flavour was well balanced and considered. We ordered another round of pineapple juices, which continued to refresh and pair nicely with the meal.\n\nThe staff were warm, professional, and attentive throughout. Overall, it was an exceptional dining experience I would highly recommend Marlin’s for its ambience, culinary quality, and premium service.",
+      "time": 1748982744,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Anna Wozniakowska",
+      "rating": 5,
+      "text": "We came here for drinks mainly but we did feel peckish so we did order some nibbles. Everything was perfect and the service was very efficient. What a perfect spot for when the sun comes out and you fancy some house music.",
+      "time": 1745781132,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Laura Grace S.",
+      "rating": 2,
+      "text": "Located on level 7 of the Virgin Hotel, this is unfortunately a glorified bar. We mistakenly came here for dinner and was met with extremely loud music and poor service. The food we did receive was mostly quite good, but unfortunately was overshadowed by the missing main meal of mine and unavailable menu options.",
+      "time": 1748215127,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Stine Pedersen",
+      "rating": 3,
+      "text": "It’s a beautiful venue and friendly staff but they kept forgetting things and they kept running out of things. A sunny day in London and they ran out of rose?! I thought it was very overpriced for the level of service you got. And food was average. But good atmosphere.",
+      "time": 1747437169,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Peter",
+      "rating": 2,
+      "text": "Really disappointed. We booked here based on the great reviews but our experience wasn’t great.\nThe view was underwhelming- opposite was a derelict building and the NSPCC office which you can see as your the same level. Don’t expect glorious views of the city.\nThe outside terrace is very small and if you get the angle right you can get that instagram shot of the terrace and the limited skyline in the background. Very deceiving.\n\nThe only beer they serve is Heineken- not great. I had the lobster linguini and it was undercooked. They resolved this but by the time I ate my girlfriend had finished.\n\nThis place feels more like a bar but charges high end London restaurant prices.. like £30 burgers etc.\n\nI just didn’t feel the vibes for this place.\nOn a positive note the singer was good and interactive!",
+      "time": 1747150964,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:43.440Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_kd-WMddkgRPFp3Iar0kqo"
+}

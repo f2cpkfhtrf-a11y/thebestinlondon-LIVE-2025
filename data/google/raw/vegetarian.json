@@ -1,0 +1,142 @@
+{
+  "category": "vegetarian",
+  "query": "vegetarian restaurant london",
+  "count": 4,
+  "results": [
+    {
+      "place_id": "ChIJAQAAAKUEdkgRQ-1aRUC5Ao0",
+      "name": "Bala Baya Restaurant Bankside",
+      "category": "vegetarian",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 2997,
+      "formatted_address": "Arch 25, Old union yard arches, 229 Union St, London SE1 0LR, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5032699,
+          "lng": -0.1018623
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50462897989272,
+            "lng": -0.1004535201072778
+          },
+          "southwest": {
+            "lat": 51.50192932010728,
+            "lng": -0.1031531798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:59.568Z",
+      "query_used": "vegetarian restaurant london"
+    },
+    {
+      "place_id": "ChIJl5XKp0AbdkgRTn2NK2JhzA0",
+      "name": "Mildreds Kings Cross",
+      "category": "vegetarian",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 3527,
+      "formatted_address": "200 Pentonville Rd, London N1 9JP, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.53134619999999,
+          "lng": -0.1172587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53259307989271,
+            "lng": -0.1157731201072778
+          },
+          "southwest": {
+            "lat": 51.52989342010727,
+            "lng": -0.1184727798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:59.568Z",
+      "query_used": "vegetarian restaurant london"
+    },
+    {
+      "place_id": "ChIJKeSilD0DdkgR6sdthhHgYmk",
+      "name": "Amrutha - Honor Oak",
+      "category": "vegetarian",
+      "priority": "medium",
+      "rating": 5,
+      "user_ratings_total": 304,
+      "formatted_address": "37-39 Honor Oak Park, Honor Oak, London SE23 1DZ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4492208,
+          "lng": -0.0436467
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.45058487989272,
+            "lng": -0.04226002010727779
+          },
+          "southwest": {
+            "lat": 51.44788522010728,
+            "lng": -0.04495967989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:59.568Z",
+      "query_used": "vegetarian restaurant london"
+    },
+    {
+      "place_id": "ChIJjQaH9VAbdkgRyLD1buWIzYE",
+      "name": "Vegan Planet",
+      "category": "vegetarian",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 649,
+      "formatted_address": "11 Parkway, London NW1 7PG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5386403,
+          "lng": -0.1432711
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54003562989272,
+            "lng": -0.1419668201072778
+          },
+          "southwest": {
+            "lat": 51.53733597010728,
+            "lng": -0.1446664798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:59.568Z",
+      "query_used": "vegetarian restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:52:59.568Z"
+}

@@ -1,0 +1,246 @@
+{
+  "place_id": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+  "name": "Dishoom Covent Garden",
+  "formatted_address": "12 Upper St Martin's Ln, London WC2H 9FB, UK",
+  "vicinity": "12 Upper St Martin's Ln, London",
+  "rating": 4.7,
+  "user_ratings_total": 27585,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5125176,
+      "lng": -0.1268291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5138441802915,
+        "lng": -0.125621669708498
+      },
+      "southwest": {
+        "lat": 51.51114621970851,
+        "lng": -0.128319630291502
+      }
+    }
+  },
+  "lat": 51.5125176,
+  "lng": -0.1268291,
+  "formatted_phone_number": "020 7420 9320",
+  "international_phone_number": "+44 20 7420 9320",
+  "website": "https://www.dishoom.com/covent-garden/?utm_source=google&utm_medium=organic&utm_campaign=Yext&utm_content=D1-CoventGarden&y_source=1_MjMwNDkyMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "url": "https://maps.google.com/?cid=11256896404490944630",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eCgVG8ZsuiyhZ1ogfF4ZxtuJ9tn-gSfoQmsb_l83vBO8UiQq9k0WEaCGNPnv0NcXTx2wkt4r89V0xrdz3IGDT1NchkDovH0SNYsCnPrX4AtoHt3yAGrsYOm7J2Ugo3N1z14XA330jCdaTPc6lyxSDB8GXxLyjt6n49KiarNjZQvsL3NhezGki8prSSEtuRfM70YbcnyAMZ9Emo1b_50uStanGPFrKJBVfj-A3AMnt3BX9CsG5xAq5k1Y3kkbX0Y_n1yiH0sMVQWpPguVK6O72ZPRjAjDss0kFuYPfU_BM4tw",
+      "width": 3600,
+      "height": 2531,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113947709142053340285\">Dishoom Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e5s_Si7DwAS5vH4lNkMWWsLBVSwDGF3pt7FYqAJav_SHorYJLHx4EvxQoNaMdtnEUFC5iViWjFD3ciXd-UIZ63dAoqaOLzQdryXyVRjJRJeHGOjyCYFlQFPKva3Y0tt8Hj2HDSEPG0zXBbqJ0LaN1XFV32kOb1PcBUNJj4h4FBrG3ecDAB6MpWu0sr3bvCKbcMiuvOfzpBEDxDpsEFGmjj4jZikQi_QHGP2vdMYDV2WNQTlg063ndbtKeW5A3dMOJ96MTyHdTB-kLBmpcqcmHEglqgcYJfcagjBx-ggkRvJA",
+      "width": 3038,
+      "height": 2293,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113947709142053340285\">Dishoom Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f15Ra2bWZ1_lW9l2dtZnPRHwpltcowCY-TRtjFZD4aye5Mhja-KaAweWIVnp5qAJYqdkM2zbt6ri312E35w5CetW6pVMZTl8r-0L06ix6tmBfJ5zw4ysB3t0_Qu1pZl-pnwMYem8I1_UqPyV42OxciuwRp5YwbQVt7LxC1Nmws8_972RsZD7t-0FGbtDsFi58fzMQ24SiXoGFmt4z1srTFKslvKwiMC2ajNK3rHhlGgqUsydJSNJAxpTViVdUN_6s9GWiQ2QYl4SWkxR3rmiA8_eS54VKALnemQW3d2a5y8dN7ueDIyowiKYc-u1j_EEkW4s3z9d-BE9hLFYxTdGnC1YxgCIuvO6RIvfReEB80R5gqWz0KoQvPE1_jpx26AjxgqDLGblfTs-GEH8CiYmCjqNYPt1c_qh-EwAR0RnctKxD_rABKxjV5rxUi7WvT",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113461457548959990806\">Dave Kearney</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOEzulAuwa54umUHT6Cos4g3QF10jG8v7XO-rM4EuYLOMPAVoRFVYOqs8FYedURuPTGlDqwQuglEAgCO-1pC6DOWnafeab-ed95oVdNF7GWx5I-Can-ZRBv90XNv_AmdTKc-gDWa-MX_wVhkkJSu-S_wTsth6wXkR3uwU1a4lkfcbpVFVyL6nOvP5l_GnFESkR_QfPx4-GgDAdmfCLd3PH9-Hgh1cSZtDmmKG7LsOWWrMhXCk1F3cRDq8hW-x5U5UNyDtKdATxF_5s8eAHie6WuJfL1H1xtUuvSmrInG5bff-OufZ67KmNvbNSlRQuonmoeJoF8COki-i32hTi9hvSMEqXM7qVs3jQWqo2Mwj7oORLZtX4AjQ3zuzYM26kaM3bW_5HMeF4x1cWGeQJJIuxJqXba6krmQb9xl7NIek",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107960091608062906702\">Holly Bina</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fzzGWoODuSrp019Agoi2sDIlHrdkVpES4LNjoYfa1cANi5O9c87W-7H2e-WLs2GKRd_Vc1GH0F7FCfIgJGn_XWvhb7MK6yshCJp2AD9FmJQJXSL4v0CMH1iAz69S-Ap7Hn-_O7t2JQt8JlUDMoRlKDiwOc5L5J0dePU96RmnokUS2wY3vHpEmmFqUe5JV711OTIC5fIFGNjjsP03B-dokyzLW86oisANMjb0BbOztIsWx6u8PZbxYvvq1i1BKnJi1IU5yfE2ZluJs_lIMNr3utRLm6vFn1kR-T5NOAGYgQ4b5N7PQQ9022kZHqbQGTRCxtCSH5ClvczAcfjmLp7TkQlHegE-laTKz3n1QCopCrA2tY8WIdK5uZE82iEsjhCk5SHLFHHQ8JZB8VX_jrkRtvnbPFHAvS2yx8GCfe-amF9Ycm8L4wX2szMNPHVBpf",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100198430227345346754\">Neha Patel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cpVLLAxITdslfTX_xoqNbx4db7JT0WIMTwkTzOhginwIfUVeHMsQe2VmjBkTt885iUnPb7yNrNIprF9DWGpSQ7UjHmq_CrGjpVW1TPWK3_Wvc_g7f2Pj8u2pxaelUays1NSvS8USDT6ENEQ4BxvxfSGHrL-5WiTa4vHDDORu12tirE-rzh3V2jTdcLXhscmrLiMgx0XXiemCSnhcs1cm-NLChApmCY44YnBsIR-XiGIVYgT-FngjEyZ7o6Z-8dxzadbvhjVua8UiQktVDJUiq-gpgYku_MyJHAkgEfNo_44s7dz-PQBkN8bGQOUehAVAuywvwX41PwlzgCya9DzyBQWTbFW8POo0XcSgEeLrbBDPXjb5jR-GKnUxyy9cHeVvAypMafgR8ll35RwkkuAt0Z0vV343GsVFkxXJMOoGPXh6BJhYhrhbnlqGukUg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102500668507064281388\">spark wang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fNpNDQfRcge6DppRjYsgJ5DkKUkoSmwHwsOPFC5V_Oxyh3atmGjC-vBb_8XGmZ53F6sfhXRv9lJR3fA2LeLYk1qKKeE8-QO0Za8Eng0TuIfKwYh3bwUe88edYWHziFrTe3ww8TKLgfUamXxC9gn1FD3ggB-EIjyket3iWdABPL8ZdRcOkUl6NA-DhzumUrWbeO79cO8HM4zfKrQfCtqAH-sBrstsB-3cmE0C3EWrUUMUpGMlzzdblHmLY2NDmQwDllrr5_o4DhJqy8Nb_MKNqIWCHaGB6A1pZCcBCLSFKHlI8Dcalv0chm-3wGxEWN6R-Fvl9kKUA7t3ZINFx3zztiEp_MJNK84FHUKQebnwlotUDdHqq0seNtIO3BaKK-4jj-wIapVaKjtkDs0B6hr5msr_QjaVl-X8xZsFTmUJ5ATM4aZOy3ySzYhK1WV_2N",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115100506220679291290\">Na Tasha</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dknGr5U39E5WhbjX8bTOrcLnkzFP8yj_5QH1iNnuOOdqFa_cTdmV9mTvoXdXqsnjJp1YOD2i9dsMDDuarBqeRX1hdRxG1JMCxiumBS5sV9RJnL28Ipt4Jmg9kRzffKCeeFzKudl_JFHlXQoykh7YSrQtzMfw-fVWwEYduyk8PsMeG4KR43rlnfqUO5MAs36KO9R1WUY45Sjw0eY0Zp9ktRoIPbtPaNwzooNXISnfDF8SseZUwT8nqi-AYDFTIEqLTEoQ5e3Zv44m8HcT-aAON8B8vT19bojfmvvoORqPVHPstFJw8dDPEt0iVns1AEfAUC435Gp8IS2tzcd5mNcUz6vXcDOVgD53PuLC91j12aKqiwn-GkBwJ3FoL0ikdA7WV3D8NEudIBetYwHzkUG0UHHKqie5ULhY8g_3wudYJN2-fw_Ei2Y6hodAUX1OfG",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105107160651746529022\">Dana Al Araimi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fru7sfDMeG-QmvD3-YvvJLqm6ybUyrcIEa0sFPKlIQzHvMV88dHBpyoFLQz9VH7XbDaCfdcQJPluq70qeT8-2srF7i7aD3_rG-EL7M6PU2AP2_zmXHGKWNsRYOWZy5HVUOdF54o6OGXztGNxZ08bjHGH-OZR01EU2UBgMOyguCHURxlcgbOmFXTGs0uFua3NEavfjtjWY-MZQIl3d_mn2PUEQVRDJ9qN3B8dPNqnbAHdHt8oboY_y4MbyVes46YikIKPrbtVnAmGiL4Bu5pvegSbzSNpBeOAZlIcj3226UZdCbqp3SHaRQV0U_SDesWuRqsA_9MsvRXYtuH8mgPaFDGEwRAcfNH0XaAnZ9wwDLjKm975aD3EQorZUvdGdSnxz74AMZ0jVolnMOUUMThJLpdpYL35gTmeyzMtNeAXDv3sBd",
+      "width": 3657,
+      "height": 2454,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110513597251876790383\">AnBu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2de8q84oW7oZ43fNRY13XusJ9H60Z4kjTseOMS6SlaulKY7jglo5I73XRzdTTnMqb_xZDEhXhjns2Enns2G5ydXaZyjqE6B-0hL8fHHjwvVnAS-OKgQYK4ynkmKGiN-eW9oiapY3wqQhI1NXv7fHvTaLNHUZ0FlKgSg-jPePNZiB6va0l9Z4Yy71xaENB50QaXGLB4rIuOOg1jKXmFIdMVoZuJlDYlg4lrAvKn58zx1bs4xmcEH3E31h3gXvJ8auLVoNh1yEwjByaH0aBVvEmXO2Y84YE2CDSffcfk0RauPnJuezVt_Ql1s_smpsz1w7n4v1Cyz7AxHaZddo5nAZg8XpF9l2EFeeSQ5KnMU6iNeuZPg0dXNNkcsm3G6Y1VzJV-FxA0KsqAN-pbE93H--Jf9RURmsiaKRfBdo7LSIHHa0-ESDr0TKSF2-J3M4q8c",
+      "width": 2403,
+      "height": 2712,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105058913871817422342\">Anuj Goel</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Buzzy destination for Indian street food in Bombay-style digs with vintage decor & upscale touches.",
+  "reviews": [
+    {
+      "author_name": "Christopher Dias",
+      "rating": 5,
+      "text": "A modern restaurant in a great central location serving excellent quality Indian dishes. Pretty huge menu can be quite overwhelming but does offer plenty of choice. Fantastic curries including mutton which was excellent and monkfish as well as the classic Chicken Ruby. The Biryani was great with a jackfruit option for the non meat eaters and the black daal was amazing! Some excellent drink options too with refreshing lassis, trendy cocktails and the classic Kingfisher beer and Thums Up Asian cola. Would recommend booking in advance as gets very busy with queues often spanning round the block. Service can be touch and go particularly during busy periods where you’re often fighting to get someone’s attention but overall a great experience with delicious food.",
+      "time": 1759954759,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Binoy Vasavada",
+      "rating": 4,
+      "text": "Dishoom doesn’t need a critical review. It’s buzzing like the AI boom. Always has a line out the door, especially this original location. They dine you fast so don’t be discouraged by the long lines. We walked in on a busy Saturday evening & managed to snag a table in 30 mins. The vibe of the restaurant is electric, two floors packed with customers & waiters running around harmoniously. It’s really a well run restaurant with top customer service. The menu is intriguing & drool worthy. We tried a bunch of the things - pav bhaji, house chaat, chicken ruby, garlic naan & Kashmiri Chili ice cream. All taste good, but not out of this world good. They do the nail that Bombay Irani cafe vibe & overall it’s a crowd pleaser of a place. Dishoom is an impressive place to visit but isn’t necessarily a memorable one. Again, it doesn’t need this critique as it does a commendable job and it’s gonna thrive for years to come.",
+      "time": 1760287522,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Alyssa Burnett",
+      "rating": 5,
+      "text": "WORTH. THE. HYPE.  This was the best Indian food we've had since...being in India and it's not even close.  We waited maybe 20 minutes for a table for 6 (5 humans and a toddler) which wasn't bad in my opinion.  Our waiter insanely attentive.  We ordered drinks and I wanted to try their chai, but he said I should have something fun so he made it a ~naughty chai~ but then also brought me a regular chai just to try it too.  He brought out a milk for our toddler and it was just slightly warmed (nice touch).  We talked about how we went to Dehli a few years ago and that's where our waiter was from originally, so he brought us out a local dish that we didn't try while we were there.. very thoughtful!  You name it, we got it to try.. vegetable samosas, chili chicken, butter chicken, chicken biryani (the cranberries were actually a surprisingly great touch), the House Black Daal, the broccoli salad, cheese naan, garlic naan, raita.. nothing missed.  We stuffed ourselves silly.  We also came here to celebrate my mother-in-law's birthday and at the end he brought out THREE desserts for her which was insanely nice.  I swear it was the most welcoming restaurant and atmosphere.  I wish I could come back every month.",
+      "time": 1759845584,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Al. M",
+      "rating": 5,
+      "text": "From the moment we walked in we were welcomed and sat. A lovely dining experience with a great server.\nChicken ruby, lamb chops and jackfruit Biryani were all 10/10\nHiding in that menu is Chilli Chicken which was 12/10. I could eat it everyday.\nExcellent dining experience with superior flavors",
+      "time": 1759541399,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "David and Frances van Gestel",
+      "rating": 5,
+      "text": "Dishoom Covent Garden was lively and packed, but our reservation made things seamless. The staff were welcoming and explained the menu clearly, which made ordering easy. Every dish we had was bursting with flavour and beautifully cooked.\n\nWe enjoyed the prawn pathia, black daal, cheese naan, mango & fennel lassi, and watermelon sharbat. On our second visit, we tried the chicken berry Britannia, okra fries, raita, and fish - all delicious. The berry crumble with coconut was a standout for me.\n\nDespite the queues, the service was smooth and well-organised. The warm atmosphere, great food, and thoughtful touches made it a fantastic experience. We’ll definitely be back!",
+      "time": 1752525789,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:13.910Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZXYx7cEdkgRdgAOZ6OHOJw"
+}

@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJL4h3pScbdkgR-k0QZ7xnYy8",
+  "name": "Mestizo Mexican Restaurant & Tequila Bar",
+  "formatted_address": "103 Hampstead Rd, London NW1 3EL, UK",
+  "vicinity": "103 Hampstead Rd, London",
+  "rating": 4.5,
+  "user_ratings_total": 6574,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5276335,
+      "lng": -0.1388566
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5289880302915,
+        "lng": -0.137392669708498
+      },
+      "southwest": {
+        "lat": 51.5262900697085,
+        "lng": -0.140090630291502
+      }
+    }
+  },
+  "lat": 51.5276335,
+  "lng": -0.1388566,
+  "formatted_phone_number": "020 7387 4064",
+  "international_phone_number": "+44 20 7387 4064",
+  "website": "http://london.mestizomx.com/",
+  "url": "https://maps.google.com/?cid=3414687001357602298",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d2Es-sqhx-I0rGtTrRdewxexHQkiT3au7lC2xg7McXMhfk4YqoshoAN3l1be61MveK4ofl-Vrm304KDvwvZZa5qTEY3u3YxVUy1fVUwpG7qzumhC8EdV-_qZ_rgq2pZdmYrSkwDl1lBc3uUMMzw_OIdEdrIAviil-xO0mO8VLipaY7T0DmqWIqFpelQGCBlp_Tquk8t_khKfG1FTehnrLu9Ji1m9uZKAeUQOWqulBaQccyB09ktoXhpN4OJLeJwvv5n_DhbopbOGQjEulpQ_uwoMzFSWDDM8wCXK9nPyHotg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107654226549798488565\">Mestizo Mexican Restaurant &amp; Tequila Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dYw6xmlupEpx9Q6QLNKJdOnxFN50G3WYzD68AXhyLHb07WBCCIiS0rVwNq4Vboh1GilNyS_x4nUuayt7JrMKaAZzmZ9eaHQf-GH3H2mT3lvsaVq5cxwF9RByy99KnF4DdF6v2x_csBisONPQEUxgnVDk1Wb1c6Y6jxIO_XPhHOuLT7q4AlOXdjdTKTkztVbyeSjEZqNgRidYcF_t1KNC0V0DfU5ZkLF34DhgGGM8ENGWBxC_m_kPfyI4O36eDHRVvm4Hx-S7-Seodksd2fmbp9ln306l9OQhjQNaF-ePIa6g",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107654226549798488565\">Mestizo Mexican Restaurant &amp; Tequila Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cE2WlrpLYmpUogn9LjFBeAGR-Eti6aLLl_qKDmfzE1WAIr49Z3m7TG3P2DZ6Cr92JVBhcHVe-daTX1gUjLFI-xRt7oaySxrv2CRvkyJkonSNoGdPTusvHLaBGTuyy2z12B-vPGkLMKP1tjAY4f1OL2PG2iTputCr52P0wFTjJKimKMyaiUGUGErZegy_4RE-r96XN1MUBQcYaF2Nt-ZBbfcQLPByoR0yPt4rLF2wll4NnVLz-TziBteye9w_N9mppovv7uNJBMZ6dEWX2mGezXFWx3v4s8Rm8-x4B4moHmip48zdkp0CUfpcyofd21ZGpOhqGrfE9GTw_kwHr7gkn2LPuSK_AIiPZzaXGQ4MYNg0TwkHzrE8AtDEHtc1zTzyIyuw_pAVtee-ZExD98R7_3TZx5eMgyCcaQDoerArt4O02ij-B9ymSGTTKws0ic",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114618099116553968651\">Cory Huston</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2chmk-vxCtDXwtrjhOPYke1vbx88XXZEu349PH8FBbyGWpqC6PuOcJvswRRqSwWhxCy8IeluXzKjiSigVe1S_zoYDcn7VYflWwLVpvqvuN_Quj22WeLdgCve1t_6-4lQJq-zPPCFPJJRTOgK82hY99vYMUm0rMO3HVuTT0twUabLuuixJT0WqP6Y1FbzufgOEgzSdL8UygpuBtix5exttERIn0Fi9uRuuHab6indhYSR2mkZbNaT6Goq9mxNbXd6LJGQku8D5l_8cN75iFv47lfewRfs8RMKk2CYWGGShj0-D0f3eLRP5aJaC9tT7ZSKWyWAuwJhO22GJmInR2iCgvv8at7D0t6c2svP6dZxgpfGbMpREKk7IgIplaaM-LV28ddEA_1Rmm_FBNTUhqaP2ypgMBAZfukA--MlHVOWuV-5V31",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102477764666296573808\">James Rogers</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e9ir_Tkh9nN9xUWILsDnFl7D2-Cm-so9DfhUMmlbj74cNBgBrOQBunt0mSleT5p8YmsXwF8qoFkEj7nMF3YxBEVAv9FJFgTurlHcrcBDm-XuZealCSztvrSNcpsZmgkAspcZf4gqQ3WnWdjh1TysefCh78G-G-rFLg9MKch4vEB0SnlenWGt_G6JbVlfQ4cA3KSb2Tq-MK3PiiPEMyg1VG6_q8bp2If8znZizufUujij-xkMM4pK-EGEdHAj5LSLW2beRQczYijrSX3WAvye0z7ZWFd63ycdPC3Bs-HEJLg-qmtdmvXvDlNudd6CXT3OnnjGb62ycyaXlKQWT89YCLy8t0W1znExsUaHxv3nTkXvOmwzfiwFzbgXhB4JiFuNx185pE8Hvk7F_TERHPbvt9fOi_I1Y6TTyPjAkUTAx4MiuQ-LJcqeP8cn_E0YM8",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114618099116553968651\">Cory Huston</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fEY6HNqnpfQg2dkdjZb6zPtP-QKAzhU3qZ098dcU8oPLGm8HZV62tw5xauBX7xoeiwb1PamxvquRhA9vJyilKiRDHUEs1B_szXFdhh95TzbAXlQ8azplL4W4zQS8KRMrImwkVR9FzZl8bDSL8myIE9KIZz8MK58f6nH9VjdjtabdKcoNgAsrNInyBpLNcVQif4HgG7ZPbm8a7y12_HoJtHURwDVVYtZJO19RphYiFIzF3kIgpfJ_61pMyRNbFQZegjvh9ZnJot6VDh9ZvPxdRNwQFTCZqczUCBVG4-gINihCENT4Wrboiast_zdDgm3X4-a-DE04P38VpU-wnND2qd2puIaZXPWNkgopnsZxPZME0bvePpNs7TzyiLblJAdccLHPixmvNlepLE_NS3o5PJe6qp9SSqfRIkJVm0N4H417nSoUs0GH5xFv08ii4e",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108370365175377319911\">Alyssa L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnqqFLQx_eVtil8t1RddrgI8iUvRt9PnxjGxwE0XsEHNjWpfjG98_a0tqpKHNZYbwgzhS7RvL54TNl2wQt6di3E7S98pSAvB8Gz_fjsESQN7WG869cSXL4qosv_WFbTqmmzW_hQBAtKG49i2YOu74tL9I7WLNSNx2NyUiGgWN9ihUvVYVvUxjfgKSWNaRTddLVIloa-6lGP43I1sWiP6ruRWoa3Vp6EBjLJGuIxqtpcQqWo9Q_hO7Yi4yuaTQqGgOWnDkwRpgzpdIunKhQxc6QnpYwc_aQLIJoLeeiUztT9i4kQEUQuNiSg0OU3Dgi8dS6dorqz2Xx9YiCAAnDCybmJ_PQHmG6UCWzmwBCk0ixuT_fEqYHki-X1LP5fmhwybiJKAnUnCWQ0w-uZSk-kb97vB3-hCCjPuY5Hb9wFaBr15rb",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109798546499342534999\">Natasha Khan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2deCblO5CptaR0QBPCJLLvurOyWC2dEJq7WlflTznTDPFh35Efi-eChnm9nT_WhlW0IlAc8xWWBHtPlIRNTnzGn0zFnr6e5GcK9KFfIkP_dB_SLOcm0A8VprIUKz1D-M3u6EOY8Vs4t0tJAHM2Iiu9EfxYWighJuSCKw6CEBoBgELwGlw954F3OHmdZd04m0DnVMms3841P32C4nfL4oD-SNcVyV35PKawaUWtteiBlkg5O66r5ClPU6OWD_NUsDYTJTxcnzsWIRLqvR-ZIGFmaYMSHL9N--FJzZRjSZwhRTucVGZz9Bjsi_XOJsdueSMc3w_wisC6u8kdWjrHD8qU1QX22uxDSl5jc9zduFN1cqzAd4d-fER3y3KrpTqgUCazy_7eisLemftq9mOcY3dXeEE0Fl0u0d-ty51-nDUHjwJOt",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111621152559286468239\">iza</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eSKi6Viu1BQA6_pzuIQf392kBBGJPajEXioWdFOh7WVxMYWXDxD-UFMuOjjyvsZafyD9ygcbAZWN7wk3JezJyB-yf6FmJigV6O6ey_TXOwELYdkShPQfWQv2AjqYSTPMOJnhT2cDUDxzhKNF9ZIbKDclmPgx5CAN36QL5OLWkJQbO7K43LNCoPJg_Qp6pCAEBRPiL0CAZvWjQIvR0nEM8Uyf57no1lSUlfrmFm8pPM1DhpszegcbJArEJzURw3_HciqLBbdLn2juN64JQzfS-EMOPOZnsb3XWqSFUEUCkeWdHP82StO0w82CPHtCjfdzJe5SWB8wcDYJoJdlRFzJ-PTrkaDHoaIo_RPvvdEtojtrZ8GLs4V6OaKqU3UeYiWWAZpbmOocjDP_oB7S4x4wI-aIEtiIOa7d3L1NxNQh3E6ng",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101304252071689298274\">Karen Atkinson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fdvgTaKvaZhw28Nun20cgKOZ2TrD9HeTklXwgSetcPTPDPLhiav7So1mQaLtELCyi2ySMa0_ojdyFBEg8jlfQSBm12yr2UFaYo7WvCs1I4bAdHL5-DVQjG2AkcSdui3i-FqOA3TXoS0ZoMjoWXzQJ0HX34znbckmjYHBRWI1lpSHpJfH9JhZkln-mxfgFez_C9HzGGNBD_N_OZWpusJ5yEVI4xwl8P1EdIIP0PPOxXkKmfhA5YjV1XR3rQi1jMXDO4pfVrIBe1jITGWkWKYNwXcq6NBTkshs8I512YUlJawdGYvhDlPFGAWDLWwC2jm0y-V8ydvLJD3GotzwufaTc1NzgerIXhkxxyMXebq235q3BdL-2p8T3JDcK5Ju4C7AzoJgscBXoGN3VdHtwJCp8MGJGCBKUx4AumsGr4yz4",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101448591822328251754\">Ramirez Christian</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Fine Mexican cuisine plus tequila shots and cocktails in smart, scarlet space.",
+  "reviews": [
+    {
+      "author_name": "Hayat Kebida",
+      "rating": 5,
+      "text": "We went to this restaurant to celebrate my mother-in-law’s birthday, and everything was absolutely amazing! The atmosphere was warm and welcoming, and the food was delicious from start to finish. What really made the evening extra special were the two waiters who looked after us. They were attentive, friendly, and went out of their way to make sure we had everything we needed. They even made my mother-in-law feel celebrated, which meant so much to us. Their professionalism and kindness truly elevated the whole experience. Thank you for such wonderful service—we’ll definitely be back! Special thanks to Damian and Hatzy",
+      "time": 1759696488,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Noémie Bruel",
+      "rating": 5,
+      "text": "Tasty Mexican food which changes from your typical London chain and has some proper special dishes like mole etc. We had salsas with totopos for starter and then for main tried the 3 different enchiladas: a mix of verde and rojo, the mole and Cancun. Great service, delicious margaritas (recommend the jalapeño and tamarind!).\nThe only downside perhaps is that it’s really loud downstairs",
+      "time": 1759077369,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Brady Douglass",
+      "rating": 5,
+      "text": "Had lunch here today with my husband (who’s Mexican). Food was incredible. We normally have a difficult time finding good Mexican food around Europe. My husband even said the tamales tasted just like his mom’s. Juan Carlos was our waiter and he was super friendly. Will definitely be going back as often as we can",
+      "time": 1758999023,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Conor Nash",
+      "rating": 5,
+      "text": "This was my first time coming here from a recommendation from a friend and it did not disappoint. The staff were just delightful from the second we walked in, Hatzy and Richard were so friendly it made the experience worth while even before we had ordered our drinks! I couldn’t recommend this place enough! They even gave us a free shot each to celebrate our anniversary. We will definitely be back!! Oo make sure you order the taco sharing platter!",
+      "time": 1759616760,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Aldana Juarez Manosalva",
+      "rating": 5,
+      "text": "We had a lovely dinner here on a Saturday night with a couple of friends. All the staff were helpful, diligent and friendly. Our waiters Richard and Roger kindly explained what the best combinations of drinks and food would be and we left with a happy heart and a full belly. A dinner for four cost us £210 (incl service charge). We had the taco tray and the other sharing option, 2 bowls of guac and totopos, a bottle of red and a couple of cocktails. I recommend this place if you love Mexican food and tequila!",
+      "time": 1753567191,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:56.995Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4h3pScbdkgR-k0QZ7xnYy8"
+}

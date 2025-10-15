@@ -1,0 +1,543 @@
+{
+  "category": "shoreditch",
+  "query": "restaurant shoreditch london",
+  "count": 16,
+  "results": [
+    {
+      "place_id": "ChIJAQxeaAAddkgRkKAT-b-BK14",
+      "name": "Kricket Shoreditch - Kafé, Restaurant & Bar",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 1072,
+      "formatted_address": "35-42 Charlotte Rd, London EC2A 3PB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5252491,
+          "lng": -0.0809457
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52658272989272,
+            "lng": -0.07966652010727777
+          },
+          "southwest": {
+            "lat": 51.52388307010727,
+            "lng": -0.08236617989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.338Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJmdTnioQddkgRkUPct-OykWI",
+      "name": "Padella Shoreditch",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2679,
+      "formatted_address": "Shoreditch, Padella, 1 Phipp St, London EC2A 4PS, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.52338229999999,
+          "lng": -0.0817686
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52480172989272,
+            "lng": -0.08037697010727778
+          },
+          "southwest": {
+            "lat": 51.52210207010727,
+            "lng": -0.08307662989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJ4fJtcrAcdkgRaKt1kPBO7pk",
+      "name": "Flat Iron Shoreditch",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 4603,
+      "formatted_address": "77 Curtain Rd, London EC2A 3BS, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5249603,
+          "lng": -0.0804366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52630662989272,
+            "lng": -0.07903007010727778
+          },
+          "southwest": {
+            "lat": 51.52360697010728,
+            "lng": -0.08172972989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJ44hFhjgddkgRdPaKatX_eGY",
+      "name": "Blacklock Shoreditch",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 2915,
+      "formatted_address": "28-30 Rivington St, London EC2A 3DZ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5260159,
+          "lng": -0.0819621
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52728102989272,
+            "lng": -0.08054597010727779
+          },
+          "southwest": {
+            "lat": 51.52458137010728,
+            "lng": -0.08324562989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJW37RUqUcdkgRJsCh8E9Pcsc",
+      "name": "Popolo Shoreditch",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 776,
+      "formatted_address": "26 Rivington St, London EC2A 3DU, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5260434,
+          "lng": -0.0820977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52740337989272,
+            "lng": -0.08067652010727779
+          },
+          "southwest": {
+            "lat": 51.52470372010728,
+            "lng": -0.08337617989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJoVjVfDMddkgRb9dyhTLOh_I",
+      "name": "SMOKESTAK",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 4863,
+      "formatted_address": "35 Sclater St, London E1 6LB, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5237045,
+          "lng": -0.0729238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52501647989272,
+            "lng": -0.07158187010727776
+          },
+          "southwest": {
+            "lat": 51.52231682010728,
+            "lng": -0.0742815298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJOb-UJ-YcdkgR8q4D1DuMeJ4",
+      "name": "Lahpet Shoreditch",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1391,
+      "formatted_address": "58 Bethnal Grn Rd, London E1 6JW, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.52414109999999,
+          "lng": -0.072992
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52555392989272,
+            "lng": -0.07161907010727778
+          },
+          "southwest": {
+            "lat": 51.52285427010728,
+            "lng": -0.07431872989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJv16nk7ocdkgR5P9wUhZgUpU",
+      "name": "The Blues Kitchen | Shoreditch",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 8068,
+      "formatted_address": "134-146 Curtain Rd, London EC2A 3AR, United Kingdom",
+      "types": [
+        "bar",
+        "night_club",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5265519,
+          "lng": -0.08018009999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52791767989272,
+            "lng": -0.07891022010727777
+          },
+          "southwest": {
+            "lat": 51.52521802010727,
+            "lng": -0.08160987989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJ7XVltrAcdkgRISmskLX7lbw",
+      "name": "BRAT Restaurant",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 2130,
+      "formatted_address": "4 Redchurch St, London E1 6JL, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5242042,
+          "lng": -0.0767031
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52560762989272,
+            "lng": -0.07536292010727777
+          },
+          "southwest": {
+            "lat": 51.52290797010728,
+            "lng": -0.07806257989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJGdV94bgddkgRsD23gJqtK54",
+      "name": "Lina Stores Shoreditch - Italian Restaurant & Bar",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 418,
+      "formatted_address": "180 Shoreditch High St, London E1 6HY, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5243949,
+          "lng": -0.07741039999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52574877989272,
+            "lng": -0.07600407010727776
+          },
+          "southwest": {
+            "lat": 51.52304912010727,
+            "lng": -0.0787037298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJkbGoX7ocdkgRgfrpjeC7xzM",
+      "name": "The Clove Club",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1161,
+      "formatted_address": "Shoreditch Town Hall, 380 Old St, London EC1V 9LT, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5270972,
+          "lng": -0.07933849999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52852217989273,
+            "lng": -0.07798622010727778
+          },
+          "southwest": {
+            "lat": 51.52582252010728,
+            "lng": -0.08068587989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJNfBU2bkcdkgRJoQiLng7HHY",
+      "name": "Rochelle Canteen",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 763,
+      "formatted_address": "16 Playground Gardens, London E2 7FA, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5257669,
+          "lng": -0.07429179999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52714177989272,
+            "lng": -0.07309787010727777
+          },
+          "southwest": {
+            "lat": 51.52444212010727,
+            "lng": -0.0757975298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJW8kHGbEcdkgRE31xVhUTqnI",
+      "name": "The Light Bar & Dining",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 850,
+      "formatted_address": "233 Shoreditch High St, London E1 6PJ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5221506,
+          "lng": -0.0783869
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52346877989272,
+            "lng": -0.07689387010727779
+          },
+          "southwest": {
+            "lat": 51.52076912010727,
+            "lng": -0.07959352989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJL72zzFkDdkgRqEV9f8J_6aU",
+      "name": "Camino Shoreditch",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 1243,
+      "formatted_address": "2 Curtain Rd, London EC2A 3BL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.52210059999999,
+          "lng": -0.0807137
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52352952989272,
+            "lng": -0.0795147201072778
+          },
+          "southwest": {
+            "lat": 51.52082987010727,
+            "lng": -0.08221437989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJrQ9zR0cddkgRmJV5usl_bBA",
+      "name": "Tonkotsu Shoreditch",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 969,
+      "formatted_address": "1 Anning St, London EC2A 3LQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5246849,
+          "lng": -0.0777349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52599077989272,
+            "lng": -0.07642502010727778
+          },
+          "southwest": {
+            "lat": 51.52329112010728,
+            "lng": -0.07912467989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    },
+    {
+      "place_id": "ChIJ0Uvq8RAddkgRVZXk-se1EIQ",
+      "name": "Babel Grill House Shoreditch Lebanese restaurant London",
+      "category": "shoreditch",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 385,
+      "formatted_address": "192a Brick Ln, London E1 6SA, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.52381159999999,
+          "lng": -0.07138540000000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52514767989273,
+            "lng": -0.07007122010727777
+          },
+          "southwest": {
+            "lat": 51.52244802010728,
+            "lng": -0.07277087989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:08.339Z",
+      "query_used": "restaurant shoreditch london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:08.339Z"
+}

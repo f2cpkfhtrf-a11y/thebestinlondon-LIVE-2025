@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ2xMBYYIDdkgR4aYnWkJ9vG8",
+  "name": "Roe - Canary Wharf",
+  "formatted_address": "5 Park Dr, London E14 9GG, UK",
+  "vicinity": "5 Park Dr, London",
+  "rating": 4.6,
+  "user_ratings_total": 957,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5023057,
+      "lng": -0.0152132
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5035509802915,
+        "lng": -0.01361571970849797
+      },
+      "southwest": {
+        "lat": 51.5008530197085,
+        "lng": -0.01631368029150203
+      }
+    }
+  },
+  "lat": 51.5023057,
+  "lng": -0.0152132,
+  "formatted_phone_number": "020 7078 8808",
+  "international_phone_number": "+44 20 7078 8808",
+  "website": "https://www.roerestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=8051447957765465825",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 10:30 PM",
+      "Tuesday: 7:30 AM – 10:30 PM",
+      "Wednesday: 7:30 AM – 10:30 PM",
+      "Thursday: 7:30 AM – 10:30 PM",
+      "Friday: 7:30 AM – 10:30 PM",
+      "Saturday: 9:30 AM – 10:30 PM",
+      "Sunday: 9:30 AM – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "0930"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "0930"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fYPvwEgl53aymWApOJB2B3k26sfbxbluARx-hiZJ8bdGEUwztoE7DUnuhWfzLyWdOsbk1RB55tJOJkwP7c5lANIfZSLGkA6CFdGWvkZ-xIatn83xKw4X2eWrVDEF501CJGhRxbVALgRZpXhWfqv8CNefztcRkeV4FysCmNb3J_cGaAZv40Y-VIe4iLqBHAQMxteNQbJupEXEFdeszHi1lAkHETyZhybRi1YV4P-hduv8zBt9DlBA43ppF5UexWXNQjRpMOHNYub_9hD4UtYoJCz5C7rUqHX4uo72bSs9bOCA",
+      "width": 3000,
+      "height": 2001,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115575666448636890216\">Roe - Canary Wharf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d6OKc_JC6q3SSPzTEL7f89tVGVUrr8u-My4V6t9JWpnUp3zcTgE273j2fZ6f-YWAf5HO0Xdvvgqb3GA1Vr9q1IWkUsR_R8ccq5ArrCL7vmOo0-K-rEQMhuzRB1kQ-LXaDEkNiw1Zlhwgsly6USjhM_CAwheChDUNDX1oxdUe5msVkV0GcDz1Uv3VczIzAABGwd6LZf9JrTx61LD_LYIYKHpuq-QDGWr3QXLiGIfvWaPG9hg9xn-GCIziunh9PA-8TtPbkTBEYmQ0soZITX8hmL-rCRmnjqZBIqZQEN1rAEB_j_foetbrCrMve0AN83sjees36-jDvMsMbGTIl-aWnVAUVwtOq3gOhnd8cpjKJJIPkiGzrkP2yHzQbHEiu6rGaHKwQbfkCIJNUM1PYVCWeZZp-IBik5sJ2iKUvU-UP393oI_X3f7lTiyCF9HTBm",
+      "width": 3060,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107564861666062535732\">Riad Ghanma</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e5kB8sc8HmmZnZOSrOnQjf5xofz3lSazaHPQqixM45G5AeM4Z6TPhPsimopX3f5CxnBnQEtlzwFc1Dsm-bp6Xb0dr3CEo9kyTK_n28L5ngumulIH-B7Qk7cwmcclFOs2i1dxuIXyQubJlF5kW7C5Y5UO_-KXFJZYARNasKmaTI9X1JLr5jBJ1BlXJ8SUHrr2peObrkOIQq0EUlftAVfTIK8PIXV1DYupIfgKqXyJUubdfPjrFz1JSi2tjmQZCTyNL5JFv1SRr1bbdfdUWyOTYha9SMpyHTYR8U-cUUpC623w",
+      "width": 4781,
+      "height": 3187,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115575666448636890216\">Roe - Canary Wharf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cyC5hWZXcPtTGMmKEhMrpAp-UZJ43bcJn3dMiCGeRhiWA5tT65ekjNtH_YgnbCa_O4a1rGcilAhz-Xr-ESRvnJwsqYEretInnVGmLum7Xpm78ZprKRaI9Ju-IIUhUw0UKr1vPOfW-oKuB3ly2aOxkLbHTWsz3YXMxRscAFmdhYuWHVjW9lipH4LYC79jK_xVbv9CucLFL1Y0wBQvd7GzSZRWOt8CGrWTL7axr4m4v760S5yjcunFncsXDPlKse-1xfHl9j_E1MyFx2cngnrhO9oEfAM-YSBRTIXTucZIYjCt3Bb8a6lHp6h8RTtH0ivFHe7fiys7iFBKWrzz1dzyYJlxLn-UojxcFeKhxk072SCOZboIl5BNa0qfOfK0ehtH-LER4YKyb1VbeSEMu_UFVOxc826M0OCajrZeZpUuNJZE1uiVLnVSyiDdjgZfKk",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116778240227870606399\">Lee Pedder</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5_HRuXD8Ls35aelrCvozAX813cl-HxeUXYIJCpr2u8MFQOhE8uAfJlFJGZCaVVo8P8mM3CaY4O24qlIKlp0EwHlQnfuNJFgYHqYrOo93jM11M3rt_-RBXUfjmQY-i9xBWcoyf5H6y3CRnouNl5yDZ-b8JVxjvjITZmjSyf66GCC5R5JyD2bEYMKP3stU_qMA1pKj5sKOSV3rCr1l62RGl1GynIaMZtsdKQlt2CiEO0uYur1agad7gHlVfoQrDWnzHKjE-Ko0qF_QFOZhURk50RY36aH_BFTs-HfquNssRb4NR_NZ-t7qPQeDoTVesJmtgaoxPTKPl8_nVku2zzfWI7joxLSFiQzR2urK2Djertps7ldmzeMFw57aHCB6-SrLK-qusTYFCnyfImzMfWNy5Cly_pdyauB5QZKI0wL7QIZn7ybUMq4M5ook2cQ",
+      "width": 3618,
+      "height": 4005,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100232334228565650259\">Akram M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fs95WXKgfuHVfFWmdad4I0IJJhULWuaawUBGjiE4OSegFl77O-QD8jMP8tsP3OlMJEX5k0GO3g6A6o_uHYfCQcHM_dzvf4OAVAVB9HIaO2V64_-hxrk4GeqFFxptB7EhHWj5tpc9tUqzQ1yrwnCw3UjdOq8mIIioaQnQb4NI5mNtB17AosTe2CKo_pLEvAPmsFHXarQ2sTykSB9gx-8X2WVjtLikmBi4Rok-ZvHROX5U4Fb71w2-KAn_eVz0mNNqYSFkx17GVvNOchAYzsEHq9ebQKITsKMOUTSRMfAsXyZA",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115575666448636890216\">Roe - Canary Wharf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enECwLKXeAfHViYQlsI7RX0CsF4MEIquE-gzudtlkwFp96L-04lBXM-Q21pc4qQkbC66NcNtG6PZxx1MKPc5vGcNutew8XmV1yennKwXcfSQPIfLRScC28QgLS7i5id4Z0Q3aPWri8vkCIw3sGc2vuJzNHGRNPS34wwg3LbyJNNrFPJzBukjLaNUlxbkL8qDMw4MS5JzF4e8TRtt6dGMFLPlB_M6f6JWiTUAJfANhVouKwGnY8HuF584U-mLQNdspMSy8DbYWtAfq8g7GwOr8eI3M65qAZPGyV0GJWfehw7lT5zZSk9BV4GsT5g8xk4-lFh6Xn3OIwplRdDJLpj3AFZDO3wb_yZzRQFppuoW8xW1hwBdOnXfNdtR-s1qNP_qszR0WVvU7qXYfoS8eSMIIgIQUyN4d5vSazf1HmByyUbWPt",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118001668711013306413\">Lubo Kern</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cY78baoOF_RopA_flqCDQF4-azYv3CIAekwdmyy7g3pXz-8D30bKd9gDTArML-mMBuTHBow73hQsGA8vqdZ8R6sTiNqAw7D3f2zMHP5W4ua0gWvhAlhh_ivdK0pIaLdoKKH8uq8AL-UfiXyZjUqO7EosOrpDISiXwd1bQ1fFzYT8W6nsdlmYMGkjYKJDHgfPMeriIX6xzhMqKgZ3ZPA1DsqLIdcgiM_I7osbzempWP-XT-XjPRdzsG3vPR2AqgIPq4Ah23nIMOQi5E_EHh61TpDvVeIV_ctm4t0sOh-LzRKw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115575666448636890216\">Roe - Canary Wharf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f9LQpqpL5fAqyY5R6stpxj4Q0QFm4l6bnAL_BWrLrgAM4p921S0M-a2MqNOvp_ojxCLgWotG-tuUfaFvvJ-pVjIuLDHJygukMJplJFZYEguz-SchHcnpBuAYz3cqlTedUIwG35lI2Um_AdiJrAUSarBDvl-WDHV9LvwnAZE3aES60f6jh4W3xQJNF-wR5zzV7nrpzrW2shokWKTDV7p0b0LJIfln7GnKI985hjWytPvd19IalO0AEFtbV2yn812Mhtf7i9YpUxOaX8-AXuucIl1QP7gvcMC9k8pIZVSkwOD_B_4A70C3GtHcq4xq5bi2UjpIsP30aiS1Ayt06Q2Ka9nyatt74d0DLA1FHlrzC4D-QCl5KFXd-Uyoq5s73teCRYLl2T2nd4nsvTCH4doXQCDKiaBSxs64TMPjU8w4yUuvT7",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112221717418011607359\">Poppy Pearce</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fapI457fSyFkfuY-5_k-gRJFJdQYu5A2zTv7ysiWxpgT7AfW8ZzKB-xYftkrADJVIZoKA-5PQKgmNEIr0gpA9mh3mA7ie4fys3uUDZEZ2F5fHDVFa6YDiAPViJ7HKO62KLzjleKkIuZb_62HZ3Z8nb9OKQtbrJ4SyShic-7m4ZuyfZM585Q_nOn-ubQ1ywPQQvJVYIC-Yshl1anbirbqiuCw4BEQdllXANphkRKEMi3iujfkX1yJgc5pUqFCHZ5ZJnLBPoBDtWQdm7GuBdvYpGUE4AxulxhNDoArPlbs4KMA",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115575666448636890216\">Roe - Canary Wharf</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Bill Murphy",
+      "rating": 5,
+      "text": "I loved this place. Best vegan Sunday roast I’ve ever had. The mushroom was to die for. The veg and gravy were so tasty. The portion side perfect. Yes it’s pretty expensive I guess £30 a head for main meal but actually I’d go again. The cocktail were generous and strong which I liked. As an older person ( I’m 67 )  I often feel a bit invisible in modern restaurants-slightly ignored. Not here, staff seemed keen to engage and not in a patronising way at all. We felt welcomed , well served and left with a warm feeling of being cared about. Thank you all x",
+      "time": 1759080620,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Valentina Scapin",
+      "rating": 5,
+      "text": "I recently had the pleasure of dining at one of my favorite restaurants in Canary Wharf.\n\nThe staff was attentive without being intrusive, ensuring that all our needs were met with promptness and a smile! Every dish we tried was beautifully presented and bursting with flavor. The ingredients tasted fresh and high-quality.\n\nOverall, it's a perfect combination of fantastic service and delicious food.\nI highly recommend this restaurant.",
+      "time": 1758955326,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Joshua Monteiro",
+      "rating": 3,
+      "text": "To begin with i am a big fan of Fallow the youtube channel and ive also dined with my girlfriend at Fallow in December last year. I feel I may have ate here on a day where only the Junior staff were working or i just was not that important cause it all felt very basic. I have been looking forward to this meal for months. The first dish I ordered was the blooming onion and it looked stunning and tasted really yummy but towards the bottom end I felt like there was a lot of oil which did not seem like it was drained out well. The next dish I ordered was the grilled octopus and it was really salty and I hoped for less salt as I ate all of it but it left a bad taste it my mouth. I also conveyed this message to the staff when he asked for feedback. The last savoury dish I ordered was the mortadella flatbread and it lacked a bit of a punchy flavour from the parmesan cheese or may be it was the octopus that changed the taste in my mouth. The banana parfait and the ice tea were the best dishes I ate. I felt the service team needed to be more friendly as i did not feel that. I feel the next time I visit such establishments I need to have a guest with me and only then I will get the respect i need cause it all fell flat. The Ambience of the restaurant is great but will only return to Fallow and definitely not here.",
+      "time": 1759943378,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "M",
+      "rating": 5,
+      "text": "Have visited a couple times and this time was ever better than the last.\n\nYou cannot go wrong with the mushroom parfait, which tastes the same as the one from the parent restaurant, Fallow.\n\nIf the chicken wings are on the menu, get them! They are so delicious!\n\nWe came on a weekend where there was brunch, so we finally tried the Royale with cheese and can confirm it’s worth the try. The banana bread with bacon was also very good. Also can’t go wrong with hash browns.\n\nThe atmosphere and service here is always top notch.",
+      "time": 1754431820,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Hazel F",
+      "rating": 5,
+      "text": "They are dog friendly and even have a little dog menu, how cute! They’ve got outdoor seating but we were happy to be seated inside as it’s quite hot. They reserved a very spacious area for us since we’ve got a dog. There was so much we wanted to try on the menu but we went for a couple of small plates to share. We were surprised the mushroom parfait would be our favourite dish! It’s got so much flavour and has a silky smooth texture. We liked all the other dishes too apart from the cuttlefish toast which we found a bit greasy and heavy. Our dog enjoyed his steak and ate it very fast. The cocktails were really nice too. We ended our meal with some delicious desserts. Definitely want to come back again!",
+      "time": 1752403476,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:08.901Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xMBYYIDdkgR4aYnWkJ9vG8"
+}

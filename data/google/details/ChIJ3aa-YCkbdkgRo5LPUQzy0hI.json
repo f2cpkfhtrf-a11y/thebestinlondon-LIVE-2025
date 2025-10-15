@@ -1,0 +1,213 @@
+{
+  "place_id": "ChIJ3aa-YCkbdkgRo5LPUQzy0hI",
+  "name": "Kitchen Table",
+  "formatted_address": "70 Charlotte St., London W1T 4QG, UK",
+  "vicinity": "70 Charlotte St., London",
+  "rating": 4.8,
+  "user_ratings_total": 546,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.5203787,
+      "lng": -0.1365322
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52169808029151,
+        "lng": -0.135239619708498
+      },
+      "southwest": {
+        "lat": 51.51900011970851,
+        "lng": -0.137937580291502
+      }
+    }
+  },
+  "lat": 51.5203787,
+  "lng": -0.1365322,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://kitchentablelondon.co.uk/",
+  "url": "https://maps.google.com/?cid=1356412572518027939",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:30 – 11:30 PM",
+      "Wednesday: 6:30 – 11:30 PM",
+      "Thursday: 5:30 – 11:30 PM",
+      "Friday: 5:30 – 11:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cJwlvG41jgMoA78xfmRffjSS6fogr3BMePfdCuilibkOVQ8TEgNPMUKydH_4_pBDKsbmZgltWbxkLjVzm_z0ccxt1nZnRe-AbQb7cfwcMrtIpa0Un_ncAPzH5hhZ85OoUa2bJPqe81x9rTX2t5B0Rx9TjmtCl6R4AX05VINgS_tbLMo9Fl74ljpKuwETWnAlaGZ5TiO5fv-VSbBreuqCFHAAHBV1mhG-qzVpegXJIn-9Lqs4VpUyefJoRAS0hfYV1oXkr2gtgoj7Rg4mx_higf3Rtg5RStK1VfanFxJ1DCzg",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107059866798836552235\">Kitchen Table</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-OqnZWJ4B-QzNd-n7lBxTMZoSN-rVHtnjoB4p99XPAa0O3vvGvaHdFKOuqTFR7jU5G2UCU4gNc2CzpkkAbNOa90-s8ypI7XBGlbKfbyiuGmta2Fh7WJkImjkT95aTfCMoDU5PpWJtijGPHipT6cgXcdsre_8cH2M0ceAXgVTe0aBbyn5c9pCeK1n4DHHGS7wnaG_1ExEYYf7LiihiqXDJQ2SBDpf7WqBzC357bcwcbR4AW8GufnGHwz6ALEZ7-B7xkzglpsnMiqPwE7n-Af1h4yWXAIrwwgyd_916-Z8gAifqFbHPczS0PeIzaBR_kICgZeGmk403G4_3pMRgzFYE8Ods0wXSZGMRCBytcEz8b85bvpa9UjZ8U8YSJ42Si7i62Y5_wjVI8TLNoGjLAIwWPU37QFNr58iIl476Z6mpdb4EPkPy5zj8REq6dL-y",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110105400563689812438\">Kenny Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fQAQuqihPasBTz65MZ-MdaF0KPW5bFuevLx0-BR_wPJPPl_YIZwAlGHdE9aahCqF3EgckImhf5dGw6KTMqAn7xsWfu97u3MVM5CkmwZVkICNt42zTe29oUVDBy8zw_tVHXsz5o07ArrN-NKnTtv1GVPmMrTrVvXyvVP-hCO0qS-7czTcCFSkNF8jUhlTNo5wMx6ylQlJrXdBdpxw5gF8Uzw9-Obc6lYnfv-4zXk0cGgNgkzQNDSbrE3coXI3PGDa5pwM_har_VJsjuXvGH9Sti_nMtw3oNKvMPes_DaHDkaw",
+      "width": 2606,
+      "height": 1738,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107059866798836552235\">Kitchen Table</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fXFBcg912Td9XGA2gM93_v72oeo7COS4bruCmsRJcezm3Gls2l6m2MaCVtkvmSZvVx5LP7ROmu71God4bmj0cUTYgglQ3gJTY2ayn7rOQBCV7i-QZUHVRMRJ1gn7hmTAuSeOYakGGDStLZpAeUrMKM5wSMk0Of5GUvazTsAdxyJHR_SmCbEEaUnYHd2ONs6L92YAPFQqBVBQhl_IK0sVy1DNDuSIA_oNO_yGhJvgEld7QsKQPx39iY0uUcUqVIzs35M6SpFo0RPQ-zP5PBtxQnd3-QnBjy2yq_8wdxIBIAETNlTbdpBnMWFcBR2sgigIh6HEsM0EfbTbb0dMZhcRKSKO-vcjeSdz3WBZYLfnZdhLVpy3FL-caJ5oheEZKPCC4TTx24Dq_PHMZfw-g0982kDa2dQTSPgYOHHXMcOvVAk7-DryGP1YGoNKOiMMzW",
+      "width": 2160,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116899214024286657106\">Grace Yeung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cD28bcbViBGmJAbgld7plz0hffyFBLxSAOtUSGNgZ9nqTdDMyLjhdl1FT1qfyuUilVKN7z7uA4Dr6HcSTbVt3PMzuaDZFAfNo-_8NJ1uPuUrnEqXc4VObX9CaFJbMw3ilKvcj2JXVuKpDj1EkZ7k8t24v-TWPB2TPgq9VbDBekH3g7PIEoCWEd76sJqmVv5ygiFe52KRwAOeQnBdSNGFlpLqTGbOG7FTHShQzQYE8XiQiPuCevLvUEd5LgLsKpYDwZETWaAlfozhfuXe1FFuYlOIqVUhT7g1fnGEI3lzffUBQ_Bx2akf2vneKvW4FuS1sAJmxXFXx4Gk6y9BcqTpd0AgNrfj9EhLNO5IBiPyp0vIlOzVGhxyA6ktK8PkCcNFUlKkx8q98_Q_Ph-XUbus16wcPF45V-1z3-JhMX9cVoX4v-",
+      "width": 675,
+      "height": 675,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102247754483505234805\">ALPHA MadNETIC</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f6JDofG8rfTXwA9nwmqrV8GOAwkjODeA0HzEDHeLBLFN_Xn5z3XfS_7UuVSFME1g6z-zy31t1CKSdNtsPppuSX4oZpUkhLshaJx1Hzx_rtOXcB-Ya6a5Je3ie93B6reoW-zsavhh3KXCCRoL1xlkPZ_6tZpBmJ_R-ITGCb4KjNQOC4p_CpuTBTHO7YCP1t1Nw3gTiPgMfHSV1QGcacyzvHG9FL0qDaHLaiZdcjLJtgQw5ZpmT9TJyduaLIpwujNH2JM7CyccUhBCrX0cr9_IHbvm2QfXvb_0qnUOKkqKW8HlyxDs-s-dIEBzNMXIkOMzRYGLcNA3CjFkvvH8CPAMd1gxAlY1vksN_jy6Dw5Nex4QyOxru5aq16dMBvBLxFsE9vpxHK3e2sedrHGLR_dZI-gGGFb7ZcoMhsrPrjGbBD5YAAgajcOiDnRJxQbwU1",
+      "width": 3280,
+      "height": 2464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106224510704185428614\">James</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f7s04BTL7IROe5B6g4ihNCxAdwwkLoISutDZGrMrW-8ql_USXe-weKpzUkrdWMbjr5_dwSyL6ZyzBIFU43vGBgN-UK8n1-Y_QMvWqbNHnFLWAMSHe8youhMg2CxXkJXwY8TDqYrm4441usirXkp3jaHMY-qzJURVSiubanVA2_ZWs-IWr_uTS3Au00LWJof7psnn8PxmOiug4899i0-nj_rZCCIEKvYoSGu_ofGJPISS-wr1O7QW8-BpUFSKYZ8yzowngW51LDWHXlztcU20SvGZSjAH7dmInYRXg-ZTNf6vVfKy3bNA5jsEDhT4thLY3VQMOR8qGqNqohuP-n-Ty8vtaIL16u2TnHp5fu2XWUqiQEwPF04Q_Q1VwnxglkADjmjVhy4roI6FXHTsd9I1UzWWYss3i4ZFpKyBcArjIFMC7fN4BWhB3KRXYLhx78",
+      "width": 2268,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116899214024286657106\">Grace Yeung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2doqDqAReKwNHUjqL_6FJfJo7f3wOMA3UeRlyzq2oFNl08b81wCnUIt1YLX6j9DbPUSXiWwbIcFTS0v-FTc1pGu3YCV0GmxZVWqKzRquVqLDAnxO4VQYuMxMkK28YWGBK60q1hhCqstm1eodwzJoNqq-4HQz9uddy4ky6GHhmOSYJRjQOd5cj0-4EtnqL_UtuVHF3THH3AC3t157P4Aeqs8aLbNMVxgGOVMddJR8fe_sM9QC0dyoZziJILQpEeCWqm24VB1JjHuONXBDcYMaV0MuWG1iQAdt0ME3Qqwk944R_HdDr0zdPpmvkJ9TOQA0Ms5Mt8bb0MpKBL9rmUtn7-noXnIvQpDKOaAFmtqQSh1gRUL3nL9nTGRVp5J4CLty_37-WxuDzKLm1xebLDu0wHLhKuHeg-DaBXbO2KJgqB2YDyB",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116063410947942639514\">Jason Chang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnjOK2yZvTUyjejjU3b35noqs5tA0DjdPDeb2R6Wu9EY7GuHRvPMpgOUZAg_zj0diwgxvpymDucGqOAgYvoILH0SRK9VJoikk9V_ngCcZz-7S1qHRWK-s3KBKmAebQQ1wXNVxCNVbLSYZg6Vu10lP-2UoAei6MILPCkzBFFqprCV-B4KN5zdqLm7bmNuH5cBnYUmhPkjGNQhrbDsEVBXRD7htuNYwO3R4yeYoDyT8tBIlbtEWqcF_ApiCCADJVB1wvNKyJNu0e9KwnBu3uVaFm8tCt7vcLbn5gWmaf9LtGe8aKEDs78lugU66hERvmHF4dAYJKU2QBF3rS8rrtzJaPqKpZ3BggkWodZiHRT3MnN3waL7U_dFDGqn_DOFf-8Kb3OicCNNj0SmLl_jnqToeX2aipgi68f2mZ6vEkxzs",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105652515150483924764\">Sophie</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2feBuAfahrurnHbDrAD662nbYHRM_uvHTLdppud9qez0ib5R2L5jhspFZDnVzJNGYcLHWqSHkS1pSZIbjg90ypONljzxf7DHJuq7kRZEDFIXVm7519vdqRfvCeDi24NVLA061PANux1OmA1ycSJiuMTqm1-apXJAR15KLRq-qO8zYpTELsSZDWTxZtEkIa9ztN0r65WFqnqG3n-ZUlF0m9AedejjxogTOuYIVF-ZyrLknSl4FvtOhgHYqYI4dumPG9_jIB5WNIF8uRYR0KpE1Cr49noIN3ciSA10VGVXglqoFxqGbIJ4Tz37iNSGPMi9NhTFTuQbCyopfR7FZESbO4eiWBzAo4SsppvfSc2ibUMLV_N353qEcMKQVn0ERwzOr9LCUgJdWNlIb4cu5jk4caOa1dYPVY6giRU35-YgM-JkWiKEjMpHTIN4gT9f8dh",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106224510704185428614\">James</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "19-seat U-shaped table around a cooking station, with a multi-course menu of small European dishes.",
+  "reviews": [
+    {
+      "author_name": "Kenny Wong",
+      "rating": 2,
+      "text": "My 4th visit and for the first time I went for pescatarian menu, honestly I was disappointed. While my fellow diners were enjoying the normal menu, I felt like a vegetarian. I was expecting the kitchen to replace the beef and duck with seafoods instead of pure vegetables. I wouldn’t have gone for the menu if I knew that was the case, huge anticipation ended in disappointment. I was later advised and the veggie replacements were advertised but wasn’t obvious to me, maybe they shouldn’t call this a pescatarian menu.\n\nMore seriously, I don’t know how a professional kitchen really functions, but seeing chefs putting spoons in their mouth for tasting, then put it to a communal pot, nothing wrong with that.  But, then other utensils were taken from the same pot to stir the dishes before plating?! I was quite shocked/disgusted to see that, raised to the waiters but was told the chefs didn’t put the spoon in their mouth. By then I observed two incidents! A small discussion was going on in the kitchen then the communal pot was removed in front of me to the other end of the kitchen. It didn’t address the problem at all, did it? If it wasn’t for my friend’s celebration, I would simply walk out. I don’t know how 2 stars were granted if hygiene was one big factor.\n\nThough some of the dishes had interesting flavours, but the hygiene experience totally ruined my evening.",
+      "time": 1759698766,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "James",
+      "rating": 5,
+      "text": "Amazing experience! It's a great set up for fine dining, the social aspect and connection with the chefs, service and other dinners is great. The food was beautiful, different and delicious. This is the 4th tasting menu I've tried, Wales, Houston, Tasmania and now Kitchen Table and they all bring something new, interesting, varied, exciting and again delicious.",
+      "time": 1751005912,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Peter Levchenko",
+      "rating": 3,
+      "text": "Sensational service thanks mainly to Daniel and Alex.\n\nExpected a lot, food really missed the mark. For a two star level especially.\nOyster w granita nice opener, but playing it v safe.\nCrab pleasant but not memorable and lacked texture.\nTomato - absolutely top notch 2 star dish. Has everything. That’s where the meal peaked for me.\nScallop caviar supplement dish, again leveraging amazing ingredients, was good but not memorable. AbiT one note the way cucumber notes interact with the scallop.\n\nTrout - one slice of trout sashimi size was completely tasteless as was the hollandaise. Really really missed the mark. Whole dish lacked flavour and texture.\n\nBread course which was a brioche was totally average, sub par for 2* imo. Especially when a chain in London like Aux Merveilleux de Fred casually sells a way better one.\n\nThe curry like noodles dish that followed has tons of interesting flavour, but that’s all it was - it felt like scraping the bottom of a curry plate with some interesting candied notes. The noodles themselves were a mushy and lacked any taste.\n\nThe agnolotti with goats curd and onion consommé. Were pleasant, safe flavour combo seen it done many places - also imo the onion doesn’t really match the rest of the dish.\n\n“Main” slice of pork with tiny sauce portions on side. Pork lacked any flavour, dish lacked texture.\n\nThe tiniest quantity of food for a main course I had anywhere in recent memory.\n\nBoth deserts were super solid. Fig - memorable and perfectly balanced.\nThe lemon cake - texture wise was spot on, flavour wise ok but unmemorable.\n\nPetty fours super solid.\n\nI’m a very experienced diner would say whole experience taking 4 hours is unduly taking up diners time. I’d wait 20min for plates if they were absolutely knocking it out of the park flavour wise however on this occasion most of them were ordinary and nothing more.\n\nAs an experienced diner at multi star places have to comment on quantity of food. It’s inexcusably too little, we had the 10 course menu. Left hungry.\n\nDaniel gave us 11 star service on a 10 star scale and made our night memorable.\n\nMaybe caught the resto on a night off but have to say whole menu feels like quickly put together lacking the depth of concept typically expected of the high standards and reputation set by Kitchen Table itself in the London dining scene. Happy to reconsider on another visit.",
+      "time": 1754521157,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Alejandra “Ale” Paredes",
+      "rating": 5,
+      "text": "Where to begin! This is hands down our favourite restaurant in all of London, and we love Michelin-starred spots and would like to think of ourselves as proper foodies. The attention to detail from the moment you step inside is just incredible. You’re greeted by none other than Sandia Chang herself, and welcomed into the bar area with a lovely drink and some amuse-bouche to start the experience. It already feels special by then.\n\nYou get the chance to chat with some of the team, get a glimpse of the menu, and start soaking in the atmosphere. I love that they’ve recently tweaked their offering a bit. There’s now a shorter and a longer menu, which is great as it opens the door for more people to try it, even if they’re not going for the full tasting experience.\n\nAfter around 20 to 30 minutes, you’re moved into the main dining area, the kitchen itself, surrounded by a counter table where the real magic happens. It’s like watching a symphony of chefs, all working together to serve you the most memorable dinner. You get to interact with them if you feel like it. They're incredibly warm, happy to chat and answer your questions, but also never pushy. It’s really up to you how involved you want to be, which I really appreciate.\n\nSeeing James Knappett in action alongside his brilliant team is amazing. The level of passion for food and hospitality is so obvious, it’s infectious. Both times we’ve been, our favourite dish has been the lobster, but honestly, there are so many wonderful surprises along the way. The wine pairings are fantastic, perfectly chosen by Sandia, and we even ended with a beautifully paired cider, which was such a delightful surprise.\n\nWe’ve had dinner here twice now, in different seasons and years, and we still can’t stop thinking about it. Just an unforgettable place. Thank you so, so much to the whole team, we’re definitely coming back!\n\nPS: I had to pick a few photos as I had too many and don't want to ruin the surprise.",
+      "time": 1754558055,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Sammy",
+      "rating": 5,
+      "text": "Unbelievable food & service. The staff were incredible, kudos to Alex, the 3 Sam’s & Daniel especially! Food was exceptional, meticulously prepared and presented, and the passion was infectious from the staff and Chefs. We had 14 courses and each one was unique and memorable.\nHighly recommend if you fancy the ultimate fine dining experience!",
+      "time": 1748725891,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:12.258Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aa-YCkbdkgRo5LPUQzy0hI"
+}

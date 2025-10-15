@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJ14izcNQEdkgR_KRFhObbsNk",
+  "name": "Bill's Soho Restaurant",
+  "formatted_address": "36-44 Brewer St, London W1F 9TB, UK",
+  "vicinity": "36-44 Brewer St, London",
+  "rating": 4.5,
+  "user_ratings_total": 9109,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51186149999999,
+      "lng": -0.1351843
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5131920302915,
+        "lng": -0.133753319708498
+      },
+      "southwest": {
+        "lat": 51.5104940697085,
+        "lng": -0.136451280291502
+      }
+    }
+  },
+  "lat": 51.51186149999999,
+  "lng": -0.1351843,
+  "formatted_phone_number": "020 8054 5400",
+  "international_phone_number": "+44 20 8054 5400",
+  "website": "https://bills-website.co.uk/restaurants/soho/?utm_source=LocalGoogle&utm_medium=Organic",
+  "url": "https://maps.google.com/?cid=15686279285239555324",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eL2jgxI1x73VPErWQuFZdc6EVO78shckMrtmvF3gB6ic5QYXDnSxqsg84fmr7NfnzGBSyBT4fTtURDoOX9LPIFvtZIQnUyWuKDwOOGwnyBKFeop2j_U0sfo1_rfApxcJlO8Z0Wu5MWp6bmvAp-xO3M_6QHVTvEfW49Mnc1OaquFvQDfopSUpdrw18g1gRtUFgrY_GAnrEFEFEjKNJMpl9D8ytGgqKSmpQPSBShZwllaCtqnqMTWARSOVqpVBHSDyNib_pdw0xkwcLgIsJkLv0YJR-x2Cdno3c7ytvLc1ENVQ",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107395482658381537118\">Bill&#39;s Soho Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOR6IWTmjdjxKBXmXd_Uwznm4EcQZ4iHM_Jgv9CqH-2Mw5DXn7m6FGfS5Ds3Ta8atsQtDNMaFcQBOGYzROhmHZR40t0VrxoWZYyJhmAsFtJzcHcwrukmBYwfrOTyCWMmJcWILlykB8rgJLpUUmfKgtNij9Pvzhpf9lM5sJG4AHwAl8mX7amOLnNvSXSn-mj8Oi9SJ_nwpmENF7vDFJ6Gh7SBg10iwkltyS7qTKSVt-JbqEQj_m3KSNga6K-_P2a2VkfsjAsZMJsJ4Bq7yZNBCv3APjdtZxWA6G2bogkue1Ug",
+      "width": 4000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107395482658381537118\">Bill&#39;s Soho Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cy_OZdRfKIy-CQ4GV-jvPuOo7J_1k8pVkU0F8vxnCEYSrZuvNCBKgAJ3DuTfWYaUpBuE5qWdxn1boH4wdhxwyAZxeXK-_SkKH8zcX4STIrB2aYWjjfZhPkUaTke3LMSvHtlU1dVx2cDi1QmDxxi26K27bTtzDxFDNVNYdzuFFAepHy8dY_MDMqbjURjq9Bwrduy2EsKSNvXKLBmq5Uwy8cJ2jXuZBSZM5Sgu8Dd-Ez9CISxfbdvzpbv_f7nlpk7oi6Vo9t_H5KGSKLNgoeM7AWMds0Ja2_Xzlcq34hKNMwfNY0JY5XjIqzcuwd5TM2AN9UJP6VN4GVa2wmnzmfBHVsCK52h6hBduy_lR0xUoGhOKEIrSSXO5pRjwTC3BWStGpXfqkLW4op2lxoiDxHjEIcuQZVuOylTZy3cN_-0ElEkCqk-n8tyoaCe7YMFQ",
+      "width": 1170,
+      "height": 1198,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114454474511712024711\">Lucija Iskerka</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cr1q9KEEcvcJ7NRTKeJPfiesinYuVgkXnhwK1hu30uyGc9sLT7zLzcAYGK4NN5dI8r4aoxTcV8Ph6u2A8yShebrKjRK_lkcuoT1jGvBKeUxeTjRdkjtLBP46Ved9Crx5l9K4-S7LMSCJnGfEmRKftGLwbs3XgdGUNigeGerdT64SwFi3CyRHoxX8P0hLtsAcWHkPPvbD-QywLnuXRNlMn2x1hdMvqgCoaS3zph8T0y_z-n_4yPzfbrbA9-LO5MiVsJm-YT3iY_CWvA8eJCNosOf0C0tFyMDHy4P-pD-rDxYw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107395482658381537118\">Bill&#39;s Soho Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dgxyS8UqaWQ3S3UI4oq_YV7wSuLgiA1K2nfGT2fRojV8Rqy551B1MHWszdgLzCZxPh6hhc8RkITtEktOWn21qGWTyGNRzO4luW_GxAwTA628BFVuoEi6OW0e6K13oXjoO6FbXXnzbdI5OB6UNrVwOP-lWn6qJODurWFhBXBb9OE-wqkCy6JuMZlj_4RMRX1K0DOtmHXUYEGrr0ksiWot_3iWm6Ih5UNOjt2NflQvtKZiELL8ykQFvtO1hmWUB35A8L8eoc2lE0niwzSSDArXYZ1Y85ZwcAmxIjY-OawkjP4h4vbgE24bCUxrItB2cF3el6dyxNRAqG2eEaSH00q_CNE4PyexjPTOcdKcfZb2CmfhjdD_QL6tNJRoCxmBib1A2xPDCRbcE6ic6Ub132VfHzYrkSKQVdjB84h-MPIQVmWThF5kJOgRP7dP2FqA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114985535303520871692\">Alessandra Tagliafico</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2coJ58S8ZscN4Us25VDHGPZuF130hhYXTRWIb8qK78KMaBStu4bHERaiTEz1AulmnD1zcfQ5spzf_Vb6P2I9W04UoPjZ9onJJHDmsbNs2WPPvfofJQi0LQJrTr8sm4xztBtG5RGm6s7EJZUlu5T-pxBf9383DET0yZyq6DM1tvX6IkYTN1WEdLqsmx4Aw7R8q6kFDjFvB_0Ibbh3Kd_zwwUimehUdgsQY0btxogjpQKqsoXgAPeB_TazS_T47eF8zGTMRmGuD8lPO1agD8KvrgsI4PS3jdn4_kWv72-wgP-6w3S2fUFtXmikDab0qLYsLmx9gqsZUOeYXng0jjAaafL_MrDmYUkwGRfyrMi9zkcfVlQxTD6yUw7fhIgkNE3_LR1STHC4mH3ZdpnCBzgN7P3ZwhvdZGTAat4Wi5eEl0FUQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110235637880119224271\">Francesco Marella</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fohD4I0Ddl6Wshc5muFeUleWNv58OTztrKYKZaqJL5iyXAxW_hPFScW5_DDYxtgalahVt-GA-7xxNzfrN5zhmmGpmmnN1YjZQl9EA0rPat4Hq1d0CThFzvI0HYaevqo2MArT17kvb9GWIJl1gFHyq6DEjn7XlDLJfMI6j_9tkECCCYBWIQcrfZidf0SV2aNgKKQqqCCn-svacXAbSx2ouBdlu9eSBly1W4g1mKllOjlBeqgVbk4J3NEnf1nONCKa2e1nG6Htn__WXRnN7BylQOdgXIVVcBnN-swOuuOyJC8aBWnBLRK3Fs_yC0TlXyqpXk_os4GE_eBhX20YRmeMrz7E0kkttGubg9rYuqZ8cS4SJgO8waESGNgENZA8wAyUGuRhGMAVyACC8-C5lMd08WEM-EmD592KEv4m7JTAT7wNo",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110244535790848727259\">Nhu N</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cz0_e2glUCxf6QDZtNaKPyJtOL834h0aOMHelWpSc_1rDoakRhTTwHnCKdbdf4eUm5hi0lWERoy3Is7eFR8qR2uhfFdJOouH_UYgV7wIrzEYsx3pIwpZjheXYjLvduqemWzvsJjq8Vubs7WszruQih1huXzxmUIZ-IztxCiLbn2wbFEyWT0-8Tu1w-yZwrP1dmOOgcf8Nw5HPNMSd6wvG-0J6HmCcHP4L3a4PMnKKXBBBPy7ZeltMHWm6xd7w9UowU2JuT4pFMiBuraYml3c7W5auaGWUxgusGe8HDMIrsy3-qLjr6uGCT_2U9PiVSVpQ80arFt_u9dN2Erv4GddR4FR3gqGFL2GZoRa-L3e6nlkNDBfSfeZ_uSlCZwQqDwPGdtqrEuBdBDonYFa_MJ6fL_cVpLn_0hd5tzAq79OtZcg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114143472467814803634\">Sabina</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dOD9X_eiz0F9B-Ekz2cZkjB0_xfSl-1i0nMvuIqmajUoJkNDAfG-lMkZ8fANeUg4c83SMEHWJTHY1zYt29AE03fCPe19nzCriUIWFscxzxM0qcGxGNqPzCA0l3Rmm4iaNSOGsyxJ3DnSdCfaqy1fjD6JgPUPefGefJMk_aO4WcqQWeVOwfKqgt5zfHdU6Rbu3XHGTv9NFYAQ4kGkTtZ_EWvN0xXVSbVsXMR5PBQDmZ8uL11nOaUXrKGlhogk6K1fAkdOITK86IBeRy_XZT5raMjIEowkWTxtYF76sRT2NzbRaOHyV_H5aRtjT1CpAd0sLcpK9ieMjBBufGI-2TFAp97QJssYzaqOH9L4I2YOm81KSXBzkGDNYUlyZBgrn15U2DD_8pdGAnY8QZaXMbxZ9uh5ezdn1URy5BDqvBFFAMEwHN",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101393175149884443393\">Ottavia Cestonaro</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ekygYgX3j5RCcpc4LkBKX1dz7VniUNr5j5fB3BcVcevorsrfT0wzXosQ5u6rf45T2dO67QvX3b41VPxVmbPmUnPi3pxlQ1JmU8qiu9xomHxzsztID6Q12jp-96bsao4AmBU2Gt6lYaU_iBvxb8YsV8z4jDZc8QtxhYZRuMKY20H2-GtX9--bE6Yl5OkD_vUIfQLc4fRkKZtRe8cz4OZ8Pyp6hx4U1SGtDKldwlrzHWp_1s1mmxSrkQdwp0UTsCoJ8UH2nDzQpmv6N3TJVv1ktgnXW65qNXqtPDb3Vw-tv98UUCCOB-miLQ7v_X9tym52yv_b4nGG0bbxCt4T7zH74zS8QyaBCllIHWbiYtMtIiy9F2WGn5KafCiuoJibsi9n6XCO5v-qRo0BVGfLBfmr3DTUbcgWhfV0tro6WjMK0-KDni",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104346899186758237257\">Aisling Siobhan</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Contemporary European chain dishing up separate breakfast, afternoon tea, lunch and dinner menus.",
+  "reviews": [
+    {
+      "author_name": "Justina Molloholli",
+      "rating": 1,
+      "text": "We had the absolute pleasure of being served by an amazing  girl named Katerina, at this marvelously spot in London! She was incredibly friendly, full of positive energy, and made our whole experience unforgettable. Her warm smile and attention to detail truly stood out — she made us feel so welcome, like we were old friends.\n\nIt’s rare to meet someone who combines professionalism with such genuine kindness. She went above and beyond to make sure everything was perfect. If every place had someone like her, brunch in London would always be this special!\n\nHighly recommend visiting — and if you’re lucky enough to be served by her, you’ll see exactly what I mean. 💫",
+      "time": 1759645523,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Sultan Al Mansoori",
+      "rating": 5,
+      "text": "Bill’s Soho Restaurant is a fantastic place that I highly recommend in the heart of London. I visited for a late breakfast (brunch), and it was an excellent experience from start to finish. The food was fresh, flavorful, and beautifully presented – I tried the eggs with sides, and everything tasted perfect. The restaurant has a cozy, stylish atmosphere with a mix of modern and classic décor, making it a great spot for friends or family. The staff were friendly, attentive, and provided quick service with a smile, which made the visit even more enjoyable. A must-try in Soho!",
+      "time": 1755444622,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Stefanos Antonakopoulos",
+      "rating": 4,
+      "text": "A decent option for a quick bite in central London. Ensure though that you have booked a table in advance as it gets popular.\nThis restaurant has a number of vegan and vegetarian options.",
+      "time": 1759337733,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Ravi Chadha",
+      "rating": 4,
+      "text": "Food was very good. Recommend the porridge and the eggs Benedict. The ham they used is great. As an essentially vegetarian person i made an exception for it.\nService was good not exceptional bit no complaints.\nLove the atmosphere. Always visit when in London.",
+      "time": 1751738220,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Carlos Soares (Bat)",
+      "rating": 5,
+      "text": "Delicious eggs, avocado and mushrooms.\nWelcoming atmosphere with great relaxing music.\nThe place to be for a healthy breakfast in the core of London.\nSo accommodating to our dietary needs too 😉\nAnd good news: prices are fair and you won’t be ripped off 🤩",
+      "time": 1753611750,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:46.663Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14izcNQEdkgR_KRFhObbsNk"
+}

@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ9TGOytQadkgRsdB8immA8e8",
+  "name": "1864 Rooftop Bar & Kitchen, Oxford Street",
+  "formatted_address": "300 Oxford St, London W1C 1DX, UK",
+  "vicinity": "Handbags, Purses and Belts, 300 Oxford St, London",
+  "rating": 4.1,
+  "user_ratings_total": 1203,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5151224,
+      "lng": -0.1454656
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51634403029149,
+        "lng": -0.144151719708498
+      },
+      "southwest": {
+        "lat": 51.51364606970849,
+        "lng": -0.146849680291502
+      }
+    }
+  },
+  "lat": 51.5151224,
+  "lng": -0.1454656,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://1864rooftopbar.co.uk/",
+  "url": "https://maps.google.com/?cid=17289741635235401905",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dEl6HRb7XtPzKgFmQ7Dz5LK03Qo1PM8_WtEDHyBoRHzbshe4LknlmmlDFwXRixZqKUqbt0XiT-DuCmwNB_wh6Q9x7u7KQC6fLkE88m03BR9oVoVg3MKgfPD6vjIz5m8qH60rhiVYYRyxcqQ0oYgzYiVjrGJyH6NqYSsvqE3cQyc59yMsO_Mb2v66HXkO_OKQXTRsNZygMKTJ159S6oWeuoaypJQSWjvW7DHPZsaXX23509efGmehXvZ1HTIFNvAfbkIiUyZSHeR7rAcgoYyCCTZskK0va7_kiQj6jubSskEA",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107803845441981980077\">1864 Rooftop Bar &amp; Kitchen, Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cRZvW9VkYz6WaOct3jyoFmG6Tu4Bcl-QRDxdqjFITqMVubgXoYG7hp8pwKjhcE-0q3ZKxcIY9wjvGBJsvKRnDILDAgPJ2VD7UMR9Nc-AsV78-lygEWYnut5JwiGVtiZTwNAFmsCiUTdVCkh2p0WGkTWLpVqoht6zpr46E2sQXg9XCLdhpBPhDpK2bZCJ47hwcAaeVqE-2sNCLpEMv8qEF2oplnWdpQV1g_HvL2xhw8yPBTQF6mxnrd_MJoVWLYB4KTakAHqTz9OGl1ZEJaBSYYZrGC2MVxuJpCKWfIiXWNGw",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107803845441981980077\">1864 Rooftop Bar &amp; Kitchen, Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dFKS5EXAQY3iakYnnB4Nlhf_7VHseOnVfnJOSncrbmh1ySN5s4odRKkVq3EHg9iyI-oJljOXvSOxp2qrEC2QwQePaNbGL5_NAhP4WJj2xxbVihS1wLqUh65Fko9hCFotHF23ytz1bDJlPplBL3KjpgXHXh3uitCraHLHlC3NrA7CSsygxlDEQNRpAmyoZrL-ZG0A9PsZVjj_by-IGBAVFBDaIeu8uZCZYgPbBrIXxLomOM_ZfEcjxa8p7vUop7cLl7d8JDdoUo5e7YOO1M9ijBZhXERjX8ZWo9QbBBS3vXnQ",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107803845441981980077\">1864 Rooftop Bar &amp; Kitchen, Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eccgEEgpMVUakro4b-JoFMhbz15xXOcg-uMrIZ8BfLF_YsEIdQ4kbbu7sU7rGYapKFM3qUADKegiIx66WfEJ8pfv-Vz_5FY6FORvABhW9Vc13qV-H9JYuNACPfGS5F5AgQzliPk-UeYYEDVDLNQsSld3IJRv8N02CAwNGsYXn4dn_jQ8L9wXUKyARfGW5UI_WTHISSANv-mmtDY5DTKCDCjp5juYwRbpzGxRoQKqDrMWFv7gSiDJ1pGkS7-3QYj6FuXXffhFI83NEVxkbs3nDTk2pvCEP4HpOVHJDSNX6PsQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107803845441981980077\">1864 Rooftop Bar &amp; Kitchen, Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fs2u9iEAmnJurbu0wYR-zykBXBCjJi0pYMC9VB7WJRJaMv7Pvu5CmapeOQYTSy2hL2juqUSG-CiOAdwRxjTTYTdZ6FQPN0dNlK4Li1GQummKBFjb81Uz1UeuHZTg1DvYqmSqqZfHnbkbciusGihvp8bB9s1sGEK7xG3USMUoDfLIXsFt3eXPm1YnSRn0805W7ckoR9cDzbm2tyYEK_BoIVesJ4bvtWMhuKAukHidY6Z5TrRmnAFob8JdTWmuGIWxFfk5qdVKwveftqH72KqEoXxuJ4AGKJH-rTWkn4FuWzlQ",
+      "width": 1920,
+      "height": 1281,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107803845441981980077\">1864 Rooftop Bar &amp; Kitchen, Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eZJZMb0oT_1faymBwBTneZejUypUYsiO-UuZhlF60yAw06dap6M_4y-BtP52fCOchMu6Tl6mFMfLsOHYKNeznOzvn2dw_7gk00xRznTP_gyufymjRg4XLwjYiafR8fx7NZRm_wl_3Nh9wROCsd_5MIVBcYbiCimDOAn-F90uwVojD2bb4D0n7_zhhNlf4L9MTCVpjfwPj99kTKPjcZtyhJ-M-8uAFM75HhWORKnMwQRPPUO6xj8jDEssF9zPASgoe9iUN1xbpvR4_JAFotjBnZMl-CRNh_7uEMNEeopHAHrA",
+      "width": 2700,
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107803845441981980077\">1864 Rooftop Bar &amp; Kitchen, Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cB7Guyiakq-ZA3JFfHveuN3jEcDS-5L8_kQpKe_uT0zFxDWiIWNNXUPvSfwW-elNh9DPHUxKsUEpLwuxbYsz0bxjaaU6RdIyXhFBZblLxJweEfFPsVFWO3ECIsZODjbL_0hIwacuR4WBiIn0_ZYPnMLhFrQ_0g7I_IrNX2ZNN2mH6DXQMKQKSwZBhyjELRB6w98ouVO6ZjnkJAHuHS8fADmqc2nPcZ66_cV6L3PqfhxxlwFDiz0wrOrphFCWD6HZN-dQouyZHbsi008pMqLXpPbft3eDqAv66EITcWFCyNXQ",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107803845441981980077\">1864 Rooftop Bar &amp; Kitchen, Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e797fbHTTfjtMQ_C3mPkQoeXrtxPh-UWd0LI5yBFNGKxJwWWYyooAdkzau8WOi_LdPCV4pMNtqaMJ3rDrtY516tJWuikmw-urA7BYWFk0Psh_jEBjjUKSN1iTF_BOogP5OvxSf98t-xK4mhbvFjycRkwxv3jwQ-b6xvUTDZlKmFj0LbdDoE_xZzU4BXrYUXrB5EiQagV4df-GryoC7SGJ5gEArJp1XBuRhz_OGjCew07mFHVp252_GCuIc8C4L7IKsGPIFTBsyAsKKDcCiCMh7Q-dfaim79QSBc98rmCVw-NkmyXIHO1kSautaw7yWdDpAeMXtwLt2485UeSyibXCYR4Z2dbYCWzbCe-hU7jLaf3D3yYrUMAhFN6oHaBYW85fPG8w_X2r6pqesOQMmfemT-u4g56lqS2GeOadNQfFFFvJ6PdjBzLZGx5E1LpFP",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112089648099263898175\">キングスライム</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eA3jqIuuXBcWsGpqs-l-82xMvfjCJuBqlzdga5Kr-uAy7vnL_I4wsB2tJZDSMOanKrPBHXoU4JJMOHeZhlaY9U2d-sW_0d4hL-7jXDMQE9mx0be4RVvtHqOCtmGzwTaWBnM1i8va7ro3z8vGJB2VmDhyNB_L18Vhbdv82RD58Bfi52Mdz86DtiGhjKGT5QaXrTdtWkaDc8hyofhQ24CgA2ITpMPgX3VvzpNsTwq7U1lwnF8aAm22kFJGfht-AfQUSEYufv6jMjn3bikYJI--iXVfNUe96m6vhE1HE_XFr5k6nGLLPuju9pAL9HhPmL1IRrdtdUUwQ54wHmaOD4fgCV0XukMcWZhJmtFXT-9iii413evf9g8nPrjZYjftwTyI_rXtIl5wFx7YpoEk8qzUjqtKWQS5bP_Kn5KsDQr2Rb_ew",
+      "width": 1200,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100634530772509394117\">Betsy &amp; The City</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJjXemxxz0eJWioKXqvHt9YUocBpRnfTIodH2Qu1wfCsgyDZR-NrSwoR_pQyDvDWur3eOJNLa1BqXTDQNX-sVx70cPc6NVmNrVH0wy5jNhlRV5HnVBxHx1ig7h9xOjh193YPoOtyIb6v1Vd9v7J6JMDrxwY-xh4urLb8V5xt-DNMLCzTsgD1EqaEglmXNc4d6pWHOjy4IuOBB_APBtKpuKnoNm_oKEjhydMHmicZ8zqdJsc0vSEWiwVUgIR62IZ1T-fLJ-ley5j6nVsQIlJMQDg2PTm8xRvRCzleoxmeWvoQCJcjsNKDrM6cOu1DJvOsZdpqAOppxOHgaqEM1AzH6YzMEB02LYNIwq0DTveisKWxLRsy6zZlz8V990HUKqzjPKU91TALTlI-uF5Y_DIk7bvNZqZtbtCW7XNHpmtdPzZQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109616887627053426321\">michael thompson</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Unique cafe fare and cocktails in a garden-like, rooftop setting at an upscale department store.",
+  "reviews": [
+    {
+      "author_name": "Mohsin Zameer",
+      "rating": 5,
+      "text": "1864 Rooftop Bar & Kitchen – A Hidden Gem Above Oxford Street\n\nI stumbled upon 1864 Rooftop Bar and Kitchen almost by accident, and what a happy accident it turned out to be. Tucked away on top of John Lewis, right in the middle of Oxford Street’s chaos, this place is like a secret escape from the hustle below. The second you step out onto the rooftop, you’re hit with this incredible view of London—modern, buzzing, but somehow still peaceful.\n\nThere’s something effortlessly cool about this place. The mix of open sky (thanks to the retractable roof) and moody evening lighting gives it a laid-back but stylish feel. It’s the kind of spot where you could show up in jeans and still feel like you’re somewhere special. I went just as the sun was starting to set, and watching the sky change colors over the city with a drink in hand? Absolute magic.\n\nI wasn’t expecting the food to be as good as it was—sometimes rooftop bars lean too hard on the view and forget about the menu, but not here. We ordered a few small plates to share, and everything was fresh, flavorful, and actually felt worth the price (which, let’s be real, isn’t always the case in central London).\n\nBut the real star? The mocktails. My friends are picky about drinks, and these didn’t disappoint. They’ve got all the classics, but their signature mixes are where they really shine. I don’t drink, and even I was raving about the mocktails—they clearly put as much thought into those as the boozy options.\n\nWhat really stood out was how **warm and attentive** the staff were. No rushed orders, no disappearing acts—just really nice people who seemed to genuinely enjoy working there. Our server even recommended a cocktail based on what flavors I usually like, and it was spot on. Little touches like that make a difference.\n\n1864 is one of those rare places that gets everything right. Amazing views without being pretentious, great drinks without the gimmicks, and food that’s actually worth ordering. Whether you’re a local looking for a new go-to or a visitor wanting a break from Oxford Street’s madness, this rooftop is a no-brainer.\n\nI’ll definitely be back and bringing friends next time.",
+      "time": 1744296392,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Betsy & The City",
+      "rating": 5,
+      "text": "🌇 What a stunning rooftop! Especially on a sunny day though it's charming at night too ✨ Almost doesn't feel like the hustly bustly centre of London!\n\nLots of different areas, great for groups. The Benugo team is very professional and attentive...\n\nAt the moment there is a Martin Miller's Gin takeover whereby you can enjoy its botanicals around and 3 delicious and Instagrammeable Bramble cocktails 🍹🍸",
+      "time": 1748367379,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Cassie Cox",
+      "rating": 5,
+      "text": "From the moment you walk into this wonderful rooftop bar you realise very quickly that you’re going to be well looked after. We booked a table as a surprise birthday treat for our friend and we were treated like royalty. Gabriella the manager sat us in a private booth complete with a complimentary glass of Prosecco for the birthday girl then stepped back to let her amazing team deal with food and drinks which were all of unbelievable quality. We didn’t have to wait long and our glasses didn’t run dry! Our friend felt like a Princess and nothing was too much trouble. I’d highly recommend booking this gorgeous venue even for a break from shopping  in Oxford St as you won’t be disappointed. Well done team 1864!",
+      "time": 1755444817,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Becky George",
+      "rating": 5,
+      "text": "The concept of this rooftop reminded me a lot of San Francisco and really enjoyed the vibe! There was a DJ playing some great remixes and hits. The rooftop was beautiful and the weather was perfect when we visited! Now the biggest downfall was the service. It was like pulling teeth to get the attention of the waiting staff. Our order got mixed up a few times and we waited FOREVER to be seated ( waited for a host…without a wait time…multiple tables were available), waited for a waiter to give us a menu, water and take our order, waited for a staff member to take our reorders, and finally waited the longest for a staff member to provide our bill. Other than the immense waiting, we did enjoy our experience here!",
+      "time": 1723664846,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Alice Stubbs",
+      "rating": 5,
+      "text": "Great location in the heart of London. Reasonably priced drinks for London. Plenty of seating and great service.",
+      "time": 1755453072,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:43.667Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TGOytQadkgRsdB8immA8e8"
+}

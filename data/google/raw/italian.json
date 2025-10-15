@@ -1,0 +1,676 @@
+{
+  "category": "italian",
+  "query": "italian restaurant london",
+  "count": 20,
+  "results": [
+    {
+      "place_id": "ChIJefT-hWIbdkgRAGGu1AuI0qg",
+      "name": "Carlotta",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 10670,
+      "formatted_address": "77-78 Marylebone High St, London W1U 5JX, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.52095980000001,
+          "lng": -0.1520603
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52230747989272,
+            "lng": -0.1506608201072778
+          },
+          "southwest": {
+            "lat": 51.51960782010728,
+            "lng": -0.1533604798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJK4j9CagbdkgRluwkqYLufoE",
+      "name": "Circolo Popolare",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 32974,
+      "formatted_address": "40-41 Rathbone Pl, London W1T 1HX, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5171842,
+          "lng": -0.1338539
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51851287989272,
+            "lng": -0.1324196701072778
+          },
+          "southwest": {
+            "lat": 51.51581322010728,
+            "lng": -0.1351193298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJoaTWHMsFdkgREy3QGecEo6c",
+      "name": "Ave Mario",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 23256,
+      "formatted_address": "15 Henrietta St, London WC2E 8QG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5108748,
+          "lng": -0.1239785
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51226242989272,
+            "lng": -0.1226654701072778
+          },
+          "southwest": {
+            "lat": 51.50956277010728,
+            "lng": -0.1253651298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJRcG-rBEbdkgR9SUVxepVY0I",
+      "name": "Grasso",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 3330,
+      "formatted_address": "81 Dean St, London W1D 3SW, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5143215,
+          "lng": -0.1330708
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51569352989272,
+            "lng": -0.1316770701072778
+          },
+          "southwest": {
+            "lat": 51.51299387010728,
+            "lng": -0.1343767298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJj99O4ScddkgRNnDfPFxdplY",
+      "name": "Gloria",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 20227,
+      "formatted_address": "54-56 Great Eastern St, London EC2A 3QR, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.52510419999999,
+          "lng": -0.0813969
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52643007989272,
+            "lng": -0.08007822010727776
+          },
+          "southwest": {
+            "lat": 51.52373042010728,
+            "lng": -0.0827778798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJdZ6paFcDdkgRpPUHPngIeq8",
+      "name": "Padella",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 8228,
+      "formatted_address": "Borough Market, Padella, 6 Southwark St, London SE1 1TQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50517110000001,
+          "lng": -0.08993179999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50650787989272,
+            "lng": -0.08839327010727775
+          },
+          "southwest": {
+            "lat": 51.50380822010727,
+            "lng": -0.09109292989272219
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJfcEFmtMEdkgR9pwP7Z6jOko",
+      "name": "Bocca di Lupo",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 3376,
+      "formatted_address": "12 Archer St, London W1D 7BB, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5116537,
+          "lng": -0.13395
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51297177989272,
+            "lng": -0.1325869201072778
+          },
+          "southwest": {
+            "lat": 51.51027212010727,
+            "lng": -0.1352865798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJcTfBDSQFdkgR-Bbr_x7ng8U",
+      "name": "Amalfi Ristorante - Argyll Street",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 7863,
+      "formatted_address": "25 Argyll St, London W1F 7TU, United Kingdom",
+      "types": [
+        "restaurant",
+        "night_club",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5148137,
+          "lng": -0.1411143
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51608242989272,
+            "lng": -0.1396392701072778
+          },
+          "southwest": {
+            "lat": 51.51338277010728,
+            "lng": -0.1423389298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJaeQLjSYPdkgRsYMDcjvWeeA",
+      "name": "Como Garden",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 6680,
+      "formatted_address": "37-45 Kensington High St, London W8 5ED, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5021443,
+          "lng": -0.1890378
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50359457989272,
+            "lng": -0.1876307701072778
+          },
+          "southwest": {
+            "lat": 51.50089492010728,
+            "lng": -0.1903304298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJ_7T82w8bdkgRngOFit8DkGg",
+      "name": "Faros Oxford Circus",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 3058,
+      "formatted_address": "22-24 Great Portland St, London W1W 8QS, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.516568,
+          "lng": -0.1409686
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51796982989271,
+            "lng": -0.1396523701072778
+          },
+          "southwest": {
+            "lat": 51.51527017010726,
+            "lng": -0.1423520298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJoY74FM8FdkgRnKIUjW3bvjU",
+      "name": "Bocconcino Soho",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1827,
+      "formatted_address": "59 Great Marlborough St, London W1F 7JY, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5147129,
+          "lng": -0.1372864
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51610247989272,
+            "lng": -0.1359629701072778
+          },
+          "southwest": {
+            "lat": 51.51340282010728,
+            "lng": -0.1386626298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJpyQHEFEbdkgR1KctxC2Recc",
+      "name": "Luca",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1657,
+      "formatted_address": "88 St John St, London EC1M 4EH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5220361,
+          "lng": -0.1016722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52337022989273,
+            "lng": -0.1004301201072778
+          },
+          "southwest": {
+            "lat": 51.52067057010728,
+            "lng": -0.1031297798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJL5RXfs4EdkgRe0KWUsAHugI",
+      "name": "Bancone Covent Garden",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 3500,
+      "formatted_address": "39 William IV St, London WC2N 4DD, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5095562,
+          "lng": -0.1264024
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51088142989272,
+            "lng": -0.1250463201072778
+          },
+          "southwest": {
+            "lat": 51.50818177010728,
+            "lng": -0.1277459798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJb8xZZzgFdkgRvrsQVk8WJcI",
+      "name": "Osteria romana",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 6223,
+      "formatted_address": "3-4 Park Cl, London SW1X 7PQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.502023,
+          "lng": -0.1629449
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50321877989272,
+            "lng": -0.1615108201072778
+          },
+          "southwest": {
+            "lat": 51.50051912010727,
+            "lng": -0.1642104798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJL2Od25gDdkgRJPb87bzqpks",
+      "name": "Artusi",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 936,
+      "formatted_address": "161 Bellenden Rd, London SE15 4DH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.46666949999999,
+          "lng": -0.0727345
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.46816662989272,
+            "lng": -0.07137277010727777
+          },
+          "southwest": {
+            "lat": 51.46546697010728,
+            "lng": -0.07407242989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJLaauA8wDdkgRGVE0i0rpKRA",
+      "name": "Cento Alla Torre",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 2158,
+      "formatted_address": "100 Minories, London EC3N 1JY, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5101808,
+          "lng": -0.07528359999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51136042989272,
+            "lng": -0.07391242010727779
+          },
+          "southwest": {
+            "lat": 51.50866077010728,
+            "lng": -0.07661207989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJG9ssOq8FdkgRGTu5-ErLMaI",
+      "name": "manteca",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 2929,
+      "formatted_address": "49-51 Curtain Rd, London EC2A 3PT, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5240111,
+          "lng": -0.0805608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52537122989272,
+            "lng": -0.0790959701072778
+          },
+          "southwest": {
+            "lat": 51.52267157010727,
+            "lng": -0.08179562989272224
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJwx_Hci0FdkgRgxwdoexS6ec",
+      "name": "La Mia Mamma King's Road",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1681,
+      "formatted_address": "257 King's Rd, London SW3 5EL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4860656,
+          "lng": -0.1721463
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48743037989271,
+            "lng": -0.1708163701072778
+          },
+          "southwest": {
+            "lat": 51.48473072010727,
+            "lng": -0.1735160298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJGcCAtTcbdkgRyc_tXY8K928",
+      "name": "Ciao Bella Restaurant",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 2972,
+      "formatted_address": "86-90 Lamb's Conduit St, London WC1N 3LZ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5229734,
+          "lng": -0.1189865
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52431057989272,
+            "lng": -0.1176733701072778
+          },
+          "southwest": {
+            "lat": 51.52161092010728,
+            "lng": -0.1203730298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    },
+    {
+      "place_id": "ChIJzd0eeYkbdkgRixPmsR1cfXI",
+      "name": "PaStation London",
+      "category": "italian",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 8007,
+      "formatted_address": "76 Tottenham Ct Rd, London W1T 2HG, United Kingdom",
+      "types": [
+        "grocery_or_supermarket",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5206715,
+          "lng": -0.1346761
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52207132989272,
+            "lng": -0.1332599701072777
+          },
+          "southwest": {
+            "lat": 51.51937167010728,
+            "lng": -0.1359596298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:50.551Z",
+      "query_used": "italian restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:52:50.551Z"
+}

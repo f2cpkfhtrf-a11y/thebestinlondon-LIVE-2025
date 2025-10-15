@@ -1,0 +1,516 @@
+{
+  "category": "canary-wharf",
+  "query": "restaurant canary wharf london",
+  "count": 15,
+  "results": [
+    {
+      "place_id": "ChIJDZ4o3lkDdkgR8IIgNnBy_aM",
+      "name": "Barbarella",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 2189,
+      "formatted_address": "Mackenzie Walk Unit 3 YY, London E14 5HX, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5041035,
+          "lng": -0.0207632
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50575962989272,
+            "lng": -0.01925567010727778
+          },
+          "southwest": {
+            "lat": 51.50305997010727,
+            "lng": -0.02195532989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJdxXJeogDdkgRsylgeqPil0w",
+      "name": "The Ivy Canary Wharf",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 3260,
+      "formatted_address": "50 Canada Square Park, London E14 5FW, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50492029999999,
+          "lng": -0.0174109
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50633937989272,
+            "lng": -0.01604237010727778
+          },
+          "southwest": {
+            "lat": 51.50363972010727,
+            "lng": -0.01874202989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJmbN5KIIDdkgRWTGz5EcBO3I",
+      "name": "Brother Marcus Canary Wharf",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 1755,
+      "formatted_address": "Reuters Plaza, YY Building, London E14 5HX, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50436,
+          "lng": -0.0198578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50582842989273,
+            "lng": -0.01845537010727779
+          },
+          "southwest": {
+            "lat": 51.50312877010728,
+            "lng": -0.02115502989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJQa1ozZgDdkgRYuzYbRFipUk",
+      "name": "COCO Canary Wharf - Restaurant & Lounge",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 6337,
+      "formatted_address": "West India Quay, 14 Hertsmere Rd, London E14 4AF, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5072373,
+          "lng": -0.0230576
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50881507989272,
+            "lng": -0.02164942010727778
+          },
+          "southwest": {
+            "lat": 51.50611542010728,
+            "lng": -0.02434907989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJXYtfGygDdkgRy_VzumysaSM",
+      "name": "Blacklock Canary Wharf",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1247,
+      "formatted_address": "5 Frobisher Psge, London E14 4EE, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5060025,
+          "lng": -0.0209812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50708917989272,
+            "lng": -0.01991362010727778
+          },
+          "southwest": {
+            "lat": 51.50438952010727,
+            "lng": -0.02261327989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJkQ3E6swDdkgRuFY-iKFPZYU",
+      "name": "Caravan Canary Wharf Restaurant",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1724,
+      "formatted_address": "Reuters Plaza, London E14 5AJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "cafe",
+        "bar",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5042061,
+          "lng": -0.0194987
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50573662989272,
+            "lng": -0.01815462010727779
+          },
+          "southwest": {
+            "lat": 51.50303697010727,
+            "lng": -0.02085427989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJT0SXYw8DdkgRUUYIYtblTlg",
+      "name": "Hawksmoor Wood Wharf",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1629,
+      "formatted_address": "1 Water St, London E14 5GX, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5031854,
+          "lng": -0.0148151
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50440337989271,
+            "lng": -0.01343957010727779
+          },
+          "southwest": {
+            "lat": 51.50170372010727,
+            "lng": -0.01613922989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJS88Y4XYDdkgRlZAq-Up2-EA",
+      "name": "Eggslut Canary Wharf",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 578,
+      "formatted_address": "25 North Colonnade, Market Halls, London E14 5HD, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.505775,
+          "lng": -0.0200398
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50691857989272,
+            "lng": -0.01874512010727778
+          },
+          "southwest": {
+            "lat": 51.50421892010728,
+            "lng": -0.02144477989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJ5YQGxMgCdkgRzcCiRQ1zBsM",
+      "name": "Gaucho Canary Wharf",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 1981,
+      "formatted_address": "29 Westferry Circus, London E14 8RR, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50545469999999,
+          "lng": -0.0279471
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50690397989272,
+            "lng": -0.02638077010727778
+          },
+          "southwest": {
+            "lat": 51.50420432010727,
+            "lng": -0.02908042989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJGeoNBroCdkgRUj_8x5Ng0Kw",
+      "name": "Scarpetta",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4,
+      "user_ratings_total": 978,
+      "formatted_address": "20 Canada Square, London E14 5NN, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.504172,
+          "lng": -0.0168171
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50555982989273,
+            "lng": -0.01564802010727778
+          },
+          "southwest": {
+            "lat": 51.50286017010728,
+            "lng": -0.01834767989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJ2xMBYYIDdkgR4aYnWkJ9vG8",
+      "name": "Roe - Canary Wharf",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 957,
+      "formatted_address": "5 Park Dr, London E14 9GG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5023057,
+          "lng": -0.0152132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50355182989272,
+            "lng": -0.01361487010727779
+          },
+          "southwest": {
+            "lat": 51.50085217010728,
+            "lng": -0.01631452989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJe0JmmEUDdkgRhyBBKRQW0f0",
+      "name": "Dishoom Canary Wharf",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 8349,
+      "formatted_address": "13 Water St, London E14 5GX, United Kingdom",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50312419999999,
+          "lng": -0.0135691
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50437962989272,
+            "lng": -0.01222397010727778
+          },
+          "southwest": {
+            "lat": 51.50167997010728,
+            "lng": -0.01492362989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJ9Zhc47sCdkgRizK3QllZwKU",
+      "name": "Capeesh",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 2540,
+      "formatted_address": "4 Pan Peninsula Square, London E14 9HN, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.49990529999999,
+          "lng": -0.0172738
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50117437989272,
+            "lng": -0.01616847010727778
+          },
+          "southwest": {
+            "lat": 51.49847472010728,
+            "lng": -0.01886812989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJ8aPdVVYDdkgRdRSkKdBxxT8",
+      "name": "Oysteria",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1595,
+      "formatted_address": "40 Bank St, London E14 5NR, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5024439,
+          "lng": -0.0198008
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50399487989273,
+            "lng": -0.01858237010727778
+          },
+          "southwest": {
+            "lat": 51.50129522010729,
+            "lng": -0.02128202989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    },
+    {
+      "place_id": "ChIJG6ukhBkFdkgRvuYBp5E-YqU",
+      "name": "Gallio",
+      "category": "canary-wharf",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 2065,
+      "formatted_address": "Upper Level, 2 Cabot Sq, London E14 4QT, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5050967,
+          "lng": -0.0201165
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50656387989272,
+            "lng": -0.01879237010727778
+          },
+          "southwest": {
+            "lat": 51.50386422010727,
+            "lng": -0.02149202989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:13.373Z",
+      "query_used": "restaurant canary wharf london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:13.373Z"
+}

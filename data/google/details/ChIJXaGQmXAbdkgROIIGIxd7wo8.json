@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJXaGQmXAbdkgROIIGIxd7wo8",
+  "name": "Arôme Bakery - Duke Street",
+  "formatted_address": "27 Duke St, London W1U 1LE, UK",
+  "vicinity": "27 Duke St, London",
+  "rating": 4.5,
+  "user_ratings_total": 987,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5153915,
+      "lng": -0.1517944
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5167213302915,
+        "lng": -0.150511469708498
+      },
+      "southwest": {
+        "lat": 51.5140233697085,
+        "lng": -0.153209430291502
+      }
+    }
+  },
+  "lat": 51.5153915,
+  "lng": -0.1517944,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://aromebakery.co.uk/",
+  "url": "https://maps.google.com/?cid=10358977432207655480",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 8:30 AM – 5:30 PM",
+      "Wednesday: 8:30 AM – 5:30 PM",
+      "Thursday: 8:30 AM – 5:30 PM",
+      "Friday: 8:30 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1730"
+        },
+        "open": {
+          "day": 2,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1730"
+        },
+        "open": {
+          "day": 3,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1730"
+        },
+        "open": {
+          "day": 4,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1730"
+        },
+        "open": {
+          "day": 5,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eu8T8uAQKFXl0d9CEc35t9Gg0l34R8TCX8crfb788YMZhpC4whIj1Tfa1YGQSjfU9dQ4aXmbmk9gwLn99o93ubPKkfyBrPW8YfCf4I1VPenfQA0u9kc0Cl-gw5qEnroEG3l55JCeqazuNayEnAl45kT9R9JHGNqcPQMu8fEojcN47wzIY865wHh2uYw8eYsdVIfsCMj2AYSHT4GEvEazkx6aWZ9UJU5DzL74Y7V49PckTKMUtNbcCysct38D9_vzTDTJ8g0GpecrzWSqcl8_b9fecqv5wOtHuKngaTQOBhTdhRuSFwahEqDAuaUBBknKOHGWf0Q3x33bd7wAJ4qNFJh_YosGZtZf0D9W0jCihcQzReH9-Yw2f5yVkGVZGKm2e0HjoKcMwb5Tb0xt3vT0JaUZynpvs3a4vT5sq5m1HTjORq",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109237453020617387765\">Your Next Food Trip</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f8Nkg9QVP7U_cvsVlcDBrMQPh6TJ0rTRds4_q3kxULkIuHJ6_zm0ZCQjj5TTpuvczcCIMmlovI8xdgq32b4u5XTt3Gm26yvRnYYv35kAYNmdPWEPHFoAuqPZOKn36lqYNNrHeK_aLO9nBlQBv-ec1Vu02bWRVu43OJ0m7WapgApAzNUGtwtF9ehyk-vC7IR3kpkUKu3d66-8G3LYKOe7JCMF3Q3Na7CjaNhgURxlF35-zx8LG8bfbZyMU-2HH8TtOMmDOH1yXHvG5_W8HWlQNXgtFkYXJl6GHrGf8bVP_M4uf-7lxSLKQVaGr_iIABhLDsw9QWInR5kiSHOYM3A7jhK5nQ5xWOxt11d9PmENRrTZme0na0VGavgVCZfo6aQfMbCE_zIi7gIKXszaQcAF41CK64i4i4XX9Dswn4bQsVBA4CTg_ne4FIYL_bVaqw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101384443857670510778\">R Al</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQe8fL-PyhM0bTxyUu1A5qffkTgl6Sb9cwe6G0ZhKAS9GVDq6f8KLaygz2170CFI71L0rNfGExIk-1aXB4V3HSO7G-iT2AxahHqeEDBFaTB7RFEBIKVeyi7PdhFuKriKl8Qv_wczoLpmkxhDOBWgStinGnc0-J_JHSBA8g2YaHvetfaAxcUMVnJ-wevzxRLst0eB1aTVvh5qDJic1m-AaijK7N0CKC9d9p6IY5WKBd4jGqo5L2wvySsANKRxiAjekelGSWf9Etj7Ap-J5ZnlXwy4z4t5fn_fzv2sfXl2TtPvnvSYlaNSwBtnvVDRlK7e3XTqez2Dvum_81ijUXg_ShrHP2cUMIFWf3Omv8IBEU074hZ0mV9sK0vCJGFPUWufgyf8h-FjzQTX-B9It914bjoASr0996mvZCq9ZmdwFkavQzbIv7TJ-Ww80W4RFK",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114180860780976084638\">Ju K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enhwgEJvg6NgPkBc6Uzb0i6b0GrjK9TXUoSjnCN7WnWWcNBJlIV7HEG-Yluvvuf-RG36ce4H8e9HA9eiVo8lwIWi-CcUIdIm01OP5qnXw22jJbdb00ntus4bVTYjbk9wJeJ-ESzS_UjTjTBBhySIX8oQHbX9LsFR1y7QimgZfbi0DjyEEFc71g0aQ6FFWML4JMpXhoQ29kSbKgb4ezbtu1YmKpSOZG4esSW7x63Rwt5-7SME3d_G25vb3lpjvi2Y7ICTbqMHPY_lyohxjTB7XfmjMsZnZK29l3df-DPrOZn-2ZFpDJKpiA-hjexjvJnfvgRt70YeZucnuVFHDGBpKk3a5z6pcMi67v2SH8cYhHC4UHmWnrZnytIVH4PntLGY6EYNx2ADBSncDOYFln41Dz8y0Nm9mRMENwM5V_Pup9u5N3",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117576425971026325730\">H C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPm8OBBEwmkJZ1H9-uPqUA5_jun19zp0QH3MoLdDSMKLO5dOPn_zQoPX5rE8C6cseoxjf-kR7HxkXSx0RuC-B0vKjRAqKK_nAwsKzL9M22uzw6sbs5ED5AXpNJNh9bk3UmLcfTLXYFqV3EtLkWUIcQ_Pwo3ofKIUoa7GqZk-aEDTXTrh26KQJgRKZVIexX_Jv38ZhQZ2DXW4zXDbFShcZWps4qulYc_R3uIvjNsdQHJuS6wJk8dphbZ8MopksOalZrDmz6hRcZuinSWFgeMW24VHSVI26gzDv_Cg1vPL0xP391FrfhOsK6R8l_06ERtzdoCGsA4gFVuAn8_DboL1XKw4zG7RBlm-YfesquC8hFgTyk4FpKWC43DTIKb1axNkqId-baEIoKuug3yfoT6QRjqphy2fY4iH83VDkLiuiL2lZUC0pSeeq3Vxscp89H",
+      "width": 1290,
+      "height": 2293,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101191159709080694522\">Saad Abdulrahman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1nRAgy5eFEC1l62G2HnGtWo4MJb5QLXsFu3PO5it8rYo9H7Gn5zdKPh0hhSalOszsjDrD-1J5WPrU54Fe9cenERcWDpuBfC9MlmI7z13O6EGGLPMWuWkWmiHcjTMdHTiO5xZmWFlYoiqj-JoQI4AAm9LGeu6V1wT7vwKJeahL7NARctDF6s65zeeX9pYypA77UhS5a1T64LH2lMzZNVABHfGhYu_cze-xPP4uoxJ08KBMQSikexofD3BgixkCPbnA-FV8VGLm7W23FR0qk-HbP4eJ9p2NDaY_Nz1CLMCHidiY4jwptHhb25GSH6tP_nmcDtl3oC9cnV_MZoGuTyq9T7mikv6vOd8BlnaPalE_C5kvhUiQoyAuzIVDVus7FbUwIYBCAOh19k-21ivQrtrQFPEZTLpVIYn9PzQb3jvqlEAi",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104506291145536469506\">hamad albalooshi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c2-r2d2laQNHToOP1lDfN0hH5-iZrLbANMb89UmCnOk5m4CjD3uXxwBT-UHG8kzl1pN-J8FrYjVV14UFAAICsi28cL7FgJM_BDPuNWYXC7oeLZACMFrKNYeZ8MPwDxeh6hGiL8iUR188HiX-RH6tRBh2u3KcfKiuP2Zg5w70rryUGa9fJstnskLHL2ae-6DfcPYT6D_kcsNPW-Eh7cVKDh9nTWWmjAHipti765HYZEqZJUAaLaQQ8s6GmlMIHZI6_ekuc5I3pA-F85sLu_XkSywVFKpRltzY7gAt_6yKwcoJBSpsoLm8fVxgqmWGQlCeps2lVacuta9GIa7BEwBHRsD5Kr3eho_U5IQNrlBcaCxcyOri-p-8VoKtI5eZggRGb2EQAAmlQXNTFvqeUcMjWeMwIxqduySOj_xqCVZFkD8L3e",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112080234684147371482\">Ally Ho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eRGib2xuyoO2RfZHm4dLMU70kRgXywmTXQWyyt8QgnkPI5rPxHbD3NoCBBWY3AUUujpYDN5Prk3pcIPpdP7ihsOesHEDjWjOEy7Jf0kuE02o1o1pKsJJnAHQbh2rfBz7Vg4s22UTc-556N4ZKQ58IhFt_MTM81R6fNXWuL_6azG5KWt_ecrg1a8Njy0xLZoN8lEJG8PU-OLMaerZ-o0w7qdkB1JdjYftbz_SRpXm_C3Rzd6QECGDSklIFLpfqa31LQiQMP0ons5y0r_NpfhfQCRqVgW92N55-NA1EatFOn4t27uZ88rMW8C-XJnO0mJ334AeiC5Z2KYcPo5LukI1yk2Q34NphBg42L6gEBCOmbEWZSY4suhVNyp-hWAB-rZp0Fn0z1DES-E2SI6JmSPxkUV2JYiF1jNe4xpIE0xiOfqg",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116490933023156728639\">Tee Tong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4mPewF9tN4_CE4Cxz2RG1EfB6ZAXU5-BLpxMnObgCY7QScJN7NbbORNteQ0rJdn-VBlZlZf7CNGiEVrT1Df3z2Q7qVsVgCpy5NLOoerROOIkwr4D5epgDH7-2lW1ntXUUQtRsAEIdzQWt1XVblVy0r4gEIajG7JBGF8xzQqJ2Xyoddte593hA-eqFhAH71yXCekn1-uDmxOmsxpN6ynSK9kYXmdFQl9ZAvwq2J0RmaNjPsRejWrNYAAf8dT6KxkltP8L_MjtG6612TvhsL-9XjbLqLYoy9PFN5eMBPu8Cub6JyzwAq7yJqTdCMWyw1dBslpZay8TiVAONzFUCMdRaK096RJBeHyLsq-k60OfW15L_GQXVBaJHQ82GahT6C0X7zi3zk7s5iTJkFHXDxc2C4WSuzdx-eu7M5HhHsc8uQ5e1",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113531159191108247222\">Julieanne Ly</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d7TeV4uA-gmRXYDXNOUWlBrQ0Pn_gkxxaz4mr4dUBVW55KB72Xogp1g9WxnoQ4sBxU8FdUl1uEmEHZk5o5Vf3tTy1ZPu4-TNXXngextcZtcJ3bACDMIB5RL2-ystk2EdR8PC1hycODfc5IR5Xs_lgEOjg63rNlp7eqOT313MkWqE7KwWbFyVO9CC2Jq1i2ECxt6kIAWAlDyJdEPFsQIIZsp6syPXbkon1lwDCJCrTQCvks08Zde9vdCJh1br1dR2yaXB1-ZuWRW7ZfLiWs0toYM8nPYW_NbTLuciPe2BBLI8NXugBD1rh4HYPeh3GRTBgsu2gfeFVLKYPK_-5Cl9Ffmyq79vH9ZRci-D3lx8d_ayB94Ia445YU_8iybzKGeFXz43I8bozAs52gbiO7-7Mu2ZCdEQaxDyThUv5NCluhnyOC",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102937272449787535767\">Mikey East (8bit_ginge)</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Pola Garczyńska",
+      "rating": 3,
+      "text": "I got two strawberry tarts with vanilla cream as I was told it was their last day and a chocolate and pear tarte.\n\nStrawberry tarte is very delicate and crumbly, the strawberries were nice and ripe, cream was more like a vanilla flavoured whipped cream than custard and the tarte base was very buttery. Very delicious for first two bites but then it gets boring and dull. I’d split it with 2/3 people as it get sickly after some time.\n\nI had high hopes for chocolate and pear tarte as autumn is a season of the pear and the apple. It was disappointing. Pear layer is thinner or the same as chocolate but the chocolate ganache is so thick that it’s overpowering every flavour. If you want to taste any pear you need to separate cause it’s too delicate too fight the strong and thick layer of ganache. Flavours don’t balance each other out. The chocolate layer is a thick overkill that becomes a blip of chocolate in the mouth.\n\nMatcha was nice but quite small.\n\nThe team working didn’t care about being there and if asked any questions about the pastries they couldn’t be more uninterested. It seems the popularity of the place makes them confident in not caring about people coming there. Which is a shame considering the prices and that in this climate it would be a treat for most to go to a place like this.\n\nI bought two strawberry tarts and one chocolate and pear one + matcha.\n\nIn total I spent £26.20. I would not come back tbh.",
+      "time": 1759669560,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Nitchanun W.",
+      "rating": 5,
+      "text": "On an extremely hot day, the Iced Citrus Black was absolutely perfect super refreshing! I also tried two desserts: the first was the café’s signature Honey Toast, and the other was a Coffee Cheesecake. I didn’t expect much from the cheesecake, but it turned out to be really delicious highly recommended! As for the Honey Toast, it was okay, but not amazing for me. The sweetness level was fine, but the toast itself was a bit on the dry side.",
+      "time": 1752330083,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Darren",
+      "rating": 5,
+      "text": "Possibly better than their other bakery in Covent Garden. Different options available here and all taste incredible. The chocolate and banana croissant is one of the best things I’ve ever put in my mouth - will keep\ncoming back just for this. Their coffee isn’t bad either.",
+      "time": 1758754383,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Burak Doğan",
+      "rating": 5,
+      "text": "Arome Bakery has a lovely vibe, stylish, warm, and inviting. The coffee was great, and the butter toast was absolutely delicious: perfectly crisp and rich. The sausage croissant was a bit ordinary, but still enjoyable. Overall, a great place to unwind and treat yourself to something tasty",
+      "time": 1752148217,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Alexey Subach",
+      "rating": 5,
+      "text": "The croissant with banana, chocolate and almond paste was pretty good. Overall this bakery has a lot of nice looking desserts, I can recommend it. The place is pretty small inside and is usually crowded given its touristic location",
+      "time": 1750919820,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:28.637Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaGQmXAbdkgROIIGIxd7wo8"
+}

@@ -1,0 +1,242 @@
+{
+  "place_id": "ChIJtTBPsJQDdkgRRhZtyhGZkk4",
+  "name": "Florattica Rooftop London",
+  "formatted_address": "11-15 Minories, London EC3N 1AX, UK",
+  "vicinity": "11-15 Minories, London",
+  "rating": 4.3,
+  "user_ratings_total": 1126,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5129534,
+      "lng": -0.07529129999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5143690302915,
+        "lng": -0.07411431970849797
+      },
+      "southwest": {
+        "lat": 51.5116710697085,
+        "lng": -0.07681228029150204
+      }
+    }
+  },
+  "lat": 51.5129534,
+  "lng": -0.07529129999999999,
+  "formatted_phone_number": "020 3988 4489",
+  "international_phone_number": "+44 20 3988 4489",
+  "website": "https://floratticalondon.co.uk/",
+  "url": "https://maps.google.com/?cid=5661755983247775302",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cr7YQEefQdlf738Gz7ux478UH8uyc356b5eKJN-qOKnO341CfqGp9uA1W6NeKsteqdvj1NS0apjcANVAkqRCAyH6haqJjyBL4iaRaTY3CYIQcoUdNsPRLfS2Qok-mEhUL7xb21oszyR1dEHtaHGHu37sCNNuMwi2P3J3h8TYC4Y8Ey3pCx-2jMCzWSEZcH1jaUg1AB8qVpJPRVMZ9QoTklxG-Xp8FxY6Z2T1WWwpTJhDlmeAT5W3GKvMemAjrmTOsKtPZcqfynAG4racohAbM9tb6u8J6tLzMKGggzzoyoSw",
+      "width": 1500,
+      "height": 959,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109192024381072974966\">Florattica Rooftop London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dDzfL1x-bnwMkjzkANeQ9bUmudhb8k_qbaQP3BTLCXUot7DvSNoeXCO1ZXPQBlCngaaVEowJPqyFCO89MMglkbSuH2Dx-VzgSFEDv1_qN_hUXrUlEA--91xL0m9_JEhvZvnNNT5_U5nFNNhdy_JpKt6WpAG8PwAfTZGym9crlEqY2fM6yJ2WpJ4qhmM1maYAUF-ZqFfG968I2fi4Xe50svVQRF8HZ2Fdk5OCxp6H5-X1mUl4bV0Hjar8wqH0uL29QE6SnvYVACnIWb7z0_C_SbvqDOORkR89vJCXBUXtDLIw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109192024381072974966\">Florattica Rooftop London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjzP2mrRCTt_K2T-MAQmjeLybZAtdr843KyaXpIavAHxI-v1sUkzc1hhm_2Ft9JRdZacZ8a4Qd3iLHWqKpV11svXrFraPFdyXawfMXOuX81o2Iy-Es83zL8-tPbqUB6UD6oiyUHC3rwXD20uljK3BTdiNRZmccdRY9XJbNxjGb7FJL6rtGORQvL4lLLJLGCunO08JjqYJqGrxoD8-epgPy95CoiRkFTryf3IRzs-uEgud10eY6iT3QB0XvmGB6cQ3vUmnwLpWbw9UOzSgyymLd87kU9iO9Qvw6XPsmVPloKKIOU-EF8TLMbBopqDYe6z-vc8_pq887xHIG52GIeXf7C4G6TLOKbU84xIxQpzE_elSsRJm9hdHyQ01pWxNoh687Rb1v5CQqJrr6SYrTOyPcBk6rsLefs63Z0ymnZ3bRqWl31wqqnoHv1bDb331J",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100821148891703194559\">Lidia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsWhIU55VyULj6eW00BB5rNYyup6vgNiendYVjBDsWauk4EvhDnnpTvqj8HuVMhxWK27vgqKJCxWTSiDaGQrMN0omz8VgdcvW9EzxmRtDJHoQIhuEyoG8jiZO7B8-whNaFFjQ9AL2xhwhZd7_4ZzgIzzH5etVntSumZEAOuH3CFkXs_mUDYw-VVC-W8d4C_W2ukY3Or_sKt0FvYmlzZ5RFvmwLVsLR7aV-IaXtTVBoh04XWk3mbONNS_M_KXPHtfdk8vczxeY5khpUODeqQ8nHV15YkrHRxI_pFGNm26TsndnXGypQS5HHULQm2wEKKQT0IwwPmViLoCnBjUyqYJQRt1NW7LWStC-nzOqvo1tDEkwcJi5NhZTDu4U94NPIJFW0o1njNbgUqxeg5gybFX7nFWKuj4aU1ghmZAwNYV87GOt9pJBQZAGQCEmgAA",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102082684967454405155\">Elena Baldassari</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fL42LVJMiU4gSJFi_wCWstA4t-b4nAX0njEP50qCV6CMN1mFJJ7bwRHKEEs58nTuZ3pvhANK9b__94S22s2vML571vJxIIpb1axC1QNEt7cOHmUwCDTnM-3oRqxvA2wxK_vTXZO3lHgXTWBn3yZ6DHfUmHtlfakU4ij7Tq_RkHVgoEzFDkEUCHgsYcxfUwiBdJxeC7jfTVGtJg1dd_TWODIuZDrdJUvMFAFZb_mU3fles92t-l4uJe2Wr5gadnnDfN8F5Ne-u4OEgjM-flmndwXk7zwVo4BUWDV_vEC8QOiVTUGwvrKfaPninz1pK1uJ9CGcyq_1PDLM7mLFkQ0D6z91eabOOMOVRc0Cfe7fVPYOiSYkVKG6s_U8aftKiOGPPdCr-5i-xsvlMFxscZYGFlhpnTGNqkOg8oDUTnDzW2uF3nPbo77cXQV55tbg",
+      "width": 4800,
+      "height": 2699,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111593655817698340373\">David Simkins</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dVPLPuNksa2UgpiiNk9zKx91SSOuWVzd-mJmD6fMX9c1KMKXQNQS7yhKSiB_fbVwPRdE2mzfO5_9u8fHEiJb4_Te0CC5K3dWO6aBqL_gCNvR1SYMfUw4UnQw5m5nx1A0XR1ybZRiH4HPgOSW0_he_8YYlseQ0_9ZnB3X6l9UJpuWZAmJwbCy7f_MahuggL2XfP6KDd6HB5ZQntKWq4vE8JDMPZMVCzb6qaJGdVeRRQ8DHa5IXdPPafaKP9Uy7kpcH_4korGARrtQqLZfTIh-qAVBRvL_xdNYb08LlyZYsp985zEpwKiETEk3supyoHzhQWAkaCj2RHYLpunfeVNda6c0OTLQyYt5u_D90VxWZg0V8GTv3cqvQmGfFS1zZbaJ26ph40N2p-Mbn4sMSFknCiI06KB_HW7MxbQrkQ2F-STPZB2A83W1QCmLBIls4M",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100237499544575989999\">Juan TIe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2di5-I0X41K51ONwiKaNylE_gTlruHzBQd-zC6sNm9_U89bUqZJa_UqI1qm7Uycn78zqhZ5lU8gnVinyVdqnTWPmTclY6YcvqCAvFDXUu589CYQ-MxroC9aEPTTHIDUl7TwNXkFoKm4Vtcr7rvabjtBTmIYC1cyywnIVLkuPuoAC4OM9dHCUnTUuybmp89Cao-WemTi6h_IBAeFqNPVmRjEW3ySxN7v-mag_Bp9tkZ1x1xuYZr8_5stveyIFPc2OmmilPJTYmq8DYSUeJPt6JWVPHf36ikqMp9Am77x5ewxI9S65Ld47_3rB7S3m_Ty3EUNqCyDqk1fs3PZ1JJ1FLhPATV2XvyBBntnbWjVGJBth_irYhOK-9rqby0icGBbxAXOhDDxaLunJDsy6y1u72ddtnGq0q6qEPVpghPAlNA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112376569940578301211\">Martina Flavia Squitieri</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cbklBJTzdLmkMxYhWf6AlyeJdK-kJCKHl7TfeMtnjWem5-ikzqhrulIzHdnT3WSiixD4LCxspXSk4nVpzPUjXZJXX8RJ4pmD_tQX-awEusgGDb1GZFWD37y3I2bWfaadTu7Vfmos8b82asbkjcZ2mAXXZG7g9yRzma46gMD2YcDXezKjLT5YKPFD_DYaDzaF-mAlGcG5SG-9i6vgcrW9bVjJRvK2JtBA2xwe-UcpCwe_dr3n3b3O8ROrBLIRHb0BgoP-nBT87AVStTxWzP6Cmuu5JLRkdVQm64uAbnvzSZw6SzwLiJk_xJUDB69NxrFnsmVlWluEZweAy456DRGPpH-DCHKgNhoSYbuYu82Ig6abNxPaBrrvHrOfdJaZagVHxACaM-XJXcMdUuN7uM03oN9Upk5xoHtiIcKZTdLIKo4IJnG6tPCI8sRPZOdg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109541649738815866300\">Malwina Czubak</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f8kZbjE0G9YBn47laz_KJcZcHwLtWeAuWMuABZm4etd68lwxlOrjsOl5YRn-HXHGiA3npOwL3xFRUPqHYEnOPJpMwW1CMOG-jA3_KY634ltLcMrt_P8i12UpSr20dQjt6ZEDCkj-B8pHscEvKT0H5VHALbn-lM2rJq_ZzZHsmUkUlYik7PHwlpXiGlUifTKnV9R89AwdU6csFEtdwe3v3P9D6oVOdRR8SqR20De6fHTiC1qdxZG9oc1wMd8ibBhpGKC1w2wiD1j9I0WkRIPNFLGKGNqrYBSgHkpBu_hEMGrftHCgyPPKzTBaJ9FkTfJDSthpgiRe4pgYtS2Y181tdk64bDO0iVL7u8K7LRKupCLBdCazuUCw0ShQ2oCw3l8cbwC24k04tXcYzIKdehIKKdLvuCzYKoJrWgcJtIF6U",
+      "width": 3253,
+      "height": 2923,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113525585908374390470\">Inés Ruiz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enQAhwK6B-l409XqNv6rggftaGmRqRB92kKnILg2RUobb4Ie4putinwpINRKQazfzx8YZtk5-Tgn1AxJ7LMFP1eqiHUcgTG2qj7YSQO9JJ_wU9Lm4fQJftBwPgI_q1oUCw3smGYUOx3UF5AQT26ec-JI-X5Vzr4R1K3oo3BKQTxB5yHt0T_o5g9ooLRR2xbVEGG3flrxWfMYuyG9vtDnMWh0S7-RCJo7v4Sv3KivMJXMmlYwuodZC2ob5_mSPH8SI-4UoK7q5WoIp6JN0aB0G5UR8kVZKAJ4EIZXzl8GQonDjByZTZGYmEfH07tVquuDkf3unpw-1cOABjN5DtjF37hRKed7HFZxaoFrBJQN79_I0zUNK9vTq_PPq3Uso2m2PsNfFerofaEv-uoFyDpV3QzdfNm-bGRc9i7TZA5W7IPDiU",
+      "width": 3472,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105548549613073810818\">vampiria 24</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Charlotte Allner",
+      "rating": 5,
+      "text": "I definitely recommend this rooftop. It has a very modern and beautiful interior. Drinks are good and The alcohol is strong. Staff are extremely welcoming, friendly and kind. Our waiter recommended us what to drink based on our preferred flavours. One of our drinks came with a mini ice cream!",
+      "time": 1759249982,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Charmander Lee",
+      "rating": 3,
+      "text": "Not only the food choices are limited, the view is also limited compared to other roof bars in the world. There is only one corner of the outdoor area that can see St. Paul, the majority of the outdoor areas you are just facing ugly buildings. Food wise is so so, except for the potatoes with octopus which is quite good. Cocktails wise was a bit too sweet for our taste and just so so in general, although the presentation looks good. Service was friendly but slow. Price wise is quite pricey for its quality. Music was also so so in this place.",
+      "time": 1755551182,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Malwina Czubak",
+      "rating": 5,
+      "text": "I had a blast in Florattica! My best friends have surprised me with a birthday brunch. Roberto, the manager was ever so kind to help us with our belongings. He welcomed us with a glass of bubbly and a big smile. The staff was ever so kind, we had fantastic waiters who served delicious food and bartenders were serving top-notch cocktails! The atmosphere in Florattica is amazing, you get that Dolce Vita vibes! I’m definitely coming back! - Well I did 😉 and got welcomed with a delicious glass of champagne 🥂🍾\n\nBig thank you to Roberto, Michael, Juan and the lovely waitress from Nepal, you have made the end of my birthday weekend more memorable with your hospitality! 🎊🥰",
+      "time": 1754215690,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Eleonora Rafailova",
+      "rating": 3,
+      "text": "Lovely seating area. Staff were polite and helpful. Drinks on the other hand were quite disappointing. Looked very different in real life compared to the menu, which I understand is meant to look artistic however it is also quite misleading. Shown photos below as an example. My boyfriend described them as tasting like acid reflux. If you favour good drinks over atmosphere I wouldn’t recommend going here.",
+      "time": 1759265461,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Nadia Belo",
+      "rating": 5,
+      "text": "The place is beautiful and have amazing drinks. Kabita helped us to choose the best drink according our taste and she 100% nailed it! The food was also VERY good! I was there for my husband birthday and they were above and beyond on making his day even better. We definitely recommend it.",
+      "time": 1753979373,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:36.400Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTBPsJQDdkgRRhZtyhGZkk4"
+}

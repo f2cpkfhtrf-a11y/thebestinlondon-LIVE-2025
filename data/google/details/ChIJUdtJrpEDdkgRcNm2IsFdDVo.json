@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJUdtJrpEDdkgRcNm2IsFdDVo",
+  "name": "Khao Bird",
+  "formatted_address": "8 Bedale Street Upstairs, at The Globe tavern, London SE1 9AL, UK",
+  "vicinity": "at The Globe tavern, 8 Bedale Street Upstairs, London",
+  "rating": 4.6,
+  "user_ratings_total": 259,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5054783,
+      "lng": -0.08989219999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5068004802915,
+        "lng": -0.08858256970849797
+      },
+      "southwest": {
+        "lat": 51.5041025197085,
+        "lng": -0.09128053029150204
+      }
+    }
+  },
+  "lat": 51.5054783,
+  "lng": -0.08989219999999999,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.khaobird.com/",
+  "url": "https://maps.google.com/?cid=6488945722203232624",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 5:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 11:00 AM – 10:30 PM",
+      "Sunday: 12:00 – 6:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1830"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eWQqDq-68si4eb7Quzxfdx1Qsw8xCqDijf7QRFefcJqq4ALhDcG8nAjzPU9wrOLuRlkLsjcTHGYJcGAgSPv9aLIIf14a0N5Fz4ERbZ8oMCm3V0m-yK39N5LMeSyc9iPW1rfouok4BQlKkqbxLCGeVVO0_eG5ewrCwVwRNKghzfpcbQ-QmY_oBWXc9m_eX5g6_SXbMibbSI9pozUd52N93uTfXkevyR3qGLKW2GyIulwzGa-lv-wsxRdhvRYdzgUzXu9puPkO3qMH2-axLFJbKzLQw2XJSZOdLmhr-KPmMoK6edXnD6SWEpcOUNmWRKejwj8hYBuEPKZOVL5kb5jfQURKah0pLWXs-conb3Jou3jwmMWImV1s9TkzHfk9h3AmgCcGHwyWWw_5Ao5TRU3YeY12rDd_gRd04c4SJ2K-RxbAc",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100988959888382511768\">Reena Maan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f9IGjSxJ-9C4-6ciyzr-AYDdjJeOlw4bYE1QvV_VZdDoSW3oT06UZdpBO0aAF4NNZjBc4rjeKhT0fvdT0gQdDtGAkxYAvcG5waEbuMjxc5NDqBVX1aoWIE0adCUYvGMHndAZnL4u6Tz1LbX8MMQSH25vN3lK1VasnvcDwYuyt9ZXvXrRTGhuqmbc6UDZEa0FnCByxlywQhfOdFblCDRgYSZVBF3k8Tx5VN2dRRSH56_9m9CaZIXlAVvc6fQ1_iqH4MRzzOWZZ2FPY3tHqXFU2qmQf3J2BatAlz49gZC2x16A",
+      "width": 3203,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104747903891825708235\">Khao Bird</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fyBii3jkh-F3HL3w1ta5iAKIdxeJ7J1Pv9XM9zhxI9LIOgnbmiOs8YU50mDjVTVIV-3yobFFJPU8FcXtAg1yuTGB5Gk0jDCVKTaMuvKCFn3LL6Uk20NuJ0E69pbYtD0HtlSgC3EJ1MRzFhgZUffCRBodX6FtdHh5HnY26HZGNmrYE-H-J-56V7O-IAK3ZfC1tA2SOTqedCT0cZ9LbWVM-JJ76HwAmVp8aXbBxcW5N7-Cw_pYU3DeY0Cvzy-SqK2UmwHehzgu4N6cAWmJAihcoUutWgLb0DaZGmMNN3PcLhitJvCymURLkPJBokgubIRMNIM1wub8Ik8EXPXHNBVmZ9zaBXjAzdi8pjp3zlrfJK89Fol3aAMf63_vEsV62KDNku_srQArZNSejVcF5UcGkXFKHXi4Y_iaYlVe_PJx5qch9XwEvYsTxVHZY-Q6AH",
+      "width": 2401,
+      "height": 2129,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281768092469834749\">Jharna Jethani</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c46OPH94Gz3zhklyEvzwTTalSDLbv87dPaJ1PorDkhA1NJuYeeOSFpoLlnMLpO3uyH0fGSZ0Ihk89Rcsx3JT3y5s5G7F3461lbFJcxXcv24LwhzeVq9mxaJs44TEmuyCHYQdviqii5afsJt1tHFzl2rWld4Y9QRQksN8vrTO_-ZUftKPDQdMlKH4EZ86MxmAIDahupTpw2eQZBmIPtUMgnexCak1Mi4f2NAASUYhZFahqLe42DNjQ0pjrWBF3ceyfQu6W2BrW4TVXr73B28vE3Ollcc08KfdJpEH7i7x87lw",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104747903891825708235\">Khao Bird</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOROU0FkSDWFlZKRuNT0Qm65oAmjJDhaz427JPDO-WD5hAlCsa66oqlIFnD7c6k89FQibVP4wsPQ6WpwH21TMM9BE5lXx7xbv9xkZTzLfH45fsbPZ4cru3bIzlMNEm3MnckHjhHyOOUlRX4cRaDArw9hX_9612AHTVDtCTXqgJEm8Vl6JkP5uJunMFEyiUyPnkfXWT7tw_C-Wa36qsNi0XtFvPIaqXcP6OEyjHGm0ma7pyvDEq9zNEDK2_mTJc3V2MTaiWzGZlgxG_TYsAEGonVSRDY74x0T59zkXKM2UTxIWVOxk9Nap5aPWiWIA3ZDXzU6IewoTsqeU0wEo7EmXfBG64MIR8lybeacgKlJJZ-pWpknkBsQxgutoU0O0C_mJT1Z85PqUPggZNENyTTOZjm3SIIwSsBcVwpBGR7F5qfw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107099796160572774878\">Michael Kelley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dtwwQg_7IAt6gaW1mcGZR0Zwnn76UYyem0rX0DkTqItq0tqc7pjW6fWQRtHCet1ETJx1cWxswBo-rIjxp32p3_0Nr7BFHGDTPry0O0quLTQQZYgDiU1DwW9FODDVKVGAr-cOJKbylncZwfcufbAmq3uIHUcgy1r3CLHgnvTxbWX94a9CaoXu9BX6yOPCepkFc1wmxtfoHyiejP6zxiEtOTJ6v02o5ybaO3dhfbM973NBSwksXhVxo1Q2LHBOfnOpyZgcAVjFzIrGFyIB7k1W74N4XpvJRSPJbDQzQk4ocVnQ7gauzqiBCA-FTkCpbYF8Te3pqr6tOx0hdLFcfnFls9ruVvzz3ALVhm4Pt6udKEgdIHccJE5rKeq6muuv_Q-ha07g3dXwJnaTADhs7RLR7AAAzcmgD8fq8cU4JXeewNoA",
+      "width": 1554,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108947195517234754978\">Richard Griffiths</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVbaEYWGdFbgx7Ie3kvwk8bucQe1OEABkf06p_85Tep5KoJsg43uASTzGSuAaTdQWpywKgzNjdxccWUbXpIgWB_cxaRtyGaeaV_t2nAQ3p4mpHr9fnu_MdWB_9T8_3XBhoUTSODeownDJ5-MG7-fljr5nXxlDe00w-SxGtS8gb37agbZ3CYYEfUHcV26Fn7urV86ermJBKUiFEDEP4ibuB5ybk7dSwXXE1wCgd9mtPX9mu5PGuuw-F-DPrfJUAne_czqOagyHG8OrkjhXyovCSM07FdGcKUynB_I7Y-hY2ZquUssdesr1-KPEf2oZG6noQYo8b2VdBV5miFG56YroeL-4ma0y_tLVMxckt9yHLsxlLtQl2-cOYPxuhKywscAStwXQvrMsubwnb1sx9QJNRkuLQ60sqaKlKqhboIGKgg3LcuVV-vXZ6SQIsplk_",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104293684590062075075\">J L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cgcMIp3UeBU89n8dc9JxZNQZ7wkoFKS70u8GpK6rWZ6FhBVCoJgtJjOUJJe-cr6dWbQNC0T4MNSsxKfPBLNW7OouQVXwxdE1s6mXXgEuowfJRcDuWe6EPXqEejoS1Tnma5t21Rtq6vCmCKeBMTL0jkYb7yBaOsdPU6QqUXG7WTPntr-7QFyknJJO3bmy27cQs8GbJOAmTawN72T10Go1fpRp4dnT_yTK4ktstH5pT51eYbo2c434dZG-dZFwi45RTovwhYomH1Vr62E8B_pY2k0Mp2NaAwHzQVNaKJFvYUilV1TsnYdsJhu2aLt_4e9UZupKcXSNCeamK04reBfiroUyVPqnr9r1nVAStfx7xcIYHWfkWjEYeygf7HNxt8nsUzCVcxFeg605E0Vywlj0IEzIzVpCc-eOvjdWVq5Uc4hw",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111706148316695238264\">Julie Demarez</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eLXBhB63am_RaoqsjtKpeZ0oT71NaRSI7mITHIjB4JT8SOPCXc8Q16US2KhMoeNlMBMG2zCqFUtMDjRPZ_dd_zqcfWQsGIP1iBcbO3lj9JIIF5oXYtOjwN5NwXd-yUYOaZngcZwwBK-leFXzm2nARsPJYZWlakoGidixsU1nPPVc5PajoGz3R5i8wyB_BThiZZeCBgSQN0x_P20yH8xzDbGpBnqNyiMXoM305sjTqGx6rQnTIVLtYLHeniRPGBSrt7p5i6ZfL7qyBQZMrCyXrkzJDFOu23a9BpU4t4zm1JrTVRi-1FgAiFmg4afhoZxfRkBZ-wFRXfw2VTOyXuVdw_JhUc5-5NHUd308bJ3fEjeJ3RA_XkE6d4jiQ4-MBA7jg5AdO2hxUcmdh62djc5lART9vt1NTkmzk5AeU-y1yj8aw9",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107984306658294475601\">Nandini Mazumdar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fNB6JRV8pk5w-C8tDRPSHL9Nz_PYplBvK4CmjTBzB7OZioW-6p_24kDvN-OBz12iEiJ1vIqlFAS8ibib7yw9g6Jq1Epi39LKmKGESw9CHucdBc9vV5OIskC7l8-QvAvgcdN0CNLMs_M56vbYIZwdVObjwenxkfR_sXJORy6RX0_aH8V8iUfbBbleHWs9tvTW2KsXBg0S_YEbIJ7BA54Z3eJAFiGus3XhdQ3GB14v8g6JmtaIHXCDx1aSsthBmNQRy7YPpaVSlEyO_1ROdp8qWnN5UhptjceH-_cKWcSUCZ2H9lehP23VXV8zVMDVXgmGiTbELHDqlMj_xN7G8eqwYb3HHvcuwooC4Bfeymm73nlaRyEIwqShzTrUCJKn9DQ2jYJaV53Wp_znZnIqARTjcT6QuPA-3TT-gQyoYfOZmucA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110895515657475451362\">SOPHIA TONG</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Kaitlyn Kline",
+      "rating": 5,
+      "text": "An underrated spot tucked above a pub and delivering amazing and strong flavours! Outstanding food with a lot of zing, creativity, and consideration. Every dish balanced textures, spices, and citrus so perfectly. My partner and I shared 2 small plates and the whole sea bass special, which was a perfect amount of food for us. The corn ribs are a must-try! The sea bass was- by far- the best sea bass I’ve had. The fry was perfect and light, the garnishes fresh and balanced, and the green coriander sauce was so bright and punchy!",
+      "time": 1751971103,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Michael Kelley",
+      "rating": 5,
+      "text": "Unique & Delicious\nKHAO BIRD packs a punch with a creative, flavor-bursting menu of Northern Thai cuisine.\nThe bbq chicken is beyond amazing!\nGreat vibe, great staff and an overall great experience.\nWe went for brunch which was unexpected and still delivered on inventive offerings washed down beautifully with a Som Tam Bloody Mary or two!!",
+      "time": 1747501866,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "slurpingidkmopthing",
+      "rating": 3,
+      "text": "Food was very nice and came out hot. There is a 3 course meal menu which 3 of our group of 6 wanted but you can only have it if everyone at the table wants it which was disappointing but this meant we actually spent less money so that’s their choice to make. The whole Bridget jones apartment thing feels a bit mis-sold. She lived in the loft and the restaurant is on the first floor. I know the place is now a restaurant and would have changed a lot but I couldn’t even find a familiar window in the restaurant. You could see stairs going up from the restaurant which was all painted white like in the film but you couldn’t go up there. So if you’re going for the Bridget Jones experience don’t bother but if you like Thai food this was a nice place to visit. The young lady that served us was great. The cocktails were around £12 my one was so small it was like a shoot so didn’t order more. I don’t mean to sound negative we actually had a lovely time and the food was great. The Bridget blue cocktail went down well so some people in our group had 2. We also had to pay a £30 service charge which worked out £5 each. Just a warning in case you’re not expecting it.",
+      "time": 1756659805,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Angel Leong",
+      "rating": 5,
+      "text": "Absolutely loved our meal here! The food was sumptuous, vibrant, and full of flavour — especially the lemongrass chicken, which was perfectly grilled and aromatic, and the som tam, which struck the perfect balance of tangy, spicy, and refreshing. We also tried the khao soi - rich, comforting, and deliciously complex.\n\nTo finish, we had the fried doughnut with cinnamon ice cream, and it was a standout — warm, crispy, and beautifully paired with the cool, spiced ice cream.\n\nA huge thank you to the staff for their warm and attentive service. Special shoutout to Bella, who made our dining experience even more enjoyable with her friendly smile and thoughtful recommendations. She went above and beyond to make us feel welcome.\n\nThe portion sizes aren’t particularly large, but the quality and flavour more than make up for it.",
+      "time": 1748777410,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Christine Kim",
+      "rating": 3,
+      "text": "The food was a mix of hits and misses and the service felt fairly average and inattentive, especially considering the restaurant wasn’t particularly busy. Between the three of us, we shared the egg tarts (this came with three different sauces and was unexpectedly good), som tam (lacked flavour), pad prik king (found the dish to lack any depth and it wasn't too spicy either), shan meatballs (good), white corn ribs (ok), Khao soi (the curry flavour was so overpowering and not like a typical Thai Khao soi), BBQ lemongrass chicken (the chicken was so succulent and the flavour was on point - this was the best dish) and for dessert, we had the cinnamon and coconut chocolate chip ice cream doughnut baos.",
+      "time": 1745045091,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:37.654Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdtJrpEDdkgRcNm2IsFdDVo"
+}

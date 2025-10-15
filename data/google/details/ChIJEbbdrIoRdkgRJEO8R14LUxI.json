@@ -1,0 +1,263 @@
+{
+  "place_id": "ChIJEbbdrIoRdkgRJEO8R14LUxI",
+  "name": "Dove Restaurant",
+  "formatted_address": "31 Kensington Park Rd, London W11 2EU, UK",
+  "vicinity": "31 Kensington Park Rd, London",
+  "rating": 4.4,
+  "user_ratings_total": 607,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51539210000001,
+      "lng": -0.2059362
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5167768802915,
+        "lng": -0.204495719708498
+      },
+      "southwest": {
+        "lat": 51.5140789197085,
+        "lng": -0.207193680291502
+      }
+    }
+  },
+  "lat": 51.51539210000001,
+  "lng": -0.2059362,
+  "formatted_phone_number": "020 7043 1400",
+  "international_phone_number": "+44 20 7043 1400",
+  "website": "https://dove.london/",
+  "url": "https://maps.google.com/?cid=1320411615308038948",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Sunday: 12:00 – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2emJZf-YrIKFOTXMrN_eYDSkLJIvB2Jh-HbOFWtbf5oN36-gxYNKYl9kIm4thGR5jV_6HCDvhvhGwK9hnA3flpvnItAW3EoX-CysircpDI--em1yvVmAAScIqImEYwgaaVNvZQewXCFyofbGf3d11xR0rXV4HhWwRk4ztmebW3LFCqkyhlHyD-y3ckWT9vdqClFQqiV4B9w8bFq1FtqkTn2ozjmmOuHl19uFWYp_Q-S_QnqZFESHlHG_ibMftgKFbEbwO879hL2UMfOALsLnr2DIkjzacr4CnY12pgnXgFxiQ",
+      "width": 2048,
+      "height": 1401,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101376165514952263942\">Dove Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2caHjiLMT-b9TrPxBa0cnikhcRO1ei1XFdvTDb3DI7ydCJefYuPGXShZSqbDCB94Dv5Yfl3w0f0UherRSKjgz58SHRn8AdAfJCAum6Xu4WIxLOEDLLdjsnHTA24hq26kVv3CCIyBT1gITU_0wR_o5n3mZLI2DMnjB4S4mRgC0Gz02lhJKQT0radGxjgin-xLVseuTXBia6_zuM8kuuOXEkieEg5wsM_abl6Cj-7JP4rfYNHlFl7d73eVR_TDKfIn_ROPtLkIeH1IQl_D9mh4WNsVHJ4La-uUcelr8_ADeA0xA",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101376165514952263942\">Dove Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cl3b-9dIxndfTxU29-qmXxmWDQoV3W10EiNOiXqtRTVSVO8EtVBi4IRGHgxXQtBAV414LW5-oKuUFd_PpZGylRD8pZBMHaCrot4gTTbAPVza_3IzJ-9vZkG0YKrf5H2qFgFYMUln38goH61hYN_un8diKqAlICxX_sIfznimNHMGT_jP_mx7Qzp7Fs0NU9TVU-9O1HMIiQQejsnjQdCSUZPW_Qm81QhkBwkFnkAWR9bIbWWWCFpB_vIY7Wrr67i_EXL8LauOfricQ6qVQZXF0UlfPuYuc5ZKQ2-6ROyKwO5Oh5uEUux8xYYjx7Vd_svFhhpEYsoBZ-e3vg-McOjMdD_t_ihy36ZyU4hPVrtoAxBEwzzIgmFq01VlyfBCHhqmlWqtDzdPUia-YnLAlL8_lPdleIllLSb1r2ZyYxXykW--WZ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108811375903965605617\">Jonathan Cheong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fzaAukg9p6mS0crQYyx_acH0O6b2-GFe_n81m2VFt9n8k-ckvt0DPiNYtauzODtTB4PXhnAEm551GiRQRndqx9vNDFm9V-ojI-4KOpgGKfPeAh4zJIoMlowQ2ZiNkrXYFUGWnQrz3nHhwSaejX3JYmO-vV9R_GzBGn2Ewq-i33Fi5iMibFU-WVI2dZCww-pA5cj2NDH31eZHJ-oXlzRZtH4Nf9qoH0Y8hZsEh7Z87CA4OhbvxlNDET2ccVXXqesjJh3KnPgaljhl_VlcsEbDNqcY0Y3Ws0qqrNJ7sgAEPx-A",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101376165514952263942\">Dove Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cnTqe_D1AWb2uM_4UiS797YdD2c5ExfHZ47NusJ0acPoTdpg-pLKNEzD8qC2PjfGT18ps97-Nu7q1ageU0oDZMPk-W0LJxBjVQVLncAMkDOrhg5Y3vkRT6mYijv4urBpQL1JKSC6CEOX_fFbF2wSgnVOJaIsbHLIaWOqzVCIxWYlYgvSNhr-8SNiMSliuiKc9miu_9746M52z3TRlVIPZH9pRzupnOLXAUGnNKvJVUS3r670KNuFFSQjNnna4uK5i8ymFkbTeTK2VzjRxrlRMSLka2quMq0EnVGy0myt4MrvM66mjKX1ESv3_sTBmL_aKnLUN83KX40VUBDhD4kX6_CshQ7qcgzog86E7IIp1BBmv0WJEqcO3wnU2st-rdWMHsBT9SE2PABwwgNMRYnP5IZe4df_GZZxnNFuz05FYVae768gtMCmZVBJWpZEE1",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113803615207157799532\">Alice G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ffvHNt30_YGG2ExzjUBj47Ztpz8HbG5ojSVSU_MJx6TExef6Fmg6tb2F7lmN-DOcczo8VumSrT7YqdmJVq_N2eZPqcG8AHuZXxu3FvJYSfMuDfVTkI6uJqzQg8x2XibhEDqXGVSxv86C5rq12PQiCVI-Eq9AzRwcbzN_IBER2_tNMZQO185SwTK8uulPcvdW1ub_Oa4o0lsqSrJ6zkv6A4iRHclEMpUGLwPu4JKrGs85J-DBr-E7mK-9T22nNJupJEROeJBWJmFKwd7ouMee61ovDEzqG21sFEid3ZHhPDYg",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101376165514952263942\">Dove Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fU3B4481R01BhdXA5rCkAhAg4qPwEgN7p7PGfp6KSYFA7BlnE6r_SHiKpLeyyST-kPz6RsAM35GDzhMUTv7i7YtxN1ujNXlNGbrY-V3iAYJRMpc4TeRs_nVukxyr_PcCYFUuuuGeIW8WDVgrnspNOCE4IaEi-QbJonGm1zLBJ-bn8-y2xsxtO0Afjr7xqrjvAQQRjLvsdRyT3nW-YNBrdSPMILzmLEiOo1d0M-Muq46zjiqBK8Tp_alAKEgkAXZURQq9z1tnkqZheSQDK2ZW8SoGOztKmDSKxojFFBvJ_ivBbGtSohQmujrXKgS9Ri13HdzeRS08ETP54pcxL_BCrHUhlWOy5SpsVra-jkR5lH5E9AZoEDqCozednmmPusOsC7UfXpon1n4cWRQaqsrIJsgGxy98j667chpCyZEjjJvg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116946327531047922330\">Dor</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cYye6eZSN3w3POYgJz0yXevn3MbKU4xcEcubyyOngioOzMjnrBsvJ4iAw6spWmtgPTVhVIwpd8UFQ2fHgINp2fzqWoaoEy2pMOkB7wM7b5Kr6J0puUX1dPsUo0XXIpbwfEr8FCwEqyNvK00NPnFbaK9XQKhYuFBZBHDEFa54ADdSqL5NNFdhnghtq4CtT6pVR2D3r3_leIx4d3EM_YJXAJSejEvKc-xVZuY3bdxSH1FnODPx0HW_J9cLCa1b4Tn9L0j6scp6KfFxIYmu6Mhnthom8MPU-xhXotnT-df8d0u1SZjvTc4a4kMqGNOV5NWvJ5Kfnq7pWWMkE_x6yCMXqzfblnKAbGAc0NiM6EYGLDLd21x5t8bo7SIC5HMOyPLzaP0tCeeffUx7O-zv2R_JIv1yNSaZd5wxeAHT5yxl-KLw",
+      "width": 1290,
+      "height": 1271,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106133213565595639743\">V Y</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dyCJ9RAslykMIZKztHrRvwosYZgaOwAX0Gya2uqXAiWthFlCb2TNCfgRaoy2l8ebJUL-wASLZLHCWQVzFrtHAgosnYR90Jsn_-ePqv-RtJKpmjmbPX_kWn4bnHWZLjYuRRrHHPUGgLvw3dWQUVPQxWL5EfooE9erMtCCtszMjofxZjX9TEIOxek_6IPZA2qvxGXZEf5gObLDGGmDrbI_yrqj4ejPjaQs5hzlpVL1fbtcOIPRJVyscp1YD2DSn5HCNK-ll2nSVw_BKJAug6rWoIXEQpJZC3U_Y5HguDUP1j9IEI1VrjaVwnNuegYyR57tbsWStqarS61Bj2-67U0IbGRYP0kLE4vSqAKlkhQIHISnUuay87hpGrATODnXSGc2vrk0zcfaayuUvmD9sIJc0dHR1yPnxMkaLqcK8",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111830029510124320787\">Kristina Karassoulis</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebkvS8rk6WJUGcvLxrKXX38lW_D9qCDXaDwLyERJRlZiM46k0ahSqvkDKqQeXh1cLHDyYUPMOo1RAlBAQDoN-WXbaCkA0S08jge8P-y56Z2otgxIa1hmaBN-NPENGncuQGH2_3dU9v_ByF9Obz5u8zG5Sxvyr_Fm-YnSi-sXfAkRGMVG2RyHDkCi3dHcbJoUSz8nLzyOrYCbAzJeQQTGqsnqM6yFcljJBLoViFB6UCB2jTwxbVgEJqGRFy2iuEGl80_k88Qs7-5ue441FjQ5j8wbrBFkuYh9pgtvDjHWU5LfOX93-4L_fPpJI-mJjeQQy8ZbYDsn_0PWYtHpHw5B9bR1tZ0mg_RvTgFNhvmHIRHFYff_EcIQWOf0hvRHlPxpbkFRHrDo2KuMDS7f0k9cSO4IY0QxTKoRA3oNRbauNLhKY4XqF1R20BjPPeNtuw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117979204991175778293\">Anari Tye</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Elegant spot with wood & brick decor, with a focus on fish & seafood inspired by the Western Isles.",
+  "reviews": [
+    {
+      "author_name": "Alice G",
+      "rating": 4,
+      "text": "I was keen to try the famous 10-per-day burger. Made the reservation for midday, when they open, but arrived at 11:45 and sat outside. A queue formed around me, and it definitely consisted of more than 10 people.\n\nAll staff members I encountered were so friendly and helpful. Really impressed me, from front of house to wait staff.\n\nBeautiful environment, I liked the calming colour scheme and decor very much. Comfortable seating, and nice bathrooms also.\n\nI did manage to get the burger (which I overheard had sold out, and when I checked my watch it was 12:08pm!) and it was really good. Simple, quality, wholesome. It was juicy, and so messy to eat. So flavoursome. Had no idea how to eat it so I made a right mess of it, but no shame here. I can’t bring myself to call it the best burger I’ve ever eaten; something is holding me back from that, but I can’t tell you what. Because I ate quite slowly, maybe it was that the lightly toasted bun dried out a little by the time I ate the second half.\n\nI ordered a side of fries, this was a step too far for me. I would have been satisfied without these, I’m not sure if my appetite is small or normal though so I speak for myself. The fries were really good, but quite expensive compared to the burger.\n\nBill came to £36, this included - burger, fries, still water, a fresh lemon iced tea and service charge.\n\nOn a Sunday the street parking is free. I found a space a few minutes / short walk away. I imagine on all other days it’s either expensive or tricky to find a space.",
+      "time": 1759184604,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Chantal Fitzgerald",
+      "rating": 5,
+      "text": "I am a big foodie and bar seeker when on holiday.  Saw Doves burger that they only make 10 of per day online and made a reservation for when they open at 5:30. Let me say it did NOT disappoint.  My boyfriend and i agree that was the best burger we have ever had.  We also had an appetizer that was like a mini pizza that was delicious.  Staff completely friendly and fast service.  Def a must when you visit London.",
+      "time": 1757702227,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Adam Frampton",
+      "rating": 5,
+      "text": "Fantastic birthday dinner for my wife in the private dining room! Food was delicious and certainly best burger in London! Excellent wines and very reasonably priced. Can't wait to book again!",
+      "time": 1757850014,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Simon Winther",
+      "rating": 2,
+      "text": "Food is overpriced for the size, and it is stupid to have the burger be so limited in terms of availability. The service was good and could meet wishes about diary allergies. Their general layout of doing the food downstairs and the dishes next to the guests is very disturbing. As marked on the photo, I literally sat next to the staff doing the dishes, - and was consequentially splashed by liquids from a dirty dishwasher. Very bad.",
+      "time": 1751966901,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Scar J",
+      "rating": 5,
+      "text": "Went for Sunday lunch and it was all flawless. Brilliant, diligent and friendly service from Sammy, incredible food and flavours. Gorgeous big table under the skylight. 100% recommend!",
+      "time": 1755860585,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:01.511Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbbdrIoRdkgRJEO8R14LUxI"
+}

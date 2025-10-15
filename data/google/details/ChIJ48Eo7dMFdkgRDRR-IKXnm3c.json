@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ48Eo7dMFdkgRDRR-IKXnm3c",
+  "name": "EL&N London",
+  "formatted_address": "112 Wardour St, London W1F 0TS, UK",
+  "vicinity": "The Ship, 112 Wardour St, London",
+  "rating": 4.3,
+  "user_ratings_total": 3345,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5139671,
+      "lng": -0.1341383
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51530098029151,
+        "lng": -0.132879619708498
+      },
+      "southwest": {
+        "lat": 51.51260301970851,
+        "lng": -0.135577580291502
+      }
+    }
+  },
+  "lat": 51.5139671,
+  "lng": -0.1341383,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.elnlondon.com/",
+  "url": "https://maps.google.com/?cid=8618737008304329741",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2divotqwhzU84VhCGA9M8R_-sHsYpFF-BfJKstCLv58Zjoz1_8FIxsYZSDfkgYNg35kQWmw15s2Vq0znwAqpfHt9DUqmPsXJufg7ki7J9jOssKtHdmizpxP0Copwsrt_CzHVbJcxNnNtF84jk8MuDiIsTC-1tFeKqVycp5h1B26BOwNO47vZf5nBJqIw9mJzbAwMXtEeuHy55IPI2SwAOzmt72PXmWY0mz8TegwNrr57t1dtBNiJ4oQ4bSjzNtQvnXceMIvPHQzOzxktVHbjvEaq2k1Vt9JedWTGFOmHzUJmuppPAznp_kSGQ5GhqH3O3Dx2WOYK3UlbGZy_EJou41lyPKcBT1TM1MMGoIQOBzhfj0vDhLoTsMLbSIbpVtJL6IsVE3uaVxIoOr2Ba2CMQUkihrPICDAgCfZcE2UqcoiKw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100051260480236479664\">Neil Taylor</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fRfpg_hs7Jx6P_B_tC6qFOAK5wEHgQUByWYwXWWohE3kohwISSxs1onyPQnMxdtzbMWJ24yyyj3za0gJjTFJYpSLswigSLhW30KYipaH2kQqxqX5dchvRen2vCffc2ozXl-L7UCc8coigYls2tW2omPAs9lUkM0MLf01hKOK8kAqzWtQlLKgbOBsfMUm912SbBHPqEM-Sp_E7UFby2EVx_didoRKRXQ_J2SkEd_7AIhfjnCjiWMUuKFOjbAnockE6b-vPgIz_PcdaI5VquTW6M_kyiWmCJhWn-EeReynFpAA9vuE_9xdQBFNaiUZqkSQY41M6EGkJvkm3Kr2rghW21nLhfgSUwlgQTp-JWKE-hbJJkDkH4QFS2DRW5tZB60gQL6l6zJOmFzg1y8UmcKqJJXFqkUnyu-qlqrLI-bvuPzbsKuppyRNi4IxwyYoDp",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113821225945370427700\">Michaela Volkmann</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2du45ZVtjIY6V8R7HACrGnr0vpCT2mg5AcJPAr12t7dio36YMS-_2D0cpgph2QC-DJePafVg0B8xNRcSJDGwTpmOdmhJILHvhAk_zmBPZBgddTA01xQw4xgGD5aR51e_6kVu_B5jfO4N1Kq_71UEdJYMILHluR-vGjzey1b8GWWJi2_dsER7x3djbuVEHFXGxO3WSvZ3RldF2h6s9RriTbRT6-GxVpRPmaYCccsyShbnLSPA-ar9NldABtQAMN2fcky8GBOEepVVEGwRpbf-qzkgaDPfkbSVGjdPSwKWbwYJA",
+      "width": 2938,
+      "height": 3455,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112724262036960087225\">EL&amp;N London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cDixYMZPHR1iAOnOP8tXWWsT9TDla-DuN4AqYvC5KzHhMrAn5BPiIVBAoLYY7iqZHGR7hLeksnUjvqOP3Zl9qpq4CcOq4v4HqD6LJyfp-h6MM_zoQ0g33gDsbFMKBzJe8R21xhhQMJteBMzxYghrEPt7wAlwo_8DMENZXrB8GzCKeNVHCzxWInfm8N3yTt30xlZyL1zPCVopg0pmKJJsYSlyFpgBczpl_MALmS6BVzrp5a-3cdx-mVvpHiFtHLaWIL3Gp10H17U92uNIcOjDdl__oqjujJZnib--HaC5e7KeqksTqZ86-mEgitXuQwobqFOjczcev96QV2yoYXaEXrDyOzieKXWPEr_GYLyE9luA_RQMrXI8AVkJNBrOMytswdDbvW0VnzTwm016rTRLlCUF7vms6U_aBMrUSCn1qzgrYxOe3nWd6gjqZS_lT1",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101745202218523093102\">Ljubica Banic</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dP7v2_3BNMD_0jP_GmPxRRWfbkevsPHTzRK21IfjeOgkIQqMXUJW7hlTEQD0VeBGl-pFop-Ylseji3iizN-t4QK9OO0QabBsaWxrmuE-swnV9fGUILIUi4aEYJv80QqBM_oUKUwc5bi-POmza8O0cWa89iF_wZZy2NabWjB7X9DK9hi4ru9e9Wwui2adDK3OGvLyTtt74gbgXyoXidpxlKBMaAi-kO39BAVmpEQCyIScwGtlqbdghpuDOmoPUhlQL0_xv1QEVcftuHgfYaAPh0jmoi82b6GoG5ls-RKE6cGeYqODrcdFSPsFwekc0zb0_NTLlKmF5YEEWxDnkdtQC35JBUiDa_-Jp_2CZrQx1ku8LyI5o7MYhuI3_OzTcXNKW0qOh4b0KF3pOsb_0cOZ8LfV-r7prb4qYwYb7Mj6YBZ7y7xrbXBuhj7GafXOYn",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113808962921027256784\">Smd</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fosD0P3AQegMIzPhNq3Xp_lSbV7IkgoviOTnK8VD44eDOpAviRPUxiRUO6qhmIXUp0UxgM-DU7v_Y6WDYtFI8NLAimzgN_7scOywRpBk7OvuK4NkJ0WyLXlSh_ajmVbuT9X3Tzwpp_gsAUkn8hoM-yObxBV-Sd3F1Q4Hd1v_FsPPMWnB1eT02WAVoRI503mSOtCm3CPhavUx1NJgYs7SA155Cwkr9nffrcfPE2jzqZv_S2IrmY-hHhLlJ7txf46t_A9SDLqMC6cLccwsvbtWAi8IoFsyzTeVXmzIPt_sDzZ24HmWPu3e9xzhxsn70ezT99vVi7HHNCUTiTPn8WwJfmqpcP9gShpDLJbS3RBj_FH1Z6Mqc7An1Ja-dsfFQQfDW64Dz76JAARTFnJ65vE_nZQbgQb4nW4wiHMh5QFyJWo8NyLbSgbOSIg2X95URt",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113209663634828809375\">Klaudia N</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fIleLU8Kkh8gJ2yPDt6kS7p7jGJpA3RP2rBL9nQEv8wf45TsjaRFZamf2-43ExeekyB5dMuI0HKJs96zOWgLFilZekyIkVa_tHQgIcSFvcgqlV-RHQlIoWd7QlN9q88SzohGQGamwXsBLIH9sTTnTypES3y1_kH83LGj2qT3rJrU-SsUBPtaP9wp9VquPJk7UI_Wo9RL4_46i1fD2Lk09WqvFZ2Oh6tYzitYwGauhmgJzPvNuLgm_B3vSoHRzgkvRnOAg1SqhxqgdLcD0O4jcfxKRngNphtQrDasToPboi_CWwCSkCDIvwOmZXzri6Fm8cegdxxC0_iZxuea4Z2b2fGlQQ3eXvZcvfFq8-Kh7FRLN0bGbUOJhET068KdiU-8vzV0Lp2EVHtKmAdstU_kvuJCXiAQIguYO7nu0Vr6B0jg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115627101778592527974\">Safiyyah</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dSf0HWnry5qSnMKjQmxWS5NJlGmHJI9E_UIHe0U_cRR0dam9hH1WPYIsMUTe_ovQfWanfOU2HGvIKa0z1J9UbBzOrN2Aiwk3jU_OwNNIDqhd6NwUqyObUHFxFYN7jRvN3Jd7zsFR13sggz9xuAPvG5T5YMmAMsUCMZDe6FBcZEpdzsk4w4MgRjxlCzzw4o_SUEPHJZvY8L5QlW6GkJE_e4-O2D_EW89AMq_ZOU8nMXRPGmglbwKPsYFmUxD5Sav1m8x4Fdca13V7UJbgy7c0Fv7DuasncgRqu43ZjiLNHAAN12f8zzg1KmKVAHNKOoUnrKzEhoeHbzUe3BV_6GDAFk3qGhOH98PhImZF93jjfeSTxrPZ1NUo6Bl4xw13Z9aQdv7MIrLooKyriiY_W4MU78Hcolf3kZHReJP3atFD0",
+      "width": 4080,
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112358416849425934134\">Anna Jánosi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cl-PtbLjbMHHDDWujmFkPTlk0nDpzYVLH5sgEZ-70k0HvThRJQxtYkb8hd2V3We8PbO4vHHKQsZtTVL7SOfVhn9f2a3IPH5lFxuGKYFmj7RvA0wcAJg8XSKC8PjS0dCmoYiXCTFNoGwMH3p7yNd5dOsz-Su9pRhT9C_AgdCFDOtCRGildFXJqvdkRxoalAWs_g5yXmE78qpEE0g4sTxqfrY0S4bKDJit-jjIhYQOBv_lGZpGE_YD89yTW1GzanQW_oYdij2cGRaFOQSJyaoVut6vflxSwM1hWbrSkd6tTOmgMwLkruwM806fao3J3mFJa2mp_9aJx0X5BjpsjkOmXzviazDycBOEg9uWgIOCG_aVMVdIrogFp5IivOXKNvlaBuExBw8qqKeRICuuf0OKhjJ3DUmSRbpR6dOlaA_Z7VnbbL1TZi3gB188B9Jf1h",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100308557885521450440\">Nate&#39;s Trip</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cyjhrK0N7mcVKsCvGxy7vrjNSML4cgO5QkDXcJsJpJtLwgSFA072pYKkOlvb9eg8Cu7GNmcUdZ_doNI4GzL3fWb88NGceYVrGwtq9soCqIq7PSh5WPBHrT68o8bScHbFL07IgF8tflZldAj5jvcEoycxo_wCskfkDx6-8ReY_lKyKmQMgdlP9_SJQSyIjLAxhXETuTDNni_XlIc5r1HLpbT23PNULBaTTUbBSZ6RVk-2p55q_b27NeKbe8YLBAZlT16FiAJBBznw_9h02KVrJmfV-iNmc5mEnKxgzz4GP95o5tgffpk3r5_vnftuJEDIC-azQbOzrEpTs9sucpL7UxkwMyl3D4TlH9YHqlsdOoQReellfOCb4aBueNmn_qInKEpH2GYE5DsvPGkTWzHZRcTDDxTbdol82KcQAKxz8mAqY",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112216750368521327184\">Maria Dourado</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Playful pink venue serving all-day brunch, desserts & cakes, plus fancy coffees & mocktails.",
+  "reviews": [
+    {
+      "author_name": "Paliyah",
+      "rating": 5,
+      "text": "Soooo pretty here. Very aesthetic and chill. Great photos and yummy dessert. Stayed there for hours with my friend and daughter. Only down side were the girls toilets were a bit boring compared to the cafe.",
+      "time": 1760051559,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Emma Davidson",
+      "rating": 3,
+      "text": "The cakes looked great and the menu was extensive. The place was very cute an Instagrammy. The ordering interface with the tablets on the table was fun. All in all, we found the cakes too sweet and sickly. The lattes were good though.",
+      "time": 1758935117,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Yaris Casmen",
+      "rating": 2,
+      "text": "The drinks were good. The French toast only has syrup and fruit, so it tastes like bread with syrup. The bathroom was very dirty and there were food and napkins on the floor. The place was nice and overrated, and it gives the impression that it's dirty. This was 9:00 pm.",
+      "time": 1759260936,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Bearded Bloke",
+      "rating": 5,
+      "text": "Venue: EL&N (Wardour Street)\nDate of Visit: 31/10/2025\n\nGreat Food, Great Vibes, Great Experience!\n\nI came for an afternoon tea/snack with an acquaintance.\n\nThe decor and atmosphere is rather pleasant and customer service was to a high standard. WiFi was available.\n\nOur Order:\n- Cafe Latte (Soy Milk)\n- Cappuccino (Soy Milk)\n- Club Sandwich (Chicken)\n- Pistachio Cake Slice\n- Fruit Cake Slice (take away)\n- Pistachio Croissant\n\nThe food arrived within 10 minutes or so\n\nI particularly enjoyed looking at the display of cakes etc by the window but I think they should have some sort of cover rather than being completely in the open, for hygiene reasons\n\nWith regards to the food the sandwich was pleasant with a variety of flavours, served at an ideal temperature\n\nThe cakes/croissant were the real treat and were truly scrumptious and tasted fresh and full of flavour\n\nI thoroughly enjoyed my visit and would like to visit again.\n\nPlease do consider the prices, it's not cheap compared to your standard coffee shops. If you're on a budget you might faint at paying £8.50 for a slice of cake!\n\nTotal Paid: £52-53\n\nOverall a great experience 5/5",
+      "time": 1757864159,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Swiss Note",
+      "rating": 5,
+      "text": "Another delightful experience. Great quality control, and a place that specialises in desserts. A personal favourite that one has reviewed multiple times across different branches and I appreciate the consistency. I have dined, delivered and taken away and El&N has maintained high standards. I highly recommend it.",
+      "time": 1745542559,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:16.582Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48Eo7dMFdkgRDRR-IKXnm3c"
+}

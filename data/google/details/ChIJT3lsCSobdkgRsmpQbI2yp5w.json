@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJT3lsCSobdkgRsmpQbI2yp5w",
+  "name": "Attendant Coffee Roasters | Fitzrovia",
+  "formatted_address": "27A Foley St, London W1W 6DY, UK",
+  "vicinity": "27A Foley St, London",
+  "rating": 4.7,
+  "user_ratings_total": 1615,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5192293,
+      "lng": -0.140675
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52055058029151,
+        "lng": -0.139348869708498
+      },
+      "southwest": {
+        "lat": 51.51785261970851,
+        "lng": -0.1420468302915021
+      }
+    }
+  },
+  "lat": 51.5192293,
+  "lng": -0.140675,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.the-attendant.com/pages/fitzrovia",
+  "url": "https://maps.google.com/?cid=11288187311504779954",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fuzYhRMTFXadQkGTtweD_a79quJ9UIfgv1D5_3se-izsKlwGQSn9sZ1CbjP1sLkpcOykwfd5JurdQ_cpVuS9-CqCgWEGLd-7qnqFXKLX3uu_qxtNV85puXCPEK17PQc8W3KxqbWWnxD9sUAs_V6uK3J7zqFDanz5N2GLxynZkE5GlA2Yj7ECQXGXMr5USgwtcHt01tPfs6dMjZlXdaxg5JhEVy5U9V3_80kBuzvZZbXwTvGfRyRFbOkTB4RFn_7GBahBfkKUr1Fpb8VaKYME04UnZDN3j7yOWgCLdVPNrStA",
+      "width": 818,
+      "height": 461,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105633347515167325991\">Attendant Coffee Roasters - Fitzrovia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f13t6755cA9p4iVfgWhXELTeGHQJUy2yzTuF7colh21VyYcG3elrmd4VNv3fNH1eEK4hjOTQqRNAKjhYEskRK_O5AR3948v1LAtqMrd2vKZwKrI72PntluTmtplX0BZN_42aYb2xlpJPpdKwIPelselUJD-s65f4FJCcpr3fzWux5QAVI4gB0Q59eq4ovIP2v0tOWM3zS94NRchg7UVCKnoq-RpeEVAIytgMus-9OXdHq0gLCTZ-1iRhUXMoV5XOrDpOiBrGwHmJSh8yeKEkFxSXXM7Py9Ks16UKhhN_N8zCYmqeMtPy6ir4V4U_wfGa7JNHqax4n-qROSR_RfPru70eoK7LwZPEe7k5ZCKth2i3hfLjoSg1z0AyjIo2faNhWQMSQqkvxuFJkSaxi0PysY6WM-VJzsc9W10xqieLTamm8PeDRgfOCFSy3L30iz",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116314111994722330679\">Laureana Moreno</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fp-sI9cBy_4Eq2SyO1Y5acE5K1Cr_F-yBX9f27W-0NA5Bd4gWo9UOHrDkO4vP5XWv2c1sk5x2xlJUkWph_Oxp5xM-yJq2YH-h_dG3mi7a7exNXQyHPS5XIfM2rGxHh5lHOEVU5mHpKxgq9jcCCbXcaoCNuN6LlXSFJ35dMIWOCnGuiQVn1PHSaZ8MYXefcf1Dx7BWHX-puplDA1TVFulQEiNbVEdlZQ4rb8grnrwq28DwqECD0ravobJiiP_5VOYJxAzHip4su0oi-RVJNMlHuLU7hOviNLLJd158cBAgCv0wICCMFEhCYGmuzRY6CbmI1TlJOuCrpiry1O-T1_8PdMA_C212ul4wmQ78xdzbxqf5TlksjnEMnAD02hO9_om0fNGU4R5bupvbUih5CoZ95WcLGrRTq0_Qag_BEg1feIfRmgRnR9aI_3T2lYw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116314111994722330679\">Laureana Moreno</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fdLSkPJwSA8DcimbLfhCTSgnNYMvz7KxMHM7Up5ArZBdRJTn8UUqxlwF47QbJmxj_sEXA07UW1r1D5UMNy2lVpZJyuFiH_KsCwmnA_yUqECjKvKqofTqCdCtWG41gWaD0ZPga6mHqQXCltvl5DdVJx2GV0GP4Z5SQ1hcQzU05q3qGZIdzbJlZv69IW5IJpTCVQOKwHwBjUMqjVcPDlR-qKHKRq0NQUucJfocYYfFKQxYibZKLIiYs-TutzwAkkciGRg5IvRTPM4T5vxePUrxoQybbGp5lS4YWspcO_qcRMFkaxCwsgmP1-VoFxgmGA5qnmoa3uKLIfNtWVCOq-b9K85hc5nOuFprsjTnhoqGZamsSQ9pe833BfT6MCvkan3_haqluWGhNw4m9zDs_lEpKVON4pOv5lHog8TVqQ4qlaCA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108794447754607916028\">Marscha Roubos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnfex0-RVd0csE7xJpwH4RY7saJn1lj_0nVI75Te5obRi5QVq7v1cSX2zYssUgo9bWsO6ICnKt1TVc7W6ag27LCQVOrq4ns8FrDK02v7H5NjyQgh7w9XUQnGlO17qnr4dSaEDzFmm4966mchw4w8ApaeLAuq-rnBUzgEuXyFJM9SBAmwxIG8cZ4I608ASruBnAY-YXiVNZqSkV0Pud_jGL6yLHMWnml0z-ekABYs0ricwJoftKrdmDkgOGV2Ov6B8MeJFALo8Y-KjgYHU06QSvCR2_xtDKny37IgHhqujAgihpddX-ObxXIeUDs6Rog5amteQY3i4yzACLnhkN0viGg_yv5ONE1VyYUyeFzxWDqgycSnT068D5-YBAUVTnVO9q39wtvcB4dz9Q87SnnlmtK1ePomjvf24_uAX4rPPLeqtPlvm_8qFlFIclpCFU",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116314111994722330679\">Laureana Moreno</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eRhSfkuh0IxDrJCB0YUdbfUvbPEyzNrBbEV7CeXi1AHWxL1wXIKKzn8Kd3F6kj7ncTwYOsEvMurAl4F1jhzI_bvr5m3r_gsprnpuPpLfRMRjQB2czjruqs1CvzKTNE0-_yiiJtAIqWli36J7N_26im1jZvOOuITZshBCOcdIlHpbkCcjiWA2GgnoFYIQ_1NBrX-3I1Ud0nDvIcVGWwtka7gYWZJ93LSI_N9yFKMrdqUXB7M48YJAyncuGozvzx_M2C8WLbT33ExK2S7Ea2wzl8gaMUwbfZp5XbDIXIHqwrJUtOBQzlubGnXRJLd5NEyfQva356_AX8nKjrydsiv-_q_JHyR7zOvGFUwIfqEtY_KjYkx7BcvDjOscEJrSZyKo9Jx5EAhu9-5vQa61h3iWms5pCLKUANn-5imb4exPrEZw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103456437530387047674\">Cassie Tseng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fMzY7H3TBkF3vqaTRaIlI0ejYALS9ppQLvzOWUWpd4K07CUqktqro8E6741xFymBDP5UiVF6djM_GgLCT9yWYXRdf7-7joPsgk9HeCCvDcaO0WPCwBccBleNfFVOm8k5DKScYsUab6bExWoBXms7ZDrv6EfpnJpu4bDmvtyjL33H-MRG0WwDUEeP3hjjxxXCNyQXfXd6nm1eysgS_FYhodQMbISFcT6TOvn5-xbQzhVf9CDWekkqrwl7I4MV7UrOVMZ8UnFsnAkKWAAcM0TWSQb1gKmJNFrdqk-aumXejGFgGsmRJJXjR1_XE3nT_y22Z9fnjJkiX809l1LWOuffawXx8TmvWgXyUKWVr0LChoOoCPcGA2zx9H-1SqPLWOVrER1cmcQNPxNfNcPdhPHmllvM-FeSXgVgy5fgSlWhvqEg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111624626417088010329\">roberto tirloni</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cphARxoJ-_dl7l-Es0uQoghjwNVYe0lGV5A0G7kbbvrBBXxWvmSdKV-4309k8ACuL2o82BfXJmL8WW6lYptNbtmg8CQ9FrVI8cNx2jJCxbHaHGH0xNixa--DdV297elL3ftHc48OTILSIQoeF-nJj4l5SLCSvYKcqlbVTgXALL_feViN_aMWXpCSNkQStN7aA06FV5NQFAzFCIKM_-1H3QxFyGdlAjMyUO78bgeBtRj1mgzWhs6jRiO_FyRmlBUTCs6pP24wK8jskga1WixyBD_IjeHBi-G66xuTk1hxWEDPj6E24O-u1j-VokhrqbhXat8T4X4wqkB4Kra1PfRGQyMmxtufY3oXPwGLv0t8u3D54X8ysMDVdm5P5v9vYi-ZFPPh7tDq8i7uoQD8gY7zg3bGintBmJTkqyCh7E4AoWUekL",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113502885235719090734\">Lubna Alajlan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eeilyKR7rKeQ0QHcJCbUtLFz5txKIlwzR2ODaguKQzP7JSIzfkaTwSKqz1RsLKuJy0-P5vegRqSmkHRAPhH7b2rC8CnNp09-45OOCfo5TiBwNBilRrYMUv13z3RDX0JYd0CcbGKJCX1u0CNZpI4bAl4KfJkkpIw2K1N4oIq2K124Yp-VMu8mVVW2tXvpMc2YbqfHQcBGNW2-1r2peGsfR9Pkh-5HGN1Iii273HOvilWFqpjhG-eHrXnYZZM5YFESY453iELqqyrK3dKMDm7OL8kbn3Q17G2NJ-4y8-gyh0Zd-EfA_yskLd4tMbf13zWNbydJDbtJXJ2AGq3qk19glboaHgZKWRKkq2ai3oG4SOvP2Tj5TOE81zJZlLE_yVtuIgdT5FqPlZUCrRLNLUsyGBzhrEMJLyvhaqwOz9w_Yu_kEtb6WOsIJv8XUpnisD",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105695971313229806769\">Pound W</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMu2y52_jH7XYI--fQGpE5llqIdJOZxN4Yget4xekjsnyx2MqPTgcfJfoMBBN6wQAygfrpKEHiiHhOEO4oqk-Z5ID4y9N67SKwYLBIkrzI-26m11FyI2BHCAgdpTBIacY4TKhETaBslnS1goYSa3Vjci3WdO6tgaeHUllpM-99r7uhMP7HOUHiiAZQxRLGcv0Dk7UXmcUCqzggplGrBmGWiOMaSL6cIdSTlOzEtxwp4ufAcJ-MMylSiYoOAs1oc2fq-lTMj-Lq0rBnSW3u7hO7W3n-oYgpo0Tk-qqFH42Kevan-QXUDyC7jxVOi3XhCGjdsJ9eSVA9fQ3bDjzq1G7Ww5pZK5bMFB3obOPoSj1Uv8sNakHG4ajqCFkPI89zNToTWRubx1lGvbq6nacqCS648PxgPBnkfVuGOaKbCvCmyxk",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110911696648146722386\">Mallory Learman</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Tiny, quirky coffee bar in restored Victorian public convenience, serving breakfast and light lunch.",
+  "reviews": [
+    {
+      "author_name": "Tata Li",
+      "rating": 5,
+      "text": "Very unique dining environment.\nThe entrance like the train station, the interior design like a man washroom BUT very clean of course.\nThe food is amazing. I love their sauces, all ingredients are well matched. The bread is soft and in good texture.\nThe coffee is great as well. I would said the best I had tried in London, even not many I had tried.",
+      "time": 1757008481,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Millie K.",
+      "rating": 4,
+      "text": "Such a great find!\nIt was small yet cozy and cute. The “train toilet” theme was executed perfectly and i found it quirky than weird. The match was so delicious and amazing priced considering its in central london",
+      "time": 1759420426,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Pound W",
+      "rating": 5,
+      "text": "I highly recommend the avocado toast with a sunny-side-up egg — it’s honestly one of the best and most worth-it dishes I’ve had in London! They were super generous with the avocado, which made it even better.\n\nThe iced oat milk latte was also excellent, with a perfectly balanced coffee flavor.\n\nThe service was outstanding, and it was such a great way to start my morning as a tourist. A truly satisfying breakfast experience!",
+      "time": 1750842717,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "JB",
+      "rating": 5,
+      "text": "Quite possibly the best latte I’ve ever had—smooth, rich, and expertly crafted. If you’re a true coffee lover, this place is a must. The experience is made even more special by the café’s unique history, and the food holds its own with thoughtful, well-executed dishes. A memorable stop for both caffeine and culture.",
+      "time": 1746349185,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "joel garcia (joelon22)",
+      "rating": 5,
+      "text": "Incredible place, small but full of charm. The coffee is the best I’ve had since I’ve been here, and as for the breakfast, I don’t even know what to say — it was delicious.\nThe service, without a doubt, is also on par with their products, as it was absolutely top-notch.",
+      "time": 1754651714,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:24.435Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3lsCSobdkgRsmpQbI2yp5w"
+}

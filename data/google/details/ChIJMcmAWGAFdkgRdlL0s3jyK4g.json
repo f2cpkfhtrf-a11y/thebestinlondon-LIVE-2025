@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJMcmAWGAFdkgRdlL0s3jyK4g",
+  "name": "Chestnut Bakery, Belgravia",
+  "formatted_address": "17-21 Elizabeth St, London SW1W 9RP, UK",
+  "vicinity": "17-21 Elizabeth St, London",
+  "rating": 4.5,
+  "user_ratings_total": 2322,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4928834,
+      "lng": -0.1494293
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.49428763029149,
+        "lng": -0.148037569708498
+      },
+      "southwest": {
+        "lat": 51.49158966970849,
+        "lng": -0.150735530291502
+      }
+    }
+  },
+  "lat": 51.4928834,
+  "lng": -0.1494293,
+  "formatted_phone_number": "07351 141151",
+  "international_phone_number": "+44 7351 141151",
+  "website": "http://www.chestnutbakery.com/",
+  "url": "https://maps.google.com/?cid=9812202813385888374",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 7:30 AM – 6:00 PM",
+      "Sunday: 7:30 AM – 6:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eRzzBqVRPcT9nRDE46maTGfOHvOsShVsROmFTJTESR4yqIAHa6R2yU66Bw32IEvqDT2KRY5mnc329o1OTq8KQqSRqfm3whP7FyI7uVTllUwGTEOa0PrcTtIKmpFsPon6pnmz9-ZvFPUTpnxMrwz3PSt9lTap1UZfx_l3DsNykrq8EggZUVhQf75fTSKqQgZsu3-Oy_jgDL01IDrbrubQw9OjwW-C0lprxSmTCqMOXr_fhP3R3G9ievCZyP8-dvWAQ-WC4L7UTgV5xHZQv9UNCyRRuycFZkN52AxBtUQ-_p2g",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107567086053290743681\">Chestnut Bakery, Belgravia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAYgIMs7J93yt95_6vOW6S8ESVPHCPdJpqSIFHAOsIJrZjbJuucWylCw7y5_r6JALDt0mHeXkvzJF5_L5HmvrE0BpyUW8j-CxPZK5jIgFIjeRK_w_qbN7o7CjPtgX6zC7H4R7PckIkcjFhNv1npVlyieOCOonMohPv6rl4FSuBHX-IX1lP87CDcwE3PzFG-0t2Q3s9_txIRBKsarjVFnQ_Evd4Da1zZGLCnu_T5-M4JeH8K8mVe9ZlPJSbkNEAmZIq5MiHV0k99-G1ZKmA9vz4BXzegvij7KupMowti4ZkZw",
+      "width": 1280,
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107567086053290743681\">Chestnut Bakery, Belgravia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f0YhgGFKpAdPpSElg3ZqUEniGdK3XmJD5aUvI2QTuKyV3mKCsjba9XsE8gRKClnZNdEW9FMM4SofutbXKOwW3j2NiCsYj-c-oyX-dMaNrqKPy84mAxCegLBL9Rh8xyO4CyZNjgdB2V5C3aQjfnL4NLkhnvmod-KfRxdDEXHBz0P-WoOkqwJd4aMHNJ_cUaz1FCxiXezYDDKDfpk86ic5j_McoZkaWwjs-E0Ml5Ch17jk9IDfvqU9fg0nLFG1MeVU-whPctx-tbR7MNpM_WP5ayWqbajbNk4_hXRhWdeWJYKc-MJ815mbcLoIFbXFRBfMMy1XxXtpIQwiuF5ovF2mGLcKInTlaK_rx5g6FnqUi6VySgYCgU2v0jVTzFJZlwM4T8uXVU-uHaBNongHF_tD_SxbCedStYN6j9xS6trNNkC4LowSN-omW8Pi5a7CuT",
+      "width": 3386,
+      "height": 2583,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116066209138816788046\">Maria Tikka</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2egDW5wsAKF3wP3bMNsn3wnl6WEd0D_kgzODNyIX4yFTZz99NODHx8ZC2z5amvTJLWTxGI-kQuZZYBC0MMuGHRVCp-_kCh0MacPwqowK7T2BX6DSlKQftrq6LxXIdPmm1W5LXZXcMehX4xnHJU7Pa2UCwbCx6DQ9pvVSlETX2-PoTRfJBrsAJArKVdC-NNB09yt0TvBbBw7GIutGWekS3l_sC28dZuBskySTyHZ82xM38vxcwS7xEVnKa1_Ok6Ph5T9jphLxc7nPNgWMZMPWsEOZoQgdltfsep01IbfymYiho6zwQ-wtt5SenasgdvrrFZU2Co8gzJfQKuXXpPK4B6UKgdxRLVK13CzHI-BhilyaPdsH1BjomHQ-iKDFhAynIv4xGpia-GXJX9E3ypjBNxbVt9n97syEWBwx51AZ1-tUw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106696388354017133099\">Mara</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fVZqOzG_HMrVWfEcsfTImhLtmqiGjvhaL1W9vlkjEbqvbJ5K1Ptj2ym_ZIbp6zYJC89dxLXCWBs0xo8Esvb874DSgZdrsvAiQAgGkRg7acQ5iCJPtYSdrqlmHwehqW_e97Tc1pVEzIH5yPhBhfchbaJreclvKJ26HGJcCwtc38Ck0y-U3jnjD1nrBu2RO6yRWJlEl-WPxUQ1vWcFg5v26T_uY5dyEuDoZhTdojsAT-LjgaUuNvE8isDZKITNhKwUzicXfmZhfWpBn29Ymo7OTaN0RYVWLtpsny3i5eGr1RksQ5AaWCztL4ZF0aOyNKWdKcKQa4U5VsTHqgGqMHTaBLPsTkyHMI0kkmJhVZiOk6zIZB_GaiE7TdM8y2FMl12hoKxn0nUBxCbkVc8JVaZ38EnqH-qmEMi9UFrJsVGt7RaYOoUdlMMlawx8TagGkV",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105485112806004170758\">Gaia Lodi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3XY5ZzJgZtSkuOtE9mbXKypCcMktumq4NHwUynEsdiopFhjhYhaPxwVVym9kge9ZwnGm7pLKQxAj6eQ01J6vFsRNdtk8TExANeLapcAp7dgUmRlgqOJa7NyYYwxy_ynXPs1QHuFHoh31fWUpvUVXdOWk3wgRaciwE2L7aSChzfx13UtsHwBy62_NnQETTbf9T9U9cyrY9RL5Ut1FJEdlDgewmKSWonhP6mUrAbetDSGxdnHUM98BfJUCjTQ7kNj6Sw3ecdenYibKQlbm9nKxQRSOo39pBM0XEkab2OJGrnQ6vH8qmG0XfKzdBjoyy5g9YE_HbKG9DYOF3pFZ-oA6Xdt4oCDkVndi9H2ncVjjlB7pRHkuaGXOTmJy3CzxW2OaKCASr2PFuzHvxndapIy8xSu8IqC1K8Y0J7aqRSyk6-VyB",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100208110365897281040\">Karim Abdallah</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fejlKRoSoiEipPyc4b5cVxMDS2BsU8QknMPwg_BmaFrjXT4KM-58PFrRknUU7e-bEYW4lOTl77ADYfItfUAmHgBYLkX2_rzPNR-pfS1ESEfbY9nZLeTp2g50Y3HgOkRQ6odmWiPoh74VFpqnW_ND-MrAPIVqS-Fzv3ny_yDFUfV_fM96892FkRUckrinSWY21qxuxver0DBBs7tFLhgLuM3OzX6HtR5AUOk2khkBYv50xlgy-Wh9bek0QUKm9EVGa4MbRJjX0kldYXJ7yDnKahQk0tFz91MYDMMKrgvpn4Hj6UGglE-BA8FH7J4Ihc4B4LQpRpMTZ1ovY1-riYuSmj5f3jJZ0HCTeLXuWiWf1JoMHsRt0jBQYDlqCRB6zvukQTIZ3PpICVs3ADm1szMD63DLKSDg4J_FzhOPYS3f92Jox0",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113454121840712314318\">althani1001</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eNQOzPE_GmZ_KIH1hjnjwRmUXYsV_9nAXSEYczHgIIEFVdhkwyIYNupLx1mmhhSix5deuXBObOa4lChg-bTSSuo5C67yOQcL78-mjQxqKFRongVLKWXkO3wmWpNpFulfTNDYiJTjCyivUkt6oSayyA421dqRamkq2H-L2_2G4jQfEsb-qlSZkFZ_feAu5Le--I9ZAgumSEpJ44MxTDMy-4Nc6U2kt8Qi5P6r3ydfTNpn-9KPoqihx_KLSoj6j_EqTgFCQxTG-8_6rKUj1u6vhJmaT9whFSop9PxJcTvNryzJXQWAglYxiV6uCTmM2MnT5qVIiPdRjEnyo3udl4pMOuZ9YB3ZtMiWDhNZxNVEH6rT5mR19KcHF6jWxtjX_9cl2mB6dXjIC-ZqB_9M-ZNDHuyXNvs2gXfDb5vDAfJ7hPqw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108806769499246392766\">alex pasta</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-ENW4W7DZQGrOlOp0QG252DwkD57FyLJrnfT2IDub0jVZA8j2z9Hw-JIfdQvyP4CFlTdoDOkAwldg3k0b-0Tsww5qIGCD5CbPyiX3uIqb8Vv9Gd0MM1_QPsk3pBuvSSYGlPqgl0pCm5bViKG5Knz86yEJPeQHB_Wwqj43ZNpdGB1uNAp3Rxgv7wy14xPZJVuzr4dM3rghkfMnpCMGBy1zVPwIuyfFYL6tLM0lmdbjXIuiGQjjqYyJIR5JklgWRGFqOnYTjjBEEB1Z9-u4EG5f21jirtWDEOQAZIa33sVFTw1knkCcpibJ6b-xWoymHOyfGaQtKdKlu5lcLExLK8hTYQZIaGsD82zy2mIotJNLzO8K70qEaOAnxxdXTmWFJDvNLwWDSf2qhoh7Dx0YibKPX_65SBN9Bdda7R4H08o",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106696388354017133099\">Mara</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2euJQQbkbSM405n4HAb-9XTt4B9rBkuHZgW0fe0T-8bGoEtUKe0Eh23CpYWQt-4x_Ij4I1pluYAe0TYPCKeYjBAZiUmcET8xG3yxrPs8qXCPacAQNUSNxJ3y0wXuHaGJvZPc0Kdsmrb-eyY1KerPzUy2J65xY4v4xlwjzdIOmJSHTNqyAiEfvdyPqP1LPM5bbFLW0ZhIVunR0QfN9jWga1NvCll1Bvnq1egwz1cFfy6V3zNLcCGiAADuKXHtB9Gqt7ntY3JbhTDIcOlgcPmRuFNAl2NtWgGCl_nC0UMNgMhg4f-CTjIlPNsypfvW3quzI7ayWnDHc7haTSxxdybDC_vZ34lMt9XHMynXASpthIXOUlDmMrd9EbWKbYNK7BtMy_E14k1uZCed6Qjdgb9QHbqSjIDzB-wdMRgcJjwzF9k90C9",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112143401785234043554\">YIFAN fearless</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "International breads, pastries & sandwiches featured in a high-end bakery & cafe setup.",
+  "reviews": [
+    {
+      "author_name": "Ala Al-Mubarak",
+      "rating": 5,
+      "text": "Wonderful place to kick start the day. My favorite Chestnut Bakery branch in a very beautiful and aesthetic area of the city (posh 😅). Big selection of sweet and savory pastries plus the breakfast dishes, you can’t go wrong here. Service was very good and staff were welcoming and helpful. Don’t miss their crispy cinnamon roll.\nHighly recommended 👍🏼",
+      "time": 1754205926,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "A B",
+      "rating": 5,
+      "text": "Stopped by Chestnut Bakery and was pleasantly surprised! I had an Americano and their Chicken Club Sandwich – and both were spot on. The sandwich was especially impressive – packed with flavour, and the melted cheese took it to another level. Fresh ingredients, warm and satisfying – honestly one of the best chicken clubs I’ve had in a while.\n\nThe coffee was smooth and well-balanced, perfect with the meal. Cozy atmosphere and friendly staff made the experience even better. Definitely recommend if you’re in the area – a great spot for a quick bite or relaxed coffee break.",
+      "time": 1748850404,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Isabel Hope",
+      "rating": 5,
+      "text": "The flatbreads are to die for. Haven’t tried the pastry yet but I imagine they’re good as they sell out quickly! Service is so kind. I will say, probably not the place to go if you’re in a rush as the workers will give you plenty of space.",
+      "time": 1759500413,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Roni Levy",
+      "rating": 4,
+      "text": "Lovely place, clean, bright and specious, the waiters where lovely and quick to respond, the almond pastry ordered were beautifully presented and I loved the coffee\nI couldn't eat there as they had nothing gluten free but my daughter said it was tasty. I did appreciate the loveliness of the place .\n\nWe paid on like with a QR code and the invoice was sent to my email, the total for coffee and pastry came to £10.97 a tad on the expensive side (Lovely or not..)❤️",
+      "time": 1747300077,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Silvia Martignoni",
+      "rating": 5,
+      "text": "This bakery was surprisingly nice: amazing atmosphere, delicious menu and great service.\nOur server, Nejd, has been very helpful and welcoming with us and our requests. Outstanding menu, great vegetarian options and vast choices of sweet and savory food.\nScandi atmosphere with wood interior design, lots of white and cream color, lighting completes everything.\nWe’ll definitely be back!",
+      "time": 1758622562,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:28.118Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcmAWGAFdkgRdlL0s3jyK4g"
+}

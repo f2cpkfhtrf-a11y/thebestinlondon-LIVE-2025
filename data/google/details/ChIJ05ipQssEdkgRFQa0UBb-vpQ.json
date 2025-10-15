@@ -1,0 +1,294 @@
+{
+  "place_id": "ChIJ05ipQssEdkgRFQa0UBb-vpQ",
+  "name": "Barrafina Drury Lane",
+  "formatted_address": "43 Drury Ln, London WC2B 5AJ, UK",
+  "vicinity": "43 Drury Ln, London",
+  "rating": 4.5,
+  "user_ratings_total": 1330,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5143296,
+      "lng": -0.1218929
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5157273802915,
+        "lng": -0.120459819708498
+      },
+      "southwest": {
+        "lat": 51.5130294197085,
+        "lng": -0.123157780291502
+      }
+    }
+  },
+  "lat": 51.5143296,
+  "lng": -0.1218929,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.barrafina.co.uk/",
+  "url": "https://maps.google.com/?cid=10718283534985070101",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Sunday: 12:00 – 3:00 PM, 5:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fI0fp5QX7yphY9OxQYQ8ZRqjJZcJg2HUDVJVrO9MXgLeiLrpXZWCjFdywhS9kxROhCwc1BbQ4J_gpA6VwcI4S3XbkMJ-ZLAqAiyyadcGjlzKiqvfwRyq3O1pQV0AAy3_V7HCqIJ69VFfeIFhGyc6NhZagS5clEhICw0Q6I0nGGUwozxezUFNBNVVreCntyMp4_7YnQ7K_DBhQv8jItuS8h3QO0l69iWZpxLUIu2GAnvVa4Krco-PpKwlJtYdyjF8kiFXK-D121ntfqz_jdTwJXO04v0z29WGIBwep6Aog",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117078415316035270442\">Barrafina Drury Lane</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cbZgaig8UjbXco1aNnd0Sk_cAJTDQ62deX_Rw69iRprzVwRJd74yLrQPsQpq82EVKDvAMIVvwhlb4dl3I_msOeXkjZq-nUZHoBHZBpbAp1r9SJOaK-3oXVv1CKcm-af_Y2YA2gy-2b3oipU4ausVL6KQOefhgnSIat6zQHip5mw2BsWSx9sqPRtJoO5uuW2b_b3K20rXu76kphrpqoqWGSqfaV8D8BOPMvqv4UOC224YX1cmSuDiHGGxr485RpTfxDQfjjy_ujIa4CNLX7afwiSLfzReJ9-BYurJlnRonp9_NfotdFQ2c1x8kyYMT5odb19JqPdNWThafVOpQihRzE_mTcVd4fFKZwT_tAdodThYSnXsuhjFZUaY9bur7_4QKkrGavkmxEcMDgHciyBln7EYumOqgn1-u0JL-KUqX8yzQ",
+      "width": 2800,
+      "height": 1867,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107392235419644324885\">Daizo Bamba</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cn7bfEOdsG6ekhZREMnm262sWxakZ0jofnFPBxbgIBigIyAzMlI_do3HpkJ3wpF2uZH-INe9ZiPt1nMla7b9n9_gr78BdV9rfLihMqzF1tRiT0P2hVUKV0elIwlVMMOR1AGWWwvc-iG2Lz1W2BfZo-S9hKKU_rLFPkXpD6EK4244rHQztgLYANibvOuswvqA0GM1gTLUYSNmpkNxxM3N4-fZ7c02AeT2FK6K-lZ8elBlZBEpusqqqPXy9Xa0hyU0LBXNrTFK4sTIytUrTIOEyC5xlk6Bkdrssm3PZdV3V2u0KW1p8Q6uIKnyPnf5hqKUszgQ_C9LUNyuNRo-joGj9d-b_2kUCkGECyyVcX5RzEU6MVYpvn7o8xb-FKAlCy0tzJWrO0yNGMg96GHhmVOylnDVSvQQtoIO_KoA0Azv9-biED7vBJd6-BGwuPIuQF",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113500422885516412264\">Florijn Bekaert</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dwqf00xbQTOPA63RDLGVkiMlhmbrRO8t-bO-dBE1fVkz6sEawXv7CkwPx0lftUKJ59QaZ2X2GUR0-r6xkcZP7B_FfMex-Bb8acYTZ6iDQTQnPKkf99xzNg1Qr60LAr4la3Is-pNsL3ytRzwT6O65X9ehQkd8kfinPe-XB-xdb69bRQXlU6-o6PEygi5OAVrftqvhiIk2vmUm_fffG74FN5i9Fia8WNXedL-9xoEYoTKDVQBVgCAXmcqq_7AjYpDhluPG2GACyVNEtBJ-ApJyyFtWoF6dPUbdvpOz3Miqi-OLhOq-ibOIUeTDnfKj8PaYG9LCKMiEQx6fx0gsM5NWUGdbdMbCQr9Im3p5dqyo0UJ5FBd0xMmoPb5gibxxteZFXT1YBaRGgjOkGjTY4xnibOISP_gwmut4A82OHVqM_4OQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112559963531849583668\">Jason Jong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ddT7qsbEvh-MgCo3Te_62VFIKCnIuZk5yB9wXg6tlVQnrJtqaBrp8YKKfL0BhYsPvqhw961wRbtqmt6yv2y25SCT2gOO-5lBJnZaybKpxFl7AomFnGaziUgKAfbQ_Szhn9NXCQiBVe0urO56d1MaatKgdNgPx-CAwHn4FITGioamtmy44E5LcW9jdyv2pxP_wb8_fRpIvvc1FS6KbFwBuumiXfftcqt1Cp515BU3o9_huw1dLtZ9fAuSB0eMDvSL8cVbKbPHDajRj98JGKRyDtYY1wOfAVA7s_x1j4HHLcubILpTipecXGUNe8WM9fpUx7mGw2QyAHxHC15cJb0fwg63mxfXir0NuoF8ne6LPAfYfIuPxTd90cgnOily4JyLpCQ1tRV8QH83p4PYbrUK1oOXwCgAHkkVx6K42wRI9x5w",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112559963531849583668\">Jason Jong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eeLMPofaUVKdbAKDnpFLDf9nWUz1-M1or_LzG2OTlFUnhdVcH3tmhiA1y8YcMXMSJtytanK_kY9gru0_8OUyfZgPYNksU-FjbTtOMgMOqLQRoiBHgLGmSeOSjYpbtsD7bdDshcojidbj-8uKzXyk1hJEYmQttIMptPPrxZq9gr93wZQ9WEcsfzuIYGKNpgxcWjymR0xLJdpiP6KAcKwZXBDorBlGTGqONxpbJM6JjEMjajT5mK-SWiDL-Unc5cK89hWP7G0L5IEyhHjMJV3ozTx5ttuxBgjG4Jx8zWeZSyWDkm6mEiDZlkbpMpkvJXD7YrRueQTi-988THDgwHzlW4GUX4VixLqJDQgOtCUrskO_t63kEu7ouAxk8QthIwoLnOUBe_UOzEp4hLxHNZ8km_ojijkloLVnbln-lvuBtgK3Db0YRJiuH8PrcHTzLz",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104255597130879530895\">Lesley-Ann Naik</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1xl3gvyo_Vm_o_JRsR32jYPxdmMVue0zX73A_RElhswdyOy8Agq8ewulg0TypXA-OVpQXRtptcpgItT9WCVVd4b5BDklKcBM2QHtLxxvR1hXeBAkPuRaCGRWXktsTNHctQJ47RBCnKLsywFPyqH1HiuKydg6rFGnkodqtFifxLyQZafQlUqGmHeg8czndNerrCI2EraL_JqF5kf2d6K5whCsLIpPjlrzCdKTO4j7aXME2YFfYgvFscvt8UEyIjnXnYxObUeK5BF3ZDjQFfTp1VNcu8BhY5YDWudTeYk7TpZegcM1RjIvWTLLkPCkXOT5nD8nPHg4qJ9XWS4VmE36rj8y8xCTlLtacZmd8j5yVMBilZZR0J-bpXVQmpRUj0n4nCCHQzfyIzWLFBxLhn3p-VaV5pWgf2FdcKtEnor7MY9IVuuNBKF3VmgdU1Q",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112045390175320437221\">Simon Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fQDnItCwGf0x5VbcuC6jxg5rikygdT7sEQKJPDI7H42BHB9JLiJ7aouzXaRwLuHUxX5Xgq45465gQdkTuSTNbQRoJYA_XCPTxboVDEiE0MIb1W59fwCBUv0Q6dZ0MfTqOze41ecsIUQ51uz2-yvJxw_Ua_SI1qYdPJ0laFH0o-8G6TInSiN6EkLhLiDI9q_U7SM0uZjuow61eMv8iZRBMcA5c7SBrItY4v9STo6fC5lhATHzTLbN3Wg6U03z8OCZrsBAlE4qlP3V3us4GAxzZjj6F--aYytN2sUhlmTQBy7da1WGzxJ-x-6QpFg1tm3e8ukP6pZNkAxovtO-ml0ln773RqOOAl_oRRKUGsrrJQuxhpuiLUaU2cGteTTrJM40pzX7ZnIkCX5sjL-O7tWhejSjJ2-vhdTjziu0km2_4",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113431457974249077424\">David Cunnelly</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJv6k3rCs3Kr21Q-my59KonC7siaDAuGVFau6OqjkArpBf4p48om0q6LeASpxsaTam0z_OiWTCr6G2pnFMI5aEyzrBAU6eID-VSMFIiSLG96u5DhNXp4MHmtu-hDupMmHuhbIkkLP7uNBAgCH3pct6yMt6vu_42o3DNJHyGLU6V3iFCpVQ-Gwjo5Rk2igfxB8pJ7QUQrRavd_Cx-CE3Nyv3FwP9VZCvcCs6-kCgnjPWn7hWHxuW7GiIv7dMEAcDIxyTw5rN5TiiIF7CqhiWTngdcw_VKjcsuINNAIQwRWEuSEat1GDRlcYx14p6uVDPlq_d-m7_WU-O6yipwO45cQaC-4tSCUdXaF7j0WJAbXRfkQ7vAyud6GFEtoTPuq0dhhxDu9RyEywF5scK-RdHUjCW7QEULxvtPFDLy_ImMsOs7vH",
+      "width": 3472,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113618580258734038264\">Alessandra Alari</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cNFZRvzyYfezbFDFMWqktIWxXxOgUWw_X_wwO-MqebJ0ADKY3ZxGmL5QnkMkcr48AmNXro3-wEzecXeFLHCq_SKS6wA5GqJy-fi4H8t0BrVfKS5AefEd_OZckWKaJ5hpxIriPNEl52QNiBxLj6rCz4j6l-JmFsEa6N0BiBg9_Vx0SIIOwMSmpEE5oGC67Z7jdPIzf1Tcqh6jfngFnl72BdOiN5zeuuCUeqTyv7Rygz66k2zsqPnvNKBsVWQ_f8Mh0Wc81zwEvXTcG8f6WJFXHA58C7N08yVsV_Knb6T2CHJBL_qYL3gfumu_klUXsUmpCb7Co_CLAf0ZI6-9MvkbiGNTq-8PSANrGAtgBFvsDu39jyj1eOph4Fy9D38QAXJL4qtNdKmRREtLn1cISG6RR7BsJ37hgAnqGUVdo8dqG5OPoF-VjLkvNaIzJF2H3m",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104297766636168779608\">Dara Cincinati</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Cosy, diner-style tapas bar with stools for Spanish small plates, served with sherry, cava and more.",
+  "reviews": [
+    {
+      "author_name": "Virginia Huffman",
+      "rating": 4,
+      "text": "We had a lovely experience at Barrafina. The menu offered a wide variety of dishes to choose from, and everything we tried was absolutely delicious. The wine we ordered was also excellent and complemented the food nicely.\n\nThe service was outstanding. We were immediately greeted and seated, and the staff kept everything running smoothly. The dishes came out at a perfect pace, and as we finished each plate, they were quickly cleared to make room for the next – a small detail that really made the experience feel seamless.\n\nThe only downside was the price. The total came to around £200 for two people, which felt a bit high for the amount of food we had.\n\nOverall, it was a fantastic evening with great food, wine, and exceptional service – just be prepared for a higher bill than you might expect.",
+      "time": 1758206254,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "K Ho",
+      "rating": 5,
+      "text": "This wasn't in the plan, but our itinerary took a detour and we decided to have lunch near the theatre. Ended up at @barrafinalondon which turned out to be an unexpected but amazing experience.\n\nThe food was simply topclass but what blew my mind away was the Spanish tortilla. Omelettes but absolutely out of the world. Crispy on the outside but layered and runny on the inside. And so tasty and absolutely delicious. Sometimes the simplest thing can turn out to the most amazing if it is done right (in this case, eggs 🥚).\n\nHighly recommended, and tortilla - out of this world 👍⭐️⭐️⭐️⭐️⭐️\n\n#London #greatfood #Spanish #Barrafina #tapas #arroznegro #paella #croquetas #tortilla #braised #porkcheek #coventgarden 🇬🇧🇪🇦🍴",
+      "time": 1759074302,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Carmen Christine",
+      "rating": 5,
+      "text": "One of our favourite ever dining experiences. The food was absolutely gorgeous! It was clear that a lot of care went into the taste and presentation. Huge shout out to the iconic Tortilla - perfectly gooey! But the staff!! What a lovely, warm group of people. It felt like we dining with friends. We loved our server, Kelvin, who was super helpful with the menu (as we had a few dietary requirements) and hilarious. We then stayed chatting to manager, who was super friendly. The atmosphere was relaxed - we stayed for hours and didn't feel rushed at all. We only went out for a little date, but it turned into a night that felt very special. Can't wait to return!",
+      "time": 1756139306,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Florijn Bekaert",
+      "rating": 5,
+      "text": "As solo dinner guest, I had a fantastic time. Great food and amazing service. I was very comfortable and everyone was very friendly.\n\nThe food was amazing, especially the squid and the almond pie.",
+      "time": 1759016922,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Tsara M M",
+      "rating": 4,
+      "text": "I went there for my birthday and overall was happy with the food and service, but I wasn't blown away, as much as I hoped I would be. Perhaps the anchovy tostada was the only dish that brought me close.\n\nWe were sat at the bar, right on the corner by the main entrance and didn't feel crammed, as people mentioned in some of the reviews.\n\n⚪ We got the anchovy tostada, 5 stars for that, really full of flavour.\n⚪ The piparra peppers from the special menu were also great, 5 stars.\n⚪ Croquetas de jamón (ham), those were nice too but I was expecting something different, more like the consistency of fish croquettes but it may just be me, 4 stars.\n⚪ The tortilla was disappointing to me, I didn't find it to be flavoursome and nor was the alioli I ordered (I'm used to flavours from Tenerife), so 3 stars.\n⚪ Gambas Rojas (prawns), they were nice but not quite what I was hoping for, my boyfriend enjoyed them though. I have had better prawns for half the price. I ordered bread with it, as I love to dip but it was just plain oil, garlic and chillies, so 3 stars.\n⚪ Grilled chorizo, you can hardly go wrong with chorizo, 5 stars, spicy and very yummy.\n⚪ Complimentary tarta de chocolate for my birthday and I would give it 3 stars, as it was really heavy and dense, and too sweet for my liking, but my boyfriend loved it. We had to ask for it/ mention it's my birthday, which brings me to my last point. I will never understand why restaurants ask you for the occasion of your booking when that information just stays on the form without anyone actually looking at it.\n\nIf I owned a restaurant and this was part of my booking form, I would ask for the name of the person celebrating too, if they have any allergies, and make sure the person greeting them asks for them when they arrive, wishes them happy birthday and makes sure the person serving them is also aware before they interact with them, etc. and a complementary desert or drink is offered and so on. It takes so little to make someone's day extra special. Otherwise, just don't ask for that information.\n\nI had a wonderful time regardless but I thought I'd share, as it's a missed opportunity in my opinion. 🙏",
+      "time": 1756250944,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:52.620Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05ipQssEdkgRFQa0UBb-vpQ"
+}

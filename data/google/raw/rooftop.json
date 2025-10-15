@@ -1,0 +1,380 @@
+{
+  "category": "rooftop",
+  "query": "rooftop restaurant london",
+  "count": 11,
+  "results": [
+    {
+      "place_id": "ChIJRZH409EEdkgRBxaLMN6ua6k",
+      "name": "The Rooftop",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.2,
+      "user_ratings_total": 1235,
+      "formatted_address": "7th Floor, 2 Spring Gardens, London SW1A 2TS, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5073565,
+          "lng": -0.1291709
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50876367989272,
+            "lng": -0.1278013201072778
+          },
+          "southwest": {
+            "lat": 51.50606402010728,
+            "lng": -0.1305009798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJ3V0Vo0QDdkgRoJqY-XRbe7Q",
+      "name": "Wagtail",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1269,
+      "formatted_address": "68 King William St, London EC4N 7HR, United Kingdom",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5110536,
+          "lng": -0.0866154
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51233842989271,
+            "lng": -0.08523922010727776
+          },
+          "southwest": {
+            "lat": 51.50963877010727,
+            "lng": -0.0879388798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJQYIo3KoEdkgRLLQeg-mgnR4",
+      "name": "Madison",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 12229,
+      "formatted_address": "Rooftop Terrace One, New Change, London EC4M 9AF, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5138713,
+          "lng": -0.0954593
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51510152989272,
+            "lng": -0.09372267010727776
+          },
+          "southwest": {
+            "lat": 51.51240187010728,
+            "lng": -0.0964223298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJ19VDIM4DdkgRvabgUPeDdjI",
+      "name": "Mercer Roof Terrace",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 475,
+      "formatted_address": "20 Garlick Hill, London EC4V 2AU, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5113789,
+          "lng": -0.09365659999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51271337989272,
+            "lng": -0.09246737010727778
+          },
+          "southwest": {
+            "lat": 51.51001372010728,
+            "lng": -0.09516702989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJm8GnARQFdkgRL8eT7UXKpjg",
+      "name": "Kitty Hawk",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 174,
+      "formatted_address": "8 St. Martin's Pl, London WC2N 4JH, United Kingdom",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5093148,
+          "lng": -0.126847
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51074697989272,
+            "lng": -0.1254114701072778
+          },
+          "southwest": {
+            "lat": 51.50804732010728,
+            "lng": -0.1281111298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJI1bSP9IEdkgR-zZRlXt5Bio",
+      "name": "1 Leicester Square Rooftop Bar & Restaurant",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4,
+      "user_ratings_total": 963,
+      "formatted_address": "1 Leicester Square, London WC2H 7NA, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5106829,
+          "lng": -0.1308645
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51214992989272,
+            "lng": -0.1296544701072778
+          },
+          "southwest": {
+            "lat": 51.50945027010728,
+            "lng": -0.1323541298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJU4TfPtcFdkgRGm2ioXxkC5Q",
+      "name": "Miradora Rooftop Restaurant Tequileria",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.1,
+      "user_ratings_total": 1112,
+      "formatted_address": "above Assembly Hotel, 31 Charing Cross Rd, London WC2H 0LS, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5106207,
+          "lng": -0.1285762
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51195127989272,
+            "lng": -0.1271599701072778
+          },
+          "southwest": {
+            "lat": 51.50925162010727,
+            "lng": -0.1298596298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJsaUPf6YFdkgRFoGKw7YuMTw",
+      "name": "Circe's Rooftop Waterloo",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1869,
+      "formatted_address": "Mercury House, 117 Waterloo Rd, London SE1 8UL, United Kingdom",
+      "types": [
+        "bar",
+        "night_club",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5026971,
+          "lng": -0.1102388
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50401912989272,
+            "lng": -0.1089720201072778
+          },
+          "southwest": {
+            "lat": 51.50131947010728,
+            "lng": -0.1116716798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJZwXq3WUddkgRhLmi8i0FI7w",
+      "name": "Bread Street Kitchen, Bar & Rooftop - Stratford",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 1141,
+      "formatted_address": "9 Endeavour Square, Stratford Cross, London E20 1JN, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5416874,
+          "lng": -0.0101854
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54353637989272,
+            "lng": -0.009336520107277783
+          },
+          "southwest": {
+            "lat": 51.54083672010728,
+            "lng": -0.01203617989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJO_kd-WMddkgRPFp3Iar0kqo",
+      "name": "Marlin's on The Roof",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 99,
+      "formatted_address": "45 Curtain Rd, London EC2A 3PT, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5236571,
+          "lng": -0.08056089999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52498747989272,
+            "lng": -0.07926102010727777
+          },
+          "southwest": {
+            "lat": 51.52228782010727,
+            "lng": -0.08196067989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    },
+    {
+      "place_id": "ChIJ9TGOytQadkgRsdB8immA8e8",
+      "name": "1864 Rooftop Bar & Kitchen, Oxford Street",
+      "category": "rooftop",
+      "priority": "medium",
+      "rating": 4.1,
+      "user_ratings_total": 1203,
+      "formatted_address": "300 Oxford St, London W1C 1DX, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5151224,
+          "lng": -0.1454656
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51634487989272,
+            "lng": -0.1441508701072778
+          },
+          "southwest": {
+            "lat": 51.51364522010728,
+            "lng": -0.1468505298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:06.749Z",
+      "query_used": "rooftop restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:06.749Z"
+}

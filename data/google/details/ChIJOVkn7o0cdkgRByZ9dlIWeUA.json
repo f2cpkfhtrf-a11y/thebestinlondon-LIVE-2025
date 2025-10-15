@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJOVkn7o0cdkgRByZ9dlIWeUA",
+  "name": "The Dusty Knuckle Bakery",
+  "formatted_address": "Abbot St, London E8 3DP, UK",
+  "vicinity": "Abbot St, London",
+  "rating": 4.6,
+  "user_ratings_total": 1404,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5470859,
+      "lng": -0.074094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.54850363029151,
+        "lng": -0.07278166970849796
+      },
+      "southwest": {
+        "lat": 51.54580566970851,
+        "lng": -0.07547963029150204
+      }
+    }
+  },
+  "lat": 51.5470859,
+  "lng": -0.074094,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.thedustyknuckle.com/",
+  "url": "https://maps.google.com/?cid=4645769034040419847",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 3:30 PM",
+      "Tuesday: 8:00 AM – 3:30 PM",
+      "Wednesday: 8:00 AM – 3:30 PM",
+      "Thursday: 8:00 AM – 3:30 PM",
+      "Friday: 8:00 AM – 3:30 PM",
+      "Saturday: 8:00 AM – 3:30 PM",
+      "Sunday: 8:00 AM – 3:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ethD5sRnQwPGWzP3VzR_IhXKW8h-wWAk_q1GQv1R_hPI4Zood697-Dq17UgkNfXG9I8D8EZnYBPKSAmNP2Si5XcrxO60amaqa1w3SAo-WnHZiGnfxZTKTw5_tHlnGHz9F4MXYIN89L662127ESASgLMyHYC4ddYv4PmwVdQ-P6ieK-GunNAtcsamGH4WCdoRZ4oTbTMhpTxik2pBdVV_AV5kt0aUqSE4k3szwxHdP9XwuoHAITDaTbv4D2X0l1UYE-tPPwX4tkOhr-WFTXXsF9JQJaft0wKAySdR7si-JB6Tyl1Wj953NSz_GxkwUsHVh_-qNSyPNSuxrq7tJyD7oYTqseCQbGjm7l5PHCEuhkTAlNdgVOVUnI-6fV6sILBB8tiZ8-m68tGs7bS9F8sPhHWKYV3mOJhuSIr1UGgAfw-mo",
+      "width": 1616,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117339452856121456742\">Jaden8910</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxAE9LbZ5SHRVM-qH1LGgAxviQBRtfvNisWmwGnpnD2w1jaxznp8aWA_ELbmee0jc4IvfAGpy-vKC8VrMKY-1_cHa3QW4LpESN7mXaDjBGhUw2MFFlbuGxu2lFgUVgwUSdNymrtOG0mAZE2v8xwn5xnfAphWrcUsSUG8Dn-ITaZoFDlDfWf8uwNx8SAQ_How1vJX41SsCVpkLd921eCCt6W9sbjQHxi64cdpfYUJN578bgr_FriGds_8cpFc83dS3oBl3XlVfzihEp4qt3PlhXS4-tWC9tpZNYqDSw9eXdSA",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107720055931993264086\">The Dusty Knuckle Bakery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f9XiVOQ9S4DgD9I2SnNhmyJfAk4CK4OEKzesMoOdZyJgxsv804yZE1H35e3v1-Th4MKktDmIWwZfKzixF5Z0G6DrolJSf-Zer4fxpJJphEao8ta1nTg1Jkm_LiosY9GtPHRxkSzT7u2mAVFjaayBHJ4Mcq-0VS_GZjdpETbjMjfOg-qMJgvnxtQFce4MlIs-zTQHhaNZiYwdwnB62w-vkZHOv1TSjipTAq62CgFYPO5MxVp28Cu03RGu76MYme2cnq6zadivoYMa9Fka6HOPI_qVslUTWrsDjIn5jDu-32CDKCE5lF9wmPBTuVpEQwXRmOB9HTbe2NeDkJZYvW7yTi3gxoIHy2YW7VWBzO9qdnEijy_DbgY9DsIUcftEPmLC8XUiSgFLLjhvKiJygDeerVYXIYtGWLIw26oFoLc1VgbzhalcC2sfr8ZjMQWgCb",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104545380406981082317\">Oliver He</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fah_gAeRZr1GfJWa4_THu4dTSN9Wb_UFGS0ZHljk3lRpmVwJPoMITInFtaVkZo1dTGGjkOQOKNhAmO7jii7ZHwaug-cgCSzCtu5rwvp8ZSLeQbup77WcS36pjaTYzN3_z-q4XsfxQalgIAJnsVBdgFfCCxFrcIljFu4WVHSHNH7tfte2JMfdMvWSaUMVKxZHCsCx52xMOJTaVWiQyKRCv9TNhYcl-M1euxe_n7t7Q_6YUzZkzIfZNnVESYHvgb1elfAIYFp7jQXeTv5-7Te-xNmEJAA4CRUr2ID2ABZ2Ysd5bMBft3Q4O1G_wEiJpqLKBHFiGYq_ccYjuKNaoLJgUcQZyRblRe-dxY9RFl-0ZttzsALso3lxRs0-nI_gfSHwsATZ_t8qusPl-RJWYrJai8leoAzSOPG8tE-DASzOdtnPJluU7wK7Y04ZFVsw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117093738394051947930\">A BC</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2djwBVeFKlfpxbRXY-o6DiDOGsUkRpCrjsfO8d_WhRQ95ARxYJ-os8K-CZ_GNiDczTf56RL8Hixuq0mktG89EPfQKYVRGrLTDiMT1IhS9JWGHsp7wQ46YO7qtG2ncOUL6iqnKiGB96xJiF7Czc4OUA397yza4rTljiS9nEXgovzazxgewf5UXYEm-_QVUgHOYqoY1Y-eExWt9sF-Zu2WiG2_ORxWBO3wkypJKLyQ0r2OPXnR2EIadmrAMJjTCXvFtQVVfCIlVxxJl0FVLJxG2c6un31toEqW4gT8D7hUEAyteGPAhzG6tC9v3RZtLOa84xVbFbRPfUYGEyYwhvCt-HJwgn-fcclfITzwIqha2aM1L2xzQ116R_dcKgAtbJNat1nP-aKZwqZLE2laMuYrJnLT_lIpwxexL4LcvM1rJRAk-Q",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113527429678788886771\">nica</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzMTN8NDgtZWrEiR6ZM2Ky1RwwjX7PtENlLICZjNhfazozlL5Ak22kpSZ3WSTij_IxKzErSJFXn_-x1LpBzWSxCO9uBrmexpiyE6UXnzZGxrLBCDfvCHY6OoOSjo6jGeRSS9tSrA7M3d5VUZ1F-kv4ztN2DDN0OZEjJRCecWGuoWiAZGoM4l0wMRoexVydhAko_in1BtnWNKkIOzpgpsdERtRwsWXgO19YA3ZALq8hNPbMlxPbxkVLlmLsZGmR7ND449rQR8bxscD5VlaHZXBjTDW_3P1fm2csXGVXGgoHKFGbUcfUzDFpnshqyX9QtPEi6djFU1GHTJ8O14_Fj4kLVzut9CrCjjICa-3h8nCpotxUD5CeYeprD6Q-uT3guTO9VJ0cMsicGCebhvBbyJQUyeS-Wqy5pIwnejEApMFB7gvs8HsgD0H5m0zweA",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112493834535991007438\">Sven Helterhoff</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1d0msVJksyOg3zDL98V9Ctv4drhBQoOEVum_T-0sSiTrlNg9zD7iDvM4PXtfyo8YcV3a_3h7-jy99D1yHtGVI70_6-IGowkmRv0rXh3xrgFsSsvoTPsHY1e76NXGCqI8gSbnNMwUnzDLIBBny586BofQyfzJ0BnGXAOIX-YKfXBJSoKXGMiy5M8ns2DcHBMjh9iTZrT6W1vD_DXUl-53GFHWxpcqPcJC-1sfQ42MZjfx8_PHszv6sp1OXB8-7_XMHh9mHTFLOCv-79M5zz336TOWkyxcUVKmOKPvmToL0UGG5f9pjekFtZYhZeEBYDkZ22ZOSTasGnrNZvnpviZHC7gAscgjQ_qDVJCfLhEwf078rmpUvagtvHfq-eOb14ISASvUClyyZt_4xQ_9lKJRi5H1KpztmatxPzBdbunf1IptNCxVR-jPND2AxGz5U",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115904643934729577426\">U V</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dPXfsoTrCNXhSG_wRFhpW2oi7XP_vCLG0js-e99GohfSH-5kWl3yckTrXH9LGAyvpcip941agcWOWlonP4qX0C9EamCviXXN2TuWbm0M17PfdFv-walCtn_O2jhj2-xs9uoLGM1eUnK2UkZFSCbdIxBOG0dJeTmWcecFwOw6jFNBCczlv0InX5MrAT_uNZepMIw5xP-y2L6K38xquU-ERx9BIDgzpr24kxV4mej0Pa_cxjXbVuqOXxjv3yTARyHeptgF0q08b3oBlnPQY8xhiy4qhEmFguOnQ3_w08VucY3kk7ZO2w4IKVmWXwUQYubk8DQh53YYkif49vb9e3GZ_df5mltZbA61NO-UH3QLiu1stoPU0o-Ni_ecgLC1_eoLl21t5acJrA6KFJaL1Vjw6uDKxQp-i7vCkd0R9r9Jz6olb7KeANzcFL4XVXe_pr",
+      "width": 1085,
+      "height": 1157,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101779107501792738622\">Zaymad A</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fNf_RDwDkbHjo351h08WAN24-MDzWSOwovTtMyFejrTJBp-7ttuel0EcL1TMZvReN2nJi8s1VTgTxOc06Lxf7noL-Nly6gLs09CrOJbcjtgIWQIiJ8BZKSn-OxPNebRg-O_rRaEZHlsJJ2lcxUxtIzTdht9dBeI5ZGkD9di57TkmsyS4Ln1nPJQSerLUeUicaZcZhGBEIm4TiIstTMkIS7uiC4qJ_HJIn27LGEWYGDd_snxXgd5FwF9oFkRQ3q1-IuCHc8JfiJ1iYm2DVt4B9H48p1DPHt4CHi4Plbif19PSFCvLjKpaMKobu_VZ9rv594_rCg7wEqdsBPPiJQwTjcqIBCfZ4Qt62ywq8biTzrTXPXY-HO8_6ddf2wjxvnPRCcaoeDGxwUukM-KFlgsUWrnSiljPvow1rD5riFGQ4Zqdx76xN6f7SXPNu51g",
+      "width": 4104,
+      "height": 3996,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113502201858009717648\">Dikran N.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUbPOsm47QhVO18lQJ0qsp-aCA3bhgD6Q3Fm6GBdPAXocYDmDIb2m-HCBgAbOOOvtiQabeYlGhLWJO5PA_C9OADmAc5w2rs2oXPcTholtWMYMvB-JconRi-RuLtmCdFLmADGVkEzdPrjqg-kWvQXjA_Yd3_Lg62xtzarts0-btb_owFGOylqn87sEts1USBIuGGAUHNq9NG_QwHds3mDiPKkH_bpVCwG75XNzdeuGrhQmlosJ6jiP4o_hA7YRGrQ61OUCtGjJaBhrFeP9r5Q8yzHmLhrevJbAPZeKcHYkppx4RIs3rLpq0WkocRf5sgkRpsWhAaRSn4zyf6T1uu280npxxU1gl17qJ7nsK0aPSAJN_Sj0Eq_PFWzGMC0JmLeB0FmFvMjdDT_oV934LPjsTx4ucG1eTqT-uxJ1XRPvbb9wJVH2n10xhPBzCx0bc",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108838691653232957708\">Maxwell Andrew Buckley</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Light cafe fare such as creative sandwiches & salads with coffee drinks & fresh breads to-go.",
+  "reviews": [
+    {
+      "author_name": "marcie",
+      "rating": 5,
+      "text": "so yum! ive had this bakery on my radar for a while now, and it was so worth the wait to come along.\nwhilst £11 is obviously a lot for a sandwich, you 100% get what you pay for. The homemade bread was absolutely lovely and the sandwich was packed full of flavourful filling.\nthe atmosphere was lovely, and sitting outside was great. service was brilliant and hardly a wait for my food either. i came at about 12 o’clock and didn’t have to queue, however when i left at 12:40 there was a large queue, so definitely get there a bit earlier if you want a sandwich! they deserve the popularity though, i absolutely loved this bakery.",
+      "time": 1752089361,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Maxwell Andrew Buckley",
+      "rating": 5,
+      "text": "After being recommended this bakery I was eager to visit and it didn't disappoint.\n\nMaybe one of the largest bakeries you'll ever visit, hidden down the end of a back lane with extensive outdoor seating it's a great spot for brunch or lunch on the weekend just be prepared to que.\n\nI visited on a Saturday and waited no more than a couple of minutes and tried two of my favourite UK stallwards the Morning Roll (chai spiced sugar dusted cruffin) and the go-to Honey and Feta swirl which was laden with sesame and poppy seeds and was absolutely banging!\n\nAll their pastries and bread looked top tier. Flaky lamination and a deep caramel crust on all their sourdough (just the way I like it!)\n\nThe breakfast sando looked unreal, and is clearly a top seller for good reason.\n\nI look forward to my next visit to try the rest!\n\nKeep up the good work team! 🤘",
+      "time": 1754240966,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Kaitlyn Kline",
+      "rating": 5,
+      "text": "Unbeatable breads, amazing sandwiches, and really creative options! The queue this past July 6th weekend was wild, but worth it! We waited in the queue about 20 minutes until we ordered, but there were plenty of tables and we were able to sit 4 of us at a table inside. Despite the crowds, service was so fast! Our sandwiches + drinks arrived within 8-10 minutes of ordering and were of course, the best in London.\n\nIt’s the first time I’ve seen it this busy, but even with the queue, these baked goods are always worth it.",
+      "time": 1751971656,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Yulin",
+      "rating": 5,
+      "text": "Best sandwich I’ve ever had! If you want the focaccia sandwiches then you need to come at 11:30! The till doesn’t take payments for the order unless it is exactly 11:30 and after. Takeaway orders are collected outside of the shop.\n\nAlthough I’m not a big fan of coronation chicken, but they’ve done very well at combining different ingredients, crunchy nuts, herbs, green apple slices, not to mention the airy and flavourful sour dough potato bread, I can see why people queue up here for food.\n\nThe only downside to me is that the place gets so busy and it can be crowded. Also as a first time visitor, there’s not much guidance on what to do, you just sort of figure it out. The location for me was a little hard to find, you walk down the alleyway and it is the shop to your right, the name of the shop wasn’t visible unless you step opposite the shop.",
+      "time": 1749976559,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Sanjana Mitra",
+      "rating": 5,
+      "text": "I had the pleasure of visiting The Dusty Knuckle in Dalston for breakfast today, and it was an experience worth sharing. Nestled in the Abbot Street Car Park, this café offers a unique blend of industrial charm and warm hospitality.​\n\nI opted for the Egg, Chilli Cheese on focaccia with a side of bacon. The sandwich was a delightful fusion of spicy pickled green chillies, spring onions, and fresh coriander, all between slices of soft focaccia.\n\nTheir sourdough bread is renowned, and the pastries—ranging from morning buns to cinnamon rolls—are simply irresistible. The open-plan kitchen allows patrons to witness the baking process firsthand, adding to the authenticity of the experience. ​They also have bakery classes going on simultaneously!\n\nBeyond the food, The Dusty Knuckle stands out for its mission to empower at-risk youth through mentorship and employment opportunities. This dedication to community enrichment adds a meaningful layer to the overall experience. ​\n\nThe seating area, both indoors and outdoors, offers ample space, making it suitable for individuals, families, and groups. Be prepared for popularity, especially during peak hours, but the quality of food and service makes any wait worthwhile.​ ❤️\n\n1. Egg chilli cheese focaccia with bacon - £9.8\n\n2. Hot chocolate - £4.5\n3. Bacon Sarnie - £8.5",
+      "time": 1742661994,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:27.882Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVkn7o0cdkgRByZ9dlIWeUA"
+}

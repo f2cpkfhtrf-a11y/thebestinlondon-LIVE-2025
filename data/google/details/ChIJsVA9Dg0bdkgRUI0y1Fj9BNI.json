@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJsVA9Dg0bdkgRUI0y1Fj9BNI",
+  "name": "KOZZEE Cafe Soho | Brunch, Coffee & Desserts",
+  "formatted_address": "193 Wardour St, London W1F 8ZF, UK",
+  "vicinity": "193 Wardour St, London",
+  "rating": 4.7,
+  "user_ratings_total": 5135,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5154586,
+      "lng": -0.135842
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5168464802915,
+        "lng": -0.134360519708498
+      },
+      "southwest": {
+        "lat": 51.5141485197085,
+        "lng": -0.137058480291502
+      }
+    }
+  },
+  "lat": 51.5154586,
+  "lng": -0.135842,
+  "formatted_phone_number": "020 3667 0778",
+  "international_phone_number": "+44 20 3667 0778",
+  "website": "http://www.kozzee.co.uk/",
+  "url": "https://maps.google.com/?cid=15133499205830741328",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 5:30 PM",
+      "Tuesday: 7:30 AM – 5:30 PM",
+      "Wednesday: 7:30 AM – 5:30 PM",
+      "Thursday: 7:30 AM – 6:30 PM",
+      "Friday: 7:30 AM – 6:30 PM",
+      "Saturday: 8:30 AM – 6:30 PM",
+      "Sunday: 8:30 AM – 6:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1730"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1730"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1730"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1830"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1830"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1830"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cDLxV-YaXkTOTQOS2Im8a0ll2Td0LN5okia-IkdXzdEcWD3wfldZIlAiE58UsquSnNLg-o_WUataF0sb1GEzZeF9SsfpGWiABW5dRdkuIt5DFV4l2lyJMGfTrxkpP9F5RtzrkoXwbkNJaclFE_NEIGXKZaWeO5k_YdApIychmCpPa9bjpB3g2qtPySgyRdgUStMUHl0K2SylRlHnjAKeRphwTrj-rSNKYf8iujEid85gELWxU_7iLkM86U6-58bhxCAE4RtdgN7qKQ4N1s5nWaUOdRbZVbhNtTzgeJCrr9yBm2pDOxwJ6CNzlwBx3UPNeGRmzXPFwTrPMI0mA7Ke7--JvtMOBcN1ibMDdi6dglyvCoPBZ29FC0R9tWT9u_AuejojAWrw5YU0M08SfG6j6bWVgktEA0YqE08ZlORVmj6m2X",
+      "width": 2048,
+      "height": 1420,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108613654923804187827\">Alexandra Aicha G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fFQIcHehEAUunDFII0A3MTHSyC1nfzVPhDDE40nMuW82lPt7lmygZo3LzBvMtEocIWi33PoIIPNUwllKT1owKyUapdPYNCMt2Oa2t1_yB9MmnwMJbD72zM9BiyP-P0nsjtE3sZyLkXmQePhJInS17XNN04a22a4_3Apd5sZ046VFlE3NXM7m0RoLgiqiOg7EFxh_wqzk3M_iIx7vWzyOaxZXUb47EXayXTFioP7_Nhmq3Gna-GgrxXvBEtM2UZD1TvHRA6NHw1SvWg53koXUf2j44RgVw94QRkLrlZ3ovI5w",
+      "width": 735,
+      "height": 841,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103996514892719264310\">KOZZEE Cafe | Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c5lLfZMDZP0RvClVuD9bux1VEgC7_q2Mvh44mdLCJhW6em88RmrPEgrw5YpvPMFcPmO0Fhs8TTxx_4XSQl_oQtGbU6ZbZYyNwi_fHSB2ZYiZFXUnWqQuN_FaGdDkjvSHbF4y0B3UR2IM4k1oo6LtGW97-6s-N3kOTnAECrOndPKv7wvg7Y6zKHiiW6upzQHaVl-eLLN4_ytqsZu8wzkvsVW2kczgg2yMJ489oaKIwMiOpKLNNYv3AFvTfhc5N_2xU0yCJrSpgnII11dKCX0ioWZWtRN7nBm6RQrFGIqxs-uvZ7pRd2ClW3DYapEQMZQWRF9vxkxa05XLC1-IE2lTnlSrMnEJjz1uC6xrlnNUtCMdbOEUbXVYECSK0T3ED9XrQ0ve9VobWu4fjFle81CYVy8fl_gVL88u3ImSpD8-DeZl_Lant7Zx57btiAVbjk",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110815948110634464306\">Abigail Delvalle</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQLgEwi_9mlbnt56EQQ0kltIqDjUPSVwkE1Mjvb9ZA7OoA1vsz-jRR4RSoN8xWUNug5aAsS653U2xyH9iZVmZAO6Uy_Kkb1uUyFWAVbL6_VU2EACdFeSbM0FJbt1tpPcQwmPlKQ3HOh7iqpyYd6TkVTBIZIsiPHwW1iVwKvi_d23CZdmO3xe7AD4e7T9KDKRuqtrTOnpVh2hsSdEPVRVNywEeqAkHeeBM0DRA3OSg850uE6W5tnzlCO9j98ynmeuPRf4W2g-Z756qbWdwjVqLEflHfyt6qJkgE81S4kw-dzA",
+      "width": 1440,
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103996514892719264310\">KOZZEE Cafe | Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clHZBvMfSBq6oZGjTOLFYgrhrUEfkHfUtwQ6w1yizJVdN1uAam2umMt00f9gel3qxwJ2L9D7H1r6bJsSBHSvAKIzDNw-MbsjXUEnUPdmW9b4F7JDmw9fYPezKiHgeCeOPXtLGM6yj-4EBUnDF02FFajGdMKMzbfIsP9WpdVkIUZjjE2DtptlIRsEYoLrffMfXYDZ2X_wFsPQQShCQne7ZH0yAVUTyi136Fp4m65QAP_iNJ_fpPmgsW3LIYiKId1aaQQzWS4Ez03dh6hBtqkvM1fHlDbsO1Rs239IOUhiFNf1vX6D1zFvVsS_36XB__BXxDOnkovg9aAtimQxgkvipwoMoUQzHqBmKfvQHpIyxDNR1iUBWDF7BNVQr7ZMiz40_jEtqI9yj4ab-YlS6JTij8mqxv1txhznv2i-DNB8OFhagMjTQRBoUoiNCgrVuZ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109714364491634161204\">Carolina Svahn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ccd5Bhc5Jxs1Gw8KNL-_EKh9lM9DC1yZAS4CPS_tBvTDjcs-NmUqdYl-2Ic2ih52cy1_NDNMs-OMMWTD2jwQcvKk-j15vowgulvyTP7insrSsc63hB8vt7yuTVmZ904whMe6pghh0TtU3ncS7Wn2LkV52fo2O4oYjaLOfATUiI-1H520-1Fpu6McJ6O0t3h9uWQdkrZOG2egiHMzmCgzUgZt-yrDQKI0vXO-kYK38FkU-YRFxLUUvSnjclKMDAL1yx65y8vqrJLvsl0Udw2TzLeNI3fd80lCMEwA4P9jPrwPjWXMjldx7DOZQdkbRb61rM0mtV845j5AAhySh9lgXY3F0K1MyVxn6F0d0PKXXUqky1tWJFXRCyeUnM8xrIPG6iNFj7j-1RhkX_uGzudB1sLhpQfV2sRa4slN-vEePk6lFnMnCfK7xF4hDWfg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113698230403687228022\">Rayscafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eg3QnrmhXFDWLi_YLbmQCdZi3yXr3j8cG7g8rEGSu6cwsHtpocnRHuRVB7v0eL3ZWqiECJ8h2Li5CduLAGCZPbRr_winJntBz9vlAeifE7-bF8JCrGz_TrEqAzUAI3Za_HGlzcEq38E5oNwklz_ZSqNSIl6w5WXALvX3PJBuG4VbFSqkvrkjKBAxdTdxnJK1PI7KCr_t5i1XnOV_DKEJky9tA4Db3VAtUORP5FuJUn0Bc7cvn2zb_lbumPUM-57YNgwRgICUq2EGK2HVKIRuR9OqURpHCEN1vqi8Z8mIUcuHNei_XBHUKMbtEkaeBlkYKgzcQijfcEYf6ynCJYkWtxoxNDpd2pokXBRigD9FuWum0aorb_GkEX8HDx76E20J-SC3qmOlsHo9RmhvtF1x902KoPG7h-KzlXcv83WJFEW2gLbhGco5OPy4ZVRkmf",
+      "width": 4800,
+      "height": 3692,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103915632334887016164\">Marc Thiemann</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzgj57fogwPAwRQaUWcii7h3Ydk5fmHnFpSL6VMUw5avBgV9BjSQXJiwsduHBAP7Iovo6c2IXJ6NRsmGGvmfkKcK5nYEK0ipPtzdDPEpMWBRujGSXTcBF7zkNm53OToLDMBBeCDscvYF3ARdAatflAw4E1FDfAGAK-39rH8KOmwWRTaoxCa28hd7ENF1xNfjRHiun1yrq4H6g6u3mUW9UfPlw3VgwR7E1QMhAHGEVpUfB8N-EJhWpssZmejQx8A78-rSTGI2Nx-oo2tpbHuoUAoj3IPrxM65Fxj43uYcT3MEuXv3vuJF_L8B9bXHPII6_UizPfxfgwVNRuvLjcvtTfKTsIcv8QXjRkjpaaXDf8qb5YdhfdH7VOeOcBT2ha7yXhSCit0nc2P9PoBY0M0KyrPgbxd6DnTyEyRezrRaESGhlB",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102082456646423614358\">Ani K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flElmdk8sQ4fCtBp7w6ekHBwB6jySkVqb86GV15PozB6a8Ohi-WMccG6-AUDWqns7f_-dROIJsvsY5WeKeEO6RVjJGzWuQX6GRAJLFEA_geMNXNUl-6E8u1twPNkdD87KiLOYoQgAYOvOgk-P_bykfiQMT5eE0cnZTfS9w5-aN_6BCKr-riGvPiD1VBpK5HZjZ991j4E3WF_miQUt0TsMVEjd2w2rbcE7Agk1A2U3J42YbRZiJ140RMuBQw1HBY9RS_7e4aOLdigkV7RmZ86mT_UdgXXvWUbU9hnZpheHGtowBX9PRmgA-6lM8JUnEUOPxD2We6cGyAVNMbsFVIna6t9XpuwWigCyVQqUNv1QdE5Yvz7TC2LVYnHhUHIeMSbFVYahNAY4xV565oPUMJnZDK8gD019MIF76wEOAk6W08g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102900794289911497428\">Jessica C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ejfF1WSua1o32GJW3CN102ZSRmwcpu80-eqLTFIJc9LgxXt9m_-1JBK4mgP-fqxuKgD_V0KhQNeafkq7KFRw3SK2xntIAxUdfzsCcF9VXvP2-7p2OUMsZ7zNt1I-dJAXzZJZNqJzdlcJrTaGRTAyLh7ph4gwRFlD0SOeLADzNO25wzJLgBr99LN0yrEN1atKMPRBULVY21uHUdVNGbv0GvecrAiKYbkc44baH3AJDNUHuxXAjyqZGbDDLFm3diTE4OseoiEpqm7UyesBeFwNgUv8UYOVw3ym2O7Ko2XJy3oCEQwc3WVHDM3fPKnhuKVX_djmFai1eaWAICAyq77JbLJ9x4L3PFaieM1Uc5TglfI8jwUo3eYCX8v6EhMKsc-x9HqTn-2dRNke79JHD0Bvx917w62i-6ViSxQKJYJtPv_A",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109662270414029988646\">Juliette Decamps</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "홍구",
+      "rating": 5,
+      "text": "I had a lovely experience at this English breakfast spot. The food was hearty and satisfying, but what really made my visit special was the service. Our server, NAV, was exceptionally friendly and attentive from start to finish. They made sure everything was perfect and added such a warm, welcoming touch to the meal. I would definitely recommend asking for Nav if you visit—great service makes the breakfast even better!",
+      "time": 1759135142,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "이동준",
+      "rating": 5,
+      "text": "I really enjoyed the English breakfast here! The portions were generous and well-balanced, with every element cooked perfectly. The coffee was also a highlight smooth, rich, and exactly to my taste. On top of that, the staff were incredibly friendly and welcoming, which made the experience even better. A wonderful start to the day, highly recommended!",
+      "time": 1756026033,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Terry Rogers",
+      "rating": 5,
+      "text": "Excellent breakfast and service. Lovely staff. Would recommend reserving ahead, as we were lucky to take their last available table. So much choice and will definitely return.",
+      "time": 1759486582,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Ivy Liu",
+      "rating": 5,
+      "text": "Our breakfast and tea, very nice service.\nAvocado Toast, Generous portion of avocado, well seasoned with chili flakes, black sesame, pumpkin seeds, and topped with rocket.\nFull English Breakfast Plate: Scrambled eggs look fluffy and bright.\n•\tCrispy bacon, a good-sized sausage, baked beans, roasted cherry tomatoes, mushrooms, tater tots, and toast with butter.\n•\tBalanced portioning, not greasy — feels slightly more modern than a traditional greasy spoon fry-up.",
+      "time": 1756109893,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Hope Ndlovu",
+      "rating": 2,
+      "text": "I was starving and so this place lured me in with their delicious looking food, I thought my taste buds were going to have a good time but…no. Tasted of disappointment and broken dreams. The waffle made of sponge and those mushrooms nothing at all not even earthiness. Even the rocket side salad was sad. At least the hollandaise sauce was adequately seasoned, the eggs at least tasted like eggs. For the  amount you pay the disappointment is much.",
+      "time": 1758222528,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:36.147Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVA9Dg0bdkgRUI0y1Fj9BNI"
+}

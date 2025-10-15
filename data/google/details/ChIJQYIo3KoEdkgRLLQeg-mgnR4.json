@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJQYIo3KoEdkgRLLQeg-mgnR4",
+  "name": "Madison",
+  "formatted_address": "Rooftop Terrace One, New Change, London EC4M 9AF, UK",
+  "vicinity": "Rooftop Terrace One, New Change, St Paul’s, London",
+  "rating": 4.4,
+  "user_ratings_total": 12229,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5138713,
+      "lng": -0.0954593
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5151006802915,
+        "lng": -0.09372351970849796
+      },
+      "southwest": {
+        "lat": 51.5124027197085,
+        "lng": -0.09642148029150203
+      }
+    }
+  },
+  "lat": 51.5138713,
+  "lng": -0.0954593,
+  "formatted_phone_number": "020 3693 5160",
+  "international_phone_number": "+44 20 3693 5160",
+  "website": "http://www.madisonlondon.net/",
+  "url": "https://maps.google.com/?cid=2206096317269062700",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dxEIqmdNNoMZQNhRxpTzDttWvtTz1H_EQZNNwinIfAdMCTwcQEYh40iEoSilvUi4t5mirpzyOR0af-JSVueZSCJnJ2l2nuQE6HOVgbEu2kDvhiap5mDAlCfJwIaLn5tNB5ghnP_q3xjFm9blHEoeeKUQuE61AAicts6oZh4E8gBsZ7jQp1n0CLATy2rhZzLgU7wiSDxjS3N4cngYmAmtTw8TwNHE9GkU18uMknOrD8kSPC6mC5JDWnr1bfTGCaJ3FRRcHfQ86x9jSrtIIaNCwoB2uCj7D3wcGeloqcURHn8Q",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101150034898163328177\">Madison</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eCdsxDhOlsjlzeercsGI3wXxK2olBk5F_TX4kboXWUN6FAOQRvTGPykr5aKSS8SllxtOso2-BoFmUhTuO17_CxbW7c_2RDlPCQY-iSJpCHmmLkwD0bmXyIZ96S6-AhFfd0dAiOqJsXanYVk4ZE25WkG-pyBs4srMADofREugDCxigiEc5DJxvV---BIS8O_DnwQzn8UThhvS7C6Hz6_U1VE5UyT4M_7qcavSWd2QpRY1dMPRdnXIdmdAD3D3wkCxHjnI6SEy-RSDdMQbGBWggPBL4NEdk6T0Lcn_sT4dWh9jSfqcH2aEO6XgUVseHELUSjhbYLJ1LMsxnDHI5uTVlqjmY8-sfN9VSmcHtpvkodiCH_0S5ERT94PVwIMG0GGh6BG_SDWJ0JfrmEE9ylJtZBFfKAV_EVHnzpdTQkHESPKZiQy4DvmTMgroiwr9tr",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100767104286794688655\">Rich Higgins</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2egVffhk-O2Rv3NkReB8UBKy3V04UeOJs8-qAH-Nz7IlIfc8q6Mz6zcJLe8A0kTKlKm-Cxeqg6MBfHhcuErAUH-_5Ix1BoSzrYsHOHhtYBZikHRiwo8MLJ9h9HRvdNzP5gEujBDA3cpnut6kxOzddWuvazoOVoDFt7tGNXnWQ-NvDxaNTCByMrMYoSDdZXO4POBCq5B-jh9yynu8MmjK944fSbqZ-ZZ4Yx3o2OPZIYcqjnOvOlJk5gRfXk5fP16jqStAjH6pnq8ivLAV-vwmGtdAXXweyAWhsL-HfhiHFxCVw",
+      "width": 1600,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101150034898163328177\">Madison</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsmbn52t4w_IDvcjhYBOXx3ZR2uJ4fa-Q7sUYknUocnNVO7X_wZiP1vjSuykBgYyVvgkGhvMwY0QFyS5X36vOWf_91GCPEe18kIJQo7el6HM9pKrroDHkaLx05iRwE6jcvPde0VwJGigbGWBBCTv_ZRA0ObdLsSXOv3DnpEwp1DAbMkzerzIYmLSNjLPB1grhmskO7jCpn1XmRgByj3WVvNGxHX1ZBcnDeN7qRFS2rpckx-nPuv5INy71y9V4NqyERGn72raVqBLujeZYYykEyk5v7fttAyM86sIes4-hCbg",
+      "width": 2048,
+      "height": 1463,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101150034898163328177\">Madison</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cdGv1eFntcGhOXfdiJjz8aSCkfTXenBicq9G5KFNigTEtLPIJKZc7xn1l_hRDF-A0-Zawf_hdYfw47NcK4pKxW5v7Df0izjp7gfoh-Up13-f-WOtcn50HfSdAWHnK8Y6kvrQUGbeHO_To_AJud28rhfdZSGaWG_qHPnr9ITS3l8E8iE0aKvhF1yqE7RaboAMsvfql3QSh36e9DmWmbmRhg3xNuaDpiwpTt_pmH2KucHbIkIbtnkmkby_j5C2rpr3nGg76wrDKb927SxsRFFNgfwb7g0AR6lKmVe7aa-SQMSSUhIY6ire5nTmnNoosu-AJNZ58OxAPObm7rPAoT4mZZR_9TQd5RSRa6ik7TquBvG9zMr8Vnh7e9pKNdtVkFKRZVZjtd8CARIl6Z2PL29g5U4H-KbKIOt-KzrUbyFzCp4kuJ366vLWspTiF0SxfC",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100226068931781150673\">Alexander Wiunig</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fI_i_pt1z0c1x_RTgFXrVR4-XPJ3Ds-vOeEo4w9y6sdl-ceB8LSgj62bXiDAEPl63BLG-u7QTABwuDTJ1laL0xSH3rBVD7YZpdu8rsh9e3A6OL5Rdqx3vBnEmuQJUtcz7axzfvbcop8camyDwTaHQzEDFgcR_lOHAuhZabXrsiRwaOzsXZncpGkm9Rpk1FMobJEKyZP2F9ayvHKW7MosPe7N3EwdIGcrAhs-X2wKywk71vBmh74HAIThw_pCRJ7WA2tt76ksu8_Z_Z3kqilWuHWXLaAxe0tQriOhEBR5b7dCxmpSTC8csbi-AOCKPiqhzKbfieHIf0Ps3hFVEl5CbfKmFQzyWQkKFHKvGkKsb7Kr1nyisZ3a0oTV5Qz-NtUhEwTaRinQmo-BSIylXAeCs4czm9M4jyYJu6nb1Z8sYClQ",
+      "width": 3000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100971156531420290944\">Ronni O&#39;Leary</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cM3AoYlGRGu1wRbZVBtjOG-I031W4rNO8NiiKXL_hYhQ5MZHe0xxeg0CNWGnBcCmZZfbUtrWev1E15b6kDggsnEm2li6ZvIiGZtmRdAMt-qPsL13n9sJPi15o2klulq8RsGngGPVaMgbetbjU_q-B605vLnDNG-cmlgyVZO9AGIsgYH7Dw4yU08BUPEGRbeIBQF4cCDCijI82u1J_vNa5NJ5dWtSMc-4WuzfRZQXVMMmw0iGwuGd9GIUSwu2r4iadivcw7oOV2j3nngbfDJSVJOwCr9XqdYdu7wy7YrtfUU9SVd1ToIdu-pF7VwIpPfE2qxdZL43loBNMRtR3Wbl3QCZ_1YK9OG2-FZzBeO6PjY1s1Lmj4lOwyXNBOuupSbFcoT_LMQ3KOhHY0iTsjJjRMsn6Ke4YjWwZC-i0mtR_cjvY3FeMMFxxEjRNiaGaa",
+      "width": 3472,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100218884499771199234\">Carlo D&#39;Orazio</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f584C4K7mdR5EsdF8n1oBu9qB_cRqmWUn55-2TfeIRB7C4XBcfmLLgPEBkcDN7ZLKqpU4bNmU5JTNnNrO__7hfp6bM7XTJXqUXbYzcB7fjYPrYr8L5eOSOkEB95ic5YDIcFS2zC6AM6SJMc7mDZeT37fCzN8MXSpg9HgraJOVqt3A8Ln58kpf_LR0m0cnKFTvqZprs4etxAvXIeGcyBqSgg1a5RgHehrgrS5OKMuBv_aNTzByT1B12m-ITtY1iaRag0vXG5xh6N6PEzQ1BTylga7-15vwzEFP2ckoCudgx_Mn8VKasgzbpKj4wWjNNIYk0viTBGEhrBY3jjApEPxSXQfUFXX9Ll0CNkdsq8q-q3KGeIdm-HlKzK6qWrNxoqglB_tqS7btvwXSsOGuUzrdjAUVx3bMi8OhTp43yrI8-mw",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111446908177650292845\">Marissa Irons</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-FDB42SDwasst84l6Tn0oNZa-4P6zSKPXUFy4hosIlBKblN_G0sd3pLlMACzAnhKxjfSycTH2z5liQc7JdVp8EY9vYz1aPnhqWHNcFfgQkIqNffnI0Lq7VuWFhDBeb1GhcoTnyrZc-uP5R4DQ24eYgT9BilNrZkRbkSfX0ir4343IN3A5jTQqbJwj-R2R4GQVt8jJpf_BZLm6mcwge-rRfKpyfY_HsCYgMSSx3ZsC74N6OtcwLg0a4wJ7jo00gP6qNycWkGcSBZW3NEmKMHmV8m0e87jGrB0TPI7YP3X4R6B0kmBTIexkPmnAQFABSleaQuv4oJngFj_x1dFj5eMK4Vya3LEfAggnNlOW4Ta9tQttfCGbjXCgeCY9MN8MYM_reuXQlprIoYYqPDVF6jvMKalll1xK5iyQR0LbNFY",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102769836680441215678\">Elena Magdanozidi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eE_P1XGoN1np95BTTVMW9wJ2RLqFAT70Yr99EMjWUsEuqZsU7XRlC6DmHnccg1Z3cesDHWs6lLmRymuDnNtSTzRQ5cUYCsvSOk5Ihew1RWcM8cHNQFUfqiF4lXBVV1-euMlvZ5KrJoge0-1lKgSmiL98muBnlukZhMwTuYnNKMrQHLDpuhCt0gu3pBZ3InHUkQ9GfWrDlBbQYVmmL0cPHjY1MyCVovP1K5Sf7qCgbW_IDCFTmVX3mFMElWhCpaGDw9gir0REFR4ojYoH1K0keFhdISJ_vYHK8NIADykgdFBek7C598mftZDIPN_C8kfJsZfh5vfxVkBYB8lnT69TDvEqKBf_s1ccWtHHf4yxBD6B6FjSJUBb_XFRhCatHkgXPs_MNve-Ca7hcU2VYIQO4wus1keBloR3xE2ZtJ2FEeNw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102531870400815855450\">Chen</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Rooftop, 6th-floor bar and tapas restaurant, with hand-blown glass chandeliers and large terrace.",
+  "reviews": [
+    {
+      "author_name": "Comede Et Explora",
+      "rating": 5,
+      "text": "We had a wonderful dinner at the Madison. The views of Saint Paul’s and the London Eye can’t be beat on this rooftop restaurant. We particularly enjoyed the shrimp rigatoni, green goddess salad, and bread with Brie. Both the skillet cookie and chocolate sea salt brownie were chocolatey and delicious.\n\nOverall we had a positive experience but a few minor remarks are that the service was a bit slower than we’d like, we had to ask for our bread, ask for the check, etc. Additionally while the salmon was flavorful we wished it came with hot sides rather than cold boiled eggs, lettuce and green beans. It seemed more like an afterthought.",
+      "time": 1758821208,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Razina Ahmed",
+      "rating": 4,
+      "text": "Lovely rooftop bar and restaurant. It met our expectations but seating is limited near the bar so unless you are dining in you will be standing most of the time. The music is ok but I would say it's more catered for the older generation, not something you can dance or vibe to. The aesthetic and views on the other hand was beautiful and stunning but price of drinks definitely matched the clientele of the area.",
+      "time": 1757280186,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Maria",
+      "rating": 4,
+      "text": "Had a couple drinks here. It's got great views, very busy on a Thursday with loud DJ. Not much seating if just grabbing a drink at the bard but it's a bustling city vibe. Lovely view of St Paul's and the sunset is beautiful. The restaurant looked nice to chill and have a view without the crowd. Much quieter inside. Seating outside with the view but can't take your drinks with you!",
+      "time": 1755876920,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Vikas Agnihotri",
+      "rating": 5,
+      "text": "The rooftop dining experience that gets delivered as is promised. The service is prompt and efficient. The food tastes great and it's presentation makes it even more appetizing.\nThe views, specially from the outdoor section are spectacular.\nThe gentleman receiving the guests as soon as you come up the lift is all in to ensure the first and last experience is as memorable as the food inside.",
+      "time": 1753955485,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mrs P",
+      "rating": 5,
+      "text": "There is a lift to take you up to the restaurant. Whilst going up, St Paul's is in sight all the way.\nThe staff are friendly and helpful.\nThe food was delicious, as a party of 7 went for the set lunch on a Sunday and it was just divine. The only setback was the poached egg was unfortunately tasteless.\nThe views are amazing, needless to say and there is space to walk around outside on the roof terrace.\nI recommend this restaurant.",
+      "time": 1755528348,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:41.743Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYIo3KoEdkgRLLQeg-mgnR4"
+}

@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJbU1x6zkFdkgRSdNJQwXiRII",
+  "name": "The Breakfast Club Seven Dials",
+  "formatted_address": "55 Neal St, London WC2H 9PJ, UK",
+  "vicinity": "55 Neal St, London",
+  "rating": 4.7,
+  "user_ratings_total": 747,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5146871,
+      "lng": -0.1262875
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5160645302915,
+        "lng": -0.124895519708498
+      },
+      "southwest": {
+        "lat": 51.5133665697085,
+        "lng": -0.127593480291502
+      }
+    }
+  },
+  "lat": 51.5146871,
+  "lng": -0.1262875,
+  "formatted_phone_number": "020 3958 2091",
+  "international_phone_number": "+44 20 3958 2091",
+  "website": "https://thebreakfastclubcafes.com/",
+  "url": "https://maps.google.com/?cid=9386876035578581833",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 3:00 PM",
+      "Saturday: 7:30 AM – 5:00 PM",
+      "Sunday: 7:30 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ewzTO5WhmX5D6tb_1Su6pgp1JCbLAlY4hUrcmWcXCn1Kgli5ev9_sG91-9HHThEJ6qQmTblWJC0XxWHmUSprPIOKuCZt7EbDGQlFbwjdKx0fId_c3W_hPu-Hnp56G7e5KzKuwEf3UyvhZ4vVOObokqR10KJK4dRkCkLm4zJ7JJHVyvhRCJyySGVR-nPiiUy7fTdX6VaYY3OlAzWQdiloHvT0Ypec5ZlWaAowMrkUZOrKivemmWqk2QVvcBe1ST9yCXdckQRWfqgg_hrZWKzbrxS9YY3uJoNyo0Wi7B8bS0YCFUE7jIp-Us0uSzfXLOb-djndxC7Elf1xVrM-W6uIl3TdCVr3GXiYmstDn8lyu-w_CG0TrT-43lznvI5cL12BOjz4-W4YSiXKzxMZhZ34mwqB7HHemoAR3_s4RRJc6gBJq96QWJfUShuqV6kg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109473563415152512701\">Michelle Tan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dAntWTA1o6PYGEIKKpIYPYNPo2ktlKBOX_F0f8vfwNTIpA8Qx1JZtcV_CReGyOXu6C1tGk7kvVX_hRSesgRA9-WTkFzOHzPiSXia9AUvdP8LiyVDtAp1uAO8kFjq7iisZCF5oodkUtGILRFBou5J7Nth8k-V9S2r84jo0lhyLGs8QE1wgmJg6xbtlyTI7TaZQ_OmGbomDrQiJa1VvdbfDzXJzY9jhaQyXxij2y1usIulsGQT3gSoNAQSMhKgLaza56dx2E_FsQFC9F4KWJpAUIRCsYBs9u3KzlTNF9Rskmww",
+      "width": 1428,
+      "height": 956,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112107186863777948993\">The Breakfast Club Seven Dials</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f_iBQEa1HfZiUqm-7K9A1XiSX-vna1YIEueB4y4RhQ9QVEM2U3nXsFXC6U6YTG1uqJMd4BedkjKIPLPHoSbJOy6V3Dvu-9DK0GpR0_ytmzukCPw3vXVuudAudSYgU34hgD_pwyBH3gI1u6qy12Qv8lJyoj56SSoiaLSHV_jTXtvY84kLbYuwLCsuqswG1TVJ-dIIzJJEwHlAck7vQ0SU5NmZ0EX0JEzw3F0ISDvv6qdQ_aXrZLidzwzzbA2NvyUFeHXkvBcoMWMzqWJqx1-7n8UvUPuIBScoS2QGcDlGvQlkRCpZ6wveNnyNvWGf6NsX1gG_wJX6UwX5uY4tjrRuluXD8Xm03Hirw7HbZhUC-nHI6QRN18_vvxPLWyzx8MUFnNSoQqYpzzhg7IGBlR92eB7XUevIZ7aHRskDJdGe0uxuuw_wuC1-eIpra14K26",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103570124206839578623\">Michael Wild</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1tlmZZPEV26P7BJdRBexJkqW_X5ShSuYyLIH1NQ9u9xQyXZFeJgxar_9nxxZJXDAQRXWVVBzcTDQomGgaf3rQX7FoxBDo5qeVUWymQQwTT6uLdBhBQmT_rt8LCKBIBeGZRyXsHT8zRWSUAVbtNIsWjBDC9ecNJdXvDaCo1lVU2q49dlTNel6KVpAzABTNpAj0Cdo1HYmsZDyntvyzCYPrA-QB2LoC3-8-A4LJZ1R66hkE5yDC2K7OnpBDAGhNyKy9621-mF5LcLUlS1U8izU-Q_5TIGYek9V9p-9xBp-C4fUMkaZb3dZ8V5J1gv70qw6z6h_W3Xlg5n8kex7xHjS874AyTvLd2jXGyk7Oo3C52oUEUJvB5eXAM__wXnHtI2uF__NrWoHR07ehcM3eWNnQ0gq_DTd_K242Fshs3v0kSmk",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107545189909599121701\">Eli Ayash</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drtvVasFY9VJyuQN3fYRji5aAJaHw0oUyptvzU4mgPPNK0XDS3KC3y5l-c3bhCeaYtw3IqD-Ei3J3vr_eh6PKIsg8P1DyhhzdcJFscgfYN_P8gXp2tpLJDPLY8KaFFVcAny5KN8QLxnwOfTK7c1UdB3_29ydgDJ8MmBKAAyRAEtDSKY8u9VMTDrCtZIEWvnG9wDs_Op4Lt_upx-MawRYlOIaN4_2Qr42NduGJ_NYUfO4F6AT_ycFmkXc3R8sWa88xp-35LkDhee32NelzepwdjycPLomOAldJn5pVBNUs_kXtJET2HFD9Ec35w8DoQmsw1n66fhEz_i83_JRLNzhmg7hQW8BibVhQkwXHx4GZE5cYZo2pbjZhuGOdXyi_1DTLw7-8z6FpFrJrqDvdjrc0yyvZNewxRQuqwN5QLqFA-m-tyAxG_353aLRHZkZwM",
+      "width": 3840,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109473563415152512701\">Michelle Tan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAgN8gm6LlPyuPAlLpItSwVEwoDKfJPjTDeld753sfKRdI6VbeORzCadrr4da2kycHnld7WuZFll_FuVms8HsOqV3YJy_TvZDjJsFW6ShKI6UyVOrpWYJZE8T65jhoIOUSIZM0KU1og8z4-kflbpaGMjHsiQ6BzTZbyHq5U0rwPPfyww0jFxPgsHqaGsZzwi3tKUWcgruEf6ItJsX0qzVF2q5hCUQpKxZBzXc5z4AkJju7ODkswDyjzzloGcXtOArhZp6b5NHb7LWc2xkfrefSc-gK66rdB1jZAlUM13Jo9V0fT2V7PiRB5kHk5oSHubGeERloyewHZYtYeM8HfXqMRJXXtKBJpau76ZxsKMrnxpgq3ZEWTUo30VNtvwcv4buEZEJWMlX1vAcjZ5kM771UtuCHA2ggHqKYofbcfsHnfEcp",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115099016823139805184\">Nat G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2es-yS2Yx9CJSgcWxl2bxzHignKtDKijk5kASDg_x2dDqo3dgIkrASG7UvOPiEMFWt_mDtxwx1OPLStYXxIZKpunevjryN5aGNZLpV6TQAFDyTv-OqouHDDwnoM-xWPUbOmZBPzBOS0acDE3fLnvGp-Mrgh6JTyXdGwCKc3lZRm_uym7nWIV6vjlsF8WMnepge94vntvxWWFAAis38bwEOaWpDaLg4rutLEkdjUZUaTRiGYhDnqC0DlZnTaeqU7lmdVK5c61LJfkrvX1GoclMmqKV_ITavEsAIWLF1l3_aPPJkja5iZqVDpAmkUloDTrkvYhcAeThhECiSA1DmcSs-E9oav227FhPkjLKTd8l2qHoVTIeNR_-SyMxkUTUft5LHpMoyrk4jRSN2M3slZyNXFRS69IIUsTTl0zv6wNwX9jw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108933160307432281490\">LaLa Su</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cjCVm_0R6a1_yVYK8j6K9_Il-Ddqc17yzHdpLyYQMHt_-r9n58I5QP87nHUB_DpPeJKIXCm35kLHfin-Bzk_bIOJv1G65hbO7Pone7OKdR7TFOj3q1vCGRRene08SY7vNV9_a0gT_6lzZTVjPCxe2gPFWHeeNaaRIlkHLXR68tn5ZjC4WtGBWvl3zL6WWADF_EjJz1ywkpfyLJa3O5GmWaebK7F1rlAj--mMo5a5RTsp20eJT24tJV1BxgOzEDqAw_rQhGBZaZhteNWZv-t_PH5QC_QriCv7GG1lpyrWj1NWTPnJ2FtMTxpKoJGFgD9GuMbtmzQ2AnJjKQ7U62V26SEAcSYRibtaaKNZVj81dsxwAVbJBG3sR5jvvgaL6YgUWf44HLagZIZWhmAz39eIUA41N5bEw4w7Cv1lWVxmqQEIR5C-spkY1yqaCYqg",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106335192797999996878\">David Leung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvRt-AP-BgmFgSd5cZZ7Vo4ol-wHmQkULxYKz1-7XBA4D2KtxbNO8zwRXSQlQmdYtQbCcWMEurMKfa7qm7Cdms2Cb5PTmb6v6oJ8jFVys7gq4IP1RTy4LgPtgysyZHqgVjscCic9W7KMmriJQUD5gqmE5GJHr70SSPEmQ-dpnZ10KdVAcxTRHgUfZRjko-MfadTmJe0XnfgoSpuah4-bzeb6vHbGGdDHv7-om02x_8h84eYLJxn9T6L4LoS7N6qm3xAMzlZphJ9Ohh8OsGRZhNimEBIqmeKYUPo4gmq_Ce7U_GSfk5aAR22rmAhMZhEsZoEpEMEv1Qu82fz0WOXuRbpDpTcKJ8-XPjX_j3dW46PyGYjvpazYP_EsLwHBwnJAts70dCxi8N7e8EA1QoIagdCrQet-J1Gl-rkb7SVassQVk_oLh5Mdad1O4MnRc5",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103993739821946489725\">Daniel Price</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eR2RznzooKwl-u8oaOVLmwN_sxfemCbTbRSH17h_bDa8nUIAeOqO-9YnhDUQh3WRAzV7Em9IMT844OC4p30xWeUGlEjMm14VOdmU9sErdgNxV60qB2iF4o6n0Tk-Ml62ieJR2n31e8rioAlZfzA-0tfar1U9dnYDIDhD4Q_A4sdfUMJxJJLPSlATnDMIo1b2WPYG5f9RBqdRgRDPnM34iXdXwJcFj4ON9rg3IJq5Bz-xBvNAh6nmwNrlxKiAgSlbXdGkw0YVnaaQwI0eCERZwYZlMwFMFwWKPvvOfl1b_s4JItWzXO0o5tMgBfIyvuY9nS5Nhc9WFEvpzuGm2tSuQqwVEqmu8RO02HfRQfsaW-3P9WYT2M-wO3jXpW9JAxN0qqSQVComLda_oyMT8bKWEEdeLG72TNtOoRv5dgTmrW3EY9l0Lz9ifUd6xe66HN",
+      "width": 4624,
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111978733169611493211\">Alex B</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Michelle Tan",
+      "rating": 5,
+      "text": "\\\\ A Singaporean Girl Review 🇸🇬\n\nWhat makes this place special?\n\nI’ll give you three reasons.\n1️⃣Generous servings of GOOD food.\n2️⃣Excellent roasted beans for coffee.\n3️⃣Great atmosphere and mood.\n\nWe came all the way from King’s Cross Station. There is also another outlet there but this outlet has a higher review point and we understand why. Throughout our meal, there was a queue outside. The half & half was generous! And the flat white was delicious 😋\n\nShoutout to the lady at the door (Analgar), she knew her stuff and the product offerings. Though the menu was generically written as beans, she could advise us not to take shashuka for those medically allergic to fava beans 🫘 as it was a core ingredient. She also reminded us again upon serving- what a conscientious gesture.\n\nHighly recommended. Only thing to improve would be the door, that kinds of slams hard. Otherwise, all good.",
+      "time": 1760000266,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Alex B",
+      "rating": 5,
+      "text": "Fantastic breakfast place although we made the mistake of not booking a table as it was very busy! Ended up waiting for 5-10 mins to be seated.\n\nOtherwise the food was absolutely delightful – easily one of the best breakfast venues we’ve been to. Beautiful fluffy waffles, superb full English and great coffee.\n\nService was very good too, quick, friendly and professional. Well done to the Breakfast Club!",
+      "time": 1752490229,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Richard Davies",
+      "rating": 5,
+      "text": "Expensive, but serves good quality food and is insanely popular (mostly with tourists). Expect to pay around 16 quid for each dish, and just over 3 quid for a small mug of tea. There are probably better (and cheaper) breakfasts to be found in London, but the large variety on the menu means there's something here for everyone, and the staff are extremely helpful. I will definitely be going back if I stay in the area again.",
+      "time": 1753082285,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Quito Vanroose",
+      "rating": 5,
+      "text": "The food is amazing and they really take care and the time to learn about your allergies and explain what they can offer as an alternative. The staff is some of the friendliest I have encountered in London. They serve with care and joy! Even though it’s really busy and you have to wait up to 30 minutes sometimes to be seated, It’s a really cozy and relaxed vibe from the moment you enter",
+      "time": 1756033030,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Von Neilson",
+      "rating": 4,
+      "text": "Our first experience with a English breakfast restaurant. The wait was kinda long as was a very popular spot. Gave us time to talk to the locals outside and every Briton we met was nice and helpful. Finally got in and got amazing service. Went with the English breakfast and it was good. Not my cup of tea but sure it's fantastic. Glad we stopped by!",
+      "time": 1750820333,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:35.426Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbU1x6zkFdkgRSdNJQwXiRII"
+}

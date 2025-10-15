@@ -1,0 +1,686 @@
+{
+  "category": "indian",
+  "query": "indian restaurant london",
+  "count": 20,
+  "results": [
+    {
+      "place_id": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+      "name": "Dishoom Covent Garden",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 27585,
+      "formatted_address": "12 Upper St Martin's Ln, London WC2H 9FB, United Kingdom",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5125176,
+          "lng": -0.1268291
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51384502989272,
+            "lng": -0.1256208201072778
+          },
+          "southwest": {
+            "lat": 51.51114537010727,
+            "lng": -0.1283204798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.726Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJtwn55ikFdkgRAvOuPIWeLM0",
+      "name": "Gymkhana",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 2930,
+      "formatted_address": "42 Albemarle St, London W1S 4JH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50849119999999,
+          "lng": -0.1414724
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50986927989272,
+            "lng": -0.1400624701072778
+          },
+          "southwest": {
+            "lat": 51.50716962010727,
+            "lng": -0.1427621298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJrSdbix0FdkgRHts-I6jzO1c",
+      "name": "The India - Fleet Street",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 941,
+      "formatted_address": "8 Crane Ct, Fleet St, London EC4A 2EJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5145622,
+          "lng": -0.1092973
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51597587989271,
+            "lng": -0.1080550201072778
+          },
+          "southwest": {
+            "lat": 51.51327622010727,
+            "lng": -0.1107546798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJSb2Du1UDdkgRym19AqN4mAU",
+      "name": "The India - Cannon Street",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 6100,
+      "formatted_address": "21 College Hill, Cannon St, London EC4R 2RP, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.511503,
+          "lng": -0.09213299999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51287537989272,
+            "lng": -0.09077582010727779
+          },
+          "southwest": {
+            "lat": 51.51017572010728,
+            "lng": -0.09347547989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJS_aY-s0EdkgRbxbEVrlil9k",
+      "name": "Maharaja of India",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 13404,
+      "formatted_address": "19A Charing Cross Rd, London WC2H 0ET, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51031039999999,
+          "lng": -0.1287427
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51168677989272,
+            "lng": -0.1271851701072778
+          },
+          "southwest": {
+            "lat": 51.50898712010728,
+            "lng": -0.1298848298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJFRIWQywbdkgRLJfGOhhZwac",
+      "name": "Chettinad Restaurant",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 8756,
+      "formatted_address": "16 Percy St, London W1T 1DT, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5184897,
+          "lng": -0.1328313
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51987877989271,
+            "lng": -0.1315314201072778
+          },
+          "southwest": {
+            "lat": 51.51717912010727,
+            "lng": -0.1342310798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJv_uo9_YPdkgRq2K1F6d_5-g",
+      "name": "Dishoom Kensington",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 16167,
+      "formatted_address": "4 Derry St, London W8 5SE, United Kingdom",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5012647,
+          "lng": -0.191139
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50260002989272,
+            "lng": -0.1898601701072778
+          },
+          "southwest": {
+            "lat": 51.49990037010728,
+            "lng": -0.1925598298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJX991btUEdkgRnyuUWceX00Y",
+      "name": "Dishoom Carnaby",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 21167,
+      "formatted_address": "22 Kingly St, Carnaby, London W1B 5QP, United Kingdom",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5131089,
+          "lng": -0.1397753
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51445407989272,
+            "lng": -0.1388364201072778
+          },
+          "southwest": {
+            "lat": 51.51175442010728,
+            "lng": -0.1415360798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJxYs1ArocdkgR-G13PLmofec",
+      "name": "Dishoom Shoreditch",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 40617,
+      "formatted_address": "7 Boundary St, London E2 7JE, United Kingdom",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.524474,
+          "lng": -0.07657069999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52586037989273,
+            "lng": -0.07518292010727777
+          },
+          "southwest": {
+            "lat": 51.52316072010728,
+            "lng": -0.07788257989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJqWL6gz0bdkgRL14qKTnAjXQ",
+      "name": "Dishoom King's Cross",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 18558,
+      "formatted_address": "5 Stable St, London N1C 4AB, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.536207,
+          "lng": -0.125499
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53758142989273,
+            "lng": -0.1242714201072778
+          },
+          "southwest": {
+            "lat": 51.53488177010728,
+            "lng": -0.1269710798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJXWnxCtQEdkgRcG32UcQZFVQ",
+      "name": "Kricket Soho",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2552,
+      "formatted_address": "12 Denman St, London W1D 7HJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5108075,
+          "lng": -0.1351688
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51212257989272,
+            "lng": -0.1338297701072778
+          },
+          "southwest": {
+            "lat": 51.50942292010728,
+            "lng": -0.1365294298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJOwZi1DIbdkgR9N8Wcyebz_Q",
+      "name": "Punjab Restaurant",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 3940,
+      "formatted_address": "80 Neal St, London WC2H 9PA, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5151154,
+          "lng": -0.1265625
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51643912989272,
+            "lng": -0.1252549701072778
+          },
+          "southwest": {
+            "lat": 51.51373947010728,
+            "lng": -0.1279546298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJnVf83AIbdkgR054D55weEBY",
+      "name": "Colonel Saab",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 5448,
+      "formatted_address": "193-197 High Holborn, London WC1V 7BD, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5169661,
+          "lng": -0.1226498
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51840762989271,
+            "lng": -0.1213763701072778
+          },
+          "southwest": {
+            "lat": 51.51570797010727,
+            "lng": -0.1240760298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJ_YxXC7YcdkgR7WdFQXF-uoc",
+      "name": "Aladin Brick Lane",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 9944,
+      "formatted_address": "132 Brick Ln, London E1 6RU, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5205425,
+          "lng": -0.0717613
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52188767989272,
+            "lng": -0.07043967010727778
+          },
+          "southwest": {
+            "lat": 51.51918802010728,
+            "lng": -0.07313932989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJlciW4jsFdkgRvV8ezEeIcB8",
+      "name": "Colonel Saab Trafalgar Square",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 1568,
+      "formatted_address": "40, 42 William IV St, London WC2N 4DD, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5095634,
+          "lng": -0.126256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51087472989272,
+            "lng": -0.1248739201072778
+          },
+          "southwest": {
+            "lat": 51.50817507010727,
+            "lng": -0.1275735798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJpResIm8ddkgRDjOFV-_tGno",
+      "name": "Bengal Tiger - Indian Restaurant, Shoreditch, City of London. EC1.",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1265,
+      "formatted_address": "108-110 Old St, London EC1V 9BD, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5247176,
+          "lng": -0.0931547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52614907989272,
+            "lng": -0.09177952010727776
+          },
+          "southwest": {
+            "lat": 51.52344942010728,
+            "lng": -0.0944791798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJMSY-ZnIFdkgR9Gl8FyLYYjk",
+      "name": "VATAVARAN",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 327,
+      "formatted_address": "14-15 Beauchamp Pl, London SW3 1NQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4977194,
+          "lng": -0.1647782
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49903312989272,
+            "lng": -0.1634865701072778
+          },
+          "southwest": {
+            "lat": 51.49633347010728,
+            "lng": -0.1661862298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJlcGxlQ0JdkgRwldjBp3toEk",
+      "name": "Bombay Delight - Wimbledon",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 2289,
+      "formatted_address": "Bombay Delight, 271-273 The Broadway, London SW19 1SD, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4194269,
+          "lng": -0.1945628
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.42081802989271,
+            "lng": -0.1932470701072778
+          },
+          "southwest": {
+            "lat": 51.41811837010727,
+            "lng": -0.1959467298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJUXXKEgAFdkgRYlh7JC7MCC8",
+      "name": "Oorja Indian Dining",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 1682,
+      "formatted_address": "117 Shaftesbury Ave, London WC2H 8AD, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5137181,
+          "lng": -0.128855
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51502457989272,
+            "lng": -0.1274050701072778
+          },
+          "southwest": {
+            "lat": 51.51232492010728,
+            "lng": -0.1301047298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    },
+    {
+      "place_id": "ChIJ8fHhiM0adkgR5dxGPhTVlvA",
+      "name": "Trishna",
+      "category": "indian",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1737,
+      "formatted_address": "15-17 Blandford St, London W1U 3DG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5183437,
+          "lng": -0.1530717
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51971747989272,
+            "lng": -0.1517191701072778
+          },
+          "southwest": {
+            "lat": 51.51701782010728,
+            "lng": -0.1544188298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:49.728Z",
+      "query_used": "indian restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:52:49.728Z"
+}

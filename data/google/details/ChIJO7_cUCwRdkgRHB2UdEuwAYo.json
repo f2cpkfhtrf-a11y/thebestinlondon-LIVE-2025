@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJO7_cUCwRdkgRHB2UdEuwAYo",
+  "name": "Sunday in Brooklyn - Modern American Restaurant Notting Hill",
+  "formatted_address": "98 Westbourne Grove, London W2 5RU, UK",
+  "vicinity": "98 Westbourne Grove, London",
+  "rating": 4.5,
+  "user_ratings_total": 3606,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51527489999999,
+      "lng": -0.1941928
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5166078302915,
+        "lng": -0.192722669708498
+      },
+      "southwest": {
+        "lat": 51.5139098697085,
+        "lng": -0.195420630291502
+      }
+    }
+  },
+  "lat": 51.51527489999999,
+  "lng": -0.1941928,
+  "formatted_phone_number": "020 7630 1060",
+  "international_phone_number": "+44 20 7630 1060",
+  "website": "https://www.sundayinbk.co.uk/?utm_source=GMB&utm_medium=website%20click&utm_campaign=SDM&utm_id=GMB",
+  "url": "https://maps.google.com/?cid=9944423290335665436",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 4:30 PM",
+      "Tuesday: 9:00 AM – 4:30 PM",
+      "Wednesday: 9:00 AM – 4:30 PM",
+      "Thursday: 9:00 AM – 4:30 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 8:30 AM – 10:00 PM",
+      "Sunday: 8:30 AM – 8:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1630"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1630"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1630"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1630"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fhu613McVY-OdOX_uJq8EmR2gREP5I14KREfjDdW3Ip5P5E9meKC19CBx7yrHWtzDDKjvGAix5EoZhHTPAe4TDB23eLcEHo3vYIzJNX7W19UhD24yBHOj9oB4XyyGqwRsaF4yk5uliACBlT3FdbQses6pJ5aJVXRUEMiS7LN1n4HgIbpehj4WMXAhL2UojXkGZXhMW1Zr2C_Su-c_N0W07TTAKFEgrjalSkKAkwXMVpISHLVl6eb61Ce13iKAt109I1SNj_dbtPLuffPoEIAw2ANIL97m2E8Cc8EW8DgtKmw",
+      "width": 960,
+      "height": 960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105419575707975469536\">Sunday in Brooklyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dtmZpjU3tXb1THoert3x19wKVTlTAISUn26gpQma2rS3_3DZjA0qEyTm21ZH7cJbkSxv1S-WQrB_LtZYEkk9GUiX9z7MJ5sPTOOxY8r63ncxd-66BiGxYKTq2TI3IIUtaQWxXzHY1Okdl96i25H0XL0GxoiBlbdwgqVMcVqp1U1X73iCseS-r38xrbaTU5ik3TLFdgEzr-bqg6xy2go1keKFCq_1NVuxT4SJ6ZuZcgLXfqbcF7wnRUZJ0XXROXW9fVOngqHuAcndHJ_2VJlfvxxMaKLF0Eg_mXWRizd47kFw",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105419575707975469536\">Sunday in Brooklyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eCEd5ZN8uMjZvSDBwWKtGL0UbEX_ZZNFoHWp0Ca-e3UToQPokTh2d5hZmzUE_sIpvB7J7wIZkOQmjTq749cSc9EnQbB-EKiySoVuECEEMEqRNTg_QhgrvIHszuhtKiKQ0Y_KbtQiERHX_X3vN1J8ek1tj7DxJ5_H3m4YOpDu1L8A9ljcEfYAJ36h-cE2nfiD5R1HUUCdYUjRZcuLitRHyelBP2-VdCobxGpEYLJ2OmSUsOPDfVfAd6fjao3ZLlnFPwOQEYf9K_InwM7CDBo3RNqiTe7bDM8hjL-qvsz5Lwgg",
+      "width": 1080,
+      "height": 1334,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105419575707975469536\">Sunday in Brooklyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOP6uMFiTpYWo917kiaIyD1MuD1R-8IpjDqkApEa0Oe98KaGfi_E9Me1A09P6W3X7-c96Q1BcQzm81mrqB7o2BWT2JyrW-5KBOj1QkUUCdaftTR209CZ935ICFhP7AfF-0dphnXEbh2Js4DlzmvqaXyQ2dG7WVdA9LIq98E3PlJsIeFFRcyGIrQe4llz8JbnivOJZnKhpqPBNJAc5PTp6DsHtHXoQ59UpPS68rr_G-87vrA69fKOFlTjGGU0YUOsO225IQMf7IBatQmXpTsM5BIoZnAuM-tuhe3KbQdUylAg9AqVqBjZE4cl-K0BHIvKncPmA-sxMpAKe0VwEzPJB3oRFcbZ00geUGlVYep1jTkY747fvbbCANSUdO23NFxNPN0LPm77eliF9i8INjbcGtuVYmIFNd2j3_eCQewJXx_3sx",
+      "width": 1179,
+      "height": 1378,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103098343437489152786\">Antwone Wright</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ccMFwIfRsOwMQR7askJIxqzL7Jw3OVVJrFzbse0ruGIyRlW3n0CN8CFzOQ3i2aGP7NZxMxtzvRnh3sBpxcylJwx9J-tl4-ojFCVe6bZakceT30tYxEKxn7ajek0HhmWRDcYAO1cjbHFI1IZCbqbXqgskmIH0W_96UkgU_bUoL_-VJIF7xY_T3uDCKiLrhkoSCzi9XtafDnIWsvePzRXasWUexuKHG46dmtmPr6kACyoumCzIFaGAk7NUFwSe6wT4iHsR5g4K_baBskYzckhvz-DykSxWBdfJ74_GoG6S1wQA",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105419575707975469536\">Sunday in Brooklyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2esdpCI84KfHsSl1b7GLPak0YqfAapu2LvBIhoIbesizNwDkaJxv8Qm2UFTui9kFNzbwBzElV8DcnIo_-Y0OF4Lt0yv-_TfmlfbbHuLHDfDohfmyiTdRhVe9PvaLTMCXMjRML7SAK5csMTTSFnlEg2T5gjWOfXGcgutZNByHM1rfOqN-egybDN6QySCj-Tv7bb769gQzMngjYIbMI5Nbz3T9BStGSt2wR0JTJyf-xUHBcK-yi3bhd8QLr13tHpGddf78Hj84cAbswR2BmFgoq3sJqYuN6lj6dgy_JhMyJls2g",
+      "width": 1074,
+      "height": 1328,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105419575707975469536\">Sunday in Brooklyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ee7MBuVO3dWwQheU-bLR6ogfq-CKDWJ8TrcrMQyeQvBCn71dFTdPhas68KP0wpC_1_tItq9C6V7cvAl-5f80mlItM91cRepdkcQsS7dO3ybP-eYeRM7cbqSyLytgSO5V6MKvGlis87uJMazvyqzclXfVmKzIX3rMCIHAgWibSLXOuP6M86otVqPClC5M8EHN26nONCiePCbhAUe-Q_mKVH6VQUWZpHwzPLfCfjT-AnBTyw5lPVgAToAQQPmohQDfeVUVD16z-HikQzujqvSJ65N68EYtCOTunf7af5j-ODzA",
+      "width": 507,
+      "height": 530,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105419575707975469536\">Sunday in Brooklyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnAvdSvkJlOxGhhlkrFCBrWXzKUfPUvDmiB1PaM_t3MlpiToBGFHTTTBNyXIAaXDCHhHoTjuLKaGnEJXE61v-_9ozJT99l2jRM2M56d1xyU6TRWpAb7vSKaOaIqpkKjLY2UC_qWPcyHU9qjTl_PnGoU7_zdpm-iBw9XwzKhAM7FqKiBHtc_6O_QYCIACRrLScp-jRB12bcqfwma0QXRomU26HulTx65KNlEqJhNNJ9ZlGoq8mZY3xaykzImTaDpzIxd7mG-OZIALJtwc0xa1N1DodZ_HfsVHUppbsjiig88h_BokyN9RvICTLIsHjMm3P3gMquMS2sGNHbhTq_pfZ042bLmKvGOkQa1R2kYz86A2swa7x6qGKYQvYHM7gLPpNDUZbuGnBA3kfqGU-2mU1sJjI87kk58DecUDYzl4f0eQOz",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109345485754575269377\">N Bas</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cPr11t62u5Icmi0U5hJlsfkFrlUEyNaOGFyiKPw8bjTi60aR1S8Hu8X22yL5MDaMjA_O83109XDBgkPw8nLGSdxRwLb3x1_gqdu6vLtORnDcM-bqJCafvbNuLIFgsriSkoOc3Fs3PzzIFlNev-EBORGhcyTjRhKO1flnczoLNivc7-U0aDOWnVYNwoOjFg2y7GulVlz39aFbV_wOzGERRlasH8OGTjX5kQtuLU4Ia1ov1S3RyO4GOLdlWknEroHtDIRk8rkfFndOB_HRsgYc9T6ZrtEfk2WVn08jiE-XZrxA",
+      "width": 1080,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105419575707975469536\">Sunday in Brooklyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRDS58CfTZ7EZ_lvR93ZJoLwP3HJYODV7G3QgaWNQeUnHB7OeVMflCWgQTlIhAqeAmlLa80OFdMumRp7lttpiVuavx_M9ZI2iUr0m6LcswErJkaYkDVTxbb2Fu_FcBwt_9YtchWXx-l6PAsVUlxdAQMRwcSfiNGz8DpdmiL0T0IIAPja9hNiwbpGu6t9ed-PAvT7SAaRS9nlKY6lU6kn6HNyHTHhDHRe2BjfuX0wtQOt3TaviB5GpxoSWg27WDfDuvnr-kQedPZtAk0ZbndYM59InaU22v1F8my5f96yrcAw",
+      "width": 1080,
+      "height": 1081,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105419575707975469536\">Sunday in Brooklyn</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Creative takes on burgers in a greenery-trimmed space serving brunch & dinner.",
+  "reviews": [
+    {
+      "author_name": "Mohammed Altamimi T",
+      "rating": 4,
+      "text": "Finally tried this much-talked-about spot! Lots of hype around it, and it does deliver a cozy modern brunch vibe.\n\nThe scrambled eggs were perfectly creamy and tasty.\nThe granola was fresh and balanced, definitely a good choice if you want something lighter.\n🥞 The famous pancakes… honestly a bit overrated in my opinion. They’re decent, but maybe not as life changing as the reviews suggest.\n\nOverall, it’s a good brunch stop if you’re around Notting Hill — stylish, buzzy, and worth checking out at least once.",
+      "time": 1757178192,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Federica M Micheli",
+      "rating": 5,
+      "text": "Had the most delightful Saturday brunch with my sister. The selection is a good mix between different breakfasts cuisines and the staples all have their own twist that really works. Gosh the pancake is divine, wish they also had a smaller portion for solo diners.",
+      "time": 1759445175,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Foodie",
+      "rating": 5,
+      "text": "Just beyond my expectations!\nWe ordered their pancakes and it was really good topped with hazelnut syrup I guess, but I would recommend to share it! 9/10.\nThe egg sandwich is 10/10 fluffy egg and delicious sauce in a spongy brioche bun.\nSteak & egg was also good! 10/10\n\nThanks to the chef and the staff👍🏻",
+      "time": 1758365666,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Maya",
+      "rating": 5,
+      "text": "Okay this place deserves all the hype. The food was absolutely amazing. We had the cilbir eggs and the crispy chicken sandwich, pork sausages and matcha latte. Service was so fast on a busy morning and everything was great. Loved the vibes. We went without a reservation and waited only for 5 minutes. I think it's easier for 2 people to get a seat.",
+      "time": 1758655443,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Dina M",
+      "rating": 4,
+      "text": "Lovely atmosphere and very welcoming staff. Coffee was great and the cheddar scrambled eggs and shakshuka were delicious. I tried the famous hazelnut pancake, but honestly it was far too heavy and not the classic pancake style — impossible to finish. Overall, still a nice spot in quiet Notting Hill.",
+      "time": 1756577773,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:31.380Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7_cUCwRdkgRHB2UdEuwAYo"
+}

@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJQa6qndUadkgRmhYJjG6-Trc",
+  "name": "The Great THAI Restaurant",
+  "formatted_address": "14 Riding House St, London W1W 7HR, UK",
+  "vicinity": "14 Riding House St, London",
+  "rating": 4.4,
+  "user_ratings_total": 911,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5182631,
+      "lng": -0.141645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51962183029149,
+        "lng": -0.140362869708498
+      },
+      "southwest": {
+        "lat": 51.5169238697085,
+        "lng": -0.143060830291502
+      }
+    }
+  },
+  "lat": 51.5182631,
+  "lng": -0.141645,
+  "formatted_phone_number": "020 7637 8872",
+  "international_phone_number": "+44 20 7637 8872",
+  "website": "https://thegreatthai.co.uk/",
+  "url": "https://maps.google.com/?cid=13208704139129329306",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 9:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fXaIO7Kd3WEc37MwagDIhGUats2nteajX2ilMX3pVOKlEiSrRnlbQzpoM7olUPCzsVof8uSlaNo2gaBk210TBrztm9jHpuEsq-hj4_RsJ_9_XEgbOEQtInlZUSAwUkJQ3PIaEQoH7Ds_W0SylDpF2bMQQH_FjwhA9lOPXKFndwG_06NZviYBi3tVg518kJUDoyv3GmmmWtb-LwQWt63Y4-oaFBKK8HPLiVXrEvxx1poboq_MmA7v9UX3rdSMAFySfrq0yj-a8rbF61doXbv37LETD2MXrR0AlzWvbNzrArRw",
+      "width": 1280,
+      "height": 1051,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113300976349256611867\">The Great THAI Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cpTBvaaoEnLaoNWPKWK-xTNb-jYQlaRyZBRIFbSvkgLwuXFraZVYzQ4uvd4qOgTmFc9-xAPWd8g89pT8-BURd_EJD0hSaDrMJ03KauApkzDuAFXRCbJy8yBQ_6PJjoChBARuVTi_rabY44WUKC9FxWJET8TKZ15gPADB5_xAaRNkdjnfxt88AiEaZl1m94zQAhS7uOFOkGmgH3ulEVbkGF89Zt0gV5n-sMU_vd6Fs_YohWO2zb5sMNsicDRbIuTkhk2mvwI3a2sEK-utc9kP0SEkIwvgGgktTB8xIAQXPESw",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113300976349256611867\">The Great THAI Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cssENhYCdy4q0qWckIqJiCaT5f-ANxHSfIgPu3jSYmrKJygaVxTPSo1PVFSjT1cuxcZ0gsUilB_xt54pJcPXLLG8bdt2TULIPgnGvdZVAwFgT81x_a2r9-z0VIvB15I7ON1_YRrQIQF05TzWbOeOzjTUsVB8Ghqfnlt4obDB1ZuvZDigUBL-y8Gq9tMi9ZXldieQ-9Y5vRdOJ68u0vPGWwPfH-ZwFUeFVlmEG4fPpLQdKPMU1faAy_Z-VhJxq78n2F8ezL0lNyazvWrFYG1mR8ZwMgDuZlm6N9b4FnKbknbf_eBnOgc8JJ02_d26dnbeWQ79Dz2ZxHCJwRhGoyeAx77EoJm9lEaUl_gcpgX5VHEzKDUW5DFwCKVvaf6D797TLPrS8LKfb_Xt5ERgCLVzwAArHUGECDjE6zlnnTfeRVGBtoF0MJBekh_82MFfs2",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108807232201853458128\">Sumayya Sameer</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fCrkTzReldyJcDERcIVVHD3ExOsqM9uAf4A8VqxYsc7v30P4pX9SFdovP2N8eHEIEY6vfFMBBA7H6xWyv3_MiISm9am7o1xd52QPGO8trCNtEMwo_DVCuF1u2nqXtzG0a2dzoAL14kXCg6iAbuNXZk7Ox5DOnT4P943H3UVvov7W3UCts1-2t7JQn3oQEtsWyZvw4Nr9uZcbW5kAXL4WoJnfYjAOfr613_vCxq54EeEZurGeCfgfQ0R7O5CeELJgkiYxle8XJ8ceFzAbLGlZEWarQcYa-TFvX81pEv8i98A5_0yNJix__UWQncAiKtrcLtVW0MsWqV-lGkEMzoZ9bRuO_VJK86YKu-CMr5am9Wrp7zNbPAQsMY3jbyNIVr2MTjr3cB84CnACXR7w02pY5U6HqAoSivTDEGmEy0vFRdEw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117081019159933502853\">M Tagami</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fvVoOAk1M3_fbu_Qgh7bFuImsWzila7mbzn3KVT43L-NZ1DiWZ2twmF5SzIjwL2HfLP6Hp7rwr_edJUH3l9tgzoHCW4cfuJR9AN5YmwIj79UKqC3yCbOX51jLU_9oxbmNbJKGEyRBbt34xRbRlqk2meFjTvd4jDYqFpe5vX-9bmLh6xefRDXlxu4Cblc-LzZ6A3gQM8sKiRbscviZnD8vnwz5zt46F4H5fzaf_8L96QNftgz9uooUZqn-owAzyCjGrQry8vrLwA_sAMCWyq4ZdLz8T47PtrVNn49kr7h27u_Mh0OFG6DB4jQrZ82TgEeVgNSjZ9uSqcfgB_8rg-RHIFCsi-RWRzowcxrWgH793YZXMUV5YawrjYBZGRvNtv5CIrjm62GW-f_7ic19pBAeh1rzyHDJa-hMaZICpAr_ywIqTvnHXM7rmFNySdCPA",
+      "width": 3556,
+      "height": 2667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108154405002679803723\">B Urquhart</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-ff6pHT75JI6vCRX5e0pFxs0Gp-RwnjSZBPtX106L-x41lSBx_jsBtqMjWhmfF81H-5rk5PP3klf2c724Tjy4VN0XiQ23IGIy_LqPuxyoaUwIln-fggoYs6TezUVAoBvU0XKChb3BG3SoveithC9VhGn2rQ6SaOf3_HI2gUkfEEr1A-7N4a7HX31T-C3mhCaFarwC2E8vmkRDKEFhsguBeoOX5l3EV92xyvMpeOObz2dU6D7wU07-9S7JvMIbX-mkZ3DySkYVnO0imiW5soQgQbU7cOE8xCCmwyC-HGYHB64az7NOAObm9hSAfLXZCBGAu1vfQzKIxuVS1e0XliM1qgm2JZ6F3Sq3JKbS3ds9u-0JywhXzOk5UipZ9YGGaTTyeW2OVGWnfZlRl04gwo-B-bj3FNFa9U3a5F-PUztFgy5fsomhax_owRYuhDhy",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117932993385310011424\">Erdem Celik</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cpXyKBBF0aHPTYL53hKM8EP4SLKND2TjIxIpsTgKClPUEkyVVcuiB0vFJryRn28sn0_1Xf5spXFvahOwbELX9TTT3ZF1ygPF8rEBpiKaGFTwxBFDoNF7eevAFxdoKMQHorDeBblU1HDY13MgHCcaVOlnx7uB8t0dQuNq-CeAic-4xu39ASYnJwecVw2HjTyL41ZgZ_x5bqw8ExsPakXfCrUBtc7eb82kuQOWYIqLReYwj4ppHQIrO_U54Wy93qNe3BsG_B9zFiMfv8wS80WJ3dboJVZ7Chcgk2JwMCin1CjotgrJF0i1RCV80B_Kxc6szrt6DcvKhl6z985IMqFmKPwctN0JM1ULdmaW7onv5X3Rbz0g0uAM5SakutK4OMbDlmfM3BubX3Ct7Z0Y7iur3oc647IPE4tGqNEcU8xU3-lA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118253484678793438812\">AR. Pratheep Nair</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dO7RVdIIstvHU5XzMCG5mhKYWz57-4P6p0T8ZDgWHSlwrPNzbSLgHGnkQ-j-zPBadJYfnTQ3fpODx55QlCUDgqJVLJxCmJKNpukFy8IE6Pei3mdubufDpjGA7YmztgAMV53oX8FcnYSwlT-ne68tTFyMAI-xzEN3KDTSfVsB-wop4DhynKgpSOEzRCHLEsC5SrjhS-pEsjoXt3Pvp2kJZnYJSYJUUyaCWSGxI-iLeVC4JcEROqpy6uifCvSJJk5ojyc3Rr8cYwY9Ivm3GXci13Tt7Wm27pTBr3eWABDmKq5k47stXi1c3oJ2dKMWSJTHChIxgDDfAQsm4Ss9OaBB133a6Hkr_sPKf_-GfMtJ5lLa1wuwxyqlbJtz6XP3PeYXJGU9Qfa-OUB2n3Iux6POWuB4zIRO0iiHjJRTGUoxya7w",
+      "width": 4284,
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101579090451288055303\">Tiago Mota</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYNU_j6CRkzX9Dl-VvU6FQmTYsWMmGLxhaS4HT82MFM9JjeN3WiXVYMrPBhDys97wsoHeoIrB_AkGkbjz3fr22xHx-EtZMEi6dnfW3uM9ClFbcQTifvBzVu9CquMha6OytHu08f89I2-_ISZv0MooMdTXEYr7j081SwrcrlTdp-SQJMya-PZ__QBE_XmOd_F3cnVyqhS4hZBqeoM5ewamzp0yOKftzlbOzN79q9nI78CwLqQp2iFRWZyu6DGtXETG745XYsYu6IMrgagWr4lmka91QCWfzbadiaqKM-dZGaC3DHG2f_RG5RvQhg1EONw5fAjuhXebqCzJesNDPQnA8C-Dg2YldZA6fwRGE41cG1aOKqBrMms8Tol0E3xndX_8nrH6VoUKzYEBRKk_Ssg44eWRps_AH-jqheEqfDfk",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105320627895212377554\">A Fowles</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHIfFWa1gb9wDLHaWSQ_UwvhqIkWGzDVOYnmPlJDMPLLSsT57RIxqreL2MbTg7SMtgGn4FOT4e1sNiTNgB4duOw4MieGbSGpMFGhmz8lRWzCXiQZgT8x_P2hRg5oPlktx_LSE1hulNMpUDBjUJZpzTinLPBb1Dw-aFABucRLDEJLuQ-nSobEoxVKu6sajmNn40Lr5MdDOdJyYsgMCWclJYZVYgV_uu3fyJVQD2Iw24aitK94CN6VPqsdjmRPLtQOrm77DosbsU_EPLpmXF1GDAXgjtxsN9TJyQ7JDlIOtNJOjmFO1oQP7zstthFkGQiGIAdxjp34HZJHhpS6Ltk0dxZaKaMEi3tFb95pbRZEVZhcosz2tzuLnfrXPlfX2c4iMbT6YYDOSQVbWmF7316LKsSrmflJ_G3AYZ5gN2g786aA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100385784402915471914\">Ai Britton</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Simple but smart cafe serving array of Thai favourites, with express lunch menu and dinner options.",
+  "reviews": [
+    {
+      "author_name": "Narongrit Pumpuang",
+      "rating": 5,
+      "text": "Absolutely delicious Thai food!\nI had an amazing experience at this Thai restaurant. The flavors were authentic and perfectly balanced—spicy, savory, and full of rich herbs. Every dish was cooked to perfection, especially the Pad Kra Pao and Fish salad. The staff were friendly and attentive, and the atmosphere was cozy and welcoming. Highly recommended for anyone craving real Thai cuisine!",
+      "time": 1744025796,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Vivi C.",
+      "rating": 5,
+      "text": "This is the closest I can get to Thailand! (from London).\nThe price is very reasonable for the amount of servings you get.\nThe staff are so amazing, they will talk to you on how to enjoy every dish to the fullest.\nMy favourite is the steamed jumping fish balls!\nHighly recommended 💯",
+      "time": 1747340088,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Owain Jones",
+      "rating": 2,
+      "text": "I should have known better (a Thai mini-chain near Oxford St) but, I was hungry, had an urge for som tam and grilled meat, and was still about a mile from the reliable Lao Cafe. Plus it was 11.30 and this place was open already… I took my chances after seeing their Isaan menu.\n\nOn walking in, one of the staff immediately barked at me that I could only have the table for 1 hour.  Great start.\n\nI then made the mistake of asking for “kor moo yang” rather than “moo yang” and was told to only order from the menu. I explained my error and then ordered the som tam pu (from the menu, ironically) and was told they couldn’t do that, as they didn’t have the the little field crabs available. (I agreed to have it without the crabs and just pl raa and got charged an extra pound anyway…)\n\nI asked for Thai spice with the som tam and it had decent heat. It could have done with some more lime juice for balance in my view (and to make it less dry), but that’s a matter of taste. It was also pretty expensive at £10.95 given the size. The pork was tender and marinated fine but came topped with sesame seeds randomly. The sticky rice was quite hard and dry. Came to just over £30 with service. And the service remained prickly for the duration…\n\nOverall, average at best. Given the service this falls into the “avoid” category for me.",
+      "time": 1751024673,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "哦719",
+      "rating": 5,
+      "text": "🇹🇭 Highly recommended by my Thai friends — they say it's one of the most authentic Thai restaurants in London, and they come here often themselves!\nPerfect spot to grab a comforting meal after shopping around Oxford Circus. I tried the Boat Noodle Soup Beef and Yen Ta Fo, both full of rich, traditional Thai flavours.\nGenerous portions, great taste, and very reasonable prices for central London. Will definitely be coming back!",
+      "time": 1746970201,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Nathan M",
+      "rating": 4,
+      "text": "We had a nice impromptu visit and were pleasantly surprised to have a table free within 2 minutes of waiting on a Saturday evening. Service was friendly and knowledgeable on the dishes.\n\nThe food was well priced (noting the mains do not\ncome with rice/noodles etc) considering the area/price I would be happy to recommend to friends visiting the area.\n\nThe chilli oil stir fry did taste delicious but wasn’t spicy at all despite having 1 spice showing ‘Mildly Hot’\n\nThe Cola is not on tap and only cans are available. No table water was offered. The food was quite salty but was great. The mint after payment was a nice welcoming touch.\n\nWill visit again when in town. If you have servers allergies might be best to avoid visiting - as I have a mild molluscs allergy and I don’t feel like it was entirely accommodated for. 12.5% service charge added to bill.",
+      "time": 1741685892,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:39.316Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQa6qndUadkgRmhYJjG6-Trc"
+}

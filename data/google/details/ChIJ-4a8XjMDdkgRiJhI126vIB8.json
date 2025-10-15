@@ -1,0 +1,224 @@
+{
+  "place_id": "ChIJ-4a8XjMDdkgRiJhI126vIB8",
+  "name": "Chicome Mexican Restaurant & Bar",
+  "formatted_address": "2 St Katharine's Way, London E1W 1AA, UK",
+  "vicinity": "Tower Bridge House, 2 St Katharine's Way, London",
+  "rating": 4.7,
+  "user_ratings_total": 336,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5084131,
+      "lng": -0.0732784
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5098415302915,
+        "lng": -0.07143106970849797
+      },
+      "southwest": {
+        "lat": 51.5071435697085,
+        "lng": -0.07412903029150203
+      }
+    }
+  },
+  "lat": 51.5084131,
+  "lng": -0.0732784,
+  "formatted_phone_number": "020 3031 7601",
+  "international_phone_number": "+44 20 3031 7601",
+  "website": "https://chicome.co.uk/",
+  "url": "https://maps.google.com/?cid=2242985505023629448",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dFm0oSgWt_zbE2AuZ_ZawgLKu_yo1NWUyF2gUMVhVpzKsrkHNFvwYtEXXtJTZ74AJiZvq7P1sEhM0lmElZIR2dCKNgdPtP_PvHoFvXiJwuq8GC78tBOg1Mv6zwgzDGZZHGzRqqMfue0TvOBPB1W_fOqpnOIR-e3o4HW-lHnT8TbNYP9Z902Jd-QJbUJ1PoGo1YUOgwH-S7YfmwhhbUzl4Efuo9uPoMKG2sdTX0XtB8ltDe3qOLinXAamhXCsOMdjNXZ0M-EELa1liZ1yDRDQRRXyn9MeMbMV7XhrurkE5AK4iUdxL2GsTI8E94VEE0dbOZAJLxYy2V07sGerKpntx7vk3mbTYFm771C-Me5HSz5jpSQol7U3lNx-x0-pGEuVhJqcooU9D2AlYyOTZnF63SVaMNxzMe5c8mHjVERtlQ95Jx",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108433716042650394908\">David Sherratt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_IQBDdhs_nMZXOSz_G6iYXvUIcmjaQg3h0_CNlTjN8ZXdZfr5X5rg103pTrLwXr-OnZ8nz58gMwF8VsVLPgNaAZvujTqzABY3ocD9QWcBIa-S_ya4U75Y4nITuG6JRpHxeXf_YWQqzOmCtc254gTdSPl2KVdYkhACq-Ymd2sP8iccYB8ee11AMuiFX-uwmU9AW0KT1HT9HNadtTXh0l9XwCn0QBrj8QtZOKpR9826jK1iYs-MH-AkWncAszUet0Y8kLLDjfYFDywX_Ht1a_-1DQwkX7tJouIJLSPGcbTZlPcupRAnVS8k0h86I08eR9HPr5DLlalbOojGHMuqCiPSw1n9K1pl_UZn2hKPSMBETfPbkA_WZovdLKi1kQYz2oMAK5ECtG_drU9Ktatg0Tl_jb9b_8rYpBZ0iX_OsmY-zwORpO6eEVRYyoZeew",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100549987539741452456\">Jose Gerard Patrick Apurado</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fS4_HVvukXAOtfR6byanbkQTIXXhcLX-MYTw_S1PwP6MxP6jFHNVKQf6XnlFxZIBDyv1FQa0vre9yuPw8xwLGOuWBG9fqUN3KowkRhQyiTObGalS-4s04nfNa8jDPrNBdnfqSAz87q_1sdgdVJID1bV_Spxgskgm50hlYXiwUYKj8ioNIXd3O2YOCP9dMteCnM5CfrVVEJHsOkzLFC-i2a7l9pcJ8Hh6bsTjlq62c8YKGR5Aq1iOO03zLZ2kJll7uzRSUoyik6X6bvcPuMCYUb3pgyAXbjsMivF1w4t2zv9AtyMDtOffEykECGQy_vXoepoL393Q1Xjb5qzl4i1vnpH889Qw-Eb_fK5lAZwLWYYEvKnO8PzuOFf6YCN9-sSOvjfx3K9VhoL2fcij_ODEPTMfdnJUhJAzE6YO1e5GGBqQ",
+      "width": 1560,
+      "height": 1171,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106018206605164471036\">Ali Shark</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_JDF00_QtTdwkm_Rc0sstIKaS1lbCUTo0JAQGiYQQrcVvOJx_M5_m5rmGw1ZlKkS6XysCcP0-guZwrVj2FVeON0xKT6C1AJXB_XqfgFenaZm602n0HKe1Ui-P8OenKYVd4iILoue6Z9wzSvGAJwTyZLJ3_bcfcsNOqtRb_WC8xdZmLBfA1ecGjkmf0_gdJsTHUyn2dudRB61QO5UDtw6JhDUSS9xo38tgxNDWxlXjeLHi1BwVfAd2p2FVnjVC-pnCMDzW4JAWICiboWot2F7Y78dFBhrfO--xe6cMm4Cvw971emHyDqRasrbC4WIvB4sqQjXPgJ6TCwftT9dQMStJB7o1EeY4PWevdU8oKT7Nv9kTrSuWhI3wUPL5dYQXBLRO7SfBU_7t5vbJFFZSlasf9LdnMld6MeaElzxWojwClw",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108433716042650394908\">David Sherratt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cIrIJISQKqIxx1nCGbqnYsYMbJtPH8wLy4ORdNrNEs7TTXm3gGPTdL9UzO8w94RE-MiJyXjnViH9ClDjhZWMbAq9SjAq1KlGTr9uk1YxzMyc8wuk0Z0j5PeksYaxcsCOU6hMhh_lIbdMtsUfLvHSknbjktGQVP1yy4PNmA6P6UgzuEFACDn9EbtmkvXQhtG8zuj9gJCq4t_C-Wzqk6Vbr78eUzjb-vqgtHqgu5aTe-Ki5daVD6KIVfnQGKUvc8Ry3AUj_KjMYsq9SXR7RMNxsGZpTBCgB9Jxt3E9exdWcChSD3EXpi5zactNAjTZ8HisOBqgZfrD46A8huBcsQ6mL4yJivNweSXwC6v1P9OnJAxqj2HP593wqUtsKD3ASqQDDEUYyX_iy4nudiP4nqh9YsQhjfXmX1unfLiKPhSfB71vZWnNICkQF6TG-_msqt",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100549987539741452456\">Jose Gerard Patrick Apurado</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fWwQhoFY5HnwRRoJFpzKRWJqw7zHBakyxUyryVWhvqDvR5UDeCP3CE8LJdMX1hilEUrs3wXYRcWkzjSQi7PGCv7f3froqTBD4B0bOIQRynncRZWxss98E5JpubpjSz1q-bzthBRSZ_DW45SWTJcy3eHoe2B7w3P-uFJ9BqWkiBu3j0xGIve8Osq8OHSzXg-bne27U6zsDTYwvEYIOPsdaJs5Rm4fpv0ug8a9twF7dbegwvBOY66MHTDQN2kuS-8hZHtHQDrBbwqIzhXhivdl3Lb5FFq8lQiJy-rivmRPM260FxQ333N2o87oIHLQGcBVocoM-zfW2RApfaAOK8Dy-DwGwtZQrB9IsC9fTqlEYYyVzbuJC8vmdY4u6b2Z_LBJ9zsuxWtwJ-og9CnzuVsdSFYa2ba7FGjxziBT1IUvvfnZhlJmJs7O-PYTk5Og",
+      "width": 2326,
+      "height": 3102,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117007452914650740706\">Tim Foster</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fRA3Kugt0Be8Owq4ecBqxW1xm0NznjttpVo5wGrQzOukdY0nf8HeYdSE6IwL7616SQzxyJyWSnV5uDDzpTWvMKI-WjzMMWGX8kU1GBpJNvIGDOIo-vss00tIom9YvWF3mtHlZWx0WFXaPsDcEuMxb7rnZMVBX5tKDQw0jtTJ3QOfgGhpABYWUa3jEHsLfaWnc0RTPMXqeKEyE-WEkz6tOr9MbAloZQNmpnHHpxJUtCa9gNqOzEWGKcbxM2jR0Wv7NATWOGJzLt3bxGkq0RmYy8Owi-aq7_Kb3NZiYu6k2fyjGT-pzCFKyS1P-FDzud9MgP_469fk2vyXRIAIsyxcpceJzniHv5_npFzPXaVIbd-rKqOMQlURaqsGgIWHLT2dkAgZf1O9BUdqBcHWseOVqZ1vcOuhXrOwcf2WQh2SVRL113Ot3n0dyUqZ-Kdw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100340851754740473852\">Sammy Pettitt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dssoBVrqfflBAqNhFduy8dluadAoaNKG7NtNl3GJTjLidCoi-FyHVaTKXslAMO2Dq1-2weuirgdBjdyTvjYeA54mWRnL1rCWeSCkl5MSaGY3vLwV16_hhEZNmIL5dFEduthbiC54TrKt1sMh05xHs4SrVk7Fk_hRkaOCIkwhz0k5FayqBsp34wYHGBsRVvc7UtfSKDV_6H-Wx4t1tGVz589aE5QoskNnXPUP3J2aOnKkL7qxs0l4KctiC06BYiFPb_1Fv84BsIg3UCM4rXns82FNqUZV9rkIAbZ9f0VBEfFVIYRUjxBsI9YH5Z0OyMUF5Rv0STF_v2_XwCUX6kly4Lk3CgIZslXRPfCk5Mq_Tb5sUaB6pPEdBk5o2KVExMmNE9bTpiRWWWYYp_oCfRGP5YWcnd0I6zJ-NdE28ZR87NtA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103880506153867228890\">Dom Inik</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dYDbvg4qGcvyk5jXoAaJ4bcU5-Du-aieN24LIWcXRz47SU16uSKyWr8x_8JNWXK7FUDd-_sLnUPDRJqQRTjLHHO0f4wbDJCQosThA_xYdyvUO0pkNyJmvbgKgd3UdTWtqpDQCDFGmMwdP8eNDInpa7d_gm5BZvfeilRu5F6T3rN1RhLL3YBvGujNPmMzI55nAkTcc2agDancckuHQqBCD6FLUAjt8IbnH8V0IboKMdSxvJj49a8_pA8AzzGLfijkE2NaHPuEbX0MamL1IU68vt5OTQy5oRhD1QQA-zDs1yaQs_4NY9yvwN_wuwJ_oh0qfbDCWoDSIS2rFbrQtU0Eo1VB7lCjqiveIMlJev23-h2WURWeO_bufB__goVowVeyb_mKexXO0kFd1eP1-Vt4KVuivd6fUTw7xRWn0Rqp8",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117422242523633326921\">Andrei Masca</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c55qHEvxtZzdkS-2W0_7pidkM1C9ZSqpWjRnxdA4bpeZ6X1bYSfRk5gHAAnIe__btzQ909DZSATg9GsD57q2boeJieIxMzefHbvzUGvlwt_EXIZhB9MkEsC404ZxBUfV4YyG5JJq6OWwVlBb9zI4rpmJMkXeMyUbEVexnqHrl3bpL2f12wMpplUclDrOQ98A4F1716q4Nm8DIl1giOuzFrLrMtzC_b0wNAbnb5PGmutpGZo4b6EE9QOY25FU1b0cSzKgjs0O0X5mT5CS9-XJWy6Al5lVvo5KjJnRdiQ-XamxwXJW6wIlvxtWTOlcpvNoqpFaEmhKzzlFjL4eT0JlYAjT87lOhCI2ikE6A1g-R5xFpO83JZi28IHM6HhhKX-Iv0ALciuUfQ8pMwmXe3VvRoAFMREBPXusF8ysuDidW6vGg",
+      "width": 1171,
+      "height": 1192,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106018206605164471036\">Ali Shark</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Jennifer Vansandt",
+      "rating": 5,
+      "text": "Not adventurous eaters here so we let our server choose the dishes we shared. Excellent recommendations!  As for dessert, the dark chocolate tartlet was perfect. Not too rich and a hint of raspberry. The Basque style pumpkin cheesecake was exquisite. Very subtle flavor, light texture and the familiar flavor of fall without shoving pumpkin spice in your face. Michael opines The pumpkin flavor was like the perfume of a lovely lady, noticed after she has long passed as if a mere memory. Also, Sorry, but we got the fun brother.",
+      "time": 1759266450,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Abigail McCahill",
+      "rating": 5,
+      "text": "Wow 🤩 This place was so amazing today. I had done a wee bit of touristing in the morning but my flight back to Inverness wasn’t until 1835 so I had a bit of time to kill and was (as usual) hungry for some amazing food. Well Chicome did not disappoint. The team, led by the fantastico Maxim, were so attentive and knowledgeable that I was blown away. I was made to feel most welcome at a table for one and sampled the most delicious small plates and wine in the most relaxed and welcoming atmosphere. Maxim had some special recommendations which were nailed on. Highly recommend. Thank you team Chicome ❤️",
+      "time": 1759588434,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Tim Foster",
+      "rating": 5,
+      "text": "What a little gem of a restaurant. From the warm welcome of service, to the three outstanding courses, everything was delivered to a high quality standard. Superb value for money with the tableware, skilled kitchen team and well trained front of house team.",
+      "time": 1759435760,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Casey Wu",
+      "rating": 4,
+      "text": "What a surprise gem to find near Tower Bridge! The lovely Maxim was fantastic and made us feel so welcomed!!! We tried out their set menu and great value for money!!! Loved the food here and definitely need to come back again soon!",
+      "time": 1759688140,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Anurag Singh",
+      "rating": 5,
+      "text": "Pretty neat. Lovely tacos. Tried them all. Most were really good.. top choice was the Tuna Tostada, followed by the mushroom and Hake. The squid was pretty good to.. I’d request for the short ribs one with a spicy sauce than the pineapple one. Cactus in tempura was super and the stacked potato thing is a must try. On the cocktails stick with the standard margarita and for sure get the Spicy Margarita 🌶️ . Mega avoid the coconut unless you love the sweet taste of death 🤣",
+      "time": 1747117572,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:00.127Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4a8XjMDdkgRiJhI126vIB8"
+}

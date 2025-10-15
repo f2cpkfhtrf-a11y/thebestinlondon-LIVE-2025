@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJQdMuPVsbdkgRHm9Z8ad_36c",
+  "name": "The Great Chase",
+  "formatted_address": "6G Esther Anne Pl, London N1 1WL, UK",
+  "vicinity": "6G Esther Anne Pl, London",
+  "rating": 4.5,
+  "user_ratings_total": 1967,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5384265,
+      "lng": -0.1039601
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5396849802915,
+        "lng": -0.102508119708498
+      },
+      "southwest": {
+        "lat": 51.5369870197085,
+        "lng": -0.105206080291502
+      }
+    }
+  },
+  "lat": 51.5384265,
+  "lng": -0.1039601,
+  "formatted_phone_number": "020 4580 1405",
+  "international_phone_number": "+44 20 4580 1405",
+  "website": "http://thegreatchase.co.uk/",
+  "url": "https://maps.google.com/?cid=12096527483425877790",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 9:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 5:30 – 10:00 PM",
+      "Friday: 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d-Exi9YK1z_-MLoKUaNzOgm-H-T4ZHtUw6qX3Bn4ApzZbJU3gcZni3nY-DanOnYfPLWb-nuBFCeH86PSUCPRipgQYQkFTud6Jo-LwPFQlld-huZLx_0UqgmMBXhHoz94BPUpDdP6xX6cILUm7bFU5qcPWCJIOTZrq2UCBFYsI9YzjnDg5Y8PX8YE-YXvyyTlRLsF9fePtA6G8eSKXg8KQdPCshVZ5sg02uX48HYrdMZoxzV5yQPjnwLlD27M-ncLVMhzKHYKsqgczbKZZ0bNTs26x67-gRKcmnCfyNMctrMA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104360127957881940225\">The Great Chase</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e7Chq00tgyRJcvjm-6HtVJmdaghgCPef3s-97Izb5EtMupDLBGLWK9UniMNzdlTi_cRkiBwaJL4XMUvDaOZDPfVvkuLBHLAXJzvHT_2wKcVcYACHKrZGXPatj_BjL7BW4kYSorip5WSYs8lYjEpCB_aAFUtEsCMYORRQdrvyjfrIxTd8crgWNRmyjEzd_PS_Gj8B5R6l1DeYp4xgXkv5tI--fOOvx3eoZ_qTSXBf9jyiLIxIqfEv9No5Q-G0GS615Kaud8BLTGIhlJ3_L5RJvHhNTf4-VnrLzFdQ3W3Vk1Qw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104360127957881940225\">The Great Chase</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2foh-_5GAIpG1ulyRI7fJpyaVWgXgi2u9BKOwCdEKzrylp5Xw7vDCe62aSvDJQjSeNDyJKaYGzYCk0s5NnCVUxf5h-dD4D74Y7dXVN7Tj5eUnvLx25ozCXeEg1KtwKtB18AxikFe-VPpMeZbDZsqWJqL6AZQaeuLJjrzShvBOj6LPwuZJsHheauDMiQvg1l6hLFHyEfgj0yL0AdpW3Jy_r1MDbDq9xFSiR-tM7rpze-kHW449-7o1yS6-4_7RxfCAshY7fQ9D5FN1EeUb5gCIsXLikrMMwPLbnSKY3qVw81LalXLdZ90JBHw_vxmZXBMceJwIC5sIo8FeKSldinLn2h9PsKDYVmWZ9U3belxkb43k7-DEC_Ck_793ha3aETO2-NuSSiDnxVgbX2_x7eVKnYVtYnc_LUpEIodGSveiOai2fchyEbNfGNvIrkojFB",
+      "width": 4096,
+      "height": 1824,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103321397641672784522\">Shafeer Rishad</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c0wnoYGkbuzBMWOvhwCgr8wpJzMruvdahTEtUO3o-zuqrFm2k34sHJ30ZjBTB6PfT1JAcvKQN3KDZhoevHLafYr4IJvRXlBrwcbuBF-Q9nb1s-5fLrWDOoxkkJar90yjYDvfP4gKYhzhLIQWynFYr3t6TIYGUDrYQIqwSWrHQUHtWBwOuMTRvy0sZeHEvcYe-0nTNaJRrBQDh0mVFlTlfgd3nMfufe-g2M6iLauTKGqGrv9S6q3SKCR4x5xVHfYaAYU3Uof1mlkKkTA9_F3Fi9G1SPKBVlvaJmLZn9kkI1OIbVDn6Ue7VCEG_gHBMTXjAhIDIWnbNE1wwbcYEzTUhpw4AV-mv-YVX86jCtOpS0z72136ttcE8DPo_HYB79kLbKlYxwcDcFUTzXeA0I-vJlcQCgyOUcMeCHeIclagm9Rw",
+      "width": 1199,
+      "height": 1120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115871116140013595776\">Ali Panchoo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzbBgckw_ctHY-pI_-hRll7X57dSvAfzhbiN8gM_1qRNDG_-u4GENUvIZ-2t104pxdZ2tVptz2nq5gsts8wIVvoqri2tPQVFvpEWIVIWlV0cq5JWanXSyljXFqpJ1kcBnyZGn4V5wvFCoRKRz5CYMjHGqrwW3HGetrTNpVLnE9oh9QWqz8IlSSCSL5A13yhrrDs7Eju38bu_qKbvsqRfCAWuG4HleYy6c6ECQ2Y2qixpkhRwYi9hWoc0nbJtVvqZlRkpiUDHt027l3vMIKZ2H_bqmk6eo78cAv6rkV4UZhSuqERjA7xCHiWF5hxAfrdb1PH370Tu_t_4ySrJ7fh1Nw3hRZG_6xZaV2c31ReU9a_it0MNjo5rx5hnIlPSUNYedfxfP8DFOrm_IzUj9zUrQLKy3s5HsWBjAMrUa3NEfVQrHl5NrU8fsGUARcYg",
+      "width": 1824,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103321397641672784522\">Shafeer Rishad</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ej_vTt6gXloOrHEHN-L1TVQbUkL39i9YIN3tXlbozVV38YgF2sUDRlBlW8t-0Iz1dmWR2b4yIzNBfPEaYI4YclQ9VmrD7ue2VU0xBe9faXXk2-1R4e3etJyvC8QC3kW2iSU3Whwdp-H9k_L8a7Vzp35InrdLce0PYjawkN4aIuFQdlxJeEXJT84HApHgwEHwz4k1n9pw8AgHoRmK8MbKCCE7iLdbZt890D4tjidDk65afVTQn1ZRrn4BMmks6T9J8aN8djG9NtG6VW2ThHk0Xvnylj4Oy0uETtyajIaBFOrwRjD8cTc82X0Caf27oYpgbDYd63kZxomrD5c4sFyB3z0BZCfHYmMSr7MfxAWgERkESZzyXAUhL6cP9iuy6qqKZzVQVnuM1WGWewk8Yd7JoVMNDc-PU9H3KH6vxqOMw",
+      "width": 3024,
+      "height": 3292,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116563133635362257631\">Shazbo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUM_q3Gg6jLTouT3RNeX9pDG5n4MyQpCoXA-YihW58951sIHgzLpALiMIcW_HfVa4ucp5_GU32bGHC_zoPsA0cF0Q_cdG3hh3fzaD-BoS7qESM-PLnjMceLinxJWW-7dPO7fjQkq1ezaxxvGU4mnBOn9Uptg8qz2qKbzPfmC68owIVayAnSQRY2hiIq2z8CtDtELsKgSOe4ONY7zQ0RJ3IbWqNYEN07Tkzxt6NiDiMhIC9n6kGAEH7jLdZMTPtajB88zcbV7fOrEbGPJPontSkqIj9yV59ryiXaiIqCdx0sx0eHExBw8FiwjG_rPll-h-iSZVNy4oLc43he936c2H0qKvtdmiwsM49tMGAsEIy4zaPsHyuxH-PdK0x7wLgDBD_OcjLm2a2N5AS4idd8lOtrtBhOw6OOdETST9cKWtcJFKm",
+      "width": 1500,
+      "height": 900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103923783793567302309\">Mr Emarati</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ekW82yHTa2Z95q2MkmxwZyZ-8WxoqzNHWtCTJB_EunvEsWgVN29D9BHoOx7acEjZ3IKzLzAiz8cnSStLmJFShsj5X6LcWy7fWmOII5SLlj4Bc1nZD6jUmGqj-pZPF5Jb7x3eXkGD7E6N8q29WElF8K_waqVgmfzhEfli8irZW3H7i27cS8e9NspR7LT6Jyu7gxyU6IxgqNX9SBWEenVCerlvBLB0CBrnvTFV97-YLW5Qx9x8HfjVMhaT3EQ43gj0a_qYizb4v27c1PhNTnVSC75Yl5QGDNfaBMOp2bJ6H1S7_9v7oYkFdh92o-9oVKy0_YJqDawC3KawZ5BXs2WJb3m6Ld2pDRtuXQ5rstRFhX-JS2jKm3Bhs9WWg50RKzf5ne8-RL0J5L2MbZimoXkAB4GTkyPfGFknXXwvTg3rKMlw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117776135295226428708\">Rais Yousuf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebZ1AJKRU7NNAS3np1OfLgsPgSBxgKMqhBHFJmUBpjUoHe7v8RBn8TNQrWXxWewRJ65Ut3BejnuqoqDY2f_8qIEdQY9SiA4PB93UFdwHmsfz8xOMHwcRfLVM-7A4EFqEBHwfomGCKfU6dCj5TiZ-W-6XpS7nE4aQboq2qo18idjikFOF4nL9L8dxe7JWbFOQzK8moIls-IyEOyfNTknAtj58ket0vPO0O05LRrufA8Mi-TWDVINq8N1fMP3vlc2yyk2Qs8K3gWPDLcHrDXtZONE16VpEvbw03mOPoeIurzTReBspszwJFHSZW7qHh6qa7CLPq3aHv_0E_dOgMh2bXZdLy11JwfM6wiQut0TNXLBaESYwSX2ZVtKkPqD5lVqBnoX_619GZLMX0UC2YsjV2QfuLaigIdaRz9o8DbgEwJZg",
+      "width": 3072,
+      "height": 2696,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108962375092016030072\">Iqra Naukhez</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fUs-y5sVmMZfJhpN8qYK_XGm-9hmYZnqFv2spVLxG6tuZPpHIGr-pIJjZ-lXyJ_IjPqAZUjMa-9DhB-AP8EFly1G3oJEPJ9eu4JAAYkdn5z4O12boB9fQasXSLyNHVUCG-GWkbNf71EMS6nnsnpJaPK8auDgTh2DXGrpaaJXEni5ITqsKevY5DaoBxp_7XpMfrHLZv-5sgukKDPKigHXhIUdFNO4Q9mh6ZY-FUbq-tuKIuLGDwFMAm5yHnPwZbFyUnwzER5zIwS_jm0pWPFPgil2LnZ6XMgarzJEPEAYcpVcDt07EmUwVK8H-l-z7KQd_zTE8zj73uFXusKYiSnEDaA6QwLJapfk903ft74zWncvTHP49L7oBwhFb7DEtMLKtjR7cl7WFnUDAJa5pfQ_jm5LLdFZKWyA59AvNv7O30vXnq",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101217761646086657410\">R</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Modern venue with a warm atmosphere prepping elevated British halal fare & alcohol-free cocktails.",
+  "reviews": [
+    {
+      "author_name": "Osama Abou-El-Gibeen",
+      "rating": 5,
+      "text": "My wife and I came here to celebrate our anniversary and had a fantastic experience from start to finish. We were seated right next to the food preparation station, which gave the evening a lively, behind-the-scenes feel and let us watch the chefs at work.\n\nFor starters we shared the BBQ bone marrow and tahini salad — both beautifully prepared and full of flavour. For mains we chose the lamb roast and the fillet steak; each dish was perfectly cooked, tender, and seasoned just right. To finish, we had the tiramisu and sticky toffee pudding — both indulgent and the perfect sweet ending.\n\nThe staff were warm and attentive throughout, and a special shout-out to the chef who was especially friendly and made the night feel personal.\n\nA memorable evening, amazing food, and a lovely atmosphere — highly recommend",
+      "time": 1759568069,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Shahira Qureshi",
+      "rating": 5,
+      "text": "An outstanding dining experience from start to finish.\nThe lamb roast was tender and flavorful, while the dry-aged beef was simply exceptional — rich, perfectly cooked, and full of depth.\nService was top-tier: professional, warm, and attentive without being overbearing. Every detail, from the food to the presentation, was impeccable.\nTo finish it all off we tried the sticky toffee pudding and oh my god I was blown away.!\nIt a must try.. ❤️❤️\nTruly a top-notch spot. Highly recommended.",
+      "time": 1757725848,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Sara Samir",
+      "rating": 2,
+      "text": "We went to this restaurant for our anniversary, as we had heard it was a nice place that served halal food. We had booked a table in advance. Despite this, we had to wait about 10 minutes before we were seated. Our mojito arrived with ice, but the drink itself was warm, so we had to wait for it to cool down.\n\nFor starters, we ordered bone marrow and mushroom soup. The bone marrow was so hot that I burned my mouth, but it tasted great. The soup was basically cooking cream blended with mushrooms—it looked like baby porridge. The taste was fine, but nothing special.\n\nFor the main course, we ordered harissa lamb, which had absolutely no flavor and no spices. The plating was also unattractive and messy. We also ordered a sirloin steak, which again tasted like nothing at all—I even had to ask for salt and pepper just to get some flavor.\n\nOverall, we left very disappointed and would definitely not recommend this restaurant.",
+      "time": 1759533625,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Nilam Tai",
+      "rating": 5,
+      "text": "Really enjoyed our meal at The Great Chase last week. Had been wanting to eat here for some time, the new location is more central and easier to get to. We arrived early evening and were seated immediately. Our server helped us to decide what to order as it was our first time here. We got the BBQ Marrow Bone (it was divine, I’d come back just for this!), the Lamb Roast and the Beef Wellington. Everything was amazing, great portion sizes, good quality ingredients and the flavours worked really well together.\nOur server was polite, informative and helpful, with the right balance of attentiveness and space to enjoy our meal - wish I’d taken his name!\nDefinitely will be dining here again and will recommend to family and friends, thanks for a great experience.",
+      "time": 1756211558,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Jay Miah (JayM)",
+      "rating": 5,
+      "text": "What an amazing experience at The Great Chase!\n\nThe food was absolutely on point, full of flavour and beautifully presented. The service was fantastic – attentive and welcoming throughout.\n\nThe décor is stunning, creating a warm and elegant atmosphere that really adds to the dining experience. It is a little on the pricey side, but worth every penny for the quality and overall experience.\n\nMy family and I thoroughly enjoyed it and will definitely be returning. Highly recommended!",
+      "time": 1758308549,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:00.614Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdMuPVsbdkgRHm9Z8ad_36c"
+}

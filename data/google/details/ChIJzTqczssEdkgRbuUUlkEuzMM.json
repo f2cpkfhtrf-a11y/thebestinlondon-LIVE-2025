@@ -1,0 +1,246 @@
+{
+  "place_id": "ChIJzTqczssEdkgRbuUUlkEuzMM",
+  "name": "Casa Manolo, Strand",
+  "formatted_address": "99 Strand, London WC2R 0EW, UK",
+  "vicinity": "99 Strand, London",
+  "rating": 4.5,
+  "user_ratings_total": 466,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5105698,
+      "lng": -0.1207466
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5119864802915,
+        "lng": -0.119357919708498
+      },
+      "southwest": {
+        "lat": 51.50928851970851,
+        "lng": -0.122055880291502
+      }
+    }
+  },
+  "lat": 51.5105698,
+  "lng": -0.1207466,
+  "formatted_phone_number": "020 7836 3705",
+  "international_phone_number": "+44 20 7836 3705",
+  "website": "https://www.casa-manolo.co.uk/pages/strand?utm_source=GMBListing&utm_medium=Organic&utm_campaign=GMB+Strand+Order+Online",
+  "url": "https://maps.google.com/?cid=14108702591870625134",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d1VHpJTxF99bJn1i9G8aV4JqQ0ScQ6FKYPnwznrMrEUaa67Y7dTNe9nrUELnVEd4-lOR-2bj0oQoT0a09a_OATbpehVIAIaFkIu4QMO68zd8t6qePU3eM3hFTg8FQ8UDWFtwyCjWB0ZeX44Pch9qwoMJe68awuoV-fDBr492mcS7ggYcY7k1XDDZozv2HKe-hf7V7029l0axNBBHkWKbCHC3FBjkH3x-3wCC_191VI0I6mIZy-iZHIT5c3qerqOL9tUTUl7tsqA9UU1f9n_YEdFa4EpgQ6xDs1PP9Axid5cw",
+      "width": 1024,
+      "height": 683,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104783742402306642650\">Casa Manolo, Strand</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTg3vJX4IFxXj6ENoEl91X_VyGABgEtOV2c5LYcSZR8s7GvCVPJDeK7vGVa2Y8U0bADmBArykqIY2OqRokpXt73AMcBHDo-qMOxAor70JcwbU8xSByOc1exzJbpkEmIV9rhgM3cvFT43VoIa6lkEXXG-7HZcdxEK_Cyi5wbjvZ5L1ULw-zdjBrAfu8OebjRx5uH2enn-JNMBpMEMFbCYbqMMvIN_46huc-_lhMsKaK3emkQttwERfXgaL3JoKAK02vaioQHRWCV5PdJfighQENNz3o5CQbmDXvZQWhQXzUBA",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104783742402306642650\">Casa Manolo, Strand</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dyM9u8JFAJ2_b9cbTHiGM-Tkm8jpSCjREb4vpCG6hKHuszLwHe5PYVYg_bRCcjuCnN2TOV8LA2do-GaXB93MonezlWfit9HvTM3iSv6r5JrMY7KdPwXCw-dclhL9Zlz-QMXVUve1vlSMXGSeuhrc6mFxkSyYsuhY4Lyag7fBt1QmPhsNHgB-6Y_Qm6J5OjZqwNh0ASkk29w-NMh9ntCjP4R4Qgv4dRx9PfjGig9irqdO-RmY-vOMRRh9-b1OeBUtqtqO67WEvyzjZv6cjUCbY2Ho_sq-41wakdAIusXHWqnw",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104783742402306642650\">Casa Manolo, Strand</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e9SFurVGCYFaioPQ8M9nKHpTOi8utnbeYAGUVYHVoP_H-hCKa81l7plxLJhTa1PRZ4Ru9_pnu8zhI5ehOd6uIJnLBar7eOGyeXerY-9q1T9Sw4gFDkk-0nunta4bMQ0O5AmFVjAphvC0fGV1lmlKqPYrD18UWnuvWOVpneImqRRxG1iiY8Gau3sxVKQbkzQQ7oIVzWSsp1pheYWSboTKhCygNw7T9vojetOZoQukzYy98Bq1O6479dINhVWRsuIqzvj7JX50253BBpEeT2COFZolpmomSqgzkdFuStNximGJPdlvlQFDraaFmf3A5FwD7iJZI8zMlWytI7a6x9OxubDBTzZqzIb1ZpzqQIzbABE47AF57Z0Yq9dgKZtcZM838m6eP6uG_19fClbfiTDXze1ZGcW7KVzmXT3ksH6jcaHadn",
+      "width": 3468,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118314888083844603739\">Chris Burgess</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dGPyhkDlteumyU-Wac1GVzs88S02TG9H0jyn_WoSaI93SSVIdlyIgh5ZEP5AKgnjI6DQpESTxjb42_FY1dkgfiYU6njAxQalXdWX5JM1aAnsYIa3aXcPLIoyb1-c_ftVYbxlx5BHmBN8nIftmOPpa6yQJAa3RADmDJyzdnGQbnmQPrre-DOvijApLXeKcZSywS-ufNasuMxeyVjdiI_rd0OPmrITDYOCxTn8HWqkbjlIPmi2Bj4s8oiUKicNPTiqPcFEnslOnyrSmLIkP87p_JpgyVTFy-gbcz-NvU5deniA",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104783742402306642650\">Casa Manolo, Strand</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dSBBE3ILUKXBZwu-qOjG9f9lN99tB8fEgh-vx5fqKSc_Zk1ZFuynFVbAZcaD4FX2seYE4X-WX6egKV4UaC1g5TjcmYxFgDllMA5JEWzt-37igAmwDtLqilgFSAM-urfJfWvLzEiBM8Zm3g2OQ3FRgVbkqeoOmUNrNL5pMT1HXQeE3eoo5eTtQTVFzMuMJnAPJOSqYbEcB2bRlwBdxVL4K856Oi0g6nbtcjMUcwPSpFYMEQVsRPa_k4p9QDzx18_-EX8Zwk2wP0htXmN21mensT6nmMH6VLlCDvBVyrBcYals3dZUY-wnc-dW2kG1bABwry4WObx_CfaVFOa-U4fWTHg8olIwlYiQpoyXup7OMLVXWlIeN48MuGaPCrqAgshLUlRzVvgga8XiWh-vYSqeoeJCeAuK_cy5rj_y1qiq2bTw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117270042316720174053\">Lisa S</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2efT5xFRVC5TAKfhQN_gc4-jbrXmTHg1zwdpAp0RtW8X7Tx9AufIw2074GGtAKdRofDwv6Ek49EYH0qq1y30X5e2dNzu3xYezfRXebv70LtGtOqHZdR_1sO2RxCTAzToobVRQ3-mdHJBdJL_p4fqRnmywrHvRfh15cvqPVTRgN42oyD_ndMvIi8O7nOmd1OU89-IwjwUSmEsxFGhEK3xZrjuU_K-CDys61kVO_O0pwMppROTdty2pIvq2trpSjI4DX7ap5AJalyDSn10BpwWattz7QRzfaEOkWIothL1UN2WY9yygRmy8rYSCQfyjl-TJP5OqsBOPzJ1K-LG_8hHM6eMxTPWOFAol9Qk5Y7mHif_BypLKPWjdXuFFpptZbmmufNs-hxwACi573d6NDaGUFKyHgU-Brbq1Ind6g3xhdEdRUs",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104904851599921826513\">Davide</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e2NviBVjBdkP3MIrk2cJFSUlaalUpuMbDbLgfLWN6k_2dv8n5IttXbySUVJtDwZvKwwQQfNAPs0Mu_8QebeKHgcpqrLFZS-bmxIYrXxbwP8YHdEgMjyytPk_gV-hd83vwRFS6fOUlX3u3fpio2kLAxAae9QfkS1h3rxiWUK6sKuS7QODIO7wakECxsrvDOepxcLU5KVf_fCws20DRHDnIXvF3SPP7DXt8tu-qd1dsERj94qCoRD4H-wokm9eB_Nu_eJkwlBbDVwl6mOoREk1Urj82yIzNF5zbjIKYgaCuCbg",
+      "width": 4362,
+      "height": 2726,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104783742402306642650\">Casa Manolo, Strand</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d821FFtT4FR7839uhSE_MHJnyXZmbMwNyYHLcht-gXnabrjJHChI__IjnCuTVNUNDApEDEfZ1eE0VGAkdJbmV4FRU62Dl9lL9GbtpDsb19V75jdLAV4NO-ZlV2drceXltI67fgVs9D19e0K_mI7UgAUfrHwli4fiBXX2X3rjNltXNYwSAag3ZYIMKts1uAAD91Ac1vnLCETxAFq7UJ-QfEYsaMn388DnhmtuHipvf57PPUTw9KoN7nM08hb8c9XGXOw_7wVtUb1ZO7qyT0sxtxaS7bYjm0mSjx7ZEdWLdQ0g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104783742402306642650\">Casa Manolo, Strand</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eTQBEV5E1FvQ29ru-p_pjcV-nrRrYl17XM7JKF38_9yNfyLwoNq2qtJCGL6s7tipJdtDjTQnewYcWYWpcZirSWaK6amTsWRifHi9UTsjsuR9tDryXKrZScNyvY_1hgNPYqo8HPA6VjZ4-pd1rdh-yyzElIu_uP2RybUZ95hE6FcayvKpI9JjfJM502H8e5ATgLXTrJu77eR_2zbMJK7K3tg8gdNXBAW0Q4jDHF90rspuykjQBMhZGlAaRgosRVH9kJseWa9sjlMX_jA3Tnc83wvqHPWjHDnBMuk3vibeaXYQ",
+      "width": 4800,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104783742402306642650\">Casa Manolo, Strand</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "liquor_store",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "L Eikelenboom",
+      "rating": 5,
+      "text": "A small gem. Just what w where looking for. Just good food. Had a very nice platter of ibérico ham and manchego. The paella was also very tasty. Very good wine to top it off. Service was very friendly and generally only good vibes. Had a lovely evening thank you for making our only night in london one to remember!",
+      "time": 1760045461,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Pietro Tres",
+      "rating": 5,
+      "text": "I'm italian and not accustomed to asian food that is easily enjoyable in London. Thus, after two asian meals coming here was like fresh air. The dish I post as a photo was 10£, fair for London prices, and a \"sandwich\" that I ate before was 7£. It was really really good with Iberic cheese and ham. Even the red wine was really good.",
+      "time": 1752086170,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Layla",
+      "rating": 5,
+      "text": "Fantastic tiny place for a sit-in meal. Quality and authentic Spanish meat and cheese from people who know what they're doing. Beautifully cold Mahou served on a very hot day. Their tomatoes are sweet and delectable. Great honest service too.",
+      "time": 1758827502,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Lisa S",
+      "rating": 5,
+      "text": "I was craving a bocadillo and this hit the spot!  There are grab and go options while also a build your own option with tomato and cheese and oil.  We also had delicious Patatas Bravas and some anchovies in vinegar.  I typically don’t overly love potatoes and these were great.  I would definitely recommend this to others and return.  There are a couple of tables and seats inside of you want to eat, but it might be hard for a large group to fit.",
+      "time": 1740632788,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "Marco Rossi",
+      "rating": 5,
+      "text": "This is good! Really good! I was in covent garden with friends looking for a place where to grab a sort of business lunch. Something more formal than usual, but all the restaurants nearby were fully booked (obviously). So we moved a bit outside the busiest plaza and ended up in front of casa Manolo, which, from outside, looks like more like a food shop rather than a place where eating. Tempted by the flavours in the air we got in and, even though quite small, we found a table available. I thought they could sell only sandwiches with jambon or queso, and, instead, there was a pretty serious menu. And most of what we got was really good (i didn'tlike very much the patatas bravas...everythingelse was great). It's a nice surprise, and it definitely deserves a bite if you are around. You can also buy food from there in case you want to bring back with you some delicatessen! The guys working there were very nice and helpful. It was an enjoyable experience. But do not spend too much time at the table after your meal...otherwise they will ask you to leave to give space to other customers!",
+      "time": 1734643758,
+      "relative_time_description": "9 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:52.109Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTqczssEdkgRbuUUlkEuzMM"
+}

@@ -1,0 +1,253 @@
+{
+  "place_id": "ChIJaW2seFIFdkgRUS2sQMnqPpA",
+  "name": "Nipa Thai",
+  "formatted_address": "First Floor, of, Lancaster Terrace, London W2 2TY, UK",
+  "vicinity": "First Floor, of, Lancaster London, Lancaster Terrace, London",
+  "rating": 4.5,
+  "user_ratings_total": 487,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5123012,
+      "lng": -0.175029
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5137204802915,
+        "lng": -0.173726869708498
+      },
+      "southwest": {
+        "lat": 51.5110225197085,
+        "lng": -0.176424830291502
+      }
+    }
+  },
+  "lat": 51.5123012,
+  "lng": -0.175029,
+  "formatted_phone_number": "020 7551 6011",
+  "international_phone_number": "+44 20 7551 6011",
+  "website": "http://www.niparestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=10394003140112035153",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 5:00 – 10:30 PM",
+      "Tuesday: 5:00 – 10:30 PM",
+      "Wednesday: 5:00 – 10:30 PM",
+      "Thursday: 5:00 – 10:30 PM",
+      "Friday: 5:00 – 10:30 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:00 – 10:30 PM",
+      "Sunday: 5:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cZ5XZ35AUcfdxskUOk74loKqqeDnRPsqnbS6W-AzDWP46CeHUIMqx6yup5UjMRioCnQ0eQsPsHuIUsgqYJstxXEm_QXZKzhqOaykYtwXrmIT2QE29-UtGP9DCiOMXF-HzqgnDw1szCx8HtiLd5TrA1GEOO2DATN7OIiE89uNFbb6mIoZR1HWnYJuZVIpjRkJzFxuvYdKDiRP5kzOyGnmAZpl8KeQMGwOMTKyWZQKEcT1sPVAFIih12eXX7Fk0E_FNg4Hvw6QGM4XlUtkUOESergoXCW2MOWRUQoDiTkC3LQQ",
+      "width": 4800,
+      "height": 3174,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111114233681907930641\">Nipa Thai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eDSmoA5i_-pGpVCZQby-NoGrHPDhlyF9T3e2B-Hg6dOlCnEIqGM4rIMVRu_mmSrT3yhq6JreZc_9s5DGtTTH5kkc4h7MbbQIFMtobd5rJfw6Q1k-qqoHwmJOgYIy8sCPOzqDvuWg2-G7gIajftAM5COikAngLKuMMolQclSpaCfiYelDptQLf6dzwHAzDRUh_QiG2ukBxZhPtiIpkf-vmtu1YIJhvdtx6CEGbCNrmTijzH2lFxYlGJuhcMh5o4HtpJ_kfIIuC1P0VESVrXcbzJ8uBRTo-ihWci1u_wOGQ08A",
+      "width": 1595,
+      "height": 1211,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111114233681907930641\">Nipa Thai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f31BmDLHEk5w2fgho5b0VrHGkLX6YY8CcUbB5acEfXjm3oZn_nFD3YPB0i8obFZ_l34S_7hemS2Pykv46nFcS1bvEmAP3gT-aaTvARqJ_Q1E9EhOUahVoQQWkpFdZhu8XeaHiFMu2isJbpQOEg_aV4045wP8WB2MrqyhW5rKvvUj5YIgXoQbnxePYrv4aMpDwjX52nsvxIkrNkIPDzNf9aGAwm-H0qLrragwwM7S89X_ULLlIobt3T42JSOWMc33yCRXTijkbSG9qIdakST2fcHEP4z-_H86amqBYVrZVPx6tfl4FBDKHT-V3lROz4Mkk-1yG2WRjLsCpqC3bkdsNhhmtHRsUj9CB2o4ilUsvoy_xaetuwRvAfGDg3CCihRr0QynKU1dqE8AtQUhA7Srwyi-JWZajWHVMUWWssqYRhVXyV6EMlPg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117161668381675777320\">Pedro Truyols</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ccGcYUVdFOGuAAYkerNuaz4xRRu9Y5jYIenKZ2bg8IF4UNCRdoeByW49t93JJhEl8PSVaP_ML_rFQXrKz7Dw9MeKQc4n6rCYct8iEZsaLmXHsW2OqQKGWxKjiQyFN-SWXvbfN-TtB5QCqMjF_LFsylzchttkyz4qK_XNoTs4UjHfDegIHizhNvHWq4iZ3t6dHXaRypqJZikZ7ruRdHBTO0p0NJxG3LdyfrouQZRIMnK5wQ6NccNx3yLJmWOrAufE_tphLN8wO_zCCvtiaVUyCPhh1BSVj5_1627Q0DHqJKk45hVixFyrZEvcJPnPWiFZ5ndQtG9GgPmZ0uJZM9Vh1raO6FVnN02l1h8pSMT4y4-j3Z94Ri3otud4swBxEseAbLbY5qc9zh9rHZnkoQLmMsk4Wc7c3fn52Cs3rNaLFXBw",
+      "width": 3023,
+      "height": 3411,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112928913902243177695\">Annie Marguet</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3899nsdU4q56UA83U3DyD-EnrIHWh_f6DyJexMiIkBa3ZQagkiIgjjHg7PmU3RaiGWD5Jqbrd68J2Iibsj5Sjlle7rkLWL7cjJy-IhObCTM6NJmzPjDQ5Id8gvmjZMUzAyIj_gPuP_n76o1EYjZTvttUOmU5Mji65SI3qGkjzyo3_T6IHT8K6P0imotn3pmQN10Hv7FcVsIDZ7BONA_khnd0wIecmdhqRvIo0ZrvjO7V5vi2Nm9uOhJkL3oAJX5Pjx6G9GQLQScQtg8Z87w37dmZei7y3Oo1c4tueY1kiCCgl3YVrP2NEvO4L2ZJktpeXRqiZzO2IGQMe2BdqThdciCVRlPxqsOU8TEkU9WT22i85Lgebhx8S4X2Tagh2gqUsxQIbRqgs3-6h6HI-WHNkNIDgmKoOSeny0RUX3_xbpAo2tbs_PliS5m9D-ggo",
+      "width": 3696,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106979516021687701191\">Peter Costantinidis</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dC8LIPo_QpjUUki4PsdoItdxU4vugCDwwHH4eXalEH9riEvZxNYGltapTGav7yYihLSO2_TxGkVfMisf2lPOGIR3W0Pih4uT3ooerQerHNKWsp9Kw5E2QambR0Uoo5X9tNyG_8K3ht__wnzfR0IFHl5qmq-ys9D_HoWBeqPrhFcziGkuQAflZcQI67OLg_Y7jKkwMctHw32GYVrCLJTh9PIFs180PS4-HNYaWAF1txq7EIZqQ5TJ791gkhhmnBF5Gj2nS5363oCoXSb8KYQjthCpY0kNFgbNdbEYuQyq3Vw-sbin4T7K1SGL-feOYRYo8YghTUsG6ocLhzywPZU_qkl3m3MVwNer7ePceTtFCDK5FZRL2D3Y2F6vooO6OP_TIzkpwyy8yuBcL36ShOOV1HNRNelSjdygQIPUdt6lfaGKeyJbFHN-3Foi_hPwuP",
+      "width": 961,
+      "height": 961,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103298334203739115898\">londonbongbong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dcea2h50Ul_tg2u3z4lyn-Qlq4xgO5mmsnxA6hwYMlKzYV6m8BIp4U9zqhbktT9HYtvLFa2-dbIuv_ghbBN3pBlxStBkZuObJv7lfdOjJKYoYbc9xpyttUeRTn2UE99MtnCRY7q2rykRNCpO1LecvqZ8N7cz8D23NM1aR6qW9UFpw2i9HTvoOcFupI92JXqMLB-MOJ9qI2Bztg8ycBrPHQJi9v_5a_hUKLfd8As-iLsCYZEXNCSMtoX_Sopz5MU3cwjGCsa_g9A4M_djR2QsD4cpTtrwGwpieS8TQUDFFUH3iiNy_csHT5g7oRAA9T_RC--FNstWV77xoAjoFcPJaqVuUnnb9IPgejDKdaSscrXq-lxa1Nmyl1aBm8TI-MUT4Ucc9GtBQIhmEFTIcbdTJmrapveT9hsoE_O1WlGDCcEg",
+      "width": 770,
+      "height": 577,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117126037168463958313\">ibach44</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dT571m8yJnk0ly_6dHDCFbj5A1XBLoVEkPFcbuwSAwHq_UtxtofDoINiP3oknZTsGX4AWP6evbpTqrBVho4EQekHse18A_MepwBd62jAcKChmLnMR9lGnTKG1dhur8wk2ROdZ7uOLw0bMIV5fWUJLiTbU-dQFavN3TFDL8XOW8-tTEgJhV4hq6ma3an4lNdoyIGhBFgvH2IQCgpFIn3ahQKI4U9H69Z1HbMMETKrK3aQKgsMjQrC2e_S-Hk__znz4sko7F7VVDHNArlkYhO5z9r6s8R7pxwLCUWGlePiikJWN59-g7XBMYMSdVR-UDzTnpIR1DLJDmwXyjDvzNOKhacbVylYducvYlkjXCnx52cpklvYV-PI-EWab_o6Ulz54L9gmuIW6Zmn5JqAFZoSyHQX4_cYDj8gwsIwDizY-ILosLUzzspgrNXLeCaA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108427399698816213863\">Satish Shikhare</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzAlClFsjeuZyWlD6QrI1-Xf-ZVHWJU4uQK7NJPEEGZeEkm_z4sJk-EI8r15M397MsBCLbd5Wr-GYlnD4DQykHm7DLW4ITFiNwozQYidxSr_8NfmjYeKPUchHgllWqjmt_7SK0kK89YGU_aJq8exX33C-wmm5kMWtRN6R9SpScfM07pbqYc2WVgaKL9ZeACy4bllh-EwqlK0ZEpvZrXj5TNOBkgYW4Z0G4nT-gJgm1e8JjbRJGsljA02eUj3pby2iSAa3QLV3xxTIt5XEun9n1dtKqF-dwjV0PdmZ7JHcaoBuBu2FGYO3MrQf5pKEk83t9CkrZCLD3J3L6kOOA4giNk8iAXJNMxrspWezrRwAsuJqkwpy5e1aPD-CHVGZ4URHwRv1572M9KE-eQR4hShFDkQLuke6JgEgbdG54hDBi",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109664398312315057807\">Elia Gentili</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUHILLtwkFZMendtTuztqOHVFEqUtkDXiOxoa4bxQr8zSrguPkO-on2RAe5baUMyevNmeNIDGMAj-f3pMLr1N_Q34ePt61KKremIQ9Q1-urWNQUQh3HtT_M1PKrYW59DaBDKTEnbAml4jIGAGRVKYcyg7KbBjmIAeNmT-sC_wgIwbIGeBdGpwrOjgBGW2fldkW4XrY1gkgrsiQ3VawD7ZK_7QF6bbIuOnfE8T2ychI3xnUrZpwAJuu_fU3BQgRV_d6ZL-Eo-3FjYutEpaI1z_8V9uQEHGGlwkEvYezw79Hj2p5yMGqlG-F_GCpz1oYTRTSMDbcgZ0L_ww68ugmn1ZdKvEI21l5BEQ9YhwBER70zSPPNYwzrbAaUD4x7kbr3Id45QhVDSGviOofR136iBAzKg-27S7F0tS_4_mzfGylHCRO",
+      "width": 4640,
+      "height": 3480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108121482904313305033\">Sandev Chahal</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Upscale Thai dining in a hotel restaurant with a panelled teak interior and original furnishings.",
+  "reviews": [
+    {
+      "author_name": "Alex Hinds",
+      "rating": 5,
+      "text": "Booked through First Table and enjoyed a fantastic 50% off the bill. The food was absolutely delicious and tasted authentic, with prompt service and minimal wait times. Most of the staff were very friendly and attentive, creating a welcoming atmosphere. The only downside was one waitress who gave incorrect information about a menu item and rushed our order, but it didn’t take away from the overall experience. The restaurant is small and cozy, located within a lovely hotel, making it a great spot for a relaxed and enjoyable meal.",
+      "time": 1754915335,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Nic Neo",
+      "rating": 5,
+      "text": "The restaurant is tucked away on the first floor of the Royal Lancaster London Hotel. You enter through the elegant marble foyer, head up the stairs, and turn right. It sets the tone beautifully.\n\nWe were greeted warmly by the manager and shown to a window table overlooking Hyde Park. Our 18:30 reservation meant the restaurant was still quiet, with only one other table occupied, a perfect start.\n\nThe menu is broad but not overwhelming. I chose the chicken and coconut soup, chicken stir-fry, and mango sorbet for dessert. Every dish was exceptional, the best Thai food I’ve had anywhere.\n\nService was attentive without being intrusive. The team clearly know what they’re doing and let the food speak for itself.\n\nThe whole experience reflects the setting, refined, calm, and just the right side of luxurious.\n\nExcellent food, excellent staff. I’ll definitely be back, and would highly recommend you book a table too.",
+      "time": 1745678473,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Tj Jones",
+      "rating": 5,
+      "text": "This restaurant is up there in my top 3 restaurants of all time. An absolute game changer!\n\nI was treated to an early birthday dinner by a friend and I chose here as they were rated very highly on tripadvisor.\n\nHad a little Google before hand on what to order and their website mentioned that chef’s favourite and known for dish was the Tom Kha soup and Prawn Pad Thai\n\nI’d never had Tom Kha before but it’s probably one my favourite dishes of all time now - and actually I’ve had it elsewhere since and it didn’t compare! Had the prawn pad Thai too which was just delicious\n\nMy friend had the dumplings which I had a cheeky sample of too which were tasty.\n\nStaff were friendly and attentive - probably the best service I’ve ever received.\n\nDefo my new favourite spot! It’s located in the Royal Lancaster hotel and is a little spenny but worth it!",
+      "time": 1756809020,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Michael Ns",
+      "rating": 4,
+      "text": "Nipa Thai offers a lovely atmosphere with authentic Thai decor and attentive service. The food is flavorful and well-presented, but the prices feel a bit steep for the portion sizes. Overall a good experience, but slightly overpriced for what you get. Great for a special occasion, but not ideal if you're looking for value.",
+      "time": 1757892187,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Emanuele Baldassarre",
+      "rating": 5,
+      "text": "This restaurant is located within Royal Lancaster, we were here for a business dinner. The food is good and recipes are various and tasty. There is a good selection of beverages. The service is kind and well organized, and portions are just right.",
+      "time": 1746814992,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:39.787Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaW2seFIFdkgRUS2sQMnqPpA"
+}

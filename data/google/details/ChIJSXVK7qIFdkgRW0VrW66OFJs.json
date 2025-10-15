@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJSXVK7qIFdkgRW0VrW66OFJs",
+  "name": "Cafe Parisienne",
+  "formatted_address": "225 Lavender Hill, London SW11 1JR, UK",
+  "vicinity": "225 Lavender Hill, London",
+  "rating": 4.8,
+  "user_ratings_total": 1108,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.4643208,
+      "lng": -0.1620501
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4657473802915,
+        "lng": -0.160718069708498
+      },
+      "southwest": {
+        "lat": 51.4630494197085,
+        "lng": -0.163416030291502
+      }
+    }
+  },
+  "lat": 51.4643208,
+  "lng": -0.1620501,
+  "formatted_phone_number": "020 7924 5523",
+  "international_phone_number": "+44 20 7924 5523",
+  "website": "https://ukcompany.business/london/276256-cafe-parisienne",
+  "url": "https://maps.google.com/?cid=11174713454922253659",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 6:30 AM – 3:30 PM",
+      "Tuesday: 6:30 AM – 3:30 PM",
+      "Wednesday: 6:30 AM – 3:30 PM",
+      "Thursday: 6:30 AM – 3:30 PM",
+      "Friday: 6:30 AM – 3:30 PM",
+      "Saturday: 6:30 AM – 3:30 PM",
+      "Sunday: 7:00 AM – 3:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "0630"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eUsSNJMOoQGsJ1KWH8E_b6Bn4waUsZxm8-CV964jxsdTesTfD_tuL5c2k9_B5kRcnXGwGQjoJKhszVeQCY3Gxvyyvyu1YxtP3TbZ1XvEk_ALn5Ky4_k05aPihcGzw2hXmevtQyHPyp4GeRvJMPctpYY_DMKk99oKgPx4Zk5TTjLORca76Awlth4fget7H-9I7b3mS7JvGcbZjXwTKNg6aPAO5D8lh--22bp6b3M-vTX_DD6l_aFHfsX0h0S8tzi0pZJM1LM3nTac8KARxuwwq8PLhs_KnSGGwARklP8sWrfA",
+      "width": 720,
+      "height": 471,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105951628545028422237\">Cafe Parisienne</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2chC6k5z5o9_lAhH2kBQ7ah70UKHjv-rbU_ZrMq9X1WcORyzrOfO1pRI9IdalISQtTXyw8TxXjNxhzuiRlEU4Rhh_TbcnpW_gO7f3f0PpEg_BnKxhSqZjU6GEC6iBeE_evXl-hVmMjryyjGjks432ClUuNdUKnrcKwfY5a3B1xN3gzTsG4Ksqkfrg4CKkN_2uxUfAEeZftLjejVKn4I8f22iUSZfyREdadJh_3YXGzUu_R0VKa5Zu63OkowUfTJZcAp18fgv9QeFP8LHkb_5U3C1WPom1uOBDYXRkEo7Iph6w",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105951628545028422237\">Cafe Parisienne</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dz3uNxTEIeviQom69w2-bRsDHIXSpTwb7xBcscjTmoe9caHjmKMOPiOn3Mtq8nYWDaZ43itkZKgiVi5lmJfddqnoViaZPE6zVK9oP3MOaXaMFr20jxjsZfSMrQuM_TdUCCOSFt1nqCnL053PTgABSFzbol_qNBdjYcjr8vElF26q5qyIHqCfHNuNSALeYfMzWkFIxXJLRHa3MJ_U0mmWZW0QgaOsTQ5ZT6NQqRDssvLMVz3vI_2TaZNSdKvDzWy6UPOUT45oz12QaqZVk2LRs9wQ0myEhYH6yZYmZNoIUpS93TyO93BsxjYAIZKQWz3TMisY5L7dBiC1aF8eyC-AEIHwC3Uk1tAjSNnH_YPMBLSgNKY1RFzfhcXz_fIKyNSdPQukg-WbX_fZ-588nBlL0BPbCQfOr8LeCjhaN9PrK5KAjPxKs50MnxUg3ZtQ",
+      "width": 936,
+      "height": 624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105767787222716680376\">christian noonoo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ceft2YWiv0jyAnoTUeys5F-Z_qmDnxxd3uJuU1yeCMw_7CagGlSctg4nwrqSjCE28hmt16W_XbqEAYNVBVpYK4RBH-Se5CDKV0m5e0-RDBe6mkxlsFkwDLee4fXPmM77pHqIaY34AX7fy5xHSgriALIb1zB8C7jAfTboiXcwW-p6GEXxMwvC1kUujqdaP82lNcXtWLPcfnohy6O_5BHnKiWptgnD8_QL6B39UrJiW9Nkeafw3bJzoePR8rGyvADM86DAyZouY2muim_oRk56bX2_o2XSQ3gnGLem--IeeFAFxwlO5YX2DazAfl76glxHpIm_a-Lyj_9fTfSV1HH90alHUzIMEFd_tpbBjh7H8lhi66j6h2bhurJ3lcQRSWML9KrMWBZoJDMs0dYbfcxegq4QIMiSIUEHkuTGA57xQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110730592117810062142\">Jeanne</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fGw_fVkdqSyZV0-MzyYLn4zuGbxr9yS_ltsJkgNWg-bztGmnOaXEBedfkpwrLKsMP_540huvJ9VyEFXaEF2_EKXyoZuFcYIvfaLPOW1v-PQPVWwWvphbXhV24PwOqGpwrTRbFpAjlxczZzWFZR-aOH3lA3TslwcAs7LeNxCkzPGTAht7Nazw5bYCEEg06jNGM2M6gqiFrB-dlEGtJ8OxJJZR2t6O_gLf5078dSvF9QQg1D-5zothED7DqFR6pQmvAMRu4rxBk-TxJ9bkD9Qr1a0ZiZYpjC2gkTKNVMzgKYyTzyOgkziZYyyDesNC7kjWuFp7JstLniiNaPJC_FS2VMk88k_gadBe-mC5rBj1hN8ojX5tZdZHGJmf0chIhRu2ZqkCi5VcFNP3_nSJDh4y7GcSNd9BvR3nAq1v_GsL4",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107420357564026954563\">CK Go</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fF40XK3ka3GmgPKdXBse-1gpnD3bz8FqkLxFjO5elmJo1fH8_gYwqyqIfgYCL_mm9EFb6AYklp_YB9g2Qj4zGog63iua15VETezpTtugSF2d8i7qSReqYL_6Bay-7QZYgPQChbITXqOfB-as4Z5hv6Q1lVQbeIi_aAyjqmINf33o5Q4xNABe0r21kKAW0d4OSzxajgvObROcAoAOmOa1CrG7sKlfl8cJ8kUG-Z_ajuFCnRd5tmcctHPF08meuG-M77rKYA8WnK84KirHzEV-6pLfoQO3YcIGEivsK-tZTYvyH7Ik_4U7Hez5shzxJIESVxcPGv3nS-o37GNDk41rzzZmIowRjNotEPqdPBzYPFc_EgTwKoZKR_aUCL5AZBgAGXbd9xW5Kj9yQP1BvBqW2P9G9c3ycHFHeIAm63eL4",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115965195223909228681\">S F</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c77_4mjGFVDYmTfUi7VmKzxdWYKiFzYyT37iV7HFcKvG_RWPksY88oxukw3m_AJzfl4bJhjK4g_SXp4BflkArB6qnjzgAnGeiVoOq1yRSVrB6s0pY6rL2ZQGRoGTkcpPcrHro1ieXIuIgV__jzgMlRS0xBAz5Po52aAZN9JPyo_9PAi-kSW9QZly_0kFGz1JoRllMNitFqe6UBdCD8xL8plcf_oEnO0upE5owt6zxvVDoCFaycLkHLo84I-IQxfvjIfGJAjG9csRZp7mzZlaf3d3_Gzy0_UMu0rJmyZKUdYXhZkEf9vjgqNZERNsiaW_d6nnWncel0rChKnHPWRAsYA43frmKHtCIID38hzAUa6noqXR9KenAt98DqjTy1VcRM7jOJCbjQQ4CPb5MvulVRuuyH388gmXAUWnW1UEz4xVLwsXlzJFT-Mzf3ojRT",
+      "width": 780,
+      "height": 624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105767787222716680376\">christian noonoo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fKkBFoqepBb6TSy6W9n-gT_OxeK6Bw6Ho2V8OfuSBvmk52biBTSWVcpQhRckVsITqE0Lkc765jw7aJhVj016Z92Ecq2yzfCOIG1DIumE05Tx81vOtkDKTA1rwqbrGQcWGa7IDiMq0wdw-KpWNUubsMSRWRDqpppYaFBfhi2hl62dqL6ZNj7CkYdqdpCyKuKqnK3s5wNeENyjzuUyxRbPvZxbt8dWZUnv1d4YlPyL_vhyF_tpzq1qhvncGurDTMNmuJjWiStmLAX5BigHWQRiDqexBJQFh-sGnEEfsLD2WlsjDAfzHIBQUFZetj90p6lesJM8yF92lK2KW-DeTkS_iEpy1xYcMf_V3KapFdpEKE0ehmHi7aDLGI2b2pKb1Ov9ycNbU0LEJpD5CE5-gRm7zziix4lVzF3oQXAqmIp6l3UA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101468757429149663946\">Yuhui Li</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d34g6jnf_fIiVq4NS0KQNMI3rgWcV0obmawLogh6o_-La2hyFZjyO22b81yw-SCAFqbdFKaDQjsStBYUT1S5dd9i3MS081T2tdRiovrVx0ATKsEujySWC5bpBR2x3VIQzcXyJPwX1evWtDuiL10Mgez-I7i2ZQi7BL_g_li2YxjbDdb14gWMN0U7NeCDyYM_qhzsrqFh509Y4yR70HEzD4T-VIAqICz48awhqGjk75oVgGSeFiOE8XdE_KzZo7aQT6pvTnGwE6G1ugx1nRi5rU9po7U045S6E357V9pcOe621b4_5-6UB5X196p697TgQopsJv0z57JYWlT93R3B6NJJRm-H1WSmKDCki_agD5c2tZrMoA2X2adTu99pNMkJLz2heGVqFf0Gffjy646egjtbI3N15B5LCK52GL4__nOA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111554161472351916231\">Invingatorul 22</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eWEnK8OodkAhMxtvHL6jtMlu52F1EiNQ-rBOuFiur8tcOtVveTtjOcaEeNyhj02rgsExMBMfHrFcHWa95o37lgypfJHjcCrqfPpHgVpitlYX3l1EjbLiEwLAZOE0JHT0WgCuYDetfmVhRqfMot3hdhCecj8crCrIbzZAlGzegH7qWUXl1v7hBzKyNSe9jFjad4JPerZMznaFM9iME3KNC7Z3wVnaOIt5-anYvS8KvC2vWvIKa2Z9pEo8YC9tFWJleGv5BOPoxd4t-In4RUwsmqjUiOQ1aoTBfUOzUQ-SKge_I0ufF4Tz9sjLAxtOgdZM9Bm30aHxP61aI697fPjK8sAP_imSR7TP_rwv3B40El2ZJPioZlarJHNpbWfcq-5tyV21KFJOjDezCjPHuOSjhrVKmrqoofvTsGp_MbJ64xAIx5",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107420357564026954563\">CK Go</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Invingatorul 22",
+      "rating": 5,
+      "text": "Hands down the best coffee and breakfast I’ve ever had, and I’ve had a lot! The atmosphere is warm and inviting, and the service is absolutely impeccable. Everyone is so welcoming, it instantly feels like a place you want to come back to. Highly recommended!",
+      "time": 1746530663,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Pablo Casilimas",
+      "rating": 5,
+      "text": "Landed in London for the first time and stopped here on my way to the hotel. It was absolutely delicious, best omelette I’ve had  and everything I tried was so good (sausage, Turkish coffee, Baklava)!\n\nAlso- Kazim was so hospitable and friendly and the service was incredible! He treated me like family and the food came out so fast!\n\nWould highly recommend this spot!",
+      "time": 1745852747,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Gloria Felix",
+      "rating": 5,
+      "text": "From the moment I stepped into the cafe, I knew this stay was going to be special. The  staff greeted me with genuine warmth and an impeccable level of professionalism, instantly making me feel not just welcome, but truly cared for. It was the little things—the seamless check-in, the thoughtful recommendations, and their attentiveness to every small request—that truly set the tone.\n\nThe room itself was a sanctuary of comfort and style. The design was both elegant and functional, but it was the small luxuries that truly made a difference. Sinking into the impossibly soft, cloud-like bedding each night was an absolute dream, guaranteeing a deep and restorative sleep. The housekeeping team deserves a special mention; the room was always left in a state of pristine perfection, a testament to their dedication and a joy to return to each day.\n\nThis isn't just a cafe; it’s an experience in refined hospitality. I will undoubtedly be returning.",
+      "time": 1757951924,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Makinde Abdulhadi",
+      "rating": 5,
+      "text": "I recently had the pleasure of staying, and I must say, it exceeded all expectations in both comfort and hospitality. From the moment I arrived, the staff were incredibly welcoming, professional, and attentive to every detail, making me feel right at home.\n\nThe rooms are beautifully designed—clean, spacious, and equipped with all modern amenities. I especially appreciated the plush bedding and the quiet atmosphere, which made for a restful night’s sleep. The housekeeping team did a fantastic job keeping everything spotless throughout my stay.",
+      "time": 1753971217,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "W.H. Louie",
+      "rating": 5,
+      "text": "LOVE Cafe Parisienne, this is one of those breakfast spots where you just want to go on a rainy day, on a sunny day, on a snowy day even!\n\nThe food was literally the all you could ask for from a traditional English breakfast spot comfort food, portions are great, prices are very reasonable. They also arrive within minutes of the  order being taken.\n\nThe owner was super friendly, genuinely kind to people. Customer service was great, I saw someone who wasn’t sure if they liked the dish and the owner immediately offered to take back the entire dish for and asked them to order anything else they like!",
+      "time": 1711792290,
+      "relative_time_description": "a year ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:20.045Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXVK7qIFdkgRW0VrW66OFJs"
+}

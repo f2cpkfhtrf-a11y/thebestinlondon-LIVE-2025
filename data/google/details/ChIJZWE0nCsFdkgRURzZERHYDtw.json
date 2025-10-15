@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJZWE0nCsFdkgRURzZERHYDtw",
+  "name": "Grilandia Mayfair",
+  "formatted_address": "10 Grosvenor St, Greater, London W1K 4QB, UK",
+  "vicinity": "Avery Court, 10 Grosvenor St, Greater, London",
+  "rating": 4.9,
+  "user_ratings_total": 573,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51211379999999,
+      "lng": -0.1458047
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5134070302915,
+        "lng": -0.144427619708498
+      },
+      "southwest": {
+        "lat": 51.5107090697085,
+        "lng": -0.1471255802915021
+      }
+    }
+  },
+  "lat": 51.51211379999999,
+  "lng": -0.1458047,
+  "formatted_phone_number": "020 3995 3925",
+  "international_phone_number": "+44 20 3995 3925",
+  "website": "https://www.grilandia.com/",
+  "url": "https://maps.google.com/?cid=15856848905843579985",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 10:00 AM – 11:30 PM",
+      "Tuesday: 10:00 AM – 11:30 PM",
+      "Wednesday: 10:00 AM – 11:30 PM",
+      "Thursday: 10:00 AM – 11:30 PM",
+      "Friday: 10:00 AM – 12:30 AM",
+      "Saturday: 10:00 AM – 12:30 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2330"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0030"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2coxBI-r9huLhxlVa1JD9MM_sLctNIkEqDHo8o5_ASa282V9HnxI4ac2pH2F32Bdd5q3vcK6ScR1Z2GngNk0W20j5MnTrJZlcmkMP-gPEqLOPTP0KtsveNimTs-9DqtunLFjIh48VPwwUO1qbLQgoNhb_62DTfnwWZZNZbBT_LngT1uc7JnDxh0y_NLnbb_KNw0WNWaGwzsLso6O9nnaO0BRma5ZtvoFbeJbAF3nvhJmaEzRNbZRhE8eMmm_EJTgWMkYDKeRdHoFRnS-Jx8pxDzGII8MO2dJtVOzPr92wjVgs0eARtUXUb9NeuYB-eyBuy7nafnBr6zON4WhcUwozeVf1ItjzcTksVw9oE3dQAia0lpg-woUcAM1HMcBlu5E3J6E1Jj0AOoPKpbUQ8CQYQw6Erb9sK7OPrLf-7Wb2Lz3mOR3QKPn4AZINoN6_6Y",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102906237767601556707\">Vasilis Sprpls</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cRy3T7Lrwi0rVhfTfu10O9wUPh8_TiQjTJZAbNsnODAlIcl3yxai5BQg1vLv8wgbcRPL2gx7GfW3Sh-J7wV1OmmddgnMBvcmCWg99BTdzsgf7HTTKkXKQT8uv5z6btIPJB32Qtg6NypWSEkHZQXVW4kA0BTwtp0DUCHroBwAVeG0rQZ5bDc2HNwPfFX2yCyt0i7zU-bpx6q5XInAOnXjV_6a1cXS3Lp3ULrv7ehvKJioAZRbUFyq5xNzM1sGow8yNOKnMIlx77J1kHTjSYXqCP3FtBByEfRDlUMllqIwPa2JbVBAB3Rzz_GWgT7_J_IEGP12QFAHbJcimH4yk4Zmlva8bVx_xVIe1BLwRFe40zca1g9IZzkotf-YMaKH-YYJcS48xbR4fcgoazyFiu2H7l4wT94mAIFCj8akgTp_hiOcQVlJpjyXpYLg95fGME",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111946602795153988426\">Mylena Alves</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eSSF2lWnkR7s4vGstabwzPZZDNBIhmMBrbt_nDuA_HTWvWnG8JBsC4RjsA4g4TPNJIS12lLqq7EpnICbgO1UptfQcKYYL20ec7SJrf_9703Jh6NezoVHf3ELrXhwUTFcUFTyOGL1wKY9QJzeyEgDYfT3qKMxAGYbnTk7LADxcg5VHjtN3exBpVDmiydA423HaOX96LmlDPZj0oGWryV2PEtYJVg7ET6BYYK9VgAQP_EXtJ-lRxbhekVhmrPIbw4ATJ0t5NQgzAFsqCbzLHxeVPR4pKYqBb6egOGqsKxh77cftI6XOlsCS5TvPPlkO_rHGFx6Wr97eIudA9AC8BJRmxfEbIBNaZMNb_Co94hXTIWkIY9bRnkbSguvCrS1K3fgvlWXvM_6ZvJ3gE3Wwmd58kVtAim1E3VPqrajSa1aK9Qj3LGdvoHSnz9pFi1A",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101185296134908980799\">Cathy Li</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f8BNGwOYPxx7wK4UYUGdRE_hOxppoO7_5kL8VyGycILJzJtS4OA7b3gl77RIRH3knGJAzPc9fRQGVVlYJ4KFmvUlU1Mlj6J64TA2hS_qjwi-DiECPBmOX-wfAt9P4cpwTRmOIuhPlK0MOdU-_MIXebtl_k2U3dhUct-_R9t8-BQcuV7TWD2EE2lJrlUlPdj-1kgk1dP6DlAVZlwv3nyIcSuJ1hbW_O0RiOm5e7ZsAwvq6LNvymnR8B_2A_B6o6-I0Dpong9CI5Ocqd4241HA2Xr0s0GARmIlTj7zQk3ftIHDOCiqfUvSW-4AA9Cen0qly_ev7z2C0a_8QskFPPufD93DAol0W-4AtlecTHK1xSmFlTHn0GzvS0_U-B2WkzL8d5ESVGBTgsucSUZG9PMmYKU_Q0eiLEhpWZqdB4K7LPYg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115675991467115189916\">Maija</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fazuKJWD5MJpATOwxFTyexZ0mgQSNGhRfdgPkJjpG8lLtG2Z-JKyJsGHuLNZa9Yw99M6IrLhEYDK67pjW1YLTy0F8XjderpC8aGMQt0L0oaSoZig6q65FQqUa4wFwZ8zRm1gVOcR8bcqJ41BhVAnV-32644ouAa4zJaNC2rWKg21UMRM8Hlo5WI5aNcSItZ1KozN83K2DHnOgDB0l4r5far8feH6mKGBZpPqlibozidGZhGhHef60sPkmfKHzSfsO0h4rwh1HW1XAAAfcfzUKTok2NUvyDFYNt2r0k6kCToR9HOT0coMaeNVLqdPWPH2OphIAVt2OLHR3KAlGL3UMf2JvVLXOHFxMQFvcE8NA6a1qUJ-0JXSeSyZKT6J-lmq3KgW3G7paiJYlnUzkyLIxEpqP2unco5zG1tWEebjHNxXtFV4s7RBVIZZzzP-mM",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114118449235896205620\">Aminah x</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dWyfbTfV0cEI1YXoRihc0QriKWYvxOsYLu0pEKhEx8K8ePqhwGRzwocVF69gL3kxcz4Mc1cYBZVM59E1vlPSsXp35LWDesGUkRcJjGI-PzjKcvXF7TW6ef3HSmOrRmeLdT40gjC_g36qit99f-7XYEAovwkX3u57oqzjAU8QgIBuDgGavS-8-ba5uaBPHT5hBxOtO0t6pRmHBczkspodlEmSq4Q6ihFqmzEqpV_KrzuItf36-kVgiHzP42pB89BgMbuR33OuCaslY7Al2GHNihXHu_P_lt9I6DnNQHT7VCYxmRe3upJ7z-eOrFSwJkDXALaicR_wbjSAOwMipZLj6rn6s0brMVVfC5w-aG94oAzkynhxdODXQLf6eg3sW9xf8w0keuVLFSf0wZxLexIL3UDYjfI3pAtHSem8n70NH0pgzr",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115675991467115189916\">Maija</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ei_-yVd1nrhAU0xN5KIijXMCdt5o1bx25ZuIbU0jREMe0fcuBj4fRsJs1L0RXlCtXeHeplvf3g1PtjvgElGz5jLZHjF7dr85z67I2WzGhFuSTRftLFfLDgLTE8vw2Mzw7Lm4_MJocyYe3hERYojqfJ5QvnfDNwXW-TxvIqYuRYEeSNmFg-vAtkQtrZLxmW45u0d04iwq9TG31tWdH6zgEMMYoGuTe2ibv5XWGfegxQ8vj_JW3Elo_zzjCsJbVgekDTVeky7Rh9c7DSfANIVY6gFoYigFWtb4NU3HCvV7YESeJXhTYX6eZLgWD4QeZyi5qerPZJcknF8WQakOmaHLk8S9aiwEKhiR3vmo8t9EX_3iC7rQFNcOIrbOscFAk6U5KCq9PqcGDtAUxAXAgImMsWvh0O_Bz4G9StGfTu33GHY9Qm",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109732325989974353547\">Sabz X</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1ssPTTzwsc3sM2L4PzZFNBfHJrzBo-SxPU4yUHCCyUynFzRSL_5j4vsZfe4sJ0nI_rPO-oYWcaWoi8Ni4Hg7rJmNXSXTGK0Kbs0S3azP9nFMMHR5pdfWajLEPvex1X4bgTYGpzqAP2c6EZI9pGE4-cWutvuKIlrM7YCMnYtlIwgaPAveKYPvMvwHEvf34WzsoEMV-R7TX54msaiC_4bUTUAgcYQnl3KP6iU-ENYKfpqh9CpJAxr8Xr9VQLDnXUpb40SxHixpJyCkTsuouiEyF7y2YSE6OMcoRQ4luJ8gtwDVk3hJ9aG9R94fYrUfB7HxrP2kDBI93dX9j-L1R3xBAghZj3LVWWB_VK5OWEgC_FWjIMyC5ypVzJZsF_MIJWX1ui1qJnyBdB4rec3OQOsUROnato1gast2BsKTXwoZQ1A",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101165861260337320914\">Ketan Gajjar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eRWnaq-YxXSP394OUrDPWuNBqamvNBMMtuwS2lmgd9P8yvBgmV4neRvV6ircxiwUEVdZJlFow5NPG5Sk0QskRtYDuttgGzYV2etH_XLjnKxUCWIwX0mKgT8ri9bnKtkt_4y-jaL8jhG83F2wKAHLhx07reXuFbZWLD9fsHRyw8Tss3mLhlwYRfELGdQw-Am7G2fboKIGX5JzzBswJbfJBIdDveZ7-jqTO7A6lKRZgxqv6RaI8fnKuThUAekmdsc_fG8zIcL7__gDPigGh3OvdchVOPE7K9WZSI3ZDq9qK7kwSrVjUu2IdbHbQxuQclRWCkA5xTSPXRylaSSPx0uvWe7SaOilGtDu0V4HEYEcLA-Q_Y-PAg0Qr8Qe5t_Fquh5H0JJkDaLCqGuw3cBk82X0I5H_OUjbWqRMIDTPUUa9FvA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115675991467115189916\">Maija</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fn-3HqOLEI2ONm3RBc6OcetkmvDupZW3RRM9tDMoRuZDoaJiini3BVEwzI6iFkQmRAJr-jlIqQZ1-B1acpz0j8T_HHROoHq-wsYA6HuRmkEKcn9r2Fqkf93-Q7nw5ICP-CdDoiREA5YnTIsIQ90eRIN_5bcWjTmi6HyfbMtW9iDRXM9V_j4_hLAvlY0uYhXksmlfeM-invyyXI0B498QzLLhlnS6ZgZueFCtG3cXTuPNVrz3G0SJr2flSnANIgD_ZxdsvCY90GuNLStkFtjeJZegrnLNvUImlw0bHwN-9RrLapu0WZVLn4jJhUSLh6WbiCSfWNm0PaMfa72W0LjMvqIfUUDYvHfoUDy676QpvadNK-a94AzdUzTgGo3bPY7P60hqmtM0Ud5MhFEFGmyVJ_bdV9V3Pi1Eiyh50yFDTY-mJ2",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100192906631665167715\">Rasha Selim</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Aminah x",
+      "rating": 5,
+      "text": "Everything about this restaurant was outstanding. My friend booked it for her 20th birthday, and it was truly one of the best dining experiences I’ve ever had. The interior was warm and cozy, with beautiful instrumental piano music playing in the background.\n\nThe service was exceptional—special thanks to Ahmed for making our evening unforgettable. He attended to every request promptly and with genuine kindness; his service was flawless.\n\nThe food was equally impressive. Everyone at our table enjoyed their meals. The meat remained perfectly juicy, even after I asked Ahmed to have it cooked a little longer—a rarity in most restaurants. The chips were cooked to perfection, and the drinks were excellent. (The passion fruit drink comes highly recommended; my friend still dreams about it!)\n\nOverall, this is a truly lovely place to dine. I’ll definitely be returning soon.",
+      "time": 1758706428,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Mylena Alves",
+      "rating": 5,
+      "text": "My experience in this restaurant was wonderful! The place is cozy, very well decorated and gives a nice feeling when you arrive. The service was fast, friendly and always with a smile. The food was delicious and well prepared. It is a place with good food, great service and a charming space. I really recommend it.",
+      "time": 1759343890,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Ayomide G Kuteyi (Mimi)",
+      "rating": 5,
+      "text": "Absolutely amazing! 💕\n\nMy friend had her birthday dinner here and it went so well! The staff were great with our dietary requirements, helpful and had a great sense of humour! We got given break baskets on the house and they give free deserts plus fruits with candles for diners celebrating their birthdays 🎉 🍰\n\nWe had it GOOD! I’d recommended the baby chicken dish! It was SO GOOD! And if you can’t finish it, you can get a to go takeaway box like I did☺️ as for the drinks, the non alcoholic ones aren’t the best :( the PassoFlora was too sweet for both me and another girl so we asked for extra ice on the side and that request was guaranteed 💕",
+      "time": 1756207378,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Ewa Jaworska",
+      "rating": 5,
+      "text": "My dinner at Grilandia was a great experience. From tender, well condimented chicken, waiters in vests, to elegant interior, everything was splendid. They took care of my gluten-free and wegetarian members of the group.",
+      "time": 1759559174,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Tawana Robertson",
+      "rating": 5,
+      "text": "I went to Grilandia for my 21st birthday and they didn’t disappoint. The service was spectacular. The waiters were very accommodating to mine and my friends needs. We ordered a range of delicious food to the table including prawns, lamb kafffa and more.\n\nThere was a live singer and guitarist who played beautifully. To top it all off I was given a complimentary birthday song. I started the day off a bit gutted because a few people dropped out last minute, but going to Grilandia made my night amazing as the staff are so charming.",
+      "time": 1755336315,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:03.536Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWE0nCsFdkgRURzZERHYDtw"
+}

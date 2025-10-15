@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJwYEDBrYFdkgRR1eiBlmtIW4",
+  "name": "Miel Bakery",
+  "formatted_address": "60-61 Warren St, London W1T 5NU, UK",
+  "vicinity": "60-61 Warren St, London",
+  "rating": 4.4,
+  "user_ratings_total": 1064,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5242395,
+      "lng": -0.1395342
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5255406302915,
+        "lng": -0.138165069708498
+      },
+      "southwest": {
+        "lat": 51.5228426697085,
+        "lng": -0.140863030291502
+      }
+    }
+  },
+  "lat": 51.5242395,
+  "lng": -0.1395342,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://mielbakery.co.uk/",
+  "url": "https://maps.google.com/?cid=7935814616278521671",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 7:00 PM",
+      "Tuesday: 7:30 AM – 7:00 PM",
+      "Wednesday: 7:30 AM – 7:00 PM",
+      "Thursday: 7:30 AM – 7:00 PM",
+      "Friday: 7:30 AM – 7:00 PM",
+      "Saturday: 7:30 AM – 7:00 PM",
+      "Sunday: 7:30 AM – 6:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ed-eUhFW65ZPA-viC6VTlyya2Eet8QxN2iNaluLjkwmH5oxYZ4YqmKOQiqDdHHa2e_vv4xGKkt1g86bSXDWjzJztJDXlwgyUameYUgmPHnMHgfLg4Ytg-XBS2nkWNafydMVXWBo-9Fa1H1enr7fPqFeqc4X7etZh45k0ja0MrPiAOKi4K-2XGzFXwYxQGcLbdiBDO9AfnBdlBztI9aqI5aoeLrA6NweRCpCXPrFpvmMbB3UdoEzS3VsfiHR_8e9xFye1P4DEpk2WoYSlMXGz-IdIJ3jqIf1tyRplG9Fqs",
+      "width": 3144,
+      "height": 4192,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114599901844919366291\">Miel Bakery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_wOWXGck7VCsgJDbaO4Vp2ZcqdBdzFXgFlSlu9e7OU63hmFwmf9EWTe5CJc_xqRpKT14qdFqYZ8z2Z7_kXcNSuCdPGvQViUkVb8ZkmXcaImC5trUBYfV67soHwZV526cAFvDmwJZLvfNQo4cEmbvbu7i43N3eXF2Ay3EKuQyWFuZg0Bl6wZ5UhvtQxhb9SMlMAieME3TtHkYZklAGYFiq1Im6Eic6cEGbMyqHwFOPfVN4bdRsJD1l0D0XfY_So2FrmKP9F_xcMACce15nlC92RcPrK2yC8TbxrEzvbks",
+      "width": 1440,
+      "height": 809,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114599901844919366291\">Miel Bakery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-EyqAKEiLe7zRmDVoKDf5x749sGOj4bERHqLiLnyJAACo8HjUb0ImkOq-KpewTqWjjT1ok71NULnIXLnKZUhtuux65L7ckjO7SnX1fXbNT-uAW6BYZCWolYpF8S80MpNMB7jz_FpFOmzW07dqdXhKHuF2ol4MCbFH2x2AWaR5-xpGUDvtQnwBCVteK6AeBXnY171g5biGb_SVwssjEEYBgbg2TgzAyau2CLD4HtxDzHgiipotTbOsYNrqrjp6jS5zqFdPCdqCX4Ob7JjjdKN96s9EJ1YH_rqpjhJ4mlWE1dh2Lno9vKwXNQvqyc3v2fVorOOX6sl0o4xgEGd1mhfNIOxgRQptiPfW171prulJfhhSvXQxXxXDOsN6Jps1T7ovLnIYjuZtY4QZfNdtGSMOSi9Z9rZKLI-m-B61CNbLzeo1aqwKPHVLUODyVnCh",
+      "width": 3537,
+      "height": 1989,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111881914371736771858\">a z</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cKQiWy3w0-QjhOmjnbp-QnPcXB4VuUkYPwIF86eqsj1TbfQwyX9oWqrgMRtDsjDy2wZqGGDy6vgFMIN_h9e5f54Ph6ccTVJIYSpJ1xs-SPJeryRrZdKgRLWfmx-Pykd0aKdlSxA3YTcfgPD2HGjkxPSpiHeRvd3jQSDAqdbL9k91wHjmobhJO4t_xRHYyY0h874nvZYEI6lWFfyu9jPLDxMeTCZvT2iKGoIpYbqmO-khCaK97qkkbKw2A2fTM-1uxkEq5bI-7QlvgrZ3oDLfMOH6KouTWEMdj2tWBcSG6QsLt87OkWPC4BiHOowf-Hlhd74apMhrThtXasGI7FPahOd-4d_bVuaORoGbHDhgonOTK9sYETuqZUOoi-pKoyLNx_RGknrw0Rm71d7x1hw68a_QXR_3Df0GYng-1xUm47Aps",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101131409123968493664\">Emma B</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dfjMiR9BezSBKsYF0WZRR0uqPHy9H9Le7dE7PChLp79u5b6qI85OYhDZWAGbG5MSWhjzkwL0laWXT1IPMK9s6A7VpG5R4N9bqAAruZY9crEYgUuWSW1ZzqfSzyjPE_z6o-GR-YeNFyynXsJMrJAEwQnc8TIfpf-J5Ft8I8huzQ2HZvhrN7XYtE1-iZxyRvQnSZeq73fXj1HURK0Fgq1RxQwpYDp254VuRXE_Q3EeLHWaYu-sBp4NZnuByxO0N8frDuWaN74mtBUwFDMRHDlV1tNtG4pW53hPfIiUvnXuLZgPuT1qDgHqLpfvLO4rS_hsAzMcCeUyn2H1PZuODF_USEDtYRXFe_s5EnwROaTXNzaLANJYRDLdL3K16uZFpdtUSOUrXhmw3ZFoP9let5XaoFvHDvYMuXFl0vpvz9PcGtJ6wBTYRLwE3rAVw8oA",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118177931384736029898\">Colin Durrans (minisumo)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d9RmKFv-lvnoQQqmEEOn4jR09e85i12wxNSKU4OIgb0-CAoTyldXOI0QfvldqgOBDQksphMEAGIENtiNZmdo72PhOBxsBjh9NOUePjPz4MSNZqlRxvv_96vOx6yry-bM3H63dfAEmr6PZnwwf7EQjtrBWMqonw7yMvZDpMJeiq_RE2vBEQWo2q9NxfjdXRPlxVDS7PRB1UBrWBiQ6yyxy8UxfhXix9NjQDziQHzLSWYeQmrefW5CNuUvvPjQQqOsX4CFyjd5c-PPdacveiN5Ee5oq5cKDoEA2r4hWu8N4_84yb3A2TEHCPd7p5_zaj8Is-tqNDyBus_n-XtGBqZMZQhbnmFyYW4G_KGOCGnBJ-5AIvIsUFFcsH5qm1naiQbD2M_piLg6Vv8SVJIMqdao5Wh4KzaW0JAgr9EEJvfxM0v-Ga",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103804805052692407992\">Nitchanun W.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dXb0GU7qcDmBK6Kd5FY_q8mBAM8mCTJzWoJMz-OaCJaLYs-GKpeAGI46TlEbx5-V-C1xBQlMm5QATVtiiVAhcFCaBAgvDjs0EEpduTnEmY_qJMXvKu07HxIac3Z7EPTrKWrK21ZhPYC0ipT7Ggp7Lm-c0zgPrpGwF7zTjMVKuBB7_9mHUGPvv13-Yhg1i174beMrUboi1Hj146Q51sih4ZS5u0xwErGRWCfiEoUWaQUvy9X7Mddpr_e3hoQBlruowCPaTFn63kN2Af4RS_v5yA0RskVMxHbAdeaFhHdLFIeH-HEdVOexfG4AJaJIkV1FuczLTLAKkSVE7SQqVpV1Vus4UBHVOVVagaS0naaOU6NCLXiI7pKXofFjB9fxKmkhItRdp8hi57A3ICK55c6qoFpuwKw-FxkYTJPBMOf9suhSVj7jDbEvnK1Kkv2_8D",
+      "width": 4192,
+      "height": 2358,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111585931724732961346\">gtb5</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d4o28ibnkuArhgOXidBjro7ObXYGhbK5IkfHpnkeIq4yM-mKgtMbZvq1B_7rQvvD7axyCyjcrGF78qIegEzCKLvBvE8D1Obx_IXL2hnNwG6egwDWoqJn6dDGV5D1zUgWmlN_-vq_VBlBOL3K7_8TMed9RDSmKbtM8pbYUax1219MdGl5X78diEer3maofvNpPzPwpbZxHNoaf-y31ivtDk_X-H31NOM7Kby24_Su34E-QCUOufeD1v98ykj0O9f1w2hZWCy4OOCIpG7cQM1AqGynA1jWyNJSBN_Lw6pR1QXwjn0aEZ3nK9IU3AiMc_t0wgUUpwB8jn33IyKCabi92SIhE9G7DaTeIGIWalE-7kBQlRwdqpFX13X5-_bkai3-Yfkd5u9uXI0nceS8UjQFShZhkJdRZHCtrcez3XZbiYxXTA",
+      "width": 2448,
+      "height": 1836,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100967436842772840954\">Soonyata Mianlamai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clkDBpTfQ3MettbKtNb8uA9VCgW7HzitrHZ1IwGM4mHQfLZ9qssnUNQyYAoadhQeAUxJqTWS7ms0w49mvsskwPfPlCNsTjLdLimAcRmvaIYENBJNvEjL2riuK5x-Kx4i-XQz_1Jr-lBCsM4Up5FB1L0ZOUxJGfJfPQ1wtCsSEV3IZV3kBsQOALfqZsiRjwQ_BP2nL7cT1N7Mx4XCvOT9Ia7jTkaAQ-T7JfLPbLGBs_LGR3J0sIka9xP-LTKjTDnQEkGofyD5gdVtyU1w4z-ghpm7hgbR3QK_5rsAMEPlZINJOygIlWTwWJ5tuL9ZYuGAb1NH25DDv4tcr4SlEbrGjo2ULD3qlIy9-EIUh-MMT83kqxRrHAg0Y2pPg3REH4MXIQ6TWcqP8PEWgd43ROEgLK_tGfmO6aDkQyyyMZlwOrkg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109060104353967692368\">S S</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwINplYYcEfl2coGzTvKoOs0I6BriidQRbLaVPMbVyyxe2wcbfETTZspyPUf_0voQ-X6WceBCwuti3oenGHHUZrusDgWgibcc8TDRO8qcJ8dht1v3dmlMTd3zstaa0m9hk3JMGUAhOnNDYIamv8DWk5dt7Dbhc-_lYkSTg9W8qm70N8ZCQ828rqDFO-H9D7q3v1Ae4mldufNz88R_Zgx3aupFDHhPrOQ25xj4yD0lZiHm4dqgsNI4aD2Z5VWyTYneZOHDmpYfYn03u389vEP8op7RVRsQdcm90o1KxWsa8hpL4BPVd_w89vIa3PUv8bbEng2ff2YrwV-4jvrJIES9zY5BVA_nuS-IP2K6ffpScsKpgkA6w25Krn1mosM4VlrdsFmB7on1Yub7C3rVLq2jfOuf8g8C9fO_StbzNfJ0sdzw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102395784808328929433\">Anam</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Cosy, classic French bakery offering housemade breads, pastries & seasonal tarts, plus hot drinks.",
+  "reviews": [
+    {
+      "author_name": "Lily Gill",
+      "rating": 4,
+      "text": "I wanted to love this bakery but I felt my almond croissant was a little too sweet. It was well filled and the pastry was extra buttery. The cinnamon buns looked amazing here so I would come back to try. Only two outdoor seats for seating. Pastries range from £3.5-£6 so some are definitely on the premium priced side. My almond croissant was £4.50.",
+      "time": 1755707599,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Drianne Laliberte",
+      "rating": 5,
+      "text": "As we were eating our croissants outside an older lady walked past and blared out “I can’t just walk past, I have to get one”. And it makes sense once you try one. Delicious heavenly croissants. This is an exceptional bakery offering a range of both sweet and savory croissants.",
+      "time": 1757198953,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Thomas Alfano",
+      "rating": 5,
+      "text": "A truly lovely local bakery with amazing pastries. Out of the oven fresh, all absolutely delicious made with fresh and quality ingredients. Their coffee is also phenomenal.",
+      "time": 1758971120,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "a z",
+      "rating": 5,
+      "text": "The worker made our experience greater than expected! Friendly and helpful worker. We loved the Flat White and Iced Hojicha. Nice and quiet place (we were there around 3-4pm). Overall experience is 5/5 🌟🌟🌟🌟🌟! Will definitely come back.",
+      "time": 1757947532,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Aram Karakachian",
+      "rating": 5,
+      "text": "Amazing bakery. My favourite in London! All the classic French pastries are delicious! Don’t miss their pain au chocolat, kouign amann, banana bread and the daily special square croissants. The coffee is also great :)",
+      "time": 1743539701,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:27.394Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYEDBrYFdkgRR1eiBlmtIW4"
+}

@@ -1,0 +1,263 @@
+{
+  "place_id": "ChIJtztpzhwbdkgRsuNgcj18UxQ",
+  "name": "Hot Stone London",
+  "formatted_address": "3 Windmill St, London W1T 2HY, UK",
+  "vicinity": "3 Windmill St, London",
+  "rating": 4.5,
+  "user_ratings_total": 6435,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.51852659999999,
+      "lng": -0.134284
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5199128302915,
+        "lng": -0.133017369708498
+      },
+      "southwest": {
+        "lat": 51.5172148697085,
+        "lng": -0.135715330291502
+      }
+    }
+  },
+  "lat": 51.51852659999999,
+  "lng": -0.134284,
+  "formatted_phone_number": "020 7419 0305",
+  "international_phone_number": "+44 20 7419 0305",
+  "website": "http://hotstonelondon.com/",
+  "url": "https://maps.google.com/?cid=1464650907179344818",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 5:00 – 9:30 PM",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: Closed",
+      "Thursday: 5:30 – 9:00 PM",
+      "Friday: 12:00 – 2:00 PM, 5:30 – 9:30 PM",
+      "Saturday: 12:00 – 2:00 PM, 5:30 – 9:30 PM",
+      "Sunday: 12:00 – 2:00 PM, 5:30 – 8:45 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1400"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2045"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1400"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1400"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e61YuVDeGofVqemMbgUtzYSWJEMdRK2QZAi9lnwAIl0GRrtjw2zfg7AyEULr_WCtB811e9oVZpqPvXh6IEO-YXrzdXo4BxaOxyDH03wcCGmowNw9boN47tRkmFpoNWlmmVtSJnV1RNZCEbt1RHA3bzx-jUlpI1lLMRbmtzKQ5hp88fn1wNZTyirYkMEjoX6Ib9Gn72UDrI2GDGyYeBeYwSULe7QKwiEQYECly62RY1ds38r26L2XXFwKcJNAz_7y3QlV5BwBSESGnX38GAMlXYKfdhWX3qMCu6sJd0jPnewg",
+      "width": 2745,
+      "height": 1839,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107760987672990632715\">Hot Stone</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cFl5qF-c2N9BpzFPM9XjxMN60xi8QXgXz0w7XcEHLwS7qDoQfWWwp_j0mKbB5-oANAMIsC9sCBefjeOm2xaVJdsOY4Njwii-4o62PbzZWsXaBF8xqFgpPizwYAPDg5OMRlS1X0UqSqXHsK5PAqEIpsWnikjjnLQ_rKuMFYiIMFnKY-NnKzzsU9cxzXUdsfZG2sToCTHj7QyZTwPvmVTXUEpFCeIa5A3NH-jy27YdlrmNS2qKqheFAKQB9mw6PT1SAD-xtOuGWZYzvFzYI9mQjbIQeiPM1lIjv9-DcFpGRiGQ",
+      "width": 1280,
+      "height": 853,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107760987672990632715\">Hot Stone</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dkLZPJnZtu32MiS_CobJ5FijA2hrLvQ4DgZsLlTXmhRcKvHR82dd7hWopPL4uFosh92D_ZGiiXD6dQvsPywoEe-fH0JXuJXHZ0mkGcBR6e-YlO8fD9CTSuV7U2LFkNSUkPNmoeIWW9QIyQh9aCwVbUu4OruG5E3AQORTtZ5N-813FA_-xD4YBzEjZWki_SzPDJ983drTg4oz1BK57om64Zfgr0KKCfD_FllD5BBY-1rnJabtZASDRX6XBwbOcpaf6mcTDHTWO2Ykn6PLJm_RIil79BgLvrsOshSUKm0apF8jibCL3yBmBFOzq4O2LPUkkdVgRQMTw5vmkCBoi94mU1lAaNNtPQtU28n6tckNXbJdDh6N5O_wMT5iWsdzzlgpTxL3iLtEOyWq6BrCSGiIWw3gEYwOfpPtC5wxAh6pJi4FdIHU767UuF9gFxaA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109715303775697171278\">Josh Birchall</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_mNX95e65gZHRj7jO8zQwcpJFaVzgXFs5BohIqj4nwwhlREovakSk4iPPbbhRMHqZ1Eh1YLu4o0dqK6UATCAs3WnVSk2Ogq5AEWcuiFFyCbj7ROA98WmKZV47oefM_RuomQJandGl1vXj_OICj_TAQusL7BkTQGD6y03sM9Xm-8bM4hOgb0ip-SB6UitjrG2ftbOqSYnzh_0dQKKQGojPKBMt-VSEgxxP6Oad0Itvzaa4PV8RpJP3bqeiMB2wWZbLSNiwJAXVJrKxSw9yCW_CGOtYbAy_2PraLhRKbaKT-j59m5t3ZiwYsJvADx1PCMLr38VK1jVRwYiVKS2P4_QmX8zUnTVnwBBl6XcXkhF-yWz4D9Q_cS2U8JigK4Bzptub2UT696LTwdhGkr3WSiL_VIyPIwSnnm50nDjWEfAmcw",
+      "width": 1893,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100842934531696027637\">C D (Dottie)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2esKKepZABDalgYwVotjgYlr90-I5OtLu1xGbXjaQR_HUb93TaWQEEjhMWtlfNooUbDd_rJuXLGL7QMW0DaY77WJVvDCdrmOnToIoBBcK0q5E5viG0VOKBUtieGHfAsH1Q8qA6A_ReD246Z4Pp4h6NeOwwP99jojm9mPZ9uVC40XPSIJDBcAUEP--6aoeImAy6_T4oULXAJ54j9cPrzdERD73yskTmev6t9zQfWmGqvvYGYZMIhtujcTe-8INI_6aBJiCAcvuTbAslOrGvAvcTvoXNDlS0N4mnABWUfVXqgHjsHpQUV_oErR2e6hHg-ZnyujqmavPGt2PGbDFXp--u0XMhJGf4V1LOcQa4XuEuw6W_rlviX2obUt879PI5GRNaFAXUoCIIqU0xdc2A4yA1zqa-ei2ziU9TXlGmnFHf2bEpmdTpRyd4exA00iQIc",
+      "width": 4618,
+      "height": 3464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107830755438531122900\">Phil Stone</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dr31bj9wi_zWkfMGu-SVbflKJxqoHu1QTwnN_oe5jPJVsbuYyXqKbiGAVC6lHUjBAiZRlPB83Pt97vDXMViZyrK63ITrh-PpjxGceDkppZhLKc7nPXeUp6znwVJBprfT8KKcAPtNNCqsxcAyetGq2IaNUuGY3ZrxSM2Bui-wDBb59iue-oW_ocT6P8a2XHip2BuFpIV9D-grGu0D8Kr-6dxsXulzbtrO8QTAZnMVuPQoI2QrlpK8Ukki-22qX2f4yyR7IMP0ME1PgkRu5LzVdXfjDp075Iann8cNf5pylKrJSdf2js5BhX7WQKVq8k_PTVScXzrsibHHteSjiGt2tXRHO-VALbVHAw2vWmWZfY1u0EvyxEkg8Z-pO7Pjz3YCe8uSGcn7sJLLlUNkHDgDxJ1RNf8_iH4Xqnk5nqpkamaj8j7Zg2IxQRiUr06CN4",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107967810430525103811\">Damien Kempt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cgSUZSl3Gqz4l_FLIR-67Q1jeaFaYwRmsvVWz_TD33NBWQ9YbpBaKLZr1np-Di43GUBHVGNKJngHGtWTQ21C24llgcRkBexW2pjOOkqUD6k1xYSTaZN6xdmMEkHmOf5YCS-s5DMDaIlW8RdhYcGnvlFdaE2MiUxyLh54baHDyrdvBgA5zEgejQ0NOvZW3DNNMyo63qiRiafljb6uBozb5gCZtGrzWVrNMlFKUXyyN4MaqWt2HoZpiu435A6kAZOrqLjfRCL6iOpi2plP_lE1FBRhLfaMyiiIm3o7qgDRH7e_PJrZNPzeT6_oIYODO-_DpODF2QzZMag95BQiFVHVGJHTESSZBKPf-8fMDG5G1hWazFedkEZrw50tIE-FX0pvOuTtfKbJ7VHGIjUXsUgAgsAaJPZuAS0c_L-oP8Zbwtydm9",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106834657050489069742\">Chloe Lau</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eyI1jozAmaWOyYK60L1XqbJK62Hlvr5b7cLCRgyyXOjNy61OT3zrNVuWb8tDXnylXKGRus2CxvX3Bp91bOm5i__k5tc_8M__Ueym8yjsMEQxkhLXLtzj3SOpulZpvshJJ_fK5h8riqS5p2qjJ8s3aQqAKmGePVLK5nA6ye-nAS6kX5MXkc3aCxz4cNz5mqsPzMUV5rB4c-scQPNhrqVPplTOiLFYoKemNqD5ftCLsBYFWkQdG9_e1hKUnt4SCEHap98FqnRZr6IkPVJ70v1GDt1ip0sVuivPRDC6LrC5s_HSagZAsPfEkM6_cObJkgD0Yis-U_G7Bd8xc-YsAyHKMP87IL6V9iE8BsaIOh6Iik1mhky3et6ZKeBSWYJRD3wmMcut4rwkwnJS_VJwySIjeQQYvdQuV1eEAoc8RWP76ArA",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104523637067095661771\">M. Michael (Hi-tech Investments)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMb_viF46mHkgGHBKnxu44ClaGzcY7Pdui21VnWwJgcMqm6VB3QSOsXRJys0D-mEgxLggnr3se1fhTDvQLmOlmXhuHDi7P6cuzKP-z5Hw6-HokPdrt98vGwfF6YDCtcC8cTzXlONCLyZtauHgNtrs5qmsdogOSG0gpWH1GnOfcTEOxFInNWQpT_Dlg1_XGrA_Ri7cDztTeSdSZUl66qK9an-8-YD_vLYkNnags_De4ji1R5DfNDELfircZSCvXAZr5QPGfDASrgde_OmbHWaSqUNfsaWS1oqrmEYHoB439VYg4QPqTcvmWJKhA_OOEmsZZ0uGMGz9RfZtd6mkc_jQppSFU8kPnNoVSjxDbE-5FW4iY2Okl8LLfRpLOnaBhxGzLUZeRvHWhAfeYlA2lcY4MbJyzoWUiGbwRC94ezw133ACD",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103698405223950334154\">Fiona Campbell</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cGfXj5-SZmRG4nz_gFYjBl3I9unzDiS7e5VoUyDqozeymAtyXBY8BDx0pV_OtEHVubJ6_HNGDgKi3q8piImntE2nQvV3xq_Dg0P-UXdyMz3MAqXop4WwLUBdSXbAF7SzATa9Q6reo2HUJRD6zup1dhAanEWlSm7xUEFxODhZ9ma_35BdoSiJKqOSx2SpFWxLr0W4GYbjiu4DVV0OLs-XcX57yE4s-LBktFXa684MBigp_vnVo5w0mVe-0rSUPmkqzmMhD2S7MA0O_wBITM8cKm3PnkEM-9SR4UxKsSLeR4jK9dPhHIn-lWj-Zfmsg1dPyDbieBSEVPAjpb7hXpwtQtlKUpczwCjdszYsDaOXUG4vfEXpevVX7NHjOfYMetRWjegR9HRe6ccwZKMz3XUN1O9EwoGyotb9Vq0_6HFFVgdA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111955217459283133396\">alfie kelly</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Relaxed Japanese meat outfit where diners can cook their own high-end steak on a hot volcanic stone.",
+  "reviews": [
+    {
+      "author_name": "anum shaheen",
+      "rating": 4,
+      "text": "We had a wonderful dining experience at Hot Stone in London. The menu offered a great selection — we ordered mocktails, salmon sushi to start, followed by grilled sea bass with sesame spinach and steamed rice, and grilled teriyaki salmon with rice and miso soup. Every dish was beautifully presented and full of flavour. Cherry on top was everything was halal.\n\nThe service was attentive and the ambiance was refined yet welcoming, making it an ideal spot for a relaxed evening. The only minor drawback was that the portion sizes were quite small, but the overall quality of the food and dining experience more than compensated for it. Highly recommended for anyone looking for elegant Japanese cuisine in London.",
+      "time": 1760217037,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Phil Stone",
+      "rating": 3,
+      "text": "The sushi here was good but the hot stone experience not so much. They often have discount offers like 80% off summer Wagyu deal for 29.95£/ person but in my opinion it is only worth that much really and definitely not worth full price.\nOlive fed British wagyu isn’t good.\n\nPortions here are very small and service is unfortunately although friendly enough not very efficient.\n\nThe ventilation system of the restaurant is also insufficient therefore the alarm can go off frequently.\n\nI would say if you have a discount voucher yes why not give hotstone a try but if you are planning to visit for full price I would stay away from it.",
+      "time": 1759068619,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Sophia Williams",
+      "rating": 5,
+      "text": "Food was amazing. The plates of sushi might have been one of the best things I have tasted. We did the 5 course sushi tasting menu for £30pp was very much worth the money. We upgraded to have drinks alongside it which was worth it for the experience. The staff were very nice and friendly. The sushi bar is right by the door and in the form of a counter. We got the 450 degree hot plate included which was a really fun experience. Would definitely come back!!",
+      "time": 1756216506,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "rizelle saludes",
+      "rating": 5,
+      "text": "We came here yesterday to celebrate my birthday, and it was such a great experience. The place has a nice, welcoming vibe—perfect for any kind of occasion, even just catching up with friends or families.\n\nThe food was excellent and freshly made, even the raw dishes. The Wagyu was a highlight—so tender and flavorful. Service was also really good, friendly and attentive.\n\nWhat impressed me most was that my husband, who’s a chef and very picky about food, rated this his best restaurant we’ve tried so far in London. That says a lot! 🙂",
+      "time": 1751015355,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Natthaya Watthanamassakul",
+      "rating": 4,
+      "text": "We came here to celebrate my birthday. Had the 5 course tasting menu offer with drinks pairing. Love the experience of grilling the meat on a hot stone and trying different food. Despite the food portions are on the smaller side, we were both full by the end! The food was very good but im not sure if its worth paying the full price for it.",
+      "time": 1756236500,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:27.850Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtztpzhwbdkgRsuNgcj18UxQ"
+}

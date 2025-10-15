@@ -1,0 +1,236 @@
+{
+  "place_id": "ChIJ1VUv3jgbdkgRoJFfhybVN1U",
+  "name": "Aux pains de papy",
+  "formatted_address": "279 Grays Inn Rd, London WC1X 8QF, UK",
+  "vicinity": "279 Grays Inn Rd, London",
+  "rating": 4.7,
+  "user_ratings_total": 1038,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5294257,
+      "lng": -0.1203245
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5307987302915,
+        "lng": -0.118884819708498
+      },
+      "southwest": {
+        "lat": 51.5281007697085,
+        "lng": -0.121582780291502
+      }
+    }
+  },
+  "lat": 51.5294257,
+  "lng": -0.1203245,
+  "formatted_phone_number": "07771 613779",
+  "international_phone_number": "+44 7771 613779",
+  "website": "http://www.auxpainsdepapy.co.uk/",
+  "url": "https://maps.google.com/?cid=6140610978399621536",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fAfTybYXWoRU6W9Ybu5KMBQh-SZwDq7WzYU4DBGzx1WOL242giOyEBahNgWgvAchJlfz_rS7WRuar5vXA_6oJvn1caF3XvxWrX6R-8sjXKmJXceK3vo4jRIakvJ7rhvOroZAR9Rk4xoV5DG53VnWJf9Z4ea6OLT2f1L0gk41YJGm6YiWlEuInJ-nMS3nhijnlRzP0ey3lMcI9SJnv3_uPnydmj1J8V9FdfNZgWI-BdDETIA058CSv8b0IK9EROAveX7qJNbBXaQtfGBdJvLpBWncGZ7e_dEHt9H0pt7gd_STOe2L9VJftFMo1Vk1N2V3_4Vq1G1Rhsdgi73xI9utcKK7sZoPF886_Raq3pNIzGiiMwF21g4SjEpH4rO24-czxik3PXHzmSi8YC9RObdJDiQSE2sq1pUwQQapcFz2YHmg",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102228466014329286378\">Saowanee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dVJVS3mhtkb0KYWRTn0zfw6FWepI8Y7uBINgxEIev9oQ_zUt79hUbEGoX-OChQE0y53UrC00fanIkJ5RQaWGxm1J6o_HWZRbfrLzb0VAkpUtP0M8PO4tqZOAn4FGxzvhMSI3-6f6jR0E4clfgspAUZJ7wm3UcG-uYCywc9Tv4P1WxBfj5nJO3NOzd8j2zGcDQ3YlRx--ENHO7qy6oBa99YK8gP9C9mY6bY_ADloefAC_AvcZpWaJNYpPfXhm-5Y6mpiTWtq82Q4o1E28sQMy7915arOL5RvcDKbvUMkFRMKw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116977308557589390872\">Aux pains de papy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUmTUSb7434qdLEzipitJR-VyPVXlWSrNesE1aOWRs1qFmyPlS-RNhQCZDcrMkQCgwLynCn_Y5Aaq7F-UgTG5lkDdDQvVjc6qeD1xUs5Tq_4DV7H2AgWRrHhe1p9j0Chrul_5tMGqvM-LLqNOmyeP-sEiNjZPcI2dhnGnNycfWOLTFCYQ91gk0A7b9GIZKIB1VqLQrnNFpwDFiev46N-voIxdYhKjzwcrGakvwdBODq7noKlMiEczhtmnEed9fQxKrYP8iKiWhLhczCqCHgW7V9Us8mQW_LKxVTSpl4BhMVg",
+      "width": 4800,
+      "height": 2287,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116977308557589390872\">Aux pains de papy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0kiZ0I5FyMBSaH3n72Qh4drXeiNipPi7LmpLhmOmKkWwAG9FZh8SVeoUGr6drCXZLhEoud6_xJnOo05g84wNDmVyYzlmr5qkak4GRm3mBd0abLTF6ElDfsXUYblEtnLaiWYtjNoX31bvIWJ4QWoN0CbHoYcQN7re80mu-dwb3pDeUvdXHgyHHR5IMVQRH92GOFnE-jxxqLNk10NgF0dbN2ukTvjtEvAf8GAhY2mltFUiuTSU-p4v7y0g8B68ivtKoqiKqxHxQCJ-1eVqqpUpxFJHtSweLU9ufczqx7Ba7KIyc7FNYd96SqaU7hbtiYRUWRzDdaV6n2F_nA0KnV6oj_CE5ZO7tULgA9quPZD4JCuGyAcrPs_nhbPFxuGrYlNobE9YUDnnhZPCiXxGkr4mBd0Tsg4ue4t9Y7QJ97Do",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110822830551690998571\">Julia Lawless</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eCMQyokvnPkYLVatnpXby3lVuNj-fJJRpIpWeb92xQayCckHXU64KZoHXwXQXa6oc1qWYV514-sFNIXJD04ujz20K60ESMrR5g4TRHvFGPechmuckMrofIE3PkFub4yYsY0S_8bn87cav9w3pCCQ0swRBsl9aO53GMN3F5P5bBD0VGJ7OcIKQ9sKdhRtoSDWP_S5rOXoVjUtb-2FgfNjwzYEqScxZc93dA1tLZWRE_ODEELdrOF26gYe_iP4lnB6ZxIMJbbpVFbx1D04aEXTFrnkmIjMCPjM2phqQgs3_oRX9iTPTVklC_3GqY_mD6xlw740OJS5fa2doRYN6QeG2KN1ZshyZRPXWCRRjUlft4AFsJbUFxKy28sI2IT9hkwZcU0Hcec9rNuMOc9s_FnVezM2Nk_Ay3p4c4wSfnmxGCCg",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109432233228058232799\">George F</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f6E0ZP7wQzAZncwtHq8Xxre5_nBAYgDgh3VNpnLs-9cXP32CqiTdYVLadKo3E-LHnnB2nxp7gYFyKTlE3-qwqmzDSYxPShxLKbpHMtW4lJnbF32tHw0-D1wgQzpqlMSXn-2SW1BHBKMjD_QBozfVGXQK9kPDbIA_ANIhYbkdMawhDeiUu4QrBzjlLZmKELxEf_eHqsQQYO42WQErLC-mWJN_4-jfh0cxMeeiO1XXSaNq65DY4xHPePniTNtPGheeVJRximtYU8icmoElaGfB1DQVMgmtjlES_Rr3s_vvl_8bZGZKUpd1D-ie4-i8d61LjoqaRCNebP6NOOvvWn5jBBs246L7AdUZwzoinpVlqobR08hCFo9x-0TcdQzOiSAbYIrszscXDW1zwnSwKFbHPEY1_QdKjNXLioyOuTQ5MfBg",
+      "width": 4624,
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116351649687572160969\">Thomas Henrry</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHmQD_HQyo3gK_w9UavK5k21a9xn_jsys4_v01UaS0XUj3nFqonn1YXpLvhmIHATC8Iiq7GTDyihxj84Pu7msxEKKHTGpwOUayspMI_wWmhv_32ZHt-AbmRcSDdQWDfry0iQ6Dmwlh2-QMHOZKv2h8mGjiBONEwfYps-y4rAoTgpCzT2eEf-CZqU3Z_qIbVoFO_fO37GFS_Put8TAXxgeqFlBabzOLqvAGOBsEASm0zoUIiwk2JFvSmuW9G8byYzBcj0gRnQ0MLVtVR2eTqB8_YwhlfhJsnWjibG1KEOGgjj4mehrj5Ytx7-bIxzEaiFCUCC13_4-nBXuTSmuZb_wNRoOOJU6w8i72J0loC-CDAwbbLYlAindyNIR9cvuxAQyYogEtzTO_kR9IMAmq1FfUIh0QqYL0P4AX8NxdG_A",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115855782239470094169\">박민영</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d869vCz6yaXaapmTaMuM5rcRh48CGMtEco0i914RiLzc-9yYnPH2eY3T38kSI9toXhV4CZ3vegNzSEL6V7voplVl9SZekJ3ns-PZbgdLoVof6Z-6ph1n1NpSE8zjgR-Dn3_K__ZDwt32cEVO6we2nqy6qdcQ_p8jmw3kxdcYixfI5wg8jVAi87p85284U3Ksmydvyjq9dPbjY5hjYa1fyYSWEB7KSR7AdeyA3H-droPNejqonto0Sy7J7Cc517wjig_WRpg401y6gd66fF3IkqEvdnF9QZ0rAdzsQSROi7lXxq0juCx63kuuUJiet-cKOdY4eLQbzfbEPkrwX5YE287tOrvVYtmcJXTsx_rlC8LDchVoAfO4TCcuy3GOsb_hca2ubLIYSyYJr0YeQMRJj82M6UgkecEbjPkUDRDv4_L6w",
+      "width": 3200,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100543157010272286376\">foodirectory</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJQxqF8bqIZbQWB9BX5mGcmTzO4PvGtqu7bBmxD_hn4TwI3Xa9ZNwea-Uhlsd4XDYnNPqZvM1d-IfMXtHaKaQ0T-ixCDg7MzTPXweoZLrsM0Xv7pbO_SvoykUB-mTq3p8ZqoOhphpKf7yR8Pcy7ywDdjuXmctxB6pb4DL3kOpEjAi3lbFwWtt3g3CH80GGYT_hjdg4WzDTNAZINjeVsHNktt9q9-smPboW6OUhpZlfECme7UDrIQ8eNkNOe09f2R1gOQmYYBNVcR4duVeZ9lvDa_45entjpGIvucE7L6V3wkIqi1D9AeEOCj6P_UXTUeRhxjGJ8g7tFrRP28MSJMWm65N2hFB5XkApLvCrxpCk6nGAPvzAQG4bu2QjWPIu9GqusDjzJmUnP5EMcpmmqu5M_ejcf3IZ9LG04hseUWOGFdqU",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109432233228058232799\">George F</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cjfgYLDpdfAEZE9co7_jSuwmUX1Pk3sSgjIo7qbPlwk5_yVmqqB2azsWDgRzUJW9qeaVy4ZwkyqwQlY0DMWYYZ4zyL_AxYnWR0oO6N3urQ5Tu6EeoMbuAJ1Dr4BDXvC0ZCan2V-dnfXbUkvF4r7Vq04mKOfDw9sAmdaBI0iYrrAlYSWbn5wZ88dDbXV10MzIL2Yn9DPSMSplL-QDPXo5XOxWgfuYltp2CqtAQcgZe0acDrKXIY9Mjyj3v4irKHOQ8eSmkWfk8z3lDELmwJywV94qxd3zLxTR1fForln3m3ow",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116977308557589390872\">Aux pains de papy</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Quaint French bakery offers baked goods, sweets and sandwiches in a nook with limited seating.",
+  "reviews": [
+    {
+      "author_name": "Martin Butler",
+      "rating": 5,
+      "text": "Stumbled upon this hidden gem near King's Cross station by chance and after trying couldn’t believe it wasn’t much busier than it is. The chocolate almond croissant was perfect - flaky, rich, and generously loaded with sliced almonds and had a gorgeously melted bar of good chocolate inside. The plain croissant? Deep golden layers, buttery aroma, crisp on the outside and soft within.\n\nCoffee was spot-on. Strong, smooth, and made with care. Friendly service, no fuss, no rush. Just great pastries, great coffee, and a quiet spot to enjoy them. One of the best bakeries I've tried in London. Will return.",
+      "time": 1754388630,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Nuria Yeste",
+      "rating": 5,
+      "text": "Croissants are one if my favorite things and so are boulangeries. I go to Paris quite often and I love trying different boulangeries. The croissant from this place is a croissant you could get in Paris and it's the best I've tried in London. Super crispy, flaky, a hint of butter, fluffy inside. I will come back for more!! We also tried the almond croissant and the chocolate eclair. These two were good, but for me the plain croissant was outstanding.",
+      "time": 1746186881,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Paula Caffaratti",
+      "rating": 5,
+      "text": "From the window, everything looked and smelled delicious, and it was! It was very difficult to choose what to eat because everything looked delicious. The chocolate bar and cappuccino were delicious! A special mention for the friendly and warm service I received.",
+      "time": 1748162179,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Sharifah Zainab",
+      "rating": 5,
+      "text": "I came across this cozy little café back in February. It looked so inviting and warm that I stepped inside, and the staff were incredibly kind, even recommending their favourites and a little backstory of the cafe. I’m not usually a coffee drinker, so I went for a hot chocolate, and it was absolutely stunning. Looking forward to my next visit when I’m back in London!",
+      "time": 1749609064,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Ayla Joseph",
+      "rating": 5,
+      "text": "After being recommended this location by a friend, I'd made a point to visit it for a weekly treat when possible around my lectures in the autumn/winter. The staff was always nice, and though the goods could maybe be considered expensive, you absolutely get your money's worth! Everything I have had here has not only been well made and decadent, but filling too. Lovely place!",
+      "time": 1739268808,
+      "relative_time_description": "8 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:25.923Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VUv3jgbdkgRoJFfhybVN1U"
+}

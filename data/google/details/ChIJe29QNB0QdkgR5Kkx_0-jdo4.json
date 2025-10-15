@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJe29QNB0QdkgR5Kkx_0-jdo4",
+  "name": "The Ledbury",
+  "formatted_address": "127 Ledbury Rd, London W11 2AQ, UK",
+  "vicinity": "127 Ledbury Rd, London",
+  "rating": 4.7,
+  "user_ratings_total": 1614,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.516655,
+      "lng": -0.200063
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5180185302915,
+        "lng": -0.198597469708498
+      },
+      "southwest": {
+        "lat": 51.5153205697085,
+        "lng": -0.201295430291502
+      }
+    }
+  },
+  "lat": 51.516655,
+  "lng": -0.200063,
+  "formatted_phone_number": "020 7792 9090",
+  "international_phone_number": "+44 20 7792 9090",
+  "website": "https://www.theledbury.com/",
+  "url": "https://maps.google.com/?cid=10265571964616813028",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:45 – 9:00 PM",
+      "Wednesday: 5:45 – 9:00 PM",
+      "Thursday: 5:45 – 9:00 PM",
+      "Friday: 12:00 – 1:30 PM, 6:00 – 9:15 PM",
+      "Saturday: 12:00 – 1:30 PM, 6:00 – 9:15 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1745"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1745"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1745"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2115"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2115"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e4gj-eNGjaoyu_bNLQ43k7rjO26Z2x7J3oi5pLCIGPO4XJU5IE_C95psBFclZ-aRLYTqJvqybKqXX1KNosuC-TG37qYziZPc4QV3j_IuM_mkiqDOTE48FGiGYvIkjNFSr3AxY4AmwvL64jpydhOvEZ9emao6aIqj3puLrQdO1BB6zUoqCqhqOaUb2gQNm3wCoYVIkup9VpKzde0hm9fbK9ncqZmNB-JtF-PjsImN0XoWqXvX4Wluef_d-woA_OCHDsu8rKWOXePmaEGly1PuvgleiHCW-QRiigKXSsGLDrvEOblvvh0J5JmYs7GaRm5fsplAVX8It5PSOAGtFpO_aHPscWfT0AxiDrGqLx6rTPjoba6qT5WebxzmZx1blvo9FIt1latnN9BbkAFqHQnPOKmvGx3mPrD91YvMCejUJQNjY",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102407911207631727118\">Sam Srinivasan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRuw-dR8sYEkhp5gudejVvPoNp8RnmgxKPj5PQdNZbGnr0ahlPsnl2duKMhXUIu9ZTP4pVEuvJChSEynbJiv-GlEaloaI2TnbOKuVwgS3aCojyuWpcXTsyAnGmRCnM-mzsNPhNMDFKab4UBwcyPLhPvC9TVObVKswFpCtK79UX6MkBFCOlkculAAAewwLnhdckNd1zkIbgUPoaiwrzQvTDfmSZLULzW4OHIV_kh3tij3CWdiGmcwa7xj2JDjKDNpW8jibijngGGFxZBk0niLpFWyCGaf0fCZhjMPpD6EbCfZwMfnpQToigrQkMAVL1BM-UOtiLZG_lYrde2QsCT0_3dd52z8gVLmcegE2VhorBnRodHJL57yURqLNzWoZMLo8mpqvZCqmBZjDqcHmazP3TE6OwOwYgVT3FfL4uOw4kRHIs",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104965413157475923310\">Steven Belucz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnprGue_CltvjG4LLrGPqvWUXP8ZploLMbmVnfa6WGQDObYumsfXj3NYYiEDWZojcW8rz4uHFL_R6JDPHjZ5Jl7hG2HeBprN62HtjIwNC7vIijLHAJnwz5yC9AbsZuyxkXUv_1PPbFsrQwWeNpuFTIowhWQHbTaOLMhNzTKMWzmD6ZljninLiJ3VUxABo5zpRIOk3qAjxBpLplar6_bPkSB69htP9Efio2eEjFJZe_uJJX-q36S7skyYJu_Ov_IWvvKRI6iZCfDFxHVrlvp4mFNRpsGOELv_V-KDEH208Vec_bnAJuYsu7TwACbX0NoggyHf2_OxQ3UCFzrPPKnortb1qKOs_w5bxpIyApqNqYGo4yqxnp8LIQ8Fz-HgR81HLyYsUEzljR6x7dwgzgylU10jQ2fJxB-aY4wVO3A2cCUufz",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104965413157475923310\">Steven Belucz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ewfcZ9dk6cBBNS8ACgL03dMlgMdqoQhz2lXGPhIXXkQQ6xklSLwzFUJBiULWvoy_CvoEcD8aTMb1f8l54uAmr9GsIYK7LZCNCyIHip8CIuniM7wbHHYpO-wVoOi0vTcQa3HiV-i9FraZ793UA_eWODzs2p4GMAZ965lS_SFYLmlJ5pJCwZYvNEXspUadb9eGaHt5Xn6K5Y839zGdRE2eGXyVfGnGM-nxWwskwKB-JkzYLwZe0T0AQzmyFACMeu5HADs7Hx5KeKII3EZQ9Ffs0Qol8Hn1_TL7kPxuXQvPnJPc9Dp2PJiZV5jxZbusBRAhr4FhaUFTxkUArxScjONL5sf63DBdQbUNCiGhROBP3q6GyLQRzJaDsIHH7j_Jb7jupqA88mj3xmX8MwFzdrcb5Guqzq-W93t4WQd3ZaMr86PtbU",
+      "width": 2596,
+      "height": 2596,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110751378947419919610\">Desmond Shum</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0eBk0sZ5v2As_SE3bG_q0RnQwixTS8uCHz1BcZvScRnK9p5WGVP6Y3H6oGf5w_yVrbHmJ3YBU3NAXjqEtd6p5ZPIKvWOPuEJy7A1FSnirZvzawNfIinDpGclU6BmH4XS2N2oDdiEe_sQgwnU9oTmi-dzsUXg7m9umkj9YhRUVNsNVc-P7nOAtMzvtDfdvQbASi0rtB-yum05cUIILOlFfiLKJnISaawZN4NpO9V5NsbsjjgE_IWG8ZO7r7QVN6TuYRwdFKLrOWdFhrqiVrJ6S6wQ317gxLpsEJVNTm38hwvH8Ob8Ot7SweBThhDK2WoAcSTq_gXsivQQvSfPckN_4PDvA-ChEIpHhP1X8VS_Rg10X1tX15ooN4IIh6MHeK4ZdK3E1q101AjWr0ufLn7RLZGwBoIs0Sfw3h9FqWWFM4A",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114817823461941669448\">Chaohsien Huang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dlqAM25OSvauGUubVUcqAC2ZOrUClJfNwT6_jLO-sj7EzYqA-svA17Au7VuJu7DP6T9UGLno1Li6Mg8gKyuHUUeNBkVAdU238gJge2LeZ6ptkvoOMo6NWb_673b4t26JBKZSGLy87IdLdS7CYWnlqgYOE147bNMKQ72B6XXy8zpLeEFsNqDCneImUDdwmMbgB231htAazlu-ciNy8eIASw54YTgOyvov8tDoJMLO-xYBAVPQPJrX9z2OiXP2Cs71My2ZhV9cHyixjz0tEyFQ2kioCn2BxxY1ls8wzsD7y_2DtZXSabEIu1GfIg8anYW_5lMqVh6S7wTswXlCOFCBJcRl32RYLU8gRBtYLputNBXqCff7EVdjSKbxbWYbLNR60CV4f_BnPn3B_uPsrSwpOf0fE0Y5puqUawcLOv7w5MUFnw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103104034796141894714\">IdaBasar Idabasar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dlLP_NEIcCD0dvV18yeiefxxHd6OozcNc8gwtsVpljVbb9o-cr8chKTrKAEFUsxUm6D5_0EWkT3nMv0RTjbjHohBtGAPN6cs5S8L59djm_lLtjYnrfSBRmwU2VOUuJucOsQowfQdKSbvnOrDUaGZqLZotO3V_C3IKqihHnWwaKpD7cgfMHS4geHRaCwuQV4_r2LkRf1xuu55c7flXkqfpJ1imfBwpXQ1vLCNJfWPtbLzkeI-fiWAxqdurUH6QNSkDvPfHMKy_sRjR4g88XbKqNyDtaoDbrIaUn-ITeFQCOV178c_2uDSxR_-yeftMwX49SMcSz_uWNav1lx3RQTLrkssmFbXLP9YnBX17AneioxdwtQd9fotpEqdoRSflwZNobT0XjdZnFqCMTAifsvLomTHdi_IgqaMMBECMs8fou5ubY",
+      "width": 3026,
+      "height": 2050,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117010909077961730892\">Joy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eAkP-eHLxyhAQgB0VKFE2mO0wdHloVADEN7m5y3tNQH0-Gq4GoIIZEG7EcCeHL37vbYYLSprAHd2-cHXZehPSWKGJuOmkAEyDe_cFyLYvBCleg1QiFJo_SxAo3Q8vj6Pr-QO0idJyXNs0gAi8n_7Wnq7NIFLH8lmothgn8H1Q3AxkqH9n_5Vf3BsD1rO1wBDbXLRfCURXihMVh4V9zUAybBGfBUnt2ZzO47qoPlyFjw5MviHCHYxOn4Bfm93zpHAAogqzc13WaG5ejPcC0U51WezK6VhmRUHxr4sRwFwjyOW7L90wOAfFBGaxiKUI6Ldkd0hW88GbSjeoytGWMrXZnk1TC_XvrhH2VeDNdCyECw-oJsMT9Iy0MZuEoPL9qRRer40I0gSpSNiCj9MWZ1fpiEkMye_trnmwLxtE0qlEWHl4",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103379398583459597070\">Yuval BarHai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dWY6y69zPvohSBscaKg492Hk4U5SAedhhKZx_F4vWhg_JewtuG7lU32rNTMcsrTkZKPT0Op8bMbqk3nku0RMfmbMq8w0chI32VlTbT16zy4lGGbf6XWZJwRrxvRg2xpubim7lB-KxctbTvDiMVMxsrntyTdzVp2DNC4eEc8gwAdbTPFeqxZLKU2vN8wc9x8qKn2ZciwyxqLygwFOIR0vmX5wmc7d8Kqo0sZknO_b1nQ6IYWTwag4WsXhluDCwZANWtMPIJaaeIWDcV3mxo8GupEg2IJJ8S3CLEHpXMWz1IvAUe-WYqBDVghOSi99KZoDDLS7UOd4icvGiDRrBLjZCzps_KSDKgCpK4H3cib8yEmDeKN93JsfE4vqC_oXbbw4IBJ1bpYq2EXZEiRGRtJUgVL-6KQ_8zVvfoV-zIvhOMSfrtSMc6eUrO8KJSCYyC",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102612620634011744219\">Mario martinez valiente</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fmE5xKC97FKB_Ee1lVT_14b0Lon9aProiSAeg-W-8J72xvWevwJTRhfa1Om7Q3ypFSxvsuO-s0iNolwdMkA1RzZyzzM0G3udThcpWH334_knCsziuzdmuNRZiBLjbJWPtHNX6_m1GjDukW6x2i5D90LgeGnb4H3jpx4BKGEOqxihn0PjU-MZMq6Vp8QY6ZBdpLuB4jVAj6xHzktZKz4UaPidX3VZ9DmIdrdNeim54-eOq8fu6xCzWp_qZ4RZZiX6Xuh4JSRIwIDQ30rjujSJcsChhvMGpTPHV7QvFMeYmSm9HEu0IVqBGIlFBXpWppS4rLahzHKTeU9dqi8HHnmfaRBkpJA1ipEfxtQybLCgPYKj8IvwVA4pX50Tks9IvIjhVeleaBsx1nJo_naOYyYiOXsJVceP9O3usbddXYoEtExA",
+      "width": 2448,
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113619145943053787006\">Nil Hutter (Nil)</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Chef Brett Graham's innovative cooking, paired with fine wines in a smart, modern setting.",
+  "reviews": [
+    {
+      "author_name": "Mario martinez valiente",
+      "rating": 5,
+      "text": "One of the best dinners I’ve ever have. Amazing service with a perfect balance between fancy and relaxed and friendly. The wine paring was amazing, some great labels paring perfectly with the food. And. The food was amazing, technically perfect, great flavours and a lot of truffle. I. My opinion a perfect place for a celebration or an important event.",
+      "time": 1757753713,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Jakub Szczygieł",
+      "rating": 4,
+      "text": "Amongst fine dining restaurant it is a very decent one.\n\nThat said I have to admit that service was subpar. We came first to restaurant, but we were not serviced in order. Also chef picked their favourite table to serve and chit chat, but that wasn't a privilege bestowed upon every guest.",
+      "time": 1755203457,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "mrx",
+      "rating": 5,
+      "text": "lovely restaurant in a very nice area. i went there for my birthday. we felt welcomed from the beginning. super friendly staff with a lot knowledge. food was amazing. plating on point and super interesting flavors and techniques. i loves that they have their own farms with animals and are very close to their suppliers. i could taste the amazing quality. my wife has a bell pepper intolerance and she got a great substitute dish. the owner is super friendly and comes to the table to present some dishes. great guy. hopefully i will manage to come back one day.. i would totally recommend this restaurant and wish all the staff all the best.",
+      "time": 1723300809,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Christine Kim",
+      "rating": 5,
+      "text": "This place had been on my list for a while and it mostly lived up to expectations. We came for Friday night dinner and enjoyed the relaxed and inviting atmosphere which struck a perfect balance without feeling too formal. The food was largely excellent, though the dessert unfortunately wasn't to my taste which was a shame. My favourites from the tasting menu were the tuna, scallop, duck and the pre dessert. The service was polished, friendly and helpful.",
+      "time": 1729912628,
+      "relative_time_description": "11 months ago"
+    },
+    {
+      "author_name": "Eddie Prilepsky",
+      "rating": 5,
+      "text": "the best service of all the Michelin restaurants we have ever been to. Very friendly and positive staff. Excellent wine list. The food is generally really tasty and creative. It a couple of portions, in my opinion, the perfect combination of flavors was sacrificed to showiness and populism (like the dish with black caviar, which completely negated the flavor range of the other, really interesting ingredients.\nOverall a really cool restaurant with a good atmosphere, service, thoughtful details of dishes and interior and decent food.",
+      "time": 1729416638,
+      "relative_time_description": "12 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:10.254Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe29QNB0QdkgR5Kkx_0-jdo4"
+}

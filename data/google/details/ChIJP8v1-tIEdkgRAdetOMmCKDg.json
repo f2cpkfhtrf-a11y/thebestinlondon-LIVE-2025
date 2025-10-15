@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJP8v1-tIEdkgRAdetOMmCKDg",
+  "name": "Gauthier Soho",
+  "formatted_address": "21 Romilly St, London W1D 5AF, UK",
+  "vicinity": "21 Romilly St, London",
+  "rating": 4.7,
+  "user_ratings_total": 1560,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5127783,
+      "lng": -0.1314676
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5140875302915,
+        "lng": -0.130090619708498
+      },
+      "southwest": {
+        "lat": 51.51138956970851,
+        "lng": -0.132788580291502
+      }
+    }
+  },
+  "lat": 51.5127783,
+  "lng": -0.1314676,
+  "formatted_phone_number": "020 7494 3111",
+  "international_phone_number": "+44 20 7494 3111",
+  "website": "http://www.gauthiersoho.co.uk/",
+  "url": "https://maps.google.com/?cid=4046628065943344897",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 9:30 PM",
+      "Wednesday: 5:00 – 9:30 PM",
+      "Thursday: 5:00 – 9:30 PM",
+      "Friday: 5:00 – 9:30 PM",
+      "Saturday: 12:30 – 3:30 PM, 5:00 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c1FPQmerWpzHzjYfeayGRncQ-uju8xOvRKPYJ2KEGzbmANVXCxDp7XVcTcEvSoYKN8WUJOBlcFu61-2CfxEedTZoqkRcFpTpCKhsSKWf1Gy0sG9Q0T2D7neSW03aVTkWrOO-PWOlWUS9CxKywJCHCsiX002zDEg8hXLfvjwYVH2mzXFhEWHnRkV4QeRALOqYsGTvKAKi21A3F8niXvf_Lb3unfN5bkQYhSHjrUobq4aLYI3KHkrcfIHDkgTJCOkDYyX3T0gmqWhes1SppLiGgesk2By9jU64vUgaH3qT3ZJg",
+      "width": 2570,
+      "height": 1447,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105936409216978691300\">Gauthier Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2efrcHY0kaFFo0HjkONUrOyU_AN84d1K6DuhdJFInb8mARtaO7RvnKP9sSbHzc0HxVxQWQAWQuqMq24IIOZR0Dx9ms1imoCYmimWUnZw8Nns_gm7cPJIVQBFPJt8_-kMU3NdwATOEOmQemioFkyldNtvreo-Ssg5YorqxoUqB_NhBjLqR3ZeLzWBW21sp8hyBEVM7wa7ZP7Z7vp5AG7Rsdh3CmqBD6k8VMuMFDarzhvh_A-3Z3h8dvSzb2F9S5Ytrnss3Ewv5gynpGnOR41O7qTUXrNP6ekCvNEqAvySoqdyA",
+      "width": 1024,
+      "height": 683,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105936409216978691300\">Gauthier Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMPjWoQHtwyBGfaeyLM55ksb8YCfAae6QkYkjpWeT_tXX4ESXfB4KyjnZ-aVFvoS6OPEMaXLHVxQvArchE1LN7HmOx6noXAeExFibF_5hVjT9BE511_HF_bsSbZ6Pet6tzIdEQAvKHNmT_2dsrmHOqn3gJdhKz9aotxsGL_iFEdgr6a-WAQcKHvuEJ5dPIB14RA8NKjWOwN1l6N2mP6Hi7K2PduSmXa48AR370bnwzmyelcyNDXNkyLFFvRYaaZ33Ra32cRYLNA1x0hq4BonzA_nl4RPF6n21JJxM7GGIQ856xVx5mISDizDKpMBI81unl-hAif2oaccdZZEJ_kamOex05tyUGXa7T2hWDkWF6uiJjWGW2sXyvojJgtqw57A-QdGGH5fdJdrjYb8S4PaFfBvmeuDDih6hMsnxZtzeOK_WyAqAqOws9_0fOw9jh",
+      "width": 3021,
+      "height": 3372,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110776999799909960782\">Erica Garvey</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dkDLJo4DwD2zIXgr3swoBjIXZQ52mAHadIFwSRkhGCWuh2akcLjS_x3JdbWLODxnwZYmv04Qr0qqC-fkdd9xRqYyOVEVE2YxpLheg8vRriu4V3lx__Mzpavb1ne_h1amXqvrDvgiVU8SXTCkE7vupdbwOQDbHB_0DwA5226PPbntdWrvCCM8r8IS2O_eMQQrYwU7fdggEdu_SLRCLuAYVgQjP6080XaPFMC6niKWGJIBbIuvl7D8z4R27LbqDShu6QOPuC_g3mhypombO9cHum4usCpUZUcDQ3H96cbFPfBcOgC8oPgUtE9S7E2nXdxUb055gXhiyQ9NzICfkWG6H5iopGMvNd8SzYAtoaQu351_dWiRbAcoD5X6SEx1yqA4kvmNQDp3vwNYxITGD5Svk7chQQgPnwa8MXpiZ7Yh9gdw",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113751496376500192421\">Amira Amid</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f2jN5sXsSnP0SSX7M4chsvnKtPu7C0AXTbgyQ7hhVO2Sza_-kYwTamZGOWOijeKdq1hndVpb_swRBpwW54WxphTkt41yqqoa7BpIs9SGM4PyB_BMvDy16DYdC5f8th-iZk_WpH9ICQc5cQ1N2bjPKCti1WWDVNgrvEckDq9Rm7Ilwnzb-JxY5nSnTEdqPCKcQ7QMpZcSAUPdSe7PMYlE56DfPA7sNRQmtQSaYam0wKUHwPIAQpQyCcJoxJDIvIVJziACH03OV9P2LvXcH96dIJqpgGaM6plWoCL0yoOslxKz7ma2SJ7VUG5oosRqIbf9_xU7ajDnIgpu7DiH7l7KpAyBqWBe5VEZr3okdrL3JNlMoWxP73emXK4ARF9Vp6syX12HF-guAVW-hGv7NjEDpG3xEyr0RJVG1EpZbAfDnmro_DUhcCSMlpqp3v235u",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103799573007529434840\">Aranzazu D.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eYqEO6ddN870RrV2ITdHtKLChpJTsabDDsGnhQZlXWbtcPcvm-lKGp1rfgwJ2tq6NcpRFFz64ojw-bg0J33r-bRrl4UL0a6906ns-vA6Gu6gkCQpCiRxiwZR-uQvMKwHDSDLisc4yZV1t53BHhC5bE0fehrZ4a1Yt2GYOyh6KJgsY3vaJ64XA_p1b5m09ldlp3bJ7Rpb5M5RTCDFQYIu3DYM2aZ6_ErZUb3rZ3vYoeVBjiAnNSG7EF1qEU2LLXiGAyE3rGHzwO_e7ufZvN4NiOcRXf6-FPzXSf0FrNW4qiw-v7mF_ATEijw2Yd0YXDBTf4NHSnYsbmqM68EaKjQuog1joTCdzpyUhgR5G9RAQhZL4KZ7G6i2fsORwmfKkF3ykZdx73Ot9ahxBZVZ1gkRwuZ1rglWyrdCaeVBnmd2lDooOTK1ZDNh2wd9vOtA",
+      "width": 3072,
+      "height": 3074,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100429831066442078563\">Rob Sheppard</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fKjs75ifglgISYZtY9Y_4XfTeBYCSLJimbHq_9-FSwowCC2gimmZthmwPW_vm-mOL6WtbzVT6NKN3ElvSq26LwiwKbqAJcINzzH6YSVostjxehNZtIElE8AE64v67aZe6O-erPxr9yE0ikO6KpJ0obkmzYOZNlPr9Vbgjxu4fj8X97PlP_P0Y9lWeX_lvRRF8udpNoOco_P32yrcwj2uTKnbIIoXaZnhJlVeKaNNclcDdwxMa9J6SOPEtNadgQyNpp0S5enuYS9tlLXxA55bQA8-1MNh3AG2amtmIZnlnr-MNw6Me7JfYhUU_rdvwHbnrSH9ul_AFTvNSBkhwUKduvQxpHNxavDHm55cY3-Dv3GB7ola79Z6yL90T6xV2-E0Inoe8fdObpDIufQEuTr5hRMJCZFwxY1_ixm_1Tm00V-Q",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103680856780468980158\">Notley Puppy and Dog Training School</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cfJ8QtUdHlwyDAMDhZdK6CYrx6bZA54Vau2jo_YLXDFdALbcHjVJoQOKD_Z_S7cFZJh54diSdr7MUMM4J0wp4StP9ahHPOGOEn6bTJv6KyQ4ytxDqykVun7BRNWrf3cQB-a1L-7kwCOi-l3rosLH_av7f3HtHL3PQRw2i01B1Aik9oWFffu00sfTosvw1OubZys7Oxvs7x0ctujfa-370Et-53dwLmHuPyJl-OSV6hKT4A62vdn_vEskzm5U4mvph2TNE0vsJkuXIbpX_Jp7tImAYSxzEYGO_tzjuGnC2DzHLBOMmR0BrkF6gLribtKC3kNqlqmEa6yWuL3EGC_3IK2wWEKudZkcJkuj1QzJXIl53lEK_aGmDlYHhExakmEW3MmyPvnaxYOHg0DY1BTQU5SqvoGwjqRUMulc0Yn65GoE0",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100429831066442078563\">Rob Sheppard</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dcSP67cGlR0bvhAjIYZxQXfaB7zl1Tf2-ebIlQUOHj_mxV1v7gLtUVKLV8_2rJYYYD-NONpupBbFgEQ9Q8iUPtIroDEVKvd-pI2wGFu0n_yxxGuvaaYqFUdW8SlxPPJL6w-EboEeGrr6KA1GXBKgjgskTxzxBltJJhOuku6I7gikJNY5LftXYnfft0DiomARe3BhGSDY5XcZd43qEf4BPEHg7hzVxohiu_19uKiORBurpAjn2JJWoKo-V4IFm-lc3Zm9b_qvZmSB7AxOX-Cm_KSjI9To2Hu-hHaQpdG_-WpMVgLdMh30BxPypecbxy1KyPPGV__Lugp6btUvYrMR1eWeB-30D9t4wV4riKh4a07Hr1rtpa1mwD2O0tlMTm7vO8E5f5ZqP1-hsI9zK1k3-7axlJCFOqJ9MdfzdgEgXJ3Y7J",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101076035767099628339\">Juliet Gellatley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cSi4jb-lovZWTBc8VDsdEFAE8Gy1GZ_Fzji6u34yelu1R0MwKoB9iwxSD9clCQ3F7v15C646QAHRcRVTebwSe2jd2lTAupx3Pes4L7kXSCuj7aB7nSGJG2bNZGKA5EvQk9OmBPUYw14Sd7wKcJGSnIWQQURHe4ltFZC9tA7Ui8jM7fr5OI-b3MSWjzZgAH5rwMdxXn-80kXgpN7abqm8BuQJ1sJ1zIg2W0Js9--r_J3BE0EgAXhnItEEtbHIl4R3oLe7vz74Td1h_url8fHlMwMLSzQfPpgqyTD8qzOxzL0cdRgCvtDttPqE5aPfrePSUFyDyMz2NeI1CgixlFr-nvXz_4UCksppOJdphASQVT6ge7IVKUGSXpgxzMJu-sRIfNc_oVEmIrArl_2TodF0y466KIvBCyRizg2_S_YcdmFE5rMbc7WIepZXByxM24",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109487961375837702778\">Michael Vieten</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Intimate dining on 3 floors of Regency townhouse, starring Alexis Gauthier's modern French cuisine.",
+  "reviews": [
+    {
+      "author_name": "John Davis",
+      "rating": 5,
+      "text": "This place is an exquisite indulgence for vegans looking for true haute cuisine experience in London. They can accommodate dietary restrictions without compromise and deliver the rich, complex flavors you'd expect from the finest French gastronomy. What an experience!",
+      "time": 1760131883,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Chirag Malhotra",
+      "rating": 5,
+      "text": "Wow. This was simply the best vegan menu ever I tasted I am a non vegetarian but then I booked this as wanted to try something different also my colleague whom I went is vegan. Simply stunning! Amazing food. Never could have imagined vegan French  cuisine can be so good...",
+      "time": 1760301359,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Erica Garvey",
+      "rating": 5,
+      "text": "Can't-miss vegan spot for a fancy dinner in Soho. The sticker price looks a bit high, but is totally fair for this tasting meal (plus it is probably what you would spend a la carte at any comparable restaurant). Incredibly thoughtful menu and high quality ingredients. Individual dishes are small but I was very full when I left!",
+      "time": 1759940744,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Lora Foster",
+      "rating": 5,
+      "text": "I am not a vegan. And the vegan menu was incredible, the flavors, combinations, work put into each dish. Excellent. Never thought vegan food could be so creative and delicious!\nThe atmosphere is relaxed but refined and superb professional service.",
+      "time": 1758717515,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Amelie Iaconis",
+      "rating": 5,
+      "text": "I had such a wonderful experience at Gauthier Soho! It feels amazing to know that everything on the menu is 100% plant-based and ethical and to enjoy dining without compromising any of my values :)\n\nThe food was beautifully presented and absolutely delicious. Each course felt carefully thought through, and you can really tell how much passion goes into the cooking. It’s rare to find a restaurant that combines sustainability, ethics, and such high-quality dining in one place.\n\nI’d highly recommend Gauthier Soho to anyone looking for an exceptional vegan and ethical dining experience.",
+      "time": 1757456980,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:05.649Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8v1-tIEdkgRAdetOMmCKDg"
+}

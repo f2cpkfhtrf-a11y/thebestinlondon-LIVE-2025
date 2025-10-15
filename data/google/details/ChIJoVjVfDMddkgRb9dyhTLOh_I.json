@@ -1,0 +1,295 @@
+{
+  "place_id": "ChIJoVjVfDMddkgRb9dyhTLOh_I",
+  "name": "SMOKESTAK",
+  "formatted_address": "35 Sclater St, London E1 6LB, UK",
+  "vicinity": "35 Sclater St, London",
+  "rating": 4.5,
+  "user_ratings_total": 4863,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5237461,
+      "lng": -0.0729121
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52501563029149,
+        "lng": -0.07158271970849797
+      },
+      "southwest": {
+        "lat": 51.52231766970849,
+        "lng": -0.07428068029150203
+      }
+    }
+  },
+  "lat": 51.5237461,
+  "lng": -0.0729121,
+  "formatted_phone_number": "020 3873 1733",
+  "international_phone_number": "+44 20 3873 1733",
+  "website": "https://smokestak.co.uk/",
+  "url": "https://maps.google.com/?cid=17476163595417081711",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cYy3YMyu0sM_wV0HkwLj8BAc6ujBIKP7D-fb-tMDIzHHv4zX5eNMlLttrTBXCDcAB-7PECmHdIf8Pwv_phP3PZAuqUcIv1wqij9ahWPE5Ma0qAT4sCh-iKfkelcSm__Bs2aBg5KYwXO0n4uR_e_tqhHWBNVpKCg5RzWGSAMTwmj0Xe-aE1hc6D3pmXjpJ0NzEF-julKIur9MymhgTxzUuuilSlNmnl4NIcbn1iBArTryEr4hZXAsl2JwXt6N1XPvoOfYonoMz_uK7CNRgTlLE43HUALsYqewViMusuEEDAog",
+      "width": 2000,
+      "height": 1333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116067139003227885059\">SMOKESTAK</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEnMLfYlUPTlErcgKKjx6bQsj2JMbjzYUuBICzxBxSqae2opWQXH5JrjLZM6wDCssmtQxuO5XP0rlAHB15DXMPZ1qaoCLrCK3YxDA6wS21yZyOCHocNB43vekWJeVzKaAniT5fkab6GkTFGSwpmGBbrLKz6PjUByXw92cZ6cpyUD1fyyvEbj1pXpI19VLLBU9LqlkcvpSRUI_wi8jHjjc5Q5taKzepMSnntNIalUCVzEzo702OHIVJGBBcTXiWGeSvLjurU335xVn_8AVAKmF02eAWPePJ-aKhB5NT_7HLgg",
+      "width": 775,
+      "height": 775,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116067139003227885059\">SMOKESTAK</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f1G8e0kAXbozSHfbwL1GAZ8WNAHKcEgsgdSkaGs2fhJcabHxbPN9np1CHnrxvC376A7hxaBym0DonOhWE4slOYJ7BukxYCw0YxvJNkPyB0Lktr_uYswxgFRXNFOxy90nY-bFjHIgb9xznL8eBLHb7monlcdisJNhcsYzfaD3mtUq9_XdPby8l3_OS9em3owXSudJA7n9QAhKGPBU6ezP6Cs2Axl53YyZsKg-s1Inf5--42EJ-LcZepHbEHXVmSqfVAd30I8njU6g33ts_7P1LFKvXRS-LPZU_22RxyOx6aeTh8uJUvMFWXl7plDKTAs1zx_UreW6BAMD9FhuW-B3j40-dU-zxwBEJ7pThRby646zOiVUVTb_tfTKuHJO4rj7K8SAMAS-OdqxpdSI-3tho4L1ch0lALWuXvR3JAzU7JEaxJImORPXq8ZcgQhRfx",
+      "width": 1536,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100511867637221359334\">Marcus Bandi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cj4La_qsIKzLLPk_jhqk055wKBuTTq8vd0bC93XNNTVbOAsaMVaYXiug2paX7HHuxJyAxbVS6uL4M07MtWjBYLCeTv1eN-_jh7teY4bzHdQR7WQwOPlaCte9fF_yteeoHU4j94FeIhMFYdE_2dAgnmlHGLAhWvv73m6RdwsHQczAFw9pEmiI4EDYvwa8y2tzbVhMBOonUp4gmSKfKZvDwPNX-P_iKcDA0Xj-FN18ABWxDRGcGoym3dYrvudNQtLAeimuNnhGetxQz4V-EEl6cuiT9pvdOmPv23l8vEP9AlOU8moZQiqL08QFktdptR8xYP7zhP-31d2KNmmgNd38aNnFoj4Qo9eNZnYgY-FzdEPV35I-XyK4l9BMIlqPpCofpmtfoRr3GdOI0PE0nd8GTLE0oZdh6Ba1EjyHIyOCBXfw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105728478783564664553\">Cheen the Curious</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eKgXLOPA5baY2lB-0LN2hJsb_SEqT4pRRuhs-OmCHWpknoZdj-IgbpgesoXl5S_7glhC7GgQFG2UORL1J1GntRow0G4BUoHIc_Jls-yFK-X173gQ22_lqC2eaEtSE4sE_IuhRPJY1TX4H8WEH7Q0213LmGWFzBSQNWHLy4Dw0sfdoapAbkPn0blgNEDpgc68cm-av7JOFWcVwycIlRVOt6_pc-cDsu74NxCgN1gAUZQzg-p0KDXwEvucClp7WPYkheitA8_rH1HV7ioeS3ZbmDqwliUmq5om9JWNfDZb71Jw1lS5NnrV2gYekDS0NBWMDIYMJUdIWMUiPKuI521d2l8LODgrAoyhL6xAVuoWLyH4cs21tneZNKvBppyoXjCq1KaARXmfqGyjRmEfX4ixNIvpkwe_ubfN6f1cZUnBIirIF1",
+      "width": 2048,
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110263552122609146681\">Adrianne Lee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2emuKmZiE6VFF4zYCJxdksVgDjb3K42VlNpTEsp06jjwgGggdsMiJpta9UTLsMaCNcT6hZYLfB14WHbC87oYm0HVqTxfj1lAs4HzLdLZwWFILFk5Vp67X6CxlGZlFTurEiTdX6TAjufyowsqg7bIn7CYruGdX00CWbmS4C4EE8GPYf8FY8DXBNwogGqTK8JA9pkx0C0bwTF748J2IozUEq2MNx0LeOJEnc0EQksMuvpcWOrejOFm6B7shRNkVs4s-KIH6OUM8ZbKWmJbSZiviIi4rl_BZItVW9lzDVAidlsE3ycYd37iCKPRDQXxRe6qZdP5YaBs5BivIHP6gnSC5JcUCmyEzhTopQ0A03awd3LaeSriksTRZ71ikORs1esFf5y7iNvz_57fCDIrGCCCU6dXPaZxwRTWPjaAx4FffyUGxv8",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106046880159712052635\">Giovanna La rocca</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eWzMKYuB8uefO8a6ByRucDFNIEVR4AtT7yfcnHwAuJkAZ6ILHkyhMChjDruwC8tBQyW7sxUl3lMPLgfnWWbrcQw01FBS6rA6n2rbykxHVfvLQp-W0oWMRAs1mAruSZKKsAnuHAUHqsWdyUNxZqXIBTDwRcU5lcdyVohtOjwXDSKcCaww3VnOva9ZpPp51PjI0l9WF1zWDmT6lwoDak4pJgDdSlJM7I6XyVKq_nPp383oyU_vTq811xIjWoWShI5NRrmdU131G3VV_oCszV6g2PDDSHNwVnCppsJaPME0h_fesLYaeLl2RDJw0lgOUGsS2en8NpGBQNggMIPyA3wVBe_sxDYd7IHmeuKNyPeHxTSxs99iQIq_JJBNU4wcGqOK6itmlOjfFgtneCeNNTM7XoTl8EJLI1l2vEFTd2xakv0jg",
+      "width": 1200,
+      "height": 988,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100988959888382511768\">Reena Maan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eI9ube4MD3rB6gMCUEl9KcqXjn-mHvxfmkFgkg2mz0bYh2YMUf8Wya9S4Gu0QErMrQshideANtZ3UpuJelbdl_YHLe8pZlSRuUKBuyB4xWmCF2Ov3y2izpY6nbp-y3c4wJWn2wgndQVKK-iOrSTZC2rcnUnr4YLMcqMZBjI0-IivE6Y6efLJr2l2QNC9KSQcHLULpvcSMAiD0pxSLPdLH9OTo0DfjwPILJ_YkRUC8Fq9lDO2ldjK2h7YCo7VG5M3OKRy7vVYT4NiFjIDQGA19NPodg0CXEErY2zZDqe-kufxbOJ3t6ZSmEpr6RX2_rcIoE6jkdd5l_JgccbUP6cw0u-kV56wPqk5XpJtG0qLg-6rgLhOSeNrTqpjHhXPb_InlMIjsMi7XYFNENmBdtZi58nRZ1pA9NnWIIxY-1pW-7RnF5OdSUFx1fllwZKIlI",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104193410136920971808\">Rebecca</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eDn78VmRurDTaN-IqHNGkrPyUDz9CcbxRSjkm1F6hxvusy6t6z0AetQDUAcbLLpGlA7q7AVm9bDaSpMK3wg5bCpaVEEhrmrtUnX7-Ng0vY5H5x68kZR6snbpd0wXNVln9vN8OIUSciiSDcXSwqOROarpVf0m_D9NFT2z4omcYgwkGglEVigKg0E-v1B2s4_mztHMPxYMtN2MX8fHpwLHKrbr6Qc4O9F0jmnFNbuZ4MAicT2b8pPR4EqUuynziBxrx1mgeKXqW81sPD53qZEnFfeVWbf4i4fVKX7MisJ22eJX6HxeueKogwu9ZiIyO9iws8zqS71FyzX02YwC_RzsbJyVn4njd-M4jrTCHZIfzqJJwIHQeFuMKkshrB5eIZiKxYYNuOD7vBgQCGHYyFCwUFNPnRgIgi8BUhAldFQAY",
+      "width": 1600,
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113274874093450652152\">Paco Pachinko</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHWLfu-5nMZs85jl_CrEWKBdy43HGxbCZcbRvNLl1iaBfEhN20ZT4i6qQmi2krSy2nJlhpMBfGoGkBuSDJB9Vm_G_brbvv0HslnNWMWIa1FzYP_SWt2PA8sT51BG0_m2mmYpoZJBhQkRTy-4GEtLXGRMxmb337zQ6OEx0SRhE_ekpTCBbVaAyn3I9Etc3vJm_oY5BofeNioPnQ6jImOAKuWCXVBQ5px2-EOb47uU_FqyV0Ur08M5ooPGWKQR3U7gQs7XzL7rairelwEVoCOZu3Syt0oYRlBmijpCCPPA4_Mp5hzz7xrLdKBxajDQBT1zkVlDpgEuEElCgwVXTAvXbvLwgPFTIenPzpP-1p7ZwDrheonLn8w220g9nKv3nBCcwdY7UKROxnYbUIJCjU5ZO1PvDUyMLvHk66_0rFrYeggnI",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101951806945481024360\">Prin C</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "A smoker and grill take centre stage at this stylishly rustic barbecue joint with a bar and terrace.",
+  "reviews": [
+    {
+      "author_name": "Andri Sadlak",
+      "rating": 5,
+      "text": "We shared this feast among 5 people, and it was absolutely perfect.\n\nThe brisket, pulled pork, and ribs were all smoky, tender, and rich in flavour — each with its own character but balanced beautifully together. The sausage added a nice contrast, juicy and slightly spicy. Everything came with thoughtful sides: pickles, chili slices, and that signature house BBQ sauce that ties it all together.\n\nThe charred greens with feta, pomegranate, and nuts were a great fresh counterpoint to the meat platter, and the fries with aioli disappeared instantly. Drinks were excellent too — the house lemonade with chili and lime was surprisingly refreshing and unique.\n\nService was friendly and efficient, the vibe industrial rustic and warm, and the food came out perfectly timed for sharing.\n\nIf you’re visiting with a small group and want to taste a bit of everything, go for the shared meat platter — it’s spot-on in both portion and variety.\n\n📍 SMOKESTAK, Shoreditch\n🔥 Perfect for: small groups, casual dinners, meat lovers, and anyone craving authentic slow-smoked BBQ in London.",
+      "time": 1759736300,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Oldrey Leite",
+      "rating": 5,
+      "text": "Fantastic meal. The meat was outstanding, and the starters and sides were just as good. Service was great, with spot-on recommendations. Portions are generous and the prices match the quality. It’s a busy place, so booking ahead is wise if you don’t want to gamble on a last-minute table. We ended up outside since that’s all that was left, but with perfect weather it turned into a highlight rather than a drawback.",
+      "time": 1756804210,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Oliver Hussick",
+      "rating": 5,
+      "text": "We absolutely knew the food was going to be top tier, but it was the service that really smashed it out of the park here. From the moment we were greeted on the door by Kitty and Cristian, the rapport and bonhomie was already a dead cert: Charming, cheerful and a little cheeky in all the right quantities, we were promised VIP treatment from the get go, and boy did we get it. The equally charming Alexandra took our order, but sat opposite the pass, even the chefs engaged us in a deeply convivial manner, only ever enabled by an open kitchen like this.\n\nAttentive, affable, and amusing, the team put on the perfect display of service with a smile, with a dash of well placed humour to really make us feel like part of the furniture or family….. not sure which.\n\nGo here, eat well, and enjoy the experience created by an exceedingly well-matched team who love their jobs (I hope)!",
+      "time": 1757017215,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Adrianne Lee",
+      "rating": 4,
+      "text": "The toffee dessert and the pork dishes are amazing. They are juicy and tender, especially the pork belly, highly recommended! Beef is a bit tough. Reasonable price. We sat downstairs and it was a bit dim. The taste of eggplant is subtle and there is too much raw green onion. Its strong flavour overpowers the dish.\n\nMay come back for the pork dishes.",
+      "time": 1748603547,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Yang E",
+      "rating": 5,
+      "text": "Super cool place. Exceptional service from David!!! Very knowledgeable and attentive. We got a starter, 2 mains and one dessert 🍮 and a sorbet 🏠 super full for 2 people.\n\nDefinitely the sticky toffee pudding stood out the most. Good combo and not greasy. Warm dessert on a cool day. Otherwise beef brisket, beef ribs (super soft) and oxtail are all recs from us.\nGreat thanks to David again very observative, when the starter came he realised we were waiting so he asked if we preferred all dishes to come together, and also when the bottles were empty he bought a new one without us saying or asking 💓. Super lovely and made us feel very welcomed. Definitely a revisit soon.",
+      "time": 1758567465,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:48.150Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVjVfDMddkgRb9dyhTLOh_I"
+}

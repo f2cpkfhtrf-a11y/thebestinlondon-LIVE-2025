@@ -1,0 +1,273 @@
+{
+  "place_id": "ChIJkbGoX7ocdkgRgfrpjeC7xzM",
+  "name": "The Clove Club",
+  "formatted_address": "Shoreditch Town Hall, 380 Old St, London EC1V 9LT, UK",
+  "vicinity": "Shoreditch Town Hall, 380 Old St, London",
+  "rating": 4.6,
+  "user_ratings_total": 1161,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.5270972,
+      "lng": -0.07933849999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5285213302915,
+        "lng": -0.07798706970849797
+      },
+      "southwest": {
+        "lat": 51.5258233697085,
+        "lng": -0.08068503029150204
+      }
+    }
+  },
+  "lat": 51.5270972,
+  "lng": -0.07933849999999999,
+  "formatted_phone_number": "020 7729 6496",
+  "international_phone_number": "+44 20 7729 6496",
+  "website": "http://thecloveclub.com/",
+  "url": "https://maps.google.com/?cid=3731157389427735169",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 6:30 – 11:00 PM",
+      "Tuesday: 6:30 – 11:00 PM",
+      "Wednesday: 12:00 – 4:30 PM, 6:30 – 11:00 PM",
+      "Thursday: 12:00 – 4:30 PM, 6:30 – 11:00 PM",
+      "Friday: 12:00 – 4:30 PM, 6:30 – 11:00 PM",
+      "Saturday: 12:00 – 4:30 PM, 6:30 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1630"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1630"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1630"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1630"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d5SZrYFQw4MRhO4pbWn2caCy1EjfcPgOHl2wTXah5wj1kW0n-_hijyIOvlznaWw4pPHD0pCZRinZMVgBmxuMwae7AFp4TZva1MZum0qVg5sOETZ7qELxPgxEeZBm8kiuLsKSlb-YdYsAgzNyeVxHGeEyVtl7RlRL-M5bp4eSlxguzjnorR5jki7TzWWMOL9hWcZf2UERhktZ1n0ndr_HdCY3fbjo2zNgBMqtsGstZ5hlF1pAA3-CEYcvyd7iXg4lJIaQs8QocMvt6czqhRhpmcCpbthExajc3B_P1_1e1gQe1_Ixcd12QO3zUuhA0ArI8HZ6KajxosunwNCTw-V7uyre8l9-lg2wmvXFuCXTIZzIvDqT5xThCfk1SflhdnGZ8LPqAeUOTRD-US3hkf3ng9dgs60c-dgVw6u1AIVsbflQ",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115924857754306686450\">Dawn Frost</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAri2JXoV4TXn29HRzPlxgFaMel7DhmwEDNnCB7gKtVsuDHaDjJWcfHrLfE6t2vDDabkKSx_ZlyOLixudxwRigj5DcRS9R7LKj2U8TdzZ35_jSxy2KemgMoowBEG4Z4kNSXuq9QWlYaVk418QR2DO7ahLQELCDcv7LlaIDIlhHNQ6BwMl0bCIWEIEBs3kcAMIhEbpeEARBnS19q4ezti4jqyskpF9xbzxt7KsI9iD427IXohN02PyXAEVC9iSt95kGWo5r2rReKyntlSdl22G1j56TURJkgHmBsW6LGp84G00SPvirPY9NS7Dw-AfZyVI3qMemZSUGjzGmGzGJm8thDb1P7hPcDqico6IugBr_ZXbK74H13H_huWeuxfQiQqlKAPpU_D1y7V1aOPZBXoMlqT8pO8oiMnQwfkQvuaA",
+      "width": 2048,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116550903119702972246\">Eric Shih</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dI-UQ0-F3rnomvKsqH8TfnotqMuHxcdqHzkqK06kbKfptRziG1FChMvSD-5S9Y8ZmoEUava62qc7TiVUNPWF3MM9NCmvV7tM-bptpxtpMDiwvIoXWy0QI6dvAOGG2CwJl7btkQlU1DHpUgi54VAseCqAqwjri9Kpgydtv-aJPXyTfg0Ns2nd5OtUyNZH-zpGq-UpFEHsJ116azK_63STG_iQmLe59o7abKTOM7kqbaUF7xLhflLzGwjltDOO8CXHgeUHLHOMUVqcZrvz9XL7V8fpMud2I_dxQq5GSo42nclwn4MyYqVSwhF-qD0t-15RePplsbQMcBMGA3QWRkynfDFqGdoSOSZEjmfhvLZ_8Ka_PuA_yj8hTuD7CRNgv_wY9LKt8krYAQkwgGu1LVglcER8Jfg-kRtu9jxbf7MjgUud9k_bt2mZ1Lu-bPuw",
+      "width": 2268,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116899214024286657106\">Grace Yeung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cAQVyaEkaDWyQslFShpzFqpGYZMa824047Qga_B2s9lOiXXrqL78atGRJ2M_Xcn5LvcBj5-TaXXg_xF64uqC5pAJ39Jp3Mmfj9LZtsKwIe-9t3JiUjV98Vi3cH-FFpcIIQ8-CoIiSW8IgCS32Vcrt0rgGdettodqNUUnClTJjk380eeD9pHQRnU6RE9dhXb9VkTTN3FDUd6QwMHZYDfsbIrCSHiMLDByEiZq4Xf-Qb7KnGNCaEXdxF1pw2vxs8c9WkRCvD43gvCX9QvNSLGgM9JO_Li4xB-Ow9Oo2THQTQrdWENksrwf9UiK8Xg0WAznv4gOtunpkWIKOVWUzLgaHZFkwtIec-ERal5wyoQ9BBTT_gr-NdBm-NS8AfK4RTMxJcHq7A6wkbVInpNc3uJDs0NkozfJ4H6xTJG9S21HT2yaQRcc7O4gdSHw3qUGNI",
+      "width": 2268,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116899214024286657106\">Grace Yeung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTJMs_DstjB9pijuJcGFwTevFdP6CvUlE2c4oxbc2SON-kDUXn8M5pEM6uf_PK68KhhEM9UHSqLTsM_az4lE0FeC1f6BYaqrre4OqCruMhM19qgClPajRdy7PF9bYvoH07IQtcLu1-nMcnxGUGtGLNi9GEVBr9OBbIng1HlgZU3DID0QX2oOWfCZGVPUXjGMDYUCRpY4IG3xJ87L2bwUPcd3Be5E94Um1-hSh0uaH0nLFK7qmLozrLyF1HPDmzap4U9thbOSb5V6MQ9yle_XaXYpTbjn3s8QVeseOVG9AGgh9FWFsJThuLnrg8bvMdlvQQmkzvFLyPjtAgOMmhGRgF87Ce8ov6GdzDKJ6sK0NcsMSd9BpMAo33kJVO2q3fuYQ4hE3apyrVteA1LdZAxmF7QmMVQplt-y0OwzcKmY9WY_It",
+      "width": 1291,
+      "height": 1720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105484944715455191085\">Bilal A</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cQVB6bWPqiGkOK29slpWUy8xJLzKTkRIFb65jTrDBwzs2WB76MgMrMPh365H-ZH0uqYWXZnQjXAGwN0Q1iykxfTFxK065muwYhjoQ_SAPdVgPvRyBLnetRLSGhsighpzox4PHzuju6tYSbBbuSB3tLsXUpBDXIjXyt3wJQ2qKvJqgIFnTwvEvGJlvngustceZZSSUjwgNQoa9p2B6tXDLfECUzh86kJ_wjEDGBJra74jJGlhynQ3oBWrztqBne1olWp44m5hPpdnE9UnH0mkazcqqhfLdxfFiac8p2NXghb7E1IsRph9KYS-LV_85kdwuDZnedEjoC6TOKGDLLXcpR5iNu30YWojuH8ks5_P8vT8X6JeEul3roDmuZVjtgB1Ten2JNgBVHQ9R3nHTixOVHuJIxpF5O46WGHgUJb5o9xrGF",
+      "width": 3081,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116413725009696590101\">Adele C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ffkAwzZbdy2VxYLeVZ8yVm0uge4QtJ79gKPJNY6ZNiej-K5_NtxhjLu8oK8gKYQjp7nbNz228Tf7nLm97Tzz8YjuS1H_99uvk6wuutx_f4HDQCFVcZAS1Q7tK5uj-WXlFpBZRPyUhN3KYbCvWyWuWdUohixngO_aVZfDK0zm09fazxLcmxD5CLvlQ-HZmBYnjN-d0XrVE8D_STYvN2bgvfHhfz-mKZsoxMlosV-6H_d3Hsv5Lpixq05e5qA94TWl3iXSa9ZpnMTkw-5vDRigwWkeRQqw9qSp_PfVtFl3G9DP89WtT9Iig2CWpd_eNYvkA-RVOUNK_Cu0qvDcMW9iXHF35OThHjiPFZOV8ML9pYkUAzic77iAmBVZNt6CCOOF5h1iYyceU0NgZ8R5C4-WuKyZFTcvAPVEDX3kp7AL91WFwi",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109258593091764549794\">Evirob Zeta</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ffKdI3slTP3EA34-0XaifQSBqEgrjAQVi7Ak29WfknK8wrxq3d1MC_2VgxuwRBiaxZCUm2VMBAX6ozP1ayLeQWew0diAYNzTAmBH3Fvr5VxBH6bViVeUL6B8Sa_buAXTTK_BJ9ivtz2Mz69REC_sd2N1Oj1kUQ5169vh4rV9nlZqSKqoq6LmKEAuKX7syXa6cpJOG1qk8OPL2K99vjUo_YSjp8vNU88ottWNMHRHUcr7XxVu_34xm20QqXTwfYEYVtvQ7MSneD6lMxCi6s2GIk5L0qmPpX16s4FYc7dtwaID8LFXdfTr5sKROHNxBD_lfZ-e9kmdrJyZ_jK4antkDZtSvUXM6Wc6eW8B5knbfASCiPYvWyh4q4z7vf8A65Laz06MJEltDlsrStH1GeCCRg4b6QFmc02P-RM_p90jA",
+      "width": 1284,
+      "height": 1673,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116518765034195114593\">Williams ramiro Rivera toala</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-0z-VDTZuF2bwMPgqVN3XRbenUsFeLeXR8Ry-L6svzl8bwV1EB28WTmuAFmcfTFbZFxdl_x9NKMK5nlX1sOVC_2QpRhpfzRGWLvztv_9e4M6CoClXmtP8yl6kaYXdNskJ0CIam_5he13XENz6P3LNLQpLYuV71qCrseDw_GWP6kVp5XMETO86DdKzes_187KBvdvNQR0njF_wRGbUd_l6hU8ASSC8ytSTmk3AKVkCsViVWeU6DZWcmyOWS9VOSBooMxuXEGctSyufoeeSLZbNbLwPOsxJqZHbviYfrzYZYq7vPUHQ9S8vwPVPT-aD5fzkSUminqUsnjhLvi-Ym7jYV-EOpJC03DY8xQJf750G07lnzO8DgW-lWuAHzjdW2xHI5OB8yKYQHxM6PlGWetiWitD0RCchomly_Xz4kqo_2A",
+      "width": 3081,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116413725009696590101\">Adele C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dVZEqSEU1hDBjQ8fET2RyZzdLiD_IzAadRF9iBnMnBQQ4DKyee5omKB1KNQI2C05FiXOvJXciIfbcrpLU18Eyzi36s8sY0DbBdW16RXE9KMxb87jcpGh1CYlF3WimYLrXvxJeX9L3NfRMifhHciUMbA2iaKh8BJvA0YOz1USonP4zF26Fy9PNijlor75StlvkldvqAoLB9flQv1aD2_QFhUysQDc6cDfz3-akrTrKk7CtYNBZg7XGUFUFttl2dF1-fs-_Yqe7Gm-cPr5X1Z0YeNu3L3P6LP8KlQd1IhLCx5vqm6FZqnKT01G5olbuFW8lGEBO0FEqCYN-oUWUOGF3GAt5SFGQutp0XAtKSlGl2hMIMRYIf4SI4gW_nCXu3mVaKqJ115_6A4lNTyo69pqW9RFGollnOOmV7evMRqb5NOjM",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118112068887180596956\">Kate Griffiths-Lambeth</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Cutting-edge restaurant and bar for innovative British menu using often-overlooked ingredients.",
+  "reviews": [
+    {
+      "author_name": "Grace Yeung",
+      "rating": 5,
+      "text": "A lovely tasting menu with a few surprises along the way. The extra course of Scottish blue shell lobster was the most memorable, especially the curly noodles in lobster bisque in the 2nd serving. The portion size with the extra course was good.  In fact, most dishes were quite small and light, although understandable for a summer menu, the overall portion could be more generous throughout. The restaurant was situated inside the Shoreditch Town Hall but the interior design was not able to capture the classic elegance of the original architecture. It was more or less a typical London restaurant establishment. Service was prompt and friendly, with a minor error on the bill in the end that the more experienced server admitted the mistake right away and took it to rectify.",
+      "time": 1754170723,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mike Emmet",
+      "rating": 5,
+      "text": "My daughter and I had a wonderful meal. The wine and NA pairings were a great compliment to each dish. Stellar dining experience and top notch hospitality. Very much looking forward to returning.",
+      "time": 1752862618,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Kathy K",
+      "rating": 5,
+      "text": "Had the best birthday dinner here.\nI have been to many fine dining places before as a former New Yorker and The Clove Club topped a lot of the previous experiences I had.\n\nAll dish were experimental and creative but very well balanced in every aspect. There are some dishes with flavors and textures I've never tasted. Overall exquisite!\nThe service and hospitality was also exceptional. I would definitely recommend The Clove Club to my friends and would love to come back!!! Thank you for completing my perfect birthday celebration.",
+      "time": 1744149768,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Sourav Ghosh",
+      "rating": 5,
+      "text": "I had a blast at The Clove Club. The food was fantastic across the board- with some of the highlights being the scallop sashimi,the lamb, the langoustine and the granita. Portions are perfectly sized and the flavors balanced so that you never feel too full and bloated. Excellent selection of wines and a sommelier who's clearly passionate about his trade.  In fact, every member of the staff was courteous and attentive while leaving enough space for the guests to feel relaxed.\n\nTruly, a pillar of the London fine dining scene.",
+      "time": 1743973966,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Evirob Zeta",
+      "rating": 5,
+      "text": "Be respect to the most kindness, warm and focus on detailed services from Mr Pablo, Daniel and the team.\n\nAnd for sure, the atmosphere, the taste of the each section, as I also I want to highlight the best dishes “Raw Orkney Scallop”, excellent excellent excellent.\n\nDefinitely will recommended to our friends if drop by London. And we must come back later.",
+      "time": 1742279026,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:49.359Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbGoX7ocdkgRgfrpjeC7xzM"
+}

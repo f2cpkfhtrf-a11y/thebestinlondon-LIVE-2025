@@ -1,0 +1,223 @@
+{
+  "place_id": "ChIJwzyqtB0NdkgRVh0zsP3u8F4",
+  "name": "Peggy Jean at Riverside Green",
+  "formatted_address": "The Boat, Bridge Boat House, Riverside, Richmond TW9 1TH, UK",
+  "vicinity": "The Boat, Bridge Boat House, Riverside, Richmond",
+  "rating": 4.3,
+  "user_ratings_total": 1208,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4578868,
+      "lng": -0.3069996
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4592993802915,
+        "lng": -0.3051780197084979
+      },
+      "southwest": {
+        "lat": 51.45660141970851,
+        "lng": -0.307875980291502
+      }
+    }
+  },
+  "lat": 51.4578868,
+  "lng": -0.3069996,
+  "formatted_phone_number": "020 3149 2036",
+  "international_phone_number": "+44 20 3149 2036",
+  "website": "https://www.daisygreenfood.com/location-peggy",
+  "url": "https://maps.google.com/?cid=6841230607326059862",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 8:30 AM – 10:00 PM",
+      "Thursday: 8:30 AM – 10:00 PM",
+      "Friday: 8:30 AM – 11:00 PM",
+      "Saturday: 8:30 AM – 11:00 PM",
+      "Sunday: 8:30 AM – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cKy5Iks3-GZsQDlykUUDN0eh-jm_HecbnqlS73Mzz3V3S3ooPX-qMkEtTOWvtVuBcWTGLZwPmXnHhRXDYbZC05LAsRWV8_H-CQfwS2jyAsKiK9EzFCC0XXK9mYnGtbszgk9qCf4AyeDHPXL54IDW0j6oYEnPcJv8Kct7fXkSskyRFTLBeJIV_aU9MsyX6ByraZamLhxQ1PkBikvBeu4GIDF8M3xvUpC1EKyFMIAbAAAUbk7d80OO-kHPYKHiGTb1nhlNbuJdwZM3YK9rb-mIfHfyLMq-d4bac2jEsbvxkbUA",
+      "width": 4800,
+      "height": 3229,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112782664284488851889\">Peggy Jean at Riverside Green</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cpmWloa6h3MXX6B27moP4pGWMV-UHwy77E06i4pUZZM7nHkCtN34OSTHf45WHW0qQnk5NUc6TTNEcixS_Xa_7JHVQRzPrdRnvanv2GHcmL_UtSns7LIm5u-VpRqbMGuSJhPtUuexnrnIDD780BtjUedeTBayAP3qOd7otjt4axFza4QGv18BI3aSafwxRT4p5RoRXI2dQH9FPd-Q0O-3kh_ReJrnKoLBNrR6QB3EgiPs4ACx4bB83-GxEQjfvXcRaBTfH80wqM-aT5KZEap3HMMRcKHLIusDM5JCIVduKNCr8sFSO5kSukIZMhXa9Z2BvWujn1eXEUuRaOLbvtcireWupNCgJaFM8kfB5omsvFB57N2qkeIHFATNmGWHh0AIFK3jHArA_FE_vzWpajHL8_H1nD2RN6UFb3bQvtjYkZqIAg",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105465147330015888378\">Monia Zeidler</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fhETlwtFo4_7ZC7e6xCznMlrxUzCxfaKTthTFi6pA17vdys7hugdXEfnoxEcIMq3QU3LfpQufeyj8SbgynlyAkeCaYopOItm6U69Za9lQ7y-XeiHaRMeKIR9mK9W68s2ZUgVX6CJo2bIgBSLMlGLiv2UyZtpJ18hqcJph3MkTL51YHnEeFUWAbqvKvkq5HX1NxKU3lFi2BGAZhtx2NsNqoCI8fCfZpNUzINTFl0Xo9MWjW-QkLqpIlct3YrIH2yfmmSOylVPoQa8Ih1n0meKlQih_8nrFYySm5auTBkOk_PZ8vb7KM4B6VG8slhqXWzsbgXd5xi9FGvyNAZFAVIPnXc5OotmxjtNpE5nR_9WNiFE5yKltqHXNN4Hmy5iai1bomZB2CuhsfJBRE8cNQftnkBg4wza5IQ5u-zMldI2h-iFan0aUFPtxeTnvACQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106988646619385636648\">Shimei Zhou</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fu0g_67drFlRqbS-letLpGNEv6GMN0Y48PN4iaMKmInkDmf6_wvMnxcoFO-phkGBF1ha0-WRfjrMjzCatvonXLJUQz_MKWmV9ZdTfA0lzO0jvg1YCyfH-xF2a2I3cmSWJa5QzEwIPQAQfk_RIbvWeUZVK1lxSfXllbkZnH1qkkZXXDoC_DTY6lGTWSK-WgeCdqxSRya3AubX5JCGwswZF2uu1gHjO5kK6SpmDqh6K1EGGoUtZaU0bRCOCbSeRRJJBDS2Sp_8mDQwaMoX3mjv4uIe4ParjCxOsj6oNNf9XnAw0nkILzqgBrfs8gtIrOo6DUG4476H350PFZbuPWJBooBq0Ds3eiQ3yC_u3aeWn2n2pHNu7E0MeSGyw09-EbyyLbUp7IVZYAG0hEXYfRVXGHA-wo0D5PhPeH_x8ozkImLS-p_3I6xUod_-m-1A",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101239011642651971707\">Bebeliana C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ckvu0MfFnzfzhQkO_1CzqU1RtMPKGxRpJ7b2KPTlQE6C1vVOBR9MTweWZPDOFGkgyQ3gnrOLr1I3-oUsxYGao3GtvzcSomSpbxJFkqIlPu3y2_7xJ-lP6hA3IyTb9GDlXEcBc31Tx4edpqywjMwUUxblNn9cxnbTut2oFjNoMCPR5wldCAchzqv7FhZ6GufnD01afax91a0Ggeu4ozO4WXCV8TCup04EYCqiXy-KBp02dZMRH_5VvpnqG7jskh6EvbKsocICcrHe47CRvUjxQZ5j31cSRPXSHxYM0J_7Pan8GN3mO7WaZJI6bjcU9E_R-kUoTgRJkSy79KoavflaybapbnfYyq_IIUTmJSiOF5Tl6Cr51luWp7uCJ_K5zGeDKNsjW4Utoxmz93krCUgQXAuDXW-s5adG31gW11o04Djw",
+      "width": 2999,
+      "height": 3192,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103753206966955679768\">Carly</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cI6f70ySW6jeUjv9TbC_B09KJD-cPfVN1dg854-k6dBWL3EH1M8q0q2W7HQKfX6QwkFGCJtjEIpiKn46jwr0NjVVK1DjbpiqDvl8wP4pFYRAkoc8pcEVpf_Ir3jZIST-lKtHSXCeLkiyKeLKzT0W6VbODFeGLvKqJeqzpu0ZCos65x_cP6C604OGF9p5cizB8iXAmC6RTm86zDEDNJ1Wd5CbzRkj2JPsjc49U-0lxK-k2QYgz31wIuYt5zwfFXG6-0c1a31Qf1Xvcg9MejxysJK4chZWORvkUrZRM9XQa4i2Qtaip0mk76YR9WeWCD_PTSmEnP3RShmabKn_mEWC7a4G3m3YyTo1QSTVTp6ADIwMPe5NzXO9rH0VCS-rIJBZHfR66B5H-bBPNg8fd7_zsVO3HCqNoubP3n2dpYmajZEqD352Zyab2Sp9KA5bYO",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105781455287994327254\">Ben M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUQ50Jx-THznmtMWrilTxlFXcFuyeADO-FwLu6aFg_BSvsMABhmx7wTvyJgZmhVmXIKhfc-9L3qEUR5U6nybGsgbFdEaw_t_fttH8Y1N5dZXN3Gf1i245se3gjvE2D82OR8xmCNYONBsI2r1nE_hNXlRWbX9fZbuL9CPQ_GGPCECp31VR9vu3gLcybaaRkLdVpBZ-BKwEC0Ig4KSmUPfCm9iFe0HLPLGxIhl6R8ALegcZlAim7JOgLBwgXehT6OL2b8D7_xXoqcF9uJHMY-8F9fEPDZcUplrySTFW8K0SXE5hOFcG7gN_6GckqSu25D9sOQ7jtnkYrTH8re9e-mgYU63naM9Oa5OvbA8ZFxQIpeOWDQHAQSTQPVWcm3owr-5W2ZGvLsFg2Njl_GChBHhbIK7i-gJTFj473HiEfdFMEpQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108808507979454469679\">J. L.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dCX-jqG2s8Z0Y3FFvqDZ69CSWn5tfJnj_GGIks-vlpQF7D287C2jQmEWa-6H6pWLYS5MS7HalDWCjjS4sdC7y31ZW-9qT30b1Zp8V1f0C6S08EUTKUr-xF4C5CT0319hHSL9d7OpvsFGBXqW4Se87s0A20N1fnYYpIbzaUsNh8PfdwWmUF5Z8Vc4wGUl0VwtyRKYtx1CXiGN_bdl3P8PHf-OlFPyORBvfi4jXqpYzU3lSVpsV8Fv-cq4McdhbGUmWmZARFP72t8IRreBwF9UItNlGTXyEw7Pc0zven7PC6o-SYOX4E5RUpMq5Hnd-Ly74MzBfW9Ofsa39a_VPzee37IzSIeAo2xU2SIE5NPMeEYNI9dBr_F_9A3sn61SlnMZrsQLcWcXvAaWHxaujpn0dSEg93xeSpSmTs9XZNKtqFYePii8eFv30jmur58g",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107158891583662392050\">Irene Parlato</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2foddVXJHRg2xlsxI19Vt4M264NAoNKMBBT8dBKbAfT2pm1iCkygfhjCq74tOJW_ncVYrlZUYyqgORmq78XRKSNdao9lkBPExJhcHD-3IGRyTX0U0mQ6e5qxtFYNlIrjOvSjZsbO6G9FD7oULpURZO7Xu1FThW3eUXUo_0NRmCQCt85_tlSO_ghjLdR6O5wj3tDpDHf69zOnEpsUVnnnhkxxbc1TNYalrdk1O2ZDO4T-Wqr6IdOhIqDM--XpNaC3Maf1hbRQxLbT6_PQyCnj5_ciRBbc0aPGfoT1-rqeqZRJjcTR0ZEZu1IsH4AglwGWKBxkuzGC28gknZjyLxiQ7CGBdwdYGoW44qwK5LIKtLFnMII_g3uQcLsy517EM7Na74gMuLNIpQvWionlK5VtSCDu9HI8K3iLoUtOBSZr-m-2HM7gvhHHzwaDRSH1c_G",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114375299907794112028\">Dilara Sarı</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOqWEdNtUvSkY1CxVWL83RhU_ZUIZaOT1vJhL-OaIeC87xAGwA8cdrCmzAsPqLJDmsYbH7_OctRjB7FTLV1I4Vls1cEIzFLt_kkCeNkLJoYSfcV4zDDbsRl5BIHo4FAHC7p90iU0xfbyc9pb1XMiPQC2iRjRVk6o48tHgQAgFXNM3KkP03xNUSEcLi0iYR7nKl6X6ftHrYADrU0hH04863Aem8TueXO3KEQ-vo3ZYJoqymrwonC4OdlhSb7WyUiwrPZCJsAcREx4K6xeXhE3q4knJO-4vL3e-L8XKBo5nwLT_Hm-wy4bqpH_bSsmDmTgFALEegCd__gBUfMtFa-0mHTR2tj5QGx94nN_NzZBXpvhT3F7bgRTzQzdvK0B0NevXg0plIhtBxmrpM0LctbnTUTE1eD8diyhTQcPGtMOCU55CB",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109639154054137700382\">فاطمه حسين</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Irene Parlato",
+      "rating": 5,
+      "text": "I had a brunch there it was AMAZING!! Atmosphere is so cozy and they curated every single detail. I loved the setting! Food is simply delicious: I had their banana bread, best banana bread ever!\nPeople working there is really nice. I saw this restaurant on TikTok but definitely not a tourist trap. It’s worth every penny and actually really affordable compared to London city center.\nNext time I will come to London I will absolutely come back!! It has to be beautiful at sunset. However I enjoyed it also with the rain, they have heaters in the outside area.",
+      "time": 1757585113,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Armanda Melaj",
+      "rating": 5,
+      "text": "I had such a wonderful time here! The riverside view is absolutely impeccable, the perfect backdrop for a relaxing afternoon. The food and the cocktails were spot on (the Dirty Daisy and the Mars cheesecake were especially delicious). A big thank you to Angela, who looked after me so well, she was incredible, attentive, and made me feel really welcome. I’ll definitely be coming back soon!",
+      "time": 1756222795,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Lily Gill",
+      "rating": 5,
+      "text": "The restaurant was fully booked for Saturday morning but we went along at 9am and were able to get a table as a group of 2. They were accepting walk ups until around 9:45am. A big barge with a beautiful setting on the river. There are heat lamps if it is cold and a smaller indoor eating area. The exact same menu as other locations which are Aussie classics which have something for everyone. I ordered the corn fritters, they could have had a bit more spice but otherwise super tasty and my husband really enjoyed his bacon wrap. Great coffee which has a light roast. Our bill was £50 for two people to have breakfast, a coffee and a bottle of water.",
+      "time": 1751115026,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Dilara Sarı",
+      "rating": 5,
+      "text": "The atmosphere was incredible, I found myself enjoying my drink on a beautiful Richmond evening with a stunning sunset. Since the café is on a boat, you can see the river from every angle, and the view is just amazing. It’s a lovely spot for a celebration 🥂 For dessert, I had the sticky toffee pudding and it was absolutely delicious. Definitely a place I’ll be coming back to!",
+      "time": 1755512534,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Bebeliana C",
+      "rating": 5,
+      "text": "Wonderful place!! Great services! Sincere and welcome. Would suggest to make reservations if you want a nicer seat and table. It is still very chill even sitting at the bar table. Fantastic river view and so relaxing environment! Food is delicious and price is reasonable! The atmosphere is the best. The surrounding area also pretty so you may take a walk! Ride a bike or rent a boat.",
+      "time": 1752855097,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:32.688Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzyqtB0NdkgRVh0zsP3u8F4"
+}

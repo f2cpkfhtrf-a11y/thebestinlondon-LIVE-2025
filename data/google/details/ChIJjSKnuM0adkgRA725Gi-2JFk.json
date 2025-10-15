@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJjSKnuM0adkgRA725Gi-2JFk",
+  "name": "The Monocle Café",
+  "formatted_address": "18 Chiltern St, London W1U 7QA, UK",
+  "vicinity": "18 Chiltern St, London",
+  "rating": 4.4,
+  "user_ratings_total": 2021,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5187865,
+      "lng": -0.1546211
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5201292302915,
+        "lng": -0.153341469708498
+      },
+      "southwest": {
+        "lat": 51.51743126970851,
+        "lng": -0.156039430291502
+      }
+    }
+  },
+  "lat": 51.5187865,
+  "lng": -0.1546211,
+  "formatted_phone_number": "020 7135 2040",
+  "international_phone_number": "+44 20 7135 2040",
+  "website": "http://cafe.monocle.com/",
+  "url": "https://maps.google.com/?cid=6423459281965268227",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dglqPHpsnWcRV012fFXrNlL_t-iXE1hph3OE1V1riZOBHoP_aohHM_woSTyEGQMwYtxlgeLFUEsCMB-YKRcYVUExEuItEd5sCWGpGnid4kUn5M30tNh5B9_4iF8SwjA2exNCRoaLB_f0gy_TrId6IdyoL4g3CAnRywBmLrL2Ck5rJYbP5KwBalwSKXU0mIfavYaLw-ZZRgZNVsfE-6DBr61VMSm8xubzm9Mp0gP_X3DcLeGthfubW25zzFDDB1nuG3RdPJ2LZ_A7RBbnW0GuEaVEnPO8VECC2qOh2eaGjBtNVGi66lJn6xQ1r4uK199FCwteSmRORJ6clnLw_hkI_daafTcRYGY9uhdVH3jveWXuP9_FIctEfxBO7FzSbViI374r7rY7J1wimhm5T4jPs10ZcVLAipi5OaU3O3TPB0hUg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100028934456225354871\">Mercy Tu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJpq-4JaW7MLdal7zB-vBOi6yxTP8-0IJc8YwSHKKCWVJo_UMxjb5LeV9o9oRBKyzpQIi1aMaI-p27a3hJNlYcu86orm88vXqXb8vFRNsvauWp9tw_wiPfKblfDFWcoH9SOZgz5URV-f4LnlsTgX1I1e8UAPrQA5uCtOSZxUbS7K52tBQPaKMG34hBOEu1t_btqxnjUNAWa2I5W4ok48k1AmhsIQPm4aF4EETOrsVtUfeSWeQ0Nwu7x9a1bwFdyby93gKePn_npzU4wOq0QmJj5XQMZnQ0G5ZeTSQU6_OJN_r0XT1kXoaCsUzjm2tgz9IGNQYuqK4HbPTqD7CLM7qIeygnG4Ug5mkWHZksQFEotluCUUUKkxQ6aSpBGchAaJT_9_nfU_9trYFh4CsKv7p9IuslkDIaNrITmrIwWyPbVAAK",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117130628985728728686\">eminne</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fUH3Mt1hN3BOd8T95WwTl-nFKzipyoL_hJ-we1cg2KZq9cq6z2NZCrR6mVSgTfR7ka7_tHnGjIa9qtmXtQLStHmS3Adch6UmE_sdzsa4ftBhxsl4R54ZRw9aH_CHh03FxuW4Ms62ECmJS_knWThSTrHLRa8JZnQDDXGiye0B53BsREihDw3wL3KkbrIsss9juQph7cKg7082ppqT8RqJmNI6Bi8NZIMdqjat2JY8ta-BZfbbqFogwhKXVMa27BDKapHUopVJ9nuwKOUrrMrSc44o1y_nA6D15dcqJzl8sS4ojbbdmv9Y_z61rsB5Zq4liR3iaTtTrnj6OvWoIJ-fB3AwAQ-DFqIQOPzbeA1m-rvRQFw8uyZRL0aEaBRS13bVOdUeTGxwiStc_eNM2-tvRL7P2irrIXPvFt83lgLgZ_fw",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102136104763111141763\">J T</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjaPiSabF2kAfUH6wc8thtacyYojFlT2Ld4G6CJGIObcL3l9Yb6hhN-2vw85jVnAQgSXqK-Un6cRHhzPbpp-lPrcdNO2ukl9Nhm11cbbNf284FF8oxHgjmSVL3braIaqKY9DVHlnRbjJnVKG9IYllwJUUvDF6CU2scSsQ3CZKhkGUpddVm7Se1efDZJ_xhUHgfkZY7MDvsbu8Gn3LqwJHsP5nZZ_a9JMZcc32sF_1vFlMEj14XjvHFW8NvFHyxpEXqy59QYgaU86k8vZnEh9VL7aVLSPhjtBGFrDz97tVP1De05TisMMQySPpvcTBDtuTttyrJXASwlz4jheCSyEgowSTTc-PL7RRVt2Y9ex2G575E-o5WfzMs3DgK5-n6KRl_IXJghMDa-uzEpP8Rml281G9KOr_JZhijYaTjsYrSL9--uks-KmFJO3AnsA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101824799070282448394\">Monica Rose</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ch9qABjaZxD7OATphhuXIyzQhqUvUnfhCVY8wmOAQAxGgS3_UkJlxQ5OAv_9fDNj1nUSdfhG4oPh16xA0S_3Vul5SgO39Ahlon6MV7NHcQmdIt6baElpnhOJfnqa7BqTPYF0kd8hWc_-OpVZp4OkJ1vUlWaI7EmgDfc9oR3f38_gTXSd6trLOwj2R1duvuDE--nulCnu1vMSIybQ-ir7nLOP1wmpEhgBh9m5z3WxMKmLP6D7iFVaMu_1dUgEhtzu91Jx4PhhsUtoOCJt-1xhU0fv2dRW-jmhYoJ-AuKvE8OzoUiYewastsMwU5XAWQ34I1zWhH7L-fOYHfOgHg3eAFsJiuxsUvBNaBm_MRwclTBm3ZMxErPPk1i7_pMX729OAQgdi-boWy-35RRr2sJnAp9ghLwjhONuHVZGiF0H4ok24jWCsq0eFg2orxYg",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108444220873455562851\">John Davis</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fB1YAVsQqg7-gm1J366M4usHzqW93dfkELdI9pU-0NIblYqDOXMjjJyfc5gVA7MwHLqu5YD1qQuaOHn9LRSZaB0E7BAJXZG735ulCdLI-mM6x_bj5-C_mUsJ25EWFPiyrBzYTnmaXnGiKuqb5E2e01xQJh4jVpyJeoOtEyhqF_vv33Vv1bN8uva6hh9fgPDOcunrukOC4_F4Nr21fpO-c-I-YULMEbyXyLRQOMaBQSQd92ikpddtJICE7cSj2C3JZ6Wc3umApCU1NA8NZ7T3ZoIfDeb3CxY-4RtQe4dZqSQa4axECnEoFyI411NVBpeI2YFhwdg81hIdrtWlPLfCfUiaLAsibRFrMtG9vMX-2Iepg4XGB9dAyktl2SLdVUcMJLTOlaZvwm1VlO3-yWW07WYUGwTHyK5N0Aeg",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103705715040843449435\">Avanthika Nambiar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fWXpFk5B64gZDOA83kKXHLqyB8Fie10znfqG97Ut-4SkQeLCDpjMeb6xfK5yADY2f4A84Hs1kMChHs71FevED0JFFD7zXtKvCDSnbJYMIfq6Z4c2iEPjrnm8z3GB_O0KGR3gPW0mNoB5wAhhGvB5D7KQ7g3ZVu6tC9vsoWdO9ZODG-9c6nm1QYmqnlMVzMEbxbRZ-8jPaTgU4crIPm06_GfftmXv3jf4bEPWX64NbTnYxbyjnOnY4eInG3ZJxdLHeu-0EhmyC_5tMzvgwyrMJeS4ssTnowazy8y6NIKnP4isH0W3gNMkOSpQdaZzMKKgloUOeBDBa3HACUj6KGQ9kqX-Tyh7hYgb6M1xn_C588D4pc7byqjLWm3_KAOXgaWEm9un1niWaQ-RCybWoaceIPj-tP6YUtrUGJiIPOu7J10WEg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103188438697421128343\">Stephi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVUIoNjlrBjnFYH245OTQMQGckzlu-rYStMGC_Uwz2JEDwx-oQ4n3kjdMttnswDXq0UD-4GC6mkLvS6wPG46TM37O86gVBREbSHXQhrv6ZzoV_qRuC9NFBj_yIBmXCNUhjrLnVIdBBSXfTNJGz8Jgf03QfYlD-mukwGA2PWhOp-4ENuwArxkp1PQms91TcKUwgGLFCWbZMOhh-TYIWZtqhONavSYpItCsGgxB8CBOi5f_z1IV9N1UMM0II2TM27fHkRwne2UsF-6c6ik5n9eG1dBS9fcwDEmlLgh9J4w3wC8bt8TpG_xXMpgwIaKEcx4ngv10-w39TFOYr3rgMDzzKsdEo9O9R69v0NKM3CkU_ZlDKug3XHtvusag69edUgQbdSwABRz9Z22JPhcmoD0nGa68FPUv12a2IXHSBx0-ZwA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103031623372392176743\">Lorena Lopez Finamore</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5dvRFfa4MftfxPzVpZAyuleCPZWtzcJSqEhi95O87ncd9YkIGcH83j2KlC64faW_PvrdIny4TNWyF4pNVW4li7n7CIYqY0YCHKgBHCF4JKmEKrd1DoGuKSxEa_CBindDyD2y4cqeExgnFLGxXi7pK8d1wdLuJpEJmHHrlkadjkEb_hiBsDvGF-Ls1bUH29vBS2C0iOsl-hFRH0Mpt-JKDEIh3r3uRnxgQmZr1N4riuAk38HitU7fn8bf7FzkoAPyffDQoz1mnHszLqFs-X-pAxcaBJg0VlgqLxXPfe3eVyP_5zxs_gLFldGAdUCsyF-a53UlSXEASHBmnZYozC_BwVN4XRiQfsCh7hTKhT9J9qHnAWcX4iz-VWpavuQeHumefufeRI5OrAQCvaosVJqfqjnNbsEX44QOYRGLX0cxUFw",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116729077812086050630\">Edward C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ey9ZJeAtvNsrF1ebm1u93dIvqtbsXSmT4B-Qjipk0jqFp2Rh3tUqBuzEU7jGrWOnd9BZrOD89e5FKBk9RsNDRpznVfLJYempOPJ0i4LVrdWYPXEiMfBRqpzHWzA8bnEqNv7h5p2rWoOlQX3HNuYLjHMHjoTrXpBZ87aLfs8luTVo4MxX-FanWQnBg6idJWGovr9q0xhCO0hw5_4bCKbz49P4zobL5ztaKQ_ukSaGwblD1LssBmH4QZqEc7SS81rSXRo1zOeGr1geGgOwrbs0tDoiqgN6H-1QbDXYk1721iAjcRRb4Xm7Yj6ivQYv-87_Rv91v3GTIRnaHT4Z9-fKaLOlsI2RQcIuxJkdXZYkuR6OKmZcG2TFZt_xTBttDRnKTWX6YWyGrXY0T163Zi2dSBkn4H4fr1v9GDJ4YCBL4U7wg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114730485600180563432\">SULTAN K</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Light, compact, hipster coffee-house serving sandwiches, global snacks/meals and elegant patisserie.",
+  "reviews": [
+    {
+      "author_name": "Nitchanun W.",
+      "rating": 5,
+      "text": "A very popular café every time I walked by it was crowded, so I never stopped in😅 but they actually have seating in the basement. The matcha coconut cake was amazing! (I cant remember the exact name😅😂) Coffee was okay, and the staff were lovely",
+      "time": 1759716439,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "maé",
+      "rating": 3,
+      "text": "I was very eager to try this café as I read all the great reviews but unfortunately the egg sando was very dry and bland which was so disappointing since this is one of their \"known\" menu items.\n\nI also ordered the matcha which was extremely watery and didn't taste much of matcha which was a shame too so I couldn't really say I had a pleasant experience but the location is very nice and the café has a pleasant and comfy vibe to relax and chat/work.",
+      "time": 1759362327,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Rag Doll",
+      "rating": 5,
+      "text": "1. Seats:\nOn ground floor, 1 table with 2 seats inside and 2 table with 4 seats outside.\nOn B1 floor there are 6 tables with 12+ seats.\n\n2. No laptop.\nI've read many posts which were written by foreign students who were doing their dues here, please respect the requirement of the cafe and stop the wrong information.\nEven today I still saw a student using her laptop… 🤷🏻‍♀️.\n\n3. Light on B1 floor is relatively dark, but it's good for relaxing or chatting with friends (low voice volume please).\n\n4. The matcha tart with white chocolate is super delicious and long black is also very good!\n\nDefinitely a comfortable place for recharging or relaxing.",
+      "time": 1759839610,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Hery Diaz",
+      "rating": 5,
+      "text": "Walked by 4 coffee shops to come to this one. It’s nice to check it off the list when traveling. The pastries were good. The shop in the back is well designed. The staff were nice. The atmosphere downstairs felt like a restaurant and not coffee shop which I enjoyed. I love the personal touch of no computer screens while you are there.",
+      "time": 1752594944,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Webman Technologies",
+      "rating": 5,
+      "text": "I really enjoyed my visit to The Monocle Café in Marylebone. It’s a small but very stylish spot with a calm and welcoming vibe. The coffee was excellent—smooth, rich, and clearly made with care. I also tried one of their sandwiches, which was fresh and full of flavor. What I liked most was the atmosphere; it felt cozy yet modern, the kind of place where you can relax with a book or catch up with a friend without any rush. The staff were friendly and polite, which made the experience even better. It’s not a big café, so seating can be limited, but that also makes it feel more intimate and special. Definitely worth a visit if you’re in Marylebone and love good coffee in a stylish setting.",
+      "time": 1759578043,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:17.372Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSKnuM0adkgRA725Gi-2JFk"
+}

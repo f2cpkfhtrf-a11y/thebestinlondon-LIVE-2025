@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJyXplTswEdkgR3Duw3R08uas",
+  "name": "Steak and Company - Covent Garden",
+  "formatted_address": "4-6 Garrick St, London WC2E 9BH, UK",
+  "vicinity": "4-6 Garrick St, London",
+  "rating": 4.5,
+  "user_ratings_total": 3374,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5115937,
+      "lng": -0.1258172
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51287893029149,
+        "lng": -0.124432519708498
+      },
+      "southwest": {
+        "lat": 51.5101809697085,
+        "lng": -0.127130480291502
+      }
+    }
+  },
+  "lat": 51.5115937,
+  "lng": -0.1258172,
+  "formatted_phone_number": "020 7379 0412",
+  "international_phone_number": "+44 20 7379 0412",
+  "website": "https://www.steakandcompany.co.uk/",
+  "url": "https://maps.google.com/?cid=12373987550148180956",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2djx41FWo2sWjVCewLrAMpYegPdBUN6aMPSWw-lnfwvHWQBY4H7HeSjkkM3R7rARHPScIljpp_Wb_BhYRUvDQHvGnCQqy-dl2gwaawozfXzVa681wZau95z82e5zUekosEfj9AipzIZLOzGHlgCQmD5nWYn7OHEDO4DMN5YJTc5EtwmXY6QtWuqjl8bVaVhsmRNVz9K6qsjP9WPEbaXTaRRK4zg8LIde81lth3aBEnnG0Ju1s7R6EtpfapMQPczK7gThBHN2NB38PMzFi4QO3mY5uycUCO-chD0zwUYOTtQU4oJqBKg1grNXpsxt4W-4HB6e2m_aSn8kLZLs7eYWMLPBrn-kNi0wcRqruwbgV5158JWtdCY8CeCgV5cITYhixqqTeXGuIJr5qGuA5XG2i6hb7h2d96g9D7cVK4oEwgnqm3FE31I9jFFxucWudzb",
+      "width": 2008,
+      "height": 1055,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111941996399252793572\">Sam Aberman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-4nlUm6ldcd2ZAaL5Hso4dO0uYTC3Tlu9HEneIo9DKZiySDuY6o3Tbqgzlpmb2vGZgS6dAPvRRhUiX38nyUGedDKrOe_LY2wicl4OoeVGe6CmhoS70wN3XaccotWmcLaY829goH94RkWzKF9guQ3bLSlDXuVdQNCVk9KiBB2N_t4THFhgLMZLp-7ILQuBr8rxbr0A30_5yZBFgsyXNT4FBJ9ngJ7m87607kZfmSeaH3zy3DEcU2qizLO9mYlRBAAeenP86Bi5DjlZexlY0oTIoNxaF1iUGzO9oFPRsdpeoQ",
+      "width": 3285,
+      "height": 2190,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113274545897948566316\">Steak and Company - Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2duU0_JNaBO0Azf5CTDIX8PxANxLm-JzTJUflYei7o3L1Px8bKwRzKGxTbLttmooUpi2rI2guRHCTJE6GuPUnbumYzQhQKDfcKTICw04Gx4ll2V-5qF1ZQkicz3uIt6SC0M6V3sCBH5lcZ7G8KGOEaiig1yJ5L2pVdAmDyFaKT8TOXx7BTQ4o1z5w9OBUlZbI66QIEZ_6JTXuJ5CoFEEUR-T0FiUO-ffDrzBrLXbDEeG6hqmznK9yjGsUPZfLG-5OJkPq2XLOZw7aLjNr2ZEPJ1S4_R3Gnfg1EqxHPZdJMMTAeHF7FASO9fW_2AjUJRveiYOjUKdxDwk_S_S4mhCHQ2JArehaX1JPZotURk-jthJoNjji08mHVEyPNK3WhlV1YY0IIyf-59ojoEZENoyr8GdLjh4RWv_XKD_9q-SmbmMgQAholFtNohG9KgMiYB",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113334269090274860957\">Rodrigo Valerio</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cN1AToPc5spRC2oszV2JRQQRUxQ3SQ0gQHRmcrTDauhiJlS6oqiSXsYToZc5ONE2hfc8hmhY92IzGg6v3cnEfyb8xHybvhdu7if-QbKDLM-lyf36IbiySd_ReJ9RXfT1MzPjM2GICDYxQ2Z2qMxf618VFnBcgnfIXs5bYz-_B2_Ica1jJPwPOIWE4lpEG5BMvUDLOGKdDjO5e-cqj_KNfDyuL2vdmY4PH-TqU7micomvID-kwUSzAlxfSBuPnuz82qvo7rDVWWAqT1uuOQlbFgtUVO22AWCVw5C7nZdwx-sfmx5e1k8OdUs66D6GnQ-3BGaiTerI2GJd9Yfs_WgnEAUIuEcKoYDcYiICvtXMMDub9h79L2LGll4-uuLg_cpG9EWSllqeyD4Qnp0lzyV1lk1LfYLAdTM14tShnQQ0qThHsLfKTaFf5za076KWqe",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117488078328646189816\">Yasmin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRvLR9rUKSF-mUYo0b7xJAqRZbt9mSpH2RnLKzG-LWiE8TIY36aSa7lCD0j2uF7FQ24JoBzn6X4T3ZYu4nlvIgJvwDC577L_zAXCmm_34SNELY4XtwCg1pIVCGO6WArJVhYlxks2n3JfooUaSI_CiBndjdSw8FKFIMK_eZ6TZv-Tvai29D4JiLXWYlfYWyOro7CT8xZZDyS97cTpuCagMrbn3Cywb-4dRbNxk-ppnv-s9S04v26EtJk8rY5X7Hwi9J-ovELrs97Wl17hEnqEViunVQTE7W7s43wsSK5hLzc2taiYHYwxUxnpUdxVibp2ZA3q0XdVHhbV88eWXCEM7jrCOULGhDdccS1VBs_PzP9c-HOLifwgUq2BoknzwoernfP_Jh5nNqcfAXaf_UqrNChfLfedlEAR8cjkbELS03wBL-7YMzvaRGaxTxEQ",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105353718662555528418\">or yaacov</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dgIGZbtzBBml4unIoNUSKzwBBxE5yKkXtSXHI5J1p-m1HT801NqLJyjEgERdEjCuz7ijrItr5fu931r14KJVuT79-GWHqe60OBx8pqZJgjAEmwlxMpEwg5UjKUdNpVxNLux9IUE-a0R4zxjlpoejrBRCaVG4C-cpNUgSNFDc9fiXwHMjpz2FW-2zuDipx6xGJAc6e3nEkTM2iMSr6rRZIIusiGCuD4MNv7opKtTHEKkUyMfhuZSz6RJIbMQ5M1tlREnaFTNl1-GJ-Qc3umhIuWNmGkbqV3mGDSuczFdOd_ZIeC04GL6tp2_2_PNj38bKN1LvmTwU-z_e9RPSa6vTqAUa65ecQefl7R1kcY67N5BfQuRo3XkknVKvnWuMhjjSZrRhRViU5TPbzeGomYRDeCZHKC8QfW3jOGEqmrCxaGw6lU",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113503629215046675688\">Lydia Papadaki</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dveRLN6M4bYbij2RsfUol2dVWoGCsII2kMukX0uBHEqTbc-auW3JYfFJUeMdrjU-LeOnu8ZuGdIeswLMalHuWsvVc2dJTKK0YK_XK2Ayavy4ztV1ZuClasS-uZRCMQnuh4C6eD7SJ16gqXfB3c8KNuGFtZ-4boMuJdcATrGhoZMMF4JNXn2MLyNXclXV-P1kvI2ZNQm0jqGxvmrjZrax7pNbzUxU3CqfV9F3WmH-KJkTK2gioogatuz4_SJfhlQ1yhKjE6m5Pyv2mQOlx9yeJZkMNpxkj72Q0_EA76lJz_eg",
+      "width": 3285,
+      "height": 2190,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113274545897948566316\">Steak and Company - Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eskSkhBIyE8MZoxx5md4_EnXQ_M9NYG8382KWk_C9qJIvNcj6KBF_kVe3IpytZx-fUDKQ8SZ2G5jEQfVpmkMWTUT9cgAcroaVcRAoXeIX1U1nyL4dBXxy8MMYrNnXj2D0biNuhZI2S0RPjwO399ALEp1Zp0-Gx8a_GS4XSXSj8rYKTBCjUB3oQM-x5H7QbA_x0E5NtxyQfF9awy-ETmgqpzCy9JxSgVV6_zcrk435OUwhujWfTqBhyj1gQmpk1TpRR5qjJZwtx4uEpKt0idYW87l_cIjxgsBHtwsw6E3CqmWsjHobCnXCRvD7rrpW4WchB9RtIJPUMyNOvQOAypuydwnok9NBsyZqeNCBEqgDu5xdX29TTdhsVdxaNKdiNfSe-4E3fDrk-XRiSGaVd9Q129tE6sySHoq7spJ7sx62yZpc_WER4HluIKggyN1Un",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107991754320850615989\">Khang Nguyen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOVxWdn-2dHKkreYLEQgmAByfVL9OEz2cbcs1PLFzIi2ecBUFsWF2LtmmWYP32b30xGm8potT9wYPBGOPAGWsBBW5M-lMtt7Ho0CXDNauaWHxvbHl_WYb0mHluy6LZWysEQBQhM7ufMnXTBRJp638kwKFLAR3ftzz1QUUB6NThF0oQ4xoK6-l0yYZtZrtR9omlGvPXLDWmtkmsMzpyz75tAo8pSWSqu8fACQXiU7w9fARaFFD1ZdH0DzMiPlvXQ7xYRq0kwkq4uzB6AQLjmKy380eEG7oBMXQtSuDkargGgsRyPBD0b5qiQzsjo-9G2deahaTBWOi60oVp9UbRBJGQgMVxwQpEwee_uNiVTpxSl5MfrqWFXxAGTJTs8PLB-HSNofYZr41Pqw8HwPU6wDcQn8lVDKcriXlOEbgNYDqjxw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116287359538171453863\">Al Brown</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dmWWT5BtrlKSenNjV70nUz_BEk1DHpOc7is2LjrwdgTprWGp97s_zybblXPoi63vvTveVwHPSfG3wbGJwUuYEGa9hWIqHJ2NOvgUNGlrXpUFNLiU1mW2UwlXfHA77KQtjnc03Xe96PjBlYcB_NQBcuAr4VKQ2BdmCDbslsVrF8_JvgFr7SWADyayTD7vbp5KHa_mm6Y0t-aeRClVAuivKVWF4q0KX7dqTohQZlmeizBdUIQcqhdRoi5yyks5nP7GiV9qWFglFyhPuaCCsfdAdAIszrj2rI7wzY4YLA_1y2m2VVmFJrHY7XRjVn6b6N4uSfMeSfSfzgAUrcV260b1C-tMqE5OfT43ZWX-nLOrpAcnzwki_0aGsYLVN-5llEJknruoimZuw-fCDskRosmFaB2sU2gx3v8dv9tNZe6-9238QYlBOdgEr6xRgIFD7P",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102600457651543031734\">Michael Camilleri</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Contemporary venue specialising in chargrilled beef, ribs and comfort food with a pre-theatre menu.",
+  "reviews": [
+    {
+      "author_name": "Di",
+      "rating": 4,
+      "text": "We had prawns, pork belly, and something like burger spring rolls as starters. For the main, we got the ribeye steak served on a hot stone with chips. We added mushroom sauce, peppercorn sauce, and another one with wine that I can’t remember the name.\n\nThe seasoning on the steaks was nice, and the meat was good quality, but nothing that really wowed me. Overall, the whole experience was cute and different, and it was my first time trying this kind of place, but I probably wouldn’t go back.\n\nIt was a bit expensive to be honest, and the steak doesn’t come with anything – you have to add the sauce, chips or mash separately. Also, the stone gets cold halfway through, and I wasn’t really in the mood to ask for a new one since it’s a bit awkward to handle.\n\nThe staff were nice and friendly, and even when we arrived late, the lady in charge of bookings was really kind and accommodating.\n\nOverall, I think it’s a bit overhyped considering how it’s always fully booked. Actually you can even ask for your steak to be done by the chef in the kitchen but Personally, I’d rather go to another steakhouse next time and honestly, why am I cooking it myself when I’m paying that much.",
+      "time": 1759672089,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "or yaacov",
+      "rating": 5,
+      "text": "Easy 5 stars. Easy. One of the best steaks I had in my life if not the best. The price 100% worth the value, and I hope it will stay this way! The atmosphere is absolutely amazing and the service was friendly and kind. Recommended",
+      "time": 1759528538,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Marta Parciany",
+      "rating": 4,
+      "text": "We were welcomed by a very friendly man who seated us at the table.\nWe came for a birthday lunch.\nThe place wasn’t busy.\nThe inside area is cozy and nice.\nTo start with we ordered the fried goat cheese and it was excellent!\nI loved every bite of it, perfect combination of flavours.\nMy partner ordered the steak with the option to fry it on the stone by the table as we thought it might be a nice experience.\nI went for a veggie burger and fries on the side that had to be ordered separately.\nThe frying process was easy and interesting.\nWe were explained the steps of frying the meat what was very helpful.\nMy burger was just ok.\nThe service was nice and friendly what made a great atmosphere at the restaurant.\nWe had a chat with a man who I believe was a manager.\nWe were given a nice dessert on the house as we were celebrating birthday.\nThis was very nice of them.\nWe also enjoyed our 2 drinks for the price of one.\nThe place isn’t the cheapest but the experience was kind of worth it also it was a special occasion.",
+      "time": 1755727125,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "sineda meta",
+      "rating": 5,
+      "text": "I visited Steak & Company  a few days ago and had an amazing experience. The highlight for me was the hot stone steak — it was delicious and a fun way to enjoy the meal. The staff were incredibly friendly and helpful, making sure everything was perfect throughout our visit. The atmosphere was warm and welcoming, and the service was excellent. I would definitely recommend this place to anyone looking for a great steak experience in London.☺️☺️",
+      "time": 1755714381,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "agnieszka piedo",
+      "rating": 5,
+      "text": "The best steak I’ve had in the UK was here! The service is incredibly friendly and helpful. Manager Agnieszka is very professional and goes above and beyond to accommodate every need. Our waitress Aiste was absolutely lovely, and her fish recommendation was spot on—exactly what I was looking for. I’ll definitely be coming back on my next visit to London!",
+      "time": 1757361799,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:58.039Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXplTswEdkgR3Duw3R08uas"
+}

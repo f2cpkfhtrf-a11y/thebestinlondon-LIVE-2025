@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJry83ifQbdkgRuQNeF94T_Xk",
+  "name": "Hala Restaurant",
+  "formatted_address": "29-31 Grand Parade, Green Lanes, Harringay Ladder, London N4 1LG, UK",
+  "vicinity": "29-31 Grand Parade, Green Lanes, London",
+  "rating": 4.6,
+  "user_ratings_total": 5287,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.580449,
+      "lng": -0.0992289
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.58179498029149,
+        "lng": -0.09792316970849796
+      },
+      "southwest": {
+        "lat": 51.57909701970849,
+        "lng": -0.100621130291502
+      }
+    }
+  },
+  "lat": 51.580449,
+  "lng": -0.0992289,
+  "formatted_phone_number": "020 8802 4883",
+  "international_phone_number": "+44 20 8802 4883",
+  "website": "https://www.halarestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=8790203892292780985",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 2:00 AM",
+      "Tuesday: 8:00 AM – 2:00 AM",
+      "Wednesday: 8:00 AM – 2:00 AM",
+      "Thursday: 8:00 AM – 2:00 AM",
+      "Friday: 8:00 AM – 2:00 AM",
+      "Saturday: 8:00 AM – 2:00 AM",
+      "Sunday: 8:00 AM – 2:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eCczm7M2XEW5nMbZS1kzBuYSxE78XH-PJGRowg_1l0v94eoqNO3qF1Hawf6pom1NXhC0eBGq72nEft6oKga-44iXbc1SO9rUl0cIGTRsceSDlMskV-ryrWbw4s1_CsfETwvIyOfEGGAP0r2Gs1uYUsl3ZWiud8MF0APGEeEf7cSbWnygKtOeyIK8ZNtDotqQkPn-OoxoZ1oAElTjRuCMEis_EbgVxnym-40UkpoCue5GK1l4VJoA2fA_svhdzkpRLQDrdlP_cm2NqMqRPH57ovVWj4nTmCIjhgJmXl6uNyVQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112341842092624136587\">Hala Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fgaixR8VIQPSAICat7e87PVgnZU2yZHjwLLkDyLlfwuaQjKe7dkOtSHITTEzjP9f-9MTwchnCZ-7KC-TSSXUIuLobZ94ptv7rivYFVFxjyfOsSQOZxCJBLZwJH2iGdwGKgsOU5NlBR8HjiMj14dn-d0_3gC93TitUsLIvF0i0AsG00Pj-ICkLy-OfW8-Hi1MnYYbrW1kBQ7uRxarh4JjZwPmQ49_CnwzVja4OusRYoJ7xJniCFMSIkJ6r1PN0I1f6VnPsFZnUu4PtOy1UiIpyhF7_Jm8hh976VyYvpT3orZA",
+      "width": 4050,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112341842092624136587\">Hala Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fQvpBxokKjV9j_ZdtnYbRgJznCHKTxf_CCC8SCDP10r23ELRL5Ixd-5tLJLOUMVjjhZUf_N8qnl1wjUD71bIBDU1xJXCK9ILF40L5FKfI0B0F9gi8uqOGFbTt2X_t8mYgE9OYLt9Kad1Inb5uyeTAbN-XWHhIaI28o_ti2_ZQ8sIvu4Tr2gUjJAknl6SmQYB72aP09LlUAF2tgO0VeYq4v-QLW1UweJUbRzEdA8mrYSfs5C2HsBorWzymxNpEFBJHA3KvctXCwZ8sCHUT5KfisWvmPEVs5I4LY1EbVJmESlg",
+      "width": 740,
+      "height": 416,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112341842092624136587\">Hala Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJML_IYsbr5kPbgy-LJnBoffi6TdT-Jm2XWGkb4uUKGTaCsm5teykJsI3Zb-JiLyNhApLbLOLg9_0AVD6U_pbBV3g8dkehl0jxsYoerdVOAulnUGsA20W4gq7pWVdV5udYXh-s37U4_x0vdbOtU_zv4pnLt-jtIzwsONOWrsNxEZ8MBWNMtJYIejuXrbxv2gAbaBh8E2pLAvKi2_uTDADr5hBFheoMyIumxI0FowFmEJryqrWGqSD5jpH2eD1nRgQc9PXW0db6MHE-uKyM2B-viUsY3XbV9Xq7s-P7rWHnzOs069MlWIu5y6h9113vza3MTWpY63YYHCgPkRuMGvVwkWp6WrkvYsummtX4xR0mW1Iq8I3NxBZ4nkbpUHTbL4in90NzmuIF_LLxLVmUE7dBct5z2Y7465SN4MEujFs",
+      "width": 2935,
+      "height": 2107,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112343071426520926247\">Elisabeth</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAeOlL6yFBBFJjz6uvjsVWryUMVY_bCUWIko_iH3hU41gWLnK9_crkVX4Y0OG_cw5e7sVJybnwj8ksD-oMosxO2yIK8RN-qtUwWBYurk0YNWnGjD55tib_cyJTGlbqoDVwr-mY-XIUGH4U9HsnWD2n8Raof5wxtwMzssACTXXf1DsR2QWqLBnPOvEgh4qRhLo2aQc4-xuxD8Qw78ayx1onJl3VNoErbx_ePn42OpEMLHRTFvluXsYiNWyIIBf0fW8N-ZBR_obxPL4R-cge-ExjAIpekMjuLUYmN6DLN49r8A",
+      "width": 3000,
+      "height": 4050,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112341842092624136587\">Hala Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dn6ut1ufEDNqh1y2vqELJxLxVEXx07nFMDkZ5kCr2-wy-2NBkPnF0d9gEkR2XBy525xBVBYfNW-p3nT4JBr1qxcWVRCQcMt9RpwAUIDhPFahLSAx2_6JQdKEKdSooKV6pKfgFRsPzlQNHFyy0-t8eqGSZo79iopt0-Qp4GmbuBWjSlR9fPAdPhM2HhLO7QpzdZ-NdUIUQu-UtR3HtmluErG82u4NVijjthRWno3zO-_46mklvvKGi1E120cLwooF--pnxEFISbf1qjkyWHWOYOEjhDIDzaJg8JageWy0ETOZd6_kxxeVqfrkNSW5rWr3hJk0_L7U2dz_ebgGuVtXv577PkDVzVcCqzP-SChU8l3AzlFrOZpMjoY0z1PTojeJerFx2eo5PbID4pHn2PxvqZpu-7hmz_uQ6rDZarU_7uK98",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115367360939817190545\">Mir Aiman Ali</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flD02qbsw7ayESP9wWroedh0rwprXIMpyabbu1iQkWTAjSrIcQdorHiLKVxO2dIlS4e6MA9Ns6s_UreaQ2_hKCLoJFBy9zp-ubIWMLayaBPmiSbSAHxq1Qxnd9CPMwx0Ov9HC7V1rlSPuWbr1z-qR1744wwCh0QJ_oZjo_FN3MGXrXflcIRJ9MpNUME98zKMPcBd0nW80xwtKK8FliNyg4_O9yvQMAqLVg0XqyGqYj-Yjvf3vE11LOpTS4J8cSyGumgXEWAWxuuHLuxOXP0FPvo3qIAMaWTXtkKSZwEA38gMbs-U7zGWqSp4poluiBxgJn8N9-eT9mZXLjjybsKLesGtYhVLgogYzm6zM5wsNG3TdCVWS_khbxrCc3QUUqvhXYTafPdNFh8Yk2Tk6vLt0F4TYUxpWNM7yRGnQ1XwLXTG_B-QRBjTFd09NiDXrU",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106983716500203494812\">Seçil Felek</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cEHiynh9YyJsX6ZgMseaW9PB28sNc6MwQG0i-b949RdLTdOkvgqGZqUP5ZlZCyTNN013HDoJlnPK1cEtn9Zzcj3Q1HECSlu6f6_jfC_fOCl_5cdWdFI41KHV0uwfA0klD0D-xP7jG64TX2BhwZgMrTW7yITS4h63hjJyVQ7i4CoTP1gDSAZR5NyBkrhtc78O5y-f29ZlhPmSVqw1Bhts5MBn3SvT8ix1awSBCegm3uJSPuGbVtyflmYWUXhDArWFGNjvBOSxyXJO5YW2nvSG0hbWzj1kuh0J7Ys0aFYWWSZGwryfzj3vnIxiAQx4pJR_nY_Pg88j4-SjrAeQeH88vxEyPQ9rd_oOA6Cyny8u3vsRTGB-LUJ7NLezF1T_B78Y0mT7gaFB-8k9Jw7rxXLyB2BwOiJE5pfodNpruC_Q0",
+      "width": 3024,
+      "height": 1719,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100446735830873444844\">James Turnbull</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4sBdjqzuffjap9tsTo4PlSNqnBDxhfkgXL16-KeJ2Y4G2CZUQbGDVZE-YRWLhgVB7vbI3ZZYJ9yl0TXLxuEyTJon1_VM7ckGFK_pPJz2Nu8E2vSrR34rf2L6y0AihtENxe-gOdpbuZ8wJpnlOjp76RYHxG_PbAXvCkhZYLxpqVSxAnZmFq0OF9bYB_rPYNnZrdZuefFRf_32rBO0IPkjRjBRnHF8P8_WmDdtqRdWcAsFoyspX0DoM_Oz71tZEid3TVFMHZ7r8i5a4ITlhSMMbPTjtcQwD5TuMlBkf78F9jGQ6b-M9z9122GPR0V1bSd7GzF9i9hbwh3M73n_ihG9oonxDsUC3enMalLjWIXaLUzvSvQOIpBFYCLMejDd_eJ4xTmVWB1Tn2V6w30krH46bTc_IZS2FcKf792STQrf2oxJAxRFeOXuSCJhSczH6",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112334607359163775595\">Reem AlRashed</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZ4A5UMtGi2-s3LAnfb_l1H97BbwH2gphTcErBuaoX-3YDvZD5nygLEUpx27fy-fkZFSdRO7e7j20felkUGf4y72Sy-9DQ9Feg8mMjJ4l7EEiYz6rCdZWn1nwTrl7Ty81Y5fE6zLiTH08Jx-mQaXwZOVIgJXL_D6QIDBp6lTXNH3tzHAdTck38crzHGVdgfk8B3kqaWeMfS1vvjg0iAboQ-YXiLeTuUdqkM4-uUAld7Zj7mZs3yXCm1IQPD29RxwINxRd5jk0DK7qjeffjWovQBHgqJE9wcTwACUKCeLhDtdnJr8u6Malcp4P3n5avWHjL1wpwqTsBRB2ho9I1wSm6L3uQOL4yO0ejAfViv-e4yJeqkBHoxunW4dkU_5OsIyObSr7vBZVh79M4cUdlPpjDzo2LLyT6F-CaEWD5gw-3Cg",
+      "width": 4000,
+      "height": 1868,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112666326093836396557\">Homa Keshavarzi</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Traditional Turkish plates offered in a wood- and brick-lined setting with wagon wheel chandeliers.",
+  "reviews": [
+    {
+      "author_name": "Reem AlRashed",
+      "rating": 5,
+      "text": "With no exaggeration, this is the best turk food in London. It is even better in some ways than that in Istanbul. Looking for authentic flavour and craving tender cooked to perfection Mediterranean food? I highly recommend this place!",
+      "time": 1757350156,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Büşra Okkaoğlu",
+      "rating": 4,
+      "text": "As a Turk, we were very happy to find these dishes at a restaurant in London.\nThe homemade mantı, içli köfte, and liver were very good.\nAs in classic Turkish restaurants, yoghurt-based meze and spicy sauce were served with bread before the meal.\nThe lahmacun was a disappointment — we had high expectations.\nBut unfortunately, the dough was soft, the topping was sparse, and the taste was not what we hoped for.\nThe ayran was also quite tasteless.\nWe would have been much happier if the staff had been a bit more friendly.\nThey offered a turkish tea after meal\ndesserts were very nice we had kunafa and rice pudding.\nWe ordered the large portion of the cop shish, but it seemed small to us.\nThe prices were reasonable.\nWe paid £35 per person",
+      "time": 1747261079,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Rennis Cecil",
+      "rating": 5,
+      "text": "Had an incredible meal at Hala Turkish Restaurant in London. I ordered the Hala Signature Platter and was absolutely blown away — the meats were grilled to perfection, bursting with flavor and beautifully presented. The selection of cold appetizers complemented the main perfectly and added a refreshing balance to the meal.\n\nA special shoutout to Ferman, our server, who elevated the entire experience. His professionalism, attentiveness, and warm hospitality made our visit unforgettable. You can truly feel the pride he takes in his service.\n\nHighly recommend this place for anyone looking for authentic Turkish cuisine paired with top-notch service. I’ll definitely be coming back!",
+      "time": 1745520251,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Yuvi S",
+      "rating": 5,
+      "text": "\"We had an incredible experience at Hala Restaurant! 🙌 I booked the garden area for my dad's private birthday party, and it was absolutely amazing. Our server, Abbas, was incredibly kind and helpful. The food was not only delicious but also beautifully presented. 👏 I would highly recommend this place – it truly deserves a 5-star rating for its exceptional service. 👍\"",
+      "time": 1748800617,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Wajahat Ullah",
+      "rating": 5,
+      "text": "We came to Hala Wood Green Restaurant as a group of 7 friends and had an amazing time! The food was fresh, full of flavor, and served quickly even though we were a big group. The atmosphere was lively and welcoming, perfect for enjoying a meal together.\nA big thank you to SAMET for looking after us so well—he was friendly, attentive, and made sure everything was perfect throughout our visit. His service really made the experience special.\nHighly recommend Hala Wood Green for both small and large groups—we’ll definitely be coming back!",
+      "time": 1758575730,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:41.306Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJry83ifQbdkgRuQNeF94T_Xk"
+}

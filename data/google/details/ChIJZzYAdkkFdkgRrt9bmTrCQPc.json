@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJZzYAdkkFdkgRrt9bmTrCQPc",
+  "name": "House of Ming",
+  "formatted_address": "54 Buckingham Gate, London SW1E 6AF, UK",
+  "vicinity": "54 Buckingham Gate, London",
+  "rating": 4.5,
+  "user_ratings_total": 255,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4985583,
+      "lng": -0.1371067
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.49996368029149,
+        "lng": -0.135705819708498
+      },
+      "southwest": {
+        "lat": 51.4972657197085,
+        "lng": -0.138403780291502
+      }
+    }
+  },
+  "lat": 51.4985583,
+  "lng": -0.1371067,
+  "formatted_phone_number": "020 7963 8330",
+  "international_phone_number": "+44 20 7963 8330",
+  "website": "http://www.houseofming.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=Knowledge_Graph",
+  "url": "https://maps.google.com/?cid=17816453682814508974",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 2:45 PM, 6:30 – 10:30 PM",
+      "Tuesday: Closed",
+      "Wednesday: 12:00 – 2:45 PM, 6:30 – 10:30 PM",
+      "Thursday: 12:00 – 2:45 PM, 6:30 – 10:30 PM",
+      "Friday: 12:00 – 2:45 PM, 6:30 – 10:30 PM",
+      "Saturday: 12:00 – 2:45 PM, 6:30 – 10:30 PM",
+      "Sunday: 12:00 – 2:45 PM, 6:30 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1445"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1445"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1445"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1445"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1445"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1445"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c9Ecm_-5WC4aD-Bb_ku0pFqfHZqeS9KtCSiW2Jf-eEwWF7_33AJHVprO_HOYUB72kE5Y6ZBKMHAGZ1DWQzm9OoOmwJODTE0sUhL8V1z7K6KI0Iyz42gm0KXj_b6YkC0dZeL1baUataS-0xOUviIO63qX8ZShLoZBpvZo77TGW3zgkEAjk-4PMDHZMkxVaIXB0m5FB8PlcrFfoPM02hZiC5GfnR41RQ0A1-Gh1ImEnQJwzJZAUIZleaBmp198Eqil-N--01TcheX2zVQLYKn2hxCPI-wfsUssn5l6tCVBpOww",
+      "width": 3600,
+      "height": 2852,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110663793560461821664\">House of Ming</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fWyc1rIEkdsyRmjPH68-0H0d1o_hms5w1KiiAS-yAhTaxBjaht2i4XQ5_TWDhrytyLwaZYjVW-coxDT_apqLbtdGp_ylqMHaAnrxG8yUuRNluTg__gpYhgCg4SZ_YMKvnX7gKUSmJsEf15faIm3gUfFJx2GWiUBWi-0nerTVDTNXDZPEVQLgVgQkA2xik2-qbuKXi3rKFTsFTob5GBW-KLwXf5I_oVt7rkZ5ZEe50J_29j2crJXg3zEH9YdLT6wEFAQk92i18y3h5QaqD-lSae0z_9n_BCFuRcP2tlr6iKvA",
+      "width": 3600,
+      "height": 2912,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110663793560461821664\">House of Ming</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0xi2BDFAI3HUUIpAh9GKGQBz8flvzhKW58Sushil_yAcQ1A-hYo5xQCV9-WIzwRPjj3Hbz15-Y_mZH9ReqkO43HzHXiGpM32JSe6rQMAUKQLop0hU4nXIlfKQXzSiJIaiMH4QABviJP6wkPtXi8Ng9_XdNyoKr-Xu0kL6eb7gFXdvSm24BOMcRJIcgFwsSBc0kWIPvItemgKuydkC2E-nbqcrUnFQWIl_Kd_NmsK3oPvf_OGrSllOFj0N55mkQ2uR8v1j9C7ExXteOcnYQcyS6-6E2mWK8vivOR3UuCm7U5ea3l47PrmFh4OQzjUPjMTvFZ9DiOXzGQ9vA9s6vZ4RBNnjmzuj0oAgequ2RRcmbadnCHgjwUhJWLIFsvQ4O9ufYS0fHoptoESt734REr-ShStWmq749Cyz9qXKAY3TIMEIpUgncLKJ9wG9OTkg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114727102685956795502\">Sana C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKJFOpvXNr7kZ7NpMb7-4u_x-t3dIWljSlGO3blaLr6eHlFdE02cHGcI71qwbCVeDMcv76pvFU8VK22ZEOU69Iy8sajHPa_sv3wPwea5SHG36Yzs600C1Y6eWi85I3Psu9RzMteVd0fglwHR5E29uGPLxOpciLRSlOriZshIUwzm58kjhx97Om73i3iHrXf_jyX-rVs0BLS-ymbiuph2ORATphbnOWC6EIswQE9qez21XjLuAM9YPvHkqYDs1KreGhUttGaRTAQO6WmPTixZDud2dIAq3XKyrk9-9AYHpRUahsAglQvMGsNtKSQpW-ZOXWr3Tjl1ZAhuURgzVzchtXmVuzzVUhh5sv5dBy5i4lVn9xfwe8x4WwpvQIRJqb2KoHw2ZOToK6id7mJSCqlxPhlzAwQ-744hGx-33ruoVOuX5EaVnxmvmih9uCyivi",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114727102685956795502\">Sana C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eeqczMrCHXTMPlOd4cRoCXI8XD_kRFR_mhNSK0SpXgHD8zfHemrZ8PGfSZTjS9zPNoOtwEac2L3K5xNOQp1l6PwuNpngjV_Kkf_tX3Tk2exFSyUqxxasHbihVOFbHq82N6YJvn6NUZ31mjS928ziGzY17Y-F6sGLbn6R36MU71BhyEZ9BZ7PlJZFSKAQg2pDVcQZ0DPvan3PYFHACNUMXIV0eJI2ClDkCwJaM5J80BtMMVzthJjBlMulSz5YovjF7Yw0RJfIZ4w6pT5Vb2k9kDlEI9ldYvbZ1kbuteR60m9yKBQFdrCQqofO8PQHdkSjVluAJBmpakbzu8WS5K4ipR0JpLc4Nwn01eh8TEY1EYTQJ0kWw8_aAoOHPi7UOifiG9dO10IPxyMsUUN2GJ_JCeJ3rWTTNtK_LkyDpKb6jPBZsp",
+      "width": 1114,
+      "height": 1324,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111366244948154182233\">Swati Patel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBGH0s0YjYQVmEx0D9jSzmNVUIQE3yO-Tt0m8UhOW0jJRAMLDkqRNk1PjXAL-QhMccOcX6UzM5E9NEFEkO-OND-683K3MTtSVKjSXA7uybpgFSf_bvk_-Ju6SbFFLDUHFDEvKBE4KW3X03FV1SanVzrEQhiRG6HEdrrSTHicwoS9ZG4Moxxvp96K8hyd_qsCCM-3iz0Jo6pADEbtAtpnY4YF66ScBoF0Se0ItJz_PjWNk3hWrbKCXSdqrHt_pJG4YpUtAvruWB5QJUpZhmt0zEWRnMqrP4KYppM5tdRffK2yMwoFzHwo7djo3_ZL152J_1ZG-DJPj1GPqa3N175Xraph9hy-98Sri3wigb5TLXXYjEKNiccItazdq4E8KVV5dIxLhzGFveHX9QKksu_bHX1XIAASgofQV3JGvG-vsP",
+      "width": 3060,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117510254261935630595\">Seema Sood</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTy9PWqTyB_YS0yEDU98bRdAQvPPMMDh7rxNgvNqUPCZCoV2JVHX_IKuAh9_f-vV02HlxcsBEzCqMvhxc1F-nXwddWIVjuJQld1HQwVIJ8gR0ZAEYcmrcnBkX7hP15AH_GBOzykyR6r5a6FYotAz4SJsjVz5B-CMeqHnBvw50rkTtkBFL7Ot7iEsxdKtC1quPqMqYXe4oMqf5Ga_pd1ZRC6rEwDtsylWK3pHJVQd5IlBOKuEgjzBeoXR6rkc9SNhbG9ohh9YBuf0uHr62ZyeoTnHaGnDpdMbt5pPDDORAWjGP3Das-BLUVpRCTo6j2UO7N-aZOT5Jl06DJgj8gILwwoe4Zdr0buaC2HxHNTcXnsJoOJDoMDJjjM2uA4EvTyg8vdOSWVAm7BbNBenR05gn-Jtdic73L090qmhBl9UVBApSE",
+      "width": 4218,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111343807096735236740\">Habib Al Mulla</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f49DyWsJrHhoIrEnAi3wdQkqLDfMAA5M_UjRGJ9MaUyuXlhzpEe0RxoBEO14eaUJ6H7W8xliQW-LcUOUyzhxDDAtM4MjWszwDhe1PYa7Sl-zNBsxKBBfL8iUlpflwHr-qNE5q9o2Y0fT68t8vB-d7YJU7M4L_cWi1VI2vx_wWZcpPrwnG5DrpWPx-cOjqm_6SCyZR83HetiQ3WB1h68OZtmGM6BP_qL34NokVnGZX6oFk1vTQFvPLhBlLU_wO5F2qoiO3Ib3G9r47PKdgiAzrfSZCT9f1kNp4jyn5YnjS4snqw2QlCqacKBXPRuG4gsrj0TEzcQNb-4EyySZDb_Ls30EeFFhC8dKhm0jZ--ytkmbohwmOCGUjy6A20KaXFEzOH86P-IPbSCb5BhmlIZmp6c2L9QhgPiMJZEmXCjPkmLmYbhzntpPF6-vOAHA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114727102685956795502\">Sana C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ehh1uhgBa1hE0e8hVn5cl5qGvhDhITSHT-7q80oziIewZwi3H3UZymQGL9sNpwFCdXG600N_pOp6b5jF0EqoqNNOCUWvVNbfDbgBQ6Kq7Q1rnVV-rzpujIYfzwnrkFqHlDHfot6QE6ZysoiV-lE6BG9RnbMGUtSP7y4rKl8OajEiVcegLd5tQJDp9pUa4AIkc5YOu9HUsB0fNC48hbazEE8wHP8f7bzUGI-rprxUkDGF-pLlepqtRpVV4I97jfmwC2il_c-vJSNLr3iWNLSrhfzMmz6H09N3ikRn7v6naoIVJxeWZ3MajYbZtY4eJuXlEqT84HxVwhigpbQVcmOHDh3O5AanzJdPHW7Mtba8A7k_7RMnHppl9sG_doU_Di0MSgklgLuUukspe-ZuWkMBZrfKNHPmEVY1KXV2aLn5X8SAHHwGaVqm8Paif8HuW2",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108229618527819275383\">Sibrina Subedar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e6NEQF7IK6aYHAHDf65N90SwfpQFSm0YACfHS-vj-thZv9wtxiOnRSx8b6K6X7ZyyaxuYZ_RB3VskkPadQw2aWlKh7bxLIM5--yzmLdfKVi42ScvJ4Wu8hJ4X2YniH1m4qkB5HHZbrvSdP2My2w6UY-RgDikLuxdBJcKU3ndsD1PHgw4CBL3MqFuRB_QamtKODlpH6vvBYMo6scI8P3887b4If1jtddjIxY5C8CBYi2zDRmdjWzZtbo6Me0UUd9kbUmn68P4EoKE_NlH-p_DIFmqzMxW4OEzDkoQpnD2bBS-wnLW6K1Hf3LhkkTytVRk8-X1iotoiek9YFo6boigyjv5p_KxMwx3ML6uccn8yG_-j1ZavIgBOBtHHFA88k-YFCFW_cLhphLaMcPuLR9Z30MMzma6wIMdgqCOd13FxFs0T2",
+      "width": 1080,
+      "height": 736,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112735366652107340178\">Vishwa Nath</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Just YF",
+      "rating": 1,
+      "text": "Serving 2 difference halve and refried pecking duck, it was dry and no favouring even the duck skin isn’t crispy. The waiter said they make their own pecking duck pancake, we received factory made pancake .\n\nI can taste the Honey roast pork char siu was frozen and reheat by microwave, It was dry and chewy.\n\n£75 for a Lobster tails laid in giant lobster shell with the almost 70% butter I could not taste any lobster meat at all.\n\nFor Dim sum we have scallop and prawn har gao, it might be handmade but it usually comes with big pieces of scallop i guess I got a newborn. Har gao should be at least few pieces, we got some in finely chop.\n\nIt was a treat from my friend so I have to be polite and not to complaint . For the same price we paying in central london you can get much better quality and services.\n\nFried rice with xo sauce was nice not greasy but xo sauce should have dry scallop and spiciness.\n\nNoodles with mushroom is slightly salty but it is the most decent food of that meal.\n\nThe waiters aren’t seem to know what are they serving and the ingredients. Foods aren’t serve as what we being told.\n\nI was with a group of friends for a special event so I have to be polite and nice on that day.",
+      "time": 1760039464,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Bhavini Shah",
+      "rating": 5,
+      "text": "My husband and I were staying at the Taj and as it was or 45th wedding anniversary thought we would have a nice meal. We chose House of Ming as we had heard good things about it, on arrival we were greeted warmly and showed to a lovely booth with curtains. Staff were attentive and the food was really nice, especially as we were vegetarian for that period, it was Navratri and we don't go vegetarian for the nine days. My husband (who isn't vegetarian normally) was also very impressed and as he's also a very good chef it's a huge relief when he finds the food excellent. We were given complimentary cocktails and a beautiful dessert in honour of our anniversary. Thank you to B. Prasad and everyone who works for House of Ming for making our evening extra special.",
+      "time": 1760014208,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "R A",
+      "rating": 5,
+      "text": "The service was lovely, the manager and all staff members were really kind. Celebrated a birthday and they bought out a mini cake and sang which was incredibly sweet. The staff went above and beyond to ensure we were taken care of and the food was delicious. Would recommend others try.",
+      "time": 1756596387,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Puja Raikundalia",
+      "rating": 5,
+      "text": "We had a wonderful evening at The House of Ming! The food was absolutely delicious, and the customer service was truly exceptional—definitely a 10/10 experience!\n\nA special thank you to Shah, who made our dinner even more memorable. You looked after us throughout the entire evening, and your attentive, professional, and warm service really stood out. Your hospitality was truly commendable!\n\nWe’ll definitely be coming back soon!",
+      "time": 1759525887,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Joydeep Pal",
+      "rating": 5,
+      "text": "House of Ming at the Taj St James Court London delivered an absolutely exceptional lunch experience!\nFrom the moment we stepped in, the ambiance was perfectly serene and elegant, creating a truly special atmosphere.\nWe started with the Golden Fried Prawn, which was crispy and bursting with flavour, followed by the perfectly seasoned Chicken Salt and Pepper, and the delicate Prawn Har Gao Dimsum. Each appetizer was a testament to the kitchen's mastery of Chinese cuisine.\nFor our mains, the Hakka Noodles were cooked to perfection, the Chilli Oyster Fish was rich and satisfying, and the Veg Fried Rice was a delightful accompaniment. The delectable flavours of each dish were truly memorable.\nA special mention must go to Dexter, whose warm welcome and attentive service made our lunch even more enjoyable. His care and professionalism ensured we had a truly wonderful time. We can't wait to return to House of Ming for another incredible meal!",
+      "time": 1743347457,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:34.457Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzYAdkkFdkgRrt9bmTrCQPc"
+}

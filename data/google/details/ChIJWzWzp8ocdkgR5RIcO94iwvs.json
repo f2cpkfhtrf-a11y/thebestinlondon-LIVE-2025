@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJWzWzp8ocdkgR5RIcO94iwvs",
+  "name": "Dulce Coffee London",
+  "formatted_address": "86 Whitechapel High St, London E1 7QX, UK",
+  "vicinity": "86 Whitechapel High St, London",
+  "rating": 4.6,
+  "user_ratings_total": 1550,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5158958,
+      "lng": -0.07057089999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5172058802915,
+        "lng": -0.06914131970849798
+      },
+      "southwest": {
+        "lat": 51.5145079197085,
+        "lng": -0.07183928029150204
+      }
+    }
+  },
+  "lat": 51.5158958,
+  "lng": -0.07057089999999999,
+  "formatted_phone_number": "020 7375 1636",
+  "international_phone_number": "+44 20 7375 1636",
+  "website": "http://www.dulcecoffeeandkitchen.com/",
+  "url": "https://maps.google.com/?cid=18141100586871558885",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fgg5jm91SsATrxCzN1UYXhmqtWtNeS8El8t3ra81SGYzrm_2emMSjOnNW2vW5ka4fYxEi1pLUT4k7uRLH3mCK3BEEJ6xB_OEKbf_1RvEvAIDb7UjxSRh_39J7vfy6fliDq1NINKsTFrzrZP-9eMMpCRvssc4-fSltcxnwnQwihNtVyDhsqS7te4IKLoX_AHY8cAooYtD3ki3pOiOtTtF7g_Yl6Y-B1HMWFH7AaSqFFtgj9BvfF9fVx4GgLYCVu4OHYFAYx1-MbE_9QMpSVg_e7HMcrQTA8F3JeSNAIMsSFiw",
+      "width": 1125,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102810474304838603706\">Dulce Coffee London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e96ZbZe-kXd_1lc7wwPEvRJU98OUy6dDNBTkcLWlha_7teWCKKYoaeiq5qWQ31BeGbTDRoPk6bpKJq0BBAxx4urJ7Et9clEenXX_FD264dRHpmob30qnYPDyVXETq38DOf2iJ3vzqVVzao_bVpyuNDcEGUm1W01co6K6driw8Py7BtOhjuz9kkXf-5uq55VD7vCLOdbuIaaM5uZSBhrVwptJxvjEl8-IkuWDd_JT9MtMn1qtWSmlHbj0ZZXiASk-I6KLQQ5eTOHFj2K7ckMHY96s4qSGduYm4mdgEDc0tT1exuOHmIRhCAFNmkR54VEMCHDb-DJwKd_twRjevWh6MKXalWNLC4Uj3mAQ66VU_5wa1NoxxhacLkdjZwdlrep2E9d42DeGZQV-x5ZDch9hFIkAajtIBB7rVpDcXvzSye0ki3mQztsEWKPDOBWfQ6",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107913397522030675071\">Time Less</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d-vSa13PpTd_0fgTY01fIsvxSwWfQAa5fQW-wQ5O-FEuMakg5sJpVU8wavCi5OtUpOwLgrPTEX3cVqEsIv92oGinSr38M-9H5WixNnFTDblahkqqya8NNpYJQqj_x7OhPxWmOZ36TXMV0uOJC7dsDzj8vXKIAojltY-DMTGA3N7iAic1pLqvyftukkPrReHhqj98sjJ57wgO4PsJ1CqmeyZK9MnKfNYSPQ5my3yerjWXvpKEOcDKmur_l69ZaoP5W1TOFD7XoGzUqdLAU238S4mtVQ71F9PSsFlx6wrIp8A9UQ3r1imw2ib9zHvmDBUFGoGxjtbROX7uu3mKHwM3hk0RdX0Trlk558vDr355iA4N0EeEplDCVgDl42xr3wu_iJBiBmWzLX4l-43m9lWC8_U-NjUOgesEztxDbw8rtgMdObmJYQmx_ZRfP_HQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115885512872681307045\">Max Backman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drIQqAJLj4tBActaZKAppR6tUFvKP7PJx0HExBXsCQSC1pbbxT6KhfVPDJAnxlH8Uh6E7bH3qXWXAZhW8rtUSGIl8pY2SmJra9GHySwiLAkrwJ6iU9xSUgv79eg_xxRs7iFLFOz8z3UkL326kdQPAs0B-VWZo4wdcJPYmJYiCCRBm8zVHlLjWVw-OTf5HIKJj1UnDxGRfVn_gRIz9op-5E9FzA_2tRoSpM8bypSW4sy15ZMbHsmnx7N3od4FH6cvCJsW53u-in0cQb3l-Bkh-_Vw7GsiQO5iMe87abYytRdrikBkBYVMsaIgcsqHOZNI5XueHfWdf585_PwevTlwZ6w08sNk1H62uhaRLYaV5SQYclp4pGTMC69S2ZmoHB9gfnObGj2cyniupHgNTi4tqiwg3D5QJzqKsJacigbtuzag",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103035052740851052826\">Francesco Mussapi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEQqyomqScOaY_UZSH9CNkXPvFDD1Je47ERA9VNhMILaIgDF-iA7W_ZyX3nhEuWCYe6rZr6irTB3C2FkUYqkiRRN_tmcYixgx_is9mJ8p-9QhKd8JqwuLx9PiqzB-corJhfizoKXWO_fOwaDhCfJ0X2VbeCp4zQe6mvse2hxju1XGhmnyi9UA24ZzHh7DmsdFpVM4z7iEYPUl-qEHSx6A60wqpkkqIwppfPmMAiMQXWXWYvE_YV3dai31NyQaSEUimzxS4quIEECGmPv1d6ZrZWKkoTywdVM56Lt-XT82rqcdcgrmF3vygwKn1C-fXEQeZiiNPuetPIJNtBSXjkPGYWdIEC7Ss7eVBG0zSyItdCHmSb_kRabycwoJnd7xgK3iWaKpOIH0YwnSVgd7c2mv0UhSWIqbO_f-yT82Gjo_o3VNjhdYaEpDPqKWt7hVX",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110215835744187348774\">Maria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fqGfA-Zd1NXFhPR0ru_x-yAcQvAkKO8deoXputSywWY7FigWNtGvzfEFxqL9ojJUfQg4M9YxqNP_2XdDxw2R_9BnGUYYs8-h9venCayK3ZpcaGWEhMm0_qFh197Q9ODno0VvKi7VOlDS3xGFPhphXw7bXde0vKvHAEz3nH9yLpYvS9Jeep86tbRdks5MBYNCWF9aFQo6aiE1Yr61SoyH9oe4eDPcwRUPfYmHJ_7VqkH4JKobT9w1vSo3c8n4hfmwzBsF2XHSHgGRftAoQ3bIchB75k-X0k8IwrbOioDeDryiQS9Bb-aoTEFmlkRbFFO1GLcqIAl6uA6afkVBbUnpn6NMHCkGfWGJFjvyQwU2_EYKY0I6GyALc_4grVKVHfzcDYnpz6ZvSWfswhj0U6iR2WR-zNs0XhnG1UZWP9qZdurw",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112054304001985064085\">Francesca Di Gaetano</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJ54kfsi2ARcLFURiZTH8cE23A7gn-Xe15no8HLpUE78t7iR9THluJrYTypi3mr8Fm5vcvq9FiosOpu1pN7hpDQ17HlajIc440VCZ4m0cO0pqVy4zYZlAKrmG06fSHLrGf3xWo3SGX0zHml-d9H6wsr615F8Sj3750HqBxTkWIZ4NyKaHqYCx_o5KC7yVotmsJ5XrfRyLxhPYBQnT3MYpw2bu92YYyZHNj_CtJFLUsQZDdjJGGj79iXPoC-578mK8Rnp0DlkjVmw8M8y0OJ05KOTfMcDnSAi1uwYITCjQcwq7WC8W3jqjb4EvzGdFSBopLwjG4NHoStRcI5GOIZr-5TzFt1ieL0cr3KCvzqX3vH8AluQaleAthurvKJgK6YsOjpAumvBAAysv4nFMavo9st-5R7zFkSQbH46z_WpzmSw",
+      "width": 963,
+      "height": 990,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102179089123969840239\">Rajesh Gandhi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dLftVt21jlW4rCAahX28i9sdi7yP0xc-PxM7yq9Mddw4C8w6LdDLQshlISA6krAb4zFhyZj6QSFgG1wbZYDFldUEPyPXurvQj3PoqcaSScBiWtA4mf-s4ko_Vz7C5s07ooZlagXoj71BmDzbr_nCdenGY2bUzKJrfX7zU2D1-uArLGgMqs7EoNc-iUHHTju-YDKRpF3_JNtRuBWbKeh4n-GobZE7ZNf6AyKCawFq1WIHBQy0vxVim1u8mcNNJs4DceI7nm5WKm1AOxjGzA_-iwBBO4ZT5L_aI_AaiG9ydALT-6AsGWWts5JdEee67l7UGWMVN_OxGmXsDSaGZS1qr43HJDGUsezBwowZOOqZGcxp2yAl9tEGKA0iTX8ZOIxTeQWBTIoCn4yvzS3HtLGNj4eU9uT7bsLJtFGkSZcldcUQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116114495042600805272\">Nanah Kim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eEghM-t1MBApav9ULkL1tJWhyE9feIecI4lGoucPsCzU5q9ys3abDBcv1SB4w96_nRvjq2fBisnAYohxUwXjX3xkGU_k1AWW5kCZP5M7QT5Ht95AdmXSHyJHzoYzdniGmzT1gOIOF2k0L3mUVSJcQ9Yhc3nLJEwX4TPEjXy88UzFKX213z1y8lMMOFJi-4c5BUuFav8vUVdajInyxztiWhyFCa6EAZhsxKQJLle9d5sIBpOsNSvULUWpBJ8AkIPeM_Eblc7kf-qXKJDBR6JRlCdEYmvSZkYDp1-9rs7d_HmRn8TztfNJLlyziRWI-y3XoR-146hWH1-bAAfHS3mLU2FdWTIaiE8pGEPZCRExraGzs_TkElhKK9nlhsrvVtrIrFItrxYZei7gYJ38g0qs39H1eHf_hKgEtOKOx1WxhrPpxb",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112054304001985064085\">Francesca Di Gaetano</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d2m5wQ8B-DxXlYeeaDcQYA84BdSSV49EwHjFFPBl72leJYGMbXQrWLj3z3XnR6uXYTS3wD-lgvv2TpDlJ7BmD4pMEIlViZMlzMZSUsadPUDKDZQyUlYd_Ky_f_BilpBALKgY6Qqj6jSkJLXasCuayUt7SzlOHHusl6yVWI0Xuu4wC1mB7Jd4qAxaod8dSOGDixOMZ_AxmImEdrYLAgWsvma9SQMFahEPN0v1ylHShRAG6na5fJR7Bq9Iw7zGtNyJzDmO68HI8xdThAM97W3whd2i_oXMxINt91ABdupwTpBcZ71AiWduMgjiKE4r3jq52x7DA6e9hk3ul4s4G8glTn-FdFktPaTJyu33rUYf8xcK8XH3G7JJFSAvD6QABcwojj1C5qLjAwokOCVS0UYuqOunBYi7yZ69ck1Ju0cXmc2Q",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100827524335733433396\">Benny Guillermo</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "A classic coffee shop drink menu alongside assorted sandwiches & baked goods with outdoor tables.",
+  "reviews": [
+    {
+      "author_name": "Islamic Media",
+      "rating": 5,
+      "text": "Dulce Coffee Shop has quickly become one of my favourite spots in London! From the second you walk in, the vibe is warm and welcoming – you instantly feel at home. The staff are so friendly and always up for a chat, which makes the whole experience even better.\n\nThey’ve also got a great range of food, from fresh savoury dishes to amazing cakes and desserts. Everything I’ve tried has been delicious, and the portions are generous too. One of the things that really sets Dulce apart is that it’s HMC approved, so you know everything on the menu is halal and prepared to the highest standards. It’s such a relief to have that peace of mind when eating out.\n\nThe place itself is stylish but still cosy – perfect for catching up with friends, working on your laptop, or just enjoying a quiet coffee break. Prices are really reasonable for the quality you get, which makes it even better.\n\nAll in all, Dulce Coffee Shop is a real gem",
+      "time": 1757403787,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Laura J Aitcheson",
+      "rating": 5,
+      "text": "Special place for breakfast brunch\nSo happy we found this place. Set us up for the day with really yummy food and amazing tea. We were seated downstairs and it was super busy but everything flowed like clockwork.  Good vibes. Great service too thank you",
+      "time": 1753716018,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Olamide Ayanda",
+      "rating": 5,
+      "text": "We had the full (English) breakfast on the menu consisting of Toast, mushroom, baked beans and turkey rashers.\nMy wife and I don’t take eggs so we requested for more portions of turkey rashers instead and they were lovely to oblige us.\nWe had it with orange juice - and speaking of the orange juice, the best so far I’ve had in the uk. Real Orange juice which I believe was just blended and not Tesco orange juice.\n\nThe breakfast was tasty and filling.\nThe service was great too.",
+      "time": 1756482031,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Magda Neagu",
+      "rating": 4,
+      "text": "12 pounds ish for what you see in each of the photos. Decent, considering our ibis hotel next door was also offering a 12 pounds breakfast. But expensive if you add coffee or juice.",
+      "time": 1754485065,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "R Ismail (R)",
+      "rating": 5,
+      "text": "Dulce Whitechapel is a lovely spot for a vegan or vegetarian breakfast. The dishes are thoughtfully prepared with fresh, wholesome ingredients that deliver good flavour without being overwhelming. I usually buy their croissant and enjoy their smooth, well-made coffee. The service is friendly and welcoming. While the cafe is small, it offers a cozy environment that makes it a pleasant place to visit. I would recommend Dulce Whitechapel to anyone looking for a reliable vegan or vegetarian breakfast, fresh pastries, and a nice cup of coffee in a warm setting.",
+      "time": 1751460811,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:16.342Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzWzp8ocdkgR5RIcO94iwvs"
+}

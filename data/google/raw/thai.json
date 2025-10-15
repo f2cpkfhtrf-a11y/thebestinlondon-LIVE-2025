@@ -1,0 +1,671 @@
+{
+  "category": "thai",
+  "query": "thai restaurant london",
+  "count": 20,
+  "results": [
+    {
+      "place_id": "ChIJbX_Fhx8FdkgRbTfFDICmOhQ",
+      "name": "Speedboat Bar",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 4320,
+      "formatted_address": "30 Rupert St, London W1D 6DL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5111687,
+          "lng": -0.1326801
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51250572989272,
+            "lng": -0.1313701201072778
+          },
+          "southwest": {
+            "lat": 51.50980607010727,
+            "lng": -0.1340697798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJXT7LbOQFdkgRXkKHjE2ji6s",
+      "name": "Platapian Soho",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 193,
+      "formatted_address": "15 Greek St, London W1D 4DP, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5141717,
+          "lng": -0.1307608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51550327989272,
+            "lng": -0.1294923201072778
+          },
+          "southwest": {
+            "lat": 51.51280362010727,
+            "lng": -0.1321919798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJvQutyiMbdkgRH9iuZGcbIvY",
+      "name": "Plaza Khao Gaeng",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 3201,
+      "formatted_address": "103-105 New Oxford St, London WC1A 1DB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.516275,
+          "lng": -0.1292201
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51755977989272,
+            "lng": -0.1276388701072778
+          },
+          "southwest": {
+            "lat": 51.51486012010727,
+            "lng": -0.1303385298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJC_TBt7AcdkgRhkmL-r9VwRU",
+      "name": "Smoking Goat Shoreditch",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.2,
+      "user_ratings_total": 2358,
+      "formatted_address": "64 Shoreditch High St, London E1 6JJ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.524224,
+          "lng": -0.0769238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52560897989272,
+            "lng": -0.07565047010727777
+          },
+          "southwest": {
+            "lat": 51.52290932010728,
+            "lng": -0.0783501298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJawZwMzUDdkgRTmInf-sKA8g",
+      "name": "Kolae",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 893,
+      "formatted_address": "6 Park St, London SE1 9AB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5054341,
+          "lng": -0.091613
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50676407989272,
+            "lng": -0.09026127010727779
+          },
+          "southwest": {
+            "lat": 51.50406442010728,
+            "lng": -0.09296092989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJf1zYBOYbdkgRpisa6lDN5es",
+      "name": "AngloThai",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 241,
+      "formatted_address": "22-24 Seymour Pl, London W1H 7NL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.515122,
+          "lng": -0.1611758
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51645972989272,
+            "lng": -0.1598318201072778
+          },
+          "southwest": {
+            "lat": 51.51376007010728,
+            "lng": -0.1625314798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJ_7nqbtQEdkgRuNOUsTUwfTI",
+      "name": "Kiln",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 3634,
+      "formatted_address": "58 Brewer St, London W1F 9TL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5114007,
+          "lng": -0.136059
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51266632989272,
+            "lng": -0.1346298701072778
+          },
+          "southwest": {
+            "lat": 51.50996667010727,
+            "lng": -0.1373295298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJTRNehPUbdkgR9t0y2wrCPy4",
+      "name": "Nua",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 238,
+      "formatted_address": "55 Cleveland St, London W1T 4JL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5205436,
+          "lng": -0.1388828
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52190907989272,
+            "lng": -0.1374915701072778
+          },
+          "southwest": {
+            "lat": 51.51920942010728,
+            "lng": -0.1401912298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJUdtJrpEDdkgRcNm2IsFdDVo",
+      "name": "Khao Bird",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 259,
+      "formatted_address": "at The Globe tavern, 8 Bedale Street Upstairs, London SE1 9AL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5054718,
+          "lng": -0.0899408
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50680132989272,
+            "lng": -0.08858172010727777
+          },
+          "southwest": {
+            "lat": 51.50410167010727,
+            "lng": -0.09128137989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJg0UFLwAFdkgRMXxmDYxMUEo",
+      "name": "The Great THAI Kitchen",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 187,
+      "formatted_address": "70 Old Compton St, London W1D 4UL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5126818,
+          "lng": -0.132874
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51399282989272,
+            "lng": -0.1314853701072778
+          },
+          "southwest": {
+            "lat": 51.51129317010728,
+            "lng": -0.1341850298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJRQ4C2IEbdkgR7h4L8oxsFqI",
+      "name": "Farang London",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 769,
+      "formatted_address": "72 Highbury Park, London N5 2XE, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5570378,
+          "lng": -0.09774369999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.55833397989272,
+            "lng": -0.09641557010727779
+          },
+          "southwest": {
+            "lat": 51.55563432010727,
+            "lng": -0.09911522989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJWZ9VV1oDdkgRRaXR9lL4z-M",
+      "name": "Champor-Champor",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1281,
+      "formatted_address": "62-64 Weston St, London SE1 3QJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50249119999999,
+          "lng": -0.08542229999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50385487989272,
+            "lng": -0.08413567010727778
+          },
+          "southwest": {
+            "lat": 51.50115522010727,
+            "lng": -0.08683532989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJ5bIj5skPdkgRTKuLl5SHDcE",
+      "name": "Chet's",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 561,
+      "formatted_address": "65 Shepherd's Bush Grn, London W12 8QE, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5047429,
+          "lng": -0.2248521
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50603967989272,
+            "lng": -0.2233379701072778
+          },
+          "southwest": {
+            "lat": 51.50334002010728,
+            "lng": -0.2260376298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJ8WebmEAFdkgRfVyXqlUbgWk",
+      "name": "Patara Knightsbridge",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 2286,
+      "formatted_address": "9 Beauchamp Pl, London SW3 1NQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4978728,
+          "lng": -0.1651429
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49918897989273,
+            "lng": -0.1638495201072778
+          },
+          "southwest": {
+            "lat": 51.49648932010728,
+            "lng": -0.1665491798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJ7TpKztEEdkgRkuPDNp_g11g",
+      "name": "Thai Square Trafalgar Square",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 2536,
+      "formatted_address": "21-24 Cockspur St, London SW1Y 5BN, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5074334,
+          "lng": -0.1300104
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50883647989272,
+            "lng": -0.1286833701072778
+          },
+          "southwest": {
+            "lat": 51.50613682010727,
+            "lng": -0.1313830298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJQa6qndUadkgRmhYJjG6-Trc",
+      "name": "The Great THAI Restaurant",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 911,
+      "formatted_address": "14 Riding House St, London W1W 7HR, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5182631,
+          "lng": -0.141645
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51962267989272,
+            "lng": -0.1403620201072778
+          },
+          "southwest": {
+            "lat": 51.51692302010728,
+            "lng": -0.1430616798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJGTDVMfoPdkgROs9QO9Kgmjc",
+      "name": "The Churchill Arms, Kensington",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 7964,
+      "formatted_address": "119 Kensington Church St, London W8 7LN, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5069117,
+          "lng": -0.194801
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50831132989272,
+            "lng": -0.1934102201072778
+          },
+          "southwest": {
+            "lat": 51.50561167010728,
+            "lng": -0.1961098798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJaW2seFIFdkgRUS2sQMnqPpA",
+      "name": "Nipa Thai",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 487,
+      "formatted_address": "First Floor, of, Lancaster Terrace, London W2 2TY, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5123012,
+          "lng": -0.175029
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51372132989272,
+            "lng": -0.1737260201072778
+          },
+          "southwest": {
+            "lat": 51.51102167010728,
+            "lng": -0.1764256798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJjXxgVAAPdkgRIVO7mhYgjtE",
+      "name": "Phakoon Thai Kitchen - Earlsfield",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 201,
+      "formatted_address": "346-348 Garratt Ln, London SW18 4ES, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.442426,
+          "lng": -0.1885602
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.44380247989272,
+            "lng": -0.1871515701072778
+          },
+          "southwest": {
+            "lat": 51.44110282010728,
+            "lng": -0.1898512298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    },
+    {
+      "place_id": "ChIJrd89SwMDdkgRW3eF7uvePWU",
+      "name": "Kin + Deum",
+      "category": "thai",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 2543,
+      "formatted_address": "2 Crucifix Ln, London SE1 3JW, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5022927,
+          "lng": -0.0820159
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50365127989272,
+            "lng": -0.08065882010727776
+          },
+          "southwest": {
+            "lat": 51.50095162010728,
+            "lng": -0.0833584798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:52.890Z",
+      "query_used": "thai restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:52:52.890Z"
+}

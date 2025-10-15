@@ -1,0 +1,273 @@
+{
+  "place_id": "ChIJb7fEdcAJdkgR_J41VbStot0",
+  "name": "Ssam Ssam Korean Restaurant",
+  "formatted_address": "149 Merton Rd, London SW19 1ED, UK",
+  "vicinity": "149 Merton Rd, London",
+  "rating": 4.9,
+  "user_ratings_total": 260,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.4182655,
+      "lng": -0.193159
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4196306302915,
+        "lng": -0.191761869708498
+      },
+      "southwest": {
+        "lat": 51.4169326697085,
+        "lng": -0.194459830291502
+      }
+    }
+  },
+  "lat": 51.4182655,
+  "lng": -0.193159,
+  "formatted_phone_number": "020 3771 8829",
+  "international_phone_number": "+44 20 3771 8829",
+  "website": "https://ssamssam.co.uk/",
+  "url": "https://maps.google.com/?cid=15970518218644496124",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 5:30 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 4:00 PM, 5:30 – 10:30 PM",
+      "Sunday: 12:00 – 4:00 PM, 5:30 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dHZTKARsMtnMN-avcrqchNxXqSPW7tUH2QFvnoknmDJdMf7lt5ckrD_ID2ZtYstue3-JJCmbtl3f2VtDqVV5-votlmqhI4r5T-0RdQjhAvKWt6-zCpHtAhhlF85o5Q2Q2U0Feeyb9vDksb1wTYraXO8AIplQr0Iw84PjaA5pFe3mBOVEbozCcUzZA0e8DmHTsmOfDeKlGOUMaz0IDDjRagDmroKvC3E8h-Wd-x4Ggnu_B9nmpxOlun0QjlLsD4fF1sf_1Grecd7fWDy_1OjExd2Ro999SmZYlBNOOzuKQf2g",
+      "width": 1080,
+      "height": 1459,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105039215882779255050\">Ssam Ssam Korean Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2caOR_lu5heEnJTvUmWgPi4Gl3ncYh0YDzqrhqSDURDkeiiMu5W455BNOnxUnto1G3dfSgbAkADC7WPbfg49AdxgOFnVflegqG4PWe-RlP7jCvVoVR80QN6dDn8xVvQR8MuF70YLjt4JzNb3GIayaD18Ms6EoT48u_PmgWQcuiSdo2NEOAAaFK0kCetjoJYQKjlhuYdp6lsovLAwgP6XyH3dbENzCYx8Sqd-AzMkJt-rC6nYAQ6-gI4eQaCEtMws6W2iU1KW97bC3T1xHEFdqGZbShI0v0xyvFo0DIKTLqHyQ",
+      "width": 1501,
+      "height": 1886,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105039215882779255050\">Ssam Ssam Korean Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fUuWu4dQQTnSWPVnoYV8ZpjN4Q3NdrBn4V__xlE3lSfLDlH_bw6rCAuOYyrMP4Gbiv168qYeTIg7lUyP1Vs6VdQJDjSUUCqBmuciGq4MwlJDm1VV5aM7kXwqO3e7I_sVB5dv-AButI5Zhkuv9xvujLC3gu8286-4JCNUA52Ao0GoiKmcaBXjTBoWzGe3TXg1uT0FHw0pWuiPXQp1k_3y29Y_g_XOzZ6h9zFoNupZ9QdbW0-XjLbP93v0kmPnCwxjrJ-Wp7z-YSWLDUqjgneoVWk-MTozGzqKMrrFQXWY1w0Jo1HduV3lxgC_rl8Kxdnjh5TH913GltKfsJrCXtcM5XBxfoncqkI54DsSzN7j7f106IGuuUb1ERo3tiG2UTHz0oDInEcWsnt6RF0bM7LCGZb4WAMoo8sfzp0G1cSRPeBg",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112340091350905519255\">giz Kds</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cw2FkeDmM2mhE2Anaq7tU2g8fbrSTxFHsdFfkKySTkkCdIfz7vzQ2psOP3oVTBYJNTo1D8KOtULXoJvYNYL7I6N6Db98ppL-LR2P76N-a_FMw2JdCKZC4ZAOkegu30cYkXDNP2FVhLyb3KO_UOziTEfitHT5lltRug1yAbbn-srfM6fGT7pRDb2mY-8D4Fb_XBwELuAepKXcCe_8rYw87eVHrVh1kO3rK4AsyMvfnP2mZ13172tiydDTDtByBonxi2-HJXke8SmcEK0KmFZXgkm3vmjOiQz3WHjx2RHOb6DdaauJ657nJ8hpM3uMKPZpHC1CvFhgA3iSRbYBrwzc9ALF5XeqheEJShW2yFwChMwGMEOs2AHrp4QsGQyFYd9Y6VqcYFB402yIDh25kzfy_kkSIDMJmeYdTaQpHfv61gGg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104946782613621822679\">Cee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cgXnRYFPtREhiR0WKqx5OQCtNa01-kSVbG3FhgWUwSsRLpVbQ70319KCHN3kbUz_nSce6y5J_dkHxoK6-jZ6JqyQlw-A88MD8dSR10BkGA18ucqU5-XuF8aon-r4lL51U2Ii3rlAKHIs9b7wHabs8i-YW25u-5NoqaZajanIHeD4mi0SzxcpPkXKpy9iOZA7xDUZ1m0TDHWtIONdFmAgw-XjW5mfoPuQgRybepQQ2rUDB_16yvPFjPfzENMjfVnpe7jMOgbhYq1ltIC3qpDOMoEmcMhdY_EP5j0tAGBxl7xhguVyHButADwbnd04TbIND7qEL-VtnUnPC-NPcaj51QcUVdHZewscPmoEcezoSvOu7Chs68hvS1tAzKJktWe5hpUabtjas2_3MOyUbKrY7isLYcO8fPDMpoo8S5BJr7dyNBeaAl2PrQABp8W4zd",
+      "width": 4080,
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101081822456934742757\">Dutchie C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cUUcQ5y5dJ1N0DrddbWqlDQbfNimzq3aZmhYZYltzfRpLV0Spkd4Q6w8zxNE5rTaAoCXnGD_Arbi5OdPleAhujWz2QjiodKTbbjvNbjiMsFCKAhyYcqmBMuBiEdqzaOH5zjaCPmqCZpFa7oDIJWpcBRWXBgc3NTMg0NDFbjwpJFGdufywIycZOHB2nXD3yr_4aq2IIRQMISNGTPf4syNp7kXfUEsl74U7yfBb4vRxgE-M0584e9gA0xOMZFYkHjzRw8P0M1a2P8vG7YTMYARVaOaQZ64k_-lBEqMe_zmj5uA",
+      "width": 1213,
+      "height": 1723,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105039215882779255050\">Ssam Ssam Korean Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dlGar3L4M2LDyKVBlbb_r_G7BDJNt1xBgNjKK0xcdOqjndYiD0l3R3HwmyJT3VLbdVKd1VoA--KHSDy5LCeVibGvQsMEZ_kojPF0C8GSNFZDiJaJtEU8tEoaz5FxZKzDPUK6-jZQkRTC6NAjbv7WydpCwII6-K0xI6inhXLZQHakdF0AnP_rN628QSLOfmN4VUaS2BPptVAx0OQarhoOY9E63pUBTilTdULaqGspMgtlKVHxfx-2VPAJf8jYc1zwxk13Mufrl5_TF2H_xEuNR47UBygQzFr0SOrraGHoUOwkWDnMhQZCLVytrxpyD4RWybvdjxaops_PrOkGQZpKv9PCmGGkQEDiaSRF5fmfF-GJM4cYeZrRW5dUe7V6k3iYztTaQioB8Hy_dVLU4KkB4Wr8dgWEIjCeCMCq4Z7A-TOw",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102940531128169583237\">Anya Pramayudyani</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2crMLS2nTpzn-1WIZjsWnE7RAAxhORezq4-4TsXKKG0piyKU-xYjnbO8LEwe0pBKa4XmAdD1jo_u_MEUiNHnrddTbakxuEpT3Z9-ybpfacXa7F1ZQaPCuwsqzMyTW6oNz7PmP_QUqIv2dSpxSmUOfQtmuqSml61iFFe4SInvnIHO-AVNgHAHgwd9p-ZezL_FfURNvBlDnPGe_gic1yyCRdN7t4TideTEC6q6YDoUz1aNdyeCmmDxLvSyB43LAgx11KROlyaEC4o2u2RvW3jF4Wk36yMQwQ7-D1Dv-CIBkP1TrACjkIBESAJe9rRft8oD1o7vu7L-OUjy1nryksFtkJGKm_1PlwuNQM-YpBSiF2oJny3dIZjcNH6q3iIETY8beRtPmEzg84ulXPUeLDuuIiqC_Rs_DgX3rFQSqkzp0xlqIfZ",
+      "width": 1200,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118165846078324200758\">kiah spong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cOL00Wd9iiiRzDHStZPFqoU2QUMsnpRavZE060mV2xWQaw0fSqpdf2VT-w98gJ0I7f-XimOqPPCc84cbB3FqN_LZioaYAySVoi2RIlq6ZoBn7DDNh-8YjBpewMTA9BJ4tcTdKMMSqq2tB12QtVU5RE881natdCSac6vH35K4JeKZu2oRF1Odpru85_7TaPuYY2wjB2wpmPGauc6PfDZfusjHblD7Hcdj402QEatBc4xx823EH0oh01H7RvnAztffHmF4yBTJ9jx8WP4Hocc1MJSwtf7lXjwejYJiPtaASVoaKlvdxaNbfQe0cICTDdIwfqrWw6AquY5b4tzpIAvAFVY6tFgWfC1B8gzaNvRmRq9lIdN90pKXKhNfvbQiJsFahRiiR1s5WXFYzxHG2Y8d-joGbh-TSgDMC8idliFodV5m__sZNb53LYvXDP7fhY",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116799564491021179386\">Alicia Khan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ea1G2Xs7l5PO1vYWpz6Gf5asvBGqAhOr6_v_w_4igA7pbRMxemgRdEyVF_IYuZ0JgeLv62Fq5x6aGqs5qhAmh5ELq_rAfYRAAdwm2WLDbtZA2k1L5ITb3f6zwN4rtKWjFCqATaPYhK-SNGeawVOypXyhK_h7HgWII48vZDx4wwqH0YWi5mX-eokZOKPAISWQpllSsK7DtnAttD_K7zoTDy2DJN9WyQQc6Fk4Nm_aT421RgZGWmYx5HLBs-o5FohAENS9jQRwgLWZyhxwEG4dzl2BDS5XggUkc1-1AFlrz_46pre3dN5306qYteZ8U5E4tvA2xia0TcDDsQdAGhaI7mjyV5VY736s436ah2wrAu-RZLIuM9qYITP-M5jBN6_xKppR8grT3pBJH7yyMUPO9MW6RmlTC_2_BlKFA5nD69NS0IjZM5YwuzlSpPaA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116799564491021179386\">Alicia Khan</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "ploymanee w",
+      "rating": 5,
+      "text": "Stumbled across this restaurant the a few weeks ago and decided to try it out today. Everything we ate was so delicious and of high quality! We ordered the wagyu salad and pork bone broth from the specials and then the grilled black cod. Everything was cooked and seasoned perfectly. The staff were really lovely and attentive and the restaurant is nice and clean. Only con was that the mocktails were too sweet but others may still love it. Defo coming back!",
+      "time": 1749242813,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Alicia Khan",
+      "rating": 5,
+      "text": "Came a year ago and loved every bite of the Matcha Crème Brûlée. Came back and tasted just as delicious. Has become an all time favourite now. Food and atmosphere is 10/10, super friendly and attentive staff, very warm and welcoming. Thank you, we will be back🤩",
+      "time": 1753654757,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Louisse",
+      "rating": 5,
+      "text": "Great selection of food and great service. I’ve tried other BBQ spots in New Malden but I much prefer this one.\nThe spicy pork was full of flavour. I really enjoyed the fried chicken so ordered x2 portions.",
+      "time": 1754596786,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Pritika Gurung",
+      "rating": 5,
+      "text": "This was such a wonderful Korean barbecue. The place is lovely and so are the staff. I would definitely recommend the fried chicken for starters and the dolsot bibimbap was the best I’ve had in a while.\n\nThe meats selection is really good and the seasoning is really good. Will definitely be going back soon!",
+      "time": 1742296444,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "Kriti K",
+      "rating": 5,
+      "text": "Excellent quality, great flavours and helpful staff! Been there twice and loved what he had both times. Main highlights - fried chicken with the spicy sauce (I requested an upgrade to extra spicy and loved it); aubergine starter was delectable with it’s subtle flavours; we also enjoyed the BBQ a lot - we opted for the selection for 2 which came with pork and beef options. Spicy pork was a big hit at our table. We also tried to cucumber kimchi, which was delicious!\n\nThe second time we went there, we took our friends who have lived in Seoul for several years and visit there annually. They too loved it and said the food took them back to Seoul.\n\nBoth times we visited, the staff were super helpful and guided us well.\nWe are fortunate to have this gem in our neighbourhood.",
+      "time": 1729900376,
+      "relative_time_description": "11 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:54.086Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7fEdcAJdkgR_J41VbStot0"
+}

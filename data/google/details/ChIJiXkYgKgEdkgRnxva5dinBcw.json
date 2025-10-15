@@ -1,0 +1,246 @@
+{
+  "place_id": "ChIJiXkYgKgEdkgRnxva5dinBcw",
+  "name": "Caravan London Bridge Restaurant",
+  "formatted_address": "30 Great Guildford St, London SE1 0HS, UK",
+  "vicinity": "Great Guildford Business Square, 30 Great Guildford St, London",
+  "rating": 4.5,
+  "user_ratings_total": 2435,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5045608,
+      "lng": -0.0970248
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5059246302915,
+        "lng": -0.09561506970849795
+      },
+      "southwest": {
+        "lat": 51.5032266697085,
+        "lng": -0.09831303029150203
+      }
+    }
+  },
+  "lat": 51.5045608,
+  "lng": -0.0970248,
+  "formatted_phone_number": "020 7101 1190",
+  "international_phone_number": "+44 20 7101 1190",
+  "website": "https://caravanandco.com/pages/bankside",
+  "url": "https://maps.google.com/?cid=14701341108631903135",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cnZx5zJKuddCBPWdA3kDaEnELGrNKruP30WtP0zuxn5w90aQvVTnxCySXhmXoF6GIRLQ235wj-kzr2C0MEX4T4Lz56twDr9J6hIQsNIEHzeHBmh0bGaVjUfCBkeGAhIkMXC7XB4u1Kt2ypiPERTUNdUmQ9sMHi8H4RTf77qvKZ7NIQtvMn82jw4mVh6IF2aBX7iN9wyjEWhIE-HiWdqXk53ksvZolYzTPR5YS2L1dDLqLVeUQ5_GkIusnD2fpgpy-obz22cqm1eDU5_q92q41F0cfqPGnU-XXEXla_qp0T6g",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115432646841192025718\">Caravan London Bridge Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dCATAMPuUrqBURvj7QBBW-uUjiHPuFRf0oRarIpUS8LMe7moWipMk3gGWCKcj4KPU-gcrYiJIXQ8KwHDJwWD5ihXWAuPY3RBVpunjQyA1nA1uVdoHyv8rlT5mFhE7CrTJSDVus-J_xBZHmr3BjLI_xIYcwHVn7xGDNLwyzVHhs2KRkZgxXtqIE53uOhcpnHabaqRjZ06kt8H5E0EoT-0R-ySw4zPGInJ12KAe4UdYZixmP5rUrOlvTs4mENVpVzYLXhLATJfKrj7UmnbPQ-qYzibGaOiWFmgiq64IqoXOA3A",
+      "width": 1500,
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115432646841192025718\">Caravan London Bridge Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dCs1pkFMaUIERs8gWjPw-DyD9DihMcz2gpn10u_oTfM3TxlqtylGxI_I2B-IIWfzuSvYsxY7QqsEbLOggTaab8GRSKHGL44is2VH8Tdf17sDJsTOBZVQnhDfobfp0xgDRmzjjQpaoWOkWxnofcdOdzYVBihcb82cLwe5x1SmhusgcWyyBp8Uz4TVLxDhCMKaIkTTVdT648PO_KkO6AcFzYxLL1ELxJOmkJsEjypQTchkJrQtwZCxEn1fCmCZ5tYfbzocGJFr2aQZJYnTpnof1_Fx3o2QpJ-9NzyFwiRgLdn1pPMALw0v6KA-6AwdKIeZuNQRZyL84224myYTI26CUZIwsI8jP0Cw2r1HP_EhZ7lfllqHc-LbgsGEEVcwva2ZoZzLPRLx_11Xpa52t0PdaHXxXYNlznZqBzHap3DpEAitUw1kY3iR5HGbB_aw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107129139380441442202\">Ellen Victoria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJENHEfNhKZBgFOAvD6tqzhKXqYI2Ht3ExFNUcck09xxZJ0cHY_IalwABYW3cjONxtnsxh7NQwWq0fsJAz-1m9dG1vnTGm0oXYGWtqOryw3PqYf1gWesA7jX1bMSX0pIAsM76q1b-zubkCBfLRb-EU6UFlDYATA6HL58iK7nos-rxmVhgYPsHL0oGDHrL6glez9lADWrIrCKycL-eJF1BTBjhREdBOW9A5yWS8VsJofm0Z2u-JYIineiqBhmw_zGNJyUY8d7eMnl2vqKhz55OYCmPWFORG36O6nU9xRdSZPLA7gYauuDEle0sYkY0ro97tWslRWVAyzM8dXa_cRhHDXgocSD4XtJqP7QQhUn3BVaGvYciu8U5zAV7hMpwkFLVKn4H-A4LRB6TUg3PY-QO4P81ddcmTmrhNOCGieu1INQ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102386369737540189902\">Abs</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ctmKndCq7HNix-ZBXdGKux9ZQy7vdDkPa25CxpU-gkDgFSoB4-cWB9opW-gHD6viq4sgDmOJh_ExUuYFJE-RXP33hpK_SsWSbvXn4h8ybQ50EH3WpQmAHA-gqCiJfj6smtHlhJV_uADyLB8L9Z5uZXYPyBR3hsRbppiJzgJaaf0kZQQJpscUrH5lgYyobv92nsA5zrCd5O4hg0hqtpSL5eeoa7EduQnQdVO8X418nAdBdm-p31am-Onuyu-IVQIESnnceCaYod37vVHL5MMiiYBWAPvRqM0K1RKKaii4gywG9pn2SbNDGXgp1sWUpSBqSTBcUDU9i4in3vcSoTc2Bu8jsdO-u4Ai0rULSuX8-NATCKDWJBQf4bDSMZpK5le7YEA50GHL5VJkd9ToGfVcDU2YV2hTU93mYTFkqKWWS2fjQ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117700021939735056187\">Flora Dupont</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c8Cy3N11Bj517BCwjBekHFqDwh_CGpUJx1cmVn3qMMghWDs1m86YXPNM3N0luagOpyVQbxqDimBtPIGTMWzIr7ghThtfO7g1bg8e8QSWWtmca7BNd7KpozdJrgAOF0xsZPZvlgZMJ0r8zclcDAME5qThxtdlwSgVMrB6bC5oIKwIT_6whVQQUgt6fnu0id06m7YUnjjK1xOq12jzpayGuKftlo9maM4Y3N-YxshVvG7cdEaw8dxeOfGzeeVeV9y1osoFHeU3uIo8PPMt7T7sGxW38Yws_Y8lSpQxOtgmRYdOLh5q6WtEJNFtjhbsOWxhs3Sk-cDm6ASh6WxO3gy6TZ1y2ahqaR66rtv5HiT82cQ8jiNc2H24o44HGfmV3XEF8_Wz12Qms494f51N81HUoaD3_t4-NAlFFG6mcsGq3Iyr0",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116520395905210807675\">Constantin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c9PjnzPZVS59nTp27wHhGnVESrfahUAsKqd1L1GLh8bTZJaERT4XPYjfFey-gqa28xuDb0DP6bENztsIoxW4mXF8vOib0ePWQ6Qrw0RETWwge0HHhvfojuNBI2hemo2YktmoB4G3HqZbi2Itst6ECVTIwrajFbATnKYm9sVNCEiIn7Txe7QWrovNiljb8csvnS6hopLxjtZHVMguk8jBgZHnWC-11Q2lW4RjMSVXnctHJHQm5fL5b23D_xQfMEQzcYCdMKe_sUvMChhkF64FYJSW92EL3YWNDbtjvy6EK2nrv7rvTevDqQiv9vzluapGBn-ZD2fTzOSR4XTS9IA_Sgfdah6dN-nOlxUnjWH0DHwza6Ed6EgMnL1qm_ovJ-azx1a6UI2-3VbyHBBjw_n5J6BOeqC7VAxivyFB1U5kU",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118157352697704034209\">Kirsten Winter</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2egnyb38nXGf2bglWgcedftGJpHRYnHe1fVtycWKubjVTpUAO2QiL8Xu9tni565CgVpaW6GMgg0hvPOB7ia0yYpZnxynu1ZUtgs4Jexgaz6JgTnh_qJHs1RvllKjrs5yfx17BGwl2jk0LrxGD20tbdQb9OGVCI51frQBFFR-RsAAITVMwRwmyhPYAkna0Wt1V5WkZjVtB6Yq0syMfSLx93YJ7lwtM_uxpm6IU4_WYFS8-0US0rjrkcLSpHzn5kDfF7XYzmU-nYqgxZnh87Bde35B1Z-jxxouEh2F-kzwB1zkUuaXD5O2mEadX42ty0dk7nRKq3EyXA4tdG1EcSSI4ZdqGOdn5BRIB3G1ZfvA8RueT75fGMSfF8Zwr1fWMfYH-LuhCGkCoWe4xFKRyMlNV_9UYinpI9rH2S5eLHV5UalZy_aprS5lzzjVlscwNWR",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114121965598861763159\">Simon Euler</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dXas-zTydbOaEgCVEMbKKaNigbJiSpPEBRWIz-eIGnv_DiveQ2P-b0U8PV8Sd0UeCeZiesx-IHi1NE63YSu4i44Yyn-P4Iq3eaagJFcp7BO4IE-mO0GU_tqTK8zIultZuehIz9YOIw1WQNGRSDzgYSPrbLgXb458h7eYmVugn2lO2IJn2cX9wmESQbtDK63Y7lwEgJ7D4EaJbfL9P2PE4f3zhBlE8RRBzLpPFgX3qL467S8Z2FLpY0qjFwEHGO2iQR9Ossm2S5FqidoYGlfiTr5YhkdNayFsqCuEkfjWc4k5OFuXJcJS8saeIVmSTJ5v86RTWjWeyk2EN06EoKyyVq_PbT2MNN2Yfd4I_OHJZsjVhG8nhghkAWdjvcsZcMhlAFPXvlwXKvGr8w2U-euxPr_ZoSSgbUoGw_NWMqRM5lIA",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111316951292889265066\">Twisted Child</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fIH2ojzVd8Be6w7B97PI1nFxSypVZarVnEV1ssvX-Be65L4Qk8aSbDb8pfusO_92xIiiwoQ55EFWgCgGvbmk6YazlopktxvHE67Y-RlcqA2yREr9ch9bgX3ykBWOJS3B0J372leRgQy0h-vouyuPlopSbpqV6UrQsm6zhvAmqcWfhfoTOVnJ29dtCPJo-kydEW8zfAvBL-KIE-mGf8EIuwREX4c18dpu-v7CMMhsmxt3JEfIhfbVEkh7cbcyo9LpuJ9a-FsY_nMIep-6a7ypJ6iCXs6-IZFutYHxKYa8ODq6TnDpDBw6tx0ANamkCV3jvCDvkq3ge0NhcU-DiUfkLT3PROQi4FryBWGk5TOccqkGp2Dam-R9jMJfJNrxTOmTul1p3MR1ug3lM9B2jX5P6iwdshn3g8mUlY0iQAZrYRBA",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106807994170326938739\">Megan Reif</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Industrial chic decor, an upbeat vibe & eclectic global cooking served all day in a hip hub.",
+  "reviews": [
+    {
+      "author_name": "Helen Cheng",
+      "rating": 4,
+      "text": "Convenient central location for a bank holiday brunch. Booking online was straightforward, and they had a high chair ready for us, which was great for families. We ordered the baked eggs, Korean fried chicken with pancake, avocado toast, and the English breakfast. Filter coffee came with a thoughtful note about the coffee’s origin, which was a lovely touch.\n\nThe food took a little while to arrive, and while everything tasted fine, nothing stood out as exceptional. Still, it’s a decent option for a relaxed brunch in a lively setting.",
+      "time": 1748298720,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Ambarish Malpani",
+      "rating": 4,
+      "text": "Went here to meet family. Had decent vegan options, but felt the food was quite oily.\nI did love my tofu red curry!",
+      "time": 1749766707,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Riccardo Berto",
+      "rating": 2,
+      "text": "Great ambiance and a warm welcome at reception, but that’s where the positives ended.\n\nThe food was consistently mediocre. The fried chicken pancakes were especially disappointing: dry, oddly sweet, sour, and spicy, not to our taste.\n\nBut the real issue was the service.\n\nI understand things get hectic when it’s busy, but what stood out was the clear lack of care. We were served by Zoe, who made us feel like we were inconveniencing her. It took 25 minutes before we could even order, and only after I called her over. She forgot our water, never checked in on our meal, and when the food finally arrived, the waiter accidentally collapsed both our pancake towers.\n\nWe gave feedback on the food and asked for the bill. Ten minutes later, they offered free coffee, which never arrived. Instead, they removed just two drinks from the bill, even though we were a table of four.\n\nWe were planning a business lunch here next week, but we’ll be going elsewhere. Disappointing experience overall, never coming back.",
+      "time": 1751204574,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Катерина Михалюк",
+      "rating": 5,
+      "text": "Caravan at London Bridge is a nice spot we sometimes choose for breakfast with friends. The atmosphere is pleasant, the interior is modern, and the staff are attentive.\nThe menu is varied, the food comes quickly, and I especially want to mention their matcha — it’s really tasty and well-balanced 😁\n\nIt’s not my absolute favourite place, but for a tasty and comfortable breakfast in central London, it’s a great choice ✨",
+      "time": 1754731590,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Abs",
+      "rating": 5,
+      "text": "Had the pleasure of being taken here for a birthday brunch and I was not disappointed. One of the best brunch spots I've come across in a while, and with quite menu with some innovative twists on the classics. The interior itself is quite cool, and even though it was fairly busy the service was impeccable, and was given a complimentary glass of champagne. Will certainly be back to sample the lunch menu.",
+      "time": 1740525724,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:34.197Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXkYgKgEdkgRnxva5dinBcw"
+}

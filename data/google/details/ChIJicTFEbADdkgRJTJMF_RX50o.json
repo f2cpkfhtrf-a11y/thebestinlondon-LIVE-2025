@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJicTFEbADdkgRJTJMF_RX50o",
+  "name": "Mallow Borough Market",
+  "formatted_address": "1 Cathedral St, London SE1 9DE, UK",
+  "vicinity": "1 Cathedral St, London",
+  "rating": 4.8,
+  "user_ratings_total": 3820,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5062513,
+      "lng": -0.0904033
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5076150302915,
+        "lng": -0.08897081970849798
+      },
+      "southwest": {
+        "lat": 51.5049170697085,
+        "lng": -0.09166878029150204
+      }
+    }
+  },
+  "lat": 51.5062513,
+  "lng": -0.0904033,
+  "formatted_phone_number": "020 7846 8785",
+  "international_phone_number": "+44 20 7846 8785",
+  "website": "https://mallowlondon.com/locations/borough-market/",
+  "url": "https://maps.google.com/?cid=5397379384301335077",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d_PoZILhvEzdAeRCb2NHCJVyKVmmNMq-LmjvBZWD8qOYfuIhXRUzfLrGrIHS0AXNraLnUi3u4zSGFlmTgk7NsXPxJHUmLaA6E4F0QZu1BYTK8p0dwe0Jbt0pGlKYsdhA1vc-KyF_JhBUzU_74wpi3YwrH_5rqoHJ0vm5ybTlUrTR_ImCnEVQvw4JOIOPzer-wog59rJnV5xmvwmf7HVauuK6e0xTcydH-dt8Y68LO-Wgoj3iJOZPh_9buvT7lhMoVmjFUplHHsJQLZtu6UhXjndc2ZA764CLs9llr0CKdP1w",
+      "width": 2911,
+      "height": 2105,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106713414215195920509\">Mallow Borough Market</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cyYg70ohLgbBqfVeG5BhaY0_XaDIE_cpgdT2tfgA0bh30pueWvJ6EEXGffnUBIKF7WgRyGaCEoI8QbXOpY6-1PDSSfNqUnuj1NbV16RdNJ0ZfVtXK6jVD9yhat-qwk-m3sIHifCLUdRu40do3bgzRQ3oETl3ZLoRFR0DqprUYgmSvyM3KxMYEkQodQO2PHByRAg8ZhZySRUCMgzwZ1ZBrnS9eP9sse5n_hCsYoozAfkIVnLWav29GAbnN19LCJbj_6-Yf6vt8q8UfhzCCevO81S1LBb9oFJM9axhnW_vaB6A",
+      "width": 3193,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106713414215195920509\">Mallow Borough Market</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebT8LP5NQdu_Mc47W8HqcIxAirS3BvK1LQ8x48saYyQgRsudVUOLRMXBlgv5mfEdum-xJTz8W5DmwVHZrhQBaTpkpFDTJJJg8NI5g-ITYyp9BB_OjPRqwOhFLUIGAzOGlA9Pf1eqwFS9FLPKQi5RvYPYBZ8I568vzDgI-2c82CODUXiSQX41hibysuhMl9spsPJWFU06VWpFwzNHI9f8xKxzC67boLqR72PuisVBDRWcRmyEGaiQgvZ64BnvTXBKSIZL-wZn4vyOnIdeetLj6KCh9PPySdTwKmiZGR4smSjV8HIRWIYh9oU8VCWT36I2sHulKrX_UQ4CoPZWtVv2qbE5jnnbQPkPuhmJ47mbJ_oKT2NCcw9Rnzh8-pNW3VEfHmY84gnJrciwPrdzQMOwj-MvKloq3xd5S03dro4jLIN2R8o727WUoQGxgji3UC",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106163613649143493509\">Naomi Doswell</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cv5M4VNJfKEt6Khf3-0EbpeCs5o06W2xtBl_LLyVVcRyPixb5dlcKOjYliXjPY5aTXdLJuMRm4swVpfOKaoZ4KMBLR7ik5ftSQbAiMff_6YQyppOn-PIifcLqda8PoME-8BTLcIb5OSGdwRWcUCpGhETpNv3n0ebAEwgd5P5EjeZiRtjDhUcXv4knxp9f7TrCUVx9-f2z0iRf7IXuoH11kjnkT-ErjCfUCdqpCRuIA_sR346s1GNLLF5sCDAozr5Uo3Zb2IZMUExDPqmYdWmeYNhDtTHIWJd-YxEFyu6F_hEbWSJjaUP5Di1QLKzLm9XmE3Q4BCZZCMlkfAndbFyQ7Se0H4Dr-AhqwzyIvvK5o9QlR65klibM57JVMIJBpVItPPVd3pA1r_su1IbPXB2UpzhOc1kuiLQpg82VzXJcYmvVxn7aC9OnEd44G0Tg9",
+      "width": 3072,
+      "height": 3071,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100547533899734336684\">Simon Bowkett</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e6tZCIyrFxlunfh9wDXLGTfvzBajeSLVd2c2iLxb7TCvFxwtYUVj3C96OwP4y3kiZ4fmOlvCU-oCDnpAwC-4vphQ0Jf_0MH0e0h0hLYmxuYWIieovntXzNwIG2aiYsSKbw1VfTIKd1ToEUSk7zh6CslaA0a-yxW5iu-uxlk_JIckOIy3YcxGwcdrNfhwlS_TJO7gKfjYDC2husD6hsZZdZ7ejszVlyBpp6dGMB6kTsYMw2v-MgN4PoXpwV7hgxvxp91ybzccsbvVmTE1LTQ7QWnMwQmqB9ibdTj5_SGxhL5WEjK2ZVdI4G0yOlBI5DSTKjJ4O-KpEx_uj25pNBh0Dwo0vIlYeW33uFGwpu5URYemwrw0Zx_0KvpH9tR7tYpZzy3h_omtgQBxjYWsiqk5jYI_v0TUh5VWgMrmYBbJW_UubDwvZ8WSrbjEVDsH69",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114030728215652976194\">Andrew Mitchell</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fT0lkrMwIQZMK8FQ2Fesi4RBom4wsxQIi6CXdPKuFw-q3NdP4JS05tePr39-pzWNzTT2uyfOGz1Yuvx_3O1JQHDjXp2zpfhjJhYZo5SFrklSUXbNediU0y-YG24h7w6nwu5HxyYd6Ga8z0p-Ltd2OpLE1_Bxda5bnRixmOL5m_VEj2zfQ1ysKWqSUScRVoGd9ptFMDpfSqwTlML7eZyTBTKTEuywmIuZu1xAuVrX3b1_TnHfjChDVfSo7EpjxB43SyZqUU9LcfLxJbUonojzOQuJ33h3DdXNQBVxnFAWlzsruTlvVuYxA81hvsk1n5L9n9kPM3cVNuDICTeNRqklvyXji4iupAvoLVW3Y3jYy-AU0UqFSysF3bgKELNBsS5ulek7z23P2sOuGJSW5RH5_HJm66S62rUy9KDVSqvvfLd3Qzqf2sCks-DUbkkYr9",
+      "width": 2934,
+      "height": 2002,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115122897326460097886\">Anthony Payne</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2feza93tF4rUCvzwG8DftWwuiUC4OOajOpfOsWVgDVB5yHI5Ldw58wSjFKjW8oizMJ--laKeMyvvX8IQf11_VoqSb8BaGk0WsU2cXLrCM_mpKnOsj1hjbuglmSmHRRT-O8lURjxc2PsAli0hQdE_IVcROIIVkjSzijX9siY9QtrdbgcSubXPd7_v-BlTQ68nrveP2QuopUglwBmwrhvjL7U_B0Uw8FeVkZBxp3edlvkstZWpVrYCzkbo2c_QCnLPTlmA6kFIBPY1q4shjgyKjC9_zSZODo71M2_o1uFegFbT4jTBEWHIL6ploegMZ-EKX9CQy-sju0svm3mp55fvyiU5Fq8cKiqdV-fbciC3XXoMvHc4lo4QsPLx2gpWUSQ1eqY_PA8MjCaUwzzs6uEL3DnA17UFy3qyu6UNRThBA-USey9",
+      "width": 2160,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113441729669394306974\">Eva Fajardo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dwuqk4bvN2yObvQsA81ikRll0ocsIIFe9q_QNN3Yr7uGnJFpHB7nVnizKq09YvXpVYNtJ6QSfMBuNiOCR3YYCxhudadv549ogy46rAoY7TXpbRhdMCIYqsWkni2E1y8b7V4ApHXjbrCukrnR8pxBdp7-8vfRbP64WXeS-vyv61VBB1G5U6unc-ahUf1vJ7pCPrzG1DCBfSx3MG9BIsE4tl_0l_LuA6oKI-EKQP8IlViN30CuyYhHLlUNKYqTHG9HLu_yXSNtXZkbIU07hM6eugVclmXv-Q9_k1pH3XAOfXb_v5WuWUqDiHu4Pq_4TnwwV-EdXA2qdpB5Va0Rph91ZTYcm6d-fam83O1pvLabX9Z_xCrk7NKejkxlaByH9WADSrLEw2AMJLeL8PHXd6iUmtR9qaeRGmACf-qcChkPRN5rU",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112942909980824139113\">Winnie Jiang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fpF7umQCzmncRC4xyXXaD5SnVg71CfzWPp5RZF3pjqUv24rjUPUShqbLals42IswlTxHh60LbVnx3CFob-6aQDh9OdCkDMki0Lb0DPMu4jU7Z5s_YjS5vLVHwWYbOAhuKz8U5c4cnUs8ebwKOSYoHTcwlpurQJSz161qUOvldeE6aczuhWcxQD4Q5yinBi_voqOUQTbrK43HkJGEY-JoxUPgsgGnIIWhtv7VMOYnE02kMi2IdMlirq2v6saamLkoyGgnIABx6ut2cBMZ4AvOx_O6cFYYcrJZwv30x5g7s5AdI9rBgsKMoGkO4s8qAX3ujGRKRrPcT34yggE-WwqqYL4Wq2WKvYm_SIiUOJGPk1-Jrr5_mPh8RtxkiPP1zMxj52yPW8wN4tUUDTXMdRh-4osn6QizArP0lUXEzk-dNaqSY",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113306460440954749613\">Siloë e</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eYwLPBBNQTxQ3dseTKkzzX3dX7rJOWA5kV62LMm-mzMipzN5WG8y4sCEaqKX8JBy01LAyZDms_mbVguizP84XvK0CXvChNHKXZ5VDGywzy7o366EqShrGCW7q5TtiN-M0xejkHbjyT5MRbylAVGORSzDxCDCVcAGVnSNGKvqtdGiDzgB69vzV0s5fzYiJseR7M5DefBK_iJmDHrzAdy0xkawdWHjsgV2ba5l-iAB8YpV02gRViXhbIVagPy3m7BC_T0AguEkKh_0Bju54wHCoeM4Y3w2A4e6Qv22Ev5psNWooaRiWc2kQmBHg33loFTPhmOgi1jhOvCYgBBMjJIPcFMon97cQ8IZP3PiYgxPy5vs9tkkKNq8G1wGFvcc7Iu_FXSH-hV3XkQBM9PHxsR7bubtezkL-u8nB52sy80VxpBy1VqWVHCb1hj8vNSFUq",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106350683476129732538\">Mihar Ved</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Eco-friendly, bohemian eatery serving plant-based global dishes made from area-sourced ingredients.",
+  "reviews": [
+    {
+      "author_name": "Grace Middleton",
+      "rating": 5,
+      "text": "Had a great breakfast at Mallow yesterday. Thank you to Laurence for being so amazing and going above and beyond for us, it was really appreciated. Service was excellent and food was so delicious. Look forward to visiting again & trying out the dinner options. Recommend having breakfast/ brunch here- we had French toast & pistachio pancakes!! Great vegan spot with beautiful interiors and lovely staff, making the experience 10/10. Thanks again!",
+      "time": 1754492458,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Madison Prestine",
+      "rating": 5,
+      "text": "Mallow was fantastic - everyone was impressed and the sharing menu and paired wine flight was so much fun. Amazing dessert and dessert wine. My non vegan family was amazed at the food and loved every course. Staff was attentive, kind, thoughtful, and made the experience so special. The food was amazing bar none",
+      "time": 1756368511,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Sonia Wilson",
+      "rating": 5,
+      "text": "Thoughtful menu that is refreshed regularly and has really delicious dishes - both comforting and innovative. Pistachio cake recently is cut above. I take friends and go on my own. Beautiful building in Borough, wonderful place to meet and spend time. Friendly, accommodating staff.",
+      "time": 1758465715,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "hannah jones",
+      "rating": 3,
+      "text": "Attentive service, lovely decor (quite hard to hear though) and nice menu. We all shared the set market menu which was good. I felt everything just needed to be much more impactful flavour wise. It was all quite samey and needed a really good whack of seasoning. Good portion sizes and colourful, clearly packed full of veg and not just bland starches like some vegan joints offer. Lovely people just not for me.",
+      "time": 1756899859,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Vee",
+      "rating": 4,
+      "text": "Amazing service I have to first day. Lovely calming interiors and very nice decorations. The staff were ever so friendly and helpful with the menus! Now I’m not usually customer at vegan restaurants - love my meat but this was a nice change! Only advice I would have is perhaps expanding on the menu descriptions as we did not realise the starters we ordered were very saucy. The mushroom ravioli was lovely - unique flavours and ingredients.\nGood selection of alcoholic and non-alcoholic drinks too.",
+      "time": 1748810713,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:04.587Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicTFEbADdkgRJTJMF_RX50o"
+}

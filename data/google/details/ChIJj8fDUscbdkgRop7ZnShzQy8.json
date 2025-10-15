@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJj8fDUscbdkgRop7ZnShzQy8",
+  "name": "Dunn's Bakery",
+  "formatted_address": "6 The Broadway, London N8 9SN, UK",
+  "vicinity": "6 The Broadway, London",
+  "rating": 4.5,
+  "user_ratings_total": 437,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5784889,
+      "lng": -0.1237449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5798152802915,
+        "lng": -0.122458469708498
+      },
+      "southwest": {
+        "lat": 51.5771173197085,
+        "lng": -0.125156430291502
+      }
+    }
+  },
+  "lat": 51.5784889,
+  "lng": -0.1237449,
+  "formatted_phone_number": "020 8340 1614",
+  "international_phone_number": "+44 20 8340 1614",
+  "website": "http://www.dunns-bakery.co.uk/",
+  "url": "https://maps.google.com/?cid=3405692361506397858",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0600"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fhT9qHM6iDsaYf-UezgsbGjezN0PWX5EACw5dUqVYZutQAk5kwkVilcDrC3Q_IcN9-qLGtHCO1twT2FCqW_-UPRiNxXGyVgekBTjZijZTCLM_K3gMU9m2HIrfV8IOwu0g5DuNJPP0xAa3pgXiKuI389Pnnj_Q0CxyifnEwZBZvjvHSBaND3HJmnXodk549l_xSyCYI5b10H7eRruPSA1NISFaafvmgJofDmR-d_Lk5T_KC3dNpzEEk4lr76mq4df3XrJq9pItA25xiu90uJkubbzK1lO6wmVesEWkQSaVEHA",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100820594549136972843\">Dunn&#39;s Bakery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c0DMsWa1QxW2LIyLExXAItEmT0Cs558EWZFI8xsZZn9jrGWiVjqNcGQS2ZNTf38N4cteGGQFv5bUWdz9o2jDkTCYn_winYIcU1FMcyfslP3XQTVd5uNoWRrIx89AcisGVR8OtHu4x0aakxd5mwmu_DuB74wBnAzu5ArwyUyE9rmd4g3dsM9v4Zf96vrfx67ERFzWDLRMHWLMIC58v-Y6MQBQ7qWiAy6tlWvmFonLwQylVf3Js9UM6A9nYT7z3xh2InsHfIyDe3W3YLigwOiliUIKf8OZEOpocYvpYge_WfMw",
+      "width": 1048,
+      "height": 1048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100820594549136972843\">Dunn&#39;s Bakery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fI1iHM1nRffptKC7sgdixmMpWaCGMfIbeQ1hO9kWr8pBxVFVelwdE6a8ymdlXurirQk_UcbjvNNbh0GyEqKgHaQOhYVa6FxJn9z1roo9vFA_woWLqKhYvHYzV5xz-ruxvnXj6WrWCVnygQ8C8bPn4pj9i3-Ug0FBkOmz0ywIRxyI8CDflqmlJaHecu9R1gVK8RNvSK5dbAsF0lYu6ZcLZObA-dCuoZ9g_BWpWKSNQ8tZdoLX-IM8SLakh-quLgBXePf7RZ5vy7TK7PxEUNPQecq3a7S-q3bmmqnqMXt2bPOQ",
+      "width": 2048,
+      "height": 1157,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100820594549136972843\">Dunn&#39;s Bakery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cG9neXBEDG8yoy2qJOSsWdOQGi7yJHaHJXM_muWTqAcSOlp-hz-GLRFexvf6ELefRVZ1spCL3YlULpvZHsXy0amCNmFyLtu1IuzFx0KtUxs9noMr8hD9rLbXfCroSKxf1drPInGi2zysHEMrqGzMc86IMQPgn5wxeZjDnPcnuaoTHAhxjHDAXDwTPpB7YZe8LdX1_xI-_etohpdQNedwaQ0Jgxb1RagN25o1oCj2Dtqk6kAIxQrRCusK8gq6fKqL53xcNvJN0U2JF6lA3iHrULiTejZ8KkbjdA93ARWr4SBqjslXQ-h1UkavYaU31iD84UnR-OlsjJ1nRF5NHN5JxMSBevu0oEuMDfUwO8S9UTVSOx0lTZseLZTKhoA9lFmU1PxZ9Rp5KJvGRnnXb92wju16Ds0NZlN9-ltXBnSPAeqA",
+      "width": 2700,
+      "height": 2525,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114639187867630154306\">Silvio Bertonati</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dPlkkKhy4jrgUTo-d0U9UzDBxkimgbY5GwIGN8ugG_NmCGbpdjGCysSjX6nmOe62cvTV1PKnzl91TBNE0rBvHJguOdSK__oCScrswnXQAYXp3TzfUEYGLtg5q-30xVGfzzEB092VBg3Mv0US96v_7Q2RTER9QyhQuUHEiN0UKa9PbQzKfvUw-gHu0imQ3l6IC3dhL2noToKj6uUPaFw2JbcXuy2J5IfL78sDc1R5yFx1D4Wk0rcPFvWoYgR32VnU3fYXHPpGAWzfB_S0yhmGKjx_OeeTZvCxUQmsoNWCbGj3TLWgUy3hPFBGxEZ4X1jBcuISj-kU6BNeDZQW7bXkkEn7lxn7TCCy7JzYl3HTkV8_MojCqvJm7rKPnaE3bLtL61yKV6yHuy-Q9uuDfdxcFddGqDtqK_cro4KaH6xVXR4qb1SkEUd8Xm-OzcfA",
+      "width": 4000,
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108868950529018491352\">Meg Grabas</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cN4YivjT8fF7y1pLe_CDRKQMvxjlL-9a4iV8OrnkP5wYadkyFCje_TuJLOv3iHAbt3oQSksLambyNZMczqQC2BJmv_mB_UKJnfodi4bucE7fmntYqiIZ9ZEbgpypPrSXn-5-TUttLeiRfqfzAY-01mSE9v289rjH1n-H-NwhtDqIQ16JJIHFf7C5T93rHVQisEJJiWc8Od8GzAOC1-mqkq6Z7tCHgA3JCL734P7IR79pAvGFJiqXNNrZPs1YFAJzj_3UBHoRLGyQTt5LSNc2Iw9e5R1PTPTOHtgb2B90OjBXOP9Dn_FsuylwxB40O7QD0zHJzjiKML0UxYtNpxobmjvKdz1eLOsI9lhnJ7oy4SqnzaEtqVsB3Ba_J2PuGztf_51WV0sVaGIKc3QYoRw1GfK1Zt9hNsjBUBb2cMFxAucRUB",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114639187867630154306\">Silvio Bertonati</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ezZWGGoZa0W-2YK4ylZeB7b3_Wm2dSD4ytX-2RaKcDu7RfZA0STp8WJ2YWYJ_5-yxOVYYVT_ektwIYtRNp5-lb5ZrM2GqYdnGoZ0u7cVTV4YcMRuUJohvJn-ieHdZ70kYdd4TKDuTBcILoqtZSaJvIJ9Ya2yVYDkb24iPwFQU9Nq6Lxwrw0nto_PmVqdgrQRKppUoan1mNLE3ZlBkz42av4mKOjohROk3e5Gcmu2WvAIS_n8knzgan_cnuBdw-pxyzEenB3UpNpKkMGu7lGcCsmG6s0JJuY7OoBOLC5ob8XFB2Hu1Fty2aE362ceB-eNVAamLMY3p7eb0BKUIm3jPdJUPmQLp9Hpwuc1Z4oMwH3bKjssDU80KyjwD9JBrc5HVAp9WDDs7KXnfrcuqpUdR8Q6KERL-HYZu8YGKVXXpbP-i6jpDDDYTpnrBBOQ",
+      "width": 1200,
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112066845680769426591\">Jocelyn B</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ePwWx4lHfltcvDDg2lakNZMA_2qXqySp_w6Wmm46shfStAABz_X2ft4Fh0IbaPK3cMiUG0aPVkjM17HzTj8b4D9dh0s7kzzVZUmvQm3D5z4UQ9iyNYG_eKhCjV3OCzo4xtsL_bLiy0-iwc-Dg-vuWaQpZ1DfppElqsfWc51LtbY1gz6kr4mPfzge3NrcshwdqQQDFkAm9wZwLqafJfTXgWF5UsyZSfIsqVC1PGNVtA6j6VyTgeX5UCJ2F1Bc1lVMslI4DQ5o_xJsN5dWnwcDo5L8Pm8hmnYQkH8wN-YKZ6kXPkJRzfT5Hi9kx-Ppz5NUk17sne7FBJSufXtPlFTvdz-xW_RkXngKdaHhL4jhKE9anXbc22FMDmrN1BP0jqag9-WZpMyu4jMZyaNLJBl2cCva4vs7PP4-FpjxKkyp7dLw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100267086357491903399\">John Hellinikakis</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ejC-mLDwucDHUmHIzCW6nF6CJM9hv38Q_gFU0ZAXCT8WEoGZ4O7XaQcPOQDNg_nAIS_foLFCJ3M70G8k4MyyuQg4NXwOvpd2a4ExHx2lKiuVwIb-_hNNiM0SngaZ1oNozM3Im6HwhXpzODQxVw7M3qbUNMnbzD9nFjicRxC8Jc3yI33s88pt9Jryzx3iXYEh0QAZqroEzqRwYOeT5s-0_CQn_kKwuvN18AWMGSshlywnxxgRiIIk_YsGyCFve703zZPNBUkOfKCbtx17eRNgJQ7Imh1c3y7kIuaRFg661RiA",
+      "width": 1857,
+      "height": 1857,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100820594549136972843\">Dunn&#39;s Bakery</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ePg8tM3HXaGqMjxc-m0TEdhm6NgLjOjwVRQDQ25ZYm2kLDcfpbiYPvEqwyujU4-nPFPQmz1xvLLAuNaCX1omK9Meo2mXeonj9IhK1RaDHcUVe4-oMa-_or1371NS1kNWuVDLJiCeBnNbtNnZSncQZWF8MfpCX3X-wpj64Um3J9IJO-Gk15YqWIHcSpqlcGeB4rHdGxTwjo0zLtbX9OU5om7JoexXG_S3XmourKS5GJFXq-isv6WBMqSCMroWNJGkBgvpgfUbugQDIvIxLxyMV44GyWLCd5iLclfl25gdxUXQ",
+      "width": 512,
+      "height": 384,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100820594549136972843\">Dunn&#39;s Bakery</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Long-running local bakery offering bread, sandwiches, traditional pastries and celebration cakes.",
+  "reviews": [
+    {
+      "author_name": "Jocelyn B",
+      "rating": 5,
+      "text": "We frequent Dunn’s so it was only fitting to order a Dunn’s cake for our wedding. We were not disappointed! Turned out exactly as we imagined and tasted delicious. We barely got to eat any, as guests loved it so much they had finished it off entirely by the end of the reception (photos by our lovely photographer @elvira_azimova)",
+      "time": 1752407972,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Sarah Harrison",
+      "rating": 5,
+      "text": "Australian’s love their sausage rolls served hot, often with ketchup, so it was very exciting to not only see these beauties in the hot oven BUT ALSO for the ketchup to be put INSIDE THE SAUSAGE ROLL when we asked for sauce. What is this SORCERY (saucery🤭)? I don’t know but I didn’t mess about to find out. Acquired and devoured in minutes. Pure magic! 😋🤤👏 Vegan sausage rolls also available.",
+      "time": 1756141768,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Filip",
+      "rating": 4,
+      "text": "Dunn's Bakery is a reliable spot for a quick bite or fresh loaf of bread when you're in the neighborhood. While they might not be the most extraordinary bakery in town, they consistently deliver decent quality. We've never had a bad experience, so they're always a safe bet for a satisfying treat.",
+      "time": 1726148131,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Christina Charo",
+      "rating": 5,
+      "text": "The apple fritter made me feel like a kid again. The review is based on many products I ve tried over the years and the price tag that comes with it. Everything is always fresh and service is quick. Sandwiches are delicious and very well bellow the average market price. For the size of this bakery the variety and quality is impressive.",
+      "time": 1753720721,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Ypsilon L.",
+      "rating": 5,
+      "text": "I had a lovely time at Dunn's Bakery, enjoying coffee and cake outdoors with a friend. The atmosphere was relaxed, and cakes tasted great. A small mishap happened when my paper cup broke and some coffee spilled. To my surprise, one of the shop assistants noticed from inside and immediately came out to offer me a new cup—without me even needing to ask. Although I had already poured the coffee into my own bottle and didn't need the replacement, I truly appreciated his attentiveness and quick response.\n\nIt’s also worth noting that during these challenging times of inflation, Dunn’s continues to provide excellent service, employing at least four shop assistants at the front desk to ensure customers are well taken care of. That shows strong commitment from the owner to both staff and customers. Overall, a warm and thoughtful experience—thank you, Dunn’s!",
+      "time": 1755332447,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:29.411Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8fDUscbdkgRop7ZnShzQy8"
+}

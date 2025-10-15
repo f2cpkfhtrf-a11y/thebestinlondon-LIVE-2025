@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJNWlwNBgRdkgRj-WJmjibnCw",
+  "name": "Osteria Napoletana",
+  "formatted_address": "186 Kensington Park Rd, ES W11 2ES, UK",
+  "vicinity": "186 Kensington Park Rd, Notting Hill, ES",
+  "rating": 4.8,
+  "user_ratings_total": 3425,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.515434,
+      "lng": -0.2054763
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5167481302915,
+        "lng": -0.204230819708498
+      },
+      "southwest": {
+        "lat": 51.5140501697085,
+        "lng": -0.206928780291502
+      }
+    }
+  },
+  "lat": 51.515434,
+  "lng": -0.2054763,
+  "formatted_phone_number": "020 7221 0154",
+  "international_phone_number": "+44 20 7221 0154",
+  "website": "https://osterianapoletana.co.uk/",
+  "url": "https://maps.google.com/?cid=3214614901448893839",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fpy4PGeS5eJwt-dapces55XPghHTAqYs5yG-OjHewMp_39LFACxyV4pzfFusNGS6pwdWzKVx9EiWqxQGwigJfBwbqaxuV4jGWJhA8zLM3MmNiuWRtDuvz58Pg9r0olBaNSxf4h1j8UrUWZqV-X0WpzzYeV5TmzBtS4TcoH3N5rRc4GR-VXgz6eddwDopehxo70Glvc_pRQqBcpk6NEZWNlHWqtkFllN9RrsJ8pfe0fjm8ggg5UER-k_cIqlNENpOfPgXKvs2nxfHesL3AwuXNH29O4eo025FjwSoq-oDCd0gxJ_4crU-7qy72Xldl0oimjLSb8IVgf9OazDeiDtZ0sAHj8-J1uHPXowewb5AF5VkPHV9T5gyjJZFhVDrCmrpjUxNRfyIH5C36OL7IaUpWHiLBswdkbVp6YtAoI8F0Zh76L",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104137573270893061064\">Lorena Salgado</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c7AEfbML9Sd_SWZOWi2e__Gl58VDedgkq5bChA8wI30zoRJiUH-hfatkTU9sYNlMkwi3CigCdgOpSMfZN0vLBVj03iC1r5WH-VuguYNYuWc0PFYuxf_oOvEYYyg4-Y1JzF6MuJCzQtYJTQpdMeDH7YFE6FDtssZS0pIIt0mFeIsIXEdJdJttthyExC-t9mXcdHxOyUO3llExDLy5s8d6tKK5Cin3bEBnFgKOARpvkBM6pRW2xkB1JkVEVnnb-YmegnVfmI5KH5THdZEX1nzfKf7oG518dvCuqZdFl1OvRseQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114509108354062702394\">Osteria Napoletana</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d1GQjSOkLyZ2hv0poOvUh54UyU85tEALjsPaSuPk1o-dmk6lc6kT9DmufGJmBcvVpaigXDM0zJiB0-cztTGo9LYdQMlNbnFeov8nzJHoa0tUphOjGQWG6oec38Kw-xdSadYZtbn_Wgs7fZ6qjD_tBhIUslF7CzGA9PYsUryrd3OI3g4uipgJrk0PIjbNvTbwmmqrr0t5P0gW-vEx_8J633lUspTzesac58NZIAMG7fSpXvq1BwU0gR6vpw3D9dlYS_rP-HTxx8R7JO0pIpJKHxZ9rmy-sSyZGG6aSt8zxZhpPUc_EXtduMJrb85KQS0jXgnJHXsV1USQQjtxZmdbKMHgbJnz0d0rnILimrS4jWHt1lTxETez8gl9eFr-yCvGlOwxcVIqoKLMceikLpDfdMETxOU5iJzwAD--J5HgQWsL92ymQrMzTgQOt3fsO4",
+      "width": 3472,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113194383547542257135\">Jens Loeffler</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fRmhtG4XmeLeMysUhjWtDLOfKLJ-TXvFlXHj4jLNNrtUbkDn2nxnLhQZUsu2rjxOc7ZFjODgHhWws8XrIKhlkdGomMj4nQjtSCfRbEVDPugbcTZ_aXAoXAjWFyAKPJotH2wK2IAnD83ZwTYhGTt3VGKceiLgbjBrtqVf7tmxPf2dBMAVLQol_9gNnF6v_hEdbQxdr9LrYjaGaslaIq1Wti3s4PUmaXKX2dOA4Px5bPkkYvXdQEkliSFI1SeZMqCAUQ4OD6MMBW6C9PT7xZWy5-0_OQjyTvw_a6dQ0sj8uofzyTXM3fjMV7thyq_b5cM4glIVE6ZpuMAlOpIB0futlRM8N4bTogIpRhTrfJkvFLX0i2DXFupcl1MjeS6DBfZQAiehZtinvh5tvdsVnq4c5H-Wn8b7_BEbsllxBNtWN_gNOd",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105308717692649727884\">우정은</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQiQak3WDI-qhp38-_Rhkj99ELF1eTuy6P0bc2TLXUvYZ_ZNXwFsGXrNESXweZjtpTK8LBS6Ms3aqwq9FNaAcFgpboX-eNjqY8Dp_OnAKaHAmLxbJaoLomZsUgv3ylWGEUBJvVAGSiNqjsBJ7D3QKzCcwyo6zkxL1tX-OQbiKlZWUwj7PQnVci_-f5qANJTbelp6tUf2xxmmmnuyzdYYo42-bHCXMUWwC9KAabXMPbaPUOOCbrAAJCufG3miSScvSxfBY6KJkgv5V6TW89S6Eg51R8pUqGFnmn2nBFI1yqM6FdvofTXFbWLjnB5PzhKCfzfyycQuPy2aLUSC8z8TxhlHuKElkdXKsbV-u0pLRKTRt9IaqksyV7hwA-jJJftC4FDvTuwVAyoO4tT6lMAKIujUifzsPKrsu36M-yEdeAfw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100729880920568971269\">Dayoung Kim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQ8UDSfI003QANw8DNnEE_41B3n_V3dr3C9Si-kyChBvkBgU7sNTl3XpsK2dnXsgM9mHcW5bpIbRRPkXOdx08oJ8rOGpkLwkUtcriejx5ILDd8Aq_xoMGzLTYMN9UhEMNMSy8B28OTU_PmT-_nSbTdKQHxoMXw_mevPkm_i2mMcSinC_iBR4PzGZZwet06CGOpqC7dL57fQyJ7s8BrJItubzRZnWn3UYddHKEP_mXl1skDAOVTISV8Wvr2iR0-Bt5k1j7OTDJnr0snCmbkk8zh8uj9aDAFxuG1wtAD5mcFVbonb2gPMFpdVi-GJ6Si-A9I8Z3Ew-aoJ-WpnfNONU6eyx98DKbzIpAx29EhFONGQ_q40YJBQLyzgucvaiQ1BVwviaQeISA8h-zpuP7NA9OT0Z15ki7SvdrPEvQTxrTyst7Q",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104272513599265443269\">Anna Gousi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2erNnclnx3kf1uaTwKQKxF2eiflxEfZNQQsDvxQsqnYCT0M0Kbr8BHD2kxYTEweSD3v1QGGbVXmt0GL6zJWVUIeRsPDWf0M66tqRvcck7Cv308wwQlBCB1JAemvBBePsVzLAuJuJv643EJJrTfHzvluT3lVTiyzAKJOETxs0lLnZSMHBD1VzoqKdjoloIDtwpsMOUxXVnDYM5BE3ZCxPADVrmZ9obPTZcmpcYM4SYgzAqw6BXoIyVwxlrbw9MRnSb-3JzM0_kQ31WIUbjyQC3oYrCRJLrZI6MKBJOzkBqylI4lbvCQMegAI2F2DS_AS2UYYPlQoATe1rYfr4rjJH88VY_dY8nz7o3_L8FTXzdH71gJkkshscCBdcwPWiRNb-okzNC8DyyM19EhKJj61uPqsntfyHeahZ7kNVxhtjd0L7rnbhVaNEybp2RzE3IF2",
+      "width": 4624,
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107241439258815465382\">方丹尼</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eF1R0jyKZ-ouDZKZmFNV6g-MgOekeecnWFfozFXSgQOwVFDHQRaU5RkjrngAPJgZc1lVzI8dD0hsCcVzwcFFZ5YL7fQWZ9nH5QFOaq5fM-MwWDC8WWuLKbNtQcsvyEdnAukL56iYdmaQPwGyKJDRo_fwRQIAHte_XzCtSZIEVBaEhQFkCRunCHOML0KkRCJCHjpjs2OhB8lGEOL-KPl9hXw8LPqmol6YcfhLoV-LopHzpaU7u818VJ9By7SLhC-sk0SW0SxLiLV5iqTCFhnzuGluMC-IIDei2ISN5ZFo7UCRRJPOWfnlu4scR-5SZ_lbVNaqyYTYq6Y6goCfmxIP6YT863k2D391XwvbmvhVgj7JcszVh1BdJxcVEGUVQ7gZ9mU_lZ3bS06mUXf0CVxMEeuQHE6RNhkPmwMpIP1M8-FYTsAp0Xq3O1vFocZQ-1",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112235152607342095797\">Kristina BABI</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2diY_soGgQsLzYYgL5VAs21BLxHhY-rnSwJTMbeL3qeBEMIAmUwFkmk5rk9rcowUVRwFk8wCqgFQXJLo_TfsDOwdly0CQdnHk4CduLK4KxsChV0B-CO2f_7iYMpWHoe0M_ua4iomTQX87hFIhuVnm1A0furSRI21GPCJCeqDznTFahaAHXh8C8Ety8lLxGjUVJoU1MkJbgWnXzMxgs5ojvTaFDWpXC2II7rG8X9t5br91eSUgppIdmhhjMHekZV9yUPE9_V5MECgvq4KcnS2QdhZUOp9uNnYRdJ-iHbzdR6ZajHMr3ltkqLW0Dq4WK-f4_Pd--fQjuL7NZEYKvAgrYY5lMAwcMCt9tv20CJ0JTysXLDhhg06P9ruevN0QOPY_fgz6ynBvbwkJRoGpEC_kkfRE-Hwuc-jNVCEN1Ox6AiFtaj",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106851273043220871377\">이영은</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eaYFM7F7yQt_d1vJx1gptNOoU-d3Hys0G8WmQVMZ85uNcs83MPzfTJtrG8Aqg9YHvvQqh7jejs-YiCva2CMlPNyu9X4s8glZ_fcNxXCD8tYW4fn7fDwuWEeVaNIgOc1B9b7iETNGpl3GkLTKaQ5YhR66Oj8n2SHKtc1sVABKetsJyg3-CNR39SPfXtgLZr7URLBJj_d0_VJKBnbFic6wwBa1bfS0ku9XXNR0LWOLF0xHru33YeqtUFfCP1WA0-EDGbl1-Fo-63_UHzQsUJuoRJD6mjsYxN6-VxxXUiTMAULfwddIxE2rJo4J0kS55-ClHRP-PPCPH_m7iiY82Vyy-yM1hUPx8v2GZXdvZqkr94I3AI0SvFSleNzK3aVlMi_ymJkQzZRECWCJVclxN59ESSHoqwN0hode9n4NGTpyEgxx5z0CZsk7DOTZ6gIw",
+      "width": 3144,
+      "height": 3253,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115607038928247577688\">Ghass N</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Area-sourced Neapolitan-style eats & an ample wine list in a cool eatery featuring outdoor seating.",
+  "reviews": [
+    {
+      "author_name": "Edward Yue Shung Wong",
+      "rating": 5,
+      "text": "Lovely restaurant with delicious food! Make sure you book online, it requires a credit card to secure the booking on OpenTable.\n\nMattia was our waiter and absolutely lovely. He was very efficient and humorous too! I appreciated his help with the menu and it was a pleasure watching him masterfully mixing drinks!\n\nThe food was all lovely. The seafood was all done beautifully and not at all overcooked. All of the pasta was fresh and very tasty. Highly recommend the calzone, I loved the contrasting textures and how the tastes blended together beautifully in each bite! I thought that perhaps the salad could have done with a touch more salt, however it was a nice contrast to the other dishes. Note the other dishes were all seasoned wonderfully.\n\nWe particularly enjoyed the complimentary basket of bread. Really delicious selection and it had the perfect amount of sea salt. The tomatoes there were absolutely great, far beyond the normal ones you can get. Adds to the authentic feeling of this Italian restaurant!\n\nThe toilets are located downstairs. They are very clean and pleasant. It’s in keeping with the rest of the restaurant, which is well decorated both inside and out.\n\nIf you require one, there is a baby seat, it is located downstairs. I don’t believe there is a kids menu. The ragu is very good though and a good size for two young children to share (YMMV).\n\nPrices are a little high here, however you definitely get what you pay for! Highly recommend for anyone looking to treat themselves!",
+      "time": 1756662404,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "DiAnne G",
+      "rating": 5,
+      "text": "Absolutely delicious! The pomodoro was authentic and full of flavor, but what really made the experience stand out was the special touch of having fresh basil cut right into the olive oil for dipping bread—simple, but unforgettable. The atmosphere was warm and welcoming, and every bite felt like a little trip to Naples. A truly lovely experience and a meal I’ll be thinking about long after London.",
+      "time": 1757512148,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Ghass N",
+      "rating": 5,
+      "text": "A lovely family gathering at this cozy Italian restaurant. All the dishes were perfectly prepared and well cooked. I recommend the Paccheri alla Scorfano and La Parmigiana di Melanzane. My daughter loved the Pasta Ammiscata Patate e Provola. The service was excellent as well.",
+      "time": 1754471719,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Clo",
+      "rating": 5,
+      "text": "WOW! 🤩 What a wonderful Neapolitan restaurant! Highly recommended! We had a stunning dinner for 2.\nEverything we ate was gorgeous. The atmosphere is nice.\nThe waiters were lovely with lots of little attentions (though we were sat by the door and therefore were forgotten about on a few occasions for little details, but it doesn’t detract from my 5 ⭐).",
+      "time": 1749892497,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Elizabeth Palomino",
+      "rating": 4,
+      "text": "Authentic italian taste\n\nSmall but very cozy place. Great attention, food delicious.\nI would point offer free water.\n\nTicket average $40eur, kind expensive.\n\nRecommended.",
+      "time": 1757693265,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:59.726Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWlwNBgRdkgRj-WJmjibnCw"
+}

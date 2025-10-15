@@ -1,0 +1,313 @@
+{
+  "place_id": "ChIJdZ6paFcDdkgRpPUHPngIeq8",
+  "name": "Padella",
+  "formatted_address": "Padella, Borough Market, 6 Southwark St, London SE1 1TQ, UK",
+  "vicinity": "Borough Market, Padella, 6 Southwark St, London",
+  "rating": 4.6,
+  "user_ratings_total": 8228,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5051655,
+      "lng": -0.08992019999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5065070302915,
+        "lng": -0.08839411970849795
+      },
+      "southwest": {
+        "lat": 51.5038090697085,
+        "lng": -0.09109208029150201
+      }
+    }
+  },
+  "lat": 51.5051655,
+  "lng": -0.08992019999999999,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://padella.co/",
+  "url": "https://maps.google.com/?cid=12644428216325895588",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:30 AM – 3:45 PM, 5:00 – 10:00 PM",
+      "Tuesday: 11:30 AM – 3:45 PM, 5:00 – 10:00 PM",
+      "Wednesday: 11:30 AM – 3:45 PM, 5:00 – 10:00 PM",
+      "Thursday: 11:30 AM – 3:45 PM, 5:00 – 10:30 PM",
+      "Friday: 11:30 AM – 3:45 PM, 5:00 – 10:30 PM",
+      "Saturday: 11:30 AM – 3:45 PM, 5:00 – 10:30 PM",
+      "Sunday: 11:30 AM – 3:45 PM, 5:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1545"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1545"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1545"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1545"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1545"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1545"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1545"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cmdQDbk2GPXBQSvxnKrkkVXfgDCAnnBD5aKGTTzK7w-QuFn1UwOTz_MX_ZqhNj153VsK_zqnuxMJpxCe3UjQen2dxf01KkdidAgUssWy3XB_Vt3Y5JVwHyubm0CQM3CSypVhAouXkgAdveTAhAqek7YP9n8unFIiH_SFZuSq7gSk0F4RDvVtkdBPLGXCNjQFhZVe8LRZR5O0mISj1oxAE-HyxijVt4FqSxBI5uSkTpB0fTCN_QiHJC32x4QtxeT_P-TV9AgcoVrqTxXnNSOouJFugBmJ4s6yzboSwg_2fRsA",
+      "width": 1080,
+      "height": 810,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112837559704681179340\">Padella</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ctRkW4THlrHCYDADX09Vr-7ZC8vBigxRW5ZDXE5u6Dpg7G-b0Yx1HT-ui8vLw_jZjYPCttzFWKy0__Eplqs9ZS65NaXOvUvHG1BUGsnY-J-g1nHNDO8eOLPG8FthiCXEBhibV2lF4kF3a00YFUeHaI_FEzKqfkzi0iX5R1UkKXyAFqGXuxBECAV88KLvfV2ZSmpq2C8655foLeJLVcseX6HAuYXNmSKeQXt-cHaHMLPbtNzjAAmpeZjPsnHF4gdTscqqWAAY0MkfQ_TGw15_iq8enn2SI0hbYXwdCJdNusFbQ9tPkTPIgOI9FlfszKO0womYDWzgIkX3A7nVSnU010GKTM0G1uHvu27xcHOr4GsNwys60uxMi8wQqT9AWcIMjvwKuqy2LtsQBeQy-274_eDFC1p3xz1BSf1cSDl-GS_A",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118291544933028712955\">Romário Filho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwje9gHU3jFPiFgbL13z7an09Ba95a-UEAivMT6vf0qItCjaIiWyKIAvOX_chbBGNF47nbTgdNceE2MiNU2jw2zpzxFsfGXvcBbYZxhkMWPpjxGLbZEg0at-NJhaVe64nvhHTZ-9NPGQ6wYXMUumgg1Of-6L7r-CKnZZN0mzh0vLpJBAuvqiZTG_DyAVJTJ-l61bgO0EJEXxMYGnqRLuz0Nw9LV6BSpSGLZdUwmonYfdpEOjU3oit9Z_AAZsuw6MZ06S66Gulm8Cb_ckVNh0PoDZa10njaM_NdPdJ5SOjVzLWygFys5kYut0PFmfIhBgddedC8zwinkl644PzLJm49kJxtjC6Z6TkRdDLq0ol6LJRxpuRJqYaO9j7RIxzKyMhl43Y0iLgDh1GAkas9FgjQsHCXitwPx7ZcucZM6bHYPfoAEefFneIue24yL4bh",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100478832151170506499\">Eddie Ho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2daTYwleTQQEOoASNdC9lFmBbXg7U6xmpHkKZ9y_ifLbJmQJPzvvVXmC9SWfjHcpTQxq2vtetUj8pfu3ZM1gR0P3uaQxpDXVv9WExihClHaDk8p3DftwbDxEtBBJayRoxT36f39bBRDG6fgIM3UrEF6COQy6UmPLuj82HPSqJidKKtuB-p89kbCJO11YWqqOquu7eZsEvVdzqj0shRO6U8nLxBeWAAMp8-RTyKpwhbELJM5aQYnVcGdeOO7ySJGKqRrl-jBLrKlonHVGCgbXnLkTB_-_Z5isvOZcUEdbJ36-Ty9IcHe-LeSjF9gSkwGfizSAm9rZdzau1voqN5WqIYnm3m9i-19JCh9uTk67PbWnXMK0R-nr2ZZw4CjzKib4j14GDmL-Siumzgic6W3Xyu6icQCVIDCMpYF38eZb5sqGTY0yInM7FPcdp0Elo9w",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102243586363789081310\">Buy Sanibel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f_Ll3ax6pqZcz7c9hZUYVctOmEOxbM5-4Z57ZfjurGyJX-QIrLUEy56n-iN2C49sdFMP1fVzfYovI3eyAm250iblK1jAAJBh_W-NscmDejhh54kAeNChUq5BTCFjH8bIFhAO2UCdmuiYmNe79QNlHQCl6drhUnwBYgQQUP8Rk2kzpzIbx7AwcTvvQ4top4jtkX2EZ-9uNgkOsmpZDmnm8exXMl_o4KFOpS_BTgKMAcEqoU5XIG-konvlNKEymt_JMqKvkjJz3IxaZ1VNe1JuWYOEpY-06nDlxdKOQqgC8sn9q5Pv5BS3DVR9ot0ihZl4xJX0kHEhAaWckyEZId6Q4aAMCVpe24PtZaQUIx1tI5apxdZepysjC2Umj0Yez0AeuSfRxvV9wQtbgz-N4d0WK5-GWNSoRoQ84J3cEOHR9OIAMk1C5QgUYEl9he6qnN",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110891769732332956156\">Mariano Trinidad</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eoFiTIiXgjepwc0cqZHeyQr4KO5TLe6gmGxAyS1kqgc3bQ_V9B4svGLxUUj8lmPwMMVbVzk5SPPDKRKz1z8y7NkdWhNf8KA9s3S7Tc3jG0ombiqI19fLlPEZwtMWnBNvkj93SVW7y5nTGmfYi0h1i-2K-D2WgX1M9wpZaA8In0dHp2IcdIw1MFdQVsB0IOh7Mm5XoXO01dohGE6ANw5-_34Kwi_sQcwJjgOEialYLJYW-XwI8X5pntZSEqMWoP_Z8z_KFXzTSti_h8XCuqP2PAsRPvy00XceuW1OcmzVMGP2JM1pPlE0ZDPdvFGG56ulkgMC7tefEXoNl-ZxjX1KK2jHPi4Uo3boYUXNPQLnj1s5Rmpbs3TGsA7QuSI5u8HvzI78TeXC4NwZpZTzDcjcRZshs2mStXbjTKSJ915o5072MnhdUkUj6YXL-yyaVq",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103627129640281431800\">Leo Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2db8S2Fv96nrz1EmMldufnWWknwXNSLFMbsyTmVfccHF6oV0BLhUYs0WSncXuc2MP-bLX04NPXQ2Q4TFeuoLjmYsIZicb8hw8OpdZUSRHX5E2yNn36wR-5LXwVb4M6TqTiOFDVmfD_ACevxr8Ko5lVZYOCgyTg3qDkXs4RJMnDxLBnD5dr3FPUKquai6Rtg-JqwxWmSUUrUnnqNm17CuNhPO2ir39xuRrIjEbIYOTjmdp_t5rsTmarK7tiyDNLLTmfqh_mN4mNepgraw5w_LU7_OZzzUrxIwRghLYATM-dzp8b3X4j9mF151-eVhvErFruXOlwnKYIxIrssDxAOp6O9a4j-AJxpDIjHZ7wfljL8vZBizFkwBj30Ndd0l77N55UFezxO3-y8S4MCihy5sa-FXTBQy6lDPBibkDgRkoUvRA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108668134539426735076\">Alex Idan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c16r7tD08IzFzDUu7wgW8dTLuJcurjGw3HgGGh3AoIM_KoJNQtUbmEdBvr7DCTkJ7brQIfAC5ojtSXgkkfCyc_2jp1c6tABuSzSZb74i3PFQ4Tv0M1DzlkA6cD80lSfxbtsdT3c6ZtlHej36yvEM8cPcQigK_EZ04Vtutgg8BvmVvYryIHfK6R-lHFttvbXnnL7QXR-Y-IX_X1nfg_DqWF4cXLs62Of4jHqp4_NEEmKGw8tLDLmq-xUEFjJJKJfEA5mJiIJI5_a3CW2f8e1afoPgXjeq4ssiF5w0kAELigXhLRi9x2vKPBuQscJ_nGz1x5Q1pruBHTqxHBZVkJ4AeN3feh3KTYDpYU8BDNKwlQdPwb0BFk2bWqlbaDvoZ4MnnQ37fB8rQVtkxSYP4neXc6r77BnG4Q2O-rA883eJShiw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112692833134218995920\">Joy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c8bRwmF5O87zSzbfKSXbQZRy7mEj7Et7hc3TNN9jbPHmMrOsx3V_1htpHaR59yQqYOawf-XB0doIMAJ2QZFaJmh_p7D8z-nAJknuO5NYSA4oxgFRzvM3mCd2GwuYrjgo02hhKeMlnQxM8XuPwXdPtRv_jhoe08rtnDdJKRq3pCcGmFkE7BGOeTgGq9jdOVDbrUEt9iVfIpLosq879fqbujdyjrIW4VbklHqIdfr41y-9dckWXztNZYLOSDkYnBEfONOcl9L5nWP4Fwh8l5IV1LLpT8pP4C6EcQNXrkEE-Iqsmbqe29EFrMCRhISJuUYmKpOW02mNhGiouXcSds5N-CaCywWlY0h2XgWfI5ktBY7UgQwETl4HUBfJKy76hHoIWzqeW2Dp3mMRPhzRLJttg-v2v3QzjxH8bRLsW9AN_7zxc7K_sf73WISn9L-6v_",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110080213855772127451\">Thomas Lui</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3a6-aPWq3PkFrStu4ij13GS73pfjG5cCk4eAJ8mrfVuUk0QpLiZ5WvZegmmiBT19sz4b4rBCzclIxwXGxIMSMqwJjjV0hLLUY2L0ILu5CP8hJcNG69fRsZDrfAgtVIJVZsVVLC7WSujjsK460u_7LLUbdiqECBH_vyUFfJ19c3_t-vEV5ug2iOYHNVlEWBLj2eCeBR8alY5i98GcDdebSWOI3ae-shnaor4z8XRDoIJ7nOG_pukTWZBUN4uM8WjzTqS4u4WUwn4YueR77dGp_Kwbjj2YhZdeeMkWCL1CGGc8ocimV9mJ0ACnJzMrLNirc27ehMtayRW-Lc-sF2IuwcvXUG9YeomV-znGdMO_pbyX23xXEKkTHVX3j0K2z-wtADdqvynZ18ipAWjcb28w-U_OCVr8zbZE-TOVKpYYjPJ49",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111513674071800178777\">Amy Aldis</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Modern bistro with a short list of housemade pasta dishes accompanied by wine & Italianate drinks.",
+  "reviews": [
+    {
+      "author_name": "Charlie Tose",
+      "rating": 5,
+      "text": "Fantastic little restaurant with friendly staff and quick service. Our host (sadly didn’t catch his name) was very welcoming, recommended serval dishes and provided a complimentary glass of wine. Food was served fast and hot. The tiramisu for dessert was to die for. Couldn’t recommend enough and will definitely be back :)",
+      "time": 1759661733,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Hannah Ko",
+      "rating": 5,
+      "text": "Loved our experience at Padella! We visited for the first time for lunch and arrived right as it opened for the day, which helped as the restaurant filled up quickly. Staff were courteous and friendly, and the kitchen was a well-oiled machine. Seated at the bar, we got a front row view of the action, which was part of the charm (highly recommend)! The pasta was well made and if you’re visiting London, you gotta check Padella out!",
+      "time": 1759265137,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Michael ojo",
+      "rating": 5,
+      "text": "I appreciated the warm welcome. I was seated promptly and even allowed to change seats. The waitress, Nura, helped me with my order,  her suggestions were exceptional. I went for the Dexter beef shin ragu with Primitivo and Chianti. Let’s just say this is my new pasta spot. Can’t wait to come back. Thank you 🙏",
+      "time": 1759576895,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Salman Rauf",
+      "rating": 5,
+      "text": "I loved Padella. It was my first time eating here, and I would definitely recommend again and again! Will definitely be returning. The food was creamy, flavoursome and probably one of the best Italian places I have visited. Also in a great location, if you want to get desserts after from near-by!",
+      "time": 1752514085,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Jasmin Bull",
+      "rating": 5,
+      "text": "Impeccable. Incredible. The service to the food quality to the atomasphere, one of the best experiences of Italian food I have ever had. So many vegetarian options. The loveliest, funny staff. Blown away, we will be back ❤️",
+      "time": 1757963677,
+      "relative_time_description": "4 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:20.982Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZ6paFcDdkgRpPUHPngIeq8"
+}

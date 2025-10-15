@@ -1,0 +1,142 @@
+{
+  "category": "breakfast",
+  "query": "breakfast london",
+  "count": 4,
+  "results": [
+    {
+      "place_id": "ChIJbU1x6zkFdkgRSdNJQwXiRII",
+      "name": "The Breakfast Club Seven Dials",
+      "category": "breakfast",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 747,
+      "formatted_address": "55 Neal St, London WC2H 9PJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5146871,
+          "lng": -0.1262875
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51606537989272,
+            "lng": -0.1248946701072778
+          },
+          "southwest": {
+            "lat": 51.51336572010728,
+            "lng": -0.1275943298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:05.250Z",
+      "query_used": "breakfast london"
+    },
+    {
+      "place_id": "ChIJp9exgRcFdkgRpjsnrbLsyto",
+      "name": "Brother Marcus Covent Garden",
+      "category": "breakfast",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 3726,
+      "formatted_address": "23 Slingsby Pl, London WC2E 9AB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5127993,
+          "lng": -0.1263622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51422517989273,
+            "lng": -0.1248119201072778
+          },
+          "southwest": {
+            "lat": 51.51152552010728,
+            "lng": -0.1275115798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:05.250Z",
+      "query_used": "breakfast london"
+    },
+    {
+      "place_id": "ChIJhdD5OKQFdkgR07W-3C-X1io",
+      "name": "The Breakfast Club Old Compton Street",
+      "category": "breakfast",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 679,
+      "formatted_address": "18 Old Compton St, London W1D 4TN, United Kingdom",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5136453,
+          "lng": -0.1302687
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51497317989272,
+            "lng": -0.1288982201072778
+          },
+          "southwest": {
+            "lat": 51.51227352010728,
+            "lng": -0.1315978798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:05.250Z",
+      "query_used": "breakfast london"
+    },
+    {
+      "place_id": "ChIJsVA9Dg0bdkgRUI0y1Fj9BNI",
+      "name": "KOZZEE Cafe Soho | Brunch, Coffee & Desserts",
+      "category": "breakfast",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 5135,
+      "formatted_address": "193 Wardour St, London W1F 8ZF, United Kingdom",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5154586,
+          "lng": -0.135842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51684732989271,
+            "lng": -0.1343596701072778
+          },
+          "southwest": {
+            "lat": 51.51414767010727,
+            "lng": -0.1370593298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:05.250Z",
+      "query_used": "breakfast london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:05.251Z"
+}

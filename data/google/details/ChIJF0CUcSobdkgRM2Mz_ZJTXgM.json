@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJF0CUcSobdkgRM2Mz_ZJTXgM",
+  "name": "Kaffeine",
+  "formatted_address": "66 Great Titchfield St., London W1W 7QJ, UK",
+  "vicinity": "66 Great Titchfield St., London",
+  "rating": 4.6,
+  "user_ratings_total": 2171,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5184664,
+      "lng": -0.1404
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5197979302915,
+        "lng": -0.139112969708498
+      },
+      "southwest": {
+        "lat": 51.5170999697085,
+        "lng": -0.141810930291502
+      }
+    }
+  },
+  "lat": 51.5184664,
+  "lng": -0.1404,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://kaffeine.co.uk/",
+  "url": "https://maps.google.com/?cid=242723320702919475",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 5:00 PM",
+      "Tuesday: 7:30 AM – 5:00 PM",
+      "Wednesday: 7:30 AM – 5:00 PM",
+      "Thursday: 7:30 AM – 5:00 PM",
+      "Friday: 7:30 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cX58GBz_5JOXLMCtGmPN-FrBXi6GHZUfMebk7T1n875bPnaDKjrOzY44FqpmQIdMDjdntB0FmGHI697m6E-1mr38ewQD4bsM5aFi44XjJF85HopFDL0tj5diRADYZ4aD9SFLM_Aqi7DloiQOr_LgtbCXl1XoE92UAq5gZA-cjDkHfcODKMGvu34gKSwKtv4gUfaW1MzFcJ9VE0nL3rmyO6sSYY6nz5807R59oNe06sWRwUxYjNGUv4uX7vjDcV10Ijt6BQfQcFjt27eboFrBkdlNIDPSxbajJKiI-6sBj1YQ",
+      "width": 1680,
+      "height": 1120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102929233594422032448\">Kaffeine</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cig4TtAADDPr4n7Ij8GUf-5l35UqJHMbvovjSd4ZtL79VsFa7azWjg57cMBQdIWD2C9DIECDHrpeAwfMHQuFkZTr-rae-vis185bV9WkHgmogVJETGHQRRiY3h1odeizvZaknqQIkbUOdP_1klN54aqTN59AHNudescBi7L-LCCuDjILTjoqx2YPNjhqsLPcM4sebbUZ3tBi6RulW5hrLYCcSnQwai9D-IE732MQCSadFWtiOY78cQHKf2IbIsJ7sBe3_-1bcOqRHeJo4AR5-l5U0N-S42xn1bwwkAqofMSg",
+      "width": 1887,
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102929233594422032448\">Kaffeine</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dYN9nGzDZxD2PM4hFx0lAxc-1YpO5ncCytsI54fNtj7NsSJ6PN90YB06pyznT3jC9_Q7AvS1c2SJODf-6kew6YWHjM1aKn7gxwN445Gcmc1wzfz8Zu8O9aOrm_jyaH7xdxutCe6gdyPoAWDWQfOtu10pL0tpOSWcm8JjvESf_ym4vwBBk84aS1mVP0ev1dMhpL0GWLhz-mtcMxZ2tPDKwYuGH5huvHJhYX1dpsubF_gVVqehsGXTjWoEQs6NCm4Mk59URMnAvY6mi0Cwxf4mWxmWmSXIUXt0-sCusI0l9HHKQaPqxZUZWiCMZsMDhAYSMQ-4X1iq-kCl8DedNCHW-iqK1d4ByHyyFKy6waYusFebsOrFnyTB_HTMZKFKm5MjlyE-vaEKcgMMyvRMeDmJQtThKLXMfOs2Fl1L_ucGfwBAZ-CMy7UpWt774hXZhg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112063962669442885770\">Mariana Pires Soares</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dXEWuf4zfVGyebv_ogBF12svgRx7cvhon5uN-36Y3HcwHQ6AclgVft-toRiyTOG8FhWX0nvalPUABITFP9hZWbTdq3MuzplRnqlm0LnS6oqB8x_JzZyDzpVk6SsM7M1BQo2rWtafNFxxM-7WFX5tniuS8w9cC0Yh5WktGPDqSj6gdeZ6hHLUPwkIXtlD_-EGSmrZxiotDLvdtMtwX8lke1FHq5mPvCgdfTd4xLuEBMPTV33x6KEzzQH-qPTBqhgGPhXd6iUvst-ghXcSyDAVxBc4LdwfTBkMffjmqyfFwMEd4vX7QwEHxxGoQw1RwCP2Iw10ifF4LWztIKgM0FNkG6Wf_U7kDIkeOmANIZHg_7Y1s8cNmuOQE0EFAsWYZkGCmvmOrzS3gl1Q2LJUeUMOgko4GLxQwjtBbSwoU84RZVjg",
+      "width": 4284,
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105957077637930864168\">David Harris</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3qR1V9ZVpBRF_MACReVlSZzQPA4QmhcscOJpTEBTK_38COj9xb_o6ALRaZ9c7z3X5swoVJ1poi5KCHzc9VMzxHqCmmSIjsy2zVVgD79z-7hGC7WYC_3RdIUUpleM8SmjBzdrzGniSsXJfMHpxH7-y8Opox4qKFUovur6fBsqZilrQA6D4d_5NzgJaHaK9zlHu3FtvWfBYSJLdRZjCPbHpsbOQqf0Il7v9MnQqiPL2P5hRQU18D1eapqWxscw3Wd3JtB3CLm6aTuqPlQRDE-ma-qgN17tq_Gn_s0QdjG8RHKuludb202DsXWPV6hT8Kj-c_A8AltXvBXLLQNhvEhTcMthBZhyx_nc2vjJUtTN_06AI_EPSlrtaxUanTdZG44ViHuruWWefK9ZTULq9kunQax6M_nJ1sX6ueQsymn9-nNtyXy3hwr5XVy1J-aq1",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111717232108857919326\">Nicole Prettyman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ch1p4YUssxcQTz3T9Ox45KN0bZaceMWKpuvxexUvsU268McQPozvBCdH_yVrMjAwbOvN8lh4qaDqZW3NZhNDrEyQrb8PMCKOejPFjh2ZnKaloNGE_RJucOjR5T71HeU-o61mN49UxjNrLFFO8Dqlw8qpGcIeDG0IVEsOqgcbcoHsWRLl9eDQLVfSF3uzN7MEen6yMY6c2mmyCwB3cHbpHsI4_QEOFnUAzhzxDHU8g2saM85HWj_tL4y7fTn7xKh-KgxGVO4v4gDOCARUGnBdd29s_wVydsX4Qlqy6eaVDWDw0WitO7tPAlHigFW_9PMqKNFaC9NJw2npwUZo-zylHY6kJmH07MwnDT0ThZWo8lcUoFcI2zaCU7zeB9fKl6vSXddpxhTvXFQdKpBW2O2TGzz_BgmHaauThAoyVyNVFWID9T1fcstLh_ziQX9nrF",
+      "width": 3472,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103655666705416686055\">REG</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fgEZDFJlVVRXG7pXbMktufNOBN-Rx0udjIKYfG2ZegAhFa9uAqhUI3wkY7ofwjfrDKo2yEkrwQ2o-T6godWeiP3fkL49nfZphNtsLZ1ddUfUxevpquLNHgxXSmNF39-I605uJGbSIOyeQ4Z9M266VOIH6rxXX3q77bzislFpklN0Qe6Vt6eP9aFGMTgwlngmFrzYWjS_tLB226bvJCS-45FWCKlgDc0N2vrYIR2L6-0ioXN33urExOSzeYciwNISeercxn8VmUS8JXkME-qS2ixT3Rjiyq9BVpjN0CgAPMvHbP7WP8zL9XUwqdff3g5O3LQPSNnf4tJbPIa-Q98Dn6ROVhUBOLVhQgCE7FNXyVXPo215dVOyVirXZk9RqDvz8H3PnjJLoY5izOZ_h-BTUxKRuHx0SpSpRQuk2u0D4-jQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112876860436038477006\">Joe Yeo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fV6oMjUs0qFugiJRmIdwc3ytdMG3mpU2AeGpdI9CMd3Hh34DTPDxJPGOFInzETCkD8QGdtOkYoexcZrnwpzyvRLHXl97uSARUyaVDpRfn1aQZK9BGeZqwtnFxr-9xxkPBRzx1kK2mPbpOi-bjIxzt5S6tadAI_cffooCmyX9RVzHgo-X3QMBCohPBnslINmtdKccyClpt7NgvYLmeZUmQjLyS5EnJ71LUzDEBgRDR626bueiAGmUeSxZFCk4KPP9mNuRsu-hs5S34bp9hCiZSobirA277gSH-CF90VvgTpPh6ZOmC6Ps48ZXmf9tOWVTx_Rlq1mk1LyZqszwZk61dC7-bA5RiDSL74eqLvB9bpXpl56e8YZVcOn6ou7E4ZPIOR2E9CM0Wv3gHudWYVA6JtkUDudLbqJGOf3oggGIGPsZq9",
+      "width": 1085,
+      "height": 1411,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110267209022418885169\">ahmed amellass</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f7cCD7CCcf7VC-54cC9Aj_2mvFYY-REQolZ3jDjB9884PnFuCmOo50g1wtzTyGQml4Qs42qpACo2fN4WBiFPi-kMMAZWkBD_dti9ZM85ZbVPmuEbZT-0fwg8eBEA5hiyfsbhP8n2lGtLRvPlfRMt-v1xn2SK42yXRapxR5Ec1NvR60RHMf94dDd4YCJktkrBlg4NtXCvnZkJ9k1DNEwgv22kay5XSFFj5kto4gBT3qx8iFt8GhXTEV1EF73CMaYVZ7V3dDztB7uEcNp5bvLpvB48tGOiHiHtHbGcII2sLG1oJu1jI6uiqnK5GBFXF-bV35lpyoEuAJe5n2MnTnw2PRqa75KiPHbq6HfppLNUmg2xlOUFANkBHzN_oINbA8NQy8Qpepr8AGNah4Ia-TKvH-YILKYfjj6I5epgeklBqoyH55WwlwCPAiAqz9sEWZ",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105321459872535683112\">wiesiom x</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e79xMydwnwULVkpSBc4fIuLvcT0CdxDwxtRD13fC_9F9mvVFWkNYM9jTBfYUbqw1j7QenDfkb9otZzDeeaWBKg7Sc3fK4XtSgEiNW70XdxQvj5eR9PP7Kds2MVElsV8JS-Bk2rv75PWKVByGCNC8VnKrPBaBXjXu0bBYS8p-BiiddXOCHDwPetH61BY4Pjd2EGs0wg2vSpR38V9DbG6IImRj1HU0m1PRwWzw4ssNs5dqxr_k1KNRdnxy_4g6seKEhHTwRo0yw0dzVuCaPRy4b9wKKZX4GdRHFY-vAWk_gJHw",
+      "width": 1080,
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102929233594422032448\">Kaffeine</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Independent Aussie/Kiwi-owned coffee shop with deli-style breakfasts, sandwiches and salads.",
+  "reviews": [
+    {
+      "author_name": "Sissy SN",
+      "rating": 4,
+      "text": "Great find in the famous Great Titchfield street of London , a stone’s throw from Oxford Circus.\nThe food was excellent, ditto for the coffees. This café/ restaurant is really small and seems to be over staffed. There are two wooden benches outside that can probably take no more than four people. There is not ample seating inside either.\nMy biggest disappointment was brunch not being served after 12 noon from Mon- Fri, why?\nThe atmosphere is somewhat non existent and their clientele consists of people from the neighbourhood, BBC employees having their coffee or the passing tourists that somehow feel unwelcome.\nPayment is made upon ordering at the till but how cheeky of them to display on the till screen  prior to making payment if one would like to add 10%/15% or 20% gratuity or nothing ? Are we now in U.S mode in the UK? And what service are we talking about ? Serving you what you ordered at the till? Perhaps if this restaurant was bigger and offered table service than we could possibly talk about service charges?\nI would highly recommend going there and I hope that management is thinking of having more spacious premises with perhaps more kitchen staff.",
+      "time": 1755040373,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mich Elle",
+      "rating": 4,
+      "text": "Cosy little coffee shop. Amazing staff! It can get a bit crowded in the morning, but the atmosphere is relaxed.\nGood quality coffee. The pancake is on point and looks cute! Just maybe maple would be a better syrup for it (instead of chocolate).",
+      "time": 1751535324,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Tanya Lake",
+      "rating": 5,
+      "text": "Kaffeine, Great Titchfield Street, London W1\n\nKaffeine had been on my Fitzrovia hit list for ages, and I finally made it there one morning—and loved it so much I returned within days. This much-loved Aussie-style café is known for top-tier coffee (from Square Mile) and a refined brunch menu. Think espresso-drizzled pancakes, wild mushrooms on sourdough, and one of the best breakfast baps in London. Cosy interiors, great people-watching benches outside, and friendly vibes make it a standout for coffee lovers and brunch seekers alike in London W1.\n\n#kaffeine #kaffeinefitzrovia #greattitchfieldstreet #londoncoffee #fitzroviacafe #w1coffee #brunchlondon #londonbrunchspots #squaremilecoffee #coffeelovers #coffeetime #brunchmenu #pancakeslondon #breakfastbap #fitzrovialondon #independentcoffee #flatwhitefix #londoncafes #brunchclub #coffeelife",
+      "time": 1747061278,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "wiesiom x",
+      "rating": 5,
+      "text": "Nice location. This area is like coffee shops mining. Nearly every step you can see and buy coffee. In Kaffeine  they sell Square Mile beans but after ask them you will be awarded to taste single origin Skylark Coffee Roastery product.\nGood taste and aftertaste.\nThumbs up for barista.\nOn a scale 1 to 10  I'd give it 8 points.",
+      "time": 1750246504,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "J FM",
+      "rating": 4,
+      "text": "Lovely small cafe tucked away a few minutes behind the busy Oxford circus. Coffee was ok very small cup, personally wished it was served warmer . They offer a limited selection of baked sweet treats, and they do serve a few breakfast dishes.",
+      "time": 1746343587,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:22.024Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0CUcSobdkgRM2Mz_ZJTXgM"
+}

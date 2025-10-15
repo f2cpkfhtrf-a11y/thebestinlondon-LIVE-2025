@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJQ0J63lYDdkgRBH2RyfP-ezM",
+  "name": "Bentore",
+  "formatted_address": "10 Harbour Exchange Square, London E14 9GE, UK",
+  "vicinity": "Harbour Island, 10 Harbour Exchange Square, London",
+  "rating": 4.7,
+  "user_ratings_total": 405,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4982932,
+      "lng": -0.0159499
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.49991103029149,
+        "lng": -0.01444061970849797
+      },
+      "southwest": {
+        "lat": 51.49721306970849,
+        "lng": -0.01713858029150202
+      }
+    }
+  },
+  "lat": 51.4982932,
+  "lng": -0.0159499,
+  "formatted_phone_number": "020 7987 5444",
+  "international_phone_number": "+44 20 7987 5444",
+  "website": "http://www.bentore.co.uk/",
+  "url": "https://maps.google.com/?cid=3709839041081998596",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:30 AM – 9:00 PM",
+      "Tuesday: 11:30 AM – 9:00 PM",
+      "Wednesday: 11:30 AM – 9:00 PM",
+      "Thursday: 11:30 AM – 9:00 PM",
+      "Friday: 11:30 AM – 9:00 PM",
+      "Saturday: 11:30 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dQgsnMzIn8kpSWFYvBGvFWQKWUkjGMqHKmpYx_Q9O7Roy-paS_cdXTGC2TDRQi01dvZ-lgakY7qt12xguaYiZGU7CSvKeM1UMGOZQhAKn58or9Sc1ZWIu-lcFep6s6mkIxVvj2WEg-W1NsX_7abggluyzpkgJqDSQiikO2e3SFdUQB4K-jDjzTJCdNRN2HndDpu4eQpwVWpVizTutFN7LMfByGkHIUjTTU28WP1Cp1HXSaC8ggiscAaFc3_kswPMCvkiR4Pll8UwLMyNZ9d2f3aShEF3eW9lWyjZAsjaiWkb2vAjmiAVHES3G1m2ECVj2GqMBIHmJrjKNVGxms6V5XSVMihNsCDiuukLd_xiMQxxRmdevMoRxhft693gQWx0nbkRWSG3mHR6Qqg4MQtpQ54OlVESOAFY5XAuN3bE_KTyY",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110094184705116525420\">Rezwan Bhuiyan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dtATzS7Vs8a7-oWkaGQgIuQ7kgv399JskrnT7G_ilpCvVEQGrKmvwqHFzpDwPDSIYLcj2vgAJYC8lX2bQ5nbbk8xh_cTkmYh-Ow9MgtXZsBnuySDkE_6vz5ClceU8VUy_CW1wANZtCg4Rm-Vlma9iSPiAdBIMhJOw8pPw9JlqTjQ887mXw1wRWSHjO-Cq9xt-6nYcm_KU2k0FW8JaCH6O6923pXPuhJuEQq2jP-VahNyggOFuREn0wBNzg_cJcCh5Tjlu5FrqISDXnExA-l_7unzssHhj6HNoj2T-kS-cDag",
+      "width": 4193,
+      "height": 2359,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106967299403748463255\">Bentore</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2coZ8YqXCAo6NNy393DugIlcv6J1vXucQqgzFONLKL73FYR017PM6ejUKd32AFN2RTngHAWKLAhWDQ7VTCMQkltnw-Udx9KzYuRKCvdaI0yFb456WaM515xDcJAQqhPoM2lEXBIiykZe0mGYyj4rMghD6XJXOlmwQj_m-ZBTwXDoN-pZaYRnIIxSe3DuCFYI-uHRQCbS9HABvX23KlzrYvIBBmIKRKQ7pt-C8LlxTTC79ta5eY3NQp5SZODsnj5RE57EfNwnvdvluqVjihJeZW8NQEnlCJ12alzN5rFRg-4dxyJBjQkx82hlvAkOXaRkImhuDCi3P8bET5wLuUuYmY2GgITCP_873xsPfFktWNNNsvxOgDEDb2MnDWqJdD1P1Wr3f8PvAZe6q87nGnz8dUW5z3c-nzg8OH1lL8A8Pqz1Gh4OmnxO7YTqzIsifG9",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107479461668534451068\">Raymond TO</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cf6JJnbKOugJM8Ub4ij212BOPaAhXTQmvW4aJumvfmmz40Qu-TkM2yzOo-LVj0dBOzrNiaZ7xK0wWB8SSUp2MgIAWUP_eYDp_RWbjdAIZ7C2qhuv7L8xhIEcVUgDtJjZki1oSRFe9d3HTji1OoHnynamALUtH75oHEs3vf0Nv8EnJCWobevPZ0ioDqWD-Xi_6OFtDQtixyJbqlzmdqnqoX-w9iGcjUCT9gDrQvsvtSWxErPVI96-W8ahmHsHoS4_e4SzTJ_oYydzM1SWNnzkKD3ZBjFz02u9Hjz9epMH5bZw",
+      "width": 4283,
+      "height": 2925,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106967299403748463255\">Bentore</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c0FS5-0rMV9WWWQQhLCdLweSuFOlJuwSwaLlUQZWFRgzWQ-j9S-wnzdk-MtI8nO7PZ0nJYTteVgn3uQvFBRSpAUvxVENhK2W2mHQje67cQjWMQsYrpeigG4bNx_hScPFVclLW2hf1jcHYWo_77TUeyIwJ1J7iXbymXN8VPXPT7GGH-vTmQSQwfRe7gtF_E7u8cimOuoR4Mkli6llPGbPvROc1mD2dePcZiPBrJ_P_dHxrXDCTOl_wMBThKCncD7aShIgimW3KwMmb3MBY9Q9LriT4kYs9vUceCYSdXBvx0v-2tIAuRkmvxmHiV1Z9-cGOB87kKpTbGpHcBTkK6Bpv7oAN-3DTHJkMf9xhkyo_ogdeThzT9XpUaybJqtd7npiNvP9GahPeoKS8v94qEojbwueO0gkvkIGCOj3M8m3nbcGxDt2YUL9TBgXxmfIfD",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107479461668534451068\">Raymond TO</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eXiOMjfIfVFcmBZL4Hg-EQR5IF6JTUuY7nFcHSPGMyZKd1aHS2eSWOrpuL7Y_BInuQEUdelnrQqgEFLmWt81aFUVSxJ6TE3wfFHdfsAxJokr17XBf24qHYHCEahOgWya4Bbs2zDaX5N_cK0R8MKJ41wUy7dq2fI2APGQwNdjOOIL7IyVY-_zpror3h-Lm102J_roL6M8jVgfOwgH7gIkGfEHrjT-n6KX1DvdM7KKlLnteSZGL4MOi6QkZUyQYZxEwOOoE3bMpAw6Oc5oZBkZIGBUD7KcBCN3R8J1IF2vIYgA",
+      "width": 4093,
+      "height": 2686,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106967299403748463255\">Bentore</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRmC2HZDaL2I9ICPQGqJ8gqRgfX_caZ0ssi3NXVk5P-9UcT0plJmQmuBmDge7fpTMj8eZCErZAuQrMH_7Q3Bs-esLmaIcaMb6RWewaAQqCz9cWAGzGCbt-vH1D2pCUm6POChos0KR_TRG_EYCbCLmvTNNJ8xUweUO18m2ExsWS_7ttg4Yikl16hc9nkRyB2pflmiXZafDMomMFv6_ZVm1ICkTbNW7OZObLs9_kTaF3Pjk7ohiLYmnwI9EC7nVrMqBhMh0o5Hf6qqvh9jtPBGKGbp6KQe-FxN16MakTIKylsBpS9-OWxL9bHw7Tk7nn7FEPJPus5wpQrVuyQn5h2eOA4hBK8X9sO9wuMnzedZN8tpUU1GUudqwUFV0-TsmFrj-VQ2T9LgbSnxb7PS1vj0E4-V_bswoHdcKlDdm-5zz9ca4",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105926548881044395573\">KANG YUMI</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cPsL8WfsmpMUx1vAwEKUOf6DFQeWJFZMmSbiQqnl_HdPmU0wq9I87HLwGrCQrgh80rEYXSlw4mrQBxicKxHuUybfmmCgd8rsDTbZGie8Vq9TFlMIccdl0txgBfX97ohqTJaHuO4CID-ohDYpHjIt5OwubuTFvdRAyPQhbEGKkXLLisV7YdCEvGMu9GzSaEyo3ke_M7-TwA2xvEhLS-IByJ4fFkw4MgeQVrrWi-b1kDxi6HejaQQyQlN7KnoZhDlSKkNn4mXI9J9gFMqvfF1BV6v4nM3AeKmZsoJwXG4Ax2TA",
+      "width": 3977,
+      "height": 2752,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106967299403748463255\">Bentore</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enbJ6SwGvo18FdZKgFlUciR5cVuox-BD7b3N83bMRIIsVvNKpXlHbkHSlAAI3d2yILavaIMsIcmCHWx2tHwQKhFBtlckIEsJnuZMW8HDc_KPqodkFvJzv25Js-0Pj0JCyKx8z0oavgb2JW_Qlnzvgg_ymr4k6eWlOUn0HVcM2Z9e-wK00cQYkbKf_0cgJCS0Kck42iHr0qsERn41-_7N4DoTtR7J45XHdIbGmqRPGoWXamkZ0joIQKtc_-Wq-usyL1DzS-LtnZuMWJdDmKMk0qyLneSj4Ad2gN5D8HjxtyPw",
+      "width": 4133,
+      "height": 2869,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106967299403748463255\">Bentore</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eApAYxRnAdPtK8tP_6gmfDN3gqgQxK9mbBnUIj3GhnIHZ7dVJtpZXT4pCFlWZgR0fBHMghGnYqdSaSZPh_5haDK2Be9esAeQFuuvrVusR3FN5HyaQMBb_FiuNIpz1MWfPMF0imsF_P_iQM3uHUzEUDyWikA9A0Qu8Ikpgl9sbxVNYGMLR10fvSCP0n3GRuZJtUrqjKUXICXqpFGVsn9p0DyfPHzCtJLy2nG9pXMdS9y34YIPIM4rZfDEYNDiP_nvfGhKavSyisLnO4SWIyZKgU_MSUefnteT2gcqYExn7x5p3wyC-l92wzlmhloZosKgmiY_NQtxF1NYIDT6hy-DX4hd8GzjYDTObzmMk4QCJsn_e1BRf9jA4qfQRbTEjTR2OqZdyZo9Jl9LzJzAnczWIDdu9_LfY7SYPkWC6irMxhXEI",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109073489215198505676\">J. Q</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Digital Vision Hub",
+      "rating": 5,
+      "text": "First time trying Korean food and it didn’t disappoint!\n\nThe hotel recommended this spot, and I’m so glad they did. I had no idea what to order, but the owner was super friendly and suggested the Korean fried chicken — it was absolutely delicious. Fresh, full of flavour, and perfectly cooked. The service was great too, really welcoming and helpful. If you’ve never had Korean food before (like me), this is a brilliant place to start. Highly recommend!",
+      "time": 1752518209,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "W T",
+      "rating": 5,
+      "text": "Surprisingly tasty! The atmosphere is very homely, quiet, and the view of the dock is really nice. It will be my go-to comfort food. Also I want to highlight the beef is not overly sauced but very well balanced!",
+      "time": 1757977396,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Mitchell Penney",
+      "rating": 5,
+      "text": "The food is out of this world! I’m such a fussy eater and the amazing man behind the till went out of his way to assist me. It’s in the perfect spot as well! Will definitely be back! The cakes are incredible!",
+      "time": 1748607500,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Rezwan Bhuiyan",
+      "rating": 4,
+      "text": "Bentore is a hidden gem for Korean food lovers, offering a delightful mix of authentic flavors and warm hospitality. The staff are incredibly friendly, making you feel welcome from the moment you step in. The food is fresh, flavorful, and beautifully presented, with classic dishes like bibimbap, Korean fried chicken, and comforting stews. What makes Bentore even more special is its stunning view of Canary Wharf—perfect for a relaxing meal while taking in the city skyline. Whether you’re a Korean cuisine enthusiast or just looking for a great dining spot with a view, Bentore is well worth a visit!",
+      "time": 1740776219,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "Clementine Imparato",
+      "rating": 5,
+      "text": "Loved our experience there. We were looking for a Korean restaurant after realising Seoul Bird in the shopping centre had closed. This was definitely worth the walk from Canary Wharf. The owners were very welcoming and patient as we decided on our order. The Korean chicken was incredible, so was the bibimbap and the noodles, so tasty! Order was delivered very swiftly. Prices very reasonable and we even got a few extras, thank you so much! Loved the place overlooking the water on a sunny day, we stayed a bit longer after our lunch as it was so comfortable, clean toilets also.",
+      "time": 1739947491,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:56.527Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0J63lYDdkgRBH2RyfP-ezM"
+}

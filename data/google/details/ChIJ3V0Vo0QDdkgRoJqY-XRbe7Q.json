@@ -1,0 +1,242 @@
+{
+  "place_id": "ChIJ3V0Vo0QDdkgRoJqY-XRbe7Q",
+  "name": "Wagtail",
+  "formatted_address": "68 King William St, London EC4N 7HR, UK",
+  "vicinity": "HOUSE OF FRASER, Underground Ltd, 68 King William St, London",
+  "rating": 4.5,
+  "user_ratings_total": 1269,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5110508,
+      "lng": -0.0866166
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51233758029149,
+        "lng": -0.08524006970849797
+      },
+      "southwest": {
+        "lat": 51.50963961970849,
+        "lng": -0.08793803029150203
+      }
+    }
+  },
+  "lat": 51.5110508,
+  "lng": -0.0866166,
+  "formatted_phone_number": "020 8161 4442",
+  "international_phone_number": "+44 20 8161 4442",
+  "website": "http://www.wagtaillondon.com/",
+  "url": "https://maps.google.com/?cid=13005088906924300960",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 1:00 AM",
+      "Friday: 11:00 AM – 1:30 AM",
+      "Saturday: 11:00 AM – 1:30 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dq1tNHS0wzGqvxmLyaJ4hgi9VR9rwdl3Tf-1ebxWWXOessjqzIp4vQWLjgBxKYmIkoG-nWBv2PbxXun-DO1vjuvn9luQvPZygkjEBXGBcXAgzR6NPmN4kHHBpok8dXBR2QVoEKjnCOepBf9UjY2NgktPTxgNnz4YZb2zdjg56yJY_Bax9Pxj_K2CeHLXoshAfD-czGU8JIr_TrAKVueJTmsyNJhwaD82bBE8_v4zwpFIVso57j3bmn6U3puaVlEHRdF2Z-W033qvVVCAswW-_wIWqzgXRDkUBN3PKF1xrQHw",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101365206707082497874\">Wagtail</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c8gvyz9t1h46ZGWzcVVybREVUZavj55gI0Lw4EAm6U_FF0SgzUVHV-ZvVtSUghsAP_-2OscfkXNpHdOEq1S1ZU2AlCG1ojLH56i7KPdcQnrUeL-zqYmeeaCV1xy_lx4k6Nyypy9v9j_0XyiswSuYbxZM707PxGGtMYATFOo4hFjXD9Fy2SpU6rLN6T4uDOUMXVo3QQVJcGMW3Jec7z50C61DKV4m82tApbbrUaeDV0-BUZhJCLIGQovR3gQnKNQY_-pjy_E8gx1yy76MtPYLY3KFrxS1HtOAwyYgK7bPtDCQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101365206707082497874\">Wagtail</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHki1OANaklRYtylgKBlbFUURKvBwFAm3BasgHMjfP_6ZQNZ_OnsZgX6R7FQ_RBn1yUsRHlb_LM6rm68BZe0xfU9OAlFFlWFK6jjrYMx8dmZTqxrc2ftWZ1WmUSfn5cg4L0aPnbPp-RRrTAj_3ulh06P37iv34jioFJ0BrLsf920ltcMtgjJVDMyzyMHoDHujUC_YFdIy0GIggaXi778VsNff1CyzGotHB3s0iJr9Bjzb5h7Rpnphi2chuysheWhGOC7QS5DVSQKhY4aL-Cf0Yz43M6yISxaGVx10JgEM1pqE-n8TePM82pw0aZ7WGveAZ-vTl1dGWhdEd8OQKSEYpNx3RwqCnycmjktJp8wbYxbxRIuXu4vzT8xjvTG8PPyYWfmVC5mtUI43CkUmvmh6awjHz6VfSX__6bC0WOSKHMf-9Or-_F6T8EG_oP5GM",
+      "width": 4800,
+      "height": 3614,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106146224970294437259\">Rosi H</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d6GFvSaVLcswx97olg6p_EBHcAx43cwAg6OwXCPBRH3-V7wRD_POjDivyy_ml5x-BiMVT5Ssusdn_tyPSH678ZdAi6e_I9hAdTJneSskzmr3Yt_2Ql3N3MxzGZbRvGqeuZx7UUCuR96vEvX0By_mDeCv0opmR6px668RGKz7qmJpLiZXDsYHN3FvhE6XBfSGvSUonIlRP_W9wqyxEgStL6RWBITaCCndEymSWP7MoSQQwZg_Lr57Coo5iMN6am0iE5Q0fNX4SwHtF7dAIejQR9LKROEUsZDXUwfvRHrkvx600Lkl2qZ7doV89ulq8As95HnpYIg_-GizlHvxQQNSvk6J6VXFjux0p_Ren30fS4F5cR_jt3eFeKrYQMrGmJKO2WAUSRDqK1qROFp5IwfnyHbHV5dP5imaeu_c3Wgwffc1ohJ4o-1KehcjRdfz9m",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106373285384731579045\">Janet Tilton</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e7djbzrYaBbHaORRU5zEpNr4t_wdkN9qoekg5xJWXl02RFBGM99zW-7TYtyyjcNB8VouwtG9h58Cj543hXM_UE2tABL4VmWFWtUb2bJ54NtEuwxclejQq8eIxFQ3RnUYCZN8Fo9Ddm-59gNrSUc30isicM6QLfWrSelTomWfOe3Ht0Cf3QzdYGmylCsxsvruqL1w2719-QyESAUdc7LsX4KKvGKFpaKsXPrkrmPeuXgL-CAp9MmFw6v9QZRJJBvsNibbidbOd7dKSlPX6ZfiGRYea3iYcM0mMLcwxy_d9phA",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101365206707082497874\">Wagtail</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-spPtjzOTwe94Kbs2-Dox6_pG6VjjUAGpsEZwWAERcbzqer75YM605wOiLTcXXia5vWii-ebhfz6QydYFRtKIMLHng8rkNQORuOGGjMXmd2i0R3IfzL-Cja84aZbqXy4kBzsqASwXevX-hMo1reKs-0RcrfNdCs4-Ao4dxoPNQSlYwAAtnZ2bXpw4jon5qtkgEGTD6hcTL8fYUVgFBYAMB1XywfZg49mHfnfjjy_-pX8PZ6Y0VuOcsptSfvkVmXOlb_uRxqi051bkF-1YBuzL_KWkxW0Q_0QGiDIe3u2jbxtjNj-QZBPvJe5Aaixtw-XCQ2zlCa9z2OwOk110GQVY-EAAOsWR1CTO1GbIuDZMWcCobnqQEBizVhbFpuIfMtyAnDCQoUkY2R_eLK8NfGtx_gSbAj6KrRxmBnpPOZh254sW",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104503278044439092766\">Natalie Wilson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsr-ZCOBLcuJg8k6y_Aw7RowOHozoRfoeapNntSX4w6mhKadMBvXVPW61UXRtnSIXJfBfkd1mj1eUA5QIgcaNj0whIELuNZPKuYocm590Mb2WoqGbNBQWGXmVtkcEPamN5CrI3md9DDmwh6KgBNbTJqQeAJzRNj54RnGIptKS9PrA0oAHowFJx2pH6y525dtDYa8axeps_HM8HP1TbtgOyiy3EypMCPgY90qeksul5lFO7HCXRcBeJ2sC4wc_ZHoKokqtEI2hHML4cLdruuFZ68CVFz5Lv7iic_YqzVqcwWsfr6_A7eCgrQGm3HLStsjbgUwRClIXDE8dSnsEKyU0UYjsop86Ji2Gg6lVznDw_5QxOmsccBz9iIT7uDIU7YEJRigOJZ-k_Zb5WeBuIqLps-Nc-pK8m2p40QqMzArDPlg",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110933864131488643493\">Rae Zachary</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTiEaIC0sACu1aZ_B2pUanWYclTCejYfYL-drFFpS_nBLCrJx-l7vqoRKTyIG40WAiyycuucNAGt3WKFPcQMhTUjY3kUudF9lULyxCkwh-jFRwvfgqHLv3dallxaY5097w1BMomVLJQXKxhqskg-U_g6qAOmGq1WVnA7o8CQzWLMQ1bkopF1Evnc53YjoVNI6x2T4soxCPPJeMSnjhAgpXGFJb1So3ypHfiAaDSc_xL-CcDEsjzIym_eAgZ94hUmak30uXy_PanVoZ8zEfTUz2kZpAOzD_fTuZVAcsTagHXsoIPuFca_aNW7XOWUs1F3QDt7bk6qE98rQK_eCK6A0bAz9d9IogAAlMMXNQI2B2ZiQmazC2er93WnOhKFDKIaU0IJDrRNXu2iuGJEcz6PQTDy4GQArlZ-UhfDNq9QWOnD15uxzvwYCF3Cx551c2",
+      "width": 3840,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112502844271909608174\">Lize Pieters</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dd4bpy1stebgk6UamxNuFsFjAH81MMW0wqj2whVkq5g4NZwDoPL2rvO4EfTAV8WGy1VpWzlxv1TuWRnB0DaCEeo0BaoI-N4GiPK44Mgn3lz6m46uDSS9-sKiBDcf37cuumn7HwZDucLO8O0qPlULFZ6ZeiVUD4wEfCA3-k_-uPvqTCM3TCCYEnhZm5B2dF-nMTIeDgQzMmxw7PIihwq1VsZig5ZLEKlB3UOrnJJPz729cGgpL-i_unoA4vrMf6VNNtQNl0o4XGRgd0gw0VT8ufmXsGD1GLjedTMo_Jfs1_qVRq_j3kAGCVtWk05QcARHiAXX8xnB5AGMGinqGVym5XqZB7mbPXnrSys2V0rl0l7E6B6DyoH9zJyGxOq7xajQ3SXWqOE3AWFL13R6tSgoMxL3qpnWjHjHV1UtLGFPQQi4_skEEMITeVL8cYkbja",
+      "width": 1600,
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106661329975748370862\">Helen Barnes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2doIKEoXYUabBzQba0npO4xI7HKgtsmeYsbTM_XbCoHsjn5ArEAXycHTR2Wd6n4sYCzY1TN4CMMbTR7YZGgrwz3ZPJCB-ieg8aBouZxgZO2ca3UTfrOH0Fqld6Wu1adAtHHsbZvZrP3zoeTNQV2usABnuHfdBtnEisK75J3_FZlrLr5Gk7V5PIeXUOA2hIEtDI4O36QFbejglFsCgWLW8NXWz0pWL6U8JYf_faO0hTo0zPv964qqh38WntUEEEFa93UzgFmn0GezsHy3_5AlQo3WOGGHlURqHcQSwhPQZ-ctL5zuuyrktTQEuD_DKF-4XNlWWPpKDH-X_3gRc0wUe3mxKHsUI-B3ks5UyzenlC0gKtkZfnkLc2nd6fbZevoxu9IRrOKFapPhrc1wwi7KhPswvM_lBxENuq67JLaFrhR8k0rQU9dAszfsZranryZ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115220833312756910188\">misa vavry</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Upscale locale with terraces & panoramic views of London from the top of a 1920s building.",
+  "reviews": [
+    {
+      "author_name": "Fyn Simmonds",
+      "rating": 4,
+      "text": "Been here for drinks a couple times after work and on the weekends. The drinks are GOODDDD 10/10. Recommend a pina colada, it banged differently! All the cocktails look really nice.\n\nThe service was slightly slow when I last went, and we took the service charge off. The staff didn’t really seem too bothered about taking it off which made it seem a bit weird. It wasn’t busy and it took 15/20 mins for 4 drinks to come. Only disappointing thing about this place to be honest.\n\nAlso, sometimes they serve the drinks in glass and then other times they serve it in plastic cups!!!\n\nViews are amazing! Worth a trip if you love cocktails and really want to some stunning views of the city.",
+      "time": 1759816294,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "H MARIA",
+      "rating": 5,
+      "text": "Amazing views and decent prices. We visited on a Monday evening, so it wasn't crowded. The waiter was really helpful and had a good knowledge of wines. The fact that it wasn't busy made our visit really relaxing. Would definitely recommend.",
+      "time": 1753768922,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Hazal Erdil",
+      "rating": 5,
+      "text": "We had a fantastic time starting our day with vermouth and cocktails followed by the chef’s incredible menu. Denise was absolutely fantastic in explaining (bit of a complicated) menu. The vibe is amazing and I must also praise the music list. Overall worth every penny!",
+      "time": 1753529241,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "misa vavry",
+      "rating": 5,
+      "text": "The food was fine. Steak was tasty, some main dishes were the size of the brunch portions, though we were told they were main course size. Champagne 🍾 was flowin,  and cocktails 🍸 were perfect. We could not dine in the sun but overall it was a pleasant experience and we would returned knowing the food menu better. Staff was were attentive and friendly.",
+      "time": 1747498984,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Janet Tilton",
+      "rating": 5,
+      "text": "Roof top bar with a fantastic view. Very accommodating  servers. You can see The Shard and see Tower Bridge from the roof top. It was a lovely evening.",
+      "time": 1757538599,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:41.505Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3V0Vo0QDdkgRoJqY-XRbe7Q"
+}

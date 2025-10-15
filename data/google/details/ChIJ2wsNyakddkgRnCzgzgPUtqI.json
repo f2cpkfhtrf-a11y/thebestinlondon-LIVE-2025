@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ2wsNyakddkgRnCzgzgPUtqI",
+  "name": "Babel Grill House",
+  "formatted_address": "40 Brick Ln, London E1 6RF, UK",
+  "vicinity": "40 Brick Ln, London",
+  "rating": 4.7,
+  "user_ratings_total": 1402,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51828709999999,
+      "lng": -0.0711429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51959893029149,
+        "lng": -0.06981326970849798
+      },
+      "southwest": {
+        "lat": 51.51690096970849,
+        "lng": -0.07251123029150204
+      }
+    }
+  },
+  "lat": 51.51828709999999,
+  "lng": -0.0711429,
+  "formatted_phone_number": "020 7392 9675",
+  "international_phone_number": "+44 20 7392 9675",
+  "website": "http://www.babelgrillhouse.co.uk/",
+  "url": "https://maps.google.com/?cid=11724791792726453404",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2co3wQOxZZ_RO0udUAq06EuZGXfnRa8YKUF3LaAQg7MxFvD9tfrs3P3mhY9buSZGoFd1FbRKSQ__RI9vGSsz6zNmP8H3mVdBgHochfYLn_OsMZiMWclxCxbNSkWGrCAUN5W-D6l1LhLTKHTOAcLYwba5QFtShJwYuydJLDTp8PiD-cvI5XDCkAd_eMaasI7fRRTAAk2YMsmv2mQp5_rV4IXC9kiq-iacf6QQcdOuMD5WTCEPWTv1oMcYhhf42zz7be_oARiUyiuoyW_wvcyfqrtTI-WJPZLchFyJLLIyGK9-A",
+      "width": 2048,
+      "height": 1367,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105070181584011950839\">Babel Grill House</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fMxyn1-KUBsEd5jWI70B_Ee_2BuAkLEzQrOgbieORdU8dLe2N6kMiQzsLK39BqRF8BjZb3SmUgZKXPYlZ7WcN_wHX4gS4nnnwIF2V4sb1QsTIXYyj5fI-d03nkm9YwaKiYEDuPMmHs2UPlvODBpjwEyXlGe9FHKCs-6YZ3UCooipZojjJo1Zf5cHS-lUZlcWkBG2tseMpLwbSVzOWXevES1nQx2VlTLswBte9yXcgzHOtapNUxwHt_vw17oNAKIDXnwpP8u-wUxAZUIALa6NkWifrNuKdAl5JOvaHh89fETQ",
+      "width": 1830,
+      "height": 1298,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105070181584011950839\">Babel Grill House</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fB6KdGf-B15DxwW3m_j-afaP88PZElNk5i5Op_DpnjAQwqDPOKrZiX0BAcryOZ7i_LD8E3VCkyEM_toAz2mEhDXGhzpd7ipJFIYtYFOPJip6LwPN_SZD-eikBYb2-scosRIzc40Y1-pycBvRWCnRaN0OtAP6md2sAkBf9vwgmKu2e2_F14Lxb2_SK9MkQ8dCZkjqT9-sXOFnwK_W4DBJiVE23LAw4ptOoMmOLj67n0mnksodUAORokzb0Men5iUjuDhiXGGP5hBNSmGeq6qJgEMC4xEJPPG6bLoB7eawD6NBN2GC-OpPpnblATRzCPykXxEcrrMRc87cV9p3SrabmTOVBzo8wx4PK7tVY-XxOy5Ydyk_M8Bl2vGTSWYH22boCdio23rlT7f89tQepZ4DUL3_YhtTTzaNrbQaoTec89v3r2B9VOHKlwe--AOefW",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117005853706148378242\">Gastons Gašpuitis</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fg0aehHNfVUw03TH7Nxx24ZP4L81XplrjK7DHsG5ueuZDA2iXyj3E-ad1sPyOPZoNuSwyKwonAVQp425uZ9a6tUfIRaH2Rha0yDfq0UIZ12pw9l7zvqP7WdxWJopgZrUGe6y8dxjFlYszK5NBnQvbcMr07R5yp9qrh9m-dNjRzOZ6PIwx5MYJlFehYKHoxu_B1ADgZxb4LwW5wbOlRKl9QzjrecHYRoQyDYeZKbWB4y6xj381jHOQ1wiB9ARWfVGfrqE6IlZB-G6Q5ZL8YT7ADj7x3uDf5dj9e7abNlH2cZg",
+      "width": 1559,
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105070181584011950839\">Babel Grill House</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f9LrJzUgnClfgKcgTyaA2j8Wd0Tfk61_cQrnslhIA_pS9NnYYCeQEIhgVqnLajvpeDpIfrElFtol42zktcj_XITv93HhJUXDsaUjXgTmOn_1tJLVVEfD3q-SZkihihdGzrJreDfdF9aDI7VN14Nd8dB-vsyj_DmkFlvA0ZOAM5AuBazxp8YQilcsCNU-e61wgZ3Zqy4tm9HB78Lw7_O03psUYwAk7n6wes0AKkCB6iTdAfxr-_dOMcQPG0ZgpcYcUKwoLkwDMde5M_EDb9g4sg5oMFyYYBR9PJiyezQp2M22U_fE5ELPxBK__1bLrRv3UjJPCRo0dRLGOgP-0iwXj35PJULFmXKgqsqxIuLK02MFPblIXr1xZ1foNSzJUrpjI0X5D9y434p-u05UBpEwvXHayDzfcxaow0EH6eRbCbL4Y",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108754777508767470222\">Random Explorer</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ftbbKGeKZDVvLmaUHMgaC3-E-iyMfILeBQOIDgW4ljDPghg6LYYJ15wfHtl9Ei4nvT-kDAb1ABa4AuZlNDZ8FRcFzjKbmv7M5tj1ISN1FTKk-ELMj46M-WPBi51mph-3BxUn8TG_ONUdQgv21Mf2UesN2tbvyB_59FWES9wY3xCOusjNjlDtWcMIzLcReX4GL9MLKGHjhf234WLu10uW_B20cMqQ_VhBiaSnMVgsJYdNbKBoN4LbstL-Cto-wvPRrwEcFNrTpVZJdRBzF7WR8Kb-w4QkNbNKgdf0Dt0391kswL-HhbnMEPRGeyGh2x7dCYMDJSE87P4NrelRTfE2zb8APhPasYGS8_gGbPNNYJXbejINKOMQJ2bOqCbMstGDDzHFfvdGhnd7nQ_ZbD4CgON99hPTDXH9R0hsOaQs-_lGvM",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110472527630414072232\">Maria Von Foerster</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eAzXz5aLZlQ30rujyOYv9O70MoFMQFOicVDgEwbS2e4lTFCeO1c5pw1eUvTkjmNUn3y6RwVGJCSIideMPH_Z83hNtz_d_FMz3KCShrzQeKOhoMp2xTyCj3Spxk4D1yIaH6RYz5qEZJ1f6Hb9Aal9zq1piDcpJXuYSb6Aki0SKb8ZoGtAAOpxtGiq2DVRvNXymhdilHop00EIRtMYaue2z2GCLx-V4nRthjCdeLNebgwmNe6zBKFSCirYey7hHXN1WNqr5-Si8lkb3jpdNY7GqGs-NwlwrwP-EzL4PS8uQYb1qGJuUICQgRA5joL0gKVbytfJTWqVR6kqetT8SMc6XbEmnju8j3PjS3beZK_3cEqXpaoVyU8nrZRtUCAKfmCZCOJEwWvX5uZoM8WL6Atn4Dr9gdBW7qDMc2P9lpUljOBw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117543368158972456384\">Abdul Alim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cCNIiaSzmHkpUiTq0p23G2YOqeY4oXgOzTCO2SjF8hQ5-4BuoabNj2Q2EINYK7hkV5JigNO4eXDGDxEjU2pzn9sxtdoENDAhygMgrlJgT4TqKqCuiAzu3m0NFsK3SLBoOsINlaEM88N0xG2pa9iLflDRyRDKGM4t482ubQxO48E3OPKlJCYefon6LT2AEqWDyqZO5DmRGGwLHoWGrteOXD_4cTAmK6r_UtjpuWmBY3aUk__Qj7AFen2KMF6i13NL3fpXiS8PmE7ayCuWK79QLFzCDdOPhdFR6p0ltM2E11wcz9jIGZWfPWPhMf11gx8umwWL3hct58VCAcJ-j3Leq9tdRCtp-RpBmk8N5ZGIzBrCq_7UIHuvhwX9oelCqdznPo_0PxovyU6SRlG64lk-iyUh_N4QvwU0-5pLnsEe68mYub66k8C7YCC3eFO52d",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103414562580357333144\">Nazmin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eKHW-F27olE2Er2Aoyq7131e_AMhbxNAIb8InzRW8TGRpoW_7p6i1bod_Y6OCBsNirHLbykKxsR8uhQE_FL8G1lEMeVFhy24yMqXAfcHoIt2iv7aCXRiamwuSEV8x1AvZRkTT0Rn1hdk94JPOF1tiVTfogq2GzIbRbKK8DiI729Y21rvt6S0Akq1F9Fb67FIIp77jc59EXxqpBhINqOAKSiwoHl-hMoco-agekgP0_GxfLJfs2hDSQqS80Q7muU7tR8eGnmRg8s_3BOO8yMfxiyNboidMgxYsP4Yu5_0WezvGsX8Yk_f9Nx7DSs9rUFUSUzZZUojBKiW9k-oYYlmaJ3NTludOz30Bdn1ywyWmxWSBAEqLjDJN2objYLVOLpQxg4Ey2YZSytQt6phD2OkECpsqEQx6YHHO-XixMwDdD0ywD",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103467760603697304178\">Ravi Mohan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ckOL1pcWgFfLUOJWbbZ8HFS0JNMjHvp5YP21wuPcH6XGA3PVGefz19xnU-c1LPqRKXszONPGMRXF0q5x398yw_D00MPd7eMFeAxT50Vj5eSljEhK7onX4lQ8-sVGq39NVihzgNewOhj9--JZjwf1U_Nz6eI4WwxLLqEsEhNk6gHO6lqp65Bq4yi-iKR2UI-GQxCcMCQBO09WwgUJVlV1z2724zqlhpfOBjlMuTt5QjnM2LvOPygq_R0M94boO4rO_HZJ37mZ8m9NykF7dXCfSz310aGSjkVqZokfyii9I6rF_3qQrR7ig6c9uu_bHVvEeTPi58CAJtreUSCaXzh4Dl7t8T_tIdfZUMeaxQdrCrpDdMxUITy5_ho--y7zLcAFwnjtS66uEyc5aOEYJTFIlvTbB_chUEOD9bG9qqan_Dq6Fm",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100284784615751398805\">Olga Pyner</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Lamak Haim",
+      "rating": 4,
+      "text": "Food was good but on the platter they had one of the fish dish missing, they did replace it with something else.\nSome of the fish lacked flavour so had to add some salt. The prawns were the highlight.\n\nThe service was good but a bit slow. Good customer service and mostly attentive. Might have been understaffed.\n\nThe decor was good as you can see from the pictures. The restaurant had a good atmosphere. The group I came with might have been a bit too loud (sorry).\n\nI would recommend this place to visit and might even come again",
+      "time": 1753224687,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Bivek Shah",
+      "rating": 5,
+      "text": "The chicken and lamb grill were unbelievably juicy and full of flavor, and the baklava was the perfect sweet ending. The interior is beautiful with its colorful lanterns and cozy vibe, and the staff were very polite and welcoming. A must-visit spot for amazing food and great hospitality!",
+      "time": 1757194737,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Avramescu Mihail Tiberiu",
+      "rating": 5,
+      "text": "I'd call it a hidden gem. It's tucked away in Brick Lane, pretty easy to miss.\nAtmosphere is good and food is right on spot: juicy, great mix of rice and vegetables and don't let the salad fool you. I wanted spicy and it was one of the spiciest I had in London.",
+      "time": 1758782318,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Ada",
+      "rating": 4,
+      "text": "We enjoyed our lunch at Babel. Chicken was well marinated, mixed grill had mixed reviews from our group, lamb was yummy, rice could be improved, sea bass was a little dry but tasty. Well seasoned food overall, just needed a bit more sauce / juiciness.\nNice decor, good hospitality, took 35mins to serve 9 of us which was ok but a challenge for a work lunch.",
+      "time": 1748699369,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "nuha i",
+      "rating": 5,
+      "text": "Wowwww this place was amazing. Cosy interior, really tasty, authentic food. Polite service, big portions and good vibes. Enjoyed a birthday treat here with family and would recommend to everyone! The best knafeh we’ve had.",
+      "time": 1758909896,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:02.524Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wsNyakddkgRnCzgzgPUtqI"
+}

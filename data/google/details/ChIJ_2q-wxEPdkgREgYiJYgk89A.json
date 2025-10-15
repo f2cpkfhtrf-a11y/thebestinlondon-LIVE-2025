@@ -1,0 +1,246 @@
+{
+  "place_id": "ChIJ_2q-wxEPdkgREgYiJYgk89A",
+  "name": "The Bakehouse",
+  "formatted_address": "232 Upper Richmond Rd, London SW15 6TG, UK",
+  "vicinity": "232 Upper Richmond Rd, London",
+  "rating": 4.6,
+  "user_ratings_total": 397,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.4613385,
+      "lng": -0.2188401
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4626425802915,
+        "lng": -0.217507169708498
+      },
+      "southwest": {
+        "lat": 51.4599446197085,
+        "lng": -0.220205130291502
+      }
+    }
+  },
+  "lat": 51.4613385,
+  "lng": -0.2188401,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.facebook.com/BHouseputney/",
+  "url": "https://maps.google.com/?cid=15056418146386839058",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c70TRGEPQIY-k6gEopwnmrwHhlsWvC5f4pAguEfudQPTC91ZRV3eMRYLbgsyBybrZAIxZLey6xmOSoyt5gO-KuBaZ5z7C_MjHYCrTnzqHIevFmHxFDaHBOWuhIELAeERgITwOHZP35b6yNsqALWTpNF2_Nc4rF12fO3CeOu0qJaKyyUkc0SbcKxEDkBdNQIjsSXvJwERKFuC0VLAdF4t8dkCUIaak1XhMuekXs5AjilmWd6hMR1RCaYPibMLICV-i32kudNC8-Br7QyTQWc17ZSE8ORKwXmy_A-A6BCC4DRyk_uVwlE-XoLt315Nu-qMS1XOd2QYTWK0NkyI6UW7NCqYu3j15iJG6_G2EHp8oqjjVAcxzIECQBdx6znyoWLBI7JFxcEDIYwCTvps_YYXZnOr5iPt0fNE_xPa_xcXU",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117638555231989253548\">Gaffer</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fkzWehSXW-T6sGM9prK7lA5Ybz0EI3jtCR8lnuOuPCc1Nr1p8w463X3V6sTlDiV60OxEYATOz17Z5QWbHmO7MdlvGAAVpNFEKM2fH9xuVX6nzze_H8-4c19LQa-Tx6uT642GpAqAfGbnTx5jVOriN2dUfGEoDA5al2NdmDNm0CHraa7dey-HG3_EYtQYn4fbZB8ji-SrI7QdAnQvCfIfu9WC76Rxma0IbmPvJoisree75TU3eBY5HpEs3COB4ikJditU_pmsN2P_A7y3L44VGRQ5M_1UJJCqwYskeZ1S9MC43JP5ewdcHy_fwAFla61nZh4mtzTKjGJOGJHMnzchuo58Q-xmi2-_C4exi5h8BwuA_z1g6E1fRWWOmuXMZagdk0ToujhZFbQl-t4jzXXcKNOAZ9Ix5F4CObtD0P0WLdbXkF",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108599301929173450748\">Renee Lloyd</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1Qr_D4dAf1MCnY0Wzg6PhzGsZHNryw89-9aQTgqCkFZokFcbsyZ90SCNOsa9HwzNpSY1rrW-qjf50j9dMEoR4WWZlY1yGCNRxEh84_EBr0XaTO2BU9D22Fw4fhypx4bOr3_JTm_2W9ef82e8cNBp2accWmGGUtsxcV9g3uYVR0iIESs0cQrvt_uEJvAaxHeoEDQRU9bkebV7rN3H1JzFLVCdXmpBxvkLYtOQiMeMwqch_lbq-RQn7-edyApmuYY3lyqgxbnHatQRP4Fwjg04b5_QwSzQZKakz-G3zUiFyUnk0w_du3ZXUoUQO32uqXhLyuXHd0W74Iq1tvgvtjrosQWhaIi5OD1z9w_26lxEeVCusvg9d4Cj0c2m9TQdeizTIM_5c2GqybD0rYnyHCJYdxx28xyOu8D6SihYWi98C0Q",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118361789575161015763\">Bilal Tatar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ckG-AzJiYIzIjn6rerr_qjKQCQ8qNOp4yQjbsd0cCbdg2ZVyx6CRMz1sw_4IOUzfMK8DxeVoQXj1IWoNTNZ6H5ekwsn1mIFCP3kOIjIzZgQWJJDWIOmsa3howhfKK5FUJ3-nRfx1y8e9DTDM57LGmY3ZAaR3hDwHreK33Hmh-TNws-Zkst2e3lwq_kG8RC0CyaiJcgmJ6bjK0FXFprzEmqM9hMtRSFkVSXJApcmKQGN-PbzWC_4YE2lVug3ddwzjToWaTHGLFECmh7wrXWjYOVWMUBjPDI_2JCGn9toNztreKODQq2L4VLzxynhQn2DI54GlktAjgIUefr144MbXKh2CjqV8VhLcG0VL0EvYy0b-fUfPbpIijNevlhRcdHweEohqAtFLx5fxKtHK44oSGb5MMPmvpt65vrm2-R4Tz3dFnN",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104212722969727601245\">Aaron Horn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0HbQ9XuU3_LllGOMYS79GotbZYVmpKF6qI5r8OJmuX_I8whS0G4ki9ayqLyOCwFN-g74JDFYENK55GTi_5ORzc7T3C2TEGldVIptB4mu47l2extzoJkW2C5NeZKqF-N58s3JyLDrKMY1ULfeZXRw34IqqSLkjk59_pFur9AvD9ce7c1ICBZh4MxwBgzEsA2cbtvhxRjrpEB8HBQUFN51QHE1dO3SoNOBtogI7mI0Np3CGweMqHrcrGeScA0bFp34xbvFPt2EmcgfK2vwBBJghLaNtFFo_TI3uaRuVgafSDRWVIa9y-tsV26IBPJP6Ijw9oT2Bu7wIPyUN6k9weRmCmFx2uJwsXOr0kmAWGQFvXY4-bhwjetrGrOcMQaOVg2Ml0uhM9c-7FYxOoQ-49SW6dyXZG9Qkett4cbFTeZ6SpQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101765831508087659489\">Modi Elnadi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cm9RNYgbjrzvG8QnVUBuC-WWptQLTnEupaCeFhF6xBAOZl2yQWjUC7CyMGlEiurMNkG0jqwOO6LauP1pcnPhl_fucciEcOZOJclBF3t587gcDf2JXzpByUJNg6N4tzCwA_JKB0KozwS5izvxSP8_k1pGdAany3ASZHimvn6INYxcz-vUQ2ettH4gmkJC9LSNcyf4rnaoxUnrDkYnDC0DNoEkBYEJ8a23W4ufJVjn-xDEB40uCyphdiruVwDsv6cOChbKs9mn-UX9fSX7fByrEnjeHUACQ8QfPE2sIpd1Ui0WgV7-vZxV1jLJMWT4OD85dnsv-7IZ2QfMlTv6NtF5ozcy1eMtwZzFX3q0bjAwPSupiibj-NWJCzvfK13xljL4u5lOt49svN5zgu4dNqSMGkI-fRl60t4HXK5qF8gU9T6g",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105589819209544173866\">Harriet Willmott</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fEccNneTzAc077DB-l-hmBy83rPjve_RnSHLwFVXSeMlvduCljnGiH52dTy5zh9cme8tntyySoPIM2LrFzFzN7y_JfBf67-TeR4f37xqbDxDRdco8VpvbeG3FcBPOYTNtdYWRSYn_ru2UVYe50LF4R60Ne6BNNUJzkluAG9uhpHO24eM7wmT_jLPRK3c0Od0CCjSUI9t-jO6mXW_71uZIkU6mmGj4kSYUul_IVKSPjraRCaPMxMeVgejR2HRIjqQt2xgEb_vKDuZdDJfOUmipH6fbA-oPVNxehQFUzTe96d3mYjmwUxLHRJcymA0lK-5CoB-8Y1o99ZTozOdkXyVpIokm2ZJvXslikfgbwzulLUnHvHzX7C3aQ6fWm2wLINjtpaRkXhk3Q7O3YbSygi0nYHAWIQ3uC4YaQnSWWnNE",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115834905058605616029\">Lubna SA</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fbR6eWvLb_wOdoqZugYL7SAm6iPeudlHd2RkFwWbudDz43Y9SmL17EyvPhS5dstqEJP7hUZmIlL61wVuSJF-vzl58nrCUBOHz7fhXKAL4StBLChUGSh13RnIhCChnRQl4NtQfKL0WF27Bfl27rEZebsxqXCTl2oyjwiw7sypxUlgSvE1hiUhtaYOjncYuVCC04i406Lutz2_Uz7TkyjFC6zAceHPsTSNCAGtxSP02hjQC4d66TuIXsmJrQAhyfMMZSOF_0XBw-emgmzGuxEyR9KkJTrlwh1k1lntqHO2HboWhL6Jt9X036PmShbtWN4jOcBV0yv6xLaA4xLrlNriSTeRbowOF4cQ5nwPzFgyYb88j0DdqZFizAjm5_oXQVw7VsHlgzj_1ZfKsbMKJKRuB4FlDAZQXOhhIsL1tlvVXcMNU",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104149558959912916177\">Ryoma sugawara</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cDX-k5xMMYmfPcjNdbPQIHzGOodx4B0gOZdQCkOsIsHk68hcCJU41dv5UcCp4wVL5Ki9hBw4JjJU_pVKYe-lutnL8q_wTrb0wPrITamNZiqb95IwLyYZMZk5rOPbMuBZdGk965CbfNwRxG6erIkUC0rNA3n08r-Qu69_SAqam5DzCrHHgf-J3zQSdILMWNXnoo_Xt2Ou6Wo-q8bjcCLUl7-l_RGqzrVC8xWjLh5hhvBUc1mkq6aSredN7M14Rj-kaOcl8NtNukjr6U1cXg17vPQxrjtbpRnBZQaqixMACVXXXXm8b5GsKwJagd0GaPrbwwV9Duqy9zSHiTLFIS_5aqwIQ5wf07os46oYtfj6gMVngRF5sNf2kSecO8W5RYh8G1cjMhlW3NiT3QLwWlkJDRs4yuTMbTJU_E3FIJw7I",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104212722969727601245\">Aaron Horn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flDYwlOlzMb-UVva5aIJCGDrm_iBtsoDrGKT-hO_DKTwJ2OcpseaT5G8SXx9T-Sc-cT2ZB6mfMlLJ5xeM4Bnfz5NtR2tvawNKAayLk2H4et679-4jw-_kGIfPS7HBonTm2dSrnF8ob9uA95Yxhlif8xqerAisTztO8Qi7DYE2yVKEMQwq3wFthj043xdmh9QDWGkZ7iJm6_KkwFn5w50sEqtxFpUAZf8-akCexvFT2mty_SXh2R6Ti4DnI0rW4JBURWuR9eeBpU0v9-eblE-oaY90YGsdm60PlXSBI04UoxznQmMj3BBJfSTySiw28RpxhOLHxo1fE5QubuDrz4ks23HFkz-tHSNd7kTDe9rk9HAdlN0whqT8fdcGV_Dw2pmHqUPyVsFc1RVXUMYtO1-bYWlFSmtaXqXYzUbxmMDU",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113299497283368669719\">Vanessa Costa</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "peggy lin",
+      "rating": 5,
+      "text": "Very nice coffee shop, the coffee and food are great, really enjoyed the time sitting at the window seat, the people are great and welcoming the customers, everyone is friendly !",
+      "time": 1756213515,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Emily Gerrard",
+      "rating": 5,
+      "text": "Come here pretty much every Sunday and always a great experience! Tried so many different cakes, pastries and bread, always so fresh and delicious (their coffee is wonderful too!). Staff are always friendly and give a great service. Our favourite bakery in London ❤️",
+      "time": 1726430586,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Harriet Willmott",
+      "rating": 4,
+      "text": "A little bakery with good indoor seating. The pastries and hot cross buns were lovely and all the other products looked delicious too.\nWas slightly disappointed with the disposable cups, plates and cutlery even when eating in.\nWould go back but would probably take away next time.",
+      "time": 1740607015,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "Joe Taylor",
+      "rating": 5,
+      "text": "First time visiting the Bakehouse, we have absolutely loved the food! The Tiramisu Croissant is a must-try, not too bad price wise as well.\n\nDog Friendly",
+      "time": 1726915985,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Zuzi",
+      "rating": 5,
+      "text": "Lovely friendly place with delicious pastries, breads and drinks. We sat inside and had a coffee with the most  delicious cranberry and brie Danish pastry. They have quite a good selection of cakes and pastries and a few others for the festive season too. Highly recommend it.",
+      "time": 1703242164,
+      "relative_time_description": "a year ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:30.143Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2q-wxEPdkgREgYiJYgk89A"
+}

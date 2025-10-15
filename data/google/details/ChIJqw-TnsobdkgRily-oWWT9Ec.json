@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJqw-TnsobdkgRily-oWWT9Ec",
+  "name": "Turtle Bay Camden",
+  "formatted_address": "10 Jamestown Rd, London NW1 7BY, UK",
+  "vicinity": "Gilbey House, 10 Jamestown Rd, London",
+  "rating": 4.8,
+  "user_ratings_total": 4818,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5405844,
+      "lng": -0.1453723
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5418415302915,
+        "lng": -0.143956919708498
+      },
+      "southwest": {
+        "lat": 51.5391435697085,
+        "lng": -0.146654880291502
+      }
+    }
+  },
+  "lat": 51.5405844,
+  "lng": -0.1453723,
+  "formatted_phone_number": "020 3026 1710",
+  "international_phone_number": "+44 20 3026 1710",
+  "website": "https://turtlebay.co.uk/restaurants/camden",
+  "url": "https://maps.google.com/?cid=5184931135724870794",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 10:00 AM – 10:30 PM",
+      "Tuesday: 10:00 AM – 10:30 PM",
+      "Wednesday: 10:00 AM – 10:30 PM",
+      "Thursday: 10:00 AM – 10:30 PM",
+      "Friday: 10:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dtDCa8jRUl-Fpn2hkucPMqzaXdMn_KUi_mAcxJFiD4mfOsAZDfs3TksX7NGMqfKi3GnaxL6Jx9SHVmhf67Jn_9SRDMWySSfKSpJNuQ0n7HeYb-9mW73WIPhukSPDamqxMwssO0zF5ClJ_s0OR82_ruS0pWEgbQjztCiJyWgT8jpIHgU_6Yc8tmMkZvknf-SijJkVsLmqm0OmagC84-L4BP50A-fS7w5ZmxMTPr4e6wIMEkXEtl8Ey8sTV3N215gtzFUDMf6ozp1sEDF46siVS8wwsebpkoBift1bnnQUrJWg",
+      "width": 4000,
+      "height": 2667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113812926885273341833\">Turtle Bay Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dglC5fLAPMq1Z4sRDhWmFc7Sa67yOOpAtlrfPYlIMi1XF7Gosw1k0BYMr-pEk-SX8-DCSu4rcBvSu_LDf-l6yM76wr5xb2e9lrT_aQkSTqNsZa35PMfBGHXktF31bzMBumtDJBxPmsQSHgPbLi5W2gtSBefwA2zoBH_9V3n_zj66OMp2JbxW-TU9p5vDrAOzEI3XxvPSc-71y0EFsveY45JM_X8W1v7f3_OcUEcOK4CfOCgc9T5jpQv5bPp5EDuXyl84uQGOEBSEAuOEkqmThlO4pCufASccA-6rq2tREUUg",
+      "width": 1199,
+      "height": 674,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113812926885273341833\">Turtle Bay Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f2lAKTTBrjNJu6Hk-sCzoqWRHrNzQz2Uhqo9-g69PttbqQ7OpwxE5hUapTw8Q2VYhJXkvOG2kfAW_r5feCSevuqcFoB0-k9u4E3nazaOPTNOb3Ged5tjldzAfygqx8RZZL0C15nrYg1aEU49bB33XhjANu-jA3Ny8GZ3RuZ8k76vxyamEvqZCNvOZvWNAKmsaXvPtpXFoFhwurpr3caWrw2s-RyL3tMBkqTfArYorV37Sgc9ye26JOEqOXyLocF_Vw0GlKOeh1tSskd2HFLSuMjb08y2aD9gPTkrAMXTzQPg",
+      "width": 2000,
+      "height": 1334,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113812926885273341833\">Turtle Bay Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fqNLLMoS65k7iObo3AFo3utONfcoUoIjCRVFSBJrNQPNpnREeRS87kKVbVLAc86nlayg62S1qRXQPVljLT8fvTbXNBc397dyI6DfStLGIpetaOE-ek3GqZGlsSZYWNiLOTMiu6F1dL4FHqbHXkoxrNaUBS9ah-UaE2A4NGDACFsHUW1Y9RRk3DXkU6FaE_m2XSNwKqDhiEkfGLVorqyms_3is76S9G9dcjQ6uxuNLvrVBhNuM7OiOaT6S3Myh_39tXdqT181CPPjSCgeo4s9ki-1Wzk_C_zfWgIK-ubJmiWw",
+      "width": 2667,
+      "height": 2667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113812926885273341833\">Turtle Bay Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dP1K1qdqsK4BEnPK-62O6BEklJJoVJnMeP_pDmwbgACaMC_Ukt3AWGM6vSK_Puy5_06wvdRS1fQAwDeGt7Pfp-Hq3vwHDNop68HBV4QTZVXNO-D-FM7JWPDZgIGHVgrREMA0cPUeb2oB1zuAaJS2lB45kMubmi-Q6bzlToUwjx5bzycXT7X9sGTQKKiVQwOO0QauaLRWIqSJ3aHnGiCqTLjJz1502yracMndFI1A-HKVbhe4ro-cDO-H00RRnyjGp8QuM6hwLB05p3EJR2974gRkgJKzQO5hc30vwnDiTArQ",
+      "width": 2000,
+      "height": 1334,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113812926885273341833\">Turtle Bay Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dtVcZzJHVgu9v0S8GwZ5dD1I4AU8cK3h1BJA8vWXnWoJ2W_TzUFQHL8Yo15gFhvvKp7Ds-Z0Kq2jhsC_P_hOxejoe-8_rv3-LkaiPGzApx_daHdN8u1yRa_7RCfXMHt-Nbh07CnFfTuqVvMv0pN6uFY1njtKzIAI8Az2MXoXWzLCvw_UhyjJvNsDIiTeWSULuqIZDoGToD-kyHx4wONFYP1-f3Caspp47Y9Fk3DJFkKISnX1_rEHILG_K2ezj5KyxcEq7WnNZxgIzQ_tuEpFl4Dwa0spDTnKLDXYtCrXm8Iw",
+      "width": 4000,
+      "height": 2667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113812926885273341833\">Turtle Bay Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dwHw0LcvvEm4dds5BDIL4idYC0UmG4L6sH6h4qrENzJ75iZ7T6201IcERSdJtveOKQYSybA4Gpfo0s32QTBHZcxAQS2qkJQapO5-QxhtmtjM0IIUmDAQ86GVDjuzKDhGmrjwsQdYIrsFq0tgb_ZcKRgzQC1KSaXZgetstssMMTS2bxzOZ87OCUskPJcHP-u8_bJBa5QSviXFm6_gDgL_ZIRe18ZEYhrRhg_1--zapXoo1RPEvDU5VxfGdnzOQyXsOV0JRZ4YYnC7RCwFmdqRj1agSZAZKdnxlm621tjmv-J7KJnwyP6fKsKK-LU4-zbbEC3_OIp-sXbWJYfO2t7IjUf89ckFFlb57-pqsiVQh5vhvXyUWHw37k7b01Q9t_Yd3Vv5ZBtEQzVhBaTTcz3mLle_VLNDLW8nuwviM0yEOZ34Wl",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108166932476519491419\">Emma Francis</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVnKWXCRzkFLRv3AHvqFhdvybGpkQFwZSf9zD-oEFMUYeGkSaxOsLGdqD1QjlUdPDxM2u2IV2RBIoOUTvvvOy8_lQqdreg4w7gwjH_b9RtWR4Gj9IjzoIzaATNP_4d_t4V18TWBSazzaZTZKMdAJT4NvAQ7Lejx9GL49HcqxjGqTW7k8XZQ_4GcScxjNFOpWToiFfErd8QhZY0pkj-d-D2uzK4Fv_lj0zwNrU6p29SxzyzjTbNuxK0rj2eXY6J_O28i7IuA9qFoAzWPs0fyF63XgSrYHM9v9MiqIfCmEwp6fZrY8MJwU29a0Br2QijVx0dM5fqarNwPdneViWJ3ok1WEfOrcc-Wh-B8k2Wdw0jpuOxX18uEwmh1GjoZx9VscIaMxHA4MJSYWwNHB6bsmis6g-l9at7cWOpPC93TuEwOAfm",
+      "width": 4800,
+      "height": 3614,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115493571910286521549\">David Johnston</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ekb42E7mPcKFxMsVjFSGGOTseRqaZDEPPJf9jzmavkz84Og2T1eJI1y2R85Xx0musdcdkoePaVPlqAzDWQJhGgY8QnjCvq8nGlD8Em--N1vpI-twjjVbpRz3cSvTdgyHSCqQXPddUKV6Dz7Gnic2EkH4vFhyiD0N-JDvIIXEIC1_YExc6Pgsb8uZ0D-cWQc8HaSna7hPa_slHbkHnu8900ynP_mFUYqsjxAk7aPXbaO6Bc4fldUZg5fFnixTDs7DsY1Xz1I2335syOxf2a_dz99PmyvcaPLwT5MhskiKmBwLZFIvNrOs3_Ba_U2vW3-B6MpvlZIjiTO1E7Ge5Ny7YEc2UYCrHGLwdHtWdtJWzL-JoKbhkUNkwVYdTr8YrVmIWpNkWMlgfjVEztz8VNS9w4qX0qvhPQ82rAYmxQDzyy2hM7",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107830387623314143644\">Gina</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fEFTDnp-usOorMHQr4aemQJf1c8HF8SwCivC3UgGD4e5RYYi1_VN8FPJxIWIfLwLuri4YJxxM2dX0NysoJHAuuNbEdE7P2u37AJZeO5Y0KQZ1iL3GokPx_a_dnj58Zeih_yaaOQzEGHoMr7sSiMzMnSumZ-jAb9_805mj5seABbIvG64psDTkbf8eh447eEiP10ce7NFlcXge-xhI117RBfxjYwOsmHHySde1Q5DkKjPbZ5JSl_iI2Utt8QieVM5Rr2bkGVPhW6XWff6DXxhbVdVq4n2lUfu9QT2nE1BzrHQ",
+      "width": 2661,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113812926885273341833\">Turtle Bay Camden</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "night_club",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Aliya F",
+      "rating": 5,
+      "text": "Amazing experience nicest turtle bay I’ve been to! Food came so fast and was so yummy. The cocktails kept flowing our host Olivia was so on it!! So friendly already planning my next visit hope to get Olivia serving us again!",
+      "time": 1750692914,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Salmana",
+      "rating": 2,
+      "text": "I left yesterday feeling a little disappointed with my experience here. I had brought my friends here thinking it was going to be a good dinner however I was a bit let down by some of the meals brought to us. One of my friends food choice was cold when brought to her, my friends ordered lemonade and all our drinks came but theirs so they had to go up to realise their drinks were left on the side and when they had it, of course it was flat. Smashed burger was a little dry and the wings were more bones than actual meat. The restaurant itself was quite pretty inside and location wise ideal but sadly food was not.",
+      "time": 1759740872,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Amelia Palega",
+      "rating": 5,
+      "text": "Came here for a bottomless brunch twice now and had a great time both times. The variety of food is good and portions are filling. Lots of drinks choices and all prepared in a timely manner. Staff are always nice.",
+      "time": 1755599492,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Soni G",
+      "rating": 3,
+      "text": "I am quite disappointed with the food from here! The starters were delicious and the cocktails were really tasty we had a 2-4-1 offer on so got to try out a few different cocktails but the mains were really lacking in flavour.",
+      "time": 1756137047,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "kaleisha M-J",
+      "rating": 5,
+      "text": "One of my best turtle bay experiences to date. The waitress was so lovely and a vibe which made the experience better. The food was immaculate, I’m still in shock by how great it was.",
+      "time": 1760268556,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:05.684Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqw-TnsobdkgRily-oWWT9Ec"
+}

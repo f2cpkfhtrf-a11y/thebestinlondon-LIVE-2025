@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJcb5nuUUDdkgRp2TnVMSprT0",
+  "name": "Restaurant Story",
+  "formatted_address": "199 Tooley St, London SE1 2JX, UK",
+  "vicinity": "199 Tooley St, London",
+  "rating": 4.7,
+  "user_ratings_total": 905,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.5027614,
+      "lng": -0.0777802
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5042032302915,
+        "lng": -0.07640576970849795
+      },
+      "southwest": {
+        "lat": 51.5015052697085,
+        "lng": -0.07910373029150203
+      }
+    }
+  },
+  "lat": 51.5027614,
+  "lng": -0.0777802,
+  "formatted_phone_number": "020 7183 2117",
+  "international_phone_number": "+44 20 7183 2117",
+  "website": "http://www.restaurantstory.co.uk/",
+  "url": "https://maps.google.com/?cid=4444395067987682471",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 9:00 PM",
+      "Wednesday: 6:00 – 9:00 PM",
+      "Thursday: 6:00 – 9:00 PM",
+      "Friday: 12:00 – 2:00 PM, 6:00 – 9:00 PM",
+      "Saturday: 12:00 – 2:00 PM, 6:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1400"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1400"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eA1egHZrII_Erri4Yo0uS-XciqztmFb3IeweV0xbXkCSAWOUe-K7k4VA-W1VxU7C5i0TSveQCxK0ucL_TeiAFbyMJh7pHB1MQt6j5ftnsWKiRqAhLQxniUlNj8TB3kqKUc6uioS-TLZx--B_BuYSXLBrp7VdHeycE5EhnVLUTAv7tno6s730QsbB-SFxfZZ9y0zp49HtshfyKqLYbShuoOdF5w4u1eEarFMb0jdF7666rRlnTFFxjrxp9CUywcschA89XoDjNgvhFT5ax0wQQYZm4jOAubee0ulsorWNCN3w",
+      "width": 2000,
+      "height": 1331,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101379280542428131206\">Restaurant Story</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ffh6w2mjIo1x7gEQ1kSMiyZdy-qgA3HzVwXKxOI-sc5NYWgTUghszbIx1oEEPxnqE4vRsTH4dHFO5lP6a49aK0POXX86Oi5-PBMN4I4ShWT0dbt8D4SriwK1xtq8Lz4AiKfqfFdkjLO4b58cTzncA34FynavYuH9fJIt2AH_srLNe2a6k4FpOXjo6GCuWSDTW5V3SqYi2o_tFHAcIN5RVOfj94aVuLtxeiBnhCcJlVTy7hEbjAwIGCHvbUK7g7rXn39qzH8PImOdGkX5n-ZAg9-jP5Fu5JCLtax-laOOwXcA",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101379280542428131206\">Restaurant Story</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c872nkMltT2AJTPWa2px3x3nKg4onr-mK3dieXkpCjQBH7g1u88acy1qve5MtF8WHQ6x9eIp-s8wXPCPQdE54eokqlTMH94TX0q1Hi1H0611qqm_hTdGM01bxQeTYKU88ZxiAip9T5U3TiLe6irtOJrTpHUoCqHLRQBcv9TInSZ5oKUJ4sZ-nw_UGmxOttMdTVx3eyTflXRgyqyY8JVuFmN2Gxl4nVJ9J6sM5Lh1eGFNbTNefs2cY8YOLRslpXxOddglhfzqrfXzSnQWeMapSXYZD6hN1hbCcPcSMtS8twdw",
+      "width": 3865,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101379280542428131206\">Restaurant Story</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f8yvlFcNLylJ1YGZxSMXlwTVcW387tEkvI_MlhZPirVsfjZxEM_DOEAETyltH3fOr7ZATFWUSxx4QZseGIbY6VzFD1Ee-W6yg-L2wKBvZrmmpLcqz295XH9H51rjDMRInPkIpRjfBkRtOjKoEfj5OzZhddOv1Pi7qiszhcAsXHqDpO1jiimmOQu2Oj0qoQthU4uoPQuvIzNtL4StswxHwbFzua8erI2vzBnQT2BGQW_eNuVfiM4PLozWqq3CTEH0vvC0hMi1LrvcNrT5zpvHFXgTAhQSRzh4vuC8ZnQCGjh2o9mlJe0ShbC5Lr7vTV2cKOgu2kTzGymfB_1qbVti0bZgheXnVHRNEDIdzEh1kjbJE4--5p7wjw1b654dxbxaV_ZI4PqNRNEzTDgvjT4M9WmizgGcxvvh2rL-RpItWoAA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118376820019977336186\">Radek David</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHsOYlLpLEaeiKeVzqyCiD5wZpis5pI5c37O9hH-4N14zNHZu1EZpErjXfafEY0A8jQBIKzlbwY80RKyE8m6LdBIB1reAH5aOvEDFf57xmdsYPYADjnC_jeXipR31xC86EVoGadRzoaa0JZE3rVgql9w5B66S3Ix5bvgOdOT7A7LTThtd8Cmh5qzb349i0pbMdQM3sAyas005TzGApN4g19aQJepRhWTn3qcpc9cLPbTO6YluiA82uL8EGztOkBWT8NiwGXaEMGB6elcPdWhWV0CnqENRlz_LaC1Mu8JPErGjZS7urYrujPk4rh4or7rZvBLp9B6clbjd-hnkGpNhS7sHyO6e1Q6bK5TIBBNRaNCpqXqedBgOyn5lZGRTV0IZ3Ku8qC3_w0WxRrUssQSkaa5rSmV2nr-MWK2y4J-kiDS1TYq8gr9Pc_KAxiNK0",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118275258875689089610\">janet</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cpmFMvUpm44VrySE3j3Uax_CITKjcFTGCUM0e1O-iXBY9dsMiumcbuDdiVSNUCve-8YzwGNHTAJ7cfQppb7xbTlF4LvNUK7ozE8t31MEq6mX_epzBfDk5G1_6Mk6ESaqkjeb1Ix5BaegRzx9LeDAUcAuKK6rqTZGkGTfM3NznQxI6TZN-1BQGSw2g__NpB0oYg8V9mtKyduds6SfvzUXfYsll5u1rPFz2zuAaMbTKqx2BcQc0iGpu5lHJ8xH441E9YFXH66Gf8SI00i2qTSi4X2DloYKgtSFyRVa1aoQ8HiaLPR7j8osUjWOnfqYXVbB7VUTH_X7Y1Aw0SKYjLJ3QPG3zhZIffOsfjC1nR87TSsCoXGo6s86IScnpGGESL2TW0VLlfFiunX30gN0v_ykf9qbldzmYa0jmzqOoUnOwRa7hVchDHmsB_iHLfvJNF",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109488865033770091126\">Ale Moglia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dcwOqnAo_rWPGMIHG9_-UAIUE7udH4WMluDBYKiW7NUqDAnxIKOFXDXYlqtElfE6VdLsYXdeORc70S7TyvIt3rZNykes-XJOeLqdID2HW12vElOTaU4zdMS3sNQ_UUAO7E45f-mKueN9752pb9aa7a1SbloeS603EANg3MSzthy7N_5tUlvq0oeZItkR3LkbI_RrNCNphGQQ23x0NWLc1xGnPCiPjtC9X0BaUfq4eb2e6o_HbDT79tAh9QoYhOAWD2HWzKGHwcP5QfjTEWjCT09nDsRGRjXv0JRY31QDEQr91LzzUTKNxaBPLO_XDF_Npj5HSx04WPpaVONUhUFkeF0BBL0EIUuVB1Iiy76ur_CvvuidinTtCCJeCYwdNgdvYdRzsB_lHnyWGiNXzttaEkCNO54h1D6zCoqDEcx5-jOunH",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118376820019977336186\">Radek David</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvSXxEA7GZZrDHAwzRUWu_5nXzCPfjvl3Lgm2gNAe7sh5HBDTZok3PYCUsReByWWzZtA4Wr0Llb-2JEkyU1aMF91zUNFe9YA_VTXBaf9uPyN19F3QBnQX_EgUhcdDjYF0zABTttBi0VovdvTMzTBA-VDjtrJsSNCar9EXTaSIrazPDwj7urOV6GzUM2OcKKw37oLU059Liqt7Yy4LHqxGQNuHDkezUmm954iE-8imZsPCPJew_BrvfR4gxuIH7j2gtfnUO_QwXVbB_tTxDV0qrMf8yx32EzfUY8xsU_LPzCtuhkmhMNqBa0bNMN7t5TXm4knFUk6LGNggHhfhnWfArvR0QVQ0baaAXJA4tl-ZOlHdUexV0-DxxSMNAj9BLY55OoFlfqlmyROiKKC3vwVWoUqazH8yO5QhymBAOxQWEr50",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116470598570984457231\">Victor Chiang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3LTj_Z67nV_Ye5Pt7kVt3V9OUwcC7WkmJTBe3Aar_PRIdGxawg396izHzLOwwTVS86npwdJf-0nc8UqAYMxu5jKVLe2NMLuC9gOPwDQuKuN8HgC2N1Zn2zrdbFJudGDZLMxCm_KqCgxTaPR-gYQltcx6lMcz44TDHzUR-_WWTNmRgVJVrp1ycQKFe74pk7lGe0vhTwosf5u6iAdiHRH7RmPljasyIS-dcDrDGz1xtcqC00eBYVoWKXAC2mc6TdMCVLV4pPKFDmJikoux3teQypJqO3taR1oq3YzLIxG-s4qu4eq6WpDkOX40WzE_cSOWNbenFggCCwQdzRxfldxPU1R4XPs9V2LxGVwF-_LGT-xNhd4d70GXI4P6g-g8uUwVh-5G0vzaIhrCFkEP8OH5qrIcVX2ciBRShKpLyzAnRyg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102330089662659094904\">yu wang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dIhDot6nDJ9XxsNbPmYAqXCdtvxjZnOShu_EG7RNmKm1TtYdE-c9BdUDSaWflGuV7ZyJrMYXzAPC5P15V9rz1DNjmIAxAJ6p5R_WyrPp0nzvzBlNT3dj3UDaZkey6Z3aqlzZPrRuuCq544fTFeVEvs_HHgxpEZar85lqRwXe5KkJtI0xOsETViXHcPs5EaBc1laXXj2pokn2AS1FGcsyPbh8h6lghvNds4TFg6_XiQZxUFxrOwscNOJqjerEinSQkc7CBUq7sog1aEJlCqvFzwhtuQbeW-EmGXih10Z_QxonbtwUN6jCFU7UmHdf-ru9CLNjYlriq9fz2M-44DpqFpOp18d_7FEujhYiB8CN2YG0cBETTw4YBT3dUCgO3H4VkBIizvtkwRsrSGtHdjW92vCn18gX3dY5u8toT9xNxaNQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116446165525002519252\">Eva Maria</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Chef Tom Sellers' novel approach to British classics. Choose from 6 or 10-course set menus.",
+  "reviews": [
+    {
+      "author_name": "Jo Webber",
+      "rating": 5,
+      "text": "Restaurant Story offers a beautifully curated fine dining experience with exceptional service from start to finish. The staff are warm, attentive and highly knowledgeable, making every guest feel welcome and well cared for. One of the standout touches is the bespoke printed menu tailored to your name and date, which adds a deeply personal element to the meal. The presentation is elegant, the storytelling thoughtful, and the atmosphere quietly luxurious without being stiff. A truly memorable evening. Pop to the terrace after lunch or dinner, a bustling vantage point. I’ll be back!",
+      "time": 1752920166,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Arkadiusz Foszcz",
+      "rating": 5,
+      "text": "I had the privilege of working here nine years ago, and it’s remarkable to see how the dishes have evolved – even more refined, precise, and full of character. The storytelling woven into the meal and the way each course is guided and orchestrated make it an unforgettable experience. Flavours are masterfully balanced, the presentation is art, and the attention to detail is second to none. Next time we are in England, we will most certainly return – this place continues to set the standard for what a Michelin-starred restaurant should be.",
+      "time": 1755284067,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Candy Tin",
+      "rating": 3,
+      "text": "We celebrated a birthday here. The cost for three people was £1650, but they didn’t even offer a slice of cake to say “happy birthday.\" The food was mediocre—nothing like the quality we experienced at other Michelin-starred restaurants in London, yet they charged more. Interestingly, they didn't enforce the dress code, as some guests arrived in T-shirts and casual dresses. We expected high-quality food and service given the price, but we were disappointed and wouldn't recommend it. If your budget is around £500 per person, it's better to explore other options in central London, where many good restaurants are available.",
+      "time": 1759132826,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "janet",
+      "rating": 4,
+      "text": "We tried to be harsh critiques , as we were paying a lot and it was Michelin. Some of the food was 10/10. They said the brioche bread was one of their classics , however we found it dry and lacking flavour in general.\n\nThe course is very filling we left the restaurant with our tummy stuffed. The whole experience will take 3 hours.\n\nThe reason I can’t give it more than 4 stars is because of the service charge . It was 13 percent! Making you pay more than 100 pounds in total. It was a bit exorbitant.",
+      "time": 1759076567,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Ale Moglia",
+      "rating": 5,
+      "text": "Absolutely superb wedding anniversary dinner. The service and personalisation were perfect. Food is at an exquisite level with a complexity and detail that surprises with every step on the tasting menu\nAbsolutely recommend as one of the best places we’ve been to.",
+      "time": 1756979737,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:11.241Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcb5nuUUDdkgRp2TnVMSprT0"
+}

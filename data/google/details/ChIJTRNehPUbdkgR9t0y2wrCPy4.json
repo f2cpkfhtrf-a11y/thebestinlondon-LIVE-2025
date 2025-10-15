@@ -1,0 +1,313 @@
+{
+  "place_id": "ChIJTRNehPUbdkgR9t0y2wrCPy4",
+  "name": "Nua",
+  "formatted_address": "55 Cleveland St, London W1T 4JL, UK",
+  "vicinity": "55 Cleveland St, London",
+  "rating": 4.7,
+  "user_ratings_total": 238,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5205444,
+      "lng": -0.138881
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5219082302915,
+        "lng": -0.137492419708498
+      },
+      "southwest": {
+        "lat": 51.5192102697085,
+        "lng": -0.140190380291502
+      }
+    }
+  },
+  "lat": 51.5205444,
+  "lng": -0.138881,
+  "formatted_phone_number": "020 3089 3346",
+  "international_phone_number": "+44 20 3089 3346",
+  "website": "https://www.eatnua.com/",
+  "url": "https://maps.google.com/?cid=3332595601160461814",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Sunday: 12:00 – 3:00 PM, 5:30 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fSMe5jYl7xY3SDQCRoVn2ANJYpk0FfSTuoj_MzLElQt7ayVBXrRFBXX198zHV-V90LUV7o1xNdR_QURsNz2yvfPgMPwREve1YTR_yiJPv_kxaKFXbInoCav6zMyGUT76YjURhLbY2YPLfp-RQOl9JwiZNkgp_oqGdyuUuhrt6e4Es8g4hfRHQGfqPskl4QD-tunZqXbKvvv-DkUgcGofp55DDn4bS-i5W3QE-qWE88BpqYGsmbEdY9Nypdz0JzdAYTeDcGEjv7lYXDOPEXMvZ5LNZmWvPhCMVN25-7aFmJZA",
+      "width": 1284,
+      "height": 963,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115780376344083895469\">Nua</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exCFz_en0EAOgx25n6FnPkwJSrOiswJgQ89OMqRjLc-w1iiWB7YVR8HUksMRBqro4WTVDfku2K0-JZ1NXkXu5ETOYpudAEd3GZ4sSY2KVW2S45Pun-tZvs8aXgJOQSsraVSYOwpnOhHtwy0nWHerMm9VTa7xsow5SOUTXgMsg08B2yIH5LV3EfVzZggmJU7r-6nCzgjhO221Rg1Dx3g4I5JRfw7jjH6u1knwpADpJTFltEQyNAHG7qyMUl-pPRPWAz0pKsnG-41pMrW7YthOccvov1mPgAFexrK36sTIL0I4D2dUIpv_fZ0rFNzcUt12l1XJSG-d6LWshZ21PyLRFeNflkuuCp27AozFjT0ofZazrqyB0iAESmR67sk1fRUp0LVUAKjmiAfkPMrdsp2C9FnHOiJnrOJCG93hY1s0wpoHScNWM6X2e37GRreVO1",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108010780340305730878\">Steve Bintley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKd0fMvbRniQUhRtfi-47Tb_A2ISIyKCTJdY0ceqeNryBzm1ntmBLk7-zHnizRnUg6byCxoVXQWYWtXvmMdIAYeoBwRETZxtxZGB6ukC3jq-gjEkAIyu8NqluPOBntJMA4gekkjXvXNVh32sLbSI3ok1gnxDsNkO97eDYOfT3C7fffWglW1cIDy060eL3txH-HczHlz4FN2gXfvH-XnD2AsddHjNRhjiilalMBetTrQrrcBpALHuYi6wqU6ZQDDYos2H8arCoM_l3bTjvsqGlBcgVsy-d47A6iKfZNyIjyrA",
+      "width": 2721,
+      "height": 3366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115780376344083895469\">Nua</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fT3aq5ZLhqLNDj52b_bIeWErNYJiUc1B5T8l_xDGsTNDp8KPMw10WdxFeFcR7bWgfkpC0hfRYmv4MHfas8o-e_-XfBVMKAyZfqKHewUvsQrMH7Udg_PV3slMucmFhT3Y4wMZTrsARZpXOJ1nqBhwS6W3cj-KJvpASpJNeWEwRRgF_BpMWXwnXk86KfDuN5pX6c9STj8yRtc0Kt2OrfX7ffgM0sy2NpdMvvrLEtE0bvsOFo2nJ-N7sr0Q9qytA8RD6omOdTs5rDp_RTmAtB4--bxF3pVy8XIM9nd1kkaSBw0vYORfjP4SBQB9r-kk-PdXhJ6qKsAXhnK923MXMuLQFINeQ3lyHq5Q_-gQUSZFiXffMkM5xDxsfqPgl2HhJxQqwM93VOV1XTveRVfdQB1eoYlNWBZZ6QTGQPQbPpA43vAcwPdeAdI7hUqC2vU20R",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108010780340305730878\">Steve Bintley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYzTfljHjvY7mmuE3ZuqKHqWzeYl6zCLugc8Xjoa9GzEPWrmwAaklUawu7M00PDCB6ZRDIgNKy3v0cSpqG98CSRbEth4EeX2VW7esiVzZz_Y76NNwDXO5hwn3OgeJ_raDTDi6sygInYI6YWN7O65IX-NnkAyhlOoFE6kR_TOXFfkF3_NCqEm54g19WcnjnB2_pjbkfYT9eXZGqyG9PUaSjd5hr2FLRlgAy0RlaKyRev4q-g_TLqXsFIWIED85Y_axCkUtQe-pfYoNcSdYZD3DgoVxnoS640K3OvrT-iPwLtiYghj4sGmYoCKqwkFhni2T4OdaMQ4v8yTMxUULLK_Zs3WIEPwIk9ETgDU9cFxwQhvdpmRc2GTSwm084qvFugcgq4c3RLmmqbzipciZWCLZFImCfL4HeJvG0LR1D4OCpM1KdJIjp51TVazaorXTc",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113548955937423059047\">Timothy Curry</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fVtG-_NHEkVmuG6ARCpop_BZ0LfUEhumFEgl12oun5SYM71rBiV9k4rb0dJ-_uWjrPrTd91ZRYUXhs-3-bSaGuCCa2V0lMV--UkySTkB9JEKtV_w1lqYHvB8CGVnCEGLYXtL2OKouRGOIsxMtGxThWOj1B3k0GlNkEdgjD-a0Z8tafLUiPHoWMJApkMbXN7CzxdHE1dNEHREve31eXv1KIY0VeY7_oB_bOBl7M0H5B6mp2i8e6ut0J_NDdsT0zXyulM-x3awBq2csYvOi-vdk6uEz9eVQD3w8PscnMCsD2HFT_mMErwRj8yeAseoJuEUqewlwQdXxxJGMQme1ufAIJh8yabQP5CZ6_CfY79lbhSOpGnOZMqvf8vSIeI-vB216vcfMfgB12MP8107QCShtLHu4oyNaV_UARg1GJfgyP5g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339600033490415641\">Alexey Subach</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c3ilaTQDdTQN91F8FHz-lV_QOjXpFmqS5bq1lRw1qrCSdxzqnc9LovlIvWSCbUEOjYPkqd7b5YA1k_QZK6GhjKQvMiJ8dDHg9bhPLuo-ng-shXypXTO-9MQwiW1Wts8IZG5NaSAkY8zg9juAPjKAa2kU4eYCfXk4ykMNzq76ySMJhjk_4Yf96vxFk1ayybz-1ul-6BI0TM6-oml6LuEoHhnyfuW-R5FWhKvB-aWe3kEnun4oCeWjhlODjkx2u3uMsNjaLlWDcfYPzZIbEfVJNsfq0oqmkIg831yFqu8DoCGr__K8jKsseluu1K-7y5gxZWC3NquC-qLvUbq1GzMRGkxXpyD8OtXemwAge4_JtiXzEKmv9D0vMq-mgzHEnkvPJ2ixYRNZO5ySd7M-PicM_aKfYgj0zpCZPzcEc6EfVLODyv",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117584531570925998381\">Rupert Kay</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cXgfTfZnrDTGMaEg0o6kinxTjUfdTly_0FfPB6qCgf6Z1qgKPG8isca3zhVI_Pew9fXa9pWRLlNd-tlmv0ISBDRS-TtbuRFgICDVF8-KRL_z--s1cBJwZpHdxTdECpldZUKCQEgOEGgUE_rBb4zhiXegpLj35odbKf1V223rSrCTjoPMSnzaTvT955OADbiwEvR6HuCnryBExz1gWNafSWoV7alS00EPb9kHsWG_7Nbc6c6YxfYuyPFo40nmdU9JsJ5DkjDNJ0hkNb9QfXQJ2FnQPfO-84YZMsj4U-kQVS7zbZ0o_xLCl8nqrAN2H5YkokWzvokIiYzUz0o3-FH5PpMvkY_U-ijqKBQAmkuVHqrywT2vB0vMgDdu4OqyTh0k5GMJM8op5njkXHY9UIFdPnrhcPCs6IK1Mft31YHsoMN7cM",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114121708300089481402\">Anil Mishra</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNUhhKzK7v307fMAOXVchCk6lwDxDV2MYRH65-8TCVoMDqwpwMTPJlwmMtWffw6-snDyBNCUkwlGnuWln7RqbTnfai4drHzcRnBi-b8i9WrT9h6ZGXIkeJOFCdwSyvNuRueUrnR8Ogt10a0Yykx9AgEBw0exyU7qBR8TjN86Igk0U1KYInJGrbb9Inb5Q3AUAqF-euuaFaIcyszVEwGFuZb1f6g94E3w3HJYZNYiGqoBMffVEEzCUKkIVLUIc3J_NDew4oK_t8HoIehujZYf7sbPGOhXuDik2kP7Gax9RvKeW6X0N8g71NLfl3YR95vQUOQL0cDuZnMBhbhhWoEeDohtv6yf5nOtgnCE2qedgJhjHQJQTkPd24GTLSkLpBxLaCz9lMrmbTnYfcS6emmyThoXgTVPRObLcgFLR44LfrlQs6",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108972917539322874342\">Ali JG</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQL-Sbb9xuTVKse6IAGZFkouT57TYRe2fAtKXP6n5zazuPCJUbSSRkYFx_5XexXoXv3_-DVkjbey23agjTSsZIi5JPTnUj2fRxvRnBjRkrKwZBwVVupoIW0laHrGokY_ZRVLlMZ2vvw2SjxQIsn93d8BzOg5yw-8yaPAYB5vHZC7ryhGsrqBZ-adzCFrPoXvvIO6oHC-gEzwowUrIAFOhQmF1ygKrFvV1YjIBTM9isdE0rNvJnBVS4XQB4Y0VMtIDfI3_Nni6Tea8SCLzWvNFGR1znXGs3xlIpTGcX4-KMLVf9qFxjWF7-Nnrn8YIcvaLjpE3jgBOQI3TdjZRBnZG9e7hyetEEqRB5TNc7QEquJmPw--7vBDJa15Yrit5LOibLSMT9dnJeTxtM9oLweoTmrC_tgugjzr94vXYVqGtDwfP5",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114146487255607666071\">Mark Cunanan</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Steve Bintley",
+      "rating": 4,
+      "text": "A relatively new and nice modern Thai option in the area. The staff are really lovely from the moment you arrive and remain attentive throughout. The main menu is large and varied with photos to help aid any selection, but there’s also a reasonably priced lunch menu, offering either one or two courses from a concise range of options. From this menu, both the staters and main are served together on a single plate, presented well, and although not a massive portion is good for a lunch.\n\nThe pork skewers were delicious and a shame they only serve two, and the green curry was very tasty with a nice level of spice. The draught beer was a little slow to arrive but served ice cold which was great.\n\nThe decor and background music doesn’t give the most traditional or authentic atmosphere but fortunately everywhere is clean. I’ll certainly be returning and would recommend for a more unique independent offering.",
+      "time": 1758739437,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Josh Porter",
+      "rating": 4,
+      "text": "Our group of four had a fantastic experience at Nua, enjoying a night of excellent Thai food. We started with the Nua Platter, which included Duck Spring Rolls, Chicken Satay, Steamed Thai Dim Sum, and Chargrilled Pork Skewers. A major positive is that they provide one of each item per person, avoiding the awkwardness of splitting dishes, something many other places don't get right. The accompanying sauces (satay, chilli and a hoisin-like sauce) were also spot on, adding extra depth to the starters.\n\nFor mains, we ordered a variety including the Pad Kra-Pao and Massaman Curry. Every dish was full of flavour: the pork was rich and juicy, the chicken was perfectly tender, and the boned-meat easily pulling away from the bone. The Sticky Rice and Jasmine Rice we had alongside complemented the mains beautifully.\n\nService throughout the meal was polite and courteous, though we did find it difficult to get attention when asking for the bill, waiting around 10 minutes.\n\nPricing is slightly on the higher end, but given the central London location and quality of the food, it felt reasonable enough.\n\nOverall, Nua delivers delicious Thai food in a relaxed setting. A great choice for a treat or a special night out!",
+      "time": 1745836155,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Alexey Subach",
+      "rating": 4,
+      "text": "Overall the place was good. The food was tasty but not exceptional. The starters were tasty - the skewers, the tempura shrimp and the spring rolls were all good. The grilled chicken was fine but the portion size was small and the salad was not to my taste. Overall I’d love a rich sauce there instead of just a hot one. The service was extremely slow and it took them a lot of time to cook our order. What stands out is the wide selection on the menu.",
+      "time": 1746737379,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "F DB",
+      "rating": 5,
+      "text": "We wanted to try this Thai restaurant and were not disappointed. We booked in advance as the space inside was limited. The food was great in flavour and portions. Service was slightly slow but the staff was super friendly and helpful. Toilets are on the lower ground floor with stairs.",
+      "time": 1750618860,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "nydia ndam",
+      "rating": 4,
+      "text": "Came for dinner to a quaint Thai spot in Fitzrovia.\nIt was a great evening, the restaurant was not too packed and they brought food efficiently. We ordered two Pad See Ews,\none with tofu and one with crispy chicken, and they were both delicious and quite flavoursome despite looking quite pale.\nThe highlight however were the duck spring roles, they were perfectly cooked, crispy and flavoursome, and not too oily.\nNice spot",
+      "time": 1750842857,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:37.412Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRNehPUbdkgR9t0y2wrCPy4"
+}

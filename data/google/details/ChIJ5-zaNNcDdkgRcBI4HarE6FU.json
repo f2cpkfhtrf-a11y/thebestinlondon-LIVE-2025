@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJ5-zaNNcDdkgRcBI4HarE6FU",
+  "name": "Plants of Roselyn",
+  "formatted_address": "102 Tooley St, London SE1 2TH, UK",
+  "vicinity": "102 Tooley St, London",
+  "rating": 4.7,
+  "user_ratings_total": 814,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.50428220000001,
+      "lng": -0.0826263
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.50569143029151,
+        "lng": -0.08122181970849798
+      },
+      "southwest": {
+        "lat": 51.50299346970851,
+        "lng": -0.08391978029150204
+      }
+    }
+  },
+  "lat": 51.50428220000001,
+  "lng": -0.0826263,
+  "formatted_phone_number": "020 7357 6381",
+  "international_phone_number": "+44 20 7357 6381",
+  "website": "http://www.plantsofroselyn.com/",
+  "url": "https://maps.google.com/?cid=6190413922734445168",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eBl0F3ttw6d7CbwgGsm1JT6rF_Wf6s3nCDdWVrFWui__hhL6yxEYH66i8ZnHVZEyYSdYIu92p-5poyWw3owgGJXkxYFPnr722HvGWRSPPbRpVMji7SuUQ_O1ZuOeLDnbmNkpi4naX155Hn01azCd6lCBJHV1iPaoZUiDqBj3aVIKEd6iRbGXRkCVkxZrZAgoGJgIAsXRZtSGhSuqd6rEtaRGKpJAJ2tyzhuvRy8tn73a_ma6__b-nosg5eRyDmjJ3k-0s66woBFG1FhtoE7aBUvjKKv59swy2WnVXlWdvRwQ",
+      "width": 2268,
+      "height": 1587,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114629203404110735672\">Plants of Roselyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cc76KtIg7OzG2D8Rmh5u-8Cuqc7rub8J6uwmmIMvGzNOAh0kyDjKkEzTJC7ynWDPweYGs7Oarsae8OlMw77PLcrXAbU8R4ZgZ8yy-JsdTCBCbJLERM2l0P_fClaIiVv99P3amp0_kkAxtpeTihrDDgVckW07uFrEud9mCNDybQfwzpDZ5h81I7cfjV35-12Ghvk5g9o9NUN-tyLSevnhXEnPpfGut5TH3q8UZXTkux539CWLcVzlI8XzYCJqz_hKZD2i1N5J-1nsljLeuAMmfpgidjla63obN3KzcZ8i1AuQ",
+      "width": 2268,
+      "height": 1587,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114629203404110735672\">Plants of Roselyn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjOlW8k7blns0Bhhywz1qMs3YJt1Q6OBxCsRJ-cru-ngOFGQyIarKjSe3bs83e1-Frp29E30Iv5dgOoTRKu4tYJ9FXd1r6quFk0tYx5G1clg-iqligia7ek-luzeXWBNKqKIxyjLs1b5HDNOonzVPjjxnWOb_QVI6kj5YOK5tUQQPfZIp0xAmDp6vzRFnhcRYJ8iuuSCZBBdKcgauQA0Hz_Iqt50IXShDiFCJZkckNdqw3sA18_kNDoeXEjQsT_GWZsQdNCbPQHaQnZaGcGitUJwkBeFda2Anx4VvP9mAY5YNGxaZhEyKVAMX4ZI84y5YOF8NfkzoUbbQlOxDn_qRnybrqrPxwWjGIA2wBSnxAs0JWbxmSHciJbVaOp5OztwL4MbAIh6uPtfBz21Gu85A428ELNI0ZUNLm2h6CkPv33a-7GqqTdJJYH8w8K_qa",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102152710221156635486\">Tiff Ting</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dmPIgeKJP45dN5g4eDT0vhuTheZVpJfkTCGF7OL4K75MZJPdtEVYhqPUomQymD7im_SHLjdFCQmnmZSFMhevOAqyBs2gDUocdXGiPY9ruzpqV7VQjnx5Baxv-7xAiXRDG6UKEdJQPwPBJgcmVV-ajmJ-Q1cnDbS9Qh09bP2Ap27d5gkSFaq2XPCkbJ_WZNcoO5KvDDGWLJihM4yoM6SCpM54uw6sTBPn_kgtpqFXj-oVuTd8Qp0MLsoUQuXtcjxtDO2by26fFvj9SWjApd4cq0MurM5Z3kizb9LpBKtvQ_2UCqWMAndraOg14PPG2HUAwl_uefDMDvfBi7rJ9zEYazBBmKyJ2oLBhqVU-F_7bD6TpKuFjwFTER2Moly5Y_atPHvGu4qfMuqU2q65d4UUzgs_1m4EAM5fsgf-N-ODA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115426751486870335451\">Ann Olayide</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eAIjPlo3GrSpvz_QKDNX9JSKtJD5N_riCft55JqZyz_F9gqfXxPsYoFDPHIMii5qKJMQrOTYQZXo3I8XT42xQJ5mL4dWq_c65xrsBLXtdOiwqdQH9NSLhPvx3UhooLIhCh6226RK4jigtgbOnENHLxYicOf9lvw5B2aHCPfXKWNjX291-KrdOmGRn4E7-kGuIsZUwVGdn0sYSIdpzoZuEjCWUG-7TxrQJQ456AlcDhM1AOrp9H36FPtKHUGXWJ4IaJnkrBqlB32ZgEDopVlHYIWYcxrPMVpQ9o9lCMbSwHmdYPQwXu93Bl_zBU-HtjWLdxgdPGljJmExSwLKQNg5c1wEo-DQM5ZB0-9wtOKznynjgcSh_xKhPuueT1ZB_ABwc1OnoRFUmv3ZnSCVMnOQMDsZBTz8fdinxxUVLwe3kHOqVW",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113640226159507308078\">Dimple Patel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eDWr3CyRBIJQlqBaz5XgipmNRyueXOIKttXwd_sY5Ibytb1jBXn6YUnm-rwDA8IfKt3M6X3LKc3KHcgetY3EaiN0GZz87ZvUdOpCUMvia-CtpNTAahAZOL4dkvEDXO8KkUlEn_UNdWUXrPHp1ZnoH57pDTtnmGKXeV4NgGusu7j0HRx-_VEoUdTTwB_XkaC4aHQDNwWG7jTN_YXZw5_Ti7S9nX3E1uEv0YTPpws44g94ErozGLph0zhcCQazLRUJw4hb3o6NEqvdQvuv5yi5066SKFKMa2saNqm0-N-TYVqqGy2fGbDag9uBVTH29k7iiqAEtZFRP5fdvBPPQEu34AG-u4R5F5oF28-IoHkFeVG4fCV8zk68Qu3a-5_3psHhCy96nziEntKy0PiW9S1bDML3-Z-FkTO_tIjZg1Xui1xQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102767057222839890101\">Barilly Li</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2diMqnoWpqmUCRFSvjv345hPc2fAiXkKEI7wGT7Pngr1vrf1cv7-UraaMp17qzjG1YLdzK2k1L6_QcrMrjcEpiKBhX-X-qPnFKrBNp9GEG-U2K4_Atu1nsh9T6LySNQm6cAZBE_DJgbKSuarrB8sNKQcTI9aQxQWEpY_1rkJ9YEkN0gHg018Nte8CKxyfVIaQXty1YIvfLFtM9PU3ii8e8jDjIM21gBf4EvR3vx2rWL1qRE2GLLYM5IPSc2SKwNxW7buFC7OIVAqZdliCtMPT_pIZc_5eFycZA98TwhYJd8qvin5XYt_GmUhjhG3LWfUqZJif0iWKo3LtEeE1upJCdnnd6IwjKRifZ3hRorLi7LP8Vr2sa04bpGedu9Ma8V_fKOe5ZZiYIHAV0eUrSJnkSPNfDGzs67_2RRBoRsP145wg",
+      "width": 1848,
+      "height": 2307,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100626205390047471280\">Nadia T</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fiyrfz58xofVfq5100Dd71B2VHkwc7IeZ2KEiTiYP6vSkjfXce1bMNBXnkgN7lnYcO3ce6WBpgzrUbc96TwG3-pyvgb6FDk9ZS690nOCtm5tdg2ol6wE5tdfpe2u9Ol5Hpb289OJ_xGTjoGtAeCLPMB4ha0BEgIDh2hFrZ6dvn9as-vJfKm8yVRPMUcG0clBfIToyAZjQknxT12xa2SDLx_YyftwYlff35gJ02B1zV3czoCN0C09VcuUZBXLW-gLRJziguzaDQSYoupWQ4jCbL4c9pqUcpI5TWhSt8JhgiYPOQDUCGmSRjfA7hYqnFAulZriN8ZGOveYFgQlfiCYRU89CWRrPqSd0VFvDfF0eQeEdbxozd3GYURPE1Xsd4YPLQKcAjYz_Yl6BVu2j8IqeBQyVIZT-di-stGwA7UxRRGlFeaL5nfLM_q-ZzxA",
+      "width": 4000,
+      "height": 2874,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105802762502336041781\">Leo McIntosh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f16vm1ptx5yJ8YUHjtDok4l4L31wBFj5G_D6_7Zbc6EQ800QB-0jHyRoPgCiDYp54KAXfl2HEIinly7TADE0NAFqHpvsTYA2yDuEv2kHg-JdLBboIiGbolgeUPJgl3t_7wWsMBoMpfoVPMUoWMYiHFlv9aqCxsE4pjp3AumviIH2qzLW89TasNVmh9kMqNbxjS-c8iLkp29WrgsfXsF3L9JVjgxx95hLliRrLbiJH1pHpoVGBy08zSHeP6vjFjjn34pN4IuXd9LDjotK9qTbq28nzWD8tNWmqCVcTe17nykU7TaAP5qFLk6JUnbvG09D2cLbGN_MxDXsfDSX512KBrDPX25r7wGph_fzsG8xNY_mFtIOBxbGxH9PGWu2TITN6bH-feuwhgFP3z8oCbdhDkGq2_mP_VOM4F9x1rTUWJvw",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107370616457131515765\">Valeria Bugriy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dYQUO6DU29eQffPvqc6NBARAGcE2lRLq8v2au_e2wR_eBGQuEncF4lxpoeaOnr-2iP2C8v66ipeGAxHPoRcc8J1BAzZVxyP0OGrHR5OhnxubCppSCY6S9KNgq4JQIIGCKtmKtmpiKRi6U4XsADWwVD2HW0F7iPy9sHdzgdlHaCUH_0tbH_cQMq69y2ynvPj4G3epKsW9sX_zUY2xL3bCb0RsLsq-rKuc8aGVIhuXNl9buDIdsuBDowA5bx7t2b7-WjJlA8QiG3hoAztZMcREhzE0j_OqimN-S49pXumF0nywwDWlR6bgNoeCvy1rHy2rDZ0T5cAR5gDCV_frGoUuEg_KNs9yt3aJo654OulZfr4-S_rHHb6Us4ZN0zpGfMELueJpuewq2xkYaTDa8dtSormehLxfFbBt-ZYQ2jM6RR2A8",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102767057222839890101\">Barilly Li</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Lina Fievet Merkscha",
+      "rating": 5,
+      "text": "The best Thai food experience ever.\n\nI have been to many Thai restaurants everywhere in the world (including in Thailand) but none of them came even closer to this one.\n\nEach plate is infused with so much flavors and taste; fresh ingredients from Thailand; using natural and wholesome foods; they are crafted with much attention, detail, care, love… Every bite was a trip back to Thailand! It was so good to be able to enjoy healthy Thai food without worrying about the use of msg/ chemical additives used in other places.\n\nThe owners are so welcoming and kind; I was in London for three days and kept going back for every dinner. I highly recommend the wing bean salad and the banana curry; it was so delicious!!\n\nSo looking forward to coming back again on my next trip. Kapunka!!",
+      "time": 1753975177,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Rob Sheppard",
+      "rating": 5,
+      "text": "A cosy vegan Thai restaurant closed to London Bridge, offering noodles, curries and stir fry dishes. We tried the beetroot broth noodles and the konjac noodle tofu and broccoli scrambled. Both dishes were cooked well and full of flavour, especially the broth. Service was friendly and welcoming. Overall a great lunch experience.",
+      "time": 1758999937,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Tinya Chang",
+      "rating": 5,
+      "text": "Incredible vegan food. One of the dishes I’ve missed the most since going vegan 10+ years ago is the Hainanese Chicken Rice. I had accepted that I would never be able to eat it again. So you have made me very happy. Very kind staff as well! Highly recommended.",
+      "time": 1757794086,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Valeria Bugriy",
+      "rating": 5,
+      "text": "I really enjoyed the food here! Even though I didn’t have a reservation, they kindly found a table for us. Considering it’s in central London, that was a pleasant surprise.\n\nThe food combinations are unique and intriguing, with rich blends of spices and condiments that make the aroma alone worth the visit - truly mouthwatering.\n\nThe staff are incredibly kind and attentive, always ready to help as soon as you need them. Overall, a fantastic experience!\n\nNext time I’m in London, I’ll definitely be coming back! 🌱💛",
+      "time": 1741465214,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "C hi",
+      "rating": 5,
+      "text": "Love this fantastic restaurant with such great food. Everything is delicious. I had the jasmine ginger beer which was not too sweet and perfect for hot weather! We tried the coconut Thai rice chips which was super tasty. My main was vegan Plant you cashew nut Chick'n with Jasmine rice. ....so good I loved it. My friend had Yen Ta fo street noodles which she loved.  Staff were friendly and ambience is welcoming here.",
+      "time": 1751395087,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:08.275Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-zaNNcDdkgRcBI4HarE6FU"
+}

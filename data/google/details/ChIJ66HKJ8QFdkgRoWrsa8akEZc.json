@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ66HKJ8QFdkgRoWrsa8akEZc",
+  "name": "The Cadogan Arms",
+  "formatted_address": "298 King's Rd, London SW3 5UG, UK",
+  "vicinity": "Cadogan Arms, 298 King's Rd, London",
+  "rating": 4.6,
+  "user_ratings_total": 1704,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.4859969,
+      "lng": -0.1729432
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.48730048029149,
+        "lng": -0.171508419708498
+      },
+      "southwest": {
+        "lat": 51.4846025197085,
+        "lng": -0.174206380291502
+      }
+    }
+  },
+  "lat": 51.4859969,
+  "lng": -0.1729432,
+  "formatted_phone_number": "020 3148 2630",
+  "international_phone_number": "+44 20 3148 2630",
+  "website": "https://thecadoganarms.london/",
+  "url": "https://maps.google.com/?cid=10885662946452335265",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 11:30 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2djFz21DJ94IBiDnpM44m43R96tfnKyarxq6XePGzxHVZAF5v_-GmkdPMDjuKaxh49yYeFesVTJGTgaNmNwuhvhaj7hiv2__hs01cK9GPlXoo-p3hnpZWjUrUSQ9yGy5F2ZbibriXdOyHv-DbHdPTHdW7SsR6aMBZts7BoUeOJNN5zjBdWdnfksVgFHoODY85RHF8a7k_AhxYc-bkyr179hvzg36Y-2nhCqC0UqCFgQfmdmjAJdQTKzkBRLkrFqf0iE3g52fZ-vNJxs6Ks7YdHhBySKZM0fXtfIjioF22PxnQ",
+      "width": 2953,
+      "height": 1969,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105980022237853931925\">The Cadogan Arms</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnU2YaTavly2IZpxxj7xrGzR3j9PgG64Dd063O5Se_El2yRRiN7jwrEjZmPMfqzEKJgOz9_G8iOJrMwBptnamtIcx2rwKRTp63__OlMxMxxCavvIhwMADZqb2qgGpyc-ax7f4D7wGBnO_Z-FbrUFa0zBDZU5F8x1ZxlFexvGPFNJ5RmxfdNTkNk4LDFBubQ12hCC79Tlp_eyQUj5V0vQxd73BPBKpMk_vgilzww3zTf9Dc-BVsP0WavBcTha5_qtyyiowOz48JXyyg7WPAAY9S40czkETyYgzjiYWPotDonzwWTYysQfW9ve1i-6fnVdZbEWwISLXvn3gd1yotlKwVpla_uhbAffDlCCYsLaqxKPNsMdtrjbH4gnv62Uvi0LtzE2mt1UUWpNQc9drkLq5hwUHAHzQvW9xC3ban93MHdc9vXp1ANYjr19yr3g",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108133808844824726379\">Peter Pentz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fgaMYEzZffvLmzlMb30T45J8a6DXQZAfjnTY6Fl4zLIK2nGwn7jOYax12uU0VyNsKjgc26RoeiPMRcjmEsErGgvBKQlZsUIOtot1nN7f43jfTdydanLIhgpDQH_4rI3wkBVLSVsh7XP_RGaoFWqIvVYs_VeBRRQAMb9glpnf27TawYN706m8SknKPdOe_vX3r3LXqSBKpvgZZ3ZlSEbs7NGBOQ9KZy-Zg_cV_9rXIP3Vep13eN1A4GGDQr0fze5OapfzS2rpOoT6XDGtP8Y9BsZIWljXzbhgOKxzcYJO1ehA",
+      "width": 960,
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105980022237853931925\">The Cadogan Arms</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHN4TFaSB8yU_K7kwssNx9CtoPQbrY4rMPue6GTOrtjOs63XF_DXD1WTWtpXZTbnpIy7s_rOhlbOB-Yv3d74T8diyvRLW7Z3XYtzZBm9z9cswGl0AJRwEfvvf78HiLAgfMlB-gNrfn9C876PNJ8DWv1jrbaIegYSPPfZDgw_Uw3Z1DfLDzQ1ATK1wzoDgVDa7hZCRCymTWyrbIjqP-Q31XJlzgsycRyXEM48KphYy_COSX6yAa4Yi_LIwKCWUjoAULAmvF03lpgLDSXnwLxwTDKISW0klgJjjZUBDpjMGj-28rQ20HNWqz9nSv1cb4SWg2REq-dZfJuEWAgL_L-_9odAMcrWuJPxqXW2WPFCg8iaiNMkaM7nw3IeR9bF8fDH75hbJ-UBwY9vhSLAUvYlkF3h25iwGEAKNj8YlpSxfKcmb2P9ERW5fDDONlHXFs",
+      "width": 3120,
+      "height": 4160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108281032519841206316\">Viola Wang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f1XIJcG4HVGi8Sp1vhbRQxwnq59q5-hhDCrGn1DuIF7iIaMiuSAbKxQywY7QfjpUDRiAEUUq0hc_vkoYRLreh5yS6Tgz5xtVvg5D3n1Fq-_td9fQJT70GZrUecTMMO8eTzvzJwIXobF4d126M_X_G6iyWIEDpIxaV6UwbG3zlR93BlcWiZnefdZZM3NxzwfMYXtw_1EdGcrqKbyOoXvDPlVNS7NhZiBtUHyJcnYFDeWbqK9jc-H0dHOQL7kF9zT8TlWM2Mw2IJBmPd_FAqn1TFJIpVmzR1_lkXIszzUecpkETAahemNoWrha46bGu7qUcNSUSRpzrHi9fN3I7uExb6XZz6hhsyQWEr1MrMIEzgoHL3l7mzBE9Vsn9-V_oT99oQkRCfnrrWtdy_sVZ2B-MOINcxNISszp3563BJRBosTY6nbFVwsmIebG89qsW0",
+      "width": 3472,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117890991603318323416\">Shane, Sheba and Sky</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHnAkgWHGlUs3mzdgbFMtLrMkO9Bfg1Uwi-YJYANTf_KLpkP97UOAE7PqKmCYI9XYFD3mrbSEtFUAxDA17jqJF_Xm5GOdYjrcTyNcJUnLgEt_Nz1O2CZtZP1_i3DKKohw_zoAZhTIsI_tplt3MMNKop-Enq4Z6B_RFsPUAIwkmjZdc0z_FRJXzgUKxkt9ke8TBcrzIDQ-J6Cvy2bJIiLjDXL7T__MJroCCHE6QXrkKu5FfSwiCrKhimpzW8MuLlQbLw1LVf-0iS8IGHPsXYJJA28kK_nEa7BdW_ig1v3qTI81V0GcEkjp22_b96ldlnSKbNJk-RuVHYUnPnFTKhC7dU0n3OOhGvERnPPykREzATSxI-Kc090vehxQK6ibCEEms7aYh9O_23aDole1sYOBB-GqkyflyYUB5d2D1W-dxfg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112046117871443935066\">Edward Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQpI081pEZXkENHFtAO4ZbiSWTB38uzEgwLgDZhg67FTKrgmelQxZmdpNtYGp9NweGYq36xtZ57eKp9cmsMyTC1VckybVzXSv8ozPK-gtgsm2MZj25HWiXQIV3cXsAxg_wxAcyrZjPyjnIdSb3iZdMLoap4n-eLJgV50T6PPxRJzvGkHBHZokHSetwvp1TymfY87_57xO4dDQsz6T3or67wy1zzGx2uUHXTh8T6or-k-GPITuKk0gnzTjWJpU1WymDMz55TrOTZRpU11B7mvm8yOh5ixfDQTSg-gnEKQB5_uKxgM3glw0AAbD0wkSk1lk7wqx2JZe78pjY-VcMi-RjXDrsSEyWgeee7bZKmbw9BNbk-FuMA0VlQ9aYbbB_7svu8to0RPqv2iJOg2xnnLPQlbkM2M65GtwE9Yy7ruin3hvscanf0uhsmtfaw4lF",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100118042194313998103\">Sharon Williams</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ejjYnsQM1r4XTuFzbdwDMdNE9qkf_8o2ryySVYGXjXvTuPB_6fi7rFNL2YYKF4jquCnCxRw3ZunWCyHcoojfLEzGIWQUCUoduo7jtBRZ6AeL3iBtRUK_AKCftbP0LJgcSzDtv3yX8csTvKUGNSX7JH5QSW6AhIb8_URZo4WwOActEbuEjq12RFk9EWgk2V4rBROsCzOAGfViTmY3JnUsvIp6ea0ekNbF6ei8zmlvHSkrnrWos63gYCXYWkS06b8Ew_UnaS0uzMGUsbBImZCjMxKoCs4LisEqLo379nuWa1AlJguUjcuXaIt9RCvCNqk6eNSOUq8EL4FV9W1J3uKciwDEiaG1Ar78fFcKEY6a80p2swD6YhKoqB2qHHmI0GvU8lEww6FBU3LIFEn5KT-w7V4zmqS_KPYHQSSTUMPXVttfmu5tpFdgKgXyB95g",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113593303749910143425\">Bo Brown</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAfJOla6yxHR_kbXdFsxCtwcRqsYg4EKWIv-Fu4fBDMo-hESZRHOdk3qSlvXemW1BJp_yHk4QIuSEo324vmvSvipI0gxhN3jFQ2LFRSlNfZO0VSxYnMDipcjfFztqDWokwO87qBhCfkSDxTi0vVon-zO_ZCGFDfe3skDDGmkGMZ6XAO1bCnhb5skwxYMhJT1fZNQ7cwLD_F93bB4dlLsRUyZkXBqmvXSQukNoBU0CFMIAYXTq2mTO_-u2WQJLJwt6-Vn9UD-98eA1zodk_kbli-fA_x4A3gGSl51H2FSl6cEHaMjAFDVyI5IKD1EcgemKOVdUM6_OMekhMMKJgG_8TfmGUgCtXlomEmgqvhEDLfzfxyU_M4mbRI6JBCECqjei1-PPchn5WKcrqSvPlGE8LoLdgIApxCqu61Er3JjnkjQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112046117871443935066\">Edward Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fC59sZftLWkumSQToQGOWlGW3JDGpjh_MYHGXmrnKFstmQFziKsyTD-kTctTR5m6a4I6rdaV40Ji29QuITcUqLabfGAunvp1YkVpIJJhbA6zGN8NvwohQsRjJRJ2fe3OAobWVdXd1e5XHw3KsikHYw4t4k3bZOzx1wnNU-GAA_ZU3InnoIvLQ2vr27MHfKCGIsllF-N18v87-Htb6ZeFYt5ZHW0ty5_Gj3ABv3AGK2GGpbQdHcl01ZpZv9qlQYCKBTuvtnXg-nuTG9WHTN_SIAAOX_UOsNuuKvACbWqGlM4K1WKt1KGAO0N1P0AEUoCGYRIAdwVQ0Uyr5r5SkRxh9u_185DR4eUpHneKmAHs2dSvTNmGOcrjZmB7loj8aHFVKjCUKVswDVcBM0PNvkBSt10R2Hz6eZ4dkgIA8ensZ0bA",
+      "width": 2581,
+      "height": 2583,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103794163160674179771\">Christoph Ebbers</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Modern British gastropub with darkwood interior and mounted stag antlers, plus upstairs pool room.",
+  "reviews": [
+    {
+      "author_name": "Quan",
+      "rating": 5,
+      "text": "The Cadogan Arms – Sunday Roast\n\nThis was easily one of the top two restaurants we visited on our trip.\n\nReservations: Highly recommended—this place gets busy, especially for Sunday roast.\n\nService: Friendly, fast, and attentive. No complaints at all.\n\nFood: My wife and I shared the Native Rump of Beef Roast, which was excellent—flavorful, tender, and well presented. Our friends went for the Sunday Sharer Board, and it was a hit. Even though it was a large portion, they enjoyed it so much they said they could’ve eaten more.\n\nDrinks: Well-prepared and paired nicely with the meal.\n\nOverall: A must-visit if you’re looking to enjoy a traditional Sunday roast in London. Great food, warm service, and an atmosphere that makes the experience special.",
+      "time": 1756057085,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nico M",
+      "rating": 5,
+      "text": "This pub is the real thing. From the moment you arrive, you realise it’s the place to be on the King’s Road. Whether you want a drink at the bar, eat at the restaurant or watch a game downstairs, this spot has everything to offer.\n\nI came for the food. Actually food was so good, I came back the following week again. One thing to note is that the Cadogan Arms is part of the JKS Group which owns some of the best restaurants in London including Gymkhana, Brigadiers, Sabor, Bao, etc.\n\nFood review:\n-onion bhajis for starters 10/10 super flavours\n-fried chicken for starters 10/10, coating is just superb\n-tried the mushroom pie 9/10, some extra gravy would have hit the spot but the tarragon gave it so much flavour\n-ham steak with egg 8/10, their specialty it seems, very good but wasn’t my fav\n\nI also tried some dishes from others and everything was delicious so I really think you can’t go wrong.\n\nService is super professional, staff are on point and you’d hope so for the 13.5% discretionary service charge they add.\n\nOverall I love the vibe, love the food and it’s really a top gastro pub. Can’t wait to come back. Book in advance!",
+      "time": 1759438383,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Brian Fealey",
+      "rating": 5,
+      "text": "Lovely birthday lunch.\nFood is fab, cauliflower onion bhaji, fish and chips and world class sticky toffee pudding. Pub classics done to perfection.\nGreat choice of wine and cider.\nGreat friendly young staff, all doing a great job. All kind and helpful.\nThe Cadogan Arms is a great pub and we had a brilliant afternoon there and we recommend 100% and look forward to our next visit.",
+      "time": 1755333231,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Peter Pentz",
+      "rating": 3,
+      "text": "A classic, beautifully  British pub with that timeless Chelsea charm. The atmosphere is incredible, it genuinely feels like stepping into a scene from Billy Joel’s Piano Man. The gastro menu is top-notch, with dishes that are both refined and comforting.\n\nSadly, the experience is let down by the service. The staff are noticeably rude and inattentive, and the pace is painfully slow, which takes away from what could’ve been a perfect evening. Prices are also on the steep side, making it hard to justify given the service.\n\nSuch a shame. A stunning spot with great potential, but in serious need of better hospitality to match its beauty",
+      "time": 1759871392,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Neil Powers",
+      "rating": 5,
+      "text": "My son and I visited recently as a birthday treat. We chose this place after seeing a YouTube review and thought wow, we need to try the Ham, Eggs & Chips.\nIt was the hottest weekend in London this year, but still decided we need to try.\nWe weren't massively hungry so just bought one main to share.\nFood was amazing and we were so pleased we tried the ham, it was lovely smoked flavour, tender and fell off the bone.\nFriendly service and lovely decor.\nIt's not the cheapest pud/restaurant but that isn't an issue for us and we will be back 👍",
+      "time": 1753118588,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:54.360Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66HKJ8QFdkgRoWrsa8akEZc"
+}

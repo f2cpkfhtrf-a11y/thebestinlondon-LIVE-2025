@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJo3mM-EUbdkgRaCw8YKTvL74",
+  "name": "Cafe Maya",
+  "formatted_address": "114 Farringdon Rd, London EC1R 3AP, UK",
+  "vicinity": "114 Farringdon Rd, London",
+  "rating": 4.6,
+  "user_ratings_total": 878,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5252972,
+      "lng": -0.1107044
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5266561802915,
+        "lng": -0.109257969708498
+      },
+      "southwest": {
+        "lat": 51.5239582197085,
+        "lng": -0.111955930291502
+      }
+    }
+  },
+  "lat": 51.5252972,
+  "lng": -0.1107044,
+  "formatted_phone_number": "020 7837 3190",
+  "international_phone_number": "+44 20 7837 3190",
+  "website": null,
+  "url": "https://maps.google.com/?cid=13704435680379939944",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 3:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2clRFmwq8mGT06NyH5wNW7w_i-8L3rIw73hxdLL9ByXpaZr8gr9WbSbyaQevoM_r3PFdlO3ioDUA-IcvyBgM9RyrfJNTHPJ9YVoq70HmaePBon-rGwPzGlnVXN-5PBLEsO0efVbEHFOzAA97_ntbTt9UDkkG7d2GGs_Jbd5mhQuWAC1A3kq5VwQMx5SMiUfqggAR6Rdv5k-n27UCHKgSMHwPIrOguZBkIekQ-sa78Cd3d2tHarSTAWuXbAzAe0iBEvung-szjakh_orJdTdl0QAwm_LKXyIkyvpukeM3Yqf7vNeluonKHlOS8cpTvXRjwfB-r_cCLGxhyTn1i-hFnEIzxvkdamHif0RcfZdZYExw6MIhWuRhxYtgq6xPHgr5GRLxnlQFWl9OllkN2qGIJS1UqgsoMJ0yK8JvMJ8TGwScA",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117966247707967911358\">Sebastian O&#39;Rill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eX2kA__yMqOblPC7YPNq-oDCtQblwuoleJxPDO7KfILMt0NhqNUWBV3bFTdavJevyCU4yjbA06f2DdDjwFl7TP1Tf_66hDS2YpmT5wKBBiWO9pEescORoqFLguONzxGp4BV8FXESyGt6U5l99eNsOd1BG76uMrpJEtvN_vkqv26OVNz2QDlkO4ezGbrxNi0B1rL-NwguIP47AmziZBSW948vva5ct1KtxfhBvyahpJDmGQIBrlBr_8URHMl84sk-zCVbLRI0lWsuU1lAd1-J7sJWaz_zQh23yleiqQR5zH1DDYBqJuVdeXVbPIjgdjX8T8p-FHco_ZM9j79RNpJRENtPrIDjpNWyRCiOmwfBAHfx3LtudHT7QZv_JNBgU1cpHogDtQZd5ln4q5oKRBJx3hkS1H_COKN0Qf9tIHyIbPZ13ZEk7JB8I00AE55VZe",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102370005357631052596\">하해민</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c9g_4zzmFU1oT_J_DEOiLjSTzQn-LNdyJq79g1VZQiJgvOE2-FVl7lpLsoVqtV2nq5TqbOzHJRe6QWB6mhGkS9KxKGwvHL2QzQjQw1OfUYt99DcTA3aWyXJega4C22DMEJyX42E-VyA_YcNYSB0Hrpa64nfsJBjPXyD4nF8zLAoq5GBkqaCe6-z757fUHT2j6V7QP06MU7aNfCjq3O6w5CMRrt12qsWCx4PZI4o2suEslr7N38tGV34qpXDJK0Ksinc26ARaWNcjf76wxL3LXLS5CmkPWVZcuP53QNbSnNkc_-ZSVEdoB27ON_3VRR6jz0kWmHfHvmuL8wr4rYGm889obGSa_QIoFyw1LbnX5yByCszNzQy8KxOYEXQuhGoT56zn5S3bq79WFO1ddMvCNyWLED36nZZFO06OZODiYPoHdpfpEaG0gijaN-3J4s",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114850424617938612074\">Mitsuko Makino</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fNcpoHn_hpFmYbS7RSDj3tF_U7KNi52IMWL0eYLIPl-82X9iw2679_n0Hw_JecwsbtBSklhKrsEPENAQTWw9JiZQldgC3yEHBgSf1KWbE8B-8L5AKrXMYw18PRB6v_QbuRZXikHfGCJiXVKCscMzFj03btJ206wf8dYfxlcmuJf5QJ8P02d4WWTwS9bRpoNcYRMsGkkVS1IXwZKtDDcnPAirvxQUIetjf5fD7_msqf7P5Sl8B-7mL_1d8aDL4dPnVGsLP4HPwejQwGssmkqs_mR_6SGbaTDil_iDQsoEmUDD7xLDN9-XuMW--Ylz_MUHhjsrI5hXrMulCHI6F6f_wm-QTC5kIZjFDX3JdLBG_O-9rgSWyP97FX1IYY0cgGXqUMGb4b2HMDhFEOnJXTKepkKusptGa0-reOwqe8v53O3w",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103414203231402681187\">Domi Bertolosi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fSXfjmelsHvUpgSA06oK1Ubg-_HhkWO61jfUY_4qZVHmBDXPmYvOE-uQUBOtX51N__UdU4RXR6Z4TxJS9cUnpEXw4J0R7xNnsUNS6_fYjIuUV6rbbeQwTewIz3R0fYS_q291H6JRO4_WSZoboHeqUZxhcRgL81NHKnSX-BQhxX5LI76LY7lEpT9bUVveOdDsgifgFHPERdwzyrOK9-1TY2gflR22zkI6uJ1UHD5c3QvwJym1KQjnei7HUrv3N-vFXLlG3vagUD5qJt6Gura7VmxIyelpvh4YAYdBRIiMSUFqMuRY593gQJPjYX0sZBaBXknQulKnhSkyQurdt8FkuihixqgKVRB_pv4wfYFi3BstCKq7znQPTpe5ybVOGnaTfCsiGmSrOCK2v4gVWVEhNY2F8-NMPXzHCY9F3n07Zaym2lCGeAkJlBy_ENuQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110762687051196800005\">Filipa Peleja</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fdjrs4XNCQeqzFWPtm26LJaU4zO-iaeVnMhcvMTJCtxdbu41zPyKDmFTV6bM5aRoThS0padqWF5D8i0Iai_AzM9vKwy_fZKXrjFOmKciV7P2tqLO2gKTOOAVR_deBHKRef4B3KW-i1NfVVPDfgwPjSNBGICKjK0yrhhGgCdbAfjSCEDilJWprL6E-yQJCHOLPQ9otGgx1Bmn7BrJZJpa7Hku5J_vi3gGrvgzCJd9CbB7jz26wN5NkhyhXzNUJsF-emtr-bZZUaOxQDlEsq8TkJYbH1L8cmBkgwCPjIe0gIhf5Lj2VI-na4WliXcfustSlHskcdmHfCwgzs5vnk4HHEYaKoUM7JtNM6TsozQCzbCbNo_360MKZIiIAhbYkr9WWTG3SEFV4NF_eISVWnIH9926LPs-QYFBFOgycdwcvaX2c",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116622415643166771409\">Antonio Smitti</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dAz3XdlqnzJsX-R7dNumrjxTROQWJQOIAuXpyNOSjDt0M6Jd8m9k4UeEAA61UmyBryIp6_RQUyyHdgnni6T_Jygyz7KmV6TJXMEdHDKrs5yideORNj3BJoUcM2Gioww6Bk7DPPO7yQpJt7XJKr1hQAYBwZFhQ5UttuKz7uv4Wk8t1AUfWakFNHtWOv6OYKjHwZ6N5MbUGVacO5S4lbP9TSBGgU0L5B5Zl-N_2j5U8q6zcJIFtP8oQ-0eS4PQJJGXqeM-taJSIv1CNSigc1InIihxXV7v_0Op20Uun7ve7hcpURmVlA7DJiWESKpj58HhRjmp-sQeR0oYu38gjzSim3P_1eMifCPOpxjf5XCls0hFVqanAvW2SwGDZ7qeyomPqcXEzITAhloOsYj09aD2gDcEdTB9gcBSVkQ8YgDTHlS0E-Qu0594ChTZ1dmZGz",
+      "width": 2268,
+      "height": 2667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104518196824936562662\">Nicole Chambers</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e9HyWQRniqACbR8jBXdofuNEtXrfO-pTehmtCh6OUTgvlJOwfLwaVXC_laTjxr9cdXuNeI7tyJPNBpB36C_OJHfdbyT-nyPE5VcQ0aX6GprYAQ9tEZym0uAbREi4evFavRZygv3nl-Nk8dYDqEGWqg7oPEOOTETXMNcVmR9IhQZE8Go92CsreiqkwKB2iQdO_Z54qDYUFL8qMNt7HRFX7I1nGTMIcryqV3pBfUdzsrDTrGMasYDYVrghaHb9beiR96Yrc20PnAw4HkYalO8h8h5ZuDeG9QNh52bbywLz6-NbmcKDflKbwLL0WbKiGFul4nsvUDT6P1s1ash4Y3p300cqpgXNr6y4MJnLgJWyu9M9aB-WwqZ7OX-2CnIlsbD6pRBNi5u3qAQOe_G8ssru33iwMVlvdG6imsSqTc6aGuVw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105612165942206758593\">R M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eJPmqex0LymKv1PJAUkF9hOhzTNtETreLoGYGcnU8JPJrQCRJQ7pYkPL7TdssWx_NPpkPJ6FGu0Cs61ii6M4RFfKwQYP7T1ONbXZcENYn-P_Wra59qyq0K4zdy2XCsGIenscKIvJzD0s9hljIXZbtlF2PvOpDvdDV3l_DZCHFf6QoZ7IBD4a1qC6sGJb0Gj7SMuevhmer1H4uDX53co2hXhIdGsc5GJp5UatgXwHWngIAb5K349xrQabJek7f3lHLNnJ_OiXakg6FnAWlWtM-r5bfHXc3HQ8ZQ8Rv89EJKvl2v_qyhsFwSPNgqJxBo2FvK6SNEhCEFY_VVMzsyi5Ajf5QVC29RKTiMQuUWrhIfymNXHSZVZte7xD3EwpGq7XhAog0Tlq_FvGwFEZUvPEyXKurTLqPY2svhMYNXgylMJcMc",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110378194959468529895\">Jae Gee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fH6whtgwTuxnQD_nOw7l_MiKhWKVbD44ifSFwn1Z-EgIh92yFsG43dslRalvIkFxs49GYz4Ot-WCV3otyK6bzWkgdpbtznFiOdNiLxdr5T5PVPkoIOmQZ9_Bwlffe9HjXU7nJwH2y7ENNhY4FgqPyalJNj9BQYmNobSgZ7iFK_jfjew50FObrlHIykeSaoWVfpAehGUw3YzHbVqBv990brgueMuzdn6QTQisej5k2vB8a5K4bfWY675CwDulCfD4AoceO4jdXhd2qVT0RRoXNGcTJz-Nw2lEl-80E1Ek68Yscw4tkJb6IP8aMpzXygdGZPXNGVTyAeUwRg3efIQmlzhuG2cwrWPUjQL0aWb20qYh7sdBoPRolL-1y80Zx73k2sQab4E_WQoMq3c_MkWWQRpAJQj0b3cUtLs-n3m2qAv8lFH_1XnBx7USIT6Y_T",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102370005357631052596\">하해민</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Nicole Chambers",
+      "rating": 5,
+      "text": "Googled this cafe on the morning we went to the close by Postal museum instead of eating at our hotel. We are so glad we did. Sat down straight away and served quickly, efficiently and with genuine enthusiasm. Smashed avocado,poached eggs on toast for Wife, No5 breakfast for me ( I think ). Served quickly, hot and plenty of it for both of us. I mentioned to the owners I’ve had less breakfast for more money in the midlands. Highly recommend this gem of a cafe. Thanks guys.👍🏻",
+      "time": 1757172174,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Rachel Monkman",
+      "rating": 5,
+      "text": "Found this delightful cafe around the corner from our hotel. We had breakfast every day during our short trip to London. The staff were friendly and polite, and the food was simply scrumptious. Lots of variety on the menu, and lots of healthy options if you don't fancy a classic fry up. Everything was also decently priced. I can't wait to come back again the next time I'm in London!",
+      "time": 1756288926,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Mark Estdale",
+      "rating": 5,
+      "text": "Just great. Fair choices for the hungry omnivore, veggie, vegan and the ultra restricted nibbler! Staff happy to mix things up and go off menu to be creative with what they have. Great coffee and the good ol’ English Breakfast with no corners cut. Great Mediterranean choices too. 10/10",
+      "time": 1755671177,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Oliver Carmignani",
+      "rating": 5,
+      "text": "Can’t wait to come back to this place. Perfect and delicious english breakfast, cozy environment and very friendly service!",
+      "time": 1760267421,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "T W",
+      "rating": 5,
+      "text": "Royal salmon with scrambled eggs and sourdough 10/10\nAdvocado and poached eggs to perfection 10/10. Lovely presentation, quick & amazing food. Salmon was so good. 😊",
+      "time": 1754565101,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:19.084Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3mM-EUbdkgRaCw8YKTvL74"
+}

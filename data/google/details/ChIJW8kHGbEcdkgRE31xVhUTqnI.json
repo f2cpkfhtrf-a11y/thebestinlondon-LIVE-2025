@@ -1,0 +1,224 @@
+{
+  "place_id": "ChIJW8kHGbEcdkgRE31xVhUTqnI",
+  "name": "The Light Bar & Dining",
+  "formatted_address": "233 Shoreditch High St, London E1 6PJ, UK",
+  "vicinity": "233 Shoreditch High St, London",
+  "rating": 4.3,
+  "user_ratings_total": 850,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5221414,
+      "lng": -0.07833
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5234679302915,
+        "lng": -0.07689471970849797
+      },
+      "southwest": {
+        "lat": 51.5207699697085,
+        "lng": -0.07959268029150203
+      }
+    }
+  },
+  "lat": 51.5221414,
+  "lng": -0.07833,
+  "formatted_phone_number": "020 8194 1685",
+  "international_phone_number": "+44 20 8194 1685",
+  "website": "https://www.lightbarlondon.com/",
+  "url": "https://maps.google.com/?cid=8262437448730115347",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ddts2__NaARr8sfpUpXQdw7bVj8cbrmAmkevEFp1Q6PSd_Ra9sT07O4kZUK4nQI0luC7psQqjqWRPEyPxOY5lZIOoubmYW_Ffs4r2Syq5Lh6CLRlWjOhxPDuNlXMGFRecW6yNm3-BRnoB8dEd2hVk5MDtGCsuO2WhxVz52ujeo4z40PIeEgzc6TTS_V44UbIpC1gFkzB6EZIrcX9naAT8hrO529lT7Kdcs0dzLPrOVT8a6eG3X29LS_d2f0LKpwE3BslI301MdXFQVPEBhNIZLuKSMJ9tpFJBa_gE60eNJkQ",
+      "width": 1802,
+      "height": 1125,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117542374966711447696\">The Light Bar &amp; Dining</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fiqwO2wwZW45aZbsFtyTA87jlvlltZUKhB74sIf5_uYnwdm51DHHi1no_YqJkTc9x10kXlN4aNJogjHharnCcod8rk_LY6ZRUo0g8SOgaGiKz9afJ4rUe27xM_RwtPxQTUXlyPqBbsQEWFM4tu1gj_sW3SorgnK73fr6-S4NdSsWrzKifL7pPdBqcPojd5n0_BkYmWT6dtmADsio_oTJPNwAgjXSlfhg_G4WNoSu1qqcWJOD2JRhY5w7p9sBove_PVC4XzNdk_GWoFXR4LkD0H02gYWUHtvL9CMRp-97bpAg",
+      "width": 3201,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117542374966711447696\">The Light Bar &amp; Dining</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ezZdmwgYVJRhBy8Jor1EpLsEs6yKiwoU2XN_2o09h7PfhGeR4kroAj46fkiagX6HF6Q7O0v4I3Z5zTBLxhOjxdCu0IR_67-E5TPQDlqqzNW27jfhuJQT3SfTRItvMUMSm9HKrraDd20HVZPccMFA6FaihqLY2BIWo5M9aJ0-MgsQlugLDxD0LYqCcRaQeclx_BkDWYv2y9SdBnVBJE6DVQ4x7dHi5W91_WX94-uVkS8zI64rzJ08T_XnGTKttE4LjYfssAzJQAFonCZmb0E9yU9gJIYZdlI-tgwS33tuEwwkLw4sQ_iofLnSYmu1Mvy8fAnFowoRZI72DIsXOyc9RcyYZahLLO-RsSh-_po1ugSiyXaOAky8XE2Omgly7Wr8YcHSmHW3IhQhrdQSZ-x1oX42nQe0_tQs6mY8cfqbagB9kOKhqwej99lxf7DaXl",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116711370091260053332\">Jonathan Mortimer</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eafBMgR9pbo8HlSOZS4yTayeW3_DTt-kUwU_suPS_dajfM7hxPwqbbsqhU7QdFMA9SK5XdghbMs35jHe5EIzDAGi282m0rws6ZTw_ZxhQJNzg4IsGE7HQ28RCugXGt8XM4fAMoUj2JnrILsjTcBdnOH-95y-4vSbpQWHnR-VWBzeh0kmAD-AlPw_auZf0YzKk3PgQglvM0YpAtAtSDhhk4toyrmw9BS3EmLeAkRcb9iPKAjx9lX3tU4NU_GaqsCU9ON_PwxHNjzudtvC2oASI6XlpC762ASL50LZKGH6hg4IzzdkPdlq4OjgRNieoaYjsRxQIoqbj8HpMb87p4X-kdvHfPQBJbHL2WWLaazQDo8X7NPQLFZOGhQG_qocl1b8IJMxqu06MKNonqorLzS1eOzL5RGioVc8ljMXZZa82daP4X7hSVPkrbDs0bRTK5",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116711370091260053332\">Jonathan Mortimer</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dpqFLb57LhloebeBFwL5zeBycs7r06lAaKfJeXzq8lAKOvl7xcUSZM1NQuTUYFBe7FIsHOWEyFhD8wpitZ7Qz9kbeiRiYJyWSeyx_KF2viUf9xUGTz2KFe8Q5m5gpKTLbZ2h0Q3xOg0PRZPyO5XFxmbCLyhZ8sHIAqqTavwlVZSOFmA1BAWcAtow1_zql86nQgnJ_hbHghKXuwXCWqY-WzpRVBbuNSr_hlNzKp_3iFhZ52ezIHpwc0FeT1J5TFSpe5wVImR0cFxUgqlgoelWkj54m8uZHfTcOVKsiSrxNcKhvBW4LxzVHJKFKuUGmOiUgyvrm6xsKvSRvmdLgxzrrjXJCTXibUR9wdPbkSdPbwHU2COeATGpnGtfMyoUR7BYXg0dBedkermcsTR3IG_P_2Pwz9bgRwEgM3xdL58wKNdTHB",
+      "width": 2838,
+      "height": 2900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112884649600510053511\">Tanya Lake</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dotn-ZQ-oiu9tO4XWN-gLidZfBn9wzWNMbIVSRt69w496ZAvr0wnfK_xyT8l7Su6bqo7HTPwETRj7BfZln8KEFaZ4IMsA1DYcHWrb2dRv082J-Xtg7mXkQhTqrZpOpt35OpWEY8g48SO_fQC0Dbc4K2pIu-adrugEZ0Ge3pRFPNwDtcvestW-BiVRZpTVM9YJMYsa_PTrO9Khzhi0_fiIZkVzjwH_OQBmOFAMVwZDAIohBJiYAQmqF7ucc4_Bt5p6RndYOUStsAcSU-t3wZUIT0dDNRyV4h78fCJyOw-4K46W573RSR26YOlwJ02CLqndN0cuEGGQb76Q7UO8UnHN5Z1zc14EA8bWl6l6ygRtcwQqI1ji9u12UPgUj3eU8qMJ5FDQFYtBAG53JGhgA8-uIvetaTR3MEJpLzxLRVvg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102632547311258325331\">Julia Liang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxIKM7VUtYdEuXuRwYpep4626fRviBnX_YkwRtZvksAz4f6XuMowHxUpOIAh3HJac70DWkE9zKypdhNQe7Op0fMZaG4TlNHgvkx-HAbBLk2hMyhpspXlRUsFumNyfRRCfRWmMTFB7BwztWfIubafPEkokN2HE1bbdtSQ4U390HBgntU_Q2t45i2JOxFB8vQK1cvWt73ToHdyQmH25puo8Xbb-IwYwbhpbhU9HbTmt4CXO5hKJCpfi6Avs895fuFCnGKyEaaIQTSPvnrkDSXuk6OH2E8xcAoZ9YZpazqday2E0-U53JUAVV_qdYYABsp36zF6PISXoLi5qHeEAjlaBRdBGSWxz7Rl1q-249RSdfj0RVr7z6yiKkHzBhVYleqCc1aMxMkKTQjvA_jheB16AdqE4eDDCVlHU9MV2AxLOBUM8",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106688306241682785309\">Marcus Wakanda</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVDsz1Y8CtFigEvnB0aEtlNwS1Un8Al8JUHAKML01Vjd4RnurOYuznA_qvw05qY4muBMDQ78Eq_4R-978vwD4fN41jjBRrqLA_7unYncg85TbmTgD3rxvOw59s1RmW21eym8w-Z6s-siBelUU7c7G-02AY-BcJJ14i0QKKf5mhzfeDJU0SXyTHuM1NFDiXUev9K75dt4cEJORnqzoNrHMsvCE36v3nXHNDNqHYStIFgeQEHszgA9XPcxiry6S7-nTE4d2hUMgcasOzPQvLwgYyZrfbz2th4pO6qRl-Edq5dfM7K_xNOiRUnqtrKhtdDFBPkiVwj8xL3Y8w7BKyTHlLQYDVYO6NvywTEVUq-SxyH1EZ0ahCP7YGkZq-4c-FN7cxWdTRderkEq0BWZbMVbnsbVk6Z5iLG_TaUjKC-udJaA",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117211374261662957746\">Tarun Yadav</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c8iGM7kfh9mklL4noe3-7p-rl4TmuNY3_gOuPfggPhBc57MNWOspNHxLxSLWvp_5pbv5atNaLp6C_OeNgeCH185YVOsM5dhPihtdc3IcQq5_6H-sYh8KNV0gjYY7WblCyCTG9KTvou0rCUfbxGa0mYzhGgFKyKoTVLRy52tGePrSpy-__4ezCtQSpG1cniXkwkDp1GjMXvBbkudZB-cm88LZAJpk5GdVGk0ESQD_CpwiIM1doVOdzyaokTR5oQjPs1BEEO7OQIVTF85UE0wv7udyhq5VVonFxZD027iJ5EQJs916MDB-ePENeBlsbZGibI2yWjDyQ2oo3W0LF0vKzpNAAogBvi_uI2I2g_exWSDdoUYQ7lwvSvEQC5l136IdjkM8yCo4EcJA1_EMAUynILa3wVR6aSZiz73amoQECHbDoxGg1_ojwP07NxwQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111230093010730224060\">Lata Hamilton</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ckDALaCHjnNOqRcEQ5hp4SNrhqs7uTKHWu6RpGR5UnsCeKRQcAqoT1zis-ayMNxnnohPFnlBD8wjJ4rpkz4ivyKHLk3CT35-Ca_70MMJr40xEcbxbP1pY5EVPf9DL2ux2JW5k3M6GXF6F8wdyfnD9PyNdibhM9UlcVY6CFgMpamuah8HMdJcUABGKTZ3aPJnvo4eqcepNTSg1uCBtiORr-7kfAopNDiCxK7qg4huC-iFQfgjEi4CQ533XU72l1fktchgKgO_I-r980otDlctdOgg9Ifsgx5MZ0OV8cKWRqAw",
+      "width": 1280,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117542374966711447696\">The Light Bar &amp; Dining</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Converted warehouse with beer garden and roof terrace, Modern European dining and weekend DJs.",
+  "reviews": [
+    {
+      "author_name": "Jason Parmar",
+      "rating": 5,
+      "text": "We booked the Loft at The Light Bar this weekend to host our wedding drinks and couldn’t be happier with the top tier service we received!\nGreat communications and explanation throughout. Excellent food & bar service and very grateful for the little extra mile they went on countless details of hosting a wedding party night for 90 approx people.\nThey provided ample amount of the amenities needed, kept me updated throughout a smooth running night. Fantastic staff and service. Thanks team!",
+      "time": 1755470063,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Pelin Kahveci",
+      "rating": 5,
+      "text": "I was there once and I liked the experience! We were 3 girls, ended up at The Light Bar on a Friday evening. We ordered cocktails and I loved mine! The service was good, the staff is nice and the space is spacious. I do think that it might be also a good venue for celebrations or events. There was a live DJ playing and he really nailed it. Although it is a bit loudy, I really liked the place and you can still find a place to chill and hear each other somewhere upstairs. Recommended!",
+      "time": 1759620066,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Lata Hamilton",
+      "rating": 5,
+      "text": "The Light Bar hosted my VIP Dinner for women in my professional network in London. From the moment of booking, the staff were so helpful and communication and planning was spot on. We did a group set menu and the food was spectacular, so delicious and very generous servings with wonderful fresh, rich flavours. They kindly catered to dietary requirements and the service was impeccable - they really took care of us and we were all super impressed. They accommodated us moving to an outdoor table given it was such a beautiful balmy June evening and it was truly magical to relax and connect. Would absolutely recommend it for any corporate or personal event - it was an amazing venue.\n\nAlong with cocktails, the group set menu was absolutely spectacular starting with burrata and peppers, salmon fennel citrus salad, trout and crème fraiche, flatbreads both plain and topped with olive and tomato, and crispy chickpea hummus. Next came shared mains - delicious hispy cabbage on ratatouille, basil pesto baked orzo with rocket and Parmesan, and a baby chicken with gravy and greens. And of course we squeezed in the mountain of crispy churros with chocolate pots because dessert obviously goes into another tube.\n\nI was truly blown away by the fresh flavour-packed dishes, perfect location, and wonderful service. I’m still dreaming of that heavenly trout dip…",
+      "time": 1750270442,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Tony Cheung",
+      "rating": 3,
+      "text": "the burger is decent but not really really good. the menu got limited choices. service is alright but it took a while to get a pint from them. dj music is a bit too loud at dinner time. dont really know the positioning of this restaurant / bar. it is below average if you consider it as a restaurant. it is ok if you treat it as a bar. probably not visit again in the near future.",
+      "time": 1754837815,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Maya Williams",
+      "rating": 4,
+      "text": "Nice little after work hang out spot, but I would definitely book a table if you can, especially if you’re coming in a bigger group. Margaritas were fantastic and the food was even better!!! I really recommend the flatbread and they have loads of different toppings for it. As soon as they closed the retractable roof, it became very cosy and intimate. Also good music!",
+      "time": 1746261100,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:49.892Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8kHGbEcdkgRE31xVhUTqnI"
+}

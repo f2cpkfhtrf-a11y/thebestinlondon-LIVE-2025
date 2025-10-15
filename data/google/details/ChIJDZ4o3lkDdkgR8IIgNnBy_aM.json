@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJDZ4o3lkDdkgR8IIgNnBy_aM",
+  "name": "Barbarella",
+  "formatted_address": "Mackenzie Walk Unit 3 YY, London E14 5HX, UK",
+  "vicinity": "Mackenzie Walk Unit 3 YY, London",
+  "rating": 4.9,
+  "user_ratings_total": 2189,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5041035,
+      "lng": -0.0207632
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5057587802915,
+        "lng": -0.01925651970849798
+      },
+      "southwest": {
+        "lat": 51.5030608197085,
+        "lng": -0.02195448029150203
+      }
+    }
+  },
+  "lat": 51.5041035,
+  "lng": -0.0207632,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.bigmammagroup.com/italian-restaurants/barbarella",
+  "url": "https://maps.google.com/?cid=11816726823560053488",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:30 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cDcuGgCGIbUaQ64HIhTITPgL-Dv0OtUaDLfs0JN-H5ucNv-RPHeCJ36OK8eBkOchR3ggX9zgh8CiNQ4klM3bZ8oh_NMlWoKUNHDeTBcCoJspv9yGGvYONxvOWilz3g_W6NF8lUmB-t5FU_MZv8aXnyMFvHLS2kGLVFQj7jC22e2LZXPeu1bQQOjA2BZZ9JW28vSavbbjfutjFgSgOzCNg0dEtcF9An5M9fHJLf2msawBO21mtNodJPbPoJe9qA4QeACzEJqh2bLMsq9YY9ScvxtK5bArQDx3ydjB0nR6SNwA",
+      "width": 1280,
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100989821627684022175\">Barbarella</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fqeQrr2GYrPV5DKBIttUn3Lh9Dh87J8It7H1q8i3n15eBNmoFgQddFpN4z-rvpS7xjcrvHdu-dH_QK3nf-DYKiGmmYdf7Ukx0403vXY7feNvMoAZgWkaH8wiYDfsUdQDpgVEPZgLOPHde6Nbq50D73cRJSsKakq1zGIBphNmYJpErTVfz8fErFt9IY1dnjWSwzVGlVND1MqHrvi5tMeVJzD7oAtLHHh5-eL3zVNRsgPC5mjalBbP0ybKkkU8W1PoJPXeUiWswXU7wNa3LHA4aHdhqLHWLnnRrxV756ZzuT8g0xzf-oET0wdkkqiav8aiwnPti99w4QYmfZTbcy6cKbfLmSb0vOWwAeEMzvT2Qj7z1vOkzYrPJYPF-p9Ivxw8NIJmgAru9NZAeDdfx9GJuqtE6C-1TJcx6kjbbaI_ZZt1xdx_ZniLqD9CejoaoH",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104134134470137209180\">Nidhi Desai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dHCC7FvSZYG5T57JCBMPrE-fW5mXvGdZtPEdnzw_61YSIsFoO-OTRNRm37zuA_PSeuLKA9IdtblvfnkQ6kHzgP2jFH9pxW_xeE0WlKDaIFwaNDY7Xm6Et3STO8hfXCggPg3m0__qHHWjGSmL_s8Up2RJIvoUbhU9C8tyxLJD4b9xFvdVfbNt7E25t6JmmSRQLATzKRbGwqA_g6Ko6IhOXRT3Zu9cVP1_u8rj7Hh0JbGNeB1Sm20GEOE10eNLqfb1Ei07FpmdTMJ-Sx63jkmCzpg2bz_ve4svFXN7it798POg",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100989821627684022175\">Barbarella</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fSkg2zrOVdZNRLCOETG19gCp78I0WnxasMnc7mxmJG-3SRQQ1u8GVHO66yYkQYhHqqnxN4y4afbZyJfvSKWxkFPggp8v7dW9SxZYsVqDKBbZlGYCIdtt2h11IzkhMJUWFAAtXS4e1ufeH3jDYi8MBvYozJiGXMlh26Dxd8XOqt5-ek_YX9enITAh7zP9O2N-w5XmpPswPdEZWbho9kEmsocThdljLUT5Teax8XHGDtIMu5tU-pHNNiapE5zvVTD9dlbngQn-MevNsTqLaudYxH7tNL14v909qi59xEfZEcWhJaGC2dOVtY1810s06sN9f1crHvmgPLCiMBkU2WO5FHfeDxb2V7C3bcboCZdW_b3z2RI363XmSoePhvSRw3AI9YxUkM3ymsVVlOzkHkxr04j6rAY_G-mWKqRnMsg6HHttiC1i1r0xWtUBYRnw",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111203400374166833745\">Anastasia P.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f_WaqSlaObdYBhwHSBFB39tg45qVZqiANU36OzNFtVWfrKwgXjV5TmF2NR-dzQl4q2W3a8EyCa-0D2cNwAxT_QspEAGUH3QX4CYraaVjAv_Efp29lKR6l310g76a7q1JLmsBHGiYoS4W0NCCCCpXHzgSFvljEDqR6yXcDt8vCB5FHSWpgSj3vcqTnGXx53sMujgKVXcLyeNfgSN8znWCinVTZSfl_wLEMXT8nrxbL_gJijAzJ3CpQxP8rMMdUC_lh_GoHx2NNTVL2jOeqMfOblID0xIiz8HGLtf-367l7HoGQAp8OGxI8UYXKAO8OmqARNy_vydQePsUxCYuvVJifQqCpUHhTUvX34tZzQRXyyd_NL9mpqFJ2mdW3H6d3y3ID9ao_9jJ7ICQZU2gArq14wqbiC_i7O2n_ldbJzc0MpVQ4QCi0KJLwiV5EvAbYJ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115094777152068128254\">Jan Kozak</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNA5IHmDyLNXTg2J6HjluaOW39E_crybvrNLQRqOCvsbpM38aRs5CTlkhDBJ1-HqdEcEGySckpMDcAjpdJ55qBfC8kNPcY5njnRG1i75E4cXwguAeVgXmEp5qqf21-BVlyaU0UG1bKCo_YLUtrWH8i_SQVpz3tURUoiD50o5-BBNqGeKJOBtgiK2FNJhigth5ZpI5xIZi5diRyqUVmn937nJYaqWNe3znRP8d-PvT0KYrgdsR5vvSMqnV4OdJ3DcZ3kzkmw-f2a7Iq6UAlayczv0QN0Zf7YhCXB7GWLH84bg",
+      "width": 3602,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100989821627684022175\">Barbarella</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cFzLKqgL-u5aN3MZyRVDW3ou8Bjzz1tK9FGD6dhSyoVifAu9AYRiBLMhi9vDDu_oOKFFK3iRxPeQue7qcfLLAuQYQm7HXRAsbcpaIU09ALft-aSp1mTl3CPp9N5WgkAFBSQraPGX7wBi3iGxXW3PawDcAJXla1PLYc0voLH8ZHxo6NyY96comlL1ne7wxUqK5CPu5hlFk6KAHA4tM6ac4jvccGTHol-87v__Cv4z-iU-vTfvVNpHc4J0VYiF7WnauQnNg8mcQMfZSvL1w8uADE0n-EmXHeKT658fQTuL06jg",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100989821627684022175\">Barbarella</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cyWg3po5S-m_aKTlhTAjWuMVVn_EuT3hlgkTNtphwSn9cWZtDWuY1R831u1vhfA1b-Oe2X15k6TaHTS4xg_pf8rVKIdIwp5zg9gecLiNrZ8ylJrITvUlp_O0x4ERyvVb7yvFXYKf8zJ93-vfwwbJrLqOsGPIpS9ciq3apt4RFBO6GrdROgsaELPHvJan64tKmUcTR79YUmpRo3bvKIWRu5t-1II0OJR6GGM6pqCDNQfyir-3Joc8FZ9QizjTSJnKeWYi_IIfe9zUoBQeMedXv8M0Yfo20YIYPDfX3Z_wq0AA",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100989821627684022175\">Barbarella</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6nZI7h0NfYmKq0ZWkBhNXEB0sO3cIs85fsdP_pW0lYhH4uSOuaWpB0L3Ia1lnkNoHvdmyOBV34Ws4KtAml7p8HBR4ZO7ZLANv5_hzZImsk6fBwHIYbZsS9fJ32ygmVebPD8vEzJEEAPTvuqtFoRksay07W7-IyKsFwG5kPfCO4eFf5LmqKuljgi91RtNImDQP0NtVtE95ixfQx6SsmruvSJTxFW_cE0iGVbAlWNFUjCr6XuEtvFFJ8bb_HWDd2rxETBiYYxZU5Q9EXHDTsh2TEZ6fixT1RbUzUGHwWb1DlYDdasD5vWTzDNfco96dlilwfve6WpKlqwBkZ_eMmzVB0JbsMqD0GpLpsbkGX7ifSg9SpF_Fyz43h77sACW8ifof9DDux7XXd7MRGOjUYB9xJUYcjn-gyb8xRD_7JNj0PLs6MH4zCDppaEYyWrDF",
+      "width": 1848,
+      "height": 1669,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114351931623263718075\">Anait Vardoumian</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2edJ0kd9L-cJBfsK8FTtaR1Ck6AKLzSmexzyRf9XkRaqR0iTWt2VEFxB_p1iFAx6xebLRVm5Ys1Gvfk11YNiR_yyRJX94_devAqQ-ZkAgEuStnL1-4wSuSJBkF_-EK5h5fKaDrKa4WkrR7p5CEK19o-Jsf3ZumPRVNy7knseHVtfZti-_Smhlh2L9jHDNvmOWQOQ-iBG4GdX-f8qPrkRxKLIoArS4I_wjp_MmOZkSvvB8nRbegmXEMIdScsjrSKvXu00wQzBYwAkkBWnN_PmlaXRos-Ta2AM9GcIDGiogmsRAO6LroKoHzdc50MmS1gKaOw6VnyffuHXO8oIvfdBI851N3vH5YBlaJb7tyN2SfcdKd-iYZAHFARjmApLLVPrBrH2GQYl2CktQj_OVCr3oDBrEnl8jCBeV2WBTkvsVVNdr5FcomYwSrOIEGpqp02",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104050730556189141148\">Richard S</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Cassie Hannam",
+      "rating": 5,
+      "text": "Beautiful restaurant. First week of opening but you wouldn’t have known as everything was so slick. Food was some of the best I’ve ever had. Highly recommend",
+      "time": 1751104502,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Aaina Chawan",
+      "rating": 5,
+      "text": "Such a great spot! The pizza crust was crispy and light, the pasta was packed with flavor, and everything tasted so fresh. The staff were friendly and made great recommendations. You can tell they really care about quality here. Five stars all the way!",
+      "time": 1760216015,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "basabdatta ghosh",
+      "rating": 5,
+      "text": "A different Italian!\nMy husband booked this place for my birthday dinner. He kept it as a surprise. The restaurant is within few metres of Canary Wharf tube station.\nUpon arrival we received a warm welcome. I received a birthday card signed by the squad of the restaurant. That was quite unique. I liked it!\nThe interior is impressive, nice decor and the lights - all give it a posh look.\nFor starter we ordered normal bread and garlic bread. With the first bite of each, I felt like it's completely different than any of them I have ever tasted. It was so good!\nFor the mains, my first choice was not available, hence I went with the sea bass option \"Branzino in Guazzetto\". I was sceptical with the thought of tomato sauce being too tangy. When it arrived and I took the first taste, I felt like I have never tasted a sauce like that before. It was tastebud-awakening! So delicious!\nMy husband had the pizza \"Some Like It Hot\", that was quite different tasting as well. It was slightly on hot side as it says.\nThey don't have a kids menu but we went with the recommended one \"Spaghettoni al Ragù di Agnellowhich\". It was perfect for the little one.\nFor the dessert we went for Creme Brulee, that came with a candle on top 😊\nThe service was superb throughout.\nAltogether it was an amazing dining experience and a perfect birthday meal! Thank you!",
+      "time": 1760039805,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Hangye London",
+      "rating": 5,
+      "text": "I had a wonderful experience at Barbarella restaurant. From the moment we arrived, the staff gave us a very warm welcome and made us feel comfortable. They also gave us good recommendations from the menu, which helped us choose the best dishes.\n\nThe food was more than excellent, fresh, tasty, and full of flavor. The portion sizes were just right and generous. Every dish was prepared with care and beautifully presented.\n\nThe atmosphere of the restaurant was cozy and friendly, perfect for enjoying a nice meal. I will definitely come back again and recommend this place to anyone who loves real Italian food.",
+      "time": 1756772259,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Shaznay White",
+      "rating": 5,
+      "text": "Another amazing big mama restaurant! Honestly the best one out of them all in London! Great service by the Dr. , who gave phenomenal and attentive service! Food hit the Italian craving and the ambience is perfect. Went for lunch but will definitely come back for dinner.",
+      "time": 1751976734,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:06.473Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZ4o3lkDdkgR8IIgNnBy_aM"
+}

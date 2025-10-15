@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJyZOR1jkFdkgR75CyutG9DI4",
+  "name": "HUMO",
+  "formatted_address": "12 St George St, London W1S 2FB, UK",
+  "vicinity": "12 St George St, London",
+  "rating": 4.7,
+  "user_ratings_total": 579,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5124359,
+      "lng": -0.1433204
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51381353029149,
+        "lng": -0.141854469708498
+      },
+      "southwest": {
+        "lat": 51.51111556970849,
+        "lng": -0.144552430291502
+      }
+    }
+  },
+  "lat": 51.5124359,
+  "lng": -0.1433204,
+  "formatted_phone_number": "020 3327 3690",
+  "international_phone_number": "+44 20 3327 3690",
+  "website": "https://humolondon.com/",
+  "url": "https://maps.google.com/?cid=10235764761584373999",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 2:30 PM, 6:00 – 10:00 PM",
+      "Tuesday: 12:00 – 2:30 PM, 6:00 – 10:00 PM",
+      "Wednesday: 12:00 – 2:30 PM, 6:00 – 10:00 PM",
+      "Thursday: 12:00 – 2:30 PM, 6:00 – 10:00 PM",
+      "Friday: 12:00 – 2:30 PM, 6:00 – 10:00 PM",
+      "Saturday: 12:00 – 2:30 PM, 6:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eqcyv7a2pHoEyrV9BQ6_OArnKIJzgqNi_Nz5Xw3L-ZRZ7n8b-BiLH_kwCWirW2yZcpUsmJ38C1IU14i6OkxnykV-hw7NcVBH1qAQb-iGd6KNmp0BFMpcaDj0TxeWGq6aQYDSvpXKOxs1RdxvgYsOXpjjiIcXaid9Nyn1qCVtq7tspLrXwg3OHN6OlVFOyjTUVwcqcuNyn3jwublUoUMRdrLxzCpv46gH15POgP5KV0-FpdqntA7Z2KROh0ZscVtYB-wHQbQnDYC44k7hEwbKwcZDZ3Xt2_jkErE7rlkdkWt5ld34rnL7IOcqH51pemw1W_Yy7VafHg6f_JCpp9LsuOvibKPCGJQfWhI-LnkDaQgnpf3Xzp7EngOrM7TmPdbz2zomxccZzt1xeegB6MvEObAzW8HT0JugxyAllpfIrRd0PG",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106576863305937511302\">Travelling Doc</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBsLJpl7AvBIO-oj1UwD2ZP0or2bnpTChKxpkqeB3iGO6KNzo-yM3XwsHuxfLr8OWBgyiA0vl4FqGKpkgi9s4JXlitmHFxLjOT8w0WBKQ5j0IvzGKUyjZK84_Om_fZHDl0AprkTsbFFhELn1xnR6Si8sKlsRGhQCFcXNbPtysHUquTf-ktVO9lVidUcvNWfeDk_JitTv2wsicQ_eVKmWUVOplAi5naqMLRHva4Pw8o21ea6bFqUwoOL2pJ9UHdWgqzaIlkdciAfL5jzgV2fLQarQzmNs3txZTT3UBxGQz2Mw",
+      "width": 4800,
+      "height": 3262,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112445583867621668753\">HUMO</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fU0d86QRKzd6e3rXLMG4Vz8i5EU54Ej920Na-V85c4t3yBO8lAtgcO80p16BQ-BivbLsEVnx-HuRXg7tP0hOZ7tzNECRELeT_2o4a7ScDZLXOu8HUIerEY_p16gVKKKzRH_WFrIpC9-iaa3HJqqhdmmSJihKA8L2FqgKU36xSrvfByDV70nctXNjfAyKJ3z3gve6OH1bitNEVOIv_AfdDU_IOGwxWJ_e-mvmDzM66WgolRVn1D-pfNhXnvrkqW5qEbwcQAkE49eKo6VISvfnfpf7X9qhxUr8uokk129yIcE2OHeQh-C5MinXS7hvhTx4LMLAQ3c9yKkRcYyv28JGPWKIbKYhhcNJNzXEKJLCrQJYjbXDq15Tq8lare0DxQGGHNJubnnVuz1XbkpMcvC9PsxHjIdDGMJz_XIzHSAs-MNQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114721869758752380013\">W L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBecVX8Y6eSEe4eKUBhAN2pmAn0mywa9PzmCUJFHjMC2qF08bfjRoOjIOtffXBJ-qctfNGhApjNl-W7Uf88OwOlzg2pvl8Kl02VlNo0uqm2IZS1vr-GVuFTcR-jgq1xlC6T63YkC-mZKmaY4jxVClvNdzskq03Amg0_RofwjTumddh6Pp-1-MjFeO18teOOxFD2Smg5SaQszDL_7vvKW6AGMhhkJ2xTzSt-iXyQ1h2BDm8e-tSYeCZAEezOyA4N9xTBwGMQcIurlWWrI-UU2Nd6ZKi-6HNjizdIPUbfwEwv9L7r5tlwPb78hD5IAL0-SzwqgK7PtNHcdRiuRhmpo-a9UdNBa6bdjTfEOOoldXcF4RXyITUp5vQjNmBe4xMGsVudxVbgGXPheDDWPd-xA0Zf9cxRLhgVa0InybeIB8",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101327663965391127275\">K W</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cdcTr_sLTrhKTVZkh9bJC3dPqQgGV6wRRk9YOpYI51Q9GMeEaVfCKETdq7b9FSFdeyYYt1Gq7NMAkzDl12Id462hfLvbbd2UIce8g10Ulol0HWFdJm9xUNNMpa-nDyQwS_ponRD8kKeNrUdvYqubm4HL1YTPsWjgZEFnP1VPa_OptbC3Xqsq70JwiYoY3Xga0US54PcddsfXRHsnEo82or8cCeHjxUUKFvkouNolDtLt5L9Yyu5tGffKKcxkMYcMGuUF2FKfqzvE-kFScnkUIZhv1dlTZxItFkcXdWObfUx4glEQXCcBPknADAH7Lch-7WNd5la-kqcypENNtCCudcBfRyxldh_13G1NQILO5tWYs7ibfUfuLlbZfv02zWjU3mx3ocqG_5nTlJkZoox5_JSwU5K0wGkXq7nzkxcg9-gQ",
+      "width": 3938,
+      "height": 4599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109224039693630501020\">Albane Bernard</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0uj1ONC4JJ5YUi0cKAmrjlvfQed2kwwn3oPeNAvZfKHKcATKJKctucZCr7ZX-T8TX379lLaCE3I3MGCqz2lZDdTIw77nMH-xyFOCwKcri5nHR1FOaRPm3sgMS5DHRRtFK8MM8HPfKZN24SuQjMPivz4kWbFJxHiSELiv3fjwNy0OdzLM0RulYCgYdLgRTWD5QaxWSZQFPS7ZBaUv3nkcIvpvb94IAkqkeQbMj-UD7jn2Jlhflfhkr4ku0kLce9e6M_45MiTxd4H1BI0C0pTLG-oRsB9BpkRKKy56p9RxssiMouws6xWv37PxP5wrCpnWIgQUB_xzoM-owS1h4D4ZgpIRTNMf768sAjdOtCW6W3P44uFWCmcKd1MzH1OWeKWcQJaq_OSVNee92K_7X-XaK9MtHjP9smRyf-pZ39CFkYsIR",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115851434108994120345\">Christopher Frayling-Cork</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eANHrcrOVObCuRfKJyQXUz-IXgjo_sViTS_MdzXEGsDWkMjJ4aryu7i09jcB_zLu38N9hlmsAr6zVT2zVNpDmGzO6y6ucrWxqraL1TOpGevJsVgMXvfzMBY26-OLsQI-v_UA0kg4pl4_NyKBV1_waPH1XiahD4CA-JlIxug2fucdR0Y7JldaLh1KcQgaSokTo0irnPeX46KtdVgYQtZ02YIyZUgEkJtwbTXjiisqg7cxz-z0yUzC-3BzSoNV9TsKh8l8iOZtvWSAir57dhtsrporDVM2Oq1obcMEcCxFFBp6gTH7vBwOfhik8pqduQ65zvFGT8taEasaIWFJiJBS1D79RDKvnETPhcXy4v7u7_Qu8wZOWdXMChTyvCHQZKlU0Oxly4ktX0ODHQgXdfs2LFsC_0dM3xqYa-YC4XOnM3jMyd",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109934928445132348895\">Mab Bkt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fhwTkdTHA-mqylXAEFR0Ru5qrmCh00b0FePLqDAUeI0A6mrHg9BgI6j7nBqIAohL31ryycVBcXDCtjPXLYOG3-GqEcwEGjlulbrtn9SBVK437DkCPqf-wCmccTEorwTw7f1AWdSVwAecDwuvtYT9Ctz_3OuZF_FPZWlNGr6gH9aX5AS3947LPxGZ0t3EacxqDqXhtgqI7WQIk7dlZF2GB5N59-1hGk9Rl2j7oZIQs3HkJ-mfC7fp1u-Awn6uijuOFeNXGENcIkSk5HCmz-iUWtAekS5Vbc2mnxMA2QMc1XiJIA1EBFj4CPwyzuPfynywiPmiI-Pq9pnJwmgVM74_dXVcr57iqNyp2W2b1tK6bYkEZpTTCHsSAO2T4u1vIIJkfArxxfN-FHlFE9lFqV5MnYKJjqBwbAFmYC3Tjd0R4o_rQT",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115851434108994120345\">Christopher Frayling-Cork</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fORV5scSCCcEsuw1qgc_BodnXZov8WQ5pWH-Rzbcvm6rhUZvs7lesM5fcD5IExg7P2-qnBI7sg4LwJyfijypIgHGrU-zpkM1ZUfzNp8wWWEcCYzughhL5f7AMvYu6na28aZffcoicGZASTW6ysNW0xybQ0HZoUgYAYDgRF9ndO3QXUWbZpC8X9sM-rn9WfQdSzoBl-99ZwzZRDtGDjo21_x1DeRoHucjDWwTiLEOpJg4h2gxSGQIVwm-flR8hSUuPAqPpVaovSNvYS1BMlqoooPsXhHXEBt7wyyCB-PTpbjqrwvRSJR5gLxKp3ITXW0wtfHyweZ8tiRwcEmnrLmGxBRtRE2t93TO-rEK7y5_2PZc3Wa2X3TEtVaFR9zmzA5j2fkRXqvlf-dMN9BEP8tVOzdpxl6XFpiJZ09pMHlQtkc64J",
+      "width": 2880,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101386296655098223435\">Hsu Derek</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2duZbwUJNtXpH0QhN65_sHULfE0iRLr3_FzSxPzACGf_j28Kyr_1pjlhFRJirMcf6uxI_cQcEJJ9TrJxlWcY0ulJveu7y6DzU88_m-8VipKqyfJw4W58J5pcRmxyTdYxVSRBE4Qb2bI9WDgMw8ZZfaOsS0qhHFg-sN6AyvtdHFtTuUzj6jN65oAjn8e4MUpmggglrQ0ZIHJ2-XvalhjNYhZVAQfdxBFAEV2qmbhaFyys3xbtBYzk6RHd_ZjZb2vEkD_ikcnL4WtbvY0RvPWv_gXxhM7aq-VKWH4FWSxYm5boNmwvXw9aOCvuzprP_BjH1EIKpAP8iCarFHaI09TXMueqBq6n0rdRWY_SnX-jqkBRFt10_suAS1DoPtQOUfRPTFGzbN4UaCWrbMSJtUyyUVnKWcjW6v9Xevo5lqI1wSJ8ErjmhS0Zdg6tXrpCZFW",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106393785375032403628\">M</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Junghoon seo",
+      "rating": 5,
+      "text": "Had an enjoyable experience for dinner. Complementary small bites were very welcome. The highlights were the grilled menu items and in particular the lamb. Their lamb was slightly gamier than expected but I liked it anyways. Great sauces and garnish. The shrimp dish was also very tasty.\n\nI only have one issue which was the lack of carbs on the menu.\n\nRestaurant is very pretty to look at and is meticulously designed from floor to ceiling.\n\nService was friendly and excellent.",
+      "time": 1758401699,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Gabriel Bowen",
+      "rating": 5,
+      "text": "Awesome experience...had booked the upstairs tasting menu but on arrival was told there was a cancellation at the chef's table and asked if I'd like to eat downstairs. Food was outstanding...high-quality ingredients, and most dishes were grounded in tradition but featured fun and creative twists. Delicious. One of the stand-outs: the salad (salad???). Hearing the stories directly from the chef was fun, and despite his obvious talents he seems like a very grounded and humble guy, easy to talk with and ready to ask questions. Also one of the stronger curated wine pairings I've had at a fine dining restaurant recently.",
+      "time": 1759006652,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Selina Zhang",
+      "rating": 5,
+      "text": "We had such an incredible experience here.\nFirstly the food is amazing, each dish was perfect and couldn’t fault them. Such a depth of flavour and very well balanced.\nThe atmosphere is great, love the open kitchen so you can see the flames they are cooking on. It can get hot if you are sat next to the kitchen but I saw they give people little fans to help with the heat.\nThe staff have great attention to detail. We loved the careful explanations for each part of the dish, and suggestions on which order to eat them.",
+      "time": 1752224477,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Owen Morris",
+      "rating": 5,
+      "text": "Honestly, perfect\nMyself and my partner went for the tasting menu at the counter for her 28th birthday and I cannot fault a single bit of it.\nAll the staff were very attentive and knowledgeable about each and every element of the courses.\nThe food speaks for itself, flavours I wouldn't have thought to put together but evening just works.\nYes it was expensive at over 500 but it was worth every penny.\nBeautiful experience and I will definitely be retuning.",
+      "time": 1751787892,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Melanie Phan",
+      "rating": 5,
+      "text": "Absolutely delicious meal. Wonderful interiors and stunning open fire grill in the centre of the restaurant. Everyone was so polite and efficient.\nWe didn't know what to expect but he food was incredible. They suggested we order a dish from each section and the dishes did not disappoint.\nComplex, deep flavours perfectly balanced.\n\nWould highly recommend to anyone",
+      "time": 1751139135,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:13.531Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZOR1jkFdkgR75CyutG9DI4"
+}

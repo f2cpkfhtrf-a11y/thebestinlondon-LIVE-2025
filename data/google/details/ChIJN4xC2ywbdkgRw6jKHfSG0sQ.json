@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJN4xC2ywbdkgRw6jKHfSG0sQ",
+  "name": "Govinda's Soho Street",
+  "formatted_address": "9 Soho St, London W1D 3DL, UK",
+  "vicinity": "9 Soho St, London",
+  "rating": 4.8,
+  "user_ratings_total": 24484,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5158347,
+      "lng": -0.1327598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51721123029149,
+        "lng": -0.1313348197084979
+      },
+      "southwest": {
+        "lat": 51.51451326970849,
+        "lng": -0.134032780291502
+      }
+    }
+  },
+  "lat": 51.5158347,
+  "lng": -0.1327598,
+  "formatted_phone_number": "020 3687 0617",
+  "international_phone_number": "+44 20 3687 0617",
+  "website": "https://govindas.london/",
+  "url": "https://maps.google.com/?cid=14182546559573076163",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 9:00 PM",
+      "Tuesday: 12:00 – 9:00 PM",
+      "Wednesday: 12:00 – 9:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 9:00 PM",
+      "Saturday: 12:00 – 9:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cl68zHLattHVbMJXUUf1c8ECIaGTbCCNGU8X8MBkldnWQ4-B4ExImot-gVNwH922fy7ePAVBW_YVu5khc7BoXFa6iZya0EhGKa9wizIllzymSuAxJEfvIU9eMZP-Sc8r6HLAZ635b_etPu2Fx66gkviJeV6y-Gge6BU4nope7T1xXmV1XIXt7LrCUbGDq7-PyYz2_UVjgPKr4OHtYoT6tPA4-4atM6M_XvWfwyaitTTyHxrWAs-cY6tbGhwC3w1G56R4UsNH9BaDyGAj5fgbuHUlcmSLoZGoRjM7r8jARniw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106166660101888144617\">Govinda&#39;s Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dV0q5nh2eUEDX1bQ9sPE3xw-VAd8B14pDksh8OXM2S_0wyQwWkT80Y6DMOXDNQ2U13pOaPQUPkUReLKOjpp0G3gPClZkUGQCv-pQ748FlghO_rNSeDZWNm3alPIqT_zOaGJNpOY1RHmppt2FiI3LYH9-qEQmLlR1WzJAeewC0FkaPP62wABqYeIfH_PsysC2juAKA_CqkqVod1_S-s9KcZ3_LDY_sflEaDvkeJ2nUuswnUbAbJ6S6aeDYgz119vccgIKOeYivKnNG5ebSBKqeARiPxU7lfWNj1G6W_KJFjdQWX3DCU20ubVJvE5_aMczUdMBM5j1RtwzTWaCS8dzyuyZmOVW-7ENYXaYDEF5Xb3OI4sQmbSCHdhvb-K3A7sqnJ56RnVTOkiZ5I5hXVXfRrN4RrghRxeP9GitFvV-mJk_4qrYWqMAMeVniSTpzW",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101951870640926968247\">David Chin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fR9frCeEvyuBh6ArzMp8RkiaRoBqXnAloK70DOlZfU69m7D0MR_MyZABahI8EhX1xeoIEzeEPeeX8jTAVAJS1DL5PtK2GS9Co2ynV0e9GZOr2RRx98n6zLwg4EvNikDUa4zB0qhjpNoXeEGE-ZbY7smdQLMd7g7OqjXjTwpj68OuWfaGbfn5iwwiHzWCjIQDsAtOhjPAjV09S54J_dmiafeHeWKVM7536rpIPa24t0Ukd653unMm17u5u2UKJWj-SmaruWNv1UuSUNt7gscBOq4MLy7YpjeaH8yRHpAR1KPQ",
+      "width": 2880,
+      "height": 1620,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106166660101888144617\">Govinda&#39;s Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3mcQls0dIhwvmNmUlAWfQ0kP5NhqNCe5q4wpZRk0pWaWLcKLD05u9ZEpNopmdNfOF1e1FphBkr5ePUjf5mmaZSnzYYhEquFZOmlMEZV5fQiQlJ40AM8l39HiPaih88urAab7FQYedhXrjsGaFk-bsvAXS8ZwLpjClOiSdWyAJKxGSNSQ3iy1kX2TROGEPkvkC6b-xx09gb7VqPovyjIszZDvJQTmTAdyYphroP1eiWJrOHjixure5_4CXqvRTWeWHYPrCJOGQkbgLqxRlrcqp_C8yjT_vRoubRlr30Iec-WrMca0rl74caXifG4e_gz1LwEIN2dfs-EUu6qGw8TlA66zapQiWZ8T_YJk0bZjwVTMY9ysHT-C-I9TJRp-9HBoxJ5yMFVL7Cfj_HuEk-NuqknIcfB5_YwBEaBQby-BQDj6Uj9OTsEsUB_BYi-n4",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102520701697312987183\">Kothanda Raman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEjDzrDEzyra-HKq3FQi4DxTcm4tTL6nN25Q7fayaUvcJFSe1mxNeyCcNE08FTXMPLxqse6JdgSk4OFL0ASgVbjL_Sv6nKdQbb_azxnz-ZKEAwiUf8KpCIJzRo78yY7ZMrd93U7IdvzOUqKa_sStELYBVwdf4Hi7yAiCmQoM-C1bq7lN-vP4asKcurjyigyk9lx878KHGVHPmSycTbCq1vL9qVlnEsS4nLA-vXOPqyqmnRJZITsXlM2SqoSaJ6aMCIs21mUnlQSaAWX2fpDEwIMFDQIZFBh0G_VRG4n3NYOGfyjE8-H8tWR6xv0U3IjSMUIfvDuh8PJXoUTXDNsMilQ1Y8RU7vCq_gzF4W927OrElQAiaz-ZwwLqJNA_cpeqLKIl0eHVfsZBr_a1yN_UQqlB7DtkbSKDY3XpAtd21U79IJfOwx5WIkXgbxOA",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102520701697312987183\">Kothanda Raman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fh7qY5XO-uArk2SrsrtNX9IIWQtwtDnS22DFuS3aRt7wWJFJ4v31ofown5QUfnJo55AdiBnIS51t_BJds1fg6jsD0O5wKmR9Pb-7SWjDMkfLquVwt2jrlMH7LJXLQ2vs_S_FapbfqjP_FzuLOQK_2aUKqW_V48klDb5IE3x0wSKzR-bm87Tng_JiZcM-1vgaOscPQfYzhKhuAfbMFWVMJrawDtEphxivhN4bZ-ocpw8xXars-1mYcuZwYj1yay6lonMVcdHGAHCnLN2oooqygeKbWXURpi7MThrbCqsK5EsVWY6UJqTflq5dnia1EddYIz4fEFKnwNR58SeH9AagLxEJvuHQnohoeKfFgJCwRgYp6cndoJ051NOuwj_5ML4xekGfUL0RsoKES5FoeugzrIaOJL1m8t7cZqd_-tP6ov6qbQGLFR4rLjVPSnlA",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105191535830555378336\">Nate Breznau</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fqbTtrDUiAkiDnp_1XE5l0ow3sle6nGY9wZGGulbNdjhFT4El3m4Zsiur0PAljOZYau_IGD-bW9hVEPFK4PRH5u6GRFpEoX5CN2d_rQfT0LxQ_G0jiPS7g2kwUk6oQhyNEid8rmhoho9qr5kOX5uWG79uX8aZS1jU2gcKVnzoi8ytCulRyqqVNZN18Wun4WOM0xC0bCPEZZAubzBi9fxdCu5GIDF5m_GV7PlH6sAIok7Sw43gEk7mdh8AZEswOMQHEfqSt71-kq_IjSAXfAqaiv2qqAtRrtesXWX0R60U6nMW35roXfWmJzeggplVdHPO53YnQEdffogVEwzAgNSCYOrq1-jj3YRP062W-0e02E_2OOp9RquWRfiEa-fAAL_AIFEJQRzLniHdohD1PJ3CFWmYhXVq8ACPt3olRFnbSzQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116015924781801331435\">Sonny Cleaver</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fmvwmbFd1bXy4JFA_NVSC_96c-hie8ph3VuUDKCE7JtqGudW5WE60DMVd3_ChM0kDwiIMBckzjda56sGXU_x3N6k4TN_GU6UimJ3gU2bU8azgOHe7TJ-wsqBcp4mMMOAbOKxY9jTwpNJb43WrPY3tyhQXhccAkT2fUG8GThruHjuB9Au1iOjqwFkD9ar8f5zZuPlXqgv1ChP0vpFwmjtXUWYuZlzJDMZZUC_p9p2Ewk9vaigZppPEpewCF6dsbP3RFrmnpfG3R1xDEhJ4QuUrRToOEADMx-VilP_1nCVswRfX7Hey7vFKnSG0D3tCI-1cIvJFjLmWIbV35BrOFy4csCG-9tgQW4vavU0xb2EtLbZ-s4Qoy5Nwxzga5cNBLIuXhu7628TnaN9oQ8hpg35srkDBs6HC4AQq3zpbSwjBzsCI",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112308153200793435922\">Idam Shariram</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHrwf_wTCuf89uOlwB4oUEhg8POr1YxxKnAT2VA4AUYmghA2OQJTmFexdP9OMijtmq7ev0PwSnhHuan8qcSCYfdHH-CDJcIgYfUBlUjRO6qG7pBPWAtBg_6lTdIzcHvAc-6yC0lR3NJoeAGnPFHiiOpTzwKaELNAkhtsh54drDk8cy7XLBMFV75OexkjbcSp2g0bAPN1gVcAryXn92Ui1YheGUzmAmT4E88P_3040T2fm6W081Hg-z9XbfJriOJNZtYWkARx1rEMy1__FYC_64bybf1f_TBMVb5XaQl8OFFER7Hfc62vZwcXwrBcdBMYMMVnejC-NfNit-dJe_eM7u1XlSqUy3i1oDID9S6AHiB1vxZkAx3s57ePqFmrMHd4cG6oHJnccUFs8CTioE-IO0qEkCQmALcDf_emROEvSiMPEEZizoCtuEry2nanJP",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105191535830555378336\">Nate Breznau</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2de7gJtkTVELhVo3av-cf3XL6IBEumLzCi_c41RjtumYtemymR_ObcaaSBp_HiraXTSFbN2Q7vCzFJKurtw40I5hAhWUmfVMWE65a54EUk51sLNxgd2CnD9zP0T4Q_Z8eIS1UR1ZOdcMNmK6M_949c0eg9pT2jhAJocVuZ97mK19seWny4kXPOlysviv2xkq3atYBeuq7-apfLPuHeuEb2feh1Sy62p9bUt1UWaEQdD6lcidSWsCdtoVYiuWnOZfqsg2K8Dfi5fvCeaNHME2-0hckpNaS9jKPHFYjXafo-2eXrwR8qe_nTQYzZ6PIXHvA37SpES32DS2HzdkGj9rEAkWyv9EYbylEVNP4Iqb_STOD1o9gMCqNyAOgeDAvsmudaVgNyEG8QqIMUcVAL0Lh5s23rLylia-6xMVeouwgo7n6g",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113760843683193157706\">Aryan Kenia</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Linked to the Radha Krishna Temple, serving vegetarian and vegan Indian thalis, salads and sweets.",
+  "reviews": [
+    {
+      "author_name": "JOSE PEREZ",
+      "rating": 5,
+      "text": "What an awesome experience. The food is definitely authentic and delicious. Above all, the staff are genuinely filled with love and greet you so warmly. I travel the globe eating out daily, and this beats any restaurants I've been to in the last 50 years. This is the best gem of London. A big thank you to all the staff showing me that humans are beautiful. Hare Krishna.",
+      "time": 1758152097,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Hannah Brockway",
+      "rating": 3,
+      "text": "I have always thought of Govindas as making and serving good quality, affordable (though not fancy) food with love. This curry was ok, but not the tastiest, and the serving size was small for the price. The service was ok but the staff took their stress out on me when I asked how big the small and large serving sizes were - a very valid question in my opinion. Prices are about the same as other eateries, which have nicer decor and more options. I won’t be coming back unfortunately.",
+      "time": 1759948304,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "David Chin",
+      "rating": 4,
+      "text": "Probably the best and cheapest meal I paid in London since I arrived on Sunday. Located in the heart of Oxford district, right next to Tottenham underground. Very busy and first come first serve, and you will enjoy the food.",
+      "time": 1759341356,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Mahin Memon",
+      "rating": 3,
+      "text": "Govinda’s has an interesting set-up, reckon, run by devotees with a temple-style, “sewa” vibe. The concept is unique, but the execution leaves a lot to be desired.\n\nFood-wise, it’s fine. Think really simple temple food rather than restaurant-quality Indian cooking. A thali sets you back around £10–15, which is standard London pricing, but what you get is nowhere near the flavour, richness, or polish you’d expect for that price at other Indian/ Gujarati spots. It’s wholesome and filling, but not particularly delicious.\n\nAtmosphere and hospitality are where it really falls short. At this price point, you’d expect more warmth and a bit of care in service. During my visit, I was briefly greeted by Shree, who seemed kind and polite, Thanks Shree. However, most of the staff looked disengaged, just going through the motions and perhaps waiting to clock out. I get that hospitality is a tiring job but here you could see no spark. The server could also be more hygienic; not dirty, but not up to the standard you’d expect in a typical restaurant.\n\nIn short: if you’re after a simple, vegan/ vegetarian thali with plenty of variety, Govinda’s will scratch that itch. But don’t expect standout flavours, warm hospitality, or much of a restaurant atmosphere. Management would really benefit from focusing on basic hospitality and creating a more welcoming dining experience. :)",
+      "time": 1759157176,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Dr KR Viswanthan",
+      "rating": 4,
+      "text": "Govinda’s Restaurant in Soho London is truly a hidden gem and one of the most delightful dining experiences we have always had in London. Located just off Oxford Street, it offers a calm, welcoming atmosphere that feels like a retreat from the busy streets outside. The restaurant specializes in wholesome vegetarian and vegan food, and the quality is excellent. The thalis (eg. Govinda / Deluxe / Paneer  etc. at least five different varieties)  are generous, balanced, and full of authentic flavors, while the curries are rich yet light, without being overly oily or heavy. The variety of dishes ensures there is something for everyone, whether you are a long-time vegetarian or just curious to try something different.\nWhat really stands out is the freshness of the food—every dish tastes home-cooked, nourishing, and comforting. The staff  in general are warm, polite, and efficient, creating a friendly environment that makes you feel at ease. Prices are very reasonable for central London, and the portion sizes are excellent, offering fantastic value for money. The casual, canteen-style service also adds to its charm, making it an easy and relaxing place to enjoy a meal. On the flip slide, the lady at the counter could have been more smiling and generous. We ran a bill of almost GBP 19 and she refused to accept a legal tender of GBP 50.  Hmm!",
+      "time": 1759303409,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:07.021Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4xC2ywbdkgRw6jKHfSG0sQ"
+}

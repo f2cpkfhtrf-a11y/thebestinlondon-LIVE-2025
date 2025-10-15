@@ -1,0 +1,235 @@
+{
+  "place_id": "ChIJn8uATcwEdkgRWaURuaW-j-k",
+  "name": "Bageriet",
+  "formatted_address": "24 Rose St, London WC2E 9EA, UK",
+  "vicinity": "24 Rose St, London",
+  "rating": 4.7,
+  "user_ratings_total": 1008,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5119236,
+      "lng": -0.1261821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5132016302915,
+        "lng": -0.124761119708498
+      },
+      "southwest": {
+        "lat": 51.5105036697085,
+        "lng": -0.127459080291502
+      }
+    }
+  },
+  "lat": 51.5119236,
+  "lng": -0.1261821,
+  "formatted_phone_number": "020 7240 0000",
+  "international_phone_number": "+44 20 7240 0000",
+  "website": "http://www.bageriet.co.uk/",
+  "url": "https://maps.google.com/?cid=16829879951490655577",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 6:30 PM",
+      "Tuesday: 9:00 AM – 6:30 PM",
+      "Wednesday: 9:00 AM – 6:30 PM",
+      "Thursday: 9:00 AM – 6:30 PM",
+      "Friday: 9:00 AM – 6:30 PM",
+      "Saturday: 10:00 AM – 6:30 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1830"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1830"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1830"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1830"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1830"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1830"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dGAhCXSvtWiopEWXOsLumchi4s_0relCxu-kLeHvpuhsy8cXjOTXQhVHRA0efz0TCU9xzfdFWv8yLEtW1bnIJYKJL8lMOIP82qVibMFQAh3uZzALNVMPlI3vQI2akOe84Jd7LQ4iFEHiENuJiSnS9-ersqWxSw4Ip5Xp92uN7ldoZhgPdTLJtFaMW6NsSCXFHVKt2EqzqQ22DrgMqtbkTX8HvsggLUD7xeuoR_k3M2WhdM2vtuzVEcOk1LRhBrNrGHrZoU1lxFRObuD4oUX3JFPShHRmPxeO87ywv3I1ElMF6V4Zm8XDpJW9AcTk7R0S5A1j8g0wDnJiy7OlRV1JgW0MvOB-USRPucXd9jIJpUZ_Zt8W4Xd78BDEfCuBfJ1o-LX84XhsVU2inAP53644t55PXjCubSLLXU8bROoZEtwz1kvHouA_LDg1RnSeMO",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117494224908847624400\">Diana Robinson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flg_Btu7ceYUbGDKu43vg5fV-t6SFL-zHSWv9DPGp6pKmXJ3FQRkNsrRsny2DpfyyRj0obrYtCw0O0lL4M6-tQncGidv3Wc-Pkn-aaA2OCMiUR2PBAWmR7FWH5YayVAx6_TcyTw5ZMDzs_wkN-4rp-PDy0VX9-nafDvqmo-ptyR0ebZl-b5BNuK-iDkptPOnXVESz6PlDV3Iq8MKy8OOT0Fux6tFbGBqEMURx4HSMOFKnzhwM_cZ4u5EyJ2a4Im8B0MjkGJVbtmqOK_6fpKvoZq4KYpQKinV0GFhnkJD_MDqbfhohYrqERkD18ADoEmmUG4GphzEXHfhbRR5AG_GUC1Dr1R2xrEQSZQ4ehtyi_dQUiuyibiJ1husWF64VAtgxR6cIPkiNDkoeVTNuILA5s-AkRGrdG-SZMUpud5LcpvzJc",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100637731884001818360\">Riccardo Bertagna</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eV0QspwWEcwjEXY-43fIVcbRxadljYtWJ19TJAcITGszvhCqiX8K1yE4Kd8fQLbLi8OLejwEXzfWMB6cZwNpszG24V_XBk0o6u5NYpM5zLb8f0pznJJkumiuk450d8xc2aWLi7pIbGNyEx9cW5FEnjKkpS5MVi1zzjbIQI-Nzmtgc9Mab0d4nueH2Cw_ikdnoPfj5vcOykjYtDKTldecpd4JxIDUsq8oS5_X9kgjjYDXLon70Xx5K3XhSfAAdamC6ZI8dwb6Bru3UtfQWpR4IIALFWqTihjuvF4SiQTaqe9cGhJBt5lXMXrcHrKdAr_TLYsAyfz3IMN_5aAwEw5Fz2F0IyAFxtolM4FvhQ91gHm4OYlc8HXI1ZeLcLtNYtarVsDFIR4yv4zUCnKddwCc4gxcmMvQRPDsav6ECFkaqBadY",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114662326344968609403\">Valerie Michelle</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eaH-njXOSgJ5pmsnfT26kMkedd_R_SJ4V8wJ0x3iHDlFhbBHNUlqzfytSklS3y8HJyaA5nRGL_sITeG9XbQDag9jOTYRlE1PyYyBxav7DpgM7RyKyTsIHGF9Kcr4BIvlM0TTac7LlYl_Wj8cbZIaEyXVpBcruw-xjowxSPKD20BuB4Ar7rJDuoao6X0vLO5HD8uUigrsyXWskZiHD3nvCTp-Pm_OKqvUBm8vVi9tmLNjPDjgWtrJloLmuBOUE4gi65K-JyBpTadngqF_LgomFVttqYTJRc67XdQcmbr61ar5mfJvn9g3L9I6gSGdK09q14xwTPkRv3Kg_yE9m9q-aG18WJHy5IwigkXABktrzzOCdMjdL1t8pWZQbw7i4NXwJxkXe5vRd1xUsSMiiFSooqAJu4Xagk8ydh5dBeRgKZNg",
+      "width": 3468,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112782416981637803052\">beatrice orsini</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cLcDQ7uWYwofA3L2Ne1ysh9qDkxDkHVXfNhthDhaSDEbqt5r-Lbj8emU0UJQoIVbUE_FYvrO_cYs3pd5cqQZAEiFsHg5_phS_BEyV8-fnLEzF9cgmjpolcrhllis5-3qWcQPwHmxVlG2gDqQ4fhILoamGirjC-AiTTPbD5OdrB5ZW0gXXZm0X3km2ctvszzoSymHM58yF_Rbw3Swah-W0Gf3oRmsDFcTOAOaC-6c-KrG9Od1w4RRtwc68EaGLz2D6DhYEPimLCMIYzBygGKL2AtkayRCdXuryLgPkPhPKodmSemMedAWVc61pIgq61Amf-7tIBLOrfAnyuA59T1877j7hdfWnYcQA8UQqf3lVtQm2qIiA_xvP8PDg0vj3TolaCgSD6iy--lhuszzIWHSI5nAbcls6j8fH9DVVLnwbC1-_WFBumnR4r-jv2BFHU",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103165161478233687634\">Lidor Bracha</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cuTe-GnhDdvj_5AHTojWauC6zCL3T_yQ0jSa9xQ5gAvKnOK0zceJWU1kGXnVWBPoEqKWRQPNpCkt1oo7kklt1sILqDir64eLglGaCRCslcMeNsCOHlE7HRQUrwQO0lCg4_YqJ7uK5pbQLKd7rZ-CiIgktzFOJUiNovMt0wdvwB8oqG_Qi6jdqnByGrg_-vySqHMi_ppseaXTe-ZiYLd4i6Z1CiJtth699NHepbgInUJpZpRlee71tMmtm54YXOXdnFy5BymyIbW_9wOqkVGy8h8r-n7iujhzSYjWT3bpQ7tbr6c3f_K7cI3A0CPNJhh3JpqH1KpaLNHGV7XkldEeymAcd622LDh7lF_X3bejpXKiEli5yZoxA_TEF5SDVZDZu-Zsv8cRh9s_0bOqs6HPvVK7orekVe6x-uDsCLcq93wXTH",
+      "width": 3264,
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110220374811474591039\">Alex Zaitseva</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2crJ7cFPAGsJPQUOxxzXSSVwNAivxYMlvu8wRnv_kVQSSwpDTgwRFwUjrXFJ6voZNj9JUBe0QiDSqzqesLPFctz2b0wjB9508vxhpAIr85AXTOKKFBC6QsPPyxTqEQzNXAFrszzrfc5a0HnaiWP5K2a0okTTLYMt0keogHFMcgIaXjqccamcdpB_bKUhHrHMOCg1NH9mrD54Ja6hcUdqop2NeqlBoBPw8nlPUQieQNA0I3HsqssJPEIlTbsA2ARJvsvwrH8aPQvIZDDRog8qbeLFf9OF55k3-eXbWXv_JF3pcdeoMQdwPjJ9CSR6THy1cN39gMIejsJusnM9esebUXWfhpG9H2PF89aPUiyT8_vLdCBUhHWrmvbNovUEUTycre9_nd471rgRGxpJdfU_X9BW5rDzFxMlMBVu2YEq4UWdpvW",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101515263368904106291\">J FM</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2esfhbnaaD7M0FgXlrKpB6GgOQxl2VqVYsSngemksKIxi3S5NIbfJxxbaS4HplzQyFH1fRwn4n57DQcdubql4CQvcRsdaSySVhKS9PMcRjNRffBobn0HbQWLEoABVg8F6wG9WPowUB1zKVofXizE7epM5IMD0dk9Ve8fsiiAiH1MAdTe5-cSJ6vdCQtBKn4vIGBEe-tU4n2GaotEzaBrjpAq6Z-rbbQxO3pAveFl-cZUsZNAvcHtM89qJO2thGGuYHZVpEhCG6TQfvwJpYA3xvks354lgtwmicQephGi-KAX2GXZfwoY9dkP69yd4AqewGlg8P_ftDfT4Mv67A2yAV8CeATisaoWPpVIglFqoGt28LXDzbyIe9YTXiY8XfzfVdNziU-qBFjPDyJ-2A7fyB8FmaCXyPhAWo8gcyWjXRRsew",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116185616608611312771\">Léa Payró</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ews-PjedmuZ0yj42yNXWADm3ejEhL4tXkZ1Zpgf6I_acdsHXBz_pqopK-sHiSq7Qu9YRiPbzQbwUfDxR13mojMvdSfXx2uQDmUn6fsMqz1x5vTc6v6QT3JGeqefec8D89Z0J9EhZHIXqfMPMzvaD8j1v1FeUBWZhqILxIT8KWwjoYNrl7bMN8isZ62D7FonQ6MBIGSHYU74ek0BqS7jDG4B5hqoAFzTANUFLszTfFl5NS9092keSauXds71aSpyYrr3z_F9QhG-MCz-_uPT0kAR4IjYqRvEyJJEL03fIJ0r8_UW4j7NFoaLPyasSdZGAUX6a52dfF8gdLzmD8EahrmzXENJ5N2GX50WszQxtoOaU9wVv0vlXuLBZ2oOQhFVcaGKffr9fhyRe50GLV49xge0GY0vlAS7hfViuUQZT7z3w",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101912529640646688124\">Anastassiya V</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dLdo_zcqLnloiMQeTuXPX3e1SVynQWp9HNQQG52hhUMpr_a6y0_Y3agYqQ2NtVPtjgud9-AEKh0RXi-KqlF1TLL-PtKvsg6RLD11isp70jRz0wNQ13u8LgnOMdCScbPGFeh5o0emwM6HcGKqrMorAPuR_vzdSLUfG9QAX9fAzIKELKryPJzUy7qCWxvZT9RgGeA9CJ11GkOOZ8sjLjMvjkS9kRKdJuRwrNtrMBzmZB3mOZm9_99NmxG9HoVw24HAGLcNmtkB7eZa_CRb5OJpFteaC_uwAaHQeO8smoeAmqj6OKsIJOK5qbN9Kfbj2_sEDl2aIcM3RmSy8HYN5k0BgB2xzdHp_im1ujlrgC4vOrR30IfebSdNa_CyyXJZfDkLeWHkIXNtZCyRkeEa0BkfryVBw5m4pDFm28AnkgDzY7-I2s",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106405479467626615482\">Irene Magdalena</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Compact Nordic bakery & cafe with traditional Swedish cakes and pastries to eat in or take away.",
+  "reviews": [
+    {
+      "author_name": "Cassie",
+      "rating": 5,
+      "text": "As a Swedish Londoner this place will always have a warm place in my heart!! I also had the most wonderful few shifts working here just before Covid started, and got to learn about how everything’s made on the premisses! Can’t recommend enough if you want some authentic Swedish cinnamon buns 💕",
+      "time": 1758711338,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Mert Cantimur",
+      "rating": 5,
+      "text": "They are comparable to any bakery in Stockholm👌 they even make the princess cake. It is pretty small, but the atmosphere is cosy. The pastries were delicious, but the pistachio one was a little too sweet for me. The coffee can be improved.",
+      "time": 1759243493,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Urban iPhoneography",
+      "rating": 5,
+      "text": "Wow!! What a selection, what a bakers, what customer service!! I ordered a special cake and 48hrs it was ready to collect and the engraving I asked for, perfectly done, just as I asked for! Would recommend any day, even just for a visit to see (or sample) the cakes!",
+      "time": 1758050047,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Kettj Ferrero",
+      "rating": 5,
+      "text": "We visited this cute and cosy bakery for breakfast. They have different kinds of Swedish pastries, cookies and cakes. Everything looks so delicious that it is quite hard to make a decision. Great and varied tea selection. The staff is very polite and helpful and overall good ambients with perfect lighting and music.",
+      "time": 1750852647,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Kelvin Goh",
+      "rating": 4,
+      "text": "Service was warm and friendly, recommending which pastries to try.\n\nNotgrotta (Extra buttery shortbread with hazelnut chocolate) indeed had a buttery crumbly melt in your mouth tart base with molten chocolate within.\n\nJosefin (Almond tart with orange) had a nice balance of almond (not artificial taste) and refreshing orange.\n\nThe cinnamon bun, which I thought would be the highlight, was quite disappointing. Not as fluffy as I thought it would be. And a bit too much cinnamon.",
+      "time": 1747586066,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:27.170Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8uATcwEdkgRWaURuaW-j-k"
+}

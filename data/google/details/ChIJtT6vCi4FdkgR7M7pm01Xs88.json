@@ -1,0 +1,273 @@
+{
+  "place_id": "ChIJtT6vCi4FdkgR7M7pm01Xs88",
+  "name": "Ixchel",
+  "formatted_address": "33H King's Rd, London SW3 4LX, UK",
+  "vicinity": "33H King's Rd, London",
+  "rating": 4.6,
+  "user_ratings_total": 928,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4904221,
+      "lng": -0.1617704
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4918036802915,
+        "lng": -0.160467519708498
+      },
+      "southwest": {
+        "lat": 51.4891057197085,
+        "lng": -0.163165480291502
+      }
+    }
+  },
+  "lat": 51.4904221,
+  "lng": -0.1617704,
+  "formatted_phone_number": "020 7251 3871",
+  "international_phone_number": "+44 20 7251 3871",
+  "website": "https://www.ixchellondon.com/",
+  "url": "https://maps.google.com/?cid=14966401977522179820",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 PM – 12:00 AM",
+      "Friday: 12:00 – 3:00 PM, 5:30 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cNRQGY0552O-QJjLRlp06VaRPOy8ycfwwqWGyCbJ0Vy640aA1S_gbXoXUnClAyjpV7oFBRIi6ZbfexdXeUiC5y9IvRVz2D8-z7bQUmx3dCyLhgWhP17ATNwGMVbaSw74tNNEg4Viz1nwDeWiHAeDDmPOJY-ySJ6Z_I4S3mX-7pDgyDUOhiQO71e-T6RDj4aUYPzRrPAPL6_be-YnFX7jvnjI7edRTO34wWoErRGxd306czsCd4jpMPljrzI4x5S0O3vUpw1kPQFEzEJoH4EoAveWkPhXCdxrZaIfxfpUCR0Q",
+      "width": 1440,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112841925514260253189\">Ixchel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eGi3ERY7XX124Y-9v3u4UPlptVN5ask5ybtFARmNZnhRNHJOmuVNInBV727NbgF1c5_n8GsLUzuGIG0MRlAYrjzUo1xUdb_NgFU8ZPzvBLg6ATlwrDiwX4tHBmyzmZwp5JciJhbuYoBT2sRjceBu4OTEXACleHgA0ggMN1Cj_aeYZ0V70gsd7moGi6Vh1aFy6zVcU87zgOVN-4fA6pK5-m1yXUWU1BbSMyLPyK16KdyVDt-X1J5pd0QLjLzAOiwYCjF7I03J3tCd0o-a3ZwSdvqPcpuOE6RYKw8rPoGrjfAQ",
+      "width": 1440,
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112841925514260253189\">Ixchel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d2dJR9kw0Xjrr3g1MY8r1NpldjoRg9hlhJZgys03z7v4mpPbhCuoWnXBSo0oTAKfbdQrj_WYxCiqnokFFEHlIaVRrTlkkCw71ImtGyssDTLyWAXfxxb4XWndz7jCbWdmxFnFf0Ge-xyOnK2VksNp0E-uyMgJG_T0ieg1ksd_dECKHbkTgNcHFIEzA9Y5Onaqr1vz0G5-hCA-xjRLuDgHTOzX6gT2Xku03hZKM7spnMzKcK8dfnhIf1rMq-UnGlPNrPZqWmagXWZp762mT45PtB-CYQCxKUEfMptVkzhhdss0E3yPxKvfF3w6PVk2zHEl0J6amTphSIlM6ZoLwjAcLon7HMiMmolhw6PLXoufEh34ohWBm7hbOklIt-i73880hNr7BqwwF4XhFp9eQnSYjxphp-Pn_NnRuQ_r_jdZ41YE8w4z2KkIcFphmFX6OM",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117684827096703960193\">James miles</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_7ht9mpTSUCfVGwjmiHUlv3pF2YxgQUury9PSlaeTYS0_g2BFn_Em_ZZ9xho_V3IdfeA0m39oTUWi2ROFvapznuDNuhv_OsoVtM3wkYMAm0RaXVtCy8Rj8y9u1h7ooB46RmiNnPiPzgA8v87kGgd2c9rd5YtT_IJetEOTTQQ-UGgSwFj0p2ve-RQTdwfq1xft-G9Jeeu1wS9HXb_NsL6CT1Jdpq2JmuvarGIoHkSKo2lSLEzqmcNefHy16CkC7RO0j2DVCAAtCMF60CqT3gJloEqXf9o89tahGvHugec24g31zFRHSj_fZpK8rVY-MF7lKXBVsZKisPgxpprobTVUMiFpjp3M8qXeLZ93n_PUPP_IpHM5y1x_AN5yVArkFRz-pVkij3ju_YVMluiyAt3S3eiIxAgxmxCwR6PbNGl5pw",
+      "width": 1320,
+      "height": 1229,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116817781819942683969\">M. Ahmed</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dseFM5-xpy5O7wwPWjmWtJGL4UUwK_LvuXZAySI3o8hqbKj_-yFsDDfJ44wX6qC0hOf3YJqCIshok_pDqsmPj14W_RklmEUzcs8AzFfisRR_5pghclJlMEiwYKkHK5ub-md_7-rFXg8by9iZ3zVbOwPB4_8Wh3F_CxUF5qind5wlmuFthcTDs8BDCCsVcjsdmuM5cofTQ4GXnRNCNgOruLqWpwSGlELzP6BLy00ACoWefmdjzm-gL1BhXJaG-mrSv_YRKRro09Z5B7IeLfutPDNx9fIZTjrGorPtIZ9m7RaG5WGR3s61zpKHjAOq1qwodajNK0W4ynmNqGNkRsoWXX7gli-HGKHx9noUIhTMLQajxbvAgHXl_idzW_bAnUA4cErELhvBXQTeDPAjojIoKs3adgASy4Q7WdvKS5d-6HevtnFJPmWs9bLgfwlA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117684827096703960193\">James miles</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eqXBQkXqvhy9lNzLatwC0rAb1qeJM7ZBTIk77qUr9be1rEb33MFSPjhF8HL4GJTzj9I06NHl8x7kFYHRoxHzXttXUqtkKV5BN-_He00yH5lc_BIMF63uubDjAgU6ysIqHZDz3z4_2CziSlYC2Xup52GNXBIb6Ui-fW9fp-9uXdCKbJSkq7wExnXKJ2mFeAma-7xvTEXUJsJ5q4yxBMFVwQI8GtBImNQZnkvvUiUtjFOfaMYxfDY_UR56KLx4_UO-Wr-jauKGkScISBFnHyp7Meyc_n1JNGQLDCRRU5FX7Tx6t0hcG_ZDcEyRpiS3SbdixeegdSvI8z8UFXJxyXNAYQGknIx_MyebOike7lNnAWJ84lCXVN7WBQMozgobhb7gVOI14C3EjPSfkFWkQnEpUtsuL27JblQTylY1Ndzg8AyUEogLiSSvdHLbi0LD1F",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113579388825700498806\">Vivian Han</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eE6yQ4mJHjYKYPlBUmrB5BeBlKpdBFedj93BqGtOm-4H5pMamCJ3rQJ5JFAylqE2-UOGoM9_dHuejOluox6vHLkbgW-LzLv9fWrYF0mxvU2NQash-S1Em91gkR7-W95Gs_hlAk_i1_oQDfoMnCdouHilBqnutmcg11IQWXTis4JEGKDLNnSFFdPOyvV_SOdxaix2M57tUgD457vJp-3wVuTqCyPw9lPnb1wZmqAWJwnvzHJyYfoONxse_81sYw5KXUnmX0M3QPR7N436kGn-Ho3aEci-YoL3J5YWV8Bw8-B1V1mbhTBTuyCSEAquJ6nT4wAqHH28S0dpx0XkWD5GT17XFS9UK4INy9PnBFIH4btb1-5P9a20rqDox0Gw1MM-b4HdAlNbxozlXKB3rYMw6bWGBj4y5TdNz2XOLD3rM",
+      "width": 898,
+      "height": 868,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116817781819942683969\">M. Ahmed</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cNMyDiJKLWaWlbEnEpVbHb9VaTkCCZQ4ZvnhAy11DGjEveIboVe7SPtGondRhr3Ubh7SNZb6F5v2P3CnahUrsqPqJZXAWLyT0uojFD335NZChYhDHnFp7zjXgdJAQFGrjX9D4ZuOQhXu3FJCxOva53zRMA0TiOqw9hNgRiIN9QgnRoPXIZpqVsaJeihLzn7h37BJ40cmexwUxsfpKbFhEExUCUfxM5XZylAuJ2-CKBV08vKzdX8Sg13sOHh_vG_-v1UdNdGatd8UFgRKDSGKXKj6rF_I1_CCp2OtTbvZSAMgIdwDMzap7CfgBrKCTiXxXfbTAgwz8sUAvMJgrvCUIuuHOPIP6OzsOHpHCnEVoyMqCyDxj8Da21793aPK1HixCoItjbJRGjl3y2vIgLHz86pD9EaElr_f2F4ASbZ0TV8VNW",
+      "width": 1320,
+      "height": 1177,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116817781819942683969\">M. Ahmed</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ccbYMAwnheiXq2aXYuqS9kaeMKiH6glMwlohZ7B2-dnoN8puSN-fbQQRj8LowxWU9q94ZxXYYz-p6-V9fFFLIyHYOM8UoEl9KXvRZxFm2o8kRziE0IE78Hjpuui4ZhLgYA717Q_DNkIrrdWL4DI6TNQz24K29aZESXfK8ovrDEb35Uk-Z1X0gSoKQPawsjFGvRtTeHGmmpmVYJqb9PKwF3u7vBc_jLJjRgJ2_ue5c03HNmx3j79i5Uu_grcNXpLjZEK9UzvJDGTbwnU9Tka-kDhVgUJBoitxgsEi5OXLKuFA",
+      "width": 1440,
+      "height": 1512,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112841925514260253189\">Ixchel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dkRZMLhaUtaC_BuC3XGTPeNLptG8T98XJMMZFcSVRnnhlD0k9cGXi8DPUa4ddXcsUK5rGUosIVUWI5ixKnYo2d4Atw8O1Ad8WPKRA1XVjjH4Uu-P6jrz80vw88XsbuhzNRpNN-5uLMrrKFRWlIkslIJbmeEeYH9mpSy909Q6QJzZlJZsJvav6gNhHJbXLL4XfnPZKJQh1nGPjO6G0pbz_GOdKz3IsULetyj3z6cBLKmtwDlhL2fcxkdgP-oxU5zF19CDnYDEFkeHABJf6Ics7zT5YIS5fghUArjFJlJL8tGA",
+      "width": 1440,
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112841925514260253189\">Ixchel</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Jessica Tumanggor",
+      "rating": 5,
+      "text": "We came here for my birthday and was the perfect atmosphere - we were treated with a complimentary dessert as well / staff were very kind.\n\nThe star of the show was the beautifully set vibe of the whole restaurant, but the food was equally impressive. The shrimp tacos was my favorite personally and the crab tostadas was my partner’s. We also got a t-bone with a side of potatoes and fresh, warm tortillas which we definitely recommend - meat was very tender, juicy, and seasoned.\n\nHas become my favorite Mexican restaurant in London but is a little bit on the pricier side if you’re looking to get a casual bite.",
+      "time": 1750607487,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Kyla Eichhorn",
+      "rating": 5,
+      "text": "We had such a lovely Sunday lunch at Ixchel. The restaurant itself is stunning, right on King’s Road, with thoughtful design touches everywhere (even the bathrooms are gorgeous!).\n\nThe food was seriously impressive—everything we ordered was so flavourful and beautifully presented. The fish tacos were a real standout and perfectly balanced. You could tell each dish had been prepared with real care and attention to detail. We also noticed a really lovely private dining space downstairs, which looked ideal for a more intimate celebration.\n\nAlthough the service was a little on the slower side, we honestly didn’t mind. It suited the pace of a long, relaxed lunch, and our servers were genuinely kind and attentive, clearly wanting to make our experience a great one.\n\nWe finished with the tres leches cake and it was truly exceptional. Will be thinking about it for a long time!\n\nIxchel is such a great find—fantastic food, a beautiful atmosphere, and ideal for a slow, indulgent afternoon with good company. We’ll absolutely be back.",
+      "time": 1748935460,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "M. Ahmed",
+      "rating": 4,
+      "text": "Though the space can get lively, the energy adds to the experience. It creates an atmosphere where you can enjoy a fun, social vibe without it ever becoming overwhelming or uncomfortable. Conversations flow easily, and the overall mood is joyful and relaxed.\n\nWhether you’re stopping by for a casual meal, a special occasion, or just looking to try something different, this place delivers on all fronts. With its remarkable food, top-tier service, and inviting ambiance, it leaves a lasting impression. Highly recommended for anyone seeking a truly special dining experience.",
+      "time": 1744740073,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Eran Boudjnah",
+      "rating": 5,
+      "text": "Came in for dessert and a drink. We were welcomed by the lovely Jalal who immediately made us feel at home. We ordered the tres leches cake, which was an absolute delight. The restaurant is beautiful and the atmosphere is quite appropriate. We loved it!",
+      "time": 1756143534,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Aleata Alstad-Calkins",
+      "rating": 5,
+      "text": "Wow, this place is amazing!!! I couldn't recommend it more - definitely one of my new favourite spots in London! The food was exquisite, sooo delicious!! There was something for everyone - lots of vegetarian options too. The salsa was actually super spicy, hard to find these days - so yummm! The wine was incredible too. The staff were super friendly and helpful. I'd have to say the best part is the ambiance - I couldn't get enough of the decor!!!",
+      "time": 1759176458,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:58.663Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtT6vCi4FdkgR7M7pm01Xs88"
+}

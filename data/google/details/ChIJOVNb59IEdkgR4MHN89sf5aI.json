@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJOVNb59IEdkgR4MHN89sf5aI",
+  "name": "Koya Japanese Restaurant Soho",
+  "formatted_address": "50 Frith St, London W1D 4SQ, UK",
+  "vicinity": "Arts Theatre Club, 50 Frith St, London",
+  "rating": 4.3,
+  "user_ratings_total": 2502,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51364,
+      "lng": -0.131701
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5150177302915,
+        "lng": -0.130283069708498
+      },
+      "southwest": {
+        "lat": 51.5123197697085,
+        "lng": -0.132981030291502
+      }
+    }
+  },
+  "lat": 51.51364,
+  "lng": -0.131701,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.koya.co.uk/restaurant/soho/?utm_campaign=SDM&utm_id=GMB&utm_medium=website+click&utm_source=GMB",
+  "url": "https://maps.google.com/?cid=11737823033359712736",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dWoYeIwfSuQZFiXm6g-vm-zPysROKgW6_BY3oZvW6K-6XAwtbigt6fTYrSi3y5jjphFxtj-fEf190eYQmWDDjC6sUUjowRH5CuFRZOqOC2NQmV1mallq5wOZ3vl1kkXpIl-FBJPPh442HAmh43oTGyh_FhCXPgn_YJi2mPuudL-qKww-_2jabmnpfVHfinVYlt-Xps1GdiOLmCKaRqEyaiMqlmuB5cF89T6xp-KyBwJ_WPzEupBdpUhSo06uCCt5DmGCj8UIRW-cg8pzmxfgQ3w_aZhJU4YZ3qC_Pbpc_9eg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106262054299782129469\">Koya Japanese Restaurant Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dN9WGar_iKUQ5TFg6m7mx7i5oiOD5RDqOQ_-xvAgvw2SPZCWG77IsIsqCC9AT3K0O4sawIGbr5cSS0atkiypHl1vNzFgp5tJiQMezJ5ls26OLDqa42P4U990dYUSzjAb6QjRO58P8u60rwsAPrcxvz_wf0D540xyprUpC0uI1Jj3pKeKpZZ_3ACQcwke4ZxGWwYnkJrXPLAEJnBGusNw-51jKTxVYYLSW-axw8t4MJG9nxhrxESd_KBcPCTBwyLwt0Cvuftb9E7CYmy23y9kELotcYBfzD5iruwf6kuXnVVw",
+      "width": 1080,
+      "height": 1291,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106262054299782129469\">Koya Japanese Restaurant Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cuUrB1Dy4CZzpsEtoLdt7Fu_tRNkb44re3gxRfw6wUAR5dsphbbk6Mz1yLPWMGp5yKJDvbUr5tcn0akaq1memz8Kqeex6uNgEfbvfyGGkaCafIBQ3l_gVQY9mMkzWTrZOSZs67Cuhnwzy59ANlX9y5h3VuOd6AO6Itd3xvakNK36QKNUDUWS24PVeBNEw4smDuLv5rGunFcx03xtcvZOoadzdxLxgu8l-PY9UExP128PeGO_XcPqsVnidsYJuF9L8F2-JAzqbj4McED3m2xZtI32Ykn1EEDD972rSwXezxuQ",
+      "width": 1080,
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106262054299782129469\">Koya Japanese Restaurant Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cipbFXRsPmmqk4bpiQiGjK0Cr9PdFb_2nV7HZBZVczHgApX5H3blYLQoJrtShfc3IwNyCF06W-9A_GIAoyhu9Jkus6-zk-FxrHTwFPYe8qltpusvtWfgRdDMTfygOQSBKxooROyyFmzwIBjyavRFFDLSLAm2BACfGnVIGG8Vl9lT-QntwoSd5qX0tYb8E5I5JKSTDO3puLN9kkYxYQjjM6k9xZNdtEeMLdGlgxM1AoP2UIt6UqYCXcFBCGJybf9w2pPsn80yrAcCOLLdSFG07PyeyAhJbQHgydPNkeiq_O_g",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106262054299782129469\">Koya Japanese Restaurant Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-VviA2sgBpvH_lnfnBd5_j0h_Pe9qWmgNHUDkmCcr2SYwMVNaZSvZYqKwj-IETOnygJ_gJ_IdWY5sVhZ4ZWHig1WwD--69aQzbvH1nUm7csggDkEBcc_Fxdqi8ljbO8T2tTWlrhi3PqrVOk0pv2AarS1TdOL_vOerblKpzoy0OYUNETmNjyTTeTZukDPCcdc3-YwRUy7otJVshD1WyGz9nQYqRhIG0LKKdv7qtDgNEJIQLzP8r5EOhTiPEsZFQRHzHZ0z9-aH2kuFRPM7FH6t7sHy8q8GD2pFQ4sGJ5F_fA",
+      "width": 1080,
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106262054299782129469\">Koya Japanese Restaurant Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFMjMY4lGAugj0UoWJwcFi986aDg5-I9NRhgfc9eFs5uW3_dia3PKefFYgte-rAttrqjQo5DEPYovWoNsEYR0fpuc1x8VrAPpUmv6mnC9DRyxyq3DBRonES7nsBU-CETtvqcflHqXdW63pYk5ZwQaSrXRlXsZzVuvn4ruxuX7o8TK6FMOS1wxq_6MBMJLI6KFUbtBAaEYAKdtsLqKoH9ejb-JnR1Zum9_7-AM1pYwqfNzXey-zUMcIoysnWFh_3UpIjH_WeWe92C2jAgJbXwDnWRe7yW3pblZWVKZBku991HIN3l93RyGq0fCZfDxc9DMrUIFnrR5ojiH2er_c96bNvEZw6wHvNdySjPhhGD7ADm1X6QRlnS5v9sbzksbc1_pnhc67cbS_ahxzzDv4Fp7_-6Uh4KotNfcFZcsAkgPYbw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107393844010078473200\">Allen Lai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fkroDXMbkxadlnmvBIZuKziXrlmO3W5McC_kQF6GpwcdHVCokuNK_dyY3LnF--fOvoHjKyF0IpPPcd_p5Y7nU1keXnMqnWjpMYU3lWPAiwTU2wjkon37Dkz_KofbC337IUbl6Cw3Wqon-MGjqBqBoCxvKNs5T0JCdqbhNFG0P973pd4RTee2p2sg_cjQPIhhLstl6kTm35P55KsKxYiivmbKohS564ll0bd3we1DO8grJzUr8x-Zi5tmMbY9PaV75XoV58EfuiWREUo1-QL89bHLQqrHIUERe4J2msf_6U4PD6csgIysdgN8vSAVDETfOpF35tGgztPmn8Wj1dSq-tPvjrCotTyguLREr3QfcCWNxaheLIXBCAhYw6SWDeiLU6xD82CiZX-xemFynmVeaHdskqz34g3fZnia5QozOihXz6",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113262224831128968067\">Hagrid</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d8BDguNLii8Jj4wA7vymHUpfZI8B23nI_72c-t3gBguHT3-sj4wPEGUSy6befh-iEMQOQc7TL5y0EkQ6puf99BwnLW-LQfgirLDQB_px4oo1Tar_Ib39wq2Tr2lUz7h1AZ5fz97rbTzPeq2H2q4RsMtXLZiXw16cC-BFg5vlfy7tG6xV2Wb_25SAJXgVx1NvMfdEmifylahWgi1E9QGDMM_bYYULpSdTO6rjF1fMUmC2hO5gs331fWyIqtWjlqpd9uy2bMWf-_uf3PzT4OvQ97uGi6z78mI2P58be6QB3vX7pzDVlViwGt53nfhssXP6pCNi1V2V-xQA3KyPeGv0ySLWuHpxZOTEwVYuJlXUT2jkylMe0tpnLPWFvuQTH059mKBaxTyLFEgR7lcGgCguXSikn2sdnqdxaYYYQ6guNOyw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113931045681884089846\">Joe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cLr7wP39FuXRHTercCp_4ijD28TwDyrQhhMfa9w8Z8Pn0kVY3dk7ZaL0w7eDmmxlaqfpnqfNwNqiywcScKOdLIytFbL4rPgXszFnI555APL2d38jBOrfcjT480JwTKzD7eTwlqSb1b7POm4jNeeqfdw3lmwQeiDV0WLZ0_WQmjAl0-LioE6DpNAWagVPATEmcr020m9T8PJO6ArGJ3bzvagCUsS6yftqwa0syBioG0E23h2lEdTNwBelgYUTQ27ZGMJQDsAVoLqDk-6L4ooOLZlQCtfE1lfg4FGXUKD_xjyzUvKvMAT5ofDF_RvhvWVYfTWiQy3FrHzD8Xz8o1dKd7Tzp3yxJkYDE-GCMHd0PJAYQtan12D_31AcF3Blq6ZJN44aCUKYCLzUyREjaXsxOKMwvO9ioglz_t5FHm-nKq2UYXpepihKunpQIAzjWj",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110165147374553167828\">David H</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dd9T3hRe4ws5qfx33nLqaUQ3-S0rlb9Iny_uYIsuD73oM8j7l8rPiMS0oWXT703a9huUy2v1K9R-D8rYF6jfj12KsVPtZRIcEpLhfq-hNQQYHCz90slPZNIIuyOc-gFp7XERF2ZAqdNEu2UeW8ZN-__l0hRcL7jRwPbRDHpRqOr9tSfnbow3tIYzP84oqSnHVshPg4a9P4mxuuO8IvYoIAxN5GEzOALw2GQcD30ENhnwlLgYGo4yLpUMgI1tLxrev2bNWfE21Dar92KApdLKOATRiKOBW9qUMzufyMGW7GrLP7zwgNq_XofITnpv7aJRlmc3CUWDBbEal3Ni_S8KW8N17_UsciWU-_zCBTozhxxX94iDc4AMyx1o6RJH9QoKRAkI3Bv8jXDcche3jASG6sRzuU7fOT4bPvvvQ2vAHrTgc",
+      "width": 2470,
+      "height": 3337,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107425451220419232022\">Vy H.</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Simple, cafe-style Japanese for udon noodles and small plates served at communal tables.",
+  "reviews": [
+    {
+      "author_name": "Macaron",
+      "rating": 5,
+      "text": "I think there was only counter seating inside and two tables outside. I was trying to rest my tired stomach after a recent disordered diet (pre-trip binge eating) and needed some real Japanese food, so I think I was right to come here.\nI ordered mini udon soup.\nThe soup was light in color and flavorful.It was very tasty and warmed my body and soul.",
+      "time": 1759325269,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Travelling Doc",
+      "rating": 2,
+      "text": "Koya is a small Japanese spot tucked away in the heart of Soho, offering chef/ kitchen counter seating for around 20 people.\n\nThe atmosphere is casual, and they open early, though the menu before 12pm is quite limited—mainly breakfast items and a small selection of udon dishes.Three chefs were working behind the counter during my visit.\n\nI ordered the curry udon with grilled vegetables. Unfortunately, the dish was underwhelming. The vegetables—okra, fennel, aubergine, spring onion shoots—were fibrous, sparse, and didn’t add much to the plate. The curry sauce was overly thick and starchy, lacking balance. The portion of noodles was Over-generous almost turning it into a dish filler, but it felt mismatched with the meagre amount of vegetables.\n\nService left a lot to be desired. Food was handed over the counter without much interaction, and one of the waiters repeatedly brushed against me without a single apology. I eventually had to ask for the service charge to be removed.\n\nOverall, it was a disappointing visit. The food was below average, and its was overpriced and poor value. The lack of basic ingredients—especially vegetables, which are inexpensive—felt careless. I won’t be returning or recommending Koya.",
+      "time": 1747739014,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "David H",
+      "rating": 4,
+      "text": "Very popular. Some of the udon noodles were a little bland, but I think that’s authentic.\nBelly pork was fantastic.\nService was excellent.\nWorth another try n",
+      "time": 1751826811,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Ulfa O",
+      "rating": 3,
+      "text": "Went and had nice udon. Food was amazing. Authentic food and vibes.\n\nAlthough the service was a bit mixed experience. After we paid, they hold us off. We waited at the entrance for few minutes, wondering what went wrong. They said we paid the correct amount but the waiter put it to the wrong table. So not our fault and we paid extra for some reasons (should be £72 but was asked £74). The one who paid extra was offered tea, but we were in a hurry so we declined. Thus low service rating. Maybe just one off.",
+      "time": 1750979186,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Tatiana",
+      "rating": 4,
+      "text": "I came here for the Japanese breakfast and it did not dissapoint.\nI do have to say maybe they can be more generous with the pickles, for the price of almost £17 the dish could have done with a bit of those. Rice potion generous. Fish delicious. Miso soup rich and soothing.\nMy friend had the trout special and it was lacking a bit of flavour (he is japanese) but he did speak with the staff there and i hope his feedback will help the place elevate their authenticity. 😇\nAtmosphere is really nice to see the chefs at work and makes you even hungrier. 🤭",
+      "time": 1745267305,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:28.900Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVNb59IEdkgR4MHN89sf5aI"
+}

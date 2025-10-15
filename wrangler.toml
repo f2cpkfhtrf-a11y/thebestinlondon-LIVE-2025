@@ -1,0 +1,19 @@
+name = "thebestinlondon"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = ".next"
+
+[build]
+command = "npm run build"
+cwd = ""
+
+[build.upload]
+format = "directory"
+
+# Environment variables (set in Cloudflare dashboard)
+# NEXT_PUBLIC_GOOGLE_PLACES_KEY = "your-key-here"
+
+# Custom domains (configure after preview deployment)
+# routes = [
+#   { pattern = "thebestinlondon.co.uk", zone_name = "thebestinlondon.co.uk" },
+#   { pattern = "www.thebestinlondon.co.uk", zone_name = "thebestinlondon.co.uk" }
+# ]

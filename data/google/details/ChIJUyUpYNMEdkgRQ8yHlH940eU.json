@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJUyUpYNMEdkgRQ8yHlH940eU",
+  "name": "The Duck and Rice",
+  "formatted_address": "90 Berwick St, London W1F 0QB, UK",
+  "vicinity": "90 Berwick St, London",
+  "rating": 4.4,
+  "user_ratings_total": 4867,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5136201,
+      "lng": -0.1350541
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51491163029151,
+        "lng": -0.133593569708498
+      },
+      "southwest": {
+        "lat": 51.51221366970851,
+        "lng": -0.136291530291502
+      }
+    }
+  },
+  "lat": 51.5136201,
+  "lng": -0.1350541,
+  "formatted_phone_number": "020 3327 7888",
+  "international_phone_number": "+44 20 3327 7888",
+  "website": "https://www.theduckandrice.com/",
+  "url": "https://maps.google.com/?cid=16560149794166131779",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dJl9iRBt2rrgVbbOwLYfOCDtGG_aIwftYWMI8rFbJvrdpfK5lw51VSY0gPIuvdtyvT4CFvpuvOml4Y9JSFTzY5_VbOb1hcPySlXHXHp-CAG_mZfDfHWqIJoO_yMtR_Nt6YpCMC0jjPXcdc8pW49E9x9jbhpFGE9muvHUUb7VRldBCQfLFv-dRs8gJcBbhU240f71B7YmKGmsq7QskA8Fk5skHXpv622vTiYn0bYyZYdwQVC7JvFJY-l_xvYLfz6TDspPqL4iKj-L1zzsq_evuloD87LPx57-UoJIjsqw7cxA",
+      "width": 1920,
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113721321337169302903\">The Duck and Rice</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2emx4I-1MIoz5BckCqDkHwaH3I__1OFvab2dmdBRhweM0VCdxQPccnu2utaPIsfgqArT_6hOG9ik3QBuoEGR9tRneYsY0A11UYMfhSliOwlgGjoZIs2RobSd0ZhtzZ8PhUnEu5tQX5N5aDfHAS6Us3ycXWMT2PGPcE3wcP_dAVzxXvA2tVfIZisziQEQFi1xxJDoVo3lkfMoo-b9wIo7Z6673lwqx_PhDNWdGUuDrz573JnPLC3pP5NqoajO2eLCeKBvt9TFtZUwj4SQFDkGrzxOudLk-oAltLexHhn9D9CLF3Ex3ZWAFbIsQve8rt8ITTr9z0L_83Bqe4nT8XvqvlqeVVyADEMDazAMuI21Kw8BO-yRWCMnbQygGw_573XbIhMYFuZK5YEj9z1B7rMLYJOYAUKIfhNFK61-SyDV38AvQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108288061288196652403\">charlotte barrett</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cUGN3Dh3gxfrPHOtXfqLq8RcQT-i5lnDwmtZasQefZE6ghCfzAVRzabUppeIxgsVx5e_UHll_vjmuLEiesRZKdfAWTSpgOZyVQ1KwFGqqdgYVCFQYh4SR4SAi0kT7-f_JWf_YwbNT85-tylrdQE3ijhUVaPgz59T4fmQYJtQoj25rffEJhtgVarWn3Ck9ozySL8bhPMa37X9emvuqImr0DIrGJ8rFz3dtP0zrVV-GlMqmPfW4nfwL5qqzW4kclmfJ5guvtk1yGW7-7P3PfRZeiZQGvGaZFbDWy4VQtScQR_VtLxTrsyFVParyUpPbxTQUqUTjrlJL97RM74pDuQRkGGh0Xp6IXyVgA6yiRsJl8ZRJdnoQ_ZRav1gCGkU8227ItmOZE4trvOgpt9_4iHaaBO5Z-HNvtbJ0bAfXHxfhXQgYYa2qe6j3YNk1tLQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108879102202333738556\">Daniel Lock</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cFs3lLy2ueZuWTcRQxt5Y7PJpPI2v2U_dcj4zZTUPGcZRvGihgaRVXqhY6BUkvfXHzw8Xy42WTs96E7nb_RsdjpmqmElcTmak0OwubkEPSm2qgjc0MsWM6r0Aw9Z33lN7fC0S-J51FzXqkLDVC7xKAB5-3bbDxPPxagFqEksfY-s4R4qZK4PU1MxtnZRV4nTnNdtJrM6XAqyr2tT-7DqyrBdFrKdlZQhU15XqtwxX30_FazARjg4mIE0MI9bSWGIIjtOnVvuAF8AEfC2bhTUsnMaLI92RymmIvMWVwh4l7wxP2L2f_A6lZlBUICBYKRNoExa-niy74XERFkkLaTKTOfAi_u5CRESAP8Wuz4UDnGfT2ye9UX_-GNvs1FHfOfFQ743KuPhtDZnGWqtHlbcov4x7g3UDljX6R3S70seY",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117124487880289341351\">Alan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQ6jp9mTFZmMBxpO6w5MfQI2wS4597qsugdLUSMqpQvULha6SIBaaJ8j7uUn60oVBNK2KPfmKmES3grSKM20PqEcPWPIBAc03CUxECjhq8N948tEBrx5d6M-QzsZwfOHyaQEl4KWh1U0l8azu7c5DTvCeYSaNAi6SeNrF906jHMm6pk5As4XlYobM1tOolaqG_CQGfVg_akcPxFcaqnfVFfZ367MhSOqktUJ7Ogbl_N1r3jpnGuP7wR1xK8-I5TU1wFGkoQ1BZsYZOB_hFtAw6kTf449ApnwhNHJrX30MGmc6nDGlmGJ33IneZ9pwmpFUrFkRl-p9rKUNH_ajKshfU_yrCdRhFfXPBF4UWiJvw5V5jsgFn7wVOhcI9iezgDSqoYJdLevObQbyS101llBNt8NiInAFGzOeKhLPeZesqrD2NGkF5pp1lVTkGxQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108879102202333738556\">Daniel Lock</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flZy2zn3FmGg_QkUmD3dUmfXmnxez0b-K3JrQUbWXbV5vWPeuzxeCngl5CuPYbsTXT2z36g65BkJp5QcyQPD5H96180Eyjpn6FTdBJXsp0N3DK6hKkfqQLICjDpTW0Lpe9a_tlrpDe714ymk9UiVCTpDtbAXDpNsvV01PhhCMSedjvRkt__2E8T82B7mZW3oBBYhLPPQ4OOczcJT4K7X1pIyDhb7QZhwLL1rcqhkwjB0VTYTiaqhl68-dPlQx7_UJzbgq68-TmKUwbdRPAGv8q3j7eMHLwLPzNSPVRPucMUxk-2m_SSHsSK4_rMc0gniKkqJsqfGb266P2v95AqPAkU-RdbeVX6W0_49eMcHJTcjPN1wY-qVLbd5D088hQBxIUjcZUghT3FfNMkdhAvOJJ33ELh5FDhGhuLVwhQUs",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110969648598921336190\">Seereus One</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d-RuB8xQkJ4mRkNic2bzkC-lINFdmertAWvs7S8BC2rNRKvTcojtZFSIUQmnSNtzlT-DzIQDxwZHVoLiXW_1aMv4WNnpfGDT1Tzeogpahr6uMfarMW7h8R3pmAbErL-lfaibhUh4ScDhaqZCj8Mgj6foziwpSuxMkGz_8jFJukCF3ZgF8ksxN059Ef6cbCXgCeqFDiuJF-s2eF6-jktEcY4n41Xc4CQmj9aTgDMGhuNOlIpS-s9Y4O3jU8wF93km0b4hAwqtKrYcls7pb44gkpNCo7Hq8MdyB39rInRW_fK6Kjzs-F6r3GW9FOmSgji5EypndDiSh5lcSY3qDydqOGS7P2rH28A1TsLpTOyFw6WuBYHrlUbId70pQ0zsQCtur-hRuAkUKTYzf8-tUaV2DCtBxhoygHzBCVLXnY3aBkCY6U",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116023865083111497374\">Gary Jelks</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eiskIJcOlq9oXXIDrpMMp7SRpqoaXqTCKA1wTKtbirpGM7IVMEuoqloSdupmpFD4b-LMxYczTxfEoviF7Xm8Y1z8mcXNI8LTMVMpi1xAOyZLNv7xoQw8d9NoEQK3vXWuc8M8KA8VnC8Ka2vUM5EiwoACBbjVifYTUARLqLj9_kOwcKw5rR6UwV2-DX1jR933kGuMPMDgyGFmubkJHRIy_tk0KR6_0g89YOYDbbhZGg09O6vHENiSJE1BtNT-rQldI-6LTJzkybonTRM8liANKdwU9Xj7VKoKs8zV52Hbz2_m0RfgidWkhiRVscxjsmifXV7D_atnBovJeKfna9xLuxLFnSjzYsZHP6QuSZQY9F04dV0K14uE7RUvGG0E3Zcg8sbqpFArR9gPLp9KilBUxN7NXNg3mauEwzup8qnUoFBDbp",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115006360362429401768\">Christopher Devlin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cucssIqtPSlYshkA6YWAvkfIFHrXeOrFDvoLqWmcrXAxBIMwBFI92QX2oqn_NporkRfZjRwI1EGKmxq74q4nXVtXlmfK7uH9nm65L8vuAOhEPWqlH-vDhL7YnDQCzEcUUxu5GCTUTuJXYb-k2hQuy7ICiQzWnOznN6s5JdY6c-_qkI38uLeoQj0okApDCe3ZBjY-ck5JvhdFOKL2spvCVk5lpLzsFuwotN2FUfc8gCRUY_eFh6dXWFB4ENZCGdilpmybti1puTSLNDPnF4C_JVbelDXu8NyGNOJC-aHpEjRVbBpJWkl1TKkRHMzF_ZoXl7Jxiwp0RR4kEKInhZQkcRCskdais5Q5kp3ocHucwelIhQo2GoBIPMYOFfYgiZvfpW0DoRlJI905dhXUwMZXaYd4v5nhcpkNuu1X7YdUhjQw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101432420252828334373\">Daniel Chui</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fy2HjA2_H-Wv9kIIvJfyREIUQ2VFs_Y8tE-4D8ou13xhloMh3nJQj8P9XVj5nJ9kR9MdRdZzFryo0YQkDHSzkDOVjTGhbwtc4_z6xufsHTFF32pRFubjPEdmqpAf9_PiQGgTzeyIvCSiUT5i44z2WABxcrcnnGo1Qkz_UQ8hbNgAmzQrkr-y5HP0P47zA94OVrajf-PJuOYk_rG-uOtNvwBbVasUdE54RRu-aMGA8j63KW86fCSIDI-eaHTgkOcXeO-WjJhtxFk4A11vR1r1kHDMkhG5EsoiuxZFcr4dsNYojCpblOgBkvNEjUnuC9FgRXB6NgOAPY1akZRIVvX3ND-NDKmtVtcfiaLkUElMtCxrLJDSZmv7JXQkceQZILAK02dJPEUcwQZ-MbGD6xUANWWp5hRjCeBUwrFcTHrQppw3E",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111229589788718876921\">Hilsy C</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Stylish British pub with copper beer tanks and upstairs dining room serving elevated Chinese dishes.",
+  "reviews": [
+    {
+      "author_name": "Daniel Lock",
+      "rating": 5,
+      "text": "My girlfriend and I visited The Duck and Rice ahead of my birthday and it honestly couldn’t have been better. The food was absolutely delicious, we shared sweet and sour chicken, chicken chow mein, bao buns and venison pastries, and every single dish was so tasty.  You could really tell the quality of the ingredients and the care that went into the cooking.\n\nA big shoutout has to go to our server, Hannah. She was so friendly, attentive without ever being overbearing, and genuinely made the whole evening feel special. It’s rare to come across service that feels that personal, and it honestly made all the difference.\n\nI have a peanut allergy, so I have to be careful eating out particularly with Chinese food, but Hannah handled it brilliantly. She was knowledgeable, reassuring, and made me feel completely at ease, which meant I could just relax and enjoy the meal.\n\nThe place itself is lovely and inviting, and seems like a great place for a casual lunch or a more formal dinner.\n\nThe combination of amazing food, a lovely atmosphere, and such thoughtful service made this the perfect place to celebrate. We left already talking about what we’ll order next time.",
+      "time": 1759097249,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Darcy Caba Pier",
+      "rating": 5,
+      "text": "Came here for dinner before a West End show. We were a bit early for our reservation, so grabbed a few drinks at the bar before our table was ready. For 3 people we ordered prawn chips , shumai, and XLB to start; then assam chilli king prawn (it is extremely spicy- fair warning!), crispy aromatic duck (quarter), pak choi with garlic, and Singapore fried noodle as mains.\n\nFood arrived fairly quickly and everything was fantastic. They swapped our initial appetizer plates for clean plates when the mains came out. They present the crispy duck to you whole, then return with it shredded (with the bone on the plate) so you dive right into it more easily.\n\nIf I was local I'd probably make it a habit to do pre-show dinner here regularly. Everything was great!",
+      "time": 1759466190,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Maan Kyeso",
+      "rating": 5,
+      "text": "I went on vacation with my family to London this summer, and this was a great place to dine at considering the numerous amount of restaurants nearby. The seating itself was a little tight, and I did see some customers struggle to get into them so as to not make contact with separate parties. Otherwise, the customer service was good, and the food arrived at a good time as well. My family and I enjoyed the duck the most, but everything else was delicious.",
+      "time": 1755064747,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "NIDHI SOLANKI",
+      "rating": 5,
+      "text": "⸻\n\nI visited this restaurant for my sister’s birthday and had such a lovely experience! The food was delicious, the ambiance was warm and welcoming, and the staff were genuinely kind and helpful. Everything—from the service to the setting—made the evening really special. We truly enjoyed ourselves and would definitely come back again!",
+      "time": 1752231521,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "I Singh",
+      "rating": 5,
+      "text": "I visited on Sunday 24th August as an early celebration for my Wife's birthday.\nI went with my wife, my 8yo, my sister in law, her 3yo, and her husband.\nFrom start to finish, service and food was on point. My son's reaction to the food was \"this is definitely a 5 star review daddy\"\nThe review isn't just because of this statement, but the food was absolutely spot on, delicious!\nThe waitress was attentive, but not over the top of in your face. We were never left waiting to make any orders and the atmosphere of the place was buzzing.\nI highly recommend you visit if you are looking for a great meal in a beautiful surrounding.\nThank you for making my wife's birthday meal great.",
+      "time": 1756195350,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:31.269Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyUpYNMEdkgRQ8yHlH940eU"
+}

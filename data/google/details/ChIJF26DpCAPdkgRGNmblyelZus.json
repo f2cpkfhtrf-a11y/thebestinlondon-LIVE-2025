@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJF26DpCAPdkgRGNmblyelZus",
+  "name": "Halia Restaurant",
+  "formatted_address": "Grand Plaza, 42 Prince's Square, London W2 4AD, UK",
+  "vicinity": "Grand Plaza, 42 Prince's Square, London",
+  "rating": 4.6,
+  "user_ratings_total": 245,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5134987,
+      "lng": -0.1907876
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5147667302915,
+        "lng": -0.189491369708498
+      },
+      "southwest": {
+        "lat": 51.5120687697085,
+        "lng": -0.192189330291502
+      }
+    }
+  },
+  "lat": 51.5134987,
+  "lng": -0.1907876,
+  "formatted_phone_number": "07826 496230",
+  "international_phone_number": "+44 7826 496230",
+  "website": "https://www.halia.uk/home",
+  "url": "https://maps.google.com/?cid=16962426636003432728",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 11:00 PM",
+      "Tuesday: 7:30 AM – 11:00 PM",
+      "Wednesday: 7:30 AM – 11:00 PM",
+      "Thursday: 7:30 AM – 11:00 PM",
+      "Friday: 7:30 AM – 11:00 PM",
+      "Saturday: 7:30 AM – 11:00 PM",
+      "Sunday: 7:30 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d0Es33Xrbl7xrf4DTjWrP4AIJQhKz85rZkJ4ryB8ELfBYSl76Mn_wlLpf7Q2oZGruZJyq7vwwgEQQAyw3-gP875kZQcj_VkUC-S9-Ft0TDsn9vwR1d0wlyvBHeixjf0MVroB3rMj1aVy184JncjahGdqnF4ZUlCvLzR-yEPd1lCXaOwEnYYvvGwBxb6cTQ4YFklw8BFbzXoVC0vNNUIneM2OVMdepv95b4X0vuESv8ZeI2tNwNohosNN_Q7ClP8Gd_ExuOAW1YqBv2RfBuql_MDiU0VjoWEDAjtztpWXFS8yy6XW5_ZpvYmX7taurH9j1dpTPHwcN62YL8zOdAfrqKPCipLlGX-Kf50mmjpuOdfHEmGtHfvVLRMqPfpBB31Q_z4sAJeO1ACf8a4p4j-rvsCsX9nTOjQWGmK3GERZg",
+      "width": 3264,
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102500364652897881408\">Ken Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eg-S4VfPLHTvJ-XqieHrV4_x3TqDlpWppn7ToC3xng6C88h_lQFvMc2Nk_uX7ca3InTt2O5QVqP5pcWaVNaqNUinbTe2j22IPfc7kZQpfV4hTDgZhhdwre-Sy3a_TUowscSvj7knOC1-_yF93aFZiNimkl_887u4dK8DdPOsw-ZyzhiFlfpTZpIS-qlSRj51WUk5WYI6mYztW5T6gSks3GzRu-RXBfcrv4RMhnapfQVbxcRA8BiYMW1xuDKU-Do8uoxFt5wGEdoOoj39gsD3r3pO6chbwcT_aVfF_YvVo-i-_rWJeoyR-9OYALK0eSwwlqdCjCxk5hORiRq6BpxFRnN0GAAhy5CIdS9mhhjOr88hP7_nuXQdVF1eYgvjFqOTJxpDnmGSBMN0mtVuhzfLNOnCAeFFbzlNB-CJig3hezfFyIQetb0uEKYCVyfz_5",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108543925043555808174\">Joanne Cheng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ee1GnpzKnc3TyDMiSDVGN2NaNqMMG2lAj0cn5N9MaI1CIiotljmnSVLZXT_9uD_Yo9-Y_A_DKDF_hZ3W-zbEtVtkYbfe0x9TrXMHH6nr8e_hRBs1JpZQPbGIUUuSw1B_HZ8bCQ_ACP_wdkLwjpuH_5XUCl6wbl_Db7zax78bStg5K_CjD2G9Xv8xeLG5KnBCun-dhc7nIqphEmJbMPILCxfB_Bsg2YDRWcbsNomxnIN2lDQ-fCsntmOcFAXATcuDbLLitoxLv6ZUjkJ1icV4xL7XI244K0V3ZgF4FJetjAy_TBlCTyjFNLpJRO8NQiJTBV9Rfmm94GnLRZWlW08coP1yJzTfMejvudVHzlD9lBd4Y36HssoE_-cWw2ueZQGJcJbVt9WAf8vOnmFtRjYE5XVO2INWMRkIm7vonagnH2gJ1dy7FOr8lOc2LRMA",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109686048381690839365\">Hamizah Ibrahim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fg_W4VrBbxP8TtbAFH_pET3DQjffNQJUGTJ36NtZPCu0h4mCXe9nx25Qley-Rc6G79u6NPdtaDwMrSSwXocNfyPP7dRTfxvTKWJg-VpkRYzNvEkS_BvRjUiV0muYTTwrA0BX8Mj-yPMb4CHOuFd3TCl3UgNVm085134ZWvd8VWK1XC7JbpiuWqOSFx7LAZ-LhQLOP63HeXecPIvopYb_H-3qRP2M6JVsKxBxtEJm7lYKcYr0X8Yd3bABf9MjhlHpnhFC4zTYaQ32mvgiB7a4xowQIp1XVeyoJlA1FwgNh83A",
+      "width": 2700,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105891239493478075888\">Halia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5U-LXd_vX-H8fbMFgjhRnNxBFJKjYquYEoX39otvnUgV1OAbNa8kEmt842Pnhs9yTESolUtpN8IMDhjOTKdmXdnw1kpuw4gaCQKbUgZk_wr8P1kdZSAC9TMbIgAXQxs-rjoqPfBQ1npPosIGipMdC8ELOLolH4Uy0JhEe-tH9rX2bg7Oyas9-Q42Kx31Kz1phVnDVKEE3kYhlq5JJdErTb_wn3177CwbmkN7RF-EMxDTPEJwg8WsKofedzgnWMgmoe0ZRZg4-IaMdTEdcIRkGURVWzb7Kr3FFBnLlb-AAdeFiSKoUIttnpNJHH_0MNPBBVlm_zGYuapDM3EPqhx9DtNxHnJGc7R7dl1zFlqhYhkV6kPKYLsUtT1jkD4g3vgDxUqjZZIhg0pqraRh5zz6kyCPnzncPjvi2GBvQv2LFEz6ayYjKk91uF-FsGoym",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102592946161749736609\">C Neon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cPE5ES9WjTwgPxddaopuj-jCnH3RcHyVs3KRsbgIkP01CusK0RfqF6M_iNwy6uPRXMox7Vp5pr_p2JotgSR4TAWuTERxVvKGiKd1KjELCoMoMxC3uepUG1nNWOVFYwoJRc-P6XlAunPX_3WntrnOoqlramna8uGW1zl_h-n7byejnbAO6PnOogqIbSJkdapndvIhpAuxorEgUQuNkv1CWE7x7TG1HIWuvKdrI0CBu9tAp_4qYnc_voRi9RWn2CmZmIdvCPWFp9Jqtu5Oncrw-8CgBbJf5nvPw1vSxg3cbqbDwu78rXjJA52qbb-QscyXBEdDIjA_bPU2M7q4C_tnu8t3a3GGSO0bc9S1LgdXwiqvOmI97_BjzrgpyW4smbm2fblDV1V5SSIHsNODGpfujoDIOSJsuX8N1zAWfZT2SoJ1tfXGasGoU7sa4q9vuZ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111816292625092595045\">Mohamed Taufik</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f8-uXKDKVI2O7B5gd9-QJfxH3O6OqnOWG_ZeNpn9liArvYQ4HqJVDmT0DpOrl0k5GVEkIOvkBwBdDPim6DJlqaHwVCR25Qf7faX7FcL5ONZoSvqNhq2S2X6nDQF3U4OdBlQllTDYxHeDt2HaPnTLZuB9lras4i1zYgVauHRiTcMxJUnJVwKpBXhoMJMOU7T1oZtl-gM05dOE_YpObaDMwB3WJOGCaUeZqQRtBtmXjQFGRfaLaFy5SAcPfHpgWWvpgbMw0ehVx_UI4ZQnjB34PPy3NpHkslXBebwi5Sctj-iiPRAxNBfT5_0-jK-_C0qsk2gWaBhZMxByaHqgYS-zLj-Z208XgVID9ka_-dZLIs9tp7e9QOl9J59ldkhFB_EtegRkKhWetZYwWMFqg8kNNWbqpcoOtp4_Pk9-rP19asbg",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103767255028996390501\">Tanapoom Chansawang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enwOn0O3GdHd3EBy1ZioxV6TCI8hvUsB-WwoVdI8R1u0Qf-hRCId44q29PcZFK9Ls7SsnbHhlrvgVjbeFBpYmHVHylSb0fNxUY19Ra4RU7J7xO_L_2-XMpOjk2H1h9jw_eDybbs3b6j6iGPmtJ4rEPnIbsZ6sT3dOKSkKi8uWT-SDrK4wIXIkqyhzozxQ9jh2qi7CRDE2IjD-LibvS6UemMxP6aToQzp9Q5SM_gm9i4Sigd6cP22NKWSLMQHkbViZFyKikeEamkS3B5uFYoRmpEgFp0YgWYYLpkqbizmDCD3KRUkh8zKKAZRi5gv2IH2bvfyzZBMqCZ6-HWvyw3h-2ZLVf9XqpED3VA0kjzHMmWgqFdLM7H5TpuHivXzkXfC5cnkVWwB2rgI8otouvgogmtqQOBjDW8ylXoUNjLBoPpviXFZ5dJ3SpWe9Rsuaa",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116567283446644993936\">Zara H.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c4_LMJTifm3gKXQEXAzzpjdBGIOu2pQNK91xxeCHYi-DwMwPPThCIQ4SrcSXJgaF2n_euFd6V7v5CyR7IEYlL67Yvv-Y8i_q-F653gYTcASb0DKZ8a2wkbpgdCJ0-eZRC4oozikFqO7dRmsn8R4lxCJbx3qyISux_7ZL3qj1LQHC8XPL5bitra6xBudBOMzIMfkSkktCMvAy2-WWCHpsaJOOxWl54cUl6NMA1NAUNtFjUyWjxmj26j7iVmIratwrDxLCmvEPC8w4kTxvvWsfcV2KelYbYDXQYBpUpwsp9EyoPV43GvUm9Jr42oHrr9q2fcSM1PZl0pHIXjHgEVbQmK-9F6T3ttFZV5wkgQW2O96zgMFN3WrL-Uq-zEd1h_hs81xkvhV8p5AD7Hw-95Ex5vCncou8Ht32sLebZWm_Y",
+      "width": 4032,
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107118202288179795148\">Harry Radzuan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e2ADblJLhPFRTUXwGIPTIo1FJcrz41ty2NglxxNwf8Oksth8ZQfM1aVcS73h6xHrn1vnWzeDUzWCBp6o6Wq-s5DSHPMAWgvyil6TTq8BadUofN1UqcexY52S8B9MPn685LToesCtVK4kumERcQKI5cVxHQaW6gzarA6dYLYk7DoAAfnyiyKLryG5xt9OuJ7n6WcU-lBrI5WIYzY1yOFCDLn51BqNNfPHcCmQCE-sAyveTSrZrlDyHGiK_jsf6HdO1GIxqg9g3JGY9KcHh2Gxswy1jcigvhCrpw87AaPOCJuiAcWPPWVmRQN-tHyUC4T3V44FCIkWQTz1XT6HYwBKmoojEIK1kU7p1dQOxqExSZss02LRqRHHte94Z6GykBaxtPrhdxmxlp0drqvsw2PrY-N1tM52GM1LvJODEFku2KtYo",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108129815793602363467\">H (hairyencounters)</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "C Neon",
+      "rating": 3,
+      "text": "This is a Malaysian style restaurant inside of the Grand Plaza Service Apartments.   The menu has good options of Malaysian dishes.   The dishes are tasty and well cooked.   Overall, a good experience here.",
+      "time": 1759915084,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Zara H.",
+      "rating": 5,
+      "text": "The location is slightly hidden but it has made this a hidden gem. The food was absolutely incredible, the pastry on the curry puffs was so flaky and the chicken curry with the nasi lemak was so flavourful.\nWe also got chicken satay and char kway teow which were also delicious. The server was so nice and service was quick. The food all came out hot and fresh and we enjoyed it so much.\nAs an FYI you need to go through a hotel to get to it, which is fine but can make it difficult to find!",
+      "time": 1755595179,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Muhamad Riduan Borhan",
+      "rating": 4,
+      "text": "A Malaysian food taste authentic experience. Portion is good. They have outdoor , indoor and 2nd storey seatings. Located inside the Grand Plaza apartments. Service was friendly. Price wise a bit expensive.",
+      "time": 1752356232,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Mohamed Taufik",
+      "rating": 3,
+      "text": "The kopi tarik was nice. Nasi lemak just average, coconut rice look like less coconut and the sambal was not bad. Rendang was not the usual kind of rendang. A bit watery and taste more like beef curry. Overall service was good and atmosphere. Next time maybe need to try different dishes to see if they taste better than Nasi Lemak",
+      "time": 1751196881,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Munirah Taufek",
+      "rating": 5,
+      "text": "My absolute favourite Malaysian restaurant in London. Seriously the food 100% tops all other Msian restaurants so far. Delicious nasi lemak and amazing hospitality. Nurul was very pleasant helped us with the menu and was very kind to us",
+      "time": 1758980424,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:02.754Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF26DpCAPdkgRGNmblyelZus"
+}

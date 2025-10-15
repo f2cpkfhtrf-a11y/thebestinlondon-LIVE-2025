@@ -1,0 +1,334 @@
+{
+  "place_id": "ChIJZd3HCtQPdkgRxsK7tQWyCE0",
+  "name": "Wild Restaurant",
+  "formatted_address": "202-204, Westbourne Grove, London W11 2RH, UK",
+  "vicinity": "202-204, Westbourne Grove, London",
+  "rating": 4.6,
+  "user_ratings_total": 384,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5145829,
+      "lng": -0.2002631
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5158473802915,
+        "lng": -0.198893969708498
+      },
+      "southwest": {
+        "lat": 51.5131494197085,
+        "lng": -0.201591930291502
+      }
+    }
+  },
+  "lat": 51.5145829,
+  "lng": -0.2002631,
+  "formatted_phone_number": "020 8191 2407",
+  "international_phone_number": "+44 20 8191 2407",
+  "website": "https://www.wildnottinghill.com/",
+  "url": "https://maps.google.com/?cid=5550882278327698118",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Saturday: 11:00 AM – 12:00 PM, 12:30 – 4:00 PM, 5:00 – 10:30 PM",
+      "Sunday: 11:00 AM – 12:00 PM, 12:30 – 5:00 PM, 6:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e3PAeXZZCcyg35tnPVu7g2DBv6w6ArEybVZEAzB_1YO3QktwLfC-MljoIgORU_23e4PmvGMQaqZFA3BLFb4XRsD_lEKMW1cDung5bRsENtMYjJDeMgiluM4tpf31jWAIQh1-in03AqsXvbv3UmWFfo3DHNMUtZRvhINrtJT3UcVyj-qbMZEU2WC50a4z0814A4CX04AYULVVHb2EuzWprY8WorKnvIB7lr3GHckTGWUYpYzyKLU32Wy6937YQ8FfJoEMLcIhB56UYJTNbt0tEqF9tBGyYL4sR_zcjVmWH3Dg",
+      "width": 4498,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106173018074005395240\">Wild Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eC_uUl9xsprtPi10Y57A5kLSyDAgmYhMAh4OIaBG87saU5_eKcEKNBfBXatcJYyHF4kKT6dbUkEUN2m51yKOJ0L_qEG5B9UNndVKY22JvXb6YGEWYxcl2gLBskUcnu_D4zTSi9Ly1wTbtadPAoAy2VqOUfnTt5LD4dUjw2VXcFpP1eeCvADsFXCfLtVO2MQnGEnvnXRZdgHdKubw0BDPailltr8W4L1N9_ex_ki44r3WJKtRlHZkP0OkGekhF20swtCLB0b5Uoa-9lUot8mtlciVWovF3qN7yrcbrFDq49tg",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106173018074005395240\">Wild Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fDVhLdl8Zyde9B-rsbP7r_DcFcfoV_LvKYi_76TuaVPBwp6Fcq1btsnPv3erMTs-udILI4p6pjvMhi8Wh2MyBf9Ieew-ITnuPXLgIOzWXAtrrNISFC_Ivf3ylYrJ4pk6C3dwiRJqMHzO7SHDibKQUVq4y32es0PzQlZJ7oH7XKTkvUCEgXeZozSCg77TTtpRqpDOP0LvNNpBPX8yD_VsAVlrAxDsf6xFbzDs9RoPk5n09m7kScKsLU85tzvomgCE4wZCJgjhnCdXr2ZPYuxPeQ3NEmYB-YouTci6dtwRw59QzbXXIR76Cr6zBjs5EDcsifrzXd1MZIu9M0fatZIxND2ss5IL_q7wCW6jQhZMwqdMm4qBjFxifovYUWi7ME0cC7N--RWqgzG3LAL9SAERPvrYSpzReLnLRSTdORWhsvj8lbVq07hzwaEsYVg_hg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108843971656254975769\">Joerg Schwenk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eyyUaBUrxjXu2LECTTW0eZfkxkVRWKLCf26qP6BhAbborELPlyCZCh8RYtvbB3bHjTFnxnrtl5w2kiT4RzPbnRNaXZUYidxH2Lm8gUsdunxz3o0J4Ahgar-VGoriSoz9pqwGkNjVyJRg1eNZPeqPsBA8q92pjTedZTontD-05N64c2y5dSVuyWIuNBozIRBXdWz6d89drly58aBBPxQb2xC7RG8gNFTy9HqYLv4VpIXiVWdZ49x3I_SmDajWCJcma1sfbF-dEhajx7b5cuiP_VwbCzNqZW7oBRPbKZEmz3vw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106173018074005395240\">Wild Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flD_wHncTg9pXfJiO5UsrAumyhLzlxFd0BdIaNDWToZm8Uk05khRncz5pDxMxsi4cX6CCHkCXZmPpFY_6DGc5VeIPrL1oQKpcMALrhW9yKgFD77Ju15qWoHt3ZEZHkW6wbB7_2FeAL8dH43TO3Wd-4VG28kn8DqDiaRswRcZii86AR66oTJXNcebDgwPid43gW_IXgu50lgCfTOYv3NNFgCVfdMHVZWkrrb1Jz7Hu3N-GkNLb_fLcs_Jkcwa6Q4IOrMKAAjg_x2Ycmy2cvw0Pd4FJe0MKmVPuH67VD2vhT05HAoNSujZqKtqX86aR-C9eYsa0AljGWT2bYZpesv5IjQGacN3eiTTKX75xDYiFKcE1yU1P_wNUHl_lQALK3YQJBPRzvHH6ugb-rqRY7tTelZh_BH7T2a-KKvU0d67lBv0X-1PkUir5XmL0qSg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108843971656254975769\">Joerg Schwenk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flWEMUdnYadshMaBqfBnPwhrVV2Qmi5wQ0Q7ywcjSQbSPM7BGByxbNcQurCgp6W5EmgTzHXo050lBp5Uzw-66eIVmLrHydSgAyrvtBbv0BpzjbgsCN2FokA2qfSM3h4_12ha4sAO7t7ZXj42khVGRSUODNgbtVUshJ3QYNghZZC0cad3d2DWJYsEaSpBSkuF5JsEi1YxbCiWWA7qjX0jLB0rrZxf3hWu_dU64CgaENUYQhbwutM4YTKCYRKWH_GFOESEnkc2EvLNHrVSPCdzB-o5yeM3ZQWwis-PXHz86U3VEmHZpyoh_mWL78ENcDiKYm-olcGya4x3u4KixPzDTew0WhSp09TvHVSYkl-o3jiDrIt4g0iIfRn4z15_IRfalFRRF1wZk9neI0v6msydD5uiw7Ikdouka-upnj01pIWLoS5vy5CGi3r1iT3aeZ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112209354305711005913\">gabriela lungu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e2z6hTIoSYXImM_Pqafk2Qu4qP2a3LN4nnANthsS0Cxj7cfgWU9x--UeODlEMeay0MYpKUhWGs2kKY2gRhV3jdGdlPFelzz6fdjO-dsXtTlnoFpIDfLb7v4itET7vcl61Gy5OAxbnobxTUjuR2kDw5KBhh_xtaftYF3hvjEoDEvwe3femWmtqn-VlpLGGNiQxSFtBRLpjNjGUSWLAsw8h-L3pwah-EQVFd7_He5iogxh-9Vj8AKPc5C21YnyBDhNwllAjru1Bgehz4W4xYPXN4CXslh-Et3pwp1wwW-G7TofjSZF7-7b4-yd9vxsOSCNVs7_vqKwQSrcCQW5Z7Yg6Sdr7DWROWEeN4qGVIxApPxaTq9oR7YdtQkJuI4DegpW81swnHGXdybEomOo-nJv_WCHa4nX4OIxTSkDPudAiLXppZZpVqMl5EDKhdlw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106689006690222456850\">Colleen Strickland</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d-ydXplubwgvqt5p4WaO58AEnQ0OEt6jWDhNSQhg4-dS8FJEk-uM9R8pEZIfHZgu7vAn3tPCOsHnD8EsUb2aAD374ZIjgNnEakQ-eNHPCzdkHe1haZXryJy44i8PxAXioYRkWq0zPwYzTW60LABC469usq4k_mVQVuT2cyP1zFBxcUBolLsdckIsmG_6c-6N8-aDPYwRMv5u8MIfMtqqx9C9S_jOGvYapuOIkEdDIkFMbmqJ4QV-IobLH9p4nTQQzJvDHWPU9tHTaUqyksThtgPxMaZ6CH6ZDcWfuddVbkB78qIjSnzkxSQFchkJGX0fbr1iloVnStcHERUlphbva5R46tdw6iESIbzayvvXXMM096qwumgbTXNPPjjXdrkjzYeg-uC_9Yl2so5NHNYrc4XvwWwuSs1ALZIt2zCc8iCw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103412527574154471179\">Ahmet Türker Evcil</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cVvujBI2XtLzuB-QiG8NL7jV41Zo5Cmpuh9RsQ5GW8PdsT_EVRFum92-rPo48d4G2zREPGavG6Fs0Ed8Gyr6qzEYoNe_seFPJM5PzN6bNDYusNVevPeyXBJ0eV5dyl1nU3EbL662_GZM15CpAs1kWvnfMz40lpgzi39vr-beoQKLkMjXid6yk3GPfpcS5ygz27LPfZWvOfBYgA50hx1xBG0P31H6Sf9rG39vG7-kprE2zJysCPhJD5IwxqGlp2dFnGFUh6nLAPF-ZAwEE478OQiEX6AgzTcziLxRVQFemuNg",
+      "width": 3201,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106173018074005395240\">Wild Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e7ytTHJCJy7RqmgMR-iuztz5tLiqxQCfcqCYVy2l70U5cIQLU8Hthb9E_h8P14XhcEU49dan-uLzNE-K2ztJRJk_jktwZ668j53S5jLQf4nYwcLFAzhimDXdEbZ_lhGSHhqDCRmPZUDRFQOfy5KqXlh_22S_WkQXwlecHVGban81G5LgIQRDIQcvQcUDFQFwBQvI7lI4gVHhDJ_bHIGM5HqAbw7uhrFydm7v1HU3Ugj_MgtGTZNVpWaKHjYl9diGRbu4Gups0RfdQ9xSrvXhvHxiCYeobsCbqnXWQk00rBZoxL8KoI5PO9IfynBhCVhaaGCUyDN7wfrmyI0bgP2jGI7AfMgvXFjWM5BWaTaw7k31cI4kPBm-bp76iLz7YKBoxUQTTJv_Pdc3aBRBJ5bCHMXF4-qBLPSj6UUUq4tdLo4Q4BpbOuwvMRwH-QkJ3u",
+      "width": 3000,
+      "height": 3098,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114017583026454895026\">Mitch Helwig</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Richard S",
+      "rating": 5,
+      "text": "Exceptional food and service.  The sea bass ceviche was incredible, as was the broccoli and the steak. Not pictured but the best ever were the peppers.  Great service at the bar. Wonderful open kitchen gives a great atmosphere. Got a great little London rainstorm that drove everyone inside. Classic.",
+      "time": 1751843474,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "gabriela lungu",
+      "rating": 5,
+      "text": "Every single time - perfect! it’s a joy to come here! Fab food, amazing wine list, great service! Well done! (our little doggy is welcome too which makes us love this place even more).",
+      "time": 1756564338,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Tomas Kaiser",
+      "rating": 2,
+      "text": "Yesterday’s experience at the restaurant was unfortunately disappointing. I had been looking forward to visiting after hearing so many positive things about both the food and service. We were a group of five, with friends visiting from Belgium, and while the food itself did not disappoint in particular, the prawn tartare and ox cheek pasta were absolutely delicious. The service fell far short of expectations and ultimately spoiled the evening.\nTo highlight a few issues: water was never topped up unless we waved and asked, empty glasses were left on the table all night (on one occasion the waiter removed only a single glass and walked away without a word), and our mains were left sitting on the pass because we hadn’t been given cutlery. The manager had to step in to resolve this. There were no checkbacks on starters, and throughout the evening the waiter seemed disengaged and uninterested. At one point I even saw him throw something near the bar till and have what appeared to be a heated discussion with a manager. His lack of presence and professionalism really detracted from what should have been a memorable evening.\nTo add to the disappointment, when we left, the host didn’t even say goodbye. Small touches like this make a big difference, and their absence was noticeable.\nOverall, while the food was excellent, the service was nowhere near the standard I had been led to expect.",
+      "time": 1757250934,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Eugenio A.",
+      "rating": 5,
+      "text": "Amazing place, great vibe, the ambience was perfect for a good conversation with friends. The drinks are great, but the food was awesome both in presentation and taste. The tuna tartare is a winner. The pastas were also delicious. The service was really something, shout out to Ondrej who was very friendly, enthusiastic, and took interest in his customers. Overall the experience was amazing and this is highly recommended. On top of that the area where the place is is beautiful and warrants a nice afternoon drive.",
+      "time": 1752962143,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mitch Helwig",
+      "rating": 5,
+      "text": "Romantically tucked away in Notting Hill, this restaurant offers a truly unique Mediterranean dining experience. Its open-concept kitchen isn't just for show; it genuinely invites you to witness the culinary magic, creating a wonderful sense of transparency and engagement. The service, particularly from Ondrej, was impeccable. He warmly greeted us with complimentary champagne to celebrate our anniversary, a lovely touch. We chose the Chateaubriand for two from their nightly specials board, and it was grilled and rested to absolute perfection. With a generous selection of wines and cocktails, we know we'll be back.",
+      "time": 1752318441,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:00.991Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZd3HCtQPdkgRxsK7tQWyCE0"
+}

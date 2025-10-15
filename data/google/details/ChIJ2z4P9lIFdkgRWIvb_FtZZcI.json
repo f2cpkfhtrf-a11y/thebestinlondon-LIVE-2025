@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ2z4P9lIFdkgRWIvb_FtZZcI",
+  "name": "Sheila's Cafe",
+  "formatted_address": "24a Craven Terrace, London W2 3QH, UK",
+  "vicinity": "24a Craven Terrace, London",
+  "rating": 4.7,
+  "user_ratings_total": 1767,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.51222509999999,
+      "lng": -0.1783313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51362808029149,
+        "lng": -0.176884419708498
+      },
+      "southwest": {
+        "lat": 51.51093011970849,
+        "lng": -0.179582380291502
+      }
+    }
+  },
+  "lat": 51.51222509999999,
+  "lng": -0.1783313,
+  "formatted_phone_number": "020 7402 8065",
+  "international_phone_number": "+44 20 7402 8065",
+  "website": "https://sheilas.cafe/",
+  "url": "https://maps.google.com/?cid=14007700467624938328",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 3:00 PM",
+      "Tuesday: 7:00 AM – 3:00 PM",
+      "Wednesday: 7:00 AM – 3:00 PM",
+      "Thursday: 7:00 AM – 3:00 PM",
+      "Friday: 7:00 AM – 3:00 PM",
+      "Saturday: 7:00 AM – 3:00 PM",
+      "Sunday: 7:00 AM – 3:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eahsqWOpwLNTZvcz0c2ZuOSkYGg5sAA9QzmzKRvIJHG2ozNOyPsNvUjTCmkk7yl8p5HBizmnRLkb5_pvgs2lqHmYgjQP0EPyda4MK5njNKyLjP5VM-3vcEPU2vxovdxKKOm8oz7KuYsTG4N3u8ujP0nAoQiPfY0bJ08o0gCCwP8cLJaI2yTZjVtSmgxFXIvONwDX3kuCw3fwT3IwarujlJZCl_DCNEA2eWvgjiXcrYn61ws7XwXV_DM-ZtBD3-AC3n0k4BWGRphCew7epuWfxEljAMfCXBGdZUofGr6cvJeS9TjpACOgPvBwRPMbm99xwj308Z4sChigFIqmQ00vl-N6NQkM1gL4ygiqya2UpjuO6Y9af3DTKE5dFndZV2R0DyRZ4tdouFHNTER0YjKm87242uhBT1YYe91tjjko46L8YPIi4Sawy823QKA4Rv",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108427399698816213863\">Satish Shikhare</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dlShcrJs6quxC7RC-8ACJS3tnl8XEnSxLA2R2E0347E9TFQZtKpqVBi2NPVaBj6CdhYLRdHQEsCyIGq7ES_x0exaQxkf0u0L8bmQH9ow7UlmvGNOwrS4Xexy40AwDd-o4yZf3MP0LAsZ1JnD01LWaIN_r2mvYi3MKqPgorwmsUy_Q_VeTKiUV1cc-tjTsf77F82P7rj296JsOzaU_HvdXA7X2mzymHIualI2psfuwWkor6TKl8035BeU-aH8nKKsoqFOS-pdoSBfu74h4I_4-fwln5k-0Ujr--4sjrc_mTOal6rFKQ7VrEWz1eBSIZBMqwL7gG1XlsCdM4fAp4YFlVbfgefci0mvsmszP4mJi8k3yRgug85heYb2GJNunFhFLTadUchK2iHp6vm3F-qnZwWqIVv8gb1kmWQb5O2aWOBQ",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112515019714550919421\">Akınalp Fidan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cqkop46eY0oLvXX4ry6Q8kbpS5BRVR_xLRpimM5_Ee69FBnWDjO3mIznI27tXxp2h37Uk-lW_DSGPlIWmQZY2K_J0-Mlv0mSfAsvzTHfVsQMc2l6kAmTdFjhMDfyaVB3cpimjP9WVD_NngofopwX6eU9_add8yF4wqT0cOVbk0dYCG4Yy_SM62XZddPFZDat8BH683Si08xIVVgWBNbW2wyhMqjohcMpC9uYcBuRnRKOvwUlRwy8X1zGaW_zRaL06kXiry_TOZcq591B7qiyGmnDJvVmZ6SIH5cs6O5YSjZVS10DmZq91Q6G5I_dA92861jhvYK2MaZmSeXrHYML958U-l5vvK-V_CGPvLQYgelnlZF7d9a5sYzvlIBHZ05Xp7kQ1EyqqzmC7RsxeYCv8ld70v75P7CjEFFPR3n5UEQiGjZQuWiDe5xaHozf5B",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115032954214087682438\">KUANYU WENG</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHS519gFXwLxZpo5dxpyBKdOpeZXQx67Q94_qe14IiIW6G9hzDRfgVrVHdDrE0wUBvbTIS6qtLUPGM16jBSYo8S2ZTeEv5ELsu9z1e09rFt-_OeKd0ibQwyFiIQsfPVWOY2agN7FjHW0L5mXOviw_uPI6tFnfykLzg6yJg3osWcS-zqN3XulAh5c5kaoTdF0k7N-RGrrIy3MtMrdfLEhvOAju13VgwjgBBWkkbVoIyq1d_fVmiFv-CB3ShzmWwqxMDPgjI8Li9xcUDbAdJ5LiSus1xKI_AQuEoSt9HtL_6L7vplc83b0ZwP0D7J1qEGFRO-pfzFdWJBuLfT3Qm062DMMxCQbGKR1UqSr9Ykk3jNRuNnlCN-mOHNqAzszgqcPqx_Auwm_NSQDpZJge4ujQdO2inD6V7X3ZiQ-ZeSSw7xBk",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115364016342485480165\">Itchy Feet Foodies</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fVqnZ8BEnPWNaIwKIJgZypdvTfI8-ZbxAAbrRcrW5WYksQ0BM4BmpAMyo84OHrFUE1Xyk5cMt5t2p0UWI7vwh8o7Y5z3uRSl9B0-f9yqnnvPV-OpEtkU_Cw5Frob6PavOoE6KmmkryUr61McQrUsVjexF50kdqI3t8b8tlJumhu1qhyiOvPFIe0DwpgEA9MHEVsKiEC_Teak3sZo3aRkl9q-pYmBIQz1mFQwpHPsVkMPpLrtWWwt86G_qtiGynugKFcw6JjPV3GKLkJ40U0eFCso840SE8W7Sg0d-mAufHuiBeMawfJDxlWC9UglJWNjb-Ty-XHPOYVyMz9HuGxmqzBOVWozq_vQ2xAsJHOKktvglF_QCw7m8u9R868thpM5dVVqz6t48G_LdZpcvhErObeDX-PYoteC9czGFXHUGB4HCUaAzMTUkbUsQiSw",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115032954214087682438\">KUANYU WENG</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dgFP6l6zoV8jkoiS0huf7RqHRBaEruXaZc75mrZSfcxppcyuZlD6wjm-vBVlZV2fPngKp0IIsnqKakOhVhE1bb5tl0NjYdWrGUXFJXl2vjwV1T3LwrvO7YTlKMunb3P29VDlMGUUpMMpfmmjfOJceNRg1DHEySIG7IrukL8D5VrUqcVij6pjSPus97EjCYjOBCrYTYraOIDvjD6WFy4rX5Myn0fuNtdAZR2_3mSlCDPYX-5sD5KkKwL1wByjpjVemhjSdlx58vrQTNnvKlvsQMXXcKv-5OrizXHvXa2XQsgoTo_Q2sAKFVq3D4DjnxuCnng36eSA4fTLG1GCBXTlwE6KuEur1OpaOfennyZu86dl7Zh1KtWWC7158VtJe9869y07FHjfOctVHGTy1qbBv66cR4qbwJ58K2ZjeR5I8iTw",
+      "width": 1200,
+      "height": 900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115905209026998761011\">Florian Eichberger</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ds_1kzpd7RHnTbuofJp_qCYIQgwipFvz2NqtIKZWwBT-vt9gzru1PaS1zNIO6Hdf-lyRWfepaY_iLtnRt_NJ3Ri_RXZEGAhAHciynHevp9CmsqolcNapHV14Br8tkATqvVgoYlucUUsRr2a4FkDmpAtuPBK9VOeWutEScSM81RQZ2U1nrIJrxvGdaKXBUrnkLZctEWZhZQ2eqiRMlJ3Ku-1SFT1d74Yjc0ckY4MTMQ8WNFGhc2wnAAvraXizlKXvh9Dcjl_T9iK__uQjSNtxafPYvK-aeEqCyMf2JbWDTjwLPt8fhpEEZ5wJe-Exs3EmAlqH9uhHOGpjFMAAsMz6CmoR8PK3UIDbBroD3D6NhK18v1tEQwAQ_7dg735wzjD6_dZsS4R6UhrM1DZGUJ9PGnvk_IPOsojwq2be5lio4",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101774999501731301455\">lion_doge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cM3mHHKGmQLwULsQ494PClFwtos5GQbQAuJd5vWm4NL2GXD5IJ3Jvm5dofdNc4S29Uvb1frXqD2ixv0rfD1kRmFR-23B6kglKRnaugzIjAzycwncGrj5VKqcWfdHbRqFQ3fpCm__ciS-824yrG4oJdV5ChJi832w0piI_3QunfQzWTKehmPICgTSrTn4iUT-hMnFMZE4bSgGW4nCimDWEZ30s4NEo8Sqs1524FeblEIfF9F8ath7XHLt2ktDZ2TgVybUuUq3qNfWJGdxHk8OUrQyh6bNcllrBOX0BrAqQeMoFhcXedAXCtsOfCH8l2eC6dZlIlfU4zKv6smvUa0uwWFTGwF9DL8NXsWH6BNndoDEAqzwLHh8BTfW88H3YxfZwEjyxFqVmc-sJvhhKrDyrchyyvnzPIGfGbZiExU9H1bA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116287359538171453863\">Al Brown</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cENZ5H1f15BbwdXXeiD18sf_gl0ELOOKL7pYmeDnGURq-7f7SZ1C9ph3MdT2Zlz_Pr4eb92SER5jvu1FSJKyVdQGHs4RkL407xLsaDtwb7_Mt06HxHoLrTUJDJNuqqC7TCRJdOwKfHigU2Ac2-hHlgFlAV7XX1jRE8dPHVS35q2OWb6tOxM-AR3DPaHq6mGyKmOCjsW6KPAWhrDxWc_oQhqK_l2twddmU5WED6OyBIIC2jSiPsptiIDzQKSWLvpjk-GUE9NJRVA--Ql2VcX8wscpHow7Wc4TbWD-gn7_HAGxcwSNBLGFAK0mbRJnn_HKlydisTbgOFb4SCenrWhrmdZEaXSnad_w7b5jq3sjEF9-a3EQfoj8Lv4FIfLp4lMqatDyMN1TRweD421m5mjy9Wn8TKGi0hlSwi_NLkEfJb6Q",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111291407637499835205\">Francis Lok</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cd44VMTPgt96TOz6Yda5EAmiWFoxIktRaryt9Jl5lIdIzq4HQePppxJvh36ih0VbVCkg-kkOJwse20Nu1PjqhBwunefSjb1kX9Jff66iwX21IxHcT7XDqHfbM3J39XGV2zKJPAwq16UGOIrvJR7aSXnX6qI8ogVOFEHSnbSPuVMkAh53PuqfoZc6bsctS6-8LTKlIK_-KTILLUaEqjSF3GgVsf7vejz1HkTHYsPz6ZhAyCg5zq2uMiJxBiaRnkC3RRzs546hf9kQATaLZJfaUVOdVxb1B52fjBxezrIJSAOARlGtDD92WIHt4XJSYXD1IJUn2-GXKTzPTOzVwLiyrj12qRmZe3RcC4uGGUYm-KWGxpiUgXXS_-e1C-4qmcacEFgAu9gxcSj4GHSZkziDQE7uRev-bSAoUqJGUee2iPmzQ",
+      "width": 640,
+      "height": 853,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102877947750522612783\">Kenai Payton</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Snug, unassuming option with sidewalk tables offering breakfast, sandwiches & coffee.",
+  "reviews": [
+    {
+      "author_name": "REA",
+      "rating": 5,
+      "text": "Excellent place in the Paddington area to get breakfast, particularly a Full English Breakfast. Everything was well cooked, delicious and served promptly even though they were pretty busy. Staff very friendly. It's so good, people would wait outside for a table. We'll fmdone Sheila's Café!! Will definitely come back for breakfast.",
+      "time": 1759879666,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Leonardo Nogueira Carvalho Negro",
+      "rating": 5,
+      "text": "The atmosphere is amazing! The staff welcome us as if we were at their home, very cozy and the food was very good as well. We got a mocha and a hot chocolate and it was delicious! A great spot for a breakfast or brunch with friends or even for a casual date.",
+      "time": 1759662003,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Oana Schiopu",
+      "rating": 5,
+      "text": "Good service, good food, good coffee, what else can you wish for?! I recommend this place.\n\nThe price seems lower than other places in London.",
+      "time": 1759844844,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "eray can",
+      "rating": 4,
+      "text": "We had an amazing experience at Sheila’s! The traditional English breakfast was absolutely delicious and felt truly authentic.The staff were also very friendly and attentive. Definitely a spot worth visiting if you want to enjoy a real English breakfast in London.",
+      "time": 1757802796,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Mariia Parfeneva",
+      "rating": 5,
+      "text": "What a delicious full English breakfast! We absolutely loved every bite.\nThe warm and friendly team ,and the owners themselves ,made it feel even more special.\nThey also offer extra goodies like fresh smoothies, avocado, different breads, lovely pastries. Coffee was also good!\nOur only regret? Finding this gem on our very last morning in London! ❤️",
+      "time": 1745778989,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:19.804Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2z4P9lIFdkgRWIvb_FtZZcI"
+}

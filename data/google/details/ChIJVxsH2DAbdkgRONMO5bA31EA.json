@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJVxsH2DAbdkgRONMO5bA31EA",
+  "name": "Fortitude Bakehouse",
+  "formatted_address": "35 Colonnade, London WC1N 1JD, UK",
+  "vicinity": "35 Colonnade, London",
+  "rating": 4.4,
+  "user_ratings_total": 2425,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5228207,
+      "lng": -0.1242042
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52419983029149,
+        "lng": -0.122876469708498
+      },
+      "southwest": {
+        "lat": 51.52150186970849,
+        "lng": -0.125574430291502
+      }
+    }
+  },
+  "lat": 51.5228207,
+  "lng": -0.1242042,
+  "formatted_phone_number": "020 7837 5456",
+  "international_phone_number": "+44 20 7837 5456",
+  "website": "http://www.fortitudebakehouse.com/",
+  "url": "https://maps.google.com/?cid=4671419946386772792",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 4:00 PM",
+      "Tuesday: 7:30 AM – 4:00 PM",
+      "Wednesday: 7:30 AM – 4:00 PM",
+      "Thursday: 7:30 AM – 4:00 PM",
+      "Friday: 7:30 AM – 4:00 PM",
+      "Saturday: 8:30 AM – 4:00 PM",
+      "Sunday: 8:30 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f9t6_1VMRHvq6zDLjnCr1acQKhyjdpdZBfUoeFd7U5XXX4J6p0nIzkCKn3FxKioiVYVvgxDdt1LIGmXENCq8w57R90Gv8msGPqXnUynMwa8GMP1QResaYDiAlaE-L0lAbdw5fahwTMJ7zosFBvRooUCHEf8Qh526tKPNln78jBL9yNnBn1eIrSR8zYTNbeRWyCuj6g_vXnPFeiJWW4RBJ_QoTbtjsLH6UXtzON69RIKLKk2t0K0FOzmoVUYhwCUeyb2DNkT5DLRqWs4CTqWbvE5SJgcXUqE30KNBIrxJp2jRFH_k-x7iVJpGeDCC5mOUzlg9eJfjflE_3yGRA1nMknLhXgzFF1cM6W2zPU0A_vi8y2tAoS2lHEOm8JquCQq1iCO6kx2LngHBflvtowcbW7dgTkjaj16MVdFS_weKH2xWE",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117644845585274683341\">H K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cQSAQasRapSRQXu5QMR2p2vMq8Yo-6xCkTi3c8vQN1pADjSeLwKTWJcKx0kmjBlufIfwAcEoo1vDGKz8yI3VaunQdCU6EdTcD-Tipu4cpckY1j7DKxRP1McT-d4--8cNrJwQN71wI72OIxNYWXovW6CoYOr8wnZbq3JcWN0vtEICkEmAjAX7XOJV_7IBi8HTk5l6kAXafsyZJfbo4oByLrplKsy29qf47VIQ1oZsvFjN9fZlnot3ncHbxb4csUH73TCsdp0zTlIcOWJMZWNGVlXAwWBKSt2zW98XIhn_X6IvUxmGARaOJMsLOcnrkDFX8msa2liHtMba3ix58irEHsP5oLb6dYorb_ZfDkCkgHutQhBDaNZ9p8PSl2fSbVyW8R79eq62pIuPyXGZHcIFHyuKBIsGz9JuRcXeSca_cH7qxnWgk9xIHv5QiJbYqU",
+      "width": 2700,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107191410168476207536\">UFUK ÖZDEN</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f72f3ZZc42IFMVP-gzrve4SCo52tDVd3mLLYeJAGzK6CycEspxZmEylyT9xrZX6p7Pyl8u7l_KLSRy0hqjXFiayd_CbKq3gkPsxnoRMd6GRwPo3SJzn4Emd_FiZAKy8QiWaEqj3CLpxd9elKqSyCsgiqe0HJU0R4wO33MKm-iTAkn_b_pcsbwuEvzNGkkG8kQuLikVGE3lyMTofb_SEf0prEHHCIobUEP7EOU-SrXyb8BtRUzRZbFv78OpGyEOCiLs-VsyZSMiME1OdkcBwfBN2rTdWdRtEjon5fRY6XL8T-iiNiJAdRLQPmg4dOOmP2I_PL4fu277VyUPo0w8rf-BHK64ixs7RUsOrn-8G5MtHIZ14xmbzjCpYYaUjfmUBALV2qjzgkgA7nTevCrv-b3e6nW-IHFUsiHJ3vg8Nur8yg",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111247294128726535324\">Kevin Ang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e5r-8I1o-srQhwptvIr1p38nuGtXtWslWcYTixY-y8VeFWfhAJk0D_phx6IS7Gj1aUVCaIRfK8iliYBsmlmzY-l5DjhMVdOkPKTKzerCkmFpwiREDYfkNmi-b4ywvAG3sJMpbODsqwoXm47jXSSvYJnGuiZRdAo4YXc76ezsL3triAeJWFF7BH7-hLNYRM7tE9WQFbHqEzDqeicl-IS42UL-o8kufWGK6oYGZ6oHniPuvDjP5qhoAwJ5kYCkh1zr8WJBG8jDGqw6aOHiCVsE8kmdCyj6yCeDiNP5DKwP6NrlUMVVtgOLDIJIloD3T97jXJQ2OmaaOfpNjIKHkiJO6XGBesSDUDvJ4qdhkL-xsoVEJ7ffgsdgD-AfmbVjlyM-2-SU-uGszRgD__VT3FIRNcO47jwuBg-z0epVqPlDrDxYJn-7SZqbGYuxDzPzBt",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102532606184469755528\">John Zuazua</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eH4ZBPqv8FBUCu3BRum4ic0BaUAa5V6oVZQhgxh8hxQtFrPnEV2hf_blyZHFcgVq2-1BBZPERE0GFmLTAfD9JwS8lVT_WUd3jaSjfLzM2dF453pyBp2W-hey39JyVBkTUD2yiOK_fYdiPPOKCzaLpMRDPXys0BCl6LYGnlNXXIjH8cfnqPPlixHAN1wgRXLceG8C8_YPX5S2Im359vHafiH2DyHsoUOT14oNCxZAvGL9mb17I3H1l4G4juDgP8nSLF1RatXvAAzk8mTzqeFgtMmjtYoG-r_RVad9Cc4gfRlyHTeFQ4gyt1qgjB3ZQ7XlvQR05z6P3xFi6zDqWqxwlfwWNjNqCpkwFTQZ3dWtGozDgH33LSx4knYRARPZxQTSMPVm_oBI_9qTRuvP8cGpaxo_KXWkJy-Mdq6KxGrBfYqqWERbk3ZIKLDY3yvMB0",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107393072452826122053\">Christian B</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eM7sbGEyy1x-66IkKC0gmqZx3AXrSSuMPnsftZ98NtDooH61wsFR7uunEsHJ_4g7eN4fOrYzqj1Xwo54IVFbZVYig6oUb5Kryd1LV0CmfrLdvaLLMmqUmdEj5x1Ho6-49x2_MY4V3P9uUZOoz1QVGCZLuRED16_aCjsy0Nue6fvMrEkSLqkm4HBVXLeqTgLUCzMtrUnuNlYSC4vGvWf2lxtPfrv_FlUQiJ2pgdnexVptr5eCteWBT_HN76Og1svU01s1rkp1aWG_dP8JEwgNSiCkqeR6rV71cTnCuwNzDP1B0dukNHKrOiGYPdd72KmUGpOm3ddaqVu2Ku0H0zCBiiAmSOijmmE_iZ9HrQHnLuSvN3mJuu4lTdej06gBaAP_-m8Uw5UQ05qGwHdPReixeElBHDBIRBlh1uBTWSzuU6LWnwm-z0ynEUq4Qt6njn",
+      "width": 3614,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104405014742613681468\">Nawaf Saleh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYnLL7Q5zzRAjKdjQgd_Ad-ijF0b3zFwJ5WbPjMbievYcZyS62oIPOi-9CRbzQnyK8fsxvpDPNqItHsNPqgTPeKrrJGjSQCujYla6KjqXcnoOE_966qZ0aki-bNyoCpdonS4aAadL467fxAxxp1lZx75NtwZqVVTAKgP0_p6twQi3PU8Q1bjPzhUmpaLGIw94bWv2p86Hk0U5CokyKh7GYMFBA1LA3Ndlo7kG7eIJj-zcViH6MRnng4zUTiLInKN1r2AseZ2cxsxb4BMa5eyiWrkZwjBz628Pj0DUtg5Cj85MKtcME2sptGRWjBoMgn8nlYgpZIhtM1g-sx4csMgPcVLyd-ZT8l7om-feswS_f_Wy0Lfmvvwf5qPNa9R5Z3X9bdmLeCvBwwi56L7r8HSKlYyEAzbYCuuBZfh-xAAjd9QFP",
+      "width": 3021,
+      "height": 3388,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108512987777055794718\">Leo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d3ZqdD3AF1aUAe_1c6CP5LsuRcFd9R3kCb1ON3dQOeXYL6bsOSDF9h-_ngghSDwtVmjRSNJvQWmwMcJg4-MIyQweayWEKTnEX0iLXeiCXW_7UxJKXOwQ2BE_11Luo2WOMYrhdpy1PqvGuBSiS9E256LkXmWe1S-2yFj28tDATZ8tyJpcSuWIHUe-j_B5PhsRiPTFyj3h8wqD-8x47SdgQSM5yGEIFLdeucc_2I9WY3JRjhVVUzWHhrTrRcJuoCvQy9UHJ9sfsrUoUbKR7zf0r-IGV1JfuM0XANyhD4QY7MOsKS07tDI04Wl3F1jy1PhtkcHB31DcYRuZseLC5j7vo65PBx7bKgED2IvotSZ_-nOB70p6gaIV1TSG3RYRJrwtc8HP_W256jXgEAtvw7bcEzHyv2lNpAl1HnyKiICbtRKEQqnpy1pLnkXtZRpLIk",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110928461854158128798\">A. Azura Tagar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHNtnD7b-D_zddxYGXS3JhvwRhJ9mAlD0S4WG5flTuagehi3hu-vBv_YwJaql8AiAitkIRkQ5v6d-uRiIMqAYMufDu-mlckgJhIHDL3-JH5sJXKGbA2M0L27B2oWPvSmf8uP5vAFNPA8hESsO2Mk1_nPvj2-2qXmBVmzYFDZty4K2NtUzaMrXz5fJi1wi2nwfMB12qV1kdutKMUz3MDPzVpQoMhPhECrgmlFkki58rfcCLtyzH1qlDV0HRxuZC7ytEZzfr7kL6SL6HSUyGzURnTFUm4sxBkrhvQMRFcqxiMFNjY9IpvV3nphKaiItg8_69GOmX0ynDFa9bV5qtk-XCY2fXZ04mYSYMmUJt7xv7_I3ZbZ8rtqVU3z_bm3Os6G3x8_PArjga_1q-lHVoVKjQOo7Ce1S7gE7Kao6Jd2t8C4niVK8-jQfiFMnWdcfo",
+      "width": 3041,
+      "height": 2248,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107075500174810650100\">kisaka jr</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ckw7somkqi7kX34Al5BXT8O5yac6jt9ffC_LDuH3Uu1WGmE4YmkndVO86DCEnaoRTNwtJOSzp2uVt6Dfu6qiseCLqd3wJ-YCqrxliFOm9couoWoa2KNJQJrTl1NtmY0L3eU8oPwY1IEsLQU4fh-VKqO_5ZQSGoacptuFbRWzrgIWfVdkYdO8dnc9k2C_SE2HvE1RbuUNhZURU2oae6sbk9v1GMriNpdOzZcXVb-_dtmN2kDy3A0DiRVgEJpTGJ6rYZoZ4P_qrQSYbZL0wh74aTRLDFIZ2Emb6_7ipp2ug9RAm8AdPGoGBtFxSQ5312SQUHIgmGkNWsr-klIpdnBkLoUO2A-Iwk-PsgYnCXVT2OpBSgLgpFMbaMrsASzDHgs4l6GLVhQGIu8DPWwkaMXQpcH-zhfN9efXrH4t3t_ZTIA567",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111247294128726535324\">Kevin Ang</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Will",
+      "rating": 4,
+      "text": "Stopped here somewhat recently on a whim. Super busy! They have a really great selection available - We both had one of the beignets, which were very tasty but I think they could've been a bit more generous with the toppings for the price, service was quick and friendly, will definitely be back again if we're in the area.",
+      "time": 1758754602,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Burak Doğan",
+      "rating": 5,
+      "text": "The street it’s located on, along with the overall vibe and style of the place, was really charming. The coffee was excellent. The baked goods we tried were tasty, though the savory ones we chose were a bit too oily for our liking. As for the sweet option, it was nice, but we would have preferred it without the chocolate sauce. Overall, it’s a lovely spot with a cozy atmosphere, definitely worth a visit.",
+      "time": 1752361140,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Danae Moodley",
+      "rating": 3,
+      "text": "It’s definitely an “Instagram” spot - everything was oversized and well made. The proportions of the pastries were a bit off, aka not enough pastry to sausage roll or croissant to chocolate ratio.\nPlenty of options means there is something for everyone, but I do believe this is one of those over hyped places",
+      "time": 1760280853,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "A. Azura Tagar",
+      "rating": 5,
+      "text": "I WANT TO GIVE FORTITUDE 10000 STARS!!! My fav bakery in town. Always come for the feta & spinach. Other recommendation is the almond croissant!\n\nBetter to come before 11.\n\nThe coffee is also amazing. Vanilla latte with oat milk.",
+      "time": 1755827479,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Sionainne Costello",
+      "rating": 5,
+      "text": "High prices for high quality goods! Did not disappoint in the slightest. Lovely flavours and light pastry for both sweet and savoury items. Benches to sit out the front, no toilets available.",
+      "time": 1756478864,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:26.459Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxsH2DAbdkgRONMO5bA31EA"
+}

@@ -1,0 +1,253 @@
+{
+  "place_id": "ChIJ8SPji1MbdkgRMoaF7VECW1M",
+  "name": "Club Gascon - French Michelin Starred Restaurant",
+  "formatted_address": "57 W Smithfield, London EC1A 9DS, UK",
+  "vicinity": "St Bartholomew House, 57 W Smithfield, London",
+  "rating": 4.5,
+  "user_ratings_total": 587,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5186292,
+      "lng": -0.1002364
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5199281302915,
+        "lng": -0.09900151970849798
+      },
+      "southwest": {
+        "lat": 51.5172301697085,
+        "lng": -0.101699480291502
+      }
+    }
+  },
+  "lat": 51.5186292,
+  "lng": -0.1002364,
+  "formatted_phone_number": "020 7600 6144",
+  "international_phone_number": "+44 20 7600 6144",
+  "website": "https://www.clubgascon.com/",
+  "url": "https://maps.google.com/?cid=6006397078929245746",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:00 – 9:30 PM",
+      "Wednesday: 12:00 – 2:30 PM, 6:00 – 9:30 PM",
+      "Thursday: 12:00 – 2:30 PM, 6:00 – 9:30 PM",
+      "Friday: 12:00 – 2:30 PM, 6:00 – 9:30 PM",
+      "Saturday: 6:00 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eiP7k-QxybgcIpKKlBy6LU0TTuQ6sPHE-SZidS54JeeLA54ItvIM-kMXCn_T_UOKLd9D7VlPodUtqkM12N_iVzWe3231Nxw2fmkD7MrV0snboeWpbKy9uS79AXnx6IHuUOfz-x4iUOj421bpo-_MkoyeXjizUI_Hmo88P5EDA_PR8N6M_cnbJJLSjXnnRSkCjXOayIitwZDCBgjLomjf0O8n8joAoVV0-ZBKzUjyQUD3tEitjnMcvT0aFLV88L1WFu5HhlnRW7rAVrrDLFhF1_6zzrUI8nehaOVABFNS0",
+      "width": 2300,
+      "height": 1533,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101948727650463409362\">Club Gascon - French Michelin Starred Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cXFFdW9fq7yCcE1LDl-LyLfEcTJUYLwWvJiqO_jeMudSldFeM7QYOUxki-1EaJt3eIISzBkLQq9w63RfJbR1AwdYMiVC_urU6V4uYzACXSPin9HW0rQCFCcXDNeEzwXwfzTht2Kd2fDywZyV4Zli86JS_BIFn6ioiPhtLCcIyhr3K4cnaBqzQgoQD3n0ETznXN4ml5KJO5CIL2riKdloDpLrv3ugcA-b73zDl5uM5bDDy3AIFAKzFoMKeqyGuYvxgCHY5mdL-CTMR3A99_TP0t-edOOVt00TgJa1c_JEE",
+      "width": 3302,
+      "height": 2202,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101948727650463409362\">Club Gascon - French Michelin Starred Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ej1y9EiioAdnzjQqnu-0jq1BoV66M3WmtbJIzTjmh94tNzQyG31DnSr0otEcoq_QsnAiPge90LCRY6LOSIzq8tNWAJFSUra5X7S5R-KILxQSPTK_VRduCW6JYZT21JI3fgQfZolzyZaI6C-dblTlcegd_mS4X_RrbUhNmtjSIt52IOMNb7IKp7hgWmiALo-douXDyU2TlPgDjBBIy2A24smeamHKV_3J81B0Ms-p4OUbaEPxe0CBUVVZNVglva6PL4-AtGJXjeSqeux2etT6LELq8Ch2EoS8gifwadvmu98LrfKHJbBFBsy4MoYvTM5M2pHpMrdGTngRFF3WH4fm_V67bvChsfPNc841A4R3lRDkEebjTDqgbtEDK-3bT0XWB8riibt33wgVJ0of9ReeHCqQWN2XnboWEPlxxlYL5KWUe9hqgVfn5ffyOp_Q",
+      "width": 4800,
+      "height": 2699,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111593655817698340373\">David Simkins</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fB8d9_rtAGdSXz_lc5xd14JS57zeXTainYP1hVddXMwHkyH3Flhz-e7NNKvnWkB1TP5Tf5_rM9y8yb_qR35iSfldZx7LUqae_84Z9_r0SwasmN_DrR7vOsq3sn7lwTh_ot2y6zYRC9WTXhNzCO9_FSDQECw_519h3P64CEkh2XZmCFNmfR0mOlACDlULoHBFh8SXmk7ZNDo7_tlbVnXhNrTaDf8YBUYSh3PHPxLZ3QwCGqd43kWE7L7FQRtaTFJrDmjyqE8bIa8xKpf5J-bmtLmOBTN_DqkMa_AYFmdvc",
+      "width": 1000,
+      "height": 666,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101948727650463409362\">Club Gascon - French Michelin Starred Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drmFo3IDNtgCalwfkUpqtFy2YiAHrQyAZcam7drVnebQ4BikSrfgRA6cSlqxPJzXUbe-DFd0SivcDwxLvQxsJVPstnjfesJ_EtmeA_SAYNatAdGOCsHCzh2Tq8sPXQaexZlWC_7oywtedSx7lJbGEzYO4DwYW-wKrWUthgfs_akj-VyW8A-uq8t3L0t0bUc_AVB0pYf_vyuM23XFDq7BOW_I7T9mdj-yCzMpUUXLtyb5ywFWndhJTFY4BWXVN6i2SobKKrPU1KK7IFuZhL4yJpRiCu60InAVcukE7aFi8B8jIJGrykShRZ-kxvmuJkeLXuI8Z-tq9-vBsi7_6ppihU_VgolnjI6PDo2_JnPhv-YVMG_mg00JjGid_G9XONWt3Aakc4qFfexiSWgi1p7ehS2ddOBMBNJNHSqJ5KABlokiSA4qE2kEHjzbWPww",
+      "width": 4000,
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118414437268844812254\">Greg Prickril</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxzvdaRmfw-cv_YPrSFLH_1loPmv4OVC-K0kfTz3NxiqRiQpcE8kLcWZuqOAO9cCoo601eurRfwNwtxIOJH9Iz031TRUz5gKFsHbVRPjUjciaJ5_E_NkUHAdRGwKk9Ekmu7PIp06BrscNzt57r6OPS3Q8i7XaRzhdYV7aLD_ky38WpF3iEowLUnPKPKMx5GFxIv4DXuLpYz5paDr6S44NPbJpzcj1TPP7hh_uVTeByk88Rw6ofizlLzJMjf2vVexlAvwRthK3vsDepBx-xo3rqgpB4d1CluqQazlHAwDWt99li2YmlHdxv3CC7DTdMoyWRZ1XFzVWHJ8AR1Lq-5IA4B9gY7pDGIC78MGO5eHCo-5AQTMpCJFLj5QmGHB5cAsw6U070OsDDM6seTu2j2KbkZlQbyqSD26zIRAP89EERVsto",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106168104360625045740\">R W</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c9QgS3Ft4j6X5Mgmo7WtW4YZnAtvpVYyzjvFERJCyQ_s9RDLVlUzguL2wSGh1lN8oyCvNOOLueQ-QjMt3WPGLzb59asjmCJkTLHbMJFw1pePnWt2PmLvqMIR_GMkS0QkRqNP4JUiWM6N5GHVTwBsmGSZ_P-nG64ZF4knnTsr1RAt92211cRZtJ98FZjEfIfbHMpQ8_wO8aSdtyMsnr4IarD1pePxY7vGZGa-BbX6RC5N_yNhxJ5tS1f7OfZGyvfVJv0lKI2s0hV23PicW5NEgQzFqM3xiG6lLNWtLjSyGI6cykfUxRmzQlAo-0qS0ONnx2KnXWpBxicQ_9155UFJ6Tp4hnYTPwaeWCvWSnJni_a1aoXHprckXVF4j15_YJQJsizGqgSBVSM-Y2-gZghE1DgW2CCvpjGvEvxwVQH1gS3JMM",
+      "width": 597,
+      "height": 555,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102247754483505234805\">ALPHA MadNETIC</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fVtmm4s3YyyR1n_4bzVPC34tjmrReVFn-yVF3cV1Ikn_5ODTXl4gOSZ7l5vIu3jkL9sBC9zogwC_Zr6ubKq8rooKimsnnjVecoxkg24y1r7fTCPZ7fY1Cv39wgyEKKrWyqcs1wakO3xeXD5Z0DQJgNKn1_ORH4f_Rr0pKbjLTL75pa_O7RPAAloSZzHrD6GNpZaA9MGMVYC3KxapnGpPAIPuHdqfr8qnTg5BEG1l78vZGK9T7lv9yXe90fTZ-suc9YIwmpCt7omuFF5aD-5otoshw76rw_EZAOD25TaQE1gFb06pvujs83keRAUVvYAIqjXlG41fypgD-OvQ7Kfu9Dnk0MYKoANyG12i3V2gxu9Shc5piTnfQPvWwYuQ5-dTwWPLwaWmaJzVSD4aXyLB52ZfgWFiCGWgBy6UEAnMsQzw",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110584771313426364291\">Maria Sanjuan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_gTm119Xo5KxaQnlgiEApH9FCNKhjSpxNpf3N3soR3yMo87RyOJLd_vfEZWO9Lz9vhq-yHxvTTPaLmqiOjv4E70v3ISG3ngc6rutclPRY2FBWEVMPmE-tNALzH_boOPpk5C-TX2dpqtFxgmu3HN3MCk2cHHZoDZw_a_JONuZrsXhJze7Ix7xpRzFv-7wdyTfkqOeSV7I2QXoYbp_ROYBCVYpT4AfYrP5SBKzrhtllCsg-B_nMPXf3ZHoCLRBG6VVBMvin3z50Psq61Hk2xwBUePGg9ZlyOmcfYUzeLtnVCawje0ehY6NIgx6ZFVwYkIGemdiLUhn3q2CRAZlSmJCkTXSBom7_Ok4lhuDZQcjhgmew64Z3n6pQTj11vFbzcE16-qMNrb80uM9wJRtyil_Q79NoEBJrvllKCbBUYxt-uD26",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102615787529707337835\">Saher J</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvZJjD5Rfm3KVcdFevUy7wMmh6xh2hznIt0f7ncaD2kpu41MrZOmzjYNE2h9TonEhWtmUF083rMCDgD9zFNSTKkgsfoWaNgsBXFySg5NAW7FOkPTQ5pYznzzdvm0BKQ3dFvnPIGHL0ZxvyRpO15nwhXAYeAfEc8Rbm7kRhoJRW2uRnQyAQ8SqP69NHsyBI-oKrBHvpsNoNizOGODztlh8qgEQrxZek1gc2tf0m_Fbo-qzcJivmzJVMcmhlel5-S8vxkmRUTHOJcFMwKSw0WnFWIJ_izrK5V7eYDpsL_5sNIvoKHqLTTn2E03t_d7kTpJMwqU4GxHCsxsXy4JBw7CeYJfux_Wz2vTEIIE9OKx-ldpR43Kz7e9PDpXyVUL0k0Y82Gr6vPF56yLtv_jfOL6ShNA5i1FOjpl1rcHg0HE6rV6yYaXPfLOc2gwATEQ",
+      "width": 2268,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116899214024286657106\">Grace Yeung</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Southwest French menu with all sorts of foie gras dishes in formal, marble-and-wood setting.",
+  "reviews": [
+    {
+      "author_name": "Pumpkin _inthesky",
+      "rating": 5,
+      "text": "My partner secretly booked this restaurant for my birthday, and it was an unforgettable experience from start to finish. The staff were so welcoming and knowledgeable, which made us feel truly taken care of.\n\nWe chose the full set menu with wine pairing, and every dish was incredible. As a French person, I can be a bit critical when it comes to food (we French take it very seriously 😉), but here everything was simply perfect. One highlight for me was an artichoke dish by Chef Pascal, with just one bite, it brought me straight back to a childhood memory. It’s truly amazing when a chef can create food that evokes such deep emotions!\n\nWe were also very grateful to the Chef and his team for taking the time to show us around the kitchen and share a moment with us. It made the evening feel even more special and memorable.\n\nI had the most wonderful birthday celebration here, and it’s an experience I’ll always remember. Thank you so much to the whole team!",
+      "time": 1759338318,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Marie-Helene McKeown",
+      "rating": 5,
+      "text": "We had a wonderful evening at the Club Gascon on 7th August. The food is of an amazing standard complemented by original and unique presentations which really add to the whole culinary experience.\nEveryone of the dishes was delicious.  The service was attentive, friendly and professional. The atmosphere was relaxed and sophisticated in a decor of impeccable standard.\nWe really enjoyed everything about the evening, will definitely return and would recommend.\nWe certainly feel that the price was very reasonable for the quality of this experience.\nA big thank you to the team for a very lovely evening making our special occasion perfect.",
+      "time": 1756659787,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Thomas Martin",
+      "rating": 5,
+      "text": "Club Gascon offers a refined, inventive cuisine in a beautiful warm and cozy setting. The food is of superb quality, and although not every dish in their 6 or 8 courses menu will please everyone, the quality of the food and the creativity of the pairings makes it an enriching dining experience.\n\nThe service is very kind and attentive. I would recommend the wine pairing as it paired beautifully with the food, and was very tasty.\n\nThe restaurant more than deserves its Michelin star, and in my opinion is a must-visit for anyone looking for a calm fine dining experience in London. The setting of the restaurant is also fantastic around Smithfield Market, on the northern boundary of the City of London, a stone’s throw away from Farringdon Elizabeth Line station entrance.",
+      "time": 1753954220,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Saher J",
+      "rating": 5,
+      "text": "I was very lucky to be taken on a first date here. The restaurant was empty but the food was amazing.\n\nHad a phenomenal tasting menu and by the end, my date and I were on the floor, we could not eat anymore, we were extremely well fed. They really catered to my date’s gluten free diet as well so he was not missing out on anything.\n\nThe only annoying thing for me was the person serving us wouldn’t leave us alone to talk on our date, she proceeded to tell my date her entire life story which I found rather odd. They need to leave people alone to have their conversations and not tell them their entire life story, highly inappropriate especially as I was on a first date.\n\nHowever the food was incredible and they really catered to my date’s gluten free requirements so we were both very happy.",
+      "time": 1746350423,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Grace Yeung",
+      "rating": 3,
+      "text": "Food was not bad despite portions were very small for the tasting menu. The restaurant didn't have a non-alcoholic beverage menu. When I told the sommelier that I was not drinking and asked for any non-alcoholic options, she replied \"coke\". I was shocked and speechless at the moment. It never occurred to me that I'd be drinking coke for a French meal. I didn't give up asking, so she said she could ask the bar to make a virgin Mojito but didn't know how much they would charge me... ummmm... she then \"guessed\" between £10-£15. I was really thinking if I should leave the restaurant as the conversation was getting weirder. Anyway, I stayed for the tasting menu. Virgin Mojito was a disaster, too sour and lots of crushed ice, herbs not fragrant at all. There was not enough front-of-house staff so food was always waiting on the tray to get served. For example, foam on dessert almost disappeared and turned to liquid when delivered. There were 9 tables on a Monday evening, so wasn't too busy to be excused.",
+      "time": 1754171897,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:13.274Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SPji1MbdkgRMoaF7VECW1M"
+}

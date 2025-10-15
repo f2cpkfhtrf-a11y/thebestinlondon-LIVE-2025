@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJt3hjCgAFdkgRClExN6_jli8",
+  "name": "Bunsik Chinatown",
+  "formatted_address": "31 Wardour St, London W1D 6PT, UK",
+  "vicinity": "31 Wardour St, London",
+  "rating": 4.7,
+  "user_ratings_total": 472,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5113169,
+      "lng": -0.132168
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5126702802915,
+        "lng": -0.130778269708498
+      },
+      "southwest": {
+        "lat": 51.5099723197085,
+        "lng": -0.133476230291502
+      }
+    }
+  },
+  "lat": 51.5113169,
+  "lng": -0.132168,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.bunsik.co.uk/locations/chinatown?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=location",
+  "url": "https://maps.google.com/?cid=3429178507973972234",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eMqHAx33gRj55gNOW0nnN6NvMsnzq3IWpYyIMuvVn3bPg6SH36p8-jGxFBvy5ss4B_UTFNxbRiN9TAvFeTuyTW2H8Fpi8wqKeSU3-BfF0yMoFDGbXJ2VIMh0LYDwdGhZBxpTaHSJfUATBbCZouAGMkXzFSXF2ddYqEkd-T_0j2NqcVNxjMoXlECQ7pvbKGebY-rKXsOa9Aq78zMhAJmNJu-qfLo0cI-9MgXwWCzo5eA9yJ4XVDIQNinIGmtcw-LvRiseX767onkk1gBioqUX042fzPkw6mSou4hVfAiz2OUQUsqeNC5IqS3inma0VYhP12Pi3FUwUKfF8EyyJyO9LIHqfk-R2a_0wO-5VECgl6ch1ycTmDR2Fs6md89Wg9RMunTaR6gnYOf8nUuDm8MyfkOt7LAa6tPL1I6ElrQcAGAH08",
+      "width": 4000,
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105085425184641053075\">柯南（Conanpak）</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTCqP-KBW53l__tDfGkrHzj8DA-wI27iGr2feXAFw30DZXaLFarEdrLbrFCdAD5uzj29GKzMU0W5epKQ3-iHxWHarklcnzvNPLoBlq0fHi4iY6daKrHbK3EcH0lxujqlnzL0Ljr9Ii9ISIskcIt0WPGhBzSDhTwZ_ilPHUVdr-UicaiYhQ6JS_mlaKdBCwGqQT7UuSw4G4fOqMqdyiJb7PpKox4nFMVUafNgWS7GNhzEDX3sBr1NDpAqsXI42rbmwfUhF_epsNtx7CDTIyPLBSIMpGUw4qoC4wBwloFOVXkw",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104073444297609699171\">Bunsik Chinatown</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2efObUzkK8_TbKXr5c7PfJvIE_Mbykr37MOZ5VUWFEjr_kZURTDgm7XlINt38KgFJKVgyFGJh6F94wgIm1b6-aF6jkXgLxygxJtwPkJ90g0zOpKYqi5zmIe55PzvE9MkMcSYi0OKJXeTDv-y1gF51IxJAbTmrBkpNucRuwMxhuTeRdaCaWkm3pS6GsC_Jdjevvv_KyVe-SZcDg-kqgAbsWiGuX8E2faHW4q7UmTvxcPaRJUwYvflfdjeSlkEb79tVmC6aFlSAxFq1Z1U5fc2yHkgFX1G-Xg3Bzopgx8S6vThYapBm8GnC_5s-_fQqgBEYOwq9_fobrSK-pg_qOR7AdgI8RMY3oWmeZ2lsRAyO2zuEBCK4xgyQm6ifcyiCJMdDL2Oh9n2fMOC1xYdw_G0oUyE9Kue81qOvsJY-Mcticw0SE",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115241521674301889826\">Shannon Abi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eqHkcHhRgz-kzC7SsVr4iLaqseSr0bRzkk345kPBm9dCt809C1QpdKY5dJv8YToUxQMv2F74YtO3sfEmNujNDfEeVkJaUCMr70D7wMAKcM-3TAyxzsHxsb_5ymCsVta33-NBqs1NT6hPu4gnqy3eE-NFlH7ngpp7ahBIfAMveCsOk-JtKDsHKs_3OCPel9qWH949Eq_FdDJy7L_KMjRp7w3u4U6roVXjUJWZJxHskqZpsTLVrirSGeqNzrlVeVixLec1PneXwC3f0ZQQ95YuJq8raD03q_9jux-u3V8ddv291NHoPqYG8nEVklR4DRBMJiddWXOsSpNwK5jPoPIm5vGcjg0Gcuh-wNl8T5ugmf6K036bhaC8X_QEkm9uXeCZUroUjBfIOBq5uFH8iqfbASuJnOxolDVs4jTvdRy066E2bFqH9lwVPzGTvpSNFp",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104620193548982551205\">Jade J</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzfTejLsRq5FzZrXMGTgxQq_OdDju9MMx2e1QM5Atkl94kHkkVv0Asm3moLl6NAemDOJCkrwJldU00Rp-xIdtjeYZ2a7n5tj-EGfKFFu2NFJc_olCnEk698ZHt1DIixQaKAv8utSe-anwpT8eXisQgiW6FMpc1KatoVb_cgk16_1M3MyBCE3sn5MY2kNk0P-jjJPM3PWmOHiie8IJkH8JHzUUE65-VSFsjRkNbgb6tRqYs2U2rgNpkn7MP2bRWaNbWuGETeVhS1ghRAj3V40Wm5wm0QbO-rWnh_yAGAwR0SenrSMvE0Nr0NJMIWMhK5nThzq7tU3NWOPgRUGlFyngfz99e9L6oO5d02Kgt9s-gsdgVibRvoVH0at4AoBomDd0AOQv-7WRgHFbDGFon8roJBpoJnGpcdEwG04YApvEx0g",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107606793181490786200\">Maddie Yung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eDUBel0jbyfiihUqFzxqgwbTvGGzG4FRGGhUhQ4TVSqnd37jr-iZ5Qk7lFdGGcOSvMp18PfbNYITD8zJsJ9u94ELjGwT5MQPaOt7tAbQdlel_ilmv6JqWKRo5wD4R8QRSR5yhQXfw2fIyZBCfA_NU5FC7zQMakmaLz-_9S3FPwO3Jf_ixo3h3_1bCmjahbPBmnGrziAXfKX16RjT96TKedPfIO-qRzq-mD4jj-LKRt2hynz-PBQeSA7OogHDIHwZUdXlIyAuKErg9SREOXa5RKiEXqJ-x-Jo-jRdU2R0vHRfyToIGzwhpcF5BtFmE-XaFv1pP-n5du7Z2ffpLKyPARI_54PqF_IAr-2PfdYIVHwaVMFT6KmylYtF6J2bK0qELdXZv1LnVRtrOVsgS3dhVv8L9qb_-5Wzt0kJ0HgwjFoAOQsV1xhR6_z0MrFJzz",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104620193548982551205\">Jade J</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2crMNbTBwQUFyhgWBGkVTwFVU-izwXna2rykCo4HbvlR7EsdGLYkqy03w2oU-hjMePX-PfPe1vLDy2Fq5-dFjZo_7nPz8aFj8zPK7WSw9xLP6GaTGm-HzNJv1n-_Jxg-KbmeKosdxeuITGzKeZeSbtEJT1ohA_IeyQmx7G6Z84McuG7sZLTyAWWCiGl5iBl2xQLX6JbT6syEfPhahunoZe4L4OZ8rRGmpq3K7NrIAIWXh84IHKOj5N1Y4H3s85ViSBf1ZrmtO1JdHl1Xjz4TwNOuK6CHjEgLYAyr2JVqNo36Q",
+      "width": 3840,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104073444297609699171\">Bunsik Chinatown</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fvxHDPS8kLrJqa8BOTuTpJKLDc0xGkNNvh3Q9onl9_3dYGNfsBjrBPUrWBgHJEWnYcN1-hdFrsmbB7CG8EYg_d1N5v_m5fD1r4z4w6zyMiiCWwO9_-87ci6fnhbrG4T7I9kHjMnNwvKn_eK5jpzALWKinNHyD4Q82Z3fjNcnZfqXjsfEzqoMcbN2Ql3h6s3Tgu6KHCiKNMzWZjkoeHAiB-47-bnf38eC9HRWf6qdqErmKdxxumepV6EUvY1v7J1nbaMIS8D-sK5VtDv-tolngVGMjOrUPgsdbuGRVBZ3WHRg",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104073444297609699171\">Bunsik Chinatown</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cIy_HEOaFK4W8_WypLIAnk3Rpx07IDlXnuxcQXJf5VG_Dv9YxshDAoPetat1nHKTaIrp75ra6NrMQgcBOloxYmNa9mujYpkB1K8Ii6qY43uCaoIZBl0eHXuT31hjow8Qe9ep5YN0zAOGA0rvUolP4jIKh01rfE8zKRPKAnM0wzhOJNQSCt5RnqEWyKjQAQoQvR8GlvxFE5dpSZ_aB7pO7q-hA2bhViy7tAqy4O_h6ba1z8Zgi87S1ouekfFlOuuo904wpvNseeaGl6VzZQKSfGKgEeSqq8BuxwH5JsKajEC_ZSWLpwXQODOpamw9qaj7ZieXiS1nnlqFPl5Rpf5A7kcZBb5x8HOTljglz-ig0ysOfN8voa_tyBTsmvuruVGqqgFaH9TDeiEJXCvr6vJRyHP6xLn5bsHQws3lqAPQN1VxHq",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110036436067816060774\">MA. ASPER SARMIENTO</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwvF4JZv17JbOYaY_9WzWUj35tk0xNEthMW5lsL6s8PcUz18Xf-XSR4VMUeZcODeYi_HOO7AP8sVVWSuaBvhwW17E_jGHkoq4qIA3HT2_kXCDSSh7Yiy84ZV7a1IKo7rXEudjeGv4QVvQ3A86wGFJme44bEyB7HlIrZhURHl9lJ7Fht6z1C2DF8iFhBmHXfcYSlpbGI2bIcXrSqs4PTsjUTc2vjp4KpqbC2EexwAjFDWD_ShHv8Zh65J9Ecp6GgRvj7ONuKeaOkI0cz0VxSF2ogw9II7JW43zFH5AfGW2_KUgx3kdC94Q6AuCJV1y32aYIrOTL1ySnQsRAfgo-UQeN8l03s_PEAzCVKr80YQ572vhSshnt-0lqTtlrMfJ0OawWUwZMh-j42Br_BMzvvMoHhmO2T-h_i1m7pPY6sAibDQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103804805052692407992\">Nitchanun W.</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Sean Gordon",
+      "rating": 5,
+      "text": "Bunsik is such a fun spot in London! Loved how quick and easy it was to order at the kiosk — super smooth, and the food came out fast and freshly made. The Crunchy Chicken Ramen-covered corndog was amazing, and the Spicy Chicken corndog was just as delicious. Great flavors, fun vibes, and definitely a must-try if you’re in the mood for something different and tasty. Can’t wait to come back! 🎉🌭🔥",
+      "time": 1759502010,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "jennifer duong",
+      "rating": 4,
+      "text": "Really delicious and cheesy corn dogs. I like the kiosks that you can order on which is quick and efficient. However the place is quite small and can feel quite claustrophobic considering it gets busy easily. Not much seating inside but was happy to stand outside and eat. The potato and cheese corn dog was actual perfection, loads of cheese and crispy potato and you can choose whatever sauce you want",
+      "time": 1754419095,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Japninder Singh",
+      "rating": 5,
+      "text": "Visited Bunsik in Chinatown and had the buldak mayo bites – absolutely delicious! They were perfectly cooked, full of flavour, and had the right balance of spice and creaminess. The presentation was impressive, and it’s clear the team takes pride in their food. Definitely a highly recommended spot if you’re in London’s Chinatown and looking for something tasty and satisfying!",
+      "time": 1756377341,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Zihan Li",
+      "rating": 5,
+      "text": "Love the fried chicken ( I love all the flavours, sweet spicy, honey mayo, garlic mayo, all so good). Corndog cheese pull is crazy, I recommend the potato one  ( crunchy ones have instant noodles on the outside), remember to pick your sauce before hand ( can choose up to three!)",
+      "time": 1743144631,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "linda ding",
+      "rating": 5,
+      "text": "If you feel that there are too many people in Chinatown and you don't know what to eat, come here. There are always a lot of people lining up every time you go. It's very convenient to take out. I usually buy it as a midnight snack!",
+      "time": 1753457316,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:54.829Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3hjCgAFdkgRClExN6_jli8"
+}

@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJr_4cVy8FdkgRIrNbO93eUFM",
+  "name": "The Wolseley",
+  "formatted_address": "160 Piccadilly, London W1J 9EB, UK",
+  "vicinity": "160 Piccadilly, London",
+  "rating": 4.4,
+  "user_ratings_total": 7265,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5074427,
+      "lng": -0.1409233
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5088430302915,
+        "lng": -0.139639569708498
+      },
+      "southwest": {
+        "lat": 51.5061450697085,
+        "lng": -0.1423375302915021
+      }
+    }
+  },
+  "lat": 51.5074427,
+  "lng": -0.1409233,
+  "formatted_phone_number": "020 7499 6996",
+  "international_phone_number": "+44 20 7499 6996",
+  "website": "http://www.thewolseley.com/",
+  "url": "https://maps.google.com/?cid=6003543345049875234",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dOK7AQr3qadCuiZAvX_OYdpFwT4z3GomySGrFpDprWivE4ELtG-wZQzFoicWvHe67Hg4YwLCmxIv5UdIXSy-31m84Rxcrb90x-EvthUzDAqQxufpWDxmgnP5kxypKa7e9eFoHAQJlJZJC1HS_4yOw5bo_adDhurC9yf5K9jp89bPCd8cg-H7NT_bGGNCrMumiBPw01fq-eT7eTOZ80j6xqfBf7A41MXsps4Z-u2taJerZWmDMlHG_dlWF5nTKyxxHUV_79h_algM6WKSLkrGTuUX1tGV8NxdayRwDUdLm1Wg",
+      "width": 1382,
+      "height": 922,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110764854880976542215\">The Wolseley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKB6Fn2jm3Y81nepBfzG7HQbcDyfXM98onHrcfwOJzIHCMPAOT3qwfLae8NrsuqmLwWFmYfhRhD1MZhqf0QgcZWJVxUzzZVvTVRtjxkveXScDldPnNgBF6JymluLuuNHoDLH-tbexlNmdAAasydlKIxQR1bcugDDdb2tH2DPEBjpYlwT_5r9mEOVFQV6cI1LcA6PN1-YWo9QIR73Zicz0xtrhZX0zpepAJHxvrN1f-Ns3U8LPDrKZHa_CaIaDb6M3_OdgYbqKNcpDRujKQ3bU50S3rhODsTIQJYs8qVoR_WFTCmNq7L4ieNPYvfI_4QrPMB0kr3fXhyHjsRpYeK-iEHCzvoKN6SveEvSUUuj-lcc77GAflNDK-KEkNqHAZ6UI4oZYgqkgwJKgUTx9scQnwz9_28PgF6HB7iMKqtmlzJA7zFMM7H3ZsZwgBXFS3",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102466171638044474510\">R.C. S.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fu1imSebtw8DAlae45qznrcfxmmjeigSNmsBhxgJAPUAVrgn_tBfyFyj2VvgPFj4d3frcMfa-DF35ayZKvFOu5I_nYFizbVrhWhRw9fF_GfFqCVNntsp2fTl4hUlz1u_LHG9H1t669bTc26UrJLNAK7y9iBGPsbl15LWvlDm6mpbZZjQj8jaGfnMnkjNYTBNGVLrlWNoZrOSHBtB50bVCIZFyiUpqoRdGC7M7xhxLZuFw_NUcXu_XUOQXnBPO3g0beG6yUIPuFnjgslJGGrRvrFu-flNkJzY9Xd5gXx2NCmw",
+      "width": 1080,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110764854880976542215\">The Wolseley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cFpSMhhV7O__nPBX3Jp9CY6470d3UyWb9Q0yUDbhB7FgKA8s4CZH_67D7ZMokwXvCBGRgSUTJz8Fi80G95XkuEALLR6kZrknhnbYYBGpHWyhNNVAeRsX1xIS8IKlgc0nhPVhbeUfW_qKW-ZOJhTApstIGVzI81Qb0h-T7HKl0Hkqyj9U19GYxaXg4VSyfNPrriFLiChI6Li1hbcbF4Clt30k0vFZIvzwcC3gU1YHBBQP6J1om99_oTRF1BaU1S5fKQiSK1R51OyU6xhViPE9xNYzdBqm2BPimy7PErXfWoKvakddf56xJ0q7WDuw0rzfNwkl1KPV5ro88AGTl6cGqeBuFa6Tj9E_b37y2xFaozAj8l8_XYQepe1vFw7XSdqnG_H_U8vTZBH8XnVoXOZnEMjZfUKR4Xh0iyjn2g8PCP2udMIme_JDQe6_sKpYfU",
+      "width": 3539,
+      "height": 3671,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108494307624666701968\">J a (Ja)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ddCxxFOvJL0uq4KyZNRUf-4w-amAxF7iJKEsE3YAS6vvwobTzdcSwyPHOR-2z1drg3qye8krH63B6d8qzH12xhUk63MGGzhwXHBUQKXAaEhWxA5C27ST3FQ_WkqYKH5svlqHKXYcuD_2GUPztndB5Iv2Wh-DBhC5xIzAgTReS-1aUxwwn6BlEOLrRcwrUxoS71kDDkR3b3pq7Lhwc1UbbO1hjNJZiUjGUHS-O3aSmkgL4JPORuA6Nv2gECB-Wg45bJ2j7WdA2Be_GRg6Drw9lzJ3D88g1DizmpFzhG9NclO_MFt28-GwQ2pvGixRqWlPpj9q10EK92qLK3pw0GNloYK8beqBV358JUA2Yko93_hldhL7utZFOxi9QRA06Pl9aXA5x44rU5MCPpiBlguy3Lj9OMh_K95huYRwlfbb8Ouf5dX_xFnEGKa8Bw-0BH",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106603651971931375200\">Michael T</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d5Kx0MCBcYiYuVXvc9KGZEEsfcr-rTprU9sx7XNp_dnNvu1swmyBCvrI3Gmrt6Sw9DNlJLlzjHikPGE0t--0XkUiHi1WXI4EDtewOpv5UUuvD_BedmGmyypFw-NpIuylaMuLIDxzo47suCtPhHgx9H8VwLxJw0ukZckC4d1uzOatYxoahqMXRlpDT_CfDPpyDThzbnOygOoxkHfLpGHtznZ-2c5UDE94HLrkCcInXDxoS7nAUrjqNUbXcIgp9HfH8EPootBK6Mok-cMj0o87r_VAmsq5mYq1OEUDK3bS0lng",
+      "width": 1080,
+      "height": 608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110764854880976542215\">The Wolseley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsVMFku45BJhCnkiwaI8l4WsEFp3NF5Yl1KPkNnyCA71sPanLriwMz0wL6iVhWKtRMRJeUKU2z2rnj2VJd8daDihTBSzQNFVhlQ21UhcrFCyYX2R_nBWOM8k8P-DTsmj--2YWdvJoUS717XauTxebEf02dDwfHy2IpJ3xS4ZV07mMwPzc5AAWv7ajBjWeKzIZcKudaGYh3veWzk3_B-Wj2Pio8WLBjt5lXO0gQCMjv3tAjxWrsazArFgTOsUnaTJJ1sg16AImgz5HK01oSczr9gZXuTTHdIqa4fXsQ5RvpWQ4Mudz7YBpHPP5ygR8W7KxJLVh7jvXcMRwRfdVZuQaYNBspDbi4hJowcrz0sPN3wA3A-M533PK5FD0Pog37GAQVnHIMvgjCnfN8rQAv8HtCi2CmGITXnllm9q5jAhp1k374",
+      "width": 4384,
+      "height": 2640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114724783017124341528\">lolo 26</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cPa1-DP3AFRwvxg7-LakwJYMAWAvkQxOlDC3ZDFCy5cFEBUKnfYqKMIf4Do2KPAxw5M2TRyVP8aDPb0QSpp-VRlEKmujCuveGdnodsa2ZmDXPOP-k31YSCY_DLlEeyY7l6rl31HzoGIJwgUyvVGzObgdWoNFYhmlNAaS1-TEJ4iUCYapjmnLMa5HVJgi0XrmfBiGyvqBPz-jNJ7B4dLj7D09ktZsKPrkz61wU2R9H-t0yZwYVGVBtyP1y-INXeCdOzpBKa1M31qutJqRo46at_llz1jxqSCNDh-HRNB-WIGovlRZHSRiXfM-qrnzb9rM_mLp3jivlr3-TkujgnERnQqqe7M9LAvxUQrUFVeTUx8FuJaLp5v4I9judsK9YMpQbqRQQdOeKHx5VtEFGGgmoZ4y_7y7yasamLRVFCABE",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112019967965912783446\">Hana Liu (Hana)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cKMJTXB__0MEey0JgG1bO3Kd7O1xWbp8r96Ph4XdCdGeEzlKdyoqDbIZ0SZNQ9x170yn9TS4XUDTqcnRerBCTkPtGtplfy4qCe97qo-11yXo9xd0BrjCykyQ6k7fILs5MuVhk1QHKFAlh1jKFW6qtr-gAb8tcmSX2qlsXyOzavHeUYlg26bjLluBqkV89ZHtNRzXotfoauef_yyI1BWeGR_Nb43urZP6BOSettDbBFYG1cblBKFxPeGtB0NqQhZPKThrPFFlj88NxG2ya33IOxIcCwb1Zvk9225CInFshKqucVlhvdaHynzMsH68e76DsAcgwnSG9hbfmKxAEEnlPUan0tCmaeNSfQXCj2QIgTmhFFLG5Vs1JYkS7Z_kGQo_YeH1puiPo7KISYbpXpfKDYV9Kp28g74eNnAaoNqMBQ6Y0X7Oyr3kgOegWwRL0a",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112918523753801232849\">Veasna Chak</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebUfwXY4AeuU6p8OcoAXxnpG06VP-Dciftbz1RoqlM8DDGLmw9Pxz5b_MDB0Y_HUlTMOtpzIB82MtXKj7GZbrmYgx54p0xyY8wdjZkolZY-hI9_H95TwvawkCPa09F82tWL55n_6JHaihDlb9yGfZiNRGOX7H4QeHzjWDcteZVaA3b0kEQ5oEPuJYVUU-ZaMlBY0ukJm1j4u_siJx_23M3Lw1BbRTaP7Y2o3_emo_fVEwRKWJUfa9TL4lHIKO-V8BU8Pm2fki1679nSP5kPV9dreD65q9ZiWrFYKD3bR6QiFpoBfVGbT9izsoggoEVjPIh08WFM6BBnmCLzOfVJWgvNTCpswr46709YDZ2_c-tGDEEEQORNzsVdygI-U7IYnGpGDtrSiXpVeB3Fq8xOtKySdWUaiz5IVefGiKntH52oA",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105353327863841624238\">Hilde</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Elegant restaurant serving Modern European food & afternoon tea with grand, art deco glamour.",
+  "reviews": [
+    {
+      "author_name": "HY",
+      "rating": 4,
+      "text": "The Wolseley has an amazing location and a very elegant atmosphere, which makes it a great place for a special outing.\n\nThe environment was lovely, but I found the food to be just okay overall—nothing particularly memorable. Most of the dishes were on the salty side, especially the soup, which was far too salty for my taste.\n\nUnfortunately, I also noticed a small fly in my wine, which was disappointing. While the setting is impressive, I felt the dining experience could have been much better.",
+      "time": 1759009033,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "J a (Ja)",
+      "rating": 5,
+      "text": "Forget the plain old eggs on toast, we’re here for the rare gems!\n\n✅ Kedgeree with poached egg\n✅ Fishcake with Poached Egg & Hollandaise\n\nNowhere does those old-school British breakfast quite like this place. Next on my list are Devilled Lamb Kidneys and Fried Haggis & Duck Eggs with Whisky Sauce, only at The Wolseley could breakfast be this iconic.\n\nDespite their rare find specialities, the morning service is very busy and short staffed. If u r just looking for a walk-in peaceful spot for a full English, there r better options out there.",
+      "time": 1759754368,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Victoria Gino",
+      "rating": 3,
+      "text": "The food was nice but I feel like the staff need to brush up a bit with some more training. One waitress was setting down everything so brutally and not a smile once. I understand people have bad days but there’s no need to take it out on customers. Also, I thought this was a high end restaurant with a dress code but I think they’d let you in even if you turned up in your pyjamas considering how some customers were dressed. The interior is gorgeous but I don’t think I’d visit again.",
+      "time": 1758915772,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Sam S",
+      "rating": 5,
+      "text": "Great place to visit! We went for afternoon tea and it was absolutely wonderful. Superb service, very attentive and friendly. The tea was delicious as were the different variations of sandwiches, salmon, chicken, cheddar. The scones were amazing as was the cheesecake. All in all definitely worth a visit, classy!",
+      "time": 1749461565,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "H R",
+      "rating": 1,
+      "text": "Great decor.\nModerate food. Great tea.\nNon existent service.\n\nI felt that if you don't look or dress a certain way, you get treated differently.\n\nToilets don't flush properly.\n\nThey have a service charge which is discretionary but when we asked for it, the manager looked as if we wouldn't know what it meant. Keep an eye out.\n\nAnd no, I would not go back there even if you paid me.",
+      "time": 1753184077,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:32.403Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_4cVy8FdkgRIrNbO93eUFM"
+}

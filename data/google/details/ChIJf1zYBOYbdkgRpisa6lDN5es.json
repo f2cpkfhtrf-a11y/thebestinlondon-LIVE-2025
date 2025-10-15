@@ -1,0 +1,263 @@
+{
+  "place_id": "ChIJf1zYBOYbdkgRpisa6lDN5es",
+  "name": "AngloThai",
+  "formatted_address": "22-24 Seymour Pl, London W1H 7NL, UK",
+  "vicinity": "22-24 Seymour Pl, London",
+  "rating": 4.7,
+  "user_ratings_total": 241,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5151342,
+      "lng": -0.1611017
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51645888029149,
+        "lng": -0.159832669708498
+      },
+      "southwest": {
+        "lat": 51.5137609197085,
+        "lng": -0.162530630291502
+      }
+    }
+  },
+  "lat": 51.5151342,
+  "lng": -0.1611017,
+  "formatted_phone_number": "020 3307 8800",
+  "international_phone_number": "+44 20 3307 8800",
+  "website": "https://anglothai.co.uk/",
+  "url": "https://maps.google.com/?cid=16998218115988466598",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:00 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:30 – 11:00 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:30 – 11:00 PM",
+      "Friday: 12:00 – 2:30 PM, 5:30 – 11:00 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:30 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cWZPOqJcRpZF8Mqo3JHg2II4BecojpSwLUqTC9iXu4J8OwodEN-hio-VszFHOZy2b9A_DDK9vZWuQZ-B7TcgO6qcclN4aoi9xDa_-3J4hapj5uH2OM_PiCZDyEOE83m-M2eiHhs62WsiHZS9i2gbrldZM1hz7fmQcHemb66rY8XrTfHTLVdtmil7ukZxYN8m41uQEj25M6nttzhNF3OqTPqt6f5wPFeCUXtNJzhlz0ByLUdbwrlsrIsOZJYN4RnsQZUKYYsrHNR9EBfYo9ShjGS_relByaOmTnps301lWAoll6tnUReWXHdzTzQ5Lwq0T_9s7dmN3uMLI9Xz3IvolmU5qVbZhhssvFNyQUOnoQzHVb_9_49iZdpz8H9zvICtrnR-F9G0h43zDAE_5Fnn_7aCksVXta0AdS8eaU1tJyWG-2",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105555782901814617620\">sergio valentini</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMBth8C1-TbVp5Fn-k9bNA8pdOS0kZtQEXXgLwN5l8lGPROvBPEW3ODj0xtd_bNHmxueRtPmY1Fxu_u8TWv7bZGEpCdU_QCtSkpvZjguB7iF_3r4_3l7wGC6IV_R9MFKiU4evR6YO9CGe_H4XM0PqQa6z__e-4N_IMPCXzil-IX1mqbYhV2ObjB-UseZAQqFwN8MFr7SdS95Tg4GrXqJVEvrUIOmmlJqP6Xi16A3AckV5uBtgpp5LkaGtnbkWZV4MW6DVGQvRno2b7Ab9O0x94n2OgxI3T6bbsEnyDoWMOZg",
+      "width": 3778,
+      "height": 2834,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106922376774775812720\">AngloThai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dZYh0pYCH02HtZXcRZbtTyFGGk2qm1CMc0q34wyyU0X7kBfm6SvJBTM96lO1TgigorUUy5jK6TGTxlNA-jcueY0i2OskFiImaXv0vfAz6KY4gb9whWRe8GZivPXT9MjchjoL3nne5QQHIF0Jh8HHrB0PDVHpazu-8jUjgYis8kXlmTvCdhrUDjxIsx6qi7qYNHKBbOw_rkmheXlgL65C83-da5e2uiLAfZKi9PwupsEQOAVdeMkKCwfqbXsuzCaeKWY8dAXEnPQsd8N58CNMs_-8JwHzkFSacMh4lWffH_FJjNmEYrzlR7i88_birYpgBEyMmcRe9HMj6YavnhcFzz94FiBKhQUMAdsoLYwvUZQFcVB5QTd_8TrQpCT5lLkJt2w9wKIX9lkvduxFSI-DE2K30jCrmJrweuHaTqx98GSBlFugSBMHDX-cGtWhu0",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102286904745342270547\">Vika C (Vc12)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJ6UEu9nU9IbjcSCPBPtg8JXMEWMRGXDqII5gSgHfaeF6jk2g8nJjlnwk2kHsHk-FjZqXbx4X5A8C0oEVwE_6bLj5Xogw2UH8d6cBkvr40NjVP9wvzMBT6JizzsWBt-N_4uhfWff1ewaGdnsbCr-FAO7l4OLUntUaa3URwde5TPpRKUrXVO1dK9UNC15lUUTNX0FtLWZG36uV2_cALvSrqIQYL4k_oL0E3VZ3CC-pVp4hDS67g0MY_fXLfZ_3-E6snqO1I3l22ShJ_9RweOnSt74n3Mv_THyD-CW4MKxiGd-liYJ5HB-KCmA0y0AWN8V1EC6oHy7GAucTfQKmDnOUMUVdE9hoyBwfxQhoxGjLOKL1XmM5uj648JPIzoavEN5a1mqAjEXHLsSi6Kj8D8DoqfogfytPu-1RraWApUBorPt5KaCrSJ4BxEv4Tdw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103783270221634473845\">Lindsay Ahrens</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drb8hCvFNUaGluT1fxnyTB-tr3bZvdju5vial9QksT44Ao89woQ7RlQ2zmegky8yHCqkT5zTMSmHG0U_eJaMgCybEQFUpafg6GqTRzm2VJ9xXOJTIH6NDdrZwxs0PdzGDSFYVDpDPSR4xITLNc6K-1dFLFuPeDGbSGtqKN_X6QIx-ro2E77AQL9pyRgbDqw4pk7HZHmM7Lb_-i_B_4fiTKqeHEwDmlAobxhBq7g0RKWVyGC2avAonvqfDJa5J1ybEhp1dp1R5fX706XrcZoWssx5MGcn-JjRJilEOt6nBslMMwMAur8uQ5meElHjwhstJg8EvE1hp21T68CcqByQmaVCG8VbK8RpmKcitVnTpy4MVYUzQQwiPxDoiaFC1qFPNRT-5nVdp2sX75xGJtCcE-0lH9AOJQdoXIm4TR8GH8Eg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100380424286565705186\">Lili Levi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ddmGLFJvbb_bv8VO2SJLzkytk9RpbU0-g4CGXlNOy7z2EVKfCT70olKEEJnnr4rSl2fa5jPcdARHES74SliZ41zn-DQNE74gy9vhd-_FHZCr31tVpy_fvrGEdaeUQ9cNH8wjijakjVtP2Yydu7T2wpMX4nvV9h7If-LrA-fUCZpp_T47hw-RrUehYt2adXCWOQP-eNGN6dMxWLPcqH0E-Y5wU07sFKummsf90faQ66e8em-qZ7Yp8FTH6vWRPZtolg6hBEGhORBCjpHIgQE7qPyYAxAvAVw7HrTL3cmOmRJg",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106922376774775812720\">AngloThai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cIvNIvwBjqIxM93YQPJHMpEue-irZHd4zocTFK4JuFWUbzZKSpZNOZuxyuEkZ_ToXv9KHu1f-eE8Utgy7kCjYE5U6DRrr-YB3DE1bmCr7C3MVd1vsPSvYF_5awJwMYHHGHVfrHdbtFfKE85MZqId2dqWr7VBVKb7MEDkgpOUn2MCVLidUFuUjEWn0o5yuY7clHoJ0shVJ5or2I5bh2dnOEd10OUpPPZFYfyMxLCHLQA8GQynFhWccOpw6aY7f9q6q6pgXNqvRdZmersITLz5ypw7WT9LSgzbPSLGrwc3l3W-LGvGYP1U-XkNjEdKbeqAVlV4T-egR-hE9jjwvJCeo4TA78XUCod5T1-nFnbZb3gVmsQNW8yMBwkHE5ReqGAnx4UmUxmqnObI5SC1AkrMAoFKzGbM_aS71tOxnmlETukZfGXMk0_ectb7IIuF66",
+      "width": 1179,
+      "height": 1474,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105337128531387086963\">S Lou</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2czJH8GUJ6JZ9TouMVQEhN06ymGHdP--ROIgLUTMQs8gnle9N6wHu7_ESkX-nTWijsk0xfzL6G_RP1-rJMoU-Ij-Jvfyg6cm_XoOtBZvZSANmDdVcPNltzdJ4CFG0eMN_WKGWCeY7JKM1inPJYwyDCJOXPldxEOM4NqPWgZAUEFOK9kMq8eR-UElkvvVY5Xyjnu6lTHLS6PBe-tk8ys0iUQR8ZChAtcGVwWoeaUO7bpr6of7DU5PSFJWgYPhfB5bTubWRU2GWGEpZaEDgjgpVnOvhNrCcPq-T9EmPziW8tQgN71MltLkxE0hpfDOB8MTkLvOcYA8y_semWVB3Y_-YxD9kGN1RTnJoEB4JAxa1W-ozI6YGZi5OyF8nRjj8wC-IEZFInVc6dWJ40fZKDIGUDlXZ6Y4Po2MzDCawKPh7u1RiU5",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104312091864763503848\">Erin Ogden Green</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eGXVBhY45Iyobt2XPenF4BIxcsVnkM7NdVFKVcysvon_dSAGd-Q62MSnM_xmVd0ETWzMe5HB96-oVIm3MIC_e_G1_JBLFta6zQNEC5Y1VgB3LKJOvDKP8DpjQIRxzDWbrE1U_OQB-UzTdNXw5YyKAnXnAFxRCp7sy4WaGDoYMPq150vU-BOBFdB_etE6d7adFGtGz8GCFeB42mrh_bbe-qOJPYMNby29gmXRs-8ThneeoYQqpqCtAS0FvGN7iP4DpD1YliBjB23k4mmAbMl8VvSoBPCzO2HDGjEHI4CkXHf71fYiHO64FYTfcK1J5U3gvwEK-jrmlgY0GbuOJ6fWKAGN8rKR6f-cVRIMNCLbLW0k7iDHjJaVJc9zGfTxtIXjVinCGXQeAwFVrjPnaG1l8j_IXFQv_w-mTSvQFVWDXi76849GQl8xpH8ky1hw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103783270221634473845\">Lindsay Ahrens</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2co3LahpE457dEsqxMfAOzB9PJRPnOlZGVI4ecW0IxrwdQU9Ej_zVxBrtP6X0iYkldYyuCPC4MnIKlp9F2HAcpbHW95wXTUGhSHDYkIIATFpYFzPmGUqcToqgfO3smrhyn8fHoclnx_NFeOxhLzsSQfk7YeSHHo-1c9uvPoXEf6KuYOWDEQxqkFc3MkO8FEfHAXCf-XK4zF_UNZKkycqy8ELal5y7UbhBNNV2dF47Gq7vBfPTOuqnfDLe6OEBqMrosxTwh76BQTbm10JisLiXcIQy0a90WklnYh04kC6bhMKhckIIKdPEUT31onqgHcJK-ety6eElLfn1RBaAqdEBrctBFRg0rstgi0KK58iokLnlBT2_AvyWWjU_Cfo--LGCALYN7alpPqIjoi5fMzmqGOGuSSLw_5rholmwMz0SWaOA",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107985853454755872958\">Keith Lenihan</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "S Lou",
+      "rating": 5,
+      "text": "They did something truly great with this restaurant. Incredibly gorgeous, delicious and balanced food. It’s definitively British food with Thai influence, not vice versa - very original and creative. Don’t think there was a bad dish here, I’d definitely recommend to NOT skip the supplement as that was one of the best bites. The curry as well as the oysters and sausage starter were additional standouts. I was literally cleaning off the plate with their homemade brioche. Even the cucumber broth amuse bouche was delectable. Only two dishes that didn’t wow me were the Thai tea dessert and the side of greens that was very very salty. Other than that this restaurant is exactly the type of cooking I’d love to see more of in London. Unfussy interior and service, very friendly and felt cozy but not rugged. Will definitely be returning!",
+      "time": 1759308383,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Mataya Maggio",
+      "rating": 5,
+      "text": "This was one of the best tastings I have done in London. And at a very competitive price point. A couple highlights were the crab and caviar course and the bbq octopus. It may have been the best octopus I have ever had. The Thai spices were unique and fantastic across all the courses. They also had excellent ice cream in both of the dessert courses. The ambiance could be a bit more elevated, as it was quite tightly packed but the food makes it more than worth the visit!",
+      "time": 1760275813,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "H G",
+      "rating": 5,
+      "text": "Took my wife for her birthday dinner and we really enjoyed our meal. Every dish had a unique Asian spin that was flavorful and delicious. I usually don't like fish but all the fish dishes were spectacular. Can definitely see why they got their Michelin star! Staff were all very friendly and they gave us a great seta by the window as well as a beautiful dessert to celebrate the birthday. Thank you for such a memorable meal",
+      "time": 1759960844,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "B Miller",
+      "rating": 5,
+      "text": "What a wonderful meal and experience!  It could not have been better. The staff were understanding and always helpful. Their explanations and suggestions greatly enhanced the meal.\n\nWe’re so happy that we saw the feature on CBS ‘The Dish’ and were able to visit while in London.\n\nDefinitely looking forward to our next trip! And thank you so much for the note on the menu. It’s a lovely keepsake!",
+      "time": 1757685527,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Vika C (Vc12)",
+      "rating": 5,
+      "text": "Stunning dinner experience. Star of the night was the spiderweb crab. I think it's their signature. HUGE fan. Second close was the bread curry. Something in that bread. Appetizer beetroot was a pleasant surprise for me too as I usually hated beetroot. But it didn't taste like it. Will be coming back! Riesling that our sommelier pick was really nice too. Unfussed vibe despite the michelin star, some dishes can be spicy for English taste but it didn't bother us",
+      "time": 1759996941,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:36.935Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1zYBOYbdkgRpisa6lDN5es"
+}

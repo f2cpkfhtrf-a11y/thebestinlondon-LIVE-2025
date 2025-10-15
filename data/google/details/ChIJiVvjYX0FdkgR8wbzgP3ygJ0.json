@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJiVvjYX0FdkgR8wbzgP3ygJ0",
+  "name": "Gaucho Covent Garden",
+  "formatted_address": "8-9 James St, London WC2E 8BT, UK",
+  "vicinity": "Royal Opera House, 8-9 James St, London",
+  "rating": 4.6,
+  "user_ratings_total": 1115,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5128231,
+      "lng": -0.1235271
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5142601302915,
+        "lng": -0.122114619708498
+      },
+      "southwest": {
+        "lat": 51.5115621697085,
+        "lng": -0.124812580291502
+      }
+    }
+  },
+  "lat": 51.5128231,
+  "lng": -0.1235271,
+  "formatted_phone_number": "020 7242 2222",
+  "international_phone_number": "+44 20 7242 2222",
+  "website": "https://gauchorestaurants.com/restaurants/covent-garden/",
+  "url": "https://maps.google.com/?cid=11349338231577708275",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2exZA_LeKa-8S6SvLEyWqwx1CIsM57i4wuQxqfh8hlTlgb0bsTqd10cwhJB6lF7ZbZ4GPK1kfTjmfypfbxMa9e932HqVn8POqDr674dDnAWxko7vo1qlxnH9OFKfxKzUxYW17oPuboyp7jYJfC8l4I4nV6ftY6rixHLs-riX9ZDZcnZvq73CtIoOoMS02kbwg-ZoXky8BeGY0KmrkB8vicl1_PPDFrP3lbrBhO7LAfFl5FH9xJcOQZ_4ivfu5UDwi8Ql_Hpvd28Tw6MbOSzL0zIKJlVoXEuO89nEtsr7kAkrQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109754025968784696901\">Gaucho Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dBOjixLXYteLgo7Y18E_eCDyo89cQgKUZoDxTq-HGv2gJA2-tGGw_Kwq9Ka2XwZO19nQ6CD5Nq0nfrgLZzVJSbz7fRYLXLwb6VEtop96Q8KlS6hJlyr-YNEsLT6Qs3sC-a9Mvq8SMrrETnOi0kiUF-8S71VzaDwt6LDUCIAKUq6o2sE5Y4wAF8KVcTQV8xriNKwOOFyiCtlHnW41mwUHl7ruKaLfM_0tUyAS60bliR9WRVcDBM-jJaVyykhtglZnEOCRbPOxl3hDjcAeAf-QblyNe_prKMi78rtENdkK7Lc73j91R8Lvr6FgdrZthqqN5h1T67WW4v4K6rjGUNBFp3nkIRYxmjitc6zvwlTnCuAJMsLGy7y8qqOYxjtGhhmINTdDbgW-bdC7an4HncUfNYbxmFKEAHVolSJ0ixnnvjCEfNFy1fNz2zCm9dYA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113137885493854713847\">Kevin 凱文 ケビン</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fgeT-T1s3XZ6vATYX6OuAHA8ma_qR3iXLgIGW4IJacxkxDoDKW1IEmUZ6COZrMDQXR8np4BY4DId_R5dtsM8qDGSniji-bEBHl1UGbVjTRyxdOT3x96KcUOTMChAwuTNyyIzFlAZlgq_Kz2rYL0xPFu-HpXwA3yBmgUw4AW3I58RLLqLWZe3l_vY6H0jIb2ApVp05KZ9mDN51Xiy_cUN8m6Vvc8leXFnx9uWZYQ13Z-5bGyG8jUkwmIesqLvSwzvrTgkNQ9lYnxAZhwnWrXZGfbBzkRUOnwrO3Qo48dC9vLLChg6cafoqM93PVFfLwi4KtUCONhIl0kpJ5pn1WDg17NhQLfVn1VUHXc0oxOKQjqgN1lhHdaJ59p1_x9rTvjleCHR-lWD2R7zRluCv8Hr5swXBhux1kSEkwi8e7yKpMSQ",
+      "width": 4800,
+      "height": 3367,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100622384613791245402\">Kirit Patel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eB9WF_vdCB7mKgrTiQdILTC9jJz_LqQz-aTEgNUGnpyGPWUQyFKquGj85XwEmAVY032CFfX9zpw5DUqW_MA3GgF7iG8yPEBHMo8HZsJbEeQh87A--Ka26ZO42RY7NTR9FkQSf0D7fAc-G4GTwSUHlKJxHto8gka2WcJg2bP2Risvxmk1TMxh0v3wysMfnJ3uQEgeBXNnTJsqglg1OLvGyDlWdiZBI9txbH63qghn3rgeS2K8Tt1jw9N0WX9NJ0C-jcYQNepAyyomfVtUjY3Ugs1eRdw3Ubfxf8_NortjYPToGwdBk3h2Mxf8rQy128P2Iauz_bJbUahe2pza5oE1Dl-Jtb_4j1LjxxB7K79QZsMfRh6ENBBO5LN_ly67QmaroQt4G4GiJscK6tGEbbLisSoWyAj7NmN1ZarQIeodPm0gAoqLs9MBrordhejGSy",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116017937333916177533\">Olivier PEZZETTA</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2evxz9A52kYAANO7khcrCDMzlUKQfcdimTgAlQkpJTI7IzG9KZ7zU2vntKmXB4I9F5gAb7weyk2g_5_fJhEtABBqGM-Sk1zAnk4cMD0I9SHYsj8wdKJSzfAIFfa2ZumOy-P5fzJxw3SNqyKO4rKDoCDrGvXZJ7BMBE4uD960k1U7xbpOnvahDHypan02-GRdwuY8VTjK7bfUd6SUk1J4jAlxzvLJ6yQxiGRRwmp3PvO44B7I_6XnnGe-R3v7JYczh5_PEqovs2c-0rdOYsE36w97SDfSrygqvp-44mvKyqafn-41-rdUzW5hKshRDJew8XhZ8Tmynw8P_tjopQh3UL7w9Y50KUwuNfqjpAGqgrdY7gVDxHCluuv3kHLr-g_l_I4JSVeop9vMez8Ja1be8omPi8CC-BSjbtTvOdqiPZwOVgCQp-xOSZfl2KMHGmW",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113137885493854713847\">Kevin 凱文 ケビン</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dG85Yk2iSKCAevpt79rmxjtAX8ujJb2vP1I8PhfsbbtaJPrGQZ3hjSGNjDoBsF01JYeK8pCYfo7kNKhV-K6YfX_P4y8FyjgRda_U6DCxfs6_gUHV8208Aw4-ltKndE_dr-vhVNmq-lpraCHFV6Y0FK7Aaq87WUrTNFGNAgWT7gb1iVc9XJaZnzHJWZ-4oxJebt2grETZ5xiTMsq21szoy3Ku--qF5LRaMMPTxnsi8gO9WPr1861RyA4YNn3MKEvrskaGDqmneFwib58WlPDvj3Ltxn1epDHjMudRAOU3IFedTf7iwiaEBaMABNd53wMvt31tAN4FHJ6sWJj1hUaqwpIJLywxjfQQM3Ttg1714iIkIN3i0NFVSpyt_ggG1lbMGcVEz7riw3W0vqFr8vX8XQ1Xr8QzfqsVfHL2dDlWHt9MO1mB6mxEPkU7_hgWUx",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116490933023156728639\">Tee Tong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fDOsIG_6pCy4EDp14O_Y7k1iOguZZoQ-cJs0pia1NKFyfYSD5YjMukzYHAMfmON29NfbdGRSL99bHGCYbW7D4NXem90O5qXmHxlnVpB55lkAaGT01PFwNDqaKC8A9h5AMXX9KtuQtYnzDEABmABlrY1pRdjPuXavbJojQGQIf2jqwt0mNyOWZ1fRlYsHHl08Aqzceen7F0GlCloFptH2G-8em1RUbjR3o8XVIeKrBow0psDBDJ2NtEGeiY_Y8f5zm8Gd_ZVYicMaRNtodFtISk_cfZQ6NilYzvn-HGpBjtRNsUHHSvGQJ0c2k2YOlabSXP6qJ3lRIYNTWBWAD2esBIcuJUwK6FtpxokqPHwfJn46e_9mRFmFi6uwNnxVKnyp1it4iqibrtNKXnu29FLotTZ4cxJGxh_Y3m8OUGDBflj0qg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114061600419145633964\">Omar Makieh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dZNFnOb_cUYOj99kcoP8HSWm1_3UP2WnBkdbYMCeh2YhsSwnp6G0Y76Gpk4LBbWZaLUzcn8WL1NShBRDfTf0QJUvthXMagd6fq7vNYi585wIpVsk50teEZ6lMvaj-4T-yPjwzUMZhZ0v7Mq2G3g3r-cGEd2fU7tOOtCzPWD7-e-y-Mg141a32CaamDL9P9u6lw4_CUzjb6G3k5h4J188rf30u2DSq9Mi_GWBTQ0LnrmYnhm1Flu2y0Nx8gqCJazqm9D5ze1Baz8JIlQSU1lKciFjS-g64YXQUnJLNoAKDc2PmoE1K-osnm6ntQz8XJJlvtzCx0Y3uOctPVGFrijR3hOjljbe7Tld7uv1dxayow_isUzc738soNjwydz0knjxfS_v47C2R_bNunHkHrJR57ofpxE_jbnYc6E82pZfuAde9N",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109616887627053426321\">michael thompson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3ZirBuyarKXS8nxPv8I6HJANMKfFH7sYl9k0gYq9zjy2zO64bBsI5w9SfojG_DgTiiLKY46fz5-tZpTPPVFqWUUEvVLshdLzoSP9jcdZRs0gUztP-lreGZSaN4V1iZpDS5zHRpv7DO0cJ5nSj9nVxRxNz5oStj07QZFDcnv9sfQKmNPJeBka9vu3agDi-8q4q8Rbsp5zRGRS4dIXmscgHei7Rgdtng0VfYsV8roAS9BvT5URnSEJM8HI1KW29dAs8a_gSkIlrUaHe_O7vb8YVlKo8WxsttPz5SD5vqaghUefr5ayovjhHZaffhMu4GzoFzxV2QRN_wlPScJ43iVgcpmSnSgDmh-43dQpFEkMLoWNIQlR-MB1Dq6mMJo5YK1wLHrrbdRJ6-NahokO2JJ_EqgJUh4g44lPn1TaDJR4mih4A",
+      "width": 2666,
+      "height": 3555,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102644546029333388405\">Ilayda§ Bernegger</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dONXa88Q8pIC6bANRref1StcPdUTa1mHDvLYYU8Cpd2PsXZh1nMwSIfObcl0syNXabAaWYkBcqJryWcT2tv3v-UIjPitbhghDXH10AQ9DKFVRA4DXruWnXNj6Xw7FhpfF1sew9JKeavlgY_Zpxmo0Xau2lszkyocxIrKaTDPufXJxe9ZmmAV2u1CVrRiVwyPSRQ9wzPsch_aeD_k-72XubYWKB3phG-qCTiq5uQ3YR1hbd9ILz_423Zf5Om6AsWc8hl25K5ukztMxFuH0Amp3Uv-md8cfP9Za41-zrhzccjaOKmKt3Qfrfry9ZZGZBqxmJKkPeBsfbXqkc9r5yYzjtf-SaADSMOEzVdpjfzA0eL9ynkIFtnMccY7VrQ-78N_0ZL53LQyTs-7hwSPhHLAMswLqYwtMxufx8q_5XjwwX_pY7",
+      "width": 2300,
+      "height": 2536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114923334766713022644\">Damir Kararić</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Natasha Izod",
+      "rating": 5,
+      "text": "The steaks were amazing! Never had a steak that perfect before. Cheese croquettes were beautiful too. The chimichurri was stunning, I was claiming that I don’t like chimichurri but Gaucho changed my mind😂 Waiters did their job perfectly too! Thank you very much",
+      "time": 1759848914,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Pouria T",
+      "rating": 4,
+      "text": "We ordered the sharing steak fillet with fries and started with the croquettes. The croquettes were visually beautiful and tasted amazing perfectly crispy on the outside and soft and flavourful inside.\n\nThe steak itself was incredible. It was cooked to absolute perfection and just melted in your mouth instantly. You could really taste the quality and care that went into preparing it.\n\nThe service was also excellent our waiter was so friendly and genuinely helpful with recommendations, which made the whole experience even better.\n\nThe only small suggestion I’d make is that the sharing steak plate could have been presented a bit more nicely in the pan along with the fries a little more visual finesse would have made it perfect.\n\nOverall, it was a fantastic meal with great food and service. I’d definitely come back!",
+      "time": 1759762104,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Donna Leggett",
+      "rating": 5,
+      "text": "We came here for lunch yesterday for my daughters birthday before going to the theatre  and wow what a fantastic choice we made. All the staff we encountered were fantastic and the service we received was amazing. They couldn't of done more for us to make sure we enjoyed our visit and they made my daughters birthday extra special. The food was incredible we had the set lunch menu 3 courses and it was fantastic value. We also ordered a few sides off the menu as well. The food was presented so lovely and the cocktail i had was incredible. We had the best lunch out here and highly recommend this fantastic restaurant. To all the wonderful staff who made our visit so lovely to the incredible food we enjoyed, we will definitely be back when we next visit London. Thankyou Gaucho Covent Garden",
+      "time": 1748604828,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Darren",
+      "rating": 5,
+      "text": "Lovely place. Music was not too loud but good. Food great and Thomas the waiter was exemplary. Nothing was too much trouble. Would go again. Steaks were so delicious, started lovely and puddings to die for.",
+      "time": 1755374558,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "M S",
+      "rating": 5,
+      "text": "⭐️⭐️⭐️⭐️⭐️ Absolutely Outstanding Experience!\n\nFrom the moment we walked into Gaucho Covent Garden to the moment we left, everything was amazing. We didn’t have a reservation, but the hostess was so kind and found us a table quickly — such a warm welcome!\n\nOur server, Alex, was fantastic — attentive, friendly, and made excellent recommendations. Every dish we tried was incredible, from the croquettes to the burrata to the absolutely delicious chicken dinner — all paired perfectly with great wine. Truly, chef’s kiss!\n\nA special shoutout to the manager, Ami, who was an absolute pleasure to speak with. We told her this was our favourite dinner of our trip, and she surprised us with a couple of glasses of Prosecco — such a thoughtful and memorable gesture.\n\nIf you're looking for amazing food, top-notch service, and a great ambience, I highly recommend Gaucho. You will not be disappointed. And if you're lucky, you’ll get to meet Alex and Ami — they truly made our evening unforgettable!",
+      "time": 1749401272,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:57.327Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVvjYX0FdkgR8wbzgP3ygJ0"
+}

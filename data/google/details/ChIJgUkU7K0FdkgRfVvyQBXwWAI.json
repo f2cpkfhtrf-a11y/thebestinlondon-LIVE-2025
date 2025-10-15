@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJgUkU7K0FdkgRfVvyQBXwWAI",
+  "name": "Maru London",
+  "formatted_address": "18 Shepherd Market, London W1J 7QH, UK",
+  "vicinity": "18 Shepherd Market, London",
+  "rating": 4.8,
+  "user_ratings_total": 201,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5066938,
+      "lng": -0.1462888
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.50793528029149,
+        "lng": -0.144981969708498
+      },
+      "southwest": {
+        "lat": 51.5052373197085,
+        "lng": -0.1476799302915021
+      }
+    }
+  },
+  "lat": 51.5066938,
+  "lng": -0.1462888,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.marulondon.com/",
+  "url": "https://maps.google.com/?cid=169148960100998013",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 11:00 PM",
+      "Wednesday: 5:30 – 11:00 PM",
+      "Thursday: 5:30 – 11:00 PM",
+      "Friday: 5:30 – 11:00 PM",
+      "Saturday: 12:20 – 3:00 PM, 5:30 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1220"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d5hhVPrF82P1_GmNCIjnCGEBHYRm9oWTktF4brZac3jo5c_iM5j-Yujm7t9Ce-BEL9PdbOwOLJ3xumCXUaaWeeLTIXbTIhkF93r1LLGDlmBYrb58qB8Nrrx6J4-FvDyeIWLX4malZLyS9slVP4Pz8aWwZVR_LMMnbrJRwsW8OkLCNM_qNVlwb4589ObFx1adsKBh4TN_PXDhVsmayD6rNroRNq6taS1RNZ9AMYZfyJn7T31ApJqn3VRoQV1iZGv4d_moLG0p1KtcmoU1SfCJUTTRLLh__WT_PfNmYZF2rmMg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115717191225110334303\">Maru London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eAkBbnyqNHXJn-oxYLop-M3bhHHBuLux5OpBL8JDvxfkAgFW0SXaFQUoMNWRN_6JkyyxxOsTFW9CZ0lcz4_-l6C7JS3KVtf7vJRIxEuNHlhia_FaaKtv7VzosQIF8pAlorvAJnCT3yCsYSn0AhOFapB7rn-r-wVaAtqyBnmK78jG5d3o_JGYbMgdFcUPPjYXUb7YcYdcKhiyxyvNAPlOxrmYLVUbW4cpCeHwwPVPWC2Ik3Xx_JERNCQ99QnPVYkwO26PfIyyY9viA45u45TCZQZ2kgHeZMXJG2UlSOcCOdZA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115717191225110334303\">Maru London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dLgnAYsdGZqd356SuAXkKQu4RVWvp7KQ2BMv9fSl4rH0fYA9n4xfqwUn8CsXSJZz-DbZjXNUrnkS2hEzqbzKnOqLhWrsou_GDt9dfPq64v8Hdpe6hM40gKOOekLLhstRpnMluHGEYtKAlvMDw3V_joKs3MYfRtbyDEg4YMahwnu6U7Zrd9OAcGbbgiJgUeQ4D1Pudv3DSdf3dCZMXS8EU_dkWb7unGRCCFBZNH-x1QU0JXfuspwzjFymhtGPcVByeC7s_oSmITkFzEhdprJuBdbEcAWxA_tZiSdTw1-NcDkf0PV9h_Tjo5fXIzoen8FibItjIJImIwD9Y3I7ys7V0qin5Dq9LtqRbKr14tX5VlnmL3D-f9FtEdcN4BAQyH1BM6fyhuvVjRyAqhTSRc7FSWuImAF8-I8dAgKa1IwzZqn5xscccF1nDppdt-hQBc",
+      "width": 4609,
+      "height": 3470,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101896230332949731254\">xyzpiggywigsxyz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5XUJQ7yeUdr5u9mNMUEkMAMf_Z08y-q7bwiq2C6fPEC_tPETpJnKuMBwbtd9Ts3XUKZVqAJ3ZTJBr3g8BaOHiROBJgbI-Ygm1oIT6hIZ4U-ffGrp930V1oLT8Bu6UQh7X_TQefcXxNlBHq64FnxdP14tJOeo1qH9Zl_Bj95B7eL1172TNfZsBnwajFQCeVQNkcjjGhEA58YTcudyOAC94Az9LBaAcRS9twd50gnCkl0c3KxFxX_TbKe23l-MK7a3l3dYfJo_ud035voZXW4Kzkp4uipH-fQl9LB8i-SG_SJd5IpUl-agt0kGFIjGemL3rHSoROGguhx4O3_w2cOEvYkoVInW9Mum88BrFFv7aMvF25XNFGf89fmR86B9ooVORpq5zk0s_m2doL6uWfcQYiE7N-9CaONpGr6T0ldFZslnC2DzDVD_SnhIuA7MV",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114513304336987257821\">SW</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2daI7TjCYX-jTc8RMSgpYqboi0sz8HwUo3hHpwTW3Hm1wSkK0kaYlEIBL1VB6BqJtvGmntJZ_ALyUYG9VyukOvdQDIUPI4SE0X9YU4Mi-6a4PCCt3GwTFJ-xiScV0kpB8SR2rg_avqYUHneV-x4dvBhFFwCjc-HYKKoE-6m1I0JwJq51Xppm6o-BiGHbvtb3x7zxIwTIIx0vEmVVblad_8Bq76DodIFWObqrsAsFE_x4enIhZmC_zXeH3iInbcvUJT5SHHURrVEsIrV1HqkkadYHvjLCnoValZbSsmW9WcwdNZdPk6AAdFe6BOuo5j1uKR7sHJbwC1VeuIXMmfcWcy88cFFpp74_9sTRAAksldjuZDvQL8-T2h-JUAjyDbuxRHYliGZ7qXDnqhSiPdoJ6RDZ0lhKuaqstjRxsqo_qQx-YQC",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108801042548621781875\">Yu Hsuen Yang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2epnMYO38X8QFpXJdfqXosMUUPHG4iy5j-YdiGwaG8_8ImQHRnXWTMSO3ydxjno6Or9nMQZtzV3BLgaDTbvvmYpvUh5Eeq3zYFJwSSgMpPEQnqcy3yzNJbb3kxLjRGhGXfmpmr92AHf0-RyVLLf8Q_fSxkKgz3Ug9NA_5oPGL1zvkbq5-VXWDprRUQVGHfPt1-3-P57_xf6QFzilk3yOW2fHbPOWIZb15qxDcRrJcF5OE6cqCXOdTbTBWNQeK_HI_Usb2NGXe1D_BQC26IsqkIY4jVNSnNCY-XbxLEl7Y01bziLipUy5cAPZasy5BHFiXmcKvpko2wJ4ZIbnqPv2MVfPrwW8rabp-8ggWTAWyHjCJ_szfIAaEhqbV7ZuXQ8m0N3ljkGjiW3QyOWOjZnAvBfsQQSi3zXHSHIvsFxLJKtxyQ0b2Yp3cXzhq2dkaCX",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114513304336987257821\">SW</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dY-B7CWnMJXuHK5yJBBksQ1LCQ171E6AovgYdWN0B7SJTB88uDFJWQVzShtT0T6KOlkYv322qaEboYT3zUDMhogEKGoCE3p3aBcwhKocgaUaJ48khGmYGiyx4Y8gng2F6cKQKAXkysSLWTvxJ-mSZnuJ47gurRZHrsK41jJHmxjerQCr1InUnCOJO7Wpm-r0J130dcFF792e0XMD1LjfDvo6IaRDWo7nUfgH2E_ncaHORS_IVdvuLJUDs1VS5yZFYuBDtXJZLLjjN4w2grdQ20m75Pqlnx90gAkxGkPBIc7Dt5zLGj7q1iqWx8Zd_B9mBNGD1a71GICS3WNUJmh-yz2yzINtpQotCJ18mMQiI-hBmW-xTa9qfStShNBhaVzLEeddbZuIWk1C-QJNsBScFcHBDk59CHVj4wmxsGYUdidUZutPvAAND7aLSVKQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111530804228692918015\">Vicky Cai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxrdW6YiW1JFfkuHT1-Ca7QX1AFobW5teqsxGfyQPQNplzdpoZMM9ODe7mXTGoXIxy24z3PIDzFlWZvvI4nEACnFWnAhMA_k5AXFthmPaubdIQ2Zy2Ep0k9XdnNLlExZgHVaf1LWIxe7eE0EZXa-MS2rJ6tjtPWlBwk19GbFMYGpFfeEueXLxJcOP9LwFAw0watPkRrMTlOT20bw9yeArQ5Jr4WPXyuy1UNxEW_yF8kwoTuRaq5Tgb1p6Snjqy0DwgfPgjubZq-oLNTsY0HYjJDc0oI4Voe7V9B5KwwpjQx3tJ9VcSEB0B9snA6v7fGNmzNDIna6M9Fik6Dyb-EvK0Wbvam9l4r1efE1SowYKln6vAeKfVe1pu1AM40p2CdkHyFBGRLqATfXxozLF4r0FJfJVhURfqvzjiEFIVjYEbfA",
+      "width": 1179,
+      "height": 1396,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114470040985195071482\">Timothy Wat</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e9fKNWfIs6LMrq4JfnYkJ3vZ_pg7iN5VJiArX8mLunL3IsPVL46zI0E10RrUa9roCaH5ZQE3mCx2szUOdx-82jynacH_L_jpNxk6oNvg0OGrxsYqwD0d_N99dd0GpmUa4HH8blZjWbaHTPuAQdgpTMpoYa_0RHA382XPIxtKjEYLJXZHzGC09RiMYo8JJeemmDdpfeJ5_gSmKF33V4zQu57MH5rKsg7trSH_Lc5mlq5Y0qvXYvrjbLp4pJ43QUxtG0yBUxxl7nNTj-Hh9UcQcYfF2lSpZlOWLvnmLVlUKRK0DAs63iV_AXPRLAls0m7XMCqZ7IJ5Ce2y_1wST9Fu69EnUWP7lDxBUKAw1pVoJpXePqKpQjx1an_Azq0nxSEBo7Uj4osafg2NQmSOdA1aHlvEA6QBTXSn126J5qwSo9fsZHvmkAg2Y1o4LNEjd6",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106117218819207366611\">Sara Ingarfield</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e5VUqUK4714N08aIjUAz6vstdkY7T4QLIxYn56-A3guKJ5-stp6mGlmHcaFyxH9ID0KykiwAn5RlxnIhIXQQx_iq6ibnZ0yPHrlwpcqX_xja8rX8elFx9BxEjbSp2FrNMR-CLCWHUJ9evlVThmrR5O14u0I6bOGZT5toKIIZ7qHutSiYtHutCt1J8J6B0lGHqm2YqKl9UfrfPh0A1lwEaCoyifvuz6u4PiZZIXUBwai08RKwnTFIfLLhjyqDnmNrvYT2lir3sKfWR2GIbu6HJHemEI6HLNFQSmqJWKi3_v5iflB9lx_eYozp0iKfFp17AoNhNqi1wNjz_fsRumHNG1EtGXEM2-0I1ei0sQ-fdgR8fDi_QIiwP_tDhaK8nHc6DIZ_ZCE5jZQUrTIq-gU0c_syEWplp-D-4Ll1Ll2Ij5vcK8",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105183437402499292082\">Janice</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "xyzpiggywigsxyz",
+      "rating": 5,
+      "text": "Wonderful dining experience with outstanding hospitality and delicious food. The staff are so friendly and personable whilst maintaining a professional level of service and the style of food really emphasises the qualities of each ingredient. Watching the preparation is also a fascinating and makes this a really fun evening. We also enjoyed having a tea pairing option (must be ordered in advance) which complemented the food really well.",
+      "time": 1759989014,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Shuangcen Lyu",
+      "rating": 5,
+      "text": "We had an amazing Omakase experience here! The ingredients were super fresh and everything tasted delicious. There were 20 courses in total, so we were really full by the end. The chef was not only skilled but also very friendly (and good-looking!). Highly recommended!",
+      "time": 1750517727,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Luiza Darie",
+      "rating": 5,
+      "text": "Incredible omakase experience! The best in London for us and it took us right back to some great places we experienced in Japan. The chefs were so amazing and so was the rest of the staff and the courses were fantastic. It felt very intimate and special.",
+      "time": 1758884913,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "SW",
+      "rating": 5,
+      "text": "One of the best omakase experiences I’ve had in London.\n\nThe dry-aged fish like tuna and brill were incredibly flavorful, and the balance with the rice was perfect. The eel tempura handroll was a highlight - crispy, rich, and comforting.\n\nI also loved the refreshing touches throughout the meal, like the basil lemonade shaved ice and the pink prawn with sweetcorn.\n\nThe desserts (coffee panna cotta and warabi mochi) wrapped it all up beautifully. The chefs were warm, thoughtful, and made the experience feel very personal. Highly recommend for a special night out.",
+      "time": 1755466506,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Emily",
+      "rating": 5,
+      "text": "The entire experience was a perfect 10 out of 10. From the exquisite food to the impeccable service—and the genuine smiles on the chefs’ faces—every detail was thoughtfully executed. The setting is wonderfully intimate, accommodating no more than 10 guests per evening, which makes the omakase experience feel truly personal. I thoroughly enjoyed every moment.",
+      "time": 1751486834,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:27.077Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUkU7K0FdkgRfVvyQBXwWAI"
+}

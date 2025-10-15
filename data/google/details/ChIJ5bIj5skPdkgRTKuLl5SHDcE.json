@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ5bIj5skPdkgRTKuLl5SHDcE",
+  "name": "Chet's",
+  "formatted_address": "65 Shepherd's Bush Grn, London W12 8QE, UK",
+  "vicinity": "Union House Shepherds Bush Green, 65 Shepherd's Bush Grn, London",
+  "rating": 4.4,
+  "user_ratings_total": 561,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5047417,
+      "lng": -0.2248481
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5060388302915,
+        "lng": -0.223338819708498
+      },
+      "southwest": {
+        "lat": 51.5033408697085,
+        "lng": -0.226036780291502
+      }
+    }
+  },
+  "lat": 51.5047417,
+  "lng": -0.2248481,
+  "formatted_phone_number": "020 3540 3150",
+  "international_phone_number": "+44 20 3540 3150",
+  "website": "https://www.chetsrestaurant.co.uk/?utm_source=google&utm_medium=local&utm_campaign=restaurant-chets",
+  "url": "https://maps.google.com/?cid=13910923896284752716",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fFrp0EA5uOQLOq8omg1E5t-GnVg-niNY0gHKCspv6oEcts1IGXB6DAlW0xlp2j43peimy-52d3DQa8V8-5ES-Z6x2pAl3n7zTyAEzt3QC7xlFkRyUr86Obc5ocIi9hY5LktYhvERXZLdBoKpV5RHmHCOcNWmtIsypNR2uqWNJfFlPKGIWVaU6EXMfjdtlOFE6Hvz5wNszZqgeI3Xl3gGrGkOwA17yqfzZbDQQ3G-hcbZ70lxxiB1NNGmRkQ3FsT4ZPTURgL8smmS3hCXl0B-H4IBVb4FCycge4hmHDSk3ePw",
+      "width": 2000,
+      "height": 1333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102829032093978547901\">Chet&#39;s</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drRflx6Bu4ZUXqdP2kAvZImgOeZoTeAk_nAHC0vIigrhfNjxZxAOVnlLBv5fw5bBws1rEKUfQolGHk8H9OmUWEIK1BZ_1o7GzW5XOWE5AlR0o4V2VHssaW8uSrMtbKmGLeAdCdOwPfwOUzl2yWhsriss23eSGA2LcTGlxh8DpVjZ9nhr_t18JYJ0orPVap1p959JbxdYy3V49DuGp3ghJgZDJ3s65fclxfnGeSk0Y36ZPIm2iK-2qz3TjXHWC2ipYQKNWzPSVl9BJxkhQHriAbyKszOP18PfhnnsCuafG0pw",
+      "width": 1907,
+      "height": 1075,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102829032093978547901\">Chet&#39;s</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dV8QkkmZ-KaEILuE3tPfyae2R9nooq-Zx_S06sjF1H79VWefEqJpR_r4-4YayVxGyFD3B_NZ_e-GrLS-fXwutMWfURE-HDc30XluEL3fBjxe-a8BpSLlouORKHtt0599WABNZktiOwVQ_7mdRlk6zNfCSbngGzepsKaBItQAKN8RU51Wy93PcC8LEmd12O7BrjkhEog0P-jmqrolycNPo88zabuhcuGpUGN-1x4RNnBvAQqqVwi8WCYcMZA-tjM1-bB2Hu_leobaidsyrR2JjxuguIERdH7WCk-5Qdd2fR6x2rGbnQjcAm7li9yDwmFXXkVEK5vG2QjTd3jVgqohifVUSh-O3aJa2aP1jxTtt1IVQAqUzfcp5po8L-gyHcXJ5Rt6RVb_ilW4hhpp8Yd2ZfcLIh8cp8TI7_G5aBt4FbsmpR0_rTudyQP7611w",
+      "width": 1320,
+      "height": 1703,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108191576685616127396\">Cristi Braisteanu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fvliN_Cngzm82hj64vsgiaemxrM6YDqB0gquMdCdZEbH4TktM-z_hFvLVceXjtAR1j_EaQ2-uMLL4ZzpCpLUz02gvkzZg69kdfPnQ2mvTB7VH3QHt-ueYgUjCqsGNTWBu8mVQlINNTirnMmSFNnvVNps8lqqoBW90AW0Us1AI6orxuwuLJPvHtKv-EZ5fJ-G4ZEqBq6oCc3PMKHuCn7eBNcGqN7znf2yKqRwVjzV-7-oo9CUDSuImrFVo_l9CFw9oDlj03tbgdac2JH8mlkzamXTYpasgd_4UFp5523FOEv6ORJHN92QVxDJ5E0sqkcFCOKEt7eiGZY3WO2PqIrV44NRZ0ZzWqLCCW6tNdhWyz5zX7SXvWWRh0kXkb-L71AV8b_en8lItyQB1W2PPblaCJ6Rm-OA5OOfEFXjIXtd0IQdzb",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113166343779466522643\">SL</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cMLMNj5MCh9rE3TH-pG1-hZfvTtXhAznPVHQ8FCndVCQrfTk2nL4obnIuaiE2rmsR5gqdUe-3s3nbXINrPDwdFweaP-wQgmnBiquRTc5xVZabgKXAUod2BGo9qamdvAI07Azbi46mtTYX1Tw2y2f9HQ8CU-VLcQidqheHK_m0h4OVtgkVGFXJKuI0geYFwDjTB2RC8uulO2IB4HB4oqCaLO3aYyOxibRdqq6qXIxlarr_AUleRe-58eAoS_m9uGTqaFZQbbZgI5bdFrztjxW88-n2P17jGkLwamC9YsQNOr80dzwprUvZW2sHLDWppE3kaGF8GQaqw_gN9F4TL3ialZqdkmJKL3gEPC_3t8vWFm9qaTU_arWLkfoL5PwFQkium5OlpbRSfN6jw8hbLyeacwPHo9-mbi0fWVZyRWA-eajGHuYARZf12uuuoIWXA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117664940813051584629\">Matthew Lockwood</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUnioQWyQ2c-4sq9A70q5sFHRyjvdT1C1ijc8VyJ0nbERTMXBAZCSi7iekfWw1k2LNa-gpyZU3Z6fNhQjN0H1NzKo_tPRHnEdqv1SAiSZM3Y5FDMY9pXb5OYiyXUwn1e_oR0E2y6QdNdmg5dHBNgC5B8MV_uEReicXdsxQ4PijHsNv9WqfFcsI9fXSFxvkdUHqkCAjkXdDhdztKqdnLiJ0eVDG1gy34i1saNXd9j2K5fHqN9mxzRNaH1DBSzstXEnR7YjbiVB3Be-qWQW4IkbPYTp-ZHxBj_Tlrf9zTb4Cd8hJNyvfgKP3d0lma9KcWHABwNm5MohDx6zQBRhpaYe8EN0-S11b2ux4GMItiJvDDDyOrpi3cYG6aAG61ZjTjYnAJLP3alCAFkaIVUIwcrqHIN0N6CF53t6j7IUiQnXOeQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106523724283387910954\">Tian Zi See</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c7hS-vjN1NvVWyAmiG-12WyBGgRRgjdEZEqckgoW_p701lwKe5xlZjOJErf57PsLUZSySAMJzM1-DSMQLiVXonkGhI-v_QxcxXAwpIvcBWt9KszadbwbRXpgb82eBec8WRuxQCa0MGG8nMf8iE3U_vxudNS4_fmwBRzhjyemRczYwlV662PMJlehT87meqU0VTBdRUT1FflQ1G_jZfFQToRDMVLmyGeV_HgtwqFbtK3OA9mjMENwfa74FyyVDunrgJI9BRM93H3egriNHe-10lFLkJsQOZpuK9mgHy-c4gf7pKJKswRv6yYJTuyj1RuXiZ93yvaSWVbOYX4cxdKld9Cc4JofFJ-arYBLqcBTf_c2Bd2sRQ2HVOiz5uCfXhftzYAds1eShUSH5EEoByoiWjhEt6V0aKtcbRkWT3ZJEipw",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113847119875674289300\">Marta D</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cm3T_QQZFlR1cHGC5SAIFa0gM9C8D5qhZ8hAKH6asGmLM9KWO8yfYSftk3VJ3cDvpm8qBnDjGHsOBL4bz0r1myXKGamK3DX1RUj_U8ad5b4R9ZOhEzmdgzctBd-LCiV6hDHaSo7D3oIBM4WyxFJphZzLx0V_u-xBIaznIN-bX21YuJNV5dKw2CSVMNId1_ek9sicb-xSMA5rIZWHJAmKCLYLUP2kalZ2PyI2sIMiwrVVtQU8myPj0zIaSCeuoELwMjrI3lAbRLKK6uizQUPtObPOJElELg9gzAxHjR4XN3jut3zXOczsC1VaXTBAW_b37DV-5ITZyzBAWddNxih5zkupLcC8YFPV7micmkBi1zUWjvylGyaFhlYuFUtcCyPDqum1MbTYReBaZgmRAA-A1JvSygJfTxOZ202aczx2IRuF1e",
+      "width": 4284,
+      "height": 3601,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101336107021735017425\">Azina Richards</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cMnLhrutHZmMm-iwtPS2RxjrCkMGBz84qzzbl3WKgeF4lls6NrtHpHvkn-jlk-5RJSjxvJShVyZ5t0VXJ3NderZyBQ7U6vgCHFizE-CLPCUdkTCKxjnfu3TlmalwAWDcMrVy0kVfi9qdgsecg0hb4VkHi2rw0sE7aNz_Ow2-84cbgFdZWdr5L30cvCX4dm5QuowzOJtCVSyf8iJN6ZTQFZ1Y7MACOyzZDzefkIJ2xo7XOld-sN-J5V5N2AtFGjdxvPzUGqW1udzIFgWxL3zPfEwdnJZxjHQise_iGSJPpvycWm-FqdA8aWEtCS1Z1VbSMokfbRm63xjsA4pDWiqHQCzOnPn3cAx-MheM5N5_neIS3aG0CSYzRsP9Al6yN7mBZIki2ExI0ToTEDfbqIgdR8R8dgsSXUzYOQ2fZc7RB1HnUj",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110601071378744979539\">Tsai Ling yang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvhloSKx8NCav7X63D2sNuzuEcToyk5Yux_Hfn8GBUIlcIHZNplSwUpOa6FQ5ufAnl_h6BbFwwXo1EDnGvEkqAUubkQVzFdOnfBYgbkqigxsS_gz7l8YgZoh3TOG-Pt9pL9tGr4bfWoHzxPKmqv20JLxVkPHBGz9NJAsVNcYKYl6L3NutiZF4PNJd3E-uz2y56RiFUSylapa-q9Moc4waZlGBTnn_MFisAeMl0D7lPresXJD57pX0qwSeESKWDXqzusLfcIrOOuJanLgEnq6Qm1TQMZVQBObyublxfBSX_LaUfbfqlW3feSjzet1x7-c5enfFCDqyIMrt20yJCcH49_KGJ9UEGqXrE5uou76yH_MMC9pLMgJo1bhPcHAL3mX5BeCcGomQpSxjpCuMKn1DDN-cMuTLhkT8aeWgiN3gR2Q",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113166343779466522643\">SL</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Kate Zheng",
+      "rating": 5,
+      "text": "I visited for both breakfast and lunch. The restaurant is located toward the middle of the building on the ground, but it's filled with natural light and has a bright, welcoming atmosphere. There are various types of seating, and if it's not too crowded, the staff will kindly let you choose the kind of seat you prefer, which makes the experience even more pleasant.\nEveryone from the reception to the servers was polite and warm, and I truly appreciated the thoughtful and graceful service. Every dish I tried was carefully crafted and absolutely delicious. This is definitely a place I'd love to visit again.",
+      "time": 1752500858,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Kenelynn Wong",
+      "rating": 5,
+      "text": "We had prawn toast, pineapple fried rice, pork ribs and coconut yellow curry hake fish clams - they were all absolutely banging! Wouldn’t miss out on coconut rice & mango and banana roti. Every bite felt like we’re instantly transported back to Asia. The ambiance was cozy & service was great! The staff and the chefs were quite friendly. We will definitely come back to try their other food!",
+      "time": 1756574288,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Andrei Riley",
+      "rating": 5,
+      "text": "I tried Chet’s BBQ pork belly and wagyu fried rice, and I was absolutely blown away! The fried rice was full of flavor due to having so many different components and seasoning, and every bite felt like an incredible, new experience. The pork belly was also very enjoyable and my only complaint was that there wasn’t more of it on the plate! I was also quite surprised by the serving size of the fried rice; it could have easily fed 3! The service was also perfect, my waitress was attentive and helpful throughout (as I had a few questions). Definitely a 5-star experience!",
+      "time": 1753453539,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Kate",
+      "rating": 3,
+      "text": "Great service! Our waiter was very attentive and the food arrived quickly.\n\nWe got the hot chicken burger for £18 which came with chips, and the pineapple fried rice for £23 (which came served in a pineapple)…fun, but not the most practical to eat from!\n\nBoth were tasty, but overpriced in my opinion! They were normal portion sizes, and in my experience, you can order similar items for around £15-18 from other Thai restaurants for similar quality…\n\nSide note, both had lots of coriander mixed in, so tell your waiter if you don’t prefer that!",
+      "time": 1758126204,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "john giannopoulos",
+      "rating": 5,
+      "text": "Great venue with delicious food and next level service. We came here for the tingling onion and famous smash burger. Based on a review we watched.\nWe weren't disappointed, in fact we loved the food so much & the service stood out so we're reviewing it ourselves.\nWhy is it the only place in London serving the whole onion this way? Whatever, Chet's do it and do it well. That smash burger, with coriander and green chilly was juicy and delicious! Highly recommended.\nDanny and Vikram have earned a shout out as they did everything to make us feel welcome & enjoy our meal.",
+      "time": 1753374943,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:38.610Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bIj5skPdkgRTKuLl5SHDcE"
+}

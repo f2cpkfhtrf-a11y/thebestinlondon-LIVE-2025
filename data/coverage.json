@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-10-15T10:57:28.182Z",
+  "coverage": {
+    "google_rating": 459,
+    "fsa_rating": 1,
+    "fsa_coverage_pct": "0.2%",
+    "photos": 459,
+    "website": 447,
+    "phone": 389,
+    "opening_hours": 457
+  },
+  "totalVenues": 459,
+  "byCategory": [
+    {
+      "category": "cafe",
+      "count": 79
+    },
+    {
+      "category": "bar",
+      "count": 155
+    },
+    {
+      "category": "restaurant",
+      "count": 407
+    },
+    {
+      "category": "fine-dining",
+      "count": 73
+    },
+    {
+      "category": "bakery",
+      "count": 25
+    },
+    {
+      "category": "brunch",
+      "count": 7
+    },
+    {
+      "category": "rooftop",
+      "count": 10
+    }
+  ],
+  "byCuisine": [
+    {
+      "cuisine": "international",
+      "count": 419
+    },
+    {
+      "cuisine": "indian",
+      "count": 2
+    },
+    {
+      "cuisine": "italian",
+      "count": 3
+    },
+    {
+      "cuisine": "japanese",
+      "count": 4
+    },
+    {
+      "cuisine": "chinese",
+      "count": 1
+    },
+    {
+      "cuisine": "thai",
+      "count": 6
+    },
+    {
+      "cuisine": "turkish",
+      "count": 3
+    },
+    {
+      "cuisine": "french",
+      "count": 4
+    },
+    {
+      "cuisine": "spanish",
+      "count": 2
+    },
+    {
+      "cuisine": "korean",
+      "count": 7
+    },
+    {
+      "cuisine": "mexican",
+      "count": 6
+    },
+    {
+      "cuisine": "mediterranean",
+      "count": 2
+    },
+    {
+      "cuisine": "british",
+      "count": 1
+    }
+  ],
+  "byBorough": [
+    {
+      "borough": "Central London",
+      "count": 435
+    },
+    {
+      "borough": "Southwark",
+      "count": 3
+    },
+    {
+      "borough": "Westminster",
+      "count": 4
+    },
+    {
+      "borough": "Hackney",
+      "count": 6
+    },
+    {
+      "borough": "Tower Hamlets",
+      "count": 2
+    },
+    {
+      "borough": "Camden",
+      "count": 7
+    },
+    {
+      "borough": "Newham",
+      "count": 1
+    },
+    {
+      "borough": "Kensington and Chelsea",
+      "count": 1
+    }
+  ]
+}

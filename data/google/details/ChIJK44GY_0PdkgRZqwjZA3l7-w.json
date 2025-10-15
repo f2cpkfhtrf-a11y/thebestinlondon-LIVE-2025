@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJK44GY_0PdkgRZqwjZA3l7-w",
+  "name": "Granger and Co. Notting Hill",
+  "formatted_address": "175 Westbourne Grove, London W11 2SB, UK",
+  "vicinity": "175 Westbourne Grove, London",
+  "rating": 4.4,
+  "user_ratings_total": 3284,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5145986,
+      "lng": -0.1977545
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5160059802915,
+        "lng": -0.196427469708498
+      },
+      "southwest": {
+        "lat": 51.5133080197085,
+        "lng": -0.199125430291502
+      }
+    }
+  },
+  "lat": 51.5145986,
+  "lng": -0.1977545,
+  "formatted_phone_number": "020 7229 9111",
+  "international_phone_number": "+44 20 7229 9111",
+  "website": "http://www.grangerandco.com/",
+  "url": "https://maps.google.com/?cid=17073116558062234726",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ccBjzPVJvN5qkUBStts_vXOxDFPDjJToBg6sFYGCT7gqLY-u_XT8L-UnYgJO_QjaqNCCPpRD7jlbgqCXykKGBqpHPn1HqvC_9vfXQI9eA8Gj-uUQf3z2Ehd9eyHIoUfmZJSlO1vFlLBWtyRUeiGPUWBIFQvUCfpENQ-e5IISOgBXdU05XfkEQtAqjRvBfL--pu09zvDQUrWHPYngBibdqHFfNB7aV0g1x5iX55bDmQ6cSeFXNiQBrcxjBM0C5uze7kys3TBnuyTnVaoIkIs9AtZAV1ZEgaLLThPBDDUqjRIQ",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114983640196560494746\">Granger and Co. Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fmFTgDoy810B8GEhsBzedxq7AomGOnk_brbLUQCgx2ug3BRrRuP63hEe2THsRumGF3kb9ySBL7cYT6PZGl4iy9S7WBO0Ps2SVpeHD-y5hju5JRrvb3dbGZ0_l2K4IDbJgKxXJKp8IabPkNwNe1VkMeT_GGDVABVAaGhMksaOBGcinhUTiQK779IkuR5G8nrsz1F8GIOcP0I5gGz3aeo_QQrYwOJWI0aZEWGLj84iN5KnoCpu59DXnzzGsT6FLbQtmSy8yklOAU9WPAadJkQWBAiQKvCr7TGJ7UJXxqGRzTTTssWM-78aAhQShwN7tPECmMiLZeSRChXcOQfvnUyddho1Y7pCjeac2LhpxdI6I5O3cDCtVPSXtJfGVe-obaIwLydaF19TRnXyX_yXSXRt-TUvq9t43Kp7wGgSvC1xGlAZ0",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115448799280607591007\">M. Clement</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dYtkbjwuFqvKWtC2cQhrnDSQQICATlvvXRTQWFr20054SGts8ameEy5uZxESs79Gp55l1wAT5lI3GCLVod9vYyZC39rIaHhEaj-uXy9PDtgv_t76Ow4GzJOIzpjkr9dJHujvQ_DmKN1g0fC7Hm5gPWJUsobZCOWurHvM5PQGTQAHBQXyvGwMgqVDbTw8ZWdCnifkyGFYXVh13ZmRAfEE-Q0pSfBczemyGjNfflFSERfz7nXjJMJdeYWdVQ8rmbLSbogaqp4RbOURQ0VnaqBCr99KJEfBKAid4vkdE0mBRGqa085tuqju2pqMZw7XhBjSA6Of6GQlgWlucB3y069ph4ytLrJeXP05_KG-u_UHL4b6Ambu6ZSvGAcKBTvrU-eVcZQYkJQz8Gp6gc3ZyxcpzaUg1aETLhZwiZmXGSQDN3jqoqONgbxb_ks8F257km",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101192757240663655424\">Susana Arias Paredes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eAAtGzftbT625nQeHQZHwW1WtyRnF09OiQpcOBsvLWcT8DYcDIhlxYJl3M6oCvLeROgvZtFwVgAiFAuxqJoQMbiGlIEPXHTmS7XC5z3qqmIVcY6Tue4F4pURJ8LxRQANGWCwVhzqfjtOKW1NGF6YEazrUEevEjqmeaMmNEQZ-UV4Z-1Rt3TILkpVZLoFGpIVS_JL-fHmB8zbT4LuP4DCWW5Z62dkTVXudoo5V_R5EPEHLhjLa_ZQR-By3ON9_-VSdfZQftSkItJTYTjNadpCaRgCLITuMxDyrTLEdRjC6imnkzhe_reij2EHpEo67o-mHjqCYVK31UGTrFBIN1nLdq6WLOzdEn5Nm2wd7_lv_NX1iD9F-XQSElGNo7xS68FF8Zb7j56pWqG6azJVXh7np_ORUSv2WnmuIiJJtB0tv4MVLc",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111310697746660588033\">Andrew S</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ePmu8jpTiH0PQeHPQGy-PusqPvskX6Sc6qvfhx5_5oqA5AjDrRftGqSNFPWvhVm-pSqrgu_CXHuEXADUkmvnzGXcwZe_MKH8Sv-e-YP2seShNEjRIJBsVFKyDboNpw8sle1ofP7Wm0dG5jkiWcOWkFBOX0rT3MAhO3Cs7BNjpd-BSF1Rw6Q-2pkCXb_1oAmzXuMsvurSg1OTmGrFDtnfbz2fGY-i0EyIBGJzCJ4pZvnPblF8mkEgwq20wYwMkVoGpmBxuozrLc0QAvRH8mpUQzs-ktlc-3N3xCAA3WiTKAikIpcX6UslYjI4HGYP1_1W73tC47xMzBft_7PDgmeNtg1wFpkx3K4UK1qFMHBTML_fZRcdXh41l9zkktYsiRkjUIu6I9vX4nWwD-2wX3DixWE8pf8BQRhy0gsnNaacFEjw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117604823772646640971\">Berrin E</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d8ax7ceig7scjvFLdpc7pASbSmYbC1-p4u0lFVGguXuNWbQEsqDyW7YSs0CiR-9nV0IlAQv7q1JtOykH6dir2VBkDyPCYD6Pvzs8aVyO0qeJxK1uqRMsVs3N4-Cb84m6Tg1O_tCm5MrVuX9iVX5XrfZorzn0alsGgnMoVmleviak1iKt1AINhx21UykkVZw3o4Q_lAbbgAZF_dgAcqZZuCan3rRzb9hUFb1hklhaqaV7FG5Wh6ezvnhYK9sO3IW2G8YGRqEetcISODfwSUUmjEE2vT-XxN7FcmwufzYK1sEdciA4eTjIXZXSqv8keV_xyEek5OlnaJ2VM9ZXlWLattBhxP8lAhrabnYkTnEM1nolPg4Sdt9WyjbjGWQo-QeUf-WgEn6gvkqLoCHlKr8_eItvsdVN7cAP2gx5BfHXm7fbM",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110725163254542808690\">Michael Watson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHYVwi_pn_aTklqEYfYo6I5CW2skxgxiVJGcTuKKEWms4n8iipPhZlsrU-USMjPXD37mjzfde0pLcrXlupsWJD2VyviBvjSsK445W4g_3cgRnrhTqJpG2tBZBTykRZMBE2pwSSI7XirCqDECqGyO6ye2pb1on4VtC9bT28yG5Ze-KfRK97OZ9tH7Vv2tfZr8o1Oh7A0suHHnxj_7jFSxLPsQqJ5bvCGTUivhvBX5kiev7BjBv74SpLmSARJFHJluiJwFNNQ7hVsKe-h7H5o2m90rT3ONtZNsXqdw1qwVcXySFCpJLk9Ma4igl-chRWKEXiX66jQubz0OFU8paYu4Fs9qdBB4_pykZjF0eAlDULIkBxrEYOIHdOl6-bMBTpJ5tp5g6tjhr4wbKPAErABQZZJJNm-YKl08DjjTeUvjvpf-dg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102548660649692078665\">Marta Marin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMjwLCiL9E__3uY7hCwuCmmQdIJ8Ms46LxkbYnE1mMXyL4K6n68xOqHEKupFbLY_gcc3XkuipU-eC0JqbclsYPAWqwgO193gG6xDvHfA73DzQEH8juQZRJm8WiKdavDfhDgUVI_zk_Ne5Ta6_RlggVr27gklEzojro9kp_W0LYGWQFAQ1LqYfQ-mJ_CyDGL-GIQwMq44WbhGQrQAiq6vmMoS8UXVhE97MlJSvii6omabS5NtJvNYOQ1ObHu8rjd_hDys7YSj38E2ixNw-hfItja8lTwCBVEam3cLzHHbUppf-1FqV5sLT4_BZ2Nzjw9IdyIXz_idM5FTrfMx63izKU-qi1PAKP6DelStpdE27WuMa2o0LWb87aGN-EPnPLpdHJt7zs2MmsdsrZZ_UPJTyHAP5wUsUWgWcyaZrTej_2ESEMkiFRva47-3swuA",
+      "width": 4800,
+      "height": 3932,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101857455184168094819\">Ikem Emelieze</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cBxkVioRlc4GOIYg2Cx4w70Rzs_XUCqR7KCDJ18MPDpgu87_Q6uF6GJzA5bCiIAkir8tNKi_5kB-6JHMncdBvv6HUaNjLrLNCO7yCGUvsA5KBRc-Ec8CSiFFuq3VfjSp0BZJejv3u9YflHKfRM7Nyqs3ylY8xBjPaKGsDCkQOcseZgzQ6olQqlOGBxMrKWU19mSrwCh0WMp2ZDrBuTKZq-Xk-5bAlhrkAvztyDNsaAJxbFdozKjOLbL_xtmKC4rdWzSqd7iuzTi2-lu5WzNSqPgO_xI62iLkQsoQFw1gjt2P4TQo8f5-h5wqVqdCDpRoL0ZCKvJB8YjUUjv9nYNwI6dzNbwuIbW2HIz-a41RbPEMi2SStU72iApl0UI3dmg7Q3y05Y2yncGJeW9X44Q2MBL9tylaHW9HLzPnrecSKxzSQ-",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102797772064208308957\">Σωτηρία Γεωργοτά</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cEwyx-4euCnHAZtJ3yaJkktvW3r2yidoAmvVxIlgBIAQ60DvUpI02HjoXJS9Lx2JZ2Ry5jtt1RZKMy--e5PO3H_hOtOyVwX2S6h8wY6OADhvuJmj6n4NKgUseNICbtCHGExYMiXmC9A8zPNBLBfzWqJbMVXRn1vJ9nylvQpcm0MLk157MfUf8h9ese0_GlWq6PjLw5qp6CwhUBUn-8J-JFujmeVhR2IVPpm_TZV0zRWKcghCFtuAEdXuzSy-mQIsWPTrCAPH2XvdvFVDjSQsKgUm044bOsPyOeOvUH4gjPDbPavezZhKfTwbFjRiC0XQ6QPhAgMOvGvjlDUFRjCISoBthzgw4I20FoCdSe9QQr3a4V1vjWbUu6GGh_hN5wjI6QH-BWFd_HtiQ7XtBd395BQyZKLlQZUEyqFmoC2-1ojw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114632559274730377090\">in yoon</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "International dining with an Aussie accent in airy, no-reservations dining room with large windows.",
+  "reviews": [
+    {
+      "author_name": "Nilvanta Kerai",
+      "rating": 4,
+      "text": "Queue moved quickly and great service.\n\nNice cocktails and lattes. Unfortunately we'd just missed the brunch menu. Ordered the avocado with poached egg on toast which was really well made but simple.",
+      "time": 1755946717,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Elizabeth Jasek",
+      "rating": 5,
+      "text": "Starting the day at Granger & Co. was such a treat. The ricotta hotcakes were the fluffiest things ever.. . absolutely delicious. I dined alone and found the atmosphere so welcoming and enjoyable. A perfect spot for a solo breakfast!",
+      "time": 1759324327,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Susan Al Hinty",
+      "rating": 5,
+      "text": "I had a wonderful breakfast experience at this lovely restaurant. The service was so warm and welcoming ♥️ it truly made my morning. The poached egg was absolutely the most delicious I’ve ever had, perfectly cooked and full of flavor. The pancakes were something special too, so unique and unlike any I’ve tried before. A perfect spot to start the day with a smile ♥️",
+      "time": 1753347611,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Julia",
+      "rating": 5,
+      "text": "We stopped by Granger & Co around 3pm for an afternoon snack and coffee. There was no wait, though the restaurant was lively and buzzing. We ordered a pot of fresh mint tea, a latte, and their famous hotcake. The ricotta hotcakes were incredible—super fluffy, not too sweet or greasy, and perfectly paired with caramelized bananas. Latte was fantastic as well. Service was excellent, with attentive and kind staff. Looking forward to coming back to try more of their dishes!",
+      "time": 1759107529,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Noor Abdeljawad",
+      "rating": 2,
+      "text": "Came here after a long day to sit & enjoy some delicious looking food (website). Upon arrival, seating was tight so they offered to seat us outdoors which was appreciated. They took our drink order and by the time the drinks & water came, we were ready to order. The table water was brought in a pitcher with 2 small cups, they filled them halfway which I was okay with thinking they'd leave the pitcher but that wasn't the case. This was also the last time we were served water. We promptly ordered and the food arrived relatively quickly. I asked for a condiment for my fries. The burger had a great flavor but the bun was either old or completely over toasted. So much so that it overtook the burger flavor which was a shame. The fries were not what I'd expect from a restaurant. I'm sure the side condiments would've helped had I received them before the entirety of my meal was completed. We also never saw another server again before having to go inside and ask for the ticket. The server apologized repeatedly for \"forgetting they had tables outside\" but didn't offer to make anything better. I'm not too terribly sure how they forget there are outdoor tables when they have very large windows at the front of the restaurant offering a view. All in all, unfortunately, I wouldn't return and would be hard pressed to recommend the experience to others.",
+      "time": 1751619512,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:59.491Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK44GY_0PdkgRZqwjZA3l7-w"
+}

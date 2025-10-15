@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJh5lhnZ0CdkgRnB2-YmI3IMk",
+  "name": "Midpoint Restaurant",
+  "formatted_address": "3, Anchor Iron Wharf, Ballast Quay, London SE10 9GL, UK",
+  "vicinity": "3, Anchor Iron Wharf, Ballast Quay, London",
+  "rating": 4.5,
+  "user_ratings_total": 1637,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.48610919999999,
+      "lng": -0.000795
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4874454302915,
+        "lng": 0.0004310802915020303
+      },
+      "southwest": {
+        "lat": 51.4847474697085,
+        "lng": -0.00226688029150203
+      }
+    }
+  },
+  "lat": 51.48610919999999,
+  "lng": -0.000795,
+  "formatted_phone_number": "020 8293 0377",
+  "international_phone_number": "+44 20 8293 0377",
+  "website": "https://www.midpointrestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=14492644496581205404",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 10:00 AM – 11:00 PM",
+      "Tuesday: 10:00 AM – 11:00 PM",
+      "Wednesday: 10:00 AM – 11:00 PM",
+      "Thursday: 10:00 AM – 11:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fl3sG_4Eg-vfsAnoM-AKG4hzzBKLw3N2GD5asEpMHl_RMbx3Llv9shNcR6qP1oLu2z8xJFHQCF-EpxG5iHJYeSQvNP6ck8voRyMsDNrihyi8NtrE5yxYfXo_Kn74ennEEyMw2-_uv2Mpo3q6neyDAMUPYhUeBjBVrhWQ5p6u869GW8-t5oCM6xXP8vaHvFXQR-t2tBmuYQsKG-PXixvS6U9jb2JafatJCPQYAFEqOxL9CGcLRL6w7-kk5KvasfJz-fgLP5hW215JHLLLPtSCw9b-RgFhUkNXfDuz2l-TgvWg",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102908334023752277377\">Midpoint Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBNuOK_KUKXGI6n4AgeVzDdrOvGlW5yEvncf1or2HMT2EofUNXZTu4JshNguPUxZRveoqHYDyARPzBliCmEUe-ZAy5rT_9ho-FjZxLM6HFZsyIesmYS9dyJNVbdtUaP6oQdCloS3EQg7_aYa9L8hI514P50Z7geviE9TgBxPWfEPBZo-QaiRoqK4xHL956Ingubg0zQ1ySaDuxNIykVLCZ5LTGdcjMY9r5WiybK-RMsaOlOhg5tXCHhNoZLBOP-_Ccn8oJK8AysWM51esEYrb5coOa6tAIvk-rwfUMESS1qQ",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102908334023752277377\">Midpoint Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dktXsZHdt7NO2smvS7cZoxb8J6qLoQ-X-Xs23MzlSotFdWMzNzeM5ieIayx45R295DsAcxtecqrw-r52Yk0wppohh-Epmw35Wz5s5Df0of_7JPDl4UYqG_9jI1Qg0_MiU9po8TnjzYgrTORIVOPEO7QT53suhymeX8aIO5peaoldxi0mxhrdP7lmURrrNZ__2JmWP3q2uqGYdF1r_pPNNhdgCd6xQpaU5t0-Lc7zykH9YxTR8yRlqFes0iF0q-GnYKj5C5GrgbIJsdRh8ebYf9Q0bskhsptvzHbn46FM2DIQ",
+      "width": 3072,
+      "height": 4608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102908334023752277377\">Midpoint Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clBB7CL29KkjQgI_W0aXpK_0HwqZ60Xcuv484KoBJQ_3LXF95Gy6t57hbGBCsfZ4Hjkm6Q0gSUJ5pSUKOvWwDjU88BepxNbVnQxxET__OAhveX-d0n2Sw05IR-iJrnEjLSJFxwZIPuAo2BC38vJnCYLPazSdH5_fITQhIqYL1yMZ1fF64VENLk50thZKm_LQU2HmHP4sXmKZ8o6UtOFrlV_KJ8NIYDdVX5935bydNnZsOmE1OLluDG9d-HVSrZHoyq2TmrvbsmGF10DNgWPRsJjSdSrol-Zom3ewQJm48FkG9YJGaI7Z4-qN-KQ26MH5kPD9A43av691bdJljKESZkYbv4njBLJoxhVt6KveQrqOnFog_AHO88IAEyhD52VPluV954gHn3SBucKafDXRZQZHeCrkG3oSo3kt98JBcU30A6SNIPSVBQtaBlaOuQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115003373504666000315\">Claire O&#39;Regan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eiNTAHw_C8uJfNguT52n6bPMxNN1c9F1c9EtRP3GFu95vy_ttBCkGT1L4Y_lPJQS4sHxUckLNWPVKge8Sv__zvpK6taTx_DzcFmHNC96HwI3BujBmmrwKcOxYqanP9cl02vVkVEaK7i2NqWJQZRSVLVdks_Zw0x5I49QhagNe3CD0mF0CtHWv_RAOpRMtYUtsXEXfVVB0LAK2LgjNFOZZLndGcGo83-VBT_x_rjGI22ob_mPEy7ggYCnHZfpSioJ7pLRY-4npwmXTxd_6BB_9Iv-hrxp51YN184xCzbviiWg",
+      "width": 3072,
+      "height": 4608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102908334023752277377\">Midpoint Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f7zdFU6AMcT88X6hA6thzeFf5eP2TB8sjDtkKcr9Iv8PwzUSuytmpBge7Lp3A-N-LdC_zEfryAz2_odrntxJAwjCQSXjC854gzSEmlDIpA9fpkb16LLqlN5byd_DRfaV2Q6Q5pi-ukRpP2wIBNCy_54s71_biOK4i8e1ke4lD9YUss087NMAxpKrSH3AKzO7IcVbCqPddO3jeewnSZx4zDxbVlzRiJffW9XLHMRNF4m9b7wlDvccp0pgcLpwK46S8H6qLnLsAaBqDQjI2JL1PObA95xMEV8ftRHWmkIvtqo75luaVxwN0Gp2LW-xaxNmo7jH_kRf5CtbVK6zfxV7nTK7iXIH-auLBw2H1qb-GcpjJds4lPau87JwxB4RZqmRNuiGsPcxOdj0QRl0lfqRx92ipONc0OluBkhCk_How_1w",
+      "width": 4624,
+      "height": 2604,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105993914001809834975\">Fina Agudo Royo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fTkRuxQSP8BWj07indO5aR-GwgEhOQx9x8yPCQlyBeEoKCcnl-aGPU_1X72vG-Oa1fxe3ROrxLrOrtZdIThLMlDjLNjKBTuqHpS6I1VxwXZDk8lx03N-x7AqiKaDRXFEZ9wpK2MDajUXRah7pqpW5QBCQN5lfsJCzPRS3lZ8zYyBKNY3RlgJ3_1rrE3Yvk4oHr-GYTFkgsF5ckDgSMWTfaaCLZOLMVQ_YGz7baSDkXaaJbTIiBX0FT4n-2VeOAy29zM2ojZX-ZqCrtNTwPDYQaBLuEs94pSMsoOWs3kODWjfvlV1W_dE9ODCW2NQn_zxP4M2Hzb6tz07uvXDdgRYLcTfSZJHvvYx2wuDH1Sj5s7F5WvOgb5TdfKlt0Q5KETnW4uQ002gxXRWhyobZyq5P1F7__kuSTukUNAOwmSy4",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100134802044175849143\">Emrah Bayir</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cM9kxdU-wmExNBIFTGxb_P5DDBwVhJk1lIXW1k5WS9pvS3vgr8g6EqxLMHDethc8N506Z-NJDZ57kuN3NFLnm0zDo-8R0cF856W_cj9alF1eM54yaNU_v1oLdBysj_Vn0w_jjtML596B6--3iXnBTqvTpaLtwjA3CmN-I9prSD8Wy80mS6Sx68ACpELyQJpilkaNmMNbHNpemWfkdYhlMOiWVULmvJf-YVKonmN3giPMs29kdESYdzpMrLCCBJBwjQNRlOlixMDJLJBkzr7MZndePn1eOBS6WCyYS4f0LVPQ",
+      "width": 4800,
+      "height": 2701,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102908334023752277377\">Midpoint Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2evlTm2upvicSmiugrewLr9CsCFsCDoLFyWHDxOwZv6G3kd9jYNxbimxFPG3i4Rg1oJSycR2ki763qXe53XjeM6UYCmRJjfnPFKmhkmOVMFJoFJsRyizBtRqqBFsCiwn8rq6kJRA9UP0IOEzxlH_Bud2-DM2c7vZNYeeewiJcGMjzSdX-qFeYxjKJd1GmI2ZkW8DP-i1aeiaJtWmG6GEwUDfGXswZhwU6OPlUq9eX6TRAdanLDAlE3uRBnmDUPZaWnImyjNM-7jjNX4az2DVZmh3FnDFcGvTFy2NuK4s7IukJ2jMpKdyN01gy3sjF8bEllgDjLfHb235nVRT37RLwB-C4skz0FbGIep64MkNp2fGdrC7tqPGkHmNcsaFIiRHHxFaonKe9tKS4MCZnAzHug_t_5u0DqdKfMpm8UeLI0woZv0",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114123358986543341368\">Izabela Paszkowska</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMQXKp_r9PQdwoJ6o1DsGVWhmPeAf8QauS09KxoMA1W44pe1pDEgD7VvDapkYxlZNnxuAIWu4_fbJDhoc4_8IiXnydZRsEtn13HOGGJHmDTq-zrvRfFIw2ITZ2f_4Z05ai1V_6fjv-z_vXT5FM4p542t4yUh3bQ0Tok7i5v_gRv2sL-BxIbtpo7BFI1kUp43CxPl2kO2S7KvyZmvtKT32GkFy7n5LKW_ymO2RC74ibuNr1sbGC1GLZysgPK7qwr48e0cTOslC67wURhkjF2AzvuPicDLxePcueuAWvAlNX3bG1-vyMLVWz_aUtBHiZACwCGOUiMZ_Blq1oF1t9YqEkLifNzACc1eEqr20vGI_EWGvk0r05gncM6ARZeCndPyCdPRrdlM004NWatCMY5XUtVAMp94cy9KyYc-8scT3ZbA",
+      "width": 2688,
+      "height": 1512,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117893191753075254535\">Godfrey Oguike</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "A menu featuring classic Turkish cuisine & drinks in modern, rustic setting with hanging plants.",
+  "reviews": [
+    {
+      "author_name": "Hansa Sutcu",
+      "rating": 5,
+      "text": "We visited a Turkish restaurant by the Thames in Greenwich. The food was very tasty, and the portion sizes were just right. The presentation was nice, and everything was fresh and well-cooked. The staff were friendly and gave great service.\n\nWe had our meal in the garden. It was beautiful and peaceful. There are special flowers in every season, and everything is very well cared for. We asked the owner, and he said his father takes care of the garden as a hobby. It was a lovely experience.",
+      "time": 1754276492,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Cara Ibrahim",
+      "rating": 5,
+      "text": "The restaurant has a nice view on the river as you approach it, the staff is friendly, quick and helpful. They have great portion sizes. I ordered the mixed kebab and sigama boregi which where all very lush, I like that the borek came with some chilli jam and the salad that came w the kebab had pomegranata which was refreshing. Cocktails are great too here, not too strong but also not a faint taste. Honestly, no complaints and I'd 100% return here.",
+      "time": 1759693996,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Fauzia Khan",
+      "rating": 4,
+      "text": "This place is set in a lovely location by the river. The decor is appealing and the seating is well planned. All staff are immaculately dressed. Went with some friends and we ordered the Turkish breakfast. The waiter took time to listen to our orders and requirements. The food didn’t take too long to come and was presented beautifully. The only thing that I would say could be improved were the eggs. I asked for runny yolks, not snotty, but they came overcooked. That’s the only thing I would say needed improvement. Nice low level of music in the background so you don’t have to talk loudly at all. Overall, a lovely experience.",
+      "time": 1756323609,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Freya Berry",
+      "rating": 5,
+      "text": "Really happy with our experience today! We went for a late lunch (3pm) and the staff were really friendly, food was amazing and it was a great atmosphere. We ordered sharing platters of mezes and mixed grill and it was was delicious. The chicken shish was amazing. Cocktails were great too. Can't fault it; eager to go back. Thanks Team Midpoint!",
+      "time": 1759608436,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Adnan Ahmed",
+      "rating": 5,
+      "text": "Lovely Turkish brunch...\n\nGreat restaurant with lots of seating and can accommodate large groups.\n\nBreakfast / brunch menu was amazing. The Turkish breakfast for 2 had more than enough food, could easily feed 3.\n\nPlus, the menu has something for everyone.\n\nHighly recommend.",
+      "time": 1752926220,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:45.210Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5lhnZ0CdkgRnB2-YmI3IMk"
+}

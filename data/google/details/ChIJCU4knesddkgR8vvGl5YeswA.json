@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJCU4knesddkgR8vvGl5YeswA",
+  "name": "Güneş Restaurant",
+  "formatted_address": "328 Hoe St, London E17 9PX, UK",
+  "vicinity": "The Pavilion, 328 Hoe St, London",
+  "rating": 4.7,
+  "user_ratings_total": 2312,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5808692,
+      "lng": -0.0186202
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5822128302915,
+        "lng": -0.01715436970849797
+      },
+      "southwest": {
+        "lat": 51.5795148697085,
+        "lng": -0.01985233029150203
+      }
+    }
+  },
+  "lat": 51.5808692,
+  "lng": -0.0186202,
+  "formatted_phone_number": "020 8521 6789",
+  "international_phone_number": "+44 20 8521 6789",
+  "website": "https://www.gunesrestaurant.uk/",
+  "url": "https://maps.google.com/?cid=50417652971535346",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dDr7rgAIZQvFcQV70pH3Qs9gSVAk6agbTY1niwVRfPd6ap5Qbi6gDkA6dUwWUe4tGf6xQH8W63CYwjos18RnisLu0cOyyfJcI6PEkoQdOkJrBKMV5I4OGhGN6yoWQsgCmufcPXxJJDjipLTW69fKU-wBtJXfGIFT01XZ6P9IUanXXc1aRSjaVULkKAlXTPczzP7kjoSwzTBw9RWuc2BCsDd9EbLpJUFLhAE4UjtolKkKzSrKKeqmtjiZtOh3BhOB8zTfCc5odMNXrwaKjO5CpYk_yljLezBqXTCm9XiYDMng",
+      "width": 640,
+      "height": 480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105454614510901790451\">Güneş Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dqWeK0eKIAUOBJstbSsnj5Nxv2DpP6xWLSKDGJiMw6bhr_mVkvPWpJo1UKnwaiWt8XoHcygneSUaccvbkFQil6IgOIfhXY-IufdAGQ9-bY1U5_Tl8mWkIqrKSN1pFOcyJCXMopEn6ytLFqUjP0blmujHv6FHgQh-Tco5gK9nMkLutQnGOmFiDgS0ycPbgT-6rnXnyYJ-FvekSJaISFJeosfbt-sOQR50ALRgD5mHSoLLKPYoiJsUxoMPs0DbxVAJt5V7J-eupEdYgGmIQSMmW_SxVTBK-5dXxeG7Vns6Plgw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105454614510901790451\">Güneş Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cWPlbgh4lyhb5hy-I7hREuxw1RrRcj3Kzd0Bi7Zaj7fOFM49zNAAhfr-gBWCXb5Oy3_DIXWt_KccbCfSPSF3CLsw5Y2I3UVBqPb_9eIUjhCQ5tVgUtu8FhNd_dv6bFQbBnsaPMnSysPTVmMpRsMrsNFtBfO8R7e-fDokJOnau6TEmXgkQlH5B2QFd_oxWQC3uqSqFnS0-CbPrBEMe3dlPXWjfcN-whha8o86OnmOgzf4uPp8O9CIC1Iw-6403_9Zg3ynuOiD69i1_K9iz3O8zbTOBGrG07EZFdgq4aPK9A3j031MK_L4o1VHKNwZl73T8txLWto7_SxqKcmCb_ZGEJiQNLqNXeQR-GTYO8Bo3szaTGPHNt9GC-hY1gDdW-ahyAie7d7GDpMNEzynhYDnDXzs2XzuBCsd7kNqeMdPkcJYgYZEZSIwYuqSWpqm7L",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112410624127256497806\">Lim Lim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ex_tnkZy77wR0-GY4yJa3PJE5N2_Dt-NJvDWjypQiNp_PqwEA3qh29tx2KRyzy5O5E20M1Wb330nn-QKbYfrwXrAwjGH_rO9gfoPKjs5gtx6LV8sIR24Xq-ktg_zEkYsELG7fp0tIm5fwy5zbSrUxWZTVLAQTS4BG-58f5ZQDkEOjxPNipLcB9aJLjnn-2kd0r2iEJe4PqFJFqIjBiIfReHWaWa2THk9zV35ffxJGz4_tw18aaTEBpsSoJNynrr5UzlYwHurnJgGmt7umAg0c46KDzdt_6aM-EtvvFYLS1SwNZQgcfRYodUTMwvXt_Q2XpxJY9Fw0FsNDpQYkjP5uIVbibMSJj7i_M4G0Xuc1JS9h74bAn6IE9QQ5pRKmOZ0czePjpemk-RquyZvvh3YABVmeNwQMh5sQDR_7ZD4IVSvli",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110786893972577926402\">Aliza Fowad</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eelsdi8Bruu6FnpTThetgHWkFNA3IaE76PJCiHfpjj_cmdi1XzWfxoRdUHr2CsvzGgNXpAqUHMYUAK8MarDrtHaDxUY6QHlySINGRCAq4InFl9eKyiSeU2CMVC6lB9daj6QvCMpjHh-VsMn__porxUa2mivlCyeoTXP61TnRJD4JhaDFca8_QGzJxNTZU3Id0uVHVUZ_sjWCBjX7cjQ6bDIfKL8NQVfb4T27A6czMMQ62bXoI4ZrweKlI4GAlHjaHXQRyT3o1qzriABGBegDzeBCMHEDU5c5yoLNY0fpY2FGpzNyVuIGeseveCAaHp66ACTm4phRSmMjcqEpLzehJ7jzLpGETYcA1ydYnHR3VirZFrZShEYZtr2ozRDVlZYrzA45OjdxgyWGBsABlx6wdOYczqgN3bHdiVQTBGv0siHVqdasdBf7bP_j1mlQKX",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112410624127256497806\">Lim Lim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fotZL07h3KMdjiwVlN265UAtSSPPFGMcJnN67buvDtFcntaPinpWdalKoAf94_tkOF9VyYNhryOKN2a9Z0tikfZk4cnGJ7P8Azf4LsPHI8_djZwLmoRJcLg1EXBxKdBb6hsDf94B7rJM1o908hwbum4RKAX2QkRP5BrRKW0uEglu7WCqW95Cg-cECxhi-LzNBZDvIbKMmXPGriLNf_ow76asxKSRp1aTAKRVH9u6zM7s2JOISrbB5uRMbYprp0IbOapx0mNZq18YJeUZl5phWUT7zfdxRa2NDDcF22ckGj9aFCyjOJjzRqMxcwGm-bH-BHvcFIjgIt4_V5lOycqSBpKVlYqTosice8KZ_fzOeCfOzufoV39Q4p1BRioy0GJfEVi1JNxfxnlqUf9jC4qfxVs-Aw2guq9P4iYkwy7hUStmIm6LmpfRorwTveCQ",
+      "width": 3241,
+      "height": 2424,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105487483488659925936\">Mohammed C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3uxEjBDUIrrkEKiiOBp3jmA1kJQmO2gMDk_5TecHK70XJf2SnNBpUwYTW9S2A2qg_LBJuCTObCRNjzj-mdcLIRsDFWU6x9qR8XrY63T68IFWxErKUCcAiwkQOw2GPhnckBKUEqd_scjP-CdQ3fbE_vYrOfxjyJG1wC5t0YCosJsaWw7RFqj4IRl10cQmaeeNcfic2YnFWLhlWLgZxwkatlrk4RvzCdYIbW00ZLPSJO_m44aY1bvW4g_jCb6PsSJePJryrwElQry_G6LO-mnUM5LgYWXh671E6jkmQHnQR71oK1szfM4DXSP7CVNt1UHHq2b7GhBGu7fkQB2H0wXpd_OeXGVsFHv4iL5sGRSw9f-MRaMRLNVg07OYeo9QO9vP1b1yiTQSCdFF76PVV_XtoATDL_Ng6afViEuhVguKSXPSN",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104535145247118814693\">Sonny Johnson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjiihihBvcHYUTbJ03X9wJkbWW5CV9fu5SWbV822j0QmnRbFkjc3HpvqZjg6NDlMkVoKUvOr_KFm5_bzthnlAs8xSt5XkrgjCzonJTCWViKCIRX8ZPQwpLSbMY2cEPHmXyk2u2dozb7T93mOFeFkKPn6noC5NmZu0xG2LvGcDfIhAvj2q19zcEabKaXE3qk9YdZy9AEj1vPCY6WWwbON3A67XOF6xkKoihdiYGMFt9k2f1tuH7FeoJ-VBXCoZ_qy_Sv24m9pVwtP24cdo-clUCTE325xhKXzmf_p9WbDvrjuY97_gR9VxiM5njUym08nUTrO10eRlHhdG94HW_f6Bw-7hwCVlvg_NLjyP5cl7QzikV0Rzm9jJi3hy-vo4rM1mI6RpR_4slnCm5l469CAnNjrJQBXOQQ_Qq5gG7A7U6FqYrDUD2Ilpg9uQ5Wo30",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112160870516659781856\">D K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e8SttRdwgnXjjNJGtbBfCX6edyWfxI2E0jpiLqEWvxQOrshqXbsZyc7YLO5kpcW2vX9J6Xj6gJLoUvIqyg8b2L7F1hwqNpt3topkJtRqygIHVUVuRe_ocgvUZh5AgFPhSn-YefDUiSGH4HCHegfODG1XChw4gMHgA5IuX9kBl77X3j00J2jWbYJuwOIeKfAMXIs-EuTE6HlB0fxgVRwtHDwENIEU130WE9OJvs10KNyVPpZ-XdbkXTBFW67UBlZuzLmHwTG9RK16MGoaDAbyHNvWndeN44spGVwZmzQ9yMdEA3R96LMCXHHg_wfCvJrW4yg7BKYYO2LsaD0WBKlQT7q5T7PVGp3-C5GRPfVSmaLCfmEbUnJIMU_bqAPENtTCmjoYEU4mqmIOXe-63moIuj731JR_XADp4dl1JuFZ5cAg",
+      "width": 3468,
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107201246278991578846\">Mandarin Dialogue</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsVWIkmfl4GE2KxtrNczZ4ga5rv1NJPR1i3dWFtSlp3UU6nt3XdUaHzGeAjn-GnKPe9SFkR_uNxRJnoceiKsZ0Sk8-UTBBBaUzeK0JWKEpKjCV9E5mE3Q1pFaRfu6LicA1EfYGQVK8zi2edDOXF8uIhjRApkJvv6D0lcihRlKb8hZJD-ceEp-BbFM7_HDHk6mybKcxSEmmL6wzyGLacTFAdYKRtsgMCtkJtA4jzfVEREtMAzY_fDoCrYSHRCmXn7haDdawxvJGPqUXsvF7Zi_ALPM-Ysd4MYdrkZjO5yNh6X-ml12jnvxipDMpisXImz-1T_WuFfTy3AciGo55emGf9GRez9U2ruwU4981v1jxLst927QnxbN-sS919YKULEUq9Q8JXFncUl9iONoYeR-roiLBl04BarfSmLcmID9FC4Bz",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117026147890649859281\">Kaz Isl</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Polished locale with outdoor seating offering classic Turkish entrees, kebabs & mezes.",
+  "reviews": [
+    {
+      "author_name": "Lim Lim",
+      "rating": 5,
+      "text": "Very good and tasty food. Well presented and good quality food at good prices. The service was very good and friendly. Special mentioned for Mr Ali who is very knowledgeable and smiling with good services. Surely will come back again. Highly recommended.\n\nEasily accessible by Tube and few minutes walking to restaurants.",
+      "time": 1760013050,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Erini Katchis",
+      "rating": 5,
+      "text": "Excellent service and delicious food! We’ve visited a couple of times and it never disappoints. The vegetarian options are fantastic, and the meat dishes are equally tasty. Portions are generous, making it great value for money",
+      "time": 1756138944,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Mueen H",
+      "rating": 5,
+      "text": "We visited Gunes Turkish Restaurant and had a great experience. We tried their menemen and lunch deal, and the breakfast items were full of flavour. The lamb donner was perfectly seasoned, and the halloumi was especially delicious. They also offered a complimentary salad, which was a thoughtful and appreciated gesture.\n\nThe staff were friendly, attentive, and always on hand, creating a welcoming atmosphere. While the prices are mid-range, the quality of food and overall experience made it well worth it. Highly recommended for anyone looking to enjoy authentic Turkish flavours.",
+      "time": 1753362876,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mohammed C",
+      "rating": 5,
+      "text": "Service was very good from the beginning. The restaurant was clean throughout, even their toilets were well maintained. I ordered the Mediterranean breakfast, was really nice and better than most other restaurants that serve Turkish breakfast. Was very well priced as well. Will visit again to try their kebabs and mains.",
+      "time": 1754909164,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Catherine Kyne",
+      "rating": 5,
+      "text": "The food was delicious. We had the lamb chops  and my husband had the seabass both meals came with vegetable salad and rice. both were succulent and tasty..\n\nThe waitress Cristina was so helpful and attentive ensuring our every needs were met. I will certainly come back again. The food is good value for money for what you get and you also get some Hummus and bread complementary.",
+      "time": 1744139724,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:42.754Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCU4knesddkgR8vvGl5YeswA"
+}

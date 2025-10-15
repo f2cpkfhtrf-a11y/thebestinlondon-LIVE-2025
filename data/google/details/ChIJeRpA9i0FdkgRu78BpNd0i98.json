@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJeRpA9i0FdkgRu78BpNd0i98",
+  "name": "34 Mayfair",
+  "formatted_address": "34 Grosvenor Sq, S Audley St, London W1K 2HD, UK",
+  "vicinity": "34 Grosvenor Sq, S Audley St, London",
+  "rating": 4.3,
+  "user_ratings_total": 1985,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.5102469,
+      "lng": -0.1523196
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5116066802915,
+        "lng": -0.150854169708498
+      },
+      "southwest": {
+        "lat": 51.5089087197085,
+        "lng": -0.153552130291502
+      }
+    }
+  },
+  "lat": 51.5102469,
+  "lng": -0.1523196,
+  "formatted_phone_number": "020 3350 3434",
+  "international_phone_number": "+44 20 3350 3434",
+  "website": "https://34-restaurant.co.uk/?utm_source=LocalGoogle&utm_medium=Organic",
+  "url": "https://maps.google.com/?cid=16108096961739079611",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fjO8f51cI2OsdrwLu9bFV4nF2-oFxt_j5C9DZm4y_lWyFrYYwNl-FZfKyOg73IVNNRpiw_D12AGNL3oqSBhQrJHRksdbYR50qqK-y1qDNBbOM_84Swcb-TmbKdgTkl_Ckci_YBwqtvYWxzYoX4vB3lnUZire8gZLRORnf8XzAC7wPfK8mS05MebOCn5lqsBnqINSUVbk1FtzNPMOSQ5IsB-jf4e7nHhIvGJ6hCmXC8UyZPEvSIjgIr09haYeJpABjIyXllgYxLyQwhjbAslbS3JTFjit_xH8gVNLtY3tk",
+      "width": 800,
+      "height": 450,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110193831818007370735\">34 Mayfair</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fL_MlIgJnJkKSxboJfhA1o7LXmvY8zmGDz8QSSlQzznuMZnzAJ7A9VOcI9fyUQlGontpqHdq9zz9htUXZsj16NncSvHwunZ1sMJ65nbGJsdtW8z6_brlt2-Mc7LVCONnxgD8eYFr0uYrkGExGPmMjMnBZc0vRbe-W6o6uX1V59jPUmxOpBHi6LTALaMHp7ppZhPX_dR6U_Z2-oIHP2IqwvRYotjfDaD6druC9sSzEZQQF323aJpW-_NExHQrL-w4TCY1RCl-CfnA96C-xGtFtJ6xv__ndGjkQgkLOS5Wo",
+      "width": 4800,
+      "height": 3280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110193831818007370735\">34 Mayfair</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eh0rS_6-bFXZBdP1Zd3rgvxD3CLyTl6kDCuWvXfJCInL7aVn5fTCwlMjI6vfRTNHsRhcqizJGPUZrPCp7iJn7P2sjy0YsaRNZLGGquPth0-cDYr7byO2EcQ7Ka6gOZ9qtBtqPAIvYbHALvajqpLdXVFTHobM4ZvOGsY6honYl-2QxgmD5JXP1_mlXchIjn1kMmTzTxIvSv3Yxh075JytSLcDGAAbuBRZRTZLS6jKduTc-xuz3P9JKldDDH5qSfSrEpeB4tsHBIhsY-1LdSxcKNtsAJBsb9uTFR-y2UE_Fq8UU0mddFWHOliBbb1-xpfnW88v0X-owtH7iIqMEdAg76eq98HksbwQE9xSe92I7JTUKxYt4Ceh9Mp3tfLZNfPel5Z5rXOXj-9MktUEI0u2kmd6I7_JyiObFvoEP3b-8TVA",
+      "width": 1078,
+      "height": 1213,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103596131540022921055\">Tcaciuc Natalia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dYDMpqnF_fmSrgf5hc_am0cPr8I0O-akLDuBss7hx3pUUPwm4w_bQdh7eVonWvgx1Y8P6LNyBFssSwH27ZVp2aMG8loPiMO8OfPldksqkqejTz_OfB8zaF4Zy6xqXbnqcztlnud05-xLMj_eMA6kVQvChpZMPuDAeWdP9aTtp8aCzAW7KTmfZy1HMrsRvaU-oVEiJuEYyi2iXHflDaCQucOFhwvCXjd6-PB_MDpDrYts3FALFeqs-m19YoEgbqmwfecywVkfKrB7XyhPvQmIV1zV7qzZMRDFZWABMKH1jqiDpLRzJk9ZBq-tJ2z6bhbWWArtvIhca2Rd5_Wo6kND2g4iilVOYtzfS6GVAF2hkarXIEV-CFe8JqtGJRI5ymT4PKf9-gWRAnkjVmh5xsHKksGzXbSuIA49ea3xmowxJkfw",
+      "width": 1170,
+      "height": 1239,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110109313272022768639\">Aziz Guide (Earth Explorer)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dhQ3OURhUSjs-7qG3hl0MTAl_txrdq7-TBaOIqm0UwfqXyFOhDuOi3jJZOd_mLmGKzbeoUOtEM1EFvzGpu3N8AAJNXSZiB612wPijks_a2IPoPJyG7u_DnWXf3yBJPrftHN_wUUXDQxpdYx7-PrXloCCusHdN0lr9Dbc8EGEZVFLmrD-d4Osb1ueyE6DR1cWpPa8W0Yc4atmy0JyuKU9IFYJY_WBWpip7TWra02_bFOOY-KnDQ1mr2P3bq73TSOtCtpTSmpivieTsHtZvq-gVbHUvTKasTJzlWpZLhod-iounFEh5ISrzI-aovDQ0bnQW5FAGBttdUi5jZd7F4YdfajEME2qFjPWxflBy3qcOS0jERXgsxseLwcodG1U5IcrV3XcmvLGFvyWtlgS7z3WR7W-3y4Wde7apXeMUlfBzw1RkODHXZmm3RY1bGGQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108662747310101089244\">Lydia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dstUp2O2WA9-6PJBCY7mP6fefa93nmed1T1tmF0Bo4DTju2s9E2Kc2oikMRaJe7OteukW6F1_j8tr1RDeloNB0NbKv6lMGdz0AtiFGNMIOezdyDXXUfyCCQSqGpvVqw4VT6nhwXUkQ1hql0peu18sqyfh0MrN_CHMTW0NjrOXPljVbxEWZ3t1opu9PNFwkyLjVQgJpP3dycYocuOWrUMjcNXb3v6cQvUkGbPHUZtYI50SPt99N5RbUJt5gZj_eiZltyd9pSYpa_jYHyffSbilQex4V9Spz1RTQXCOUra2uQeGtbWb5f_WLS-kW2uFlW9j-5X32xkaW1DOLieveDecddxbOxiOFL0uXSoESPy-FHt9yw4iDpZEIzlyX730jOfvhTCIHYwSPbR7c3go7gNPaEfJa1q96fckgQwME23GXK-0ANEBD1mH4cvZhSUpe",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115479315231294636802\">Jose Ramon Cabranes Iriarte</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dwvSvNJc2fNpTcIT1UOxYjwH0mvmeEpOUWdC1ywIRzdhl9XDlmJeEWt4eyC3iMXN1f4CoSfwNE1FUQpjU1QArPelMlkimjChgGIELl8uolztVWR--9sbLVLHmwgUCe_BgEThE3A-3CmYDXz2UCF3QujVIXdji6bBoENMlvx4EWItOPUlqRJODvUHDNinHrXlqDcZH-E4mzap9G6ARvabcCGipjKCbjtIhyRahHwebjoZ6BDvQdCLt2yYR_IBH7dAnpnm8VKAH_V-QdK7vkmt1HrMpiJI8cvB9Q8m8KBCyLCCW0bVMNW8SVlYbckV4kX25if4rGCL00uIEH0I32L231M2DzW3fZC8VUjEA6-txcrvzmICLn_yUBbZ9R8YKRsr_2hwyfvBeUNhHWMsjvwekLE96fkO_AO9N9EvkFDS3dfonHEKw4r_hw-bNf7G3u",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100223277918563853920\">emmanuel Blaise</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZoooxF8Q6zOAl6HnAFBOvoXSHljeFu2_dwfgKpnCARm9cZqBwWLfQGX_wt6E13ncPn9nGNw7AMP-2_7PVMx--FmK8wpBHyw_clcPEafDcia-5Qx4lJIkBu6CNqchNenzmItmfS0LDZ_kEH23WC1K037N3chQXJgPytN8QEvzURG5q8yMt7l11vPXGFPoSZHxPD58r3Tfqp3f01IE6_-cu6ulG_EBnSRmUqls0yss-1cLkRbw-Jc0BCgLN-krUQVe7soP7tXmfFu47XwnutNt6MhEwiKBkXCY2OG7WEgT63bUi1pEF-5J-mTQO_vX1qzVxPzRAzh9749DiYh16OpCkezkpKGV0tkp2pbkgGN3rp4gOMxOD1y0yLNvjKQmbwRAtJQqcIih4vCsVRbpDV7XvtddQjYt82Z91EfolbtM",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104520933626712525207\">Shaan Rashid</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnIBOzifFXZQT4uf_NMLiGfgEdbc_fYsONOdXX57L0K81y1PDokI65esFbZ_a1CbYG7XZxCHVt-3wecEe_Ti-oMO_Ck8_Cy10Y9Pf4N8KfDr0Kq0mfzsJqCO2ObgvNFnG8bb-abZmgpFXJgBKMFMUR6RCAkXtwiAkf43xeO29dqDn3jGB3VEH7fu9aYnBwotM6g4BbY6ZtempOXxOgbZCiuzKhrIHI8MlLpvhGIwXavN8JTKbKcnw-2cdt858oSFGEM8oOOX7s3wQfwH5OP1QahPTRmRBaq9-rk-wA4IZfgAwfoNWpSR8o5gDyzKyvWIBQh6lXr3hNmbwIGCIFYt_2Jq8eckZqYJ5K9bsDmkZzT4JwjpBBOFyAPqAr5PvYUcYwlunLjeAAxcrVblNgsM3aVSVVm9m7QRnu-ycKzVeGxOak",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116941240159066976054\">James M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fDvz8PQ-55UIt9uU6QhsNz7ss2SB8u2gxnaaXGOqxkcyPI85SWBYnziNtdvNP7X8bnLawGKdLG38X6b_frBTycap7m0rdXla8Um1bvCELLrqBBPsirpOL5d3eF0mu_KTKthes8u3jco7A5Lq8clHUxjW7zjy7mvZxylfuYzWqvZ1c1vfMMRBhNh1_dCloOiia0zdjQBgoR5d5lDzV1rIX8YwNaANCOOpUYOSIL8ZXwur2kwWTkGh6siNeMcWOgV1dRlu9HNScOqZ0qJjdU0IbE55MRq1VZLpEejE-3EzWzfcrIIwe-nObLzo2cHD7zqZTZohUwH_c2tfEzlFHkYJpuncagswqXaOZm7xcGP1KCe9QR9NlqffZC9093AnD5to1fjjSXEwlCEjbd1xdtCEobGwEkbCAPWH6vlZ3e8-xKf6n9gRgb79q8Ke2pXnsA",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110334774779577579052\">Ioana Preda</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "British game and world meats cooked on an imported Argentinian grill in art deco-inspired brasserie.",
+  "reviews": [
+    {
+      "author_name": "Lydia",
+      "rating": 4,
+      "text": "Went here on day 1 of our London trip for anniversary dinner.\n\nFancy interior and utensils.\nFood was delicious, particularly hummus and broccoli.\n\nStaff were friendly and kind and they also have live music.\n\nDefinitely recommend for dates/friends gathering/family dinner.",
+      "time": 1759742221,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Scott Koon",
+      "rating": 5,
+      "text": "This place is amazing. We had outdoor seating which I highly recommend if the weather is nice. My wife had the lemon sole, which was the special of the day and I had the ribeye. Both were very good, but the real winner here were the desserts. We had the chocolate fondant tart and the homemade donuts. I'm not sure how both of them can rank in our top 10 desserts ever, but they do. We're in town for a week and are already planning to go back for dessert again. Highly recommended!\nAnd a word about our server, Remus - he was fantastic. Very attentive, helpful with suggestions and quick to clear dirty plates. While we were there a lady at the table next to us (seating is very close) complained to him about a menu item that was not available. He responded apologetically but she wouldn't take no for an answer she continued on and on and made mention of how betrayed she felt and that she felt like she was lied to by the receptionist she spoke with earlier in the day. Remus maintained his composure and continued to respond kindly to her. The situation was clearly beyond Remus' control. Much respect to him for handling the situation with grace.",
+      "time": 1752474931,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Pav",
+      "rating": 3,
+      "text": "Today, we had lunch at the 34 Mayfair in London. The food was not that great but not bad either. However, the portion sizes were very, very small. The octopus was minuscule. Avoiding gluten was impossible no matter how carefully one orders. The matcha-based non-alcoholic drink was quite disappointing – it was overpowered with lemon and didn’t taste like it had any matcha. Additionally, the salad looked limp and the leaves didn’t seem very fresh. Also, all bread was sweet. Riffle with chicken tasted good but the coating on the chicken didn’t stick well and the croffle was too sweet to be in that dish. The sole was good. Overall, it was just an okay meal, not really a great experience.",
+      "time": 1755461607,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "meera ahli",
+      "rating": 4,
+      "text": "An average fine dining. My favorite Mac & cheese. Others liked the steak but we all agreed that the burrata salad wasn’t a great choice.",
+      "time": 1759356486,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "emmanuel Blaise",
+      "rating": 5,
+      "text": "One of my best dinner experience in London. Definitely coming back. My wife loved it so much. The food is top notch and the staffs are awesome.",
+      "time": 1751561364,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:51.124Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRpA9i0FdkgRu78BpNd0i98"
+}

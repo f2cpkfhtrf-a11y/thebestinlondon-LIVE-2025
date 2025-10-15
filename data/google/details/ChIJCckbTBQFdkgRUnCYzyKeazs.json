@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJCckbTBQFdkgRUnCYzyKeazs",
+  "name": "EL&N London",
+  "formatted_address": "42 Hans Cres, London SW1X 0LZ, UK",
+  "vicinity": "42 Hans Cres, London",
+  "rating": 4.6,
+  "user_ratings_total": 7569,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.4997131,
+      "lng": -0.1620522
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5009876802915,
+        "lng": -0.160519369708498
+      },
+      "southwest": {
+        "lat": 51.4982897197085,
+        "lng": -0.163217330291502
+      }
+    }
+  },
+  "lat": 51.4997131,
+  "lng": -0.1620522,
+  "formatted_phone_number": "020 7052 0130",
+  "international_phone_number": "+44 20 7052 0130",
+  "website": "http://www.elnlondon.co.uk/",
+  "url": "https://maps.google.com/?cid=4281689743094739026",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f9BylcVSFNjW0MioMgIdaSVaMBC63nCOCeJOseh1Qfture89ft5gu-IF9okf-tcE6YPk8u3hzXd91MnwnjMx45wqmkGHlYf3K1qo79c656PIsqWITz-NgXZAfbf6uIiXDF4rTeadtMFz0PzqlTvwIU3NYpWLPR9ylP3fiMvXMRjbQIxeAUJmC0esao25nYHthBJi4GemeeZQqGik6mK0M56U_OZz15lUu5FODcfFPU9EQ0jRaU8qIuuTXvxky9KSW2uVwhj7p8_rT5uMgufwXm9Ac5nN2bU8YK5Qk1J-csYA",
+      "width": 4800,
+      "height": 3204,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103608766187602606423\">EL&amp;N London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQq0jNhSHRMQp2Lp-HSUcBi-XlXIdlpXxw7P-6VI5B3Mphp-9ruObkwxPyKFyJgeKr33FlqBBofhzhejASuhyL7dI4_-lH9S0cKjuMnnX0UDRFpbnmiPnZdNZO4gL5mfCkGFpR4WbLItPQx_FcJ8EoVneM8oYvjyzaOuhLxRIbM_FimSiX9dsIkiE98W5hpFC0D4JGEs5k6npMhEfMH8djO0nQrBNltLDNKP38N6GwHWscli4TQmT9QKYNcbeU9__PDRKcbzi12ebhjecfkV_Pnnq1rypOXxCNB2RVTXhhwRlBUHueD-5u6pBraUHE62QXB4sN7L3mpZzM6TKUT-f-OkUcL-T0MATF7HfeeI0q3C2Tv65V-USQOZ09DjT0NoUDrkppJoEq_z9d4dhSPYQOa-Hw57xgi3ExkW0qIjS8UXUlkkVatN6beNz3VIGL",
+      "width": 2160,
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109287905306708515779\">أمل</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e5xOeF1NCBPlWCeyWqLWE5id35eKFkZJgVKii2f9Hi8exL492-3xSe58TxrkBkXOleBDtyGFhiTZzK4krv2o8KiFbFXWk7nT8_pDB96cknnN-YAM5UuTamG4RnHJGshJMHXSbUX3dfNz6TqRFXY1BYCsVZJR5UvNtg7PVTd-fKUoEvVzqQQadDNm9NohOcL040gTN_I0c2iJsNCSAnHmp3MtJN64hmQ6kzEAlfAxQxu4us7V0LVYrdixtlfI7XT0frU-ooSMzOqwrnkPKvi4ZymBTjC_YzibJ22TMMAav0HBm0K0eJAerni3G9izXmEoRm-tOP9kc4Fs76IiwgBfYyhKJWYhQiLMj7zuimDpFjgwQyEMzlEDLwghzFyFnKp7m0xematvLWplq-5WExMnon5zV54u8YTvRA8Vc62RDKai8lS777D2yMgNunHw",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111013380455241372036\">E. R.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fTeMjWal-Z2veFTiL_wnlVS4sgzCf-bOtA23nlIm-zffKYII4reBfZc7Q6FMF8kqVoX5PT8hrkrEGMSgG1TGBSCJuBjK7RGjiiXCw3fVQpWnoBFTmNAh-YsevGHS907Or0LuN5yGJOoHtP30JOeYORqXMxQoJNtsKpyTuGIQAlkw_ZejvCaIokTspu1evey_zERaBhEPe-Ribv132vPv6oIHXoMgvYqUbHh1DgxCDP3XiMxX7laDv-X2PepUYT8-39PfWHvIMLO3hF5GhKIWE3CLoo3guIl4ryX2S7g0ZNwI_gGnBWo88eO9U_Th0l8pfwJEiuyFvbMawRLw0MaQLrnVGFzyWHk7nDchZoi3XQqpRwrxNf21zVcrJoJLan4QOSECeYtWf0gcUr9zH2BozuPF4TR8MM0GHty9416cEYkqs",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109368516875625914902\">arsyan (Arsyan)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fX_z2vDMrRz_c186bgOfvoWPU08KFevnrvBF1qO8b0610ppwRW61KieZuveQsx31bwPJ8_NC0iLgZQaw7-fZHPgzj-mboCvA9r3QKcKH6lpN6Dv5iiCSR-LGiLOiWAMrtI_PTKosDjpWoHzp9G8GSEhtEbeay8sgsDijbEw9uqLwXqtX89l4u25GIhH-g_l5maqq4oWgij29zmLF795XCdls_AgvNVEjIgwMfRKKRvaAy-G2g3vKat-bv2iSQVeUHE3HjqpF0DoCrNvmuufKVKhQwDf29ur2SAd4nW7qddC3McUAW_0lUacOG5h1KdMRjpiml_WHdPTTxzWvTF-xxx-CoOX-y3tjSunNqpLUv3WNRLII1JHYsTInfgPsBaF83bCPK1GXUQjmhcpZ-mbkTWDNwcIQ9u_5fTYnsKlOC2vsE",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107192940593342834361\">Dave Harrison</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYU5MxvmElA7tq_yRfoprsDZTdfBV47aXECze1MLRnidjihcUUsGLUg27UypI_PNJR8nbIW7dc7iYfe2GwvNCmae3IhtC3U-i1U0IiI7Xrhp5DpOHbvlHDPt-WAzSP1SHOIfbcq7HOUrcEOZFCY4EmH86EWR7vRxwCSSbxao_fmMoR4LPwHLbSKIMZd4kjNXNoFIC8WmImJw-Qp9CDIsJMiaHMcIcTmg_maFqTf8TyBZlbWSI2mgBLCU87kmfRi--kfUU_-JdppuozniE7NFPPYaxX4a4iJmx6cGFrQhccTBZpaWAot5wgWAUCUlaP-9IY_8Yib0j5xm340DG-A5JfAy0UOJJkIL-2lGDCpBGd8H2z3ISBNhbbLaKy_gkO76ejWjsEJ3fikdopROeKgqOIwkKBhHwNobTFSCQzr8sOzUz7UWLq492LqQYgxcYO",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106887081494452632485\">John D. Doe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ex3v6bwE2C2nn2zmGyQF0dQ7j5IODLoJ-jXCzZ_fHbbMA1a2HO9AhFyK5bQkrfWdfdOl3n8KXiGbeyZndn-u6DoSshZiZdV1ZjgT_9A_IJPozLV_PBTdom6t2HZg3Txh1Le1Ce3rcZdVZCswqGZq9yUdr-92oFc7YyNhYXXPg7RWtNQunIAOWkPOVjT7U2pQ847EwvvRDtFdPxVAcUlpg5lTlCVgnPs2TUkL7ptfV9iLAVut59sc84oYd7myXaFbbTFzIyd-ZOUnyUHx0WUuAKCYiaZphmbNhgnF4_Onqe6F4ITCUNsiRqSS1bqecdSYVZdBsW4TvjcN1lYXCwlfV6quuhUEQ8JCkSbOLBkgPV8gUkc6uMK2u3pgLmp7VU2L-BOxLuB1sF_rQRugvWrpJhPVjioqxBHHJd7xwpQacp--iR",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111044477264935561970\">BH “Bahrain Reviews”</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ck4CTkEUPMv62pSTnYr73fHqMxFf1QpdolS1MTyWuZa-kRqXFr7BagHMS-U4LXd4X1-59mv2aktuhUaZgQJ9y9tFcBSlqliuNUYAiWeo5pgJ-Wo-RAc9m0i9uITgVlaaquRY5VFDeJm2j3mpVU-mF6Zf-CabtHmbcLVj4lFmHbB8GLGsbRHm_R92fL4lv5FiavJv1V665BnpvIhPY8n1j8cekgGiLekgzjE1UldazSJQZSk0RWW4clqXxIMusm61iXHpxuoMwLEGb7IdwVu8rSYaAmLYb6j-M9UsG7CWYIdVT_-VHeQW6GPWnYAGThT2xidzSqkL0OBrrBp8V3UUOH9WivGYgyrCq78P4UFc1pcg67QKR0bMn5-2QU__LRD_HqzcWVnb6anobpF_DCX6XGb_qdUsOZFZSfk-jl_BvlkyI",
+      "width": 3472,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111741445487907311422\">Yasmin Patel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eeAJrbWoI2UijkRI3M2DbDBZV0WGxTNRj7Tf1QlebS9qGBCNTC97jke6wakXzzFqhddrF0IjdfgdcMRDXETxhuDawseVjfWyPyge5ZfLjE_g7l_2m47V8NzYPX_7v8uIRvOeg3OQ21_KIc0Tai1YAawrtB1WFfJixuIEk7Nf2kilFbN5wwnHJ6jRlSPBfQN1Cvd9r0190JBTpGWy3PJ90hg6kJKdFUYUf_wMxcFfVGCP76KqjD30TU-cUo3TYF0BFkvuLyDhLMIaEQFmupG_VNDSFCt_INetdCmvateKar19vbrVai07zSfkUh7C9ytUdav-3zd762ggyOk_I0QcMRIBUHv79xU51zrPvZGJwJkMIByycSpugH57Ce7rg9VgYWL_pzCj77fj6cV7kE4dWv96kmNM79lXSCWpUSfe8igg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116442827971378006086\">Nichole Hall</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ezFuG59ikAMsuW5vVI_CCdQFRvLrcPqoFisT07P4ieXIk7FmX1tOuSly0cMq3taSH7GXwslQvfjWrcRuhqfb1WRizBbH3OP4hZi13JUFt1izoPnepVwCktK6bbZV2YzIDMOM5G0IdJ2gFKAtJHpHmA6cw5qsdKcUAdxjom6SP30wmwH8og9QMBwtw91-_PjnHrdxVUhOA0MdOuaA70bkXJisUGPQtmrR3wyf-2u4egkKivKoshnUGgzpVw_3j_QqxBqfLG2MY1CN6bgqjDROWut0KC8qLWi3HY6Nu0ZJXxUwCH-5glDoWl-oM5wiEZQJkvmXH9xcuHE9FKFq5HJwDmyc7i1Gv9pRnuN-J-VCPjWJ346Uk02kfVPsheUB0f_1gQ7Aj50VZdxW0OP78Ow2ohbAVskrMMeIjxb9_BOSpbTA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111044477264935561970\">BH “Bahrain Reviews”</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "J. Michael",
+      "rating": 5,
+      "text": "Promu and Karima were excellent hosts at EL &N. The food was incredible. Very tasty, reasonably priced and quick service. Promu and Karima went out of their way to answer our questions and made us feel very welcome. I recommend EL&N !",
+      "time": 1759506946,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Anna Belan",
+      "rating": 3,
+      "text": "The service was very slow. I had to ask the waitress to take my order, and she only came twice: once to accept the order and once to bring the tea. I asked for a cheesecake from their dessert stand, but it never arrived until I reminded her again. My plates were left on the table until I asked for dessert as well. The food itself is good, but the service really needs improvement.",
+      "time": 1756460827,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Char Nays",
+      "rating": 5,
+      "text": "What a lovely space, we had such an amazing waiter Sheik -\n\nThe food is absolutely amazing aswell. I don’t regret going there",
+      "time": 1756647854,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Ahmed Zahrani",
+      "rating": 5,
+      "text": "EL&N London is a trendy and vibrant café. I tried the Spanish Latte, Flat White, Honey Cake, and Lotus Cheesecake — all were delicious and well-prepared. The place was quite busy, both inside and outside, with about a 5-minute wait to get in and another 10 minutes for the order to arrive. Despite the crowd, the overall experience was enjoyable and worth the visit.",
+      "time": 1751582280,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "S Ali",
+      "rating": 4,
+      "text": "Visited 09/09/2025. Kitchen was out of service but customers were not being informed at the door but only when sitting down.\n\nA lovely array of pastries, cakes and sandwiches available on the day I visited. Place was pretty empty inside with a few outside.\n\nThe staff I had interacted with were lovely but service was a bit slow, I had to get up and ask someone to take my order and also had to get up to go pay when finished as I needed to leave. Doesn't appear to be very well managed (albeit on a less busy day with the kitchen out of order!)\n\nHad the Turkey and Cheese ciabatta, it was nice and cost £11.\n\nWill have to go back to try their main menu/cooked items.\n\nEverything is halal.",
+      "time": 1757441801,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:19.565Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCckbTBQFdkgRUnCYzyKeazs"
+}

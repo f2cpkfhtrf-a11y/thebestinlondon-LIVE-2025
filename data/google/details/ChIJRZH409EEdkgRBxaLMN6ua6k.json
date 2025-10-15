@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJRZH409EEdkgRBxaLMN6ua6k",
+  "name": "The Rooftop",
+  "formatted_address": "7th Floor, 2 Spring Gardens, London SW1A 2TS, UK",
+  "vicinity": "7th Floor, 2 Spring Gardens, London",
+  "rating": 4.2,
+  "user_ratings_total": 1235,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5073699,
+      "lng": -0.1293087
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5087628302915,
+        "lng": -0.127802169708498
+      },
+      "southwest": {
+        "lat": 51.5060648697085,
+        "lng": -0.130500130291502
+      }
+    }
+  },
+  "lat": 51.5073699,
+  "lng": -0.1293087,
+  "formatted_phone_number": "020 7870 2900",
+  "international_phone_number": "+44 20 7870 2900",
+  "website": "https://trafalgarstjames.com/rooftop-bar/",
+  "url": "https://maps.google.com/?cid=12208043484238255623",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 3:00 – 11:00 PM",
+      "Tuesday: 3:00 – 11:00 PM",
+      "Wednesday: 3:00 – 11:00 PM",
+      "Thursday: 3:00 PM – 12:00 AM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 3:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1500"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dYwv2kSUw_sawB3uoXIr71o1Kvaw5X_C5kMoXtJfuA11f1QnIQ6SZyjKCtE4bPGM6TPu5iiwhUaLuA39roMAS82h8gO7Xt-ON0hYZ7SlwCqOeoN1pKhuIym0CJADQMjBQOkcaULrc5CEe-Lfw4znre8w1GNXw34esCIlt27c7G4AcRmf7kF_FLfvF_Dv2CE16tloPA-VUfyAkpt5GUSh0hjjgKW5uoPqenqImuPxAOaqfIsX1frsBjGAwXZDztUmbP6kXhVOgzfvCmpljDTvm2WYIeYZD1GY_QhenaiizrVA",
+      "width": 4800,
+      "height": 3368,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109298740946601239184\">The Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFR6NAYCHShQNBUD2uRYKOHJrLwsBacNjXDtTvpUnFHRsVifPyY4csppCBt1_hxtjJ8iqU6r7bbKOulwk7Zgqb-2ut7huQ8MPzh_TQ7RlIzFkaZYtg8LRR1G-uNeFpA2xKpnXvJFwjUdDiL5eL5pGfM_lseX5JlRl_hmDesIW2xQddlPKVICytfGfPkSByxYUo9PuwNc1zODVvEMnvz-pMMqQMLvJHZYteMWEmWRG0weWiqrNHX_D1UG-0oJdoQR6fUbRA40AjSU_ZToiICL6fkNJrt-mXcNqdhgR6C9IllA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109298740946601239184\">The Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cRp_pQ7RzQQ-bWyX77CRuC0XMQ2JPXG8DkorvGEGwCxC26zL1F02Kt4LNxEjwPBY3HHYAxmuZCjihQ47ClNoKQQ7Xd092_AVH_bN-iLBZg-z37ik4IYODfRyCSTzvzxWDwSe7v8R0KKFDMpF4jAziBtI5VF6ZOtSnKIQwXDhk9vCiN9T0_iD2oxZpxAqMyw_0C4KSeHOjhn9wv8Kby6ySsMWNLCKmFLgV49kvXBPjuRALlwZisjxSdyJQWvVXOMFQcCwlT1Eb3JtuvxU7fy6g0_Aqz59HAMcwH4flYBw3F7z8WPJCFEN-9nrk8tDqUyxPX6ZLqN0I53qgZKlTUXDHwD_f3GzpEGGXDBiIQlY81x1JZMOzcvmcEDFJBSJdAiA7k6w7ZxMSF3HZIGDRLY5SYt0OHxviMMQ1Prv5OS3mKu2pX5aTU2wSqzZzBnA",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100051360534452638236\">Anna Mavriou</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cSg4OKik6G0f2wd-gHWCwjqQ_GW0JxKOkGziyhpYF8MGV1A-xApo9KnKji2K7SkHFDPGobzE2yn8zQFdFjm0-wJ7fJm1Pg3IrXo5C1SHpxLCmGzyCBXZ4cP_bXqgFkd0Gq2wmQlqiQVbPJwdh8gTuHtXLrrhbTLPh2BdknpfG_Ha5M6yJxoRKltDdL87unZ815o84z4WWWSvmQ3x9s3GaY8L9BGbwLHaev-dNyMDKeZctwrL1UiVvBSgDkcxjX49m_ejTMU94tn_lWikMkfEiTIpnbYaQkgl7W14mpCETGRAISLosV7JGMwCmGVnffyA3ZGC74RPgbIImkythJdAOW3DK5I0AZrO3eTtqCiIJRDSVA6ykCMyuFGkbMGRqgcPrud_775sDe6JAaMCbIGDKPV3csUx659PKlTup_YlJFroI4",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108989248436036084368\">Malcom Doyle</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cskkGgTJRtGzo-YOfl6E_ySBmpGKCxOvtgIh5nqaUil4pLvT9ujiO-HAZG6hb4f3xyvQyat7pHLrb2cT6N3mzZYlZdHGY20FYZkpqysPYnrh7QylaqWx-KYFas-PHiQhFFR3ZqK_3bqVYaYGOiZtl2ZzbTyLQjHf8lDWyqJKeKuZtFJNkEfx-A8E7dJKKzjsBXqS_0ywZ8ualne2fgJn2mj6gXqKhXsYzg9G59ZsZUSR10pIqdF2SJxvdL5A82k2t8orklvGBU36i_K0SDVFHzYppQmD91X85qK5oYCHBHsT6DGm3gct8OqhLPwQej7TvrjFDtPQLJGIXrJaV3DpGt7xXFTD2W-m3u-xk3wmrtSN6y9rBMPGc5iPXWw1loy_2TcN9SBW1KC8HlKMzkgO3opL_VJNvu_00VLmUv1UaQ7jM",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107672135347291169121\">Tamara Tomic</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cim5M3RYaEF33RwGsp87lLkQ2poZ27cffHxJw1X9DS_I1VdUAq2CTxcPNNpzvPEa0jQDyHMwRoDav6t0KNPGvnjRddbPHCgmke_A4NnE0IUCFunnuP-ZgOgNYF8BkqbzvtSojZMpwzNal2NdiAEAICOKK9Qysne4hBh1ZhHBFDBX-GCviIsk5TMgXt9wrPPJlDm0_FVq8CZW-ZUcgy3lEtyWdV7tkTXjKUL9R7v2Bpqdru5PlQ0xZYZuDv0Nnju9pVnbAFusnkncASIBtKXH7h0nHU80vt4_YotJ0VxdtvTnKklwTYsxKN_-CW1rrDWw5N-juJRFG_58Uj-PB1yR6vgvmGK_Yv00qxnbHcP2YvyzEdP8knsa5AIzOTf6gT1rh0Y2bC8F7d4wOnWWxik2qdNrGh_p6SkWLb4kltv0jm6nEc",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117024707744357690207\">Albert K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6tgSdxsRShussrWQbiVeRTQx8hhCqUOoi_Odv5Xaj7CONwSRpx3TLzGu6UDc7_0jmQ2rKU1pz5aNWbW5jfLJCXoZyxah9SwjX-K38RQkJkaEpZ5HTw5DeqeDyCwnz5LD07UiqEy0h5wSiNdwxLmARl2tvXMoxQx_mW8lx7eWkCJd5GRYtc_IkPYnab204dBgRdsT9EZ4lskjK3n36dL3oHBT6_PWpH3eLIjaz9x4dLHIcL3W1DjG-WlxdJmgoj4tj9NMBgEmjaOYp-clae39GJ3fitDuHAGk7AVqe0vBRnlghJUgvH4UIxd1n6Qjt1pNqYbCc7qPqBAKaK2k69zWecWXK1lB7KI84mtpYCpP6hNyEa5Deot2sUubMYqSRi0b1LPqXmKuASNMBncjFoAdzfynR11hYW2DaAxQv_1JjJQ",
+      "width": 2034,
+      "height": 2860,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115043848221973424765\">Helen Miller</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f00bvwgk7aPjIg8iTRtMiJiRau7gPRUOYO0FT6WgLg3IUYS8M7SIcm3hf6dFLJlMqofCtY1RBLLfExgqqbGT5OpjjdvBXewTbSZ5av4tDfHG3aONEXL3oJkPr-AU85Y0SvRt3CAlrXQttgfvEOxu2kdCR-dxlQoZ-Cqya4xUvC-4FIL2H0IL81gFqevEmj0T9juy-bbX6-VF_ISsMFYHjAgY9d4iCmsUxnjGLicwUPHOyeauKMZiwUz7iMnZO9Ndehq0I7MrECmj3Tw_DUoqVDJwrHYiGD19JqXR5PqZjy4kx0ghwyq4zzXGTV9Y_9nQ27QfLPj1zdlYRCwl9effk1wpct6bVYlkNHV2IuAr8-AqUxzYbZK6syU7IQMgA86l181K1J5dfhxjJ8RmlM0XRcMuXNVQIFac4M5GIAojvPSQgu",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105455095769255661346\">Den Tyler</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dGh1IbeYLYFzLFCJwUbrFD-qaRETBaQ8-6KlRqkqSRRSZEsdhJNLCoYtF7RVQ362BxlsxtyifD_MUR1LRp2GwrPL-n4jmoEiFnD8vbkqdxrpA-i08dQy6_AsevAXBY8_6W6-QHezpEnV78aeFEBh0XBpV1F9QgPPYn8Dpup8FUI8VNK7_5ue32mMC4-594IPjs4gUq_Cm9ogKNc45faymin0cTxamRTwW7N_0u08TuH2MXTfwunz_FibcUm4ko0IpNYimeOjjPkZ_3KU3gSBxUerH3Ud5XDeFdyEPrNfkvgaujwRLHFjKQw0-yBSd9Kd3op0-zgguMwzoWTY6xy6vE4oTSFXkBKhYSyGivikPfJGGdT9Yn6Y5dwqFyV2U95RNn0hn_7-b-H686yWpkD33TXObnTchnUixfMpPNxL_jX9i6Y2ec1uS29ZtjCinm",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115680913211863661415\">Eliza Bagdasaryan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5_gi3l2RHEX5iEvKZ3fnfLZqDvMpMe06vC44DOofIn714CG0UWq3YRhd67EO-UkKk16AhISEmOdBfY6zdmaR7wWDqIS6X-h7Jj-lZyJvDsTlfxphVoIU-f8MS2seBzzxjPRjrvtwjiNvmECrV6P6hp9AwIqO41jU9Cr-2QjsnWIs2xk8XLAf6clAztIfsGqchssAWMDb0FD2UmqFOLxRW6vT9d1_QDpoIz3JCJJziHYlaqjeGTDijprv1rt9ogwNW1fm12QDNqGx2eL2N2SIZQWwKBVaED1JiXou6eFtXMOa_7dWSF1xgV0RR6cahS_4lT86pj_JW9bwPKRLtW59IwH2aVfc2tBFnOYXiLlhgQ6o0tNlLwlem_YWUE1GbCTcKPR5nlqswO1UrMTp83T2K53WSDWHENFgc8KVah7Ywpelr",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111969757959921625990\">Madalina Costea</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Trafalgar Hotel's smart rooftop bar offers cocktails and Nelson's Column views, plus private hire.",
+  "reviews": [
+    {
+      "author_name": "David Stejkowski",
+      "rating": 3,
+      "text": "We stayed at the hotel and were told to just to upstairs to the rooftop at any time and we’d be accommodated as guests and Platinum Honors members. We were turned away by the young hostess. By some “miracle” just as we were about to get the elevator to go back to our room a table mysteriously appeared. I’d like to say that that’s never happened to us before but I know better.\n\nOnce we got up there, it was a decent enough experience. The food was passable and not terribly expensive by London standards.  The drinks were good. The service was a touch spotty. I almost gave three stars, but it’s more of a 2 1/2.  The best views are at the bar area and we were in a place where the view was okay, but not spectacular compared to other places we’ve been to.  We nevertheless had a good enough time.\n\nWe love the hotel, so I’m sure we’ll be back.  And perhaps we’ll have a better experience next time. This one was not awful, but it also wasn’t something to write home about. I’m only writing about it here. Hopefully we’ll be able to update this with a higher review come winter.",
+      "time": 1754093591,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Simone Sackey",
+      "rating": 2,
+      "text": "Myself and my friend got some small plates to share. The food tasted good, but considering how extortionate the price was and how absolutely minuscule the portion was, I was not impressed. It wasn’t the best thing I’ve ever had, and it would’ve had to have been to make up for the price and lack of it.\nThe same applies to the cocktails- they tasted fine but £18!!! And in fun size glasses!! I’ve had far better tasting cocktails in larger sizes and at much cheaper costs. Overall, I wasn’t too impressed.\n\nTo top it all off, we had to pay a £10+ service charge; our waiter didn’t even get us a single moment to deny doing so, which I thought was extremely cheeky.\n\nThe atmosphere was lovely nonetheless.",
+      "time": 1751540982,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "isaac jordan",
+      "rating": 1,
+      "text": "Disappointing Experience - Not Worth the Hype\n\nI was hoping for a relaxed, enjoyable evening, but it didn’t deliver. The 21+ rule after 5:00 pm felt unnecessary and off-putting-like we’d somehow turn into troublemakers after 5:00pm.\n\nThe view was nice, but that was the only real highlight. Our table and glasses were sticky, and the food came out cold.\n\nStaff were polite but overly pushy, and the whole thing felt rushed - like they just wanted us out as quickly as possible to seat the next group.\n\nI had specifically noted in the booking that it was for a birthday surprise, but clearly no one had read it.\n\nThere was no mention or acknowledgment of the occasion, which was really disappointing given the context.\n\nThe cocktails tasted nothing like described on the menu more like a random mix of ingredients thrown together.\n\nWhen we asked to have the optional service charge removed, we were questioned about it, which felt awkward especially considering the cold food and lack of attention to the booking details.\n\nOverall, it felt more like a rushed production line than a place to enjoy a special night out. Nice view, but not much else. I wouldn’t go back or recommend it.",
+      "time": 1747623238,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "veronica abbondandolo",
+      "rating": 4,
+      "text": "The rooftop is really beautiful and the view is great. My husband and I booked the terrace, the weather was very cold so we asked if there was a table inside and they kindly accomodated our request without any problems. The menu is pretty much spicy and mexican, since I do not like spicy food I asked a plain hamburger and the waiter (Raj) checked with the chef to make sure there was no trace of it in my dish. I really appreciated the attention and professionalism. I reccomend this place for a pleasant evening in a central location of the city.",
+      "time": 1756484182,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Elen Alien",
+      "rating": 4,
+      "text": "Nice cocktails, but nothing special for the price. Haven’t tried food. You are paying for the view. Booked table for 4 in advance. Unfortunately, got one right behind the speaker, so was hard to talk.",
+      "time": 1750523776,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:41.226Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZH409EEdkgRBxaLMN6ua6k"
+}

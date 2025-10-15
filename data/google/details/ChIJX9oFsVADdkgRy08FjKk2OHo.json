@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJX9oFsVADdkgRy08FjKk2OHo",
+  "name": "London Bridge Rooftop Bar",
+  "formatted_address": "Colechurch House, Bridge Walk, London SE1 2SX, UK",
+  "vicinity": "Colechurch House, Bridge Walk, London",
+  "rating": 4.2,
+  "user_ratings_total": 2688,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5061488,
+      "lng": -0.0872646
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5074159302915,
+        "lng": -0.08575061970849798
+      },
+      "southwest": {
+        "lat": 51.5047179697085,
+        "lng": -0.08844858029150204
+      }
+    }
+  },
+  "lat": 51.5061488,
+  "lng": -0.0872646,
+  "formatted_phone_number": "020 3576 0674",
+  "international_phone_number": "+44 20 3576 0674",
+  "website": "https://www.londonbridgerooftop.com/",
+  "url": "https://maps.google.com/?cid=8806849173149536203",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 11:00 PM",
+      "Wednesday: 4:00 – 11:00 PM",
+      "Thursday: 4:00 – 11:00 PM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 1:00 PM – 12:00 AM",
+      "Sunday: 1:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f8xkWhAlCpljgxlZP_1vKjamOKzJoM6vtx6As2Jb5Rsd2wE8A_aXb5Z2nHy1ldrsQ9U8nUAgdZZME4glNcpB9pR3-eah6IzwxguvquHFA1y-S-rGStF7SM0KoWO2bzIid1TIa-SOTmhi57R94JloYzQ2mZo3GKKTeGcKkSI__3xaHv50TRR8CzvGTachT_h5bdPrm-m_xFEte9LaR_1NObW1XYBj_IKyFf1b2NHyQn4boL8HEzVraHQSvHhyAs9hCetY_qk6hQ4WFqueW2WoKtmoSG2E59D2l7IaFWeLOLNA",
+      "width": 2900,
+      "height": 2175,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112508728848911916332\">London Bridge Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f7-W3SGyAic2Vva5E4uhR941HSQkiWY9z_TLbC3GxsSNPJKmpKEAEdj7w64W8ds_H8bHQwrStDVgD3YX3WXqECOK9sEjcOaf1vWlp__BsTg6eWRJsTvNk9-_PbC55Q3C6WMd_WEoTl8vMHGIlCcKEHvUzxJ2wXLZRZBNev6tF5X2dPXzNq0mgJCvTh9iFmxniIRqjsGuNRtHrMifptoRk3azDg97e1NoAVLFJ6Wd0HhQOshb8_lmyiK5dx8jgJBtirnxWcmSg1UkvqoTJ9ib8YZTtO4tZGNLoJu1D5iZ78lQ",
+      "width": 2900,
+      "height": 1934,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112508728848911916332\">London Bridge Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2di3_zZyKAG5aTw5RWfWnMRUsOVwF4kIDFsa-KH6sVsw_C6pe95JWcJjlTw1PD1z_mq4agEt0vOW1iTmlTgmGVURXW1eYaKcnMHInvQQYOZsRLqiYfxKDcXDbMVXKuWkQiHEkLzTGDpxInALWxdO56H02ExTB5TeUCkr0ed60RrHZ9tY7QWmxqtcqeDTxmrWgZFhcfTGt89EYYAMaIJJOqaYJB1DC-Kb9r2BM0mvy0r8I0kijBPVRyEVHTp-xtX55dJjA2SgWxP2oOhkf-NwA-eCuYXnC4QTeRj5mf_TmLZGg",
+      "width": 2900,
+      "height": 1933,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112508728848911916332\">London Bridge Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cIevsIYJGkeUMo4DI_aWZRwiXPILKQU6S2hAD0gx1z49wzVg3YFB7W99fKHy_a28eyZttKU14N1xnnNfR6AzUNkjp92ENUegXH1_K3WvahPp1EqPEDR6yXvL5G3TrjtsqUVi81v-PuQTrNBaMPa1Ofl6z1i85wjthlGHMcwNMJQR0_Y0VE--ezzYW2GYMoEXRJMyK3vb6qfdj_NLxv81SbxTomNbUp7F3cfQ8zWgEMR_kWMWK-HsetdSrRyiCJnGkcFIvnOffiyQvzUt_5EPv-Rr3pVzfocKioVma1zuJJQA",
+      "width": 2900,
+      "height": 2175,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112508728848911916332\">London Bridge Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2djsk7DBVlcCsvuUuO0-0SpVhrgvkFeIaDDxU3CPHy8lzZhwQdno9bwFsAUzuTh6aw360tRzyKwe3cs60oaB0lPicWEMh_OaMMOY9hzxdtdjaK_j6t0W_YFABJi_m4YXWayzRH_R_Gc1Fh_BzebOPZpse3kGNDNpbRrA9JI60P3SdGN539CJX_yoBt1-KK6URPIJErcJ2ilhx1sDKcZGGoiD8eCRNH1dR7CbrwgBpjj_3LxdC5CmwqP1Xaa8EmsvOG7sjhjKC3GAGXZriIsNXX5W6E27QE0jBanEN5kRFT5rQ",
+      "width": 2900,
+      "height": 1933,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112508728848911916332\">London Bridge Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMuVKSWKkZG0BXOosuZFLkW6DvNUcCFOm3Cjtm95ixdqVi1SyH9UDo_t5E4SUHMrBYIDFsoX3i0kPwkqqfR7v-ytYCsLPLRgHiLf7wbGBlrHZzEIiHH_5kHQDHkYhlbWeTcWQeenkJbQGLNWT8VY2r3yNAFZdRc1hCjs_yumnfSZ_ATdBMbM5dV33x_vShEA1VaIMakw2CjEq6oBvh3QlJe1AiNmT12aS0B4zqk6828ujDH-bawKKhYCp_2f8hWYoSrw0oCZ2KMvyEFaZQES-1l9GMY6XRBRsXrX0zF2bZi_QKADLJhl-0qZ2JtCVY86Ym5ZBNrE2AsQ6K4uZTfve-Bi6AMW24lRXMdCwi88JPdNbmpxi3NvEQQLsFW0zCr5px4FMaXUJDcKLlrrE1dyYtynpMvW_RG0yCmuP58RJ7K7bc",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105908243577380120098\">Steven Padmore</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cApc48Rm66yiUVZBeunWn1bW1mnCLe9OCL_ofyyx06i4q7lY1W_yegou71H8UWzdqy9Ashv65iOCjlNsAR1wetmD8wwoqP7jZNooMxaqxE2wook2_AQGBv0iXQptlKK8A-hhvn8XM4RTR3LEmQAY_szlLB8liGcxHvNuyBmhftjxwKWbLVdmKrtS2AjRWJ6g8z0Njv2deVtcZllvEzZ4b5FCvZf5MvWdj-qEtqUPvJxeRv-gOP3I9NZybBEdT3XZOqlA18zDe3egMuVj2YuRGKzJeL-UCxCvKAeQ2mV6h58g",
+      "width": 2900,
+      "height": 2175,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112508728848911916332\">London Bridge Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eWNO2pkm-ChXZFS8pVYWmz-CzSsJVmwiyOuWfMgn8MM_X0SiDKG6GVYD4T7YS8Yq93vFdF5mNwOG4nYQptk6YvBPg-QcAQg2rbHCsZZeW09ezjn2QtivwsebplGS8Eh1mMXD5-ol9AIHhtutNOIlKqhd1vSWiLpPyuDARkwyEA_ICcx5eQ9He8_wXiNHgk3Z9daT0147Td3LHsBzpsBPSPPVdkMtLbO0ANvuez_8N59_w-zUT9jzAlPqp6wp0MvPuJ3CaR3-6EbZu4j_QpU7pbjY5Iv4jAzl80na0RYef2vA",
+      "width": 1050,
+      "height": 1050,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112508728848911916332\">London Bridge Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fbC4T6a0E4qX8kHASt3sVEappzxgBtSHFdWSPTq4mcPDb14u4Bw4OAyVjiaFTN_W_meOJ3dGqjUnQWfBvpEEp8iYRNsAC1TosleDB4kOF91oFqvTLQq5J1xy_5c3Io-0HuHhY8QsTshqS5Wi4FSK6x0bvywORDoNsL1PBWahf_oLzfJzEFrhXEK7fvRgyfgUnbYw5J6-ss75pCH-SXE7SHwQrz2_I0-U2wn5lGbUcUh1GIwOR1I1kYesW1sr3yK7sxW6JSkoSYRvFyH9E4Emcs9uUMCrGA_pkQwA2Sx6KMmzSNlc28woQuSTMRlwmlR1_rQMnONPUWfWAyH7SvWzC-02neFuCqtT-cABOvHimne_6eXx9kRS0PvbJU3HOEsCSiH229S6VPHfqd_5S9uNxU_bWaIJaVjNpsxnparm7qdiKVPTdAoOYB4gp5TtHj",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111364067614966078954\">The Big Helminator</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2etw-6J7x35UGShT5ulXsqhjYADb6oHQwdn2TekvKurGTWX3hpTJsdo151nRyU5GCdM_SKpJpCZio6c1mYOEaSzeg0fXhP439IEmAnbd5VLC6WhYfo0vA64EKGI9eNGEM7Y_ZDA5ooCC7bPwx9BZ_jh6bw6Ilxa1nyY1jnyi2mZphXn9cnCGemdAeq-1OB9su9ldlpilES1ukaSiLunLp_0WeZdwTsqJPQDi2bEdfRpvFXzjUlwIttrXhPD7eaK6zFny_1OMioc3iPrQWB2Y0a1NX82gTz6WNlhr7R97-9Sjg",
+      "width": 2900,
+      "height": 1933,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112508728848911916332\">London Bridge Rooftop Bar</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Vibrant open-air bar on a rooftop terrace offering an extensive drinks menu & light fare.",
+  "reviews": [
+    {
+      "author_name": "Kimberley Taylor",
+      "rating": 5,
+      "text": "Great vibe, food was amazing. Tried to extend our 2 hour booking but sadly were told no. Would come back next time we’re in London. A great time was had.",
+      "time": 1757169049,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Neer Malde",
+      "rating": 5,
+      "text": "We got served by Alex who was awesome and then another Alex came and sang happy birthday to my friend which was also awesome and unexpected. This is the place to be if you are in London bridge. Excellent beer and wine selection. Amazing atmosphere and super nice staff..",
+      "time": 1759527342,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Rohan Morley",
+      "rating": 3,
+      "text": "It was okay, the atmosphere is what made the experience for me. It was busy and the music was good. Waiting times were good, I went around 6-7pm. The stairs weren’t that bad on the way up to the rooftop; but I can imagine it would be a lot harder coming down when you’re drunk. I liked the food, but this place isn’t something that you come to eat if you get me. The staff were friendly but as a small con; the seating area wasn’t good where I sat, it was quite cramped. Overall I would say 3.5",
+      "time": 1753633828,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Niamh Smith",
+      "rating": 5,
+      "text": "I was amazed when I was shown upstairs to my table…The panoramic view of London is unreal as well as the venue itself.The staff are super friendly and accommodating to your needs,I had Bebe show me to my table she was so lovely and made sure I had everything I needed. The drinks were perfect they were just as good as they looked,as well as the food being tasty and quick service so it was still hot.Overall my experience was 10/10 I will definitely be coming back with friends very soon :)",
+      "time": 1745545138,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Bobby",
+      "rating": 4,
+      "text": "Lovely place to be and enjoy , good vibes , good service , lovely cocktails , 🍹 lovey staff , only thing your have to climb the mountain which is good 👍. I loved my time here , highly recommend",
+      "time": 1756190286,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:37.350Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9oFsVADdkgRy08FjKk2OHo"
+}

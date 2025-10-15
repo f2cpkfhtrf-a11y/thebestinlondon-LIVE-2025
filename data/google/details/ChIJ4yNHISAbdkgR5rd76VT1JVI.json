@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ4yNHISAbdkgR5rd76VT1JVI",
+  "name": "Frida Camden",
+  "formatted_address": "40 Camden High St, London NW1 0JH, UK",
+  "vicinity": "40 Camden High St, London",
+  "rating": 4.4,
+  "user_ratings_total": 947,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5356976,
+      "lng": -0.1392894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5370108302915,
+        "lng": -0.138038569708498
+      },
+      "southwest": {
+        "lat": 51.5343128697085,
+        "lng": -0.140736530291502
+      }
+    }
+  },
+  "lat": 51.5356976,
+  "lng": -0.1392894,
+  "formatted_phone_number": "020 7383 3733",
+  "international_phone_number": "+44 20 7383 3733",
+  "website": "http://www.fridacamden.com/",
+  "url": "https://maps.google.com/?cid=5919407030291642342",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eYwwmo-WvBh8FxLarFaZdDYGxsuOUd-8jJLGjBCTR5VN22bXxjk7X0gmphpoFnrsN6RbFATyxa3B0F9Ix0LZJsk6EqdGO_97dvQGUUrTns2wYFj9lAg0U0BX7enblUBzCI7UcroqMhUsKG1lRTkeQHnWF1fB8E9cq8clWkmJ1FTXD4r-mcM0e0-UHktzjkPaWpkPjHOHoWUM8PAZIJV-IOokukLq33Q0cuSuUext6bZzgVYOn5jJXygZh8JANZ-SrwWfyH5ElK8fdcwZKmfee-pNO-9g1M2klsczLr06Zj0A",
+      "width": 1945,
+      "height": 1134,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117797592687415360360\">Frida Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clviB4yqSPMYbcPZQkRinEBpcsXfA31oUHDXf4Aa-kMxprgaPG9V8VcxmMEIVBoGKyyXV8M-8DLIQO2WlBJL_ZCnsbQxMxeasfvy_y73LH3mx0zjGn5w2zzIv4uBidO5Wlbmkhd-yc7CWb1joKgFpORJwHQzzbVj2VX2M7t-u9H5oLbiRdtFdwggdSIbjJ3SV6MUegOkQwnXyQCtp5UTxysfalN7NMPTORruBg7c46OgADhVxXs7qeGjPV2VWPre_7m7iKGXetjgoNHNBFXUsRqOeTmASDOYqK9hw5zBYJ3Q",
+      "width": 4096,
+      "height": 2734,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117797592687415360360\">Frida Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eC_2OA9xG7DVfKaMTHeggQyIv0baEdQ20zFq0cyUTlbNsP_Fyb0W2dTt-NKwflhtMcAnZtVROhWnd_ok1nwrjirB9L4aE6T8ZA1R-_JqTt51bHpYBiFusZWaQS72iyCqIo_1AhqXUYT9tqxmKtOqeIaDjxBeC2Eik4T_IUmPRzJbRcI_3fg7MciMGl0SMfJO5mBKfP5kTapY6aXcYHMJSz4D44bj2QqB_5xmdPNPBns9ZYcTaHxX8gtwCMybQjy1QJhvl8oIlxl4N5LTryCbY8w66lOLvY1RYKQKV5Fyv8bW8lXXPL6U6ITleCGzIqd-OlcDNmTyAo4uZeZB_f_2qJhHdH-1xeTGtJPvTs9u877n2YPlP0rsn7h-sLuJricWy31u2NTjyhQk2aL82wi1VicCBXof51s4PEycm9_BB1qA",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118376569419976311537\">Heidi Kahlos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eWQhRFq-XKr68t4hA56CGVfnHwC1tj6yp319FuDTHnJRfZ67hegmiMR-Cx08_EdfjW-k5MwXljh8mlgx7w9XFfBm3icjaWMlQyKaBPxrzdwuYarVsXw17Z2vR_N-kBHKJzGkuumqWj-QmK9Np2O121bqQLiF5UaxL81dqcq9QJowXBeEGqkQPKcZwXx3aYBPd0_9xXWl9HmLe2XSYo1uAbpQlqnvDW7wxJCMe6d3Hd-v8jvmwvBTqJgwlPZPDw0uyAqD1Gc7SMA7NeV-8YpBCkFjBa1-YpRQy0oTZqM7d4IHKy_3SsdznwCY6GF2CTs1gdyjqgjfkVl_2PAaCfWBSvAvRncGsHCahjMq657l39aLcShEzfRBAGHKoQv_MzSOihIc1FjFZc_9uQCs9QgBFWqCJdjawGezdbFp1cJBNf8whAXQWBD3WUaYbpcp7q",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102566843053056947459\">Julio Gómez (Planckito)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cAk1rK83p3_fjgKIZvMnkjgA-OHu-7XS6vDCwSyTZHvQ__mcfUITo5thb1xy6B3WDsk_9z_JkTBBODhIrPymX7aKB1bLRtZ6kzCYCaHAtUaoq88Vb3_OeYWOG1e468wpkgGEHc3gNyhBqgkzlOi6fXm-rBaAIxhdZM4aTEBKI0B74y4j-7V-xaiwfctGviSZ62PyDlYWgLzun6Ke1mYmbcwDUp5NUmTYqD2GE8atOTUVR3XwUDaprcQpENWEKTKWKrWEjR3xSkvk4_Gcvd6qQOOyRuSsC7P8q0Bd5Gbyju4aK7XHnUXrm7OR4vgq6O6nin-JigWSOdQjVZ9BM-H25Z5RMbHCORDIYXZhT6k-VLfdu98AwDtJ0JbwC7jDtLKgS0nJ-kqmrdb_TUZqFeRi5CjKio9wBluG_wGKItVxnSmL4Bn9zPKzGr0SVPqA",
+      "width": 1080,
+      "height": 1343,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114441585386602925541\">Nicholas Martin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_EEOHsUO_FhQ5HSrv8Dp3xUtQix_rOASx6HFigjOsPQBkcQnDT8L15s7Q_49ocHRdREjvaWW5ZUbtitQAxReyCAv38FAMmNMtyCtxyjsb1HxAmhBW3_13HYvfPL1vwtaUDnso7Vxrkf6fUrLPHpCN3W5J1ALYkg7HYMB5SwoRc3t3FWsgxaIrHOdniFTBLatOEXp2x0fs4VukNcXeYr8wPTiugOdaATPEKRcuVXUNImtn2yPCE81dIkT1uS0K-BnT3VVkMJci2xsitbQsnd09kjvVGSakHcQonzyKPAu64uQc-rANDs8Wub18iEek66Lv25ueQYU5JcS0Fl7K31yjKEeZDuIzGIELWPC4FVuS0gGNzTfrjAAIdNSU3aVVyZNaGMZ3nGV9SFq8wlHfeeMpos12h7gpOjwiENJH4YmHwg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103952193910006031682\">David hatch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEcv-lYSlGhLIf6Xv-66DU5XaIPe_95DM7KO_h6bPsRFiWFlC0Dh34UTqEH2WprymrGO5uu1SOAghZ0rxhJn2FH1sr-W2ZW3g2K_zU8QilW1f3aHWz0GvMvsMOIbXuM7zjKn8_tr2RcSKXX_1yw0oEsxQDd2xx_AYDbvixfOqJ1QrPP7vRN_tfg6jngCaMNJinAq5QNV7ycEkq0w5BsmnMEK6fOGgGqn8_LADBp3TAa-qBAVUg1T9ifgZ1I5sGHC_hK3wnSHV-I9TOQm1rSgw6SmjRVpPe9F966u7nBUT6WDoUXosAVv8NCczAx0W1e7dqVVhZ--n5n649f_5DDNDvmj7NhnVVOx3Y98GHlCGiROus_o4t7AUCCsk5YPxi0Bj5SWfwAQDVfmkL1xI0llf4m6PIiXPWsrir-D8gX4wVKHZSBWWPHzY1AFp9OA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108549578970162274646\">Alberto Verdú</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c9v_5fY6r4T8c7cctz3sm_iZzGVpBuxp7qAWf6ZM_SMgMGF0j-qCl8piWqYCJa-0-uJmsJiR0pHfF-fZC75iKu90SxJmKf6q1ahEIXnjHTS8gjou0zOCpFzH0nJIf6l7rv6D8s-2nx94JLX7ed9EFeM_bL47LSN9mQG5vGR8zd6zVo-Ew4nVHLh4goYX7B9Q3QYK_xsnO6hBs50PRPMHVnTYhwxeKfhpl99tDNNp2cRRuUTGzScehgG1KYaA9pH4qdisD1SrRPPFYyna8Q-ijLe0uByqeoV78h6toGmLQHWb6zAopX2FwF2Fr54HhAi321ymJu2j9hqhI7kYa6Rs6SKgOUs94ES7qqr5KhFJoRGyxLNdFsoXANJLYvuXxmBGB6_-Wf_j8KWdOvupuiyzPBe5rROsBA6DtggD0Mi65Mmw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103945287665852742459\">Mohammed S</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVfue0hGWil5_qOsCDRPPMFh3P1CMdYhwHymXkKRGO1MKsPN7C-Nch4E4HMIkDYZnEAoqrjYnMrZd1qMnkgp0RHXzRhB5-nzCoIF7KAEH7B32GkNwMrE0_EP8GaK_SzUy1ZvPuNTCq2GGsRMb7kw9S6hWDOlb7tD4_kamWPblfBNFL3EgJ3YgaJGiFZKLHTSt7OSSFBeYJUmjWK0xeElxuoCzwq2lVpw9NrhC_l68_Tfl2_LKbCLikYUNF3Dclmffy2fVCBRCMnbsQskehd-eavJcaFynOlx9WR51SPpVNpd_pw0mFz1i6xfyrMSit_fdwSmJHsVa_-1oKMC2Xt3K-f7knDS26LIzYS9DMq71HxF2ycznKA-N0J71DrNiR1EGss7ER0EV0ThgQ0Xz2CXo5pDZXUFrkb3nRdJ2EhVP2GyH6",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116015671018664024520\">scottie lobato</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2en0HBCqLoaoR33TAkEYLOnCpjHURxr5ZfjSYIL7o_dNlea7EVGI8y_Zu3t0ncfuumclzNw_TFAWa6ZojwRC7uEp2dsgOlf8QyaAvzv8AUvSno_I_WOPRv_lUyanSa2U4sLEEA4KVtOK-fvfEn4OBd5na6Qiw2CM4iZwSLDRuhHsE9EhyypAuKyQMk4bJ8hLAwIjfo2BSJs9tijHSxN8BXqv5r7s57u8hgwf5XI00zVpIFaWzGLvNI3gVwQ0jUFuOCJ3Mo8gNNaPgQQbvTSfR4HDALsLfFzBX9asYj1S_ZM-w",
+      "width": 4240,
+      "height": 2832,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117797592687415360360\">Frida Camden</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Mexican & Spanish cuisine in a rustic, cantina-style space with colorful chairs & patterned tiles.",
+  "reviews": [
+    {
+      "author_name": "Nicholas Martin",
+      "rating": 5,
+      "text": "Frida Camden is an absolute gem for anyone craving authentic Mexican cuisine. The flavors are bold yet balanced, with every dish feeling like it’s made with care and tradition. The menu celebrates the richness of Mexican food while keeping everything fresh and vibrant, making each bite a real treat. Whether you’re indulging in tacos, enchiladas, or one of their specialties, the food feels both comforting and exciting—easily some of the best Mexican fare around.\n\nWhat truly sets Frida Camden apart is their salsa. It’s not just a side—it’s an experience on its own. The traditional recipe bursts with freshness, the right amount of spice, and that homemade touch that’s hard to find elsewhere. Paired with warm, crisp tortilla chips, it’s the perfect way to start a meal and sets the tone for the flavorful journey ahead. For those who love genuine Mexican flavors, this spot is a must-visit.",
+      "time": 1758150028,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Iris Jin",
+      "rating": 5,
+      "text": "I passed by Frida one month ago. I was attracted by its decoration. Today my friend asked me do you have any new restaurant want to explore? I said I have one! So we are here! We ordered spicy beef nachos and Chicken Fajitas , passion fruit and mango Margaritas! Absolutely delicious!!!! I highly recommend!",
+      "time": 1746036847,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Tammy Storrow",
+      "rating": 5,
+      "text": "Table for 5 booked for 5pm on a Saturday evening. It wasn't too busy when we arrived and they were expecting our arrival which was nice.\nService was great and food arrived promptly. Good vegan and veggie options too. We really enjoyed the experienceand we left full. We're looking forward to coming back here. It might be our new favourite place in Camden",
+      "time": 1742665545,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Richard Colchester",
+      "rating": 3,
+      "text": "Overall the experience at Frida was average. Not bad but just not great either. The food was okay but over priced for what it was",
+      "time": 1754031546,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Sally Thomas",
+      "rating": 5,
+      "text": "We came here for breakfast on a recent trip to Camden as the other cafes were busy, I'm glad we did as the food and service were very good. The young lady waiting on our table was very polite and efficient. There was a good choice of food for both meat eaters and vegetarians.",
+      "time": 1758469522,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:03.149Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yNHISAbdkgR5rd76VT1JVI"
+}

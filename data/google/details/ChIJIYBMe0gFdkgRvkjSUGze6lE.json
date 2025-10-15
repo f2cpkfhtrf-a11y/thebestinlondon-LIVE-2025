@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJIYBMe0gFdkgRvkjSUGze6lE",
+  "name": "Riviera",
+  "formatted_address": "23 St James's St, London SW1A 1HA, UK",
+  "vicinity": "23 St James's St, London",
+  "rating": 4.8,
+  "user_ratings_total": 3709,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5066352,
+      "lng": -0.1391577
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.50804018029149,
+        "lng": -0.137927919708498
+      },
+      "southwest": {
+        "lat": 51.5053422197085,
+        "lng": -0.1406258802915021
+      }
+    }
+  },
+  "lat": 51.5066352,
+  "lng": -0.1391577,
+  "formatted_phone_number": "020 8050 6932",
+  "international_phone_number": "+44 20 8050 6932",
+  "website": "https://www.riviera-london.co.uk/",
+  "url": "https://maps.google.com/?cid=5902774818416249022",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fMyHqjz1-ERuhJC_tEL2bomY13Emi5VevuF6TSw8xFG3pSsFBESvgxzyOfdVWq3-hpjXTO7MCFcCIVWZ_rOKB9wyd9aH8WRiw-NhU_r4g6Z6rVy_89nXHGZb3d_5WMIWmDSzJ6lcQ8d9k4B0Q3ggyJJ520y27WNoR7_VVQJLCMroEP5rxS0GbPvdHpBYhz5CfPEicX3EGRqB4K5460r3F2EZXbNB8MQ354juWqJlTl6BV_pI2FBb_2EZqzme1QagLtcNMwu-f47jXA1_UUEofJyhUBlu2pqmAJ5ptjOCZsKA",
+      "width": 3600,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105785406281018256035\">Riviera</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cI9FFNzndXrstm_GcYSNTjmc1m8oYVJN5lBzLjo9o1Uh-4gZs5tmsailaCuXUTkhJe4yeXzTLpRuSPdjREv5J7uxHggE_LFUUbR4q_6bXaPIU7aP-sdoQEnvKNyvWscBS58b3cV85cKc0f8xzDAJupbroZCTQwJTru4lfqCzx0u0TqCdNLxUzZbjQD0t-RjW3UC8xOK506KBadeplLZVvXjfHw0SRi-B50mWKmxoMhVEZITEiG2ZZ-oQyXw6_Le40bgKUX50cFhPb8DgMIRtVM3ERxAPsp9jcUm8f7iVjSDcYeL5cXp0i62cFUHaDbaToFgjaK_XO0t4aLnttt2IYSQGkfQ7C1DZzWfsu6nY6nvLB0Pw6BJ5HOHGVWeHTA1r4CVpBmwXJETt_dWhnRVzTU4955UqpfgGEGGqCMS0LMOCk-qLuRmVzOooYpow",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105156388983038181348\">Mei M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3Zn5768KeMyoYNOOI8Kf9C_74gORHn4Gn2sHjUrxPZ4AAJlcnWTl57SFxhTy4mL1IKPhlPyMJTp0FXPloCcHjR5YJ4EEW_MIylsMJUFdN2BBPTO0tcAy2aZW3d0OTxRSm6F2wJzgqRBe0WR5LmyCp4J6vfZj-TL1qKs1kUM7YalTd1c-j_hVLv0C1YMbWm8Ldwc5oCnVTMS6QnQq-Fgh1qI-OMBS8hziIxuKP-KMTjvixwm4_FiN96xZUjWdO4a_fO1NXYdtuU8KsGeMH8wg0B-9iyMJDsJhey3WF8MuxvQ",
+      "width": 3498,
+      "height": 4373,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105785406281018256035\">Riviera</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fhlcTUeHEV2K7jcb5iRgZyCLm59kc8XjFv9Y1ecrm5JpZzfbdHAofXa8A8LZXG8EkLWNdxaGNGsuBLtt7iltPpjGWqAXTq7G-ZsaskkwelHwL70NuEq4sBBMsRm8u8XY1IOx1YfBdk0jK5xZTcBvILeJpqchjMbE5wf-EChuFDgmUGwMoxwW2k7_9xhj-OZXldM6rjnCTzRNEFhBqlqA1Ymw2WVU0ihiJZ4atV0PsObuSy5X7ASgOzqukHbwbRYVwYW6z0vpBW_9FoM8K8nR2gRXamhawfls71d5vBnFjKKSniiUNXoo1VfbGiaqtSdEVoubuJHuqRTH5SEM_NI0tmeu9ruJoG3tQxr8EVmAm1YCo00FTPyw7AYK5beQAsKGeo1O4xXfln5yIiP6FuM_SLMtdK11g7LcG2AkBGCU3lh5W2GZnNCWFOBRqn6w",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116514469963769034917\">qixin wu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2frS_ZAOpsGhK7UVsy9_0ZC1I4gICrNqpSQ1xpKoaFAU_QIeDtfW9Sw7vkpxsyVcxE9P7ar4bkmIiFy25c41UK21hDtW_ULAf44t4rEZ1Ud6H0NPmxmR2ORFozOjelvNdVCMTq7zefqS-H7ohV-dohpV6VeQXxb9SzTzjwaahOAbIJwIabacNepyuoSa_WYt5--ygkl_GWoftnO_BGmXGtT3ORjSfsObtrKgHrzRl2YhMMenqvCOoWgph5He4VuKU6Sg2HrbG9yPGRlHQuR1IlTkUOTgg49WAoipXi4uH2qHcnME-OfyXDgYjKb2LlV0KD_FdZeKd-nW1CXPKzNo6pDLBq8HUg7byai0gxIxMKSwsXkBwx1-XRH5L74CQM8fAw1r592GjeYI3KDd3Uogp7OPg300ejek1uSOwNsQ41g1o5oDPFHpymvD52vtvbO",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108189475970104422439\">Mihaela Motica</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cs5-DYFWeuun-ZRb25s91eMKAH7BZg8bdN86yAoWmaItXG8WRBqqgWoM7nYoV3mYsGAhN9uUMacsDzNweBGIDBPCvHJ4tGok4sg7prEKfbRkC--SyzDXWCaYjqkanVA0WjtkN152lPlVDyvFUlVxC3TNIVRonEORPFQ_4QXlU7tqaMFq1ycumzs6oGY5IvpCPwIfC-XOijh5iojIUH8aWfY8grdvudCnw3OJSa4uSlWvs74tt6FALiyMBmiYnHEnvZFPVhGE_788iyiP84SHN1vKx49ih6_ZlZbb0L5WPKK4njIHb8gn8SJ2vyx9w4tLxhoMWv3Smr2-rhQvEnpBA4JFUCXQyIYpGbVxkmy8-a_I1BdH1VosI01-fZH-snHLdKEp4NPrpwrUH66WJEGAebhsK47Ejbf2psdqnwVl3qgt3Em5s0wki6WKL3nJYW",
+      "width": 2381,
+      "height": 1786,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107232262706727094464\">Samah Abdul</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dXofZ0gVJC_E5g-bMuLZ_uzjpqfN458n0YxSDoyKfx9kUP3Lc7nOsLFPSpTwi-xv0mnI8zgAVSsO6v3TbxXMVc3i8WtNQ_ixvayscBNW0ru2pIOVTwd_lJOR7DkYKieqNMVYJ738m03GnXJqzCLN_ddVXMQ6EL1_WAQ7m2JwivJETd0LiW_PTJzGBQAjRKHVlkCHBBvxs-UMeGotCs9fTeDQCB6GyhO3rY68UR0KjtE5psoih23bEJy07Y8x7fIjEueA1Mvp10wFg6h7wNmH3ezHQEO1WvjOMWW967LznrQ9a49aa4gzQUPdWLuGstPwrdgJmtzb84ZMn0mBrQom3OnUV3q0yU1NodCIqRdxmDUs61_nzOAlVrAuGAvdKNSWRvMo9M9HTdmb2RdywxjqrQm5goBqBjiqvnB048FuGhAEQKYkLOqXz7ZRB-LA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117373431608315351839\">———-</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d1QE5Qpy8TavL8Etc-55YGWTsiOFiXvSL2HSibRYfRJKrcqXO_QF9vfJEWr58znUIvOVjzcxLCagMltQbnzZVrgSQVTHsclYK9vljgU19Tz6Kvtih3U7QZiUwCUkTyVMYstw_plUJRAdNS4pLvG-ABuappzAldoBy5GewkAYx-AF9_rw_rRp9LdMRr5pE89pcJUpISl2mteUS6RqYKhOQz7SPEEcO2fy6wj5nWNNf8hMJzfMjcF4EdVnOuW6gydCFVwnH4mrsZ4pJnCTMvpAmmFmZt7keSSR4IZD3sg7ecwAOPnW_WHAUk5X86ycbIh_QsrHmu7qCjZe3nADsha9b1-e2QeAFCXoeW9waJhfonWNmMC204Fz0u3AFcncuoBWddXXBtx-3BUKoWjr_BQwFIVsLHLRZM13gsNEqlXST8WA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116160732849651889088\">Teagan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dAdeKw_T2S8iWxWz5A-xj1hL4RSrZq1UXAZFla53CxmCM7E2RWZH1vWofdXsfz8pqNDk3fgyhDbfvun3rwI8TQ0jTeKzAatkkTWJxDQRoFdOTP5vY71xS2aaEQ1Dfesdg9L8j_hJ2hvFCLdUTJOSWLIgvUhSwBBX3jjrY_lgJeE7rMf9vuM4RepYYlefMnn7XpRXpFJW1xjyik8LQqyfdjXBj9l3QHqlVkeCVh3j7AhRhJaAUF8Se0VhpqVZ-nGEzz8WTl1i5v_a1-XhYWuit6HS6xgUgyUn3dYdQ8p1NH68wlyl4KDgYfo-q6x95c6OyF_fV8PuttCoNpVZiDnXBvU_jilT4Tk_dEaqQfmuNs5NmFJ-_DqM3x17Y70R8znqrx6a5zZW_RecBJhM7WWFLKoRGl1JI-axngTipJsT-OVt3w8hyG9gSmIo0iLfEJ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118392351628067648214\">Kingsley [King-Zlee] E.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d2JzMKP9HTt6VjMGRufbal38yIMV6iFr3YlXxZYEwyai9ankQBg_BQPttlU_OR2vWKtCcawIhlVqFWb4c9a4bGwdCGIada-MD3hz-UHOeY04zIbU2wyOZ0h2ME7oQ24KGxEPUQTsucYV-AwA4PaCSKqGnN6vN80dohC1FFeUSpMgMsLm4yksdY8raQrmzTa_t_HrMwnQgQbEoBJVxKh1vH7yJo0LsI1CQfx5edcLYfnWwrjTQjrriYdkSY7uwzfObT0vBFFnHtSVhUWzguU1KTbBIh7Xm4wsGlMmXmfZ6kV0r4oEg2UcpBJWmdNAMzrKxZAImQCSsFNV50NoCI6i9MY5cymVIM80sUqafrrF5Fluj-rrsitZpUsF7qwYeHgwThIKqutLw8knjO4Tw1KfULJudi70CDE0jHZQGo6D4Fyhw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110744083532723222740\">reemaks</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "cherise asante",
+      "rating": 5,
+      "text": "Celebrated my birthday at Riviera on Saturday. It was absolutely amazing! Our waitress Gayu was so lovely and her attention to detail was impeccable. She made the most amazing martini and she also made me feel really special. My seabass was delicious and myself and my guest loved this restaurant. Also to mention the decor is stunning!!! I highly recommend riviera!",
+      "time": 1759683827,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Elena Ialonardi",
+      "rating": 5,
+      "text": "I celebrated my birthday at Riviera and couldn’t have asked for a better experience. The food was absolutely delicious, beautifully presented, and full of flavor. A special thank you to Omar, who went above and beyond with his impeccable service. He was professional, attentive, and made the evening feel extra special. Truly a memorable experience, highly recommend Riviera!",
+      "time": 1759088996,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Amal Aldrees",
+      "rating": 5,
+      "text": "An absolutely exceptional fine dining experience from start to finish. Every detail, from the ambiance to the presentation of each dish, was flawless.\n\nA special thanks goes to Omar, who elevated the evening even further with his outstanding service. He was attentive without being intrusive, knowledgeable and ensured every moment of our dining experience felt special. His warm professionalism made us feel truly valued as guests.\n\nWithout a doubt, one of the finest dining experiences I’ve had in London— highly recommended for anyone seeking excellence in both cuisine and service.",
+      "time": 1757183227,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Oz Arie",
+      "rating": 5,
+      "text": "Absolutely fantastic experience! The food was delicious, beautifully presented, and full of flavor. The service and hospitality were outstanding -  warm, attentive, and made us feel truly welcome. The restaurant is thoughtfully designed, creating a wonderful atmosphere that elevated the whole evening. A special mention to Riad, who went above and beyond to ensure everything was perfect. Overall, it was brilliant from start to finish. Highly recommend to anyone looking for an exceptional dining experience!",
+      "time": 1756935040,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Anya Ali Hamza",
+      "rating": 5,
+      "text": "Everything from the food to the service was bang on. We ordered the lobster pasta and pesto pasta and the lobster pasta stole the show. It was DIVINE. Paxci and Omar took such good care of us and were lovely. Can’t wait to come back!",
+      "time": 1759175479,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:45.709Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYBMe0gFdkgRvkjSUGze6lE"
+}

@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJ806W6zQFdkgRIGPNIKwBKGc",
+  "name": "Kimchimama",
+  "formatted_address": "142 Fleet St, London EC4A 2BP, UK",
+  "vicinity": "Mary Queen of Scots House, 142 Fleet St, London",
+  "rating": 4.9,
+  "user_ratings_total": 343,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5143273,
+      "lng": -0.1070235
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51562233029149,
+        "lng": -0.105674019708498
+      },
+      "southwest": {
+        "lat": 51.51292436970849,
+        "lng": -0.108371980291502
+      }
+    }
+  },
+  "lat": 51.5143273,
+  "lng": -0.1070235,
+  "formatted_phone_number": "020 7834 9615",
+  "international_phone_number": "+44 20 7834 9615",
+  "website": "https://www.kimchimama.co.uk/?utm_source=GBP.website&utm_medium=GBP&utm_campaign=fd10385-website",
+  "url": "https://maps.google.com/?cid=7433193023771337504",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:30 AM – 8:00 PM",
+      "Tuesday: 11:30 AM – 8:00 PM",
+      "Wednesday: 11:30 AM – 8:00 PM",
+      "Thursday: 11:30 AM – 8:00 PM",
+      "Friday: 11:30 AM – 8:00 PM",
+      "Saturday: 11:30 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fT705PpdFudM5q4bI857ONxpg3xMLk8XSAt7SjkOTNZcnv9OOFbNq9Ibn5d2sx2PZmwXEwwu1EXdNqKHZ9w67rlPalqYWVmQZ5nV7VEZVn7WzHKTbcLl38dvRPlnV2NV9MqbdQy9k6zRiRYouzpdaauaqDG2aSOCy_l-P0AX3rab6azLd2XJcTWsfI_x-GIYheC4EMWM21sdowCJyyLcR_BrKZACQ6qgfITMGxstuO_aTl-WqlQnzrmO4yF11CqiL3V1yzNx7jiZYFRROk7Ia49PyOfYf8iB2cbL6v40xmIsZ_t48j1lIa_j97wYkZXuOOdSsNj9WTgu5lqTbxa6_USmN_tnIoN4afLN_ue3FlquKNxluEJw47QhanabvKpXO1ZfwfvcFwKTzolZyF5PMrDHh2n9pC5e4mwKIqBfCQSgjs",
+      "width": 2936,
+      "height": 3670,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117582143258020950987\">LOVE SCOTS</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0h0insK3YhRfIE0sPnHGAKQYpI_Xyf5UmGOetg3jhvNv1nmNWQzN-k_1j76dCNeycMsLA7Y6TgeEX2onNROc0GWlafTiyMqWUNk3FSnlv807vp60l3l7VD3I9sgd7QIG_Mh_1AG_ES7Pu6_VvTLUIMe0pDcP9kkYccXNeMZKfmbz6bhE1cwHRBNrWGWKbmX2UjfQWDE4Dx16DPk9QsVRbPrRGyINOQUP1TrakBmWcDu2guhe_e7w9NMoosgqFOEIHK3F5xM7hZ_0mFgnIv0ZmfuUey05Hq2X8OjWM82LoDg",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101929771868858885755\">Kimchimama</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dWi6jjki8Igv8ihpD0Wbvhoyf_QgxneGv2bhJzw_hjpex4w1_hp5jW1tLWx-sZvpHAAdvcQk_t-zOXttGvAIppf6othJlZfIcrgvhKt89coJ-dfnAdrJzdf0y9CM8iA3q9fOPkneQBIanv8XxXcBnd0HLCkW73YlGoQB0hqsfdhQJ2QdZluhce3b0MzSOnDqWUysyAGtLpDjAQgSTimrFXog0Wd4HAwBtjtW6C5obq_7-8bJExC1Qu1oSSCBG6iyXow1tYa6MrdfL5CxuYJC5dxo88zK9HUoVxqhbNRL-pHuziXBk2GPUNeG53Ie6iypNYt4hPh6vpoLUCZfSPcoW-wqTIOojxfHsx7Oo0xbtIDBxgVCiJq0WalqkF5YeBFRnhfV1fWPoz1SmkaZCUAfObUXAzE-PsJVgUDAHPTR5yCD3Obo_vTJjW6MVPGeqH",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113096261316968349730\">Yume “OokamiART” Ookami</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3UjgROolZRc1SLRTlEDfhs382csf4JB1pmihrZr3uHh5Wx4uCdNcOqVhJuLtWbaAvwPf1rIco5Z2QY6Cadwk0kD5W2vPRZXsZjCo0eFS4j9_DhfZg6cCBWSkVp9JMpEsjvADT9csEa6VIPXttn4wl3odxX2nMqAEXstoqhFt0v-GkG0qHyF0AwdOJW2XUyqqQbkg4qPxDitYNGtWwoP8OIIcjmQRbpsElEfp5jaGcNUdsxS3FEOmX5BwGU2HtOHrenz2LoTBFP32aK1h5RMdVdSvYgRqtp1w379HAW5aV5SZjzrrTRMm0Cmq00TODuTzbXyh6Ysf1j6tbgVxNEH3JEf5jwoFvg6makjxHI0tM9zjRuimG2q2tj-5QiF3q-lzuLdNvkazqDU_zftUtbWavp69Lb67_FqX-4qiLclnsyZcYtzEPfJZLNM1JkQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115017614385319398235\">풀숲초록</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dlvQUy1suy4h9pMeuP-g7Cp6N_LOU4KKNSAa9SaYosD47U8U6CSr49BHQsbMMYgPGiQ9jtloIMfWNRii2KniLZtiC4G4xdtGqULf9k7gx-pmxcWI3SaK7Vget68B7hTGnXpX_v1kOEtNRpBawePafSagY9--bEvjj9Jc_hV5D_q9D8TYYtQGGGvKc0OrA300V3zp3qzEmQOkEoWB-eRaP1bO5i07MVenk0AGQcvzNrKflZhxjcBNMHDAd7LhDgOC3RtTPDKZHnWwlIoz5o9duavCkmyqMp5oz5SDe3hdcNJqRXebm1HPYRx_lkYhXVEHjtdhmeo8h3K0Sn_9IqZoRxDbt6cVKGAYV9FROQBY7zRZBN3J9lVqWzSI_-AhYbalfQxwPBGcbrMTDhOOMKlqqLteiGG2S2Bg3739r1OFnNDtoueZUvksNfMDtip_SQ",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116954754343316346173\">Domi Nika</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2deP9kgZ9LPu0B9bE02KS-l1-Uc4oWAA2Q2CG2Kg_N_mV38OsCUceO5HaRh7Ige_C-Gua1XZXujlTZmmsexeC4CTL4nxhtYEyFfqs93PIAeAZW8oyps9dfB4FuAk0T8DiX5hol0bvhytViSS97W0cDNV3gHtcurpKYvtztofqSw-bEDrfLUvdK5BZZihss8C3f1aNqsf_aiXyCOu1ia7KvExD5fxLqZF9uTA9nG0RPDLiX32QJLCPxcrqeTd5xMGDhZltamnpT5E6vlfDUKBCLClOV9uzMds5xeFExQeGIhQZmr6ksu2p179U6ybKKWcSFw7hBWnFfq-LQcAAyg4TDmOzOme1LmdM9iBC771CmK3pCe0_NeRrZA7Qnf0g1c2RSJ-ADG9otXjCbO6am1KpmMcwW7SE8BfJ5dB5tgyx39YUH2",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100018395386364872202\">Ivan D</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dpdPUlMP5rXA2ffMVS7zf0725tdE3Nsj9wrjoWOn-vkJiKQPKzZGVCTek2K1GquE3luczNjoKwl6MnNCSBMSLOLKiZWfcI8g8U94a74lIhIYEIJ55cTACdLS63F19PUy_iL-mAaxnaMhsnSOWWxcckPBUI8fRn83emGxIsGYXj-VZdYZkSUBao9NB2B0h-lQ2aFS3AH6ntRsOpiyYOLjjj7zPrbwyIGKNYducLGixpG3yTR_Fbthj_8tSyvb2Jza8Cwcp1fvKm-2JLAorZJJwUPJwrtu8V6nj4wDDHHclLvncdxN4yII3Z-YxIT1hiwhG5e5xIq-Z7SR_KNFVOIjUcBanwbiKOV24ffostKYipmdF9PVgTari8KJFsbXsOXZ6XUK2jUQJNoOiww6GYGBQXCTA6qC0tlaF47g5hHU1OpWCuVVRlPHGt6J7rrQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115017614385319398235\">풀숲초록</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eZ_2ZZYozJOKZ_g7C0rY_SgfElm-zUCeSDjAhVIWcDls1S4f6DkooXTWIEALE7l-wNfrtOANtKUbE3QWzkEypA7nZc4yfrEciaLMqJyGQ6I-C4tpdTLQr5Z8a1AhmQfRF4o01ZxXCWLz3JT-snF1-mQqypZxkFy0QjGifiFa_jqTm7NMEXsb-hayYzrwUPsgqIzJQIaS5iFFy-ZcDnShxHy2gqKzeC_o7VcS3nr5bn78bjNq3d1yYh260wz_HuYt-2MSPqFLAyb2lsg3WqXtWdjQJtJtngmelal14nC5f-Fg",
+      "width": 1200,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101929771868858885755\">Kimchimama</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2doy-xiVBediYM5h-QSx173uy4gaoRH42OWr9UqN982S4whP_afhVDJLNiezLzqsjzF73xnZ5h5YrR65pGCDXQqOnOyvlXcnpE_io2jRLyrVJkBNNSXVbYMXhj4GHJr7xkjQyXf-1GVax3QlheQBiUk4MlHZ_o8Ut5ZG9z8earpy3e7_nzhbE1Y67JVmgbTQt3yfIBHV0CoySjKlNCri-u2rrVHJiCMVE7m6z95A6TuaUTm9IVYFjs2_59w1sViLiHu1Gwi7ZwcYh9rbg2jnrvAxY4zE6yCwpLa5wFxo447x8WJb15G04gMUPAmVBGEQeiXAfyh0WZd6f8PF9iolgZCOXPhjzB_XF7F3lSTnTWFR0p-ooBcqv2rGYBwYkMlTP-ALwsg7ftdlib9FY_eitvxhZK1rI52zbseZMB15I_9Ckis",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111881412876018413392\">Jun Kweon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eNVLgcP2TjZXOk3xP5LqTZj32TyUEIjJgCKlWkuUZnga4Nqppmgl8iebvVSYblkhqTcfWUzbCOQv8J3eOMPefVjd0VPH9MAAt_TA8Qo4U2HN5yMl1CjHliXLzLwwg3YyMWeb01Sx2qbVbM5Mw60tOnxrnirT_vjdiouSvAfMJpFO08i_Lb_4xP511q1ubsEyw6zamYLYBdeuYOMAu_woiNyD2VBV4yY1RD0G9pxe9aFypCaZvWNWlzIswRAgn2rXk1h8w4X1Su5EwJlbLdwBhwnjml5z8W8HSIQeEd_ptygJVsEfVXeV5AWj3-wRNwlxiHSe3yASTumHcN5RG-9K0plouMu_pxtQUeTEQmOHz2wsnDSKY4AHEpvC7ZV8cY-y5P0lH_cXmYgKLM3WRJgS2uU9WtD9tOyxoPHZb3XC_DiQ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110406335649378997036\">Sabrina Hafid</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Domi Nika",
+      "rating": 5,
+      "text": "Very lovely staff and the owners wife was also there to suggest food! There was nothing on the table that didn't taste good. Highly recommend if you want some easy-going Korean food.",
+      "time": 1758286445,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Imran Syed",
+      "rating": 5,
+      "text": "My wife, our baby boy and I came here twice for lunch in April 2025.\n\nThe food is super fresh and delicious! The staff is very friendly and professional. If you happen to meet the owner he will take the time for a little chat and tells you the beautiful history of the restaurant.\n\nWe will definitely be back!",
+      "time": 1745301600,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "zuzu",
+      "rating": 5,
+      "text": "The best Korean restaurant I’ve been to in London! Both the chicken and the stews were amazing. The tteokbokki was sweet and spicy, and the cheese hot dogs are something I definitely want to have again. I feel like every item on the menu would be delicious. On top of that, the staff were incredibly friendly!",
+      "time": 1753888688,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "J P",
+      "rating": 5,
+      "text": "I had the kimchi stew, and its spicy, rich flavor really brought out the authentic taste of Korean food. This is my go-to place whenever I crave kimchi stew. They’ve recently started selling Asahi beer—I tried it, and it was crisp and refreshing. Next time, I’d love to enjoy it with some chicken.",
+      "time": 1747088014,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Emanuela Andreea Budeanu",
+      "rating": 5,
+      "text": "We went in to try something new. The place was empty. The food was very good, everything was perfect. I had the Korean fried chicken Cupbap and it was delicious. I highly recommend it.",
+      "time": 1755355602,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:53.138Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ806W6zQFdkgRIGPNIKwBKGc"
+}

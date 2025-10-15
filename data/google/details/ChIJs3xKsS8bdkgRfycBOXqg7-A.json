@@ -1,0 +1,235 @@
+{
+  "place_id": "ChIJs3xKsS8bdkgRfycBOXqg7-A",
+  "name": "Lever & Bloom Coffee",
+  "formatted_address": "Byng Pl, London WC1E 7LE, UK",
+  "vicinity": "Byng Pl, London",
+  "rating": 4.9,
+  "user_ratings_total": 433,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.523281,
+      "lng": -0.131303
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5246195302915,
+        "lng": -0.129808469708498
+      },
+      "southwest": {
+        "lat": 51.5219215697085,
+        "lng": -0.132506430291502
+      }
+    }
+  },
+  "lat": 51.523281,
+  "lng": -0.131303,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.leverandbloomcoffee.co.uk/",
+  "url": "https://maps.google.com/?cid=16208350030732535679",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 4:30 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1630"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fHKmY00c0-W1mbbpNDxg2-u1-I-g9hr6kW9HHalBJDDdSNsQV8qEGDyhU2itkCp4rBq59tBcoLe0rzp_57NU8D0OkQqGEzUj-_E6IGmRqVxYksctDTasjjwoLhLKTmoxNthd0NSCUtNeBRZZW1fp4LadWNSaU3pxgBHhSc7aDaRAtVDeY0oE_Voaq8puKoHYT0c8gf9CAi6J29KYiBR2-Wg4bdYDXhjwpASpDi-YYFtN8Fz0T_UDEjkDPBxbQOpE1UBhJjaB1qvDqbvygaaCRN4O93K0LLB1cmXCXEEw22PQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110158591877902968336\">Lever &amp; Bloom Coffee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dx7bMESOZbo0W2PV90UjR3Aca7HgASsz5D0jd5JsQwvQvcXDkb8TR34TynD-Os-2vZpZ8S8PpafQoLfqOrEvXZMdgSavqjZJ7gzb9PMigvYuSFWd5xDo4R2SbpSoMM3f1E8HzYp233uoWChSCpmmI7zffEa1ZttBYaG21eO5-J3J6i4PyZmY7Flp2MKlXr3F2i0aSaNuFU7ySKFVSjKcRAbEwkcESCLj1xl7P8_m6Nz3Io7DwaWLizTaq_-uQ1s4UpCw9kATcokks5S57RCFZHQTP8f0JPYsvpgu5VDEawPQ",
+      "width": 1200,
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110158591877902968336\">Lever &amp; Bloom Coffee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f03qs355KD8elvOUmkoO04SD4XJstMr25IsqVVM1TqR9K5N3mk97D4wlsOr1PWBBhCdi3bZNNQtwDpVa5FZuORvd6jmEheNhOReA6kNN1X7zz5HAuR9R8erINLxBf6tAgIZgWxt1IDNkXEGawLCrpBUe7Z0Jwos_y5UrI3bgybK5RNjhhfXN-qjT3M58dXbH6W1yaeC7Ij8UByGqQqpnvAcpMRl3q8t7Xtnn7c1YuAQ-2Quu4a5zi53bAT-8xra6UgnNlhX3XiF4yz6eJZdx7N5RP5-Ln5SHvioQmvp7l_yKf2oW_3IRdgYiul2NIssZGrfajAQwHyKlk56YwheWcPexxwSd0Ay5Xy64FOGf3sSqcGRHRM0gazCD23qUyqitxyOHSzxE31F2Jc5uP9BickQExQEFNRvmDuKDrxzMGoF0NWf9c0I-NUceIcpakN",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114690030874620446044\">Jack Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPqtEmeIMxuzDcD-DTvxCutG1df_InrMUTAPP7UYc052YAR3qb0RG5JMhubXUINH23ZyKy4L_IPWa6hfpTWThxB1WevZcy1mk394s2uMVnj0auC8Yq5CVOoBVCVbb-C6K-mmxIOrWW4gh3-NkAGLgTqY251wz7I3_oQ7bjqMV05BTJxkpdZtqNvXyanoc_sBZ9kH7LYgswoZLtlekGYgUz9wWkI1h6O7KLwAKeUiKJ58gauXuKS1z-Y3MMVQ9SsHFflTrD6sMJip01dfOaY2dNtJLELoWFquBhhc8qnfh8Rw",
+      "width": 768,
+      "height": 1024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110158591877902968336\">Lever &amp; Bloom Coffee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c8G7XiCw_32FmUR1nWEUmJeMJYPE_6jSSkeaMAhYIqp1hrHDgy3dYP3a_1HL4QR2hlCK1TwI4acv7nnnSd-jBHg5v7RoO5O87R77K8vdqVnbiG6nIvNQ6pTD1gz18QTDCsot_K_nsfooDgtKIaV81or5hDID9K7NiAq1ujKBJBMQlXRAScr5MzXZrCS5Cf6_9BFXYMGNybK79Vx_kYhg_jfERgi1JTvUYJJGJW99P2XEpojB_dL_yO-UygDDBtio7UlNRMH4c1SVvkql04BYOrIvJhrvfmEfahghAqBzZVd4aOmFcXQO6bFpD66cyLhPM_u5RRWVnMkvv8MHacd1-fwjetbIp0uhBU48ZV27EojphO6ExS7zoqSlc6hM06TnpA4uG5SJFUZ1nYGXTLx4RcXDZaGA4WESQ_Ne3t4wRzmnv8rnh0mff1mB7nBg4c",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114690030874620446044\">Jack Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ckOJnVUIAu5r_el4_BDidRBM4-PbBUHnTQQLb7rscyymPELIQcdSDKbCPqtkPeVBWFip1YOvgoIgOEg7OAWw3serkbQHkaE3dbBnZ-VDnfm1AOYoVpREq7j9TLstlTTSPqB_8VgWE4YGRFYlY1n9Wr8ZGrAkR0eB1ocUsEf0hhV_aGJEsEC2mcm5WV0DT5q1lU1Ri4-A_SRBLl6kof6OX2C-g2gyulwtZ6pPkgRvikw2Rt9awGsTlE2bkk74FvM0xGt3kVMzSRlDWRryDjMp_XVzWWD_SZgLGESwx788Kg5oDPtrnV6yOvReDQ83r-WXO0f-0TK5ncwgCbxTuhkuE47DFoMqhp4oBGxBJtQj20lMpH9MJH2S_iezFXmo11VpVs3fP5G120ST8HavYE7JAhUFzWHSIbSJI6FpFfedXhsC4",
+      "width": 3022,
+      "height": 3550,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112367723021107989818\">Abdelrahman Alaa</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eXq-_NCQmA0Fjvy6GypnvxWOt259YuWdt-uwifOU3BiidfN1933Oe1IIgmAIk1GscATfg47-a5FEDMwjmc2m3ALPODP4cML30flaAWKrn2kdboQAcJ9sV-Xbl5iRRVp_nH3MK0_IrckYM350pcjGvLpCGTnyVOr-iPiAev3U_IfHg7BCWwj8yydRFlSQoFb2qfa42Gk5VDJ6B8E7CoEW6a2IJii8aVnXZysk4Jacl6Rv66d2KgNYrecsCWUDRZ3-LiA5vvkXqHP56Bp4VsN8WaRJut0IGf-O_MGyswLMzivvtHHoga711OyV4glkPWWxF-MVimWJf9G8YclsDDqkiVOQwBA6PAqiGkAWa-gfBjHoPmHcAdpzvN_hIle6Mo2Eqj3Cqg8hE1sd3fjs-Yh7CpSipdmfjoP6ZoVXZiXlw",
+      "width": 320,
+      "height": 318,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111212415611442262540\">Nossor Billues</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fxPm0jVBxauKHFCIrW44p3QafMDo1L7DK03zf4NaOhiNeZIiSP2vvV1NkrWzG5XcRE9H0eFTFdsFcI80fCjQtFCtF8_-TxZxNsz8e56SGcE8sy9iJ7qvZLowBdieFJSow1t1LLLq8wHihi8OqnlCR9k0iG7ihoTnC1CdO8E9yFOSspvdaL0epuSrT33dbxN4S4MFhmjet_WttAPpN-IWjjbRsCN9jU_KixCF01_wVcABGvrbheJ-odaBTuQ3-I24bKd4ex4akHXowlvcZBNJNsnQVdJVKmHqllRImVs-sQa0HPpOg5FpQLi9o39LgIU575AkjfBlq9lzUZTgqBKh7Dy291LQxSljoy4YAGBQyRIJm5CrouzAZwwMo8Jy2UVLFLC0V6WC4aRMprU8CKve3IY3HQ3wFd13PheQeGom2eag",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105951969715060504867\">Дима Настоящий</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnjm3qW8ytz3VSWAxWTv54RVxtmxmR5WCkTSq4u86VgPtF0heT1H4n07wsyKQXRIy7nyT010vIPXuTqHHZarFIXTai_Gm-ZIfUUCphT0e6Bc_j8PC3pf3y0dnEM1qY8yHDDfUsfMXfvOIOq1eLgLT6c1x_mh3C0HvOgfUm4PyAVfQZgV9KHsjp8UvNIIb6Vdq1CFNLWdwheeqJiNz526Jiw9azWSVKcieD5zrWLeMc9qRc18vBid0WZkSeM9NRojrDy-t7i1S8jI-Iem8kNMsXjLqazJYBVcByvoIlAvF9cwwXseVbX6fUbzyCHEpIBO0SEEWeu2DFaCR-6-Tr38jw7PcdyjDf-gNsoLS9NNqeTB5sp8LM32-W_tULpV23vX79SXxE-6t5RMksDhsrrm4NJBJxgFh7f1eKz7VAw8U",
+      "width": 4608,
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103831842761401572341\">Brian&#39;s Coffee Spot</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eDsBLR2f9LRmldQptC-NwHwguC8nJXsS8EyvY27sK5GlmnzCJ67RUlycvtzOVb8Ta9aFpCqR-sTF56pL3HWscQydGfpdrfbFTpgi1XNHOwEXsiatbNgCKoxJyxAjQI9dkpsqXZ76VihPEi_c34R5nrPMzykC8U954GOX-MEWiJuNxJaWYmDfPx1P8QVK54w9qRA3gx-qoOdoHoE2A-R5LgtqH7UwRSMi-0HF6ivmMiUrT5NskJeZTdbq5ulUePWzvyfnIbC8y9ExPdcAbmEJbP_JxFAr7yjehQZf13Ed9c7f1DxDEyA9jj6iqHgqKjYLY4fVlDjcgBuq2p0vchwzJ897Qqhdf8B6IR8atlBRcA462pDVIGw2avt0S9bpKfYVI0Ar6Vaw90ySXs1YoBWUWU1xvgAvehm7FbazEF1tAbnvSc",
+      "width": 4608,
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103831842761401572341\">Brian&#39;s Coffee Spot</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Shaheer azmi",
+      "rating": 5,
+      "text": "This small coffee shop in Central London started as a small food truck which eventually expanded to a shop because of the amazing quality and demand for their coffees and baked goods, so I had to put them to the test!\n\nI tried their iced Chocoalate, Hazelnut croissants and their coffees and I can’t lie, they tasted amazing! The 4.9 rating on Google is valid so definitely check them out🙌",
+      "time": 1754439967,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Florence Leung",
+      "rating": 5,
+      "text": "I’ve been trying cinnamon buns everywhere and this is one of the best! It was a delicately baked cinnamon bun that you can tell from the taste, appearance and texture.\n\nThe way they balanced the level of sweetness was absolutely outstanding. The sweetness comes from the combination of the cinnamon paste, sugary crunch and a fine layer of glaze on top. Surprisingly, you would not find it too sweet at all because of the hint of savoury coming from the dough and cinnamon paste. The chewiness of the bread paired with the crunchy sprinkle on top made the texture 10/10 for me. Not to mention the fragrance of cinnamon that lingers in your mouth, making you want to take another bite right away.\n\nThis would be my motivation to go to the uni lol I’m going to try the cardamon bun next time!\n\nPS: Super friendly staff too! - thanks for the treat btw ;)",
+      "time": 1742284898,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "Barbara",
+      "rating": 5,
+      "text": "One of the best cardamom buns in town and plenty of choice of other delicious pastries. Cappuccino was also very good.\nLovely area to sit and read on a bench, I’ll be back",
+      "time": 1745922186,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Jack Chen",
+      "rating": 5,
+      "text": "Best coffee shop in London! Thanks to the lovely and kind staff~",
+      "time": 1760287333,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Miia Sj",
+      "rating": 5,
+      "text": "How lucky we were we had this spot right in front of UCL! Some of the best matcha in London, whisked in front of you and they know what they’re doing. Lovely staff and delicious pastries too! Will miss going here regularly:(",
+      "time": 1752239801,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:23.470Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3xKsS8bdkgRfycBOXqg7-A"
+}

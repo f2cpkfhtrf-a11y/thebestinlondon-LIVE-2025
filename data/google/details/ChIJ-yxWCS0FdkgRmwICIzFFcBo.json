@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ-yxWCS0FdkgRmwICIzFFcBo",
+  "name": "Gordon Ramsay Bar & Grill",
+  "formatted_address": "10-13 Grosvenor Sq, London W1K 6JP, UK",
+  "vicinity": "10-13 Grosvenor Sq, London",
+  "rating": 4.2,
+  "user_ratings_total": 3239,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.512421,
+      "lng": -0.1510242
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5136863302915,
+        "lng": -0.149636519708498
+      },
+      "southwest": {
+        "lat": 51.5109883697085,
+        "lng": -0.152334480291502
+      }
+    }
+  },
+  "lat": 51.512421,
+  "lng": -0.1510242,
+  "formatted_phone_number": "020 7495 2211",
+  "international_phone_number": "+44 20 7495 2211",
+  "website": "https://www.gordonramsayrestaurants.com/gordon-ramsay-bar-grill/mayfair/?utm_source=gmb&utm_medium=uberall&utm_campaign=business_profile",
+  "url": "https://maps.google.com/?cid=1905098719720768155",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 11:30 PM",
+      "Tuesday: 7:30 AM – 11:30 PM",
+      "Wednesday: 7:30 AM – 11:30 PM",
+      "Thursday: 7:30 AM – 11:30 PM",
+      "Friday: 7:30 AM – 11:30 PM",
+      "Saturday: 7:30 AM – 11:30 PM",
+      "Sunday: 7:30 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2330"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c_bWSs6bDdykL8PHEhNcp3Elv6RVzC6Q6Z1BiOV6RXcSgKxbJsC4pczXaNNb_l75QlW6bBdyM01MBY7s_mzy8GYvO5dtr01pWX9DkHZMKOjbWfcASfQmjJ2HSJQeEFXFSgPX9K9pypF3Y6ZARQO-5XSkWTiaMIQbtv0cI5a2dPyHwtqGMxCEgFgwWtPdzhs2PjNHvfhCQbXkMRTtUlOHDJRvTb0TB85Oy3SSFNsfqKmWt_vMkm2LxUH_5lmf19nb9mhryysA8Fk8iGPfeuS1LTJAhEnDFZNhuHh2oBn07dRQ",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103775630085359009754\">Gordon Ramsay Bar &amp; Grill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBKIBn4sUmi0cHseZIIipV4WwhWWBypwhYjPYgQuS09HCJ3612f_lq9MNZBRbY2wKlq2_1lahUUGB0jxqXeR-3Zj_Wdh1mSPkmiWa_ZdywrU3uN4YzF9fyuqD9PnEDkZlmGjeUZTBVgwfGTzeblkSzSWxCvRuFnj37oBZ1qgYnWO86A_wv882i5hv8jlWXH5PzEuL64mesWtULVsOUumS9YEYrFqCA7hRui0iwoGBBc1crrkj7AJgyxUv7YLwqEiZzYPo6hqw8nhhH0gy2WFfezxzFpMd3JMCx3TfZTFG5Kw",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103775630085359009754\">Gordon Ramsay Bar &amp; Grill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fK6fmX86pKsPvN4UQysqYtu7GW7x5ASva9l3lx5_uV_IG3GxeXhSgM9ruCQCFw_NQMjNHD22d-kUgRztl2w8oktEpaLxax4EkA9ocW03jOD8pkSLNnmgrnfpTbE6ZdFw3KO253T9I74vnNNrAuBRLFvn98neeAylZnmkgRD3GEy6cr1g3c1Hcp19wGnb2Ss5jtPekh0zMyHDDhP4olRIOeBn2jjYQzelaeUHNfpkd01AP68xdDjeqdotUlngGKJYXYTxxE6IDxF2mf_W4JMelSO2qnDhKZZS50ljBAg-dQSyzcFQY0k8ttYYgrCkXQDAN13WckSCKptqICbr6hh5yGzvhM8FXoCXN2lQcMYTEon-c9FntfQEyTwNWp49yQwAi-gFeXdtKxDRHTnIL8pqTwxd8rKYtU0mUWkCaomr1SfBxt_81Ph5Claznwg0ID",
+      "width": 1500,
+      "height": 1125,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116586292049789019335\">R13COR</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e7z1rwfhCcDTGFQn4zuDa6GlOp3TsHzCNE1DazkhIBAp9jpTMe_-oH_ZZF2uZm_cFOc_wcoS7n1WHxDmBV_VPouiDr2E6pXZL-huMoTu4sD-Rv04yiM4cTOR0644RJbaIz-6zFd4D5ZdCSIuiEUWEAF_aqF6emo93hLqGCCWUeTL141OU4RQ9pSQRDerR_bdOzqlYNOJcg-UDpO28RYimAlleIOfmVLdL6vfOyFvIOWiigwrRqXL9sEp7jJpcDxRsrMxUcKlRKxPsRRcaVOQvE6gpmIiWBqN-xlqfuNf6M6_KffZGSqJ99bcJMaf5F4JnWgqhwuw5AuFDheXras--PCkxTuc7aZVLSUUJdD8K4kviNNrWeM7px3ph_X2-jn6TN7pvOfTW_iIjpI-SmNq2lrHvMH_J__GYEWsRx0ew",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102559806931829579854\">Akaashi - Eine Frage des Geschmacks</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cL0L8wcSeqj-NfySjAbvuVlF6cYFNXoz5LWPlohzKKsu73J4PMryrhKSS6iJI6aiSunqpIYLyQLz1PlXZhTXeFzSGoKJEZ8vx4wI2tukeJbm2Ay8HHVh2jyxRaxAQqfXUyhPrZ4eftYtVqqMkYDzBHAuJ2eWPOFxoGkQ1PAckLnRUd1VQ8K1cZLXuiniigmjRmiqs1f0dKQ0roKXI-xBnY0qXupuXe1cXcLBvqQG4QfSCOAoDDGTtuGOZOrGR-Pw7cBsmVSR351Xb56qRgVnXDQbUPmzPperlR7MZL15gmjDrUFDjIU6O11xL6xNXJwt3UzDElWM1R7Sh6xAK5fAKZh7vN800hzA-TyqgAMW2d8M8bCveuA3ZcsChH39wOMxKdAlm2JBGbtSicwWUwr5J7wXDtng1YjDd_ou_zHfrQlQb3",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111726222570171213476\">Bernice Sim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1m4688QjILHV_rMUsOgrNaLbdHcNZCDzbyESPC24Lw5L77h2P_axW58KlwRNFcI29aHC_AqZpv6TuD1em8iIakIe7M92BHWVuHDCt0X3Dh85cjo-6R3AR2TBvAVCUs2p1k1rJfVCkIi41tzfIHziijM-odrOWHQ1ianTDsSFwJJeTB9qCzd64qOWlRCw63YoWHcgjZhpGnmpqh2bMTnff_p7E2zI4Ra-JWgXDFyyGKuSLCEPfiAtjR94_P_-0E5m7zDOVHrQCaHAB58L7xDA0q_UMDXSQbJSQO9931-33-g",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103775630085359009754\">Gordon Ramsay Bar &amp; Grill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dLHzxadrYtjw-dC7YxBwd-VOF_tUD1AvXmNwZwVpl7mUseSFpPzuZyKwAtErzhPHiTIHq3Kwxr6Cw3EOn63ZrjbCDGGFb2fZB9WteyQwUaO43SDgKjV7Qj1XaVu3NYmHTYNivaOGNF_DpPb_wtmFG_gBOt9rR3Bn0WaoAJ7BSb_n1G7toAtXGkZTFqeGNtli4_y9EWkCVvoZSdgPoguMNQpJOHDDmikAk6nM99dw9ytbzPLluy606gPEVdEVlAEoBh31J5dGhcEWRHbFgwU3T8ttYMzw_3uOKSi5uh9BoMq9pg98frGDpt0LrIATHF0hTtRjvslttb1fznqj9tHbl8OBZb6eIPqMC6zpfyZ0gImxD22094raMJnFwb8sSvzUgJaQkCphPqX7SX8h3p-xGyPgjXfHgE_phHShkqesBYLdc",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108846847974670051833\">Faraz Basaria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clqQQogCZFvBv3rnP-wyknir9_nAGhdoNxrjXFN55RxWER2he0HyCDs1lmETxFCfK_KBYT0etbq0y-NBUCfgPLP_EnZxE8ZBgO-aQ2z9uzVXoO6A8g0kCrtvndeP6VQ2ADA0N32MpyBtsOJH0bVp4Ydbu6uU5VSuSw5HLwZ51wfsU-S1qdRHulHdUtD5s7W2EwX0B3I_LpWiSjeDRENhCLMvRCOhZr964GDEv2ro-fZMlY91aas92olgNAmdtOrbkEIiLu17vEbEmPHVTWr6CxbxVibT_rTtc2C2wpxo9IqcIEHQGcQA4cJRfstm4TkDi3M0JfbdQKm24OMGeRgio09xBqNxYiFFiAXFbyGTza85M90keJhB5L3PVQCrp33m92ujlXg-PfzulBTixKKIapCtCrF67GHRX33pcRP9IeevY",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114699830227326564524\">สุภัทร ธนบดีภัทร</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dyTaQNJjAKItj09DS1nGvYrvM4dGsx-EJYgHPfwLeujuSOYDEf1T5XgrxegTovntfCyqkohAagfvaTdZnJB8TS3TE-0oQu7Ox9cBVj8Ehu6ubOpLkv7u1WwaQUGhkrvTbwKnPmk2zOI-7hsO44wCPGAmG4c4upY4m4FQz9MjJxTr8aff8YD2YcIJ7SZ2DeIllmVBQJecyDM7WGWEhADFBz-O2dqLKxxRDvT1P1d2fQ6wPymN0Ua7Jr3dSagXoTaZL2D_BH_YmQ101WVV9kB_OJLAPUxuYJvzuYWi1pXp0LuqTFkIFpWw8X6anm8wGZ-DCzN2tIAybToBRFtiJgqTbO5dDTgyKjP_9jM2mCMaDGfbtKWrKARAl1whZ_t7VLzuHxu19qsUKLJun_S_ajBXw4yQQvx8S7dQwRZBp2FRrReeQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111035343279211657116\">Pavlo Mashchak</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUI4QTqeGvzXO2NYqa0SFmgEqyqGpwkwD1MvoDMTsRpUyet5K_FIigJfm_4_q4nX0NoLGyHK4ANTRlPg0S10TrbC4-OVQOFr9LrIUk2AOuRS2AhuL0ID2o-EZ9tcswz9bInhLjX51T54CC4Kw0EW3o2w8mDSZuLDH_W__RPJ3y3RfnSlyxJw71XiPQfuMx_OMK-TdHWZW6CUwQcafe5_eaE42VR68UJJ05laFsJsLS_L7a0oS3uiYkhLV4QIXM5_Z4_q8dXiVU_qESgbq6JE_dczgHXctOTnasz70osiOhQY9bGJ44bDYIw3Gm-a68L1YUMl3EAtCzOxicZb6BSAgF2MEUb8w5SeqWUNGS0VXgqUTfPnOSpsK7hVUbCEz5vEN6qP3yTORFuI_4TRUmLEZlD0ZOrXliBjOD8B-PSyKjGw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113752483056069048198\">lea Dai</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Gordon Ramsay's swish hotel restaurant for steak, sushi and modern grill fare with Asian influences.",
+  "reviews": [
+    {
+      "author_name": "Evita Wang",
+      "rating": 5,
+      "text": "The best and most iconic Beef Wellington experience in London! I give Gordon Ramsay Bar & Grill Mayfair two hands up.\n\nWe ordered the Beef Wellington along with side dishes like creamy spinach and a nice glass of wine. The Wellington was made with a rich mushroom duxelles and foie gras, wrapped in golden, flaky puff pastry. The beef itself was tender yet slightly crusty on the outside — such a perfect combination of textures and flavors.\n\nSince it’s a bar and we visited at lunchtime, I didn’t expect such a high-level experience, but I ended up with complete satisfaction. It was truly beyond my expectations, and I had a wonderful time here.",
+      "time": 1755398483,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Maddy A",
+      "rating": 1,
+      "text": "Overall this place was overpriced, bad food, and weird ambience. Honestly I’m not sure what I expected (I feel like this is going to Olive Garden in Times Square and expecting it to be good) but I wanted to try a Gordon Ramsey restaurant.\n\nThe menu is super expensive. This was probably the most expensive meal we had in London while also being by far the worst. The sushi roll was terrible and was £20. I get better sushi from the hole in the wall places next to my apartment in NYC for 1/3 the price. The fish and chips (the main thing I wanted to try) was also not good - while the fish was flaky and clean tasting, it had no flavor. It was just bland and the tartar sauce wasn’t good. Not to mention the fries and peas which did not impress either. The bread and tomato salad were good.\n\nThe ambience is weird - there’s no sign/host stand and in order to enter the restaurant, you need to enter the other Gordon Ramsey restaurant next door and then enter this one through an unmarked side door. Very confusing and odd. Service was also very slow.",
+      "time": 1758997741,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Leandro",
+      "rating": 4,
+      "text": "Had a lovely evening at Gordon Ramsay Bar & Grill in Mayfair. The service was attentive and professional throughout — staff were friendly and made us feel welcome.\n\nWe ordered the signature Beef Wellington with wine pairing. The food itself was excellent — perfectly cooked and beautifully presented. However, the wine pairing experience was a bit underwhelming. The wines were served late and didn’t arrive in time with the courses, which took away from the overall experience slightly.\n\nThat said, the atmosphere was great, and the quality of the meal was definitely a highlight. Would still recommend, especially for a special occasion — just hoping they fine-tune the wine service to match the standard of the food.",
+      "time": 1754515675,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "PeterAA",
+      "rating": 5,
+      "text": "Excellent food, Beef Wellington for all, which was requested by my son, served with a lot of sides. All well made, and tasted really good. Also fantastic wine.\n\nService was at top, staff definitely know what the do, and could handle a very busy evening, with I think, all table booked.\n\nI am looking forward to come again and taste some of the steaks.",
+      "time": 1759679664,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Rawa Safar",
+      "rating": 5,
+      "text": "The atmosphere was warm, welcoming, and cozy, creating the perfect setting. My meal arrived in just a few minutes, piping hot, freshly prepared, and absolutely delicious.\nThank you for making my lunch experience so special! 🫶🏻",
+      "time": 1758751915,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:52.865Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yxWCS0FdkgRmwICIzFFcBo"
+}

@@ -1,0 +1,412 @@
+{
+  "category": "soho",
+  "query": "restaurant soho london",
+  "count": 12,
+  "results": [
+    {
+      "place_id": "ChIJOTAQhtMEdkgR9ZmC_mZR0UM",
+      "name": "Blacklock Soho",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 4626,
+      "formatted_address": "24 Great Windmill St, London W1D 7LG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51177759999999,
+          "lng": -0.1346968
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51310882989272,
+            "lng": -0.1333659201072778
+          },
+          "southwest": {
+            "lat": 51.51040917010727,
+            "lng": -0.1360655798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJhVBIm2AFdkgRe9fUbPJSvdc",
+      "name": "The Soho Social",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 690,
+      "formatted_address": "9 Berwick St, London W1F 0PJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5132492,
+          "lng": -0.1345276
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51459462989271,
+            "lng": -0.1331910701072778
+          },
+          "southwest": {
+            "lat": 51.51189497010727,
+            "lng": -0.1358907298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJr5F6YRwFdkgRNR-MS9GLn8s",
+      "name": "Nessa Soho",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 861,
+      "formatted_address": "86 Brewer St, London W1F 9UB, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5107321,
+          "lng": -0.1372246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51201167989272,
+            "lng": -0.1359923201072778
+          },
+          "southwest": {
+            "lat": 51.50931202010727,
+            "lng": -0.1386919798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJsc95TQcFdkgRDgDjFkIJCz8",
+      "name": "The Devonshire",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 2135,
+      "formatted_address": "The Devonshire, 17 Denman St, London W1D 7HW, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5106814,
+          "lng": -0.1353452
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51202552989272,
+            "lng": -0.1340268201072778
+          },
+          "southwest": {
+            "lat": 51.50932587010728,
+            "lng": -0.1367264798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJESddrlUFdkgRVmxo2T1E1m0",
+      "name": "The Seafood Bar",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 9993,
+      "formatted_address": "77 Dean St, London W1D 3SH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51402960000001,
+          "lng": -0.1330144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51541652989273,
+            "lng": -0.1315602701072778
+          },
+          "southwest": {
+            "lat": 51.51271687010728,
+            "lng": -0.1342599298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJxc4vk9QEdkgRjJ2al7_P9uw",
+      "name": "BAO Soho",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 8008,
+      "formatted_address": "53 Lexington St, Carnaby, London W1F 9AS, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5132309,
+          "lng": -0.1365068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51458462989272,
+            "lng": -0.1351429701072778
+          },
+          "southwest": {
+            "lat": 51.51188497010727,
+            "lng": -0.1378426298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJ818U8tkFdkgRpinGgNP16Ok",
+      "name": "Kapara Soho",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1384,
+      "formatted_address": "James court, 14 Greek St, London W1D 4DP, United Kingdom",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5142306,
+          "lng": -0.1308338
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51556682989272,
+            "lng": -0.1295517701072778
+          },
+          "southwest": {
+            "lat": 51.51286717010728,
+            "lng": -0.1322514298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJwYSoC9QEdkgR1DbvuJwey8o",
+      "name": "Dirty Bones Soho",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 2686,
+      "formatted_address": "14 Denman St, London W1D 7HN, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5107777,
+          "lng": -0.1353154
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51213237989272,
+            "lng": -0.1339637701072778
+          },
+          "southwest": {
+            "lat": 51.50943272010728,
+            "lng": -0.1366634298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJ2_uQBQ0FdkgRH7PG-Ymmcms",
+      "name": "Noble Rot Soho",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 654,
+      "formatted_address": "2 Greek St, London W1D 4NB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.514855,
+          "lng": -0.1312775
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51620172989272,
+            "lng": -0.1299358201072778
+          },
+          "southwest": {
+            "lat": 51.51350207010728,
+            "lng": -0.1326354798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJL1pkqdUEdkgRS3MDjg6kzVc",
+      "name": "Flat Iron Soho",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 8054,
+      "formatted_address": "17 Beak St, Carnaby, London W1F 9RW, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.512088,
+          "lng": -0.138361
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51342117989272,
+            "lng": -0.1369923201072777
+          },
+          "southwest": {
+            "lat": 51.51072152010727,
+            "lng": -0.1396919798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJiYjWsdUEdkgRF9gDUUHqQl4",
+      "name": "NOPI",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 3291,
+      "formatted_address": "21-22 Warwick St, London W1F 9LD, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5117021,
+          "lng": -0.1384747
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51303422989271,
+            "lng": -0.1371583201072778
+          },
+          "southwest": {
+            "lat": 51.51033457010727,
+            "lng": -0.1398579798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    },
+    {
+      "place_id": "ChIJ14izcNQEdkgR_KRFhObbsNk",
+      "name": "Bill's Soho Restaurant",
+      "category": "soho",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 9109,
+      "formatted_address": "36-44 Brewer St, London W1F 9TB, United Kingdom",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51186149999999,
+          "lng": -0.1351843
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51319287989272,
+            "lng": -0.1337524701072778
+          },
+          "southwest": {
+            "lat": 51.51049322010728,
+            "lng": -0.1364521298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:07.608Z",
+      "query_used": "restaurant soho london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:07.608Z"
+}

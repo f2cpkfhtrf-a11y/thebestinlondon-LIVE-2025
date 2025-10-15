@@ -1,0 +1,47 @@
+PHASE 0: BOOTSTRAP & SANITY CHECK
+Generated: 2025-10-15T10:51:36.649Z
+
+SUMMARY
+=======
+Total Checks: 17
+Passed: 16
+Failed: 1
+Warnings: 1
+
+
+
+DETAILED RESULTS
+================
+
+✅ Directory: scripts - Exists
+✅ Directory: data/google/raw - Exists
+✅ Directory: data/google/details - Created
+✅ Directory: data/fsa - Exists
+✅ Directory: reports - Exists
+✅ Directory: public/meta - Exists
+✅ Directory: utils - Exists
+✅ Script: scripts/fetchPlaces.js - 9.6KB
+✅ Script: scripts/fetchPlaceDetails.js - 9.7KB
+✅ Script: scripts/buildVenues.js - 14.9KB
+✅ Script: scripts/run-data-pipeline.js - 6.4KB
+✅ Util: utils/fsaClient.js - 6.8KB
+✅ Util: utils/venueEnhancer.js - 9.4KB
+✅ .env.local - Google API Key - Present (not shown)
+✅ public/venues.json - 0.98MB
+❌ data/coverage.json - Will be generated in Phase 1
+✅ public/logo.svg - 0.8KB
+
+
+WARNINGS
+========
+
+⚠️  Venue Data
+   venues.json exists but appears empty or malformed
+
+
+
+ERRORS
+======
+
+data/coverage.json
+

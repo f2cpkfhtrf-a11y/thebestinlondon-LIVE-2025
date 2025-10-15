@@ -1,0 +1,224 @@
+{
+  "place_id": "ChIJK7aYUOsFdkgRKgJYM07RLuw",
+  "name": "Stanley's Chelsea",
+  "formatted_address": "151 Sydney St, London SW3 5UE, UK",
+  "vicinity": "The Courtyard, 151 Sydney St, London",
+  "rating": 4.3,
+  "user_ratings_total": 274,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.48757519999999,
+      "lng": -0.1692573
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4890024302915,
+        "lng": -0.167728569708498
+      },
+      "southwest": {
+        "lat": 51.4863044697085,
+        "lng": -0.170426530291502
+      }
+    }
+  },
+  "lat": 51.48757519999999,
+  "lng": -0.1692573,
+  "formatted_phone_number": "020 7352 7664",
+  "international_phone_number": "+44 20 7352 7664",
+  "website": "http://www.stanleyschelsea.co.uk/",
+  "url": "https://maps.google.com/?cid=17018770175678743082",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 11:30 PM",
+      "Wednesday: 12:00 – 11:30 PM",
+      "Thursday: 12:00 – 11:30 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e0J_hDzeMsAq38vHHfK9MmVSqrvNPDvK5w5hssVbPkYaf4Ayl9MZbiTvnMPotZfEpDTyvJa16S9ZHciXndytIVJ6lth3IiwEqCCwRyB2GOSSEil74oDchTJHzINnOmJDZH3FNM_zq1740cmU2Z7pLagAZf0tyK_SOp_dNHiullSaBQiU5zfiiGLMvM5pBXajKqy8mjO91v3d7V3nFeSoFUpTM2XEIb2KmgtO_5AlHiHU-JYxx4qJ39lV-ooUP7B2mH7L81X0zyvFORRjd781yT1qRp_ijC4zkEZXp40gmbbg",
+      "width": 2048,
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112966206040811428731\">Stanley&#39;s Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2czRk1blIl2FiH72NrNk_uy5nA6bGmh1-QP_0pzgxKwv318D2n6uNOajRYwv0wHZzGC63CokM22HNgOHVCqUuZ4i5Y_CTDN6um19Os7KocNrvYjXHiHbABorFK4j1Fp-0PTstkT2eEOs9nhltGmFIQBEe_7O5PTePraEDsewSwrxzZq4o1DkY9GiQVPu8ij-Z0kRAcxJuPRJ0XNIwMSHPCgoeOiuBTOYNCZAtZz5RvHMT4yJoyvxdkAygEtQje7737CiP8aXLKtGmY3dgNhgUVW-rw4IgCrTa2G3pGMliqnpg",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112966206040811428731\">Stanley&#39;s Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cB3RMTog5XkVeI3TXB22dU9BS-Recbspo1Eot9tKasVR1mbPWzxZK0SDFGTcjiImzuYbjg-yS9GmkRZcYBMHx2MbFyASqZZ4pJ3Gyrvms_r8lV-8RrBW1Bfyk0eJcldBem9HD1AtDGL0PffBnyF76xYepR1W74tRIKHC_zusFRcAaoKT80rjEiYClEyAO8uN4T9sSLSDuZ4Yngf3b2NTN2KHiKUXXDaAoohH9hvnFaiiLuaRpfL_-WQbvABwBiVelTEYvcZggNYS508JlQRJPwW3RZWHdTkVq-fuaUL_cGiw",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112966206040811428731\">Stanley&#39;s Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2frudqIcB2t9_sQ1SulKlek9sW0luArA9yvVzWii71M3MtaQwuOf-b0JOnsM34CZmUXhlS1ppb1m10y2IibjNJzHzUi8pWiYrllrVUywoaqkOGu1RyHjEDhPgbzV18XzSQU73VwmuboIBxe5eh0nfxSXk2nMfIHekoHor0nQDFnfup2d2lDbRf7h6zuCcdQxcXYbsmQ99n6lHknZIXQvKw2Iemi-zkVOYfNLFSqfHZ8TlfJV5A7agWHuM_kSth0_FBh7uqh_2ZjE5wMIRNLshjB4f4ixRM7KYR9iqoHQosvEQ",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112966206040811428731\">Stanley&#39;s Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fRb6O6Up-zwQmHhBATXPQ5e-5lTkXGn3vkdAH0AZ2M_6KNeWqlkwqLnnEaIUKC5I7nNV4I6_qptcAyFY4viBzJ-2Zd_yjQ553SkzsSoIbT_P5hJviqs-teVEDdo8Qbll8scT_2zuhNsnTIp8J0F34_GtGiSJr6KjgneooF5QZQQyFunqM2w4N-5AvyFb0oNu7zx6H4ewfFgkm_HhLZOiZIC_ow37vjANlBHH_9Z-DDJXTC-Llwm-nqtt0Lh9voXdZqKfhp9JW-9b0-oFBdG79hIgZBiyMLNTgWKRFwRbrTLb4AejCw_Nt-akpZk1CnDfL7f_DrYCuzjmYFyOcggHjXsapmrf1maX-89OytKCljLMXCFjj2iKp4enZnBwZFRzJVXQo_d2QOiRJCxiYcRnI_vNwNJrZcw0A0CcwvlOd_-w",
+      "width": 2252,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110456719457069576670\">Joyce</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAgXG1la0yhLVB4_41r-8y7s7OTZ5I-0wz-gN7Qi4y7p-lcDkL0KSmyrE4dwuCa5cFmMnshwD_48hynpXTuL3S0-nG-1SFnqL-shKStB8jqFNVGbZKoHq_5MkAx9zl64M77y3CIfqdg5Xm4-S82LLbkn3H9CzaHEa9pFDhYAW6uVomURx4omBa-3BOYk8Y1oHKNzAMl4yjPZucA_kqtxsaAkMMkBbfJrxGgqzJJhQQRIVgYW-0u-VWo9LboqyHb4DXtioqpUX6ilnp5tqVnFkE5vqJAgl3_Vs4FCGgOtIaEtmjhG_CHSQCkwDxTpVBgp9fu8F4dUBus8f9fqu9C2LqWw8xd9WchXLNH31BByr9DrATXhejl7D1RWVyjXcZDFevangWdAqplJG2mgEEUWYu5PFJMxtAeJDDD6RJHrI",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103237943790941765105\">Pete Mattison</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cu5IFxXKZpildKddX-X61RaFWVL52VTX08re2Ejeo6M1B-GCj6PZ-BOr6V6LkJbCcRKiiq65mXH_HtNMeOYbmVmCBz6nov1avUc1az75zPwj55_aLOla_ZUhWBT4puzwBWc75zkELZNMQMdzUT3qllc5nHno2f81fDsCmBEYKlM2L5GBFQJsn0P3v_tylGT3LbiSVdp14Ss2eZDy4vrgRD-Sgu9NhqKXOAzyo0-Tjk5J1WjIeVzqG6Q8rDgpqdW58APBijcQj615vDnDNym_saIO-pZiqzDy_MGHzvLTW4tS-w67OFwaj8eORZoyJzen8r4fGkRlBeAK9XUSdqxDwW2if8Mlt21K5AvlHSb1lPrY0Zi2syezTqye1AhWHxotfDd4_zfYx8hSYuFgSW0CjHHZWDZCCaYY9IoGmZyKPUPg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108376574897706947089\">Anthony Manmohan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eyVtTJMhV_TO2YaFtf8JMvYFn7Cs0brTUy6ndeBkVYkw-0X247dzeBfD-Da6qSQQpr81ciP2Uc1Tnt2WBRnYVV4W90_5ku1AT2m-0QhahYCs8mZUrlXIBAGE4SqJPZ2S8TQVhO9e0bkV7b_otcd7TV0oEgt6enZ-yYoEArcz-UCvnEwfpn7jmu3Id3bYP-BLpgD_CjJZC_oVPsASm28f055uAs831u-NoPIxA5hYDzFrVjjFOq1hZNTffwkkY_ZAg-l3IfBPyXv9vYfgXPWroXTKQVBYa2YkF4-U_gAUnQAg",
+      "width": 2084,
+      "height": 1390,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112966206040811428731\">Stanley&#39;s Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cbpIhb_VR3_hny5pRzUQx5lpjeVTvfMamRhb7QcM2K-Ti89nanxY_sZGUQ4ZwSEKtib_M49WX0j35yrx9vK62lrPaK9Aa-M6-OcLV9aElXfC0aI3rHc5ikI5u0Sa2A9kvfrV87EfcCqZwHzRZCpNI7LfR5z9uN0Bf_cRYly1KnynsFtkZPO3PuaozihO0g0_rl68-568ebyorE4uuX6K2vjWT8VcfYZfrchTEqlPJO4S7fqtfcdoKSWYtW0HG88Xt8V4m4FSvL0um5kKfWtvtStplmhcgptbhyMoPWFfFv_g",
+      "width": 2084,
+      "height": 1390,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112966206040811428731\">Stanley&#39;s Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c8wJUeTrWx_OHtJWXzofygyC0Y7PXrAKDxWZW_AQo2vCljuw2M6o_WIdeqKBKZDmZCbDVXitv1ebWGr8oAN8irrb-tmOSYfRWhYfmaA1tSxeSQgn1it1YGjD2FC5IB1nk_7XI-oo21v-RHLddYEfRhe8xpxHiOLDQFUcXg6GAXdquT83p8pBaxi-RrPLmp9pPRMRN0mvawz8SN07AQlepT2pV8xf43mUZBUWVZ_p-eiZ92xOkDVPAe5iAU1KRNaIQ4WmdNCLr4Kir5imAgJrcU9Li8PFXYIlW6dUyO-9UN9g",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112966206040811428731\">Stanley&#39;s Chelsea</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Upscale destination serving sophisticated British cuisine in a romantic setting featuring a garden.",
+  "reviews": [
+    {
+      "author_name": "Rosie Smith",
+      "rating": 5,
+      "text": "We recently held our wedding reception at Stanley’s and cannot recommend it highly enough!\n\nThe food and drinks were out of this world – every course was beautifully prepared, full of flavour, and an absolute joy to eat. The wine and cocktail selection was excellent too, with something for everyone and perfectly paired with the meal.\n\nThe service was second to none. Every single member of staff was attentive, knowledgeable, and welcoming, which made the whole day run seamlessly.\n\nThe courtyard looked stunning, and the team went above and beyond both in the set-up and in the lead-up to the big day. Their care and attention to detail truly exceeded our expectations and the planning process was so relaxed and enjoyable.\n\nStanley’s helped make our wedding day so special, and we’ll treasure the memories forever. We’re already looking forward to coming back with friends and family – a glass of wine on the terrace will be the perfect way to relive those happy moments!\n\nThank you to Peter, Hugh and the whole team – you really made our day unforgettable.",
+      "time": 1755953302,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Huyen Bui",
+      "rating": 5,
+      "text": "We held our wedding reception at Stanley’s on Friday 12th, and I cannot recommend it highly enough. From start to finish, Peter and Hugh were absolutely amazing—their professionalism, warmth, and attention to detail made the whole experience seamless. The entire team of staff was impeccable, ensuring everything ran smoothly and that our guests were well looked after.\nThe food was absolutely delicious, beautifully presented, and delivered piping hot to every guest—a detail that made such a difference. Many of our guests commented on how much they enjoyed their meals, which added even more to the celebration.\nThe courtyard restaurant decoration was just so beautiful, creating the perfect setting and atmosphere for our special day.\nThe combination of outstanding service, incredible food, and a stunning venue made our wedding day truly unforgettable. We are so grateful to Stanley’s for making our celebration so special ❤️",
+      "time": 1758029717,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Katie Everest",
+      "rating": 5,
+      "text": "I had my wedding meal here on Saturday for 32 people and I have to say the food, atmosphere and staff were all fabulous! The staff made sure the drinks were flowing (remembering individually what wine people were drinking!) and the food came out with no faults and no mix ups! The lead up to the day was stress free and very well organised, ensuring they had enough wine for the day, drinks on arrival and even had our own personalised menu! Thank you for making our day so special, everyone had the most amazing time and we will definitely be back 🥰",
+      "time": 1746777154,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Isabela Guillen",
+      "rating": 5,
+      "text": "Had a really lovely dinner at Stanley’s! Service was really great from the moment we walked in, and the secluded courtyard is a beautiful place for a meal. We ordered the focaccia, burrata, and sugar snap peach salad to start- all delicious and very fresh. Mains of saffron risotto and chicken with girolles and peas were equally delicious and well cooked. Can’t wait to come back again and try more dishes.",
+      "time": 1753340353,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Hina Patel",
+      "rating": 5,
+      "text": "It was absolutely fabulous, the food was delicious, the atmosphere was great and the service was second to none. Thank you to all the staff, Peter and of course Hugh for a wonderful evening.",
+      "time": 1748542914,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:55.868Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7aYUOsFdkgRKgJYM07RLuw"
+}

@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJ9TEki7obdkgRxH3iJZNZUek",
+  "name": "Victoria House Coffee & Food",
+  "formatted_address": "5 Coptic St, London WC1A 1NH, UK",
+  "vicinity": "5 Coptic St, London",
+  "rating": 4.8,
+  "user_ratings_total": 4884,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51742429999999,
+      "lng": -0.1263894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5187974802915,
+        "lng": -0.124946419708498
+      },
+      "southwest": {
+        "lat": 51.5160995197085,
+        "lng": -0.127644380291502
+      }
+    }
+  },
+  "lat": 51.51742429999999,
+  "lng": -0.1263894,
+  "formatted_phone_number": "020 3876 5517",
+  "international_phone_number": "+44 20 3876 5517",
+  "website": "https://victoriahouseco.com/",
+  "url": "https://maps.google.com/?cid=16812317372481437124",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ffUVBBMYQOQJTuolg1-eE8c8c3Rm1JeIG_B5GzAkcMZQwk0IKjmJsSL1D5wom22dTiUYHfpS1Eelln8K6v_cbo8LmkiX8pObdLTzOKoSSiVb9uFePH0FVsw7trjEUDnUg3HXTLUe-4IryAZsW2xqil-K4LRtqQfUHi7nBqLOIvzRsCHOTAVXd7MKWXW2UsXorVpagLlKc5pi9CVhFUIO-zNVWlyCbNlwcNHNGAYiALQaCb67PeyhV-Ls2wudIu3YseLWnKg2mj8yBg2Q9L8iWjfxAkoq-bPAXnn8aVHKGRMw",
+      "width": 3199,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111890166690004916543\">Victoria House Coffee &amp; Food</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fzfRtajnwDM3KpPBkoI_WUoNJ1U77GP4VPC9tVUNHWkW6nAZAlKe_SxDGqerpF5cwZWlHMZP5nWjFsiJlI3JMpjYyOD2wEBAlvXi_DTnkji-khq2M2zrJI7fl3hpToQ81FlOoLxgXjNz5MjgSro9Uw5PsuXQ8khHFTARfO7Y-8uQnaTGOBRrQijo_uU1ZToSsWYL_z68zeocenn4qEme_8gto-yNT7pDb2r2jDF1wf4XWN7mvURJspPJhwfT9_8eCJ8FCtadWB4NZgDmmgYCj-wUioROCQ2-ua-C-jJVPpEQ",
+      "width": 1170,
+      "height": 839,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111890166690004916543\">Victoria House Coffee &amp; Food</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fGXaiyCApu7xPXthQ8Ew5E260WErXD3cVww_PGX6nDTApGqrNbmyLfqfe_g2hPGpPIOwNpTeBH2FKndGuOlkDyHaJpYdV-qmZUXQpYpktVGS08dTW_UDUIKtuOAQugdaZYIsCa2zIuet_1oFn-osaYkjDmHuJ_4AQ2aVzH2pP5eRIQtvihKj_nl-D4OJBIabYUyL2pLle9zOgOkcMloIQbhGHvI08PmWTUPfHInqNEhTLyvOaboiouf2SHnosEdypfEAfCgNJZ8ZdlKgOhENGSa-vUrjC7BLQNjhJ89-a4dUv23iY0tGp6WBXwd9a84-rqCtijQO37jMm4b-5_OO5p1vEPYHRNfLcnDy5EH6WWCJoiIkWF8JuPQ5d3MczeVBITbBqctfT4LpYyAfEN6CYttZnSPSJ4LeZXSky8fC2RulhU1zPxNY7ZziGgJjPE",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108550592151391526314\">CHRIS</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eI_7-wht0U_-l1pmDywonJDgrvrZDSMccV8F6Q-aN0U58N2LucA_uMoWaw3DtQ8wvK4ra-hYTm5zugVq8aJAyOdvc9c_g8Lp7sDjzGBLIu9EjJUrph7qNu2IQWLZ551Wk12wYobxo6a7fexGGzBq2WpIt1sUUJDb1rffKsiTW5sb39dz5o48zzeV1WP0VACHqCJBPgzA54nHTkWuknR3s5NzWApYGz9JGbT7pMp_JZAbsGD09mu2ErkCVNsxmOe8Ps4ejFMrpcx6VDQzBk4pBnQIs1xm_x3ILj3mfiNnDSQycGESz50b1Fm9nRbwbswh2CQYL6wrmwPZFtLwMJhkqGzmcVrZkcWHxPkXycIxkQgR7Lfd0IXxPZFUCJvYgbUdTfdchK-I_DeaBFnTgHrz7-y07BgLAzKElYESFFFyFjA41KxX3AezTvMm5kTGyr",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118129497568618938138\">Liz Deng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cMKdulcbTcjuJQ_EzwmwRu34hohqT76aX37JayEwgVZ_ZLG1Vripmd8okuox_vSMvMGz0J4yg0m5hJ610nVnLEaSlA26XeLnB_C9TxTsJfFiC5qxGgg3zugicjK6iSUc8eYkegX9g8hCXVz4w2de_bVZt-3qq67ET6ODaPWBlw5BQWEbe7d7y4DOXn2XIRceKwoQ7RWdIjCfqZnhtQwgQSOqbzcR4kaQ7LhSPK8pKd2CDOckro7cDTcJ1S0doUk1hWDbiKwOlAvMBkZCPnMgTYrgyk9D1Lc_pCEO1Hfe_mi4s9HlB5bQw7NvDaVGX6QsOwXO03J65atz2IwA1dJv_O2jQ5KAIr1pG-2sy16cTHncmcXVm_ko-NDRjRZxcbdpm846OkDQ3M4qxVkxppyKas4Br-LIkT-qRe2huSg6VW4qMI72JiwMNHUEGxVAO-",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104163548035564728564\">Magdalena Marszałek</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKg0h9DFFcarf6aVymv_XR2AV5_k5bLG8rZyKmfoiAgtvyJBlyZe1meC5CIxgYQQ1wNr6dSzRumyhq8uMavy2KBwSNE2DWjudM0Ms2IAJq1aiyeTl2hkuIaE5oXtitt-mi6FOvhvqX85gXWIip9rNpQXt8a-cSdzv7c5xIeBKediwWlTaDT-V3Nrr8vJmKqU4y5eSQBDC03d1bD3BzABqxbWdSlBFFukFat8xe_qlOjdcGlG9Zn4WFw4-VHmSQIw8M1OjdUeRqolHJXYPu5Q_2e5T0aD7IyKRkszl_GzOoe0YQC_krJXK6k1oOStXiYJJTZlvc-0MbdhBocw3Co3ewFRRJtCFUbTkYdmIeA50LfpR9KdrnEXYtaIWwuyvGi-7AWA5ig6D8mU2h6xRHC9meHAvnsE3kROZzhjvlHek0MJOAvuRGdE7F2dPhHrlN",
+      "width": 3024,
+      "height": 3633,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118022284531851545199\">w foodie</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnV8ygVZhL5-HDiyecOIhaMToC31JamkjF802hzB3U9a_I1_fkVMmSPYWS49mhm9HGDTk9zXmNztgnLn7LEzOobDfaisVs070diGpe31UrQVFgHZWxNnQj10YJ1gRy7QFBry_wUZ8bVOOu20kcHelfdAvKRLwUT4HzKc24C8bNoup2PhCt79kUqoPf8djP0k9cRGM3HsSwTo_xxHtuyCshoSbJR-0N7XHOCuDsX9F8Zg6PoNqvWKC6idtxTCQRLm1Y8YPUbq9O3lCdI0MEEbKjwIvHzcry0XuuVmubkcwq2O6B-Sd8cHw8N3bXp5DO6wwN58FdRKygt4VDEkmYlHT95YrcczVeGbA0HoIxpGSBLrcYSBW7toP9JusG8jyPVZuPeOKkoQByL17BTXt2UmWWp1jtz95nj_GsWU6txsHz6Q",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117024947968575859688\">Marta Bobrek</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eS-UxCj5HRDI-dWhEtRLfnH1lQaKS0gJOzf8J6ldLy8842LXw7-CrRB_pFUeBiKBCbe-wSMN0GoJ6WxdHJnTI_kopT-DsFpVjpLWb0Yhc7nUH1ZNqG1l0df6n5fAaPvaO0RhQy3O1KTLkJV_xTwYetex5eSbylTgz8AC30xxKsr5yiV4gnPh7-1q0zplUIP1DAGhpx5bIzpLRGBQVWgwbxFPzxHGHlLLi4RAeARS_VDjqoZWhq6q5tjsvcdOoGhMBKqsnlnVPcW7f-V6krQMjLJjtnN2qjjqU1aeWlDxBbDw",
+      "width": 604,
+      "height": 804,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111890166690004916543\">Victoria House Coffee &amp; Food</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cBQ_P_MiHL8LgjrhJx2l5XURM6ZJ3bZITpnzwredfxWcEnd8UyS2cdOLa357DDSKBeFryU5aPSPbKo3xZFh4zoOi1W-yZhFe6PuVqsw468K5UNHepuVck1iaxaaSwkItxwRc4ehoIkv3FIWqNGFvCthMwbS_e2NzArbxt6k4GCbeiNhx-kK6BvCOvOGtJ2Fflqpenvdci5NaRgbAj92nr-NFNUcqctvxAzrnNp72NN_HSoFXGMugO7RRJIRGmDnW6Pgg7BsaRlnMQinnU9ysi5Ro8qg6DovaZJGsm4c8ZF-GxtqQUqWNzMdYd7SQHRc-dN98Oa5EwSLly6MKAx-h5dUQ7fzfdjWmsh3RkC51OxKH5nZxh7jyijErqx5npuQ-0jlByhuBe2Z1F4LublLkN6L_DBy_XeA6aK6-9OsouS_KM-u33GtWodUJLfCSPC",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117299171857036772922\">Dan Cortijo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3TvG8v-hTrar3-mu2Aha9LU19XUC8T79kY8L_MwFgUCRzUkPPGeYWgSljf-bzhQjPrFIoXxZm2a6K9D5vfA3xdHqlP571powkF7iP13NyuGttSbgk8NKhF8DU2GEH8Vl2zW_iZmiOwCJ_c5PfzD9ds0P3GHACFgoKqgBuaIrMVS3f_eKqaQpF1I6xmzCWPzb0nvkbWlOnBG_19VA7dvjDJc2YOQhB8XNvuVd7UyBlvAXgFiTSVW7La23HHX61IWWj2bR5LO_nri2vAi8XKTq0hb23SmbXya5Fd3wVcBR_IiduTjz85DUnBov3EKUk_sqMxmyyzK1zqrmqmdKnwACsySP9xY__JBlLHbB4Gj7dg-A-8tTwHR5bU7emt2fKRrtf7K7sqEPtp4-gEg6MdQLTjV-GG7SS_eiXikK5T50t8wIeCi__LRXuukvngQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115316243416886628486\">sofy chen</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Quaint cafe featuring global brunch plates & Indian-inspired dinner dishes, plus outdoor tables.",
+  "reviews": [
+    {
+      "author_name": "w foodie",
+      "rating": 5,
+      "text": "We came here for a late afternoon brunch and had an outstanding experience. We ordered an iced dirty chai and a sparkling elderflower mocktail as drinks, and we got the country omelette and the rooty frooty fresh and fruity waffle as mains. Everything tasted great, and the waffle was notably one of the most aesthetically pleasing and delicious waffles I’ve ever had. The presentation was simply breathtakingly beautiful. The staff was very friendly and attentive, and we would definitely come back again when we’re in London!",
+      "time": 1756606830,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nikita Sharda",
+      "rating": 5,
+      "text": "Loved the food here, very flavorful and tasty. The place is popular for all the right reasons. The service was super warm. Even though there was a long queue for the restaurant, the staff was very polite in dealing with people waiting outside. The service was fast and swift. Knowing they could fit more people because of the rush, they still didnt push people to eat quickly or even order quickly. That was very nice and speak volumes about the values of the restaurant. Highly recommend going here, especially try shakshuka it was super good.",
+      "time": 1748810714,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "John Fitzgerald",
+      "rating": 5,
+      "text": "We arrived just as they were opening and without a reservation but they seated us right away and took our order, two traditional full English breakfasts. We were served within minutes and everything was absolutely delicious! The atmosphere is energetic but not chaotic. We will certainly visit again on any subsequent trips to London!",
+      "time": 1760083376,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Anne Mette Hox",
+      "rating": 5,
+      "text": "Nice service and very polite staff. The food was good, delicious explosion pancakes. The burrata toast anneggs benedict tasted so good. Good atmosphere and clean place. We’ll be back!",
+      "time": 1760004686,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Diana MK",
+      "rating": 5,
+      "text": "Stayed in a hotel nearby this area so we had the opportunity to try a couple of breakfast places around this area. Victoria House is hands down the best! Super tasty food, great coffee and friendly staff. Queue was a tad long each time but no regrets!\n\nIf you’re in a hurry, you must come back another day.",
+      "time": 1755946049,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:34.938Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TEki7obdkgRxH3iJZNZUek"
+}

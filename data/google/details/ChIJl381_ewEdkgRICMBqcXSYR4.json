@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJl381_ewEdkgRICMBqcXSYR4",
+  "name": "Kennington Lane Cafe",
+  "formatted_address": "383 Kennington Ln, London SE11 5QY, UK",
+  "vicinity": "383 Kennington Ln, London",
+  "rating": 4.9,
+  "user_ratings_total": 7880,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.4860873,
+      "lng": -0.1210618
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.48748168029149,
+        "lng": -0.119755069708498
+      },
+      "southwest": {
+        "lat": 51.4847837197085,
+        "lng": -0.122453030291502
+      }
+    }
+  },
+  "lat": 51.4860873,
+  "lng": -0.1210618,
+  "formatted_phone_number": "020 7735 5853",
+  "international_phone_number": "+44 20 7735 5853",
+  "website": "https://cafekenningtonlane.co.uk/",
+  "url": "https://maps.google.com/?cid=2189262640264586016",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fSblEkiL_HOhNH6Ubq6dip4komX-PDnfntUyI_NjZR8uJR7a52y6pHrLvSlMGZcE-Uq5FbFX5VU7Aw0O2ArhJqkkZGHlLs6W2CaJUgpomBZcC8AJsIHPqS1-01PmjrVbzT0Hl7QuDiISCrcKwWAGhIdi8ETOFuY_fsw7TKWIhPsfnq0kWmKTRIHQz7DOgWS2xcYXoiMQ2NVvHM5T1uJOuYQVVIf_abd1oxnbl_52SIW7n4YwEjkLsl7Hn5LJZw7kAYdZ8JWAofFc0NL1aSvn8Qyieyk_OeT2YUyRocf0TCn_eUIZvxhApIjjNcSyjeCGn35CvYlZgVZPRPQXS3Ss3lzkamKowFyxDaEWbtl9EXMny5Oh5UYWz-rf5DO7q7goMkXWQyiNw46ElyZSktGZUAiwH2dxQWuFRXWjDysv-wSYFE",
+      "width": 4624,
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107322862308367464062\">Chip Marley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzzRcHP2UxrapZyc5WAiW-v0rXbQ4xgdmC8m0KRA4Tl-Jt0si-D_vwgWXkfCOv1oIeDZy7g8Lq4luCa6RLRnVW0kOIVkJRpLj5YDpio_U6chSAzo1Lwkq-nZ7flQDUhtGTFp5DXdImx14ZnUOVYXYa6wN87zjmITCf-j8bFLqPDn-_nzXEwJWsfmF06IQp_YnI5HWREN5_TmhsgiKkYrbc_wwlnAqU1e_Bgp2o7Lh-1ttnrXgPZKmBbSQfjPoyOMlcfjzZoYD438E6NyL9k0IPF5-Fct3OUlgHCh4eAwY1zw",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109676211357535955695\">Kennington Lane Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fKvtOEAicorBcdp3J2WXuDizWsvX1pg3HncStU3ACKPHpVzD3zdf6sq_v76c5sZmNw04vY5GPCZn5M-FmOK-_zxqykTHfJJNH4Ij4UVuroAl51ThNiLLX0-AOpR1YT8NrzN_zNU82EfEF4ExhlSX8y-PsSnffZyEzNmQXqqrXH2G8-tRsM59N7ysa_ZueYAMLisEfwu19L_Be4Rkaw-mSHCk_z-dUc_92AX7-LczPQkR8IQl2QxC5PLJB0lMQML4w5cyFttLkD9VqnI3FFckzVHErSUChvIKxI1n8CYRiGWJAN8gNG7wgckXHUD662E3SRiW6QfVKvaRj4eZ3oilSioSuvSCQJ2PMjRqvkoDFvTsB_1xgdtOTJLYi8PzsUNEhrw1sD_PHEd6Oo6apeTYQw_r1ItgrEBDSGnuSPJc0obch-sght9NVl0UPnpA",
+      "width": 4096,
+      "height": 2632,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116831963555935353751\">CHEN-HO HSIEH</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKkn5K9AlYT5N7WTMnHek7GMslfNGBjMiB0h4NfTF7YThvicwyNbMD_H7bUzOEmEiZnMPz8B7_7QcKXvp1_laEboWIAOlhT8G15CH939bqxGDy9S4NPZvDb_TIvDTOFfTibVIaSGLMDEDHVxrINqpIDpeF3GhGQSBha8xeTs0W1GJwXg9DLqswnASVh1rkzDUMgApHnmGbzkbGiztV77ai6-oeYPTmXx4Nc1P3euCrxgqakguSTqkKkjX7S_bc3MB6vzbCHfTwThemXt4DQrF5cx7kxcNxsnc_UeTfJ6dbQQTSnZR-JD6B4VklKOGMh7hSbCniUT4NRuyWfWPSsxW0oHDtE7WJNZm1KuwbiXL75r2JdnMdN2mW-PstSKYmZZZ-YXE8_AHMuklpRlXXI-Ltqqzpb1ZV0_TCQtC7O5eMWeIMyBrgCdNitZbNKw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115487624009399914937\">이다영</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxD1BIo8xeHI0zhiTCouUdVQVEJYyhkdIZMEMYe5z2u_I1yuKYIpgZvkULuz9ntAUIpLhufSSKK4a8Zayn4Phch6zrMdfnGeIjzT2Agrw-EjGF4nQVa8UdLNruPAf75fVN83jpUabCmvPI6Srx04McuWoAd_1YDRecu2Bprm_8-70tAUK1go7C9pMFWlBKcSHX3FheVoYN6GKrySjPl1EtPiMFngdlpKUcjPqIIYr-Pw2CrrTuY81eAWjTjwLZl-2c2pmyY3eVb42tcTtnLj_jjv-Yr66vmVoWyPALuC9HlHZVJQIc1G-V375G_AKAW6Tnv_7KYmL4JXwidvCBBfo_IiRCLAS8E1jBg4rEYn5IVpN-Dh1TcXslIRCvcIQ2yiCo-ZcHLDGPgbjedWbTcUvSPJS7DR_aBuyktBqtwZg1WLrB2EKJhu2ugGkL49-z",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105582832229317227719\">Eric Li</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFwgbN4EpltvMyAK0-SwcvNlVZKOr2b6QTDKEp6cSbOxyjad9So30MGpWo7Qk7c3WyMEnbcSOXhEpEwMKvL44kJoTuF_boSvFrLcbP5qQRJgfvV2eGP-J7J6lJteeaC6-bdLKSMhMNNC0EJWx-yc21g253r8zivM0Uic8V4beOxQX6MMhKo7etsDhgMHciRwe2nBIzb1fjrhPFx26bLl8uNrl-ylkRg0yLFkExOYw9KuSK9xQ_Tm5fBK9zQinYpVRdvC6xrERzgnXTdT7pr1gvDSBwJ7K0TxSuuZh8gh3IAr807weToXgxUaKxGuMMJPQRnLJaGw24wki2s-O9oNEdZ9WUEWvmL8gU1xnylnlSoqwlmo0G29cIN8N15DnrgXMLj4OQ2mOS7tO72a5WshVev7NIsUQxaG4P-qBZ_UPcHWjsrSdioCZUkH5daElE",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118209837225072290121\">Clarence W</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dFw6FtWQp4T6Kq6f9lml-np6mZQO7a5byz_sRyGMzxhTw4kZzHHFJUQUnvXtMQwQACNild-JcJKCJP9FvNd3vWeFq6Dy-D2XlFP5CutnBF3o4UfBm3Dj3dar1lvsVUi-ZCRfY3WXbVwtZTjDR_P1lLQeDhlMagWYhTCI5TOCjtQP9-Z42weQlsaSThHGhEW9PsFy4D7NXFyS1rUwycipWYNb7O_4Lf_9NOM1HGatRFR-ga8-3x4o3P81EcgnofZlMICIp8oJ5VqxiWK9pWOT66sCzu4_fHwDZH-sdZCNAVLyyJQjhI58yXhvQ0Q72OHhU-dG1b1CeMgXBtflzr-3ihtuLEe3EYu8JrRve67mBXqFI1DEM1JRn7qxlt2yX6CUt9NWwXqdjBvgV7hq-zX3SyMHT0oISruVvRzqfOH7yEvnPaE6uzO0aMYbM1jMSd",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101850746753201352026\">Aleksandra</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPXt2KzDRziNWS5Bjnn9RCTBkPG-yBopOy9ARUXV-OH7sV617m3ZoPeIO0jZyBOdtB-68rjQdpJ9IIivybAePM4t_DTsGophbgJyYd6rdwt22fSXAilLIVpInmG3OcTIM5nE3KXxd0IkMLux6bK5SxruhKQUg75BLs3H0VHG_exRRj1lgWygHaGwbjIEAtYSwUfg3kBhIvL7bbuqZVWWRu4Ya-7sHaxGeUmJbPTVQaTeS5VxX2W-xutNhjmAyHBme5dJqbemIQIoeyRz0fYaIRtjL1PshS3TxlhSAIq9AhsA",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109676211357535955695\">Kennington Lane Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2delKKzjCtQzEtr7eIl0XPBUCIaMriJ_AD1SbFNR7QKpfeKApnkecPYb9j2ph0yHrfnimt1Vm3OWYxMDnuLNsE-harQ7u-5SDrY3e7o0em4F6hK8IkjygrH3KgTIDOUb7KJBsLFPVgwFnEEfc_D8dkgU36rIKFF5HsPpi6gT3e93ITwbUKSJvD2pd9x22jO5-WWS7rFgeRtwi3vPTyh97l-RBgV2BCnKHoaqg8z4yJbIvrDc_YxQjw8-7iYnPfTwb2HaCET5AkBM10PcHipc3wiIpL-2T3nlON24_kfxIEjxGb0B8lq1ErKLbSGnd_6JYQ0u_Um-vRzWmvjWc5_hxyTDY6WsAPGf3uKf9bM5wrYuheM6GezqPlmGVTV1lxxGbu1HDsBvIM7g69e8fFNSimYPvAulJTHO1JJUc0tuh4ICVVG",
+      "width": 3024,
+      "height": 2384,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113565043066609964758\">Aleksandra</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dE3CssGufoF5ggM9A-2X1K9SoF6mJ7J8s0TFnTzkUzhAiOJ26fykHoP79XJadA-PsQ5aS7N36S1xKzWrOc7mhJwxfn6KtbMDQB3PilD_5JrT1nMKbEylflZrzFCgjfVJHTOVfpDs9Q6DWm9ZoeTT7iEic_RVNB2cPk8zVINzqaNrRelGadIZtQedH6V9xeRlHdl1l7dmikU4t_sAG_l55L4g3iGCICj-AgbRLUphwtg8QqmpVu0vjRXcEaFtV8FlorWyevEF8VvJO-W50JkU18iM5RTkXp2SuladZMNmSGry6Xxodxq-qjd9rfMJOeXOn-WuaOwnjZ_hfTpHEZyZnrYTo6hZqs1SVV8P1vxSouObXHA-9CbZVeZf2vGtZgdkV_LyrFNchTTFhAHu3nOiDq5rCPaIsYzq6YN4R6_lNib32p",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100480358165392937209\">Jack Yam</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Low-key venue for British classics including fish and chips and roasts, global dishes and breakfast.",
+  "reviews": [
+    {
+      "author_name": "Clarence W",
+      "rating": 5,
+      "text": "The food was great with a wide variety of selection especially having black pudding and bubble. On top of the good food our waitress was one of the best. Lucy was fabulous, kind, cheerful, funny, and professional. An unhoused individual came in during our visit and she dealt with it perfectly, like a champ. 10/10",
+      "time": 1759831146,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Andrei Sandu",
+      "rating": 5,
+      "text": "Really lovely little place! The owner is incredibly friendly and funny, and they pay close attention to their customers.\n\nThe atmosphere is very basic breakfast diner, but it feels genuine and authentic. Tables and seating are rough and ready, but comfortable and to me they fit the vibe of a small diner.\n\nWe got sold on the owner's pitch and tried the Kennington Breakfast. It was delicious, with tender bacon, really tasty bubble, and they did the eggs as we each instructed. It felt incredibly authentic and traditional, with bubble, black pudding and nice sausage. The portions are large, I shared mine with my wife and still left there full!\n\n100% would recommend!",
+      "time": 1756203320,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Kelly Hu",
+      "rating": 5,
+      "text": "Amazing English breakfast! Randomly found this spot on our trip and we absolutely loved it. It’s a little cute homey diner and the owner was super friendly. Food was flavorful and the portion left us stuffed. Would def come back here again!",
+      "time": 1760007149,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Chenrui Tang",
+      "rating": 5,
+      "text": "Delicious food and amazing staff! especially thanks to Fatma for her considerate service. It’s my favorite English breakfast place in London. I used to come here often when I was at college. I especially recommend the Kennington special.100% recommend!🎉👍",
+      "time": 1755946128,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Abraham Pérez Zapata",
+      "rating": 5,
+      "text": "I had a full English breakfast here and it was absolutely delicious — everything cooked to perfection and really tasty. On top of that, the service was excellent. Halil, our waiter, was incredibly friendly and made the whole experience even better. Highly recommend!",
+      "time": 1757247817,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:15.811Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl381_ewEdkgRICMBqcXSYR4"
+}

@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ5YQGxMgCdkgRzcCiRQ1zBsM",
+  "name": "Gaucho Canary Wharf",
+  "formatted_address": "29 Westferry Circus, London E14 8RR, UK",
+  "vicinity": "Cabot Square, 29 Westferry Circus, London",
+  "rating": 4.4,
+  "user_ratings_total": 1981,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.50545469999999,
+      "lng": -0.0279471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.50690313029149,
+        "lng": -0.02638161970849797
+      },
+      "southwest": {
+        "lat": 51.5042051697085,
+        "lng": -0.02907958029150203
+      }
+    }
+  },
+  "lat": 51.50545469999999,
+  "lng": -0.0279471,
+  "formatted_phone_number": "020 7987 9494",
+  "international_phone_number": "+44 20 7987 9494",
+  "website": "https://gauchorestaurants.com/restaurants/canary-wharf/",
+  "url": "https://maps.google.com/?cid=14053046188096274637",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 AM – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2coAipSQosp6SspRP7swAlM9eqwJHna0QnxcOwtn1JxyLXlLYGn8nF3PbR7IJveDQfU8AgcCoFrmXST3kZTAGfiUNj3tK1VWQM-kcWl6tV9U8TLEsg-ACOEXCj1L5Qu3JWNCaJmXQRN07WWh-xntJYrfIxRwWW3RjDEgfh97TkGLnSjImR5Xkm9mE13ESAq3gPIlanvtApp8C9TutbfFIzqIFPV54DioBEFlkYYh4PXrOt_GSuvbKxCf-2oBbDsT1i4kxEozw-1hy2nG5Y8jLReAYVvad8K88OBfxi3hVG5VQ",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113959028433127537402\">Gaucho Canary Wharf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dn1jCDFn1zVESSxbbELwAVY5pKgkPzdejzERIkOBPJRqNdzGEE6Sq3JFqQytU5idXxT6aSgkMCi_kAt7ujc5hTdIKb6bKyCrQkXnfSYafkTYX3dQDbx7_OQNglpswYYiuhH0bca91PnnFkVnC6vSfsfcC4i4nQ_ZwR8hYr4Gw_8Nj_W0Kfl0VRJWZvIgp6sKUQ4cZyBodSh5FYS-bqHclFiqXFRKyEh-USnnlN41f4EGR4ZGpbHvVqpVikYQNTr9Il9NtDsN_xp0OgKYVW4NHFhWrXzPWFr1ffnmG3UC-D7gMKgWDc-Y29UROKjPBvOeg_VBGG8QS0-1LT1sdBRmtjqCg6ZWyVcL22GuoR082KbzbwkIyhQe03OBPUc4KMSMotHT-2zqYU1r2fYNxjePHljCi52MKWt3F-KZlD4JEGtqvLwEWKvblhTcD3CQ",
+      "width": 4096,
+      "height": 2304,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106913913810719561796\">Craig Jones</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d9f2cnrDxSVaPUcbk5vH4-3lTJbsmuj8pYmK73IEW2PC6pXZXlXL91Ki7Wam6NaK5F3pElmEGf_cWzNDxgqCiGblstr-1Wrc023jEU_IqhvDIoxe416uTEtaJ7eatVIARFoVVvl-UcV2JGxSk8tbpDUu2AOLk_zPV8jFeluxTsFXf-S740H2UV1vTg9Wn0c6SzaMAE0uiV9ck18mozEr03f4z8lS-38sptG55Z5MOL_zNG8enEL8lQOinFIUseu932CUdr6_dJQJ3HctSkSKAoJ3bop8TQqHz9He93IxVYvw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113959028433127537402\">Gaucho Canary Wharf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ejHIs4_dmj2OthDyVAbDpd3AxM0HaMPeXBHWsJIXH5ogdOKWg-F-K4gNvERLX03s65ENuFL4wfEV0pG5nQuZjBZyHNXKdYS77OImEzyEqIMtHSjbeYJsqk6s-I2cEk0hnkctaDszDnhVNNTVNtxoeRtouZ7SQ-2SGAAaghyQcVU-JlJqbx1AYJtrROMXiZfsRYENHgEisYGRpZ_JaJNQEbfbgbC9q298baCXeztSEIV3Rk6uiJUlS0_DqFOZbybTDoQcIUcBK6CTSZ_DLtl3McgXraiVrDhuLZ3hSj5fqyOY1R5YiMB853mLkp-x9IWasxz2wYa5GHlzu9EeHa2f-g5qVyJD2IdUgOzxNLm3Ys7f4a69vVzzqNh7pR_8uk8v19iw1A_eoUds0XLAd3JQhC-B8vxZCxT4E2SmJVM7DJOF9cdyRRxV43y626nprF",
+      "width": 4096,
+      "height": 2304,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106913913810719561796\">Craig Jones</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dAQFV9jEfjVHuIKOLuzZ9_5BAEQbMi_Ek7jyzCs3WHYQCzzwShyW2cl7D0Jl0CU5b0_64vy1nEG7eKfBtyEAgMdcKgvk6vytWZ-nl9lYe2irlBPqxRiqSVa2nDUT1YJIFEJuf68C7y2HF9XItR-aJ2fsL7_lr93tJyJrfTtxFiIK1KjgJtZsp4mZkYFFMyuPWygIhnF2VWSyDgiNa689Ayb_bYA4jjMVxRQkpf0acJBgeJaIGYJBpaYe6Qkdxg9h5T6LqNTUeOHflD9goqEbfBDfnON7N4sStjp1PRa0yLCuMkWOqqJ4aQUl23b2MQZxO5LCtH29V7TrnNGkD1RYAYwUUPBAb9rq_QIPpTfmtXrWzh0NsLWIhHWtSB09r418qtA5JThLNJZ_BZO_q_ddrLN2reEj3MVQOiMOd5Kf3dsa46kB8-OiUTM-DcN01C",
+      "width": 3599,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105606345979613180350\">Marin Palushi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dFi4jfqsd6MgL4-0u5GbIB7s3OPNe0ymqLxweLufhqnHJFL7iy27LJUHA76xGJFCtTAxpH3pGdWtQ6fkR24KTH9-dR23So595UxyyXYsedUWNWVZ5WmDutPV6LWRY-jyEs3bGCCPxmjCVxHRLsF6w0SDc8kJ3-S409ZyhrAgi9CfMBsGntp_yEHjOLxKVfMeXc0AbfZ1TR-PoFej-Xy7BHiCwrY-9bZw511Q6KJ1gHWGlHGiRn30vDe5qquhO4GOL0mpd8YhSZ9EgRwpTT5y1pE3bAxxwHs1St9vLSLwvJwSRJjDuvGbd4vQDmjM0Fnfyw1hJHcDAHWnjyx2ZUnaGHPQJvhHXa_FgUlgwvC6rCGZ7eQhp1X37AbwBIF60_4eOKSS3L4MOoFBR69p9oJKYjt0y4qQR3QimEaEzhDm8VI6RH",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114945115868351299289\">Harbour Seal</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2czHW9IEAR6hptsooVtNqE9HPLyHamaXiE1h54uFk31k1MuNsXkzV1Tqp7AHM4SJm3frwCJPDvCpCCSVBj3qCiWCMV1bZBMiRpxaTeFWDftpHXQT97O9mxRGxsfXe6liWrX-y-oyGKTqxo2iCunHi7ouva7eDuU-rq9pgAhS8ogYT8c_PefnX26wyrjAx5y4JnmPR3NUOMy_FEXNW3CL5Tbk53VxqAbQG0QanYYTMlGbekVCoyXGNS5KzRrfvrf51ngN5PfOGtyH9j7j12YRb2iae5HpPm43lUnSUAZQlWx7P4cmu5fVfk5j3_lgpgA9QTZ66qKSazfiw9mW2942J_LpIP_XjCAsquZGVo5xUK_wBYkOqYNuMm71bYWUDCT35G3FoSk6HZ3B0u46_aCr9f7pjcWvNa6P1E2R5PKJQBE28-9O6Sr2PhQUysxFA",
+      "width": 4276,
+      "height": 3382,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108188872725329893961\">Elaine Lorraine</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dGshMIMX7FUx3MPc8Wz3a5kts8Hf4hYi20Dyrd6osmUpup0CYx6UdGPhyJUy4sbSdUmkisCAR0o9fX9u4bG4prd8CvjdVaGYELWXkG1tOD2HDfZM_sX4F0XEbypUhqO-Qu7BJ8odJ-o_wa2_6jbwPXFYRv-MgeRrmBN1yUNG18tS9WzX5Iwiv5KmD3QtgweUR3KnAp10VsSCC5pfhOLbuHtwLtwM2GeuBvP_IL1x0YWno2XjvnUnLxYrsm3WcmOJ8_DQkvbGuF3Bns-JmUiuMAFyOsw1Ge7jlZDHHXB1Ts-H8Kk2YVRAUqV4tZL3OW8edH4hgi12XA8dfcjGUe_EhO-hp7x4oY72G2vKF9kWLZmnsqv_jazBmYSuprELjmTUMQh7aNHnUrpV9-udDqJVn9y2AaZdQ8x1aetGproTWm2l0l",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107996651223262825248\">Linda Talos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cLETHWHSJuBdQ7ZY3fUu-meqFERjT83Smp9zvxjXIGv4RohubpJQjyt1k5JIyB1pG3aoJGzmK8CArMUEatnMxCCbMwhBZ9mEGyFncCgxjjzWXm3g8rg83j5sVhvn4eK1GRf87S8R6aLzO3alPeYDt-VMc26vlwQ7ZYMbIkilLbBAmzSGVSoJBYZvQFgz8-yJpl8CCUva3omYDYBQ6Yc9j5eyBvv2ROodE5ICE3tUD6QZb9RjU03vM88sn8hetrwouzh_QKvb3JcWhsPaRAr5_iqXFfLaeauY7HGoMA-3erHwadMdN76XKgoqZflEAvOC0J_1_-hFNgmFBeT4KDzIT3tvI2gMQvX2pInuXthFmBCEfm-694lqPjQZN6Zd9W2yXEdAoaydr9rnVGBeqJUciP240TlYYHtelfcTvXS33lL5ZckeRYQSeYAqNCYHVy",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109916652508954437155\">Dee Dee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_cKUrZkNl4fF8vJ_Md-KZXiMIKL2a79w9xgnuzTg6L9aKazjHde1hmRn4qp9Qapnq39DqOJsjZeVAUjYhgK43EJD2dx7TZZQcv-SEz0QoJGuRQZl9zdHA3y92UZt4jelb5JOa5Lw2yESxeZV5hE1oze9OpqOV9bkARIpbQv1zyyeEsyx5rg-2AlePfrHL3Wz7n_wdiX-eYW2aEW_2V7uDN_UJmxhRX0lFPxt3PSRObafaVmT8DFVY86p0KDHIEFlPv-6DEOiIW2mBzgA5zYtqNoFxKuWF_hF2SgW1qPPFLlXHgg3R-wTHayqrhdZIM24hxEwu3mxRGlhlrQKiaz6zIgCCmO-3Nv-vO61Um37i4J-2K42Acs6n7hVDEly3_iTmDoCO4Lq2DIN-gfUuDhzz0VpzMWCa_bq_DF6l0OjlIFRCjusDv6-XcdVwAHnT",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112935196390358789454\">Gotoku Neko</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Craig Jones",
+      "rating": 5,
+      "text": "I had an exceptional evening here! The food and drinks were spot on, and the service was simply outstanding—our server greeted us warmly and knew the menu inside out, which made choosing our meals a breeze. The vibes in the place were perfect, and everything was spotless. I really appreciated how the team checked in on us and even recommended dessert—it was such a nice touch. I can’t wait to come back!",
+      "time": 1759578590,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Marc Ll.",
+      "rating": 5,
+      "text": "I usually challenge such expensive restaurants as I believe it is difficult to justify such amount of money for one meal... yet Gaucho deserves a 5 star.\n\nThey have it all. The location at Canary Wharf might not be ideal, yet it is right in front of the river with amazing view over centtal London skyline, so a plus already for terrace sitting if weathwr allows.\nNext is service. Perfect. Polite, attentive, not intrusive yet always there whenever you need something.\nFinally the food. We went for Gaucho's classic: Argentinian meet. We took different cuts and ALL of the were cooked according to each one request, from filete to ribeye steaks, different sizes and some marinated. All amazing.\n\nWe went for Argentinian malvec... quite overpriced yet very good.\n\nAll together in a cosy place.\n\nJust excellent experience end-to-end.\n\nIllustration: 400 ribeye steak for 52£\n\nLabels: 2eat, $$$$, #Argentinian, #romantic, #privees, #terrace, #views, #must Go",
+      "time": 1758579206,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Tracy Ward",
+      "rating": 4,
+      "text": "I visited recently and had an exceptional experience, thanks to the team's top-notch service and their excellent menu knowledge. The food and drinks were absolutely delightful, and the atmosphere made it even better. While I felt the prices were a bit on the high side, the quality of what I had definitely justified it. Overall, I walked away with a full stomach and a big smile, thanks to the warm greetings and thoughtful recommendations throughout my visit. I'll definitely be returning!",
+      "time": 1753623405,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Dee Dee",
+      "rating": 4,
+      "text": "We went here for my birthday lunch.  The greeting was lovely & friendly.\nThe restaurant wasn’t very busy, which was good. Gauchos is a restaurant that I had been to before, many years ago & the presentation of the restaurant is still very good.\nWe ordered cocktails which were ok. I don’t usually drink but as I was celebrating I had a pornstar martini which was nice but I usually feel a little tipsy after one of these but with this one I didn’t. The others like their cocktails but they also said they lacked any taste with regard to alcohol content.\nWe all ordered from the set lunch menu. It was 3 courses for £19.95\nWe had the Prawn Chicharron for starters. It was lovely! I would definitely order this from the main menu, if it guaranteed that I got a bigger portion😊10/10\nMains, we had Rump & chips. I also ordered a side of tenderstem broccoli. The steaks were nice, not amazing, but nice. I was hoping for home made chips, even if I was only given a few chips presented nicely. Sadly, it looked like we were given McCain chips 6.5/10\nThey tasted ok though.\nThe broccoli was weird. It had peanuts crumbed on it & some sort of drizzled sauce. We didn’t like it 2/10\nFor dessert we all had Chocolate Brownie with  white chocolate ice cream. I love desserts. It was adequate. We were all unsure on the taste of the ice cream 7/10.\nOoh..! They did write happy birthday on my plate with my dessert & put a candle in it, which was really nice. Thank you ❤️\n\nOnly gripe is, when we were eating dessert not all of us had finished & the plates were collected. He then made one of our party feel rushed & uneasy.\n\nI will say that the aesthetics of the restaurant are lovely. The staff were pleasant. The food, for the price, was really good.\n\nP.s your bathrooms could do with a little bit more light.\n\nI would definitely return to this restaurant",
+      "time": 1757710430,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Wilhelm Grimm",
+      "rating": 5,
+      "text": "A hidden gem and the best Gaucho of the franchise. Excellent value, sharp service and a divine setting for any occasion. For a mid-week treat, try the three course set menu. For dinner, our favourite steak is the ribeye, every time.",
+      "time": 1752762286,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:08.412Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YQGxMgCdkgRzcCiRQ1zBsM"
+}

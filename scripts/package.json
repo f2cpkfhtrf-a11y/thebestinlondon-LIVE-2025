@@ -1,0 +1,26 @@
+{
+  "name": "london-venue-data-collector",
+  "version": "1.0.0",
+  "description": "Comprehensive venue data collection for London using Google Places API and FSA Hygiene API",
+  "main": "fetchVenueData.js",
+  "scripts": {
+    "fetch-venues": "node fetchVenueData.js",
+    "fetch-venues:debug": "DEBUG=true node fetchVenueData.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3"
+  },
+  "keywords": [
+    "london",
+    "venues",
+    "restaurants",
+    "google-places-api",
+    "fsa-hygiene",
+    "data-collection"
+  ],
+  "author": "The Best in London",
+  "license": "MIT"
+}
+

@@ -1,0 +1,679 @@
+{
+  "category": "vegan",
+  "query": "vegan restaurant london",
+  "count": 20,
+  "results": [
+    {
+      "place_id": "ChIJ3X-BRDQFdkgRvSmgQl0aIq8",
+      "name": "Mildreds Covent Garden",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 4214,
+      "formatted_address": "79 St Martin's Ln, London WC2N 4AA, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5115174,
+          "lng": -0.1272856
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51287477989272,
+            "lng": -0.1259023201072778
+          },
+          "southwest": {
+            "lat": 51.51017512010728,
+            "lng": -0.1286019798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJ95rh0XYFdkgRjTntLwXeLTY",
+      "name": "Mildreds Victoria",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 1973,
+      "formatted_address": "128 Wilton Rd, Pimlico, London SW1V 1JZ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4941062,
+          "lng": -0.1422938
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49545112989272,
+            "lng": -0.1408464701072778
+          },
+          "southwest": {
+            "lat": 51.49275147010727,
+            "lng": -0.1435461298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJicTFEbADdkgRJTJMF_RX50o",
+      "name": "Mallow Borough Market",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 3820,
+      "formatted_address": "1 Cathedral St, London SE1 9DE, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5062513,
+          "lng": -0.0904033
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50761587989273,
+            "lng": -0.08896997010727778
+          },
+          "southwest": {
+            "lat": 51.50491622010728,
+            "lng": -0.09166962989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJtYW7TgsFdkgRGapdipRQmzw",
+      "name": "Vantra Vegan",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1308,
+      "formatted_address": "3, 5 Wardour St, London W1D 6PB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.510697,
+          "lng": -0.1318565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51207327989273,
+            "lng": -0.1304134201072778
+          },
+          "southwest": {
+            "lat": 51.50937362010728,
+            "lng": -0.1331130798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJaxWqk7UcdkgRjr3dwrPTj8I",
+      "name": "Vegan Yes",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 2221,
+      "formatted_address": "64 Brick Ln, London E1 6RF, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5187603,
+          "lng": -0.0714383
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52009572989272,
+            "lng": -0.0701296201072778
+          },
+          "southwest": {
+            "lat": 51.51739607010728,
+            "lng": -0.07282927989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJ116rKF4PdkgRJylL-GGjPDo",
+      "name": "Tendril - A (mostly) Vegan Kitchen & Bar",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 876,
+      "formatted_address": "5 Princes St, London W1B 2LQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51461219999999,
+          "lng": -0.1427628
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51591197989272,
+            "lng": -0.1413835201072778
+          },
+          "southwest": {
+            "lat": 51.51321232010727,
+            "lng": -0.1440831798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJP8v1-tIEdkgRAdetOMmCKDg",
+      "name": "Gauthier Soho",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 1560,
+      "formatted_address": "21 Romilly St, London W1D 5AF, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5127566,
+          "lng": -0.1314549
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51408837989272,
+            "lng": -0.1300897701072778
+          },
+          "southwest": {
+            "lat": 51.51138872010728,
+            "lng": -0.1327894298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJrw5XbBobdkgR1T3LR6425Jo",
+      "name": "Studio Gauthier",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 874,
+      "formatted_address": "BFI Building, 21 Stephen St, London W1T 1LN, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5178431,
+          "lng": -0.1327779
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51917332989272,
+            "lng": -0.1313681201072778
+          },
+          "southwest": {
+            "lat": 51.51647367010727,
+            "lng": -0.1340677798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJ1dnslv0FdkgR1P_tKcf2Y-E",
+      "name": "Bubala Soho",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1364,
+      "formatted_address": "15 Poland St, London W1F 8QE, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51475989999999,
+          "lng": -0.1370086
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51611432989273,
+            "lng": -0.1357032701072778
+          },
+          "southwest": {
+            "lat": 51.51341467010728,
+            "lng": -0.1384029298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJsclcktQEdkgRixfvZ2ewghM",
+      "name": "Mildreds Soho",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 6195,
+      "formatted_address": "45 Lexington St, Carnaby, London W1F 9AN, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5130403,
+          "lng": -0.1363628
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51439842989272,
+            "lng": -0.1349981701072778
+          },
+          "southwest": {
+            "lat": 51.51169877010728,
+            "lng": -0.1376978298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJi-8ryNwbdkgRP6r0Xl6-HRA",
+      "name": "Tofu Vegan Islington",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 1571,
+      "formatted_address": "105 Upper St, London N1 1QN, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.53784959999999,
+          "lng": -0.1028758
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53917802989271,
+            "lng": -0.1014293701072778
+          },
+          "southwest": {
+            "lat": 51.53647837010727,
+            "lng": -0.1041290298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJN4xC2ywbdkgRw6jKHfSG0sQ",
+      "name": "Govinda's Soho Street",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 24484,
+      "formatted_address": "9 Soho St, London W1D 3DL, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5158347,
+          "lng": -0.1327598
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51721207989272,
+            "lng": -0.1313339701072778
+          },
+          "southwest": {
+            "lat": 51.51451242010727,
+            "lng": -0.1340336298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJMf18h20ddkgRKwwdt_iqx7M",
+      "name": "Unity Diner",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2336,
+      "formatted_address": "60 Wentworth St, London E1 7AL, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51684540000001,
+          "lng": -0.0736917
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51824942989272,
+            "lng": -0.07220277010727777
+          },
+          "southwest": {
+            "lat": 51.51554977010728,
+            "lng": -0.07490242989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJHUylZR4RdkgRqtRHULzIPbI",
+      "name": "Holy Carrot",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 551,
+      "formatted_address": "156 Portobello Rd, London W11 2EB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5151791,
+          "lng": -0.2043254
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51648947989272,
+            "lng": -0.2030220701072778
+          },
+          "southwest": {
+            "lat": 51.51378982010728,
+            "lng": -0.2057217298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJs-gdStUbdkgRmCNdDO2kuLc",
+      "name": "Meat The Vegans - Multicuisine",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 4703,
+      "formatted_address": "Unit 729, Meat the Vegans, Camden Stables Market, 731 Camden Lock Pl, Chalk Farm Rd, Chalk Farm, London NW1 8AH, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5424034,
+          "lng": -0.1482404
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54391907989272,
+            "lng": -0.1467938701072778
+          },
+          "southwest": {
+            "lat": 51.54121942010728,
+            "lng": -0.1494935298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJXymuDyobdkgRaLhsMYzvisk",
+      "name": "KIN Cafe & Restaurant",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 3360,
+      "formatted_address": "22 Foley St, London W1W 6DT, United Kingdom",
+      "types": [
+        "bar",
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5193427,
+          "lng": -0.1403111
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52065047989272,
+            "lng": -0.1389479701072778
+          },
+          "southwest": {
+            "lat": 51.51795082010728,
+            "lng": -0.1416476298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJ5-zaNNcDdkgRcBI4HarE6FU",
+      "name": "Plants of Roselyn",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 814,
+      "formatted_address": "102 Tooley St, London SE1 2TH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50428220000001,
+          "lng": -0.0826263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50569227989272,
+            "lng": -0.08122097010727777
+          },
+          "southwest": {
+            "lat": 51.50299262010728,
+            "lng": -0.08392062989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJ1QoGoxEFdkgRjrQtf9M-MFo",
+      "name": "Cream Dream – Patisserie & Café",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 2183,
+      "formatted_address": "46 Bedford St, London WC2E 9HA, United Kingdom",
+      "types": [
+        "bakery",
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5100843,
+          "lng": -0.1236923
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51144072989273,
+            "lng": -0.1223762201072778
+          },
+          "southwest": {
+            "lat": 51.50874107010728,
+            "lng": -0.1250758798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJb8gMSM8ddkgRWsfjuytKgZw",
+      "name": "Love Shack",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 1057,
+      "formatted_address": "Arch 298, 299 Cambridge Heath Rd, Cambridge Heath, London E2 9HA, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.53225399999999,
+          "lng": -0.057219
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53357852989272,
+            "lng": -0.05574322010727779
+          },
+          "southwest": {
+            "lat": 51.53087887010727,
+            "lng": -0.05844287989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    },
+    {
+      "place_id": "ChIJqc8B3RoDdkgRlgX2xbE0Kr8",
+      "name": "Mallow Canary Wharf",
+      "category": "vegan",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 1162,
+      "formatted_address": "12 Park Dr, London E14 9ZW, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5026968,
+          "lng": -0.01398
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50403212989272,
+            "lng": -0.01249862010727778
+          },
+          "southwest": {
+            "lat": 51.50133247010727,
+            "lng": -0.01519827989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:58.713Z",
+      "query_used": "vegan restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:52:58.713Z"
+}

@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ0Uvq8RAddkgRVZXk-se1EIQ",
+  "name": "Babel Grill House Shoreditch Lebanese restaurant London",
+  "formatted_address": "192a Brick Ln, London E1 6SA, UK",
+  "vicinity": "192a Brick Ln, London",
+  "rating": 4.9,
+  "user_ratings_total": 385,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.52381159999999,
+      "lng": -0.07138540000000002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5251468302915,
+        "lng": -0.07007206970849797
+      },
+      "southwest": {
+        "lat": 51.5224488697085,
+        "lng": -0.07277003029150203
+      }
+    }
+  },
+  "lat": 51.52381159999999,
+  "lng": -0.07138540000000002,
+  "formatted_phone_number": "020 3827 9445",
+  "international_phone_number": "+44 20 3827 9445",
+  "website": "https://www.babelgrillhouse.co.uk/",
+  "url": "https://maps.google.com/?cid=9516305883146261845",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e1fhvm5jaHsH_puUjDu4ez7AkAgComD0VULln9_X4vGQlsC7bkcI53M-ST6IOi4rnZq81H1cb-mEjw0iB1IiYOxGtv0OmVSa-xXwTqHFyJECRURP2S0rharzWVEOnTQAat2IH7BEktd-Ff_PJZ-g-SlF6XhqV5c3h8Foy8g1yqixMZoIERrQv_vAz_Ht3eT51NF02EyDTqQCTWmRgr5WLzJCDJ39Hsf66xt8Ht_06tnj-P8SD9Eaic4c8x7-cx0H_w9mZAP8fTunUMuhpzwW0kCf7OTF0fdFqdh-BpzDaWvw",
+      "width": 2048,
+      "height": 1844,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105816525675583378383\">Babel Grill House Shoreditch Lebanese restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cnRxxBE67xfDM-17yK65p-9UJLD1Lm8V9sTXhixoLWhZ1ksNfTI8NQIOp1sXLtXZ8z-ZnrobyV4hAph3mnOVSsEoshUs5ApmtobrBS8TuOBbbupV0isFORiIg7LK9aa-Zb4ALxrFFtjZE0FAozjRRTf8iLzXrDcaxdGfCQVsjR7QTLMIiFbwYxsjrurSl5awBQjXjQ3sGXq3v_l3VUf-C86XPNoQAjV-deZtTMKRKWNgydY5cEbJrfnyPMT3_oNOjqL7MHE5MDj8DR2ys4c9K4hparQpB-rv02iTzTAq3uLA",
+      "width": 2048,
+      "height": 1367,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105816525675583378383\">Babel Grill House Shoreditch Lebanese restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f8Mj6aTDgJkyZ7163_RMGX0pzxYUb0WkLkjTW7sIlJWPJ4WVt-tux606Hdc1hMJCR6OUbSMvdn9fMuCKanZsmBhe631bBXj6lulkS03V0G1ZIbYN5JvzdRqQMvMj1CtDycV5MxtYKRH6KjLlMt1tjtSXmGMXXZa3nxLd8cn2TFYpM5K-KkjsZfYWGjneFcxkSW7oU3LAFMpuaaEA5pHhjqiSDDq4hJFtLV9XdenioIuhmrBsyuCrZx2tNygE5LGq1uuuQBPqJeykHQxzWNAFUKzre-ORCqBxaQugEPwucVYdLmZPQkEuSg9fZ0lIrIrj1bzBalvSv4DeW2In57X5cUDHHB1ULL-siD8whkBZIWoM8RmsquKyVqvdr1hbEpAiXJWWhqz-9-BatSiWBoq54rB1ExtGU82t3d5wxxWlLMR-PAEpEqOxPyA3BUbmrS",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103392665322830489565\">Sabbir Ahmed</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dhDUs8BV1-UGmfHIpqNps6TFMw7I4Ln26J0Xj53u0YtymmX8BWRQLjezqd37m2E8UB-0BAVDnBEeMrJJrWgdc-vh4RhWt3I5-Yv7_BZSaNBai0KpJyPK9HK-Mo-LiJ8uh_PaQHrWWRzxZJ8mDGIV-DgUUxTeAqF2QRlgee6GsgEvd1LOCXxbNmvwbF3MpFyHmfPTrPQ0-oYUvVxFKC3HZMIOrA2ZfP8MV0S3psikT13yfSuSebMBicRW_LOic05Mdn_bqQzwyT2tizvo8sr8SunhKMpprb0HU03_Xya9LmJ-E9ydJf5zUjU7sANDQXW7kNFzEFfZ0qOniX8TgOaXiQIbdu79QL3il5ekp7YRv27KG85B2Ji4dmG_CEgXZnaeyvKycluUgyOb4iAksMoqJPrGrKjca_-ZleLS81_ZtR-eB09Upx-QMcQdYZtQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109309041483944284935\">Giuseppe Morana</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQkdBEmWUNQEnRQeZ2uksIBPT5rmxYFt7B-naMofUJY0LZAjFmD9VXYPYR33HcrxqhAL1IYTE0Be8Ibc5kX3K7Uex-uQ8i-6buB0qOF2gYdfoMPo29z7OaJjUQ0C_SEaSYd42ParMKWUGLQJWA48ZRT_AqjJ1jHGUf_EpSAWLHME0CgE7xXnOIdQ6CcUJXOms2FyevByiGBnDY9cj5kH2ndIuEL3yZBTSngQqlNMEGU9VZ6w5gvPpMUrzpXx3pGiE3ZbEK2aHP3ItLHBpzmsdW-cdw2dXGtJ4vOLoAp1e6y8IICAppbbUPIMcXl1ikIV6EA5qwCmGVXWYs9m6zoBKGHUqjvIWJqtGA-al9xzOhAeDaKe07k4-xhMKmm55xzBkitPGHo5F4N7zWjf4fpbBD4dWtRYsvfY66QAcbz5tLdJFitTGx-1LtiKiH1fJ-",
+      "width": 2048,
+      "height": 1152,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100495876829882134380\">Maryam</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cw6zg9Q0lD0L-OHUaFWr54mLtPiuGUVPLvg15UTZ2crTu8v2qJdc9x2tHMt6drtdCOtQhK-fXkoJzqO4L4RQaktQ7RWGz6pvHE8yUL6V5TUPrGqck0-YSRx8gqr0WOKn1si37SZAIOlonRyIXnE5JDETC75W7UozByHmRCqyVP18uL5NUqaNTd9pva8h4yv5TE0mx5Ca2GmlT8Aawco4-RF_fk6g39yxGciTLPc4KpwlPTKaCR2GVREo6t7mdY1JSR8RSvOOWvGo1xQhOWhI1WAfqd8Cungi5IcTjYGll78MfHl06qne6ay-sX48kRcegmOtDnNelXU9K5_cidDaF8V1EyBAn1EGN5ia1jkjV-q-v2ZOuwNyHuNUUKj5yF4F6-itHVa8qHLBIYfZxujCzoq8e5ybUB6pp8DAC7BjQ",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106181066593964380082\">Zeinab H. Atieh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dXAeMbq2MUKS6PQziEHoOl_LoQT0NgvPa5h3ng-h7u_C1fkHsQCk1IWYDh983GRBdCw_lCaUkMCytjF8QpI1a_2nADRhzWMSTAgVnKgGHPM6bDT-0CsEhYhKEVaYQCgOPwSwz8CoUH1OidR9xU7mA708e-P_eRJ0zoWBO7uXD_6KrKVPWtfh1UZ47wXgRr5jhZ0SAQ0HJjBL25BptJ_nefrYfqIt28I4nVrBDUYwHzfvISRjfDcPZ1H6ZAHn0boYdhXz1odE84OilBIVH2rRbr1Q9Bvso-0RlJCwMdItdSdWmHbzU5PZZltRRxGhTeOcmpdcfvIusi12JB2dMCtQGpYyVpPVKLoMwadks-dsfssyb4w4b6QbZlqbEctj-rFBIZ6cbcZ0t5_OenQRj2wiakfyXbqE7fgyoZ4H52t27MFEaO",
+      "width": 1600,
+      "height": 900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105299721635977197969\">Maciej Woroch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dwd87w_H-SRWacbSnnZWCV6zzVa8P_aBW7G6einsm4zZOgfYRoYWaW4-3t4MYY_E8bvnSnyIlrdHxpue7Bn7fnGiw58yF5mZHwUoMIC4hMn5-7TMSnQ2yxcSV7EkFm7usCgRAwuTccvakrluSp_wjuMLBat2KS4OGU3ABAmknJFV82jLTbHNOb-mF12CYXl98J_AAjR767BCp5znbiyqthJ9qoftGLtZeacANC5UBFKsO_IseKn3h-0z5gYiMw7zQG-NO2eAAGZ8M_y1gzGHrUsrtNqHGkqvagsc7O9AeUl-Uh1EomNK8OeRFaq38YFDnEZiAggJsTOLKt6zSYdyOpkut92im5v6XTheSNDwx4pEXtuU48yOksK9njPxMDQVuufNr2qz2ejhVdIaT-04UBX92aRZGbJDOaveRPK-j5_DYjZjbP93N0FPE06A",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100522635348496931804\">Beatrice Fini</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fFHFpdF9H6dvqW8aHTYiccBtpX3g6Pigkx6m6S7m9uYomtMW3VhhaImCnEBK-BBJy3sc1Kp9oLUd0BUbJ77e5kOdOtq4vZYoDdFtiG40xinkCnkz2OV6WfX6Y16_y3wqg2WC8TcsWiRBuLOFZOfxg2BaOpbAbygKkMvs1m8dWMq3vaGpAAjEQ5aMOzKXF_8rJsjeuDUZ_8GxjE1Ctsn86Mdf_LwEZYNqiXIczXHK37Ttw9LHRiRkh4iBU0-8fZNe-QiEfrbeQHYa2JME5yicagVJaWsodVe7qpt1SM9wWCTg",
+      "width": 1536,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105816525675583378383\">Babel Grill House Shoreditch Lebanese restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fxefshiuOFDnTNReLxvpTiBGt6_9dWUw_gFps6UEq2OgyJMJFG7Y3WTT0OLTzjhf5GUktgye_P6LJoYRZGEfIX3m63XRUtEmAVgNSNQrKxbf12_zqsRqH67FOM6NYaRWRHH8cXSPI-Z740TFwNtGLIrin8_0nxN-LUILdFJtWLLuerzKItkrazKUQU4Q9EmacyenDKrF8DPz2yGbhFpC73WFzkxRssj4Ko3_49UPGlrYakcnfaMGAg6dd79E2EjfQkgCVuSCymcNVHYMkQ_Uw7bHfUbssXpWiTee9Cb9owHIRD-Ol-yv4gq0m3z3o5AHSNgnhebdvkKXPCAIGbd46BAxy4fJwajWFCno1-2p495kozXQn52GlOe1AcRuNczp4EjAYrydRkDICWQ2LoS5LJ2tKa7J0DiYXisFDtFuTVZp6duDZaVBOQQiMu4o8P",
+      "width": 4284,
+      "height": 4787,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114209428143810607617\">Fareeha Sattar</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Giuseppe Morana",
+      "rating": 5,
+      "text": "TL;DR: Everything was great!\n\n1. The food was really good: we tried the platter for 2 and a few charcoal-grilled dishes, everything was great\n2. They allowed us to adjust a few things in the dishes (e.g. one of my friends had some dietary restrictions), even though they weren't able to remove garlic and herbs from the chicken (they are pre-seasoned)\n3. They allowed us to bring a small dog inside (I think every restaurant in London should do it)\n4. The service was really good and we didn't even pay any service charge for it!",
+      "time": 1757832328,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Darren A. Smith",
+      "rating": 3,
+      "text": "I struggled with this review because I so wanted the restaurant to be better. Overall, nothing bad. Just nothing great either.\n\nThe service was bland. Not friendly, not unfriendly, just functional. When we had finished our meals, he scraped each plate onto another at the table, making one large plate of leftovers and then squished all the plates together, so he could carry them away.\n\nThe food was tasty, just very very dry. Too dry. Plus, he did not have enough lamb.\n\nInside, the restaurant was nicely decorated, inviting and indicated great food to come. Unfortunately it did not.\n\nI’d like to say better things. I can’t. Could easily have been great. It wasn’t.",
+      "time": 1746992960,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Beatrice Fini",
+      "rating": 5,
+      "text": "The food, the location, the staff, and the service were all amazing! Prices good\nRecommended for a nice dinner. We will surely be back :) thank you again",
+      "time": 1755377399,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nez A",
+      "rating": 5,
+      "text": "We had an amazing afternoon at this restaurant for our work staff lunch. The food was delicious and the workers were so helpful and respectful and made us feel so comfortable.\n\nI would definitely recommend this place. Perfect location for a private group setting.",
+      "time": 1758492404,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Maciej Woroch",
+      "rating": 5,
+      "text": "Authentic Middle Eastern taste, and hospitality. Grilled meats are juicy and yummy tasteful :) visit when you around. Our waiter Medi was great, and added a smile to the food :)",
+      "time": 1748107181,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:50.678Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Uvq8RAddkgRVZXk-se1EIQ"
+}

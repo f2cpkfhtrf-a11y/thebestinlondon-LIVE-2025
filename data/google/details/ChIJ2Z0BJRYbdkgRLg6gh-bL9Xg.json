@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJ2Z0BJRYbdkgRLg6gh-bL9Xg",
+  "name": "Spiritland",
+  "formatted_address": "9 - 10 Stable St, London N1C 4AB, UK",
+  "vicinity": "9 - 10 Stable St, London",
+  "rating": 4.3,
+  "user_ratings_total": 1219,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5365292,
+      "lng": -0.1253874
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5378338302915,
+        "lng": -0.124159119708498
+      },
+      "southwest": {
+        "lat": 51.5351358697085,
+        "lng": -0.126857080291502
+      }
+    }
+  },
+  "lat": 51.5365292,
+  "lng": -0.1253874,
+  "formatted_phone_number": "020 3319 0050",
+  "international_phone_number": "+44 20 3319 0050",
+  "website": "https://spiritland.com/",
+  "url": "https://maps.google.com/?cid=8716096844823793198",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 1:00 AM",
+      "Saturday: 10:00 AM – 1:00 AM",
+      "Sunday: 10:00 AM – 7:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eTELBPdSHa2jJiEktx1-daSAb61fZ4YRGJ-onZHWpoxgwxxsu8cbGkD4S_Xv2mtFlI2KwcgOMaOipWYV_udegEDiaka3rODiBkEU3dUT4HHkcWNz0AmE1t_Hje-GDmJuVYkF8aJI_apCBWPItXVGfo5b-nNqbBebP8Lcf10dvvmjLpUN9_m0igiVIK7b1ip0Y95mhxJh2vPUHE0MccNEDcqREUTjZc29irkziwTcJnabFNM3M_He9zd3LjerYtzCXPCDVZ3mbJaGX-0XhZ1iOVnG0pMFBWN20X5Q7xC2rS5Q",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111682894346058163109\">Spiritland</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQ99EMwbup89jsxNLY4WiM9pZRz8Pe5PX55T3GUI3_iFLcXmMwSDjG6VG4-ZiyOoEDMF8iZSQac7VXgKvUbZKYgr5iuJYiUac6t9BT2i3aXZ5OeUGP2Rz0dH3NRVR3B7Rj3Inw2YHBfTgZCAjInG4o1BQOnO9s2yQH1I7xgakS0nXEKZpfHdZpbpdRrXXnXzeZMrolb7WGoiYPzRFiCX3SywJZdVOK-L9PJoX4HgKBp35jpLLhcTXZgcn0QSkdmreasHbO0VWd-frqPlADSo6GQOpAihL5Zx_LcwA-YdktwBNkF1sJxlZxh1VSGWy0vq5nMFMUdQNsT28ocN4OGCGENPhCI8p-wUKP20VSM-tX-HKWwBOgOMFiTjA9zZzYi7H34qgaGM1wvJwWJtvDBNfzdUW7ys9JQTW7fGmdUMgKadNOz9gr3ZVz9iuw6Glo",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112403086083830941869\">Alexandru Slabu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eu0KjBfsahhOmwhBjb_oggbsiz3-wn_jSU3Ak_GEyYndjh0dMt1PP18IvjdqOlpaUbrM8DNymVV9MHG724Qqy3O_QxKa1tnqSuqomX31BUx-5D_eOQLILNKtgdGP4iYj0vZyxLWGehVsvQXyd-0zzAsSi-ouOcfzilAIVVOqL_JFWY9mMcns3AtS4tWMjTUUIril0Ud9aiSn57zrielVaX3yb7LRveHoAq2ogD36ucAQspGJYqMb-pW1gopp8W1zJu5vuS7EgXeh4srBxaLciVI4p0c1AsT6ZgLliWPt45SQ",
+      "width": 3825,
+      "height": 2849,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111682894346058163109\">Spiritland</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dpGM1swC49A6ksbCgZdjLeJEnk6zCZTWejktqOUPkwqfjUFAUWpiqOiBnMccDg6JjsHy9uEzCvduEPhzoyUHfSoMOKbdlswGi2d74FlZUFMwKQqoHQf-nPvG9wOajEuC5Fst2bWcUl2gtICdbUt-AnVrw72EPpViu2fiV9Cocni7sf4eQVTi0PuLgformVmVBYMSdBTS4s6NNLuej3ExR2Zm5FJT5Dvm4Y8UTTAUR-7t-ibWPzHOcwTkujCb2SsTuDhtRvoFyluVWvEQ94xGC_hlqL-OBJd1RPcg-_zb2eRNg0z-E8REpDrA5XIHxv_UNhiwZGUi-jPDJXdF2s3KMqn98EkJFx6JeljUrqyrZ4wiR_fe8P42taGXptofeGeDeXhsrGFjsDAodbefwQiV3PH610SLHDNIaFuwNUwuWy4MfyvWdfH_Um-jHIQxhW",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110113016577830056890\">Stefany Deradeli</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJcvJcUIlLcr_m5pYNq9ZfMiADXDSezRyQVqYP64wLgd4xpkDWjmRhKnC2ptVukBiBDKZ_zzVV_CX_DzAl8JQigXsMnneTfupxa1aLkA5v72ZRJp7VZn6rxUDbVX08RpJnUecqDsON_97nTt-ZpK6SpQ9p_qEQO1lrvjn91zJg4XeQ-CcTafl8VTQOcahIgb01v5k9X9zrR5zfvCPRLnOz7vxjtBgtcJxTybvzVgi5DC32_txQyF2li0WEmnlyuZ0torZmcYhFX-ecTzHOx6fJ2OGuCYmDTEj_RKYbgmBpbPKfQHpqJlLRE2q8Ijlc5zh9tA4YERxTVLXnuzkgOkl5WsPHIcfpTTQgie2CuEMn4P-_nvsQVNN1tNtUD3TGeatjP8CMPDshkF1Kk8GDDNDNKW844X-h0w9-toDRN4qv8YX8T7it9WtMYn5XjA",
+      "width": 4160,
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112403086083830941869\">Alexandru Slabu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cN7d9SR7nd4BbSDSPUHm3Yc65ClEIbfCMClcdGHXO_3hXMmzKaCk6OU8wV9eugnTZEZMHmIbFC6Pp6mIGeyYp_CCvztvyXGHjm71TsEoY44n35UYAENozmvdLzw-O50QlEyQwzMDCkYlUym_ArahnkiKqbHkJ3PGza5g9P1SaesVEq-vJYM4LVxqB3J0vuDZDkJKK5oZHhUirY1m2ghc4QL5vFWOKpuLojDma2AWou4mfa-0x0ekBO0_2MRa9awn3oeGJ2QopJeeletqGhp-9E6VhGYyTp7JAmIs3JhEPINfNlQpm8kZiFFzXUpJ1UrmJ02eFaKdTIY_608sw_GjxGOxsIRWs7mpxiPmeiaXgSw0X70YdfgX8NCs4SEmJJAeMVgLWbai6nKlQQKYHg3oGld3P61wiZJmoEB3P6DwWjQDDVvGBSZQFBEpeAiIot",
+      "width": 2570,
+      "height": 2579,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110742209985400822520\">Gintaras Aleksa</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cUzFAN0SxCBI9XiNt3kui7eiq8n08FrF6XzlogO8ec7T8g25_TLs5C2wOXjW1nlb-DNQX2ZkkX4FgJjeFLBXUOBxzhZJvHFnLskdSF6_ehOhmFgKX52Dqj27nVBVWi4y1yFZMgFjzFF_sTd7ezvFVhPQQJ-Swx6l1kgKvhq2Dns9JZZllOIXk1_IDLrwKS4uGfcqVAOrPOjClDOwxxBWIt1fN3sopCUmLgHOiViCQgv0KVqnWwlsBhnYTGMPOIDvZElN8HsfMBHdy3Z2bdDvcsNcFrrpaWe-F6jJHQDYn8Te0ehJxejZcwZeEIxPH2ibtDLLd7o4lgU0DdoZkfbq2jVuLlkDesOQNkdRbzfwOSK5mJ_ZCHzUL6Q8J-uU3rjAaDoMvVzMvfdwrv0vDORlFKHDy7x7K7zR27_xOxIGatkPBl",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107240159602347793316\">Daniel Pearson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eBYDNn21Ey7cq3AnWtdKJBx8Zyih5Kis7XKm9UzB8aPRxPVpwHXajdDe6GV-6bMHGY6yKxA7H647KZVZtNrcrQ7enBfa91gWHS1oeLbCzLNa9dyDTGg0lvJ7vM9-EKddYP4dScTEdq7nH0wb46iLMui_tiqNLK9FBY70_sDiFncVU0yx-PYw5v1tqWEytojihSrnIf1Qy0GQGYTRW5CBEbxJKvR-OJFRdDXkRWIVedMyNv8CEPY6LssqcFaJNctc2cdxOXFWJB3zlP78zM87l-AibQw_wh-rlGhy0-OTHUP9pc9FAxnYxoS5mj-1blh2Jv-V6xeHu8gALuXQDPV7pFsLgSwktx8JCMu5lyFBbs62daX3Uk0NPsIzsvtFqgC3fSjJaQMw1w5Jt7qNvWB7Ovltxswhtb5qkyVT2WRdjGiFtL",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115138792041363188674\">Scott Pride</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eSSh_xLEJsi4jTy-G6IPcYu_sOjF6TCcp_QpvtMQygdXuwFBTnsd3QY-38K5hy3UdsR3pkuYvSCrTQX7rTKwh7wG6w50Gr5MYMUWAxs8LcMgN2GD6o6LgbDPrTFPPtm7Pc4BlfpkA03X3ZpPbBIw6TraWrs0CDwds4XsTDrXGWHo5qj6ynKs5Ixg_UbJ_QveYHsFzVAkymLvJEN7udFKD41D_4UEc9Hpge5i0CxBR8DLXrko6Ln-Iui6iTK6Kaz8AAGaiKIGVAm_Vqc4thu5Ts6Y2mLzkD3RcXx3zkJn3mBt8gZWKnxAbGLD9HUheA9zEXVR8KAIRCEr7FkMwvm80TxUoZchfEROr2cWJApr29o3U82Ax9sg2K1RhBo-nrM6f7DY2goMb0qF6cwmtEmCSURCpOZTmMENt9rTYaPA4",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116795958033793276553\">Reidar Murken</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNuLojoAs7Jw1nrYTFFmCy670Jeswbni7FF1ZlNGUFQ4ejE-b0jnTdrixNNcHOYyuG8C-FxYkrS37op1XWfTVZ2BSU56OLmwL-NTDQyktaAuDEoVLL8WbOlRYhgCiEiQc2lMw0BU2jd7ayP9QCOyUwKo09nkDCJ6IXc8hi4nZ02D9syEUGvlNQ0lixOkIDOvX_wWYN1I_XMHrfXul7wPmaz9s38wbsHzx3Xh5BWQkB2JPToq8eEVrzVhDQ2jgATbMVRmS7CdwpEo8ptxLkC-DNeZYnV5WdKCeIoYUmacrBH8gN9usIQESuR42iOdcgCrtTZeDP7m3s2SyGOpqoTALsPLXzFn16DNMveGJlgdPZtcsGtpUj7mVO1j-K7HmRNdWO5sLbJ9PQMdb3gbYF0pcoqTil987ALkpc4iElhwLF7Q2h",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116795958033793276553\">Reidar Murken</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Alexandru Slabu",
+      "rating": 4,
+      "text": "Was a nice placed in a really nice area, the place was recommended by chat PGT as a listening bar but it wasn't like that. I think it's rather a whiskey bar. There's lots of DJ gear inside but and vinyls that you can't buy but they play an album at a certain time.",
+      "time": 1758120050,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Fama Niang",
+      "rating": 2,
+      "text": "Was going to do one star but I have to admit the atmosphere would make that unfair. I would recommend this place for drinks but the food leaves much the be desired. I absolutely urge anyone who does order food to avoid the shrimp (photographed after already eating some) - it could still be eaten but really tasted like it came from the Aldi frozen aisle. Service was okay, very lovely front out house but beyond that could be improved once actually sat.",
+      "time": 1757240501,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Hajira Amla",
+      "rating": 4,
+      "text": "We visited Spiritland in the late afternoon, around 6pm, hoping to get a listen to the sound system. The hi-fi components look very impressive, but we noticed there is a bass boom which makes it less enjoyable to listen to, which if you’re hoping to attract an audiophile audience, is not great. The menu is limited and overly expensive, which I guess is pretty common for London bars, but the staff were very friendly and the service was good.",
+      "time": 1750266368,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "A Jay",
+      "rating": 3,
+      "text": "So much potential but falls way below the mark. Really good sound system, overpriced and underwhelming food, terrible cocktails. Got told by the waiter when I questioned why my soda tasted exactly the same as the cocktail \"oh yes, we do get told the cocktails all taste similar and you can't really taste the alcohol\". I dont actually believe that as I think they just served the wrong drink. Either way,  Not good.",
+      "time": 1759959605,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Stefany Deradeli",
+      "rating": 4,
+      "text": "The bar is nice, good quality music. we only had a glass of wine, which was ok",
+      "time": 1754214466,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:39.258Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Z0BJRYbdkgRLg6gh-bL9Xg"
+}

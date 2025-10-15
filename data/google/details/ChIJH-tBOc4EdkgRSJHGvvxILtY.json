@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJH-tBOc4EdkgRSJHGvvxILtY",
+  "name": "Café in the Crypt",
+  "formatted_address": "Trafalgar Sq, London WC2N 4JH, UK",
+  "vicinity": "Charing Cross Underground Shopping Concourse, Trafalgar Sq, London",
+  "rating": 4.2,
+  "user_ratings_total": 2486,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.50913320000001,
+      "lng": -0.1267349
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5104343302915,
+        "lng": -0.125635919708498
+      },
+      "southwest": {
+        "lat": 51.5077363697085,
+        "lng": -0.128333880291502
+      }
+    }
+  },
+  "lat": 51.50913320000001,
+  "lng": -0.1267349,
+  "formatted_phone_number": "020 7766 1158",
+  "international_phone_number": "+44 20 7766 1158",
+  "website": "https://www.stmartin-in-the-fields.org/visit/cafe-in-the-crypt/",
+  "url": "https://maps.google.com/?cid=15433353223414911304",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 4:00 PM",
+      "Wednesday: 11:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 4:30 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1630"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f_VsHYIB5JLsEqrVwOenbpLEogkp0cSKtHXSIl4Twx8unYIly7-2jvvbHeVxzVDFh_P9lJEsLETmIwFJGx5qhragHHm4qjZRQKqcjv5mSKWWhebK9-rozIwFmgSWOqMlRVyXET6JHh0491doJIhQkC1l8_tBLX7WJdjSypFUr6Z8Uh_hvw39zgOo0ktqgNFzdOw9N9lKfdrficsViTxiiaFIxqML8ZYmLlo6rK3EVv0FogVDpIkfrn552WKEbQfMG6ErPpORgbKvjyyxeOfsawU_USDXtrNzZZ-Pg3P5CoqQ",
+      "width": 1234,
+      "height": 823,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105589405743838811496\">Café in the Crypt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAIbsr3FHHC-6O2Eu9d6TPuivveC1F4Y1OQnUyq0vI6x2srwjhYSU9CmENItKdmctyqXilDEU7xTeaRHa9qrhR3a4c-SGG17SMIYtA2f3wMC8KE7N023AwzsNvXn6NnxxOMWoDxo6zDisuIgJrcHubb4PQDj3QVUAPLEPSRtgvyTYusOhwS2Jq3QCQ20DLHgCmmn_RjnYUvv4AA7zSH9oFaMpWPof5Dp2edEXsFErJoR7u7X9MCCfCDLzwG02nH-ONpGlEN5MDPrmPXTqDPDuTiIcuZLv7QENScAL7Bkko3FJmWST3UK2AJBuYk9lKztieAzx2320gaVZlyy9m2aLBAFJSI0AndROexn_eVfq4aYGX8B2CsWW3MXZ1uUXXKML2PcuNo9WIkUKEGLMVN4UsezgZIB_kDZgpIQDwKrBF90XM8FXSDjQn_3Pwn4ie",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107382606045095321373\">Pecston Gallardo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ezeE-pjhPemYznhkvXuVo7fv3KDS15-Ch5hwPVly_l78pUtOIlUjnubK5HoRF7v5gjW1F0Ns9N9K-dNRy-U70giqlGjW_q_Wlq1eGb_nXbdsS-TCykZOxqF6OyeoF12F0dEHcBvN-0ozpRtzCvepnErn5MCQHs-PBhrbPvANVTVbLz-0gq7b0ms6FZ5sGXITM25LNnVbpLDRGVy9USVlxKh2HnDHiuxeQ17rqmAjRl0SB9NZ4XmxqLtgKFhOFUfIFtdAsNfaOsGtLRmTBSHRjWPvX8w5xUvLcFV2Gs9pgG9aCmKfIiK6PUJ8DAmyCTgkBPIETY5tu1r3js2FsL1Rk4qDrVuhSne3Zd9_dA7ehSRSOl2_eBiEHdvbef-3O6zgYd2w3J8FCmGcPuuqyYhEwUG6BrmItnttkUcAAsiOtKWw",
+      "width": 4000,
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108221194076437712799\">svetoslav arnaudov</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHY6LW1yZpmThm0AVLutmye6l93YUFzlOAZqZeqz2WbtykeoQIoBbW4qZwmz4JJ7BZKzR8CnG4eKJ52kajiaOaxWMtw3ZrPrBWMKUYdcRD5gXFnGSOv9N5FJGE3RcZ0sfH4OE_zPsBA8QA5HZnnfMDKkn5ZzY5qtJBHQ7MBWsf_2SBX01sUpGgUnuVjllzykIpS_LULBhPfA9LQsQSLuvjuuosssrDzC-o1HVwZeEJmNOdtwZC1VJSCkXoLEh9fk8AZNkzr90z-WgoxSkFIbqM6jMmet8JmlvsjnYOHi2-qxXJ1glkxEnZrJsboXPeX94GxtBlaVKZu7WiB3LPRFp757zO4xZpBWShmFjLUJjR9rBie_K5rfLC4U16H7v-cf-eHPG0Gf6pMwu2TAHP83AgPxlalNgsOKzK6JORxi6Kfr4He_-6kYwPpq2GDA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104066600015653027203\">Cheryl Atkinson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e8UcAtB8yerFZAzNgmTziq4gku4S8icAIxgdUG6ylZj6HrPOue51OlIMwTh9INAhhF9z5LJpFsg46mppALxC7KCalqMX1qZC7jWHGrbPc4LLABOQjvuo5OT6EPM6KzakuAsenpngkXtMPPFaAMRk34ik4fpVCrWcCjZ5LzAONgwVWZymj7BC3CkumrgAMW-oIs-iGMC_i9FBLnJzY4ctrB9CqHJbqohJIBnYv-2BUj1hPE0QP-sicmd4Oq3LknOovTeSAKPcC5StlRhBVfleFLdY-22DCcUXvhRq_3lXT3Uu9aGe-DZ69JaBSyijEdcIr6S3E5xWkK2aqR8FLHw9Tm9gLTfqfYfVNEauxJrlgw3RoNS2-GQzvLveX8Z8zdZx9otkuZH1i3UuIX7AEPRpnrYh8AXDUesQ0xgS0l1aPvCZn402xJNSJOSOVQ7V8h",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107382606045095321373\">Pecston Gallardo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNsiUKCZIakD6NsvGhm7T-zg4Xi3lw6QUzW-pSIHg2wVURwiSU7TB1E2FQty9kGg39ry10Nqw4vG1ZXNRWy_ulnuOy1EzvL3aN7V_Oqvj_lNvR--Nq4NScnfDgfUOIeRrdk1EjKSmKNjQJv1dQKgOgcbifuUhX_BZXZf1pj9iN18wZ1c_8GzCDqv3Elyin-OZINYwTVP_AY-zg6-JoLwIZ5QfjuUFOOeHfG75_uYGCNbrnwAGspZPwFreF6Sqps57AfWaRHdu357Wf-21BDvQ89R6nwE3lJYuFhk3N2QkjPaBVAE9JLAhPZ6ADc0pmFuM2QETPMBneL4OiNKp-QbmGQNO8PsyHI73UFTuwK-Pr9yHmXpDvAqF7wdxQfYqw936s72QApsR4hl7xaFhPbYpVACo-cyIfndTJOKyCNQ13oBO0",
+      "width": 2765,
+      "height": 3550,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113810413420212197307\">Mona Lu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2coyE6WUdHHYhDWesb4tcWGGyl5XKFjfhYoxpJ519SrU-UUfQBAOQHLkcHkyGYAo4-ti2syz7Ix_a8jYUjJizQ8YZnfgBbi25OpM8QTiS2MNLoFQOkwsQObHFEW3y2Cozn8gPdgT8KmA2SLx0A4EEzlb5u3Sut0fD6-FxHseysEKKrmpt5tHGlBlQvX4jG4pOeDxJW39eHQt_YSxNKxqLL1Kegfksu9OcskICepOs1XoUc2vNbZ1U2cXsrn72N7Rt7VEg3dXDadLpvqtcbUIsGAKtr-jffFA-7L7UhPocczuH8MEZBRsMPOBWoS-2natCWC4NOKEBmsuoU915N4ZgC_dPGbNYoxcxw2tOlDB42ACEHWlgSxKH3AQ-hZdP_2KlOMvCq2tzTuzCC1f6vk3Y_6nafx3HepIvNRgSsHMfwYRKbq",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117158997025977173534\">Guru pragaash</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dI5M9z27MCZl_lT8PVrpng5NNwT0cWS0VH84WNpJjZNdNp5Xb-mkM7NLnF92QMf02NRwCQtzi6Qc_1yclVdfOfK4nynw3xuiJqb5GZEw5UPexJfZcJGgK7JRmv6SBXPaEcdCuxCojiKJuZmxHdFWnXBnrT4cWh-2Y2L-YFUU-IUqqsn6ETUTL2Fx2GvlXTSGpuTrpw05sEM4EoAguntIGrd64x1Vs3dlHPg0arytLa6ycczQAvjtyjum8EsRs_4fsxFlL53g__eQbabazwCA3-WTkhhR_YmWvAbaFwkPBpE9W0GGpFqgL4AtJAUf_cRCi85NWvbMUUBXa6mTM0mEs0wHcNMHta-nGYi1XmTklZ1XyfQfQHvqkQKF47A8morPnpXAmh-CXRSy9asFOXekVv1-HOCjxgrDPDDva887Qxxg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109094759292655904917\">TheLady Wendy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ez_Jg-Rrl8dLth2vmQCn8aYtqsKidMgU5zzp8DchnF4vGvpJTSsOvbhBWOprPSqdLrSX0pQF4z150PlB3Mko26H4h79u8y6QDGNQqLCw_I3assk-GLuI5SN6RbXcu47kb81_0HnwFvC_QgbKoAUsveF9LrX8jIeO1d3JEQvXyVDbBNbTidZLniZQgMmKBIbyhYRVuFp4T-qRCEo9Frrwrl2dFeDfdrUZwmbGWw_Q7FrEQZkDbEX9i4D79vV2WeM4LkzdaRAnggpD5QfG0aQ4-Y7mwKOmwkjwK49CJ5TCMe4HouXMuWNs1rPEk5ctxhlJlvBIv0W-HPzVDiHvuBd8o8v-QlJgOL83nanOdg3_qfUqL6Dus1wOAQVSpIgNjsRMJ5e0-RPd8VGzeFsTKN8qgT97n1r3jueYzQC9MhCis",
+      "width": 348,
+      "height": 348,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100557702075681188645\">Stephanie Avila</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKnxx-G8o1YwHkosEBNvkQ9p3fJkG3uqP11KIe3Y1TBjjNCHec9TEuNa_SSkUR95KwMxlxFcdWCpVjpE6e0dIqqPwGpmXQzpq3S9h0jV382x2-feHfjfBBy1693sAT3VWlFedG7DzQ2gbHAk-9Ug2hOVyFj6UeTq0d9L6Xcmq05WrqdrMxEkGWL4BV-swP5g92D5KVZL8iPuATygWCSY51OWz05EyzTVSowbWrOhCFRJK311KFE9I5pQAco-f6K4-IFDUIfLW0N4O_fVlR3xYLRJmW_mqgf_fLkqhljxNZvn7CqFdLESmwUpc6iT6N0hgh4j2PUIkMkRwlEXgiooWP3_Zxf3YSTZo_j_fwAsJRwZEmLgiZAgTPIfWnzCuQrQj_YN3rRRtK1U3fZOBpgB1sz1NlOgbJUj36bpSrL-KOHWBaUq3S-1MmjmYILF4p",
+      "width": 3142,
+      "height": 4185,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117904050200088554704\">Owen Lincoln</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Self-service cafe in underground, brick-vaulted  church crypt with gravestones and Wednesday jazz.",
+  "reviews": [
+    {
+      "author_name": "Charis Atherton",
+      "rating": 5,
+      "text": "Loved eating here! Fantastic atmosphere and food was just right for a light meal before an evening theatre performance. Chicken was very tasty and my companion had a lovely steak and ale pie - none of the food was expensive. There is a sweet gift shop as well, clean toilets and they host lots of concerts etc. A ‘hidden’ gem!",
+      "time": 1755280918,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Pecston Gallardo",
+      "rating": 5,
+      "text": "Not cheap, ... for it is London, after all, but the food is tasty enough.\nPortions are adequate, though would have liked more.\nGenerally sufficient seating space, though a bit noisy atmophere.",
+      "time": 1759676169,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Xena-Marie Horn",
+      "rating": 5,
+      "text": "One of the best hot chocolates I’ve had in awhile!! Popular location but less known cafe in the crypt, would add to the bucket list! I know they host events here also! Many chairs and tables and surprisingly natural lighting ☺️ would recommend for a drink and a cool place to relax from the buzz of the above world!",
+      "time": 1751050192,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Astro",
+      "rating": 5,
+      "text": "We decided to try Cafe in the Crypt during our recent visit to London. Although the service here is cafeteria style (as some reviews mention), there aren't piles of food getting cold and going bad or anything along those lines. It appeared to me like small, fresh batches of food were being cooked up as needed. The fish and chips we ate were delicious (among the best I've had). The dessert was very basic, but still good. It was fun eating in a \"crypt\" (basically the basement of an old church; don't expect coffins and such). I'm glad we stopped here for lunch.",
+      "time": 1751599590,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Jozef Metelka",
+      "rating": 3,
+      "text": "Really good choice of food, vanilla clotted ice cream was delicious and coffee was also ok. Nothing spectacular really as the price would comfortably match much better quality in any pub. The atmosphere in the crypt is however very unusual and would not be experienced elsewhere.",
+      "time": 1745839286,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:18.861Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-tBOc4EdkgRSJHGvvxILtY"
+}

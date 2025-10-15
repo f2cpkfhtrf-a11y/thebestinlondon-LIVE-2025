@@ -1,0 +1,247 @@
+{
+  "place_id": "ChIJGeN8WtMEdkgRm8DhT1Hvx9k",
+  "name": "GAIL's Bakery Soho",
+  "formatted_address": "128 Wardour St, London W1F 8ZL, UK",
+  "vicinity": "128 Wardour St, London",
+  "rating": 4.2,
+  "user_ratings_total": 978,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5142981,
+      "lng": -0.1344713
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5156100802915,
+        "lng": -0.133171219708498
+      },
+      "southwest": {
+        "lat": 51.5129121197085,
+        "lng": -0.135869180291502
+      }
+    }
+  },
+  "lat": 51.5142981,
+  "lng": -0.1344713,
+  "formatted_phone_number": "020 7287 1324",
+  "international_phone_number": "+44 20 7287 1324",
+  "website": "https://gails.com/pages/soho",
+  "url": "https://maps.google.com/?cid=15692774559107367067",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:30 AM – 5:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1730"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eXul-a-c49vvKZUhYceir5TCEo5ztN1qkI_Wc8nXdVDpBZ0Jj3kRg9uqN0KmuMvJeILg40rcFtR1mcJVTShqnbZ3lulY2wbW9likf6b5kB8tGgL0SlQkR0uGGSeGO_Mowrx8M8Bm_zD2s02-uhkQQ6HmwWltZ4nEOwAQbOfcyES_qNhVHjnUIfB9h1msZTLH4F3AtI3UPcgk7MHhtSnK2SJ-1wHqtJde9KeJ0kikz3T9kABF0R4_YlJrmKhjalu6MvxYrkpz_TeyLl012Wsu60B_0-uCY17C1vyj3dnGY",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111315817057235202529\">GAIL&#39;s Bakery Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dthfRBllEAFGKTb64oyowQyMkE0gVcfuTDMFHgY0MaI3aWeEpUecZw_J-H5rAlTHN2ZkZlfLeeltEcXMTbAtyPheiDNr6VaYYcKQDNGwkzgG-XgR29uRBmS35WiQSU2i6gkS_KES1UZ0bNTcFGoi9WmMp1cy-ACnv8XxEN2V8oYCKFuLJ9gx21VQng2acUW8Josjcqxhle-KWiQHAIjvD1nzeo2TPYJ3tdpF2EW0VIz6L8-lXIMNAbnNb3-G0KpkJuN9tXPyaaA5z8PJjZAnCzOri0eAgrkNe_Izzp74U",
+      "width": 3199,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111315817057235202529\">GAIL&#39;s Bakery Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fLCDHMZph_dTA0ifhuAsGbhOa9AoG2dRIat0DDOM9zPrm7VKRSk2dN5LuinAzLpWGvEC9JWljnYUPV_sbNZmYk-X_oFGL_kGtohArBhdbISVSW1DegdW6QVAXwoVAVMawVYoJtfgK-5EG78d5x0c2Zu2Nz4hx-nmsRtWucAoi-2yJnjDDhcOMYXMmZGM3mfWTmGc6428qxxo-H-0CvA1JFtXD-z5uh7OJVytxsfx5PtLhpTUK8LW6twEr94UjQ_V7GtoFR2alnRRWuxp16vi5dQqqAujv6kOKd-9yO8herWKLQAdNuvXmrR95QxA02HaQPtaaiVD9j7b9lu7lA47SuG89Ey6w2W_A5jzlrVsfUicaDT6taNRX5hJyYYwvVS3nVOe8CWjHKXC6hub6fC5F_6JTy92Wqe6xOeBJNyAuTH2c",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111205072643203368884\">Grace Chang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f2yAjCsnG1ev7dZgSWl_dhNNJxvuWufc_E3eSF7BsK96X7xqFg17q6zaGEfbi6Txbte8uQmBVGnQdKamQRzHpYQzZMZ9SLRWwSKyjZ9FjhGSJZ397RVAUzlIMX1J5L2Tby6U6huPdSTdC1ffMj6Wq8G_tQL9rnkJ50KrUg3c1VSdcG6PhVzE5LYOQo5dz7ul78rO2by6ePbUcnNZ1uAJoK8KWBZ8ncDCm1xzG7KxErUXPVSpoRFSejuaLh6ICIIXAuCJ6ehWjwqV7KrIUxeH1biD_wOEmfGo8IWTi3KUpu132gyGc-PrnKJJh7NokNeIXJd1MdiZxWXHrSGqFlMKcLy-jvkA0UP2Xb0BCmkufhWIE-AHmawEQVtSdTc105FsA11cbhu8aCqozx6YCE5-Tn4db5ND9Q9IUZ_edhTD88cnlXT3HdTGNBP_vceJSZ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114743215820414583817\">Dr.Tahani MNA</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fvlRzVsDQGKXLHu26tBm7-RTqq1WXyYG1At2CwbAsmBW3z7iYxsKNLhXI0CRYzbu7qUb1vZIr10QKfhKsh_GOCgrqv8_W2Nu1uL1B05WppOb9THqKN6fvbjQxK-8OV4n9n3oyQnfqfPJE4gxX_qQLL-medI9mDtmv2-7RK_URVP5iH2uyQGFy3ICX5ff2tsbR0OmLuZ-9jaht32SMtIQVGQgz3RQVUsYwegit5s6OCeHkiWHCseqa1uLZ5x02kEJ9_6sqxsnDPF21YU94j1arw9_SGuPKWUsQ2xj3hPZI7Kd175hJk1akTZowhTc2sNQbhgRVaTrxvNjZgYJVLh7rnrSSCpUxHcdctw0fEu2fsnnT7PSfQr7n0qs15q7JBktLS4JkVbsuCW9_mGyKr5rq018MBdEY2RLeC_X1q_URy9A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110663737408708427501\">Diana Borja Dologh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e9ONzNHVoa_itYBaai46J7OgbmuA0jsVWadq9oKI_t-VzAqUq8f_i1bHxA4b44gFo4u7Jo0VFhQ1ed6t4VAZ8hFpzOlBK38XQoqFBSBTDobWFZzzu8DuoDNVlVM8B4iM6JlCncTRRX3PFg8vHt2-QrXk8cJOX6_CRG65ZIpPPh1W19NSI2zZ6BHLSFNToJ8aFmQJl1lQm8gsD5XOm1hJB1iZPXcX4V1zD14Dp0QoZikAcqVgNC7yOti7BWawJcsGubGh32pG9KNI0zp1M3sI_a8i14mEFftssrUPXlrHWuRdYQlCzxTc_cQsTwA2oDNj9L_10XPjI37lXboE6MdGe1ADQC76cDbzAQuzE_Tfe5b32gfBD6a4TtW0BnGNirciNFT0JyWZdBaTqcEysAblayk1qDKWbnA1ayvdIkg4QpIrP1V27DBNOSayXnikSX",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104367673449245631221\">G C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fv_X-40apf8HgItGuXDfMiufWQmU6y441bMnFx0YlCGvvzxu0Hg3rBO5OyEQQ6CDc_B7af4BFhCEklqNPaPEQNYlDJy4FzvDpqQnIk0ir9SonBBz8LQ6jFFg2cG6osJMXqyEU8-pM-uycAshxbq--MndjoaP8gzWMbX1UNmWLIAEitSGq_5yui1nz-TnOYIAQ-V2dQo_pUaRCMLamgXQeiNWjZEvfVS9CZHZCswZDI_yWzaweSUaGD-Svx_B689b07XTLBxywFuh4hI5kbcLG0AmNXlOAThn_QJoZARWw",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111315817057235202529\">GAIL&#39;s Bakery Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fk7Ofci5V42Uay7qMZLeFQwbv9YTrA4oHFT678Zzl5Ub0UQlwV5Nl8IyFrAYtVhCLInVPFCsmb7TR1RwOEN6E0dCFA43VDh4f1x-uRdOHRhJA6sbW2R4F7sW-oaPIo8YMoNwOByu5_y0pi5YqQxE43OPsXtAP7oN_FHwi-_WYXXvy9mKxIfEa7JhMR8lNZ8OA_6S1r6D7e5E6YlWXDRxAyd0IjFfeAIFd-8yPOZ7MevKM1WKBrqMM2kSJ3vpXBuEVNPuYD1yIjOjtx_u-dLrmj3MeBla12WR8cr8ZWsu8",
+      "width": 3199,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111315817057235202529\">GAIL&#39;s Bakery Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUqYbqfxN8uqJqCoZRaWAoIFZMoHsEbmKIHR3obSKVLtHqCTKjAbFndL5uSB1zzA7QvvGAxVDHvIryTB3StaP_KTD2sA-ZdeV4hIucBkI9aOR-vJwwlaGLLbX_nsAPuylbFVYIGG5ovnub7zUdbTQfyKenR76DYb-k0Z52UW1O9gdRKT00WoICH3VQvaw4ytTXnfDIDr9HylUYIUsF66WXQ1KgEnWpp8fz6LnMvLc9Jbdg2RwrninVV7qIbBA9UuUkp5oyey7cgXRncoDOPx4ps3DQ2J2GJLjAVKy4tDk",
+      "width": 3199,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111315817057235202529\">GAIL&#39;s Bakery Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cC-eOrODJi0wx4Dn3vaA4VlS-kpiG-07kKQqD5-QkVucHo-B8MdGNXNhCIKtWYdrKBDdAGa1n6NiORQIryyQbaWZamdo1dqgaLPkyzGF7Pk1k7nG5nqWP9JeH3fx8jXxUqR3IuFRq0j-1uLmSmMcmjculEioQsz088OIcBU7uQJYs00rEC3k5tuekXDJJXV3u1q6i47zO8W4jrf4QvWoxTSDEEtlock7qZA3d6pRRWWUMWLPbsJSHztUMpSGrxNuwVkgzVI-vnhnLfsbZ-ScMgsDYEexbMV66yY7d4Jkv7dimtUfsuR_ABVXfIME3bfLm0t4dqJ6dG8ArfkgeoTmvxTQrKFTDcvpM7ZpYGwmcToWYcUepTEctYGLHy6WIokVOnSJNNOHRXaUJebBQMPckoKU7Yc7A0PNVGX2YnEe51Zm4XyJQOY8z9xAlCQUbL",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117493983067849237257\">Chin S</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Zaalie J",
+      "rating": 5,
+      "text": "Amazing food. We had baked eggs with streaky bacon with toast soldiers. It was so good. No lactose free milk though. Oat or soy only.",
+      "time": 1756026392,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Noemi",
+      "rating": 5,
+      "text": "What an excellent little cafe. The drinks and pastries are fantastic and the service is very warm and friendly. The cafe in itself is small but cosy and I will certainly be purchasing from other branches too.",
+      "time": 1753455662,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "g Hs",
+      "rating": 3,
+      "text": "I went out of my way to visit as id seen some good reviews.\nThey were a bit limited and what they did have wasn't exciting me in terms of cake.\nI did get what looked like a cinnamon bun in a mushroom shape and with chocolate in.\nIt was dry . Barely any chocolate.\nIt was a disappointment.\nSome of the savoury food looked lovely.\nNo steps to get in.\nSome seating available.\nNear Oxford street.\nI don't think I'd try again",
+      "time": 1759158232,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Mary Gardella",
+      "rating": 5,
+      "text": "Quaint spot. Amazing baked good! And delicious porridge. Comfort food on an autumn morning. 💖",
+      "time": 1760173777,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Hamza El Ghazouani",
+      "rating": 5,
+      "text": "The service is amazing. We liked the hospitality.\nThe manager (Anass) is very friendly with customers and professional.",
+      "time": 1753016602,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:29.912Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeN8WtMEdkgRm8DhT1Hvx9k"
+}

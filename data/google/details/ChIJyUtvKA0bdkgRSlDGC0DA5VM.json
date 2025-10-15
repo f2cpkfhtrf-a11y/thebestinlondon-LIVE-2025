@@ -1,0 +1,273 @@
+{
+  "place_id": "ChIJyUtvKA0bdkgRSlDGC0DA5VM",
+  "name": "Bouchon Racine",
+  "formatted_address": "Upstairs, 66 Cowcross St, London EC1M 6BP, UK",
+  "vicinity": "Upstairs, 66 Cowcross St, London",
+  "rating": 4.8,
+  "user_ratings_total": 940,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5200328,
+      "lng": -0.1038862
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52144103029149,
+        "lng": -0.102527669708498
+      },
+      "southwest": {
+        "lat": 51.5187430697085,
+        "lng": -0.105225630291502
+      }
+    }
+  },
+  "lat": 51.5200328,
+  "lng": -0.1038862,
+  "formatted_phone_number": "020 7253 3368",
+  "international_phone_number": "+44 20 7253 3368",
+  "website": "https://www.bouchonracine.com/new-home",
+  "url": "https://maps.google.com/?cid=6045449456122744906",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+      "Saturday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dOt-ZoKP0m1wcx7FVWE8L53U-5_1ddw-MrsWPXJDJavYmDCCBVtNBWYcXSYucuwcEnZxiAjUzSLctBUdJrDZN_GPH3z9aCsFdL8pKOZV6nCun-0SllSZTeDhrJQ9o4_HsnTeiT43-L_GjNtozyJdai2uFrAdmwb1uR5CdHxdwZV6eylu3Jz-Ojmp7B4GZ4m4HMgqS-WFxnXUN_fF1SRovs6WrLBjjBfrl6-HwgUA-CXwSYxCQouF1bhlAODCcJoKO9WUH6hbXFoaJYZOcu_SR9STTRoxXNFhzeGNPeagYYVgPNNMjDW35vIf9fsUON3SExc829J6PQvSnQ8xNbCoFHHWB3a0tAzQoD4xz3xm429bAJCjTl_K4COesCqjk54Gffcxr8kTbrA2HZhOYtHRq635ciuRano6TTgLFL2P-Y1LNC4vgxBXEvUE0Jt4Jm",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101898245649897572187\">Hannah Liu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cq_vgi-pWDJy1d4pRx8jsujRg4YqUSq0E3mnQG6v9YlqWhPZEFXCK8qEY2jtP8pe2QXMpu0Byz3hPmakv4WlPAX14-xsXCbU8KRT99_jSDuZ0jh2z7gGk5dlKGvkQVFAlMQ7fP4LbcTpN6AV1VRPdcPM2kFLExPDy2lWbC2f0gvIM3C-KBYGJXr3t4yhDxZDziQkRF6qxjEXt8y_VEIDDLO4xwVlLkzVIhcqqGRC5WAsGrAGRbVU2RJytolAU9KhD51HJnYoTt3JRiybSgFgxmQ_sJNR1r-h3iLZAkz_qkUUgAxXuFYH-EdAvWgkWAjTJGU19I3tzSFJF_zewufuifAX_nLFIwx-DSb_eoe2Q33GhHvzgWu4cRv033ViRE0BzCd0oIL9Hdy4SKwSnaz7rkCxMb8jlqMAB3Q6o4xrWtPzo",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112179451932143451384\">K M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eKEnt2wQBoOJkQOeltyqYESIACqPZRWCjEbnQ0WMoN84Ou7CuTEmbA354U2Kdj3hxZRhNONDdXZKb5Btff699CiY7IXPpVSpxxzqC9w49X-T3bIfKhUZq_27e2yhO9C4FWY8bM6K8J6Z5bs9JFoa2R2Dt_w9nGKf853WbYCalHIhjojd3fcSWCQr9WqZ1srTmqbcK4IzxSnC-47JFn7BU_yLnnlM-tVibAqEcFIFvzVI1R9ANB1CGAWUj1bwT-OXBFeIJVLAzelZdVo_hPLwQXxRFwmwProYGzO3Vo6FOW65-28D5uBEsP_7bQ85k13e6jchUwdA4ocEd3H7lWd9utvVsADSJeP0Mt17CYAEV5kFSVbHbF6tB4A_qaGF1L2g7GN3aCY5lxMBIz6AqNVtDOqS8-Juv9OWFc06rAXpgmYfL6ugv6CKUP8lbaC69R",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101898245649897572187\">Hannah Liu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2diBhcjB9ObhLugPvfNmIUT1n6GEUMc5QI0paiLfaGWd0c2H9QJrE6yxhdGrvadm40qnlH3KYiMt48WNlv03GklU1Qma0VOqxe23GtDLeY0K43WZZ_pGt7srAkRQu_nFXRJAmcNaXU-e9Ku6pirVj3aeCB9nAKqYLm3VFfhrPg897DfLvHbTJ4q_GXCqAtP7QbEPR43bXjbpXaKK1bhCUoSRV5bQmfSh0alAQmtcRckbiunt4LgK-TXn9iTYR8RHt-8m_Yg0nLgKu23hIjiO74fAP4DqRunnA8gs5UxffM1XUiLLp8q0D6RUEFraCTpL4AbAdSCpWyyav-19MxrE_OKe5Ov7zHThx-V9ddlpqQx_fn4aorIJl_YgATin0CO6OIyaSIvmNUftLpdQpj-M08tqX5eHuwrv2whvUxnP8ocNxja",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100800770658561757995\">B. H.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dSvyZotcgzQVuNM5eDQd9W4Nq4ydPMhmXSxS_MtMzP1ia7Uu7gKj-K1G1sC85-dTI35ZzQJtbp52vFmQpRxsPFhroLrSbymHWGaiZZn1sFPjseYwmJ_GvnLK3UGkJvuO9sOiW1dqyBJLmTUXP4m5wm0m275_sNXI_FOESBHuGpYblr3AAie9xoV3UyY-P-N6Ocf947j_bu6L34uIgGCNNSiByy9PGnOwlVnQsSWbrn-bDgdjXDDFnIbR3sldz5XLROrzoxSgu7Sp1rWA65JBSODZI9undcIRt7UsYZnP9dEohm4WCU0rJmg03S9G3BR3dMM_CW942BEwZBmVHzv962lsjYpnMFEL2FxAc2c7QDeUH07bCNOAJtf0VM2U3MP9GGMhNtIVdPrq0zuAjFVMNukR9liIXxN766tXmzyDKGyPUmyM5OQJuc1PDM79UA",
+      "width": 2500,
+      "height": 2286,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104961452226360899073\">Woody Man Ltd</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e96jB4kaSEivHlXd8Cg6tuhZNOKIi5tnfATu6s9c7PxEh9J6yGyjxOofXCto6sIZdPv8P7QCUmoT5unZ_a3y51izaHxi7sgArgRrJSBjwWdk4jSVI5M8ClwjOIsJFdSn2jeGAtc9_1UFUjwUaMCpmLGe7Z0lpABilwWGWBcDFITElcA_UW__l_3GJsyGfGrmQHb7My4T8VDmHKEOOG9pmlRMhkRqN4s6JmgAWuXo8i_QAmqmtaUOOpLXHJxMWQnPl3YL9FmffiGMLjoWZfr7BDMZ79gdD5gD1DASzspRJiEcvy70_8wRIRKH3DNRRmiKOB3aNZyB_WFRWYG1XjvYoCK0msiWDfodlEYBDejK-SN25ee_3ECxQq5qMgPFjZDPicz4gCGYxIoEsxbkJRF8jp1yhT9p5yzkpOzRMj7FF7uzLG",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107636686764071987298\">Kimberly Ho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eyg1G5bG-wHGjx_gWSRSJWdEFjevwILqPUqTPNyTT76oCgctvMK0ouWvc2qSclQuvb9cbmexm0j1yP76iBBWGR6puogkYSm7zGp7v_OYjceO2Qo_7_rKBaq3Ewy-AbT_GTvrVRY_HZ3y2qC2qTgtA8FbRgQgS-R1RuhZ47MOcBpe_Joierhi9kRKYqScJJOOLqqfJrRAfxjcqKZhEMvcVd7-lwNBEgGWCkP0cULw2Let28suR7OOay-sSxaEDwTnSi5_BLWY2iDkWgtapEDd_0g0ywuMsv1AK_XCCtlfpS-1rjgjEVKlBJ-YK06weuuwv5koxcNExqKfhpOdARc64wHydAHBgNBn3FwdNJr5UwbTraNPxqsoJbFBFozkNbr_s2DY5cNvGgTsADtY-ocYcqU3pVV3ORH7V_YzO18ttKKA",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100800770658561757995\">B. H.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2do4PHrefkVuqxYRUuBJW1sn2LFE7glgaMXM3vTukq2OAQjRd1NIbuiMYOjMCqlBV9IisPKJoBV4urqF3hQQKxGdgVuE6L_kLYaRKoc1ihdJAk1Gpm1rxwcrmUFhq6Q7rXk8sbM9iEcOSl5ENFZi6ZfUWHiPFlZYDZO62H55nCBoF50_hR4Xge5RC8ZubeC5sDWPbBCppHkjk6J1K5fnpq8tbnTWIIWzOMRT4IlZ9vs7kzcADk5hMZ7_xmb6EhDML03bnIX4LvUzTG-ejZhk0WIkPVUGzID5Qi7E2m5vdnOSgefYu8x4jyyJ0OSKLXYzVdTWdS0enEV8QqZDdkK8YuncpLWe_C3_SwjY0d8nacU6KK9ylZOJxVIrOZtu659e-oLDU-re56_SCHahvF4DjZdWxy5rgttnXHJfGor0ZK_zwo",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107636686764071987298\">Kimberly Ho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fU2qzqVnSAL6zPl_ZZWB79-b3IBr2G1g8HYmyN2vWUIumH88yj9PsGiSYPrQ2qjbp1NW2Eh9KUW1unfnaK7EmEyDKTUOBEu4uZpdl6Q7e4VUiAlB5hmDDYA42uv7zUFb80vHHIybkxfucTjsxGQ4U7SFui504UQiIlI7HVHzGmBqytCDTHzpg0cAkzbUKrle3zt4VWaE7rq8ZSLYfW9_P84UkBjVkj4XbBdXpV28KlpVaPZSLABYrkPs5xoepU1T8vDpRxQeDX7BDhNlVc8-B8ZAebgFPKHS-ttJHx7uIkqzWzhQSCacWkSLgqY-82vJNgC6zh5SBpjWNzrzM22qRYsVvPBv8xQhJQ7w5QOaTErQUClmbgzBJLD0K5zInOOoYcZ11qEmK71iuQnFPer_vMaK4QA1E5Qpi0AutOV-MOdi6AyWEzLad7_SR8mQ",
+      "width": 1560,
+      "height": 1171,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105732559791440959986\">Arthur Tsai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dHNRQdegdpk4MHpuQb664q-exn3KSal_fTn5Sm6mCbj0nhPuDfUHBCUUmqjcoqqKhoCp1kvgQVa0z_mevifzzEA7H0Lgg4neKp6yzwGEUcuZx97Hip6CGSyUD_G3WeQZKEjcbkRcAadzvE-lneJE46u76DNqHi5CHnnNjRM2DZe-paXSZbHoARnQJJzSk9kijTgzmJF8Q9dYqGMqaJ8fHI1ACKOWWtnsiXk9kjN0a9WMNWYebL_qvkcxATQL-t55g4MbFzDJbiVrthcki4Zh6VsDp6KsCU5ClyfTpC0Br3-it5Jpi0KBgAB5XNWEUwgR3QI9C1Ch-S_kBHErTxz13f68-9QsibIpLkK6LKTg1uvTsTSN7rGHOPfYNazvkN3D62oTEiHpT2DbHxwAXT-0gBHjnRPwRyH50WnXHkzClWZQ",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111814332925428291386\">Richard Brown</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "S Lee",
+      "rating": 4,
+      "text": "Beautiful setting. Staff couldn’t be more helpful. We thought the mustard in our ham and celeriac starter & the rabbit was just too overpowering. The terrine and steak were excellent though. Great wine recommendations from the staff paired perfectly with our food and the dessert she recommended was our favourite dish of the night.",
+      "time": 1756031838,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Lars Bjørnbakk",
+      "rating": 5,
+      "text": "Came here for a birthday dinner with my partner, and the experience was truly exceptional!\n\nThe food was absolutely delicious, where the calf brain stood out as an especially memorable dish. The snails, lamb, and pheasant were all super delicious.\n\nOn top of that, the serving was absolutely excellent, where the waiter was incredibly helpful, friendly, and nice.\n\nIt was such an enjoyable experience that we booked in our next visit for my birthday dinner before we left.\n\nVery highly recommend place, and I would argue it is the best place to eat in the area!",
+      "time": 1748706954,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Tetiana Malyshko",
+      "rating": 5,
+      "text": "Had a wonderful experience at this restaurant!\nEverything was delicious — each dish was prepared with great care and full of flavour.\nThe atmosphere was top-notch — cozy, stylish, and very welcoming.\nService was excellent — friendly and attentive staff.\nI really enjoyed it! 💫",
+      "time": 1753520584,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Tolga Özbalcı",
+      "rating": 4,
+      "text": "We ate delicious food. The servers deserve full marks for their knowledge of the products, their sincere and friendly service. My only criticism is that the steak tartare was a bit pale. The crème caramel was truly wonderful. All the dishes had a balanced flavor; the anchovy tomato salad, pâté, and deviled eggs were all delicious.",
+      "time": 1756290272,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Mazen Altamimi",
+      "rating": 5,
+      "text": "Love it, love it! Amazing food, impeccable service, great prices and lovely atmosphere. Though I live a little far away from their location, I will certainly frequent it and endure the longer-than-usual car ride.\nThough I paid over £100 per person, I ordered a large amount of food so that I try the tastefully curated menu.  Dave, the co-owner was most hospitable and made the night speciall",
+      "time": 1750584780,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:45.978Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUtvKA0bdkgRSlDGC0DA5VM"
+}

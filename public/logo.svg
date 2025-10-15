@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" fill="none">
+  <!-- The Best in London Wordmark -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;display=swap');
+      .logo-text {
+        font-family: 'Playfair Display', serif;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+      }
+      .logo-accent {
+        fill: #D4AF37;
+      }
+      .logo-main {
+        fill: #0B0B0B;
+      }
+    </style>
+  </defs>
+  
+  <!-- Main Text -->
+  <text x="20" y="35" class="logo-text logo-main" font-size="28">The Best</text>
+  <text x="20" y="65" class="logo-text logo-main" font-size="28">in <tspan class="logo-accent">London</tspan></text>
+  
+  <!-- Optional: Crown icon accent -->
+  <path d="M 365 15 L 370 25 L 375 15 L 380 25 L 385 15 L 388 30 L 362 30 Z" class="logo-accent"/>
+</svg>

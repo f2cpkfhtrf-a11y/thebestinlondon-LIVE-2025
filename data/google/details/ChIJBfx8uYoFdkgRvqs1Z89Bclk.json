@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJBfx8uYoFdkgRvqs1Z89Bclk",
+  "name": "Meet Bros (by Me’nate x Jibby&co.)",
+  "formatted_address": "29-31 Craven Rd, London W2 3BX, UK",
+  "vicinity": "29-31 Craven Rd, London",
+  "rating": 4.6,
+  "user_ratings_total": 2700,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5136639,
+      "lng": -0.1788915
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51504218029151,
+        "lng": -0.177584569708498
+      },
+      "southwest": {
+        "lat": 51.51234421970851,
+        "lng": -0.180282530291502
+      }
+    }
+  },
+  "lat": 51.5136639,
+  "lng": -0.1788915,
+  "formatted_phone_number": "020 7723 7101",
+  "international_phone_number": "+44 20 7723 7101",
+  "website": "http://www.meetbros.co.uk/",
+  "url": "https://maps.google.com/?cid=6445286375766207422",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 3:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d_UTxg0U5H00FUIYFsVqgQ0V-PuX4rL607zk5O0x-G8wG04nYf1Tllnhwpm38jLxTA4EOxP4byNBSxgE_NUX6AMbLwXLJ_2lelcbjBOn5kfef_Wti5NHqvEvynylAjpYGEAWkZ4qVr9wh6BhP-xX5F17EGKQRTNSbTfKlW9E8LSeLYqYs9EzAZnGxZo0jHifUOGCfv0WmehBILyrBDBseHuXbEIvxxNqJ1uaw__qieIXmvPvqYp0c3SnBnsZdhMxbR2sbQezVCR0PjTH4JmHVLoXjIVH2ydXCEEBu9sbJqTw",
+      "width": 960,
+      "height": 1280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115226857258958957552\">Meet Bros (by Me’nate x Jibby&amp;co.)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEeDE9Oq22WTYLmPN8hsA-hfQ7J8zZwjlGNIA8kBzKd57bhprVqS0SAAlkXpI4D7Mpxg2-ixGaLQTweLE5pJ8MkABgENxgBVKCvbN3i6VUzLlLqGzpl26iSNIUudyzMgAWOQ14bBPLpv1P3R3ZWXADhCAK9Lii4mNP60w8ogY-V5O6QQoTM5m48uF_aiJ1_-mcBMuQI8ItGq0WRR0rpqgB1OuDCYH-5I8obI2bFOLbHRol8K3xKsQpBz-OKpW-K2jj1M_z_vXNJRwE6bgLb35AWoVVq9g7j6CAmnWCTmp3Ng",
+      "width": 1242,
+      "height": 1900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115226857258958957552\">Meet Bros (by Me’nate x Jibby&amp;co.)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dK6ivcISl7Y6gOsZV5q-P9wQCmQZahTk3CHq1LEnnxLStqhqhmlDO1yhRV5UXCzVXAz4ZMQi9sEPD4cYWbdYpPPuQ3kG5SceXMZzrU7yTYz9AnZ493jomnmGYnggyJwIpbT1TZ6CJItWkNutTjRsiASoGbE--ZCXpTTwnh_0QqR1Ux7JEBX5tDQHb1lzzwlF6yT86Td5x0KF95NkRH5qj8S-LCOLQerRPTkOV0z7iz6QJFwRIJ2mRd8Orq_e5jpfqb9kZooos2p-sbpMiNcDAzTiyUNC2DQr6LIUxDDLsxtE1CC63OQVWOvn7SofJUCAwqzFqp8Rnfzt_IonYXUIBA5sh0RjhNYeELK0wpHV9K-hfX0psF-EUcnA3WhsKG6_a0Hi3oS7VyVuvZbKf4BQIgLwmyTSPMuxKQInD_LL1sex0fOAlYbuutyaGEipV3",
+      "width": 2252,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107209369830499467757\">Mark Harrington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d3WtX9_JrPzxaWoQLxXRZzQLmor_sgP-nToaOKFf8JZtDTOTI5AD-VnbzZsHhaf_4BSp9vtNuXWuVFd11xJfHdraalmStS_k8rYMQSgorMwq4ewYr0Eob1isDxQrwZrtOIgc5EOxuRg-vgbKiGAexwkHFYR6wr39i9XGfcNNSbgwzzWuZHIeKsfe_GqGbDimm-c9lganiWGLRRkv3UrlzT6ret3wtO1B70BrmjC3MmoNaza6IauZHkEKgvSEXznmgVD9eyTh5OEf1qXgpBi7h9XYqpjnDss-7Gjie3zQzV7XMpDbVsXc2vfRtygKN6aJbDXxk0gpqJ2yHLI2dX9M7-zuXk2oWIRmJndiAEHd23VgDOLtuYvp1IwtmxbNiEcXEyG8ebcYKbppiAsX_ZraPEeUbv4gchNquXPENkAqeQOOCJ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104868849531656290404\">Clarence Yutuc</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvfuJ-xP1uBhM3crD6DXpuF4lm2xy6RgjcFzCzWbelzHWt4HwThftXnBkeTumk5YyMBSwrfKvVuUFNZ7Uz4hq4VVWYO6bXvlRRY5EIQPyYrDXxeLxG3QC79TamTk_v4XTiYGQ_wpe9XN9y_22yv-tv7biOepm9GIPwirhbL2z40PXqcYxt_H4NbduOomXE9tybckAOEVevYwW5HZH8_TulhTU78wjZCn7tuwc2_G4OWp_koYDgvXFhwK3UAY_ybKdXBARvhAtzR22FI8lZwAdR-6EyvFuT3JoOfTZx5wZThbKnEaQ2ubrIb3wRegqHhO6-oBKUVvEIYQo2AF-c5-BzA3r8rC7mnuoGsMvKBFF28tzZFF-Mc8E66d1iqDq_ymKPvasCLF9Zzk3wwE1ppe1CbHgIz862M7kS8JBylRbmH3qtnbdUsxtlYhs78g",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106322583813605029703\">Let’s Eat UK</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cLPvab56LpqpDs4G27rGn435ITGYL32HWezsBU9PZWhbhps3ci81LD_eJHf__iOM2xzuHr533sywmLjkbeCpqZrj_YEFXRDu20mJMrxmHokYYUG9VzynQ9R-nrYP4ERvWw4r_lfcWqmXF1Oxrf21kmMD2WPG30NUEOo_wDORmfSFrmm-5_dWRIAdJHzM8Z82DtRlNd5hqNYH_2YDVrwkhsL7tLFkE83x5yfW9T1ile_D2oEcW0fu0tIcQmxWRP3W3z8mv2c_RyNM70OmCYfvEO88BiJ6hS05-0RD-HRbq9Cc0ZpatMpEC2B1U22fQAlPAGPgwdq1jO4UjPf8zVE9UySHfUXKyLcv6lMGKRodVRrd26bZouyKU_ijAp9RUP9I8-xxMpNa87rfmplSIYJi__6kwASqK2hHRljIpIqGSvHw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107851716076784324966\">emi shuhada</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYQHAwGECAslf6RkK13lbxfENXFXfvoMUtenL0ehlbWy5EWQFaNbCWBLISvlCy55Q55CSDZkleEQ_HzGWjcwtVNhf0xAx72daltIOuwrOEKSWH5uipiYBmB0-fIgAtKWdcVrynIaqOdttMs4qI8OoMnRqbCktn_rZmbS-jYVMXYcF8iaLa-6ia0xBGAgG3ONLGysFcjGCWbx9lJL9kxlIVCaCCYDgV1A5gHcB-v8_zAJDOU6zk9EnMc0S_MPz50Spv42nuYMCy-BIQAa14o0ASPKUDbMvBQgOBJ9ZLbucLz5XnIUyhDZ67LeoxkOsSLBFjnqEBsV3M3Ft54csWg5tVRd4Iu-6kHRcyuAJ6B1ZzrIe4UpAgECVfQNSc75FLfdtHBxtpAq-gh5z3Rete7M4LT8kw26Pojb2WALpK3xeHfg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118171767378719526036\">Mariam Tariq</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOdjw8qlyZtmktk5IIzU9Np4VMKT-Nj-amTqtJrsYYTamGc3wK5PyY3a7bTXXRv8khqFz6jckznPnM5o--JNRgVszLlgn3k0FY-o6JCjDr6UZBYG3N9RKYw-j5gGjgYhMsP8lew4PAgZA3NHnh9aVkbUfLvpa_YK_9DpX_jTIIHDOHBQgOmb8OjJK9vacMrH4dFw_xMnvbNwvJy9QGYWv5Kz1NKB1uvSIu50cSlQK3NRtfYvc_ZbnoNrZtlMkZB0PXF3qWJmbFXAwMQ_yZ7_Z4nbpsdNC5I4qC0AX9emOhsU4g8t8TKSZnyzUYAITIRIj1DFYBUJPBObn7MtH78HpqFpL1uvbPb_sMzpq9CDvRQZx6aqao0ZzXBix2-mVVplV3RlytiGCu2ZlpZbnfqfxYnOovcyPyd2tc4gXkDVPtUIap",
+      "width": 3408,
+      "height": 2556,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110589358055791056861\">Syed Islam</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eglmKYWUNAPuCdMjbX-fzP7kdhBPe80ANKSNgVbWgtbkYyYDZ9ymYwpCik3oulYqDAgrlSxb0RoCKAw9vQkbzDis3OoDr_gTCVf-d_8FVWXOk_mtXoNrVAuvKUg9OjUmNX8yhcQglqaS5Pmhaz1Vde-7G06-GZ3kd8Po7CDbhoJb8OULlFGvy-PLvZHaoEHJHYGZ2nRl0tdWJutDmQeA-XLsuyN078d3NPVwn81oCE02l2DWYnvnpAq1LPwdHAuGh9li7sIftLYGF_0rYPnRINnKsoxIQbQIWIgTFD2D-DwDhaPjv4TUzz3JOCmK1506fhYhzrYNx5eActJJozpcsPYpid70EOCXCVQTkYShm5Y4TGIoAjdIiruernWM8iVKQyhNlTWV3XIgtCilaxzoUqdTpSJFQHjWWZLPnyyms-h5j6VLwt0SzMEh1Tyl1k",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108668214604780411685\">Zain Asghar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e5kbnxvhV8xzowtFRTsy4jTHC51NbWy0ad0Usjp3H_m48dKwy3ySkeLkdYpkr9C3lMNEXOuHmbN391t04-95MoS7Mo_L_VwozjSrxWlDizLebuAqdA4GKT7UGKt5C3-LbjPEsMcRx5FKpvJpho8G9zcuemgaMfBsTxLAFn-zI8IcizpqBkmHNCBtAU_tylCzYmMS33yoA-WSSv7RCd9LLO1Z5VXmBNRk_4LvPgOTKdskriVMr80kS2Mpv1H-Dr7UT1tmYWuIRu-_k5QXeQLuCsS7G5H65wUs4gifzsYDZJEfW1Jtg98KhFqqaibxbnwN11XqXz7MDIezYm02eOThj8YAwd6REUatXGwMLJNhfgtj62exdkpQpNrzKixlSH9E4WVftkL0LBAHZGPENZ01FbTtHg_6cUSljHIenVllAdEA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105148082592376015098\">Aktar Khan</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Rawan Tahir",
+      "rating": 5,
+      "text": "Amazing food and service. We got served by Tahleel, great guy. Made us feel welcome and was really helpful and polite. The wait is quite long but granted it was a Saturday and there’s a seating area for you to wait until your table is ready. Would recommend you book a table in advance otherwise you’ll most likely get sent away, it’s that busy and we weren’t surprised as to why as the food is great. Nonetheless, service was great, Food was cooked perfectly, great flavours, atmosphere was beautiful. We recommend getting the Sando’s and spring rolls for starters. Thank you to Tahleel and the Meet Bro’s team for making me and my partners evening delightful.",
+      "time": 1759678735,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "AM2PM",
+      "rating": 5,
+      "text": "From start to finish, our experience at this restaurant was nothing short of exceptional. We arrived without a reservation and, despite how busy it was, we were warmly welcomed and seated within just 15 minutes. That alone already set a positive tone for the evening.\n\nWe began with starters of spring rolls and ribeye beef. Both were perfectly prepared — the spring rolls were crisp, golden, and packed with flavour, while the ribeye beef was tender and rich, cooked exactly how it should be. Moving on to mains, we chose the fillet mignon and the Asian-style carbonara. The fillet mignon was melt-in-your-mouth perfection, bursting with flavour in every bite, and the carbonara was a creative twist on a classic — beautifully balanced with a unique Asian flair that worked incredibly well.\n\nFor dessert, we indulged in the pineapple turnover and the baked apple filo pastry. They were both heavenly — light, sweet, and the perfect way to end the meal. You could really taste the thought and effort put into each dish from start to finish.\n\nThe décor added so much to the experience too. Modern, stylish, and atmospheric, it gave the restaurant such a warm and inviting feel.\n\nA special mention must go to our waiter, Tahleel. His service was outstanding — attentive without ever being intrusive, knowledgeable about the menu, and genuinely friendly. He went above and beyond to make us feel comfortable and made the whole evening even more enjoyable.\n\nThis restaurant truly ticks every box: fantastic food, beautiful surroundings, and first-class service. It’s rare to find a place that excels in all three, but this one does it effortlessly. We will most definitely be back and wouldn’t hesitate to recommend it to anyone looking for an unforgettable dining experience.",
+      "time": 1759097901,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Mark Harrington",
+      "rating": 5,
+      "text": "Spectacular food and lightning fast service, the steak sando, chicken wings and apple filo pastry dessert were unbelievably good, rest of the good also top tier. The midnight blue mocktail is beautiful.\n\nAmazing interior in the form of a stone labyrinth, just stunning. Will be back 100% and Oasis perfectly looked after us.",
+      "time": 1759083928,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Y H",
+      "rating": 5,
+      "text": "Most beautiful restaurant I’ve been to!! Got the £25 lunch deal , ordered the steak and chips and the sauce was divineeee, pepper was very strong but I love it like that, and the watermelon mocktail was beautiful too. For dessert had the banana and orange crepe, was beautiful! Service could’ve been a bit more available but still lovely!",
+      "time": 1759681015,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Az Ali",
+      "rating": 5,
+      "text": "If you're looking for a amazing Halal steak restaurant in West London, then this is the place for you.\nIncredible food,  beautiful decor and prompt friendly service.\nWe started with Calamari, which to be honest was not great, the outside was a bit overdone and inside was still a bit chewy.\nBut when we got to mains, we'd forgotten all about that, we both got Wagyu beef steak and this really hit the spot, as perfect as it gets.\nWas accompanied by chips, watermelon juice but after the steak, the next best thing we had was the lychee mocktail.\nAll in all, a brilliant dining experience",
+      "time": 1759875580,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:01.578Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfx8uYoFdkgRvqs1Z89Bclk"
+}

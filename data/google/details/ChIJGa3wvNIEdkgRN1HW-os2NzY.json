@@ -1,0 +1,242 @@
+{
+  "place_id": "ChIJGa3wvNIEdkgRN1HW-os2NzY",
+  "name": "Swift Soho",
+  "formatted_address": "12 Old Compton St, London W1D 4TQ, UK",
+  "vicinity": "12 Old Compton St, London",
+  "rating": 4.6,
+  "user_ratings_total": 1682,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.513734,
+      "lng": -0.1299972
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51505803029151,
+        "lng": -0.128659819708498
+      },
+      "southwest": {
+        "lat": 51.51236006970851,
+        "lng": -0.131357780291502
+      }
+    }
+  },
+  "lat": 51.513734,
+  "lng": -0.1299972,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.barswift.com/",
+  "url": "https://maps.google.com/?cid=3906651176603898167",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 3:00 PM – 12:00 AM",
+      "Tuesday: 3:00 PM – 12:00 AM",
+      "Wednesday: 3:00 PM – 12:00 AM",
+      "Thursday: 3:00 PM – 12:00 AM",
+      "Friday: 3:00 PM – 12:00 AM",
+      "Saturday: 3:00 PM – 12:00 AM",
+      "Sunday: 3:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1500"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cmUSV-Qxgj1F8DFECZ7HKeUzeha4v-AlAEUKtuHmUyMaz2esMetJZP77MOJc6nIo9vWeSpD_kgRqgqjUzkhVcwudnaqMRoiK7IirkfIztirM0UHb1cw9nYXdz3-RSfdskwuKHRd9wUglcIgVuBhAEhL5K37AiWwbaRLY4iZM64xUKJkAtC_zI8ElvGxpCx2k9OQjh5nU2pg0OD29c449-hxTCnAfegTvOLobRnEcRnQWvtX4LwLDBEv02dfp9tTX4UpXpQv4JJJl9i9fuR_IC1Vwerlmx83L8BEM9Wy7QbgQ",
+      "width": 4800,
+      "height": 3428,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118370780531988310062\">Swift Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cNKTzVbPRsGQwV-Crv8VFm74tK_sFVl3G8DQ8FUZvTKVd8sIHXTRwbauaHFHmd-PTuufkwNI_U5_D5MKMCObZSF1TSN-8Mt4MbNjAYh7AuVje-SDVsg79uWFW38V6-J6JvHqoeB5IOBKE81wj3xjAQ53_DMJF0GqsBIaL0lhMx-GNP6Ln6wem0h1LVTdTp6YfgGh6ey5UQBRubHQm4YKbjlG-19WSUYWg6_hVCyrVwriEEdr0bA5qmm8dXxj8xL2r5ryJN7G8_DdpqK2ayCd5AygYb4UdS_L8u29WRTAe9OA",
+      "width": 2048,
+      "height": 1363,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118370780531988310062\">Swift Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d2LLML4jza2m-djrPg3dpubBccLXKMDi-1Zja91YiA1RyAND5kbhiwVQi4VZRcGnkikaGgUWUN_ZWiWziKESUnqdjznDDrpVUJLTQn0gO4km7g7iFH2EjM4AoHNs5pDm24cH9LUYEyD4wEyHora1eyhp7wKH2aCbH2mSode8cKa9kwIstxasBp0n7RAPj6O-cA4iAJ7JUIz87ReMrGqbZqQDzGC7hy8hRtIJ-rHAbjmnc4ploSpoNTsEUTsB3925FmfpEU17lER6cchd1_gJ89H_61WgMlxNc7fGNaCR7FhORidAA8Hnu9M-G3cltIQLT4QepP6Jo81x62aflsJ9dymwlBlR0l9A3QVeuCVYa7dYxod9ogkN5q4IQSQu7wTTMjgrWv8XSiwsrLYSHKEmXHrLMghEpvxo39AyM93JFf5NHihHgfb-70BXeVjHiE",
+      "width": 2916,
+      "height": 2916,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113113569810273357332\">Lisa Mo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2faid1myXbH3-IRwGjGZ5nBAoDm3RBDjYtEKo80XCMalKEVPfgj_z04vCcsVWe9CriVL3q6oBZL_cwxnvfVlQczk1zZ4PznLT7L7E5DiBBWM3OtTu6tn7o2s6W8HYXFmEhuePvPVgKUjixr5s7sj3H11R2YUJIwkOWXt9dh-6oX5cc40xeSybf29QHsto660LlA8Yqgr_CKlUrdLz_BzVHR2TGlsC4MT5arxPvKCNum1o9JHElUHBNGupcwv5Db8JGbMPaXcbLEQPoXv8nGkimJcchkbOYS420t8xKVn8hUNFNVBEFszc9loLxKJZ3_lmYQLk-KQdD-QzwvF3btXxkKJ8BG6J72W8R628LFX9wGhavbXF5OCKAcFoHcmfaTyGTMeDQNPxtoIxuZfPLsTxSKMDAIY5SWaPb-4R7XiL-f3bIm",
+      "width": 4000,
+      "height": 2824,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106448042821226229309\">Vee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMpACS6TsKtUqt8u_JO059VePaBHrNTbGbehXmMSDBvEovUSABb57wTTfB95pP6dXxBkRBUuh9MjLte5AJOLE8r1AFQRalUhZsoGHJ_vHQU29RmlTklDUHTDyLT0bFTg-WNZLgWZusXKadD2P1bK0eIxAi_aMWM3Dr8Gm84siUAgVTfWvK8mX013VEyq80BmrQD0A9hULCcU0pKvvokQKR350gBvSPFHuQe2aXbBXLd5tC5cBO4BXDXIUoMqKBHvhOwFb3lGpo258V1sjPOz6QCcM6F_lRPkKLoIkLc5nEuWZIguDZYFJQwKxWE5f81wV-qKCrPWcOtRKJ-QD3iHWYsFRJ0XrHhBwmVs6Kw6fal3q3vqCa8Lrygeu5vPWpSnFY1HeWqm0FYNwySmqZs-WbIbMbBrPbB5CVA5jnflEFzeBusR5c3Az8XwbQQtJa",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109073489215198505676\">J. Q</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dcfkkNzagZUESzBsMTXpZVI8gfhZjLhnPj8UB_Y8ZdUBufv1JN8eWfH_325GLCly_NPVsPjVYD8KmT1jYUNqcyzCa4-CQpmXBIjmv04CV2rBorfooglfXkY3LYLw3-oRCHSA-7mA3c7bdtiRRkWWTlZlVMbtm9vAWsCQjDvVPh_GBJx_a_TuxYTWoZKHnpj0nD-iO1NzTD4Agro2kjFOva2iq_kr6nMqPh-4gtC2zwgkE4WOZlfHAYLAJ4IaZwO03lPlIM3cBQJT3XOKf8QcHWl-gUyTXXUS5ZYvUwjVPiz6WlAYv8OjBqu5GdRcJLVYI7Y73vNIjCY2qdAT0er0_5MzU7vpRs760BLkimTHNjEzZ1jubIDpq_6WplMjlycW15HNHFOz99qp5-kc8hftaBgKnnmsNWEuTOeOH9K0goTYM",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115144992555903883049\">Grace Oleson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cmZVuH62cv3Qzyc19zOPM9fau5LaIoXHG6uL-fgah-6fKs7TLqqp40H4SLvnC7WMiKQliMVZurC5w0vq9Oqqch2AfGyCpA_Zq9CoCTYR1qWfCLnFUK-mKZ_M6oVcU88zISAhrTDUXB4gXf0r-sbpsa2123CUWJoE8F9lqLlKjCaUcBAxPJpMs3VuRSSx_rSF9ueFCntXyxROuBCI2cRq7r1Eu6ZK5fqEyuiySolVH9e9ELNxCg4Wdzax1eEAKRYtx783h2hHcc8LBQurLfY_MvxQHe5vIGOm9lqyQhtIKeSYfm9QcPKgrPIJsHyPLkNUMGyNfutbCgy9tvI5PwnJqmqqcEPMi1taW2BVRHnKRlkE3Sun3VxDxi9UCa9O3liSg56D0YrO1OCy55Inf6eKx7vZSaBHQtyF-PVQg_5vE",
+      "width": 3266,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103183036207642610520\">Brian Hsu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ceBhqsz81ptqRcARqlvfOJIoek8rir25Zptd05_mpBFLmW7C3c3lQZ0suRxF-678Zonj8DsLB4rCfmnP6jhaY9PqcH9FRqOcamjaDcKC2VFeneTupjD729yfWA_mdaV5C0uoOnowPBKn8DP3hN9l7Pqv9Cr6TD9ao42tYzYIJya1VP2908DQzuYkH6MbM2Tx3ImgpeP44JyHvi3JbyzeW-r6rZ-BNLqL81sVWMgsFaMetFGpdJsUfajhdYJhkoCR7Owcu0CWIWigWGB4fEjzvkCpWKezsItWF2P1XGfrYmHRCo8Gd9d_cQbQJSdxuq_EoKduqg-nXXKZhkRk3p6xQr1O-Mn_xC9HUPq4PIfxnWo8s_YaircytDWMA0CsUk6HoWEzYT-w2HA17cx2vzszGy5X6OE9KuzOXTThikxNE",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106448042821226229309\">Vee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ej_Uv0foKt_Y5YQ0XOQFyq7ZkaPdgxjCzRe2WE-Qeey8b67CR55Gs2_H9a7MLkO_1aP5nA8S9PAf3Ug1bXsOzZ5UQeNCSMDsHWmQSbY0TOeS3K9jGSvja8ZgaiHjtMO0ATNQhPZQEK23CPFEn0pmdwjHtMehFNUeDStcns7f4GmEbuIn1GACptBSJdKdgj-km-Vvnhxh5xaKspIi_zgp3w_cfV7DBQktJrYzMoZvsPnw4A-76b4aVrxRq20O1_coksH0q-LDJ5wtSkPNqs5GAb1BFsBFZudj-SJKJQrrwLam6vvahozPSoy0oQ6_lyGhNjT5RY0HqfmM4hZFj3XoC-dUlhxCThOvUs2jZQcizLsWU009htDXAzg0yXpp0MtWIG4mNu8_-b6srrp-ubuwRwnDzzKextGRQLVUpKK5fyEKVy",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100385795360225775425\">Tsz Yung Liu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMGhonsKgqoGZpRMEnqHLEGvdQjOlwjiLCw32kK5BcaZIxFbjx5dRxjQ9HzmPLDW-ODKesrdBkcvDnoM176ZTVHyTT6ldu2xVFjFStm6LmG86XJz-lNR_EuRFw2zI29KOsg139h7i_Q3K3ZEN5v5WIkYVM80ZUnfTkjEdtA8zNJkm7sdWzR_DMpSRvzLZPIrgTx79tgdhG57ywyg1eDjUIrlDBRPue6QYs0Sigm0bZA-T-PyfYyjXkcIrJk1vjLPmMu05JIp3_-l1K0kTUgibAem-YZIfug99A3Xg74JGuqVHOUqLqcq5RIkSXGq06Kdt4GPKuU95COxF4q1Q3UZaXic-JME9B2RR82m5vaa9KgcDZez23u67PqwW1gNB5zd1Jt8nOgmrbjcfC_ZLwT9MdP1LkOOC4hETqKe6xHdY",
+      "width": 3056,
+      "height": 3056,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112079631608313137456\">C</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Lively bar with mirrored walls & leather booths offering unique cocktails & expansive whisky list.",
+  "reviews": [
+    {
+      "author_name": "J. Q",
+      "rating": 4,
+      "text": "Delicious cocktails, very creative. When I was there in Sep 2025, there was an autumn menu.\n\nI ordered something Tokyo, it was absolutely delicious and with strong flavour. My friends order something gimlet and they liked it too.\n\nIt’s not a quiet cocktail but people can still chat with higher volume.\n\n£11-15 each. Good for a night out.",
+      "time": 1758983740,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Sam Pierson",
+      "rating": 5,
+      "text": "I was here last weekend & there’s a reason why it’s such a hotspot! It’s lively & full of energy in the heart of Soho, where the drinks are premium & the service is impeccable! The cocktails range from £9 to £16 & there are options for wine & light snacks too.\n\nWe tried a few of the different cocktails & some seasonal ones too… safe to say we weren’t let down!\n\nHuge Shoutout to our server Theo. Dude just started out there & he already has it down for warm, personable service; Anyone would think he’s a veteran server.\nHe had a smile that could light up a room & was very knowledgable when it came to the menu (which is quite extensive!!). Theo made our visit to Swift that much greater & he will definitely be one of the reasons I will return there someday.",
+      "time": 1759833345,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Lisa Mo",
+      "rating": 4,
+      "text": "Warm, welcoming vibes with a great team that made us feel instantly at home - even though we arrived just before last call. The staff were friendly, chatty, and generous with both local tips and conversation.\n\nThe drinks we tried were well-balanced and flavourful, with some interesting combinations. We were especially impressed by the Irish Coffee, offered as a taster - a thoughtful touch that showed pride in their craft.\n\nA solid spot with good energy and well-made drinks. Definitely worth a visit.",
+      "time": 1753638725,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Key Manning",
+      "rating": 5,
+      "text": "Can’t believe I’ve never reviewed Swift before. It’s one of the best cocktail bars in Soho—intimate, stylish, and somehow perfect for every occasion. I’ve been on dates, with mates, and even brought my mum. Drinks are excellent, prices surprisingly fair, and the bartenders? Absolute pros. I genuinely find myself watching them mix just for the technique (though that might be the bar geek in me). It’s table service throughout, which keeps things relaxed. Ground floor gets busy fast, so book ahead if you can. Downstairs has bigger booths and a great vibe once the night gets going. Also, I completely recommend the Irish coffee which is right up there with the best I’ve ever had. Proper gem.",
+      "time": 1752645473,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Jerry",
+      "rating": 5,
+      "text": "Nice spot for a drink :) definitely book ahead for a table downstairs - it’s dark, intimate and has a different vibe to the brighter, livelier area upstairs. The live jazz on Sunday evenings is also pretty good.\n\nAs for the drinks, their famous Irish coffee was well made - thick layer of cold velvety cream on top that contrasted nicely with the warm coffee. I did think it was slightly weak however, and expected the whiskey to have more of a punch. But otherwise it was nice to slowly sip on.\n\nI’d come back to try their other cocktails!",
+      "time": 1752447766,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:37.124Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGa3wvNIEdkgRN1HW-os2NzY"
+}

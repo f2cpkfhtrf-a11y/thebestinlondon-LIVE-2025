@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJ7Yxgn3EFdkgRUv6ODgfGHew",
+  "name": "Arôme Bakery - Mercer Street",
+  "formatted_address": "9 Mercer St, London WC2H 9QJ, UK",
+  "vicinity": "9 Mercer St, London",
+  "rating": 4.6,
+  "user_ratings_total": 2164,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5130275,
+      "lng": -0.1260595
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5143849802915,
+        "lng": -0.124692219708498
+      },
+      "southwest": {
+        "lat": 51.5116870197085,
+        "lng": -0.127390180291502
+      }
+    }
+  },
+  "lat": 51.5130275,
+  "lng": -0.1260595,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://aromebakery.co.uk/",
+  "url": "https://maps.google.com/?cid=17013972700886924882",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2crhtq0eo38jmRDOlSseHqe9sGpeBK8hWSnLxf9MK-ApzArQF1UeWUy2dE0zm8dyoOEA9fwElk5C0csQAuxgWJB7kyrpwnZ87mh3ZhQLSRbb65vl0zcB_XF2bdQ8ReMj-4RdRShLLWDOFPIt1nhpCHlZAKaiLwIa16ofF1Qhv84YBBThX9fRgNRLuk6fXLhAUiDUMPB5k4mkAgQqwndZbAdtyYav163eJ-4qmPAshK96euykhSoAMWwwuA9XecxmuPlZRtELYtnp4t-Lfp4UD_mqzMobeLP2gMmGth3jMzMNNfrbIYgh1DxykRxQiIceYyIwqgTU_RJQ0H7Fcu7hWWjsmLRyobVd_WeiKKWZPG-MofbXA8_klrHv7wM0hWeIa4ybz--0iqycwB5xmdHUMoZT33s22xVFT8jMJMB3xxz-MAL",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113586550099310588860\">Sanjoli Malani</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_aXcjM6EApZ4YTOzOlidqioOVu1oio4TIUeIddADEgerfMZQ_TpPMoBMMDGSglxdFDTNYzc92kZH1g5wtbnWx0LZj-Ut8CyjAMaT46MqmFnXG8JL5M73It4CLNRt9tlilw-B3bjWG1tXd9RVaq_Yoh0t2A4GmjohgEMJMBXU1AWhdpNUHzeTtnSXFlFF5CqEFHv1Nwa4bji-POY3jEbbtYmi8dvQ42XBDgoyL9jUtles_1coMthIe5wsVlyDb23EtWYPlH4CS61sN1nKqznFgaOUiGDUu6lE6ch4a_CWkdvV3S3FLI1g4DQ_xwJ1LJJgwZyBryIkTjRL8aEhR7O44m2ej-7eqH-usKwhbrLk93--SmVAfKOXqQmqyxX3K06o0iA5lRpi4NhiZaAkrGUcAuxCLa51U6kUbl2wx2C0tyThaleebYvxPXV6lP9SF",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104747091678171686001\">Borja Berastegui</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ecLGwXeFtxZLoFTv1zN5s6eEvr0HBYGhg7htHvEOtYrY25SuCDO7w6AWhU-zx-OYXCBbyBShpa_DDNMYOdly6yVUOg9NpuS6Q3rh6zyCfgSyo1quexb9FUXjS5zIXefIe6J7AcGiWIxsoS-Ey5IH7hvUI3EwqkxDCLs0By1u6WHGpX2Ycxkjg6A9PCr5Ll_UO-rr5yTzMXdTFwRzEFb93Vo7AoFjyMdTXS9Wv39MC0tR3k01ZF02OtI5hRdDwcxIJHqOXXzGEdAEQng-Vq5u4MkOoAJi9gqKiXhOUeTFY86Q",
+      "width": 3490,
+      "height": 2318,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106435708063851393943\">Arôme Bakery - Mercer Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eN3Y5cr-F04CTK-2UqGSyrLWnJFPwKqp6QNBZ5LTiwrSn1dazm7d_Th2kCKwpiPW6VxA4S4936fHUr-dUVrsP4sgfAnDBEZUxKBmH3eNaqaM_lzmhDky6VdG9QJcVcEuolLYfCkllJl44gs6jWK6mJWxR-AzAXNAV83Nny9PL7Sr9179oihNLC4I54l4cOWD_zWIFlv-QdUSm_QLPY-ImBeIR01tljU3kHkLUko2uvAnOnDcfkLHubDneyyQWJVg0F3-zdGAITkNem3x4xq9ceF73hPm0JsYGt0vH9rdM7peyioNbNFoQDIQSesbbHUsy1EcB0jZfpVaQLTS4os8rKUZ6PSkF92sWUfesakynw6dBH7xcJVKnQqZI8Wl7MFductYgsKWb94moqMqaz8GQEUWXatqvB4vqA-Chnl3WwwZDgQPNB_AIuTQf5og",
+      "width": 4800,
+      "height": 3049,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105800472749273332155\">H Boomer</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c4eKnDbRgMOgl1prP8USs1NgjJFjsOqizVvR_6cLoSZMMn1NfAqByNZveq6G0ly6rqvYgh3aO6pv8LJ0bUCzT7olAEX5Wd9z3J1xVMyKUGyPdnjyIJvHF9ut0yY8O3wj-lVzUXXcGEVTaUbmRViPQsYgUZkBckVA5U4ESP0Cg5XtI-6J25hn9zmUfIr_2CkBG3bkJzFBVSxhiv3s-atIUpoD9bfEKwHRv-rNWIVF-2U68T811aWBzSQY_01i-xEj77mU5MDAPjlrRiEmRJdIR49-DxU8Tf88ZmiLxuHLFyxsJseVwJrTibNFD4DD-CKw5yx-DfxjrEY3ZkIenMnPlcEmmrB11EeWM6Vw1526Bx3AF6Pra-krq8lst08aiq4WsmbbKIc-SjkP69ucqq39Db67pYn09RL1cDcXJ7W2fz3aFkQ0TH--S0HlMr3Q",
+      "width": 4624,
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102352287535623272387\">Michal Dvořák</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eNUmRnxrH2gYrIZP7dL4B2xNZ3JSC6m5MZXGhTEZu_lalGBKj8hGR_MTGal-31ivOSZ6Bduw02oXCwD701uNs5dNHbthZr208ffaVWuQFXtdNHBUe404rlwoN_cBCTu7uV64aVIiu-C0S9vcxRAjOfl4dOHl9VGbr0ZWO7BKA9SB257XpW1WRcFU_OHsk3uKjgxk3MDMZla-a7qAgDQQsMPmGEc_IxSBPKbOxX1EOgjHUKRH6DIQYw5Z6jVfiCDWB4XETSGsX_0htXbnPjgqd6DxyP404R9TipEUnr9NszIpnwWLOX2Wmsyeb89TugVyUsFY4rRh9Wazv1-zLRuXwrDBrEb85MNy2ATzRYU6300HgJsqOYLDNb28mXD507lTSDk-x49ouDYSiW9YdXH548hsA4clogr_N0cxdwA9d2ObsvEIwl4uRV9bfPPuj0",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103331182322814211899\">Faiq Raedaya</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fcVLd2Uo_TyG2XepyUbRsg5L6VRhpxVHTWpllshjtMZVdBk3xnQtGkMsA2J_U2xawUuTwutNIXLyNsDrVqm2goHUDKLm-EbusxJSGRhXUe2wOQfEWpnyXvU0aWMjKQ3QgiaYLumFNd_Qjj1S12Av0dElBVsiIp1t8bN5at4nztfQrhfHSUWSSqc1XVTFQ_j8gYlxllamaCx8j9jbL_D6JFc0HBmabuHETpU4p08ArPLU6EV88rN9fuVcngp8LdBTcK6qxQWqmKRXX6sJvHVrCpbnhs1JT0zq5R3lG8A19I41RBUSR22wN5EqJYS03niQ9-cFJAz1Y402KFABMQyH8TqAd458e3OrEL9-XI5l3jI5UZjSF__Fv1LY5MiL5PWvLuKGrhW04qo_1jt0P8c89gXOAjD0-3a730S6le9_A",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107681660860820510415\">Cristiana Ribeiro</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cuafynBVjpfexSgq-FjQLCFFbUec0-MVj4QCmWuWDY3rkyJ0EylAyPQJjLDQBKTLDfRFlyQN_8SgD-2mVE7UQupAY4FCfAy1eoC3sOn3g9DJ2xdDJd79hyaD4gOTKfZFDVFreQIW3zfPg6MzZNSBmdiXuKoCzi3L7OhYIkNc6jzWgD-nV_pPcmymtNLKx9HICMH4SVEpljeg_6raJxEhCVkeN6XI6h2S--tjSDxCDyA4pIYW_xmUwPitLxnrNykhGzwgWnUW32PRaxAEviTwOvIWPBPPT2XfOA2ZA_niSRXm4ElWzsD2LbrDRVJLkbj4ehkLsEtr-pxLkNX40YO2lgRx39jSFcNysKnq0I0mcNzjRM8EmU2agi4QCGk2NOum4ioksmBZfhuLVrwre0LfK5lKL4IsYyYGh89a6Kh3yB6sM",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106804551326130579153\">Larisa J</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eD13G5qEqfzflh42hcedXub7QM0zZehxQW1DvsGWrAxRjHE9DxroQp41k-MHFLYFqHTa5mOmvpTOgZyVrrWrjOwZpW5sMYNu6NSP9tAqD7_9MjdeFO6BnZ3uJCoHi5PNE7UEKpHqWNkAqKi06MYsRI_HwqaY3nuT1G_oHe6vS_4UXOykxoQN1ZMAkkb30ttSVRhjlITYHf0ReWfC4QgFvx6cKbBfpZhIaDcPNvNpFSa8tTgmxViFnpNmrEZl341j9qsMtF9_P_ETbBHcCrg5NRUkJSgCHxRUZF9I5kQZrkk9EN2oHRPNDj0GKZcqW3qh_HWEn9no4RxWzglFIO3V7ZGbmUVj4YEaDzY988mI08zAjC0xZiCOPqfT72QJtcbtbEosc4ZfBNs0y7Szg3Rj_1V9kGApjOPu-I0BhqywI13Q",
+      "width": 4031,
+      "height": 2879,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106583261127124478399\">Breaking Bread with Barry</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHDFVta3n8TcVWj-SEArfPa2q7iur0k9ijq0Y3DNcJk620_XkHT6SUA5pYK3n3rD3li3URnyPUlxx2erdXsnPgaomcz4SGdDpCq9DezHx9muHMV1CbizRVykAol38DmLHyW34OO2mS8VaXDA32SFG6B6e5uhnR9kwVwwB6WFHKLjrSYn07xZm7DEQG3fsl9zxpx7BtdivQUUeLXc0CMkkJcX7SabxUOqQe9M3nU0hRFtfRIaYWMcD1TaJkNuVhxnLKflElQfAq77u83frjiyJGuVYDSuj5Dlrs0LwoP2xMfixxUkLyxkKe21oqSIgy7koE0uQ02OVhn09TN_01JjDU5UL-LeZ6T3-hvz7wUwmRSr7gfTJqdYMZCrxVcWEahtjUgP1WzuvI3RTuZWlMInlpeS4CcwgYvrM6U6fFmLuCw7rkeMp1zuUkYolvleZJ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116594946514561109339\">Lilla D.</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Cosy bakery with a trendy vibe dishing up a fusion of French & Asian confections.",
+  "reviews": [
+    {
+      "author_name": "Michal Dvořák",
+      "rating": 5,
+      "text": "Great bakery and awsome pastries. Apple miso danish was wonderful, crispy dough and balanced taste. Also cappuccino and hojicha latte were very good. Honey toast wasn't to good as I expected, but not bad. It was too dry for me. Some cream with toast will be better. Nice, cozy atmosphere with asia influence. Very nice and helpful services. I am glad for recomendation and talk. Their another savoury and sweet pastries looks also interesting.",
+      "time": 1760278865,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Omer",
+      "rating": 5,
+      "text": "My favorite bakery in London by far. Everything I tried was amazing. The doughs are just perfect — whether it’s a brioche that makes the best toast, a croissant that’s laminated and shaped so beautifully (which is really hard to pull off), or a quiche that’s creamy in just the right way, not too eggy and not too heavy on the veggies. Everything felt super balanced and delicious. It’s one of those rare spots where every single thing you pick is a winner.",
+      "time": 1759022329,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "K L",
+      "rating": 5,
+      "text": "No doubt many people are aware of this bakery and its excellent reputation, so perhaps leaving a review is somewhat redundant. However, it’s been a couple of weeks since our very first visit and I’ve not stopped thinking about how much I enjoyed it! The Apple Miso Danish frankly deserves its own national holiday. That pesto mozzarella wonder was all but inhaled. And the fight over the last bite of pistachio and chocolate snail nearly ended in divorce with my husband. You know the drill though. Somewhere this good and this hyped gets queues. And we arrived first thing on a Saturday morning too! Be prepared to wait if you arrive later in the day - or just do as we did, which is grab and go as there’s plenty of seating dotted around where you can people watch while you scoff! Definitely one of those places which will beckon you to return to try out their other delectable looking items. In fact, it’s in my diary for this weekend! Oh and shoutout to the team at the counter who patiently dealt with my decision paralysis.",
+      "time": 1759325578,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Leong Lim",
+      "rating": 4,
+      "text": "We queue for more than 45 minutes to get a seat. The croissant was crispy, fluffy and tasty. The homemade butter and jam enhanced the taste further. The pistachio, chocolate, escargot was good too. However, the coffee was average. Another  small unpleasant experience was people who queue for takeaway decided to have a sit, spoiling the if enjoyable experience.",
+      "time": 1760016538,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Siena WD",
+      "rating": 5,
+      "text": "As I’ve mentioned I love a dessert that’s also egg so you’re damn right I booked it over here when I caught wind of something called a giant egg custard tart. They were busy but the people working were very organized and kind and got me a fresh one from the oven!! The precision at work here, I mean just look, their pastries are so stupid pretty. I want to come back for the honey toast, pistachio roll and strawberry matcha tart if they have it again, on this day however I was on a mission so I just got my tart and rushed it home. I think they should consider making this with a different kind of pastry crust, maybe short, something with a snap because this current one was very buttery and on the soft side and I think texture contrast would take this to another level. That said, it was very good, and it was in fact a giant egg custard tart, so really, can’t complain. Thrilled this exits. Dreams do come true people",
+      "time": 1759683764,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:25.665Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Yxgn3EFdkgRUv6ODgfGHew"
+}

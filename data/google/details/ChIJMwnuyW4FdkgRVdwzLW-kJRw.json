@@ -1,0 +1,224 @@
+{
+  "place_id": "ChIJMwnuyW4FdkgRVdwzLW-kJRw",
+  "name": "STEREO Covent Garden",
+  "formatted_address": "35 The Piazza, London WC2E 8BE, UK",
+  "vicinity": "Jubilee Market Hall, 35 The Piazza, London",
+  "rating": 4,
+  "user_ratings_total": 692,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.511658,
+      "lng": -0.1221291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5129248802915,
+        "lng": -0.120576569708498
+      },
+      "southwest": {
+        "lat": 51.5102269197085,
+        "lng": -0.123274530291502
+      }
+    }
+  },
+  "lat": 51.511658,
+  "lng": -0.1221291,
+  "formatted_phone_number": "020 3146 9637",
+  "international_phone_number": "+44 20 3146 9637",
+  "website": "https://www.stereocoventgarden.com/",
+  "url": "https://maps.google.com/?cid=2028208004606975061",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:30 PM – 3:00 AM",
+      "Thursday: 5:30 PM – 3:00 AM",
+      "Friday: 3:00 PM – 3:00 AM",
+      "Saturday: 3:00 PM – 3:00 AM",
+      "Sunday: 3:00 PM – 1:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1500"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dlzf3r6a2vgyacC86nkhGI4MbAr9HR61QXNWinI-CwBqfHTWMMg50y5WEI7MdR9WO_3gaqqqh-rnAMzn5Rrt72cbu3UxPk8ywiFOEnXsYf1xCByGLoSXxGuIVb8Shbyz1dRnAX1BZjEpOh4dX-iigySkTi-1KyuIorgVkm6A-7LWQOyZAo6-dXSE47ieXVM-qGv7qy13_6eGAevzUho15dPTofjGnpk-89Rb-XI96YY8LDey9OwrWLyfC7gJW5ByjhRqP3bbh1i1RZQeavSzdAfKkQJFPqZf3CDHdJazXsAw",
+      "width": 4800,
+      "height": 3839,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111249932591600390293\">STEREO Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dl1cRBzBUNooHDrAybiNfTIzmB29jrqNXuLmpy1yhnsWSWQ5mHJB5MNeim-ckgIl6aEbb84s4QfKzUxv8kTiP3uG3x_lZLW-re43AuyA0ymWSmTN5wUbXCjOpPo0r-FuX8Q5D4YVnwIfk3fsJko1J4BIuXHW0cjWWXGmtpAkBU2NRiu0UNIlzTEVZlj3DT7MAwOy4IpPYlumKUoVfpp_KY6RLqnM2KaVB_AGJnRxDq2bHqCjsS_s29OFUhdppK1I4nrZQgkL1mSdsny_0T3TV1kx6oBaUgZdtHDNEbXBjaew",
+      "width": 1200,
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111249932591600390293\">STEREO Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6goMilxFK3Qi-NixbkTbLBmJXYkO6mdWjD7JLfn7rYtYeruym6F5-MUCYoT9mlNRpAb6-kZHdNRkANA7Kd-CIymXTRza2jmaNdL30J4ypZRsLo0Ksxxjs40ygqW9Vdd1NZrMrb7P34vr7YHzQ4MXcQK8TdZ4M_oUvI5ZPBjt5LDonD2t20vcYZHqXJriJzHd-hl-agJqcvzcKSVZnKOCqpi6B-9cuohBKW67fXXP83Cu8R1koT57DaHFpbNNXDAZvTgN-YE-3z4lDt5uD-7kIOnP13BV0fVvyMMqjIvFkbA",
+      "width": 3840,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111249932591600390293\">STEREO Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cE1iLkjnqRktxOr2la-UtUjTg0JCu4lkT53cxccyGpQlEGMBJjaTt2DpPeSUJJ6R7huojE5a9282aeqZ9H2DwA6bWMCxX0dg_cZMMw8CbIHGKvikZqjSPwD3HWQM9wn9HMHOy-LUF6FX3ySNx0DPWE15gtRhkJLYpb9-uSfzoQvip9rPZR13gjQE9qKi-ZkAeaBs1HhJ7cIN4GZQGMHlaaZWA4DGlAY_N2tqXTnGjr9lpEzMRENfFz6XKeTyH2aMKOzGc53w2R4cVVARqxLryBMosqkcaS5v9Z9kMTTk3sPJs4ZLqUFg5DDgNptBR2riJ8vdu_JbUUHTEIN-t_KqxvUp5LNoVQIcM09FiSG0bHqS36hOfyyGlJCyvpYqF98iewH-t5SejozgbsD_tRlZTTwW_hs4coWP-M_cSyKRgUn0iFdpcYeeIKQw99Jh1L",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105633567882260314810\">Zoe Pyle</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2euza4j0iDT6MmPrtMqGsslftWur_DYQwRwIfboZsGZK0ZTCzzJCQYHsh-DWUO-77_pLkLZ6G88md0OCtE90upGB-PfzgsvFNgFY_c2TZ-uyyEm4nVccV1Dwbr-e0hvqRoafqM4CgTrnt6R9yVAGpj5kbINL6IgkMzsrC90w0GtOEH-iJZJN87-Ho20RM787WmEic9zEx1MXlXdrPhNS7-T4vztuO8fjITM-4BbcqAltyl3ATgbK-VPK1XqgBv8ZOU2vuBu43Bnraf7JoMy8xUR-sirTkmYs4emNEbLj4o83bDbG-axvZ-ixeOJRdFlr3CtVxNBKfYNjoYlSIATMHHd4xxjOTCe_f842OYVG-RcNVmcjtxJIa4DqOk3imXS1pIA4qEpM01Cfbth4DZ-TU2dcvKXbzzoWsU94Oupr8BOn-d__UHkOKgc2huNaQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105078792380052838585\">Sarah Serena</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2coxIRuRvcRAfSI5RkHVSpzXN93VXTK7uQ82CeObiiFpneC5g3WO4xJzejh21X1y20LiFxdbKya3SutgcpW3h82Ld2VW7KMVbaI4qZGi2RXVOBLtCEAFm9E8XqtDsbRjy_-ndbz4DPLDoBSfCWiUbJFrV4AyUyxcBYBSkLjD9U7zl-RFzNc57VhsOk2q7qFPNRv8YNKWFFBKjueEQW_4lfMzuyB7FdaDgvSHeXZ5mKFtnsok62qc7AZhVccOD72su_RT9OjZBHFeEp3xnTIm-vJAv33D5Mbgy--dZzj6_f6lg",
+      "width": 3710,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111249932591600390293\">STEREO Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dD3CAweVNjsOCvSpoafiQ4rc8jJdn_K4RA2YhhmzokLnhXO1Cw0Jo30MIjpMB5sikEjEnCDKZmXi8v1ipUHXyFBR4f7cX_Y3GXeZcwYVhBY5kTuVjNMBY3Ghxmg2ZDEF5Y-AGuvVnhLW2RhN8AcFnF7EwhdqmKc2s3jeGRd7dVSSOqrDnqzqnW17s36uUYZy8BAL2etymvMcTdh2zT-fur8R7Xsr4bvVnHx4mA4oWWecPW2dijPk4md6vJtwdlLTqNMzC2zTBwPojovP2-GISupf-bXOvfUj4mSI5zEtWkYYrUdfKcaR4gyadabwazeKUBGEioJ5Ufnv5ZX9uj3BqByUsfT7sJj6DNlmB3fHq4O8nRfM_Gu3gJRnlo1CW1_IXg-pZLesUs7NdHoBsH0lS-xkVG9bUvd1Yj-TPC-_e5v26hQrtjhV0nvdjhjner",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114621873177032753484\">katjoy21</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f0Alrx-jXyQja2bqnjJBhK_KZvY0VCL1Dio0PPmRRndv_gwurJCUp--lEKMyKLFnjORNLDg2z_6K873ji-o08LjB5xQgr5h1ywuRzjU5AupHraCBDhPUzp6iS4dgcF5VB-391PzAHo6rSNDajivS7O7fI6uta_-mbciZaxjJfl9m5ilpQHyLPbdZoF0FtWjD5R0g_6J3VSNcpJquY16jQGcBKJkMa_Q4S-uEtZNNBqJvpYDKKDeSquG4Oiy4_LOjqrBfCiQ4FB0TJtu-ppkubrBJ_ExZh7mFHby2eFgCTLIgHLIRYG-CPsny_Zs9GQqkcnjU6CA-ZTist6jKH0KxpeNJ7Enb75YFzxA_8lgZUYON-yScygTUhkhlKsBddS-kOb3IhU8qHhROk44-IUX2Ztm11BM4po-fgyACIqBGBfvIs",
+      "width": 2252,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109426606813529125480\">KriSZ</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1wbFByxM3hBPtFjjcSIlfWE0VWJ1SNUeRHK_I4Qs_4TaFUzvu2SXQdr220hovGleXZP2TE0GSCD0klRUGIMtoScxxhD7NFs3_9dwx2N6zR2mpbNXd1WxLGjnI1NHVIBhSIZOCJxkgl_7QeaW-u5oT_Cohy94A_TDSq-Cw6nOkPHExhaRGrfFGYwHlkBVilnzkt9hKJuQ3x4PXPM8kU63Gwlp5PcvrtkrhfU8_pKRo178bx1jce43scNUem7K9zy2tlVfy86eEPy5Oy2VtC0saNGUBeKRyYQoWunEdSH0tSKMfiv8OmQujG29RigVALd-87Wq0rK10ZRVNr0mGE3wtTMlFb7LO7y5xQmF2hTto5tT0cEjZUoqbXtXbt0043VLReIT-UJEMR-bS1ApkAnBqXL7jgsmEPyCxmEeUhjBbsWc",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109973556116808809651\">J. Garcia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQKIKZ0a3avrgMZyghZXn1begagGI5c0FlR90Siq9UswRcLRs5S9L7f4hJrMR4LWGI7snX7iOazHxNaiK8BcTqP01lEjRfvKMYvbKDgr3OM5Vdv57sEjpUeXRqEK1Yhw0B3aJzgb1Hfi91XDs_u4MH0uYvrhS4s-jtf1JN9UhgFPciNw-rlr82bwXQm4--g-zy9sQrUE5AjuzcI8uRymRRvwkLrifhhgu3-3eJSEDrlok7s7rugg6KrZjOpzKFZk2ZyPE29IpHUzZoXJZkza48q5bI1TrPY8djM791Tg2KIjDJnHu1BHFhU6zlktTWxEoss70JYrGJHr3uxteasfCtlauPZc9boiXyCg4U9hijJgVQGqo57uyEwDflWcEHh6H7EGJa1u7Kjg1DbuofbgTh4ZK7uEiF6CFtIEUMEA8",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109973556116808809651\">J. Garcia</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Alex",
+      "rating": 5,
+      "text": "A large, basement bar in Central London, right next to Covent Garden. I went there on a Saturday evening, all the tables were booked, but they let us in as there was still plenty of space around the bar. I had 2 cocktails, reasonably priced. There was live music, which added to the vibes of the place.",
+      "time": 1759237187,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Elif Tarım",
+      "rating": 5,
+      "text": "Loved the vibe here!! Great music, nice crowd, and an aesthetic atmosphere. The cocktails were solid, and the staff were lovely. Perfect spot for a fun night without it feeling too hectic! Definitely recommend going during the live performances regardless of the event🫶🏻",
+      "time": 1740781917,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "Tienna & Kurt Shared",
+      "rating": 5,
+      "text": "Truly an unforgettable experience. We’re here to have a meal before the theatre and what an absolutely treat and hidden gem. The space itself is dimlit and beautifully curated, the music not too loud so you can have a nice conversation without screaming at each other.\n\nThen the food, wow what a surprise, I’d recommend the salmon fish and the tacos 🥹🥹 10/10!!\n\nThere’s happy hour until 8.30pm so that’s always a plus.\n\nThe best bit though would be the chef coming out and speaking with us - we felt so honoured for that. So thanks to chef James!\n\nThe service was also 10/10!\n\nAnywho, would highly recommend, we’ll definitely be back!!",
+      "time": 1757009262,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Victor James Ramos",
+      "rating": 5,
+      "text": "We came for Dinner. And the staff were amzingly attentive and so funny and fun.\nWe managed to even have interaction with the chef James. Such amazing food and would recommend coming here. We will be back especially as there is a live band and DJ's later. Thank you so much for the hospitality the whole team",
+      "time": 1753555945,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "em",
+      "rating": 3,
+      "text": "Only had one drink but it is absolutely extortionate. Drinks are far too expensive for what they are - too much ice and barely any actual liquid. Took two sips to drink the cocktail and was left a bit underwhelmed. The bar itself has wonderful decor but the lighting was so dark and turned down you couldn’t even see anything else. Came on a Thursday so I didn’t expect it to be so busy but was more of a nightclub than a bar. Also was advertised bands would be playing and nobody was on. Just a DJ playing some average club songs.\n\nHowever, I would like to come back on a Saturday when an event is on and hopefully try the food and see what the vibe is like from there on.",
+      "time": 1753406111,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:38.546Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwnuyW4FdkgRVdwzLW-kJRw"
+}

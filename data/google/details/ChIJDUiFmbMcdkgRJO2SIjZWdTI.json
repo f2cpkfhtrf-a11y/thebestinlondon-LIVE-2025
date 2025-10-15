@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJDUiFmbMcdkgRJO2SIjZWdTI",
+  "name": "Ye Ye Noodle & Dumpling",
+  "formatted_address": "14 Artillery Psge, London E1 7LJ, UK",
+  "vicinity": "14 Artillery Psge, London",
+  "rating": 4.6,
+  "user_ratings_total": 1861,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5181674,
+      "lng": -0.07754699999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51949293029149,
+        "lng": -0.07630006970849797
+      },
+      "southwest": {
+        "lat": 51.51679496970849,
+        "lng": -0.07899803029150203
+      }
+    }
+  },
+  "lat": 51.5181674,
+  "lng": -0.07754699999999999,
+  "formatted_phone_number": "020 7247 9747",
+  "international_phone_number": "+44 20 7247 9747",
+  "website": "http://yeyelondon.co.uk/",
+  "url": "https://maps.google.com/?cid=3635907064679820580",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c_Xk57e038Pjn3bdLAuL24SG2ek71O2eRfsm51DwUu9P1mgDNz--HxQJICvmvigDxlk_cEg3ZnT4YnfnY3Ns2YZz8AU5JhqU9o_J5mNfNNDBZMp_qobuX35M-6QKJOfoXk7-YyvO_ZwxdZbbfwBIRKcInlfIshSSeIS9Pjdp4AovudQ5YK_20VrYsZecpBs3N0zZhY9pNzG5jXa_1lwiiWbkBkep-3QSmtrbKqC2hVtkOy1UDhpB1jzA-fCSvwgPmt8kzsqea-9BBQ41Y5BDi7CQVdSgtO380SrDkyETY9Fw",
+      "width": 2755,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104418576884461278297\">YEYE&#39;S Noodle &amp; Dumpling - Branch 2</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ecpy-P0RZL_3NxYCFOa1rwsVQkpJIog11oSmEqW2wVSO_NR2iHOPAbRLuRuE5Oj-pHJV6HVlQ9yx0izf3Kjxv1UC7_273PE0Kux-fd3TuuiGNkg51WO81gsvcsTcxK44-IpmSRekHewuQtBU_ITaWXmxzJ7Ry-77aYoLSp5wNXj2MxfoAcAWyQAUGsgvXpxFe5CL1_pkyVPY5AhVqT8NbmFup3cOlVCZHBKniijLZfQ6s3lCoyLwCynXqEUCIH_dPT0epzBDLGgL-fBQreM6k_o41AtPfj4p3PwNaSZgYw_w",
+      "width": 2656,
+      "height": 1992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104418576884461278297\">YEYE&#39;S Noodle &amp; Dumpling - Branch 2</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eqAYp_L1JoY0Qv_PS1YGSHeaBIXSjKQvHb09-FkZ1atOUbkrnJPZItg6VxtrJ2508ULB9XMjd8hPp1sd1RsnRou9WPsF1-cLCrnqlHp2JRxWxGeYWoElILVHY-UMZJ49z_padh8cnnW-60OUy5bx6itGOrLCKPEcO092BYvvkutaA5exyZ73xR2MBdpsXVw6IA1SPOjf1lAkWkTuNPX07IIltqpb1VMMau9UT9bcjTZThlx76AAdRt2lCByrruKLBrV_Vv_9pVdc0R4ysp93HqYjEoZill2MkcH4t_SRFTyesc9eTgdN7Me3rrivy6tYR-5CHf0JRt1QIbpNLyjGe9CGB-OMJA9f_ZSi4abAH-GUf-NmLnCrSA5j7cSVJuPC56MgmXdu_0XEo4Ys5A1o_Ro_W8bo_1Z4wL48mCMLg",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100404586853992029205\">Chao Tang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ekQkLf294KnSjk5pDDqBAyOlStPFO61f4F6zxgQEPmBuiesEGBIlxa3ZPNE9FN-7X1teHj-zNX_dcT82MrY-a1glZ7W0vWCh5D0_-6WQ5cPisOT75MReHcNs3y8HCx6pToQf0ioR1lRu9fNuyqSgfexwbY-V8qPorBAHRXlpM4mjZKy4nuIgRjMnlkOKjaaWZ2gxEmqO56-1vyITsfh5iDdPJOy-9dc2DhGVKQU9wwHnHrjMZ4peROZPznSMEyrre2AAqAnmG7JlYreCVlM7Ie40tfZOjvyfF-uMRFfLM_jGlwLuJQdkEGnRe2UtfIuBTRu1vytfzJHMAmlch6qvdHaGvujy76YtTnvt11sPF15qUYigAKH7T5DceRbGEvPbD26-stW5WJzrkHub83c_PX8BMRUhmJue8nNshRNKtd2Zoo",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100404586853992029205\">Chao Tang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dcuZT88tMrO_Nxw2OYBwa0q1myMegrbqyEhrVZfn5BF6iIYXXlAxe5jq9YziRRagdT0FAsitu612kH_iG0yy5KHFWeZSS3ffsjK3EFnmhsXs-hjH-jezA8Mi7Z9ycC0Q9vQfjaGnhHmMhutTIFNMvZvwXQMySXTzcJUTfQvW_9pZcn2qwosnC0AvnnxDaumBPfygR3Lm8b7f8iMLMEhz-O7jj9ZoIRlIckqkv064A5K6gn5uFvnBZiJsGmxE1Vs8WWoFN6ZHk8ahxPA-9BwOdJlaIEp7bUp2jDAA0AsiXI7A",
+      "width": 2755,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104418576884461278297\">YEYE&#39;S Noodle &amp; Dumpling - Branch 2</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3YE-PKlLdn2vaklncOYT9Zrx4k2dTTio70QKUkkm6ZZ6g35kjUV4YX6HW26r0x4nLl9oTttl2ooTZwtX0R50Qfk1kkD-bwBjoQnrhdH57XLK55HyADMAzna8HCDJVHDoIhL04l7sKwf2hmgqsCda0Zsjd-dvxEveh238Jlfgwr7zFA1m2bNvhSCJ5ZF1hm9lvOhCGLkOycfQWOqOU-QteXfe2bcLczkMjBMJYL4ArSPJ1G6CWEyhT0oJaJNyheYa9n2XvdlA8cLOjWv9quMl7Bdc8RyMnaxA4-zLu2I8SiV0bX2zh87VZmLFupHbwTeeKxXyeT0Xy8qg0t9Reum6m-wXeuVE-ho_gCz9KqK1tMjQqARmfBAW0V-7vGkKRHQpro7mIrQi8iDNgbEjIm86d4T_pETFokn3D592ft_vQkIpcf7bj_LMckiRPipiD",
+      "width": 2815,
+      "height": 2815,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113228016531778874420\">Gab G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eJLsPnFx7DQ6RMcRYkWzXwF3VwucDc48vvxO8L32IUnCj_F3zODbcLK1QobfdDajHWEvpl3pzyYHw6U2nmMFI_Cvdmwm7wbyGVK6lsy57I2YehkzB0h9Bfb24-yYMovkTYiR-ycPryGpwcFCCj2B1DD1HO9AlRfIRq12A3U-BZU5cPAC8sdHQE5AX5kUmwZaAL-FNz9NAY0wwzN8GDrGf0QpdbI0loNmtxxtFYewTsfQ-t9xba-ncY236ZufmMvBQM7C6wNRZXISHLf4v0c2GVGgwQgAsfsKI_YVvo-0xebY-pDen2kaDwPoJBpI8WTbn5p6QsjaLsmZR8YfjXKHNvtp4yhQzxqcZ6lag-eqJ9KjFsF8Bjpxb0fCsT6TN1cefWFCy-z_0ihEAik2HvuiLHIVFX6hKcPUhPx5yj_Xww6snzvpLLmg1A-7I_rWRg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112892160022828852352\">Fei Fei C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eypA-CaSHRh90xzpOqdvUW85ELUK-meEzg2L84tvJTq15cAv1tcY4Zvat5Xovm5rqiOSjfSItSe4PquUshDxOKOYCGJQecIjEsFw-Xl-YWaNvKJcmXLDoNPIsEzKCEYKONFc_Z6Stq5V8o5kVL7y3BL0rwH54Jexe4g10TpmOW53uqJMxqrF4k0P6kCtsFHg1MD43HdA_jIaV1j72O0qufQQcrDJFyT8uluUxzdobm8SAQ6mBOWAfbLw36WTBF0BiISrZXfkbBDpftlZb7-Iyu0gzM8HiMz_ATTibOjtVfeOUZOzMLMvT1lOgibhsWLZZ7TwNS9hrEl_uZHGkOGDLMhvNEpTkSmXDazz5UtL1_cPyIjajwjn3iw19uQiGbxtViq63ijvs_rb-bhqO-ib4Tg071sl_yMlwNHdrRyQaBae0e",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106932966295501192762\">이서진</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fhgi_WZCPMD2Fy_bm1AtuL8QYxqgq9OdPZLHy6VosXTPPtomq-N_9t-s6Kzm-zecWWzWmnQlqPiLjkxMv4IhTbYysio_yYjvGxiceAYTsVmcQMVhAo5eEA93WQkV1pRLopK9uoMxI_fo8YvygieiEf_UDViMMBIQs2XuzerwTXy14AEr7YwyKzoul5yHOqZY6CWDs4VOJTvmX12OPnM2BmWqOFaj6hJzGR0ei1sgCCtc8Rm99xHhh_ZyY14hhP6PhvsAKI-vZy24tsTuxR0k27fwCMNNpjsi8Sx-dcyIIRQOH1ZYgqDJyan67CmzbyEKlOUbyC9zQ5ikcZwUUD96k-ICaiNTE29mkfwEUOk1lddQ_JLc_dsAejeHmZkIAsU2Bfx3xUPSP-_9VjXKUlS_2noZj4K7gGPcCA6fb3gj55gw",
+      "width": 3060,
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115536284142339685458\">Jasmine Chinnachot Balchen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebN9sqQNqmrKr2qnJLzLw81lXIvNtMGHhy_5kbxO7OQRDkyyob899ybPgtJcOf3o4tMHiYSTpyLCyyVvk-rWTOdKjQiaIL-VVn_ImqtbE_d4UV0T-wrqo4mugU7Zag_bL_wwLSZX6oYAy6-KNQzmMtMg9YBNHoTex2uoCS2DB3mMvDBO4G0w8BOeZFNHGOcV35575A4xLtRePn3LGzB2zGlx8l949CTgQvS5u6uevRWRZP_VnO-ushrbSI_1PkrOthyDHs3gHrAwpDsxJXoKIty_sefoKQZFC5VS4BvNqVyycybZY26r6o7JC8dyJEtHD2s211kL9ZcFfFNvF5WZMajL2d-miKv3U6vqeXwMaBEJBksrmzMGEgbVZmZ2_poAg35SyrxmgZ2HJIvaYOgcH2eGcZjOLs-KSG-a8BpRAYCA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117762140478563662976\">Jay Yongjae Cha</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Dina Ariss",
+      "rating": 5,
+      "text": "It’s a smaller place, which I really like. It feels cosy and welcoming, especially in winter. We ordered the juicy pork dumplings and the spicy beef dry noodles, and both were absolutely delicious. The flavours were spot on, good size portions, and we left completely full and happy. Such a lovely little spot. Highly recommend!",
+      "time": 1759439065,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Barilly Li",
+      "rating": 4,
+      "text": "Came here for dinner on Tuesday night as we were craving for some grilled dumplings. The grilled dumplings were served piping-hot and we absolutely loved the soup inside the dumplings, which was really flavorful. The Fried Lotus Roots with Pork was amazing and definitely worth trying. Crispy on the outside and juicy on the inside. £5.8 for 4 pieces was surely a deal.\n\nThe place was extremely busy during dinner time even on a random weekday, and we were only given 1-hr dining time which was a bit tight for the amount of food we ordered. But guess it was understandable as there were simply so many people queuing outside for a table.",
+      "time": 1758482485,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Adam Scott Murad",
+      "rating": 5,
+      "text": "We were in the area and wanted to.try somewhere new. I hadn't heard about YeYe before, but the reviews were extremely good considering there's over 1.8k!\n\nAll the food was cooked so well with a lot of flavours. The pork dumplings were the star - absolutely incredible. The beef is grass fed from Germany and you can really taste the difference.\n\nStaff were helpful and friendly. The restaurant was packed, but not chaotic. It reminded me of the noodle houses you get in Asia.\n\nOverall, I will be back over and over. If you like fresh dumplings and noodles, this is your place 🙌",
+      "time": 1754029516,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Tiffany Lau",
+      "rating": 5,
+      "text": "First time visiting, and I was really impressed! The food was cooked perfectly with authentic flavor. The spicy beef noodle soup was a standout, the broth was rich, and the beef was tender. The staff were also very friendly and welcoming. The only small downside was the pork dumplings, which were barely warm and that affected their flavor slightly. Overall, great food at a reasonable price. I’ll definitely be coming back!",
+      "time": 1755535931,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "J AK",
+      "rating": 5,
+      "text": "Third time visiting - great food every time and quick service.\nFood is delicious - the spicy beef dried mix noodles is my go to. Dumpling also great and the lotus root is a must try!\nVery quick service and you can’t sit for too\nLong but it’s a small place and always has a queue because it’s that good so understandable. Plus £20-25 pp for a great portion of noodles, a side and drink -100% worth it",
+      "time": 1747868944,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:34.682Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUiFmbMcdkgRJO2SIjZWdTI"
+}

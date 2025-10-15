@@ -1,0 +1,505 @@
+{
+  "category": "korean",
+  "query": "korean restaurant london",
+  "count": 15,
+  "results": [
+    {
+      "place_id": "ChIJ806W6zQFdkgRIGPNIKwBKGc",
+      "name": "Kimchimama",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 343,
+      "formatted_address": "142 Fleet St, London EC4A 2BP, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5143126,
+          "lng": -0.1070242
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51562317989271,
+            "lng": -0.1056731701072778
+          },
+          "southwest": {
+            "lat": 51.51292352010727,
+            "lng": -0.1083728298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJOQjG2mYFdkgRhtOCJ0MAMNY",
+      "name": "Majang Dong",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 531,
+      "formatted_address": "15 Frith St, London W1D 4RE, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5138183,
+          "lng": -0.1314539
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51514602989272,
+            "lng": -0.1301859201072778
+          },
+          "southwest": {
+            "lat": 51.51244637010727,
+            "lng": -0.1328855798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJk-I180QDdkgR53ATiSvAj5c",
+      "name": "Koko Grill Korean BBQ Restaurant",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 148,
+      "formatted_address": "173 Tower Bridge Rd, London SE1 2AW, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5015545,
+          "lng": -0.0782416
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50289312989272,
+            "lng": -0.07675532010727779
+          },
+          "southwest": {
+            "lat": 51.50019347010728,
+            "lng": -0.07945497989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJNdIoHMgFdkgRdYvHURHZlXY",
+      "name": "YORI Korean Restaurant (Covent Garden)",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 4224,
+      "formatted_address": "15 Catherine St, London WC2B 5JZ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5122682,
+          "lng": -0.1198011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51365932989273,
+            "lng": -0.1184137701072778
+          },
+          "southwest": {
+            "lat": 51.51095967010728,
+            "lng": -0.1211134298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJb7fEdcAJdkgR_J41VbStot0",
+      "name": "Ssam Ssam Korean Restaurant",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 260,
+      "formatted_address": "149 Merton Rd, London SW19 1ED, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4182655,
+          "lng": -0.193159
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.41963147989272,
+            "lng": -0.1917610201072777
+          },
+          "southwest": {
+            "lat": 51.41693182010728,
+            "lng": -0.1944606798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJY3boyNIEdkgRNE2VayvElt8",
+      "name": "Bibimbap Soho",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 2141,
+      "formatted_address": "11 Greek St, London W1D 4DJ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51438719999999,
+          "lng": -0.1309865
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51573007989271,
+            "lng": -0.1296621201072778
+          },
+          "southwest": {
+            "lat": 51.51303042010727,
+            "lng": -0.1323617798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJo5eYZ9QEdkgR7vezi1Jg4Ec",
+      "name": "Arang Restaurant",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 2354,
+      "formatted_address": "9 Golden Square, London W1F 9HZ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5117112,
+          "lng": -0.1365999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51303332989272,
+            "lng": -0.1352906701072778
+          },
+          "southwest": {
+            "lat": 51.51033367010728,
+            "lng": -0.1379903298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJt3hjCgAFdkgRClExN6_jli8",
+      "name": "Bunsik Chinatown",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 472,
+      "formatted_address": "31 Wardour St, London W1D 6PT, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5113169,
+          "lng": -0.132168
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51267112989273,
+            "lng": -0.1307774201072778
+          },
+          "southwest": {
+            "lat": 51.50997147010729,
+            "lng": -0.1334770798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJoTohhVgCdkgR5Hba4siRAT8",
+      "name": "Taeyang Pocha Korean BBQ SOJU Restaurant",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1159,
+      "formatted_address": "125 Lewisham Way, London SE14 6QJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4725048,
+          "lng": -0.0315138
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.47382137989271,
+            "lng": -0.03023532010727778
+          },
+          "southwest": {
+            "lat": 51.47112172010727,
+            "lng": -0.03293497989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJneH7htEEdkgR-hGHpzadwok",
+      "name": "YORI Piccadilly Circus Korean BBQ",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 5304,
+      "formatted_address": "6 Panton St, London SW1Y 4DL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5093768,
+          "lng": -0.1318546
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51075852989271,
+            "lng": -0.1305251201072778
+          },
+          "southwest": {
+            "lat": 51.50805887010727,
+            "lng": -0.1332247798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJP8Z7acYDdkgRn1o8f3mmbW4",
+      "name": "Seoul Tokyo",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 1299,
+      "formatted_address": "168 Borough High St, London SE1 1LB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5019387,
+          "lng": -0.0927398
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50327372989272,
+            "lng": -0.09134112010727777
+          },
+          "southwest": {
+            "lat": 51.50057407010728,
+            "lng": -0.0940407798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJr1FTxJsQdkgRqO58AadkOaU",
+      "name": "Bento Bab (Authentic Korea food) - Commercial street",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 1688,
+      "formatted_address": "4 Commercial St, London E1 6LP, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5157496,
+          "lng": -0.0719677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51706727989272,
+            "lng": -0.07071992010727778
+          },
+          "southwest": {
+            "lat": 51.51436762010727,
+            "lng": -0.07341957989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJpaaXtj0bdkgRa8byek8GNFQ",
+      "name": "Kimchee Restaurant & Bar",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 3855,
+      "formatted_address": "Unit 4, 2 Pancras Sq, London N1C 4AG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5336668,
+          "lng": -0.1251613
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53545902989273,
+            "lng": -0.1239009201072778
+          },
+          "southwest": {
+            "lat": 51.53275937010728,
+            "lng": -0.1266005798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJdUnNJjgddkgRWd94eZHjn3Q",
+      "name": "Soju Korean Restaurant",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 18,
+      "formatted_address": "282 Cambridge Heath Rd, London E2 9DA, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5339896,
+          "lng": -0.0570963
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53535107989272,
+            "lng": -0.05584962010727779
+          },
+          "southwest": {
+            "lat": 51.53265142010727,
+            "lng": -0.05854927989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    },
+    {
+      "place_id": "ChIJQ0J63lYDdkgRBH2RyfP-ezM",
+      "name": "Bentore",
+      "category": "korean",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 405,
+      "formatted_address": "10 Harbour Exchange Square, London E14 9GE, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4982932,
+          "lng": -0.0159499
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49991187989272,
+            "lng": -0.01443977010727778
+          },
+          "southwest": {
+            "lat": 51.49721222010727,
+            "lng": -0.01713942989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:56.333Z",
+      "query_used": "korean restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:52:56.333Z"
+}

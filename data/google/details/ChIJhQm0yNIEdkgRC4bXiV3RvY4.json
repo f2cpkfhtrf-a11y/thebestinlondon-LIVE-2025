@@ -1,0 +1,242 @@
+{
+  "place_id": "ChIJhQm0yNIEdkgRC4bXiV3RvY4",
+  "name": "Bar Soho",
+  "formatted_address": "23-25 Old Compton St, London W1D 5JL, UK",
+  "vicinity": "23-25 Old Compton St, London",
+  "rating": 4.1,
+  "user_ratings_total": 2772,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5132177,
+      "lng": -0.1309139
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51461028029149,
+        "lng": -0.129587569708498
+      },
+      "southwest": {
+        "lat": 51.51191231970849,
+        "lng": -0.132285530291502
+      }
+    }
+  },
+  "lat": 51.5132177,
+  "lng": -0.1309139,
+  "formatted_phone_number": "020 7439 0439",
+  "international_phone_number": "+44 20 7439 0439",
+  "website": "https://www.barsoho.co.uk/london-bar?utm_source=gmb&utm_medium=organic&utm_campaign=homepage",
+  "url": "https://maps.google.com/?cid=10285607323658847755",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 1:00 AM",
+      "Friday: 4:00 PM – 3:00 AM",
+      "Saturday: 12:00 PM – 3:00 AM",
+      "Sunday: 12:00 PM – 12:30 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2frXUzJi7suxuSHJlZP_D8FZs2KVDnSvAUEpQpllRUdWKPLKLNhU0wJpeV2GEFrNL7lLy6o96OdZKLOH1aKd-EH8cIaqDPjbCng7V3sYvkke4Us0afHlusWAb-epBjKtgy4oCLWOBn-G2jwNuH1WJsKQPYPR47d85eIjpYdmhEAU2lpbrO3EcJ-MwnuRhFzfIZ-mYkIxAnboc9wNRw4BviKh0m3Wnmhp7sVjYPscJHYGo9ZEV0ZAH3bAN1f0IozIiD3utMQ3vP1Hnxt71VurQvrXypgPFyOOB9B0vV4zenkfg",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109334677448587262825\">Bar Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fD1ElEx-UtCaD2Ac8s48w3I0_jzMj8yIrQofrrfy3h18kI0BjWVj46RH_asU9ilFgr0Hcc2sfuLW_MhRU9UqlDabbGcnW8K0crPFh6E2q7Ujzq5Q-ZzFnWpGbgHr7dZwJfE_dw1ssMTO1t8KJq27NOjqnC4kODDmkvXIyZxcBRgIGy7G5OMWCPau1CGUpDPRne-V0gjdFNKbXuPmXgTDT7GpY2AMgYdqtPI9hlHQ4U9LgY4wWspyO5a5G8ujxYiaesJxd9Q1HrI7wGr506d4Ti5wVbjiKRFuhxmMNmfHbkLZfVVi5nM1jpUIMqOgmxicFBt3UH2_itjAgKakR-5vc9NWQYUUS75CJ4PQMxWaH5uGEhTmjSexaZkqmXCPiVrMlA2F6zkx6EpvtGqvpdfZH8fgrcZzY9GQ3vjrn3E32L0HWa",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105333792164702910147\">Fabiana Mota</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dupzi3egoWFvCq7vUoWWl05v93xl_49QWI_L8EvJg751W5tfZgsAGo62DqDL_7UC7oLwSmw3RI0snHS4JA0Y0RAxLTAFrMru9YJhl4iX24vrX7GRE_CafDbp0R0eTRpxRlgVFCKU_UpCHbgBpst6VGuaJo1nB6NNsIXk_UAAyLKtOjNOQmVBcGsfgFWgkSgbaPlrpoC7vDwiobey8yQROugcWxn9cowdI4WdsNERq-xFrvtdFT5DtvOSruDm4VK82kbX7qeXNbHBGo39fSirli2ykbh3RaYYnwTHYTG90e-igKGPaW2Coq9byxHg-MevKFDgbi3FnkVRHJNe41Xm0krH6LHGce1AJOukJ1uXClSFeMBHXoA1DzsYVJpyjjrI5ZTs7wL4_AFj02E5sAVTEtI5t2SIsOnQWmDJ4bSN8XA5zl",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104624880349746675248\">D L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dPAayBCgC_uNnl7qiRmc27Z4pAWTKnllkd3zqKhY-0OCMQH8PV3yOZoOj7fDmUtJ0gQe8W_N4FGtRrngcVWQSpacQHtGeoJlx4ExyXAuFaOLpNpoKo_S0Hu_EPU6NEAe-h3468QwBaGVOhNCXRRYBcQEnL-TrkuW6wd8D2vJMaeAfDKvMX8Lu5sNkCQNx5hfjRflBzoNFw3VAULU064yfEnJgE_SD4Z3J-N4NmIP5ImYo1WS-Yk7uE516_gYp5nZeHn6cLELvis6U4o48h61jKnQn3CIyVMbbKiB4MRrThR2PaLi1bIONjMBR-cyda3g_6g7lhYOCTIBOXN5ww9F4s0ALjf7DqkTEqZwsxi1yc0XjpVS090zQ0hgsSWMtAIxQjSa3aV4yix33A2Qg1A6nXJaOqxVtoUDa-JblpAhN2OJ6c",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101449206300335209619\">Patrick McKenna</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eT7jYbvmoqR5Pnv5qLV3tsOjNJWI0FeySLlA7lUiRH0-Ba1aASxIVYvFolpZbby1tf_Sp8pfB8SjlwAbRPWhAOQ3NSVgd72ePjWztb2nJMHMsIJH78wimoAqk_rWA6ePbfw1Ag5Zw3rSDOOhJN4icdzApublFujR60MS5EjNolr7d2vHvb_uZ0OQZkn5IGYX4TB9kC98tw02Qqqnh8pFnn-Cv0GjK4KMzsoRsCLlyf_-umVKSoKJfMHWl-6UONBz5U9aAKvnk7Y0paSHvd-6il8Xo8fjOxHbOKU6o-sj1pmj1OR5JBT23sdJoScmfAO7oAvtixaL3vR2eVKBu1JUH7LFZ4jMvv2qS6CI3lHk2Db-X6ld1nzk9TrN5tfix5QzR2RwtYDNPmUoNcPnsDNx2yM_lQ4vwaCXsed4Y9YdnDzA7v",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110848677168022777486\">John Sporing</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fhzFRTfL7uBPApT7lpXm1Zveiyc96opOeCZR7xv1Mhby12NmuM8oDgLCO2kn03zgUMiMBjgmdh_UD4yFBEkitYteS-sYrKj8wIh1yy2bngRGnaLIxf4oNq6jDT50qmAixvhKwNyKDOSVhZrGBVWDdpvcOwps_4zFzfO2W8K4mSZflEax2ECv8BHmbTg_g_tnhtPROqkXKF1b2uxl3wLOA_pMjiLnE8nDPz_S2oVEJ1hYNJEpXIbr2FJfW8vSlf7V67m6ADak04VybVQtsDWErwMsEkw03r5us_Zrph1m-uQg",
+      "width": 1404,
+      "height": 936,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109334677448587262825\">Bar Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVoA1-R_zzl_DN-fgozFEfcHs1cTaTPoUAfE3Ku1YpO2dyGa69SIHWe9cwmcxcrk6ptc_NQACr0eE-hvf2EpFF172iNPjDkzCG-ccyVs_f-KMOEoyRMbIGld-4E3yH4ZL5mBCW-tBevhoxKHVjgfuZv-pDzCQMEQxfBawfEMczEsYit7NJ-OW-OW-O2zBDM2clGEjqUEV5Vws83dNQWdGBx14vaicFrHm1c2nBWc6-rmpVltdZsV6tho82o97DZG-uxm-XzUg4p_MKf_MLGTwoCp15K1Lq62MbBnpcxc-U4-l-djQ6WAmb8c_X1sPvlfudoYJIARWPKRDMhkMETgg5suzRulRupJdfZCAszsqAD4Iwz7yBEGxOkHG7JaGqDPigu0T8zWCAybk7IjA2KCDvHlkNIvICfN1wSbVCV1q_Ha38UGM_51gmXNlU_rKz",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100967188361926267421\">Haris Pitsavas</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2csG2YSETwBOEoCUlZRke6StPkfWOW0rPjTlwXAx-_YCDWfrnaXWuZVbqlr4FmswG9Ls3AsQjE8VG8ug40ABbURKf_0-AzdSV7sHIZDearVmFgd5DZOIAXRzIyzvm2EAKJ3RE709IMtzVRCf7B_3ju5lfBZr1p_gaSfVBSqfv0a6-jfQcbJYCNm7Z_H7GN1sRXdAPScOrie18OKyI4EsoQcAw8puEa4x0FfUauR2ignkRJhwQVumorjMu5iX3mN8tJcVumnI7cvvekmPPUQ562iqfBX6WJ4v8wiFc3xmnku2N7ftjT97cHk6VJXLRgw7dAj_jOBSrpLj3uXMPisi3uyW9pZz7QIGdWHfocr0lvOyS13AykGkLKyGXff1NVv5DK0g358GeqlDeGrCMcc9tQy7YanCu-myIb1AUWdLzLEstqEKDTtlJv-843mAA",
+      "width": 3648,
+      "height": 2736,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116785706521776321781\">Sam Newman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cK5pEyxrRjyRNkqfFvHGRNTPmlDMp4YAql7gfJRh5MUsyOuNi5a5eXeEFwsMPeqAKebmD6u7PqICD04Hb595I51vTaf-g4jlujNqtNFdoSiDX709Dc1VdoZPC6haS_Iy6na2Wa8zdPHY-a2WvG6QTp4mRKS5hMly6RVsnAGg7p9xig-Z-x0kSKopwO49f_wQNtEMjarK8EXDV5QqUzatwsxcL__Qkv-W09sSfT6RVW7pzGp0TN8HkWNUPRwuTThKIzytjq9lfHsnfbRkMJUDfKsIbIjivsAQ_zeN2oeDkKFyvhOaiz9RLuENq_jCWwA55guoC2eGl5G--gRPlmNCbtPSJ-q-hVjk9K4N7B5QbqWuWBxva2hL7p4YIQ68JVdY7CEciqize6nasKITbcS39_ARNFi-Fp8n1KDOYE2jmPJR9X",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101449206300335209619\">Patrick McKenna</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fSoguKSQctm7eIi5asI12PfLQtC2thJMAlmoQH54mpQ6qeihlAzKNzBnReD5Y_3d1qWzWYAC7U-HFxM5lOjV3U9BejubVO0ji-x_1buiJyiDJDwldx8G6Xn99sZJA5W04GhMMAQT3fffpHRoG8-lhONMZnoVTrAVChNeA-sfqg_GzcctBxgVmX4KK2PwGStXUkCaRkNtpBXQ5eCS8a2NX0kOp4cVejrT-YrUVyyXIeJ-aHinxyKfiE05nwxiR-eZxYbv0yyEnew1Nc4azjYW4NIQhHZQuDhK3LoYFXXgju9nd17uwQDFJ_xA_eqM5UsC93ps_5rBHjKe6wh_aHLehEgUPsC1Nn5qbo4EWb7gdrm8FPMgYgZUC1OS0pieDDUxNXsx2jssEPB811cT9tgLU3haatrPcqVISMNf-YHfA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103922378625671599014\">muhammad hamza</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Cocktail bar with mirrored walls and a fairground horse, or decadent 'boudoir' with baths for seats.",
+  "reviews": [
+    {
+      "author_name": "Patrick McKenna",
+      "rating": 5,
+      "text": "Ryan (lead bartender) was so cordial and inviting and was just what we were looking for after a long day walking and touring the city.  Great service. Great recommendations and prob the best drinks (cocktails) we’ve had this trip.  Well done and cheers to him!",
+      "time": 1748881690,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Simon Green",
+      "rating": 4,
+      "text": "It’s a fat bar and open during the day when we popped in for drinks and light bites. Basically a club so we didn’t get the night time vibe. Service was good and the bar snacks we ordered tasty and well prepared. Next time we’ll come for the night life for sure!",
+      "time": 1756285286,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "evie laight",
+      "rating": 5,
+      "text": "Such a fun venue! Went in for drinks & pizza after work and had a fabulous evening. Staff are friendly, atmosphere is fun and bouncy - even during the more chill hours. Air con was a massive plus in the heat 🤙🏻 Will be back again soon!",
+      "time": 1752682474,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Ody Macedo",
+      "rating": 1,
+      "text": "I had a terrible experience at Bar Soho. My two friends and I walked in randomly just to have a drink and relax. At one point, due to a simple misunderstanding, a coat was moved along with my friend’s without us realising. The manager immediately accused us of theft and called the police.\n\nI felt completely humiliated and intimidated. We were treated like criminals when we had absolutely no bad intentions, just three gay young guys out trying to enjoy an evening. The manager made no effort to understand the situation and, even after it was clear it was a misunderstanding, we didn’t receive so much as an apology.\n\nTo make matters worse, the service was appalling from the start. The bartender gave us wine in a dirty glass, and the general hygiene of the place was disgusting. We were planning to stay only a few minutes anyway, but this situation made it a nightmare.\n\nThe only people who treated us with dignity were the police officers who, frankly, had their time wasted by a completely unprofessional and unprepared manager.\n\nI will never return to this place and wouldn’t recommend it to anyone. Poor service, disrespectful staff, and a total lack of customer care. Avoid it, you never know when you might get caught up in something absurd like we did.",
+      "time": 1750315990,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Megan Smith",
+      "rating": 5,
+      "text": "came very spur of the moment on a wednesday, had some wings for 40p each and they were incredible and GLUTEN FREE! the staff were super helpful with my allergy and told me they even have a separate fryer for gluten free food! the mango wings were my favourite but the peri peri are super delicious too. also the only happy hour in london i've found that you can have 2 pints for less than £10. couldn't recommend more!",
+      "time": 1759949624,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:40.212Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQm0yNIEdkgRC4bXiV3RvY4"
+}

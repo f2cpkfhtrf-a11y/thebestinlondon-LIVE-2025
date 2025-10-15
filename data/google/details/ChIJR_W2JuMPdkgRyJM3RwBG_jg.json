@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJR_W2JuMPdkgRyJM3RwBG_jg",
+  "name": "Farm Girl",
+  "formatted_address": "59A Portobello Rd, London W11 3DB, UK",
+  "vicinity": "59A Portobello Rd, London",
+  "rating": 4.3,
+  "user_ratings_total": 3495,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5119884,
+      "lng": -0.2008371
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51342148029149,
+        "lng": -0.199469469708498
+      },
+      "southwest": {
+        "lat": 51.51072351970849,
+        "lng": -0.202167430291502
+      }
+    }
+  },
+  "lat": 51.5119884,
+  "lng": -0.2008371,
+  "formatted_phone_number": "020 7229 4678",
+  "international_phone_number": "+44 20 7229 4678",
+  "website": "http://www.thefarmgirl.co.uk/",
+  "url": "https://maps.google.com/?cid=4106796877217240008",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:30 AM – 5:00 PM",
+      "Tuesday: 8:30 AM – 5:00 PM",
+      "Wednesday: 8:30 AM – 5:00 PM",
+      "Thursday: 8:30 AM – 5:00 PM",
+      "Friday: 8:30 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eo-uOOjsqVF7w10S0GN7ZV-W5G3eZDEYQ8dJhbSYW8DbdOwW-g8dbGSRRntSZL6FgAZUl8TKqtK5N_ImShKmFWlxWjdiWwNF0tfs0_ownewObNXR38PCahoCXsfRfZhePk5_ACLl901Z2IjgP80Ms4Ccm3-nmbFcReE821M0ZUO9dkjk4vp-M7xzHghtvM5rTfQ-wAlbmHrPspMIInfkfk_bYbzT7z3wtmNK3HSoVCNuzxltqxahkKRjfHF64mCis51xmLN5VVjJGjoNwKvg0Ma98pPFXp9KPU2PPDCezonQ",
+      "width": 4800,
+      "height": 3194,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107432312181893147160\">Farm Girl</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eBG80OHnLoSMql4RU4WpHXzzzEisWwWO9J14claz7ijsHv1Ri7NGVZCwvcLFSuol4BlnJZoAqaXenPB71G5NMVsKj2NRaHi4K9-X7R1N_XCg9Me0Ym2-fStE6iIhgt9REmyRB9GK8ZqKb3Zd3KUKBmOjOLe-OSvtDnxBuUistNuRapRAMD2Fnx_IbK2RvQ0iRbN5Peec-wN6YlXiQCxAPC4jHXo807qxX7LOdbKoXNOwH_VGyHJGq8sFnZ1kjkQBKbxKi4qRmdsjYLTc4qMsTkdPfmzmphghk0-y2edoK2PA",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107432312181893147160\">Farm Girl</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwMJqqrMNf6cvrJ0R92rksTniQ7rtm9Sv-WqJOG2gjEVX9fD-OZZjomAf0HJImd2fQTBo2R7ww4kZk8z1dP2SVQOBSFRMPYrIZeZj-D5jyN0q3wIdTc9c9fLqylyz7bsUf04MWvi3sxGJt04KVfxhFiKjloveTSNmwohnQrC222sDSjrtkBwyd6DoIN5RB8gw54mkgB9RqIM84LXgrRVeHOzhtjEz3cNFaOjfJd4PrRYB5KzJcghbLnfCZYrnCncJ20wroPuWnnXs1yFFqcOqcTyGRUTGBT8V91DEKnYrV3VIBv4tNvBqxvUNzUlM_g-mIOXG7KocsSDcGgFNwtXTrSfKX7S2RfLvQ3QaszRlcXMzCNfG52YiiQW4DJRpvA79O0LCINgnpZNGs8ERZsC6MN1gpy36l4euoFd8HCejQGd-1x5OPcGKD_BgGxgYm",
+      "width": 1080,
+      "height": 1405,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100584476602940736763\">Joshua lemieux</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fLnHRHWOjQSUHpU-egX4_3mMddmjTCTwj_rCh8dvriz-bEUgx7bnR8nq3lr7RTpNto-rT7jk432EqVs-ayBcwqNVGDwSXww8dPT8zowfUzty4fPrVKJ9tg7apRre2fPFtRzryM5JZ0JfpkrdphUTUEgro4sUflvF63vvL9kVp13IaECC9KJZYLGhHYZPOEDp_2xDCera7qpwSfhlyjMK9zroX55CUyz81KJ43vMeLcWipnlDaIv-UT0-uxq1_Ut-7GRNtvOaGaq2EekhKidXLQTTHXeMzNvUUMGOoeEYqUZQ1xa9JIMiG25cNrEkbA0wvS6-t4CgjViA8pHGO_dh__-4FAW7h1dON87HIEnUGY_UJosk2HsaNqeeByogHSL49qqZdddT2iIH2rAIBtVsjCAxxYTsEb4sPleTUf_WDjLOP7xxJkTDC_M9hebQ",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107170777792148965576\">Mark Smith</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2en20WpBcw4w_3xEQIjMKaYNYZ_LWdsf-3tdSC8-mUJ0TcXAI72mMw8aHOGC9U9-XlaRIkvMyWsYW5wxFK_DfNnNplG9HocJGzbiGaNw8jQMZ9AO1gVb4weHMX2DdnW866XIaPm5vEPkm5IX27g6OWnisFrRdAeoBQ5yTYykmS9c2V7IDtn3rwDQ5mxeVqb6ocf35w0HTQetf8L6UQNpKZu-MUbfF4KCdxItfaIIktX02nIywQ1cSn9eayoCgQSzWhO4scs23RaEyuhhhSssVvMgxhNczIoAv5EBTdHiggvIdo5Z8s22axRn07WiUoDkiVgQ1lsJeaBCQcUwwYYbuSo17V_xGxVx5mHgj5hbYsHTDNJWVbsADcuvejurVn8QI6Urwnxs5SCXP0iHGF3bzsqKyJaN19XlLKzGDSXQ2utPkbpDUglD-B0VaEh-CYx",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112470244816576289599\">Katelyn Pennington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fG0KK5UZ7aZ1rjwpyPn1MJ6ZVKgSJH-WD1TSVXYQDoYNxxWNnuPfWFdGonApAOn2ygvO64G81AbcGaYrAW5iI50a_bGr0MQzsBwGWXU0-vwOH4pAZapVBU8X_07TnRzMIn1y_K1-5TKWtIuz9oxYVTn-E_naXaYeK57eOhKYA2vwa6Zt4wLaajUU0juMUNMEGmyUgRw7zvsD8S3WOifp0KmPsuxEdvka1AYW0EasYuJyvKijP0T43ZjURHxIZBYm1ySYl0ARLhWegSUjJ0o6CmgJan2yiXklixEt5V6xQWTWc_hKhEYaifRLNKtnSQUzf5FWaNnbpbka67_mnzkjbmqxVDfvQBes4K--GVdPa1eQohm9wNEN0Ruw4pxz4NBsakFoJBHDtmM_towamUDTylXCp7YRHUPkZOKc_dDidetYw8NBNiOW0EwAgkrQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116521764543454457013\">Andrew Bryan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-w0teFjoS7SuQc_j2GEH_8e2z8JBkgQGoEz_TeNfo3VMJBcNh7oVH8qq_LMpPpNG7-V3ff8YT2GuRlgfwwdjopA-JMxTV5qXL7N-jESqz1IztKi_wWNVHbN9swPndT_6HMsZjSWRm09Y3NpBj8YxYbd3KBqkoHouCgJEoXJ2EvmWPY48DXkemHZCSjfAg_gqbNItOKG2XKwmXa09brqOJ5YkvidYb70Sn6ql3zF5pWqQt-FdYrgg9Ryvk_EY1KDmK19m6oUkW0009gLaCtbnwrrk6etJtbw5oAZJgLxQHgHsYhUlQUC0se2LOlRSFsETkSKtCr0SeN1BNJCakmgzm5N-yn5L1YKoVLHX_NuMz_R5Fa3GwpFIw-rBOXe7EF9jcK8XTVkY41_vOagKNxi9E71c-Q-VSbkFS4AwgYWkiXwtE",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106653162237052682983\">Rashmi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cdvIV9hcQjuy129nvv63gXlsBSch6eakIVNp526TEE0bmo2SFHomQilGIO3Sg_IJ3-UR3X20zloULpmbPZtMpgEzZ9bWeCDJJH_7_cBwACL0TU_NINe8XAQuPhwA1xfM3iHIsP2_l3LVIfb672JXrJyas3lADNkxrkr4kOznJWeF3li3jboMYskJR_KLdxCJ98hsf3adfiB_wDUMdCQlt1HIlZzmgu3Xqv_a5KO7TwsxUCgTejH8Y7PLN_q2bRcec7J2ot5BT3NJE3e6eJG8KIMNHtlKXRwd_AaNfigEFVYr04uKO1_6nt9aNXkzgzZBQ012ynXgipPTGw5GiZ_GMCNJ2el7lG8mbRnpyhC7hyqa9vLY8I1cA00C5NJXuzq1-WobuCKMhauRcyntHywJZrqCyNbuJfKn6OWGd1gXlxDq-n",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100084756840286487488\">sevde özer</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e2YXPRGhHEXj8lwrZQXhfBkp3BxEKBRtjCW4miHb3MsE0sGfvjzeaKUDny5v1UM19AtzeJeeZkFeKPbZhx4A5M14gvuyOeoSMOaNNMmNVS611nXktv1dWPZ0wBTG-w8LVVZmew1Lhp2RG0OPk45sLSTp0gwXcGWXxePL-4SmJWEKboOLxcfELMGFyb6GmhGpd7kKzi2NSl_dUmVjMHvWq90d7Q6Vy861O3eUWTG3MpSog9J3fF9Q8kgP-Vvw5S7vgymWZ0v_I64Hrz9FklTb_8cakhvCNybgmh4xekSJHNZsxz-WG1_EjGUPvNRyluQhRdT6WP8as0nmW1IOKlu_Kfg_4KWQAyy3t4OHFcpswWW_3czKHmvDIRfj343iaSYfH99tMaZwEeIEnERcjq1sVjMsET3FWarsm8f2FMujiCL-bG",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111063067999376027630\">Maria Johnson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cLzRKDH_H4DmmOprdQ-MaVPMH75g_rSVZGs-Ekay0qQ-gPIFGYNsEue5aBW0rgkXOK4tVb5u8fHKsRH2eQODZnNiIErI1CkQMY-1x1BFwG9CpmJvrhv1mmuHQ8Ucfk-tTcbiWeGCtvQHBicrCBUglzmvdXJWVkWsVGG2XeFPIFfQQO3j9OPCtge7X_mg5R7arWyndIpklwALRS88rLCWOQyOUavXF6JQvA-rfG9q7NAZA9RMzNcVtQ2Wlz0lzoapGKVWlz-LqW2ZVWt65S4vqH-g5pbUvAwUpx3Wbc2UhcqgARFwtV4Z1a9ilfjfoLgV8_ex2i7a3NneGG7Zo8Y6lV23kEiUYaxLirbr-dSBual1oysFvfme0o4LGA2rJ61KhI9B52MBbEAYmXOW36qSZOnxpYoa3DaS0WCFV1zjKxAw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108084642315846058109\">Karen Rodríguez</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Bright, casual cafe with tiled walls, for health-conscious brunches, smoothies and sandwiches.",
+  "reviews": [
+    {
+      "author_name": "Katelyn Pennington",
+      "rating": 5,
+      "text": "Loved our brunch experience here! The atmosphere was super cute and cozy, we loved the tucked away garden feel.\nThey had a pretty good variety of drinks and brunch options that were really yummy.",
+      "time": 1754485193,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Jana Hofmann",
+      "rating": 1,
+      "text": "£16 for some scrambled egg and little bit of toppings and £13 for 2 small pancakes with barely any sirup and 2 sad looking pieces of bacon presented with barely any effort!! Sorry, but for the food offered AND the presentation the price needs to be much much lower!!\nDrinks were fine, matcha was very milky and not enough matcha and the cappuccino cup was quite small for the price as well.\nAmbience is nice and service was fine. But definitely not visiting again if I am hungry and want to feel satisfied after eating.",
+      "time": 1758736697,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Joshua lemieux",
+      "rating": 1,
+      "text": "Definitely pass !!! Not worth the hype or price ! Honestly food was overpriced, not good and dry and pancakes were burnt and dry with no syrup. Drinks were mediocre.\n\nWait was long. Restaurant was drafty.\n\nStaff was also not attentive and weren't very polite.\n\nOverall do not go here, so many other options",
+      "time": 1759286598,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Mohammed Alfalah",
+      "rating": 3,
+      "text": "Unfortunately, my experience wasn’t that good it was way under expectation. The food was delicious fresh but the service wasn’t that good although she canceled the service fee for us but us as family. We weren’t satisfied of our lovely brunch. I will recommend it for the food or maybe try the other branch And I hope they improve their service because the place is good. The theme is good. Food is good, but the service was super slow. One example they forgot to bring the croissants in time and I appreciate that she canceled the service fee when we complained. But honestly will not come to it again. The food was delicious and the price is reasonable.",
+      "time": 1743519292,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Soraia Avelino",
+      "rating": 3,
+      "text": "A cute place, expect to queue\n\nService - Friendly, however they forgot to bring us everything we ordered. They flew by every time, we couldn’t really grab their attention. It was on the bill, we told them and they removed them.\n\nFood - It was nice, however after we ordered we got the sandwich so quickly within 2 minutes, it made us wondering if it actually was fresh.\n\nAtmosphere - lovely, cute place\n\nLocation - in the famous part of Nothing Hill\n\nPrice - London prices\n\nWifi - unknown",
+      "time": 1751180596,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:19.316Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_W2JuMPdkgRyJM3RwBG_jg"
+}

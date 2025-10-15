@@ -1,0 +1,313 @@
+{
+  "place_id": "ChIJtwn55ikFdkgRAvOuPIWeLM0",
+  "name": "Gymkhana",
+  "formatted_address": "42 Albemarle St, London W1S 4JH, UK",
+  "vicinity": "42 Albemarle St, London",
+  "rating": 4.5,
+  "user_ratings_total": 2930,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.50849119999999,
+      "lng": -0.1414724
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5098684302915,
+        "lng": -0.140063319708498
+      },
+      "southwest": {
+        "lat": 51.50717046970851,
+        "lng": -0.142761280291502
+      }
+    }
+  },
+  "lat": 51.50849119999999,
+  "lng": -0.1414724,
+  "formatted_phone_number": "020 3011 5900",
+  "international_phone_number": "+44 20 3011 5900",
+  "website": "http://www.gymkhanalondon.com/",
+  "url": "https://maps.google.com/?cid=14784365971836433154",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Sunday: 12:00 – 2:30 PM, 5:30 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fx44OdPzAHb5eeRjjMyJRSZbRBwm-xijeJhT2VYGSkdCwwDpUXp_EhlKkmFjrTV5P91j9nOu3XLk3Oq3RrnuLmZjl33V6Ug1FsreJoSRxxT-_qCoQGbgozzGYmEldAXLHhT5bQMsaUOX9iYY2H4_iOVyUKThkecJLPjJjnSmFyrVT41uzeJ7TN0S32PJ0Pj3pjiOey-0FUzfOBaXEoLfcufMljVnI_UO8tjgSndFN08dacrNkDBjaN7_WEzRvMl4B4HhNHKO9f1lbCnNy_RLmd0OghZeNfKYo2cV18JIE1BQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115537772948869515630\">Gymkhana</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eKqCtUJ4meWGY-plxDQGX_6wuZaVlYQKd7jOWK_Lyf5RoxhxoKg7G8UcUUXulHvCWUD-hEP0Uqx5k3-g8iF-3P7f2KKpUNOdnXROICCINxDlC1rBsXEX4SrTtAbWZ50kkGmaQTTDdo966fLM3fHvU2RTSWxVzTuYn_EhoiSnez6WQjChbynrnuHe2f5LWXflVshyFfxe6GZ8kb1jDuo4I-_SkvZrb-xgxEhIRicOMq_nbtGpEBJreEnihwjt1PyxHT0bPAM2hC9oDfCCCBouIuqjh5PrYVaj9h9zVA-ZzjWg",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115537772948869515630\">Gymkhana</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0ymIIddWzdmlCg6w0xEyn5e7gHY0HvnBLTEoldCikz_-0d0jlakbrX_SEdBQySv4CLNMkGsq7Wks719ca1ZPHVD67nqr28KjQ9oNyqfvUQTvf5y7bMWCSeQqTGqHoK9VX5VDUY-zX6DjenbS5rI3zsAuduMNvGWg3ams_vB2mMBcsHGWTl10YRXJAc4N20iaUUnAWi-VhhWy_v_Tao4z9c6nT75HhaXMM0CB-zlrjAqzpntcoowf8GT3RueFh0oQCN6BOPvthOEEbn8GD6lc_4pxLPMZQ7Ivr98eqIx0BIbrNDfRadMVDHAV8I4kAxmHKbvVZn3XZV-Uucp_dLZg-F6ePusWTZOpLvtC1g-qM9wMy0rI0ped6GYd-qR_ki90mXEGMHnX2l8o6ah9Zaw-8qLV6FOoTKf86UfPw7ODuOs8b9rap4TzXrLEFvrXG",
+      "width": 1201,
+      "height": 1531,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111654869694908216406\">Anandu Nandan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d9kr3G9EsFeW26N0jiFbwXmL9YcYIvbIhWdeHZqNljek8fVDeipvxIxc7YqumDgapxhioSk982OcPfq9rErD6rdUGT6Ya8VQCRWCVgXn4qL2xe1vKKwk904WJKwa7QTM2PeHJz5eO4vRidYdxWVdSwBHz-vF0qy4xujttObzKo4ojLyW1Vx1BiKmI8ij4E8l4Et_wpE0sx9r38w3vb3cmc_iXXw_zC5ML4wdAJTF0b0PBqEMoYd3gQcrhQf--x4PBuVKHQrW9h3TlLB3uFpasSzYkjem5EvCQTU--HNgWcS9m2FepArWUHFo-XPbsMolwM8RZ1McrJg3iQhwqWGfjyRnQAysAwdgjbFmMU9aIWms460Z10WtjYfuKxMy4lMbDQKaXPPKG5MCObhTTSxoxJ3P9uyYSgdSTFfbXu7te8nx8",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111460188217749618112\">Vedant Soni</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eNsfOTdKbHElABnsJFoqWBEHNMTevkE2TxuEoUVya1rSw-QDKGgYJPu6zvOjAClTzLqDMnbPTxJn0KKAGeNMBKdxWDKG-6LQXUTaG1awQNDAf27rVk7K4f9BEToEMpFtIeKIxmCaeYrMc6l_9DlvyBWAx4nANeoV-8Ed58dE0pzDUQseXGTLcSrWoaApuUIIVCjxj93BaQP4fYul4Y-5icF82SHRhuIx-ISQq9v03fdFAFUeXn52GEPesm3ACEUDbeGzjMJV92v_DKxezL9BEFUU5UZNhdyDcD9ihIBrSdqwQ4wQ49buduxuQ52m4YHez1HlCvy_FAqShcjUViV8QWCyp8_Hkws_4srePMzLdHcbwtRBOIG91t8n5UFTlN6mMX2urEkDyYuKdMbfMxU7n9XZ3YiaW7-vyq9vDGtBU1pkg-AkzeZjO91MoxNNXX",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107962182444478460284\">Sam Simmons</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwwbDzvPb4dDEM6cUDWeqTTvaETbDU9l5iZHklNw8y5pJ6226_8NG7T-fqvY1kTj0G2MBvtBeyWoB6wqIAQnz1mBup_SYWYy7FCiX59pCDQvHtUGbv61NqXtELIZ1UJTrpxPtOF9lfA9C7BbtJsByUJ6A0M1ETShOPRHhBnzDvTli5jVTUDBIl7SW5v0meA56kvH3cCW4lwHYxqtR0mmH_awNXzma-CTFAUhBn8TNKUJGrOf6RNzb7L4Xezw7CTi7CxU3rO3AEOaBxZsE1TECCIVU9x8zOBLl1hpNDqfWXmM3XAtNEP2x8PH48bILloxWMFafqyokcCrxiQIUMVJ01bSegkzAeCYGWUqYEsaKowPaGTTQwhDsfPU9Dtwkys50hB-lq5Oiksopu2OGZf73T424orshKi7-dcp2uxKYqnPiJjkkSHZLfrCASpg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110721074897042602056\">Mercedes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fuOEskHZAzjMwNVJXJ49jjuVkn9PW1DhRbxeVvqU4CAlvodUv93nRN1mm8vucGFWW0Rv0Q6rARDc60bO7XtrD2xqNONRSWxe6nhk5ESfr0gtG7v8D6BXfP-uuqEUOBpamWxmT9PufM5zSvQKpJ3fPFwhYf5ZJjP9jz1XHfpz_gYHKxOnNSNolNvkWAgev_4eRyDRzC-3P5O9yD1YwJ-ohKQWGaDtN4MITctJrdPfL68wglTlV07K2abBue4SSNClRgpNUU10aZvMjJtKdblKrpJAzUG1ODx6Q-2oUSdzeQAqktr78jopRQvxOd5bR23uvDRs6de8nf5Fm07RsRRuxeq8bLR6mZe0M-hFj3JyK7Ih2gB8sgwNdF1AnyOhCI5oFpmrAwguTajlqmy4uNm7FFYpTEbLeqAYUepJtiHFBuZlkKwC4vKRiQfKHxJuYB",
+      "width": 4284,
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102692628865605193066\">Lilly Nathan Anandan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f7CVWKyQyhy7UPzt2wgH84vOmWy48GK6bhHb9QjVj4dfBWG8iPJ3VJqLAY9GcJRP1LvQFljocMB-6ZJP_HRyqkFQxskYA7EJ8-1waOY995yWsYU_wxdFQ_UpZU8_bhNfieF0xDajS-5GCtFzgtEsGE1AGzTxOjmvV2SJAR7n7_RorPE0-S3_eyDHyIW1MABQqQn7QL4ibg9vVBcCaEBoEogQmIn2TKvXZcu4sMkzjyU28s8ziZD4FZ7aBjjelqJHV1a4hsgTd6uGICcKLBzafjfUeO_-jnXS_3PN8stej2laOkHYV9uPCBsVm0DeDbUR7KhxuSvu4iehWni2hPV-bThDho-spdUCL26M29jRFVX0cnLsn1wunQnWpm6Vw96ME2B76IJE3FD2MGBdIRFewJ7APOsERbEjABeCCERsE",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101658221419283267093\">Allison Vennerberg</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fVF3Y5ohqyRYFoQ3REz5FwpXRJOZ8ipNrPKzG6H99Fu8HxvErFCFBkXI_yoXW-xYu1lCM-OXaSTZo8_M53Ympq6iJfUDEDjSDnlCSfFe3mhRqRGiWxr4CWWOXfEj0KpWP-2LlEU4gAubyL3WqXQGEySS8YcqngKYKYNBvT1TROgEZnIP8GwB5TRW90S9eqVg2Y2GOjNZxBHb2Ykvfk9RvAE_3cLRhKXbwrGzLDZ8mFtzSDFNxhV7SjgsNSR7MNtVZkHSJeuK2CcO_3-Tx-vjSmbMeK5BbDZSjSVIDQbruTUw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115537772948869515630\">Gymkhana</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1E8KBQZ2ACwuYRNxQwJEXklcZKTjjjpIzh47Fzka3OmGDUfR6CwPdOHluXvwbaFJGtp42G4w5WvUDR6TnhyZE4lF75c02kBWAtmULTs7Xyc3sLgusr6R5oReuOwlxgDt_1luEq_pfzto1pQNYHoo7wBm1H88eOpz0u_D3Eo3a3FKd7RyDENnOSYwxBH7zjZqS5fIf9wFCgLDtjMVnedsXEUhSYeAKwEvZPz7F-ZE1tDuUqZFdyX1Au_DkVNUUxigEhhlBB5uwlPztKJIfDstuW8Uf1L71VaowMb5YkNaqfHYwM_7q6X7C9HVtYmCDSqnrKibj5M_putEkfYyXNG44S-lY_gjefrl3mxSXHKp8Kt3GQvqkGorZmRMxBlTVHIBv1PDNTPul6ruJQkFuTIvgDeCH--P3kDoDBg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105939617326618603051\">Anshul Kapoor</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Tandoor oven roasts, sigri charcoal grills and seasonal curries at Raj-era themed Indian restaurant.",
+  "reviews": [
+    {
+      "author_name": "Anandu Nandan",
+      "rating": 4,
+      "text": "We visited Gymkhana for lunch and opted for the lunch set menu for two. The portions were generous and perfect for sharing, which is clearly the core part of the lunch set menu concept.\n\nThe butter chicken was rich and flavourful, and the bread basket complemented everything beautifully. The aloo chaat starter was another highlight incredibly tasty and the perfect way to start the meal.\n\nWe also tried the Goat Methi Keema and Salmon Tikka, which were slightly saltier than our preference not bad by any means, but we personally prefer a milder seasoning. The Falooda dessert was decent but not particularly memorable compared to the rest of the dishes. For that reason, we would rate the food 4/5 overall, while still acknowledging that several dishes were outstanding.\n\nThe atmosphere was warm and inviting, and the staff were exceptionally friendly and attentive. They took the time to explain each dish as it was served, which added a thoughtful touch to the whole experience. We were there for a birthday celebration and to our surprise, they brought out a birthday cake and a greeting card such a lovely gesture!\n\nOverall, we left very happy. Great food, great service and a memorable experience. It is slightly on the expensive side, but definitely worth trying at least once. Highly recommended!",
+      "time": 1760093213,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Lilly Nathan Anandan",
+      "rating": 5,
+      "text": "We had an absolutely wonderful experience! The food was simply amazing — every dish was full of flavor and beautifully presented. The ambiance made the whole experience even better, with a warm and inviting atmosphere that felt both elegant and comfortable. What truly stood out was the service — the staff were attentive, friendly, and went out of their way to make sure everything was perfect. A truly memorable dining experience that I’d love to repeat! A very special thank you to Kishor, who made our dining experience truly memorable and worth visiting the restaurant.",
+      "time": 1756151193,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Abhishek Tripathi",
+      "rating": 4,
+      "text": "Gymkhana was a good experience and some food items were really tasty as well. Loved their beet root pao and aloo chaat. The desserts were delicious too. Loved the kheer.\n\nWe were seated in the Vault dining area and the service was top notch. Vaibhav\nwas an amazing host and took great care of us and offered valuable recommendations too.\nThe quantity of the portions was also great. I did not expect the portions to be this bigat a Michelin restaurant, but was pleasantly surprised.\n\nWhy the 4 stars?\n\nI was expecting a bit more visual appeal from both the food and drinks, especially considering the two-star rating. The plating felt quite ordinary to me.\nAlso, didn't feel value for money given their expensive prices.\n\nOverall a good experience though and would recommend everyone to try once at least.",
+      "time": 1753540805,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Neil Powers",
+      "rating": 5,
+      "text": "We visited on London's hottest weekend as a treat for my son's birthday and it was our first ever visit to a 2 star Michelin restaurant.\nWe wasn't disappointed and it was an amazing experience from the moment we walked through the door.\n\nService was 5⭐, attentive, but not over intrusive. We were offered to have the menu explained to us, but we all ready knew what we would order.\n\nWe ordered Gol Guppas to share and for main, it was signature Butter Chicken, Lamb Chops, Boiled Rice & Onion & Chilli Salad.\n\nThe food overall was amazing especially the Lamb Chops, which were medium cooked and so tender. Butter Chicken was mild, so we would have preferred a little more \"spice heat\" but that's our personal preference. Rice was just normal boiled plain rice but was okay and the Onion & Chilli Salad was fantastic too.\n\nA big thanks for the complementary Venison Keema Naan, again lovely but very rich taste as you would expect from venison.\n\nIt was a lovely surprise at the end when my son received a Happy Birthday treat, which made our night more special.\n\nI've seen other reviews about people saying they felt they were being rushed. But for us, that was not the case, even though it was a busy early evening service, so we felt relaxed with very friendly and knowledgeable staff 😊",
+      "time": 1757271290,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Charles Gabriel",
+      "rating": 5,
+      "text": "We had an exceptional meal and were throughly looked after from pre dinner drinks at 42 to the full dining experience as well as a thoughtful dessert brought out as a surprise for my wife’s birthday . Our waiter helped us order the perfect amount of food, whilst making sure we had a rounded variety of dishes. We were blown away with the flavour in the dishes and also the generosity of the portions.\n\nThe sommelier was equally excellent at providing help if needed and ensuring our glasses were never empty.\n\nThe overall ambience of the restaurant was perfect,  there was a real buzz and energy to the restaurant\n\nThe Lasooni Wild Tiger Prawns and the Tandoori Chicken were exceptional",
+      "time": 1759766509,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:14.142Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwn55ikFdkgRAvOuPIWeLM0"
+}

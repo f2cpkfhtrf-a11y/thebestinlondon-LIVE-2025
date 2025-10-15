@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJUVpiHw4FdkgRhaVzblAKruI",
+  "name": "Violas - Restaurant in Covent Garden",
+  "formatted_address": "38 Tavistock St, London WC2E 7PB, UK",
+  "vicinity": "38 Tavistock St, London",
+  "rating": 4.3,
+  "user_ratings_total": 1379,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5122345,
+      "lng": -0.1199896
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5136201802915,
+        "lng": -0.118684869708498
+      },
+      "southwest": {
+        "lat": 51.5109222197085,
+        "lng": -0.121382830291502
+      }
+    }
+  },
+  "lat": 51.5122345,
+  "lng": -0.1199896,
+  "formatted_phone_number": "020 7240 9388",
+  "international_phone_number": "+44 20 7240 9388",
+  "website": "https://www.violas.co.uk/",
+  "url": "https://maps.google.com/?cid=16334004239086101893",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 8:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dPIyfRbBjMWhwe4FyPHzQaXk6c7iwNMGUJJ0Nm2CcErKZud3sOxLEGx-ij2uA-SVdczA7hp08mtRUvtV0JCps-7DnTqhX-BxreC3kLwjiLr-sJC-zznxB9W8_RBl-CW5MCwBoLTqpwUw0wqTgH9JNPt9pUBEzvAErNMLVn867YLIaQVKNK31aU4d35NrKPotH52pxWzuUX-saPId_u5_h5JgAVlG42yDwkPI85pfzCGedLrBB9xhI_sogieSyk6w3K-G1YXA7a0tSnvoJHLCxU6q5FKlPxp97LnzhqqDhZfINwGObJknyIccBR9XVAvZYHT5AaZiqbCYEzaapaT_zaTa6PrcXzF658aQu3hWVr4nMjoxmPiKaYr4UicNu7IJdhszaM8bknpbyfrPMSooJ6fDZ1Ex8w4eYdDBsN7M-XNcwN",
+      "width": 1152,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113315079428151280034\">Catlis2102</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eEuQ09Zwws_K1brMn4VHUBlsgpgoAQnATVTgVvUgrUAHihMTPTQ1xN42bYaiOOeq3MvW1T8x9Mx8ceKWmxkgDfoTdzhJ6hi5VX2KkH2looXUsog-HMzcEfscL0gWyhNmOgkzLeDDY8t-BecPkwFadPv4AbsR-HUFi3Vtfv2aTOymns92jX31S1UnKVCZnXH6ZCmZW9K7OdIQmYN9o4F3D6Zivg6CXTbxyVQXsrr8urk5hEqkMD6kL7jrS7G47Wzhtip6-04lf1lu55yUsks3YAv4XoR3H5Rc0YqwP_fl5UnQ",
+      "width": 3199,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105355744384275036871\">Violas - Restaurant in Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMqdX5nnAIRoYzpRrywQUz-1ScVgi_RBPIfEqqk_BMD0rkv3EY2l9WaMBmPoMIBYNxM5I2M-cjy81N2RrHgj8pqASy3X001wC6c-D8bxOlf3yNibkCD5gv_ITNqnq2rhf2Ch0_nFmvJa0QDrpX6k-asKR0rt5LcC3I_GnS6_u2oOOxss9wUfDEVuyvO0_t7tIMgAYmw5RbXihuQsqzL6paee673ktyLBiZNS467EmSm7071Z5b_OOdlGZdgsVMjesJ8K7PJx82t73-R6BsRrVbHv6_UWZE74mt5A1l8vqZLGdFM30cPkvJWxdmlV9ohpZ_43rf3ZbP3lyt0VarlgsgXwM4sR_lPFRhC9KnkT3mOBLQhdnimHBXV2ab2XDyYTDwZcu4R9so62bBHbFSksHqStzX1qLGs7_fzMt78x4",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115709120365940946595\">darinella georgieva</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fcyba7NObzLgMql-VMqKnhd_M7dIEkE-Z7NQu-nKxnSbc73gLreOQuzT_cir3r_wvVX2SaQZHcGtMZoyRzDxuhiV069kAESDjFrfevLoAsNSW0WFWgzoS3KD5pGD5AwDUE3xcpwwaWjm5WK0wrA1EYQc2DYR3JfcBwh8aR4t--Ck-l6xZKvwuvtkQUyyNj91aIAf42naXWCE6ASUPxzIVIMS2gFLn7yARn_P1jXdyVczbcVQYqhxTW8s3G_6KqjoZn-dFgMUDOyNwZN_lmpnKEuA5C4B1mTIRYZWdt1hdDBXJRlo1kMfeVbiOHDpTSAeUgkC6NxBFXXht6JvM430R5YuJoaQBRvhT4ObOJElCO9t0yt-KmMwQdBcaWdMLiAnnbSxA5ZwC8VSYeoBZvA-6n3UhBdJ3m9CVYnfNfZAQWAtLp",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113845852156974699391\">Vanessa Hochholdinger</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dSLWRoOAbWJYKi8ZOKnK2-MeJ_bcIQcQ_axrAiBXc9jzNvKiaV5ch4kFjvvI1-yfguhAaSRKwkJVrBmlJx74SxNuzpkxHPMfL2dUQRC94qP4jfLH8zSuoZC2d-qsT2lnJ8lhewz4DUGcNfyaIq2_jaOyOMBZShTvf9PAXirmhTm6iWm-L4otKYwtzDOR1ucVFRRsA3Rl1dNa-YDoyoeZeDq6sEvzIK8FhuxJlevRa3ynjjToIiVjBB8gMnBQQoL2KT6HQbzoS9aRU2rgdI29XO-W0-Rdzqh5R_VoIhnAHKYWaoqk5zVbfb1_vNCu7kd1PMckVbEpZ3yUe15BESjRlaB1lhSOGlDVpwFqBdq_z53qNjxZ5q7g2pbv6n0UUTfKjvPtIKDVrHLGWzmpNVTxdaYhsdNU90dy4Ww5EBotTWdVZ089WltikabjhomC6Z",
+      "width": 1600,
+      "height": 2133,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117009603823193224020\">Kerrie Kaufmann</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFPkaB7e4x-ETNIE_kqRkik6GUl_5mIgKS3JyweU3PaY_m0QF1p53Kp0_pXenBk4IJU6VieNR2mpz7xwrzrlRqCVy4TMjq0TOjJp1ZrzjFVjB7gBGoJplWdgUgy8GcwC8KeUTbiS_-1nFd9e9-j73it3_bMCciJwWHTRHdwFJkYDu0KVeQskBam_RAn0e5T2O1ctShRujrP4_PYVRZ9bOioYDS2MaxzrJZ_DKR8QA72p3b42aUytDgW3YrQcfcScOvvuKgTM9EEpmkVFxd5qwsgfLSm6T_zdasVkjNZaemPzGHeUXHG7LtWm3-UjpWOMTDnZv62xxwzK1WBk-Hfgs97CI1-ImaMDfc0Ji4C70KmvwaJHYk6qhQaJr7-b4qU9UNpXRrAmEKLIJozaY5UF1BQLXR2-DTYZWMs_rWpmhkGYI",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106653162237052682983\">Rashmi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ehlAXx_fpDTLHQT9WM67bQDQTDxRVGP2YMcWMHP-E1MhRuaGzFk68icR2zmgXNQ91wbHdhVnkoTLG5dtb_ifP9nn0qn98esFFwVShJtBkvAhQW6EJuVIXSVoMJ2tFEd5VwVFd4u-7A-YAAzHNcx0XTtEmFvhEwACnoyQ3T72nn7w0WSfAzQK3e8zt8IfXZ5PlrmLEg41eHwdZaGJFXx9q-CcF6ELVIKXTiTKP7p66Dyn--8WezOiLMEwKSyKYnlNvdoxJFTjGJjYY6xU7Wk52rj0fVaPNw2Eymh8NKXPLgjcUfFSJAl8T34_gx3F9ndSQ-H5Ghr6XfOHz1goJGFbuNf6TaUX_eRAxneah6dGcfU1c8rKR_a0eN2QbAFNikdTd1xf2WAvA-Hj8G8Mbooi3AuTdckdItdx4ixNkmrodwwA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117899724709870757247\">Kaytie Lee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1GHx97hCo3ekEko-XO_iEgV_JjUhiMWHYBfK038mgxlu5iHGR0hPIlzOkE7g0JCkrsBPLKF2rsCm3XlaSBhn-Fu_MPV23NWqEu2qkzzvTX-zn29o0ABdwCei8yM4ZWa0a13L4XxTxAdeDt2-5raN4JtiKAzUW5QNNX0aJvrtWkFvec0lzVcR0HkvST4Nr13zkQ5QTdPz2ABjydAfFAD2l990mPUhF8lZNGeQ_RHz0YyEiRdpg7Zz2SacWIVlKqDr59AqzlWHys0RRQVx9W4cxVPgMvin42ZDMdKjH8jAjeY-PnSJC6G1G-X_7Tjj_-6M82BiOuBFqn8rG39sOn1sYwhUVklDndhXmvI06bBJ1PzbwmfC19OiE0jba0GpRjyKAdU5EJg0O71JGoKrF5EKypfEX9o_LdwpGVc9_2fk",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106653162237052682983\">Rashmi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d7c71_DiaOgLLCny2_fvHmJCeNV7z4JJH8J0TFRoxn9rADiq7eD0szGMGkqPbiE06cILFSzpDQH_Al5LvduJOtGhZy0QXQ-msL5MELCY96-PKLWvs3wtz16044nmzP0t-2J3AppYlwHvEeLuaGq8jfLKE_v6qHogn69Qa0PjlYHi-ePpEAyDhFQHxy0MfB9sdEAEBS-fKHB5K2AzVpNM9NOA9KXUU4AN6TEShtUUDpumg_y1CO3qi93Y62KX-LKMSa6Gh28z_LgjoTPT0NBIdaR4EVWOrfxxG9Q9GYi8WetlTRDKVOqJvwjO80YH0p2ogVICkcHRiv7s-yrTcB01oeroJaarSn3OlNlXkv6_7gedkchwNfYQukd99Yq0XewlOJShcxPczOOciUu5c0XVcXUdhmMzvQPsH3mewWiKtt8A",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107763979672635219294\">Sanober</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxCOxScj0jmE_HFmUODO5TUR1ifB3XRAvQRlsSWooY3NZolRZTm6Vbc6iuj2fOblwghQ98ztxXkDO771a7NkJDwVLw8tI_KM0_WFoRNStAc1-v9vG-XvdRdmXAU19k2WrLB0EjU3FMwz9rAw8r7-UjgMFRfZC3O5TQFABCzGpXNjuAHHnGI-YujyTt3SuhZNyrkzBiYWGrzv1InGubv3knSZz4YM6pkmqHGfbJhRd5vV_zKLYwu3e58cDDLtKJnraQKY1Qp88aZkWwhv_CPvcDiG8qGXn-k7RT1gnxfgBsvSshUhvNC5euIFEHc_luSaoa8ZQnAapTJjYBDo5FoUIelyxjKGhvSsrRA-sRcSd8URvbUSMMuupen8fjaZI0BHWXPddGt_Za7bRy5cjy5vUVkwJzdDQOJlEJu9VHJXBHw7Y_VxH2t7vyGgGsTPGe",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107082750887469594995\">vb</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Kerrie Kaufmann",
+      "rating": 5,
+      "text": "Super cute place!!  I brought a group of 7 here and we loved the food!  Prices were reasonable.\nI did the 3 food items for 29£ along with a blue matcha.  It was all delicious.  The Covent Gardens is a cute area to walk around before or after the meal.",
+      "time": 1759776804,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Laura Poulson",
+      "rating": 2,
+      "text": "Food is lovely - but it's hugely let down by the service and the atmosphere.\n1 in 1 out feeling... squeezed in like sardines... waited for what felt like a lifetime and ended up having to ask the waitress to take our order...\nDespite prebooking and explaining we were there to celebrate a 3 generational birthday, there was zero extra attention.\nWhen we asked for the bill we weren't really asked if we had a good time... yet the table next to us had a conversation...\nThe tables were packed in, would absolutely not be considered accessible. If you're plus size, expect to feel very awkward trying to get in/out of your table or in the restaurant at all!!\nFlowers were pretty..... 🤷‍♀️\nFood was pretty and tasty... so credit to the chefs/cooks. But unfortunately, let down by everything else...",
+      "time": 1758456404,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Tara Bliss",
+      "rating": 5,
+      "text": "Absolutely amazing food and cocktails here. The staff were amazing and helped recommend dishes. Especially Julia, she went above and beyond to make our experience amazing. The decoration of the restaurant is beautiful it's perfect for pic's with your loved ones, friends and family ❤️ thank you for a wonderful experience. We are heading back now for breakfast 😋",
+      "time": 1756807761,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Przemek Tuliszka",
+      "rating": 3,
+      "text": "Popped in on a Saturday afternoon, just the two of us. We didn’t have to wait for a table, were seated quickly which was nice. Service was alright, food was decent, and prices were fair – nothing to complain about really.\n\nWe mainly came here to try the famous Pink Latte – spoiler alert: there’s no actual coffee in it! But to be fair, it looks lovely and actually tastes quite nice too.\n\nWould I come here again just for this? Probably not. In this part of London there’s loads of choice, so to stand out, a place really needs to be something special… and this felt more like a one-time visit.\n\nWorth trying once, but not a must-return.",
+      "time": 1748154425,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Kirsty Pittaway",
+      "rating": 3,
+      "text": "I will start off with that no complaints about the food or staff. Food was lovely, even if a little overly priced, and the pistachio ice cream latte was amazing.\nStaff were friendly, and a couple of issues did arise for us that they rectified very quickly.\nNow to the reason for the 3 stars. Albeit we went on a Saturday afternoon, we did book a table. Inside is tiny, and it appears to now just be a cash grab with how many people they try to squeeze in. I literally knocked elbows with the bookings either side of where I was sitting, and to get in and out I had to duck under some of the fake flowers to get to my seat.\nA review of how many people are sag may be needed, as the atmosphere really let the experience down.",
+      "time": 1758451270,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:59.284Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVpiHw4FdkgRhaVzblAKruI"
+}

@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJa1ukL80EdkgRhI1r9wFYz4g",
+  "name": "Monmouth Coffee Company",
+  "formatted_address": "27 Monmouth St, London WC2H 9EU, UK",
+  "vicinity": "The Riverside Bldg, 27 Monmouth St, London",
+  "rating": 4.5,
+  "user_ratings_total": 3508,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5143891,
+      "lng": -0.1268041
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5157269802915,
+        "lng": -0.125519519708498
+      },
+      "southwest": {
+        "lat": 51.5130290197085,
+        "lng": -0.128217480291502
+      }
+    }
+  },
+  "lat": 51.5143891,
+  "lng": -0.1268041,
+  "formatted_phone_number": "020 7232 3010",
+  "international_phone_number": "+44 20 7232 3010",
+  "website": "http://www.monmouthcoffee.co.uk/",
+  "url": "https://maps.google.com/?cid=9858194874806537604",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c_GzgaDQRf5oCFJKsIaK2o5biRhxTxGpZEiorgFt2erWNQjPltHWpHlntbreXRkm8jA2sybT39h9NWuSJainLvASshTB-rSTsOhdf4wR6yQLTS_Y8ZJT4KQTOjFAL9txv2cAaJ-LLpDOQGQ04Rm8eQmzVIWTKEbXc8BetiYbm1POp0yU2AHe4hx7OleXatucW3AD9bs-z77XBoEkXLrwJxVTT4IIBx1uPhCLyBy0a94Y8ph5IMcxn8UZ4EobYdQ4MDscGvAeTZPrzgcE0MstuSrVEQLS0NcZ83DGhIhea6Xw",
+      "width": 1000,
+      "height": 637,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114545210718585244363\">Monmouth Coffee Company</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZvvz-sGsPVxyfEz5JCOKvosU3P2Q6TgHc3mr0yJ-IXCFpp-e7Iya0kONnbHs1IdZgJcd1kn4ubL2AxNkJYS-wppFWOGygPwsjrjYisUjMgFyXmKIulm2heJPRXK-kbFNTbTWiPYPb74KWDX5Lk28yX44gtsE5hnvqyXtlWLzIaX6rr4KfdJj1mvMDTm2z9OHn_G-TzleLDY9dU1W4c8fFbyMbPud0xv-8b7HJlvWkzGV-RNVuG1cq-wouEbWW5XW9elCVk-gYAFDu32k6xWEZ99wVewTbEQQWyDTVvToQuMyD0CA7nqvhOBoCJgPLhdSjRqXXr6hX75Ig6rVksunpSdLtxMAZg3CFPx1uAkYZnOeIJvjvIWgjSdWLvEuwuq_7F5JfXyR_I9weUhGYEzKPy1uLDQX4e5m2Fv1NofU",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101762692935950658263\">Maras Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d2rlvljjL84RD5_96LsnR4KXgMnlAgZTNdvzYDlnN19n5Pq2lmAMOja-kJPDdNSDCtCi6LRjVscm2eXEBIsHIOIU5ynIkRR0GO_eFzRsvNJPkNN9SYFb35YM3LP7vvPHdovQdZ1xOUUhtObfYnUQrskxWJ30v8YN5j0wB0FjMk_AfcMAwoE3deC-KQP8eB8LDlFMp8A3q_ELnN2iDe4i-iidX9Hs4ioXVfz1MtqMAfFmfHbyI6fg9YeyFpj8OnuPd7jUvJPCyTiygnrc0bzWTuM7g6r3XPETrqPzy32ByuoUt4-ptqgBVzxqUIF7JY8_DFRVugJ-lLPRR3Jl3QRImPhtaOHUB0SL-y_bAiaV8YsgI0rbFsxFBYOqtq2I_mWtYswvS4E5JLWLbCH9RZqB01cejeZkyQiMOdi1hkTQgVFeFP0_GbjsCiFkrffF5L",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104953681627026940367\">O</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fO14kPN7NLFC1Fo5GQb5vuBPL8tAa6gnkvA6YqafpeevD-d8YiRsTFsvjiTz53dsCW7UqExEcyTFZqY1CI3XKJdV3MRZMmfzVUPFT7jfoxAG71s3V4jQkJHINeNzDTlGKBfPilef_4CeKbisO3S3O7-vQ_wqiZ4Is8DvVrE86o1m6TrOjS7v1J6y3vMbmpymbOyd9gP0paE1NUEuPr3Bg2tKQY_P7GNntCou5oHbeqMSugjlREMMfSZ1GeQlbfPN-vwBkCXMsGq1iTobIVX4pfAGD8K04ZqTcqqH5KICf9rZafQp2yLLzYGo9oibqyB4OZDbvzLBtt_LqvjBhTtePFEXwZJMkri8sUZq51gOdBRxg38iMR3UnLvGhJSKBuQr2Y_5fuSUT0YBYMcehXo2ZVMCwSgezeUk2QLgEEExl9hppTiu3-zTBrHJTmaLwV",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105496664564047858626\">Saim Salman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6AQ64RvOOrnHBBfIEunAzoQC9PFqN4P90YRQiEKiO1M6EeF1H5X82o6t9xR0sKpqEkJc8qjFoJWIMvWSRy3zWjxRE2ZjCmUjI1tvYgiydkXdx_aacpS57V3vIFkv4MRXAI4M6pBqHAIH52ZoAs9mp01c4OKu8KnqHu9TeGA730NAGepg1GY4pJrsnt9ZAUz0k-0obQ6E0GVUgCoC6fbknHHDEmitLpVBuJVU60gE8XjIfrr3VjoyEbD-2ZH_-7hP4MMODePZZku9sls-p4eR7Y2JFoKWebZfuNPZw9CGwMKI6OJN0L5K6lddnLpdXA9kdNqR7qRR55wC7Xca3pGKfKmcVHZ5POwA1N2aiFRmEx46MymliaBMdRldCM3S5-FKc_YvtEDsYNwAxs_9ZLsZqRbiFlBaVE39XPr8N3SJ9eA6CEpxfdbZ7g5Qs7Pkh",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116731661870085436826\">Heo jaeyoung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjV8h2Chpev8lBh62DazQp8OelfdyWYbhKxJAh6-zj2cOu4StjZ3dziCqhiyWe-Mc7Oq9G9W5yA71A1-gNwbo4d3y_ws1w-VCikqWQgHBrJslSxNNahCWiIj0CqOohNR7ICYdF16kNWMtAFY0F6Qe-OjZLKGl-o87PGu6CLf-fPP2EhLwO-dwRZD4uoKfRlwI3RVndn1hMJRWaHsB5UHqGhgSMBBmmw8A0u45lF8ni5DvS-HqShYlgpXmLy3f829R9B6RBo-JQ1TBCXCe3_WZx7N7IJGFymc7B28JjEZWJ5kbgXCYcMJxkuVV3BFmxnz7Z41UZOJBftwX-kYqdlHPWYcdanZnV-wZgv-FtZ87PVNcmKn35ToGiVkKYX5W7DKYxnLRo2bjCzg_PJjMbPM6MWxH4GJgPv6WobSZ2xwHPYpcL",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101762692935950658263\">Maras Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fpzyz32xR29NzNwUvBeJG-K03aiClGsoSQ1d7kcWbEA8WwO0iuY-hMr9US5FWzGQBLRQ49CdVTCAHYdqKLAqDuRzeibDv7asSZYTLm-xLaGiF2NBvWWmrkcgkZdAineHQB74cBOB4Fv9Q7QAGua8mXGCFNwlQxrojeOL32zlY-lKrckHju8eI_0kxnSbCM4OIj3avqIjMuTSHBJrtVvx9tGDTiC-U809D76TM2wmjculGFvz74zm3-xVKf5rQ-R69W2IhZgUWzSy-b6a4OsE65Fp8cB7hPxcZ_jXY8QQsZOTqX5LDTiUq7yG0pj6hg412gcmCQzO8oKH2TmeuoSyN_7i4bB7BHgvflLNoTtBObYXRq2IB8H-8BK4AW3Z4fh9dU0055qv8c-Dy6DT-CEF7SaD_QL5KDaSx2d_6cYDQWh69M",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101597484841229205770\">Flo Yeow</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2euRu1PywTW-sUrJdeTypGHF036sIHCVW5eP3TkDWhGKs-IiJ9OE81NDrtHCXePyX4lfhHPyWSsPsDcRkpkBy5HERiIMo7WN0KDLWLkbrOSwfpBXjVsOAWFv2b_1nHSHUJ-o1UppyGfL69K6BCOzWHSeLICQPRajuSCywMkCmp8eCvWgFXsHYG5y0DeHx0egRd8KkL3KtMclm-eCL1JoY9f33OZ6DI-yhKfm9yMo0rygraYaPR7dkwUeEtcFpF28cT4X4wKDKUIfmYBt7k-DQqqV8YOJ-2j0GDICz-qEn7Uso81azSF7L9xfQt0NBS-g5sLJR-ZQpPIl2abFA-uEqnt5uWfQKuC7yekdZr03n-ZkuFDQyvil7xjHY2kyTkpj_sVKo05MdspkW2LD46xKdtpzMGdo8tzD2oVHBb_Ad8h7g",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108161608948140203507\">SHINGO STAR</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dfDEQ9HC7peO1CJU5FyopMOcOmqOLy4Tw1lB4lY3-gKMziH0bpBR9i7IPhuueer1nRL0snlwXtVz2IkCD4FpXQ9F0yLljMZZOH-U57Tza4UcZvuwd2JlkYzzO56iAxTLZ9zKWJm4ECtNApHH7BWIC-iMhwKXE6J-Au_t0FQnImNqm2QBfEKx0INpKtHVujv90_btRcyrqtHp7vo48yAD2ZWIytWUqph5asbv9cNUsgyCjgN5sJiddhUuKkn0e7kh55QxYGxed6bCf9S_nSwiOTV9EjZXPbggWobbySApSyM_pSH3HWd8RpWzUXnP8YtQHO_D_PGR4T4zXBRHGzyIMdFLHO74fLiUs5FYTypQhRerjVMKadpIC-y0oJjYS_l1PcWJlIPWZBNuEYBO0q0vdcEzZKqB6WAJKJVuJDLjPGtKKK",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103338857310808467719\">keiji jdeen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fC-02y7_oYma0g1M9Kwwy829Z8AbquKaGwX2GpSeA_3zW9yCTURlNgLprW7nGmfX-kNuktmTkkGkhrHSQWuj2HU-EQBF24zU32-mx2tLIU9JTHaNrV7LshV7I0tveF_PF8KfepKyz7OPs2JLWJUgZJmTXwVhchWOI45iSGwD6dfxfb6G2ZVIh5gkRmyWfR1MlSA50mjx1ShP4MpkfDDn6LKlriwc6DKj2f-Amlh0H4Ta6JK4Xifk4kQ5CXPZCzDP9kc13Sw8KAS2vq60Stgf3XtY6Qmd86GszkHnXl9aw5pDS1YlGvnby5vJHAg5x86vGjkhBHQHtZ7lohXym7HZGl6cpPRCY2fyftFeFXSJZCmSD3csJ9itncRkzC1gh_W-Gm6E0OiMPtcj37W0yVbJzmnDTMMtu7FFlbwha6LY79jhFj",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116394962668702609187\">L L</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Fair-trade coffee & gourmet treats in the cafe & whole or freshly ground beans bagged to take home.",
+  "reviews": [
+    {
+      "author_name": "Arwa AlBuraikan",
+      "rating": 4,
+      "text": "Loved the coffee. I tried it iced and hot and loved it in both ways. It wouldn’t be my go to place though as they don’t offer disposable cups. Also make sure to go in a good weather as most of their seats are outdoor.",
+      "time": 1759579373,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "R AY",
+      "rating": 4,
+      "text": "Their flat white looks good and smooth, coffee aroma isn't strong enough for me. The pain au chocolat looks tasty but not crispy enough.",
+      "time": 1759503785,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Dennis check",
+      "rating": 4,
+      "text": "Flagship of the coffee place. Almost a must have for me each time when I am in London. No complaints, seats are scarce but they are very fast available if you are sharp!\n\nAsk the Barista for the coffee recommendations. Iced or hot. I have tried them all. I am usually at the Borough Market branch.",
+      "time": 1759229198,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Eteri Plieva",
+      "rating": 5,
+      "text": "Hands down, the best coffee in London! I’ve been coming here for over a decade and it never disappoints. Friendly people, amazing smell, and consistently great coffee. Highly recommend!",
+      "time": 1760019689,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "A Fowles",
+      "rating": 5,
+      "text": "Very well made coffee but busy.\n\nThe cafe itself should feel relaxed and laid back - the decor gives it that feeling. It doesn’t though due to how many people queue. It feels quite busy and not somewhere you can easily relax. If you can get over that though they do make an excellent coffee, worth the hype!",
+      "time": 1754305977,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:21.276Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1ukL80EdkgRhI1r9wFYz4g"
+}

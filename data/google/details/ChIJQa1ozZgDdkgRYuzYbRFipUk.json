@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJQa1ozZgDdkgRYuzYbRFipUk",
+  "name": "COCO Canary Wharf - Restaurant & Lounge",
+  "formatted_address": "West India Quay, 14 Hertsmere Rd, London E14 4AF, UK",
+  "vicinity": "West India Quay, 14 Hertsmere Rd, London",
+  "rating": 4.6,
+  "user_ratings_total": 6337,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5072373,
+      "lng": -0.0230576
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5088142302915,
+        "lng": -0.02165026970849798
+      },
+      "southwest": {
+        "lat": 51.5061162697085,
+        "lng": -0.02434823029150203
+      }
+    }
+  },
+  "lat": 51.5072373,
+  "lng": -0.0230576,
+  "formatted_phone_number": "020 7005 0862",
+  "international_phone_number": "+44 20 7005 0862",
+  "website": "https://www.coco-restaurants.com/CanaryWharf/index.html",
+  "url": "https://maps.google.com/?cid=5306755562922896482",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:30 – 11:30 PM",
+      "Tuesday: 12:30 – 11:30 PM",
+      "Wednesday: 12:30 – 11:30 PM",
+      "Thursday: 12:30 – 11:30 PM",
+      "Friday: 12:30 – 11:30 PM",
+      "Saturday: 12:30 – 11:30 PM",
+      "Sunday: 12:30 – 11:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "day": 0,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2330"
+        },
+        "open": {
+          "day": 1,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1230"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dAomzNpi3-Hw4eZcsOb12K_e-fBafIAmH43s4QTv9eDFzRJIYt9C5JShdv-eQimcnMNeeVrNDb0B6BYxjjNzkGe3cEdDBfWqUXOQ1OZM9GiCs3ttik0-TfRiYC3hZDXqP-d837EjHhA6HORvsRZbxCFr0Wmz_chHD5Qvnav_DGq69-8pmkT0hO2EftoBd6HzVumKSmPC21905z3GAnD_zIpNF3A62G1P89gMbmCvM_hKrXJHyLJmjBRR-yW5z4iHDsqt0TAbrDqTvL4UhMntbL03xOzF6MV6W5gdniaGt2BQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110623808660464472466\">COCO Canary Wharf - Restaurant &amp; Lounge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2deVkJgCGU3kjj1IETD_V8OH-kGgupEO6Z31aHuY1lln2Zl_7Tt2CeM4AyvLtxg8CTduGp1B0zlPkDeIhTnsXLak0J-p-gSuChzpgF-GQuXqBZavRq4olJ38MupOeodM5mYb9PjvvQtp1gZ7BOpOqOnW_tXGBYzEhHkIcRZODttvvs58mAsHf5phNgXdBBo1jEBvV4FLY-dMeU6IKlwuQkIR44pfEBc0SejKswzMM8olcMs7HU8pflmxW-_uY_PY2AC64NHcYa_qNR48zHZhpjbsvsDJwITqBqFxK3N52Z9vQ",
+      "width": 1637,
+      "height": 2453,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110623808660464472466\">COCO Canary Wharf - Restaurant &amp; Lounge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dfduTgLSxGjHpChbJ9axNBStGWuZ2M-md_cW62sVbkNG1PEkQl-glnBITmdaxAkHB_d5UvkoDM28W7URYggrZW3iKPpcUyaSDhkq11OD16_7nlroJvV-KC3Ta0ymE6wnZ2fSCFOTmYuKiUMXFcAF7BB221sHs_AqY_6efPur_QqkbM0fNjsdW5B20RIkhle28DPku8F9A0oe99qNJ4Dr3bytGDnmCtvzvRH-E26oeynPi5uzQvNn19lOqkClUr_g0uNWJ8wHzB90kfvnkAxxcnMGPuQEhEdvBDmW_ZtCpdzDWsQBzFSnkdVFnGsfL43CVVLgwmOuZYkzGvunJMIYrmSJLiVREPQf3rZLyRGJo4iE1JH0Gr863KFXw_wqKMkLSNEwdCmla0Dj7rpJ0GLAlDlj3_6gtWLcaG0FNv_zGR9_LuljvSdsmPKHwzrHlJ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104514503394814825927\">Andreéa Correia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eSBtAFJlpnV1E1gpoT0rRMjceIhpd3njwLt7f8tMRXqthIRasHIrZth79H5zUTQPeN2z_3oW9QTtx0Qth192ZEiE46VdA9XxSZJHYKva3qD8NK4bchPpRgfkMN5Fjktsc7v4l8DNKQ8o7ALjoDkrNKa4Ux2C1DBd_LDE0gIZ3ni7jpT9HJGFrMyLA33xmp__FjXUHB1be-fvv2zmvKHcY7Lzb64SMeja6jfriGG3DQ58SfZw3-OKca-5jcF-XwM6Tq809EVw_axyz0LOpX1MDQUlUrE-PFGqxbIXff9qMcWA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110623808660464472466\">COCO Canary Wharf - Restaurant &amp; Lounge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJKFszobPuLdJ_AvCh4_3Zyhf-PDGBZT9qS2Ks6mp7xmwB-vjae69Cx1V5TCsgPOjMWcF0q-SGdP5skme-4G4jY9PupLdwxNZvMURuIhW0IBhheMxfuh8rJNYEB1kPr2i7zdOQERGbNrvgvZHgkElvagdxThv6dk5COBRkYJVjH_Z0GBxy4F3Tnnda_PT0SJArXrgM4HH3Cmq5YJydWySbo0U3IcC-oiqwJGnxDvKXadJdUrI4kPkoORTfqKyyrooCgXfCgtbUMEJoLIF7lPrsAFZ9_fE8bksJIgmxwv1IbinknQF--RLzmo1jSLZp-mKyKwIil_FSp20_7yHvAWOmTm-QHm_-7MV8f8WqIJJxyrhuYs9ulreiTJxkIHjRHK4zHuYLqBmWn6vDd6ec9Ax1AgwxZZhp45UGhl5BNb8fUViRAMX7thAkCTKCtK0X",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100708180967486985031\">Mollie Prince</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flJIohzuPJocimfh1RmsB91D-DkTc9UptJxWBfpT_6qn9C6Fj21K1exu1xwpnU7HkifphXiEzewMlwc7-M_6OR77PemtRo_W3mckB06tEmITpSpAz7IVHT1MnukVySVzQLjyXX3SncaxlD8sH19oy83VyMMzA5J7ZC5mrbH4M6vkffJP3J-vPNqgZ7bLS8frq2JfemGrBMk7uw10I8g5lSAy8q57wGpCXnISelbI9yMgk7DDRbpxfX2MlbJK0H6wGkj1DmU5ivHmmUPYL2sQumx20Zyu4SNvDhz5Hjc48jRanktRhumdq8HYfZ8PXfqhmLKDFa-RuDNW9JzTToOpsa1SCW_jwo4coyXjdU77SYbu34sN6Vj-Qx0O0zAB8SraKFuRUXQXjPjarZSExkBu_H2IJQnhq2-aEHUklCXJ3ZymIScjDcrhkoWD3em7wa",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118302280437660607915\">Ernest Teng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c26Y_6BewUjScihWSf2l7sD8MnxtV32sEvnmNtabs8MdpNFlruMxAKCNCa1B6JZWUPmcHnmCXG9GmeY8Eud3xMvDJXcMN-MnW2_BPrrcyKPnkqBJjoGZ-HV-qU66GdIWsKCjHpqSDyOE4xFcsmU9Vs-BFKhg3jAhq5An2xRabsKxqsYPTMQF8LVUZ5TNBa098etzLg6RJuyFoZXrZnqaNlhojMey6gzo9B9n9FJl72RyePC_zB7p-13thOL51J8DNHBkIUpmMmzwKStr8Z7QKJ68a2tnrctxNQeinxqzU8qsqTpVizRlT95hjIQKIov2J1a3NM0CPt_jJ5jfnDfKWq8VE_qDUQBLfHGciJO5MCltEakgUNhve9rm2zxKYxbsdk4qnKM0cMrdC6yNbK61DZ0e1TtbZfhwO3Uw0YgLc",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100838817282839195811\">OPSYLOPSY OPSYLOPSY</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eiPOlM-9s1w5cROrkv0oYZU_qkI6f0kwBVdJ0BaTsLAMNC02JL1OMyrIoeMiJSET8bHt2l3PZouVVFqS9DlFwkowFoH9E2o1JxdGEm-j3s2SEhTEXQsnAFAfL9YScafth0tWNyWe_C3pjycf0NeqxyTMxXJIH0tppFgCJOoGMDbsdslmLlnaSKsnhh_zisb9RfsRbJ0RlKR2IMV1yYolRK_7VdGWRuw4q51OnGVGjoGoG09_aQ2yCQIe4nqGP04MYxx7VR0mt99JH7h_SnXeCK1_0P6AkV3gtExVEr9hedGVcDgsF91IspBQec8i7e6ISLwp_YawZd0BaB6XsIS5GG3epw61IgNc2o3fuXVsTByKM0QqKuj_hAGuWrUUk-N50f1xaGua5fG5UTQfR0Hfi3GuH4WqxfWLx2RA77M892Xg7DtKuQzgOUDDSPSA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110349548148335394853\">Charmander Lee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eBOUEczaxYrnrdZXKIZFzuH7Qe4jEp-0LFL9QUwc4XBPYUg1k8xK4X1LdXDwTStkuNeF8uFCtbkBL5fXcvNEccH5U_QZsZC_pp0uP7WFi2k7r2EoyfViDKXC5gWnz6_XOA7OZjj91AGqN-m52c6c3dsHmJZiWR9WHxS5rT1kRyqls4fsq_ZdupMmqvhNyOcHD9IkM0zCKUBSEizQWaChXhHWr1bzouD7JiaVviGRHAurRBAkQpBxMqAcXCcQ8wVNN6pibDQ-1EaDhf9sMMbetzzYYlwx7tTcauO1SIdD7yPCFiFBBNFoF9nWVaod3zXXT3rS8G79qafXK39pahDRGQshFZbSJ19QhqIBjTxpnzF9t_yapKNa9BB4pnZzFkpL49OjkBNp0mX8iM2EkNoZkLuR5GSCIPHHkVnpYvYsHYlA",
+      "width": 1920,
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112822784061095666167\">Sausen Meressa</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eLoWUQ1p9hiAgOqxVhqav0C3FUjs02hTiTvVEa9EKzQoysF1LL3WPRUNSGhyq4MJezWBNGJCOj10SuafooA07bZjuePxdNddaCUjAzErNuQto_AK6hKXIl7khfmzRJCfPLOWbiJIMXLvt-jtD821WtjbHtQ4HxN_M2AgYq0dR0Djg_Hvm6AZRyQcycggcHto93QEc0yDibl-yLpfCi--4-Ro6JVe4m7Dok3osI_F6j3CnZgpTqDx4-QndiQM3hKoWxoUDrm7j6giDx_Xc-k57EdiGzcr4RRPAx5Ky0E2ZrW5Cs0j9UIjB0wxsMZ7c1sUbmHwWWJLlraEvvoYtViZv99WJZHx9dQUgxstaL8fir0IijQvHDg2pvzoREVXtcK-owb2_1Vx8VtMbC91KUpXwazuqkjYNkLPJS4aa4njnmxMs",
+      "width": 1166,
+      "height": 646,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102662075796041514292\">Quratulain Zaheer</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Andreéa Correia",
+      "rating": 5,
+      "text": "I had an amazing experience at COCO in Canary Wharf. From the moment we walked in, everything felt spotless and welcoming ! the place was absolutely clean and beautifully maintained. The service was truly five-star: attentive, friendly, and professional. We never felt like anything was missing, because everything we could possibly need was already taken care of.\n\nIt’s rare to find a restaurant where cleanliness, atmosphere, and service all come together so perfectly, but this one really exceeded my expectations. I left genuinely impressed and very happy with the whole experience. Definitely a place I would recommend to anyone visiting Canary Wharf!",
+      "time": 1759185267,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Eugenio Lukianov",
+      "rating": 5,
+      "text": "Had such a great night at Coco Shisha in Canary Wharf! 🔥\n\nThe staff were super friendly, especially Naz and Tutul – they were amazing at helping us choose dishes and made the whole experience smooth and fun\n\nWe had the lamb chops, and honestly… wow.\nSo juicy, tender and packed with flavour – highly recommend!\n\nTried the *Sunrise Glow* drink too – it's a refreshing, alcohol-free twist on a spritz 🍹✨ Perfect if you're skipping booze but still want something fun.\n\nAnd the shisha? Absolutely on point 💨 — smooth, flavourful, and beautifully presented. Definitely one of the best in London.\n\nGreat vibes, great people, great food — can’t wait to go back!",
+      "time": 1759778347,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Going Out Guide",
+      "rating": 5,
+      "text": "Had such a cute and relaxing evening at Coco in Canary Wharf! The place has a really nice atmosphere — chilled but still stylish, perfect for an evening out with friends 💫\n\nA huge thank you to Naz and Tutul who were so lovely and helpful! They guided us through the menu and made some great suggestions 💕\n\nI tried the *chicken bao* and it was so delicious — soft, flavourful and just the right amount of spice. And don’t even get me started on the cheesecake… light, creamy and honestly the perfect dessert 🍰✨\n\nFor drinks, I went with the Sunrise Glow — it’s a non-alcoholic spritz and it was so refreshing and pretty! Loved that there’s a fun alcohol-free option that still feels special 🍹\n\nWe also had shisha and it was amazing — smooth, full of flavour, and beautifully presented 💨",
+      "time": 1759782672,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Charmander Lee",
+      "rating": 5,
+      "text": "Food is quite excellent here. Starters were much more impressive than the main courses but overall there is not a single dish that we disliked. The restaurant is alcoholic free but their mocktail/“cocktails” still tasted pretty great and they do provide nonalcoholic wine. Service wise they were quite attentive, staff members are very friendly especially our server NUMAN, ADNAN TSURV. Atmosphere wise the restaurant is quite nicely decorated in the indoor area.",
+      "time": 1756064472,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Zara Shahzad",
+      "rating": 5,
+      "text": "We had the most beautiful lunch at Coco Grill. The seabass with the creamy, decadent mash potatoes and the blackcurrant halloumi were my favourite dishes - everything was so beautifully presented. The service was excellent, all the staff were so friendly and helpful - it added to our experience. The mocktails were incredible, possibly the best mocktails I’ve ever had. So yummy. Everything was incredible, thank you to the team!",
+      "time": 1758790095,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:07.208Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQa1ozZgDdkgRYuzYbRFipUk"
+}

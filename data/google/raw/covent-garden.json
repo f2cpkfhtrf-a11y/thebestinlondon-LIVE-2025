@@ -1,0 +1,374 @@
+{
+  "category": "covent-garden",
+  "query": "restaurant covent garden london",
+  "count": 11,
+  "results": [
+    {
+      "place_id": "ChIJ7a_rDcwEdkgRdiGLXlk7s-g",
+      "name": "Flat Iron Covent Garden",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 9619,
+      "formatted_address": "17-18 Henrietta St, London WC2E 8QH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5108313,
+          "lng": -0.1240827
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51221057989272,
+            "lng": -0.1227581701072778
+          },
+          "southwest": {
+            "lat": 51.50951092010728,
+            "lng": -0.1254578298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJ9WkwnL4FdkgR3HGxZ5d8Nmg",
+      "name": "Caravan Covent Garden Restaurant",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 1505,
+      "formatted_address": "30-35 Drury Ln, London WC2B 5RH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5148989,
+          "lng": -0.1227191
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51620277989272,
+            "lng": -0.1212750701072778
+          },
+          "southwest": {
+            "lat": 51.51350312010728,
+            "lng": -0.1239747298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJiVvjYX0FdkgR8wbzgP3ygJ0",
+      "name": "Gaucho Covent Garden",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1115,
+      "formatted_address": "8-9 James St, London WC2E 8BT, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5128231,
+          "lng": -0.1235271
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51426097989273,
+            "lng": -0.1221137701072778
+          },
+          "southwest": {
+            "lat": 51.51156132010728,
+            "lng": -0.1248134298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJyeTsrLoFdkgRdsewS8ne0fQ",
+      "name": "Blacklock Covent Garden",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2169,
+      "formatted_address": "16a Bedford St, London WC2E 9HE, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51069829999999,
+          "lng": -0.1245916
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51208612989272,
+            "lng": -0.1232038701072778
+          },
+          "southwest": {
+            "lat": 51.50938647010727,
+            "lng": -0.1259035298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJkWJjuc0EdkgRqL0ffd2j1aA",
+      "name": "Browns",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 7494,
+      "formatted_address": "82-84 St Martin's Ln, Greater, London WC2N 4AG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.511314,
+          "lng": -0.127275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51266662989273,
+            "lng": -0.1258489701072778
+          },
+          "southwest": {
+            "lat": 51.50996697010729,
+            "lng": -0.1285486298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJyXplTswEdkgR3Duw3R08uas",
+      "name": "Steak and Company - Covent Garden",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 3374,
+      "formatted_address": "4-6 Garrick St, London WC2E 9BH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5115937,
+          "lng": -0.1258172
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51287977989273,
+            "lng": -0.1244316701072778
+          },
+          "southwest": {
+            "lat": 51.51018012010728,
+            "lng": -0.1271313298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJxe02As0EdkgRZeOhNiEbtt8",
+      "name": "Bill's Covent Garden Restaurant",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 6172,
+      "formatted_address": "St Martin's Courtyard, Slingsby Pl, London WC2H 9EF, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51258139999999,
+          "lng": -0.1265727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51396227989272,
+            "lng": -0.1255009701072778
+          },
+          "southwest": {
+            "lat": 51.51126262010727,
+            "lng": -0.1282006298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJ9RQEoMsEdkgR7j7ThuwfQ7A",
+      "name": "Balthazar",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 4649,
+      "formatted_address": "4-6 Russell St, London WC2B 5HZ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5123979,
+          "lng": -0.1213613
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51380032989272,
+            "lng": -0.1201161201072778
+          },
+          "southwest": {
+            "lat": 51.51110067010728,
+            "lng": -0.1228157798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJB4gfLTMbdkgRLMCq8BVXFeg",
+      "name": "Da Mario Covent Garden",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1168,
+      "formatted_address": "63 Endell St, London WC2H 9AJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5150713,
+          "lng": -0.1256708
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51644587989272,
+            "lng": -0.1242825201072778
+          },
+          "southwest": {
+            "lat": 51.51374622010728,
+            "lng": -0.1269821798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJW5GAi8sEdkgRGGXwI8hBSLc",
+      "name": "The Ivy Market Grill",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 5277,
+      "formatted_address": "1a Henrietta St, London WC2E 8PS, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5114421,
+          "lng": -0.1227296
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51278577989271,
+            "lng": -0.1213854701072778
+          },
+          "southwest": {
+            "lat": 51.51008612010727,
+            "lng": -0.1240851298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    },
+    {
+      "place_id": "ChIJUVpiHw4FdkgRhaVzblAKruI",
+      "name": "Violas - Restaurant in Covent Garden",
+      "category": "covent-garden",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 1379,
+      "formatted_address": "38 Tavistock St, London WC2E 7PB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5122443,
+          "lng": -0.1200031
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51362102989273,
+            "lng": -0.1186840201072778
+          },
+          "southwest": {
+            "lat": 51.51092137010728,
+            "lng": -0.1213836798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:10.754Z",
+      "query_used": "restaurant covent garden london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:10.754Z"
+}

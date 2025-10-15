@@ -1,0 +1,273 @@
+{
+  "place_id": "ChIJ921POt8bdkgRwx80KJsqCRk",
+  "name": "Restaurant St. Barts",
+  "formatted_address": "63 Bartholomew Cl, London EC1A 7BF, UK",
+  "vicinity": "Queen Elizabeth II Wing, 63 Bartholomew Cl, London",
+  "rating": 4.8,
+  "user_ratings_total": 410,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.518365,
+      "lng": -0.09928519999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5196588302915,
+        "lng": -0.09768216970849797
+      },
+      "southwest": {
+        "lat": 51.51696086970851,
+        "lng": -0.100380130291502
+      }
+    }
+  },
+  "lat": 51.518365,
+  "lng": -0.09928519999999999,
+  "formatted_phone_number": "020 4547 7985",
+  "international_phone_number": "+44 20 4547 7985",
+  "website": "https://www.restaurant-stbarts.co.uk/",
+  "url": "https://maps.google.com/?cid=1804019971621396419",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 3:00 PM, 6:00 – 8:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 6:00 – 8:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 6:00 – 8:00 PM",
+      "Friday: 12:00 – 3:00 PM, 6:00 – 8:00 PM",
+      "Saturday: 12:00 – 3:00 PM, 6:00 – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d4ibQJNXe6OGymukv2tpbHHhttPfa03sZ4dG-MO0caeGJKtWGxeRUglkdJCoRoL2olEyNX40RU7gvneqp2mTODLc3fGiabvZ9lmK7AEpLKOzW5ESmuQd50Dx-MuC0kucA9dIO-f9fkmd4HN5GrUndq5WWYc8WNM_zyDljFxq0NS1_A7YawkgfsdZ9j84O7I5XYIVRRSLnK6_7cHoVocIqA34us-VocjIvsJb8MsJKp5YTck_HAfUnCKhMQMZuN2wD00kWpe3lMXsZg74y64U_j2jbVvuHjoN5ZlxZVIIhaXw",
+      "width": 1512,
+      "height": 2016,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109400282463212730261\">Restaurant St. Barts</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJHCz88_scht35hhxHVgNyqeE4Z017B2ecrEjaZZPhV_4n8K5vVVI0VH0FVeRwQlan_JwIhaT75Qkl823eOhg-4GeD_7fUYqDfb3XPccjLmBK6dSFkSJSKfkgXfVkNifq8xHwV5D4RvzY7Em8_IlwNAXg8V6QyKCZyhixjTkjD2KMZ0el6h_BUh3Kt2gkPCt23X13jE4XOPWcbF5qUEQcGx7DMRUNf01LyU7p3iRqUSWZoeGZF7UkCW1e5yRE4p_AEoLEL_VjYHYmBX_pOV2qxSBizfl1Y3ZQHPl5PYUEXZg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109400282463212730261\">Restaurant St. Barts</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f9dLtkUk6vfT-LhQdxh5y5NHNvz0fSxhKtDGCy2t6znI1a9JOF4qZy6r9cfL3CmAVIG9eAgMehBW-fWT-bMerd7fsrsmM4PDdBS3hKGCEKHX9q27t7LzT8iBTuKKReWRWznlB_T4dCnHnIyfVMKt-6e6vWWyjYWD5vWGUYj20LaHGIziTUIovrWTsmWpVpchtJZi1DNj44tGIPKaC5sy7_JptGee4e3rWt8cH07C2Hy3YkNhINjh4dEst0V3eiOiZDDE5iIElwaM5DFjExh2lcKDpLnFVbOERW-4ENzCzjT6Xzvaf68IWSg9oxMldlHmlqtPhtzaPoBO1qfKJyko9oNJ1N9hhAmvWUaR5Ejv4tpr-bJcW0lgrR0egM8m7woKpdDrQl6b2yveh-jb09lhi93Qcjn_mRk0R4wkLVzgqCYGifOvyFOHo4szbkDA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107305134760737239899\">Matthew de Monte</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dCUDXgtffdfK-M5ndj36VQXriY09_6WMUS3crXvvnDo0N6yes0i3ZWCTD_yr8Yt3Hxfvr2hwXOeYxolk3oyMK3hjUIO-Xr2QTC4d_DWKTKyWIl1bKUu5hQ_kJKwrJetEk14EXa1EiTbZEMI8YYU08IXo-WBzIf8as8w1WimrUFWtVWsxxdUHzXXNnW13kBjiMZHbez3PQiEAalvWIYNoVrQULy9MrNCelM5TXuwxsHj3FWVRKUXsYZWtzUlQ8kQ-bPlfmBp-s72EgWrRD1zW-NQskUXL18L1uK3HrUPsWupXJgWLYHyvuCheWjI5q0dRvbq80JwqKXCoxdeVM6mY99HmjDb0laVBLxkpcY_vwECuyZK-tpWuQzgo80CfYS_bDoK0SMBkmTorZuR7Ex4EWoYbXFu00AZqC5tz-fpJdywcZrqrQYWgXG351gudiR",
+      "width": 2124,
+      "height": 2124,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116899214024286657106\">Grace Yeung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cAGTA08u1nCmAacaKbWRkTc-ubEbEuapxYvLQbV3AsMqTMU-d04Pa0Kx0UzNxLQBM_xulSzJ8Nh8p6a484D1I2124zFkdO5pjOb2NfxyiyT6NrnlXO6wt0Yh6y6S7aEzWL09k0DnUNxGMyd6ko6WvODwfe7QUx-yH1mquHt2WVqYJXot9eu_kdEqRcDtRGf6Opy7EHcKYU1YHgKLJ9cblXEzOArIi0RfB_d_2JwDpjUaDnwaG0_TRLWx3zZxlY9_XrW5EmIaRmwTaJoBpgr0jCi5EUq6pMAShWuJ8QopF5jxNHnGuaBHbDp2QM4llG5SQNjjNsvYLl6ZSW2UUrHkgZIP3dFPLDEXgKqgGarOCr7cBI6IAL-uCh2usb1a6WVjzxNWAR4l2DiBbE53m5Tqy4Mws-0tYyJwOfZbPZnQyT2jY8MtwZCzLtTgNUZJi1",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107305134760737239899\">Matthew de Monte</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fTD020eFp5RUKbZtTC3ZauHH37c8SfUPQAM-pE-pv0t2tk9KvweKzs-5NJ-15rrhdQNmBQmyUkDtD_v0Ay_Q_-dbxyjcKOdwVB9JIQra_acH_j7fA8SMM5H4AZsag0AIcWOR7kGH9jI8EulZoiap70UC8h-hISwHA7xLuEoK8Dl6X5JgVOt70njOronxWbN0IoJCiT2XEeo_JS2uTMluF3IToabtiaD5q91zdSJ63ME3fHWT1EuyAk-TKNYrtgmZIRdeLXfKxjtpmzSRSp1aPTz1QicVX93WQVutL0qF637_bR68KgFbP_gSQDJFU5WoDN7uTKScSxx0pHAxFsCPpM0oXs9F3aL_UX9YwgIVPoCw6jxwNyezABLX0V9IJZRdw0CjRdckDnCzvDozfXej-L2m7JwIKiMl--vbMZ_UY3OA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108749868978446826171\">nickt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dmYh1HbZ_wgS7CTzMekTDsWUzwspZ6b4SwBbJSUl9TpqL74r8ID_ccNTm2jOhWOLpJybO4_0FC6Pjap9NnDr4CKYhATVgtcsgtrp12NCM4Xwva7x4PvUC5f3Dup1zmq_aOmXo2K3zG_MGkVZsDOF54MXMJ5tey8ZI5RB50En8e8-3wlJubjCph2LoGCByTBYT9CiAGN8FyO6MNY55t2dHWcnG7sCnoecoWcAzxYXgD4Wtrk2GJPd-PsP5wLwlgUnjGbqEuV4Qxo80ysBUhKOfbCEVSpjcomoNvVN1adcWil17FZWMY2L2H_tbBX_kCnhPVCCeO9wIrWdA6nv5Df-cmjHqD83iZph2qxBZ-PwnOIza5LUH3b_Sbbg6z0ecmzGydLWPJnxgnlFJzemjH5pf6yvpRKdztShcIIwnChf5ssw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106576863305937511302\">Travelling Doc</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZSSIQFKGMpJMGei7J7CJxcvJdq6VuHZXXfGQIMyZt1Ub5yJKWegnzWiFerH2XBVsw7FwpvsCyq7amgs67a_iS3_f9sQk0MI4AxHG5k7A8vMhEYLDUWn0VqJBzIlDzzaWlfeT1YBL2CTwxbUz0n2xAzXozsRlPveRVBmmFdlv9rixWZ81Hhs13avE07QPoWA99HV-vhz7qO4CLgvxYi9t0SJDjShmQDrUy9ohcaRnHOHhTl_Yu_DU4W5VlVRkNo3VjaQK-iQ2Lhg6waqslOjt5Zu-ygantX3riJJHBA3fdAhkR3OekV8QK7Ca27J1WoTHBEd4yZeLfp3dbRt86aWjrJ211bHo47QLZmPNJn31GYqiff-R0F7lfvRqICfc0YOpy5DPoO3qrygCNKYD2HRst4Do-fLhsTM6kXiTl6DSVlD7e",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110938215908250337090\">Olivia Soegiharto</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-rpOxJ0K0NS5pfWBNG6AHeiXn98fRJOyQ4lN2o9JnmpofQYKiWAuhEZ_EzpNDHRBJszpT7a-P1GuujkHgJ1L0g07V-rKxtOwreQzFgnTh2DAS5puqxq4GeSmfFyN4R9sT1Sg-pQCz_QivrndWOA_vt9Akb73MHBVdjGoQIp1Whe2oxn2Qnwq79gmokvqfH_crTKToR49ceiv-ByZC6q-lnYIGaqq-eSCK_hXyL3Bwnq4fenAzxh1q_sHc8VWAOHuWoe1e-5XO9g0GV_4l6UOgy7ojpdnaZXKKnc3VkLUugcVBfOvJ6hG1YAJsoB7yUlOBxq1YdmYj6NIdHV5IJYetPhXfQMMcEZr5byLEeML9iRP7JfGdvIK8U-sCyB-66dus-RMEGcj5GeNA3FGy78hxVWTAtWkk2EQng-GoK7ViSvM",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118376820019977336186\">Radek David</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ciCerdd5Glp-M-DX2euYPziuUo3tQjW2x6htDsQtzF8iH5ka8i3gTVp4GDfxcz7xd3MAJsvowuSlACiK-NcLfcLx_FIKqpfLAdSBLT1tc1ZYd-ZbsZAVaLjC4xoL01nSQ8oipfen4vaHoKA9apZzECF5frsG7cAZ315sn0CiYn8q7nMMtN_jxS4h_v9s43hQvgsGxU5cIIUDWKk5SEUlArJYrvY4P7pZOSIRe6ITa5tmb_BwZxrdRoiGjNtxCHaQkjUHsFIVlM0FVvzFod-kRLXzyperg21EhEFc9b5w_pFEnmicyaV-fjhHhDFa5zthvaShHQiJAKH_UvW0QCR-PHNe_asp7vC7GZwW2jpR-7MXYxKAD4PDuqzouSyETQNgKig4c6qvsw40fShBcwZ4lxlPwTh9NPILyPjKQofHld5g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106398189608260091364\">Nicolò Meroni</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "James Samworth",
+      "rating": 5,
+      "text": "Simply wonderful restaurant and evening. We went as a very special birthday treat and it was amazing. The food and wine were incredibly tasty and original - all British ingredients. The most lovely thing though was the staff who clearly loved the food, wine and the job. They took time to explain the dishes, show our son the kitchen and make we had a wonderful time.",
+      "time": 1754763164,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Tom Grater",
+      "rating": 5,
+      "text": "Beautiful setting for a classy, refined tasting experience focused on British seasonal produce with superbly curated wine pairings. The dining room is beautiful and the service is 10/10 from the moment you enter til when you leave. We adored all the courses - 10/10 for all the fish, sweetcorn, and the puds - just the duck wasn’t great, skin was chewy and it lacked flavour and was a bit dry. Can’t say enough for the wine pairings, some of the most expertly matched to the dishes I’ve seen. Loved it and will be back.",
+      "time": 1755285965,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Rajiv Joshi",
+      "rating": 5,
+      "text": "St Bart’s Restaurant sits beside the historic St Bartholomew the Great, the oldest surviving church in London, a location as atmospheric as it is iconic. With floor to ceiling windows framing the church’s ancient stonework, the dining room is beautifully curated with striking artworks, bespoke cutlery, and a warm, understated welcome that sets the tone for an extraordinary experience.\n\nIn a playful touch, the menu arrives closed, left to the guest’s discretion to open, offering the option of preserving an element of surprise. This sense of discovery is mirrored in the food itself.\n\nEvery ingredient is sourced from within the British Isles, but the culinary influences reach far beyond, weaving flavours from across Europe and Asia. Standout dishes like the squid noodles, the signature Hobnob, and even the opening sip of house made kombucha showcase remarkable depth, precision, and flair. Each bite was bold, layered, and thought provoking.\n\nWe opted for the wine pairing, which proved to be an inspired decision. Spanning vineyards across Europe and as far as Lebanon, each pour was thoughtfully chosen to complement and elevate the flavours on the plate.\n\nService was exceptional throughout, attentive without being intrusive. A heartfelt thank you to Oren and his team for making the experience feel both intimate and seamless.\n\nIt is clear why St Bart’s is the only restaurant in the UK to hold both a Michelin Star and a Green Michelin Star. It is not just a meal, it is a journey. One that lingers long after the final course. An unmissable destination for anyone serious about food.",
+      "time": 1751097415,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Nizam Hamid",
+      "rating": 5,
+      "text": "Fantastic tasting menu with wonderful service with real attention to detail and personal food requirements. Excellent flavours and ingredients with delightful presentation. The lunch time shorter menu is excellent value.",
+      "time": 1755028318,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Ellen Baluta",
+      "rating": 5,
+      "text": "I hosted a private dinner for 18 people at Restaurant St. Bart’s and it was an unforgettable experience. The space is absolutely beautiful with a warm, Scandinavian vibe that felt both elevated and inviting. The food was out of this world. Every course was so thoughtfully prepared and full of flavour. I completely forgot to take photos because I was too busy enjoying it all. The highlight of the night was hands down the dessert. It was the perfect ending to a flawless evening.",
+      "time": 1749642942,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:11.008Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ921POt8bdkgRwx80KJsqCRk"
+}

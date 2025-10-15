@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ9WkwnL4FdkgR3HGxZ5d8Nmg",
+  "name": "Caravan Covent Garden Restaurant",
+  "formatted_address": "30-35 Drury Ln, London WC2B 5RH, UK",
+  "vicinity": "30-35 Drury Ln, London",
+  "rating": 4.7,
+  "user_ratings_total": 1505,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5148989,
+      "lng": -0.1227191
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51620193029151,
+        "lng": -0.121275919708498
+      },
+      "southwest": {
+        "lat": 51.51350396970851,
+        "lng": -0.123973880291502
+      }
+    }
+  },
+  "lat": 51.5148989,
+  "lng": -0.1227191,
+  "formatted_phone_number": "020 3955 8500",
+  "international_phone_number": "+44 20 3955 8500",
+  "website": "https://caravanandco.com/pages/covent-garden",
+  "url": "https://maps.google.com/?cid=7509326418408468956",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 10:30 PM",
+      "Tuesday: 8:00 AM – 10:30 PM",
+      "Wednesday: 8:00 AM – 10:30 PM",
+      "Thursday: 8:00 AM – 10:30 PM",
+      "Friday: 8:00 AM – 10:30 PM",
+      "Saturday: 9:00 AM – 10:30 PM",
+      "Sunday: 10:00 AM – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d5nINqmScVQyfzp-TzPsBobJ67NHt22HUHzpDp13AC85VZpzYnDjhG6NyFrzVysrCbT0pbN_5FDw094Eudi5BdLP0vjIokZFTT3sf9_A9UmVSaREmq6KYtf_L9EGHVsGUgm7u-1V7te5izxYd0Og9sc4WCEcfccLb4r1WFAhdyZ7-pffLBEQpCfC1D0PdKXdEICxOCUAOrsqBrI21Ot0Y785mXLI1YdGIdo1w7woGa-9bmG-ZSUzcUAKBZN9aE8l0TQs952HUEd8dnQZDpJR040QwxNp_aR2w4hpElAXbPhxUXKIQd3nzO41cCow5YrU5o6N7PU2i_oe1AStHdLDIU3JhKB5clYZHDn_GxROM_gE6fM15dTAeGvZihiyug4G75t9IX0Ja9rIJElTM3lIwHIYkVsW-U7r8q6UBpUdc",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104573801893275182158\">James Dooley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNvtJ1VpDU7SGgm4t8p0dkT_jnxBSCCo2-w961yxgQk8NvYa3IKOe64bSnImSywIYQL0PlnWcbPw91QX2q7GJry5Jn3r7QwFpn9pShBJkHZ3ESP659cDG1kP8h2DEmB_xm6wtKLhZeJeIMFabUUoI8ZURGGDfVHVHWlnjLAnxZSmBd6P3nDI1ZMJUVr487TI1erpBAwww_8bBQR7wJaz_wACqhibNaXaqh0aLqpRlGOAhTaU4PW29C6C5UyxersTASVRqKazYRqZEWg1YJI1zS2UozqIMGrBl2-C5aAjKfztOdKgiNNtxJg7EuzbTcLQ9nkkP5qJthUb71FoXe2qT6OwQiTn4IkrQpA34V0GY7gvF_pGMsgz19e_vLRtzQiR1yT6vRKa-_jMYxKipMJQONuWdty_yCCKVjlioAap_8KQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103346203807809648782\">Emanuel Antunes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d2wP30XqNqIOkV_upT4nT0fcDk5KzwqYHOJqdzKk1sMEFFfAH43Q8QsnaAuFx-ZrSdEKlLHQl4_coL9TfPfpj88vIGM6Jruq3jhR73jM5IzThZGO7jrpZlo69289339h1-HNPK2xQxwrmyY15waGBkrIxvt4oFTjPdT_cd9brb4WMQr8JOp6P8tMoSxwdoiABscJVVFMmkxAWqrdNMd2l-TZ6bn4_0c9uuEaur1He9Fx3xFgdc6lTXQSFR57eAqgU0H4JPZv-I3nVolthanBgeSm0BzPZeZSQz9lklbSmudZNjohsH8vfaOpvGiRTW1FvODkr-vpf1OC528bPGv7njJzskpQj3jIlTrWtmR3od6MJrDHmlFQ0KpVxHlzI0-8ak1_Uymfd9HPKejgKSyx8e34lhJHSdmN52ZV5efqecZeUZV2UYBvmhc309TA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102008526393852780838\">Melissa Maloney</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e13_yKZMWZwtFFO3n_raFOx4iTJKTBv2PiDD6Of9tFlsWlFUbfZ6g50xzsjvuyjkherUH_75VxA_AjznaNCzfYqu3uTyHXtoojyJlezbXIcMMmiv6FzeMzbzD28uc4Bu3viRuf4ld-HwOhB4lcL0zZ8hnNeMGPMX3wk0wOckJBicw5UZGdoByTeeMSNjqSLwbyvKPxXD8pItiB546GnlL9eTu6VgjR74v99rluWPlce6lsqImE7HU6XZ8Biu7d571e1scC_guQMxBR07KbvRBqkSPzXDu4jnGWN6krg53qzhKbPF61AdiymVcwKJsfkrp6tKquB_3h-64m5YRaFmvphxsAoKjxvOHvj41RoVWCd0HYitzfyhxJwGFiaBTt3dmQulzqShBp0yk43HXFyiRQiTqeiPch-EL9TKbzUbcsE44",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117047472456436613694\">Fiona S</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fNX-YJfPdPfJ7SOboi4pKjRTOQYi3qIreuQDsAEdi5sdd3GNeV-dn3EMEhKbSqNrFPZY7lfTau874-ig51vg35WKqRzJ9_ulJXmJ3_LV9IVrgNvPKUPXPSCnVaz7_e3rpZ4MpPaNm2HKfG5HPIkCE-NCIwq2xrLgdeIT8XDCv4ASyNKOLyUj9Uatvx9Kg7DxcohKUbc6YzKf9ZH67DGNGYkcBYgOxAoHsmXpYinWKRJ4-IuJQziybuYqSz46mtq0ap2GN9XaDi0obq82Ra1uRDVIb5p741peO2fl6et0QugTBZATqphX1ni1YDn9XHk7Jk6WPWzmiBu9M5kd0jTsXLDNIlYxyfzIhnuEJcnFuY4sjuPiGssif99O1bA5TYisYJQOHgWUmUs37CMkmbTEZFtZzKGaI2fJWCYfiaAfnpSw",
+      "width": 3870,
+      "height": 4122,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103170916681912644191\">Mingjia Yan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fCcYXNS5QGqzktyJTT08_83w35vszreCmGfj7iRhvbPeSw_mHOFFxEz-fLoOBhwaOQDUgDsxEang0rCtIzo1tc0a37ZRatY9H-R7WTXnUrh5hMDXGNmDQ4-Relc_AN1J5p6IFIc-m6UTwTRGIgVIoBjtFyemb1mkV2kNekGKTn_r6TyS2otedBYLwAQckqbl4aPEDq2nMKHiCPRU6k4BEU_DqZoJppT315xYrVp4voTWas-uAttTs2cnDv-XDQhQEYIODZ4RQ-Ks9lkLm5xUbAOFXqMRXB4eGIHVqmkNQeIZeuhacx-Duy6ExpcmYEMHYEvLJv1E9n0OydA7gNTAlNjiapmyipe7Nwxd6KKEnnFzRiapaoilPVYbIC4-k224TaRd6xygQunkdML6Pa2lD6dHJVZcmKpK8GuU5Okecrv8zF1jeqDfdE9aFHLZvh",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112669683898426167023\">Diego Cardeña</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d1cVFk3IXjzYNwAtRhOTgoxIqKBUlZL9MGQdLWwb6Mc--N2NiGgbrHqS1hARF900N-Zy3Q66QI1mQEvMJJ_JxHUl9OUh4aKTvQiPuICLOp50pWWwKk4mDixKmGexhX6J5mOJxNiPgF2raK24FXcNniuOCZP11Hbzl-b9MEBdtKyGpuaMGxYDEY1LihCO4KHXrnIqUwXH1yE5Jzzxms2KR1-LxCNbzQlV1Xb-AYsrpeJQU908M7q0fCvaLQfOsXX09Zmud3DDJytk18aIDhbc_t__R78FnmLGgIrJ6G0WifFKwKQeGp0wi_D7_CPNdcgZYad7ACvwRbqlcQQh21TO2dPNZiqmcRj_2CudcZy7Ug1p8AIFEWnU6B8KhU__Ztjr7ZnlZXTRN7dJJykARDvBfOS81B7wUE4RIrcZMpfzPXnOjGRx0PAdkLBHezcQ3o",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115578213453316621628\">polly brennan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eKj0X3Y5VKyovNs4Ql2s6ZAMmOYzZmhnq6z09tjpk59b4re9FTHNldC81gm7DAc5wP5yMrVCAj5ejgOKRzVDbtlry_J4QyXyoHMMoI_kfIYDBvIh9eqjA29UnXnYYJnmj6s8k2Z-PDQG7R5P6loHUpcXoeK2HMRAX7KF2XK2PGy7ZZnowAvNZYjQBc7iGdXUKK7XAijqZ5CJm2afhcSpbiIP2gXqbgblcHdu-t-k8Fbb6SXaqCbGs1rLGImAh7a2fYKQ1-fIZKLVzOhM--X8P_uyUx5EKDYDqsWj25SRr-QmsLLIJL36ejP40T-XEaVOgeygKB-YHrkRjReL9KKfQ2FW_fPggyWEQLxVm4DyD66dpnHYXUK6Jrj30OYwV1dWC_m_IipkdLDHm-0x53hcKSC5n-wWuDDBy6pWgomPOPRw",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100658693244550523001\">Duane Brown</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEcWl4ZcF5UfKHbFRUJDSgtsU9Tb9RMowkreoA2aWBIto4CRq2ZtUsstRRQN23TA7laTfUjiHsC2D0XMccywOl1F9s2FaYV7fYVsi2zO2CMww6nWOY8CXCKuEVqlkdeMZlWCsMEiLwlOYwYqj4k1k__b5SnLybLAZ7wtl3XMVKE7mtk5f1wyvLonuTHk7CZpdJSN_2izv8BKW61kUfIzxmLGPs_nX6n-4bMRq91Y95hNE3XYbfuAq3qhWIsbtvQpKE6A5yv-G1yBOcTlEZ5cM_SJVoduCupwsPJBY-2a4X8ppB7Mw3yYI9wavM9n4ke4H02Ron7zJRkIZoPLYm2U8qe1DHXX0F06ITzp92S2drkBXT7PBF7JwqM1v3mOCLLJj_eYEJbmoPBZ6YKO-a_Pxcji0acqBpVxwsaPqmyNqVYpl_",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104573801893275182158\">James Dooley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnMlAv6EG2w0c-0tgfrneZ4Fc_DxscIpOerHjsqTSTTskYzN_4CfBLwNMWwzItFAemiT9sGhZN-Oey3tsuFCki0J2c0jC_dFGLkoNh7-HLNn1jPbU27KDebJr429IsUwTM9xtxpSlDH_xGFEvmUYVf9bKb9ElGtqCvioAW5LtMbsmaSlYgYMAL67_F2hhDX0M25UiZhraJIFFa41oRFRT-q8ObhoiRynKTvkxCpYNaLM7_6Itn3V8EFASVjLCGJyjZCJCcY9JrNeeSa-T_6z3pifgB0MH2AwIbilcuPhwArI9MYvat44vzbQbkSvhLfRbsWCwxA2PkkLbaoCVEdHu2TiUwQUflSH7jHI9BXerAU56RkOp1OEdtuQzEW2VO-lv6muv8Cs9A75_CBeJ0dIUdFl5buer0ztoDE7zyBQC92A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104423217338151174138\">Lamis Katoah</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Jackie Hamilton-Smith",
+      "rating": 5,
+      "text": "Absolutely yum! We came here last week and had a great experience, from start to finish. All of the staff and servers were attentive, friendly and offered great recommendations. The food was absolutely delicious, packed full of flavour and they had lots of options for dietary needs (gluten free, vegan, etc), and we loved the cocktails and all of the yummy flavours. They even had a pre theatre menu which was very reasonable. I would recommend a visit if you're in Covent Garden!",
+      "time": 1757159191,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Megan Rule",
+      "rating": 5,
+      "text": "Amazing cocktails and incredible staff, Kamani looked after us and served beautiful drinks!! Had some rosemary seasoned fries as a snack and sat at the bar. Now going to the theatre, perfect start to our evening out!!",
+      "time": 1759599722,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Ali AlRabaani",
+      "rating": 5,
+      "text": "I recently visited The Caravan Restaurant, and it turned out to be such a pleasant experience. I ordered a coffee and pudding, and both were absolutely spot-on — the coffee was rich and smooth, and the pudding was the perfect balance of sweet and comforting.\n\nWhat truly stood out during my visit, though, was the service. I was served by an employee named Leighton, who was genuinely warm, attentive, and professional. It’s rare to come across someone who brings such positive energy to their role, and it made the experience feel personal and welcoming.\n\nLeighton’s friendly demeanor and care in service really elevated the moment, turning what could have been an ordinary visit into something memorable.\n\nHighly recommend Caravan — whether you’re in for a full meal or just something small, you’re in good hands.",
+      "time": 1754589755,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Desi Klincheva",
+      "rating": 2,
+      "text": "This place feels like an office canteen, only super overpriced. Bunch if simple wooden tables with hard wooden chairs (thankfully some soft seating available too) and industrial interior. The so called pancakes with strawberries are actually 3 fat fried american style pancakes with literally 2 strawberries on top and some cream cheese plastered all over the plate - for the humble amount of £14. The Korean fried chicken is so deep fried that it could probably go safely to the sun and back. The toilets are not segregated and are down two flights of stairs but are at least clean. Staff was OK but I won’t be coming back.",
+      "time": 1756558774,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Alina Karpovich",
+      "rating": 5,
+      "text": "The food was absolutely delicious and full of unique flavors. Every dish felt like a surprise in the best way! Our server Paulina was incredibly friendly and made the experience even more enjoyable. Highly recommend this place!",
+      "time": 1750585101,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:57.089Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WkwnL4FdkgR3HGxZ5d8Nmg"
+}

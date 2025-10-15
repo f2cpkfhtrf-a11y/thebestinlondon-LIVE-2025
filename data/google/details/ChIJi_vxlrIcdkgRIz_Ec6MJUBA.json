@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJi_vxlrIcdkgRIz_Ec6MJUBA",
+  "name": "SUSHISAMBA London",
+  "formatted_address": "Heron Tower, London EC2N 4AY, UK",
+  "vicinity": "Heron Tower, London",
+  "rating": 4.5,
+  "user_ratings_total": 12172,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.5162529,
+      "lng": -0.0809449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5177012302915,
+        "lng": -0.07980911970849798
+      },
+      "southwest": {
+        "lat": 51.5150032697085,
+        "lng": -0.08250708029150204
+      }
+    }
+  },
+  "lat": 51.5162529,
+  "lng": -0.0809449,
+  "formatted_phone_number": "020 3640 7330",
+  "international_phone_number": "+44 20 3640 7330",
+  "website": "https://www.sushisamba.com/locations/uk/london-heron-tower?utm_source=gbp&utm_medium=organic&utm_campaign=london_heron_tower_gbp",
+  "url": "https://maps.google.com/?cid=1175450100370259747",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:30 PM",
+      "Tuesday: 12:00 – 11:30 PM",
+      "Wednesday: 12:00 – 11:30 PM",
+      "Thursday: 12:00 – 11:30 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 11:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2330"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fCEnQIbKqmtPk-_2tLe5Q2YSEtiQb1TqpW6Dlug9l9VLzqRV6lrD2AF38rwRfxhFOLZXekUDdBGnAM0Twt94CDRqYY0bNOmhVCd1rFCpHe7cHfA9lZzz7IJDCkzizsgoYKXz1pXnQahcrAkGwSrlJbDDKRfNsuluVhtNuXJOizxGsBSvC5CstMi5LA9fZhLKWAM59rRivMwXgDdR002SaJhWBJQ90TsvQX-cv3BgtQzMhD38ZuUu-EIYBCjrAhTqCOrb43woAxvOMdf8p31lakVyeRYfvA9D6EdK-S4i2_2w",
+      "width": 1296,
+      "height": 864,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104321619926340133938\">SUSHISAMBA London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d2f-3L_sQcafvNImBdJ1PuN2Xti4n5Cg7S1LjbL5nUWOTbQZY_GGsGZrckhfrW1jYWoZdZjQJlvw86gVKerkHZFd7iBXcD2G34v357jaeMIWJYmRKT7THp9mIrHozPYaHYBReqrvrhMfXZGc-ct96b8NEWJZUfeb9JDEuKHj5anbXwNrcLFABZ5UZEfcxmZn81G1N-HGmnXrGsDdTiuiycFgVbCLgPJ8MMitbM0zXIRlJU9fofhP4YWgOeOs_s74GWGbGLFa25ccqOa2I55e2aor79kSh4iuAqt_IK1dePbg",
+      "width": 1296,
+      "height": 864,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104321619926340133938\">SUSHISAMBA London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d9au93yuW5S4aljZ-E0hRqwbkeK65UcSB3fntjy014nfJVM11tehUpYhTxg3vHLq_kUbdxhHYbSGTWOiSSPpKWwBeFi0KFAlnbt1hKclqepmOSaakjOyuseoIkEhXmtMBEpoxy4i5X_5k0l29GWAuPIFfGjHgpHGVQ7dOAmW3iqDopVZfdPw4B7dJ4eVQR3ODSD6eskFOzftBdooGXjLatGdtuzePLrw43oSDYkjbLmeQTkQlBwE1CrY-f2Q7TXmTNGv9VWspWJ0XxyNMuxO-bJ8ul1m6Nr71sA6illEodD8lNfihnoY0WsZ_1hpAFmbbMJI18unSycJCmgoHZUcxlpu47XrFPvIEJlImAYivmFDJCBpQFjM_9F-99-aa-ozCPbvqquTYx10I9iHXr-XL1zoxWKk6WKQCWUF84wo3-Uk78NLpwtTZN-ofZSw",
+      "width": 4284,
+      "height": 3142,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115014197601212113755\">tima.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fofKjBoWDKLjDdHZptvj0jDfPTftmEbwnCBsmvhtxYr2fwM8MUOlFIWWpKzI8zFJ2M8rC-5hb8fONwXjITX0_c84fyaDBhAcAWgcWJ7TI3k8Zz7_CmfgjmHNvBdib9wXww3vYUvIVLrFYiL3DOnM8Lf71jae7jyTfLF_4Clr0Rjh-hiiQayeAjpDcvh7hs_pDV_oJcGuimhsapszkkB1S70mEJAVz2Zjb9EB32i1ILrrfovSTTZ6g2Vyuqvqrm7W8UDGvYF439SpeZYikH9tbpKm3sJLXLAwzAIjpSZnGM_8oNM2h7cM1ih9CkCnpbi8dozsGVSM0RSFGrTJr1iyF5X0ovwdL7gFz58aLeF5TEqYP4LSzS7drIeevmEEvTr6zaIpVUKLXeT6rJ2K6NNPRzYFsnbHUxUYx3JNAIZSAh_w",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104948212961609661449\">Zack Jwammes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYcH8PKnGjxRpSM5UKyK7AY8_n1zYMfqdK87tLGw32jHfQl1NfvGryRgQyk6wwEiu9GEp4OPP2m86RjyfgsLckwsq_uhGFb9khnMSvMysIuRo4dpgfSGNCGsbjng4gWGELX2kLob35A6VUoFSU5DAq3wkiIe1gQ87uQ5MEvg_eX8fCLKA5FdbdSq1VyP2e4h-duPehFC_dbbV-7eyQt6VQW_vjaDfo_7pK_1Z2wnWaRqfOVli8pvGaY2qmwFWbUTMCYa8Jlk8ukeFD1dibHnQo9WCi2Py6Ysm7Gu23gxE_ft4l0utqm1_w1GgMLA-1frGIDl1q7yd_5yWlZMK9CPnBnxlnaNNgXwbXvQ0Kt1bsPkmmO3V7uePI9qeJMOffqBny4qYn0fR9PekPt_i_2xiwH6cBGMgffHAh_2MgQYiUEghhD09fJjxI1ysy6A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106304852592235575739\">M E Lesteri</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2czet7lSOAGWwykMYgYqymAQnHyfGZcsSwKFr5tnkw4Kpb7E5wlAM0wwDXXOU6GpT0_Nw6L8I808QEdc3l8__SZFGQ27pGCTWDkw5igHUWV4EhiqNV_8z8FRUeCQ5YMXsPSN_XaPZA3dKJuW_mE3HppJ3NgTnh6IwxmyHJaH0bZ2R0nsGcXIj2mdx7n-3at_7SKjwiMT4E4Ez2_HFeBm0TpbU36bzqzb5yA2BZXsefzJpEZMyn_FzQ9eTQ3B_hS6yIJLHfbQXrgHLA94xIQJGll1yCes0mH21MZ3iQ7ERbBdmP5kjynk_GgG8phyPi4XodNK8tfgn6abmIOphHqeEF81OPf1lVrWM53lcMVBnT9c0q7IgMCglh0ng1wl1hAQF3tbkkxBGlZgnBMqih6a0xx5FOyEo6qTy1NtT8G0xxbLIpmi1ehoHb3_gZWOw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116510260363228867329\">Joanet Victory</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_etcJmV3J5OYPeqOTKmH_xaDGV3016fY62RM36tXZfuu5O0RMnT4idQ5H2_-uJA6pqrmgsPu4l1CfGis546f8l6m4qk-qNr5uGWGx3Z5TTUyt1Nqt8Bh7LG0mN4KLq-bysd3rB5HKnIVwundkmfoktWKkqN8CsFaB_jPF3MO0SlTuByBirfvD6Q9cxLtO5qsU6r7h46jhhvtFtcABvsUc0MkUZ5gPCLrJ2PKnSaCCBHlwvBHmbeDbybbevxfqcJBOG3jag0BQ9b2MH0yRBKbNCAeBLDKwsZ8E0QaeXl868blA2HdYm8xPsbTJCR-RuzO0kGdy9cDSwvYRGH0JkKoS1sd1TrxXBk5MYzcBQjuTspcBQIvOSS5xau4wA_OriHBZ8IRAiKF9BVZ5JHHmrcJM50i6PeOdFl1Rv3h9tTgA7Q",
+      "width": 850,
+      "height": 530,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109680276465328481017\">Studio David A.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fNyEFGCiRMSdYZeBfiTAulAOipvDRjsF3sl3xalRoLwRAMsZiC18XyP5KYbeo9YmAofTrLNLk8nMg6XP_6uvdlHmSQrWhqDJxY5buroDeZkXjOBA4QkmWCR7Hc8LJLN-hbP_Ls_WLbRDXhhkPSBloih7psLArPazNmLfIRi2qP0HberKN4WDVCZur75MsGY1oNkfl5ht5gOeI7kVlZqDbKR8L5YTEyx3EYbzvd6Jcq3tIGa_iRbCvtn1aGTz6oJjaXZyLrBqxSuzti4f76yGF2ZQZHk1uAeXbMJOXmT878XKgJwx6ybDBDjVD3QxJ-QHWzey2ujUuUhyp0sqGJyavT9hVxfHfCBXommNKbW9i28ss1nCIWDg3L0p5K-e2C1xmEcTq1bbsOyFOZaNOGmsGA2bBkD2xBYdqOWGlNCMvU2iTT",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100572290819397953151\">moran rada</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cz1PDF8hiIRFmnPXnILFpFULtCBbKamRhKaOogy8sM-olu19dL600U3_CH2tjWtDUFcSI8_9yJK7iaZfvhfnneItDFxg9NUXDP75MWlDf2ZtvetzHwerltEgmI_IFBFOoxC8NBj1f2z9lm5BXhqJvBxPJ2iaYY3IhPclwpNCsXBU_Wvg3FW0dnvzfUso1GdsCJ37ZJdc3Nx5IV1Ogzcg6yxnQRIvon6W-2tSCvoVrKKQupfLmSn1uXmRAXEbeM46K0qFyfY_5MoE2CLUogU6L1P5zsSA1xnYAiLstNKIO9jGR-C0qfK2suBfhnKaPJk7R7p2X075RxnHGx46LV7myq2tfLSa3ZwkvTeQD1m3LspNcMX-eEiX0Qk7bUtehwZGbsLhpTzqP_B7ksJmxE_x4evFrcH3pq5I4t90iwI7Kff58VHFgWXYN0dRYXZdA6",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113954792036824930968\">Courtney Martin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQRsUuW95DLbG5XkRXiqDCKLgPyZEh_oyVDG6LJDbjSadYnCW_QdiChl_vSXe_gwCg7a1dIO0EQ1t9bVadJS7Dan09B2YCmTs8WTDcp6Iu4DKhBXoeIgmD0zcL6LH4LubRMA0IC6UkK3VfQqM0CjD2MfZ3eiiKTo6JZl11rm7CWHVGau3YSFqd5fZOW6RSODDpC1BaA_OIkKT6PdH-INp3-ILKpuQpwOB4HU07Zsg6y1vJqY0yp28_o8PqBK0f0OrV4WEVEdXafNQZTcrnIi2f8ibEjnj0Mm0JmA1W4IxatzRWYxbL--Y7mx-H9UP5xLpZi4BLrYk5r0JT4SXKr63j5r4M5Mk2Js-wMK2Ee81pZ-2AGM1oBX-mDLO-tV7T-2y3URUuSs0FLFOca6GjkNqa31anyrY98NAjDst1dIXUwgQ",
+      "width": 1300,
+      "height": 975,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108907133987687825488\">Enoch Olalude</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "night_club",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Creative Japanese & Latin American sushi in contemporary surroundings, plus cocktails.",
+  "reviews": [
+    {
+      "author_name": "Sameer Ismail",
+      "rating": 5,
+      "text": "This was my second visit, and it was just as amazing as the first! Located on the 38th floor, the views are incredible, and the whole atmosphere feels special. The service is top-notch — the staff are always so friendly and helpful, really making you feel looked after.\n\nThe food is outstanding — the sea bass, the sushi, everything was absolutely on point. It’s one of those places where every dish tastes fresh and full of flavour. Definitely one of my favourite spots for a treat meal!",
+      "time": 1760126687,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Susshmitha Ramesh",
+      "rating": 5,
+      "text": "We went for an early dinner, the food was amazing. We ordered tiger makki samba roll, pork rib robata and kobe gyoza. Amazing drinks collection and our service was very welcoming!!! We reserved samba room, and seated facing the window! It was an experience next time we would probably choose the restaurant! Loved it! Definitely would visit again!!",
+      "time": 1759779951,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "AMORIE LOVE",
+      "rating": 5,
+      "text": "From the moment we stepped in, the ambience, the views were absolutely spectacular…the kind that make you stop and just take it all in. The whole vibe of the restaurant felt so vibrant and elevated, yet cozy and welcoming at the same time.\n\nThe staff were so friendly, attentive, and made sure we were well taken care of all night. The food? Incredible. I had the ribs, and they were so good — tender, flavorful, just perfect. I also tried this sweet potato baked dish and some sweet corn on the side, and everything was delicious. You can tell a lot of care goes into every single plate. It’s one of those spots that leaves you smiling long after you’ve left. Definitely a must-visit when in London!",
+      "time": 1759964025,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Kaushal Patel",
+      "rating": 2,
+      "text": "We come here for early dinner , I was super disappointed. We all went for the set menu, they took our orders. Never came back to take our drinks orders. We had to request someone to take the drinks orders. The set menu which was 90£ look likes it it had a range of different dish. All the portions are small. I don't believe it was enough for all six of us. Some came with like two bowls which is fine if the food was good. The only thing that really stood out was the lamb chops. They were okay. The prawns weren't that nice at all. The sushi was okay but I've had so much better sushi in angel for Half the price. If you're paying for the view then the view is amazing but the food not that great was expecting so much better.",
+      "time": 1755722017,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "A G",
+      "rating": 5,
+      "text": "We had a lovely experience for Sunday Brunch. The restaurant has magnificent views and the decor is stunning! Great menu with good variety! The food was all delicious!",
+      "time": 1760225081,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:25.952Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_vxlrIcdkgRIz_Ec6MJUBA"
+}

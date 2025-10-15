@@ -1,0 +1,235 @@
+{
+  "place_id": "ChIJv2nJxtIEdkgR5BVDRcOlpog",
+  "name": "L'Escargot Restaurant",
+  "formatted_address": "48 Greek St, London W1D 4EF, UK",
+  "vicinity": "48 Greek St, London",
+  "rating": 4.5,
+  "user_ratings_total": 1115,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5139706,
+      "lng": -0.1309972
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51534103029149,
+        "lng": -0.129570069708498
+      },
+      "southwest": {
+        "lat": 51.5126430697085,
+        "lng": -0.132268030291502
+      }
+    }
+  },
+  "lat": 51.5139706,
+  "lng": -0.1309972,
+  "formatted_phone_number": "020 7439 7474",
+  "international_phone_number": "+44 20 7439 7474",
+  "website": "http://www.lescargot.co.uk/",
+  "url": "https://maps.google.com/?cid=9846739893391398372",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 10:00 AM – 11:30 PM",
+      "Wednesday: 10:00 AM – 11:30 PM",
+      "Thursday: 10:00 AM – 11:30 PM",
+      "Friday: 10:00 AM – 11:30 PM",
+      "Saturday: 10:00 AM – 11:30 PM",
+      "Sunday: 12:00 – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eyoMPYbVHDwPiqvKTi4HzLgaxsgXPwUoSOXGVsNT3QaDOXSnTY9M16YDhzGeV__X6yq6cwDAYyovP_ttcKCbNyxGCc08QonhMkmFD_Xuu1GXcrOf3jQ1obCc6LkX-NFg62GEF50YKRCBOWH0hU7jY5qFqpcVEgZcH1tW3Z-obYiNR6RUXp62lh4W4rbbO7qaujCCxDWCh9IFOwW7W4Ee0ZTi2-nSO-PEvz-PfOjMdeyTQCfbu2T1Yg4TEqeFNtiZXto2-IGZoH4Ci3y1y1HjP0gOUMeDVPHwhNVoayvE0kYg",
+      "width": 4000,
+      "height": 2668,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110563082104763737981\">L&#39;Escargot Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2em3xWC0MlegeRtnZDk5QW8stL3FLHEQ2ovKrNiJRse0H_8Hw4EtpypqwxHa5l8vRxGKoLHmGNWIXDYXRQ4quxPLIGOlymUBNLp6C5pOT13mA4TKDsxBwKik9EWM17cUzLbWFI-vty_7-fNRacBjeTWM7qaqZuI1YpW2tOdSleVr95opivB9ZSrQcyqTDb_htkKPlyiym4tt6emWXGiVW1JdHXM9JMaixXZSq_qpG7sCKT4RWT7p54U-WxC3QwX_2QteOfyKeRuUfPCyLJBZtu3OeAiXlwzLmg6dj44TnazOA",
+      "width": 3840,
+      "height": 2561,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110563082104763737981\">L&#39;Escargot Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2elyFivBqyIaUbvuh9hZzVIMrBdZZIX4fi2JYHUnQFE5D-lc7PBSmUw_qxb_aPx8MPmtLPnDJwiP4xB3byVkC3J74T1VQ1ZJWR6WvwTRKo93gwIOHPd2Ync9Tke_rqUf1wO11c13AdGU7lh-JXHaK1QbBoBqS9gzuS8ajxS98HCsE6mBfSgeXq59DzA4yt-YYLcA15uW46b9M1GjyPG_UbAO3ik3hZOqdDzgFtCMlQ-Vcevsl2pytsWBHZTRl0PGgwx5jTTSPD9f5saUQ1X19M-mUMDZA12Z82F7KV8h4EGiSYpElPgcwkkI266Jtie4n0dAEYx7eKYLI6QcSdrt0epfdTdvvnNF65fFWxxsWSp9aI6JfUIz26yMMjtPDSYKpHpprA8DJar2JUmpj3arYXY9YirrvYXMt7YQYtpbqS6UVI",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102524958063200299256\">Vicki</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ftqqi3htSpgv5dKoencCbAPDQJS-bInlxXzq0gDLp0U0SEHv44hJzVMh0FQ-SP9EewhsLAMOaMmMnvsxY8XNf7uaDnNdE9KA50VCt5qQpVusLdr0rHyN0rX1oOzSnxcRvM2ozPblftDApojXpuKm6wu62uWC5poIp-a2_feQNJgU4_dt0j6eIitZPPrY2_FjYKEVCYywm_7EBp1rv1HF39dMawzP4x1YZW1HGnWi8U4yFgv31A1BYDwT6-Ay382pW7KPzAFD9Emo4w4exunUiVSn-Oo-omMttglC5805ErN23XiT-IJWq9YNOcJBuEezm5MpNKSHuJFQjOMwxRFpmb0VqTg4_0qwAcM4F3K2cQyar2FSYMNtsQEOFccw7PRBYGDOm0rcwYfnqTdLOoTm4MQxbMdnf15MvqxoYFyQIALaB0",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109994327067772327989\">dave p</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cM8tGg6NApigvw1eiI0WNCVWhJkt20SSVV3mbCmHOX7ybpF2jljd6hEIXbFLeapRR4ch3uhTHoBD48DRNhftuyDz4UpbJn5UP6tE0P52Yez3ikMmQdudlzsSOWf2pVDvv2OV7rcWDEWK0XB4hsK3bLJlFQ4uwLxH6_Lz7ckiuhSwR3aSQgvFTSdMAuFZDX9NM-FGgRak3LcEjOIESXLDN-EUx1NkWXtD79AwtzlF30yLsugIPbtkp4nf4EryOQF9fh0-Ze_xkiPlB3hYU34TZpo232M6uhenk5SzAnXzFcr0wounK5uOUGPJWFxSSU4YErMfFUExq2yLReDRz-FWk86BVQCHeDUNvzOQsP6YIZFbj-yAXwGsbBxefdahhUkoReEuPGrZXi1YV5AqC_4uUYhI31mNThxb8Xy7rO99AvXTiLSGFjt7gQVfWcnmKq",
+      "width": 1576,
+      "height": 2100,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103256257510058239225\">Phy Phy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e8a8VIvUX9qlT5Th9tTtmzzdiKnEHthJW-xOM0R-W7tUPVeydKzLHiipOnrhhGAhlKdCLpazbC9WcpiJx77wcmZ75f_3TWyh40JE0IPwbigXTV3p5qQEI9NSRntBxEVU3C0LxqURU6TrN3njZrmqmqXmmGnULEe3R_GJNPBSA9qxdlxNzw839T1Sjxc3Bx3CYs3aUfPJBvOjI9S2uaCUGy3zVXqT97t0oiM-XdolxJRcK8SoOWc_gSkkiE0OU__3vrzg0zbt7thUo42HVqoRo4R9EiEtC66dVoxLbrmcmnUBg7h1PQFFwMf9xX2S4gsWE6dKi74dBHSxHHMwW-Nj75xSoljXlq0h8zaNvPM3Qg3JQCbO12UC1vjxSrg_FZoH0kBjHLoIO-aJuyji5PndNO8fy2lckrqi_cTagh2yhzf8etlEyswdGL3WWBF32A",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116696224460788767300\">jencinar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c00pCP_OekyeKZKH9X_cyPo3sA90ZktKOXxVhcaCGe1g7iWFd_ChccQf4zgmJloZwbr_iQPRw9MOnRlhtvWchtFpU4B82tJwcNPnVRUAPAq_ZZQdpmSix5ymvbtANmUIkjmti8FtJNep16SOm_S_mo380EEWBgPCeV1i3_IpiE7EPibyAEhNZ3HqzQVvi8pPAr0qQhiyt3TUnW2CR508lSAwV1oV4eFAvqKl_hfrdhM1n_oXcTTPje3wr4TUF2aaLw_EU79t-SKAxNKLeHMUtJemebTMgvcaDF6pjOzHHq-rp0Gn_ak1KOtXaKNQQ4rFBhw2xpJTmgBaTsSJDj8BTulFoP2RIQ506ZxHCBA_xc81kWIlQpqBCEvNgaOEieXNwfchvK3tjpirVV9CawXpnY2g56T0N-zaOQBZj2G6mQnO3IzS0dz3z1JgHIEpRz",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113610091210031314149\">Marko Ćaleta</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cMonBurYtEfw9Z1eEJbUpl3L-3AkktHLxw8vGv__Pmjlg5Q09Ld6zfH2DIu7FEU7qJcfl8IcWTfW_Jqr19PUakf_NCc0jn3I_VN3PMhtwmqOy1kk6LIk-t__tw9wDGsdsoKJZznIVs_AoBZieXbx-Eta50SY3cb_oW9GQpjJGO3dBodUfD5pWQ36ASXjmNB3tZ07LfK4kTSIIh_9KqkYpcg3Ic9_0mJGReXLWZ22v3yb0bOapAF1KeQm6TYbrbbLp09BEUbeseW0XNw130xgfobwqONrEi8_S0ekl3UxLNNp6mUyJEoIuyD7Tk-ER8XibyHf0vhLS4jKuF5s0YoidJ6HYPpvb2-Z24OPud4cTag_a2ZbpbGjeWOy04dY5YFThf3Bd61VfmAMbcS3uWzqo6fv5z4BM1LeT9rZofcKGnuA",
+      "width": 3826,
+      "height": 3022,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103234885948280570177\">Lok San Liu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_F5h4MrB4U2YZFKSOOr59Gz2efCbWxQe6rYTrgq40FBYlb3MTvhgZcbTge2jdt3kjevRDYjeJTvaci9EVIzXLsTsxlQpHQCnY5G469Yq31MtYhpOdRVus19fA5khJ9lxwaQ8Tp7szkrjpBCfoc5RE4Q2fsEXsHIP1IzGgxhIrFagYA6PAPLb4Nv0WWG21LcP4riKOC7_Hx8b0HPKOj4CZj5Ov0y2roPmqiKtoUOGdz5VqbHMgKUSLXk0Gjpz6-FVmGP42AMGIYV4wSwS_dV1SOUrMqicikbThc_ngFjomyrF5ei5Yi-Wy0UAkZYfJ56Ep844bIPfOtpVDsLHV65R8eIfdmUDf9_BER1ikiiPCfADZ6dOz8tpYs0ff3PGTWrI-jQIg0KU2gdAl_W4ANmKm8LzS9g7U-SoELWBtXIoj_II3",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106773887181732517161\">lars svensson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fMBLNI9y__E566AKa80GVwm9PdhGYzkyCPzNb9X92h1zKWdPScWYjPb4O2gO99ys54Qg9SmWrxqKUxh8dA8vlFkoUMLsH3XhK6uIAEv-aO0ax0nyjEvfhlPyJDGGzilhEttPhO6faBQpCnC7fI5QZEqFarWR8rUYr6imXFbvw7FwwD_4iM4jY2XKVWl37LjmRiW6Z0XCquAADIZP9l6uslmKenHbY-akqF1F_Jxgb6ZBL5OWW6qGPGCDUwTbzJZ93WqrrQbG_NjD9WZ62WEyu9Kf3Kb_Jmv_L8C3h0jfP-AGWSu3rqYfJOR054mhoBeDi83TjtGUezT4SIhbamWo5ea2I7vcbAr6j69rmPDsuD8Yh3HhsbVblUg-8iDKtt4gp8Kk7566DIW422mRfP4oYPyBLFCCn6tpEC1cCGfxDqaWY_",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115615629483424424414\">Doris Chan</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "London's oldest French restaurant offering fine-dining classics in a grand Georgian townhouse.",
+  "reviews": [
+    {
+      "author_name": "Quan",
+      "rating": 5,
+      "text": "L’Escargot – London\n\nWe chose L’Escargot for dinner after learning it was one of Princess Diana’s favorite restaurants, and my wife insisted we try it. Our group of five had a 7 pm reservation.\n\nService: The staff was warm and friendly. Even though the restaurant wasn’t very busy that evening, service was on the slower side—something to keep in mind if you’re used to the faster pace of American dining.\n\nFood:\n•\tAppetizers: The French onion soup was one of the best we’ve ever had—rich, flavorful, and perfectly comforting. The seafood lobster soup was creamy and indulgent. And of course, the escargot was excellent—the butter and green pesto sauce made it a standout.\n•\tMains: The smoked haddock was not our favorite—it came in a heavy cheese-based preparation that wasn’t clearly described on the menu. On the other hand, the lamb was tender, flavorful, and highly recommended.\n•\tDessert: If you plan to order a soufflé, do it early—it takes at least 30 minutes to prepare, but it’s worth the wait.\n\nExtra Tip: Don’t miss the charming live piano bar upstairs—just follow the staircase after dinner for a lovely way to end the evening.\n\nOverall, L’Escargot offers a classic French dining experience with standout starters and a touch of royal history. Perfect for a special night out in London.",
+      "time": 1756056510,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Phy Phy",
+      "rating": 5,
+      "text": "This restaurant is always keeping in my pocket and go to enjoy the authentic French cuisine when I visit London. Although they not provide big variety of food, that’s enough for me. Great value on the meal set and the menu will be changed time by time. Price is reasonable in city centre and the service is attentive and professional. Remember to enjoy other glass of drinks with friends on their bar on top of the same building.\nP.S. booking through open table which will have special steak+ champagne set offer.",
+      "time": 1758060289,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "James Rogers",
+      "rating": 5,
+      "text": "We had the 3 course set menu for £28 each, which was fantastic value. The quality of the French onion soup, the fresh bread and the lemon tart were outstanding. The additional champagne offer of a whole bottle for £48 made it incredible value.",
+      "time": 1756637206,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Michael Lehrman",
+      "rating": 5,
+      "text": "This is the oldest French restaurant in London and while the food may not be groundbreaking it was completely delicious. The early prix fixe is a great value. Breads are divine and you must try the cheese straws. The chocolate mousse dessert was a great finish to a really nice meal. This place will never be innovative and that's just fine.",
+      "time": 1751727923,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "leanne morrison",
+      "rating": 5,
+      "text": "What a fantastic restaurant! We had the most delicious lunch today, the service was impressive from front of house and throughout our visit we were so well looked after.\nThe venue is exactly what I like, quirky and stylish, and the atmosphere very relaxed. We spent 2 hours and could have stayed longer if we didn’t have flights to catch. Thank you so much!",
+      "time": 1752093036,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:46.831Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2nJxtIEdkgR5BVDRcOlpog"
+}

@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJx-qWEgAbdkgR0D05nwBzcuc",
+  "name": "Caravan Fitzrovia Restaurant",
+  "formatted_address": "152 Great Portland St, London W1W 6AJ, UK",
+  "vicinity": "Yalding House, 152 Great Portland St, London",
+  "rating": 4.4,
+  "user_ratings_total": 2249,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5207202,
+      "lng": -0.1427393
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5221219302915,
+        "lng": -0.141464369708498
+      },
+      "southwest": {
+        "lat": 51.5194239697085,
+        "lng": -0.144162330291502
+      }
+    }
+  },
+  "lat": 51.5207202,
+  "lng": -0.1427393,
+  "formatted_phone_number": "020 3963 8500",
+  "international_phone_number": "+44 20 3963 8500",
+  "website": "https://caravanandco.com/pages/fitzrovia",
+  "url": "https://maps.google.com/?cid=16677518816614890960",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c-isvE_bfalozLu3YbNWmSq4Jsu-BvuTUVilwSvTBw64lUf2hYkb52zDSsZVW7Zdaz9DQhG6m_xEVgl8NHa5VCgg5GiEGNPaD4ZU-NcpkkLkiJKHbi0sO10RgDciXw6G0uR3fJYx7TM8VZV0FHrtXMzrIKUnLU0FQ3ZfM9gWvz8vjg5jwoOSCKKpAQksKsAZFg2CjUAfJ7Nwqsy_81e_XDYCPaEp6R-DQEs0_ZLaYyxDmjj3SABDrf3WKDBGIkx2SS0cdy9FaKtIwAaA5oG9n5Fbcru6xA5NednipQv4wxzA",
+      "width": 2997,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110352903017563768534\">Caravan Fitzrovia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ds1viFB5i7tZk3wpOg87AXElan43uJ-M57rb5f6ReFCqWYQ7cQdt_pVpaCZ4GDlOFG9RchpTtM9iUV2xD6xbrNtAz805ygItlP866GdkvbZxqc-VZFunKocAlAgjKLc9379qZhNzlDFV7eHzvk5DiutfQpeyrJzhyNxfJ3R34Cyqccv5ho5L1-78-g3Nf51er-bAfFRBEv1V6FcpV66f_6Kj1ta76eJUtjohsOME2AMyw2XATcuhwMJu8jlcS69bUkTlTtpPnYK47N5rzAfISGKwXaFS_vZo9EwCFnGbwBYg",
+      "width": 2997,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110352903017563768534\">Caravan Fitzrovia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d2vZBiLlFC1NNm8jrAiEFUbY4mTtxnYnPl88PUqvHzL9bll4wGsooKFvcO8ufrFtKqSx3SFL_6emGvLJBDigeYrmByqKF3rIRjkrRSJiABPc4D4QAHmjn2A0NGQ84DIZJaPRnU7J_5j_s3ZCFAUzNEG0w3J_znfNftV6VcSO84L9WnvEamHVOWJMF5-LLlatFRVA1jroLj5lmUZk4PBEVtM3QuFNa6HecePWr4utufDJkAaKzea5Ev6TkaMhDvlmbK90OSaxrvtF3gICwSq9_36uS7kKeLUSIXnTyf3toJtLFt_DQIk80gT2km69xvW9l7dOhNVAncVdXQw8__PmJuGZZI4LSQA-5Oinkh2nr0rPqA3zfOrQHUWdsCnC6LKk1_qUfoDMOKIFH7CC6Cd9YY-CauzoL_w9LT3zaCXZONBsKxXW756To-FOg3ZP77",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116461828770641855875\">Animesh Prasad</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQ83q78y-HoOMK-MrFUDzm7fqHLSJ8iIfZVKVVZ6F4cGydmUoYVgDU__uDTfPuXyg766tDhYkHcfMd7IavkFWHilk_PQDnbkikkRwOPF1_vwaIshXiKJ8dWJSBpCy_Y-SmsUtg2OBI2c127dMX33-24VpM8JyRYmmYGy_JW8Zhrap2d834859cWsj-uCpgqb6fly3fLBfrWd4GdjXGwdjVychiJkxDLQ4BkzhGk3j89wp-sNjBr6t6hSgSiqWPHB_rBoLyzEJwFzrV-e3sH5AuFmNCnr4mJj2QoTz8DcKFzShG3bVnW6JHJN3ihi4k0y-7ERS78xROs6d_RmqZX9P_RDSdB07x6TGVlNG1ZcjB9wOdNGKkrvyJIPquVitYAxjwsJzn5x-XZsDcOJf_W9rviEQ_VrXyCIZS-D_rPNXum_rHFAg_aNqkp1xdG8ax",
+      "width": 787,
+      "height": 712,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103720369318309840146\">reem elfarra</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cUEEc1virAQGKIjzqVmL0xHNnskNbUO4yVqZ43vy0QeUSRfhsQ8QJCCswgsgM3HuVuaqY4lVSNPdNfKnhgHXprZ59kdPlJpGLageletbfcaAwwIDMukFQJNsyyg7_9o8nnRHUVrlCOdZ1PnNPQeCJROLwo15NiC1krbrlf6HsNde6wi5WP-BK5IOU_32CgEuUFK9YCv8mfmbIDyl9dpoVN9Ouqn68ktgdRSkp13y6hAZAYGqjUXpcLSYkmyGD8IGIHM-F_aA7X18j8pQk1nxAFyYT_FsE3IUxfE7c6o4M5yFn4TREO_tkz4kSBE-a4frg2KitaDP8riNOaygVmqKlnGX4OL70EDtqvdQDA7oc2lNQHakyWKHUzicrMm7otUXwUHn48udcbhaJ2Iw-gU7-9oXA4ZEeKVFmBquHoxOlMh_LWsgGar6oGYlx_Fg",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116461828770641855875\">Animesh Prasad</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cECveHqpQvXRBY7ORPeAHCCT_Q1dxknJU3RJtlMDInkU-kaa2MtycclAokdxnh7eVVNbHFynMSiPmZJnoAhnhjEMqTLHEtq02LboWR1t2k1Nn0G4SJDC1Ovpl1_n8ZmjL-Yu8X-LlQA-zJdQ3Xay-IER5HhD18bSiEW1wd8gN7K5IAkfBKWqyAuXR--C3CLin1hBf_Og0iZWYhltG3fhPSvJpq7YU2IEYBLVRr5Dg0u7_6O4l-OxnWsUa4xRK4nljD4lwVHP8nrwpu0BWGeoj4FCdmH937IPLNMR2tQTE4rmW_7ZX-9Hv7qN3MVFG5VZb6569ndTB24lUQjIy-1Yio7aP3BmORVnF2daE4QHEwW-nmtIf9yhHjdS6DD39f_7kA5PS0JIUnE-8mg8Y72bzETC39W89HfcvI4CF63GMNwxgDVdNlQ1RhfxD0Mcbj",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111655387920866758847\">Baris Bilen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjZmktYJJyGwaQeTJmwfGcSONaa7UbJWyhpbBIoscEcdTsVP5mxZCxvWlpWkhxeVfVJrfR9lvxWx-BvN6rMxxhast62TC_710-64PCAU95fbbMtS0eCqHE1voWO61jkiC-U94ORmld0M3K1MpUAVO5yI5elWunaJzbqOfPc3rNXyyrcC4GWUK8Wvd2OPCUo_FXCKFKnjQkYoPAFq6vzPx6S-t0qhr2NE4AgHYOgBGYulyfWj6x5gAr-dv_mDmY8seYVIf-8WNJcTDl_YEmP3Fl0J63EAxeWopImfxixiiJ3TuwPba5i937h9s_z72qrOIYoZU8WNIRpj9AtOD0lLBz6zGTz4knqIen9P3S58SfPle5Grqmc7ZZ4r44s1DPMISR4-n2Vf81drR_-WEB0qtan5T8r92il2EFbTWHPRAzUQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102313015411120156931\">Njål Lambrechts</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cghK5RUqvUr_lfzbgbUBxI0Hp_95YlJd1Y28_LTFIM3J-3vK1chM8OqjsCWwlRqItZWNfIks424WZFqwZhvo2stUKNU64cHtit7XZ0AE68GDOeJ3BckoLzsh5QPRCRSws54uwgHwO7FCtKDJGCO1k8tPgoYdKFH-efdbmH1wF5E9QoX4FmhPUs7WILn_EsTM0XLU_iw0Cn1VXjNbPClGnXEj9p6mdskeMvN7CdQMJaJ8E4ZAndensX1KPQufe6owheGHIOlbx5dKjxtSFty5iEbPvpttE0MdyIAAS9WgYpMhKwOwZaYHLgtEm5c_Gbb0Ut19m4ifgYMMCzkgYulY0aIn2kWXltfbx00zAPuwWdl0cvEpcrbhZrds6AcZIrwO2RQHq28wlIQrvbK1pMD6iV0nKaw3fNGuVJf-eylQ0x7vE",
+      "width": 3468,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112240421959279357453\">Dan Calladine</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dgcpysvoj24GNx5TKYIWLHLSqJEccATZ-gor2zyaSBVfe6i-nUxBxwYFaiIFK473U7kH_GaxRQ3Hntoyp5fWTAx1yB7O2Z_5u4qv6LzPinyWJD_jvXrxi8fjhQtAgvtjsSORi93nE8bgKuDiGdCAmYWBEBEVDWTgtZqRMTWBNkvnn0ndJIXETVpfX2f3ANMDGVKmMoEzmuXgdwjmOYuaci5LeTBDheJZMIGD8l7l7dDGzgel35PahWDU-32gjE1DZVD8ui5318WgKvCgtlAozNWLCTEs6WDnxu5kbVQ35g0aYtGSyiLwNjSiBCGPDIrwZNMhwn1OpwPWbwHBzza-ItE60Ou9Bjc0NF3E2cyxn2S4HqiqvxF5wdfkA1MsWKdpCcFZE4ZYwlSD8ByocYWGmRTaMGf4KtU0WCiqpWhlS0Xtx2j0rUBqGLv1QPV75I",
+      "width": 3617,
+      "height": 2848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109320284313258819336\">Sandy Webster</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dHBRrIrT60Bwi2rhnkDCoeX1w6Ntv45uFW7ITbQe7v583EsY1eV_3kw7Tvk4l80a2VA_cjALmOTql9EhyaZH0mP46Ccsg7xCS9sHGdVL61z5es03kA_EsiynxRKFtVFbixvrDR8OtEGVj-swJB2BZVQHcfLmh96qJIJeUXnjQ2nR1vSaTKYtKo0sDVkP387hF6boNbuHYxtDghF6CNv9qpBcMqQVikCKlCyVNJKHzhMt-OiMqun4_EYAIG56cytC3FPaCWOSwUBru4A5twu-fwrhffDHuYv_4pdUL3C9JbVER7auWCT-FEny0pIO0PGoeU5nOkcZ86NyxoCbGs60fQORTtF8oBT_j1E7Grpc3eT4nRZqm9fgn0kvfQG7ohzJmjNXgV-WDtEJM4oDUMK0U6LxeHqf8xb5VOWz2sz9nvtw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115709579886252632825\">Kate Dyomina</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Industrial chic decor, an upbeat vibe & eclectic global cooking served all day in a hip hub.",
+  "reviews": [
+    {
+      "author_name": "Israel Neves",
+      "rating": 5,
+      "text": "Everything was so good. The service was amazing and the atmosphere was chill and fun.\n\nFor food I had the smacked cucumber the burrata and the spiced lamb pizza. I also ordered a carrot orange ginger juice which was super fresh. They even gave me a free edamame which was a nice surprise.\n\nGreat experience overall I’d definitely go back.",
+      "time": 1754666147,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Bobbie chavarria",
+      "rating": 4,
+      "text": "Beautiful place.   Stopped for breakfast and was told at entry they had no coffee ( it was ok but glad they let us know at 9:30 am lol) but we confirmed when we entered they had bloody Mary’s so excellent.  We ordered bloody Mary’s and a few toast plasters and grilled cheese only to be told they weren’t serving alcohol until 10am (yet I confirmed on their breakfast menu which stated it was 8am to 11:15am. After a bit we were told they would make them for us. Ok great. I really struggled between the vanilla pancakes and the avocado toast with egg and opted for the eggs.   Which were delicious.  But I’m craving the pancakes still especially after seeing them delivered to a neighboring table lol.  Food was delish. The spouts and crispy chickpeas on top of the smashed avocado was yum and the eggs are great.  The grill cheese was very well done.",
+      "time": 1757927217,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Jouls W",
+      "rating": 3,
+      "text": "I’ve been to many branches of Caravan but over time the portions appear to be shrinking. I ordered a side of halloumi to accompany the broccoli and black bean bowl. The beans portion is smaller than I recall from previous times I’ve had it. The biggest disappointment is half a slice of halloumi cheese for £3. It look forlorn and hardly is a reasonable portion. Gross margins on food of 55% is about standard. This is way off mark.\nLovely food but I’m getting disappointed with the experience with Caravan these days.",
+      "time": 1758990297,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Sandy Webster",
+      "rating": 5,
+      "text": "I went here with my wife for a midweek lunch. I had the roast chicken and it was exceptional. I really didn’t expect it to be so delicious but it was.  Such great flavours and perfectly cooked. We also had the Labneh with flat bread and that also was delicious.",
+      "time": 1753219064,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Keith Howell",
+      "rating": 5,
+      "text": "Came here for a second time and experience was consistent with the first. The restaurant was very noisy in the evening, but ideal if you want to be loud or are in a large group. Quieter for lunch.\nThis is my first time at a Caravan restaurant. I was very happy with the overall experience. The service was helpful and efficient despite the restaurant eventually getting very busy. Had very tasty food with a Mediterranean/Middle Eastern vibe. Also pleased with the drinks choices. Very modern vibe to the interior but remains comfortable.",
+      "time": 1749978590,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:35.163Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-qWEgAbdkgR0D05nwBzcuc"
+}

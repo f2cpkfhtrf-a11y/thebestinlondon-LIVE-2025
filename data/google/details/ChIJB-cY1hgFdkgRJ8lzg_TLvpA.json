@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJB-cY1hgFdkgRJ8lzg_TLvpA",
+  "name": "Peacock London",
+  "formatted_address": "County Hall, Westminster Bridge Rd, The Queen's Walk, London SE1 7PB, UK",
+  "vicinity": "County Hall, Westminster Bridge Rd, The Queen's Walk, London",
+  "rating": 4.5,
+  "user_ratings_total": 551,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.50231059999999,
+      "lng": -0.1194993
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5034506802915,
+        "lng": -0.117446819708498
+      },
+      "southwest": {
+        "lat": 51.5007527197085,
+        "lng": -0.120144780291502
+      }
+    }
+  },
+  "lat": 51.50231059999999,
+  "lng": -0.1194993,
+  "formatted_phone_number": "020 7928 8728",
+  "international_phone_number": "+44 20 7928 8728",
+  "website": "https://www.peacocklondon.com/",
+  "url": "https://maps.google.com/?cid=10429998038074509607",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 10:30 PM",
+      "Tuesday: 11:00 AM – 10:30 PM",
+      "Wednesday: 11:00 AM – 10:30 PM",
+      "Thursday: 11:00 AM – 10:30 PM",
+      "Friday: 11:00 AM – 11:30 PM",
+      "Saturday: 11:00 AM – 11:30 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d-l4_QuDlsiAuEOHLytf1iZnAr-BioHq0X--SVWE0PBrqjthDKNLMsynZxmG7TBB2V71Pq1yV2Jp5520qH2u8BbTMbLYJtBrHaQdzfaS8gsqN13F3vS2hFswE50oMFtNmNFr9H6rV1rV_oJKsEPiaqY2r04xdah9TTfLYu7bkE1l2739VvmF8dU5aKPiIr8zxv5LeMjyQOrP631oW1RoXBSiVmA2QKBoOUK6QvrDvX9gdv81zdnL-01WFwUi1BpR8OhbFyAnH1Pdc1eOFhnn5k3O8A6PoQ5xR1rURJAILFYg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473947875346965026\">Peacock London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f303a9R42iSsYmCQEJ9jAMnDQ2K7PfWcfwmbYKWGMOu2pP7GW5VvjZ8NVVLEHVjpxnxlLQOAZDMC-owMnoreQ2HhkGZWDSDND0ub-WBVtl_e0FszFQywYtsmQM_FJ2wUD8M4gCSy-J-vPk85Vi_OMPxTDhZ_KtIvdmo_Xa1yNqGvq6HQnL8ZUmLHcbFtpeSivBQhp7kDxq5uKnqel3QtV2ksT0W0VZqeeEowrDD6SnZLxSBWxtY58Iac0fX156q4dINB_NtLSLPVWIbiZQKz0NJnyQnm9MXSglR7D6k0QmRA",
+      "width": 1365,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473947875346965026\">Peacock London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-dZCwebKnaA_ljUZdfJZjV_n4r4_pPNTAQOIEjp5Hay-KuENe9suNH3ULJHl7GHjMopJk9musMj7VTOtG6muudGLyMANhDxQPcBtZeJkwblBL1-0vnE9nQk_0J6Q9nxuQ5xTeQUAJEiyTJ4NX44qSLfzSPrzP5a0BYI9wwnLFVwxDzFA0OkiCa74X6XmpYTfcAliRZ77UZsH3fMA37MCYanFjHwh0_3gcSpj46Aikdegqc0ZiBVN4fX4mwVvZ27cfw-zoEveMMsPJEmCy1hho-4rYgCrYkuR9EN8nZcWSO-qsIx5G2eC_yrAOBB3mLW1qwQRpy4LPXuoPT8ETUtuxDrd012pZRsDxc5QH4NIbPLAiGJy7OJHeyW5k7NO8xd1puzu1itzdOEu5Wk33-7qUByB5qJrnBtEfgHsRycEPMl2xNLPII8XQe6-zT329",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104992396017548222908\">Misha</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ejr7viF9HboKjbMomQJOVWTuc9W3IE_Dcup3D9L0ciWPKL6FIqxzTTf1QPM7_svdYPn46AwqUGP0LcR1iThLCm5J4tkf3K3luC96DcA0CVyvHmIZiOgffpl7LahV7MYnM1JK6feykieoV2eY4psSOhGkmg6UM_9iLa7B5ZXNX52dKbNBh7Y4IALZgR2EoduSBTMLXDsI6bEuEeVFqnWL1O6eJURRlKQjRBcy1UvTpTOJYFea2B4gGPbXOiMG089WK-1Yqkf7UFpJh_kgNny2iHHHt3cjFLCSL2oCEELyVwNA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473947875346965026\">Peacock London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e6gbfmGmtpkvqG1ldoyGzylQ4WjgBxoEmQlXY56K5VrtDruswulYtP_CAM1E7aR3okH7uS7JDWGMg6VeV_MOkFUim2y2_djaY3rUJvd4lSL7rKNOen6HxmG8JSYbX7Gz-qdiJpjSwrgFfrR_1lgzC1sDJ7DcGb6WWv4OTABTj-DP9hKSvEjNLpS1daltqBXbMW5KnB_TSGtCebbaEGgQ7Yfb7GTsEy3DRR8AfyOG2v19CXPNf1TSXG7r3sAMAPIL7v5S-t-vMuaUbTKxXURqbShjDTmcy9Ilx9-BwK7lCUb0arT0H0bIsXZKO5xDw_8jqRvgUNC0qDp0axx7YkNJKwhRDs0C1kdbX3fnINrx_NdW7hBT9SIEaOMa3d7Q1KxIJEvh6NUgmwSnMg6CSL8neR0ZzwvFTXXVf3pjxp8fXoQxaiT1e84XerzpAzSJet",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104990502301686634151\">Inna Khadka</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c2MycwiQRNaKJTGZ3fh7ulEIEvOqkIThQHWJMtnnTbhtBd2CsnPl6nIR5eDG7n0JeVgoj61edULiOG1z8tri98fAoKKNvNv6UBt9UAx9o2QiyS9v0StRXJ41JBq1NRLcXDRK1pQGWtZtd461dNE38l7fImva0h1PG5N8U2VxdvcFP7afI4aD0QcVb_qCJ9paK2e8GL7o5U0PAhrZYDApDadteCSY2j6HKrn2yZZbrnvH9rrT8IKgDr2RHhoiVYxMr7ThKdVrxrG8otVTmj_cB-75OBIDEDYRgjJoxuxP-xuPtIP5X3KZxSfxSZrOir6mTTqFwvm7UpPXlKie_lmch413g6kdQtU4iTHSIP4HOKRL6s9yMARcTb7Z2_METeVgfwCceaEf51U95e2sfifdbvJZqHoHuv0nJFGyO-V-gZEA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116965939135525084416\">Ji Yeon Park</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eEZM1EkcgWWHOEc-FE8MaufHFlphdtyH1cHoRrfPyV6LI0sGkipUfFLar2hTCmt5oGL5aHDkx5wDyPzTtNu-_JKzulBvbvhH5FE601zeQbDRmouv9wNYqR0CnJS6-z4Rmi7rdGr2GAa6x6zC3K8JrR0t-hvTL3ls9IR8G_8E38iEpc9kYAncsS2p9nUWGC3p0J264R_lrogNpZ3QI6GttFMWuXLLBLBt3nhtystWGaCQnIxJPtn3Ms9FofhEbh-47G5Q_WgSuIk7QTFnBywgEhd8ZchLpD0UASuJQMxQr0Gw",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473947875346965026\">Peacock London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKxZuOfbIDj6--T1-tFKcRvR17plqVh2v-9VQMkBj-HGhzDjvAgvq0uAsES7-6t6vZv1yPItKfFUkVlBN7i3I-Bh7EVXNiiNQzLbcHAH2T0qGPkRK0o4LcXWH86vjGj5fK_xW3saKLphP-GGROyUAoW5c9l60u7g4_VhTEjMMB9DmWKqYxVd_Z3F7-C3suegwGXCoGSICt7jXjJ_oNGYmgNqtCzLzZaZlJfTCcchPqjaSkYrMuyoKzNZ7XQqSA9cVyqmhsTOcn_GGLzcsHTJ1bps505h-OrLPIjdy9zxjLFA",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473947875346965026\">Peacock London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5Ao_cya_RbwP7PcPCmTh_VucD5vPNvzmuD1GGKplrjlWKOPNtSZelj2Y__fsmE197MASeDXN5VeyipFvBL7a-6IEceYuzkah7oQPUPa5MbOtPVw1g9aSmliAIYiskyBuQc7ma5ZllQ6QKJVSgx-0LZMxSZT-vm-XhTUIp8rJlo_FiR0NwC2GYW2Hc8DcI1l562B3JYuTNYcCNEEI7Dj5F9R4PBFAZkf3oOIcMtW4y3JsrwJz1C4ceiYn3A-XPnRbnGTRw42TZxRb0iQlo6gf9Q_Y6IKXADs0ErN_jlTRf-xjjFXQLoNnpU8GjkW5L8AWIi469lr7mCObFIDBb9qjz0QSw0ze35n6wJrEZ-GSV-j9KKrGGX0gQ_hnmYZNoA0LfvnU1SM3iCokXeCJMeZYcuda13aiha4WgVbfGYhvrJTMjkHNN-_Ivyj21ub5f",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101762692935950658263\">Maras Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1psm4WH0Bzxq37L6_wUCE0oCB8Eql1aKzzFDlq2K-8tHpHhebCcBooPej1Y_LbNGw40T7U0YpSigx28yf-OP30eQDef_nEft04KXAXB_9taDq9WRidbsES7hKpXrl-vecJ3SaHt22Ge3POEdwka9sclfGN0M22rrZai1oFQP-hdBlHGas8VM-NG53guDOc-s6ASDwgsB2vWGywQS63yWhNbvuh4H6-ZaOTpTaxf-hCMF5DH6gFR12CyQrLYikh-F6QQKs3jFg2MWKQvRJbEw-ql5G06ss-oWX2qzr6UE7eg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473947875346965026\">Peacock London</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "PAUL G",
+      "rating": 5,
+      "text": "We booked this Chinese restaurant for lunch which was located at the very prime tourist location.  Initially we thought it was a place mainly for tourists.  Upon arrival, we were led to a window table that had a great view of the Bog Ben.  They were having a summer special that a whole Peking Duck was at a reduced price from £118 to £68.  With no second thought, we ordered the duck right the way.  Along with the duck, we also ordered a few dim sum which were very nicely presented.  It's a pity they didn't cut up the duck in front of us.  Price wise, it was higher than those in Chinatown by 20-30% but it was still reasonable for this location.  Their wait staff were very friendly and helpful.  The two hours of dining went by quickly.  I  would love to try their abalone on my next visit.",
+      "time": 1754936002,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Vinh H Nguyen",
+      "rating": 4,
+      "text": "Tasty dishes in pleasant atmosphere. Some of the tables have great view to Big Ben. Friendly and polite staff.\nBut; we were a group of 25 guests. The staff should take time to present the set menus and how to eat the dishes because not all the guests were familiar with Cantonese food. With such big group, they should have a lead staff to coordinate the tables. Pity!",
+      "time": 1756625050,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Cameron Maclean",
+      "rating": 5,
+      "text": "Excellent authentic Chinese food, beautifully presented.   The location on the river opposite Westminster is great, from our table we looked out the window across the tanes and Westminster Bridge  and Big Ben and Parliament House. Price wise very reasonable, I have paid more for Pub Meals no where the quality of the food we ate here.Our favourite dish was the lamb with cumin.",
+      "time": 1759755846,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Jennifer M",
+      "rating": 5,
+      "text": "Delicious Chinese with a breathtaking view!\nPopped in while visiting London for the first time and I loved it. I would recommend booking to secure a spot with the view, I hadn’t but luckily there was a spot and the lovely staff let us sit in one.\nThe food was delicious, particularly loved the beef with black bean sauce.\nI will definitely be coming back and recommending this place to anyone popping over to London.",
+      "time": 1755634066,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Katia “Katie” Edward",
+      "rating": 5,
+      "text": "Amazing views of the London Eye, Parliament, and the Thames made this dinner special from the start. The food was next-level — flavourful, beautifully presented, and far above your typical Chinese restaurant. Staff were friendly and professional throughout. A fantastic experience all around. Highly recommended!",
+      "time": 1751399917,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:32.317Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-cY1hgFdkgRJ8lzg_TLvpA"
+}

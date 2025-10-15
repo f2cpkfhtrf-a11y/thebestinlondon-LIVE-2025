@@ -1,0 +1,313 @@
+{
+  "place_id": "ChIJafBMJ6wbdkgR-KqbdKzyekE",
+  "name": "Sanjugo Angel",
+  "formatted_address": "42 Duncan St, London N1 8BW, UK",
+  "vicinity": "42 Duncan St, London",
+  "rating": 4.8,
+  "user_ratings_total": 2670,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5336574,
+      "lng": -0.1045314
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.53501978029151,
+        "lng": -0.103172019708498
+      },
+      "southwest": {
+        "lat": 51.53232181970851,
+        "lng": -0.105869980291502
+      }
+    }
+  },
+  "lat": 51.5336574,
+  "lng": -0.1045314,
+  "formatted_phone_number": "020 7278 9277",
+  "international_phone_number": "+44 20 7278 9277",
+  "website": "http://sanjugo.co.uk/",
+  "url": "https://maps.google.com/?cid=4718350382128671480",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:30 – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:30 – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:30 – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:30 – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 12:30 – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Sunday: 12:00 – 4:00 PM, 5:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eWLcuMlUdSLQmFNcSjyGtbq60PMYQ7TbbjIbyE75wcZ1BlcuHh4NsYkZeE4HoG9sqQQ7yar58m8VWvwAM9WpdGr6NjDLJMW_-WsCf7ShczmK0kCxruiJFoyKIlGiXpV5KGFyYi6LTYVKU3481Ma86f_zb40vPb7tIuxcViGQ9or3iOGHwGdzNuwubjWPTd1CMnPLqZpnZDy-yvsbWNrCG7EAv04jTDTq8ZQu3flJEVRcicPKyusJP-DHt0tampoC62EKtnWhywU0PxMGQNPr9cxzM8cS8bGhuk_9JtLETHEZekzw9CawA_yLTgCN8r0fOu4eajjzj9SPTuIxSsxamY6K8SuoxzjPo0JApR-WZt0cCYGDMsN1h5LXUf3NDA7L1UmJDlBKK1sG8rGb-iOjVXvbZI2PNXeUA7Nr2PsBwPpnWGNqSDy5KSBbcSBlBg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102191219907762545866\">M N</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dtK0RdTnWKbqpSefDNuDu_CwZlj58dLY7zStWTsnoMjBdzKc0fB9WjfQ1yKnr8AvN74jTjeIRUHF7SJur5G-qhLCW59h0jUaCE8ZNRouj7N4UPjEOrmtPDofC8QSobHDJuqeqWRSY_dDqa4w7yuGF7u7IwcMkNlYjz3ibiXGcnRBu3buJX47x4i1GyKo-2uj2BF8bQgikIlwnkfFQMm7Pc_Yo0EBis0vMFC_aSLqjFqWZ03HtzFvvWMPOyTNMPcRiw9eoyIlznL1NEK9F_gY9edWW428mqeZFu2KmaJ7zLEA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109809273826538190033\">Sanjugo Angel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFBpGhnKcLVoyxzkFYE06MwAwerFxkyWegzhFNsnLqZ_m6NEYfEBKAs2EoKeeKdFM-1pXyuldgPxUA_MxQea4redkCxnbno7zQ6yctGadpuxVX9NMxtIx_5VHaDmqcs9TXHlIkzEfMME7AamvoitCOeeYz7d-WBjU9pFSunpbo6VNXehHLycXSaRr63G7R8mO16tHcMVm3juTPgWl2Jg459euAJp773WfyZfNzuKpTAsKj1GlYXZbq-0nA0kCrHudQHPOBP39o5fbvsIX7Ia_wmmxg7r7ZOfrEsQlQ3i7rwckDrI5GBWbIZBv-pfX6Vab2n5JcCoqg0GYyg6OW4Xz1SRn8Re8z-GRPx6XTEhR_yEUHbr_OTW5Cx0i9Zg4IiFgev8e_Fzru0-pgBum2UelzULvBukF9S5KACFFfZFW0Tz51FOiN0ka7cV0rhA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112321248965690076844\">Cherrie L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eE2RsABsShyLsF-PaaVfknU5_FF8LHR22znlmHgWj2W1cwWQnkOr1C5BBzJrnQ5sJETRiG8EJ3q0y3v74f8p_A2e10j4LB1BoqdJnzReEYOBwpU0-sWM2oZrItajo2ziY_IypMX8zFMSPZZqwdFWTjLCO3HLCHlkGOT304kkvfSeOPVlEOhHQYqkgPojGTYpwgEKEXa6TSA9v9ftwFsu1q-4BXCS-xOIf644R4PNuR-KVpQaWpHFwC_vSOQQ0l0xfQCORBca692Ksm6MrPhG6qx0QgijxYcvv-C2YjPmaokw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109809273826538190033\">Sanjugo Angel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cKXRZ94229wsmkDb0y0SRUb-WVp0imV_2c6fFlpeKzHm6qi1mIb2MN_g9F-6yjmp199mM_dh3be_fKSRE3F-psJEAXiSL1vN4BBhFFtQOux2ZAB78XZ9SqAZfn8hov9POViIt0XHokZ3i3qBuW0sdWWUd0hbnOYlGZJOyzXHqfm4V_VSCgEpLfGCc-Og5h6oboL803Ms1pZR7uFXa1Fa-TlM9pQKkeDxi9-gDC1U2lJr9XtMhyrtbuYHIpkZ7UW012jLegFWWfjgS5RSWxWyahelYvGd1oWaHDaqOKgqQQ8Z_kqpIm2_-rR65hypJa0HIyYygMBouW1iQ0wJkhpYiNR97pJ4l5W920QyrvWfBU54UEmcmkgwLmmqwFqtSsGEEcMc2qoFgZwHA2VT9Cejzb6e3Jf5RiqnJ3WfVp6cItEIs7IihaxaefdXUAPw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112672571540714999582\">R G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKyjU1iuzgEfttpZ8s6_G-aWI5wEjmvhX5ZGHpNTKtUDRzqXYHjR9_-R9ZYX_FXyPrZJ38mTNmgc1P6mqzgg_4GkYASr_jSINx-e1aqLfBJ6yYvaj7rOYPQW5TnNvopMMmmip4RCaF_IuSmeC37nYPPCMHJGc6XEd2hJ7EuTFIGTKe6ahoktru48y4nClWdIsleVawQNgublxGqePeVYvzSFiAak8iZ6JIfjiyRncms1shSVBK7JfcKONH1WsNQ2SfdVaPKxl-ZHpTKaDLASWBPgLoXrfMsKz3YsMkp036xw",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109809273826538190033\">Sanjugo Angel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flkiaaK4OSy2saAJurC_FvJ5w_63S56ALvcjDsUXN6py-Kll1na18HIZQLOBj-QH1V6xMyPOpd6oUzHU0VHHIVK02a8L78HRR35F5qBUowpT8GJsgwfttBjgYHjxRehL__JPrYTC0BLQW3SNYjs1cXrwZnlRYpOD3_-z7UoLyyjXVvgRMGd04-_3IAfNBDkRO5jjcALmjwnE3WOeDPTWNHPon6AKSCNwJ-tWwJ_y6ZNadWAJ51nOs-zFf0cAWXQUaU1jO3fGAPQTodYMpSB5tgTkZZCtWhaJ6XdWgMrMdZy_S9vIJjbdm7JfWdDnWTUrnYW4tCWTZ6rJkgiCTKwPOhdJyBwNokT-dPf5rZH5BWjrRTrV59WIM7lVvzNPBIo5a8SVy5kJAB3RnG6sfraGlaULwc-CmrCBqMDxlCVGaYbQat",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111297958713855411565\">Madelane McAllister</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eK_EyVbwb6d7Ifs1ZIJ4kPALWAdGCy28iB3P1x-GP3uaO-8oeFqYtSCEi8zLIdQ9-AlP9ft4uB0HsaCykdXGLk64S9n2m9LE8IYb06CTcDjocpGrKe6tPYYGorbP6FT9qp4QSvvTUhW6DsIinMmOE9ltMDfbYsTu9ANN3lSbOYjj46daC6JFntB3ZYjnblg0s9-usoTKXPYeOG4hbXDDi7id3C2ej5RVUlJwYECuPseBLxNgZCJglnqiOve8tdTfA0f1icm9pYtzntmbbdw-QYKez5CyaU8DB_H6g7wiE5q_IcQ1vnqNDbFMEAHsV8HBZ4cQfXS-zwo0Q0hd0WEIfb6QT8RB9pmp_icJSByOXq4RS2BCVonp7l0nf4h7qbWA1RLFw4oL2g1QqP5du2tvR979c3dqFtB8FDRrCNevR2B4zXbQc1a5d_zIDarpWf",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116861854137354303421\">Gabriela W</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enOy2nrTI_qPhj7pRPxlaAuGYwI0X3lNxmcJYmISZKzUaP_jMOx-qRO3OYPKc94QlFjaowIm5QY04tau2X0o03ZoL1RIBS84WAUu0wVkSjHYN1HKWtrrX70uBPDuPKWqDlmDjLX-zAzkn5NfuuG6fzlcC1JdLxlyATw6dovAGrrGCDR5SV2Vffd1Tf4Wl7jWCvxIyQRKbcSJZ02l53M1FssR0rBcnxPqQcTvSVkGMn4ibt4UhNGg8lEU3mr2QPWpyhiKIQDkOjXjGe1P-ILrC62xi_Qcz6Miw9OTTwqpIPwp2AiCbsH0PQt3v6JkfedoBLhbTwq1SB-aLK2CdwRzLeObvKNr4ek_h9GyitePCSl4X6gqyroUbENuDSPg-ZNz71yhf6MNRaSFwomcfUjwSO9B4zzMg2JpMhc4MNh1BtS0cM9deX4giPRnuJahxX",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107579316000558623782\">San</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fGZBbxaqGGgZWklITDHIeuDM6od5Yf-YWUARC8Sn7aJ1FjGOT6jK-nPmMvmz0N-y0TQababaxOUpzrEKqtc4XBg8Gn_avsTZk7KXji1Aj-XzPoNmluBn_dOg1SGOXpbWCpYz2qy9MAr0pc1e1WPF17w444UvgK2TDFVp80FNLWVfEVCz80TZmMNxnBoxun27Drgv3tDRawHyeDcFtnOTiEOJqILSdmBc8qKKOQLoeQSKlIHGVISebO4WLa4R2zx8aiEXy3gi9MX1uksFBcyJvMd8ulq_k7GHquYq2iNbP8Uw",
+      "width": 4800,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109809273826538190033\">Sanjugo Angel</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Sushi, sashimi, bao buns, donburi & grilled fish offered in an unassuming Japanese restaurant.",
+  "reviews": [
+    {
+      "author_name": "Lily Ly",
+      "rating": 4,
+      "text": "The food was delicious here, every item we ordered had a distinct taste. I was fortunate that they allowed me to make some changes to the sets, so I'm very happy with the food. The staff were also really kind and explained the menu or recommendations well. I was a little disappointed in the restaurant decor itself. It seemed like a place that needs a decor revamp, a bit of love and excitement to go into it. I would still recommend, but I think it could be more high end. Great for casual dining.",
+      "time": 1754772602,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Cherrie L",
+      "rating": 1,
+      "text": "Visited on 13 September and had a very disappointing experience.\n\nFood was average, but the oyster tempura was terrible. Overly salty, soggy, and clearly fried from frozen.\n\nService was even worse. We arrived shortly after opening with only one other table occupied but were seated beside the stairs to the toilets at an awkward two-person table. When we asked to move, the male staff refused, claiming all other tables were reserved, even though most stayed empty throughout our meal. He was also unnecessarily rude when I briefly took a phone call.\n\nThankfully, a female staff member later served us and was polite, but the overall experience remained unpleasant. After placing our order, closer to half past, we noticed that most tables were still empty and asked again to move to a better table, but she also refused, saying they were reserved. It was extremely distracting to have staff constantly walking up and down the nearby stairs during our meal. Several “reserved” tables were later given to walk-ins or remained empty.\n\nAll this happened within just 45 minutes of our stay. This was my companion’s first meal after arriving in the UK, and it left a very poor impression. We were very mad at the poor service, and this was no way to treat customers. Our first and last visit to Sanjugo.",
+      "time": 1760151475,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "What you need to know!",
+      "rating": 4,
+      "text": "Overall:\n\nFood: Japanese Sushi\n\nWhat I liked:\n\n• Delicious food overall\n• Great presentation\n• Lovely service\n\nWhat I didn’t like:\n\n• Price point is simply too high and not ‘reasonable’\n• Decor was quite tired and not commensurate to what you’re spending\n• Tempura batter was too heavy\n\nDo I recommend going? YES\nWill I go again? YES\nWas it good value? NO\nPrice Point: $$",
+      "time": 1759606652,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Seda Efendioglu",
+      "rating": 5,
+      "text": "Everything was delightful overall, very fast service by lovely people, we had no reservations but it got crowded very quick, considering as small niche place, you might wanna make ur reservation ahead.\n\nEvery piece of the items from menu been prepped carefully as it came to the table, great combinations too, well done chefs!",
+      "time": 1760125004,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Sam Sam",
+      "rating": 5,
+      "text": "Such a beautiful restaurant in the Angel Islington. I came to celebrate my Nephews birthday. I was very happy with the food & excellent customer service from all staff. The food was made with ❤️ very 😋 Most definitely will be back 😉 I have plenty of photos of there lush food",
+      "time": 1756667488,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:29.413Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafBMJ6wbdkgR-KqbdKzyekE"
+}

@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJhVtM-s0ddkgR1rmn8YHUCpk",
+  "name": "Paradise Green",
+  "formatted_address": "100 Bishopsgate, London EC2N 4AG, UK",
+  "vicinity": "100 Bishopsgate, London",
+  "rating": 4.6,
+  "user_ratings_total": 2066,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51572040000001,
+      "lng": -0.0807509
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5171257302915,
+        "lng": -0.07939001970849796
+      },
+      "southwest": {
+        "lat": 51.5144277697085,
+        "lng": -0.08208798029150202
+      }
+    }
+  },
+  "lat": 51.51572040000001,
+  "lng": -0.0807509,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.daisygreenfood.com/",
+  "url": "https://maps.google.com/?cid=11027860292140251606",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 10:00 PM",
+      "Tuesday: 7:30 AM – 10:00 PM",
+      "Wednesday: 7:30 AM – 12:00 AM",
+      "Thursday: 7:30 AM – 12:00 AM",
+      "Friday: 7:30 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fdKAGU3ZBT82hX6x3q9xMpsJRbgoxy4dhsWP5UVIBxiBw8N1WyU-9Hh9gmRgSkVKIf2x-QDUc7MqsHhNF7p0dTmcmPNN2_NmH1LhwQY1xqX6sF22D220bqOObnjOjIgE4L4IdfCPtIfFln-j8YGKGVDWk7lkkfCr6QXNlhqcO6c6qtTSbm5yuqGVTaxk2VW1TDQ22nrpbYDh5Ml44Bt_JPHp1jJvgUrOLIWH5Gl2eXAP2TgXFEAyZj8lM-w_KtguJ9PxYbNhubBFfruh-n0EHRazwy83Z32DGC97Zl-J2SWQ",
+      "width": 4800,
+      "height": 3089,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111743193496453542258\">Paradise Green</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d6dasVYF4TXrzAE6JCzl8Pz74BaiI6zR15aNLUL6yuwFgxJ1m9La-rh7QZnokbZY6jh6VavLV4KZ79A-UegB-Jgy1f2_JiVwDmWk0oYmyISCAVxHZzq6aZ8f1KpP2altm6p26SD1hGY_EPWEiHvawDl4F-Vtv7iCaVM-BtKAxqhl5LXu7Y5LNM8NWCqF2LWJysK1L48fiIHE8_pGN-G7tFxQGs2h1e6AR5yBN7eyn843drbtK2mEuifV1HoK-e46b_OiaefJtU94HRyRm1nJOCfLjYQRWFeKfX4wCknsQV9eMRGmBAU0L0wxO4I0_5nWEivgRyKTKs2b76uH8V-NmD1rfeA7_kVKgepPXjAOYie6pwJACGAKjlaQdtn1diiji4J2go5SCq7hIamwK30v0XCMuTaAYwy008T5QS9rCIZLpMkp8JMs_ePwnsC3qj",
+      "width": 4000,
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114556894992715074998\">DARKATOM</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dZ4SXuN1rdyv8ll8rZPUiFaCtIBaORkOyF1jUP49LAOPsXqAv5WOq1pDv-WdDEMlvIgip1rPNQAhy4mwY2XDPT2jLHGLBK4-kM0vOjxWgeLWvY65nc_K0bnp-0OMzb2AfHA2S45kMThvBxU2FVfvDqhh81wr2y5tzNGUToSdw_hpljDieKL9nrFXhHexVrGlxREN2qxdhShLDRcOrq3y4WbXXNdZueaNVXl-0nxa6PibgENxKPr9umRScUhrTcPH_xZul4q3V46EA37oPlEG_n6FES9jHB_wkyHN7zAT0Uz-3hG1B8IpbnVGVl30_ep2VFNKFaY7wFprG7yCWsfiGPv-_kWeD32hzoRXpIsKV5VHbnK3Re7R_iuUNGoxd9C3SeMuUkYoJYT9rvce7OdmlNTz9Q9A1p4gMIxLNp6mGcXWJKtvdWqry6oV9JpQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107437022945102889137\">Aménie Robert</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3NvSG8ZFKnCAVdeR2--DAHr-YYhKKA3Mmn8osthFY0uuQU02E44JZXEmcJ5CYMYImXdFW9bIoXVyRjKWHpkWTgK4wyMi7wvkex4GQ88GM6CwlW9oYGCkMtaLn8eH3dNc5zr-hqmYjRhYl3tj5fxgkGQkOagoGjWAYQYd3C-9Y2jVIeOpL7BkepxbgvypRExXvEthSaPg2NsN9ib7o8-nhpwbr6RZ7N2LZSH9SU8tbxRq_5HL4Sj_emF7dZTOJj9UsA6-e9Wk9TaqYLmoG0ZXxeNya1gnknecVai80EnAE29dSvTOPHzo6uGdYQSxeh9VNtXFMZX0N3rXjvkYuBYyUwhbv8M6xpSADNlApyIXe6BSzWU9xzkVAUaocgU7yN2WHkovO14NdvyfOpiQfpIZMT35hdgVrrgjOX1jIWD5KNPqPdn-CZT6uGZsHtGZ1",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114299400288542677139\">Tia Yabumoto</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2es7bJkxXb60r_3FEJGVH_5X88hoblAbd4OjBOWe1rYvbo0_xAC_w9f2xGo6AR8ljfoXcJR9-YWU-qlG-E7K5Rirf_HZ7VzUGb5mNXtX9-5y4W5G-0bbM8z8K_eMriTDMlC8b88QYB03KlyLBQ8a_d4k91krbV2yTQ9yEugr0qtLD3EmRfOFRHtlwv79qXKzNI1T3gUmYkW0Uea9sDrVKzmJeERAHmD95k9Ud7aKrxbHvNIX2TCvbY41e7fVm4OVTTsRT3kusb2IaSaKUu1b0aNvsqozXGq3hPXSld9dbWpkLCIbGBYqFzxYeqcm1LNuDAqHRywUS7Njnkzfubf78EU69Sho8q80llxJG-eiD5GfETBvxeKcGilCi6cr-m3O2jimzaAmTqYTKvQHqcZb1kEGK92kooEUIxnFEw2q1KX3-1W5Mt4gvZyC_Vsad7l",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105825178554349927022\">Marian Lee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0hD0GCwpqBsgpOjmbMMrJoS0YCPZqMD3xYIA21yMafKlSHhVv2lb7ewl1o23Y-RMp1Ul27zsFr88CehDekgf0SoxQPMQsX5b6qB939_14e1pz4BYPa-QkOmEiISGzLSzaM5qZon5aeVuA_uFt2vFHDHYPHOKTXyVeFkmfVsDg1LoA5oRCZYOPXAMc1hLNOsjEZz54d-ZP0Xt0OCVUDrcVQ4H4Sw0FQBmL9zw_nXBAfpfm0nH6MUqm6bW0GyALi0oyPNEcVFrBBwwVqfU6NNRTeo0uHMPSgibVHFBwt6tf0L-S9Vu3dRrdTXTkrMMomfY3Nr7p0gzLHKJiShas1Wbp1O5rjTwTT-9mzHGTzjDCh8daUK8yUlgCPZRVx07PV6qY2oEYVpcoB3RrF2IyZOLY9M8ha0AClK8TiUte4bAqPpUt",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114991777522118315679\">Omotayo Odunuga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2evdjlygPK0y-jBOAnAG4fmDV4ZOS9auesZbhMqEC99qlZeU3CDiTVUj6JfQ553a_EiHnVmuYuFiUfBUgKnt_tYBXmMgb0ManLL0xeZk4tqxDYAAPZDYG-z0M2ZDsnNqJVh9n5--kVdN7velBiqe1lmHhLCHqdbLmqonnyRawlUhrQVRNSPmz02oBgAPcjRp7gwoyk1YELN7muNxcUCMvQNupSeBFINyNiiYUefn78Orj_9pueHqJqBzI-DwUxIclWPAHjkk7Of8WzxMEPcexrbQH5-b58oZ-VyCkCWjet2iS4_8F6MeKD6ng8c9AaOOPqxXF71kQPnraQUOVRQzYlZfIpYmpr5ucbBjOdMbNRhPgaqFOhdpVQHfTuPzOmoWrD5l_d9BpEnOgbzh5M_C4A4lyDxNUqC7-BCIZ1yg3n04aR6AFacYR_n550L9g5C",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113740988573011504465\">Venus Liu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eKvmUQO7KukmZwjbKH8vsShUnQuMYDfyB8K9kXY4e0-bC5BakCCmMpEIeO-_fTUYPVszdjAbcwqt3amTj4vfvTIK_raWWPZsZh8jSNSqaFZnhW8O8_tZunSqKrL_NVBB6SJttzY-f5sdaDYjT1vcfchZBQW-9CFG3GVIRYiQVEscy6Y-OkZPtx1pbyo9_gLCxgJX-Kwln34_bvDizCVYkw9t3cSFZeMCuVG8HHZUU74aT9qcubRvk73cwdbbLjGQxvABXUIFk7rfoYg0EVP4K8InqoO70Ffdv3Umiy91skGq6KIJLCZsStMrbBAPI8-ZY-lxr9EZK2Dwq-D88_94mqJtG3H09fbGJnHNzBDMaIbMV3faZmPrNKW6aSVnZ4ULpr05M1py2nzcKEsHDQWXrcki96AisRDaqOtACEa4kOwg",
+      "width": 3472,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113826708116973999713\">Nes lie Vaz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dgT09QmHmc9xFo8-Hj_1z8seqDILIfSJoGQ-sfbgv-aIyqr_ngObvY81xCdFcMfs_aqCs8YcBWIodOUtbTRxnV2YpPbs5x5L_2d6Uagi3Psap7TFb7JGFBOUjDxS0jU1j5sNzThvnDR6jdaY7i1qmQsm6B41UHyjb2PSwOSJMiM6Gsc0vmlX5oNTo7UVxuT0FQ7LmuQkluDrTyxMaBhtELyo9e4bZntCdfZt5dnqAqzuH3cw4SpDtXhwyDn-DcZ5jmV557y5ku3qNfWtUmwRkQSqYHPvvDM_SvWnXlIgshu4kCPBnDnskzbtPiMbNYz6jRpwCMaN6ySZMspeQqBaf7z_2iXX6i3S6PBNuhXEz2IvfdaQzf60qJX0JAK48imr7JxQKtBF3j4SE2UMS_HWchqVpH2e2rfaUMd459-AYtj37B_A_fBaGk2qlG2ELt",
+      "width": 2622,
+      "height": 2623,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104721598269657934708\">Licia Capra</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c7OuDmg18OoZXJnFzfX_Xnh6fEeB8jcwx-sCI96AUKNJ5gbnDi7GnIp6F-TxUqVWxg714Atd_inJQQcXp1RUeHhQaNL7ZjxdNc4BrZhvxGJ6PotX1rnM6zqoGPCRdJfgBop5_Uxt_Ssq_O0ubVj7tDZTD8sqdDhjwxVFfL9RWaNUZEYN0RHT8XFIMSokOjTv-IGRKAypf6-5DJlRahv279MsmYt9sI6kdr5IIIOVjtiBgLYjGOZ0mZLLH1clli_o4l1Q3kWOdgC8uGQxM-vSUJekiwMi_Ph27ITORnl2in1oCYzp8UcUdsYvmCTUZzGL6k1uRWhbRFmAgORksgw_f0ssO6Mrt0j7OW1O1nySeFocyvltCidGz32Id2sr1o_P3U7ZZoTm7kUbvdf58YbeHrIpcXJ-BtwMq6lhisGgJ4xQ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100278113152726705548\">Aadil Shah</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Rob",
+      "rating": 4,
+      "text": "Really great food, options for more healthy or vegan options if required, but they have proper hearty mains too. The chicken parmigiana was delicious. We were seated around the front which to start with was a bit cold and breezy every time the front door was opened but it eventually was ok.",
+      "time": 1759141937,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Taslema Begum",
+      "rating": 5,
+      "text": "The first waiter that we saw was very abrupt when talking to my sister, and taking the order from her. He was fine with me but seemed to have a different attitude with my sister.\nI think equality and diversity needs to be taught to this particular waiter.\nOther than that the food was great, and the second waiter was very friendly.",
+      "time": 1752813471,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Charlotte C",
+      "rating": 4,
+      "text": "Gorgeous space, service was lovely. Enjoyed  my last meal of my trip to London here and it was beautiful, however it felt a bit pricey for what we got. Overall - lovely experience in gorgeous setting.",
+      "time": 1757532110,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Jovan",
+      "rating": 5,
+      "text": "We had an incredible experience at Paradise Green (part of the Daisy Green restaurant chain). We felt warmly welcomed. The food was absolutely amazing just like other Daisy Green chain restaurants, well-balanced, and beautifully presented. Their coffee was equally impressive for a restaurant.\n\nBut what truly sets Paradise Green apart is not just the quality of the food and drinks. Our waitress, Elizabeth, went above and beyond in making our visit special. Friendly, attentive, and genuinely caring, she reminded me how rare it is to find such warmth and professionalism in hospitality these days. Daisy Green chain should be super proud to have you.\n\nIt's also great to know that the restaurant chain is a women-led business, founded by an Australian woman. Also, it's very hard to find these days...\n\nThanks so much to Elizabeth and the entire team. We can’t wait to come back!",
+      "time": 1749552894,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Fatima Aliyu",
+      "rating": 4,
+      "text": "I had a lovely time at Paradise Green, the staff were warm and accommodating, and the space itself was absolutely beautiful. My only critique would be the limited protein options on the brunch menu, as most were pork based. A bit more variety to cater to different dietary preferences would have really elevated the experience but great time regardless and would definitely recommend",
+      "time": 1752567016,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:31.138Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVtM-s0ddkgR1rmn8YHUCpk"
+}

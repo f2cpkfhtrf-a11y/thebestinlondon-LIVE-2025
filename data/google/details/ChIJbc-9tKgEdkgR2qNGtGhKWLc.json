@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJbc-9tKgEdkgR2qNGtGhKWLc",
+  "name": "The Table Café",
+  "formatted_address": "83 Southwark St, London SE1 0HX, UK",
+  "vicinity": "83 Southwark St, London",
+  "rating": 4.4,
+  "user_ratings_total": 2523,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5054844,
+      "lng": -0.0998167
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.50691133029149,
+        "lng": -0.09838771970849798
+      },
+      "southwest": {
+        "lat": 51.50421336970849,
+        "lng": -0.1010856802915021
+      }
+    }
+  },
+  "lat": 51.5054844,
+  "lng": -0.0998167,
+  "formatted_phone_number": "020 7401 2760",
+  "international_phone_number": "+44 20 7401 2760",
+  "website": "http://www.thetablecafe.com/",
+  "url": "https://maps.google.com/?cid=13211391320452932570",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2foenpcst6Xfy3n8eETjcs7kqhk87HH8rqgIRPtmcMPwCialS1knodi8p-hyclfogXJHdTtS0_AveqftqjHvbNlWs4J97SRT6daT-ZpgfduxcM9qRRR7NWK1v8MA_-C9sWzi-VoRqeTYOsWqjA_FfHEoSiiGxEthG_6UNcZW8sP_U86e_cgitGMYi_m5GNSbHfQVxV4YIMk9eDnFCDHRMQ-xSWYNftzcjW78D3pfEIxrVF2BQXnfQhcCr4XRBZg259BbcOPQEdxuhblTPwFFhuT9kUhF0lcX8q8CcA0hXtxKw",
+      "width": 1080,
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113425615298571919845\">The Table Café</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvGNHrcpsLTwRf4G1DSsNatifxJXJ-PEU5w0JAHVT5UzD6HjF2HAlNo5bVWNSSZ3MVrf5Sh9ii7UjvqV_oyL3J3L721-jtgBe_1l-hOx0jGqqNnXt6xURy5GUUejtArN86iM-r56xfIX4kP7T4a0ll1YRB7ZY5okB076nPdYA8ukv5-buhKnFCM1tjiLQzjXCjU46pG7H7qF89l1SKbS8BA9G-FP3RIbjChWjW9tuXJqOiN8T4n2dczO0W_c4w1vQ0-tpf9Sz3bXPOHaY8S7X5BtuYYHRTkBs5fuXZ0EgLww",
+      "width": 2362,
+      "height": 1572,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113425615298571919845\">The Table Café</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eueKWDxUxMeg92v1poiA4j6tdzhqRUG40PRFAt9aPRGX_zXTN0mT6xN7309RAEqgwnmiuyJTm6Bx85HwIeciSJp970820bUsImoPSwJRLu15ayx02VEnNpUOvrNx71JVDm2Ep-pSKcCFd-lFmrnO-nHqU1JX818TOlZ4_4nitfhgWo1shxUY99GBdQ_35IlnH6Vj6bjVFf5KUuHbacgN0VhaauV54hSjtGQcDjnj7-wqgyZe3i6ynMDRnTLOw9gnq-HUvOOKLB7DJALk31SMhZqpiCZn9Bu4UDBAZbgvrncUZD4krKxXgWyGX1sS3FqjGWsMtimPnODpsCwUOaoErNRb1kJ-N57_ye5Eo7AdSNmkzU0zO064IzWTk_e4V3NqAqUe5OESAgnMSTnCczH1o2GQcU8ryMj_RAusbqjsmqLwP02YVJL8Sx-gm-rw",
+      "width": 3611,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102326646967906624027\">Tom Steemson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dHqNPM5SdBAtX16pWfUZtVyW7ShCmzb_BWFxJVWOwYoWrkGYfC-VqhBsCZPUvgXiigB1qAau967DuPlWvCEpfWTt3_5yFOG9QjtC0olZTDjOVRHduR0MO4vI15aRXtkUoDxZ7nPUefPDcaYWm___khklfXYn1sK098ArwCI8OuqxVNNPrs6uhEiX8-GnwBpW5npzp98ao9sgHEv5bhgybKBEgUWde2Ayp122Z8ZKqqWQqjePwMmuNv3taydiAXtwZiE7Mh6eRtllq27YESCTz1kT3bx-7fxOsA7zekEG-XWh63xKm2EDCgPNu5gxITaa8pDj5q3-3DH0_mLTDnKSkRBICWlg79x8TwMPa_Pgbm2m6S4CvY5Txc5e2BErlVxPbJ1OeuSFXsPfDmzE1ROj3m1EkYaMKjbYNxsyW3O-c",
+      "width": 829,
+      "height": 823,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102318480074381262731\">YiChien Tsai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e__LnFp6dRpTbIR3SoZtbkXh-4J2ujbhb2nR9VM-8DOkIMV4vSeR5r9HGhwwtdTpbTJkWHwZIySRTOLAK5Bhsryfgz3erlMBls1LhiKXlEgrIKlyrPhggXthcRUhcF8EfpoH9mVvv6RhAJQqb6mH3EpOLLg_3w-7aVvAKkdpsPtzORwQieV1fzVYR6T-lOlu8dKt55dxx1ph8a9Vg4xYEwS2ImJSEFjIt_0XGC_agstgem4l9t5WBsH7BI3veqU64CgVcZZUVtSocV_HUe8QnzJKRyo6ESv4ivllOVamJ39ZLD-qZXiHu46J4Hzb26TlzgHdyTQV1v31deqNjcMcc6nbnRlSZ_0yx_DkcS0SZnpuju_D8DHaHN8fqKTDr9Dv-bLbrED3WxPQqx9nkQSRtaM86Z3WV_soXIMmNXKUnbzY3h8Xd9tPEKDrFPM24Q",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105349091132776777201\">Daniel Alves</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d7lP9M4DnTeqLzWCZxqymgcrVOyFWUjgYa-9iQ381BV4iY9zLUVjtGpxeJury77bPnIQGyqPyFW9sIm5_bkETkafxoXcBcf_oSTTFy_hh5Yh3YKu9hEaTdjy78CmnROOyI319cE5hOypNStJEGj3P2UdUF5MtPP1gIe1JQTaeK4KrpMIaJr_K-RyjT1gRvg08pQEKZG3ni1MQwrgHFczgKoT3e28mu3ChDvHALh2q-sM8ZvBN39KbNMVeaUMWnTWUs-Md_Aqp5BmRxbvHdtg_N6PJlCn9ll8WSnS4FPLPD_Wk9-ORcsinRMSzN6KCmJQ6S62fxgFi099JCZDK2adIMDJu91xEXgDd__omXRAWW1o8NDlHtQ3dxNEM_RRxfn-OY2lkCkMbKz8yPeMw_htCEkjCJ1Y5fz9YQLHlOkrFE8M5i7xylQJQsM6ULMyPt",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114202985023087554150\">jd</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6lXmgJcgDQE3Nliahm7Q4PMsaKm-83EMVVYE5JSAKCD4q-6KbI9rGRfchOGsU96jKP9DMsxFTavPADN02t26vLjHuYCwNDBWeRP3UnbUq77QYHQLZX6sqwGNr6NswW05g3lou8ff3aQnu5DN1CbKUIkombtw9s6lSQ9lzCARYD8iOPAZ5dWxiZNX6Srdwq3pmyZYbt-6-QMvBuKv5jtwCWIo0oszl0_wHoaGfOIrSSl2tRrhYcp7KwiDyGGHUC8ijNYE0EukN-vULa5hZJz6R74x23zsdKfWarZcSyFhT2-MAWJOgLdkYc7sHNz-t9323Uxu1hsTIL-7VYrdM-z_ZQ9dXExzut8oTEOa8xSXswkKRxZspy8o4RM7ufPYqQqBedaiUjCCyZasVmuBVtrhcH6iVTujfcnRS7kk4drWAnKaS",
+      "width": 3021,
+      "height": 3005,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113917373061834634644\">Betty K.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eyX-j6NMfAaxhDELQoO6i-Uocb5dG22ZNKZzScT7dFJfRaNeMsMnSSQgymPDY3GadL6kW_jlbMB_sGYtUmDZXRgs_Qh69fjGdfg1obfAkM3Cpf4xT8koe3fXOQXEWaWiPI_PAhdtV_tfkI9hiwUijFww1Ij5jp30BFs-wApCpDZFe2KsBJI2jwvjX6HFDIfPYBPAH3FEECwCXWP2WtDyXJwCVNurs4yLojP5ufSSDaZKf3fwkJoDU0ig0Nt23Jx-UTj9ob-T32uiVZUOmVBq8VgKU0kbe1MLaBIlv3YbtADASM2UrFOeRPkBJ0LrZmTvs193Grk06WK0p030En9Ak-W1B3Pd8lqooqX3mxvPAoHpflw8lROgPXWnwirPulHiPly9Gx2Cl6qMxQHCrL_utTh_zMU5nUMDhpbveJ18fqsw",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105049940966707339089\">matthias huygelen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3XCBOhg1eUSLlkKJQw6gTYNjc76rumB-9i97YDs-jorg5IDJcWT0XRHmbGxWzmSpjmF6lWKK-8JkFbu5wwmL4x_mSuJRSVqBCKUNh1KJ92EoUI-PFYYEmEiwE2Xppta24U9k6TysropuuT5xJvDpCmcDB8jAR28NXsjnqvWaITDyIoaZpnlFV552IC3jhZoUIuIZHmiZTlmXtpAxgr28n4ueALbnj9ZSYooGfSsXK6HnsETAoR5Xe0r_nQ3tV2nvzgUn649rCjURF4BK3mQLg1IWmzEhy3idCRrbUJZkHbKAyjSTyty1S3zGWnd_-YsVWdRaVRlcUz0lLJO6jdL57gsmjFoxuA5Otj_MvrcBPXzvn0s7_GVR_pXdN10xq1WekhTU1hVcqdm48fv16gqPcnhxf1Ddavdkbe-C8rrmITQNNmd-jdtXwlmE3q1wE",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105349091132776777201\">Daniel Alves</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dtACaGR92eBhOAfff5CDgDuHp-iBOwtcSlSHCveHP1F59CvzPIsbyBkLbB6CVrI3G6qHtyEUdJGGKjkdTLgd1mFXCxBv20fJ6aXRnSaJXsrJAQBluyV-a36c3qWUK9VeDp2Yrjoa7tKRm0_FYmEXvYDjM7A9TUs4w1Kxem9v2ZPtMHewRmB8VWLEWRsJhLXq82WKWV4-YQo3EmiDTh05cKJE9kpwBEjt_a-v-Zyd_kOzDSaTYNlpUH9z2nwxLS2pyLnxWouOBm2IEXert0IneleHoQYVX5tv-eY7k59jKCOhKIJJ8fBFr61xzZhJRONBtwK_4F2zzOs1j4qCNH8oc8d3uC8CQUS0AdeJOFQKH9Pkm6liu7tAv3BRqp0qfQGiaaqusCd2GX5AK-DLTPth1aTI0pqawadLWY27rpECqk3OSKk8G2Ct0L3fTYIg",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103839673562083290182\">kash Graham</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Breakfast-to-dinner British fare served in a bright, modern space.",
+  "reviews": [
+    {
+      "author_name": "Thora Guillot",
+      "rating": 5,
+      "text": "We were really impressed by The Table! It’s a small, charming restaurant with a very cozy atmosphere and lots of plants that give it a lovely, rustic touch. The menus are colorful and nicely designed, and the staff were all super friendly and attentive.\n\nWe had The Table Full English — a classic English breakfast and everything was absolutely delicious and served hot. The quality of the food was excellent, and you could really taste that it was freshly prepared.\n\nThey also offer vegetarian, vegan, and gluten-free options, which is fantastic. Debora was especially knowledgeable and gave me great advice on the gluten-free alternatives available.\n\nA big thank you to Debora, who took such great care of us and gave wonderful service and recommendations. :)\n\nWe can definitely recommend this place — great food, warm atmosphere, and lovely people!",
+      "time": 1759849649,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Sven Lukas Dickmann",
+      "rating": 5,
+      "text": "We visited The Table again today, and once more we were absolutely delighted. The dishes were freshly prepared in the open kitchen, which we really love — it’s such a great and inviting concept.\n\nThis time, we had the brunch classics: Smoked Ham Hock + Chorizo Hash with Halloumi and an Avocado + Feta Toast with bacon. Everything was delicious and beautifully presented.\n\nOur server today was Daniel, who double-checked my gluten-free option and made sure everything was just right. He provided excellent service.",
+      "time": 1759937479,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Theo C",
+      "rating": 5,
+      "text": "Very much enjoyed my meal out on Saturday, sheltering from the rain.\nWaffles (with cinnamon pear and shortbread crumb) were gorgeous and they were happy to accept my substitutions. So many options, I was overwhelmed! Will just have to come back 😁😁\nOur server was so nice and really made the experience extra special.",
+      "time": 1759081845,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Daniel Alves",
+      "rating": 5,
+      "text": "The food at The Table Café is amazing! We ordered a burrata salad and a classic English breakfast, and everything was absolutely perfect.\n\nWe had to sit outside because there weren't any seats inside, which wasn't our favorite thing, but honestly, the food was just so good that it made up for it!",
+      "time": 1758657466,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Adam Pearce",
+      "rating": 5,
+      "text": "Beautiful cafe with a lovely secluded outdoor seating area. Outdoor seating is under large canopies with heaters. Indoor seating is lovely and open with an open kitchen at the back. Service was fantastic, we waited only a couple of minutes for a table. Food was really good. We had the eggs royale and brunch waffles. Both were brilliant, really tasty and decent size portions. The ice chai latte was also so good, like a milkshake! Seems to be popular so would recommend booking if you really want to come.",
+      "time": 1745753712,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:34.466Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbc-9tKgEdkgR2qNGtGhKWLc"
+}

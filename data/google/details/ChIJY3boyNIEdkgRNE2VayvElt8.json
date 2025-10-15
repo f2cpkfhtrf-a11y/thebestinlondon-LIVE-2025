@@ -1,0 +1,294 @@
+{
+  "place_id": "ChIJY3boyNIEdkgRNE2VayvElt8",
+  "name": "Bibimbap Soho",
+  "formatted_address": "11 Greek St, London W1D 4DJ, UK",
+  "vicinity": "11 Greek St, London",
+  "rating": 4.3,
+  "user_ratings_total": 2141,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5144005,
+      "lng": -0.1309395
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5157292302915,
+        "lng": -0.129662969708498
+      },
+      "southwest": {
+        "lat": 51.5130312697085,
+        "lng": -0.132360930291502
+      }
+    }
+  },
+  "lat": 51.5144005,
+  "lng": -0.1309395,
+  "formatted_phone_number": "020 7287 3434",
+  "international_phone_number": "+44 20 7287 3434",
+  "website": "https://bibimbapsoho.co.uk/",
+  "url": "https://maps.google.com/?cid=16111280407732112692",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2crccFAKLy1fAd4DZLcf5_V4e2zoL0cVfQ71TTNTNA7J-SXbEfpv2r7_YghjCFqiZ2IdTb1MnGFiTR9nTX12_ke2GyMcEbnb1fsFwc_wngZgtVtWPpb88oS1sX5esYlGOF2-BWBfvbj7v4viXeT3ixlp3RmvkgPEl5PlvE5pZaE9qftdu46N394AY61IvCKoRXgXONavc7UeV7YZWmZ4mhj-PP8YcfYAHeiFgYGsoDzydHn9iB3_L1q7xVglnNr6dFqO8qjFCnkp5z-b21m26wSt0vkmbA5IZZJZTPAQ8r_LQ",
+      "width": 4000,
+      "height": 2672,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107937379221420295329\">Bibimbap Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEam409DtUCSSaF1MSkFslpukW7reSdLnGefxGw6VXQh9XP4w_HjLaVFKQ_C_NdUL50ILS4QMc-J6nOAYUOpFhlRPeR4xZBK0-3l3TF0KqY1C6i9BEJNC5_BIENKLM4FBJ03yvn7bQbMZGqQSCZFa81u-NGGp_zDgsF17RRTmB2HnEVh_xYNh7-vkUox2qhqGsFnzE2S1-cxa4bEwLV9PKddIVqQjyHkS0bBg1XuExXtNWUYhvC_O1ecprqxC8eV7-o52JBgu6kgOzVuii1gZGzdW9HXVkGv6xTTRa3ZcCfw",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107937379221420295329\">Bibimbap Soho</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cEwP79p4_d6RaEwrOhEIFAyRckCgmewEl9jBHnrkqorOmpVNgAQvo4LQ7LteecCVUlO_wVAtgacnasOjv-j2Njvs3n89zLI7UamtDP-Q1u27QmMLe4tboAFPQGBpauH0qRtKDyjiVVFLEWWWPCaZM4njaTBl876DGpF2yCX8KnxxA3kUvgPcHEA61SSDsut71w48NwdZiJImaA2dX62bFQqQbZrj3EyrIMMpOAW1so6AQ524NfEAlwzgKwFT5dMo6l0DR2_QvrtDm1QSkzU4kAmv-A8FxAMD5NaFYBtQdA7zGV_FRQuls2s7IvbYQZcqhq8VsWQp0Eift64somK_qfv60ifyF1S-DprO-zFjh02rOqbgita5kcdiAh-xkhd41j735mANEZS3QL21OSCFfVcvIjpnRVqUolgJwR73uYJkc",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112117314709341603457\">Aspasia Koulocheri</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eJGGFnZlCnTSrzqLjOswKz_Dv0UMLuxwfSCCXHIcv-WEuHew5FY91rjDsa7hH0QGE7xpcBAHwNcmZNU7tGpY73MPqh1vIrtEzruNZX7x7uTqa0Wo7caaMc9_ugMZDn4mV629KpHIkjeimvh63LLOKkY4z11xpCz49RscuebligyK4mbfWMisdTO_pDigIVMUq2DXDVZg9LM9k7lVuuLDD89rGkk3U02KQdDYRMN1ht7992HS9_TxXszsAZsy3fhV_oG-Oz_1HlpCxNEdC3nHIaD53qM_DFRpjjYc8dkPfYN6b5RSUK9hOvnBHEVmJYyEyOjSlb-uUSy-WgipvN6wJSGObeL4jLn2o8LghmT1g6X21QDBtVH8L9q1pDXWREDpcIT3ajw_qhmrckzNBlf19fcKCGDKc7ImZReMo0uM7BmA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118300362765578380603\">postcard24r</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dwQOzTQh0IHSyQoaW8g8CHoxg2OLRUv2Ud_BGNPTOqHljTfuLVJWdvq_6LwHeR8z-7ioP_ULZOw-i08KEsIAAtwFiuRBQLW3H4azOweKDLyKZUHA185L2YF2h8DA1OHARKUQ0_ZIsRoTnKo326RHn9fiHWrBgWKbfbQeQaeSAkIq_4sCiTVi8UYQA7tlc95dG8ZCtnpbcA2HDj4uQTrVy1XhuIpqPSN5huie4nBf-YdTPCEgaYsYBN3pC0HSyPnRkLcPqi63-Fps-AzmhbmBADhuFYuMhIbl-8F9iwmcwKizB9AEqcyTRSnjBz4mtuA0FsUHdoDMaIbZHtWaj_fgk8qQzCHiW4KgfNBJQPpdPFKTP3uHdm3Ic5tGE2MMRbo09kQnVlSylWQZwliaGwKujYgbhtKVjVtZkByT_NCxY",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107541666897315941838\">Serena Palladino</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fICsaoVpDWPj1JPEUVNIMcbTeWxXt6c90eSvPDdyRGBxvtmuteudO4c2aaMQZrg1MaQ_6WKxgqGEXjKY2H673Xj_LnZicv_zwBVRkrGK5xyCne-9kL3NIqGRLRDo-ZFJsacnQYLX6w1o0ecVegNkcgsxJNfywsSUceFhRjHxz00Niqs2h-hWYOYfV5BqYA-CEOTqcD-G0LK3znTUlbo14kZgDZc1hMqpRdlam3y8i_9q4-ggeYr5BeDsUpIRfhJCwzOAXKOgFBVpBuaZ6hhRKapFDFFDLjoWaK90VfNulyFtrmkvXnDefEDl03P3SLNzhTLemSrd0pTvyqqG4x4HpK7uUM9YA-rzpQe_ce-xf7UWw61dDnbLaLTPvMTJrNOBBpfJ7xq_btR4VuLjjEQFkRxoHw9-47D7u9MayKlfr1uhTr",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100703308231815013809\">NotoriousB</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFAZFKBgGg_maCHBRAlV72bEzXfLjuosMZD5VzKUUuhKP8Fzd0DCkxlPQXVIpzXuvcUMR69NCBJRvN4IIl7sbBY8fJtddIyVLp16ntb8v5oQW_wYdXFolcg38i7EEzVLWt8SBMauLkJbWurpQiCCPzC2wTK3rgPhEYRsve1NLw3eInDYwdryh_V1EmwwCCdBCM5tBCe9ztYFAOIoG32ZNI1aMIuWy7d_YuKL6098bl9vNxWiwH2EzDivMHlyg1ub6ECprepWrAzzRehyNVe6JulhE67csKrYwk9S2pfUZJqsL15fnzk3ZMlueFO6Gm9sGjdAKRWOHveTep6dgsZ-lhKNhAbWVtR5GcL2ZIHL92MO0hTsMPybl2udrNq5lpe_2ej6G0-W0-kEmC9QmH5ltTRNJIkH7pCWw7x1AQ-OlF2KKS_6dZ26VDM-Q69-s_",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109025855956982993792\">Tony</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eBG3UECvXMUD2BVqsdpGvO4LzDej-UKVpPai3OCvIQmgKbe2IEpxHdC6aBB0qn1xpR50z4pEX82ZQvLhMp-WTKJQeC5qbHatXHfeR20pKXKA-7CI4MVYmwrgAC_5E66m75vjsKVfLPVBVu8fS-2SyweYraFTp89sZ8FHYon23lEulkpMJoPHnGcX5J5vAJRCrDHkheh5ynUUlbCErTdi8ysZMUm2fY1QVCJYpT6P5WgfS3MmekKzGil7fUasPnV60r-lQvSjXXdyqLDsAtt7lAWZM0g9IJaB3vHWPK_kQ1M97BdjVAcaArTXyUQwv596AxDQ8RM3C0JsAWjm2od50DOWEXXsJcy0T7NQPVWuoxig3vhV1Lw8c0_yKJNr2BM7MRsyfapNiM7PT92MfqQkGfZrdYngT6L8B6jM_UmkhfZqI",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103815055636630012185\">SK15</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eu_JIZNPuvZaUicbfMsN3-Tut4GSyh1qi-itYDesmm5H0RKSkElyD5lvLCfTVoSvEatFgTEI-lpVPlY_enaGsdBC9b3BFdnH3okB5Qccni-ddAWnWu0wHBSGU0WxEbVwk-UWh7ypjWKqW_ZD0O_hI8HH1Wnbfg4FJztqeicRKsc36RBK6rIJGlKIutI0AC4TUKNGq4j2-Q3xWz472uaoQhT3_fq22EJH_1lvkDrx7dFYiRMB1rrn4UONvTjMFhdx89_PAz9jD90jT0401ZVpxSwU_VDgQ0xMxeIk521pGjSmaQC3b90QEJpKZmzZVueb1k2m78tzw4VRntw50pTiQ2XYBo7xhzJK2DyD9T0deNftxV9MV1G0Q4lwpsqCcteRbR1DNIV0rqBjhGGBXTS-IHc5CGn7-GDg3mHWppNJsb9eQZncT9oxFF65vB3Q",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114435523933809305694\">Muhaimin Choudhury</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cNp79V3AiO6NDvb5pvnYR78cWyqXXHadBcuWU2mcT89UXwhjEWNwj08QvMJ4LMAvD3Kez4wkiJ6qr9YPe-pen6H_W1TrEEgueC0hObDHOQiuhsRVlT99DxfECKk22lJeZzkZpokW7cbVVBToeJIZYh8jm4X-7urrEnTyhAy6NOKvJB9rlsYB7c95u2uBAaxpTWdnR95DazTYn8LryMbP4nX6ozBhHVDzMidSEfAqmK28f4NQXaHkz_vTSahFt81FS1LX10NO1mmmcG_8vbFp7gR93OaxxDGjDr5rajfq2W-HmyuVYXDTL8edwBJ_njSVqr_s1W8qQgRo6tNj_VefRdGliPQfOLBCji7jtNulwk241hpozfqmtO3lU4z6DdLCcBSNj0UYDd2jUpl9dn_ZozqcLELLmM4jkWP9P04w3Bz8g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117375694851045819300\">Sheana Soriano</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Bright, modern eatery serving multiple varieties of the signature Korean mixed rice dish.",
+  "reviews": [
+    {
+      "author_name": "Tony",
+      "rating": 5,
+      "text": "I had a fantastic time at this restaurant, which offers delicious and authentic Korean cuisine.\n\nWe ordered several dishes, including bibimbap, sweet and spicy Korean fried chicken, and the spicy rice cakes tteokbokki, all of which were tasty. My favourite dish was the fried tofu bibimbap, which paired wonderfully with their iced plum tea.\n\nI highly recommend visiting this place!",
+      "time": 1750712384,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Thao Le",
+      "rating": 5,
+      "text": "Minimalism interior eat-in Place in really nice location. Love the atmosphere and here we enjoyed Bibimbap. A rainbow colour of rice and veggie. Will try Bingsu next time.",
+      "time": 1756236918,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Muhaimin Choudhury",
+      "rating": 5,
+      "text": "Tried Bibimbap in Soho for the first time. It’s a small Korean spot with great food and fast service. I had the chicken bibimbap, which is halal and was served in a hot iron bowl—delicious and fresh. I was honestly surprised how quickly it came after ordering. Staff were friendly and polite throughout. Spent £23 for the meal and an apple juice. Worth it. Will definitely go again.",
+      "time": 1751488504,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "NotoriousB",
+      "rating": 5,
+      "text": "Lovely authentic Korean food. Quick and friendly service. Food made fresh and very tasty for a quick bite before going to the Theatre. Recommend the chilli squid and chilli fried chicken.",
+      "time": 1749417394,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Ron Kuttner",
+      "rating": 5,
+      "text": "Perfectly sized menu with enough options for everyone.\nGreat warm bowls with rice, veritable and chicken/meat, amazing flavor and satisfying size.\nGreat Koren beer and amazing dumplings.\nHighly recommend for a light dinner.",
+      "time": 1749227942,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:54.349Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3boyNIEdkgRNE2VayvElt8"
+}

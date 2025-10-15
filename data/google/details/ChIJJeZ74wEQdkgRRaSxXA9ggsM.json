@@ -1,0 +1,273 @@
+{
+  "place_id": "ChIJJeZ74wEQdkgRRaSxXA9ggsM",
+  "name": "Cocotte Notting Hill",
+  "formatted_address": "95 Westbourne Grove, London W2 4UW, UK",
+  "vicinity": "95 Westbourne Grove, London",
+  "rating": 4.4,
+  "user_ratings_total": 867,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5151529,
+      "lng": -0.1930118
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5165602302915,
+        "lng": -0.191671969708498
+      },
+      "southwest": {
+        "lat": 51.5138622697085,
+        "lng": -0.194369930291502
+      }
+    }
+  },
+  "lat": 51.5151529,
+  "lng": -0.1930118,
+  "formatted_phone_number": "020 7446 7699",
+  "international_phone_number": "+44 20 7446 7699",
+  "website": "https://mycocotte.uk/notting-hill/",
+  "url": "https://maps.google.com/?cid=14087928203464254533",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:30 – 9:30 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:30 – 9:30 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 9:30 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dgU4AIfEiqaRGz-WM_8IEce3PgRgW26TrS0Qxfx-1BFLOUG_VJOJimo3qXM32rX9KHcKi5xG-PKjugASQ8pRr52zCTw5bywYznk3mMx4FVBer3vzCF0Lwt1M9F7XPlt2GMVivLPN7dxaSpiyDYngsbsNo0ehXLpsc0bdb2a5pV4juWTT88yJWZeLe8jROGZpvJEZgbAe1ZSrSBBksgKc0NoJ_Rrso6OEGWkh_XikX6OG25mFz93Z6c9NK8i2VMUHwWf7cWa71xA8A4KzCSSRseKLNA_FZ9796oOKFBZBGV2Q",
+      "width": 3148,
+      "height": 2154,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104550858786542289080\">Cocotte Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fU0-FSD1n5VZgyl0SWS7MNOcS9_nkCIJRd5Uv7vUcqr6U2YEAJJJWE7vzBuBuNlOMofMy9zozFStL9jmVe084YxGs5QU3qK5GIEFPRpyNxHLvPWff5RSZ59Ir4Lhn98wfFU0cDeEXznWYPvPX85FhSlmM499TRImF4Ko-kaKDpLYhLR1_lhV98Ni8PI4dkqwI9vcq84ZlIj4ukzlr3YBONfjSvY9In8FwjMhdNNVgccOrOOSGiyB-g9KJzLKSZEiapDDos19fhD7Cum6xd2ukSlk45T21KHEhvAzOJWj2wiw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104550858786542289080\">Cocotte Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cUNOoZ3k8YF8Sxfvf54IgRSHLYIMcM7M0nevmn5ru5LQSpyrLBx4D570asc5I-D90AbxwdZ6QtTftvX79P7E4UiuO8hmVQ9Vr5bDNs54MdEn1hge_BTUR1fKchHPU9Kbr1CHMIPFHBdrI715Am23Y5kA6yPIJC4kae3a_ZLG3FH3AxJoVag8cmFfYK9wHRdsRGBRs1DpvwltBPaNnVX5RyGTR_b1JcJMlt8iezAlXadXYWRAWhZBgD7chdNObXW3FwhdTr7ED7nPo7et2lwgZa3aP7IJaYl9GbSC7gcaluSjnn7ToRXFLieoVnRJaD-KlJ9GCdsXHTLCgvE-ENZ67HaOaCZ4Ml3QEf0Q1H4-iE3d6u_vqQpPUUczYAfAITFoduZ574SlCeitrGyojX9HlB7TzBKfDOJ0_UFU7LCOdL26DutZ8sfiJWp1DeIg",
+      "width": 4032,
+      "height": 2834,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111751902515470722951\">Crystal Dai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c2BkiyHzjpwewj6WjA7CvcfebwRznwa_EKvmCJ5mWHjQu8KcesGkTH0AaPW7Mi3rlSY17aoeYcPAhb836GubbogMfJ-NVxhabVVV0H6pxQFSPM5kWN_AIgLre99ZTflqaEc2e4CbyrpSMNlZq1BawH3TB9Jb6PkCl_fioJRYFWDuJp7bZEmcmhPuM6vNglKcGEKoaAH42RVcOlaMwt-1B9p0BVadiF0ta2hqT550W3eW3vlGkS9zr99H2rNqHf9MTnPuDu2B9-INEt4CXJRgAYIUmPruXQ6nZJcOZJbZFxZQ",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104550858786542289080\">Cocotte Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxu883KxvksSIHjXiQrEWUY9T9Q1EiPf0yPQ45me9XhLVw_P6weD-qRXTRDN-p_kr_0n9EqWfC29ql5GG48AiPrWul8mOgJsSIrArx6VgC8nbndqcgTd32PYsmvW9u7fZ3yTdOspVLE5gRrTdEUl14oP-jddcrkWVcbrgJ2BybaiNqcMAbfcQC1TSs787lpFIUFQkYtaYYZh8jx0J3_AFHuEKUe59K3Rbj7qqn7siQjhwrlvr3BDsJ6vzSyyghZEiB9-7gkNWwOHKcr2CoBE5UGb6Jwg8Gj5tBW7BhIWqQvd4yCmjdCGNApuzW0ubnCulBXYju1cNHJt8JyTNHT6vAHaQO2cF0J5P6_34gpT9J4DFBz3SY_SS_F3LeMWgb469kJ4jvaPGxkpSkr13YL_bWImaeOecyQRO5Blu0a4T8gBs",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108266818465653347216\">Sami K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fP7_YgC7vmVBhfWpIkFhVALxliV7dfAuMQYGxcmZ_FAJqJGRHKdYXM1NxWWoZOF_u4s44zyVDg8Xyr67S8N6bkU0yAsiGDlNodgeQRynD8abhnnyfL1DcTLcY8zpJToFTNfbBhytn5baWOnhQPK7LJXnGa5wTJOCzwOfcEBs4LzUpfZGBe25GJZFoMPbPt9zbQYxMydh7s6W21EZK4Dn-1d-XStL9rRYkAeCf2_qthfMAekTrzSkd8cbcDFm6irCEUsgtt8p_3WvvYsFvOLD2zMSy3pTwxA0M9mHactIeaww",
+      "width": 3201,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104550858786542289080\">Cocotte Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dmdFxoBD1B36Tn1f2VQfj2wzFRoHxzu_wPhbTC0ScsrsfqD2Sft25eXs-sEqHZCHVdPRz8wVkUcrtj0Sh8c3_PlXQKW-LqlQCgI4rPWPI_0MEUZLQGhT6-UmFgm2mVTGnTM3U2LpOAZJ2_37vSJVP5lxsdzM_nidtI6zFR80OLHJ9QxhExVgv723eJAty47PWJehUFu-NdOJ7caH79HT4WmM4ioF-TieqmrU286PwCBs9mm6nSRi2Bhla0UO1cOLzndeVQktxGSugoCfsn0fQRBozAwl2bPnGc2IA8MWezVhtXWOkYE_-NHumueKPxwxaLYr6PZrcbhifdOUSF2lbgXT1F9C7SMk1Sq808xxUgbZBUWSOBP4iMliUwtoeLI6u8vWNHv95yC2C_sM2k9EwC-Fty6P8BF_EJLkpkqBWz4A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114159495803870951788\">Emma</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2chN4Zs1i8I4zfQ0RphKa8VHJBhWOVF_F__jY51yZbC80AD0GsXTEff-gUcDUctDFEwyfoVBCqx16VrvboS8HCiTzHgknWq449ujFxYJ4D9PF6OYa6WGRbrWwzlzwhc1drB6k7h9q3GbLKj1TSi6Dlai_zrLfzJoo_NijQLS1xfSCsi5xa4nVslxBCamDeNhf-JZXRQxb_h9FO3qtwVhWKV9OoHwy6JQnDIv-LtrCCw6Hoy4xCwCj5nFu4fMzV0wzWSVB12cIdMeoTqFRMFfuzVHF2kFLXOP0PiccodXsNQW-vVsUgumiFFdq6TfpN0MID5i2xuhqfsJym1F_9iGdItpG6ePJMt-ZIR3dOjPDQReRiLBrTuMDU1MDHrjZ4OdsotrOySK4n-CHA-CPm_e65H09CdARdrv2YJebb4Lj1LEtZ60HqP8qQKMHDqEQ",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101865537340809155340\">Vadym Pinchuk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2erFm1uLmCxu708wgvZbJswc9jrFvf43tYpa7RtIWJN2pm6WoemTl_hUvhFCmo49ijGvAI9z2MoGW9FybIhKRXAa6aRRyU-WMq3zFE5Fgma8Y9VPfihGtiB88-P48xcZFDHopZQ6gGyUZwVMWws5lYAcf3AZtTCGTqAsqOWqeLtV-I2toQLUBNrADZBmuuqsAB2XJC0Nj65QO7Pyar17js7LRi10ljI0fM3e2b0p64RaNdhIZKbNOdEWj1gYcaxQA6Fa-t17TlPWJFr9u0eD5RHRaIk-gOau1s4uYkbfk3QuA",
+      "width": 599,
+      "height": 751,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104550858786542289080\">Cocotte Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c4Z-GH01-RT3EdP-kjQtwHjGkXiQS0taljoXAMuvag3nBg5BUU2tW_51o6OJYZKtgLM1lqgofJLLZnWV4VmYjL3bc6Mdgv87NJAX_Aoero2nP-AiVaf-Vh_2cPKMP6Bquw3i_gnjSE2szO45apE3p0yi5ms88cg4aRGpw1z16i_P-hYNp755lqCrgG-HlsUrQXkOJQXltp3s9JPa00KQz8rFmQ5fOymTMUfO7A5KTRa9jBWaJtOHVmUK7U35q7YXlG_1BPNnbroC7DS1FXo8AnMKmhr7mAqGFSx3fLXujsffzy-dMn3QJFDEVUDBmbmIoX_pjTJrVuJUryMKgFBdFEvqu_wc6DrWxr12_lkDVZjF9gcvCtf3vRR2xk4Uoi2R-hrfgpUcMnyaP2ezoQl7RIqeZ-qELl5iA--BSZnmlqDBSo",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108266818465653347216\">Sami K</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Welcoming, rustic corner spot serving French, spit-roasted chicken, sides & more, to stay or go.",
+  "reviews": [
+    {
+      "author_name": "Lucas Elliott",
+      "rating": 5,
+      "text": "I had a lovely dining experience at Cocotte! The delicious chicken and side orders were great. Our waitress was not only lovely but also super helpful, making our visit even more enjoyable. Highly recommend this place for a delightful chicken meal!",
+      "time": 1748508732,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Nicole Ribeiro De Morais",
+      "rating": 5,
+      "text": "The atmosphere is cozy and stylish, and the food was flavorful and beautifully presented. The Full Cocotte brunch was delicious with a generous portion, and the beans and egg combo was perfect. Also had great dessert options! A special shoutout to Yara, who was incredibly helpful and made the experience even better. Can’t wait to come back!",
+      "time": 1745326079,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Vadym Pinchuk",
+      "rating": 5,
+      "text": "Oh yeah. Decent and tasty food place in a lovely area. We found it spontaneously. And pretty happy with the service. The setup you can see in the photo - is enough for two people ;) while you might want to order more",
+      "time": 1750252931,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Luisa Estanislao Eastlaw",
+      "rating": 4,
+      "text": "Half roast chicken, truffle chicken croquettes, green bean twist, caesar & kale -sides that come with the half roast, baguette. 🍗🍢🫛🥗🥖\n\nThe roast chicken is marinated for 24 hours. It’s rubbed with their secret mix of herbs and spices and roasted in a traditional rotisserie. What amazed me is the roasted skin came out crispy! Lacking a bit of flavor from the inside but not too bad! It came with sauce that makes it juicy. 😋🍗\n\nI enjoyed a scoop of vanilla ice cream in the end and I loved the light yet peculiarly intense vanilla aftertaste. 🤍\n\nHighly recommend Cocotte! Healthy indulgence!",
+      "time": 1723901044,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Sami K",
+      "rating": 5,
+      "text": "We loved our food, well cooked chicken, great marinated, best taste, delicious desert and also good mash potato and fries.",
+      "time": 1742753333,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:02.152Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeZ74wEQdkgRRaSxXA9ggsM"
+}

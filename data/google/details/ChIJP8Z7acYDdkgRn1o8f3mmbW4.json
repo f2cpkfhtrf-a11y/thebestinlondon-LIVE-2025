@@ -1,0 +1,313 @@
+{
+  "place_id": "ChIJP8Z7acYDdkgRn1o8f3mmbW4",
+  "name": "Seoul Tokyo",
+  "formatted_address": "168 Borough High St, London SE1 1LB, UK",
+  "vicinity": "168 Borough High St, London",
+  "rating": 4.6,
+  "user_ratings_total": 1299,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5019584,
+      "lng": -0.0927981
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.50327288029149,
+        "lng": -0.09134196970849794
+      },
+      "southwest": {
+        "lat": 51.50057491970849,
+        "lng": -0.09403993029150201
+      }
+    }
+  },
+  "lat": 51.5019584,
+  "lng": -0.0927981,
+  "formatted_phone_number": "020 7089 9007",
+  "international_phone_number": "+44 20 7089 9007",
+  "website": "https://www.instagram.com/seoultokyo_restaurant/",
+  "url": "https://maps.google.com/?cid=7957199157389449887",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Friday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Saturday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dlBHkcrm2SRUnizsZ0hsj1IQl6JIZJsTlAVKUBOyO0FvfRc_gRMuHuyqzClXeVsdHXr23DVal5rWH36pkAvFDnLc_v4JFTTLctFSPdao8SOTEntXvP21abd1YuMC3zIfhUgX1GLsPuZaM-cA2fU22N9HRVARupsd9fn3D3TOtZaws9zx62edJNmYdTUYLGkHuztaEiTQgDOAujn8AV2A-5mLtDYhAD2D3hYWJekwwzFDftBMNsTZqdQXnV8ZSyk2xC8NOxtz4WWCZ5L8B75NJw2gEmVQcLwCjqey0OF2EtMw",
+      "width": 1624,
+      "height": 2417,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118320561482578092380\">Seoul Tokyo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2efABF1jOwTwrHu37EdVU4J2Iiz_vYD8c3BhzAR1ZadrNM3YznJ-2xMGh-s38ev9ImMRHs8mlO_86ZNpDQhPobxZv0j9xEaec828OGv1p2c4fJyeOqmABnoUZGVhwWSvNwSuasiruMYVYk5ELlVrgrpmU-BTgFtCkeQn4jJyOFwkJvMLKkDQzPULIroDBxeEKGZtExLKzi_jTP0HD3jlr72Zwy0HdCr85kd5JQZPoVWxTZZeMTxLlkRK6fcVgDtWjClDC3er0OEWYbu7MuP0ttbv1Bg3cC3k-79q0fnzO_ekw",
+      "width": 1024,
+      "height": 575,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118320561482578092380\">Seoul Tokyo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2diaQuLYuoKvoH6D1qmZpygSCgc7b5cEMHqaVbUJEVYa0R5gjEq9dl8T3Nkl9g6LUU7C8G3p3h9PmkCu6Qhal_AEYpFxSpELr-JwpcP--IxDPc3ZTLxvy5GVZE4T6EQi_-oksQ0dGW4V0JuULotx-ctIfOMW_bXLZpBM_B5rLU_cf70TUnMDWX_SiL0B7JcHQT_IliKAWstJg695CrXszAoXFlT3bg4ZmhkS7zPTQUnqRCDLw-bPZdQ3xtCNEDtQPsmL4RckcBUon8m5SIypSTeESyPzGqZ6tATYtHm0A2bLm66jhgm7sgzmZ3_Shj8g-JnD4qeweWkbgmWQ4C3GHMMImBLYUxd0rWfWAB6oKJCtl2Wpc95YpZghJZFSLTiayb1Fho0mhdwjpGu466EsRKIqjfQlY3e3oCWwOuYSdH08-ObBrAZCskSJkt4qevb",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101770507888953378409\">Sirapa Wonglamsam</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fo1QOxSpmax1w0l2J0rk5JiARGxGbB0WQjJWHslRjaOXdkYHE0trAPaCEfKZ1_0-9dxRUW6SW3SxA8xEMkhLHhdIE25r1JcH-AOq5XhbQd7WzjVzyOLKaLx_0C_fC4WU_cFGQI-KESn2XpkOMDxymINo8_G1RwLDfV8pW0metL86ygNuDcBNyS9dt21rvflVNEYf7qId3mFBR-g85kjHkuBt2rLWK3uRPd8h7RxxvvfvWVbWOAYvEM2j0oKGT0OnGcqdg5YCUGR8YM_qrQmsptAjLL0Tr_WE_3NjMLwBBI_eeyqbpK_TVMikjz6upj1sfg2_iy82Vz-0lbnGIyJ1kZkSiBis7aJmYfKF4XHx4bxduviyAnbk-AikxAGrD9IqrNoSeCamr2IDKAOSRzosLx473Tg2NISwJFXWZZXrk",
+      "width": 3265,
+      "height": 2449,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104538233297687764919\">Tanradee R.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e5TADGB-eAuYPnxbAtfvYTrXsluYmXHrivARkjYVcKdUolMzq3b3-rxT7sz7TxsP87Wg1gsP75auMDdOzyECe9UcZF-7EoDcFQ0AYELud010INO7ZhLI8dnBM6Iu9YxFYZmz77MViCvlft5BcgwcnZReY5hV4obd3XmJ9baHg3KePRx-jRaLwUmQiuVOA_ltkoIVHIh7i_nCjym2cgxFaZLzUHDWNWFuB9X8NthOu_arSaLbTSrr4cmAd9bSF-HcHhXCQYJFb3MDYy5rzdN_rTT4k000uYDeaaaENE3oYju8RDo6SMv5N6fA5WNQJIt41k0O-puCMqtgcqaduH5Fg24dEH-huMttRecFXPfM2qovCt0KtUZeiEwdfY3GAnbJDqNGh1dSyy8FXBMKcuFqin-6a3Zzlu7IS1PZzda7byUXvf",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105106042897278240247\">Boor Luna</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cNXghYk4gRc8f-wkS595SOtOJDHgTq9qLMwZWt3EUE83KX39djc6yFfzExU4trY1VTI2ETGUkNtD6otuErkfd6B4GbRzPpK-jPORmYa6hRE8EVpa72q-NsM1FDc4Z_aUxotlysanS8m6sDzW69oVtLGTUxkNkFzcBG8oTgJEp_h3_VSC3DxOCCunTtZeZmgsdKgxtwyDhUgflC8QedIIUeTzWkZQQ8cvzeouGEVvMLGt5PoKiX-exoEL0cLJf8WlP9bN_7F4scw01R4W4Dar1bWmYL-kwTDDudZ4Ct2CV8Rgp1aSGX9tCOxP0mbWBKjbjEDKxwOj9sNbprSB5IMqEtoBTtRfQn5GV_ZhcsuW4ogQzr37g-5ilfVSDIMayVcAoJk5T-Cnx54xxo2z-FZfPCGaXyl7v3gL3rM-qkn_ku710",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108833146941545788011\">Hannah Phung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJicdMp9xlWSEmgA68paOkk35OOlS9zboo1vvXsIfMnAwDpZykPRIcUU1pZyH81nzSez-Whi9YitByQf6uuwRwNRKCLOBUYu6RrTzyFvyVg35F_3MGM5UdHKZGiQR2VBdzpt4WIhh3E2VAosDGk0qq9Ahp_mUF2KTqFSi157AAdb1zmFxwWZlyuO-s0m83B3qFRP0JqF_zLGy12tbT6O_MilM2188De574coZ8z_UbqWLZSrDEuqymUYc4bg7D5tlnJgifh960M1nQavMROMPJOviOHKWznVJE8Kqgu4m3wpR7HxIbQdzO5MgJ_ykrGKt4f2XVe66q1IrbxzGVrOdEb-1AthANyQ-9Gm6zi-TratYAvQXZXFbN8GMzcAmHU-m_3lgAqYzVaBkLLr3BTzfri0SY5hjO81LxkSww1s-_vPL1WisEvhJOOni-9_2i",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101692252266459785652\">Lina Suvorova</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eL5Zf0XaFm_Kac5BeV__5C30jqj_hWyU2oRdCk8aNmQB-64hjhqNKUogXOAViHEEDqdNDUX18f5H-3-XPdNX7r6i2xGqZ-v1q4X20pEZrYvYxswvLrmAAMsQN2ozi-zPOMDhfZnt3PXK-Aezv2chgZ9bJSOrBqTqDbYAkLu9qo2MJzItTtt0E-MNx5zlLrEMCbCoXbiEGoWdhxHkfgtE0UsO8LnqTkBrhN8IOqgEeFlg9JfnFVkYPbE4AD0B6OmeuRVT8sXKxNx0lOSNqx9O1ztK69TZjnJ39sLvlBZkhhienj66UODPqwmFLDAJo7drOywhEyzAoPZfPXLPMCcxn2JVbIh7LJg1FS4EwW-bvUHt0bom2BXZTVgNTbv7I1_opITA3c4ryvJifg_TJSx80R_O7mZm3mh8VLHJGN1lBj-g",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105154967158658367057\">Daryna Kapustian</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ez8qkVW_YbyKzuHmo9yzeurVDDKyMsdRn6Hh6v5gYbVzBCuPBtdJEjRfLa7uWDQEAkdgBAdGBYujOkuXHGWvzxiApBQIaigwwlayXVXR_Vkb0fDTnK29mcZMM2_cPx0R6mxdMgqCEYbAdEzpNilLwbQFmQDYTSWu8jqGlIri9VrQ27mz0oT0Di12VuRhrKw-vPU8CSF19BfJ2V1jgLIMKL6rGcOJLcRoDZedVNLaEUZOa3JBVefnRGtQ4y_kBtBfaX7d4aJQWW_dHLyfznbzqqC6TTvepGAwYchTXbj73blqDIUj307A4m20XrA3LfFLWWRJhaywY1eZnOF8sKG1sCvxwQMyLYs67V8o-1h0R3mnJ2dxmcsI7_8337kV__SmVFzxk-yxBovfsN0pHTbpw61D370iAVF8arIY59-JZ1358x",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105401124231083523096\">K Lau</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cWyd1ZccTcG68mA4EA1GPeQKSJgSXnvE0WMscqwt1tZYh58QQcuaNL7vK1H4Z9bU4shQB_gbwgAYXCyZ6MS_LYxC692YbCAhxMQ86WlijUYRcjYOTY26t96jBrMhfJN_tATbAlXnE_ZBC60giRRk-mn9Pa1BAYKKJB9tmDeryQODPvaNj-PFebhAZubI3rmA4quc8D-gPN5iV1AvbhECXFsqSwOzWDtDF1iWU49br7LBnJha3MoLE9A0fNmcpWS0owlR2BxiMQTAmN-57A8oacG5N4Ffac1f86OhsZ6i7tUrno7gfOByFmlxnMydvUR9woyAxYspPxu453RZsOmkAkC7xeIO_LTihB4GKvyrkHZENS9NlG5z7mFqOE46Jx07ymWaMsRG-yhp85lBEv2lyk1O5c6-cZs8jzwOKZHR216UkYvFuOG7KUa7qJx9am",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111607691320003710189\">Rashmi Pun</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Wachira Tantirittiporn",
+      "rating": 5,
+      "text": "If you’re craving authentic Korean flavors in the heart of London, this place is an absolute must-visit. I ordered 5-6 dishes and there were packed with rich flavors.\n\nOne thing I really loved is how they use high-quality ingredients. The portion sizes are great for sharing, so it’s perfect for a casual dinner with friends or a cozy date night.\n\nPrices are reasonable for central London, and honestly, the food is worth every penny. I can’t wait to go back and try more dishes. If you’re looking for an authentic taste of Korea without leaving London, this spot is a gem.",
+      "time": 1751922592,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Mavis Chan",
+      "rating": 5,
+      "text": "Friendly staff. Clean. Excellent food with just the right amount of salt.\n\nCame here with a friend for lunch. We ordered cabbage kimchi and beans out kimchi as cold starters.\n\nWe also got a seafood pancake. It’s fresh, chewy and not too oily.\n\nWe each ordered a stew dish. My friend got a spicy ox tail stew with rice. I got a pork and tofu kimchi stew.\n\nBoth stews came to us pipping hot. I didn’t find any of the dishes excessively salty or greasy. The rice was a mix of white rice and red rice.\n\nMy friend also ordered a Korean soda drink.\n\nWe also got 10% off by paying in cash.\n\nThe cold dishes, pancake and two stews with rice portion came to a total of £38.50 (including the discount). This is great for value considering the quality of food was also great!",
+      "time": 1745595159,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "R Al",
+      "rating": 5,
+      "text": "I was able to grab a table for one here yesterday as a walk in just before the rush started. I was expecting smaller portions so I over ordered but it’s fine because I took the rest home.\n\nI ordered a half portion of the Yangnyeom KFC (5 pieces) £7 and the cheese dalggalbi £14. I also ordered regular cabbage kimchi £2.5 and cucumber kimchi £2.5. I finished the dalggalbi and cabbage kimchi because it was lighter and the sourness and spiciness of the kimchi went well with it. I wrapped up most of the KFC to go home.\n\nThe staff were really friendly and attentive. I think towards the end they were ready busy between the tables as well as the telephone calls for reservations and takeaway orders. Even though I did ask for a plastic takeaway box for the kimchi which is watery, I was given an aluminium one. It was my second time asking so I couldn’t be bothered to ask again, and yes, it did end up spilling inside the bag despite trying to wrap it up tight inside the plastic bag I was given.\n\nThe chicken tasted fresh and the portions were good. I think I’ll definitely come back if I have the chance.",
+      "time": 1755386315,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Lina Suvorova",
+      "rating": 4,
+      "text": "I’ve been to Seoul Tokyo several times, and overall, it’s one of my favorite places for Korean food in central London. This time, my boyfriend and I came for dinner, and as usual, the food didn’t disappoint.\n\nWe ordered gamjatang, half & half chicken (ganjang and snow cheese), white jjambbong, yukhwe, and a selection of kimchi. The yukhwe and white jjambbong were by far the best I’ve had among Korean restaurants in central London — truly excellent. The rest of the dishes were also delicious; I have no complaints about the food itself.\n\nHowever, this visit had a few frustrating moments. The rice that’s supposed to come with gamjatang was brought only at the end of the dinner because, according to staff, it “wasn’t ready” — which really disrupted the dining experience.\n\nWhat bothered me the most was the mix-up with the chicken order. We clearly ordered half ganjang, half snow cheese chicken (repeating it twice), but were instead served yangnyeom. When we pointed it out, the waitress didn’t apologise — instead, she started arguing with us, insisting we never asked for snow cheese. And rather than replacing the chicken, she just brought a small bowl of cheese powder. That kind of service felt dismissive and unprofessional.\n\nCustomer service and communication matter just as much as the food. I also believe a Korean restaurant would benefit from having more Korean staff, both for authenticity and smoother communication with guests.\n\nI’d still be happy to return because the food is genuinely good, but if we get the same waitress again, I’d kindly request another  server for our table.",
+      "time": 1752240128,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Her Dolce Vita",
+      "rating": 5,
+      "text": "My absolute favourite Korean place in London! I’ve been so many times and brought both family and friends – everyone was genuinely impressed. The flavours are so authentic and comforting. I especially recommend the spicy oxtail soup, bibimbap, and Korean fried chicken – all absolutely incredible. I still need to come back for the BBQ, but I already know it’s going to be amazing. A must-visit if you’re craving real Korean food! 🤤🥰",
+      "time": 1746291000,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:55.563Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8Z7acYDdkgRn1o8f3mmbW4"
+}

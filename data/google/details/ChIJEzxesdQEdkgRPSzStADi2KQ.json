@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJEzxesdQEdkgRPSzStADi2KQ",
+  "name": "Copita",
+  "formatted_address": "27 D'Arblay St, London W1F 8EN, UK",
+  "vicinity": "27 D'Arblay St, London",
+  "rating": 4.4,
+  "user_ratings_total": 1218,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.514558,
+      "lng": -0.1360552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5159333302915,
+        "lng": -0.1347147197084979
+      },
+      "southwest": {
+        "lat": 51.5132353697085,
+        "lng": -0.137412680291502
+      }
+    }
+  },
+  "lat": 51.514558,
+  "lng": -0.1360552,
+  "formatted_phone_number": "020 7287 7797",
+  "international_phone_number": "+44 20 7287 7797",
+  "website": "http://copita.co.uk/",
+  "url": "https://maps.google.com/?cid=11878492509851233341",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 4:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dG4VEB_0PKyyxjhz3S5sNL7yKMK5g3QJUuqQVhFa9qaJb33zzoYch37v0FHJHqhIxfahBr1mMfD6m2Y1i67f2QHnb3Dp4UK6UpwWEcs4UMJsYS30BY6EffdwTFZyP6aXAioHQr1w0nBK0NheWvKvpuxMPEGYkSGQEnkP5SiCWPmmRR6uWTWfpp1Qvl7XA0df4pDHoZLQe6_w-uzSUHAeCuXH0nUttbzZFNN71KmvCeQDzTJu1F5XQ2RMzXD5Q-LeUUkSgBbxogwgAL0hrvZNTZZA3HRKsoh276mY8ySAp2mg",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113051953674611458761\">Copita</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fypxxiM__pQ4Fn7OG-jAt1jWgSahQyxtfxnEGTQzqXRXr7BcGX2T8KUcbxk-8n1i7EOnBLlG-j69gNiXCBgI1NiMcZabo6HQHBFuXR7Ybiq9FtY0I-ReRjFjySHs3JW3twkhhwugI1bN6rLSONDBk7IQVq7Od4ANxPwpFa0LknrzUzXcw10qW_fI8LY5JjUHEaQRiNkfTUlLtV5BxPW10POcW6VEi4RJiu7NG0gRr3oRs_cjVgnKRy5kIVkgaCsuwFWJYhaeABLyj9uJ8FR6HJJZQV2U5dyilxiW9a15gqkg",
+      "width": 1600,
+      "height": 1066,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113051953674611458761\">Copita</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fORZ3t_mZ9S-PmExWCYcYMVAw6RoCBXk3onG08tLPQx4GYehPkzF40bvA3EsLWVvEBu8Phy30f9e4P3SimxbItEs5bAJuS1koJFleuuWu0w_qI42uM_3dXA3FtF8BgkRZqJuIuQ8jv4hjwwSxBuSO0m1jGDtq8XbivqbSqBE_hHlg1Y4W6Dh2flIBaadPIGkTK_k3m0MSVuRyQuY2PhVXoITovFxlde1bW5MJm7hABaQLcOroMeUHZLVD1TICoJrmdR1ae1bjhzrpjqhoavi4VySpJ09P9NLzAY_gbCmu8SUCOj2LJ_OnSaHzZzyvUiFio2Ib2OrSOmjvwzSgQfxiDSAExBm8487LT10XHidpV7gyKSFp9ovQgRYucytnlp8hMCZGSU2ClgWKqa8ojxvlxX93uGpXIsmEBxHVbxYcJ_S28XWxFp_iJvLlyOg",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102566336553303966961\">Chan Sheng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fvlFZilMma3XuBCZlr4m-RL0CHNdq2Zyod8s01oyGHtbPqoEvIExvV75qERQs_nDqsCkUTzR6lUBoeHYvbVMAgvtfI3yKlqnwfYDYL-7ZPy5e_3V6oL5q_xgCT-hP07pe0gbQVypLNa6aTA8PePOAiDUR26732t2vot7J0GPDcHwa3ioroZjbqSju6-aADfckEpq9mZGbNCz8LSE8cXINVpBA18YKdw4u_e2U4wI2UPMON91J5sGIK3t7ZXYVWXnGIg_cYHEmlnwSJ9gG4hGxDuDGe5YPkg71jrMhFXH1gXL-oVB53Rl2cSTER4PM6AmIfGYWTs3FIsraMtZFzARcQskyos83OznLWDy3Z92VSWhCnc0BuBMjetHhc6Y9hYt6bFt0h-Y8iEz-h-1twnQwLkFpeEe9UaOncxM-Evp2vg9rx",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107299986427971727903\">Zijian Liu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fLrQiDe-dkMgpzfJDoqjvAHHRPMh2OwR5HlbjzfYCjIfoyAON3rtPDI4gYVeEQCCfyIOl9dDgdQq5Hrpt7tqaE51lSnuhIfuA7rI-XDgLjwElaI65h_5wCooh80NEB0FHhpLq7TvzB5lOnC2rgx73Kbj48Fa6kkHp5fMFcEzxtCxzeL1JJqUuxLGe6HD-bmFe-JR5CysUErMLCLJ88B6DVHaUlBmSAcKb6Fqc0hnARQZ2Z6Yfx-U64qQnEVDc_QPdfhBmwfZZ-9O5UXtlWitKyZucH7QGU2ZW5Z5kIRo2vAYecPfOw9FQFrdz6rR0GIxM87ptYluFXM1wh66zoXIaGfntIkNUMas7CFIh3bDJxv5kRWsFKHlVeqn8dyGdHF25GaofRQDvNdNlux1Fyd2y0m9B9nQioK83Lx0irA7dSPO47Q0sEeckuOBkz2A",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102566336553303966961\">Chan Sheng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnTZQNysXSMl0qEUpD0h92IVNNC8U8ejiZHEwnqZpCSBwSNmjD-G6CF1epzsj4E1zxp_9pRKxzVcUFR3oLqmpLPqBzqoSpM5hIeQ9x2KxwPor5giaOc7GEwGx6Id7xbSYqd1K8_F9FdpISnOGATbnlLvX0x7oULwbDMO-PwgSFOI-tCRJAlxIg8attBTGgNT24vX_vEYD6-786cz7Rw6YF6mGQTHSC-jyQ_yKke65lT45RW0CPV8M-j2Dg6J3KC2qc5ffv2SN1SUuoznZA70jWhxUj1DWjKhzoe99HqIc8UiibGpQ4JV_wU0RQDjCN6eKSK5rdcpR-W1n3h7uJXZHw08UJxVAjPzqI7nQqUdjeT5MvNDJSORvEXalb_XrQd5j7nAM9JWgu97zfAxBR5bFKeAVdF_Q3Jua1P8ExPbFx5Q",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100477625471893164389\">HAINING</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEcqrYDZbDuDtgR69jk04AjaVHudwxpg9QYaK_idoah4eQrHquy3FZ7u5j4-uzLyJyycbyfF8idYDVVrHicWbhY-WOTmPjp6xhq5YmFyXQmGfFb4b4m5o1tuP5dfQKKcJHqguZN4N4ehqEinzPV7gRgNK-LnsWCWIGptC2JA0luruLIFykzAxWscCBDh8VEmOm5bgxVBMTBpx6YMdET4nHjk599tLbyb_gvMooLqf8Z4T3-xdwh6DCJ5WWkE33kHZtgiaomD8UiZ_d2YDfwp1ck6G-8XIHZsQoVxFR87wBJpWaAOIkkeVGb96Kb6L78yYDGpU4pYkH3IKr3e_qtOrZw2hQQ0P6S27jaFRAm0DffY1FWh52rxvKJ_xhyJYuznVGSNYa7wIJvdpwmkXpdQ3KTNPQMSG6NBt9vOmuoxGRWJj7dSgMHamxgYNmSllW",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102630767732308581017\">Thomas Connelly</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f0ymZfzSSDQRvjPHW9JM15KPkKtjK2Sa0aBi7anf1QfXkHZNR_aoav1r9k8HCO7kbvM2VAQiosWZcMcOLDYxVfRS-ZnqYDaVM-LCOKsdlFREWv8fHujKmk8nm0Bp1-hkCsY9QH66WqnI9urM2nSWBbnA9__fNTPYnzUDakdojXlV0l18y2zoJlJ_ohoDJRjuuL9jm_B_R441UkZldxSPAar77Pkz_QsYjBl3Ff4GFiNRgeLqwlZD7IfantxpCkxFbzc3zvuny-wXfzaSLmiKtyQ9UNtkNfYLQF8qxQuKBXW53iKSxrE9XdmFcfOLl3SSYvJyuLA_qzYUmsKdEjQKYKq1If9qNPsn5sot_9ms_m9Voc6FR5fk-LMDgH2122HU110RDAQXXsJ5sbEHmmJNjFEml0W03D1zXactzUcD09Ug",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111197675688379171725\">Remi Boulier</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eaJnIVP5fXonuqtNTke6aY8ZUyA0uhQgvjp9Yd9c5Xd44VWKGwHvgFY3jwvP1MNqNTQSu3Ruh9YCdWRZ4ev0qxDKDiXLdkXmOjRLn57FvH9qMLIwJ-PzXSvsUqG4hkAklgj4PsJ7RUg4Ce4SLQ3iWWPge1iNMZ5TwkG3Sxv8lkQ1WNB4pxzLgGvc-aR2oFQHS9ijV_QO1Z7OlnSsXYUooJOo0R3GBUep4IT5xw3jqUd-ir1auxPX799I2XCX5wmeljjon6SDpCZR-waui0HDMoac9SM4_q239yiYNhZ_Dcvl7kfac0mudJkHJZuPjnkLMv_mW4tswxx5pRFKCAsKCNAhBDu5rWtye6LkwQLgimp10xoxRpEcTYMRMZg1sy3Xc44PoTfBWLpYLjKkMekuTnafXNv14Y-oDcGNQpF1nIsDlk",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104567162489844291335\">Meredith Fisher</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cypuK-nniVvfoYm5GsfnGcd1C46nhlB-rfIWg8s7CmDAc-PxJYG9Q0tBD3ZC3xXWhB49G98-puSyItD3x_LI9u5Yv6kJILNIPRcqDz1C_uhtvXm2M6VRDfrowkesooDhIJro7AjQUWQQIWdn1JryNngwLq-OSuK6NgSQKciMpG-B0IEk4Og72VInFpylbwVgi_M1pleJeLq4o1oh75SMJ5tWs-6zIhk5vb-jUV_J423tIWQeB1rCdE2hadRHbzAS8cYVzjTQ87IoZiw708KuKphk-Pgl_fb98gdtURzGavBRmPadTDyRsfWf3AbHz_4LmBmBT-8WfQAQB9DT6vHR9U-LrWrmS87uULfrjSdEZiSCvjdR5TW58DZ7PqSbobN1icKLUJrYTNBCyKQxaeXE1oilr7OtJanRYmYzqRJZ4WR-kn",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110706298446785158954\">Jiabao Xu</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Informal tapas bar with stools at wooden counters, wines, sherries and leche y leche coffee.",
+  "reviews": [
+    {
+      "author_name": "Tien-shin Luo",
+      "rating": 5,
+      "text": "2025/06\nDelicious Spanish tapas with rich, authentic flavors! Everything we tried tasted great and was beautifully presented. It is on the expensive side, but the quality of the food makes it worth it. Overall, a very good experience!",
+      "time": 1750199465,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Karin C",
+      "rating": 5,
+      "text": "Visited for birthday celebration. The drinks and food are great! Especially the gin tonic with basil & rosemary, also the pork! We ordered a cheesecake and the staff smartly deliver it with a candle. Enjoyed a nice time there!",
+      "time": 1745077255,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "anita wang",
+      "rating": 5,
+      "text": "I've been here twice, and every time I come, it's delicious and the service is also very good.\nEspecially recommend the octopus, ox cheek, prawns, buns\nLast time I had apple pear & ice cream for dessert, miss it so much",
+      "time": 1748826109,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Erika Floodgate",
+      "rating": 5,
+      "text": "The food was amazing, the best olives I’ve ever had and the goats cheese was dreamy. The team were so friendly, they really made a fuss of me for my 30th birthday. I would definitely recommend!",
+      "time": 1749898151,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Ryuan",
+      "rating": 2,
+      "text": "We were really disappointed with our experience here. The portions were shockingly small for the price — the ox cheek was literally about the size of a fist, gone in just a couple of bites, and the aubergine dish was barely half an aubergine. For two people we spent nearly £100 and left still feeling hungry. The quality of the dishes simply doesn’t justify the cost.",
+      "time": 1759006348,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:50.281Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzxesdQEdkgRPSzStADi2KQ"
+}

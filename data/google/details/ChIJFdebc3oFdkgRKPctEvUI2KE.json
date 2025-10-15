@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJFdebc3oFdkgRKPctEvUI2KE",
+  "name": "Pot and Rice",
+  "formatted_address": "16A D'Arblay St, London W1F 8EA, UK",
+  "vicinity": "D'Arblay House, 16A D'Arblay St, London",
+  "rating": 4.7,
+  "user_ratings_total": 1369,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5145172,
+      "lng": -0.1366895
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51583728029149,
+        "lng": -0.135274069708498
+      },
+      "southwest": {
+        "lat": 51.51313931970849,
+        "lng": -0.137972030291502
+      }
+    }
+  },
+  "lat": 51.5145172,
+  "lng": -0.1366895,
+  "formatted_phone_number": "020 7287 6313",
+  "international_phone_number": "+44 20 7287 6313",
+  "website": "http://www.potandrice.co.uk/",
+  "url": "https://maps.google.com/?cid=11662081083740911400",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:30 AM – 10:00 PM",
+      "Tuesday: 11:30 AM – 10:00 PM",
+      "Wednesday: 11:30 AM – 10:00 PM",
+      "Thursday: 11:30 AM – 10:00 PM",
+      "Friday: 11:30 AM – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dZURCsnokRQKYCWv10WF5CoJMDPMWxEJRi_uftYPMuwBzPMNlV69AV9RLWJMF7jeGGm4pD5OpDVmzMg8uxta-DtoOavEDTB0pXyLfl0sJtvOqrnjDCvcwhIcASGoxtio_VowoPbzVLTiKNfojOh2pKOdMbvOWOAhw2O7UGhWLihuTWf58d9QEhZvtPPtekT8t3_HdzQ7bkGQpF6-_Xz2PsJevBbxHfbnVCo9IB5IvDjx-FWjasZOFsMfei_IaL40qJP24GxJdSiS666b0udvTzShcxqeGJ6pvaAE_-_N-kF7qk5LBE6jcDI4HGjhB4H6oqQixjKDhtg3fFsE7SsnpnmSZS0IvnYZWP3InGl9LtbKdrWWzby5djU3dka_22Wjc09iFgGdtVZENomxDjqQmMia-mb7OOgu7VDdUzNpPBDEK6",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104175189498943061178\">jiaxu fang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eny4uq7vqyLOU2-gauyBBg2LPUWWDV5TggHiDvIFdAMl2lNcs5bEV_OauwnWOKOY9MXivpH74JAmWNxB6iN7xlHwrnKj30FVXi6SZtNipUg2mo6W4xbVl0TqgMlgixlQEIAPKMY-7PPLnmAbn_OtyVgFXIJwJ2pRe9LFkF5-UknInSasfYHhewJPxlKPf581Q3k9cqnNJFaR3pV3OUG8Cq_yJ9bqHXR5vZufWeQiumBNnPU6DYBXu7j7Vs4fKTfsUbEc249UOl8jxMXTN38MpdfyOdbuGKdsWAvGkE1tBQEg",
+      "width": 3752,
+      "height": 2500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101465948158035304195\">Pot and Rice (Soho) 煲仔飯</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOBl3gVPedjj2rqoni7vfkJYeU5oMsWbGk8F-ZJtxBkIaIOASBXhrVjaMJjKZYC-nV_y0zq9Nz6WhuR_uxUYRmRFJrJL-OsJ6zUubYv9ML41F1byA-6-s-neAWAXQ7is4GzzI8b7KqNh_JYVIfzCi9cbnw8SgCxX5HOr4QlJupXbMm638vrJOV1qphW-D6Ohfoj97kYygsHBFF6gDy50bPawp24uzvQIXyNInV6RkecFoyBEo0XHOPNWHSzGmMHo4KxXhZIZt0VIYwlhQX5PKP8dnvlXGi8CZfuwTmnkg__s77fO6A_NA0K8KdEKnaiia2L-XCcsFsygAV44D9Go_4GhNMNz-tKFs2UHSunu0H82N-TyusaqZ_CbeZMYXzB8U_PjO3qrIvnldU5xGdTIarhOH5FG34WNPVDnc5m5bmxfi8geGBfsxmpW5QgZ_d",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104643844793135405150\">Ankita Neotia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_Rd3g3DuVK0FqtzHD5wx24H9nCYA-jENbCEWHSRFM1Zq5LBenJWtfG2BPR7EdiZmebpXt78kq-G8xb-2hodDLVgOuEusekm7m1kbHlIsELuTlgCo2Chs9FtMea9Z5_2JUZgUVSX7QPS0f4dZIQ2MpXLBwzj6PcHKV-ZNsjt0uuRjMmKhqlYRtvcFmzNAcHisK4M_kDltrtczLnFi-RwnmlhWOJruOCKYCCgxXKBYCUeYTA3Cew6VM3fwN5rLUCaHfxBOrupSLjYx0C88KbAexTEtnsY0VILv5tpJRjuRJZg",
+      "width": 1702,
+      "height": 1276,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101465948158035304195\">Pot and Rice (Soho) 煲仔飯</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ceNUubdctz-wMUQMf-Khi2L6KiIjS08wF_Nhs5ASq7uTjqYdFObNdVAhr5qhyiewjBgZYvkjvZzUohiSwwkfcBnPR_ezA5C9mP8_zt8voqp_6R0IozsoVDHR1B5xy-3p38D4wx5Cj2DfK-SvBULW5vT1y9IDqS-2RdhTYdQkeTq-n-uYV8EyddzlsvyuViYM0h_2p0LONP3y10Sn30bJ6Sw8oUl1wWe2uBc_eXWFQOEhc5ZqwrEaYg4KW_pWcKq5qaaacGtAZA67gbUO0HPkCrwKXq-HnS5NctB0RlHEpKbTvmLlOXMV8wPjR4SiHHmzegkd0OtEfaJyt79ylDeEkpTCRHYFoF4ttBbnwjwHqKEi4EtMRLRoctmO7T4Cc434NUUqLhvFhshwOR7EK1imtrN_54IWSVDTdodcSkoc2pbA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109801742288173501003\">Ang AA Cheun</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5mp2iPLf63_hDnv5EXIj6udn2y1YHPPb22cdcgyqgPmDOzWrlqMgWEeDTxbqIWVKFj5fGvnnAnfurL5MCoUmsvZBj0yXyxgOQjKjzFqdMN1Xw2z62KeJQC8cvPjpHmNLaVfwNyCUXw0nKlc5LJcSLCoVrQUD8wlptgEQrqVmtK0yemKp0Bm8YsCRwbrJH2Qbe6_BzL4AKJy6xRQCMPYCqQQax0bozF-VNXYsoYIs8hU9w4c73kGKKDk1kQ1QTdCN6CFA6VqtEtrP2kdQuzmZPwT7LSwJkRBQBaTjpAhFPGfPCgRQKUZ6cYJu7r1Fwd5G4YVT8iPNXdL8at8fhk6GdUdRv3nPVn_zl7HXQORRcgUpW_X1B5cmyiJhLb52xcHBSlXOYhUqOdn1rB7TFj7e42nDIumD5NSBEofWlLVsHCw",
+      "width": 3024,
+      "height": 2574,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102293551445667527310\">Shen G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eXFf3xiir4XytkVDXudcqMX2WPcb0Fa4TjDq7SrPWHMl1HCMPj3vK3w2tB--wbx5iSYvc-yLgnWQcAS7tkpmsjwGZSJR72sIAXTpw675NxSfeaxShL9GnlqDWO1I2mQIl8ievgFuQGyhCa1JM6AvkOjpWypMOmP0aqp2MYf0b1OW40Th6ohlW5GZ6DENoskvAOleURexg5g1mjpmlYxam4IsxVBmybzgE-voxfLm4JXHEL39ePn9sVtCPeFGYWZvD_wMlyx_j8H-XUIeHIUo0uNMdrwpF_uSY3eyGYtb5XekUP-XCAci2melllB5-6-YuTTBeFv1zhtBXn-9GewypYvV1ZwU2FfM_JnogkA61alXY-6ZWQQGWPc88fKPoT3MZMyTMRNBmcxFVh8HKl7ZHgkHXKUvR1o4x_ush0DAoOkPur",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101863166358724152540\">Tsz Kit Chan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOgq9uND-ivtOFKxvfekZH463gKde6lbiAQCnGDyiMhG2C7jg7uED5DSAWuRdhwFuKUSi8Jiehe35FjrtP2j9qczIaDhovzCf0Yp5ebQ9PsCMIov2SoOzxEgXac7Xcp4wwTWGXpxhzrrT_7YKm5lR0gh-0_XA6uZWuWIXmw69RN9IiFh4q5bNVT07PDOTnF_DpZD_apy0Hdrtz1Ogk4BA5IP9Y2tS8ZA8-qoVKa3Day5B_V1Hn1SLm_36cht4NrBX3G1ZQyMp7hKC1pdnjvNFB3ahzj7UulYBRAZMuP2cZ2yjRP7E9m99-h3P6StbNLKOKBKhxFX-rmNogqS6k6cT0hAP3jG2s2QYBfwcblvBqOh4kXYljuHIw75_7vhlyCAaJDRuSsZu9UZTG32rMB-OKyTWvyljfFBWYCP8BT_xYuU6qUdqjOyj9MvkxTg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100196359293220040897\">Maghfira Pradipta</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ehEJj-B2_8jh_7wEf9nEfa7tRcXaxBjfIhHcmQj1MEtUW7QMPPHEvClHx8anBvqEe8sTfDfci_rzRvXRttgmfJHpU1YMoLAd905hAeg_nyd1AVKTFqgN96szdXrobT-qHxLaN4bvGwvU0niXLhNd-7DKZRDgapQMpRsAb_P2Q9AYV4zrQzqNtBuE1uO33FlAxvvQJnRhBxr3rkVxFJyy77G3Cq7xCStxibvQ1ejawJ_IHntkmHg1CRiRuBNXMZ4wqgjh5ve45rI8B2NrVcSyUbGtA0C1wsrW2pjirJvxfoEA",
+      "width": 3840,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101465948158035304195\">Pot and Rice (Soho) 煲仔飯</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cdGvEtYre_we6cpJZ8PxNLMtjlr8qAbumwjyFa3Rqmr9PSDq_7aTqf8EBoyIbGVlg2sdXUsPvaXnbfeosRTAyRFZNGxx4rtpRIJo-6OM1OP_zgOm6Dhw28nMw_U6W6d4z8rNj7dEC-72xKyLkG9wEXLwM68oBiy0NmtXLyHo7UEkmx7f7MSuAgx2QH6fINugOGBpt3CzfFFKK5gJBEOuVVtMcS9FYA3FCo_7M8_dwDT6u5nhRSEGvp2VDwD3KmMSDrPz82eVXcfFX0xX0Ol4gYgkS0OPcip9bMIDo7MTOcIrfm-zOPWQfG-pfkbDyucd-8nW0ELrVs2cWLlw2RJQGH9_iVbJTqDuYnijgDGNrtCnV87hY9yZavsPu9udcuphWeYrLyt2Xn19Nqyvj4kLkA8eUDp4-AzNmYsoFsKc1Pg-scsQ7oJFJJ7bUVmV5h",
+      "width": 3024,
+      "height": 3476,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117232342272299903423\">Jamie Li</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "shixun wu",
+      "rating": 5,
+      "text": "We had such a great experience at Pot and Rice! The service was excellent, especially from a waitress named Li. She speaks Cantonese and English, and was incredibly attentive—helping us choose dishes based on our group (me, my sister, and my aunt), our budget, and our preference for lighter flavors. She gave thoughtful recommendations, discouraged us from over-ordering, and patiently answered all our questions throughout the meal. Honestly, this is the kind of service that makes the service charge worth it.\n\n🥤 Drinks\nThey offer an unlimited bubble tea deal for about £8 per person. The three of us ordered 8 drinks in total—every single one was delicious, no misses at all.\n\n🍴 Food Highlights\n\n⭐⭐⭐⭐ Claypot Rice with Chinese Sausage & Chicken: Classic Cantonese flavor with tender chicken and sweet, fragrant sausage. The crispy rice at the bottom was amazing once mixed with sauce (make sure not to leave the lid on too long, or it’ll get soggy). My aunt even said she wants to bring more relatives here just for this dish!\n\n⭐⭐⭐⭐ Beef Udon: Fragrant XO sauce flavor, tender beef, and chewy udon noodles. Comforting and satisfying.\n\n⭐⭐⭐ Braised Platter: Soy-braised chicken wings and tofu. Tasty and authentically Cantonese, but not a standout unless you’re specifically craving braised dishes.\n\n⭐⭐⭐⭐ Soft-Shell Crab Spring Roll: Wrapped in Vietnamese rice paper with fresh herbs and a touch of pomegranate. The crab roe was especially delicious—rich and flavorful.\n\n⭐⭐⭐⭐⭐ Crab Roe Cheung Fun (Rice Noodle Rolls): Absolutely outstanding. Thin, silky rice rolls filled with popping crab roe, served with light soy sauce. The texture was perfect—tender yet bouncy, just like the ones I remember from childhood in Canton.\n\n🫖 Extra note from my aunt: She usually avoids tea because of the strong flavor and sugar, but here every tea was balanced, not too sweet, and easy to enjoy—even for someone with high blood sugar.",
+      "time": 1755645129,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Bequita",
+      "rating": 5,
+      "text": "Very good place! Service is polite and informative, and the food is some of the best I've had in London. Everything was brimming with flavour -- the smashed cucumber salad had such depth, the softshell crab summer rolls were delicious and light, and the prawn noodles were moreish.\n\nIt was far too hot outside for me to brave the hot rice dishes (currently 34c in London) but I will return on my next visit to London to give them a try. Splendid restaurant, highly recommended.",
+      "time": 1751388513,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "K C",
+      "rating": 5,
+      "text": "I recently had lunch at Pot and Rice, and it was an exceptional experience. The service was prompt and attentive, with friendly staff who ensured our needs were met throughout the meal. The food was delicious, with each dish showcasing great flavor and quality. The atmosphere was cozy and inviting, making it a perfect spot for a midday meal. Overall, the combination of good service and excellent taste makes this place a must-visit for lunch or dinner. Yummy ^^  Bubble milk tea is my favourite.",
+      "time": 1743084767,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Manna Sara Chacko",
+      "rating": 5,
+      "text": "A wonderful experience at Pot and Rice. The food was flavoursome and lovely options, different meats, seafood and vegetarian options. The staff are very friendly and took allergies very seriously. We will definitely be back!",
+      "time": 1756041771,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "C F WONG",
+      "rating": 4,
+      "text": "Lower the expectation, the claypot rice dishes were fairly ok. The chee cheong fun did not meet expectation, texture is 'rubbery', not smooth at all, though the sauce was fine.",
+      "time": 1758649568,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:33.907Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdebc3oFdkgRKPctEvUI2KE"
+}

@@ -1,0 +1,247 @@
+{
+  "place_id": "ChIJ_XJOLvYFdkgR1oW-M-c4fvk",
+  "name": "Chill House Coffee Shop",
+  "formatted_address": "10 Shepherd St, London W1J 7JE, UK",
+  "vicinity": "10 Shepherd St, London",
+  "rating": 4.8,
+  "user_ratings_total": 408,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.50628409999999,
+      "lng": -0.146854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5076117802915,
+        "lng": -0.145486569708498
+      },
+      "southwest": {
+        "lat": 51.5049138197085,
+        "lng": -0.148184530291502
+      }
+    }
+  },
+  "lat": 51.50628409999999,
+  "lng": -0.146854,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://www.chillhouselondon.com/",
+  "url": "https://maps.google.com/?cid=17977869328166323670",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dx6nXlNtDyHKS7FQHJW1r8PcFToiR-eqqCjlELHilHWgMVzjKzLXjmXHeUZXrUdRZXjm0Dg8WsfCPDSqgf65D66h2lASP2xz-HqAWSP8p_wSu6sh7jKUzYmea3La9uLtn1iKfPAW_L0hjJwDN2oI-MitgnkryN4URkHO1cSpVxjKDVhThlsynHwcbVAiDrTSoHg-bPkWHjBMs7WJ8CW7b51zatVLGjTSpjW0XflW4eCRjCgCus-c22iyo-R3W1JGg_XHeY9dUHukqZEb1e1s4ahXoYawWvsSRfa6bmFcu72g",
+      "width": 2048,
+      "height": 1638,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102888221421235065643\">Chill House Coffee Shop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cXWrncUFYxD_5Khl14j0R6IteJ-8SaAelPeAhwRYUtxgZcOB3JuIsShCgTrmt0uIpDOgTGseV8vcXPZsJfTMvd-AABBTUR5YMYYAOXWvpxwLyFqq7BL9ai8b07s4Z31-p_d5k9vKtx8AWsliOX0bpEnQUqZGWNBxra0x4lYDJToRTTtFTExPmZUyYoUf6jh7K0XxwzShAO5uEtufxeL1SQQXowVIFZ0dt1rUvqpluc2qzZBIkFKU3excvEWOyz7t4KSL_4NqNPksLGva7Rl5ctU3k9AFJJIKbsEDQNK3fZwQ",
+      "width": 4649,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102888221421235065643\">Chill House Coffee Shop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUlSQFQOReqtZNz9lX6Pwx5gKQSe6BhAgYcArdtcMVND0cm-scxzi5mIwDhHIFHnGNKZSoYUxqgc0wiJkrdbmiBFg96HdkJZD792sJrj8jG0OH6FWcFlIPIqk-XgtiPPJVz82NOFVdCCkc6BRkOV5uQOY8RrxOtZqyq0T56gfg8iukN7YpXqrwFKNSH00kAQ4pkNGXWYJV_5Rdhk8mni1CqaaAWkiZAn7_Em0YMy3zNcZHGRmQiGkVttClsLRud9sR72vssVN7GBMpCupkI-DfyLrtpOAxdKDKRaP2wLANJD2T65xb5zdMLGL-13Lja8IXK5KyJUx5ydx7s_baawiv0lpw0etPXZ2o9B9VNgnr_bBKu4Zw1gZfKzTeBa5MR7M9KYCutncPFeqO31AYOQuy9lQAVVIyla9z6wkIYpjkCsJe",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112092384250613003615\">Randa alsuhaibani</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-BAT57L9ILhOWt6qzGg_SSE5Cabmouf0N9y9vhannY46vyxbqwy5tQbQroDIbJHFJk6cPCbD32GqcbWCKp5o3oyWWyU26BvPefy9gweyrj3lpPzpVJjeVQNpZtTtIldTHcZAxnDHhmcraBhmZZH1j-_6nS4IYF4ZJLbzMfqGdf-Y0ENvQb6d00TYIIz4xOJRPqJ2fgkV5tIpDZx6H4LxLJh5w2tdyanCtgZ55oPxPazQIw2ueS8k-W-40G9AOUOPNj47rQRHdpKFqacTaAbW1Mc7Txs3QB9j-hFZq6_lXzRaKARot3bfmePv-kvde2Qmo1Rd63w9AWrRSEDGJmc5rMI6gVBox5A3jDB0oK3la9kFli4EPUCrnQwHNjmxC6fjwx4TJbcMtt3kO0o3bTyxb2b_62H94DIcfEFm1jE8zQQ",
+      "width": 2560,
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104712642379189415323\">James Johnson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fw2q9fcF1_LnF5YP7oJKR45yHc2E4uK_9c6s4kOaN1ZAecnIlzTII-5FKqRmCAJakmF_r8QkdLwWHLwqpjDxhAhJHuF7XkEJl5hO5adT206v7Xy5Hb4G9-htOHE6pB00mItsoZC5IIrwlcsNZLi4srynrJ2UfTtSfZTkWjCefYg5m5jODB0O-wFDHpc1RiQ79TJcfrLNyI6mfZIwUyUEcuEAvHM6B16CHTACkTDzUIDq6863jdRLsJ_esIlJ2KLnY0tepDN6ZfOPRucVEfSIqjoGLr6tLlS0vpN1ayjxNuq6siwIXlQIGu2w_C9Z0eF1-ikeBhybG-int0eKPzeoLBf2eypVyRmRqYYVagOuWX-6H7G5avZqIQgHlPEIZsbAz9NpSbfuhPSSvP90RKIgjjwCQ4yUPN4TdCFj-L6jGE8Fzmco-rUF6utP_liKdy",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103826265520947588096\">M G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3qEvdleufGm1bmf-C_P29F8ZPbxyNsrZpZfCr5Ah5JHzCSJyp2p-0EJLzx2yTr_UNQ1uzAR9Bf5avBnAse2HBQIQdUvh_OixFpc32Bge9qTQEpe7AjnCRzglCvatyKYGOtqUrHYtsjKWJUs4S936ExVFgmjEH4ok9UQG79pKaNNexbqXdNmEqhJrY2v18MRBOMQ8CJrdr1EufBC77RzC7WwVvSy6prQo1xty2TLFH9D_DC0eo3g5SK7gdD8E9sohfnVqOWR4pErMMXuK7VsY5TkGtJqc955qWnKC7gIvxtQLcvNnB-lJivlIhD9aQbnXOefShtdaYKrY22INgu97Dabh46B2nWhFMDtUj164f1fjhWs9ptOwZxcGy_t0YeoaZbzFauiJz7ZzzF6A1rfGziDqHtAdxbpPbIaB8baXOOQ",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116130355486960725931\">자몽</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ezAWaNnlGE8XLiZEi09KCeALraAOYtQjGf_s7XxSzLTsP3NtCefmFgNiDUzSL8jl661BtXDgXEdz3UeqEjvB2KepgC03UkTu281soeCNhC2C9_H1gwB1loovp3GC53Bh7XOwu4H7K9kNnivKG-6U9Xc7bgZrd-eBxWEkEfkyzoJOnynxOYGuyjRnX4eZrfgIGZ8gztc9fDLh8oUYeHJrzeZQxYC2nvcNvGTII7LNIeIUSgaRvv6OQHeVgHtihxTs3gKlcXgsQzr6JK_SP8EI2VmHgmHmPYmmYWAZAN91V7w5iXR_z7FetJRFVm5PtNBQOBrV8YZrZgtEUsZqVAAbkCB2_SIf1g8FRImy3AO2jouWlGu6AKWu_dm1nSTdckGXs55Eyl3yXhZraHO8pI97hJjULUHRwQibySMPriKRk",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101973738390489790055\">Amy大姐姐</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2et_oz4RjoeELmgdOjIuFoJjmcs9zGuEPl2XQ8B0dBf_GjGm9wk7YOjjDdyj4Np27_aRveFFAbazFccERuBJocwQG2nk8jwcf7yjscmTMNn8NB35EoW4t0P8MAt6F59oEJMEDvA7FCzoTsJcI3Aj9vLts7BBNMpLeL2IJI5HDI4lQfV4M4bWNVUYIX5MInAEuE21SVkj3RkVI_ZG_007nC_23w6gYCXzwTqbjjzt6dZRvpS6LUPxNQmk3DcwlM_7OJdkoOXsk5aiso5EgQd2eYmejqS0Bhd_-3byoPvHRAJn0zMXnpzKmF1N6rneYsUxxBDeBLrOSJLNo3E7DQa_VQxWknG_02pAQyhRjY9H14IMRuOZTaET1mho7PWeLn_F2vIwra1EFPtNs-RRQrXHXLXjXrX42Bq_6uYgpdhF4fryXLa0Ilrte1wEHaaIbSr",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114562760820912150023\">May Wu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d67V4bXbc5GWZH1c9UkffuJkmBtLqXHIVW86-M3z-wovrWzMQaKiiImVXt51BjbTdi-IjbcPaCGkPQNJBvUw6xyjw4TbwWUYgnIenD5mEAIcZNLURgC1UI0ig_ll1mPFn8bGGLqCu-g4REYAQif4qRWl5Wj1ZRY6oc4SYnZnkZHGsS493hGXKAO80eLgYFI4oTIy0J4PAgDJU8AL3aLuTC1BWpNuFHOeKg4amXP7GobDdVYunesX_P6ym4cBRyQjdfWiy3wI0SiTYNTiYXd40cwBYFh4hOtvmwgRsbAC3j9u6F5nOegZvuLgw_CYmSGSPZ9o5ZhyFfyaBGF93XF_0at6R_Xb8bQWTy84wvRoq4AzdWha0KgWPOhv72X-9rldRmO4_fwS3kNUbP14LWYa0I_Qz7JU99RASFOdvDMhM",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106074406164142087213\">alanoud M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fuokB7zM1DIMRlzBgC3Ro_HxAkTkZlj5SlLTQ6a0UvdmV4nz6w1cDp6VNopq73fL_JM5PNCAS2w7dXxc7vQFwOXe7Rwwbr7wgQmEPj35ee7lZUTOjaqvv4PH7HOOW8fzW6R58IrCztSv1bOxgOx12vZNY-sYo_UqNWd9J2AJ92GkMR226ZgPs4uzBjQVMwHVqiXTqwuD2-9Vge-aZHhKaJqMHjC-gjWqqhUGrXPxtyW3equZVfS-hk3u1x8dlJFYRdA_gcBIJah9td9zt3BV_IhQUbe8chwwBfPcqYLgMrY_3hLvFpnIA9HA7jifP2IL7riUHqUyz_9quqmbMMPEuQ4U0TQVtQGhcWrIjZ4bwla8SJ3q9Ya5F7Mi8GNPMs8TS9I4Hy5EzlYOi_IhwYiCxosm0T0lz-WNJYVPoM2VhXPQ",
+      "width": 1064,
+      "height": 1078,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113598833047326917211\">Sivan Ab</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Chin S",
+      "rating": 5,
+      "text": "Beautiful cafe with soya milk available as alternative option. Very peaceful, quiet and nice area. We had flat white and it’s amazing the temperature of the coffee was just right. Music wasn’t too loud and the staff were friendly.",
+      "time": 1757251147,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "catherine conklin",
+      "rating": 5,
+      "text": "The coffee was absolutely outstanding! I walked in on the first day of my trip and ended up coming back every single morning. The owner was incredibly kind, and the whole experience of choosing your coffee felt so personal and customizable. They’re extremely accommodating and happy to make suggestions based on your preferences. One highlight was trying the owner’s homemade peanut butter flavor—phenomenal! I sampled everything from iced lattes to hot lattes, and each one was perfect. This spot quickly became a daily must-visit for me and my mom :)",
+      "time": 1744547254,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Teppei Goto",
+      "rating": 5,
+      "text": "If you want coffee in London, you need to check this place out. I was just looking for a place to have a coffee in Mayfair and I’m sooo glad I went there.\n\nThe pastry I had was amazing too and I’d definitely go back there every time I visit London.",
+      "time": 1747688555,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "David Noble",
+      "rating": 4,
+      "text": "Great location , one of the staff very friendly the other a bit cold (I guess tired, who knows what's going on in their life). The space is small but good if you are one or two people. Some nice seats outside for larger group. Coffee is expensive but good: you are paying for location and ambiance. Worth a visit.",
+      "time": 1756535630,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "James Johnson",
+      "rating": 5,
+      "text": "Just had one of my best coffees for quite a while, this time at Chill House Coffee Shop on Shepherd Street. Quite a cosy coffee shop but plenty of seating both inside and out and the delicious coffee is served in a china cup which for me makes a big difference. Service is quick and with a smile, thank you.",
+      "time": 1740055725,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:23.225Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XJOLvYFdkgR1oW-M-c4fvk"
+}

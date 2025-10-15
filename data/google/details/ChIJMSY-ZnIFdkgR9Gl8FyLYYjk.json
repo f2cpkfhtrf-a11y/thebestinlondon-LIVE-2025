@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJMSY-ZnIFdkgR9Gl8FyLYYjk",
+  "name": "VATAVARAN",
+  "formatted_address": "14-15 Beauchamp Pl, London SW3 1NQ, UK",
+  "vicinity": "14-15 Beauchamp Pl, London",
+  "rating": 4.9,
+  "user_ratings_total": 327,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4977194,
+      "lng": -0.1647782
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.49903228029149,
+        "lng": -0.163487419708498
+      },
+      "southwest": {
+        "lat": 51.4963343197085,
+        "lng": -0.166185380291502
+      }
+    }
+  },
+  "lat": 51.4977194,
+  "lng": -0.1647782,
+  "formatted_phone_number": "020 4618 3971",
+  "international_phone_number": "+44 20 4618 3971",
+  "website": "https://vatavaran.uk/",
+  "url": "https://maps.google.com/?cid=4135105048814053876",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 1:00 – 10:15 PM",
+      "Wednesday: 1:00 – 10:15 PM",
+      "Thursday: 1:00 – 10:15 PM",
+      "Friday: 1:00 – 10:15 PM",
+      "Saturday: 1:00 – 10:15 PM",
+      "Sunday: 1:00 – 10:15 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2215"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2215"
+        },
+        "open": {
+          "day": 2,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2215"
+        },
+        "open": {
+          "day": 3,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2215"
+        },
+        "open": {
+          "day": 4,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2215"
+        },
+        "open": {
+          "day": 5,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2215"
+        },
+        "open": {
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f1J7-mBOZHH0iiKqsBN8GLadn2rUeP-yEsiJAFQWMovA43x9Cj2OJwdY8mNNp59hrGozIe0It2r2wOdOxwEoZj_tSpo--P89M8KWQThMYXR7C16NL_aXnA8i9YGjf_9qCqZsQ1Dcig8ksU3T5I2_Xc02ateBVJqyUjvzBMQ9A-DfzGrYnhXPK5VcS1zqohvLj-Jcwd6anjX6_qCMFq7G4gxdxWmAkJv4ruCSIL3BQPH0Jx7dCKNa8f1LE_fNOEposU164J8A-wgH_WzukQ1sp_qUpEFrQ6RCNNXoSdYYoxtg",
+      "width": 1284,
+      "height": 723,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108600443351502159984\">VATAVARAN</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fWeWBVl-S3x3vNy7lkubvXey8pi4LNfvz-n4cQUGvbDhw1coMdYesWboTym4bJztX4LbBGv5eydkpEm9eq3GccQLbjuWe9BS1vweDFglrmJBdGz95VP46VSFBmHJKi6tCy1TwEoZGO7s-bKkfmy5Udut3xer5jm8TiWYmdquj-QJ0dxAMFjSCP-okaMKV31-D8OVa4eVfjLE8t4kFVV4h1UNe3FIZT9ZsoUmfhXRAuj9hPuCp_uxEYJFZSFXBQ4wAK2vN5qO7ZycDqSDWX-9k-pTa2KVgK7KC3EWR083KVN3LABZ3mKlIti6j4RGLBojrwSOS_WVtPEKvXLVK31RAkKAWLNrO9_M8ynq6958gxAmSRDfr1utMMGVFEj7oxgaVN69OYlZItR70IkV2YnhQh5ta8LF9zu4vYQapkTts_IZe8Wt91PDORy6KZ1z3j",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102026147254293596310\">Zelda YU</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dZQopkNRaI3-0vJJfYOOPHy9pewOs0xbqDANOqy85R-toiBUiPPyEnCps6HJft25VVnAh1xJgZ06vIzhuPJcXgN_PppzSSRefRGNImwOSLxOn0YoTlg3uhuwB1IqxbM10J-fyuXXVFaIrc_yRPibKaB6xpkW9rvlHD4bSkJsv3_FFhoxwlgqDG6nkM6C0yl1RrX_k6f_bSqHU56NTs5y8yxUwuwVzQ8I-KqIPfPThKslZ27gSn2ZkT97oyGTxjeA0LYmAXvnkDoX_JStMF1AvZg1sdouHJE1SuvOWtBxa1vw",
+      "width": 4031,
+      "height": 3023,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108600443351502159984\">VATAVARAN</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eawCW0BFVXQXxyQczmOCNFzYV41XUktLBqUuK81r4G9p9Pjf3hxRuErMSPvjmocvrcyWIIGtEeBneKFAQsY2pZOglQWH6UOkchiL4Ss0PVhqchqv2bqPH2sPcU6NOoKYMbiHfqvL_bppgWl38ztQ-xt0jTS7pG3OOX8C82fA-UUyYrbUYJiYA4jv8GJLc6Ko1FPoR4Aw8Ki8UOSQHw6buQz7sqbGo7bdmUoNTXyejRWSPD8VuB2QKNcRnBGijtDqiacWA3labVdlrbEd7BC3Hbk98ApmYpyIHOgOduD6MBTXR6L4_Kx-6RoUtwug9mUZ5pkpqP50F1-MIIpY3myL-7NeG6GPUT7t8kQeVmkXfetQti0tZ8pQwhSDc1WYSB2xUD8WgpfaaD5lXbCzmm0r2b2rew2a0Z2lUVon7XTHghM2fcNIbcSKgxLS23JdDa",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111933957181417273465\">Dharani Senthil</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dc0GaBr9BM8X9iW5PHxP9fCBUWl3bAfQbST_dxmc9ovkQpkvsZ0AcDVwZDTH3zaUzB2voJWcbH3DXDYB2L9PZii_tntp83N4nAJHP-3RCu_9OZ9gtE6JXFgs1DNXMWA5GgP1uCapsXJ70uefZmhY7aPcwIq1X3J0itjLHNq-5Ho5C1-kxET7xkjY43RYD2gRJocx0CNM-XqNhwzXkLIvP3KTFQZ0CONJnIWml8indowHLXOAxloP72O1bMir7NaMNUIONiRYouloGaZcaN1mVSwQ7mpE4TAI_29QheX38PqgxF72FVKmkBqZJ7scrHHnY7eykSGsnlV5CI9xqBRBqfCznAwSJo1RP0p6_vecoTNw3pkRVksi2k6Yy4W-dxK_JjymThe1knUQQX0LBUAbda902WUcxab0OKQhYO4zyLmYcjVoZaIQEdw147dzs1",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109158475827249876817\">Caitlyn Bishop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fwZQl5U_8QNp8xtFnrmwk5fDX484zvQ7ZA471Vv3c9KHGJl5HvYscffY-u26FMyeZMmxZIdnaWhlwYmbuu1BhdnGoSThF2ElULHhpX8I1-6psdjRThQL3a_1vHylfeFiPeF6pRTXvNLJpiKWzUDfbX-ITsrv0YpR2WAmDngIr-2c0mckEIyVlnYhUT2TkvweoUESm9CCv7920vpFr0t6RQ141wmAfNFXvTuG-7rW1i7L6sN4Myn8ZDTmsqnl4sBCPucuvjaXS1Mb-4_L4P8rC8wEb5ZEt6F68-KOhEQc0H_g",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108600443351502159984\">VATAVARAN</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dU1sWozgLAadDmH2RTW7djGOO7pYqVX0Ud3AnQBMLyQ6cElmQLjTYGHv2AUqtbrlkCGLhlR1TqOLgJFrnykbYGBIj6mokE8FOW9BUUOMIR0LUk4Hq4-BIA9Tx_0wkUUswEaUEMVW6Nz0TnUtUYLvUkE5lQrg_uOmGaMRd1aWlyRDJgGzhiq7tHtLYZhOdHe169-IvbU8mF5Dow211RVEMjq7D8VQlwfQp0FryETm96U0cj1b-4tP6nQPn4w1x8yJ2dj2RD5Pr4r5pbk4iZcDRCJHHyy6230GQqcSqQRcRKWE4tZSWvFAktB4Jwv1_zo9L8hnjYU4d1w6nGfPArKWdiPGg0ex257mzGzvWVGBCMbmnkxy1ZAHfAGiq2O9ZSTtvoxJWDCGvwxqEVKlHm-LBZHkDla_rOmITKTLVsMJU3rEUW",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112030693593141107403\">כרמל שאמה הכהן</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2caVh9kZrteN3OTtzoO_FqTegZNjCuJI720OhI-FIAG8uP3j1zRu0cj9E7H3f3bpcid8toopADi_Js_6BcxwQddUF5M8w1pRE7oKPW3A5Xu_3NhZvsg88SMtrdKDTvfU023Cg0V2EjDqBZfN4JZxAGdCUlGNgFgk5SRrwGX3RrQyV5eIt4zWrnXCKcTkyEstbw5JyV40vESCwEupZpu6Ysc7PFZlR19uCP3SvHhaAA1zcOaXBl9IT9G-GKKIh9uPhtfCxPqqd4xX4O9UidS9kZKW9de3I1wA6TaTmTaIxOclQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108600443351502159984\">VATAVARAN</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2erLnYS3iTatl0ziDpCDw9VxPJ-r2vzzoOqYK0IWcnoW13CeUfyvK7Ir0lzK67vJ-yDUVAGsbOXZ25-ZoG-j-riMi6iCWiizV8UlU0_km5H2osBFBOP2-14fhuvWJU-Bcqpmw8ZDvrr34KKMGdHaIYjjOOz9omhpSWBj7gZylcLdIwrOAyd9DBOSnUJEEUcVs8A90KUDNaaQXwumPq3h54jzltlZMlhTOD52H9GtmcErYI2MCVe9eIPaJPP9T0n8cWrXa5-nj3vV2NicqmCG7n50BlckDJZ_tFJ5zhyz0tSuQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108600443351502159984\">VATAVARAN</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eRV2T1Yx0YNNqSdY6o7lG0GRL6Sj6Cjy7C7DsS_72SwmuTam4XCOqcZ2ZtyjOTM4G8Phk1-lMDDEpOOxyjn5Lsl4QzxmVyUuIdAHJDFLGIIYRL1y75F9sTRqkJ49fxC-BT9DOTCyY822ndpS8-1HMTJkzuP_qMbut2lz9iuuR2uvTPQoCjWIxI1DfUpW03u97dG3Am6_Nd9CTCX3yDW0phzV_muxfwVHk77a_nrsYqImLACRAVDESiAO1UC2hHx9qrI57BzeTuwRlyyMxTDwOOHUHH5VzSYfAad8TE9NfBWiMC2Bk3n7aeuKIB-v-sTrbjjum78gi3ZYO1QWcMN3Sgp32P-XeGlhTBwbJhthMlBHqucRbiW0DGwrduaacaG_VaIx6v914onFRTTkuUtSQH995GfYstipugVvxrwdFJwram",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108853559898852414510\">Lichichee</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "poornima anthapurusha",
+      "rating": 5,
+      "text": "I had a fantastic experience at this Indian restaurant yesterday. The food was absolutely delicious, full of flavor and beautifully presented. What really stood out was the service. Our waitress, Shivani, was outstanding. She took the time to explain the dishes to us, gave great recommendations, and made us feel really welcome. The service was attentive and excellent throughout. I’ll definitely be coming back and would highly recommend this place to anyone looking for authentic food with excellent service!",
+      "time": 1758701490,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Dean R",
+      "rating": 5,
+      "text": "An absolute gem!\nThank you Vatavaran for the most anmazing experience!\nVery rare combination of beautiful decor, top notch service and the most delicious Indian food wrapped into a beautiful package that Vatavaran is!\nWe loved every dish, every conversation with the staff, every second we were there was precious, so much so that we’ve booked our pre- Xmas dinner with the management! Highly recommended, not many restaurants close to this level in Knightsbridge!\nThank you and will be back soon!\nBest,\nDR",
+      "time": 1758749093,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Emma Brooker",
+      "rating": 5,
+      "text": "Vatavaran is one of the best, if not the best Indian restaurant in London. My personal favourites on the menu are the aloo tikki, chicken pepper fry, goat shami kebab, lamb and the duck rogan Josh. The cocktails are wonderful, I would recommend the sehar and the kala. The staff are so amazing and the service is always well timed and very thoughtful. The decor is also done really well.",
+      "time": 1759749655,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Sneha",
+      "rating": 5,
+      "text": "Oh my goodness! Had the most fantastic time at Vatavaran this Sunday. I went in with my family friends and ordered a bunch of dishes from the vegetarian (Indori Poha Chaat, Dal Baati, Tandoori Cabbage, Dabeli, Peshawari Naan, Chole Kulche, Palak Paneer, Dal Makhani and Truffle Pulao) and non-vegetarian section (Kohlapuri Fish, Roasted Chicken). For dessert, we ordered a Mango Cheesecake (I'm sure you can see what heaven on earth looks like). Being a foodie with Indian roots, it's safe to say that I've tasted better Indian food at Vatavaran than in India. Keep up the good work team - I will definitely be coming back for more!",
+      "time": 1759815474,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Mark Harrington",
+      "rating": 5,
+      "text": "Beautiful restaurant and beautiful food, stunning inside and way bigger than it looks from the outside. Excellent service all round, especially Mani and Aryan.\n\nA True Indian fine dining experience and a must-try if you're in Knightsbridge.",
+      "time": 1757541636,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:18.405Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSY-ZnIFdkgR9Gl8FyLYYjk"
+}

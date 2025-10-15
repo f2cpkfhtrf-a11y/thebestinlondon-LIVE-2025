@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJUXqwCGUbdkgRS9_gCSWnwCY",
+  "name": "Kiss the Hippo Coffee",
+  "formatted_address": "51 Margaret St, London W1W 8SG, UK",
+  "vicinity": "Station Arcade, 51 Margaret St, London",
+  "rating": 4.4,
+  "user_ratings_total": 1073,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51651529999999,
+      "lng": -0.1415986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51788278029149,
+        "lng": -0.140405019708498
+      },
+      "southwest": {
+        "lat": 51.51518481970849,
+        "lng": -0.143102980291502
+      }
+    }
+  },
+  "lat": 51.51651529999999,
+  "lng": -0.1415986,
+  "formatted_phone_number": "020 3887 2028",
+  "international_phone_number": "+44 20 3887 2028",
+  "website": "https://www.kissthehippo.com/",
+  "url": "https://maps.google.com/?cid=2792415546491068235",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 5:30 PM",
+      "Tuesday: 8:00 AM – 5:30 PM",
+      "Wednesday: 8:00 AM – 5:30 PM",
+      "Thursday: 8:00 AM – 5:30 PM",
+      "Friday: 8:00 AM – 5:30 PM",
+      "Saturday: 8:30 AM – 5:30 PM",
+      "Sunday: 8:30 AM – 5:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1730"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1730"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1730"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1730"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1730"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1730"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1730"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dQM0KXtmSL3b-0BGDtEGX1rAmaffErt1JYiZzmQHzGVxEvDyqkYXEOzSk8YdHl87-KuCtG5-RfToe-Y3MjGh90nWq41VFW8Bwa-d_VFM-WTgQO1V6wz0v8SaA9PiO7G1mT74CHuh_3XlxvDXTCfALZcGbdcKD6o1CD6aybb7SZAlZ9Wme_kVjS66ycGDxIrIUGCQ9kZ8FowR6eFGtSFvWMG95W9Dswure_G3-S1NshmngpCzD8rz59us8JFOV3-9Ju0eDLe0DFctznn4ngfcboGiUOQ0k5m8_iSniBCU2zhA",
+      "width": 2766,
+      "height": 1557,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116911478371173541720\">Kiss the Hippo Coffee Fitzrovia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2faxg0NOuDl7RZMSuaO2NU2x50Y7UKE1YaDVwPCD0QTyUtn1MvvPxJfzP0JiP8lcvw1RCrN8d99lFumZzk3tNRKojV02r6eIbZmiBDavz42MamE-WQp_CK_JiupD8L8wwagajD5SBQvtAnxcW1-yJxi_4y3Pnk_Vzz024K0nZDPH_UR7klGCvUCIS-oCUu0uqCmk7wPdtVdUjlSQjq1wEU3w1rpIXk4SmlUPNqCwn6bjXrKvsGo0uXJyVEtUXJl84RofSegP7luJHZi5Ito2aWW5zhU0F2Qm87QAutDXZI9O9YQFzi0grubGOuY-Z3cV7-1y9RJT-OkzCuQ4nAhXq4ka242_YBCqbhcV134zv_SpNEezrOJU2nMIE87Uie1VQZZ7iX_i8MvTVIZO0iXob9zIPI3bG1ub7FgS6tcHSg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118022359788325378494\">Fiona Aoun</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2er1YYw8zQ7n_NeNYt-eR-B3stnxqkAopbGMdCdReGv1oqt5y1vzyNRSOTUtu7odzThMFyLqRjgM6h0zP0l3jowZt3kE1WuBJ3UkZ3oMOQTbUvf34HZ7tJKKbdRA7f5GyfTEP3FH7F2vYtgo_QI9GD5Ww9DT5M9wvdonEugBV2X0hSdB2yguWdFqAcZqtm1FE_EWal-klEL98bO1VDlp6PdXvjQPaDil2OkV0_4T9e1hJVka39QRXQTIiZ9DnOGgBTUVRqSuaEU2JwrtctyNmuK-_fmLlnJmnKGtc5Eoo-MckQwiCYoS4H93vQ2Mt7ROiQUBWq9j4lXrm7klWxgTA6-r7l85IeNlq-QVBu6mZj2x3RBYVnfL7-Tb77TLVYmvZeBQA58NdxMJsuE2wWnFJAb0nV28gezhWbPXPaQwGMUNkJ0U0zoqtnZ96CbqzPB",
+      "width": 3069,
+      "height": 3633,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102934617386844750200\">Hussain Alnemah</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e90Rn7Av9Glw1Bbc_lXz8YKw3HUN1Rndf9TZWT3wKS2QqrS4vXfXUeBRO-2f3tGQI7Rf936c47Gz1u4EzZKn31wdCxivyJfEihDgQOtKPcQyU_gZgH2aOTFwlfHnbaoZfpYpryNtuhGucnaWt8XRw0Xp95Yq28Q1B1nAfuqLtF_jyelMSYHXE-EUD6Oi2iiW1v7WxDOWq0whhs_01alj9PIhLfHI0j_8nUD_f_xIm0xiLJ4EdPL3D6jrqpi5J3EV0mul0pxgRscPi1T6jK9jqksr40b_oSOSvVf7AFTgAMLD7Oc0XcHPh0xO4lenHTQZMdS7LNHDmkd0IZ4--wFiOMKe3EdhFXVxYweH9uWEsDeEl73EXJzcYRTYKQ3xKunR5I2ZnLqbB9DxDFN18JamoU93ZSvBkP1_S5sVXgdxu1VQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107396413007768907331\">Jodie Ng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cdCxZ3LDdGggge5O8hPV2Vxysf0KVe-BcInw_lVXhiNg20axcRqPEB9R0W2ksUoMO2EHw3PakmUYcfgm5cRLD5JTL1DS9vKhQB_mYShm_K8Qi5PKeiOU-SSb1SoFkUXBMo5brRJH0ShQRGBCUiSBami6JzgwDFqD1MNmx91mQLAVoHPE8DcnvVd7LxNgvrKTTDdRDCaWLvzVGhhD-neESRf7RZZWf_dS6SIFc0buzZ5OMsZ8sMGmhbpv9RkjuEMuLxbr7QJ-V9ixyqKxU-XLy7rJ4YFHad_1IoToebRQi4TYAFn0-kv0dZIau8jv7wt7pmg7wTkkagreXdfM_JiM_A0L3cNnGJ3JxQKzkW0iWpfbMjyc8sBO9IQjYjkiLe4nmAaHSfczTV9NOmnMWDxo0W_QBJh5Obk_WzRI3-NHOtFg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103226736499766630127\">سعد</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dcY0TDXvtX0XMW-kzvmNnvqF9PZVjwwIRZJnX1FLsHjh5BgDK5tKNzQlbI-KDg7mpPlfIWNOJ8HRdt_vlXnOMZKGX8lZX0uwkNIPv9A1p_b37r5HB6OdhGpT4I2b35cTFYlGq4HFfDHobkfHP8SUIxg_5o0NsqAkBab5RHjdFsrHve5jgvB1IVnFrSj73rggaBtMCRLXzZI5lZbCcjNwVOFgBH41fzM5hQPohpBitl5HBS_aNShY34kaAur6sI30EsGncXftVQTsMJ_0Wooo8vXJ1LfooGyHKs0pK-m6ZTTt3XXIlE58D7am1_gXe3jugSVmkgsCuqMuVBoSS3aPdftdDvi1FOOAdKE4MfLfPB14PQVXXyZ0l0HPL1D128iI_t5HKPBFWgLTYHAT1OqjD4FzPo5oFlX62H4vJerzvZsz0n",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104590367722378514060\">Paul Leon-Hart</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ei0wQ2nT7e_hQCipr5AFkHoP8ME53ijONKLL9iAQmtDjTRILH_M-bQpKXiFgdjygK61r9oEXe-Y2VxrRGDA7JyPZUhCp82mZBBNn4NZ8KDdNy7Sr9ZXZujrPeYupHQZ64xZnQ97zPgDkvHAN7QV6kQFFJknrVWOEN7eSathaWk6y4KUXgKJt61zfwL-Z6Ohj-UUc-XbKmAod8Vf3f0q2wgfeGRg-n7WQdcKeCMnvg-xAMuPIbMS-CHkjjrrL62yxGdsYaD92spHRBXU1qg8ZZ5DDTTyQTSQU-mHuim0IasFW2S1F15LndZTX_9OYUON5BWXZY2XW5Svv-tmhhROpVSBVcHXTDzdl4eNeLgtEmTjRnHGZMlVVMEsRHjpsRhL4YG5Bgj7Nws-O25DKpgVOA7aDEnnu6aB1PO1UusCUj2ttK9",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116729077812086050630\">Edward C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dalMRQJ_vypGjiasc5ucwicfzHXafpNRY6UiDCnrpKxErrz-sljikWpm5kohiTRDm9ZIZ3Z1yv_97oAwi4Uwsoun-FziHc2HSrWkNxHfs971Py8-juOphAuM1Xpe2R0M1yBeLrHQ97UCnAv0pJu8M_OtUoi1gF5x4SCKacM2x1_Vqyx3qMhfxhkdNLXhdYcILVItIPkh29lzMK26f6T-bNuNsrAONCcJtbFYKbskDbEPewRVjIi096D--n5vIBor9W_b5aiGLobZWMFPSytvJ_sAHKBEntlHtFnyhWcqdEN9HteQaFHT0dJHDQrm0xj75Di517f57M05QQlPJFswhgc9ngL_41nOx6k8dmi2rIxUWB05dRx8slISMJantx8bgOrZQdPnGV9jDZb_oOmIiwwmwN5rAiIvZ_juO6SAowXCpBu1x9IcM-v3AJFAHn",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107558520715090112584\">Arzish Omar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMKeKdn0zSfMWbolekI6PUG5n04O1Wepr5_ATBae5bKtm3syGDP6bxhCPvaMLbUHtvurs8wjCpo_5xZfN-PZClvg_C3rVk64XUESyBEcGM6ChC9SRBlac7que4SnzQRLQBLYZWRZgjPdO2JU9rWuHgmj_rd8YsLXxvopmTBN2pn7xQzwCPj9xAZhnbZ04DXgz_5VhZceEYyUhfSXeQoiYObNfV_d6SI5h7xY2f1VLwh21UGWR247vLAakKKlnMuBNe2pFAW8U0hmILspHXh5vFJMex7qkvuaIE_HIpDcTbZjXQBhxOwQ-a0j6aF4d2hF41NJrEi7tu7wJwlzHtZ3Z-gxDRLLCBR3BwXm9WdG3_nN3tRiNXNIAoU-kzAMjNew7tFTKnYZwTZe4JFFVaHgWenlAqb4QgWfk6RzRpn6VzXA",
+      "width": 2992,
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116729077812086050630\">Edward C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f0julSrHhf9WttqRBIzmddfkD67JvBTB9ht6KDygJeS_V3Sf1kvyjfYYeh2yu1ClC6AJMKhOOkrm12rpYFQtK0c-bAf2dA-UigjVNbvatGAsEotHOs54CgO91MEKjzZvME5fXo_omvDYFgf4X00jc13NvIJ-pctM5T3e2ANp4iLAJVSX8kB-6dL-FIA5rit4zCMBNdWxun_3U6AYOTfLstqn99y-pkmqkHTtW7Z84ZhQBXg_lpxigh7V5-4619m5IU7Tp0lUDE9cvNL4Ao1KtAXjsJ84OeI2aHwUV4Cp7cwUYrFBIw0h3_snN6l6DI_eeUqVciY7me8yNVtQoJiJh4HSCV0EJVuz5iWLBtjwoHdc5IX89nN7vYlatuo2Y8bRWBaegVSzB0R1LI3S3TY4rILDocxlBaO9vHZbaD2FSe7Ij1",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112401800639523567258\">AA</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Easygoing coffee shop with an understated interior, serving artisanal brews, cookies & pastries.",
+  "reviews": [
+    {
+      "author_name": "Hussain Alnemah",
+      "rating": 5,
+      "text": "Excellent coffee, they know how to steaming the milk for Flat White.. Many choices of coffee beans.. The Staff are friendly.. Also I try Almond Croissant.. It's tasty\nOne of the best cafe serving specialist coffee..",
+      "time": 1758450030,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Arzish Omar",
+      "rating": 4,
+      "text": "I went to collect a to good to go bag and I fed up getting a cappuccino, I got their George street blend it was delicious!! The staff was so friendly and added to the experience.  Tried their banana bread, mozzarella focaccia and the aubergine focaccia. Their sweet bakes were definitely worth trying but I wasn’t the biggest fan of the savoury. A solid 8.5/10",
+      "time": 1758979521,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "M N",
+      "rating": 5,
+      "text": "It was a nice cafe and we enjoyed the matcha lattes.\n\nThere were just a few times that the noise really escalated to the point we couldn't hear each other.. but most of the time it was average cafe noise.",
+      "time": 1757884130,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nessa",
+      "rating": 5,
+      "text": "Kiss the Hippo is one of my favourite coffee shops in London, they have other locations but this is the one I go to the most!\n\nThey're known for their amazing coffee but I don't really drink coffee so I usually get their Iced Chai Latte with Oat milk! It hits the spot everytime and the cup is so cute. I also got their banana bread, there's a nice bite to it as there's walnut chunks which is amazing.\n\nThe interior is also super nice, everything is smooth and wooden with a minimalist style.\n\nWould recommend!",
+      "time": 1751999269,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Victoria Allen",
+      "rating": 5,
+      "text": "Absolutely love this spot. Kiss the Hippo Fitzrovia is a haven for coffee lovers — every cup is brewed with care and precision. The vibe is calm and stylish, perfect for a quiet break or catching up with a friend. Their flat white is consistently excellent, and the pastries are fresh and flavorful (highly recommend the croissant!). Staff are friendly, knowledgeable, and always happy to chat about the beans. Prices are on the higher side, but totally worth it for the quality. One of my favorite specialty coffee spots in London.",
+      "time": 1744470969,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:21.755Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXqwCGUbdkgRS9_gCSWnwCY"
+}

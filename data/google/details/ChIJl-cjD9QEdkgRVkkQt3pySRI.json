@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJl-cjD9QEdkgRVkkQt3pySRI",
+  "name": "Brasserie Zedel",
+  "formatted_address": "20 Sherwood St, London W1F 7ED, UK",
+  "vicinity": "Twenty Air Street, 20 Sherwood St, London",
+  "rating": 4.5,
+  "user_ratings_total": 9472,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5105561,
+      "lng": -0.1355974
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51199598029149,
+        "lng": -0.134210119708498
+      },
+      "southwest": {
+        "lat": 51.50929801970849,
+        "lng": -0.136908080291502
+      }
+    }
+  },
+  "lat": 51.5105561,
+  "lng": -0.1355974,
+  "formatted_phone_number": "020 7734 4888",
+  "international_phone_number": "+44 20 7734 4888",
+  "website": "http://www.brasseriezedel.com/",
+  "url": "https://maps.google.com/?cid=1317710237365455190",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 AM – 10:30 PM",
+      "Wednesday: 12:00 AM – 10:30 PM",
+      "Thursday: 11:30 AM – 11:00 PM",
+      "Friday: 11:30 AM – 11:00 PM",
+      "Saturday: 11:30 AM – 11:00 PM",
+      "Sunday: 11:30 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cCXsRAty5ycEo9uuRKrfmJd-Cx0rc3d01mPhIet60l848B8z3G_m5bWrTC-2-8ffHdSqcQI-vwQIUeHYJbEQUiQ_matmuLCo9sI_r7TeCHCvCQZZfroX_rU4NygviUPEcASTwKP6gBuPizf7oGHcxzNPn9ErKLb2KlapUuaoYZZUJdX7IbFgfk09O3soAon0v3YeCQcbN33jNwf0KkMGwAPtRXMqLcpIoUluOB6WrRer0ANbwlI5ggiouzr1B62KZzPJTc3PoYtyJPS6Jbk7nycpoCHnnWztDuAyMivvlCeA",
+      "width": 1080,
+      "height": 608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113570482208630965072\">Brasserie Zedel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ePahFFGQvWCkAzYL1SdVNcNe_tWVICosPVeu7BDzWergvsr5kcT3UwRJhntNieZnrB4yWinKsQUwC_fu-yw0PmKMFvvIVgaSVLip5nj2BKmkBSBNPCfqEQIB5Y1XEaz7HFjhCuAaSf2BAaMsQBRDhhofqKpUqWDQVEHWrtvZlQ6VzGiLjsmV6cAWVwqAmzyXU9YuJSYfYgXBcNVsSQtTzYB8zvDnRBLi95rRifvrWirVprgzgI7dcaZbtET64KbUpLyZXaOs6rFI6AuATier1p51JXLa7tLL8TVkC26vu3GpX_GRR9s5h_pRJTCu84dHPkmWKQ7x4eqIYbVzDwH1eDjzWTWW1HSFPYc5GrQ9ylLM6gr_6dhuJZX2PU-jXOrmiQ1uMC-1xoCpOUaCcdaH2J-pGKirLxtHQbAdPs6Wr7g951oZUETthsGGDatA",
+      "width": 3934,
+      "height": 2951,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106940218410473080523\">Mr Wrong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dg6YBpqoxq_ohqw0NJ0SyZZ6vgfLWW21ZdLXUCmGnpku6_oLZ1dquMpydUnRiG5gD1NNmIYWSJPv3qe1TMtBUtoHNf2asrF5djABhxkJLC5LtkjzJySmGhq-ibq3ZQWpwjuHnjCP7Jm-8D5pC_vDO5o9tyqxjQjSpFilGtDN318csiHrsZXuroFN0XcI_f4AuTYRY8rFtkgsmLLYQPxlMvWlb32kGF7sgFCkiXTQ0886ZxYSUSdCyGNRoKEnbC7eF2uGZaQvAY7bZB422tIvOIvWev4ZbrAk-HHtr_9sj7mw",
+      "width": 4800,
+      "height": 3139,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113570482208630965072\">Brasserie Zedel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNLuOpchy4KKKInLkJ4TAyswZ5kHrZrpsCd0cqnqq-a7AQAe-R5su01gFZVnMVDTkgo0U6iPVz4roghlGVR01tLLWFDp2eMn8bfLXkdonLeSQCu_uU-hVXLUsR22nfcy48OpsbfnQWG-Rf-6WlZq9SwAxqj26Xv7gcSQ8a-oqm294eYKOb3eaLGpyq1wOUhj7VL4JhA6ViuubAwN8EC8a4cFELong343iCYo5GUkUjGG7ak40NtdlPG6ab54bqWelzC31ldPcg4Dr5HHH_6DRZj2vMpE-n_D9dLhNX4vtI8bi6Tn0Y947s47HljbiWMs20EaYYG5VEZIhbAX0pAoBEYZIYud67eqcpkq8zblJBSZrxi5DnC9oqGhqCaDohHK8uqwCN0mriTDGI8vtGLro4kM85vEC-feRcvvblHIwEQKwNKBsv4XPapU6zsbD4",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106940218410473080523\">Mr Wrong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2chak2WmmJHIqfqeAqonls7Cxhb_FsrSN2gWjhiuVZb2RlQxpjU_jq3xR42460wQzjSrBaoyuAMjrXZWsLXT72A9VjC6xRYY9v-WDHrjwOH3W6iIeLfXfoLOyOJtRUhsZ8Alc2pcpwXuRwMxYV3-nGDOjgcvE-Mk0K0JuKAjP5fiS1c0uiGdgaxInFEOUeD4oYlq5dOGkK0vTfIEJS2P61Wxkxkc5zCHkgWH8Cg1twPkdkC3T1qMUZxWIQRmdg4KgqrtKvMMAVnNnVR9e0ygsjvMW7S_1LgzkkiesVLdJzCoAdo1bewz8eE-Kz3QusQdqYgVt-Fzx_mPO5VrmUZeg4VB9ZCT0a51OWMUlpUIWLdFrRA3fObP0wxTpwRJOub0o0wOaibfkYWLWXfrVWolmQvxR1y0_EZ4WgNLJIfDHfNn3oHm1pKDDAkL5_6la1P",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115528601088636242183\">Kristen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_JQ-LHJ68CNw1hkPU137sEk3wzocir-sLDoEW-qu5aKfGHSh2srXfydFq36IJu-z-9XjgM9EP7vTgjIVCyXza9673Yeyuo3QF82KmiZfslFKRwFozYnbKkruUbLPHBAziFi4D85WgkWLh6AUcn7U5DiDAPRc5S5OxpL1BLtkuWTkRLnQthRSJEmvNaLPNUFL8L6_aHYNB4QgOeV9pD6A3NDJ6FDWLmtcWjpVl6_kG4FxcwgPMXpnZrQc5p9t9r1aL7uyJt7f8UMsEZZkCmklmUOJNHTAi86ydwa8LdhVacPNgcC_AAwtZ2W88LLs6azMddN3qM3ZwbtIbKwnei-4nIFycYfPZMxaVBviy4_F0vfjzR2oQMXfVhW6sm8SYT1nMvLPe4ji8C6jBTzne6PTocnQ7HsyUJrsxIkM-OYGH-q8C",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100561798780057038594\">Naomi M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKwAt2bkgTfs9L9ABrprQGUU-s3sNTTh0yO7Jijsfj9xBlbCaMHbFPNsj5IdNMRd1bOXxSQamGjWIKEeombI-vekDEoS7Ykerwy-H3abY403xvxjZ1mlKsyaHR-VRK8gJcIq7wruoefMRn5A9cHt_Qxt19jCYFwW_HrVMewfHnqvkAtDpOGcOiWzze7WYwyg-27FjsNSRs3m2_eMw-uv_QvfdUBmdhyekdlzhuSSCZdGEocbChhLEdkkQ6k0p0hcpmvjF2aVnWK3lpkYK_kQ391PqSrJlU7HrGmqB79j--wY21wwKoF8sT7J8Y7_HfsRj_gefMDWX80R0nfM5k2Y84eSE8BCpcM_YCmZ-IXfHdc5x116LcwAbXSyD9PfwmumJWoJ-nh-3ngsCj7dlyNJZMMep7w0eL3Olq_10f2jvhlTjH5coXyI0BD55nHTuu",
+      "width": 2587,
+      "height": 3728,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116208316807790263912\">Josef McCauley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ej7ptOjcw3a5-Yqwg9oXgApS3oL6zoUuI70UShtNGQPsHp4lQ3N6OkNYICwgeh54kjklQZostWubeLGJKbEERfXBzp8b1ZSph29tjb7PhKfhQlz-N7UkaOyPPoTOEWCdP8fNV-P3QxcL0Js3SB0z2VeSZbQt6FQxl-fis5H4VUDhE_I11InFm0BZGvwbeXw3mzs28oxy-Pa4OzgWj2Xo_iC3cG4_B5sjh7asxpiZ1kCFFPz5nCxRURztLhJhryTUfgUfOLohRm9bxfVnLa5iQibw4yoz-YgFdSCyrR-p6AzMFHiCeUQgczHhjQrJjz8r3Hq4xUYAEyWi-BYD0v_deY0pNazw1BpwWTZhqCqvORAWzVRz6NVzB46q6l2C3TRQnWh8G3_zmd1QbfrxwVtUkXBsKEHgMdSPCaf1H_7fhG4g",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104345947901450225454\">HJ Park (Rebecca)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cCNW08VtHUgOFIfc8VPxy0GXdO-zfvEO4aMrvKd1UzQ4ARQy1ZUC_b93B1zU0Aa3FMzfccAtPvNGjYmIugvTBxhYEf3jzkId_W42jc-Jfkk-6SCJy7tb9w0BztNuql2U_aahXDReCc__V3e5CEqHdI0QT-ZSuT6WnMt6emCbCXGQ25Gf4ebOALgVD1p2ty7rnQc3H41P3NQ5NAVlRYTnDbNZ0XBwrlDQObqqap9vGZQICsqXEYgWvHpeuOJvV2O_-_TndF48HvWPfNnB7afvljl2-QEG7YKcElTiRmEIQWv-tgwMVs_Iy_U_f7H-O4As74jZT-CVdD6QJed30fpcLJQweppKRQB6PdNumx6QSPbccU0oOkuzLppivO3p0cJ6OJvBZ738pweQlovQXpvEUUaDFJrF_Imts7rhzGA_lm5MyboWCvdgIgHz18JCnh",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108951944561234418053\">Cindy Yu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dVQDzMy5RDknPBo7SI11e6Fhnz1sIGRi_1baHnRcEdMYcMELm-T3P83HsIhd0oGFw03b7AT_ZjbAMoRMJNZYCWH0qMYtbu7F_ityK93LU9nkKTsH864fnBADPBYXE1qwz1-KucoKtTj0ONKz4t4cm2x_IpRr7fNB9uzywC7TRSeLfNCJ9O4rQDdDx3DmmtT3-YOQCyyOIEtaIZycVGmUhs_rf6rCoGXPcBDpRYQBYh1ktu0dpCMRvfaEqMZtuQT_JoFecMX1ajTSEog6cdDKfzKdR2mI6WpsA5JbVxitWm8f_4hfR2Zd05jXQs2q95Q4_3c30wOVqtRs-GXtbEW4rztGFADunKgCYrV_H_77pEOU58yZJn71Dlx3vQvyrVyZ5pmg_vHfi-jKjkNl7spa16lWq7nD3-Pdia-rBC09iGRQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100561798780057038594\">Naomi M</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Grand French art deco restaurant with classic brasserie dishes and choucroutes in 1930s building.",
+  "reviews": [
+    {
+      "author_name": "Kristen",
+      "rating": 5,
+      "text": "After being swept away by the glitz and glamour of Moulin Rouge the musical, we had a dinner booking at the Brasserie Zédel, a perfect match to the show. While waiting for our reservation, we had drinks in their bar, Bar Americain, which was an experience in itself, moody lighting, classic cocktails, and a vibe that whispered old-school elegance. It was the ideal spot to decompress and relive our favorite moments from the show.\n\nOnce seated in the brasserie, the atmosphere shifted into full Parisian charm. The grand Art Deco dining room is stunning, like stepping into 1930s Paris. The menu was classic French fare, with comforting favourites. Everything we ordered was delicious and beautifully plated, and the service was warm and friendly.\n\nBrasserie Zédel isn’t just a meal, it really is an experience. Whether you’re coming from the theatre or just looking for a slice of timeless sophistication in the heart of London, it’s a place that delivers on ambiance, flavor, and charm.",
+      "time": 1759440695,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "German Kolesnikov",
+      "rating": 5,
+      "text": "We came here for dinner, and had a great time.\n\nAlthough reservations are not necessary, I would really recommend doing so at least 1 hour in advance.\nThe food tasted fantastic, and there was a large selection of individual dishes and set menus.\nThe service was also very good. The staff members were really friendly and helpful at all stages, and even provided us with slightly modified dishes without an allergen.\nThe atmosphere is also great. Although the entrance is in a medium-sized cafe, the restaurant itself is located in a massive basement.\n\nOverall, the place was pricey, but a very nice experience.",
+      "time": 1752945705,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Daniel Semere",
+      "rating": 5,
+      "text": "A really great dining experience. I chose the starter, main, and dessert preset menu. Everything I had was amazing but I really enjoyed the pea and mint soup. The staff was professional and hospitable. If you have the opportunity to experience a meal here do not pass it up. I went for lunch and there was a really nice band to provide entertainment. The band wasn’t too loud and you were able to have an easy conversation at the table as well.",
+      "time": 1755725388,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Yaren Karabulut",
+      "rating": 5,
+      "text": "Good food & perfect ambiance for a romantic evening. Good to go. The music can be continued till the 10 pm though. I added the reservation note that we are going to celebrate some special updates of business. They gave a special sweet, ıt was so cool! Thanks again for an amazing dinner",
+      "time": 1756423819,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Caïna Verrin",
+      "rating": 5,
+      "text": "Service impeccable, friendly yet professional. Prices very decent for the area.\n\nThe attention to detail is vast and deep, no expense spared, it’s not a few details here and there it’s an immersive experience.\n\nCame for a cabaret show and was not disappointed! Drinks high quality, performance high quality, over all a brilliant place bringing real energy.",
+      "time": 1758918676,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:45.485Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-cjD9QEdkgRVkkQt3pySRI"
+}

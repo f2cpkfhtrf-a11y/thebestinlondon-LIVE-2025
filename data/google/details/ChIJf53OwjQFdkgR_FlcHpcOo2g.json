@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJf53OwjQFdkgR_FlcHpcOo2g",
+  "name": "Bacchanalia Mayfair",
+  "formatted_address": "1-3 Mount St, London W1K 3NB, UK",
+  "vicinity": "Connaught House, 1-3 Mount St, London",
+  "rating": 4,
+  "user_ratings_total": 3617,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.51057369999999,
+      "lng": -0.1477327
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51183958029149,
+        "lng": -0.146180569708498
+      },
+      "southwest": {
+        "lat": 51.50914161970849,
+        "lng": -0.148878530291502
+      }
+    }
+  },
+  "lat": 51.51057369999999,
+  "lng": -0.1477327,
+  "formatted_phone_number": "020 3161 9720",
+  "international_phone_number": "+44 20 3161 9720",
+  "website": "https://bacchanalia.co.uk/",
+  "url": "https://maps.google.com/?cid=7539886243360561660",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 PM – 12:30 AM",
+      "Tuesday: 12:00 PM – 12:30 AM",
+      "Wednesday: 12:00 PM – 12:30 AM",
+      "Thursday: 12:00 PM – 12:30 AM",
+      "Friday: 12:00 PM – 12:30 AM",
+      "Saturday: 12:00 PM – 12:30 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0030"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0030"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eSF_iS8mCke6911ml7aXFk_STh_KC7Dqer97zaa-7xa7yPINIdVYzqGNnyq1VVdwWBKDH_DRqUf8cniB7EBOIpbVZC_OCNT6XaEFdT-bhBkVPhx3Hqi2hTSmwgyr2chZ9uCbD6ER4BEnsew00NpvBcq9U4rXpa-9agBHtG597vgWu6it2mAtBHTz8rdr-NFoD5UyRJrqqO4Uh7oUF8oB6HbgyO74ehOcOS51cmdHVAZNetl5GPwmBmPIFsJ9nI2VEHONCuDkaEJNejjNfi0-76BTFVA67ECrBPCszMVJN-Zg",
+      "width": 3000,
+      "height": 2001,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112541730962201955600\">Bacchanalia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPLzythK95Fpxe-HeX41VDV2fs7et1pGJbeKhIzLmNjavuUc4R-QHdI7INmNWmcRlrMOooARST7qpe_doYvYVERMicAivpU1LYfH6oBfEY8M54pmGVV6EFXl5XN0bn_ASUWCklYkm-Cog5loWTayKfmJuPiCCkO3ltAgJWR8f4b7odJBKpzGcek9Y8sopTjI2KLUQfOvKwn6zooV9mDONVV1plUQZKkiK554X04OABpNTozAHbWq2lYzvFZ63MsrAZ3HNwdm2oDVtTlICSnOjm81zjOO8XG6T5sum3y5nICYTSKEXIvpRDdS_WWcTdjEPgL1aHFlYNF4tjpko68kClHUKfWSUnxQGAG8curDxLMB0eR1cIKFgmzc5t9gJZUR6iSpIZdC8JQvbW-tx8OX-rPIdVrhfMzwqSK6JDYDqxcEFubiY8MSfrLji_XQ",
+      "width": 2640,
+      "height": 4028,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104758996716410962798\">Beau Von Hoffman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f2kyRgcOeVfHgh_4mPW_1rWC_9TBEtbDpwd3zOYiB2BmckPiiOKriyheOYUAIlRlIi69n1MGGv5Tfc2ST0ykankKfwgRBLD1Q8YVj0xMXQrH9bHYkCsArnV312MbbBYYBtLsqfpvud9FTMumYBoN3qllFdqf9nc43xgeonZ1IehENRr51G_MwoYjhqY5_52S8rgXRWnXPWtg1h3xgvvnNbAW2bi0erm2kfr0srQJy6vQMy9wmR301Gc_5LIIFRX2qEIQzxnANyWlo_m-HM7XBn1RImUpcs3e5b2nW7qUUc-w",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112541730962201955600\">Bacchanalia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cuxrl94ppvJMCZtJFZOYIEXUFRWDi0f8a1hYxBa_ttPYhJQkqgqtICs6z5OmC2cKqlHn9vUhF171cxSQfS2sJ7zZrMihlGXdpI3TFz22jV30xL2S5qUxdTwNzH_hp_zFjoB9OEC3icwxUDOrfh5KeomEM8ag0jutAzwe4bBKXF5_xCMywKWmjHkDx8kaspOrmC5igAMppEjVPM1v3zd17CJBfzQDHxzLFrhm-jDpQLVB1FuyldoJgoRKSCWqknW5MMC9B6gs1iGeOCxAmyW4wUNT7iEvoaK0_yvflnp_VklHfScpsRMh7Kuq-Vz1UiR_TM_FwvheWD_SiztbghN2OwfyJi2NI9J6gsVOc24hY-9Dtj3DNgjmOh-8IdFa70pFErJNqpsr_KoQkmICoVdwj2ETNl9EfaFG67DFkNoKNHzt9KDD2UTmUqY5ducgnS",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102964002163413962491\">Meera</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eWv5Aah0RrP8ea1rz5xeeBJqQz_if467t6dEpE4J0Ec64TBEJJ2j-VsgfltnehC5EDufdC7vpzBVE7saJ8fi8mSaRa9G3MgAsLVCdRU35G3kr0nY7wE7qYpxhqgNSEOv3O1zSpxbutz6MBSJqt9rR1mDOd85-GF17WGVh43twfKxQnjmFVRcz5JqUj4HZzoGu_G-Tc800uDaUxyt6Z2CLP6OyHlaga-GKBa3RQa-8kNo1_qIe5oxpbHksYGbecRz6Fa7fuwWCnDe8bYWkbLLaSzmpAIyDSPWOAV6YeTvDSyaoQsyu7EIBpmyT1p4ZpC4byBvBuKPkfVFkq_sMQzJx9bVYdb3WqUyZ09qZj7V9nvkD13y5wb1_xMKWozSJTP8fhJD02MYQfiQO7rASDJnIQ3fgT73uCXz29r_TlwWSZVwZLEoJS0dtTSBGkLw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111362072463543287102\">E Halap</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d9X1ReOdMKfS8i7evrFs3xVl7HLgvgGIdvVXVwLdv0SKj8TMR_SzvAhDsmcKXLdxOM9w5NJx58X5xjwfbOf2r-OVMTGPbaUwmHFfgj7vfvHUrf7V_4CSmtSxeNo22Qdml77jpOyJxjrIInd6T48pefS5ZmaWq9NIyx0JBm5VriJL1yRE8-ZbbFNUmkVybvCpIS5Fm6t8t1Lw_C3vQPfe6Ckhh0thDzM91DzQDQssdg_Kbp90WFCWm4NpxcSjRzjk_SlH2MwbF1myHVfUeydBlF0i3HxVxNKoBsQcZftGJxU5yeXn5HRLC9ZcoVEAbk1iMtMJXPKvPZMffui0sdEfSZjxm9mavl0EZuot9XNoJsBvGVBU4MYiCMRYYKZIwN0JVY1Y-QcHjvuZHvozImho9fFFMcCfbBXZK5a2oGjok1KA",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101722368020542115200\">Kamlesh Barot</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHztB20jg_8DNHCjZ_kNlzd1P4XT8Oh9grKwvIgxGeXw3zILnuOdWeBaQxsOB3mTFKXxGxzKj0N66SZi4mrCQOYoh0R8dL2m07ILmxJGJr-n6dPuFWN3LjZTY6EkvR3vN2jb3fb42N5_Yhbepoz3ZFyrS4W185EXe2JdkJiEDp1XUfI8PrIfWwDbj-iB7Y9TUtC4kYMj6WbvjqjT6IQDeSQa5DnAERdOe1PON2JU3KCs3bWC4Pj18JjxcyxBeezwyXW0XJHIjPDEhlF3V2mwu01FL6BfiMUJsaWrG4h0ZJAC5uo626JvGKGFjs_dklTQV14pKQQcnMSrmya9kM0R5fmZBSGShk6njGdb7_1IKRbg9ESjzOyyDfuWBE0eYHRp7OL1ABu-VvMStmEh7KImrJc1wlN6kVBRnXfNtb7PkjOQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116638731639114658659\">Sarah</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fsLqRmo1TREnUDcqR395ZhVgpXxxvq8OB8ihpILhgj4nYYW97pFp2EJpWZXFDoJO0gCXfurLeMGMJ2ruQoPZqNGOC6wt2zjeWX2T-TKSuPRehU115XDAIA6L24XUQv18Q80Y0SpSRMXX6pC71LTtFEgEKOEgqzCVABP8xQUXvHJUn6JkoujwSE_Me1_blzsMXswtvniDzZt1pUaS_r8wWtX-WwGz2En8kg1vkTKb_FLYpyK-8TJvk6BvE1ctdDFWQJtQaMH8Z9KSurl7cVFhvAH_SmR30KbJxaaC65YOZBYM762JnXTWABtOQ19NLiNOW5K0VvCe43OYIWz40nj11xb4Te96HgUENXq4Hp1w7N9g_rYk9fUj9br6tOm1gQzeTY6qLF0-opsVGm3aRVQEq1MqFXHc8VSZMCi06ZreSkRZGm",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110316494669604621887\">Serdar Evyapan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAHBwKL-vUVmH5c2JzSvnfMVYuU2PY675ZOjCPV1wuoFksPuU8ABT9_3mfIb4OwnsHwI_aykHVaG7fTjBabCrOA5UO4egjUvMX3cFjDbeJWsMLkHqJW_mcQCZ_d--L3MwFklGW6kzf_z33BP38x48ZFsqBQV6wac16Q1HdDd1d61-DFb6FfuihlfsKKZcb8Ct-eZKc15F0xpefs0UJiDg0c2OusB2gXMMwatnj4XjEX4GnFKfJsv1euyVOPKK1nR1vA_1EMjSAs4bWMZEw0SZ4ClT9zIRYO9g27bwlX3ArUwMzd-kpZ_Qw73eZlNPe1_Bm6obGJnsxEZFH96fYNt5eI4EzYaU_cve3oAH8Jblkmlk4V7nvE6rhPGnYJAdLcvDq5FxU63KPptNC1Pr1k6oL30CexVqw2Tdnrs93uWkL3PoAiT1WcSw0AeXc7UGS",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106920283803664309199\">Lonely Happy Time</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fcmWhPU2Q_AvyYCFyVGDvv9QiPHBQ_0XFobCSxUAfhuuVAigUCR2zb5x7Y5TTW11BpUZ4TgD4o-wUWsYgXQYimktqSoofqvxz-W_I3tRurcPj8zjnEolPzGQpOv42093jm8x1r_f28rgnZHLUWDSmUI0w3xur4O15Q38PD1BmiQt6MRye8IrtylFEfafkPN-T9EeQHFWL5MI-_I7SkuIHx_DQgxoUOPvClNi6xBpRs85uQynorNxYlxCXq3CckzVhjc9-imXSp8PPlXUbOQOmWz8yZ6Ps_oaL2LOrxnePUW6oaGZr1JiGy5Pamhfq9oloqUbNwaUy3NhS7tXVMrQxnH21W5m821JlZ3GYJk2BcrPcwCroQ77FJJDoQ4TqPK03YGeUhRFnhjEDaeyT0N0U0Bvxi-EfJW_5Xrz8iKamXTWyIsSBELzz0MMe9ObYW",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106920283803664309199\">Lonely Happy Time</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Samira Hotel, Food, Travel& Beauty Expert",
+      "rating": 4,
+      "text": "Breathtaking atmosphere — a true visual spectacle.\nThe interior at Bacchanalia is absolutely stunning. The ceiling installations with the winged horses and the opulent garlands are nothing short of mesmerizing — it feels like dining inside a living artwork. The decor alone makes the visit unforgettable.\n\nThe only downside was the wait. Even with a reservation, we had to wait quite a while for our table, which was a bit frustrating considering how busy it was. However, the staff handled it well and offered us an aperitif, which was a classy touch and made the delay more bearable.\n\nOnce seated, everything turned around — the food was outstanding. The flavors, presentation, and quality were exactly what you’d expect from a place of this level. Service throughout the meal was warm and well-coordinated.",
+      "time": 1759672477,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Sara Daraei",
+      "rating": 5,
+      "text": "Bacchanalia really does feel more like an experience than just dinner. The space is dramatic — Roman statues, rich colors, and a kind of grandeur that makes you pause when you walk in. It’s bold and theatrical, but somehow still inviting.\n\nThe food was excellent across the board. Fresh seafood, perfectly made pasta, and a wine list that clearly had thought put into it. Service was attentive without being too much, which I appreciated.\n\nThe star for me, though, was dessert — the Medusa pavlova (pictured). It’s almost too beautiful to touch, a sculpted meringue surrounded by cream, berries, and coulis. But once you dig in, the flavors are as good as the presentation — light, crisp, tangy, and sweet in just the right balance.",
+      "time": 1759115841,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Lonely Happy Time",
+      "rating": 4,
+      "text": "The food here is decent but not outstanding — I’d give it about 6.5 out of 10. Service is around 6 out of 10 as well. The atmosphere, however, is excellent — a solid 10 out of 10. Overall, if you’re coming mainly for the ambiance, it’s worth visiting. But if you’re looking for really great food, this might not be the place for you.",
+      "time": 1756369003,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Alisia Allushi",
+      "rating": 1,
+      "text": "Extremely disappointing experience. The food fell far below expectations—what was meant to be “truffle tagliatelle” ended up tasting like a fish soup. The pasta itself was overcooked and mushy, the sauce thin and watery instead of creamy, and there was no hint of truffle at all. Easily the worst truffle pasta I’ve ever had, despite trying similar dishes in top restaurants across Dubai, Doha, Marbella, Paris, and London when the waiter\nTried to make it seem as if I wouldn’t know what good truffle pasta was supposed to taste like\nThe restaurant’s interior is undeniably beautiful, with elegant décor that raises your expectations, but sadly the food did not match the setting. The starters were average at best, and the main course was a complete letdown. For the price charged, the quality simply isn’t justified—I left both hungry and annoyed.\n\nAdding to the disappointment, TikTok suggested there would be entertainment—music or a show—but the atmosphere was completely flat. On a Saturday night, the place was lifeless, and we were told to leave at midnight when it closed.\n\nOverall, a waste of money and time. I won’t be returning, and I wouldn’t recommend booking here.",
+      "time": 1759258095,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Key Manning",
+      "rating": 1,
+      "text": "This place is… something. Lavish refurbishment? Yes. Tacky and remarkable in equal measure? Also yes, though not always in a good way. We came for a friend’s birthday lunch, having booked a set menu online that included three courses, a welcome drink, and a cocktail. Sadly, what we got was a juice shot, no cocktail, and a bizarre negotiation with staff to honour what we’d already paid for. The waiter admitted the deal wasn’t running anymore but said a manager might approve it. We eventually got our drinks—after pleading—and overheard the same thing happening to the table next to us.\n\nThe food was fine, the live opera we barely caught, and the senior staff were dismissive at best. Host team and servers were lovely, but the overall experience left a bad taste.\n\nIt’s the sort of place where the decor’s louder than the service. Not awful, but wouldn’t rush back.",
+      "time": 1752357950,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:52.349Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf53OwjQFdkgR_FlcHpcOo2g"
+}

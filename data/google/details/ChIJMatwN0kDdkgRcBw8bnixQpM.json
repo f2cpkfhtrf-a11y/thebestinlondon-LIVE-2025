@@ -1,0 +1,242 @@
+{
+  "place_id": "ChIJMatwN0kDdkgRcBw8bnixQpM",
+  "name": "Savage Garden Rooftop Bar",
+  "formatted_address": "Floor 12, 7 Pepys St, London EC3N 4AF, UK",
+  "vicinity": "Floor 12, 7 Pepys St, London",
+  "rating": 4.1,
+  "user_ratings_total": 1523,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5112113,
+      "lng": -0.0781301
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5126253802915,
+        "lng": -0.07663346970849796
+      },
+      "southwest": {
+        "lat": 51.5099274197085,
+        "lng": -0.07933143029150204
+      }
+    }
+  },
+  "lat": 51.5112113,
+  "lng": -0.0781301,
+  "formatted_phone_number": "020 7709 1022",
+  "international_phone_number": "+44 20 7709 1022",
+  "website": "https://www.savagegarden.co.uk/",
+  "url": "https://maps.google.com/?cid=10611238802841934960",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 3:00 PM – 12:00 AM",
+      "Tuesday: 3:00 PM – 12:00 AM",
+      "Wednesday: 3:00 PM – 12:00 AM",
+      "Thursday: 3:00 PM – 12:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e_Ljm7LhIsyc7HCiX4Xoq3nFlUfjgqhxoHA4y3JQSQgzQkgPWfcJFYUJJmEQxAQyPw7SKCwEbkENEOvIGG7UA4g2XXexNcBZrxf3f9xJxDWVLOg4VNOzNQtyCHBlh2Dq_v-L85KoMhA1i9i8mVJKHaiigRBqADdBNTNxrxiM6g3HqJQVNoFIZ0tIoYQtp822-clDX7Ffp5O1qrgwENLClyWfCcQiiTQ1WnADQflc4npLRe0_wWhJOHdgZTrhHD0TSYyCFp2_1thgTTfX54HUGtSerFrNeqii5GUsN-Nxo9Wg",
+      "width": 1800,
+      "height": 1012,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113272477078132188732\">Savage Garden Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fcrS0bcRVKlE0opWCij5Kbc4B1iF_WLl8eP5-ioXmHLJoby9g-pYuSMQ9bYlC_bndPOhCtdCbl05GezJwDHQ74LKqp-l5dUSaArQSns3VVz9XksxS2x5Vld3X4P8faKIP15DpXqOD0hhyWlvuFz3wBhceYWCnEJAyMBZSo2ii9pdMhcUk-jPzVn6--Cn0H2UxnZF4se9kIRTJ69L4gZjSUqWIO-mISosxzIy1IzaKvqD1l8ZuJaYCwxsChwWu9Yc3t0kTsii5taJ3y1IKfNDOrunP2Wte1mEyjMY3PiiwHswGU9RbOdjebm3BQPS5mCTHTgkynzU59sd2SioNgEnSMb_J1WfBvOdeRGGRAQhPzqwUWZV4i6-vbW8EwKRM3D3EBw-Wbatd3c6JAPKrBuVhzttrFZdEn_1ZS3WIOdZKgaKiHXHcqs-gsmhFIM-ol",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115311713483010653315\">Jeff Locke</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2caSU1dCb6mXlWamnMed2rPEO8jegBL4pXCMx01_M0Ig95uX12eYneHSWKXm7lNjTkQ0qDYrKfYX_1mdbtEOBhNcZwTAhDanb1N-jXIJs_jiKtVb3v2k0SAF_nmvfHODOf-BkPsDzUmMI-J3qpwHc3yuBnoLVo0ALtlCPbKbCfiBbfA6xBfsQu4zrNnAZF5EkuZjSHfb6zUiYiRRFwFr5tVslCpNnbkKUs7Q6G82XJTQHnRXF8Wsp7_VRb52bRkSd3d9iByth4M4BAU8ylL7z-gvicmkyUtVr2dzLdc7zvFEQ",
+      "width": 4064,
+      "height": 3251,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113272477078132188732\">Savage Garden Rooftop Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1kAt-dKip6F5mfaI1tkAUbTTdwUqXb_hH5lHYNLT1-Zc1dAVQLUdeM9EQ5I7h1T5A0jneuIGO_v0ZiAv1AEKKxwH7EAset7blu35CxYWrNkYjWkplL3ia976MuvKg2yDp8gW-qtjadVGoozZVj2n6pflkEBDd5vyxSOaC0sPmYdxUgd9_7vCdr2GUI0ShOB6BNu9g6DtVgZIA3GTszhTzR-eit0uZHcjrbddUF36LrfBp49SkIZiFGHWN4ACYuSlcy82AxW0_NTqkPFLMYYi1fsEtL2Qk1WKHiy1hUsVM0vy0N64EXx9Kt6V4oyvjGE4nlUtl_mv9TQn2cQPvCH3_ANF37mtGAurzcceXXWLmDyLmYQp2jE8iXDGBMxgCJzerRzQXO2Y2gE1_1yE4dMjUPvuJkEKby87i-dDBJ9roM-MM3gI0ubxS6OSMNrwo",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115798623790972614793\">Jana Abelovská</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fQRPZ83lv9TMLmfDSFra-tQsbocxDj4M7u1CPOHay4bymp04jc1fWXzqcFdXU5X09WYUxfuv1fPv8fjgwp_s9WBiy6xfT54oM4l71UTrWv2ZPpSHivQMAo3jZjRQYubAA6ASIZDsapQTHwPWs9qZ6XD5neKXUjhcuUEATj9lf3-Inalrs6P_NhGQzmEFteWDTtwKIwj22SjqOzZIfS-NRb8orjKxWT85snA59fgkYQPp_aV5yZgIXvpcOINRPsMrV-TSA0S0ZBtabEsnfkBWY6YYv1m1QRR6yyNa1pILJ3RU7Fyb1LKwv06DrEEfPXbYGZTRMWHxfy8EuICwwb13nkzo-N17ua4g-7Im0iswOFTXfQ6USBc1towu1dt2usLWiY0eKcQuIRYfgN-4MoxALDcZqQRfkuFvtVpHosXQEafZhU1ebu8c0IN330sSl5",
+      "width": 3951,
+      "height": 2564,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100050280573734167046\">Robin M.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMBOFUW-vHmjhDlZoRXGV99mHNdtfsZZ55pM4v3IjksEST0k8pj_W55dqcI4VhSJb9CBuXfF9MQVxKhS2fMDD63pmPVoLhatm1fiFTwM1p8TNZLUgfXn6d-RDW8Me9dnMhUsdqF5EQtXxD64iPD5JvExoTMCFdgIzPQvHDY-u9O3HxcvfqWt8jJ1Ei1KAueSQggnPk_0FxtewFV0R5PFd2lRq4e9snjSf3ojz3C70AAjXkW8kaYQQRR9l9NCNzEA7EVv95Kwj-kvARFoi2CPbQhu19VMuFuE8GSknMIk8pZp32Imlbe8cW7wNZIJSKC_Uf7Fh7GNzmV-Joq54K-ms-aEY6u1n7SuUWJ4G5SWnLJU6CDBekbTBaSrQVGpEJWVlX2S9_docZy8SVUy4_2Nss-RiU5_NyR_iqP0YdMCFhXg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116042415689384598955\">Mr K</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eWy1wRhcgltwriH0U2YWYnRkYfSi7bJjzbwkwjvx2igkigH9yMio4tEsC4Q1DcUeKumLkylcPbutVSk5zud790CEeNzkSaR8VgJWDY4D1LQLRgZdxV9k6fE8hvXKZAhHcNPTIJPlL2N3QFpADkRJMHtlNirriBfVD5z--xw6P2ICfVz6f0SqzF15GmiWGAhmKn-fpG7vl5XJvyW_npZ8h-2xPsUYS9-EkohJI8-c6ovIePlDk9XQsHPG1vAM6fER5zAk79MOX76NA95lJYAxYqThBfU95BDlmVKj5Ias1K2PxwktPU42cDN2u2DfCYCYYpSYX24_wNJDlr4NM0UQ1Jdc9PSOyJCUYTLTDcahpljlx2SqEReThXGiEuuIkjBDfa2wPtRznu-XB8KWjC-dKvgvTcd74VaBKlTi1pAX6pag",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115088668612510598396\">Matt C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBjUy_5Eip9_sT_AuXOnJZisLThxvvLH0hd2SLB7tMOYDcLfofV0RQP60H3VMrkO3s2N8PuOXEs1wCciS6dE_5jAqO0bv4BMAU7X3V_oKGP_PuFaKs3fkLYcy_9STqOsg8kOnV-LYZcEvy41kX4Tcyi_ByKekJmaLZiNKmMvxW9NKN3xGonYBKcb2SrbE9pZx3T_kSwnFNDku3C7nnITFjxkp5Jb8_fcH-eC_AVrmkqBVuuoJwWgTg4T9QnQscXRuzOopghlofDY_d2kWc45F5trlD2E3Fk2PMSS8JaWWDm1bxAHeb0sS319rvYdI2hPzY2QaYpA0yJrabUiuit9zxg-gV4YuqzHNBKWEwHlB_PuTBAvau1npnNbPH8M2RLbI1iXgr3R6yJX-YWnkivfZHwSG2PmJ3WFns4f3e0NNJ55libpTN4IAOcTJHgam-",
+      "width": 3840,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106238821022282958577\">SARA CARRASCO</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-vYjo92jpckf9RiY6FD9z8MlD7zrQmZiIT5kO5hm6GwOxTKK5-x8kLCDOAMSC1c3uXElUk6ErlrYcPEdRDLM_MyE4Bf3FKrqQhMO-3AWxTET_rEYuPOyii5b3U6VW5Fks9EsiLIuTBVxfHJ9aTbiH_evHVfcjxOiSQgwmr7dMuKWtxEzKvreKv-tLYwe5s7-IgDDLAP8FJ6jJe4xkE_ThH8M-JjIBGSRQTxijBC1TpN7INM5ouiAKz9vIxqAXU9ClGTHR4oLWZ1g-wSyalyfy2VwUUWU1wsL-HsET6pJKsKen7XsUcUrBjOXCiq8a29xlGYGLkulssWTzk_Dcgk2lkAeIINgSfrZVZRouxcLOb-8kiLj3Yqf4rQ1JJQDQawUJNXGFkl833AB11KHhFcPh5l0AUMz2ni60jf_mm4PtJFQLS1eYNM4WT1oUPMnT",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108253953514410229657\">Wendy Ueda</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ciX950i2nAx05pBtbq0mVoYZDbzLyl8AcrSqps0in3xw100HyUcnRxznSuqAl3QkAvgH3Gzax2Z2BsFsimiJvIOQHbC7f3f2gmhMVnj4usVusgOT_d3BFHakN6xLQzloTUw3ac7hVbfA4G3JQb7_grqngB7jMf5JItU0XllxsjZ5MXtD5vKd2I8K8GHQsJs6DgB2sdhA1XxKyVoA6p4enigieSlRF_dHZjesWXU8aD0uzNgavFlOygXzAHdxlFx6gjS-ycfAn_Dd7GhSWzR583ST--yBo3vamSxheUEu_zrvRhdLEHJLwqTBiECkFbgJ89MbetZQST9bq7f_vS1BuB4162tzkExMJAzeH14RFf_4EWnwhtou-gq-ZqpjmQRGNqTlAICBPN3JoMj8jTkoDnpf6NnYfkVcaxohLpND6-2ikJDMa5xwg5ZRMrJA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117715746509494213019\">Cassandra</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Chic cocktail lounge with large rooftop terrace overlooking Tower Bridge and Tower of London.",
+  "reviews": [
+    {
+      "author_name": "Jeff Locke",
+      "rating": 4,
+      "text": "We had just flown into London and spent the walking, we were staying at the Doubletree and didn’t want to venture far for dinner.  They have a club/restaurant on the 12th floor.  It looks bougie but very nice, the food was delicious and we were happy with the Bou Beef and Pizza.   The view from here is awesome!",
+      "time": 1759783064,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Sophie Storm Roberts",
+      "rating": 5,
+      "text": "You never forget how people make you feel 🫶💖\n\nI celebrated my birthday here and came back a week later for drinks. It was the most incredible evening - everything was perfect! The DJ banging out amazing tunes, unbeatable views over London and delicious drinks - but above all it’s the service from the staff!\n\nThey remembered me from my birthday, they were so lovely, kind and welcoming. I really can’t recommend Savage Garden enough!\n\nIt’s my favourite place in London. I can’t wait to come back! 🤩😍",
+      "time": 1755790712,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Ali",
+      "rating": 5,
+      "text": "Savage Garden is perched on the 12th floor of the DoubleTree Tower Hill, and from the moment you step out onto the rooftop, you understand why it is often described as London’s best-kept secret. The views stretch far and wide across the city, with a sweeping panorama that includes iconic landmarks such as The Shard, the Tower of London, and much of the historic skyline. It is one of those rare places where the setting feels just as memorable as the food and drinks.\n\nThe design of Savage Garden is striking and deliberate. Inside, the décor is bold, with a balance of raw urban edges and refined finishes. The reflective, scored, and textured surfaces contrast with plush velvet seating and marble-style floors, creating a space that feels sultry yet comfortable. It feels decadent without being overdone, and it sets the stage for an evening that is both stylish and relaxed. Whether you come for a casual meal, an after-work drink, or a special occasion, the atmosphere here makes it feel unique.\n\nOur meal began with the Pizza Padellino, topped with truffle mushroom cream, pickled shallot onion, and stracciatella. This dish stood out for its rich flavour and perfectly balanced toppings. It was indulgent but not heavy, and easily a favourite at the table.\n\nThe Red One Burger followed, a pulled beef dirty burger with crispy shoestring fries and an egg. The beef was juicy and tender, and the combination worked beautifully. It was the kind of burger that leaves you satisfied without being overwhelming.\n\nWe then tried the crispy chicken wings served with a fermented pineapple and chilli sauce. These were excellent, with the wings cooked to the right level of crunch while the sauce added both heat and a tangy sweetness. They disappeared from the plate quickly, a clear sign of how enjoyable they were.\n\nAnother highlight was the Weeping Tiger Beef, a dish that paired tamarind dressing with spicy cucumber and fresh herbs. The flavours were bold and refreshing, with the tamarind giving a sharp note that cut through the richness of the beef. The cucumber and herbs added freshness, making it a well-balanced dish overall.\n\nFor something a little different, we tried the cheese selection board, which featured Stilton, Somerset Brie, and Godminster Cheddar. This was served with damson chutney, water crackers, and grapes. It was a simple yet very enjoyable course, with each cheese offering a distinct taste that worked well with the accompaniments.\n\nThe finale was a real standout: the warm Savage Doughnut filled with yuzu and peach custard and topped with coconut crumble. This dessert was nothing short of excellent. The doughnut itself was light and warm, the custard had a lovely balance of citrus and sweetness, and the coconut crumble gave it texture. It was a memorable way to finish the meal and one of the best desserts I have had in recent months.\n\nAlongside the food, we ordered a selection of mocktails. Each was refreshing, carefully prepared, and nicely presented. My personal highlight was the Aroa Nui, which had a balance of tropical flavours without being overly sweet. It paired perfectly with the food and was something I would order again without hesitation.\n\nThe service throughout the evening was faultless. Maya and Iba looked after us from the beginning, making us feel welcome and comfortable. They provided helpful recommendations on both the food and drinks, and their attention to detail was clear. Their friendly and professional service elevated the entire experience, showing that Savage Garden is as much about people as it is about food and views.\n\nOverall, Savage Garden is a destination worth visiting for anyone in London. The panoramic views are unmatched, the food is creative and delicious, the drinks are refreshing, and the service is excellent. Whether you are looking for a rooftop spot to enjoy with friends, a romantic evening with a view, or a place to celebrate a special occasion, Savage Garden delivers on every level.\n\nHalal options available",
+      "time": 1759403754,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Sophie Foster",
+      "rating": 4,
+      "text": "We came here for the bottomless brunch for £60pp. This included a main, side & dessert. All the food was really good and I loved the bao buns! The service however was really slow. Considering the brunch is \"bottomless\" we had to keep asking for refills! Other brunches I go to they just fill you up even before you finish your drink. We were all without a drink for a good 20 minutes. It also seemed a little bit quiet for a Saturday but then we saw there was more seating around the corner and outside seating. I think the area around the corner would have been a bit more of a better vibe.",
+      "time": 1751301373,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Helena V",
+      "rating": 5,
+      "text": "I had an amazing experience at this rooftop bar! The ambiance was stylish yet relaxed, with cozy seating and a stunning view of the city skyline. The cocktails were crafted to perfection—creative, well-balanced, and beautifully presented. The staff were very friendly and attentive. Whether you're looking for a chilled evening with friends or a romantic night out, this spot hits all the right notes. Highly recommend catching the sunset from up there—truly magical!",
+      "time": 1745139745,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:37.592Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMatwN0kDdkgRcBw8bnixQpM"
+}

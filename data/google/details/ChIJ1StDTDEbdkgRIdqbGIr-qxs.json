@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ1StDTDEbdkgRIdqbGIr-qxs",
+  "name": "Antalya",
+  "formatted_address": "103-105 Southampton Row, London WC1B 4HH, UK",
+  "vicinity": "103-105 Southampton Row, London",
+  "rating": 4.5,
+  "user_ratings_total": 2725,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5210799,
+      "lng": -0.123894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5224533302915,
+        "lng": -0.122423569708498
+      },
+      "southwest": {
+        "lat": 51.5197553697085,
+        "lng": -0.125121530291502
+      }
+    }
+  },
+  "lat": 51.5210799,
+  "lng": -0.123894,
+  "formatted_phone_number": "020 7580 5355",
+  "international_phone_number": "+44 20 7580 5355",
+  "website": "http://www.antalyarestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=1993967129113385505",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:30 PM",
+      "Wednesday: 11:30 AM – 11:30 PM",
+      "Thursday: 11:30 AM – 11:30 PM",
+      "Friday: 11:30 AM – 11:30 PM",
+      "Saturday: 11:30 AM – 11:30 PM",
+      "Sunday: 11:30 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d8XywIFYraFFHC-oMvK6CgLG-jpuiQNLITOjywjyfYBMi4WZC1qoOv6vm6FWxb-uEIjXcqM5LR1J5dPbWaDCuXaMmNC-B2jB4vvXma1uE9P4saVcG5-Pp0aUB8EzIPi4DVSaubIcsGygTDl3LAgX9DxCxOvvOVJcE-ZJWLJfJfedpIhEicFvXrGqIwZmEDBWM1yD0wxxyT1kbGptS-FHMYeWleOMu-xB-yNCQEZ6p4UNaVPvQwK3CP9_3ixR5gV3pcdJl1fapfl7RTJeBRm8eU2R4pySglUotSWbsU-LWGXw",
+      "width": 2200,
+      "height": 1491,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106049092918706971685\">Antalya Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2euHkuWhE4dxs_5zNWJN95wsf3td8DyrLQiT99sCp8DKMrYHsT8gcDWifrBkLORD_2dEZ-hO8shvhLKHBmJ2vqTlG2hoi35cUh-1chuyvxaVHmyyjHZ4uDS4alsX2sFO54scLSSldi6Q7XPQJd8fxu5npJdAm056HW_DuVM0FCgOSNESzx98ixuWocoJC44w2rprt7s02bQ_Xwd1H9YrsqOeb0Q8RSX3C7hHFErCEIm3Z9vLOSKoNA9jKu24zjC42z824VhIEv0tjXDGQghJHiAVy3IlXvWFAj_Io4gyomdgw",
+      "width": 2048,
+      "height": 1367,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106049092918706971685\">Antalya Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0uaFneQRFsiowIRVwhfhOlGqMq6MiwFdott4L-rMGCA8ALML6lbNuEfgldSeq4zEuma2diluG9vQeuqbx13kK-s4fNBLrFXXd9EP9ihzrZLYL6xokMM0pXuJ3Y6ojascNwoswKoPkWa8cJXnvuaVrShxYB_lvBPO6UxBnnoZoh5q0qZlem2QDMec0vYJa0FVPg_qDMwYybFi8Ptol5s5ykq5e8ZVmDyZDftOQsn578Zn7VT5fFl05xi2K_HhAXuCSVDOtKIadhHW4B5nS6-4UVO6ATbda9wTcR85-oXgRw7-h5gYXheQ2JkTaKF_7867c7bIT34mbrxI8yVHs0qlegdpDcyiive4ts1MwVAB2QiZJH0CYUSwnrEnDlL4kGflHammCa2mpsu3QbQydG4ACzFvbJQyTRnkdC4oJxUjqdFAwHnvKIPaLgAcKNw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113912032903085153729\">Dominika p</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUcikmhwOO9no7miyn7C_YyGW_Cm7k1HR8iiUpa2YlnO6ptNsLf-AYBQga8B2YgQYGZaLoax7nPiMW41fDuP_QmByHuYBE3dcua-58QuPZcGJhQnXHMpa0-55B38w1pd5PHK3m5wPZX58JjC0A8mPi47DWWshFWrqXDDAhGUVdg7Cpi_YcH-aYRZ0p3C6ca5jdGQ8rBDsigWQ4TlD5uyODrqPc2B8qAbWG7GM0VyO2Roau7nr46JLa6RpFLXvKRs076y0nQhXFuRmPDKlCQy40sCiZjg0Q0KF5N6Csz_TW9C5TtjGg9vWjNLwbxZl5aThFNhIIx5ooCwcglz4jA-7t_RgOTJzcGayLiCdJh25tspvSzEDXNhkFQooOJWc9rBWsMuGGwTPEEAkeHYKmPZhc02MtCFjDRbj1iQVMNYk",
+      "width": 3968,
+      "height": 2976,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110589112515062633740\">Michaël Bayet</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eEbSz6IZdK9GM4hrUZO0PqV6qoZDWtY0t2Sphe6uuiLTrjO8LEMN3_zKJ1LPtFZBL6F3haFKKkzd75PXhu2ZXpjNvyahZ_wz2EaF7F4IzqsieXlfLRin6XF-fvCCVARno7s7Mgco8jneTU0nNlE9aIj98DdcC10s5Cql-d9cYRB8HnI5ZLbnR05HSBkjPwfM6GqRL5dngsdhyraCOVRwYxsa354t4jZKTibRAh9W-_K-ltqkIoEhX7fbCYc1Zy0rYKhWjX1XFIGq8YAjxgoyn2NgNXcx0olyB6_xC6UJK7SBvRUnc6SahwEnbbhLNSdRgT14p7RcZMSY3XsXpXyR3-vQtD8xG9h5UYjicLO1II4yuw4UKijNC5Fx5q6NfNCnVdrUwAoveAQC-Dqwbbw0lGBVn3J-baxj7i2NSZQ4_yvaaSZSonTTD3qazEZTb3",
+      "width": 4000,
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105253006109110213271\">Femi “Femo” Aboluwarin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dV0qhrjNj51nnr2O3TOdv22CtstXnNTTEdnl6Do6IJX59g0_GYCteyxMPb3UsaMfC-00RLcbovkk-51yEN46YfshjETmspmDJIoYujQ8EeY_ujxmdhxQczFelsBZyXtbw_CtPl-ljbXstG79cWkJtuHFkEeuzm9SHKg6SHChsan7SSfwoHnhLQap-jA0Oj6SFmT3L1WgnNuagPOEy26h0AsCUoCkZjolUZLxR7qjM6EZl1UtkZxF9FnDBC7Wu9zhJReL4vNSNIxWRCNtO9izBIEv8GXElRGlaeIWg6KtMzX9jpMxR92UOnxKefpM2vvDJyU9RGJWBAjI9pkx3TedLuc3S9KVxO_iNFrWzYW7az5VwLUc9hXU2XntG5QNM6rMu5z_8qfUqYL8c8c3--OxJF0R4dJpLyI5E-HNpNEFEbzcKE",
+      "width": 3659,
+      "height": 2744,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115626755456978812833\">Zahir Ali</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4XQw09jziixxh_pvfd3Hf9AJXJvmg7A8Y50JhoOOjHlPYUCycgy1MWbVG6TIRD1jDxUOOs9dmPKX0I4w33E2eMUVy8Ls04rq-x52l9kKDOXmUw1L0oncpPKMLxHLLAAFfwI_FdExTare8kWH8YbUeq_ts97eFL3TadAyVOve_fEz8h7zUByuhjFV79c4JUbBX1OX0Hldj1cjDb_0rGRQJQMu0DC45ruRa6P2WXQOzLxGgQmAIM7LCuph926IM6E06TjUPDlhRBB4FWVcUiMbvVh3hd5Iw7ln-otgD028UU0u9nsXekOjBBB78VicMSR2yKMuV9ffF1wrAvZMOgH9b4d0zXyDISWSKpK8GsRzg8v4cW6MY7MrKZYMa8Q4u2owi_fmqBaoZCv-tmnmAHgiHyKp6TFkq7V80Mg4h0nCfidYl",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103668656199383676049\">mint&#39;s journey</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-kYeLdwrajUbg800MI4SOHZjrFve_m8YemejQKfFIo8cDMeeNmw7F8rnFpItAQzvRpjrcVAuEnioK8uuzW0ZUZqq-2c4cM6zdvtf2zVBdrZmOUmvTgUoBjPK38lnqFUjM5aporVTzQGcj02rc4tua7MVxHxvcgwdTc2Qg11K7I-s4UauwvvgG_cVi_2X7tN7kRjQiFAngty2TcMK4AbVxPERYp4LKOoAFhXzNmrHf6I_eKNiSZZTzCytkj6ECaINd9cwv7j_vjZfRs6ZpCAkB-1k76MLFhTCdVn2GbaTFlA",
+      "width": 2048,
+      "height": 1533,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106049092918706971685\">Antalya Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ej1E0We4DnPGwMwkFroQLw30Dwnkxw9i_1u47oY6k3XeBB7OsvuU-jnK5JmVAsrGB0Q0sD8oRGIEDIExz70oTQS2GhbOlX38xTs5j0il2KMMvoBxqLdb2gBvfWIALSLL9_32uF2Td0EXBvnPS8IxgMRNkQUrCnG-3vkZxoLvSGUhFln0gBJf71538YsluQhfEZT0n4rN6zw1dPcrPE8Vr6Bjy7hMk8-YkgCyiBsv0tvGoCtKipgkPhdDetyJQzHg_FuXSXkghlsTfe18KIvdrE3tJ0WXEthi2y2QWxqvRwoQ",
+      "width": 1586,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106049092918706971685\">Antalya Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAgR5Mb1KwEORwfSL-kFfjggBjhJlyvvTwM6LwGZjhp7HkIDU31xAwfMIvFmTXVJizihU1C-Sfb48YJGcimx_y2q4w_rbd1wWfWIqRFZSNOtu4vNesGqqVCM9Y94TKW6P9n-w6ny_cdVoZVWUk36Xu9zjsXC9fb_Ymzt9M5CpvNjKhlRRfgXcuHYLUj5ZnP1V_Due7auY_Rea5lSYIpW49n5PndoZeGABGdWrmCEg5XeeUdQQaFhlmww1pzTeAgFtfa2r_5xHH5XVDNmeVM72h64Hm1X0R_Wtltbra9aTtrw",
+      "width": 2160,
+      "height": 1441,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106049092918706971685\">Antalya Restaurant</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Lavish, colourful frescoes adorn this vibrant restaurant for classic Turkish and Mediterranean fare.",
+  "reviews": [
+    {
+      "author_name": "Melissa Acar",
+      "rating": 5,
+      "text": "Antalya Restaurant was a fantastic find in the heart of London. We sat outdoors on a warm summer evening, and the setting was perfect, relaxed and inviting. The food was full of authentic Turkish flavour, beautifully presented, and made with fresh ingredients. From the grilled meats to the baklava, everything was delicious. The staff were friendly and attentive, making the whole experience even better. Highly recommended for anyone looking for great Turkish food, especially in the summer. Thank you again for the amazing food and service! We will definitely come back again ☺️🙏",
+      "time": 1756065426,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Laura Mc Carren",
+      "rating": 5,
+      "text": "Stumbled above this restaurant on the way from the train station to our hotel and what a wonderful find it was!! Lunch was beyond a bargain. The chicken wrap was delicious and as for the Rosè… stunning. Our waiter Fatih was so friendly and welcoming. Such a gorgeous start to our holiday in London.",
+      "time": 1756643908,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Siddhi",
+      "rating": 2,
+      "text": "Tried the lunch deal and opted for the mezze meal option, definitely not worth almost £20 for the quantity given. Food was average, I was expecting a lot more considering the high reviews. The other dish in the picture is the lamb iskander, which was also alright, again not worth nearly £25. I'd probably skip this and get better value for money + better tasting food elsewhere.",
+      "time": 1759269697,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Albertha Schmid",
+      "rating": 5,
+      "text": "My husband and I dined at Antalya last month when we visited London for two days. It was near the hotel we were staying in so we decided to try it. What a culinary delight! We were greeted immediately and made to feel welcome. Our phenomenal server was Fatih. He was attentive, friendly and a joy to talk with! He made our experience extra special!!\n\nThe food was delicious and fresh. I love lamb and had the lamb lokkum the first time we visited. I also had the Antalya heal, which was amazing!!\n\nWe went back for the second time on our last night. Much to our delight, we got Fatih again!! It was like seeing an old friend!\n\nIf we are ever in London again, we will for sure dine at Antalya!! It was a very special place for us and we have fond memories of the food and Fatih!\n\nI would highly, highly recommend this classy and authentic Turkish restaurant. A bonus is that it is near the British museum!!",
+      "time": 1754277114,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Bige Aşgel",
+      "rating": 5,
+      "text": "I’ve been there several times. The food is delicious, the staff is welcoming and kind. When I go to London, this is the first restaurant I choose. Service is fast and menu has variety of options.",
+      "time": 1755862202,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:41.058Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1StDTDEbdkgRIdqbGIr-qxs"
+}

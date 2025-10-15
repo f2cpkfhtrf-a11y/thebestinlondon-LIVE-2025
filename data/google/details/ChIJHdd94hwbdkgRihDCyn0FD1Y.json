@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJHdd94hwbdkgRihDCyn0FD1Y",
+  "name": "Tattu London",
+  "formatted_address": "The Now Building Rooftop, Outernet, Denmark St, London WC2H 0LA, UK",
+  "vicinity": "The Now Building Rooftop, Outernet, Denmark St, London",
+  "rating": 4.7,
+  "user_ratings_total": 5785,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51538499999999,
+      "lng": -0.1295445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5166849802915,
+        "lng": -0.1281351197084979
+      },
+      "southwest": {
+        "lat": 51.5139870197085,
+        "lng": -0.130833080291502
+      }
+    }
+  },
+  "lat": 51.51538499999999,
+  "lng": -0.1295445,
+  "formatted_phone_number": "020 3778 1985",
+  "international_phone_number": "+44 20 3778 1985",
+  "website": "https://tattu.co.uk/locations/tattu-london/",
+  "url": "https://maps.google.com/?cid=6201181249743229066",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2caDdL7TL5uaHmuuAn93I-fyAXXbfG7dyVUoX7skvG861PBjD4O83pYOliOiCBQlcnkXLffA4VGp9KunBw9z1dk2v3oOIQZ6-l2f87HHzso_FrMhu9xdiGmpndo0CIInWmsCiRcJxc7gVtyj_u4Fq3tzXyOumrUEe_zVhHGsu4J2Lsc4-SYnVypEkUZhL8il6wJFBN9MDfsf6t7kKB25Ea7_gvGSAsTV6mcjZk6jRIDB79GXkSdygw8kiab2_YzGxIE4A1Iw0Suz_eYvkyU8M8Pm9_ktOtYpzaECeTA3bUApg",
+      "width": 3000,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105944072862865801460\">Tattu London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fI_1X9QgR6IxsO-lV3WLCxmFzucVTna_0Uu_S-ZFlXn4h0YFAX2tPBGZ4cLKxZEZRWxvyokgze9PcxBvf19YLX5kj3nE0JB753l5AxI-wjq2NA6UdfmvdxPYvd7qzvG_olE_huDElP88cpkuR7Djc_XIWEm99ngS1gU7Iq-B4LVIMTrE3B6CvQ0a0xDzLOPDyy5pJct8GizUJbvf02aNTmc3syrnQQe-XAD8nIvu6hOe2bHaUT2AZs9LaSP9zWyO5c_Ek_F0Hx2UL4P1Dcs1pHaKbzoUU0De5wp1FuzSKoVA",
+      "width": 4745,
+      "height": 4745,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105944072862865801460\">Tattu London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fhHp4RZEHy9RFQlyyyAgvH6I7IVsXy7SABmVZ0sIPHR3nUGNgY68D_jJaDLf4zV9UNV6qZ-At8Kjkf31EhbLpCvuQBLtt8nGB4TqLSdRr3rkHCgQiCpn_o1LYYJophfcdbeI625LJYpTVw1GnGtbPsjHwLKpnyJ_Bgmm3ZOw6mkqDYiqSK2B3da2lPsCaUTOTh8UrshmKslPgqLNsSBqHSd_v0Y9b6PVezIH6ypN84L7N_iB83UWXUSKoulg6R4F-bxuHT06oGY5r_ui4fUxIpEIROL3o7ABucQCv_0X5st6zYyF7aDp-JwZRPW-tAr-uM6qoK51ybXqxHrLovOaP8sFARgd1tt7w8e8y-pHhOy0EUdqNXeGj3SES2XjTe_omjx0UT4TDCAdwd4B9MqDSgiL8BBp5lH6ZjjDHOkVeC-MNT-3URvhcUrDwn27gF",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108573247408432002365\">Christina G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4w3rmWmmIgz1NYyCq68MvIeYEzc7sY_jLsFcDaOm6SVGwkCPhx1pqF7oSxP4hTXlyRxstqzCgdRpBImhBTfWjgrR7-Ns2m9T4WBHkKiBG2pkMlwuUSjgvoQtmHFP0b6rrwFM0q30jXBOJwlGMiYtzCUiueazYimQXRt7P52GROrKY6-UdBvRL-xT7KT2OIS3ttYyr3afzA4gUN1LlXE4MS8feA5FIbkLwvEJIfful-owuES4smo1tWqp7JbB6cpcFIPvgH9UK6SOkzfZm0xe1s0v8NSPkl0R7hEd3zUZJnQ",
+      "width": 3000,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105944072862865801460\">Tattu London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eEbtN29otivnmxC9prlv6sfLA1vu5VKrVJVUFCR44S8xCEqN_xTLnLx7ihujOnmq1emgOfIpmm5BPj-NwC5FqST_QRCPuk52Z3S0Ex8Zjpg3jiq9_sn-gcVLn-QWOjbl52lnJrMjaBWDU6zhv-F8MGchVf69QkilP27aLH-5o7oDyv-3CqKINxDpGF6Iu7hHv1x5iF4sA5Tl5kalqycXEe-9hjPLVwi9b9_6qq0U8-gSeixiCJ6ZMJYe-SMf9dxZXvtntRuOrMSyHzT0yhwpUSf8ynxZdFOMtfAj-Kad9u5pOPsU0ndoxyDmjQS0MxSVLT2quhv2iLTTzq8Vblqa8z8BUhfDIwYRpsz9UjnbQcp7GuVLsfTTjPwlJ6TWu-aCSs7dWJNpTlzyzBMkMulgM5oUTqGjZm6C1DRANzRdcQjTggL9FTOFAyQcLzORka",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114554975586401491343\">Peter Smith</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e41jhC9FzqJKm6e7eV-HF3vLBMmuO5xDhB1Tdj-NI2XmTKpz2u1lRdIWS84HMthkkgsPx90q4eBZrlFpMhkr-hipZdLFLU34K5Texfds1QrNQsCVKfhZt1fEO87tdEQCZCyFoo4EjghPjkWMVyUFQyyIWJYZsBBXPhXeaoG35yQEd6veqWdJXyQnXyuTsxqKAh2RHS5UycEXaCeTWmXdYpmyt4hUgE_X5bLRVWAWPAymjr7Q_tX2VwvLBiO-zevyscB1Em4dJpVe11eRwqMzY9ISknLIi23Kl6-r_WQIGxeCJhT2C83kpq9pLoNNzCs2J3oQAKtRrePR_XyLO6Anw27-hJDCzNXFZpjKv-qzTK4JjJu6JrRGrsp3DJBsd0asqeS59p496rdYCu0ZXo75yQtY708Nh6wmzsrhlcntzNHK9Z",
+      "width": 1179,
+      "height": 1441,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100802337826651120272\">kali</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cL3EKBX26EzqIEVMlhOdSQB9l61Px9Ewd8aMXSRlDV8g1Z8J7hFyocWlysPaAai0Kj-Y6sGjtt9hNcx4vga7_WAQPnD1f4ITfXoJPGPBb-pQguhnwI474h8PSoee0Wg8lo5v_zvwXWT4rWVwOzzkoWGt8crEbW8dPIPQKAPUiDcvaL9yB6D-bIO9jziolbGSiQEe0GUKg1GGcTWTtNwBuXWiC1-G-u364CLHqUpxN3KRoRq2MvdzF0pGDtTaM_nn7eLpyFqdYVDwY1OlY0si0UK5sMahaaGJDJPXWSei5wVIhQJ_MguPk4U1SkoOyEanGUA-lMQQkM4hjK2eOBC6uYwxEYCSaHiSLbxeLCPRvH40tInQFuw3zjO1RG_kXwfpOlyx2w1igipUCyYkT5kHxpjE1wbFW52AHOUegRIAd5XA",
+      "width": 1179,
+      "height": 1454,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100802337826651120272\">kali</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_gdfr8qXc4LWw4D-OH4qi_0N18j10CV_m8W1dZKaJraBewhnAHkt2Kx5CC7m0NoJeRr3IdOTGiSi6apT6BiWC8h9X8cM6b3KOLAnwJJLe8b4Xz6obb_kvZhMGGJdLUV3YYNxEdBqivg9T2FXK14A19oLggQrK_f1rhJ9v4mNyOoktFqKfDMBGxrolqHQwEHqE_tcbYQH1A-aLLDAHZJaFcOt2eoC9KYt8E4n_mIiK7qmcsdCd1jfr6H2TC4VXymshS6WyPaqOz89jq2riX3sAZbBvXy13XTbPpNhcnHYEdONLqHY8J7c828bQD4_7WwT_4fSC0uVz5Dg3hnlm8Zlqt3tUFQzUdMdmF_Px7XMF6s13S8V4dIzcypkXASjmnaHBIGWyYVrm2JSeSvXpDlLwrB4_yLwzZ-bPW2vWVruO-SI",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101741592315997658682\">Nanisse Anno</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d8yebSGWX3o1BkYe6Y98Kae6kQpsOGDOEN2kfiq-88KNFX6mwMG1XnOStTl1V0HcGE_d37w8BpccKASy4Rn87hAfhDJ0diPFXaHvKkEqrOOjIyG3brejky91gyVyVaUeotZUsXDc5tvQbSlZrv4CBG6LnEZiDklhwGsNHzawudMn5yNmThT77vrXMwJeEFCh0vKS9IZ-yo4u4IqJMZMghSZzptivTKTqy7vFUdMBF1lZida2nw2YUUUnzzc4CCLoqHYKV7_cRnPRH8nhkWrEh9rX7jX3xw5S2BuTja3z2eGnPX23T02cW8bOiiEhFX0Um2RQyw6J2jPbC-HKtoMSt084K3b7dxK0lgO7e8WW7PcRo62zfHf3NZE5a-Ub4---W4-ydFYmMv691bY1OE-JaECKaoha2-adXEfFCZYok",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111630990154195445889\">Liza Kobylash</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fhfBvfsVZ8GAu9PGf6b8zj_Nb1xL3PPA04kh_tXHAr5KAGs9TNeAPlBgva57f04fHoSgk8y_kqt_myjC-rIiAuJ0nH_IIahRAszdvWI54gG3e3NrMQDMJvUVwf3BAu6POJO0MJB1HeSqHlZj8nTsIgPK1QI6bJMy7GHAwV-9z4qDydYIXoToQ6r8DaowYVgsdH045IqH-empu0oD_oWiMFecNJjGgZVlyLTB51wLIVYd7ELURYZUJ7Z_xW1_8EDz4a10cttg5_i9FEH16AjCLqMylJwHO96cn4fnoxcbjzk9033QvFtO8iGHohRCvt3ydzVTz0d5eH6XJpU68jl4P64CWtEd3Ov5bXH_AhmkQ7KvU_dsHXbzZbhCx7OXC5AaE2ls5rvLXyqjSvRv3MZPi1cBN0LTnta35t5QkdT-1yjh4",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105669735324453163285\">Amy</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Chic, spacious restaurant turning out sophisticated, contemporary takes on Cantonese classics.",
+  "reviews": [
+    {
+      "author_name": "Magda Chelstowska",
+      "rating": 5,
+      "text": "We have been to Tattu Manchester and we couldn’t pass the opportunity to visit Tattu London. The food is simply extraordinary! Mouthwatering and exceptional. Every dish better than the previous. We especially liked the starters like wagyu beef dumplings, mushroom rolls or pork bao buns. Caramel soy beef was exquisite. So tender and juicy. Our server, Alex, was really friendly and he made our night even better. The restaurant is very good at adjusting for allergies which we appreciate. The decor is beautiful and stylish. We will definitely come back!",
+      "time": 1759074577,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Laure Abanni",
+      "rating": 5,
+      "text": "Celebrated my husband’s birthday at Tattu. They booked us an amazing table with window to ceiling views. The ambiance and aesthetics were beautiful and cozy and the food was absolutely delicious. Funny enough we were actually advised we ordered too much food but we polished our plates nonetheless lol. Our waiter Peter was so lovely and gracious (he snapped some amazing photos of us!). They also surprised my husband with a complimentary birthday treat.\n\nOverall a fantastic experience and would definitely recommend!",
+      "time": 1756848275,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Gisele Atherton",
+      "rating": 5,
+      "text": "To make our overseas friend’s Birthday celebration memorable, particularly as this was their second visit to London, we selected the Tattu restaurant, which exceeded our expectations from the moment we entered through the eliminated tunnel and ascended the lift. We were warmly greeted at the lift with exceptional hospitality while proceeding  to our table.\n\nThe restaurant’s ambiance is equally impressive, featuring exquisite decor. And The live DJ playing great music in the background.\n\nThe culinary offerings were equally impressive, with each delectable dish presented artistically and bursting with incredible flavours. The service was smooth, friendly, and never rushed, the attentive waiter further contributed to the exceptional ambience of the evening.\nThey even brought out a surprise birthday treat for our friend. it was a lovely touch that made the evening more special.\n\nI highly recommend dining at Tattu, a renowned restaurant celebrated for its exceptional cuisine, impeccable service, and memorable dining experience.",
+      "time": 1752417744,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Christina G",
+      "rating": 5,
+      "text": "This weekend was my second time visiting Tattu London and once again, it did not disappoint! The food, drinks and service were exceptional. Their lunch menu was also really great value for money with decent portion sizing and tasty options!\n\nA huge thank you to both Mandy and Ahmed who were both amazing at their jobs and made the experience very enjoyable for us with their friendly nature and fantastic recommendations regarding the cocktails/veggie options!\n\nWe will return! :)",
+      "time": 1757933955,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Pierre Ld",
+      "rating": 4,
+      "text": "Tattu London offers a refined and elegant dining experience. The atmosphere is chic and intimate, perfect for a special evening out. The service was impeccable — attentive, warm, and professional from start to finish.\n\nThe food was beautifully presented and full of flavor. The duck dumplings were a standout — rich, tender, and perfectly balanced — definitely my favorite dish of the evening. Most of the dishes were excellent, though the salmon was slightly overcooked for my taste. Still, everything else was absolutely delicious.\n\nI was a bit less impressed by the cocktails. Despite the restaurant’s strong reputation, I found them overpriced and not particularly well-balanced — the alcohol was barely noticeable, which made them feel a bit flat.\n\nOne drawback worth mentioning: there was no air conditioning, and it got uncomfortably warm inside, which detracted a little from the overall experience given the summer heat.\n\nOverall, Tattu is a wonderful place for a stylish night out, with fantastic food, a lovely ambiance, and top-tier service — just a few details that could be improved.",
+      "time": 1752576118,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:30.752Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdd94hwbdkgRihDCyn0FD1Y"
+}

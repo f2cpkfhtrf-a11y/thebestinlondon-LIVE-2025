@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJ94DTm1cDdkgRibmgxzXy2EQ",
+  "name": "Monmouth Coffee Company",
+  "formatted_address": "2 Park St, London SE1 9AB, UK",
+  "vicinity": "2 Park St, London",
+  "rating": 4.5,
+  "user_ratings_total": 2756,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5055334,
+      "lng": -0.0914069
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5068339802915,
+        "lng": -0.09004106970849797
+      },
+      "southwest": {
+        "lat": 51.5041360197085,
+        "lng": -0.09273903029150203
+      }
+    }
+  },
+  "lat": 51.5055334,
+  "lng": -0.0914069,
+  "formatted_phone_number": "020 7232 3010",
+  "international_phone_number": "+44 20 7232 3010",
+  "website": "http://www.monmouthcoffee.co.uk/",
+  "url": "https://maps.google.com/?cid=4960981302344989065",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 6:00 PM",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 7:30 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fB2o1zn-pPo676GRtVy8Yvc4AelfQ4DEMKyNy4OCGVnExNMwNb0C0utI5eIIAJOCcKUy2NaLo2aFLBLIf5cXwdoV6ujUiDHEeITI4rdUYe0wGlQxkcQutVyiFt8z4GcJmlISr5ITIyvdatlMDjYbY8-jLyYAw7c4BzKbCoxKYfC24b-ouFQtRPvTC_NXceS-2A9SWxjibilBZ5E8URFjr0GJYLdfJ4iieqWCYwbzjqQczrcoA6g-peMoScXF4q4ZFbHaUTBwlJQ6CV-aDZ_EpovA20kfABeXuN6CU9PSmA_g",
+      "width": 741,
+      "height": 472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112832704437574549730\">Monmouth Coffee Company</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dLl6qBMbM4e12T_Rs5ndb8IIYzQYfb8t16DTSLTAwDHPYtcNC0E_daNvGsZ3STjNloxD_PY3C6lo0qC6rhqwiLW6cCEJsrJbhiaiiS53R3N404i2oEXu71arBzgYf-EkbMt8z-PpaDtv8_QJLf2yBQfiZZqroH42cbDZFnXfqn2ItOhLDVACCkao3Pp3SlyuefXepkm_jwedZorZnvPWZA3_eDLr7CTL_2VQhOZojQib85GPQpjEaMQLd4sgnWfteUfq50qbCMTJ1PsngZtMDU6_7Dw8nF_Ez7DHMBYgZ2FTrRQPjGJQM4xkAhionhlDbjZmugQAldcVdXA0blzoa5ARPOJjR82A4U5NoYA-6BpBMRouD-bfQoXSNrD3BDFYY8uKFRDw1Y3gPJ3-8qhQGgcDftwiL2W2ktll1xXH-ER2B4s3wnOfInUW4x1opW",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111585931724732961346\">gtb5</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fsUpTt0-WxeZc6dtYI7sTJpCTgZSQZyq4FMiwNGJwNLpe6eJihQFVkd-PnsU0LPmgIXReR87t7IPhwwR6yMAPtSuz43tnsLpexT6SCgW1YS_JMvoyBOaqFrWHu3oEvNt2YDQtIswf63iHK2ts1sxgTKGBJF-RR6JP3ejxss4VwxDJMtDZ-qycHlIrIySnK1PQkQJ0VrOiE0yo7l8US9YehpjFhsdOvgcN4PVBy_GbAk4af6f7uEIFxj_uKEowD3egBr2Eg1Xqg311XJJGih9wSS6r0pHm6j9DbIAqSsL4bYE-FOqq123nIKzLQvOcn80ptxMWzTZIfrgW8pyFzrzfk4_vkU2IGoCWJdB50McRh-3WaTYm_eQSsIuVDTNdA5uC1Qqvc_kyCY-WfY0KLr4A2kYgTCtA4h2erbhy0E_qhemXqpaBlR-Xv_GyboA",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115032954214087682438\">KUANYU WENG</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cP24eJS-jv1_icnmXZvd1mCUu-A9t-j8d7qjvDtw9BSjbwi1IFelJESdcygLJpysOiT8Lfc4Xq6fo9srilkOUCCcWHV9gi2nrAFHBL_-WsDt-7nB1xWMslwONWzgabloIEpwlGuoH6VXcf1I23tgx3uA81JEF4L0ZCJryRDF2xj3OG5KO4z3KkJkw4yVDGCfr3XWqoFZD5slictNSqRh5Rp1cYdDjIqVYRzmfyjQ9CwAk0yPFEVS52wEKZXdiJFdMnwLRJHxgzd4Tt0IxCu86ELNfo0N7nvlPKHlbgZaP7MnkbSlCwvVF3oMDqTBAHurtwUru2_rUYfv9ULpQlI7pK5ulxP2zH-sf5braKkdJvWu2suFn1fkYymb7CYYYnoekHQvlLMhS7bwmxunHYraAeruS5D2AQY9v6REsjHwfFGTQ7weHxoWIN-ElFTQ",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109262831517275265164\">Alexander Boed</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUq-Npdyp0V_frvlIbeuJADhm-Lc8TMXd2O_wEuK16vNIYdxcQ6v0PzPICgZ7vVYOqhYNaVH7oBt-VOreovwmZg0NaOLyGgAhIcVhtolRN1VOWgz7lHgBWQGAOky7Wft9BtqSwGpsZR1a0Cm-_mtYx75XnB8K0_5M6K2Owz4l-OQGqtqi-KOn4T7GcUIeiC7Y4qym-1iCPfMr8gnbtg_rPVuG95o8uOI0urQohfIduRhIN-KUqTdtpYdwKo47_c26tqP776wsgtc1XWoxhrStcm7VLWM8BiYjXl1sSGaVasCKyyRwjXUPvakykEwfYaNG850iHcKBAt6-RxtKMQj3QC6bQ8jtY_LWmfmPWqLtjw8xpfhsH0vuOd3uTwsZgn9tC5ONGDVp2kc-dsoWsLKOfLlLkdNWow24DBzbPzrFOc9pPHzYBfXrhryo4ORTa",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104052770318552068650\">patchar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dHyk63n_eytV6i15rUpiYRIqCT4So6K-xXLTmHwIk-8aXNQaRxx5MYLZX-1y10B1obnfYMEkjVoS96QXpFqqeuceQ-WYtQJXrQ9q7kdmPz8ztVmlTJ4hlnHpN5Jvm87X6WE8JbOHmyW6Ql5HENk2MBblBRL_NHRkDXtJuW2RH2-ioHHQ_gDxHg7LjisIV5x1wvhvdAnZzMmA0XcjNMwDNl6C8vP5HIwSHFyDz-a2V6i8LKZFSyspSBK_MYaAOh423QL6I5cSgbe8MiYdUd3LLyTto6u7fgZzcI9kAnUaPFme36jdO4qPzspRIpWoAkUdvxICicuBv4-FLUmWHajnf5K68LwtUeHJJaOE58hnOF-9m58G8nKSPok55mW0g_gUaOBkEoEFouccRU2sRzmvOonFTGZXQCEd66XsH_Dn65oA",
+      "width": 2268,
+      "height": 2159,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114049747847275248805\">Hye Kim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cYYAhjViRGgJVzpcLK0V2t2wyPoPoacf0XT65sNLRxUcT-uOOxoNg0Ah6u9Ukt8xhBmZjVFiS01WBCC7hFqfHajpIm7d4Hob0G7NKDgk3gvbEi7SKREDxU1n9KjfPgDY0Xnpj_twfj_dQXJy6bNyeaMMassmPsGIo1LQ8weWA9o_hNn-Pi84abE2nxbQJQNbVETvnsqeq3b8dKaiqFHS_JzfPgOM4jPeSjzdfjJeTlHMDzrDA6tn4xLrhs4eh-wmVXhhLJ4hY-crzEDxt1GswTeuCvaUK420rpqPbQUYK-6P41qj6eLs4DBC2taCLRzYiifFLtmQ3_aW7YfGehcvrT0hAqrf-PMFrd7JLaJWhuPnSAWlxC7NkN08heQ6ijizpXzJgb6A-IWuCTYLdW-M2KMMS1o3HtSNSALPgOOR1g5g",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106082420081487469074\">Oren Schwabe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-8rF6Pdtm-13Nu3UAtxqBGQMnNS2F0PvkYaAGKJKa53Pt-eDNy1JBXuNA_ZXSpJopsUX320yUjJsm8fFpEm2pVpAdV42wJ4u1gLLJ9UefIgQRpxwKHRaVtVq24Grjs3mCTv8ur4p-pSdBKPio_iaVD_pb_g-oLbVfl7yh8WUPfJ4adWuR9q1jvGxK7qFx6uTZeVZH9ycIgB9nR93-oNlKnKjM9IY0ycUe0877cTq1LuYAKyhLeOt0Yup_q_Xx1TSxPazBzKMX-0FeKiv0dha6zXz_2P_S0JHWxNDuRQe0NhzuHUvMxBMIm6Ii6lj-Cq_MDxy27JZPw5rgKMGK7ieeiN4T-Cf6dymR-fJqn3df6pPYkqDxxgc6V68dkqtMltMRcO3V__X-RXmLYPieFHm6SKpPw4VytfogC78htpfgxreX",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116821276330725025117\">Nora Abdul Jalil</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eY0lP58A-BpmYhMh7Q_ttUsFSiiKzlA6irZzIrHBXzT5x-kF8jcApsGJoKLLVqTGgQKYROnIJS1l0IrL7zDcTHaqnaCOPx44srQ9pZs5RE6E6S0HsvTrXdpOVm9ymFXRpXU06WyK2IitXu65zyGJfzJHYq52VEhjT8JsQ0eRbF2c7qknK78Pk40Ln1Q23I4RBJCUf1ihHNHJqiIIElJAFQVoEy5gBh6LA0IJeSbmL6ktnKFDJh30mbP_5BwqyNW9xm3HdrNWNojhFaEI4lFLwFhZe04mY49TqYCfD5RXxaX7bu1_jPWN6x6apbhf7urQVutIyr0B9RuzvoktZ9D5qQ2swg6SxR6h5Al83b1OcLZfmRegvmx3LQZTUI5m3ussKVj4ij64veg7zwwECsbQOsI7OVvHM2Is8erQYkBMHWOGBK",
+      "width": 3072,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103241188809408392097\">Johannes Luk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4ScZLD8_cj9chtE-LhIOllA7c_ZkVevxaNd-HMDF_4F3C6bbSYpqfaMwTncZrZ-L6CZmEBeXedf57SaWvZKY5YJM01gAMwqNmsTAvKyLJmqjieWafAmzwEjn2qW8RaqFtW3LLuBXTF25HfLpdnX01d03T7bl1j9d9SaOqhBd6-_NCrghH-e7luV9o4fyvspJTnyGz6KcMvm7sKJ8tkIsAbcsnNXEOnuq7F9xyoud3OyOobm7W6g7TNaJnYWXpvO-4zJ7qvFhy5MII-HenCQMdlL2I6CA1IiOQCEXyeVEYMaIXuVyJrijXz3nZMP1kAu5RGEROo-GkshHxVhlBoDJvLOA1SrLctMM1AuAWxeBlV1P3Rbyu6JYybwK7FhKwxBBrWiglJ7eBxHrI2frYdBuwA1uResczSAMOSiBvoqtRMA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110345146567051778616\">Dhinny Dwi Putri</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Fair-trade coffee & gourmet treats in the cafe & whole or freshly ground beans bagged to take home.",
+  "reviews": [
+    {
+      "author_name": "We Su",
+      "rating": 5,
+      "text": "Coffee is amazing here. It's busy but there are still places to sit and the staff here know their coffee and happy to suggest different beans. Variety of beans to choose from if you like filter coffee. They have oatly oat milk if you are particular with that as well! Love the atmosphere.",
+      "time": 1759492275,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Charlene S",
+      "rating": 5,
+      "text": "Amazing coffee definitely worth the hype and then some 🔥🔥🔥🔥🔥🔥🔥🔥. I will be returning for another caffeine hit. A must visit. For non dairy people like me they do oat milk. I would be great if they had other non dairy options like coconut. The quality of the coffee was amazing. You can also buy coffee beans to take home. ☕☕☕☕🫘",
+      "time": 1753978708,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Lift_Run_Eat_",
+      "rating": 4,
+      "text": "There’s many things to like here. Pastries are great, service is very good, the set up of the whole cafe is very enjoyable to be a part of. Unfortunately the standards have dropped in the coffee over the last few years, flavour of the beans has gone down in favour of stronger more bitter cups. The milkwork is still really good. I’d still recommend a visit if you’re around Borough Market but I wouldn’t go out of your way to come here.",
+      "time": 1753779185,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Ala Al-Mubarak",
+      "rating": 5,
+      "text": "Loved the coffee here. The shop is very popular and it was packed inside. The service was quick even with the full house. Staff were friendly and lovely to deal with. The coffee was spot on, will definitely come back.\nHighly recommended 👍🏼",
+      "time": 1749987824,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Carlito",
+      "rating": 5,
+      "text": "My fave coffee joint in London whenever I stay nearby on my visits. They're proper coffee nerds here, who don't offer coffee in wasteful takeaway cups. So please remember to bring your reusable mugs, as this is a great initiative from this place and I totally support this cause. Great coffee flavours. It's always busy. Just note they're closed on Sundays. Staff are friendly, welcoming with a while and efficient, all of which is a lost art in hospitality these days. Reasonable prices for great coffee.",
+      "time": 1758692099,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:25.429Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94DTm1cDdkgRibmgxzXy2EQ"
+}

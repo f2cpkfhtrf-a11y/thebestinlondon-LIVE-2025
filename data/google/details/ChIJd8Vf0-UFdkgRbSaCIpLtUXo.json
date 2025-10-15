@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJd8Vf0-UFdkgRbSaCIpLtUXo",
+  "name": "Mount St. Restaurant",
+  "formatted_address": "First Floor, 41-43 Mount St, London W1K 2RX, UK",
+  "vicinity": "First Floor, 41-43 Mount St, London",
+  "rating": 4.7,
+  "user_ratings_total": 835,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5097059,
+      "lng": -0.1515884
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5110034302915,
+        "lng": -0.150190869708498
+      },
+      "southwest": {
+        "lat": 51.5083054697085,
+        "lng": -0.152888830291502
+      }
+    }
+  },
+  "lat": 51.5097059,
+  "lng": -0.1515884,
+  "formatted_phone_number": "020 3840 9860",
+  "international_phone_number": "+44 20 3840 9860",
+  "website": "http://www.mountstrestaurant.com/",
+  "url": "https://maps.google.com/?cid=8814087157640734317",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 10:00 PM",
+      "Tuesday: 7:30 AM – 10:00 PM",
+      "Wednesday: 7:30 AM – 10:00 PM",
+      "Thursday: 7:30 AM – 10:00 PM",
+      "Friday: 7:30 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cPTEVo9JULldOHwnKBeFauYCYJh-357BJ-KQho4Po9lr22EiWD5btTezJcMvb_JGQtAMAtdmQznxjaRw_yYjqWHZd05etWizuwI-5n0lvZS2xWhwH3TFoPSPfCC2IFoHHC-lU9mxOQC5lSES2DOcwst-mZr8i58FtFHk_fCrvkiL34FYJKDEXLsfMlsHkf2YnXsFLNx2goCBOc6TjLj7A0unmSNr6Ks98iu6gTB6ws3tA44MZKE9bg9JgKu8Lo9nRd7F5LDdmJIS9Z65y53iCX_BOtV7Tzv_yPc53mRYS1wg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101199449016145885208\">Mount St. Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNaEm8JZyJPv3DGcA1wEQPWxI3ld2rQ4hWU562VCJwxWQ4aLLSzFRgolWvyVLRCC6_FG4DtHC5Dk4GBhEH26emzG8H-XyGC1evYJBvX3ZgjQZOwsmZ93lFKfSKooJgGLfPkfQIuI1gzxePIBO-hK6X6i2RCQLUnPztG_T0NmTpbt-q1VU4CQLbbf0sirFL4qs01li64kTT5SLn9I8WVsvNciZM1Ng89sV2tvhm3f7fgGyRRuP94De4xEMHXn6zjwN0_CqoFaYFbzE83pJ2afxZLluj6yEWjtdHI4qr0P_g6Sw6ve985Lc4u7q0-nggnyc33IaRZxcI0NsWaZGF0ppzS7ms4XazaxjbfOfJQiQuYz8Wr5kd8CjRH4ydv68l0FV7nd2XjdlqNKsTdoRdMcYmYJaM9GMVTb-_QTo0NPv500NfptkprYgaofdZ9aQ0",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110348792049063198578\">Jan Kwak</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fIPT8Y97wzimtrnwO_sz6X2eJzih8eQ0iiPZpJw5K6RkNPLCPuOlWpTqIP1r0P9Bvi5l_j8I0YLnORN1PNWHatOu2qUjMnm9VbnQpuDBdmmV53j_P8jF6djM9n48sPBclWtxONe9IIOYtbgBZCSQB30s_j7WrFukDDNrRTsunhgCaM4YFJuAHPBcUq_xhrvlgkrJyZu7RXdBPDW0X9ErZznbXCyyMNDGMt1kiJSxv6Q71PRqJPUlKKlc9Do3oWB-TXVqVNsL763kv11dJKVF3wTXNA_mQdqQe4RqoPRuF8Gg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101199449016145885208\">Mount St. Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2efc2Qh6o1FaV2ZmzFzf2UmeL9Pv7S4AZNjJIOcE5ooDOJQ77p_FXY8O7sakj3FAfYSIKORnyLr7htcwbmDJ7YF7Jm__F7KV8SOBK2g-IL14LB2GaLp7V_epbHA-dWPKIetIi3MfSBGconU_A2Uzw3xdSEIZ36cTGWFlXagmsWOhGUA3UrMv5jBIWzZzxt542blPspQlWAYcLLHwS_AeCBvZ19qTh_y19rQqVWrKWda4vtKbx3HOU8LQlnpWUrBmwu6O696dVhXw-WpSLs2pjomtUIgu82uh2snscaIDmLrWQ",
+      "width": 3322,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101199449016145885208\">Mount St. Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2frRcNmNJmNxSlu13ayObtb2IxcoynSLJd80NghSr3sNd5bkHCGeSnlVD6jkFYYofIsDSL95cxw9OXGZcxTtdknt5NhGfw3ZmHEhR0AVQofG8Kt4_BtO2ZxAN0q8Mesb53mrHKNsS-2Vg0LMeZ-Q1bHJvlkXuPrtbUE9klvgzjpSbZ24srYfV4YOzJQB0Y1eM4GRS_HUItBaHik47JM24qW1DKRNVhyjbqRadsBUR06rl17IIJCeMJi28Jo3D46MxLzp63oTaB9CX0Z2ibiJtS-shBo9AiaY34ZYvw3Hg96iQ",
+      "width": 3599,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101199449016145885208\">Mount St. Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxEXF5OgFz5p6hg49KKc-qZIwwWuLkR43GZ_ytNPcst1ABk7YfX9VnRwhFNNmxGAQOGaCqSjuDJuTxqIAMiDnRMBWBMHFInKWMOOl9XsHt6qJF9GQdbeaH1VAHVUeIcb9mO0pS2S94KpA0zEOozzRgq20RmqGr74vuLKbd3efqzg_7UGMciSKqDCwfGHFsU7iVNn8nT2Zc-pnk6OQerNBZXj8QlORk86C0n_3w9vKE2B_UatHfWVnLJsNjRSA_P2djHCQdGdE9hecDxRKHWuoEx1opdevs6RDtGpzKQ_u8WCqpSVLFBRvbK0UsNb2RuVft-QX1p1AXeucaxA5-9D78_TFXA7DG5mop41NElcZsjy7TE2aYkSSM3OeG463xmlahQv8huDXW133HRL0oEyjkfIV1NVlvn4farjjsnv_cCVPdwjzKHgCbdSLJ98X9",
+      "width": 1415,
+      "height": 1726,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101853242117799720935\">dorothea tosheva</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ejGDPPdbNMCAjrgHGIv55xleDGijehd6T3cH4H4F8j0Oo7CiDZ6rYlquY4uryIMFrM2A2Pb80A7WzEiiLHfjtrLn8lNI25RpRpk0enkHeISBrkINig8HLCJhMxXAhaCPeCax_fFRhwKop3QEMeyQSTUYxZ6s3_O5bkdtDt9At-vmec7ex3C8vmEFF0dgj4zlmKnNeCl-YIRWcFeN2d-mmfa5nJizpww2Cs6HMN-HeoHo7k_3nyDFdrkZ6bSQFXGDWmxcDO_9rUiD7WBLbTZ-MpFccIZ8GQqVLf5RZ_6uWOFw",
+      "width": 3839,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101199449016145885208\">Mount St. Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f95WDO86pJQcFmeL_CESP8WJ0t_2oaqdmnC5udUgxMJYusnB-ar8ZieUyqeSKdeao7-lNdGyICXx30Qa87WymfmyUULZwzrdCPkJ1Y5MUWWXG54CQ0DQ2uZVq5l-AHXotyW3y3CJBduePrrcWbsElRiY23RavQ7gGnhJA_UdcenIfAoIJrn5ZiJy-uH397bjlzVMeZyAmdXqGL_6eN9m1Vw9fh-hDEiRmbvK5ceXILDBwiLnNTxC4P6raCOX6Ztte59cMC2IZ_0mZ9IHKj48Xyh5faQGS3VfeRGLQDJw2LhhZlKdyDpSSx9Rh6oMv6nAp1zAk8AdZTyCvsNpSAylhyfK-RRlWHMD-Micd_aFOYPIT9g5synVkDBysq71XDnAkzIZB_I4YYbBldd-NB4mXIEMP56PgfSMukAgnx8pSR_vbJ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111743598561896210190\">boredtooquick</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eevBw-ceDy6ct7GGz33TVKBN8EzEw-eyp-FVTGAZGpVvcMoqn7OxDvAGRTGWQDhMNM5ItN2FDd7WB3kcTOfhyJ92woWob_ylGZEugUFhI16ge7qWeMrpAPhQHpHrV7zfHjQ2VZHrGLHC4Iy3yMC2j8aYgqiSz3exKpaG8zqQonop_INOhatQGNrz3DFo7a0rVtr7faVm_dN6YBsqnZaIONysUiOjCQPibcyvEqTkA8cKGL-aTiLijXPLsd0Z_nc4rKk3lUALmGFzddRhdBMexWJAH5qhEkytiljKThOqg3_g",
+      "width": 3839,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101199449016145885208\">Mount St. Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUYfy_amXZBVdUVdO0wqH4lfItSrEkGokDQcQom-6mw5z0qVQXmIaqLAKy5zxV5vTUdpehs1bD1sFcxr67roGWLXPBViK2aU9BgAw6sfrGxmdNIboMvOhijj9H544pIm1UrqNu0pu2Wq1Vwe-JIVVJQ12xb5PFcQ7kXWInVU4656ShWPuy8jWDKfJVxHb_r_Ik01YaLSexWc5WsZqimh3deTUXihMn5LyTgSfvdW-joS_n5Las0He5wukvnzUArQ6_aTVuxWpR7QoYcWGGV13XkdqMbs-hVzvSNhkp3HSGrg",
+      "width": 1500,
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101199449016145885208\">Mount St. Restaurant</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Edward Aldersley",
+      "rating": 5,
+      "text": "I dine here frequently, usually for breakfast most weeks and the consistency and quality of the food has always been exceptional. Today, however, I had the pleasure of dining here for lunch for the very first time – and it was truly incredible!!\n\nWe started with three dishes,  the beef tartare, scallops and tuna. Each one was full of flavour, beautifully presented, and cooked to absolute perfection. I couldn’t fault a single thing.\n\nFor the main course, we had the famous lobster pie, which I can honestly say is worth every penny. It was rich, perfectly balanced, and the lobster itself was tender and succulent. Not something you come across or get to enjoy every day, I would highly recommend it to anyone dining here.\n\nWe finished with two desserts , the pear tart and the caramel creation (I forget the exact name of it) both of which were delicate yet packed full of flavour. They looked like works of art on the plate and tasted every bit as good as they appeared.\n\nBeyond the food, the staff deserve special mention. In all of my visits, they have consistently been accommodating, helpful, and very knowledgeable about everything on the menu. They’re always smiling and genuinely make you feel welcome – a real credit to the restaurant!\n\nWithout doubt, this is easily one of the best places to eat in Mayfair! I",
+      "time": 1759520730,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Bander Kutbi",
+      "rating": 5,
+      "text": "Really nice atmosphere. Service is top-notch. Food portions are reasonable. Taste - despite the simplicity of our choices - was exquisite. Prices go with the level of elegance.  Definitely worth trying while in London.  Too many options to try to get back again but definitely no regrets.",
+      "time": 1758793233,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "S K (M3alima)",
+      "rating": 5,
+      "text": "Simply amazing in everyway possible. From the moment we walked into the restaurant we noticed it has carefully been curated. From the art pieces displayed nicely (no cluttering) to the bathroom design.. all has been thought of carefully.\nNow the most important part... the food.\nEvery dish consumed was outstanding. Carefully prepared, the blend of the flavors was simply mmmmm\nMust point out  the beef wellington. A dish must have at Mount St.\nI wish I had the stomach of an elephant to be able to finish every dish we ordered but I enjoyed it to the max.\nHighly recommend Mount St. Amazing staff.",
+      "time": 1757498350,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Mark Lamyman",
+      "rating": 5,
+      "text": "My wife and I had truly wonderful experience at Mount Street Restaurant. From the moment we arrived, the staff made us feel incredibly welcome – their warmth, attentiveness, and professionalism really stood out and added so much to the visit.\n\nThe food was absolutely exceptional – every dish was beautifully presented and full of rich, fresh flavours that exceeded my expectations.\n\nWhat made the visit even more special was the private tour I had of the restaurant's impressive artwork collection and private dining spaces. The art pieces are stunning and thoughtfully curated, adding a unique charm to the venue.\n\nOverall, Mount Street Restaurant offers not only outstanding food but also an unforgettable atmosphere, thanks to its amazing staff and beautiful surroundings. We can’t wait to return!",
+      "time": 1749907060,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Jan Kwak",
+      "rating": 5,
+      "text": "We found this unassuming upstairs restaurant over a pub by chance, what a lovely surprise. Classy, beautifully designed, exquisite food, art on the walls. It’s like eating in an art gallery. When the man in the suit and hat  out front greeted us and showed us in, it was like we were stepping to a different world. We loved it!",
+      "time": 1758295095,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:50.905Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8Vf0-UFdkgRbSaCIpLtUXo"
+}

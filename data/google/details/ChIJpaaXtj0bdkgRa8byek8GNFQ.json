@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJpaaXtj0bdkgRa8byek8GNFQ",
+  "name": "Kimchee Restaurant & Bar",
+  "formatted_address": "Unit 4, 2 Pancras Sq, London N1C 4AG, UK",
+  "vicinity": "Unit 4, Two Pancras Square, 2 Pancras Sq, London",
+  "rating": 4.3,
+  "user_ratings_total": 3855,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5336668,
+      "lng": -0.1251613
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5354581802915,
+        "lng": -0.123901769708498
+      },
+      "southwest": {
+        "lat": 51.53276021970851,
+        "lng": -0.126599730291502
+      }
+    }
+  },
+  "lat": 51.5336668,
+  "lng": -0.1251613,
+  "formatted_phone_number": "020 3062 7600",
+  "international_phone_number": "+44 20 3062 7600",
+  "website": "https://kimchee.uk.com/",
+  "url": "https://maps.google.com/?cid=6067481536409814635",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dEtrNIycthn7JU-OR4r4VHXRT5F84-uo9-1SNty_TDmr3PTUKmVjTdJkbtDVIJPWqLPW13TT-kbakC6BBDsm3bqu6Wv3C8lUQMOHJU8ONXYjH-B2lSzBJt16AmjwLkcNGXJSVTIEPQOKtPfBWWqUmuPWtY2rEcBO93NvxZr2h1OyUz6IDSloEu6EKS3cNBb7WdkGhkgdooToYo6CaGUan0EOba12Os-fC2CGNkYNiQUWDKpUCKTbhq7hL8YItJj1Wm8kMTSBAkpRACL35vu4JhTG3JIDwdQepiEREkv_Sv3A",
+      "width": 2400,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115608975172275274507\">Kimchee Restaurant &amp; Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQgNwl_lHeQPM5j1lv51vzkh7oT78b3wMfX3lBvrqJpFutJva7sFQbYSFV38R5lc5MHQwiWLH0M4GG4OSyFUHh6wDQ7GtUD2wYI0NsGC89bCogDXTMRu3kW5V1edl0Wgi3X5l-I4fm3YWhRwiO9PhAGAxJ-gf9PbO3L6_JHlGApTG-HpfF_Q1rZ72DrpJhng6c5-EGrUDrMO8V-JcRkKpaXWr7D2z5hnZ958zVXbgAl6eLgssialwIl7rlYlgr2SrnUUyapdo_bHWlI8JHI6mXmDhWY93pzwlvnG81lSpLAg",
+      "width": 4800,
+      "height": 3052,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115608975172275274507\">Kimchee Restaurant &amp; Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYjjMtB0WTVbpC7aEKMHmVo4yC6WETX8xcOBx5s7r5TGS3iMO6stgrTP_jywWqOgTpcAnaTFaIT_o63lwXluj9bQdW2lHMnC9sBd-B__tKJRIWTu7IJ4uEdzap-qoBwmmKFaRo3S4gWx7Fc7HT1OPKwnBpCCNIHpBkHxRqH_42BPEpGrBSP6vx3lYbrPKjrfRmKnyrAxdgPQ2b9qzeLNSrmV04RvmTRVvQN6yDTpufqbjUNDH2sN9PVbL8A_337jfR0LychU0ly-IfmMoJwSLuETnmWjgT0cKIpyxlEx7S7sd4k3Lax8wgRQHXfJeOYUTTm29lfoDW2hq9_20Wt6XYVj_A5TvSyMdUNAfItpv2oqgmoByuCFWXlQ3UcFPpCQsePsS6HQ-kVOWCJjFnyLWeLaCCko3ymOukoBPZV3avcEBrwQVnKNmbR2Fexg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109464899720427031100\">Viola Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0wEHCFkLvutozJdsRmBvSqJhsM9c9-LE8e9IdXd0XpnWilT7PLgvgTSDJPHmPxSe6goV1-K3-jr3lF6DvNGJd8YlV5v3fc8ouFo3kOpIiXjCHq9MsJlJ-vAfK3m90lph9MiAQxlfGgS3U0xJxCU3feiETX2FbaglVSwQ9UlejVHy4f_zPfVMViwTrr9ScU2rMXAchtQa26MjqUhIaUZ54a5zrV5hQfLKUBbVFinU9DHqOMmDByoCGSw4sgQpQNAcPE3fbsk6bIiPIxWgb5bkIHbYbW9XH-8uasTdqNXMAbjqyca7M2FAMitNS3Fc7yDqiVddo6IS3FqCrZyQpI2X7UGOyfWKeMDunzE91LNpGIdoETbwEltaXvzg6_CXrpV2S1BjvBTWOutM2oFau0gIxiYAzFAMEzo2BLISrv0xRF96c",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113136009317053581204\">Simon Mok</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cFFcp9xwmYShIFN5UIqMw6lkQCYK3XVxmRevU_B-2MSSqzZubR8Y_KQBDjPtPvrTvR3WaL8Fm2cVEQwWkPzbOxbNYs5tebWjZt4svaW6U8e6_nYlH6-5lzXdYZCZRCIypz_vJPoT5XtbqX-5rMxUluINhOzFEkC-bFexnii5wDCr7dtaHoPlU0JUU4cvhz4K3-rvh0_cmGKMPmwjXrm7csCCYP_BMi4ub42pRm6fbqmyThm2KXa289_r7VEPbKjsvYTGTSFed14dWClC_EOPiCc36CXb5GtkJtcaEAvdCG08a6eGTCBTGfsqerRLXS7P6FXCmXosILK7Wrobl2o5uEHA4fQ-H6JLz4RRJL3YQgtlhZo5gGaOLfmZkswl_aGPHl12VRtiHD3eiq_WloorJecIJqc5Jv2XW6JdBAireaVVeJZqgvrv0HKyxoIHyB",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101726584679961974456\">tasmia wahid</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fVtxZxWFZCHOAtK56Zmtcd6EVwfcRMpFrYOVEh-gypqXksyM7W0JEtglv9jCPi0N96ywPZJchVY5bfAN9yGAQZbAiFQLHce1h7nQhLtPFuBqEAeCcl79ezCk25AqM-zNjxfSGuhyHIbZ3Fx6WKabRPj1XO6Sj5pYAUK9tgJnCyslVO3n2DZVYd_TB-dJ5KYRaFva5Os62vzjNG0H3D8bO8yfqKF5-isJb9WGI3tvitPncGBhMCbWVe9kZf4Nn5sshAdYCxrv_vPiOv4doYuwXkO1R_SbVA7rI-IOMZwZtGEs3_eP5pujbEu-i8QCEVRpZxW19MAirccudnJk_i4Ghn6ME7JAdbNVj1HrQozgaQbV_QlvDfySZttPm5NPGGuIs7xbQK1PTBp09bXy7G-sJzoTcXW8Zz2RhMetQqS8MHCQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108189115814007113283\">Sano Martínez</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2carahe5qOVffQkj9GHv_E_ebVOVoliTf2CnuXYfqXK5YedTMlnrnuEqeXyTai5SbBwK_PPSyCaPumzcbQOyvVJdOZIfdtl8PK_Lr9dckbn3kFytbtQvFdS95eq_VdOSVVS16-DNitOWQKgf2RZmo_Iuw05eBwaSooPAKXlmjTpP0SMpFKTx2VX4FL3nDns_wb4Wat_HrueDK4PVhYqmfSzc2CkoYtcV-Kbh8BdOuB8lj2b-1-GDj442svo4RQ_ihf6GnffsoPcmOD9Qp47jc9br7feJDRqmhRdgmBXxVeuoDOcHfZrOssnW66KBb1i5RFJRtu_5zXi_lDeYWXDTeFNuWsOE_hOlRCGCciFU-dOqaXT5s8wDqnAo23zRjCYe6SMhkLd4_MIGdUCG-3BWA_p-c7dg9D1ZJTbicmp90FRBQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112510014369155541671\">최동희</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTp39uaFn6dE8wnNmWOJq06n0ETpW5Cqwz2PUkwHb-RGc7XWHZDUR5xNt5dir45U94uetU0j77GSbWmQ-udSzuVb5nEMvqSbBkFyDUK69nl7D2na6s9vTRVHsI7fHOTX3ZCSP98uFtY7RdrQzX3KpeB2VWC71Pb3EhuGrJ8bbAPSEdgewmCM86MpEkDvrOQ0AxmCW8pVFKVV_HTacms1wUrbv7QFU0P0ZvJcj8est89ySxMLrdEES_bVM9lAIW8BgSxRTwhSUQDsaoxKnlPd51cPXMs7qt_H19UblMJl-uZ5PtRrzsECw3-SOOO8dtWjkL0oiCj7f1BNC3Xwn62JHmkVEjGCGTasqf4rCsPXY6mG6u-QI6QSYJq-vj50imzYTzUICbuGWEXLhZrze2cYVDfzq31qDlRTzfjwe6dEyLDOWFtr7CuSjlQCyjlAjC",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115669338764707165698\">Michelangelo C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cyp2IIXee5K4eha_lYLvcoxSgUSWN2iDV90YTjQMm_oKyrJRtxdI3bv-Jn9KVIO4coS-uOpW1pbaBvQjojLLZpbU5JzxahybeB9aXfYLuc_Ot8eVJxdJfdBx7QpnR7rt567XCXZfvSxkSw9tWZ9ab9uheubYxA05Owt-Vlrb-mZI6DqhLp-AOhIRPYScNNLqJFGMt8F_fJgL4_BsSZvCtORrW-n9wfy6R1qQWOP40zZIIeMUGno4A3ROVrzNkWDVu52GDaWKSG9dLCa-Sl-W_rMw8aYLIhnOdmtvsylHqMejNbz7qTQUdbPCQN4OgC6I0N8olKZrbSHnAdONN2hodaO1yKxXrJlIXySwcM-e79Tf6Luu4tBJXGQadQf4nOXcNLs7T5jKzugSSzPdnK02BqrBkmWHj6E66F8Lr0YheNXIkY",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113136009317053581204\">Simon Mok</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dI5j8PNEqcQMYwIp4bh6q99oNpF13RiQX6sKDyAghsy3NEFGyj4YZuTdKG_P-pfqzKxuv-RmYTe7AT3X_lZX_A6j7rZnm7ZVxFDjAymszQ3Vd4P3m0CxYNB8cUQSaHMetmhY5AZ4RiBugozUtFJiomFOhA8HH754Rou3kIrM00R2zTt2epHmJXBe_sj2E6uPu2ct5mpHyl2AudjP0pY4WS5oBZAvqo7ale_GGGGh0OFvebAhy4M3XqURv1V3wn9IVuRoZ1kNFYyLkQwsz5ohuBwmAZHtqoL48Q_TXCWYEXRUqIkzJ7OfHO1SfJDn9bpP_gV4RoFIcAS-CMimIIHFxBgyzah6qDv24JmrEbPQa1geaPS489gBv6rttHlDbp1zBzzfgBN1OGAs1uCe9aH_Q-1e18f3buogDpLngdzQVyGeTMt7B4kXR9r3Ef1Pfe",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111640014289295633130\">K p</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Meat & vegetables are grilled at the table at this casual venue serving Korean cuisine.",
+  "reviews": [
+    {
+      "author_name": "ira maira",
+      "rating": 5,
+      "text": "Very satisfied from our lunch on Kimchi . First of all Helena she was amazing . Very kind and welcoming.\nAlso the waiter changed us the table to be close to the heater as we were cold .\nVery happy and the food also delicious.\nDefo we will come again .",
+      "time": 1759075892,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Jaylee Z",
+      "rating": 5,
+      "text": "We loved it! me and my friend were here for the night and the atmosphere was just amazing. The service was excellent, always on point and ready to help.\n\nAs for the food, it exceeded my expectations. Everything was so flavourful and hot straight from the grill. We got 3 dishes to share and that was more than enough for the 2 of us. The sauces/dips complimented the dishes so well, it was delicious!\n\nThe drinks were great too, me and my friend both had the Jeju Island. we both liked it so much that we ended up getting another round of it.\n\nI'd love to come again such a wonderful experience :)",
+      "time": 1758065949,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Eva",
+      "rating": 5,
+      "text": "One of the best Korean restaurants in the area!\n\nAlways busy but walk-ins are welcome, staff will manage to get you a table asap. It's recommended to try a bit of every traditional Korean dish on the menu and I could only agree. Everything tasted great, we would have ordered even more if not full!\n\nCocktails are piece of art!",
+      "time": 1753213415,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Grace",
+      "rating": 2,
+      "text": "Visited Kimchee for my birthday & I was extremely disappointed. The wait was a bit long but considering it was a walk in it was understood.\n\nWe were seated downstairs & the waitress took about 10-15minutes before providing us the menus.\n\nWe really the drinks! ( unfortunately cannot remember the names).\n\nFood arrived & we orders quite a bit, the katsu sauce arrived cold so wasn’t as enjoyable together.\n\nThe shrimp , boa bun & sweet chilli was definitely our favourite!\n\nWe requested some water( twice) & sweet chilli sauce (once) but we had to wait 20min whilst others were attended efficiently.",
+      "time": 1758877312,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Burak",
+      "rating": 3,
+      "text": "Kimchee Kings Cross offers a delightful ambiance and excellent service. The staff were attentive and the overall service quality was pleasing. The restaurant also boasts a very good location, making it easily accessible.\nHowever, when it came to the taste, unfortunately, our expectations fell short. We ordered dishes from almost every category on the menu, but the flavors were simply ordinary. The food arriving cold at our table and the inability to cope with the crowd also negatively impacted our experience. Overall, the prices felt high for the quality offered.\nWhile the atmosphere and service were commendable, the shortcomings in the taste and presentation of the food prevented it from meeting our expectations.\nMy Rating: 6.5/10",
+      "time": 1750100812,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:56.064Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaaXtj0bdkgRa8byek8GNFQ"
+}

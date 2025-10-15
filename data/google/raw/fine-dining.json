@@ -1,0 +1,173 @@
+{
+  "category": "fine-dining",
+  "query": "fine dining restaurant london",
+  "count": 5,
+  "results": [
+    {
+      "place_id": "ChIJV8gP0ykFdkgRbsmzJFpywNA",
+      "name": "The Ritz Restaurant",
+      "category": "fine-dining",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1297,
+      "formatted_address": "150 Piccadilly, London W1J 9BR, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5071403,
+          "lng": -0.1417919
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50841562989272,
+            "lng": -0.1405127701072778
+          },
+          "southwest": {
+            "lat": 51.50571597010728,
+            "lng": -0.1432124298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "query_used": "fine dining restaurant london"
+    },
+    {
+      "place_id": "ChIJQxoh3SgFdkgRqFi4kGLn29c",
+      "name": "Ormer Mayfair",
+      "category": "fine-dining",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 502,
+      "formatted_address": "Flemings Mayfair, 7-12 Half Moon St, 7-12 Half Moon St, London W1J 7BH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50644920000001,
+          "lng": -0.1451358
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50776357989272,
+            "lng": -0.1438588701072778
+          },
+          "southwest": {
+            "lat": 51.50506392010728,
+            "lng": -0.1465585298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "query_used": "fine dining restaurant london"
+    },
+    {
+      "place_id": "ChIJn1DE_XsFdkgR6NyYk4IWd64",
+      "name": "HIDE",
+      "category": "fine-dining",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 4270,
+      "formatted_address": "85 Piccadilly, London W1J 7NB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5061931,
+          "lng": -0.1444369
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50746962989273,
+            "lng": -0.1429958201072778
+          },
+          "southwest": {
+            "lat": 51.50476997010728,
+            "lng": -0.1456954798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "query_used": "fine dining restaurant london"
+    },
+    {
+      "place_id": "ChIJww-u68sEdkgR3lqhkcsnvBY",
+      "name": "Frog by Adam Handling Restaurant Covent Garden",
+      "category": "fine-dining",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 997,
+      "formatted_address": "34-35 Southampton St, London WC2E 7HG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51080839999999,
+          "lng": -0.1220355
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51218847989272,
+            "lng": -0.1206332201072778
+          },
+          "southwest": {
+            "lat": 51.50948882010728,
+            "lng": -0.1233328798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "query_used": "fine dining restaurant london"
+    },
+    {
+      "place_id": "ChIJr4SsXNEEdkgRK-Tjo-eEEl4",
+      "name": "Scully",
+      "category": "fine-dining",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 1350,
+      "formatted_address": "4 St James's Market, London SW1Y 4AH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.508665,
+          "lng": -0.1330131
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51004637989273,
+            "lng": -0.1316750201072778
+          },
+          "southwest": {
+            "lat": 51.50734672010729,
+            "lng": -0.1343746798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "query_used": "fine dining restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:01.150Z"
+}

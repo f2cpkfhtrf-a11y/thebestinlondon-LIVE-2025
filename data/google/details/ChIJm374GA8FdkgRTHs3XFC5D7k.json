@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJm374GA8FdkgRTHs3XFC5D7k",
+  "name": "Bursa Restaurant",
+  "formatted_address": "1 Connaught St, Tyburnia, London W2 2BH, UK",
+  "vicinity": "1 Connaught St, London",
+  "rating": 4.1,
+  "user_ratings_total": 1637,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5148863,
+      "lng": -0.162998
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51626823029149,
+        "lng": -0.161560119708498
+      },
+      "southwest": {
+        "lat": 51.5135702697085,
+        "lng": -0.164258080291502
+      }
+    }
+  },
+  "lat": 51.5148863,
+  "lng": -0.162998,
+  "formatted_phone_number": "020 3972 5966",
+  "international_phone_number": "+44 20 3972 5966",
+  "website": "http://bursarestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=13335080776462990156",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 1:30 AM",
+      "Tuesday: 9:00 AM – 1:30 AM",
+      "Wednesday: 9:00 AM – 1:30 AM",
+      "Thursday: 9:00 AM – 1:30 AM",
+      "Friday: 9:00 AM – 1:30 AM",
+      "Saturday: 9:00 AM – 1:30 AM",
+      "Sunday: 9:00 AM – 1:30 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0130"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0130"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0130"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0130"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0130"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cwFwsmv-a8mT3_ShIfBG8V5XuqbP5U_8EEnoV1pFSbTjcsEzvstX7ssMHkgjRUhzCfnVi-vW--0YW0A6bJANuPUmdJYvy_zbR4hAAjmxTCmBu4ec-MvOi0RNC_Thlu5E-PFWAVxiqGw6HF7mFxmKaTBlXMc1TJguOV2MbqhFbTjRAO_vZmzZ_TxYIWhymrRi0wgh4Ypv672nsc5m9Coc0e6IofLP3NOUl-KRP8DDSPHMv4FJE1mGa0uGutS9mSDxv6EzUOu-BE6X1xnSmwrIW7biG_sB4K11ejlXf8c_wpPlGzST_aKahPQqJ0rI0EheNBBLQtZosE5IOL_EkRA6jlhS2d7LnC8scYYzCu6mPxb85xEj5K9gRgd9xY9zJXwZ3O2NUvc6gGTgK25mlGM-IrPU9PhtsfF6xogLEN6xS8gkj7TJQ1Xj6sjaXyc16g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117061176048773380870\">naif aljadani</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2diLkVSQ_9aQio5ges88zo3raf57IRsHingbmVeap5OaCg48QpMwQdYaQQoklh457a0qZS5HFkKONSML8yGhvk1U_zYUMuxhXYx07b_fyRV-NSWS4SCNpanQO9bXFE3uqxAFWe4GSR_ak_EKZft-dWXb9GKMJVX4dpdXklhmOBGyatZTfPaPin80xggL4YiT-Xknsnm8-hMgsWoNpILMJyQ2NdtNHBlcOSyOZDmjsvu4ujkc6i7XrIjW4n2RGkQDxGjQsSHBonYKN-goRkjPZW_IQ7YxoMbGn_-b8OxjfoIP1bZdmBJwMB1iVvJF3wVxniaxc5-HsGyZBPvEKLSy8bpy89i5z9GT63tj5QvEkQl1FIbfkOhcC1goY8HX-z9Bm6pDPWBjLDDC5GxRbKS6tBUaR94hkjNzc9Vn9IitVSYCKMQv6Eq9JqWb2Xrn2fG",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106069712178948717275\">Green Sea Shells Mag: Wellness by KK</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQNJm8O0S_Au7oxdkbUfkEGDzf7Jshfo8Tijal1bwDda2d_MP0_Pg9RNmkR7b5FiBwxdpBH0kvr_jF5_LxEWw8xAmryjbmvTD_WFcJN0mo-YXXZ1dDL7ZLsyzdY1ogJTFeTlFQhCCjw7OABt2pIRM0ztxOMDqyFAPsaTI_FGpOuYUqyhhJaJTknI9iwuToGgURiyrKYFpo5zAx1SvR8Xz8K6LJveAkhHp6FrtWVPzNF4zaOhBAZssVrZW2juPYRllXkkUAtiE-Q7bKgXfj8Vst8Y_HGS1K9yO6Mej4WVIp9G4cSdCU-ODhDBXg1bdE7FVgP5x0XKiQGrChEAOad1IGGlrJxEjXJubpnae4kwtOgH8ixtu-DhkeAPby2kT39XUT1JK2DJolimZci0BVPgR1CAKGeXga0IC3ghgSk80dttz3qGlOL3aB9yekTg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109478621954735995971\">Mohamed C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2chu9XcRrcv-6cEBvJqq1l3FdYoGY-xhpF_wr7PqR2B9xCWCNqKlE6AmBGXnD2QWiAWKMUtISvDRNgxBmoCJhJFn6NX3x4lSPBgZGAEbYLTXld3btBHOGSoSDD2ikb_LpVcyqsXBhqf9I_vsu13irccY74xT5XsvMNuLDYdtUP_rKqdi7d3OB2nU4FFIMcLlybamwn4OGCM6vNmkPfnoiowaLbrFpvcAvXdj1grOY7D3AOT2PvrBJg-HfcbnRX0kdwtUhUBa9Jeyd2F5y-KOe8BhxdSVBKQ2RR88zktE7LULSTE3-iGMJ9C6ejtu1y8fwEfBkVpwU-08BAsklsasOJV6GIbHZXWI_g6n8PWX3lsB0j1Tqn2apOj5ZxachBHesqXasU2FUeHtnrt8ZnShi9FQgrpTQOjOsM4fCTUaEiD3Cjk",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115349962842888965653\">maryam al abbad</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e81F_1DbmKT3PX55GwZ00lM10uz8gXVAxgVrYsOz-nOZymYXufQJEsoo8biveSMaywnzU30OWqZdEhWk7NX0cMLKLZLJ-rX6UcYPfsPp0blkJ4t-uVWCDDQS46sek-gq1CFgHsMsioxc1jXJJbkP5JRAEIs4ut-aSZAfAEBGK0MZHX3QL1x7-HvChelGmI2IyfZEFzf9SCkdHeXWAHOd5IHDE0liCwYOX-21tsBlLCIg4RzFtr954lm1bUTyBq40KwoAwYJqp1YlFOVugGx4SgcBy663MFtNwpEHxewT2hVxkPzkT-OUvJcElY_sQEDhKnMv19rJXwidV5m2_QaOUVL0FecRJepzm38d8NhrBAACjA3K6il7qPlkQvJeKwP1ZPtfTbqzXTCA8uxUfsUqtLvuSG4qYGd-WwSWp4ohm80ontyIip5yIhMfd_gQ",
+      "width": 4154,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103786666496891346816\">Chantay</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2erV0hF2mWc-94_4hr3bXEwnAQ4mNcqO7NUKPu-Jz3rDjyjzS57QoFgifXQ-Y67NXNRP4kM-m5WS0lMoGxd2LPKc1hwjH4YfDeulOaYH8EKi4dYmHmIcCvb9DdN8BNsaUe43bG7t1gAseve-cffeKmoC6qkvf1UEsIxosUQQH5-jHg3hIANwbJbdFiqXnoayB4ZKC-4Zy1PipL3vhZxVjzmYYd-NjguRNfGJxcRK2CX8JbAZYdH5hXmgV6jpVQh4z0cy5aHbUwm-x-FL96N9MZ-9KNnZ4hnMnZpQaDlo9EpssiwoetGzf1nItivxfAFyMGg6SKR_tscDzAAkFeCm_3dUFEvbyAdBxx7Hgc3Ob2nv5K-wCDWw0VTYBMHzgErk8hplH0TBK--HT23rJsv4tpPMDmhLWWucdnFtldp-S3e6g",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108365683556769317816\">Halal Food Therapy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2da4NirvADkEVdLjhSx-FXzbG0ZwOTgq4e1OUwkVOOs5dJPvCkENpqv_nORU3cgdGNwrPRkMqKQeMXNdksJzkp6_IEmhqcuJ_ZFvtIkPAe_e7yAi482gk2KR15KA1DfRAcx9b4unawaP16vDyPSrCeHIiGty4-aCohJYXEsTCugXiEtUE0V_3pgTU5bUWS9_eDFp_raSy7An33P4QgBISyhRwR0v1J03EWfADWe-o7qfj1QsFHLx3hd7KMWMtWaeWCFmUgTGRpVEs_E-IrCFmuzxJUB0ei66klYMO4xlo9CVJWbqH3tUf9Zd2iBqsWEnsiykz-NZX8xCjxsgfH7MmsKf128tFm6WL5dnM6-ilU5O2pkb3zQSagDzgBRlrD778DxG6m8jrJkRP01qDs-2pU68WjuylNIbwOMIVgAVp95V0XE_FZaVTXDfgAq4Q",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111305819915140048229\">Rifat Tuzcuoglu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cnZ_cUqKp4lAMqo0cvjTOnwKA91Si6jFKMFceiplz2JXl9xKaGun5-dvDbljEDt-ZUhhoZ_26iHIiriQOC-uvq4yWxuE5ODHfNQSYvvX0U_mKNqbbSdS4-XbvwM005yFOX738FAy_S8FMN9nIGYLpjbtnQU-Xq8F_l5YRuAgs4dAtGRBRVKJFntcYyS7FTxp9BAZPZuY7boP2uqG2nAtum8p1JcSblDxeJ0RGo5TpyUkuA2pFek7hiBPkKErak9K4Pjs8Pvi1Ej296Kkk0vtF4N5DdMUPlkhwu5e5xXtmUzVkSCfgqJKwMO_o7GJLPo7gIiH_foddFjHvVKTLs-NFIGTFDWG0GgEb1OLOmaUarby_8OxqtL_nozqpJ3pGI-WW2XNgVYfyKl3uEyqgZMSFJbLkKVbTKWL5T35MFjcz-Ty8",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117364666320556886696\">Rakesh Patel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dGuuYUBabj5Nm77MlFw-8fAb6uWB-eOKtiYW2t6kxaw-U7yUrKWt28vMC_S3RpAECn_j4Z3T81LURnagLqrVEJLYfDB9hpP8ITlt5nRhpLjI4EXBDzJlTEyPvC0uu30ECMHh3Mgl6NdP7B0IafRBh7lXsVxupHsSfi3WJboy8KWTjv2jSxLIcsGdi-GFolfaRKQCcdWH469IomHv0UXyFlGIbjMpvk6-SR15bZ9tfRxCgGVl2pjKTDAQ0vEEKJzLnbPhB7Q5SuC8oL4ZRLwmuzlCxjxaBZzFH6owN6cuXu6oKDUVl_AVLMioxtzTMXqmRo-IVMYK12DieFNo04Dp3X1XTSXQ1zhoc9IghiRAQLaI_Ing14VqhzZxJ0JORVCdPCWp-G7tLpA98KkgXde3wCWQNo-WJrIGzGz3ZHkzhIpnRVyvgadzherdpZCw",
+      "width": 1536,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111331282515892215836\">Mr</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dn-WFdADFrV8m0cOEGq80OTuUtXDVXhcNkITBKp15Yy751d6nH_79bdBbLzLLUhuAZz1udtJnfBqbgC44GDnppIv-UMB9Tp3BR9yycKbA-J3-8KUeZW1uKbiTvNfriww4bsu02qAXciY_rgP-GbnkQyzBnScxUjr_xXNhKxC3zCL2Qnpgh30IQRypIdpRZ0HrxLmkRa0sW0BP5eYYDM03TW_EhELNQjGFiq0JPdyjoTpr5Rl7PGGyoIHxNEzZbDMZqC_f9uHQyA7lqpIcAhoZ2EnoBC8nIMrla6_Ta3Pm1h1X3E_i7xJF9HQPldcLmRLwfUfzjjtw0Aoir65wa4h3o-ROjzcn7GAIssVPBp_KOiZnAt4ZoOFTUKQLEhs3WRfdFj7wnpuOXlIRYax2r15AX-VyUhCC3Hg57rJ4dLOwqolVOO4gZEnSeE9pJMuE3",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111305819915140048229\">Rifat Tuzcuoglu</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Chantay",
+      "rating": 5,
+      "text": "I want to start by saying Ali and Hanim provided us excellent customer service. They frequently checked on us and were engaging and nice to talk with. We enjoyed the opportunity to practice speaking Turkish with Hanim and learning new words. Thank you Ali and Hanim for a wonderful dining experience!\n\nMy friend and I ordered lentil soup, tabbouleh, grilled halloumi, chips, hot mezze platter (burger kibbeh and sucuk substituted with beans and potatoes), Turkish tea and for dessert I ordered Turkish maras ice cream. Ali gave us marinated olives to try.\n\nThe marinated olives, food and sauces were very flavorful and perfect temperature, the exception being the grilled halloumi. The grilled halloumi seemed dried out (the reason for 4 stars rating for food).\n\nFor dessert I was sold on the Turkish maras ice cream as soon as Ali told me it was pistachio, I love pistachios and this ice cream was really good. Be warned, the texture of Turkish maras ice cream is different but the flavor is very good. Also, disregard the tea glass in my photo, my/our Turkish tea refills were provided in traditional Turkish cup and saucer.\n\nWe were so excited about our food we started eating before I took pictures🤭. The same is true for the Turkish maras cream. That’s the reason the photos do not have full platters/bowls.\n\nThe interior decor is very nice, well designed, it feels inviting and relaxing.",
+      "time": 1759888622,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Green Sea Shells Mag: Wellness by KK",
+      "rating": 3,
+      "text": "Had a vegetarian ‘mezze’ lunch at Bursa, near Marble Arch and not far from Mayfair. The space is large and comfortable.\n\nThe hummus was decent, the baba ghanoush smoky, and the ezme had a good kick — though I thought it would be even better with walnuts, which are sometimes used in the dish. The foul was fine but came in a very large portion, more than expected for one plate, and we ended up leaving half. The lentil soup arrived unseasoned but was fine once we added seasoning at the table. The bread was warm and paired well with the dips.\n\nBursa describes its menu as Anatolian cuisine — a broad regional style from mainland Turkey known for meze, soups, flatbreads, and hearty, rustic dishes. That’s reflected here, though in this case the flavors felt more solid than standout.\n\nService was uneven — water only arrived at the end of the meal, and there was some confusion around payment despite the restaurant not being busy.\n\nOverall, Bursa offers a straightforward take on Anatolian staples.",
+      "time": 1759621244,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Rifat Tuzcuoglu",
+      "rating": 5,
+      "text": "We tried the İskender, the mixed platter, and the chicken wrap at Bursa Kebab House, and everything was absolutely delicious. Each dish was prepared with great care and full of flavor. Hanım took excellent care of us, and we enjoyed plenty of Turkish tea. The attention to detail made us feel truly special. We will definitely be coming back to this restaurant. Even the gyro, made with ground meat, was wonderfully tasty.",
+      "time": 1754695736,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mohamed C",
+      "rating": 3,
+      "text": "I Came for the Turkish breakfast and left wondering if I should’ve just stayed home and fried an egg. The menemen wasn’t really menemen — more like shakshuka with a spoonful of sugar. Bread was standard issue, and a word of warning: ask for a refill and you’ll get a bill. No mention of charges, unlike other Turkish spots where the bread basket keeps coming.\n\nBörek was passable, but the halloumi was a disaster — overcooked, bone-dry, and in serious need of rescue. Portion sizes were stingy, selection was just “fine,” and the only thing fast about the meal was how quickly it hit the table… probably because the restaurant was empty.",
+      "time": 1759412593,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "giz Kds",
+      "rating": 5,
+      "text": "I went there today with my daughter to try the Turkish breakfast, as she had never had it before — and we were absolutely blown away! The breakfast was just amazing, everything was fresh and delicious. The staff were incredibly friendly and welcoming, which made the whole experience even better.\n\nI especially want to mention one gentleman, who I believe was Turkish — he was so kind and helpful. I really loved the cream cheese that came with the breakfast and asked him where it was from. Without hesitation, he told me the brand — such a thoughtful and genuine gesture.\n\nThank you for the lovely experience, we’ll definitely be back!",
+      "time": 1753459223,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:44.253Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm374GA8FdkgRTHs3XFC5D7k"
+}

@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJMzkn7zoRdkgRbRuR09X_t8Q",
+  "name": "Frame Notting Hill",
+  "formatted_address": "39 Hereford Rd, London W2 4AB, UK",
+  "vicinity": "39 Hereford Rd, London",
+  "rating": 4.8,
+  "user_ratings_total": 375,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5148606,
+      "lng": -0.1939468
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5162134302915,
+        "lng": -0.192560169708498
+      },
+      "southwest": {
+        "lat": 51.5135154697085,
+        "lng": -0.195258130291502
+      }
+    }
+  },
+  "lat": 51.5148606,
+  "lng": -0.1939468,
+  "formatted_phone_number": "020 3375 2678",
+  "international_phone_number": "+44 20 3375 2678",
+  "website": "https://www.frame-restaurant.com/",
+  "url": "https://maps.google.com/?cid=14175079646014544749",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e2P3_yDb-9sMnbCJG7rmXBRGDfoppXPzxXOLYgDmjFL3pW9LjAQccgxOdg2i9zzyJjhblFx1ywnh22WS9-NUwbNwOwaHmDTc8I93KA8N8boVkpOJ3xw5RV5j6AowuunDuBOCFceha62jdbL0eX-qVs68oohgve5iUrztHfeaD1LHo2A7ikwXsHfmaw2nZNuKz8xVAyTts-aAELs0ecp4u-i97b4CAz44Vk98B-Y9sAjeTV1qdE0nVX6en3FDjd2lWQRD0runimkra1LhIaBhrBUiNaqqxrSZxY00jzasI",
+      "width": 2887,
+      "height": 2887,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112478433167690539404\">Frame Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2df13Zu7RXLGY2MhQzcduyrb8PwrvYQWwC4yWj3-cJiuFJx6_14ZS2vT-71XoQ5AsppwnEiGZmdLsV0ox6SZtziEAGaMv0k7aNapQnN6W07an3JJtk4-HVoJhfNj8MMaqSqY5x5o9It8V283aQrp8HmLUPSYeHEsCoQa1MFJZYkUW15llcZh7xwlxHLSgB-s52xSsZNIagjX-mJfphgGQToUwVv4yLuLfcOTv3vDRwCfuNhwJZ6cQNu4fZPyZF0SJ9bK_FZkfsxIc-x4pOqsvoJHpToNZekeoj8R1AHPznwyLe0hotLoYA2ovhUtlUohtwF9F5q9ot8u3NBq-gSdvWRLf_fYx5dyvzhJR5TXVqANJx0gAHgMhJTWKllE6EuNrcGCK9D33mBrw2LwOfg8LFCfhtPM6vRouvnyOQE38G3k-lH9sJRnXh04nH_LA",
+      "width": 3144,
+      "height": 2324,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105726501617556268407\">scarlett teng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dp-8ymNW6SDH_uy4YhPz09j-4fj7xh423WeR4mDj2TkkBq7LOti8pM5ORZe5RRcAcOl2PJFZjmGO1poIEnBV5mZxUNskqWEKm6mF9TQ4qmnaWA-qNBV0196YbNralcE1chCRmh15-hW4yUuZPimqCVgdIG0PFVyOaSoHAQKSGc4zSvkCBNnSjhpC8UN_Xgopq-6EkM7YfL4T11aUYiLkwj1LRGRC5UOrGBfZt2_YuTyhwLqsIqcH_d4DvMaIJSWZBzw33qfA8br0iz4QzqpIQ-TIaoh-SQDJZKIuStyx4",
+      "width": 3024,
+      "height": 3833,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112478433167690539404\">Frame Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eraUWGS1jSfNRtc8W3jCcQ_MYX8Y91TtGi54CheLaLy8ZtV4nyPsJfwwGYj5wLCNTpiFkltprPzWDUPOKLLYBimQmQVx_im7xPpjYlECi1--W0ccQd539ot0jwz3ZDLQxTKlNEeQ22myIny4X1h6jSIV7G8Vf7DWrzPX5NYIH7hxE7GcgjkiKOhlTjv9I1nhsjiCtbJoStyXlIUwr1ubU4T75YYN-_dJsaAHI7LBVTZ5Y5qORbGWRd7-607fZMsfQZ3K-x6fezu75SGLaJ4uQVVfTECbU6Iz8eCqwGITK4LVPOnQ6gevO3zlaW3d3MleEThwyOdVMZDSgDIKjaDrnFQAEbHjNaPMJgQSaVSuDeBpFV8qLcjFUJ5agQddI6wcfNa1XuhasuWw2GLKI5ksaIIQ83EBBYfjlHFa-nFwwWZvUTIKPWa7rV51KhU_DS",
+      "width": 4028,
+      "height": 2898,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105726501617556268407\">scarlett teng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cBWg7xwFcEjPKIqRso4LEk9Q2YdUcFjDVu16WQlNKusoljFyIbwF_ISmolshkB3eHEuL3x5-K_oxA2UiglAd1xXn7A4vbY5AO8zxwBcj1dv4VC1Fl2PHLrzcp-T5AGHEh-8-tHC-Q06FhlGvk2_Jl27IsuNkaXUAKZiFvVY00mrl2aapy7gzhW9Ep5bZzi6hF8o_vS8injEwvKfluoXTYz9pjNFx0XrIH-fn3vM_GWUoTdjN-n2Nk6F2VAkty01Dr0KAl85xujukN70VgKOnttBYDWTxOgIk-H_TJ2jzsgt7VATT_UuJl_O1uZnshhTM9ic6gwLlSUOnq7IHdGh6bLFi8motb2Vk4IyIPV5zVZYJXMKaveFIh_0T_S1QzUzqqSnKO7-SViajnNBoCzoISv3pwba683a9_oitg7uvxrAbCb-0ks0TKK2AJUHy9u",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105726501617556268407\">scarlett teng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2caC_Pu8QcDwi7jotL0ENp1BpbCkCbDtgu0BHrZ2WeK95oAUHfhGNObpXdk6XiUUs8ZU4cmTHFtBSvYKeZ8Zg4KYmsEDEcIwAn48cOY-lWKFBc5fd8V_Vvoo0ZkMxB35tR-1mpQSeYQC8YyMxSFr54N40R-OIifwNQinPIZzp_mBw1vW_9faZLHk4dZP-JyDJk91VcJ6f5ujxIcg4Ny0CxgTNOHZXVE-QsVeFPxVB235uI9Z-3ix4p-vnSRxdBYtiNW9A4Idfh4kVN1zDi-v0u5e428wYJ-X7iDjfPeUTRAP4VjGksfDT79M4aOfh4UScTEbJvg4Fi2nRbgJDEP_0mZY5AqM4vymQAHLjUA5dWtbuSEmqceg0eqEkKdPCKLfVfAnJ1dhZrg4E1wh8lR3-5diBiqznNVd5UFsal8uaOurGg",
+      "width": 3865,
+      "height": 2174,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115133442765299509259\">Waseem</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwtImotuqLQUPLLU0XvSQd9SWnMlhwIhjuEmZsltk47Udo-Geh88FX34BjWcYRZ1GB4jrVyDdQjll1hBCmDeZt1MTHDHlhYIMLlHrgTlTc3AvfbysOkei3k68L4esVEdSgSNV7AOTNveBpQmjjCXcq9mmaebOhMaHRwv20ZlplzsLOsOquENGKGoSr-E5k3M9p8RoW4Fa-bjXpheHPlFepEVluStoAPfNyLFpz1tLQ_EX4KTj6Clhb5oA8cf0KhJwJyKmtXeMlsvIrlZNAoBZjSjLw7LqFven_RceoiPxi_p2vYJg_BB0-3x593rhFqXimp64mDYOy9kpglFiWZi1wPPlae4kvyS1KIf64ugu6ZeUr-Ondu2l9UVJ1bjJCy4xEgH9c8CBCCNFYhPtiFACiEQRqOH7-Cc7KZBlh400xVlobvXL7Y7zv41esv1lq",
+      "width": 1126,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109862722204284061639\">Bhavini Vekaria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e07JrNpn7uXi_oecDKfdQmY-L_tuuEQrgVDkPCHLp9cw-9Ggu_eszr1ZTIW2FNx-1JNdHtNcmGt7nYsFQxkbHUhYgSsr_rjVteUkMvkx48Ki_NlP0L3YrEg5T6iJn4NqWsn4N07YIJhy9tghvMpo-EDEjSWCKXCWNO4CQ014vfYUsIzqKInx4o5ABQO5eYyoWcVL9wfwmawe3R20MLJdC4pBBckaMQXZ4x9yi_GlglRa8xNUrqe1K787x_mdVgoaijv4ar_r4rQwXmBlkXJNWxEvemBFj8RDfW6TXIJM0",
+      "width": 2500,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112478433167690539404\">Frame Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f1fn3Akv9iVk6HobvCebkN07QTHRHfZDGrG_nXasn6MMgm7AdGMCNKtpbpLRZihe3-wiymszv6fP7F0hSVuvEkwoQA7JSqkpBYs2bqW2XkM468ypxUsuTNgKVOFIBSH0qpLJpIrMb7dS0MxefrOGZM_CeDv-HJ7OnUZM8QUGN4J_x12TXwJhHFVVtz-aTk0dOEwwc1tLn8U1bxT5uw81Ei1_NRl_jRyX8OdoCRs1nzteMZsWCVrhFw-ZqARX444pcpg9pXeAjMAWRNprgkZSDGffw-bXse5GmyXF9KgWs",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112478433167690539404\">Frame Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eGCMl95n0Ldow2XB1i9xE49FUV8QiLexuUkFFUcrtVJgZZm76CSf3xZ_fCQhKbA7sAKK0D3JXcLjzJx5cqI1vKtGye8qjjLTNqYEoXjZYmvVBcxGedUL3nND-uVvXAWXMVZl6NypiEEsWx2ur-asGzCW33gCwFFxeLDk2bu6D6GgZS_nNYuohx1XGpZz4Ji1grIvkwZcWEHJuBE_tOhCezANpTyb4jF6Nip4RYUrEsjd_YdPsJ5xmguA2ZtmgPfJx_5n6Y7IFweRztps-eTFPa6vrhD4G7rQiszg4SAZ1b1o-RrTop2Z2IZIrhiV-Co0AoZI9p26tLFKq3hEcJ6xRTw6KuIEDanDVQUf2MoLBHK6wVUViEF1jmHjFE96toY22QUvFenE2VNQP7PKg_-LULvy73qW7bwFAL7lfm0K0Pd9Ls4luPbWYwcLWiEKYx",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101611282919211195965\">Christophe van meensel</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Roselle",
+      "rating": 5,
+      "text": "Had a nice experience - the tapas were well-executed with a nice variety of flavours - everything felt thoughtfully prepared. Service was friendly and attentive. A relaxed space that’s ideal for a casual catch-up or low-key date night. Would happily return!",
+      "time": 1755011615,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mitch Helwig",
+      "rating": 5,
+      "text": "This tapas spot in Notting Hill is a true gem! We followed their recommendation of 4-6 plates per couple, which was perfect for a satisfying and varied meal. The menu genuinely has something for everyone, from classic Spanish staples to more adventurous options. What really stands out is how the eclectic decor of this traditional Spanish restaurant is beautifully mirrored in the passionate presentation of the food. Every dish looked as good as it tasted. Highly recommend!",
+      "time": 1753183092,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Yigit Akay",
+      "rating": 5,
+      "text": "We had a wonderful experience here. The service was excellent — the staff were friendly, attentive, and very helpful, which made the visit even more enjoyable. The day’s special octopus was juicy and delicious, and the oxtail was cooked to perfection — I honestly can’t pick which one I enjoyed more. The food overall was fantastic, though the cheesecake was just average compared to the rest of the dishes. Still, a great place to dine and would happily come back again.",
+      "time": 1754596949,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Nilvanta Kerai",
+      "rating": 5,
+      "text": "Fantastic food. Nothing is average here. Flavoursome croquettes, creamy burrata with rainbow baby tomatoes and a rich jam, chargrilled avos with mango - were all well presented and balanced dishes.\nScrumptious basque cheesecake with a perfect light texture and sharp passionfruit sorbet.\nStaff were extremely helpful, friendly and personable. Cool arty interior added to a great experience. A must go to - will be back!",
+      "time": 1747370394,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Andrew",
+      "rating": 5,
+      "text": "Excellent cute hole in the wall with a very cosy and welcoming atmosphere.\nTapas style plates that are generous on portions and very delicious for the price.\nAdditionally very reasonable wine by the glass!\nStand outs are the cod stuffed peppers and mushroom and manchego croquettes.\nNeed to come back for their slow cooked oxtail!",
+      "time": 1759260620,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:01.231Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzkn7zoRdkgRbRuR09X_t8Q"
+}

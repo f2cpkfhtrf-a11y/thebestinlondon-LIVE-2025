@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJv16nk7ocdkgR5P9wUhZgUpU",
+  "name": "The Blues Kitchen | Shoreditch",
+  "formatted_address": "134-146 Curtain Rd, London EC2A 3AR, UK",
+  "vicinity": "CURTAIN HOUSE, 134-146 Curtain Rd, London",
+  "rating": 4.4,
+  "user_ratings_total": 8068,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5265519,
+      "lng": -0.08018009999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5279168302915,
+        "lng": -0.07891106970849796
+      },
+      "southwest": {
+        "lat": 51.5252188697085,
+        "lng": -0.08160903029150202
+      }
+    }
+  },
+  "lat": 51.5265519,
+  "lng": -0.08018009999999999,
+  "formatted_phone_number": "020 7729 7216",
+  "international_phone_number": "+44 20 7729 7216",
+  "website": "http://www.theblueskitchen.com/shoreditch/?utm_source=GMB&utm_medium=Organic&utm_campaign=GMB_Listing",
+  "url": "https://maps.google.com/?cid=10759768108730220516",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 1:00 AM",
+      "Friday: 12:00 PM – 2:30 AM",
+      "Saturday: 11:00 AM – 3:00 AM",
+      "Sunday: 12:00 – 11:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dJLKSIbY1GC3GWPkToO9_J5hsQIvDDY9XRSgFrEHbfnaML8_XEtleaVfHPW4WmP6PxnwvSO_vsKtHnQyWElpSblvToSnkKuGO6uTl8VonCMUtX_8OKt3IzpuPRkUjovFBNl88RnbyVM-O69H7u6aESqTw0aYfDlcjpH9H1akikW3F6x2Y0r06SgXh4ymPpbHhwZGU3oCNpgfcLaFMZKRMXCmpIDpyKueqAZbHquOGz6Nh2DfLjuqDAGLfHQc0jXrxjJH6W7BCa0LpISKlxIeugSeMh4-ifNuAbVVWzqdpR1F8qtBBIESVsGbp5H77KjKdQQgHlJUiO4rW4wBd1gaUdyOOaBD0JssQyMWSL04tao1mnNJOlq6zdGqb2OQE7q9vIpSJmmMSu-3_VSh6_fKrWoIds-YW2g-4uoZmPMooSxw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100828409030526804408\">Jackie Hamilton-Smith</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cu1u22w-Z5g0pcy5VNNgYNbhaPVx2P1hLkSmNasaHGo6dM6YOlIukAnN6DETanIQ5qVu1fVxe53hG3toLvAVBqCb9xBKtVJ8jNxRJrd-UXWouPdLlP0Ez3ZuezwKJdpctTKBiwkR1puGv_7xTGnI3bb1CX702oP1hIS6ddmAUoMIcXINM1Ij9zeACgDF93aQn3Ue_EH2NUh_ZMTSVFM4e9KM0lYRbW__WcrCmBmpsC_h14lTxfZC5GbKpcbpGuSkb9PX-tg45hd8yRq_MQAtfz5rcMNUZrprRcXSHF8fI-F8mlKVpnTwzGDUDegVctLmpTOUi8tb0Xos4kuxQqEYwIU-0x4YIUm77mcQZEib8Qax_EPeqGWNsr18LFRSNiWAYW9vGB4d1X4IFqSqaaVXOKJNqAt3MlrOWtODkCI8QS45Mv",
+      "width": 4640,
+      "height": 2610,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112180145111116549780\">Paul Smith</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUEPfkDIUzM278Y0Q7vtmlnS4OMzxVyAZhc0NClI08W1SyOHyUkEoVm1IKcW5XKTx1FxP4Qaati3CMsfH8AyVD3FxKHRe8g9YBiX5FfTIDO6lXuWzzPaMPqLZBhVeuYJJLvLiVt9_EL9ZbHB59Z9F9JsqGaMXprRedkcjWe3mx7AOoweZxryQAoD1lnTQVsmlzhwLdhchTctonr3_sWeAVqeTk9tN_7jRTlprSjTOHY96ebkrHFWgFFE-9qnMWV_HO52psswoUST1pIZIQsHxmsYN_oDFQpD-79jIDl66Y1xliifvJ2RoFCiXzST_fKQtl8fLvGlAHhchwrfVOpWgmKoZi3F5PAL3zWC1xfpc7rrBcMWL3hLHNI6jQTGrx6_TL-Sb7jK2qbNAgSZH6JGVqd97NfxTQojU0gF3owoIsqar0",
+      "width": 1170,
+      "height": 1540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109349116019300472671\">Emily Kayla Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cjhXAiOYDvQzJ9QPEowAwOJoWBjm6SzB4DQcGqEp8fSnb4ZhL4AUT8_OGVOoy_77FIt5x77R5xF1aaRx9Px4EsSopAlW-3D3irYo3kUXHYiCgUy-RfQtRQW_J0FDH4mJi4tN59b3htgg8LOTDbsgO0DAV6cAIvbtK_bCTqhRKiUSigGazabf_xsVMnMq7tAnbuTDJUNeQjQNme01uqnyqBV81wYKt9Prx5IaB-uSR8Uoqvhi2EQzt40FLpnesGG9Un90GZBPr60G_qurFAAInsKfV7UjVj55mQKnYbn1qqIBXen_A4pcdr_8CQeZOIW9ze-KYslDwB8QCJssDp6omFdRdxiUcYCwbJ_yuI27EuILrP652_uesN5B66xYp7nthj0b3K9zQr9srzLebrxAb7R5hidEeH_JN4jFqnsK-ErjMAgVf-kX5ij3VlySfq",
+      "width": 1185,
+      "height": 1579,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101536359867285859363\">I&#39;m Your Guyde</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOcgAoB6sWWdIMosQY8ltEpVNHGCi3TzPuu45dq_-m5JFEnn8VR2rGHcanO16sbHcBSPOcnju0KDC8CbTflhPYL8-dvoZwRr4hC9Fg4YEjFAXgjZtEiVwoJXXZHeznxWxKO72TAAmsxKsP6WvKCK560awr1FpFVBwIT5rhzwM7q4mm2YuRpKEzJ2PQlGBxxZVYmNa8PpkzTLT1Ydqvxxf70g46ea0KV6hZBW3K0KOtNViFJDr1bmkxoAhGIkgD5rbnt2zAO7nVVQ115op-Ofh7m5zJsYHiGd6EYh1UR_Q5K60WotQf7_ZvC6u649B0RbXtBE4dJXcMcByzsTHo8cTV3kXBARGNP4K_yy2F4-MOkXkwra6UyavoY8I1kak1yIiBdaEgxC-PkJ-3TSE3Q3W8b-oUbsOHMcAb9KL8iHuKMOzAFRGO7OXGSKYJkQ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113618265056070070429\">Dean East</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2frHfOfOcSTT4sjDNMV2eUhWq7MhySbHtbTFOwQkyXOAA95u4d9cL-KZ2Gp1dSHeTBy0nWn_TnhrdaHYZljv3tVC5uhBYYqU08aqA12zelXxo8o2y7COPiUtEe9f9ZGhB8vC00kCk-V2utDjzZw14svZQyfipd_Ng_WZXDNHnTZipmuuTet4-Jt3bcTkPhNQR1Qp3Zp3zbTTwpx4CscFWeWp23xZqSl-LihLKYyHrBa37zvDo3WtN-Ed_9Y33XlTT2FJYW2q4awZCMJzCH1lswd4nNrB22Gf2DpVQqdqzgQLBfcM5rrq4On97D_2H3ckqQaUTIS7b4RCO7uQAK5K7EX7fatIu7dAFY9TZje6kKmRawH-Q6X47leZ6NrdHR8SfH97rZTG0uYmfH86TYTuUJ4EwXglwr-SppI45E1YQ3JnQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115615138466807646379\">Elizabeth Drapeau</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f8jAWeE1FIpdG56a3pjyEuvYlKSUxLBdQ4U8COevsOCtU4L0TIdTLjWaOFuKrCPkuRbyy9YSpbpLh_bEjVNMHM5L23iXIjZlEw0p_yYpOzpN4lxHA93Sx92FDtgazmKL_oMFkjmOPJrcA3lrnOLSntJS6bEh3QIVDxOaeMf0IOWzRiw0o8K15rdgisJW-H2q3X1etLcCooUKYGw0tQdqxBE9oQDmzoQuWa0skbuq5Z6053rhIIkDISChZ0GLGFxSzNryWdOxPvL56BqsQB3hOGCJ4mgpEFZB3w4fa_aR_Uqh40DvCvTO_LrE6nCdPWmDk1ra6tmTkKPFX0BnVfJ6weXx4Cdq9VyNmQ7NyN7IR2n3nkuwo3xA-ICTfWrs8yckoL0kT3pVF719fMvZ1ITSuqPVXRgeRlxTzTW8GikmJhg6o_",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115615138466807646379\">Elizabeth Drapeau</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fDnh_-PfCt4c0KBUNWmTgPRNYP7jeZOoOxQR1Tx87l9usW1K1ja6twB8YHC-WhGK4G6OMCmZC1ouN0MR9GghrLATa8Q9zOV-74JVAsQ0AIQOpLSYHIxC-iOX7A6d_M4JI7bdet0oNyc0drArzJ_sx8FJhwPLCAETACoGie9TltIf2bRvFpjNOlmsaFwCsaDm2bzrG7KW3m_KAmcxWJHrDCjydt9h7olvte9t3TP7I1lPK75W9MXj7ZVQl0lSveRpLjpiHoqqOzC0TUBg_RL-5MHr9Pq20lXnWt4iEbVDkxvdat5dRX6EKy9zj-NaWDzi4DVHQrGYYzy5662PEYWrGm3fgWtmJrBrArK9OmWVPMOwkGcf2SFJ-psBU9ms0kXPdIwITdxx_t1-8kZzl7tvFOD1HdfTR6Nl-LbVmJwU5Bog",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102407313733496369341\">Paul Hemmelhemstead</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvfJKkM1SL7j6Qk9U72C4WNwvh0Ht_VxXHq4RzphUtv2ljdgDfd9meLwims-79RoDCTCvFiFfgvEEP9zh-4cogTeaRiZBl_NEyu6gn7rK4xHU4Z3QC6ouAFeAoa7GhwB-WZAQrvbvvwPQrwfJRpjug4m1OU4aS4aqewvbFHYC_a6bH0n1Y9tBU0grY-5mZLZ_wmGAwDoWXHe6XqE9h8hXSzTta1yd-hq6nuCwPPrxE9b-30pcgqgOXczQ7FFxaEfWe7TtkS8wp4Nn3f71DkRP8vyNmi2xvRWiyOjJ83LCJtxNXNtO_I623bIVAnbL2i7runE3mNxED6z565aQPV7GHWtaSG5jmH6b_K80kubNYg3kHvqRxHzAqrvGd4WpsuvRpYebkqxcggw_FXmBcBzzUqJz0DW9tNE5rUF3Cq3DQPQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102197067676645471343\">Tamika Green</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKj2kfXUzVAJxoA5QGXkiRE93xnpsp4Fwh7jgD9DTuBs6AkiT3fd-shUv-WFdBhOfP3pqr1xoX55tacKRmBmqg1HiPIlyVMPT5lQktS2eCCya6kNjhY53zM8ulKAohuMS3g9J-2MxNpM_bs7Am5hcNDSkaQnXiR_5sIul9Rn9K89i-q5LMoPSzaIaLUUYjR_Jsfu_Mc6YQ0K4dhqo3dAe5pfavGwJYtznmCgGjaHctJ1Z2veRCfLspNN25mTXheykOrtOX3OavsmxJzol7eVCFipmrZO88IEaMkXvEjuDV2STOSVrxLFTXqdlGdlx27fKaPhhrjoth42nZUmFj9JYOLowPwKR-cuJYDcWBOSElcWf2Q_wwV1bqtr1kL5gh7p6TIuI1bXutiCtG4fEr8HU3Ohvi4WG55j4VFAU_PBe2gBDP_Ung9jLMs0jaXtnB",
+      "width": 3614,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109055934389066340557\">Yash Mistry</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "night_club",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Eclectic, industrial space offers areas for live blues music, dancing and Cajun-BBQ dining.",
+  "reviews": [
+    {
+      "author_name": "Nikki WO",
+      "rating": 5,
+      "text": "Hands down, my new, absolute, favorite spot in London!\nFar away from all the touristy spots, this hidden, not-so-hidden, spot is a gem amongst the other establishments close by!!! From the door security, Justina, to one of the most fantastic waiters we have ever had (Daryl), and bar server (Michelle), the place radiates with a charming atmosphere screaming, \"come and stay awhile.\"\nI was pleasantly surprised by the delectable aroma and essence of flavors that burst in my mouth from the smoked port rib (fell off the bone!!!!), and the earthy and nutty tastes of cheese from the macaroni and cheese. Daryl recommended the mac n cheese which I was hesitant about but glad I tried it! Daryl and Michelle managed to turn a routine work task of serving customers into a joyful, memorable evening simply by being attentive to our needs and having good conversation. Kudos to the restaurant manager for stopping by the table several times to check in on services. Well done! The staff worked well together and did so gracefully and happily.\nThe drinks were well made! The live band was playing good soul music that encourage you to bop and sway while indulging in the atmosphere and your company. Timeless scenery and decorating... England has a sophistication with that that America can't match! A+..... I could stay there forever if I wasn't full from the delicious meal! Easily accessible place I'd visit all the time if I were a local. Thanks for a wonderful evening, all because of an outside conversation with a door staff. You're a wonderful person Justina! A+!",
+      "time": 1760047949,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Annet Kachaenko",
+      "rating": 1,
+      "text": "We waited for our cocktails for about 40 minutes. The waitresses were pushy, constantly trying to get us to order more food. I even went to the bar to cancel my order because waiting 40 minutes for cocktails, despite reminding them several times, is simply unacceptable. As soon as I complained and cancelled, the waitress came and asked us to pay for the food we hadn’t even finished yet. Awful! I was very disappointed. One of the cocktails we did receive tasted so bad that my partner couldn’t even drink it.\n\nBefore the musicians started playing, we had about an hour and a half to enjoy our food and drinks — but we didn’t enjoy it at all. Once the music began, it was so loud that I couldn’t hear the waitress, my partner, or even myself. It felt more like a nightclub than a blues venue. I was expecting a real blues atmosphere.\n\nI had wanted to visit this place for a long time, but it turned out to be more about showing off than about quality. And it was so expensive!\n\nI would not recommend this place to anyone.",
+      "time": 1756479869,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Ellen Pereira",
+      "rating": 5,
+      "text": "Excellent first time visit! All of the staff were very friendly, welcoming, checked in on us multiple times and said thank you as we left. Service was spot on. Appreciated being given a jug of tap water straight away without even having to ask too. Food was so tasty, we had the pork belly rib, and bacon cheeseburger, both dishes were great but particularly the pork belly rib - I would come back just for that! 😋\nDecor was cool and overall nice relaxed atmosphere (we dined around 5:30pm so before it gets busy). Highly recommend and looking forward to our next visit!",
+      "time": 1757026803,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Manasvini Ramkumar",
+      "rating": 5,
+      "text": "Food, drinks, ambience, service - 10/10!! Blues Kitchen is always such a good time and the standard is consistent. Would highly recommend the Popcorn Squid and Buffalo Wings as a starter. Their Brisket Sandwich and Cheeseburger is always a hit as well - perfectly cooked and extremely flavourful. I tried the Salmon for the first time yesterday and it was, as expected, sensational -marinated and cooked to perfection. The staff are always super accommodating which really adds to the experience :)",
+      "time": 1755512225,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Michael Davis",
+      "rating": 4,
+      "text": "This restaurant in Shoreditch offers some of the best service I’ve ever received. The atmosphere is lively and the food is delicious. We tried the fried chicken and the seared salmon, but both were a bit under-seasoned for our taste. I highly recommend this place for live music and excellent service. Don’t forget to make a reservation, though!",
+      "time": 1751795089,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:48.647Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv16nk7ocdkgR5P9wUhZgUpU"
+}

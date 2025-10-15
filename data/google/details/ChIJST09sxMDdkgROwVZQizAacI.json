@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJST09sxMDdkgROwVZQizAacI",
+  "name": "Brother Marcus Borough",
+  "formatted_address": "1 Dirty Ln, London SE1 9PA, UK",
+  "vicinity": "Thames House, 1 Dirty Ln, London",
+  "rating": 4.8,
+  "user_ratings_total": 5020,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.505622,
+      "lng": -0.09222759999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.50696498029149,
+        "lng": -0.09082021970849796
+      },
+      "southwest": {
+        "lat": 51.50426701970849,
+        "lng": -0.09351818029150202
+      }
+    }
+  },
+  "lat": 51.505622,
+  "lng": -0.09222759999999999,
+  "formatted_phone_number": "020 3146 4001",
+  "international_phone_number": "+44 20 3146 4001",
+  "website": "https://brothermarcus.co.uk/locations/boroughyards/",
+  "url": "https://maps.google.com/?cid=14008939412236862779",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:30 AM – 10:00 PM",
+      "Tuesday: 8:30 AM – 10:00 PM",
+      "Wednesday: 8:30 AM – 10:00 PM",
+      "Thursday: 8:30 AM – 10:00 PM",
+      "Friday: 8:30 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:30 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0930"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fCU4pQJeuJqwo1zdk28ZMSkXdMwRhWzfTfJun1HtVJPlvsmm3k-dA0Wmp-aYupScp2yX21L8A7QGdRFNQc1EL_c-l6Yp3JtaZEqrIlGK2-ve15dtwyj9NOLvEqFpf3YNKyzhKrjCusaYrC5wkCYXcA0dQuF6K5ceEyaY-IZCFPIU6gSzDH9FGPe-jJcFHL3frO3lpX1pqirwnjWLskmYFa-IyLIVnjNkiF7UqJEInUUsSu5HcBeKqnVAwTUmCB8YvMKmR20cyvWqMNfeItWS95U2St3sBRPClpFYwMauBYfg",
+      "width": 3680,
+      "height": 2456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107185379582125253981\">Brother Marcus Borough</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c11RXGYbi9JAUzDOz3K0dRFfvW6xWzGy7ObRcah3UH-zZuSyBV6Iv-iW3J0iSpvmlYT1SM5-QOdkh-vhlk356Ov2O54Qm3XPJK3RxgDg8nTf-zmBsL6I9SbPdTb82EyqOLR0w5vgAvX-sqhlfJnChcUG0sLbe24Q6hZrxnNudwso_zT7QZNGvi9tNgj1GRnDWMRNxPNt0RF7rcyu09wVCNkEsaTrot5Ka2kyqHrjcBk0t7dLycV57wb1C8rdf7NrY2tnpoYIY6tBBJCokEQ8epum5R2LUsQuVciD8EmZn9v6A-tu_Ih1oU8aqbZ-t9XIRjnjSnk1q9CGCSicCJaExFk4Yp1ewzgBose6vdJ3ERj2kzQlqeu0htDdv2btjlITimRreIZa7aOXOFDghcYM7Sk4zGlSXUmd5zjAUtZ4tfptiq1c_DLZzOEzu3rA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103660444566472710582\">bethany oates</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eF-y-PFzgF9uXAmNg0rG5NvLCS_K-qOqNTfv6sZcjYsYai16d6cFz2eAWYx_NdD_sxzpieIdmcxKh0BPR9PiV0g5CXK6rvXs589xvh4YWPdAslBOH3dkhO5n8T_snRzLGnHEGviSnoADOgOm5O_CZW_JJX-JtewFwflQ1_tcVZA4Q1SJdKo0n_QS1-C_h9fIHOqQ0dWiAX_WKWyyGR2bjqhWRogx-SH6fEKbXM4DKoLGMR45b8VOMFQEk2xmYa8OdZGF_UHfabPa6LKWPqjr8DQVOdptE-xD94G9joL0R_Rw",
+      "width": 3302,
+      "height": 2202,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107185379582125253981\">Brother Marcus Borough</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cMscH7WvUzwbVPpjUQb8jAJGUUg1mzIQv96bRQzWUht-j3RcUtiQBZzw1IYvNM-6Abptw1d-Vd_hnv8vbNRrn5Zd8Lwp2r06fp3jH3dtct986xRw_yHcPHbOg52ZyJM6pZi8Yhax0SVjsbjW3jKkw8MNL8dnbXFGcv9l7Bf7C3-HCKK1gYrXyopivcGFKg_dFknavzIgtxKy_RuwhI76qtJ4hbqxGcnKOrH5tua9iy4ta2KiOEcOFDvjiPWtNx6RhNq4Kn4z3vmOFW1ntePm1uypij49-hNuIo3jhxgproJplEHH-uabH2RrfjofD2JOk4SFrGziIPloto9bXlf22pb78AXNSEeZvDRvunNZ58xbdDKJIk18mxmZhDlkYJ_K_oDyFNbbicQpgsOovMCdDimBTKN8yZw4WvFbfuMCc3JfKQxJ1r3GDlnFYqCd3H",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107650349308004977867\">J Z</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eU1Go9h_MLhdqyhwMNSGVwvxfnAFLjMST_CA1Gm2wGr7_jBdUKwhxtoAZr106_zOuetmThVUPMforMlpdmbgkMgk8mEwQrVoRZNTwSIIAMnLjwbs9vptQLldf61LBcOoIwGRIIilM63GrJkElS40f3oIw9sMJumAudziEx7H0F5gjMzZuoNy7_4qUccQYNqG5xdNBhclmaVpe_LLMiDtP6hZWRAmJQW96r6y0qWeLgSguRaVza4W-ekSYYkA22iVFHi3PEZ28hmi8NBH1k1_99N_vLkAiSPWdq_FOJXN2w0N3o0M2damsR_U1Mkl0uz_f4F2eI0B6PJIlISyweSUBnCiHpggNYygsg0BsKFJQhEVewqM6ulHJBpXvgqSQriPeGFSGQtFZkBkFnVHSve1xzv4HyqE75ddtPquVgPZLegqmOSG8mZb48b5C8nVZk",
+      "width": 1572,
+      "height": 1180,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103388234098622245437\">Deniz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fdGXFynA-CXMcF6DZ3UB1sqktXV03aeC7bWp7Wq5Rt_8geJ-smeXYv5SJZDZlmd7HOKuPYLELnx4_MTHqUnkgLrXjLWNdpTfLPay0tvGSdK01Cnf4Cl_ToJ0T-HddvhUigRC-2LTO7FBNrzlY_NHkQpojP6m5xXkxyhwyHkbQ0MywZEqR87f6YDDlAYKxajYBwTLTUoZkp-b_fU1jEvw1OKF05kUcHfyh00Un6g7H-l6ThBD0uj-Gf6IMwM3zr9vlHINdcfvnidKgcJDU45wYfVXyCHNodWr9sBu-Yo9w5zw",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107185379582125253981\">Brother Marcus Borough</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cHz2a30Uo183ZKX5u1_zL5jMySQJA6mlJKI7eyppG1aXziBz90yD3X8TyPcsob6iZQPI5GtH-Is-K58gwkFpLT5p0AsUgVX2VSn1ge9eAwD8OJ6SzdC2paQfexbkFH9OH0DVFgi2_V9lBlJNOC_NM9alH-RtXehNH2r0jmJLRQOBSNYFexRAjsPLiEsctPRm6K8ySpufQc4Kiulubsk-sbmJGQL5Oatnf-Le0AsqMB6mWkPYzyB-shvjBEfU7f7Sr6YqtNFIVpH70QoPyTE5QBwnUPLHexR8V00aMnqMR_YTsKtPp5Nn3sUOWbh32HAHkMpiB-6nWVAdVk0iNF5XveWikgY-hY075D8fAHK98SDYnqJJTm_MiYQFziYra1XyuFoO_lf6L63BmHpPWrsxANkrxZGL0V4SwMVLttu0gjF3Pzfwa5_ipkws5u9lQe",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100767104286794688655\">Rich Higgins</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2clNEpZFPOsLHWHW7TkTUn86u7RXG3OqNWSOdwBcyu22i25rVllq1HWBqCvHQpR52RxAw1O0wCbczaYVN2bQWUETJt8aZfNAMxA6n2Koxq-k6S5OzVRWZWjE48zMQedLcofLxbHxo7JCmviSndMAM-OKLqNXcDhJhJjQye4s9UYo012fziX9_LKh98VCN_1-iWblLA-WiMz7Obyj_xOklsAPw9LUYs-iOtpAd_EhOR5KeeQfNDE6OalowpDA33R580IbGX-5Vfe6vJwuyfNzMxphu01ZuNERtimcL5-I_F5WoftSX_pvui_hFTARgvRKsKKCWKeli5GtuSoqy_40-n2yV8pnrNafYsT9kyRR_3Xv8jnYESstuewmanjltYiakAzTHA-vxriyMSzY2kAJuAWQz-CX3_mpPe8fZJvQuR_Cun_",
+      "width": 1080,
+      "height": 914,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106230273404384812107\">Mark Barrs</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e2C5lhr-RftSu2FMF1DA0_WRYUZszknQLtbMytvQix_5lZH5ZWFwMxgjNnMUQNXFy1GYb8UAFMZ9K06dcTPSFCOpq2798-aeAqv77rVdKV4L-kgZa8g_bPicX_n3WrFiw-YFr_CB3-mUxBYhox8bFQFzRN2hL78b52QueRnT3IztDzxkzyIsD9DgxKB-CtbJWBtz8RXb8JZBuAxV6ghZsJoBFqcULvsDJYxyJ_iH-N1DplnfZDaliDLv19FIC2_JjrmipQ67QySbxMA-L_51Yfc5IEwIoPlLoEQ4CQbJBpd-awhxJM582psKQaf2iH2QvDT0_FDciQtWfbhzut3u_ao14u5keqsyb0-32QBWaHkZSO-VWAnqwky6Ztw7cvE1prqq_0EC0jcdZOHNqB-YAtjDCADtlwtQkv2h-710H6urGv8eQGfvPc-S1sKaOr",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115741263700803408353\">Michaela Pappas</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHN1tkTuKKSblu5I3ujitGz2Ni5AiFmkmfZ7uXgga6agba67nohkrawuPVNLlVyujb4faq97buLBqBkaCzw1OMudJ3WZMSohuPhcR9rst9rBHc-DGuFHk_HV1D1UzevwrjsfvPnyFGmAX26NDQmmSeqPC0cV3LOxgTJPLVsmPpcdeQk7a66LOnDQkgqRjdqVzPkhuOQq5KIsbY3nQw5Y7T3Hjt0_wK7ZPetsdLgA2DkSb7iErAzab8tkEeTK26IcScWDvxfVMG53UPu9-8KxFPjkyDpPgEDcRJsiVk3L3Fce7HF7KzYDBHkz3_SSU2yXKOZbFQdH-g5dCvk5-qlhjGnB5e0d348mxmLlARHJeklt3TsIVtM49MoI8nB7uWOADLYDbrjYY3OdAs2Ma5jNbDk4e6w5XKtzof8gAYwvtStFcJ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114454615148126432568\">Katy “KTG” Griffith</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Daryl Yeoman",
+      "rating": 5,
+      "text": "Came a few weeks back for an anniversary dinner. Absolutely outstanding food and service, thoroughly looked after. We sat outside and it's perfect for a cool evening in the late summer. Drinks menu was extensive and we'll definitely be back. Also thought it was incredible value for money we were totally stuffed for £50pp and had 2 drinks each.",
+      "time": 1759422420,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Jen Chan",
+      "rating": 5,
+      "text": "After walking one round in Borough with not many places to sit for a meal, we headed towards Brother Marcus that is also pet friendly.\n\nAlfresco dining was beautiful and the food is delicately made. They use very fresh ingredients and you get a taste of Mediterranean.\n\nThe pita and hummus dip was a delight to begin the meal with the pan fried bream and prawn pasta.  The pasta was well\nMade. Maybe even hand made.\n\nWe had two lovely desserts",
+      "time": 1758116095,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Truc Tran",
+      "rating": 5,
+      "text": "Amazing food and service. This is my second visit to Brother Marcus. The chicken was cooked to perfection, moist, flavourful and not dry. The fluffy pita bread is incredible. It was a summer evening so everyone sat outside and it was a vibe. The service was great and they know the food menu well. Phil who served our table was a super star, polite, caring and attentive. I will come back.",
+      "time": 1751126582,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Cindy Saetern",
+      "rating": 5,
+      "text": "Shah's an amazing server! Very attentive and explained the menu in great detail. My friend had  a few food allergies and the staff went above and beyond to accommodate.\n\nThe food was delicious and I can't wait to come back! The best dinner I've had in a long while 😊",
+      "time": 1754945926,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Leah Z",
+      "rating": 4,
+      "text": "If you’re wandering through Borough Market and need a place to park yourself with good food and good vibes, this spot has you covered. The atmosphere is effortlessly chill — the kind of place where time slows down and you forget you only “popped in for a quick bite.” Pro tip: book ahead unless you enjoy the thrill of disappointment.\nHere’s the twist: the vegetables here totally upstage the meat. The broccoli and aubergine skewers? Stars of the show. Order them or regret it later. The halloumi with honey is a dreamy little number for those who like their savoury with a side of sweet. As for the calamari… it’s fine, but no standing ovations. We also ordered chicken but I didn’t find it special.\n\nFlavour-wise, they deliver. Price-wise… well, your wallet might raise an eyebrow. Still, if you want a market-side feast where veggies take the crown, this is your spot.",
+      "time": 1754771270,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:32.170Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJST09sxMDdkgROwVZQizAacI"
+}

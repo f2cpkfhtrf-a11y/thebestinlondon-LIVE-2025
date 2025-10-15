@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJyVvsH-AEdkgRGcXLKqKrmJA",
+  "name": "Kazan Restaurant",
+  "formatted_address": "93-94 Wilton Rd, Pimlico, London SW1V 1DW, UK",
+  "vicinity": "93-94 Wilton Rd, London",
+  "rating": 4.5,
+  "user_ratings_total": 1517,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.4926778,
+      "lng": -0.1405889
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4940507802915,
+        "lng": -0.139199169708498
+      },
+      "southwest": {
+        "lat": 51.4913528197085,
+        "lng": -0.141897130291502
+      }
+    }
+  },
+  "lat": 51.4926778,
+  "lng": -0.1405889,
+  "formatted_phone_number": "020 7233 7100",
+  "international_phone_number": "+44 20 7233 7100",
+  "website": "https://www.kazan-restaurant.com/",
+  "url": "https://maps.google.com/?cid=10419266450912691481",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d22iA86TJVFxghfq-wuJ624vUmmaD9IVCuDdDc7P3kj7_vLN9o2tuAqr-SqC9slY3mxG_jZiUB9QAyr9Jq0uU1xo3PJIADqefVGWIGC96ApYRtQbGx-Q7hBJd7yA7PERKPZHQtJwNHKPFIEp5JqrlQVnmHootPoz5QXhuqEBkNfaUFrg9o-MhGSKzBixWV5vxw8__CTkWVqChPYxWD7q8ZuTwri919zNxC_W8ZYrzjxJesuaqbmK6aFHOFqRy_VXCesWNBecahDfJzka8nrHcuwFICpEkYf_jsJzCmBc5POluByHsIFmp1nZFq7kseHQGprRxP363bi24VLc49Wa1RJ-T2bRSHXUeZAaxr2_Y771vY8BhacgP1PKNJ0iPQmT-sqJOIm9TyrT07pLQZxYWVPbcogUPYQsxxgJOjZRQ",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101337800212881693506\">Christopher Griffin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dBMcmOd1c2rDGoVijpAZznNUHp4TimOjp1Cfp_YKMCfNH4u36xWT_3No36u4bTYR2MO2P9WibJ4kPwl66RN-Z9p7nwHM2WmQrkelfrNAtro8miA8pe7lK993HyxU1-XOEsMElNuO4FmD_uKk4-qtRmXoMoq4qpAk7VaLqefJRDmQ0dHelfKUu4Doi7L7XJVzd9iTYClZFt1ezA3Z80eu5IKVduafMMJHPvRgPUksWCQ7jaKclvaPNE85vm3vuE12aEjK8lz-I5XUgPXH5X7AC4TSwboUaMPY1Pn0DFdisU2m-qoYK6sUDTutTwoQbvpw46gHVof9mXxD1cv5eD_n8nlhPbR05nROCvnSMn7AqGYrW6W0mEjRZDaIcuZhqpOqaw4ZnRIZ3EJ5UY8kXxjIurpDzazj0-09yfWHUD_YjfsA8",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115969852999048724481\">Diego Toledo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eF7sKiwG6seEOxqoymRn9ZzUDxtUqqOf2l-Ze6BHtZ7vBMpO-Szee-605gDOGlGygsGcVKeoR0Vn1VbjajkiW_itvhYkcd5nxhlGZy0usw8FNA5e5kq6AMA0FBiJmIsPZNeTbeX4lo1nU88tYiNWNnvfx7AXJK-wDUdQFT-o43DD71d1oKzn5Eyi2aiNw6Oev2IRYbeqcTI8diWFMG_hIzBRv6fjmrk-vqmv1v8rQbWMkz-QrNC5lMfhfHaVsh9DFuE1uJFMi4Ev6G19GwH-ogTUpgIacDccPutwu2ymxvh9ZdkW_zld0J0BbgO_kjAVOjwIk8DVDp6ggsCUQvHLxXVNG-Ivw0RLqrQwWZSOPy5b52f0Hvg8y6ZnvhOja41hhOn5KwVGMy1Cf6SUNwhB94L_h7PjsVGgU2AvEPFOLZjAax8UYIfTe0rMeLcwRf",
+      "width": 4031,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104711395411686603822\">MetroCyc</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eY8gHWtnUujUa5t4dBVi8n27fiZhhmMkdx9zacDxlTUa4hh_9GwnjR2spygWjl3G71ZX6rGMV9dZOKJMriP4NoniNr17kezYRr5qdKsCesw306kQdCrPLWgE-XXH26ObPzgvALJvMBLUGEZg4Ml1LnZLKEzJ0aQfwpcJghfi5iqVTKeW2w_ie2WOXeU_ic7Zq7rYq2qLI76wsdTjBqFKabnso2oYlq9xPS4fxyQQC-jeUSM6iLRWkulTapqepvj_-NWQuGSh2da7J3v1ylRUBLXkzISpfKP0P8tjD4Kjj0JpkBp57-v88P6t4T1drvx2qUUSTMNL04Cmi9MlFMClkvef127V8Ck3tir3aQMNTP-kq5JThpgjsljmDMVTgW-CLdMZuKKKvRx0J_In56SObl8i93_-XjrgafxTz-mZaRTrXALySnpSAzXhtY3797",
+      "width": 4192,
+      "height": 3144,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103083582119389320388\">Charlie Wilson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c4HIzGWP0QMG--fDr_C74ssUmVSQwDFKBnp1cWrjXmNuXuq3gBWF_ZTurk7jzyyfG_BmW_dBeEwCP7Ny_s93uuIPegQHmqumhu4VZ2jnPM2Ftx7RMBo9_OUprh1FdVuG3QWYa2TUbmdbkp8RHevgYzdnaLS_CSgOqMSab2rJezHo32_0K1pYnqbJDe0vn86LpWvUgF8SEzWel5CN-NB76yUCdtRLFJYlU3hI07oELnMblL1VLz4xLnz-y2xglodcBvInweveiBSGEDd6agqePMfRzDt9o97MjxgPoWoJaBI6PNWsiaUBIc3gNOfDYhiOnL4MvGMvPF2_mwunbWWD5dE9r82Up0xoBWzWlzLR73fqfXlGK60tsqDLsQ2zfuraTqF8FT1D1cKIxCrrpbBmTq8ijhoKBXw7yjAW9Bydwj3co",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115334489380800776775\">GZ Arg</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dU2WKwiStf34Za0H1Cy5varkqrloX__l86SJQsj9LwaEKvacNgWPdVYu44zoiCbDTDfYrJv59CjOzj39Zwh_-wcDGHSPuz57sF7ZO1rEQNJnlHVzqTGS20bKp-RCtTQtfTQ-VIWSt9vr_cgqpu2cJSNZosAg1zU-CDqThZBy5Q8J_x8AazFSKuctkFebibtejcOC_03WXnJtapKLZHQuxhHEzWaf2KQKcVBuIWfyK8ihiEsyzBRnSx_PxnfjQ2SH6CxqCIV9llWmnBFkEBErKzghlFcnvXDki6ozsVDXti29OlxEKUNZq5JZlQ2NhZvCXqQmZ_Eix4PSklh_zuAhW0qszB4ieMa35IA2W4kenqZOE_jEVXQ1YChIY-nj0HArukjApUyAv1a7ZnEvuNLIvyuO2Er1JiD6W3hImc7YmTCcuD",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106011338723987695786\">N M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYib5MJQv7i18ogMVanH-IEM1FLEeaaPzyZMh0BwsAcU_ZrbepTeA1oriPw0IG6apG92v66xb7gi0APjbxEGKmjuyCbDcj1dmcMnwvRTJuDF39Z1Dnbyf4zLq3PCjgYf0W-5Bkpv1MhB0ov5dcWthBBJyne6vsq2YbX3uzwybN9NYy8R1PyJ-mRsUZIJVE0s02A8AXL7BADYexdbxKNN6BlyIz8iJgUz5364tTItcF29e8IJ-JD45ZEuZu0s8-HvExyka_HDh9adVKdkIqaCAugqYlPaXV3TAb78JspJhBpfK__RSd6QLiNE8wTo4zYG5uKFefQxz6EwphlFRHpmejIZBzBQXgGGoteT6au4Ya-SuYIlUd_zqe8p1DRyIM9jUKexxl2U72t1Gc2xacAl3uZb6hflwl5YkDs0g2RShNug",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115288639636050005526\">Nina Beilby</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2diKWi9VNU3Y97Y2F6MRELJIbS4N8vPfBhiE3uBrBrIfvJg2LT2kJuYRvopKRhHHDp0T739wInvcxJTvf_Kw3EYhzW4OtjoTpueH8NWdnZo_aK2DpDyBteiPfrTV_8GR66LU0K4zn3nzcNNDu25n7ZeJHYEy0uFw_r6injsOqtCzv_hOxoFCW08dYb2jvDCNi6Fsp0dLrcnDtB-Zg5CzTWECBm_3GzXXbNMUYOlyOllbrW3ZkijeBpSWg0gblE__s39H5AHO-42p2W9Y-qyBbeKXBxJrnSjkP2D4GfBnKDT-LNd-WtO8HvWCMK_OPvsxAu7TAwtmWPUzf8_45QxvlvEvxjwRc9m2HSyGnfTlw8bYW6byL4IXPCWlWuwJ3OrmwPKNhxYnjBoq1jSRJ9YqiLJq3y53nV1xdJ6KBkFSArTMw",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112303113405703260812\">John Schofield</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dehdDRr8XC5ZWFhmYpRcMCn0l20vqy-beGo6Ui6NoWF2jMS8_Ww5IkkO6fQgMLavEzE-DNUYqHU_oLDtCTpgX76M6L3xEMN3_p7WWhx6-oOmi0DV3UHMWUG_0o2p1qe0nrB8ckcPFSk0RU78BJINc8ENYhxXkTq8sFaNcsE295lIfxwLkjeVXcuII-8MUghroo859ygbGzK-V_YBQ9kYkamRwGpeBmnZPWcZokEAPr-i_7W86A1k_oaKgonQ2shnCkdHV3deSjjbcDU9zXeziHi3aFmkLKvc0CspaWuNgdFPL1B0cEjcZnSHpaf_jWSoUnQnLQ2WkRHsXSNbmogPXFUOj6i60IJE6X520oMabEXWyNyNP94UFjEMAiZAxOS5JlBkAIgIEpA83gJdNl4RAGXjwe45cBMNm55tfp5pvn6BLb",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102906084482904695579\">Sunaina N</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fKXZTr6cjAjosQAOyFeTWcovhcwcx5MPMHkDhUKjqFMr2t6qgJ2XqeF-gvy_WDK6K5jWY-sYNV4PLpddhTvWq_DhcF5UzdtV0GCiGSZatcw0S4ZRBQ27f7uT5yNvWGzxTjJSTEWouP__ehwMEfJdwhyjjJ_387WCG0JyHaY9NwUTzTeR3PG2-9p0pClnTJ6b04IXXNgLuvHN2bjXtdKesSt2dXEHLXrqXNyz2aKd59U2oXMl16P-NT9qiPKMlwvUZlzaQY7VVpht29ONyhOLrm_Dkd0Df_IMCqFN6zX7scdKRw3xh-3exlc2COF97vw2rcZ-NZ8vPh0DsHvFjhI8f4bimCdtSfnnF-tuqghaOc3NGMJNA3gOo3B4Fp-GFyg0nedsqJ3irDKlHs4TKgbqezNTIDs1R_6_QU4NNwPSK5ONw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110396015015097621625\">kemooo1979</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Contemporary takes on Ottoman-influenced dishes in smart dining room with traditional touches.",
+  "reviews": [
+    {
+      "author_name": "MetroCyc",
+      "rating": 5,
+      "text": "Really good, eat here!\n\nAmazing food, large selection. Staff were exceptionally professional and welcoming. We were a group of 8 with no reservation and they handled our visit perfectly.",
+      "time": 1759447002,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Selen Ardic",
+      "rating": 5,
+      "text": "Impressive representation of traditional Ottoman cuisine. They haven't changed in quality over the years. Red meat dishes - hünkar beğendi and şiş kebab are impressive.\n\nThe treats they've brought tasted excellent - ezme salad and olives!!🫒\n\nPretty good employee retainment as well. Great job overall.",
+      "time": 1760138351,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Khaled Miah",
+      "rating": 3,
+      "text": "I was around Victoria are so decided to give this restaurant a try. We were seated straight away upon entering the restaurant. Menu given and drinks order taken.\n\nThe restaurant has good decor and it felt nice and calm. There were a lot of tourists which is no surprise due to the location of the restaurant.\n\nI ordered lychee sparking mojito. It was awful. It had no sparkle I'm afraid. Anyway the sparkling water was great.\n\nThey gave complimentary warm bread with some sauces. That is standard across all Turkish Cuisine.\n\nFood itself was OK. The chicken was good. The fries were fantastic. Unfortunately the lamb was very salty.\n\nService was OK but could be better.",
+      "time": 1746096165,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Charlie Wilson",
+      "rating": 5,
+      "text": "I was in London and looking for a good restaurant. I checked tripadvisor and they recommended this place so I cycled over from London Bridge. The restaurant is very nice, and I was quickly seated.\n\nTwo of the staff that attended to me, Hamza and Anushri, were very helpful. They gave me their recommendations and talked me through the menu and their choices were lovely.\n\nThe starter mezze of dips was very nice, some of the best I have had. The sauces were obviously freshly made and complimented the complimentary bread very nicely.\n\nThe main Ottoman Special was nice as well, it was a nice platter of meats with rice and salad. I have had slightly nicer meats from Turkish restaurants in the UK, however they are hard to find, and this is probably the best option if you are in central London.\n\nThe prices were alright considering the location, and generally the price of Turkish food is higher in the UK. I would defiantly recommend coming here for a meal!",
+      "time": 1758226490,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Cristian George",
+      "rating": 5,
+      "text": "Every time I visit London, I go to dine to this restaurant. The food is consistently excellent from starters to dessert.\nThe staff is very attentive, profesional and friendly which makes the experience truly enjoyable.\nThis remains my favourite place, highly appreciate the quality and service.\nI enjoy every visit and keep up the excellent work!",
+      "time": 1759095123,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:42.033Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVvsH-AEdkgRGcXLKqKrmJA"
+}

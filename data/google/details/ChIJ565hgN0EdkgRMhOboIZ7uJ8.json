@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJ565hgN0EdkgRMhOboIZ7uJ8",
+  "name": "Regency Cafe",
+  "formatted_address": "17-19 Regency St, London SW1P 4BY, UK",
+  "vicinity": "Norfolk House, 17-19 Regency St, London",
+  "rating": 4.7,
+  "user_ratings_total": 4433,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.4937725,
+      "lng": -0.132194
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4952082302915,
+        "lng": -0.130913719708498
+      },
+      "southwest": {
+        "lat": 51.4925102697085,
+        "lng": -0.133611680291502
+      }
+    }
+  },
+  "lat": 51.4937725,
+  "lng": -0.132194,
+  "formatted_phone_number": "020 7821 6596",
+  "international_phone_number": "+44 20 7821 6596",
+  "website": null,
+  "url": "https://maps.google.com/?cid=11509084665895654194",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 2:15 PM",
+      "Tuesday: 7:00 AM – 2:15 PM",
+      "Wednesday: 7:00 AM – 2:15 PM",
+      "Thursday: 7:00 AM – 2:15 PM",
+      "Friday: 7:00 AM – 2:15 PM",
+      "Saturday: 7:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1415"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1415"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1415"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1415"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1415"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2c7gXaA4woO2AoZjDYiGaIbqKPQzDGcEgD64ySBn-kyuHpon3wf-1JBehDKya7wP_bU7mYgRc9-m63YrZL_01jD_GyJGwnipL76-EOaq3HJZ45KE-KkySrLLXVbBpaKzigsWzYlsXzyl4azTKUi7ZO8uLULVBFYWyca7reMw3SXB2dkErmTeRBQ8BGbcMtQiB_dWBIrQorNoU02vUKhJEgXMVgDPdcGfZyLMYwVQPUnieQYaOS1CmWmkP5qPwnBRWXIeM_y_4gc45NbHIFv7gWFgJOsrOvlq6jCDwBguKRrb7ysQ7KQpgrkssUdkq906iQIAl_xq8LQAvxXXHAihHHmxqMUQICUqMfhVpAAjHLJHrwLencDOn9hYzNTvyg92yhw4bWVbW37_SCaztI6ozhQqPJMyP0skdpWA0FUH9HL-mn0YmsPh3ZwLsh6KqFu",
+      "width": 1080,
+      "height": 812,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116193117378077637073\">Leo Mert</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHwAsZBsCBmpYJDU6-cLb0ZAvfh1sCIr_iCdHQ5Vca7uVGM88OUokyxCcuGV7rmQ7GmamjWE0KGL_aJ8EpoBrs28mJdM3SrWVbiWv37N_4XR_RebR-8AzBkdsEbrA3dCzqrmpotZZgnlL9FU0QoAltlGiEX0gYn3U_kRrFTqIfOGwNxyS8OueB-tsTTK7Frvz2ohce5Tc-8hmkHClOwtvJL7lBTWFcAAvEolIVTmrT8OglaJGJEsAgSA80-gKlrBNYIUMOu47-7XSLL9acar2H-NnymfwsF7oeDADwLARzOOQEO43akSVWQ7gVYVBi-a8j8fD43WVttBBCXi1VtkfKsNj-px6aMK6Zn15jZ0TCouPnHpT9Dc0R5GcIieT8W-4m3NAQNLjiul1e5TThM8Tm4tuenMAbXPX9qoyrM8LxLwAdkJpEKHjn6-WcLA",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117635781178751262329\">Dinesh Nair</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dAgMt-Tdb8kQBpTwRQzinmxqSSMevWKvCIR875Z1wkQXFyG0huC6gDILfSTWh0gE4TpKL4ITD85qNTU7cMonm033f9TV-46CZo0zdGqzAOVgQMM8yDXzy0um0S-TxTEFuelmo8Rss3hdgVkW8ZK0Q7lWrvn6clhtSUI_P00RPvhwGJfQiov5oOOQwVJZoD8uJ7vAMahxntYODNnGCJu-WCehVrK9pWlnbs5fNmpdNKRmdR-iXwukC7BTDotIqoyreQAfOmNM1E34JH7BLMkfpBoVQRqvvNAiEv3oWzhpKzq-asUcLcDV9T8Xz7mNbkHT1Yv0JHVSvLhwH5NXhnyMqHuIXvC7qszVFHFWrSq2T8igRxmDRh8bQjn6aGklOiYTmVFj_CqbzqM-vQnZTqNYQjlHuyigGpATBoZRiZ0eWntIVQU8Tm3f_nDq0sDCnM",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100819375870364176319\">Carter Spearry</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dpVhCa8sMXvyliD8fSGcTDthRKDe5iWMAHnx5e0qz1TwYzjjuguGbXCjsCMZ_59DaKjM2KULyJx3sUbgMxViHiB_GdQwl8abDsgkwwwblUoSS0033g2vHav9dbjUTNI9KxVVQbOKnLzOKjPgqrPlzl4U6JTTmUVL_wWg5EnUw4u8a33i1-UsZFkzD_sB_bUIziyHSgbtbROEzZVFHpkx5P-Br3u3JCz3U_o4qObYFxubzkSN1A-MwdNsVKu2mMYAY1HfATa9przuqMfRmwC4r0VGkDF-6-E8Pxqlwh-X5mZxumSruSIYnCJ4jbionPVgIVDdOKQdbDW2hulFueGOGc-My1b-bIQ_PYlz1_SfH9nWNRqgeQJuCcoVX0nYXArE8A09iTN1_G9QIHjQqh1xJUok7l6mRtc2eueuIQIzB84g",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114066791350588696371\">Cloe Flint</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fA3jBJH8QJPPRBJHA7ABtIa5q6tHSWO_Shog6DL_CyuRUcpN3-JQAxRgk8geIcAV-od7r-9rEq_Q5OmzMDSH60QoqEbGw9_ZaKy-4EZ7dhugeGEm6zyPLarzEAd9ebMs7rsbT7ZQEiGuzMNN3Uq5jxGGLob6B5eCBdr1cnoZd7o72sBoAYvPkhgfCUSC7e_CIpBlWttpZQwZ95dRR5C7sYkvNPfux_ZKGC2TyZQ8XAvVDinHMzeX0XSbJ0P8AoU1XRlPef4_Tv6Io2Fu0zeEkK5RyrcDy4MpqxnlUN1Fop1-_UGi4CUfvBeX0gj53jogUiq5uCxY1bXLDaFkMLBeLH2rNsSveNDnkj0ucfcYBNQ2SO0N1xfWG1yPHd_ar7u3tCfi165P1q6Vs8spYTOCv4zVMWyGSxUIDWY6H01RiLu97AaBRcuPUFHnf-39FC",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115804774390050258959\">Rob Hall</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e5-_LQRTag-PDrA5G5wTlKvKU8-OD07JjEP3zIKU1I9rWjdjOYXQ0_6p32S5GqHa8RJjislb3bu-nsc353RbFmo6WZVknkygiG5t90t7Au_KA-72WdUUWIWpaXk4v1ZB0-zWt_0ajmPRydHoG24T57UP6Ssh6BQQcGlYjEI0MlVxIumheFn3eW6nFyrpA9f-QzhngQkolWP2LHoq-l9qF-AJ6h4eJnZLzk5ync30So0JgH2kgzYxjM9u0MaQV-o3aYFn1XxrBR-Fts7fHgKkO8EPzEfQyZ01oq0ZfEfAshmGBN_rU2vZmIwHIrnWZhhKGQz7JdAwJyZLMC97zJu22ACP-qFvyP_oM5di8x7h_yXX4SnWW7Yi9bXaTDTREOzVDTvNiLsFMNNR5zIfZec1TSYQH94ddyOItv47RNu9S9Ow",
+      "width": 4080,
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116786645035023025479\">Chris Sykes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eJOj20uNsYvhCdJ75AZ6o3nfpv5GDKrfOr-qEoViXVRlkD6PNlYsme6mXi1dC7yKJdvnIkKkmuPsGnSLDyxrVSx2fB9GHN1CEt1TjZ_xxIhyMrpIaV02qt39XotZ0x0VK0FykxlbE9cOSlQ4UnhbW66yJm_xFrNZ0mGnS1J_hYhFgufxmNSGgcv1UW76mxEve3rxsenwjAOGL-cywcx9raKGg1Orphf2yPUOXXbdLHUqPSOSK8R49sRzuOCP974STdohk6ZTnmfO05OJg4T6LuWsx4osX3MJVXog5iCi1D2QaI5LNUaDmB7ZSzY_c3P9Ix-GtMvB9_AVOoVo8Ir25wRC7xrh6ESU6cKrQ9y7jtb0Z8h_djADlb7pn7nAeqVyIGEE6-5vws8ZWo4Vrjho-16WcW5dQqt9UlPM2L9_FyDWNU",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112348384347448948036\">Maggie Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPg-LilrVM4TbzQLdUNv_7GWzzFa1v8G1FLF5mbae_RkLUppNhq66FHMIaiWJKZrmeDjh1_DpbAc0A8xwoN_nFpV5VoXagWTJxdcEHKXJ34TrhdxU6BAZ9EjTxqUU5RD0Apxcl01M32P8OCftyautpIGBTQKAC-NdXUSVTPv0SS-Q9gmBUmosW9291Fr4mIfHe9WpMAGHqb4Cpi1PCPLtDZsngvP676dls8PtPWLOIhv56EW9n3p5auZfYKYqFK5W0Co0aJX6AHE94rUJgk_6aftrb40iDs27HBa7ERbO0qQFGTBV2jZI19WOv0iwuIJt5zDtmqgf7Bui8kT1Aeybije2IJGPmDGGk8UsnpFtHoOzOgIX7_HBSa1TIM6Tzpj1Y4fNXr88EaoAwm5vLu4zoj-VUk4gCkiRIpE_T93JR1Y0c",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112517447508725387622\">Joel Carranza</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dfF0s2r8DvrcsQmk129vD_pzGsSDgek7JOu0OQLFItd1iiKL_2jbA6G5TNGvYhKCdiJIjWSCY1gRhSBL6gKbtvwjjpPUPtEfzDAxP7b9WhM3j-bp9qJNfPTTdXcVxmIqNv15WYU8ZlM7ZI1xgvovN_9UXOgxc5L9JA9BJcoNUCrYa6WA2DIBdXGOcEjm8CrsVyg-OOPWTNY0U52wQhX677VS_vjaPcidRzd05btOn0GzlSCcralsRCORZqrfBIm2z_UQxdtGvUECGeCgrnoEw-ZmTt0jfIewugN_9gIMjj9aG7c2Z7tRY98kdQKbplCWaBbRT3PYSd3dEfnPYnyQhKxZMEqXl8JpIQCOTDT3rvFRNJJOR6EESD6hcNuaW-5dZWvjiYMQJ98lds99t7soD8ccWpG6TmZ5CDoo31C8Nvm9Q6oN_d7XvPy4hkcur3",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109545177618253427039\">Yaya Lin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dO4mIvHK5tyGRLs01VswjUJm6hSEHyn07XCqdGNy3denrRrMo1KXVZVmLq8lOnPIhnoQ6RBRx5-1BdbxqW5nwWjCQFJNDX6JYH6TYnyX3K4JitNA_jSD7YVX0AhpjqSPCtC8RTkgHFL5-rA9mg1_wye9jUiK-bGqo7hQaGjNHr07t80BUj79Y8ffsuka6eiqD-Bdu8ps_W_1M8qLmXdPmsxBQ2c1_fvOShf9LFjTaPCIkmukOjpIFx4YmIw00dOHmtzfHUeMXw_KfKN-HWTQDZ5WrsCq0xbj-Fcb6hLGIbUA_KnhD7i8-Osstr2zE5fyBMfuNEDSoohOiDIPBy13XkX5eyL_7w4HAk_F49f375wu_hAZ2PIoWSyoNWDOGx8wT95BqTWSy3XuaxCwwYJemGNBePj5HHcFpcKTZULx01ofLY",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117805508987561263501\">Gaspare Nicolini</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "No frills corner cafe with tiled exterior, for full English breakfasts and traditional British menu.",
+  "reviews": [
+    {
+      "author_name": "Celestina Onabajo",
+      "rating": 4,
+      "text": "Visited this breakfast cafe at the end of July 2025 while visiting London. I had never had a full english before and had always wanted to try it! I found this place on social media, so I decided to stop by with some friends.\n\nWe must have got in at a decent time as a line quickly formed behind us, stretching outside the building and down the sidewalk.\n\nSpent a little over £10, and got a decent amount of food. It was pretty good and fulfilled my expectations.\n\nThe establishment has a nice environment and the staff were also pretty friendly. Would recommend!",
+      "time": 1759897855,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "James T",
+      "rating": 5,
+      "text": "Very fast service and food was great. Got the full breakfast. The atmosphere, vibe is amazing, proper classic cafe. It gets busy very quick so recommend coming early to avoid disappointment. They also do takeout too",
+      "time": 1760169828,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Juthathat Kugasemrat",
+      "rating": 4,
+      "text": "Came here because of its reputation for serving the original English breakfast. The English breakfast and the omelet were great. However, the beef was not good. Generous portion and reasonable price. The ambience was classic but slightly limited space.",
+      "time": 1757942918,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Oldrey Leite",
+      "rating": 5,
+      "text": "Came here for a late breakfast and it didn’t disappoint. The line was long, about 30 minutes, but worth the wait. Classic British food and experience, though it has definitely become a trendy spot for Instagrammers despite the signs asking people not to take photos. The food was fantastic, service efficient, though some might find it a bit brusque. You order first and then wait for a table, a rule I wish more places followed.",
+      "time": 1756805517,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "phapaul wongmahapaul",
+      "rating": 5,
+      "text": "The food is I would say very nice,\ni tried the minute steak 🥩 . One dish is enough for me , they give you a huge portion.\nI sill try the Steakpie next time, they look incredible\n- be sure to check out some dish of the day as well\n- pastas look really nice.\n\nthe place is very nice, very well decorated and local casual. The lady at the cashier is very nice and all the staffs as well. I am bit surprised of how loud the voice the lady is when she announced the food when it is ready, I LOVE IT! she managed all the customers very well, very precise in every orders eventhough there were a lot of people and orders coming non-stop.\nShout out to the staffs who clean and made orders fast as well 🩷",
+      "time": 1749508348,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:16.073Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ565hgN0EdkgRMhOboIZ7uJ8"
+}

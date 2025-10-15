@@ -1,0 +1,273 @@
+{
+  "place_id": "ChIJ8WebmEAFdkgRfVyXqlUbgWk",
+  "name": "Patara Knightsbridge",
+  "formatted_address": "9 Beauchamp Pl, London SW3 1NQ, UK",
+  "vicinity": "9 Beauchamp Pl, London",
+  "rating": 4.8,
+  "user_ratings_total": 2286,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.4978728,
+      "lng": -0.1651429
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4991881302915,
+        "lng": -0.163850369708498
+      },
+      "southwest": {
+        "lat": 51.49649016970851,
+        "lng": -0.166548330291502
+      }
+    }
+  },
+  "lat": 51.4978728,
+  "lng": -0.1651429,
+  "formatted_phone_number": "020 7581 8820",
+  "international_phone_number": "+44 20 7581 8820",
+  "website": "https://www.pataralondon.com/",
+  "url": "https://maps.google.com/?cid=7602387700726324349",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dc0497v0hTCQn7yJBNnLJHEBaBN4PJkcnHVFH-qCJVzzgK_bRlutjTclXifPHTz5Fc8R7FnXPHG_dbv2h38Yog67cK5Oeb2fLH_h3_ji-R3zxRavljHmxaM4CQ3LW3DyasDAIYup4AvC5wMRLUqy4up-CjgzsltxlFB9oA1phR35OEa8gxQ9dtxTup3bvftpuRVTFsHVyKW8Rj5tOjXo81RxbXQwTSMydERekjh2vRF0UIuBoQCPlepLF29ha9R62OEbMgm4Lr3sQvoqZJytd9YyORm00pd_DfF3Z_--c",
+      "width": 1079,
+      "height": 718,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114059260445050882569\">Patara Knightsbridge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dDLgiYI5MFGxwvaNzZpMpHfMuVK1Sk5EQExZ-D0f62Tr-wc0FiY8F-bZ2ktz4B2oK_sidPxPV_LdFbVKmotHtuQ8sIEp8It34efba5q6C-usN1TazKyeaYSiLa_L4Lie4QmOhyZgFaTHH3SIfH2QJc6AOTe6VMtDvX91Yq9LwptFCY55PzNaxmPm4EU1tV8x0kplbKp4T4QYYDGNcV81g82s65YxVOBtqFHwzCAPbDLk5w-Sqo_HveepTT6LqIkDPIkgk57UHa280RNEKrDjfPfcXnpqCQ1d_JDDgKakU",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114059260445050882569\">Patara Knightsbridge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjhrSJ8HHCFKuVoN5TtQEHKBvRHo2RCeBOo6hj47wdB27qs2Kz31o2ID4XCYVpVeuwSrCP-JCaVwF0ttURRxeobc_rRlzwfQ3uBxl5CoO4VADn8Xqu3HOGN9tkXR3HSGcfcejH5EgDim2_wPCG4VLZIm1d0yEiscA5Jlzo0nRSFDpENVigoWxdEhwoqx5WPrYg_rTJnvpVxEKDhst9nOPlgm2mHtrlQ9UkHfAO-Uk5O4T0hy59PM9oT4opz6o7dAotvfRdQGm3tYpgiP8tfN9z0pYa5jMty0NONhJTF3xbm8LGFM4xSHZwYYBzu03TDw8wpI4i_5Uhj3jaktBQaUo2WxKkn3oO2Ds9VJWHv6Fq8NZAg0WAd4c6e1BGdi9SfgpojiSoPogmKvhZk3kbyn4NjpLg0iQMfp_y16aicgZypBIPlZFqaDn48lHF",
+      "width": 3840,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115390529911007987406\">Xiaoxuan Yu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ec-09ujhsHm34VvYtCS2ucWr1YJL84sPaJkWLbMYINGaIBvMjnZc0lqbVtm6U36k61BPhBy2Ixg9nuYkZgEhxf04a9xKuHUrl7F5j2vwR24LuTGQ98ME9KbHx1W19CQz2B9eapCJ5aap89bB001Zt3uo8z01DKYvwqh4VSK0uxVZkMDh5Mhx8mpNmNvyjGSAekZCeIXGxuxbNvNME5LU7Y_ayJVoF2ym5JGLlvrfI0cdd0UQP5edveYue3u3T4_BaZ3v1AdmeqMZIM2MQL1_YX-3ewHgfhMm56LU5aKbqXJCUzqxh50RYPalL5bK00JQ3-2rfXWdM3qYzNX5GZNsgOcrpMKAgV52POhLaSSkx8TMwaqadOvs9hnnNoSEotvMMvI_Q5dEnQ_Ya4ip77Uezl-LyjQZl-0iUonjCBpqecEZhr",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112132663075477363946\">Jinlu Liu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dD8F3bpOQ8MtDcea0YMMkT7GP7k-d1paS3-vj4mHSptmPIgebxE-5GqIWVP92hj1F5kBeirNx9KdcCGd4_3pPt35uWFdBnSOLN973mxGV27ztlf9pd-tYNTdnV_tMhFhFfD3DlbEfKTkJGs7zvyPahMkoMVtU9ZsB_kU_7-E_gyJpy3GwFtlCTSf3WBoumwluZwJRjk4BkR5LqOVsmnfaiiHYh75-0ZhAwuqxKWRn-Lq8fdLhOeN9PKCZqAywcS1w7gVfydLiFF4eCKuLyEck4QDd0V1MBIqaUOP0LvWQ7C5Dsl3SeVl5Y54_WxMgV3jQpFtILVl2J6WHJ7KjK6y2NFlbe_0Y8FFvn3BhTA81gCPvCyEvO0CponHZJGoPwfcBfe60TS8zI7UajQwaSd5yvZXsOLcQHq6MqcsOK1nXoQI-HTMR9is8ITwxMpplv",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108928066003916040676\">Brandon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fDoctqSoZbpa7Mv9fF4WemYJ8_G0rFjQc-EaxILzQBiwf6oAU1_cKNIU77Hb7NLDyCQdaAwFVRQMyqZFaj8dap69nDcigmFds0K3ekOSnWTYnRED6RTLWULEynzM7utVnz20obeL4dos8HuLGIiLuFXS3z9royOYnDlp5-KE9czCL3u_oFpeDQnS8FEUb5Elq_bemrp-u25mgoSOpBM0h7FtKm76Du7w4sMp9xddR3IPx5hJ0NQXO5ts8jnYsjztkeYM99EjGwD3kXNF8vNPrTO8UW6KcXWcEx-St8o658vdlFohll45MJSUvPn7VYwsXBDOQhrMYouM3pa7y8uE09LRj4j1tfT2rJK3_6TdgpjscB3f6WbwozHElWuF1TG7j0SFlduxvAzFP0s7M7d_ekPCiBYzaQcASVRNVdOKOlbQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104306879243234593538\">Gloria Gong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1PIp3YG2a9-b7iCTAg8vAAnE57Gasl1xOPXRFde8LgjjE8sCEeI688rh9L8qpsxsMDYXgijyhTRos4qmpLVqyUScl9a7O6-Dolq9KEkoR8GhJetXL8uCs4_69bRzK7FIZUJ0_HlHLtndmB8Au4pmqB201iHsjeA0OA-DWImRilGI1XeuC82JJA8JLI0F5JoRdmxjb3YQTalhRJrXFpcvCi-wfY_pqNhUjzfbezcbsiji13ri40NhM4w-DsAvzX_Jphqm1XSi7V9FMSxHMIO6Mr4nQ2eSUSKAuWe8EFaULOP0YMFO8neWeFcUYTjZ6YXVo-U0BX1u-G8zXfmAe9mdUyzoNSYK28RTKr04gzawv-9cS3U8VX63dK8d75R4l3VWE3gxVFQ2Dc1NMaSKZ5BfKUMPO7F1hGbdtv78cids",
+      "width": 4624,
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106391318212869617501\">Ket CFH</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cbpIETZt9OWOY55asweoCEBn6NqGJWzfg9mZkMGB11sYL6a_qNQFFh1Lw2a8zG1EPaJtPMDmtsO5uTAZCTlRZLyDx6xoePmBjuGBGnIObmXSPjqHO6aSbTlKquoLU82R-S_QIJW-tOkVNmzW4v1AQGoc3Fa2eV9HPxKO4BYqzXilaB-AxATzsZZ7vnaXh0GUpU-j6vRXcw65gqFOmKKP7IvM6y1b1fziPdJ69FT2t9mq40TpZrU3DY8phEPzr_ycUWlTWUAfUJIJjJxXaDWXBPau45JXi4VUfQQQbEqGmPCGnMFk5omB9FdaAZmch9MabW7E__y2CAjilEsXfOkMC2qDQKFJDCgNaMJydno922KER-NA6huN7OmiybYVdJfhFMU75NfEAxmWBbVimy_sVwGS2nLf8K4XRhSXJiohiOQw",
+      "width": 4030,
+      "height": 3022,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105507136135455845724\">paweena keep</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFsb48HwgjY_gyKVsxxIcx0DHevLxjd1dX8WElRP-KxmK9_6lxNe6Hlu3hKkQATHAvkuKoNRInhJDDUlyYBt4Sz4O7s0lmXHheYo6De3Txn88-oxGPYo_ppe5IzouoDIIneLyvfkl-_-lvG60Ockju_TKzaVu7SDAuUeBjQl_7oUbedYNz34R5XnHOQ8krZpYf5isy2wcU65Lb3wFck01GwWNe8exR25qRmbxfIwbuakPkxKDwqQL7kLSsbZwGG3P5STm5J0gu6V1CAKGXvVOk7uEP-FkIWl_dtOazU9txyNwBuVnA9QiIjWfamgWplB4vrUCiEZi5RWH3F_mCCZQniUhS1C2WKz_zdpUUn9d9KjJQsUox5QnS95wFVuUCP-kGXcR6i2NkR2I9EqLOxa5Jhzud95RGSnA4N6c81xoBlA",
+      "width": 1702,
+      "height": 1276,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101853324974406728719\">Yingran Lu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dC3x1I15vA2CZQcFwfhXAY19L-f7Ah5oBPD_yic7YzFfihdY-4Q4fNBfWzj-9EuO-5TZuIP6DzI5u24uSVO_UZWdwD9mfQiJqYQiI6Y0m3WNHA_rJOMIyfNZi-kScsjs52Ctzf5BQ11eZig8MA7KHdbDZduySFBCYBOWGY6vFdE5NOpiUJF1S2n5OHPcsAInPrkBsqzT1AFmbNaNqWFA0MvwbUX1tHxr15sRlz2hjHzUEo6OyQO2VMjxAqPrZUMPvDRIqmJoglJ9egbS-L71aSGYVsYkoV1IvMqun8RHaKHT2kNKVfH5c_Zmrm3wNyB70mhiXx4S64EHA-YjbLUSwttMnOABiCv1Lme4IYa-asXrSvFIgVtCRKTQD9W-q39EIj-knh1O30ZpZYDt8nr1PjeGvcvekraDdOeIHgamk",
+      "width": 2160,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114355309711923350778\">Xiaoxian Song</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Upscale venue with chic, sleek decor offering an innovative contemporary take on Thai cooking.",
+  "reviews": [
+    {
+      "author_name": "Alexander Balinski",
+      "rating": 5,
+      "text": "Absolutely incredible Thai food. Highly recommend the lamb massaman curry and wok fried noodles with beef. The Patara passion cocktail is also fantastic if you want to enjoy a nice refreshing beverage with your meal! We will definitely be back!",
+      "time": 1758912801,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Nicholas",
+      "rating": 5,
+      "text": "Excellent service and food!\nIt’s my second time dining here I really like the fried sea bass! You can tell the chef did a great job with his knife skills.\nHighly recommended! It’s close to Harrods so if you are craving some legit Asian cuisine, should definitely try them out!!",
+      "time": 1751678676,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "สุภัทรสร ขุนเเก้ว",
+      "rating": 5,
+      "text": "I came here for my husband’s birthday and we both had a wonderful meal! The food was sooooo tasty and all of the staff were great. I highly recommend Patara if you are looking for a Thai restaurant in London.!",
+      "time": 1749671729,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Emilia",
+      "rating": 5,
+      "text": "⭐⭐⭐⭐⭐ A Beautiful Dinner with My Husband at Patara\nMy husband and I had a wonderful dinner at Patara to celebrate a special evening. The atmosphere was romantic and refined, perfect for a couple’s night out. The food was outstanding—elegant, full of rich Thai flavors, and beautifully presented. We especially loved the grilled sea bass and the beef panang curry. The service was warm and attentive without being intrusive, and they made us feel truly welcome. It was the perfect setting to relax, connect, and enjoy an exceptional meal together. Highly recommended for a special night out!",
+      "time": 1749239528,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Khaled Miah",
+      "rating": 4,
+      "text": "Went to this fantastic restaurant last night. Went there with my wife. Upon entering the restaurant there was this foul smell of wet cloth. Anyway we were shown our table and menu given. We sat down and the smell was more intense. Basically smelly cloth was used to clean the tables. That smell was horrible.\n\nWe ordered our food from the menu. The beef and chicken is halal. The food came within 20mins. Service was excellent. The restaurant was nice and calm. It felt cosy.\n\nThe food was 5 stars. Everything we ordered tasted so good. Coming from holiday in Thailand very recently, I can say the food here is authentic. I will definitely come back here again.",
+      "time": 1745718906,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:38.830Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WebmEAFdkgRfVyXqlUbgWk"
+}

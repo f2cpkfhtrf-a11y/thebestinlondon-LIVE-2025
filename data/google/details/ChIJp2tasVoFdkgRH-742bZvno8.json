@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJp2tasVoFdkgRH-742bZvno8",
+  "name": "Formative Coffee",
+  "formatted_address": "4 Butler Pl, London SW1H 0QD, UK",
+  "vicinity": "4 Butler Pl, London",
+  "rating": 4.7,
+  "user_ratings_total": 852,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4979102,
+      "lng": -0.1354426
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4992343802915,
+        "lng": -0.134268519708498
+      },
+      "southwest": {
+        "lat": 51.49653641970851,
+        "lng": -0.136966480291502
+      }
+    }
+  },
+  "lat": 51.4979102,
+  "lng": -0.1354426,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://formative.coffee/",
+  "url": "https://maps.google.com/?cid=10348831824875679263",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 5:00 PM",
+      "Tuesday: 7:30 AM – 5:00 PM",
+      "Wednesday: 7:30 AM – 5:00 PM",
+      "Thursday: 7:30 AM – 5:00 PM",
+      "Friday: 7:30 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fbB2m3AZXmK-x7tvHag6m-bgHast0vx3s0py3U1qQKnhgLfYFhKnhqpx26E-JHUtPDYl3w1czvpFvAHBzoYyp5BVt6l-QpupbVFHNw67ec-kwGb3obSWANsjMjyipelDeZPKNKfD6zM1fnXazjTe1MoJRxkJh3ca6yY7tyvEowE2AVcktCG7D-ATBYXqNtx3tgvqSU0iArEDyHwD5iFAnfjv2-qFyAenYUVEGBc9MrdWNE5yHf9EXVpamTa7Npfw5GA8b0woaznH8XO4VObbbXpdUvTO1hUs-Ew3Lf51OeaA",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111549866096451270918\">Formative Coffee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cBrFX88QEvI_pv3Li-45x6D8t1YzB71A0XrjnxGq4YmJAouErVsSQIY0IhoDxe8A_Mz6xrDvZgr6IedtOR4nkvVhlhPdN2Te9kcHAPGh77azutsjK-2_xD546F_2JuBAuXlyF5e6AkZTr9ukE5_yTWp9xLxFLTl4_GCUIf4Xf38a6XLw5DBEbO9ua9bb91mX05--TMZpzgbg85AaWqdxmOMvy8eVtmgVAtG8FbxRFaDYUHeRNpyCMmGawYh9hg34cNzltfLNCv4GbGb108ciJrUavu3k4TBvcENeBeU0pSRvPDklU76BtQtX6OHltzV_-FGw6DQ1VsgV9LThq4akUOYhzYrKXLlqACTgDY9TbH6-_ICpoi2jyBe9-Y7HP9axOrLjI-VkXUIf5HMYYzJ-xcZOw09iZBA42Zt4dLyGbLDZ2A8mqjw5kHSEiI8JQc",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109229102731456107469\">osama elahrash</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0R81-AGlXIF5W-gGCFNjQ6DqcKVV7WMZqehl1CqPVyF2t3PHpHC4xkiWyaUvEl_NmtlgV05Y8QMYH2nUQG8CnUOIgqz2l7nIM7uJwaK83ndASuitdb3zIhIiqgidC8V5XtC_C2MTk6FwnqAlRZguOXagjxxvp7gvxe5ivcqejeTiKIYpQdksKbXh1ZXlF1UrTEy9mm9QX9MnpOoCtnk31NT6jBbtV5Wm4-FElB6j14rZHKmw4tha1n3_2heyhT6nNgZJY3Ad8C-4hKy2K8-I68gnnH9F--FXVub5mIGMQ4Q",
+      "width": 2400,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111549866096451270918\">Formative Coffee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOBYWiuEA51wGaFAF3NYzpmO39-_aXxMe0HAbOqh48PPKZTvnCgkDU4Yny98XjMZBltmCL7Ap0kPHNx1B9d5gvvaXuduvIbkWaFNCkKLAueO6-eiLXsBsUAnsA_PxZqbvbMI7XTsY0WltHpsBOFGYsSU7V13EU0TUsl0jo4JRbxQzxlgaE9DUHxvFntrBXW_7ZsuXkVC4-9GSPa16Gza0PeVuznJ1iTKSR2bXp6_dv7hOp__YDd-fqxZu6W-_q12QwL-k9_ZxbovG9PTS2TDnjyOXF2laLS3J9VgECJYTrTjZUl3Zjcx3wGg3q4TiIk5BZlIbDJtnKYpyZkZDFOxmHVJVovt537PNurcOlckIzGHCadUg9yi9Ug2apBzrNpOt4J72RrfM8appow80pgmnwXSAkevYjn2MZP3rSefHlveRJyR95oKKeFwB853Ks",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109229102731456107469\">osama elahrash</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFav8eXGrawF3Rsxq1ey-bGYz5Nl6WQzZaNDACMDke8JGhAdFoLKs6OiD1kU3pQgs8L2kmG6NLfOsJGHQo30eployIk--NsGkE2lmsPwJwl7Yi4MqyUI72u7OcpPQQPhw7Ey3ugbbC0dmbvqJuKXxIQYp26IpSmAOtmRP4A7aJ4P7jLCBQ7XmE4HqNLoDJW8vb4PrLywA8FuXuWfBbCPUwySEKh4J4vH7Y8qWwD4ir5LGThdXdGDjc3Z5wFB3obpy5xvpBQnC4B3ywjKMbpZ-wV8QepckOEx_c_JOMD7t6ogfJX9U5oOaRK_qOdGuEkC7EesB45X_gL2bRttu0yR44Aoq-buYVZpxa8oLbj8jcxZjQsvV9ZiuNUfh6uNEpdkvbjh7we-I-GrRdqz87dXy0WCVNTbewGsHdqmu7K9oq_HYthm_RmGrXF1G1jSWN",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109229102731456107469\">osama elahrash</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eCJTebqPje6S2_TU-usgRJp6KEt3pz-KWpUkQkrJj9jwlZn-4EwKO3X13y-z9BX3yHo5yRsPfNk2sfTKwJfI9vpw-8i7DkQLIi6pLvQv3NkCEtBwJVbQTdpeXjjazPb-4W3y6tHxI8FoKze2jAIaRTlloHDyrbXvnWQ-S30-XUGHDT2-q90XE9kGgT2BydjCWr2g0KlKpRkE46M3msVCKHos8d1B6bQwF-6j10VA89TOyP-n3iR6tGRDB8FhQ0lrjG9IcaNIfv05EOpMwfe__UYYuZID_jdY7n9HHA_s04bw",
+      "width": 3203,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111549866096451270918\">Formative Coffee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dE8pwmSkq0tYaThAVzu-8KS1E77tmE--IJjHVaF5BPq87gxICRnnNo50Oh2dw6AD7gsPxY__O9XW0LA5RO5mhrvpRVnSKDFm4hwVpE3BoxwHJV0MYwQAwmqEMLWr-e-4vOy4YmG7gJJVpXHHwf_95Fai8sGoFEE4UlVJqhUB4hspOsA-RK4FRc370lPBA2FnwYWXhzfA5WBVq3VqXNa-ZDIZEIsS1L_F5dCeeHn83gOrF4JUF7cw0aFFmWH9jDfay9IemhSG-EbY2jNXnx5RhrG82UuELRzU0BHwkdoQgB5CMCYxBzb1UJA_WnJbDrVItjk4gYieAo-S4Y-27v2xpHbKgX8fgO80OTXKccwDjZ0vVkUN5Yttz8d9WfBaZpt9Dw-8FTdJ5xuGfKHZ6n6bKPx93gjgkGOskqle8iQaw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107863189107919141722\">Alex Nguyen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBn3LOZ_fxT0HlM6Ka8wsV-OqbRozXc9eCAuOoxoQ3xXDkAhRnMyEUUmudNoAE-d6EAs1X_DRvecYzZMhdRde3Me4fOcZjbdg7eRQ_I4A2tmxd8Ghx-xzcKpIQCuy7eS-refmKNdSOIw9Zv0UgaY1EUGGv2XXSIQKBmRmcWvKx6WnRCPwrO8LojTCYTiOYfs72iyhliIXED8I-D7PDedivs1dRuiICG53NxWCtCKz2HIuYfVHBaeyb0YPCCT8w4bb9Z0X5ywr_efSt6ypv4ork0btovxOhWUGhah-63WpPcg_2bGw-8bg4n61JEGj0h2doAXBQr5HxUZnY8pdMmRRb1eXW8VVV4fQPk9n0MWq5ZCVgWeRW5gmeEYMQs7kDuA2fKoQAQbT_AUYMhwCG_B1orkVku7DoSZ4-k6js7Ds1uM8u",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111108754315992452533\">daisuke</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fmFq6WJRMzEISU4Hty5MdvY_eqsVFVr0F7TGnfpqSK9yNDr1RwKRclg_KHMUWQ1COYa7IKN2kG61mjsfdYoHXcP0IqgQb8BwnXpHpgKZtvISE0wLqEuAtgJUPlVMwe94pS2b75k5nSNQmiF4gWVVTUNsZJIPPTGpy4IhyARY6bz3CFrfE2RIIGqcU8ICyHKFQD6l-rfMbBthAVTHsmbA2aCbV9HytbYa_stgJLSPwshQa8d7Ez0h271TovUw7PH88rsBW-CjYlnfGqQd1OomdtcreL18gOT16l5JrweIz2umX82YKaRsJCCrPEE87EAAPGsiNDu4HedKW8PvooAnii1Qnr1EaGtdENmoJLqz3RZpglfCBzZwSFzlIEr8ms-xY4rQQ77rnsgF3l7Cwz-Fb06_n-Yo9FpWHqzDaOQ3T0AQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116265180508915235086\">Yousef .A</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_RIZpKO9Sek0usA0ek17oOPHtV555O8kB2Cw-ITscmZriL9YLkSyzr3g1L325Rt0emOrLMme9mN-Z6v3Q7zMW38lr0hpfqmLFjXwIum8f6ihZiImFe2ebc28RzIfOrKmFVD3qK2o8VCj1AdW3wuq_WYCA3we1XWqWBFqqiQQY84E9Lw8b4rcaOzghg0xHqY-5jNuj7h3sdhJ85kq5okXdrN78yiNYjX8d8MBYZUIRDjYCI_-wP9yf83Ag2XKrVCK3SdCpVBSmWViufiVcLFxhuzFhMuKX9zGcZCKf3pznWfeq_T2kZxZWz83j4dTPSzglwwtMA_fg7z9jSdOvKHnpCg4lNjLKliWOgS-6M5rhGNk1WcBnYF9rpL5Pj7jJob1OdepgMfHBMUcKWp5ECktks8t0qb1qyA3gI9zwIQhVLGjE",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115755747420763127512\">Anthony L</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Krishna Kabir Sabri",
+      "rating": 4,
+      "text": "September 2025\n\nGood coffee\nGood Croissant\nNo non-sense minimalist interior\nAverage seating...could be better. May be they can have setup outside.\nThis was my first visit so liked it.",
+      "time": 1757596259,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Pradeep Javedar",
+      "rating": 5,
+      "text": "Amazing coffees from champion roasters and baristas. Friendly service, good location, accessible entrance. Coffee equipment and beans are also available for sale. Coffees are really exceptional!",
+      "time": 1758114065,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Lift_Run_Eat_",
+      "rating": 5,
+      "text": "Really excellent coffee at Formative! Service is good and friendly. The coffee is worth raving about, bean choice and milk work are on point. In my London Top 10 for sure! Highly recommend!",
+      "time": 1753883289,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Scott Pothier",
+      "rating": 5,
+      "text": "Stopped here while staying in Westminster. Flat whites were very well made! They had a small selection of what seemed to be very well made pastries. The pain-suisse was excellent! The place is very modern/clean and the staff were very friendly! Well done!",
+      "time": 1756771638,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Chris Roufail",
+      "rating": 5,
+      "text": "Stopped in for two flat whites and a pain au chocolat — everything was excellent. Perfectly balanced coffee, fresh pastry, and a cozy atmosphere. Honestly, nothing more needs to be said; I’ll just let the pictures speak for themselves.",
+      "time": 1756301665,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:24.934Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2tasVoFdkgRH-742bZvno8"
+}

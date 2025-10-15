@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJk-I180QDdkgR53ATiSvAj5c",
+  "name": "Koko Grill Korean BBQ Restaurant",
+  "formatted_address": "173 Tower Bridge Rd, London SE1 2AW, UK",
+  "vicinity": "173 Tower Bridge Rd, London",
+  "rating": 4.7,
+  "user_ratings_total": 148,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5015545,
+      "lng": -0.0782416
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5028922802915,
+        "lng": -0.07675616970849797
+      },
+      "southwest": {
+        "lat": 51.50019431970851,
+        "lng": -0.07945413029150204
+      }
+    }
+  },
+  "lat": 51.5015545,
+  "lng": -0.0782416,
+  "formatted_phone_number": "07557 929039",
+  "international_phone_number": "+44 7557 929039",
+  "website": "https://kokogrill.co.uk/",
+  "url": "https://maps.google.com/?cid=10921158914612621543",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2d2_NQK1Gd_vc2xxyz8m5yHa9wLqzx3Wt5UnM5a5Chplkg94LpOOqMXPwNrJx_gDlvAEzQnfx1sjoE1-B7IUInsvAWt7oeBPWfd33ZKuNgHtwUjTdvaCmlq-p2EngonM9iFaIDrr_Bl7OhWWGcjgBSBvMjITo9ZX2LiD06b8kAAMoQdwNxhfT51k6GDkHEVuhqTJ6_IG6DbuQG4aVZFCUa6d3xzo0zUACA3MHuOj42HZWYrh97Bm_qwUZ6yt9ehHDCCHP_BHuoozHnacCutWqewpSRhSuaVx7S0NbxvDQITCA",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104944178775307784999\">Koko Grill Korean BBQ Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cQwRpJluxOOFf0cEHtm0ktA8SNLKFxfEzls8C0Tl3MXxDK6yaXGTkFVHSSIZa6UNqyQyxy29-WH4MygHWKMnp8i7Sj1rAB1i9TAVHrPXpLggONxTzjjPMvg0Fd3Y1rdEpyv-RZqgNjezGDPNRUNXqcgpqfqDfVyBziequP8xUmANn9xpO2RzR7FgdkrkKyU7XUpa5gMvZiGgVTCBLqnylDdLSIzFfmmpK2fmfag7ef0pxePZYUEhyuCT2kxz3C9iw1Snuz2KmwnIcgjfC9DDpYFLjyMgHAXdF5Zc_EpQZfHw",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104944178775307784999\">Koko Grill Korean BBQ Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2envsGtCI0lQh9_RJMRHJZul1pwjheyr5UE5nkYiXrfBb7vdIVMPpCMjU8lMB0KkptfLjis2fI48fb-gXtj0eYzFlflP8xSN93qrM-af_9U3iD3bb0W8SLXnAfCC54VogoupZRQ0Hg9qPjbutct9S7lIRz6Lx1wlA2HgCUPXhkCY-y4q3PSygozTTY7Vdg2JKatC1bNyf1TrDu9pT3LPUxRCFmXFJ0lDMH5dj460u6tpwM0pLWtnMztA78Gpgezjajcby6DSlmCCBJfvTeCw4Dz69SE2EIloXo-QTYFzm89HugsTdTOLK05-MY56xXK6XVapJU-5fwc-BoWD2liv591OiO-8ybnI_gYe4ZZpC7tC1sFeAQ3Cu_fh1exUffJ7IxWEwXG926wkJo6k_mFUfo1vWRBm7Vi3mVwGy10OcuTbcTli2mmjBkSJkdLFqIF",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109188658363650541644\">Gracia Daniel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dVKhY4dmCIbdbeFR2wtD5sDtGLV2ZDq0EKw8keJc7If9pjuhULbqfovrxI_D-K5yn4QE0keF384_S5wcT9nMgBfhlEeJ92seZLkwU3mng3zL9oDb0gofMQ9d23w05BodtGsyWiGCOMkjFtxVso322PYJV5CrUDXegwEXou9eN4ybNauTSfQ7aP52DrE1aWRAn6Kzy5R4o6TrqSHf_ruSrXr6WnnelijicfQH1XbwPXJtf9ZVaCssuQgMOS6AR-bWqO4vrSkmqzZNY7tui63whDvkrfzDDlDq6UBB2eZyD8ZJg0oWMQLcRnI8M09iX1GaPZMKCF22qsV84GQCjmGPpOhSSs7oqS-9Yasw6RI1rchtbOQ8kpTdGP_i7817CAl4GteJTexO-M36i3Lt8dmhX5eylAMvVzY6mVr5Xvi31N_WfxnM4biqi0pcSSXig9",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101234583859636293045\">Howard Wu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2esBnBJ7QfYNDOzDTZsZN6Jc5idYw_2Ad5qFreXAv7FPtz2wEmq2g_NEJ5TqQfB8S6m9-3cgjpY9LdKqqf7SKch0-hjAOc8ZDkduONZNl3ta_kN1YyFN0pZ5JyseMU8hFkUYGjG_TNSU3ue-21jCCiYXsfUvCZSXGAyVgdyaMGeJJXCEcdnlZzOcOvujfOKkoWQyehX5pDD37h50928eGr1FyaQr7HsMG17UjYwheHvKAecjeSE1AcIGewvgrTVtoVGp2Ng_oBh8X-EzcEafe0aGcbgTE7ztvMtiG9wMQPFpKB7zJ6-C7ZR5FUoDCxGz3y32qTbQSwekliTjuQGYTkESEV6gMgHUhAfEgBWyVdItL9mn3uYjT4lCnKsO4HZ3LAgFNl66yKmchuoO2i_a6qBRNzHmm-zRq5pbYw_NcZjFA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114407763662633819217\">Cheryl C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fRsAwSe6TGYl7G90CgoqUNoyavGxzkg3lZAj36LXE5UJuJobxBMheZghWRRVKG-dpe9AQt11emjGZqew1jZDxDcphggzCYUmtjAsL6d3SCVFqdisfkbMatu_OK5zQYqsQkG4xNMTY8kQE6PJYnOrosWxOD8_tdr10n0kCG16FPu9p--rW-Ymtk5Qv3iIFV_FSjvtZatuYeUQZlesV8KXQSXGGmbR8T060W7ytiJA-b80RHAQHtAecTdOPZiz7Id7tm0sLwX0gGegIgxPCkRVIpyh8n04c21Rwc9MGCXmPECg",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104944178775307784999\">Koko Grill Korean BBQ Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjDd8lno-fBgLc7Qgd51rsQu6_RW1pPS4yg3imH45Wpt8cxZThZJ5zHAV7E74BHgX_sb6R2zh7FXr6C-G6R5Wye6ZYEAA-U_8sD_DtAMLzzDWjWyISP48h2PsE0PlbK1I3KhoQR38VxGOePMlihG3NaXfYjwGX-DG7j-FlMjObSVg69a2Byksr7J6hq-zJe03ZH20L-cIT4o1B0QM5paOvx5au51RAKvCZ87HOSduJk-xoJjne3gATsn2wThduBOiRUE372Wc2RJThYkB_s_JlxY3z19Qem7XnE3JB5SN_p2Jga6n__kleIyAuekzvqzCnH0YgF4tf-XKAjMMIeo_wguq1qeSYTBb7HGPhGvBpZr_4JAarEhZmeA29sTXJ1SApV6JLlj2BW5FEs-qAN-bsp2jAafJDbdaBTyFQsO_EyRhgzSIp21DEds86ww",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113364087613409056176\">Patrick Toworfe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJ07-n1Z-nmGedwPXuSRVVp4ytxxiKammVDTpCsJQFg3sB-wvkDjXH1kT_hRkt6_WvZcauCLH23iSd-HSSiiFt9eJUywGOVbnsOVwsQc6om006eCTmlP-rvANvCnTvk4brhdhYl2zJ1OhBzrYAL_RW59lXsTHhLRKQm4MCQbkcawuShdsbdTUUfrmKTTjjaQYa50l9xLWFEJuH-zbTMC0BibKSDxc1g0TC3cMCV_v5kE8DzMAX1TLsruvBtdCtUvEniwInfj8pIg7KkwgknUGvlbW7TPdPkuMG-hOAba1A9w2BNgJUK8f3HWBNapR1wb9IuahR5wZVgnfl_zVzIt-l73TVSP3fle-TaiBlfNy-MX2c_4acuExd6AJi1L1B600aNbDNGJcgCFaRocQ5dRWbAXdDEq7WxPij3KT0Ah_pPPEwYeJej6w0EZjR6C7N",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105581911828422848314\">김우형</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cTV_d2CTNO4cK-rgIz373CVJD3IioZqA3euvkFri_nzhkV8ZPRcXKngxyCr_KEWiV9qOOLzhkYMF5oTYKFFZW1sbjTogITmW2XlLwjPZ5zZ7qyGIM-LzjITlo3iM9IUMjkIPKpmkIO1J_KNgXlzvTj9aHIsQY0YMdLvGPyoGB9RBPikNLua7GGi3hOar0qidOhmr2006y9Oqv7XfKNmQLFs0gx5QWugacQa31RolMzy3Rh3TNKCCMusL1VWh2UQ8wHaa4YEMugewp9go89NZNMADj27aanMRAKvKCxO2x5exKjocXyuTZ6wsRO0PHSGAWB4_y5rPdLC3fc9yJkSw-Cx4riD1p9WzAgeReY8p5ECi0B1YsaAhMPloPR0zEkXsIw2zFmyRTMXeQ2-N5lJHPcZebAdv0p_vWcwP-AjLoj0EdeoG74qQgtpGtfX3jd",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117469883987555704577\">Milly W</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUK4UBqehMYS8gSlRVl4j7bSA_SfEF7LrZc5JounRH4HdmN2P5X-LBX2zlmwYEGybV68vlkMJbDtkfgNIF_zBB2Ikl9jYMUo21cUERZdq9dK5SHpiIP_uCzDEM4mkouwULvq77jqymdT5gXQcNFOunGZuZnjFPpV7nIc2Si_RUkJFDtSFdWjX7-bZLTV3ZSWqb4VX0HyCaYe7sqXJX5BatsCfgykpF0RmIOrt3v2dFppkGBvuWOuNZRo57yxyB_9pPYRTM6TpAf85CRVrWOB4TqK8nRhBckoWwr2olbYjn8RI4i1gXEtZ2gZK-4TAYzDXBBu64R8Kb1kVehKLBh0qRfGbYOjfKW0FvReJ78iQjuFpNU7HV1xQIibUtvsNfPM24Ia8wcUVPYKpfSTFh_90kpwdpjloC2rnYS2_W4VUArg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100585090756482159888\">Reto Peter</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Howard Wu",
+      "rating": 5,
+      "text": "Great food! We walked past this restaurant and decided to give it a try — surprisingly, it turned out to be very good!",
+      "time": 1756482475,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Teresa R",
+      "rating": 5,
+      "text": "As my first time having Korean bbq I cannot complain. I really enjoyed the food especially the pancakes and the seaweed rice dumplings but also the bbq was tasty maybe too hot for me but that’s just my personal taste. All the staff were so polite and nice I will definitely go back.",
+      "time": 1755033834,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Gracia Daniel",
+      "rating": 4,
+      "text": "Great Korean BBQ experience... The service was exemplary... Food was great and filling... A bit expensive, but then the portions were big",
+      "time": 1758617867,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Jialei Qian",
+      "rating": 5,
+      "text": "Really delicious food, great value for money and excellent service. The place itself is very clean and spacious. It does get busy at night so do make reservations especially for BBQ - the staff are really really fast and food comes really fast too so you should be ok walking up for non-BBQ but book for BBQ.\n\nFood is really tasty and good portion size. I would say one of the best around SE1. We ordered 2 mains, 2 rice and kimchi assortment; and we were so full!\n\nWe are so happy we have a local Korean restaurant now! Will be back more!",
+      "time": 1758313324,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "wong eve",
+      "rating": 5,
+      "text": "Amazing food! Amazing service even help grill the meet! People are nice the vibe is amazing ! Meat is fresh",
+      "time": 1755380196,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:53.605Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-I180QDdkgR53ATiSvAj5c"
+}

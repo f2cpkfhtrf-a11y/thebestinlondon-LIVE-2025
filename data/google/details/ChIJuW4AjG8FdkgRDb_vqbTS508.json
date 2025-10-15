@@ -1,0 +1,246 @@
+{
+  "place_id": "ChIJuW4AjG8FdkgRDb_vqbTS508",
+  "name": "Bluebird Chelsea",
+  "formatted_address": "350 King's Rd, London SW3 5UU, UK",
+  "vicinity": "350 King's Rd, London",
+  "rating": 4.3,
+  "user_ratings_total": 4674,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.48475029999999,
+      "lng": -0.1755033
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.48613848029149,
+        "lng": -0.173897969708498
+      },
+      "southwest": {
+        "lat": 51.4834405197085,
+        "lng": -0.176595930291502
+      }
+    }
+  },
+  "lat": 51.48475029999999,
+  "lng": -0.1755033,
+  "formatted_phone_number": "020 7559 1000",
+  "international_phone_number": "+44 20 7559 1000",
+  "website": "http://www.bluebird-restaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=5757802322003476237",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 12:00 AM",
+      "Wednesday: 9:00 AM – 12:00 AM",
+      "Thursday: 9:00 AM – 12:00 AM",
+      "Friday: 9:00 AM – 1:00 AM",
+      "Saturday: 9:00 AM – 1:00 AM",
+      "Sunday: 9:00 AM – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dUgYY4DlmCBy6FOJPKB5l_ePQq2lPBFyVgAGWux5fUA-ai5W7Rawj1j0OeZlyWywiCA5ae5ditDwE1YL-lfaHW6H20dJGOYTFCz16awX1yOZxwCbhZWacold2MFQ3gqANbCfEmoOsOvmwp5SQqPouCQtSHTpKV2e0AbLCCMMQ38qgXC9FCuyvBOv0DLuJSnDLdB8qdEpbrXMhIj5bE4Ns-aUVZO6qrqaDvS0I81txu_ttHca6jl4PuJplkHE1ae6jbtmeNBrZkNf_yiIum1zF5pk-EyIhg-1JDOgs_GzE",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100960273524030559021\">Bluebird Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f05y_TyQsvWpZFlexzj90RZTgy-Ke4MVoLYcfgoB0Oa0LZR1kh2xPedSFwlmUxivbIr1ZKgb3oucXYefIE-5F7t-uGPe3hF23roewlVH64uv8SE66bNTQoL1_lVEKOqf3ayVTu1KkcLS8DYMPh6O9eTgKIoPH6vp_aU0Vkmgj0aJzdaJafeTm3MG2R2LHlX1mokXXt--qsvW_NA9aTFFBODa4YXweZZFaDk2QmuEXwrCqqLVT4UPwHIV3lmsQFd5uTcq2VMbvoQrBwQKf8z-dGGVJeLog4runFq6vj1uI",
+      "width": 2000,
+      "height": 1333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100960273524030559021\">Bluebird Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f9RIvNhG-9yfqlT2IuqNJre16gpQda17UIDb0Y1jQ1dRXDFlLk5w24Tl5U2U57bzXrp6QlT-2EfaNabV3bLpNthQbg-NRHI4uWr6imnTsK0jPPg37vcjMOPoO-cI-wKaXs07OS6z3GzHplp2-XnxPHCBcjKPyMHRxO7DdskVIH_Z3TkusB4dUQ_aMFiXhM-bx2E0sWspwA2sKtwgDl65KEiGoznC6IAyRkyUjCeCywiC-xRq9pzHdG6Iv0HTkQrNs-8wSTPKbuTBYcpFfd60i7jRRStVODMAO5hQJCrRcaYfyZLhaFq0dOcCphNSDCWoiRk30eay-19cTYAzEo9pdt4Z2r7hu-cArHSvE_diLJL79lkcg3ZlgIEh15JJPotwgr6RomqrU2-kC4s_ugtnmYRag8r5dZNTgCdFwtJ1uh7CfKERp1xfP11SO6V6Av",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114212980100715763835\">Lucy B</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-o827zjxH3It5lgyudlQXChgzt-OyYYqp-luM4Y2cZ6CSvjWYMt525wi-XkSosXT7rmf04DxijQosVjabxLOJB-zh4agKPsUppyVfHcqUaYVtJTSYQQqwx4KXL4JEOdborqntYh6xTlZCGJiKX9uSAGhxNm3yipGeMY44IXmogCtrGH17SlrxlSSzPU2tY33UF8up3jQ1kv8x7PF7_FMeRWaJZjdTD4b1COMSHWBnyFPgebnXwY3vnG46JOihJoXdjVFYT33-YLFnJNHMZTI2jsWKImM0HHKi9OZ4QWl7MR9gGGyLi2w--bJAieeyMb2zksgIBosDd7WViXHV4c5wFmhYHFjGlJ1wLprG5pCJCMt2hRUMYZvpFnHAIV4vpqKUfQfQ8VwXs-hbC_K9iQcXz3Q_TE3PiyGrIebVs9CcHxyY",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108843708859382014928\">Jan Fordjour</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dSiDVBmmXntXJqNeQr6GjIETEIhsgYbHtebLd2VICaIVQKotPZ9uJEdw-WIK-3hNVLfJlsHsXfZySwlnZRwPf0jQ-VffAsuVvQo8nUM2hNerK7OeGCtupSdC7dzeUNfKIbaJxpcUdN_8Lkgm2NUXV6pPIBxqylupadIcuFjhmNiDFkHPANUfirWTjjl5TdhSbJjD1Rh_KOiIFszYq_K3qf0pVVEUo5wT7cPmUSAyovRyMFWhlJxj6-SzIkRk1xxV2NGyPFsDlgJxy21XeVoesL6ApqPKOiA_DaFs6_RgI",
+      "width": 2000,
+      "height": 1333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100960273524030559021\">Bluebird Chelsea</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYDthowczJW3TvJ0pTfh-9KVEQdeWocfqkIswrJjzw-muHF6P4TUnMQBwlhS9fV9NewRviPXf26rinrdA70fq3crkGz9zXAz0uAe45fGjJWGCoUks39FPcnRT-PVla5byEMEPmwZbj6cqEFlKkg2Lfhlk9R5Wp8MnTFJe4JNw98gbJy8_csHcVxYcgA26sy_G0imAThGqgN2LUydAsPUOc_nMvDQLBVg4YKsZ8ZGzkO6cs05oPDJloNG9U1FpwAZFdBdG4uN6TciVE6y2OsXiiSh1A5MgxC9AjjYzwkWEp0UzOYcpY0-ZNbBwp6-qxFKrJAVrk3hWcAvjhPeU7LTiXkHRqqtVVXddrlQpBvc4PbIVR2wEchV2FmfpP78s9BmO3Mg0J6HPGlgmH9ohV-vxLoQKS-AAVfpNSefVLa8Cb5alZ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110744103678502596944\">C S</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2crD42CA8oDDTZxBVaUxzQgiooIgiaB16dFcPp0PpKW7zbxZHYh-cRVlS2tB0be8v6-32hX9MBAvT-3LjvdLd2TM8aHxMI5vMj_HVYDHsie5xQdUlGM-3ZT6ILQas83ncMPGBdePj1qH5DyTyiYZMfiD5AvUkN9YJNQKKk9ABvGrIiq4w4Ih2-B9e0ht6aJB7Is--nf2ldXG0TP6q8lpPZRMIzjhWqmkQvMjXs1ZOE8RbK6nw0HBa9nvYzfNV8z5qXO9RgMstccRWO6R-0xdGWIWvp-52ASEOlS2Wf2_P3ddG_hXVZeZt9mPrdC4f33Y-__ypYYFkx3QszV2ZoYFtkT8jyedpQDl5yDY-37KEwXDeNIRZ37tprIVpkGfTqd69Nblsl-qBuIw_puM-4ZDII2vL2dznaBTg18WsXLXabcWA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103106670778671188059\">Castro Vondenheidwiesen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cyYKyiswo29EY4ZXjiWlhxU5zBkkXY9LpyyzQl6jZBYO3DEYxEjFyisgBCqdy5IAo3umfRYwLSUGyJOpWd9FeQSfox5EHQwd9o9SrScOIBjPzkYH1yLygCbJXAXK83-lE-zN4-ydKefdzejzU1PPyABdtuq1SMhDpnu6AAjTpuUK5ciiXnDFM0ZUA4xb6_V_7EZuj9sA12br22tPrAoFO3BXPVOnoZT81YF63XL5cCUuNhtw0YBKiTSB7eFvv4o0lOiWgDmE6_OUQPH6BS7lq0XvHT-4aha4LN7P_mHl0fF5hY3YSth45YmwJB3QIIKDrzBwdtXMP_bIBAmo74EwVFFQQ6i13bjnDXWMCjL9NBeQOyOdR9mkxopjs1q0jK9d3oaOhp7JuFp-pWeWLgGoQsKDTuzd4nZzKcqIGqiH5nb26pcJqd7PIiv7cLje7k",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116208748239713555654\">Rich Page</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2euSiN_NpHPp2cU2X_kAAMJBOas6wS82CdfX3HKwQgx6vY8COefi7XLjXwuZqDMvWSsRCMLH1dMcghoO0UD0lcksdAoUf2--WtJM4euP22AyVFd50A2HQf3OQevtIXx28orESvJn38VvpAwfUEQTZ3CDb-v2OYDCrsJos26rZyuWtPAHWqkuJ_JpT9Dh6_rTp5Tk0-9xMOaxZemtZ0Uc6dZ2Yt4HSA12iWlG3xdum6Cei9MCh-CMhWIDEHPzyHsHzIlp18iiax2iZwha0PZDC82IzznXAB8JJxBYg6uITf0UMjZP-33uRqVYpucXxerYmLrFflQ6zedJiGKVj4JsIFyYMDJTR3QxEttnfMuoPgyFQyxp5Sy3tbkJ_YVwm3WvQFgNJwkNzVoRebkKlRpSggxgoixDP1rFvZ_M2oMbfAiijEM",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100950677426599810881\">Leon Barnfield</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZn58I7GpEJHALza_gddWkLoslPSQSI5L46gRspR9mWVMyyJIHdPsqUiJkfv-xBDX6ACZRXhyTKBW_vK9m5CQwpp6wFMws2ewgr1vgYtsb94jYb-07uqOR9ITxtnx4hJj6yyArslmP56hqkYRwP5pXvuV3DL8uvXPQleqZmIHBvNGCMTLG40Oew04te8f7pCJ0N6XMzS6xwZMLGNTkTxVmcvUTrTAtQ7pXrJaD3sFmXIvk0oa9xhELztoNeai1TY-bGN1QwfawQ-d0ZQjTpuVOxM6bINVI3VkZJq-Z1qw",
+      "width": 1600,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100960273524030559021\">Bluebird Chelsea</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "night_club",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "European food and cocktails in smart spot with monochrome floor tiles, feature lighting and terrace.",
+  "reviews": [
+    {
+      "author_name": "Puja Sweet",
+      "rating": 5,
+      "text": "Coming to Bluebird was a great experience from start to finish. The ambiance was vibrant yet relaxed, making it a perfect spot for both casual outings and special occasions. One of the first things we noticed was how warm and welcoming the staff were—friendly, attentive, and professional. The service was truly top-notch, easily a 10/10.\n\nWe appreciated the flexibility of having both indoor and outdoor seating options, which is always a plus depending on the weather. We chose to sit outdoor this time as the weather was lovely plus they had the heaters on .\n\nFor our meal, we ordered a beautifully cooked salmon dish and a plate of gnocchi. Both dishes were excellent—flavorful, well-presented, and satisfying. The portion sizes were just right, leaving us room to try dessert. We couldn’t resist ordering one to share, and it turned out to be a great decision—the dessert was absolutely delicious and provided the perfect end to our meal.\n\nGiven the central location and the high quality of food and service, we found the prices to be quite reasonable. We paid roughly £90 in total, which included a beer and a cider.\n\nWe’d definitely come back again and would recommend Bluebird to others!",
+      "time": 1748160001,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Lucy B",
+      "rating": 5,
+      "text": "Took my mum here for a birthday lunch and it was such a lovely experience. The food was absolutely delicious (Caesar salad was perfect) and the team were so friendly and welcoming. They really spoiled my mum and made it feel special, and we never felt rushed.",
+      "time": 1759132114,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Chris",
+      "rating": 5,
+      "text": "The salmon here is absolutely outstanding – truly the best I’ve ever had. Perfectly cooked, tender, and full of flavor, it really shows the chef’s skill and attention to detail. If you love salmon, this place sets a new standard!",
+      "time": 1757628408,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Basil Dimakakos",
+      "rating": 3,
+      "text": "A spacious restaurant with a very good decoration but the food was average and expensive compared to allow other similar in the are.\nThe worst of all at least today was the service. Our waiter was exceptional but something was wrong in the kitchen. Although at the time we have been there almost half of the takes were free or under reservation however it took more than 20 minutes to serve us even when we asked for additional drink.",
+      "time": 1757887456,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Wayne Lees",
+      "rating": 4,
+      "text": "We sat outside, table for 5. Really friendly service. We had two steaks, burger and chips and I also had the crab starter - all were excellent. Looking at the other guests, next time I'm going to order from the bar snacks instead of a main meal because the chicken burger and burger from the snack menu was very reasonably priced compared to the full menu and they looked a good size too!",
+      "time": 1747074048,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:54.125Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuW4AjG8FdkgRDb_vqbTS508"
+}

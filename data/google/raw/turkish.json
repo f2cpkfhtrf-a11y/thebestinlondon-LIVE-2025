@@ -1,0 +1,683 @@
+{
+  "category": "turkish",
+  "query": "turkish restaurant london",
+  "count": 20,
+  "results": [
+    {
+      "place_id": "ChIJ-bg_WdYadkgRD-AagbO6NpE",
+      "name": "Kibele Restaurant",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 2811,
+      "formatted_address": "175-177 Great Portland St, London W1W 5PJ, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5218976,
+          "lng": -0.1437173
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52325712989272,
+            "lng": -0.1422684201072778
+          },
+          "southwest": {
+            "lat": 51.52055747010728,
+            "lng": -0.1449680798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJUSFBifQbdkgRUHyy26cz5pA",
+      "name": "Gökyüzü Green Lanes",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 6234,
+      "formatted_address": "26-28 Grand Parade, Green Lanes, Harringay Ladder, London N4 1LG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.58053959999999,
+          "lng": -0.0991928
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.58188937989272,
+            "lng": -0.09786747010727778
+          },
+          "southwest": {
+            "lat": 51.57918972010728,
+            "lng": -0.1005671298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJ1StDTDEbdkgRIdqbGIr-qxs",
+      "name": "Antalya",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 2725,
+      "formatted_address": "103-105 Southampton Row, London WC1B 4HH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5210799,
+          "lng": -0.123894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52245417989273,
+            "lng": -0.1224227201072778
+          },
+          "southwest": {
+            "lat": 51.51975452010728,
+            "lng": -0.1251223798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJry83ifQbdkgRuQNeF94T_Xk",
+      "name": "Hala Restaurant",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 5287,
+      "formatted_address": "29-31 Grand Parade, Green Lanes, Harringay Ladder, London N4 1LG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.580449,
+          "lng": -0.0992289
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.58179582989272,
+            "lng": -0.09792232010727778
+          },
+          "southwest": {
+            "lat": 51.57909617010728,
+            "lng": -0.1006219798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJFUkYAswadkgRD68ICMQUvEg",
+      "name": "Ishtar",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1887,
+      "formatted_address": "10-12 Crawford St, London W1U 6AZ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5200875,
+          "lng": -0.1582464
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52142277989272,
+            "lng": -0.1568682701072778
+          },
+          "southwest": {
+            "lat": 51.51872312010728,
+            "lng": -0.1595679298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJTTV7ip4PdkgRzkLKJX5TS38",
+      "name": "MASA TURKISH RESTAURANT",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 126,
+      "formatted_address": "617 Fulham Rd., London SW6 5UQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4799532,
+          "lng": -0.1984487
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48130367989272,
+            "lng": -0.1971079701072778
+          },
+          "southwest": {
+            "lat": 51.47860402010728,
+            "lng": -0.1998076298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJyVvsH-AEdkgRGcXLKqKrmJA",
+      "name": "Kazan Restaurant",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1517,
+      "formatted_address": "93-94 Wilton Rd, Pimlico, London SW1V 1DW, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4926778,
+          "lng": -0.1405889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49405162989272,
+            "lng": -0.1391983201072778
+          },
+          "southwest": {
+            "lat": 51.49135197010727,
+            "lng": -0.1418979798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJDeqCLEIbdkgRrcQGtZA40HM",
+      "name": "Liman Restaurant",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1689,
+      "formatted_address": "60 Penton St, London N1 9PZ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5334818,
+          "lng": -0.1112641
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53482572989272,
+            "lng": -0.1100119701072778
+          },
+          "southwest": {
+            "lat": 51.53212607010727,
+            "lng": -0.1127116298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJt1XTIYMDdkgRVhXOpbg5qWg",
+      "name": "Tower Mangal",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 1544,
+      "formatted_address": "55-57 Tower Bridge Rd, London SE1 4TL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4957516,
+          "lng": -0.0836948
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49701547989272,
+            "lng": -0.08219592010727778
+          },
+          "southwest": {
+            "lat": 51.49431582010728,
+            "lng": -0.08489557989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJCU4knesddkgR8vvGl5YeswA",
+      "name": "Güneş Restaurant",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 2312,
+      "formatted_address": "328 Hoe St, London E17 9PX, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5808692,
+          "lng": -0.0186202
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.58221367989272,
+            "lng": -0.01715352010727779
+          },
+          "southwest": {
+            "lat": 51.57951402010728,
+            "lng": -0.01985317989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJx0L4l-AbdkgRstisoNqzjHo",
+      "name": "BEST TURKISH RESTAURANT",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 36,
+      "formatted_address": "483 Green Lanes, Harringay Ladder, London N4 1AJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5805642,
+          "lng": -0.0995311
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.58195552989272,
+            "lng": -0.09811357010727778
+          },
+          "southwest": {
+            "lat": 51.57925587010728,
+            "lng": -0.1008132298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJXw-6y0wPdkgREIdeHZ3zxSU",
+      "name": "ANA Turkish Restaurant and Bar",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 392,
+      "formatted_address": "263 Old Brompton Rd, London SW5 9JA, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4888432,
+          "lng": -0.1915704
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49025617989273,
+            "lng": -0.1902628201072777
+          },
+          "southwest": {
+            "lat": 51.48755652010728,
+            "lng": -0.1929624798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJsY8u2_AbdkgRlZEwQq7mA64",
+      "name": "Selale Restaurant",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 2797,
+      "formatted_address": "1-2-3, Salisbury Promenade, Green Lanes, Harringay Ladder, London N8 0RX, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5831191,
+          "lng": -0.0996464
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.58448782989272,
+            "lng": -0.09840422010727778
+          },
+          "southwest": {
+            "lat": 51.58178817010727,
+            "lng": -0.1011038798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJ_2MpI7UddkgRHYhVMXmovgc",
+      "name": "Lokma Westfield",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 1801,
+      "formatted_address": "105 - 106 Westfield Shopping Centre The Street, London E20 1EN, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5433903,
+          "lng": -0.0082191
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54507437989272,
+            "lng": -0.006853320107277785
+          },
+          "southwest": {
+            "lat": 51.54237472010727,
+            "lng": -0.009552979892722217
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJtX0iw2kFdkgRrI0GZv1edk0",
+      "name": "Yeni",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 2008,
+      "formatted_address": "55 Beak St, Carnaby, London W1F 9SH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5126395,
+          "lng": -0.1371118
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51398037989272,
+            "lng": -0.1357507201072778
+          },
+          "southwest": {
+            "lat": 51.51128072010728,
+            "lng": -0.1384503798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJm374GA8FdkgRTHs3XFC5D7k",
+      "name": "Bursa Restaurant",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.1,
+      "user_ratings_total": 1637,
+      "formatted_address": "1 Connaught St, Tyburnia, London W2 2BH, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51489660000001,
+          "lng": -0.1629507
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51626907989272,
+            "lng": -0.1615592701072778
+          },
+          "southwest": {
+            "lat": 51.51356942010728,
+            "lng": -0.1642589298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJKccnIwAQdkgRg6bIpuwAOe0",
+      "name": "Lokkanta",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 892,
+      "formatted_address": "31 Westbourne Grove, London W2 4UA, United Kingdom",
+      "types": [
+        "liquor_store",
+        "bar",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5155148,
+          "lng": -0.1896941
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51692462989273,
+            "lng": -0.1883655201072778
+          },
+          "southwest": {
+            "lat": 51.51422497010728,
+            "lng": -0.1910651798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJq4hqSosbdkgRjwKJ1AtcmFQ",
+      "name": "Diyarbakir Kitchen",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 3326,
+      "formatted_address": "52-53 Grand Parade, Green Lanes, Harringay Ladder, London N4 1AG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5789322,
+          "lng": -0.09881909999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.58023052989272,
+            "lng": -0.09755852010727778
+          },
+          "southwest": {
+            "lat": 51.57753087010728,
+            "lng": -0.1002581798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJB4__CdcadkgR07hGJQEPxoA",
+      "name": "Istanbul Cafe & Bistro",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1364,
+      "formatted_address": "Great Portland Street Tube Station, London W1W 5PW, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "bar",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5236329,
+          "lng": -0.1439583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52499952989272,
+            "lng": -0.1424956201072778
+          },
+          "southwest": {
+            "lat": 51.52229987010728,
+            "lng": -0.1451952798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    },
+    {
+      "place_id": "ChIJh5lhnZ0CdkgRnB2-YmI3IMk",
+      "name": "Midpoint Restaurant",
+      "category": "turkish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1637,
+      "formatted_address": "3, Anchor Iron Wharf, Ballast Quay, London SE10 9GL, United Kingdom",
+      "types": [
+        "bar",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.48610919999999,
+          "lng": -0.000795
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48744627989272,
+            "lng": 0.000431929892722216
+          },
+          "southwest": {
+            "lat": 51.48474662010727,
+            "lng": -0.002267729892722215
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:52:53.625Z",
+      "query_used": "turkish restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:52:53.625Z"
+}

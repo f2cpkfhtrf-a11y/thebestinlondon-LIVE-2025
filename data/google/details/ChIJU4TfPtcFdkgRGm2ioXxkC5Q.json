@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJU4TfPtcFdkgRGm2ioXxkC5Q",
+  "name": "Miradora Rooftop Restaurant Tequileria",
+  "formatted_address": "above Assembly Hotel, 31 Charing Cross Rd, London WC2H 0LS, UK",
+  "vicinity": "above Assembly Hotel, Alhambra House, 31 Charing Cross Rd, London",
+  "rating": 4.1,
+  "user_ratings_total": 1112,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51061809999999,
+      "lng": -0.1286218
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51195043029149,
+        "lng": -0.127160819708498
+      },
+      "southwest": {
+        "lat": 51.50925246970849,
+        "lng": -0.129858780291502
+      }
+    }
+  },
+  "lat": 51.51061809999999,
+  "lng": -0.1286218,
+  "formatted_phone_number": "020 3953 4319",
+  "international_phone_number": "+44 20 3953 4319",
+  "website": null,
+  "url": "https://maps.google.com/?cid=10667730628807650586",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 7:00 – 11:00 AM",
+      "Tuesday: 7:00 – 11:00 AM",
+      "Wednesday: 7:00 – 11:00 AM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 – 11:00 AM",
+      "Saturday: 7:00 – 11:00 AM",
+      "Sunday: 7:00 – 11:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cJoLU3FKsjJBxjAOyfLXvz0PSr9dVJGd-UBt4cjAPiOjGMeKfcHocyINyBGzOZSuAHPePLQr0drhUa5XprZWMaSqLOBOYnxbrEJDZyRIJqdCacQu7kQ9JYP0Vy05busfr4CekVKEZ_RmZEEEeqnYDBmd_hy9EtWTZPWmQlO1JwDMB4WQdxTe-mJJT0wQ8-LVIzSpTZB5Iz2EvyMcQ8FeN8jDeVN1woEXXjnN2EsxwB4H2DipOQdR6kdQ699L3EWjUHI2FT2t9IFDUppDrzYEf-oB2ZAcJ0gGSZ_oMJwqoszA",
+      "width": 1620,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100490839595948661641\">Miradora Rooftop Restaurant Tequileria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eV0XH2Hwb2nixpLo4tPW1McKeE-H95tV6sl9CPlQ2zqqZoMdtS1NYlgp9navGGMmix0sOvPgV9sgg7gGzAPTI-GhuF9e3YSnawG4AnLbSoeviIBOFh5es5MMEkWAon1n5qJY95VmAKY_SkJhEzAWGX5x_njZZxAUOay3XKDBHv_YhavJZ0rK2wRwpHKFnIJzZ-cFk60sgK_GWgoJ_9TA64nMggjZ7LHMjyWWdFPl2J0R6Jt_dxFfBej7GoxgF6jXxoTBRl4z-WidYkVvjaNX1HrP5SXay-n4SXq7pfhbspbQ",
+      "width": 2752,
+      "height": 3624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100490839595948661641\">Miradora Rooftop Restaurant Tequileria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsDmIR2mqsDJUmKVzVsPoxOW9lJ5Kho-93UHc6GILSEhRQ6epe9bQJn4lKQhuaEh36st0yUQqXnxXztPg1gREnJ_cXHnI036OrEhN_cRvEZzxdJTWYn5lG1F-dMEd6wiEh4riLKeePCEGlBmyeSidNr3g5VnFpgY_8XfYMZk2hMqLYi84Y1UDcDa-g_g4nE03a69AiAZvqWIQI1GHZtk1F5oLRHiYUwyIps3PiFVhNqmnIL_qvM27Rzmb6HoDRo8LziuWfppuOeGjPQ2RRR0GSy-HViMrAsTpISBoQ5dcBZA",
+      "width": 1620,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100490839595948661641\">Miradora Rooftop Restaurant Tequileria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_Vz2qd752RrMdTPhUmGeeviG1SVXb8oeQ9PtHBQEzYQcylMIk2dkWGkypHsarsCzT-b6sU0qe5KDbfmCwF404lKyOJFM06PUDzsHtkCoNKC2nBzBDeFEQGuSz56clZ1ZQ-ZEnBmsOKL58xSn7d4YlhE4EBnmiwhnC54DuZvaZGvw-AqBSMjQ6JivJDzij54ptpX6dXUeEjvrlMjJOFKjhg19i8kT5HDJUX6wNMb52WrYrlcBXOezHp3Hg9PBFZh8SLDf4Dk9O7Rf7G82wgIc_HP-BHfii-VRyw2AUuL39mQ",
+      "width": 1620,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100490839595948661641\">Miradora Rooftop Restaurant Tequileria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dpuBL1-pnWyedugCY5nraNREzpx5Ex6vh5tsz7-bK4hVJ6U2_f8ylF3VpBcx6QL7t4Ayg9278uHPHLM8I5p3jjdLRXqOxtrEOb6osF70d_mqx780dBjZ4G_7gkZCWtOFm5Hv2fjpyknznefxMX4RWisNWN9T7D05jVsmMy3kS79hCq8U2_UPM3C7VvH2uaOMqmH8LSwOdGMAIAvsFfopeGrdHaHTWY3wW8TlBV7vge26rljFz73h_fIrLv7MD64Mkdi0oD7c_Aj1-IGpuNHQMkSSCO0kf_xPWetU4GwhFq87zhdNbVmKtf9P6lfBhfI3HZswbAMvoB3sFNi7IPYlwP1RpSpTrACgHePjueIJxAWWRI1TV6UnMHDx7NuzrBYNLyIRLnGoK7i5kdMpJLsNcILEHj2wnxA8EL22y5evY",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118028333244335739363\">Maria Claudia Lo Porto</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cFT5QbL0HsGO55VqNpyNhmVx6hkAR4pqsIZw4ukhXSmMNlGU07VznccqyWrACHKtitMBigTZoB96Q6iG3qhWSWp9hNMZCn5D1nH55Z0U1qMoyaOdQvfqUaDCp1sz7DbFuojh5iLjaAAx2PxaiKMuF27VNcjO4nCvO5Grg__LLXZ2ZNkgwo65L_bOdJjKnbiTWN5e72Kl5Y63Z7gyLdcXEjQtX9QHNZNoE7X22zDGDyfDnREWO6GXzJrTXN_iRtcnxJXrc3DGPpZsL0729M7rd4yqJIfMvvKJVn2nsO3KyEVf7vveU-UwMn9RqlQXCULePrV4JkUfQwsnGkegfCDP3P7qpJDi6toTv_G6UcMR9Fod3PKM-xqzAcdSW-Vx71u0BvI9qdvjgRf1yo6ap-hAV_SZjCPfKeKPz0FsXvA1QHwsW3",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115410493485021551032\">Shanae Crystal</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjz1LhpeddcIYlaY_Lg7IKpC8KnvtRoklcUchR1Yi9pkl4Mw_wuTZs2fmduwrZ4KpSRdbYpkcwCA8OXmY0QHmbVIgL_Dv_i-d9Z7oxSWv6j8FJEH04JCCn7sATt0pGim8bMvfHDcUj18r2l3vFdXmdHwDGXYjk7PfFit1cSkhD-kWAC4e6W1SQenvikongh3Mr481zjv2a6_SSq2YpDxC5_Tcgx-cVgOE9r2QjS2VVEIJYg7xtfgty9rwwjxTTIS8l-QxjOIF9pJV_SI_piS9sCMq8xuJ9PoXNiiNdBdD1tDdc-22GD2Mi1PAw2nz5dOZ-4sgQ0L290nfdKowOM22dbpiCQXQGIXzyLy0iVqBF3KEXgzfJMZi8VP-IC_Rvqxs3i22sf7OCsHq8xlvkdwuNqUZhEQG-5LX46k3eRAieMw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118145334853779595998\">Enzo -</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eIASKgKxqxA_tW0bRlUzBov2xB9hB95Cqw7dwWju6-afqEwvHleSC3b4_fmjHRbJZDQ8zgoK9Ke0dICFxL9SPbdxSlgDRxL2wuVMtRUBiJUtAoi9ppmBCTgty5vIM_iLzi7-WJz9CWI0QNeXxQcyUlzGwqWCzAbd6Wua2vekI5q9YgyDWcs9D4plrDlPiGYTijbOQsluYWAn4UwPdlwiONJAPoUvVFRcuGZhE6_5fH_r4lccmC55QBrI1gZiCW__Unfir11vYChXiqS72_11y65lLAMAr-PdRPuuiu9-WC-Q",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100490839595948661641\">Miradora Rooftop Restaurant Tequileria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fiXqtxDcGT4UCaY0Pe3f0RxRJ2FTFAQKsi-__wS_mPhKuyLr4j9lCMxyrDdz5Bo9plpyZFxM0qaOvV7Zk1vFnLhYcBdQY5ISf_xpa7xWXEzES09WMg2kiPysD8O5T86mQjgZPGZ82gO12Q9Mghv2J71yAypPb3GZivSsyxnYDQo6BBFWRSTRh4wK7qiDeDJUTh9LZI0gLl_5k78VSXyb--z5cMO-GRBUrMiXhPis2DvZYoRZlHmOYUb-QhLXrZ8Sxcsrada1-4y-2moHquOMsWBXLwe2y1SoXIgnSgEHKS5g",
+      "width": 2048,
+      "height": 1338,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100490839595948661641\">Miradora Rooftop Restaurant Tequileria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dAE3bGs649l2UdYD67sUGT0nFvLwo3TyAYx0D66zdJKgyHXiUh1IVsjlVYlsjDdMzVVDsKnyZhdVCXTaVjLFJqIrcp7Zt32K65mannk_yfsiHCF6bagGn3XeVZmLHz-wApsGbJNjQtRZpSGSrNtDgyx4PISqMiv8rFDdKmySMu6KfZt1x_SJY-JVnyP5_jUAtFJ7bP2eHPVE9dg8_y9DVenH5Fr6tiO6iTraHNv7gwQ-WKzQ7llnGj29dGGCPG5r1yKqNYTWWpb3Su-7CIdsRexsRyWEbqaKE_OG5xTW3vBg",
+      "width": 2752,
+      "height": 4128,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100490839595948661641\">Miradora Rooftop Restaurant Tequileria</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Views over the city are on offer from this modern 10th floor restaurant filled with live plants.",
+  "reviews": [
+    {
+      "author_name": "Jam Smith",
+      "rating": 5,
+      "text": "This is a very fun restaurant! Great views of the city! The food was fine you’re mainly paying for the great views. All the workers were very friendly. It definitely can get pretty busy so you might want to book ahead.",
+      "time": 1759005396,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Hazel Cleaver",
+      "rating": 5,
+      "text": "We came for a Bottomless Brunch beforehand a theatre matinee. The menu is fixed price and it's clear before you arrive whats included so do take a look at the menu before booking to be sure it's right for you. We had  3 x soft tacos, rice and a dessert. All were great and quite filling. To drink, it was as much Prosecco and frozen margarita's as you fancy in the 2 hours.  The atmosphere is fun and loud. The views are great given it's a rooftop restaurant. Would recommend if you are looking for somewhere fun with friends especially if it's not all about the food and more about having a good time.",
+      "time": 1755029197,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Harriet Ho",
+      "rating": 4,
+      "text": "I had a really nice time here celebrating my friend’s graduation. First time experiencing a rooftop restaurant and was impressed. This was a nice intimate spot\n\nWe ordered a few large plates, though our chicken and potato dish wasn’t enough to share between 7 people. Food was lovely and flavourful.\n\nHad a really lovely young waitress who served us.",
+      "time": 1753116665,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Nahrain Georgis",
+      "rating": 2,
+      "text": "£55 for bottomless sugary margaritas (with 0 alcohol in them) uncooked rice and burnt chocolate sauce....\n\nNot happy.\n\nI had 10 or 12 frozen margaritas, the waitress made sure she kept them coming. Even with minimal alcohol I would've been atleast a bit tipsy. Instead I had a lot of sugar. There's also a.prosecco option but that has sulphites and gives me a migraine.\n\nThe tacos were okay. Nothing to scream about.\nThe rice that accompanied them was undercooked and crunchy. You could cut it with your nail and see the white line in each grain. Rice isn't hard to get right.\n\nAnd for dessert, the churros were nice and chewy but the sauce??? When you burn chocolate it almost tastes sour. I tried to salvage it by mixing the white chocolate with it but no. Just had the churros.\n\nThe view is nice but wouldn't come again.",
+      "time": 1754233247,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Svitlana Fedorchuk",
+      "rating": 5,
+      "text": "Absolutely loved it!\nI had an amazing experience at this rooftop Miradora restaurant. The atmosphere was vibrant and full of energy — perfect for a fun evening out.\n\nThe view over London was absolutely breathtaking, especially at sunset – definitely one of the highlights.\n\nBut what truly made the night special was the bar – the cocktails were outstanding! Every drink was beautifully crafted and full of flavour.\n\nHuge compliments to the bartender Alex – not only were the cocktails delicious, but he was also incredibly friendly, professional and clearly passionate about his craft.\n\nHighly recommended for anyone looking for great vibes, amazing views, and unforgettable drinks! 🌇🍸🌮",
+      "time": 1748116661,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:42.752Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4TfPtcFdkgRGm2ioXxkC5Q"
+}

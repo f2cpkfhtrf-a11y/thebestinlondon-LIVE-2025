@@ -1,0 +1,571 @@
+{
+  "category": "michelin",
+  "query": "michelin star restaurant london",
+  "count": 17,
+  "results": [
+    {
+      "place_id": "ChIJe29QNB0QdkgR5Kkx_0-jdo4",
+      "name": "The Ledbury",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 1614,
+      "formatted_address": "127 Ledbury Rd, London W11 2AQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.516655,
+          "lng": -0.200063
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51801937989272,
+            "lng": -0.1985966201072778
+          },
+          "southwest": {
+            "lat": 51.51531972010728,
+            "lng": -0.2012962798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJL-HmB88EdkgRfH-wI_8ELLQ",
+      "name": "Ekstedt at The Yard",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 706,
+      "formatted_address": "3-5 Great Scotland Yard, London SW1A 2HN, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5064253,
+          "lng": -0.1261457
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50767132989272,
+            "lng": -0.1248463201072778
+          },
+          "southwest": {
+            "lat": 51.50497167010727,
+            "lng": -0.1275459798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJRzX0mDkFdkgR-qAx8kL982A",
+      "name": "Dinner by Heston Blumenthal",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2395,
+      "formatted_address": "66 Knightsbridge, London SW1X 7LA, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.502161,
+          "lng": -0.159964
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50342492989273,
+            "lng": -0.1584092201072778
+          },
+          "southwest": {
+            "lat": 51.50072527010728,
+            "lng": -0.1611088798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJ921POt8bdkgRwx80KJsqCRk",
+      "name": "Restaurant St. Barts",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 410,
+      "formatted_address": "63 Bartholomew Cl, London EC1A 7BF, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.518365,
+          "lng": -0.09928519999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51965967989272,
+            "lng": -0.09768132010727776
+          },
+          "southwest": {
+            "lat": 51.51696002010727,
+            "lng": -0.1003809798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJcb5nuUUDdkgRp2TnVMSprT0",
+      "name": "Restaurant Story",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 905,
+      "formatted_address": "199 Tooley St, London SE1 2JX, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5028464,
+          "lng": -0.0777649
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50420407989272,
+            "lng": -0.07640492010727779
+          },
+          "southwest": {
+            "lat": 51.50150442010727,
+            "lng": -0.07910457989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJu8QEs-8FdkgRE0znNGEGBoQ",
+      "name": "Row on 5",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 98,
+      "formatted_address": "5 Savile Row, London W1S 3PB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.510497,
+          "lng": -0.1398547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51182707989273,
+            "lng": -0.1385576701072778
+          },
+          "southwest": {
+            "lat": 51.50912742010728,
+            "lng": -0.1412573298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJtZpbttMEdkgRl7-te2KdeSg",
+      "name": "Evelyn's Table",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 1348,
+      "formatted_address": "28 Rupert St, London W1D 6DJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5111175,
+          "lng": -0.1326368
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51245207989272,
+            "lng": -0.1313275201072778
+          },
+          "southwest": {
+            "lat": 51.50975242010728,
+            "lng": -0.1340271798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJBfOjfiUFdkgRvsanD9nfpA0",
+      "name": "Pavyllon London",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 536,
+      "formatted_address": "Hamilton Pl, London W1J 7DR, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5041707,
+          "lng": -0.1499475
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50550697989272,
+            "lng": -0.1486628201072778
+          },
+          "southwest": {
+            "lat": 51.50280732010728,
+            "lng": -0.1513624798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJ3aa-YCkbdkgRo5LPUQzy0hI",
+      "name": "Kitchen Table",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 546,
+      "formatted_address": "70 Charlotte St., London W1T 4QG, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5203921,
+          "lng": -0.1365104
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52169892989272,
+            "lng": -0.1352387701072778
+          },
+          "southwest": {
+            "lat": 51.51899927010728,
+            "lng": -0.1379384298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJNdaqLSwFdkgRcp3iqGlL6Ek",
+      "name": "Hélène Darroze at The Connaught",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 841,
+      "formatted_address": "The Connaught, Carlos Pl, London W1K 2AL, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5101843,
+          "lng": -0.1497608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51154982989272,
+            "lng": -0.1482683201072778
+          },
+          "southwest": {
+            "lat": 51.50885017010727,
+            "lng": -0.1509679798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJpYnCw78FdkgRoVHfIfSrTas",
+      "name": "Restaurant 1890 by Gordon Ramsay",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 129,
+      "formatted_address": "Savoy Hotel, Strand, London WC2R 0EU, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51023970000001,
+          "lng": -0.1206429
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51164042989272,
+            "lng": -0.1193500701072778
+          },
+          "southwest": {
+            "lat": 51.50894077010727,
+            "lng": -0.1220497298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJVVU8V-IPdkgRzKjRtNrdvDw",
+      "name": "Core by Clare Smyth",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 1498,
+      "formatted_address": "92 Kensington Park Rd, London W11 2PN, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5127727,
+          "lng": -0.2031335
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51407762989272,
+            "lng": -0.2018502701072778
+          },
+          "southwest": {
+            "lat": 51.51137797010728,
+            "lng": -0.2045499298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJ8SPji1MbdkgRMoaF7VECW1M",
+      "name": "Club Gascon - French Michelin Starred Restaurant",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 587,
+      "formatted_address": "57 W Smithfield, London EC1A 9DS, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5186292,
+          "lng": -0.1002364
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51992897989272,
+            "lng": -0.09900067010727778
+          },
+          "southwest": {
+            "lat": 51.51722932010728,
+            "lng": -0.1017003298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJyZOR1jkFdkgR75CyutG9DI4",
+      "name": "HUMO",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 579,
+      "formatted_address": "12 St George St, London W1S 2FB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5124603,
+          "lng": -0.1432237
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51381437989271,
+            "lng": -0.1418536201072778
+          },
+          "southwest": {
+            "lat": 51.51111472010727,
+            "lng": -0.1445532798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJsxeqTo4ddkgRJq0WOb2AgvE",
+      "name": "Cycene",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 312,
+      "formatted_address": "Cycene, 9 Chance St, London E2 7JB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5245507,
+          "lng": -0.0752294
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52589122989271,
+            "lng": -0.07385647010727776
+          },
+          "southwest": {
+            "lat": 51.52319157010727,
+            "lng": -0.0765561298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJCXHRB9EEdkgRrOgHyE2YKbs",
+      "name": "Wild Honey St James",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 993,
+      "formatted_address": "6 Waterloo Pl, London SW1Y 4AN, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5074924,
+          "lng": -0.1322098
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50879482989273,
+            "lng": -0.1307840201072778
+          },
+          "southwest": {
+            "lat": 51.50609517010729,
+            "lng": -0.1334836798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    },
+    {
+      "place_id": "ChIJl9_NdCwbdkgRpKEhBGIYGmU",
+      "name": "The Ninth",
+      "category": "michelin",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1335,
+      "formatted_address": "22 Charlotte St., London W1T 2NB, United Kingdom",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51873459999999,
+          "lng": -0.1348487
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52009582989272,
+            "lng": -0.1335725201072778
+          },
+          "southwest": {
+            "lat": 51.51739617010728,
+            "lng": -0.1362721798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-15T10:53:00.263Z",
+      "query_used": "michelin star restaurant london"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:00.263Z"
+}

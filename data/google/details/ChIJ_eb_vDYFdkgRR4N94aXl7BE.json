@@ -1,0 +1,224 @@
+{
+  "place_id": "ChIJ_eb_vDYFdkgRR4N94aXl7BE",
+  "name": "Saint Nine Coffee",
+  "formatted_address": "67 Southwark St, London SE1 0HX, UK",
+  "vicinity": "67 Southwark St, London",
+  "rating": 4.9,
+  "user_ratings_total": 297,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5052909,
+      "lng": -0.09845079999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5066377302915,
+        "lng": -0.09770716970849798
+      },
+      "southwest": {
+        "lat": 51.5039397697085,
+        "lng": -0.100405130291502
+      }
+    }
+  },
+  "lat": 51.5052909,
+  "lng": -0.09845079999999999,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": null,
+  "url": "https://maps.google.com/?cid=1291659693763953479",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 8:00 AM – 2:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1630"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1630"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1630"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1630"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1400"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dhiVLqPLkcJE4CkGmodBXvsaO7JmRAwNYmtdKDyduPIXEqjWAAM3PJ4HNGZEdfZn_YKgfTmMx5fFcFTGwfKv-VJFWO_o5qtx3CfaJFvD31ZkjGouAIsiCY3faQaRJ1XMC5P6ErzXrGj71uzxyzTfmP0p359Y5QW7P8oJ7D-HsccrU35EC9a7SSi2ZjLPIva_owV7A8oMdrwUs_op9b1Ubj84Wc-6GEJelV-Rw5LY7aL9Wi8qId7mwca5WxSpbGbWtM-YmUqb4sJbe9sSqLx4NM-nIwnNeKVmnIBN5GyckvmEIbzCmEB1PH4sQiKXhsGC5Y-RYvyEA3HSV3M1xsq87KHfem67jrY72maAwesRN7ga1RHWJBqvKfZKtIK_h1ihnc3vRZeaA6P1MmIM3pzSapdhK1yeJHL_PoVIR9b_g",
+      "width": 4020,
+      "height": 3056,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117109138058615894188\">Robin Metzler</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c4pXUiGAKG6r1yV88c7WbScZE4BuNtQNm9VUOgxZOxDXEPrCLHp2iyCFqe8H180FPY5_dWX-JmqL__AeIN7zxib2oHAArpIJT_IhlFnoNV8CCvoETPCrvpkUly-_JbfYxM1ajsF6AfmnA1B2f6Y0J8hgCRHl_gqZmpEFx3U-vS0GMrXqhbirt3UZgii0rR557DjTgdlyenCN2TvTpWUg4n7aT8KqXXRV5wVV4Uj9-sJsT2AhJj1tMPbJ30ZZn6QRfQjCAev_HJcww62WICQ9ZF3L0-RrPRMkybK-79uF2PS734j6SlNGPk-8Jm-HoF3jWPMVaq8yriY_UYzlGRTZ-7KpkNS-2bdGteyBGsI-3ZMRSvBSMpNnQMIbhaqzAHoUzKvBD9EUfWVLJju9k3oLu_0PfMRSaTfFZ8m0H0dTskEQNoQqPnbjvO6STIGDZx",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108828914933439542378\">Lift_Run_Eat_</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2csEesvvjWIHynxkShF63L6VTecn2xeX-gXBAy_wbsjXrVHcigKj-1jTR0IEvV6Y8kPZ6xSUe7Q2B52IMIQ67bb8Li28mmlCFf-0a4l3b7qgFjdsU8IOldTiiiLVbEfO3TO2LlLeHPc5P8ECIJ24xI53ThMmawCbVsyas4AK2wnA7cac4eFET-qiCo84vX-nVNZQ765GtEleyLhbliM-9_9qoWG-IK3Jc-RThjb4LQLLdN24RztDNZNzKL5nvcBDdv9TFMIVVmUaUqL5IADuE-aVzD9pChQ4RhH3wRBc5wxN-ysC1nmUcXJpisNslAQJN_-jc0uV1_Y3zkFbwJzMZH9tRuSoy0KLd3E9orh_p5SEYwLzBfvikEk61aTuXiKhs83_rOheSNeujsTrsFtBMqJ7kZVWeXrJs3xiIvpoB4",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109575228654991555038\">Dominik Johannes Melchior</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fWuSSUnSQDKD6QkcFx7mkhq0lsIKUItfbvhFvHZJCD04FqG7PAPFmSpBYChkOxSWKwRFeSx1EL5HW3HbIY06RAzD9EeDEpxgETxaiW3GPIaX6ZVjCzTfJocGJw63h47ELXsk-LZh2xEhIy7jNw6nX4gcxBw3esKd-d0V1ZidoyP3qXJ4dWAGIatfBHiTn3v5f33V9cVHiF8B0_eXGg-YwsHMd0ngEP0v9FluSP3OBwT6cvM9nKl23BmwFlbBgF551Muo2Zn_1sOAkhzjTxtf7eEOUY5RLZewVw5hAzguAdHwlNRd13FLfCT7K_ywJjSr33jJrLDeCVNG-anSGGbAgHopGPwxcoecD1y_3mzkuOtwd2f8edTUAgtCkF9LZvqECklrLxGJzkTjr9Bd1pofF9Eaifhps-UdoXd_GiPdl4dQ",
+      "width": 4032,
+      "height": 2688,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115294666404269427632\">KING LEUNG</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cptgdmdFMlVL8aKZyVsP4kt8UGGWy5RmN1tzQerIxBe7N-hNyLBGOWTWinB10R-BRCIeufcXgb-5AmTlYSRBN1zvOqA-xNoxwjVzhRce0PYszEM6qW8xipzoqN8OvtPPPjpu9F8Auxa-7ubMk_LuoiSzpLQA9ztNB7v6fdRcjftLirpmT-J2f-ItzvA5HMzHWuIYuhMkoM_BnW8pXv1r034CT9-Zvqlq7_P3Ymrc7we6cn99vpEZ0U96uQeghR07dt2VKqGwYcUyhwkI65cqFsx-Gj8jTt7Nw-CAEyfUF9gns90fERmHDUCzRyqlZErM_w2pp7kewPUOJ5YCDksvd_mo4NRKzeyzAvqhfAYzZ8YDs92pVl92ISSATCOnHe5nxheRnpOklsaBd1yA3Q9Z5pMkCNr2UeLNbnk-0-wUqdPbU",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108210108285978370638\">DE Igor</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dOsNbh_sHYrM6J7iqxdttLhHa1gLMUD4xGopXw5gA4msdaFUgLxju143_HgNj_l2MYXoI_oni-jjjaxJJOUwphLYyU1ls-br0vwTQ2j3hTr2hGEvRXN9Xc_TdazdoT05-U7GSq7ADT1Ues2055zpkpX37AGMt4O0BbgtcSFuoXWHv2FNZdwxB3okvGpsixHchTKYigOsmYzJLCZQ1eDJfG6gS1EsGtdkL35pAzjRRMd8erNjGXMvpRoG8MNmq95hvAYJ1IQEnqsSRGWWmqXzlhpv6er2XjFH4FOPguWtdeqv3kyIZxBLQvZ8aV71E9DfescReNPQoASfle1q2bv1tSk9Y8Jmf1ljKEvxPaEtvMKtA64gTWS7jxckLPt_nkVfoDHNecRe4SsnRSxIM7GgiEq8qtLcrMOryl_DZzoU4yyrQ",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114010454868893439786\">Ephraim Rein</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cBjbQbVyiXbEEcIHy99V_R2j18iaKIHvJOF_hYz_1gWB2n5gLqLaGJu4h4pqzSWUQLfwFev31KcKflTh-VbvJkUFIyBMwlG7i6vZmh2y5SBaRa6wKm_9oterEg5jlBX5PcCYW68fGcHWw9X4gfbsHAEihTQLb2wfJzlMq6KGY_TrFS2swOwsNWB7qJUrvBSYa4OfMvbvJqjpv_ZIr9Mz3xyV2q151NMPJchyzPe2eTzaih6tiS8O16iV2yyYc5K1t_qr57oYLp8eiYDtalWrDSdIO2ByBsxtA-ZDhckVNZlo9NF61WiiFYCMO2AupU9GMzkQM-Vy8sopvYKm2erD38yiwB5B4NXe2WDApwampFKOIQNFZtrqSrbMeO_l4axTQ8xxWYOjJ5hH9fj4962j0ErclX583rqbDbYHCjhqmxMA",
+      "width": 2073,
+      "height": 1411,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111941996399252793572\">Sam Aberman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dkE0ypCQyKwNgdBibaEVaWlinAqyM-J5001S-rgXXpYic-PZVjPE9CF53brBK3h7hJt7aBQ7Q64hdT68nNU-5dQDq2LrM8gAmsYWGJ0w1cf1jmtdlyl1qaOUnow41mK4ti0N8t4WQgkBxqvPbRaGcEjoBxH3cNxCw7lpZgqH4w_aVMP3w0n_LGyyiZATfFMNgR2oOT1XqqoF87Ipxi1ZdzkV8v7MhwMZi41yODt9HM7TQTxpeaSt76YAGW2c664_CsLNty1zxExTMAW8ViQhXHFzPzaqMhe6gsUKSa1Lhrv_7WtVwpxHokEOTpyKrKGCbA06AflLxkwopPDUaoeLIAGocq7Xc93ZpRrrCyn-kIJMuvdwYQP2N77I-LyyJbK062nWfc4WbbNrZuLP8Mo8fzOd_YKPRMkT4vrHhv_h_wBA",
+      "width": 2736,
+      "height": 3648,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108450433498220536888\">Xiao Ma</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fgAUhlmMdTk2ffgy_61i1dkjP8-UHtvTZleKOWAA0eFfnGLaNu257eze6Bh876-IvA7oeGOkQezVQ6or99_yaCG_lW4o-Y-HrzoeSN0lEKTxpF37LunhxjD5Qb60lmGPycX-YgnRp6j42gs5I8L-tfvCBtpul85hmXYcO5rozydIQznmFID4eBAYt4r5yOk7fcA-Ac1m5-xfXycTRu9nFdEuhq5kFrBwSffWFgyo3hTrF6ZP3QD7GRMV64rujU7IUA7YFj3R0uYon_wDDp8w__zh40Twn2DkJQ4ID7ypwT6ZA_Sk9x-h5Jxd8pCWKG4YkueRSdBq5U0ZYoqggrLS3E6B-Nn1xvBs7eVi2aOW-Imu1zTFF7By0zsScvm9C7ihfH2UtQwCnE1aGBnhw5weN1hFBMa7W3MgVH9H1GSlA",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102877983392036788755\">Giulio Roggero</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exuMMbO3AtP73hvnT6mbHGGx6Ggs8l0FBem_e0vwjrOklhtmntDDdEJ18dNkIho-hcYBLXoQdRA566PcsoQNJfpM2V4U4QpXLGDrtV8pTXbT7Bw8iH5L3SvD6XumgDHVmtaI77FGDVS-cIbol6xAWHzLt-VUVMtpzrycC60Cag5F2Ve_ABTnvNCdmUj7wPD4JtNIZVqnp5-bk9cZbx_XvDfF9Wj6xrVANVSOLKhRRzEAVL2Yv3H6G3wdr3ocg1RZLBQqiaQWvRiG0dV3HIftpWz5HixGEQqNLPCuwG2ZiOTVN8vMdDB7vHKXZayn7Uc5IcV-Zzl6nzXd9D_6W4dO4zdKK9mBcBeMXGjXHjzMZ0KWOkPCAEPEOX-rh1vF3wSE6YocJK9lEv5Rpcb8objAs8mZ-NH5QSqhV_QOQg46HvYg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107430811689106841926\">Maria Celeste Tijaleiro</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "editorial_summary": "Artisanal, barista-made coffee drinks served in a trendy counter-serve with splashy art.",
+  "reviews": [
+    {
+      "author_name": "Dominik Johannes Melchior",
+      "rating": 5,
+      "text": "Absolutely amazing looking specialty coffee spot. Loved the vibes and interior design. Most importantly, Saint Nine impressed me with very friendly service and the most welcoming host. Definitely a recommendation when in the area and also worth a detour when looking for great coffee in London.",
+      "time": 1747313320,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "DanDanDan聊",
+      "rating": 5,
+      "text": "The gentleman inside provided outstanding service and hospitality — truly first-class. I was amazed to find such a warm and welcoming coffee shop right in the heart of London. The coffee was excellent, and I even bought some drip bag coffee to take home. Truly recommended!",
+      "time": 1757229323,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Lift_Run_Eat_",
+      "rating": 5,
+      "text": "Top coffee, top service. A little bitter on the betty but the milk work is nice and smooth and it’s a perfect first cup of the day to get you going!",
+      "time": 1753778225,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Sarah Kang",
+      "rating": 5,
+      "text": "Laith and his team were so friendly and my macchiato was delicious! The stunning mural and decor make a very trendy atmosphere. Will come again!",
+      "time": 1760084577,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Nils Runge",
+      "rating": 5,
+      "text": "Highly appreciation to this place. In my mind the owner is the equivalent to Heißenberg in Coffee Business. Must do for all coffee lovers&addicts, superb taste in every cup. Greetings go out, from the boys nearby Frankfurt ;)",
+      "time": 1759428289,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:23.978Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_eb_vDYFdkgRR4N94aXl7BE"
+}

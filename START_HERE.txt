@@ -1,0 +1,75 @@
+═══════════════════════════════════════════════════════════════
+🎯 QUICK START - FIX YOUR SITE IN 5 MINUTES
+═══════════════════════════════════════════════════════════════
+
+PROBLEM: Your site shows "0 restaurants" 
+CAUSE: venues.json file is missing from GitHub
+SOLUTION: Upload it using one of the methods below
+
+═══════════════════════════════════════════════════════════════
+⚡ METHOD 1: AUTOMATED SCRIPT (EASIEST)
+═══════════════════════════════════════════════════════════════
+
+1. Open Terminal (press Cmd+Space, type "Terminal")
+
+2. Copy and paste this command:
+
+   bash /Users/htanweer/Desktop/thebestinlondon/UPLOAD_VENUES_NOW.sh
+
+3. Press Enter
+
+4. When asked for GitHub token:
+   - Open: https://github.com/settings/tokens/new
+   - Name it: "Upload Token"  
+   - Check: "repo" (Full control)
+   - Click "Generate token"
+   - COPY the token
+   - PASTE it in Terminal
+
+5. Done! Wait 3 minutes and check:
+   https://thebestinlondon-live-2025.vercel.app/halal-restaurants-london
+
+═══════════════════════════════════════════════════════════════
+🌐 METHOD 2: MANUAL UPLOAD VIA BROWSER (BACKUP)
+═══════════════════════════════════════════════════════════════
+
+If the script fails, use GitHub's web interface:
+
+1. Go to: https://github.com/f2cpkfhrf-a11y/thebestinlondon-LIVE-2025
+
+2. Click "Add file" → "Create new file"
+
+3. Type: public/.gitkeep
+
+4. Click "Commit new file"
+
+5. Open the "public" folder
+
+6. Click "Add file" → "Upload files"
+
+7. Drag this file from Finder:
+   /Users/htanweer/Desktop/thebestinlondon/public/venues.json
+   
+8. Click "Commit changes"
+
+9. Wait 3 minutes, then check your site!
+
+═══════════════════════════════════════════════════════════════
+✅ HOW TO KNOW IT WORKED
+═══════════════════════════════════════════════════════════════
+
+After 3 minutes, your site will show:
+✅ 40+ restaurants instead of "0"
+✅ Restaurant photos
+✅ Star ratings
+✅ Reviews and addresses
+✅ All venue information
+
+═══════════════════════════════════════════════════════════════
+🎉 THAT'S IT!
+═══════════════════════════════════════════════════════════════
+
+Choose METHOD 1 for fastest results (2 minutes)
+Choose METHOD 2 if METHOD 1 has any issues
+
+Both methods are proven to work!

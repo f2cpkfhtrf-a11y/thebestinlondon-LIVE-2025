@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJxe02As0EdkgRZeOhNiEbtt8",
+  "name": "Bill's Covent Garden Restaurant",
+  "formatted_address": "St Martin's Courtyard, Slingsby Pl, London WC2H 9EF, UK",
+  "vicinity": "St Martin's Courtyard, Slingsby Pl, London",
+  "rating": 4.5,
+  "user_ratings_total": 6172,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51258139999999,
+      "lng": -0.1265727
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51396143029149,
+        "lng": -0.125501819708498
+      },
+      "southwest": {
+        "lat": 51.5112634697085,
+        "lng": -0.128199780291502
+      }
+    }
+  },
+  "lat": 51.51258139999999,
+  "lng": -0.1265727,
+  "formatted_phone_number": "020 8054 5400",
+  "international_phone_number": "+44 20 8054 5400",
+  "website": "https://bills-website.co.uk/restaurants/covent-garden/?utm_source=LocalGoogle&utm_medium=Organic",
+  "url": "https://maps.google.com/?cid=16120101745683719013",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cs7lgvPhYQZMo-vUYC-3HTWd4PvC4ikvEVM4EHF52e18JNmeFILpyrX2AHn5B4M0cefAtxIEZyIdSNDoI24bGMHaGXIbSvQufNkejY_373U5nr8CuYzvli1_EOJtc2i3rWesCpIQ4tNzfbXiqxTnulXJoQVKQuTaAT4E6oP0P_IwZRWvaOVlhuwplj4UfyuBHjnCf9jiBI3tb04JMqjOhYP9P2h9Ny3XKsjvajFdSh3S9ZpR4ReYo46tZFWFfw1FIbwInzAscswwN2GXjXVdQHR23vHFTu5eIBYtzV0eFSAw",
+      "width": 4800,
+      "height": 3203,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110729146613685658590\">Bill&#39;s Covent Garden Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cgD6v-YEXHDa7LNgaD1SyJe1zY8-xzdCuRir5SPDgmlfe7qBvfh1PpxsIPu9x8E8A_f3ROF15zc5SgWrPtYc3HyTlSxU1V2uWv7dmnx8lCTs5ARwFeaK5p0bTRpd45gdX-dGu8YcTqyJ64b5shFDy98uItBf_y5FFBqBe0RBSmz6bEiIhcwlIoQwEAAS8wyXQMdFoSY_KUwq1y0XwFOW8M9tDwz124lMICwLeS-7dd1totR15gUYWR9gECz7EV5pw5jLjWBbGis-V9DSW4nia5iE1WDPThY4NW5d8CjPbi28S47xWyZ-Te1BIGj46hUDkpoibyZdgj9CLv6DWSPftDOFz1J-fT-P0WaKWLshoIcDOHcFRmlVdqZXw_5AKwdGTQupoLSyl_ABR2yqdF38EJ92X1FSodwLzvbq3-peSQowCd0Mw-gBm8HPC0i248",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108300759250372483640\">Alice F.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fuykFkoaRnyCQVknX-NVRdk2TTZ9Ek41cA75jwcIR-7BjBZONRot9NMqrsZ3edHBk4Idei7Nn2MYD7uZLQUjBibq94mpB8rr0RQEjoapQo9NCBo0F5QyOBzv4MPDBfcr_dnyBziWff2oU26oOrUh6uTXSRZZjQ_USUjjBEFwH37oMLsUgFNwkA8Bpfyn6UHqw1WxDU3aS8R69Q3IHu6e4iXeK46uL-VcPv-rW4AFpa_hbP_fywH1-nX78HXr6pSIPPSPYwVicqWQhCNSJidYXbE4VjbBFZWMuFz7EZ5hykNA",
+      "width": 2880,
+      "height": 1620,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110729146613685658590\">Bill&#39;s Covent Garden Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKM9A3Q-KdPNWB8dgJJPBOwIY2wldMIeIVor_Sr0rFihtnWSJ8n_9_AINkK8oI8u67uz2IS-PAUqgFVKVn3iphLGKYWq0sfJYnNB-qy_8WgheaAZuvkOXnQIzRkPl-qpw3Ja3ZH-yOHfe89y4D39s9_3LtOvMgePFu31QBUlwB9wpR8Dmp2UxJPsYY2roppv3qOIO82Ad9fV7mLxrtdbSM8YKYCx513KoTKEzb613KGSreGvxhSjDn9RsUPQdNHcdPIeDPiH1RokMkKS7hi7Kqx0SX6pVZ7O19H-ya4Rp6X-OWVuPMtfnQqx-qKhufUAOaHyw5q1s_59XlSuHjnlxUxnGGrWRVRNHH8shf_F3veKdp_JL-lZrsl48itX1tb2_gI-Z-OhwtPUYDLUPiEnYXLXs2OadEgZFofbQsjIt9f524hgEfpCPeKG79wSBu",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112565039290726597632\">Katherine Qiyu Su</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJMqrG7QmcgDyxWTx23VZQCjeC6PpzrzFZKbcKFZRcdukj3vBSbsF5L0V_hiGc1aBJzdFXbGiSepb6t_43Y1ebBHHmomu4twOW-ZiNqG3i8tqAixzA7JMVd5ZWCKh4u6G2GQ295ZdXXBZyGebfN_oL6ukE_Sfbsp6ch96aKZJRTwsVywSuG00BdXSxJt977XDcJUQGZg-DK6A1led0rz0IFLmz72dc6r-wJbTWuPd8cvDXu8kAq936Ip0aXo-aQN5FhSpTzu845jU_f_QdPVGN1k6qaHC1nmSqVFO0eA98x34GshHNahT4BbvE2znjIMXMzHHJ5GqxyQWNQX4ANlyZHHNMuj-jPnOusn0zPmzyx9J0e5b70KhNLuiQuvS12HkJExRoho-UDgrRZ8nPmxeIsMs2IeCoPap9K2S5LLaQR1EzneE4bQS2WO8eNw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113846702631296389375\">Eduardo castellanos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flBuZIzMzhNIsURPSSb7FVE7Yc_rRMydZtjobk02V23Ye1kHAUDCdyc5I9MO5Bi8YQ2eJav7PClFlldRvO6lSp3QctNxrWhbzJiKuPLTlvi535W48ktg1wEt8szuLnrge0IW4yLYOuIF8VGS3APXq5bhIRO3Dv8bdjQngpe54JkFSOHIBK1n-ru-iP1V0YSWUBfcwHb-1-2-eNfDi48fkd9yradAbm7S0tL4VTmnnnrWh4h_7jCwyUMniUEGEmTTk2cwRFKV1SN69_xxJTwhYohKvjKY6a144sDvyRbNxPBcSvwHyLkBxEEdOheqv9rnvcoXf9fahTwWY2cqkZXWnwAC3BGwKZGgiHYBz1g57q2P9KQnj7f4Bog9dtDjq4jkXfRVDkXLnZTte0mT81ag6cV2WUccNpYd9Uj2NEHvZ-8g",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111799443430248469072\">Nathan Detwiler</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cxoj2D0kZqRy_t9__9IY1FMj-n9EFXys9QGutjiFNfuR_WOjijd-rSnHsymkSuQfQmmOKktvIVYTs52boZKhpc4lSqAJM5mv0KnBHPAQ3yW7mlSlYS8ZKjzPKKaU2ir_HimNVwxe8MqtpHE783NHow5odEKxFoA_QuKxyHzLJ0hN4t_yEBge_q994mrX4ojp3BPwd5Ra0i06GllAvKJ3m7t1NS7R-ivupbvQCc9k5SZmfdpK3U5620f0EWl7B6FbXLYit0ltulce5IKpXXvtysAOXgWOEVx3f8fFHozFKW1A",
+      "width": 4800,
+      "height": 3134,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110729146613685658590\">Bill&#39;s Covent Garden Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cYZkxX6bODMYZGiXHHN3J-PZ3Ln2_D6rqUInASXFZaJ4khOmh0BNv6pdZBWpFUdLK42HvzzcgIcE0YFN4sr3eJrcpF9YAIjP5JQRuAMiVjsf3zKKGWuyUGZpvq-eNCI8ODoCOg1_nzoD3oxO-hEzUW2_mJ0C8OT1DVqBgIHYuN4y3mz_hzG91XM7SL2t8P865E14_mP-m-RR9p3EqvNZleFi3II07td92JWz__JeeItVa4_06-RC1rpEIsbETnNx-wpDOTujy2YCSNZbjxELPBjNQIjXMiKmGtXj_mbCx7l64IZ9adFZjlt9SFgPPvEXOjfOrNU1oCSCBdYFEY1Z_CysrdmHbFGn7zt1yA1EBVrkWcNCCt4BPr5eAM9AdG8zHE7qyNJyydOHr3Fd_ibDh-0t7WhFeJIJYCCkNdAQs1aig",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110842817931252682131\">Michelle Ross</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cMRhBmM-yOcZfZqBaZel9XvFofidF860igo0BaO9LwV_8jekafKu5Pt8a5oRcSI0KJY_zD_alaqBFdW8EMKM_Pm14aXC-r-O3c_a7Fxu1Jd5fL3qQIkaCi1VgHuyJigMNlKoOLfSNueRJb7SGx7Nca75Cr72SSyy-KXFaASoCAcZEnyu8UadBbGUK5qnJIpyrhiCcyIuOXSG7u18tY2oQWxqobwkhs9SlsW8BXb9O-JN63CVtfXKBG2TkN0CNK5jTMICrWVEady-IIbVZa7dkry6cD2ehiW5LGht6CMaQbfAKaO4TXhQuFMHn-tNZG4LBiXVOnWU5K0Y4gRZN4cNWL51_0H4CJxIgNsQ4nOnrW-Kjah-OuO_VNWwG-ZXEg04lJhpD0fY5gShXPIOJ77qWSZfbnqKaFCuHRSJajpg0",
+      "width": 1290,
+      "height": 1113,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117786787252793460227\">Varakan Gopu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e6PPXMMcRStdnntBuP3sQURmWhbvqpVusHb9_nSYUpWnZ2qeTeH70labOoSGu3slMSLtNuC7JmjKg0zQqSxoMAw4G3qX_luoLTDnEc9qV3E8KNn1uiXCuIe2rJka_vu3WDhjq10Gm0vpOqFD3vkWpX5dDppVR4zlW05deFHnVLzXf667cmsuuxQGzgLwbZuv2cgpahgXZ9V_e7nb_GLbLM2fdIsNyw_dVcpXS7Fu3cvu3icPo6_b3HqhTZLBNDh8udtStxxzJ3BIF6_yreg3OV0FlSCbInKREFRXptAofiSr4_mR-iaVxw47bReUSnFTVtH4LmaddpCq6o-F3qOL0sZnsXhLQM3lwABtx26BEgaLYa7zIAO9zBF6SVa4J1EDMzEV7HBXFiafAKvk0V2w5mfk-hUWrcXOkJmBG2_TE-ho9WyCdTtj0n43PsdlxW",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102220845304134357150\">Bee Lola</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Contemporary European chain dishing up separate breakfast, afternoon tea, lunch and dinner menus.",
+  "reviews": [
+    {
+      "author_name": "Alex Krajeski",
+      "rating": 5,
+      "text": "I had never been to a Bill’s before but I am so happy I stumbled across this place. There are so many delicious options on the menu that I had trouble deciding but I ended up picking the Big Breakfast plate on their weekend brunch menu. We were served by Beata who was so kind and informative-we would come back just for her service again! To top it all off the atmosphere here is to die for. It’s very homey and cute-fairy lights and umbrella type vibe. This was definitely one of the better restaurants I’ve been to in recent months.",
+      "time": 1759067069,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Lindsy Winfield",
+      "rating": 5,
+      "text": "Food was absolutely amazing, quick to the table and presented beautifully. Coffee was one of the best tasting I've had in a long time and and the tea came in a pot. Our server Dana was sweet and caring. Would go again in a heartbeat.",
+      "time": 1759306519,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Lydia Elise",
+      "rating": 5,
+      "text": "Absolutely delicious breakfast. I was initially drawn to Bill's because of the pancakes, but ended up trying a savory dish instead - squash, spinach, and feta on sourdough with two poached eggs. So different and really tasty. Service was a delight, Dana was warm and accommodating. Would love to return for lunch or dinner.",
+      "time": 1759480029,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Carlos Cereceda",
+      "rating": 5,
+      "text": "The customer service was excellent — super helpful and friendly, we felt welcomed from the start. Our server Marianna was especially sweet and attentive. The English breakfast was generous, tasty, and reasonably priced. The place itself is absolutely beautiful inside and out. If I had to nitpick, the only downside would be the cleanliness of the toilet.",
+      "time": 1757172728,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Zayna",
+      "rating": 4,
+      "text": "We ordered the Dubai chocolate pancakes, berry pancakes, and triple chocolate pancakes. Everything was delicious, and the atmosphere is nice, however I thought it would've been nicer if the Dubai chocolate pancakes had a kunefe element (maybe as a filling?) to add some crunch. The service was a bit slow to be honest, the waiter didn't come back to take our order for quite a long time, and then he never brought tap water after we asked so I had to find someone else to ask for it. The tea pot was also steaming hot so it was difficult to pour.",
+      "time": 1759500701,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:58.284Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxe02As0EdkgRZeOhNiEbtt8"
+}

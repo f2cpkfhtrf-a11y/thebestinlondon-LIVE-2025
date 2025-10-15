@@ -1,0 +1,246 @@
+{
+  "place_id": "ChIJzd0eeYkbdkgRixPmsR1cfXI",
+  "name": "PaStation London",
+  "formatted_address": "76 Tottenham Ct Rd, London W1T 2HG, UK",
+  "vicinity": "76 Tottenham Ct Rd, London",
+  "rating": 4.7,
+  "user_ratings_total": 8007,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5206715,
+      "lng": -0.1346761
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5220704802915,
+        "lng": -0.133260819708498
+      },
+      "southwest": {
+        "lat": 51.5193725197085,
+        "lng": -0.135958780291502
+      }
+    }
+  },
+  "lat": 51.5206715,
+  "lng": -0.1346761,
+  "formatted_phone_number": "07392 154140",
+  "international_phone_number": "+44 7392 154140",
+  "website": "http://www.pastationlondon.com/",
+  "url": "https://maps.google.com/?cid=8249851375021069195",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dLNYeIWOD--ghSQRL5wCRDuL7AIvdO2NtjELANJIVuiff7GeVyyXhUpQICNYpuyp_MVVwfvBuU-N2ZtZvG2XpU4XUYNfJdlWCrizZeUfc0pFJ46bO-5UD-ntfdeGiZ79Y9_lCtP3SIsHXZLcEVZBQGnmfIeFnBGn5r6Vcwx_cn3z6qcvx0Q6w8Hhkl4l5XoFjPbFg4nORc1_abd6GKHhOgd5Uhbf6TUpEu1TuonoxU7U8MCOpQYkdAOw4ebGdnonxym3wIW1JfmLsoWkQ2sX4y-B9dTPJngvgXLS3wBqZPgw",
+      "width": 1080,
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114577935190688834030\">PaStation London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEXyXDFIRJUEezHVk4sI_CKrQpYpcnoboafr4HcATfGdyrcuELe6uQ89VfIQNf5AZh1eEfq8fW8qI41GtPJjmOaMRovYwBT7JaaZU2n9mmdUZDed1YGUACOWv_nDXJ19q0Rifrjtyfvss6yXJ7HD2qhiOweEBKB_NioxvF9j7U3irXQpKWchG1ZPnNdSBDSrVZPZ2DbOrQxXQ1W6OukiRbdW5g2jjb6BcKNwu-HCPMERrA2dzMuM8l1JkDvFG35b1yFcHvUDtEUGZCsi71kR2sZi1ON7ergFoytVxrO9OdYQ",
+      "width": 720,
+      "height": 576,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114577935190688834030\">PaStation London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cKc4bNS3mQJX2UZwE9fsa5MHEIkO-cE9EuLOqbCfL_YWdf9LC-o3Y9ZtMUPn2qB5XIx2OyqmWILaFxvsBGeKtEdrOSA1-T82AUCLdx2zlweIVw7_R9D8liw5Q0KvW7PbfW6OsiY2ftfiOElLhMrvg9P5U78gKoLH1DuNWwHA0cxcSYZQpDqBrBKL2VfOMEETN_ZPGrkwUhygXbNzz2HCAKHz3xYuZmyVM59nR5Nan5-ViHpy4IRWiIkqU1QZTd50I3I1aa8NzbvjzSkp5wFyYBjmGXh6V4TwxLusaVCkc8RGhmALjrqnBUIz4-5SAp0DeSP96HUyhW0p4Xiset3M4iQBT6HKiuT0xBjtWeQaMbdy_Z8ee7-iktkmuNHhj3OMX0e50Jz1xG2IK4xtMwkIUhS8nibGo2DB6yq6DTmr51X78EuBEFv2QfMR4D2A",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110423482093478069617\">I&#39;m Sherry</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJZyqV22r44BpBnz9tBRLISAtx3DNrGn-FrFFkvoOENue3Px_r0ZIOoVilFvb61o70DSyW_JmIELEJxbJuwMkNBf0V81Tg0mS3JOR2zEVe4qOE4_HkhzTJdV1utnWJ3m3r3N4F8tYnTA0tven0shnAuh6E3Puqf7kkVBwyg9Nhil7I6m2VVav4iULYeK2S0y4kZhKO4H3ArFtWraGNYlXb_JiIbjdx1dhOyu628Ik0Bi7LKAKAKWUipDGG0EDlU6sYd7wLzw4yStnLSiBX-QdbEiWH7KK-u42lwvPSg5FW2w",
+      "width": 720,
+      "height": 576,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114577935190688834030\">PaStation London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dkds_5tYJYIAYq2uhHT2yiBDD1S_ILsgYIG71EWbFvgPZgZsX-g5vP4vKalAdnidfRpo5jFa3RRcjNwTUoCkQb0AJoJz6TzmPFhvtJ7-A5_TjD5boM3HcbPnBBGSSEkEEy19xKqcOcSdM1vb6JD1GO7E--5OxMn8FHJq4w42N5c5mq-UBEZ266Zl4YVentpSe5tPM3_qfjRglhljDhQW3m1pmGL8plW77UGiXR62sjmYm6Ro-hG0so81itIpzuLH6vDXadhMq1kaltK6BlPSLKn6N6B4zaBZaGWNy1DWel2Q",
+      "width": 720,
+      "height": 576,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114577935190688834030\">PaStation London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ddsMkB2ZGTlTHfnL8ajbQW_6Ui8kzwYSSd7FvGTfxQ9eV4jscoifwBkmmFTYLCuR83Fd_wS_8x3Bk1AYhge-MxzRij_DCB4hM9mkp0cuSPsf09H6CHSD1fj6yIOzCXdW8KSHKLSO3ddZ-VRez7aq2lCCwi3-f1DDnCeNjPcTJpLX6cvv_tBSGDGDlArukIGMAGbzk6Z5vtRhJIGyat6V0UjYrUGnYy2ZT4NobG8BC9lYpjRiJLM4mANrb4mhj1O5vOR6KUt6WxXj7cYDYoHPWjXGbzFioR3Nrk1JPQ91SuscQINh7zO_0dubWhrjbnkM9Rw-4tBKb_Vk3ccyz24zE1G4TKVtlIUWM9sd8pS-OVLLdoVcIr73prMdiLORxRqEa3J8jI6a2ORRjX3gTwmbbW4MB8eaMH4ex-SvBeW_UoYfloDlZn_L1th5wxY1Gt",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117374858419140140464\">Hakuei Mori</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYEVmQCoSy0SHPAGFbFnVoN1bWKittCvcX6YIyKUuhU3weg6Y8mA0-CIeT_gy-CJie-_m6es6L3HWBy3UqhsWA64lh0pdL6QipCMffo4PaBngYsk1RMyn7zX5RqCCVfd0m00JJJv0AowQn0a2VWQf21vL23mPua17iKTvtY0vj6bGuXC2h2JsVcCuqPvgOaP8ptcdvJT5PxjdQ66wV8NaaLEvVPtSXmtkKXelGCSYdSEA-m8JAoHgx82a2R0rPfyNWJ35QuhTM4hTuECx125zHSE6pClLqy4aSh-8V86WXAvA6hMRqVrcCWsG3N_mMEHa2d77lgx-5D3hzLsnQu_5zN04VDZOrj0B8uGfOiYpEENVsscEaVa5XEQ5RACLBxI2p6XIHCPuXAVGeGfCIzDc6KAAdgTpu95jJc7BnkzOPJXYz4IYYzQQHK0Q8OuEh",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105641734689448103074\">lezbeth idowu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4Xi_ACUpEuigJKkn0Z9mHfvwA5Q6JC8pH1xt_8WAQOeJVJjutc2RS_EUslRluPxPx_MWTCf0za2jdl3eaZaQdhBdgBHt3eU3HlZ05RY5saxi0Ni0bwD7I_1-6zDyFQqbSBXq8yGK76hfdoXmD5Hn0Mgbv6WzakQ39XFadf0q7vF-XQX1jWY9_M-4jwcNUL-ryfSIAc1fU_8aq8ge-QFx4pc0svh35J-fSowSlIdKOZ9E7NHuThb0Qo-JxEsjrrgkPRocXtBNNNP4sWlLwaG7WoNJyawyjOL9TVdZ_uDK4d8cZVag96Re7fX6RoMc0wUM3SI5dYFHdpk2unG3jnQZ1UIU9aq-XRpHTdnvH20M1aMg_04Q7F42nZMvDkPgkCr0Q41NOMhiq8ypvvB17jEnJjPqyJMJfb-Z0BbVJbplFO1LSb2YSt36vTLkAcQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116527523123513550383\">Fahima Nasrine</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHOJUmxx3iefVP-nBeDsU2t2v7EUa9DEm4Lth0Afl5Y9dXJydpAv-OOpVUUOZvwpm2EqDygerelfZU4NoOEL2UilPGZz44FczkSRn0YnIH370_KAsU1UmQsWjRyP12pN7dV9Sq07Eapd_BXnPxNpjH_foVqf4mYyh2uw8C57yrmtfBqUZxWSavvwbvNvFvdawc2SKufFpd_zGHx3639smLycGcsO4EA4m9A46t4BNOoH7Ah8i2tcsERElbdanyDcSLdM-FgzU_v9l7OO1AGCSz_yiCysxcAaa7Mxn4QZ4_ReKT-dEKrea2jG1rq-lwNx6o-WZx3456Hw7UVZku6dcIpO59xblscxIiMpILzJKByDpPy1wsmGLVa5SyqUDdhZGYnC8WQ--5KgfdU1wNJuBbr8A0kuhFVKGfyKdkLDvsKm1lSdzm7ADF1e9x6g",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116921786384803040246\">Megan Andidjaja</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f7uHf77-d0EDtZRUDUsRDdvKku_dELN57NFfzu1XFHW7ydLEQLUsaMdIUKqB_x7hWVkQbUyDBbDZPcAlBj8SSQAKRwoI1kf5inyGROXL4lO0r13pw5jqHkcZ52hJbnICC6-tSOk7QgpO_-ib3wH7ysWcYwLg3JN3oXKxQcoamSoq7nCpFgu0_z2bU8LiqwY95196d8U4Ut-g1DhehFJh0JWMeIB7HMcWfY1srn63CwGLblCVN70tpoob2A1VrDNKwJoExWQ6i6qogKiNF-OPcvkAyBvF3Z29gaRq7aXO7faLFXeS8B29_4WRMaSvvi6r5JSpn1YFUCf9E4s3z3WywbLTfGOWIoU0tTA1wBb7ZGtmIP5cBV_XOH3GtKbeRUR56_yUEZyWlhVkvs3PA8luUOwQAj3cawZnAyQ6tghzBttSTtzJHYpm594PH3sg",
+      "width": 4148,
+      "height": 4148,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118003706540823846340\">Buke Zhang</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Casual Italian eatery in a snug space offering create-your-own pasta dishes, plus salads & desserts.",
+  "reviews": [
+    {
+      "author_name": "Neha Zaman",
+      "rating": 5,
+      "text": "This place is incredible. After the first time, I was utterly compelled to come back and I’ve been back almost every week since. The food is UNREAL there’s no doubt about that. Everything just slaps. THE CUSTOMER SERVICE. Guys it’s incredible. Specifically Salva, we see him every time and he’s always so happy to help us out and provides the best care. Highly recommend coming if you need a pasta spot cos trust me this will become THE spot.!",
+      "time": 1752938873,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Adnan Hussain",
+      "rating": 5,
+      "text": "Excellent service received at the tables from Salva, and at the counter. Really friendly team.\n\nThey have fresh pasta here, as well as the dried options. Halal beef and chicken, but also serve pork and alcohol. So everyone is catered for. Plenty of soft drinks are available as well as wines.",
+      "time": 1752168244,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "twin musix",
+      "rating": 3,
+      "text": "The meatballs were good. The spaghetti bolognese was avarge, definitely needed more sauce as it was dry. My sister had the gnocchi and she wasn't a fan. The service was ok and it was a decently priced meal for london. I had to ask for a Ferrero Rocher as they missed our table.",
+      "time": 1750058226,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Chloe Skidmore",
+      "rating": 4,
+      "text": "Food really nice with an addition of a Ferero Rocher as an add on for free. Service and staff were lovely. Felt well catered for. Would visit again.\n\nReason I have the atmosphere two stars was because it felt quite cramped in the returner area when customers need room to eat. The music was loud and due to the constant influx it became incredibly noisy which can be sensitive to others. I have ASD so this was a struggle.",
+      "time": 1759852502,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Instagram: “onemantravel_ling”",
+      "rating": 5,
+      "text": "Loads of different varieties of spaghetti, you can choose your favourite sauce with favourite pasta, taste really nice, portion is generous, if you go large even get a free soft drinks\n\nStaff are amazing, very very friendly and fun.\n\nnot too many seats so might have to wait a bit longer when is getting busy",
+      "time": 1759844011,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:24.798Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzd0eeYkbdkgRixPmsR1cfXI"
+}

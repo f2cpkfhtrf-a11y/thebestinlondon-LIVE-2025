@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJb8gMSM8ddkgRWsfjuytKgZw",
+  "name": "Love Shack",
+  "formatted_address": "Arch 298, 299 Cambridge Heath Rd, Cambridge Heath, London E2 9HA, UK",
+  "vicinity": "Arch 298, 299 Cambridge Heath Rd, London",
+  "rating": 4.7,
+  "user_ratings_total": 1057,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.53225399999999,
+      "lng": -0.057219
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.53357768029149,
+        "lng": -0.05574406970849797
+      },
+      "southwest": {
+        "lat": 51.5308797197085,
+        "lng": -0.05844203029150204
+      }
+    }
+  },
+  "lat": 51.53225399999999,
+  "lng": -0.057219,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.loveshackldn.com/",
+  "url": "https://maps.google.com/?cid=11277376493608748890",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 6:00 – 11:00 PM",
+      "Tuesday: 6:00 – 11:00 PM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ebgsUU3N1yWi3Yjup9oVMw4FdRce9GTS9a4Y4DA5YcLZgyphQ4HRgsbvEWnBAW3MOBfFxUtKZHAMewWMx133XLKKZ_wgwF-FPOFRkaXBZUkS2AapYrz6Fo0nd-OfbxSwLkXSR8iDj99q0WqUQm1oHzbdV6XqMRCg8F5IgmgdCXEb7r7EKwPXozizB5drDHQN-8fy2EUVaWKkmlgJytx9YXitdB6BF6EIcR_9VXaif1rS5-gogBDWi_pYR_Mv8qXg6zbmnvNsklBh2xdS6Epd4-Ha3ik4L2Y0pVxs-9s8MHSQ",
+      "width": 1200,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111786826931665993568\">Love Shack</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEiTz2cLcc1b9i2uLv3dR4g6yFPZCV4VgQ-3oYLEa_3jE47WjdwxgY5veonwGt8o6XPbqAJf-3NSqlfKAStBuG8_zyS-MK3y0f6p5WBQG9f_mfVT6BgTcETJNXY4FxjBlJtdWToClk9Xt7xiS-B4UZb8ahhC51Z83HEgTbOG3NttzE_E35D1lLeGYneTlY8mYBAmOg_fUt7FV30bnz6PG1kqldu5GvFzP-Jd0LKt_C-gUbevq_WnqhUifDJgi1fXp5QUbAqfY3g3T_iiE-n1pOyg2jfXu2gS2PXtUMN45Lpg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111786826931665993568\">Love Shack</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1u_6DVefXo5u9Xl5MAziqmCfLN4feNri3ODDfdHL9NOVes2eqK-EGZT6HHSnqXnf6zwhB1AC1ztvKYPMaM4JAmax2nK5rCIATQjQUaeC_T-i8TJc3rc8A7Cv7FREMHbCb0b5WuU462-Gh60U5HuxxNxe-9MJz7clJdLW1Qtcf-0sjMPnIjTot81lVgmIJcfxKstIt3UWqwj4y2cvLtb5t8cLQ6grWYixmyclkYn4X23SFvK6tAnYH2GObP9CPMu8ghbzxk8AhNiF_Wl4Ts82FRUf6VAiSilBKXjDQ7Z-iimsRT3iolBvnbv8mbGbAprBiwsQxDUAAaIkWKky5g6dbfIXoHUuMcy7KVySBp-Wi1loRvgPZIa8r0mKm453fe6XBRwNO03EXSXWst06nL4ca-f4J2-7APdLJYIbqo3MHQYoSSFOUvu_CGApJ5E0j",
+      "width": 4790,
+      "height": 3592,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114471466395162673409\">Zita Collier</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eJyTT7daNXa7iWbc8sbvrfAonTZJ7cyy3Mrwn8AYlnkxujMHC__PhA947nyrvnnvLa2TkRTCfqauFyNpD1RSDPP9WXk5I1KZT2jj29qhtYVVzPZNbpPsP-bfnm3iAycalg4gF3k5KZ9meZdSmOmIydBaZDH7yP70iIF8cwjNFX-ZtdK91Sm9HLGktNm98vBOnvSjUiL737A3FTuqGIp4T4XtPuTEBJoTQ9evr7lBusZDnhCd6bBw0d5W_Sy22zMcNP-hEg2YVEZ1Qm1dQkaopn3Fpq1KPSeOKdkjmV45Hvctk6Si2uNmj29vLxnNKx1ZuWcDquicpq8eiLnqcjY_YhqjaZ1VRlLDTZa7ZgXWHQSlu3fYvK7zP2J8u4sEzgmnPeyCjtHqUZFc-O9ENCKD_0dnYLKEJGmjtyl1LjMjdbcffl",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105575212015801187001\">Emma Lothian-Wood</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBLLLfkeYciabjuEEvm2m847yKrzNkWjjqL2WgoyCv0uQpgFgynf1wb9WzO-WeJsRB9V_eAXbdTX8pZIoNpQZYblSxvinNbvKktdQ-Y-NjQBtjM8rb78mHT_yEldm5kmij9PkT1CFt42SJIRCY-SCnGpDxsgQU-_Gi2VMDVNnqwi1kNvF_GB3tX5Sz6VqKNfavO9olY8oyUZJ0rtehhi3DXTyoPfUf-grEAKzbDYVxPdrQNXh5vDWi7uY7hiSnfAZZNjmE-Ff8VwTX-5oq22GSOSTkldl3BA05lZP08GxoyVZSTD54yY-pkjPyJRtAGr0oTd6WnNbeUQ-JPzZ-dPU-F3vigZtGFKJOAefTPkDA1tCCVHFqtptQHOLBZWs7QpBpaHsJYaKhzkv8p4k7bgHu0QkgQbugROIPgf9PAIyYzwmMbgUsv-bxCoJMKoKD",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114471466395162673409\">Zita Collier</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dqUD1aRW8oMVX28ZDgKChctLBRqJOjLSYJCx_iK_OvGGswWHm11DxD452C-NKrprrfzURra5_qD90DBWsSzqNkkxvXAcfhwpqJerPYDASH750BzEYYRjok5B1PL4oeyomrbZYVQaPPOHRyLuI3l85bRPLS5AM6A6KeMQOYceVDWxLtkLGCfS3dJWNp4XQ-zyoPlFkYkCOicYELRBcrHNCJCKfD8D-2LXtllEoUiEPFJRNRs3vY9djHUgqw0dtbr3hM4C_1xuXUBC37OZgcmlp7Aw-nyWSIhi9GzZIK31C69MNddeZR2qah5qS5XtHxvfpATVDd0KfEaPAlvjeuojFxBgPMmCQQVTN7bjCvT3U7spcEZA61kdoC5cD6VbX368iODKwwhBum5lPO75UzJXR0JqA58jg3zGNSOSX_1b_CnJ6cZxkHWbu3Hp2YS9eY",
+      "width": 3510,
+      "height": 3386,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115398396451489570088\">Emma Thomas</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cf_KkJmOzPnj-huYgHEsAOyJXPyWHGuCu37ycwnV1Chob89husboFP26RRZlsSsDJqXfB8zV8zU9dQj9rz6SVNPQ_hWy4U63D4i00_EPPtdISHwLk8k7r8BwDG92dBSXDDx26BseOfXGC3vZPaAC6kPqUoFNGUWQog715gnSUfn-pq6u5p2R6DfRPyNGy_Hm-CTfKwXg7wPF7ajmOb0cPyyCYkukaSB9krrDX1lhmzUspuO0fgGWpCOS1YYBAa5phvp6Jfh-6Ss9umnyvLqZ0Eef3vDtFnjdq4e8QRk3D5gg",
+      "width": 3970,
+      "height": 2978,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111786826931665993568\">Love Shack</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e9Kgqk0_dpVsfU0YsVHeJSC-S2hCaqHAvub_3W-hdymzsodEg-L2_qeUTwY_ZZvkKzLKa3aIG0t4ZopVuXfDgJGDRFC0NXYpXWlXntBcaD9eXttySFsx41GI7bCsZ16ey4fKbUMUMg3imRQCgsjv6bk4iuVHOzYZG2DAzF_A3CvEQ-la81sF1FxWlCNNGsBasPhhArnf-RJKsQLV4qRlB_8WMx7OHYl9Prq-PmKwlNQAYCRP6VqNr9B17DqGFajO56c-TBS2sN-Txbn4Kb55KejmjgGXMZuNPjgnXrhdDWsRR_aBUC2u9DtnB07CGrVMN-8WlUAIDMO1yoUD5JGidCZ2nR4mlpcxOkiSruAVNRUOqIR5Os50Kf56Izu5UjcwARGn0HfNmyAimMWAEJDosxuDpRZOiHeM7CVckSP0ub0Q",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100661202006883363281\">Eldrid Mendonce</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cH3OERd1eI4lLTg_-Cb5CIxFqLPRxKqkPBZcC254iWasriJkBLXDxS4FMuhCnOYg2xJQK8vxZ4LjmdQIRirAaK5c9zdqHMX7P10EiAuQjMqWWkFJw1A5L8t-VRJ6ONaIhDE7HrkDXJk37IT3o7NllqwkTAqnt1-jgKgBNLg7RYez7aKsu0_z8VHecjO_ZgRQ5uWt0KCZnZG4jJXlGumV1glAtJdqhhhS1Eax7diaAW_L0qGUaQqh71Ih1HUnLCHqmc9pdeo0YByHtsmFLgetmlVDncovA_adKH54M2I96crrr17zper7IaAVKIOmL_7zMx6PRfLLWU2Q-Qdo55_UcOYTMBgaC1VDUX2ehi8HAWI4RHMhKkiM7NVIyr87bz9xwPa9lvVvtsYsuhBb4OwNsyfY-jAzT064ihwYnMCcOzxQ",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114062310577236782734\">Sandra Guzman-Rodriguez</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUR4Tpmx9P1L6ugIjiytXoUChLWgNtA2qeHKLqj8XL_a8aoOcKWuO7FaC7wurrRWuKFseHX7pkvf_scDcjGPhuvN17Ja8cb7xVZZN9iIjsmInPjbiC61Voqxp-ks459_1MSUMjV9DpH08rZ_DmVOhMYKC3TOx_HW5_NPP2ywBLKTlWWdkrbqGfP5HOZOlnzsH1AVgamSYOq05IQy1uGNgee5rdIqy2idekLLIQ82H6JOOZjJ9DK75FXHj-XzxxFzxbecAb82ovrv3-o-b3xMr5YFhGdGGjSU5y3bwYk1wQqA",
+      "width": 2245,
+      "height": 1587,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111786826931665993568\">Love Shack</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Cozy, colorful fixture with outdoor seats offering inventive vegan dishes, plus music & events.",
+  "reviews": [
+    {
+      "author_name": "Izbel Kayim",
+      "rating": 5,
+      "text": "Flat white for £4 at love shack. I really loved the service they were very nice and chatty and really brightened my day within the five minute interaction they were so sweet !! The flat white was not bitter at all and steamed to perfection with a great micro foam but still smooth and the right temperature. I wouldn’t definitely recommend and love the atmosphere there too !!",
+      "time": 1757882119,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Ernesto Andino",
+      "rating": 5,
+      "text": "Such a lovely vegan spot! The atmosphere is cozy and inviting, with colorful décor. The staff were so friendly and accommodating — they made me feel right at home. The food tasted amazing, full of flavor and cooked to perfection. Everyone was so thoughtful and well-mannered, and they even sang happy birthday to a near-by table... hands down, as a customer, you’re treated like family, and the vibe just makes you want to kick back and relax. The shack has it all. look no further — eat here, this is the spot!",
+      "time": 1757528704,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Kirsty Bruckshaw",
+      "rating": 5,
+      "text": "My husband and I ate here a couple of times whilst we were staying in the area. As a vegan, I am always on the lookout for places to eat and the menu looked intriguing! The first time I had the tofu karaage and miso eggplant while my husband had the vegan  cheeseburger and chips. All the meals were absolutely delicious which is why we decided to return on our last night in London. This time my omnivore brother came with us and he ordered the cheeseburger and loved it. I ordered the tofu karaage again as it was so good, plus the vegan peking duck (no sin peking duck), which was also delicious. I love how all the dishes come with something pickled. They also have a range of pickled cocktails, which look amazing. I really wanted to try one of the desserts, but was too full! The caramel pavlova looked especially yummy.\nAs well as the food, the service is amazing. All the employees are super friendly and helpful and really make the place a joy to dine at. We all also loved the music selection, ranging from blues to 60s, 70s, 80s rock.\nI would definitely eat here again and recommend to anyone wanting a delicious meal in a great atmosphere.",
+      "time": 1751581785,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Emma Thomas",
+      "rating": 5,
+      "text": "Cannot even describe how good this place was. Instantly welcomed in by the staff and the owner. We ordered the most incredible vegan chicken burger with buffalo sauce, and beyond meat burger and were stuffed. So chill, friendly and has such a community feel about it. Would come back in a flash.",
+      "time": 1751141075,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Die Plüsch Karotte",
+      "rating": 5,
+      "text": "I would give more points for the ambience in this restaurant, if I could. Felt like a mellow dream, in the coziest corner of Nightcity. And that's not the mushrooms talking. The venue is just superb, the food was great (the ramen were spicy enough to be called spicy - loved it). And there's a secret hidden here. :D",
+      "time": 1749573964,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:08.729Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8gMSM8ddkgRWsfjuytKgZw"
+}

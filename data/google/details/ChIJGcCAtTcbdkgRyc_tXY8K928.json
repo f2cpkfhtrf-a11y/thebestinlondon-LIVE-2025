@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJGcCAtTcbdkgRyc_tXY8K928",
+  "name": "Ciao Bella Restaurant",
+  "formatted_address": "86-90 Lamb's Conduit St, London WC1N 3LZ, UK",
+  "vicinity": "Rokeby House, 86-90 Lamb's Conduit St, London",
+  "rating": 4.4,
+  "user_ratings_total": 2972,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.522993,
+      "lng": -0.1189555
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52430973029151,
+        "lng": -0.117674219708498
+      },
+      "southwest": {
+        "lat": 51.52161176970851,
+        "lng": -0.120372180291502
+      }
+    }
+  },
+  "lat": 51.522993,
+  "lng": -0.1189555,
+  "formatted_phone_number": "020 7242 4119",
+  "international_phone_number": "+44 20 7242 4119",
+  "website": "http://www.ciaobellarestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=8067928868330000329",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:15 PM",
+      "Thursday: 12:00 – 10:15 PM",
+      "Friday: 12:00 – 10:15 PM",
+      "Saturday: 12:00 – 10:15 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2215"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2215"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2215"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2215"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dpa4PGOxVF5Xyr_28tzBR-kueF0L_6S6qUOE9FdSWMUm67sdj4g7c8lcbtBbBlk70KgL87VFrlEgmhWUUPcjMRrr1tf8q4uoWpJ7qK46u7TpCS-kEEF_rCnfQDc9lzU21VuXRP3NPtqXRzrtcb2I8ycxqSdBDR5pHXkWfS5v7qM2mARqFAIbHuy6DuiJF7NAONU5DOw8S77kpWR2CJyFnT7Ak6bDV-_P1NlcQIZvD-wXU75Xm1owibxUBdT3qxjfSf5gxmhSaM2MkiTpwIztfaXTpHnwVnokO9-tPkZ-PERE5HaKnU3_LMMFfF34nbjKHCwki_nJA4AIUaGWP4G9ps_l156aJ1yZQO0Ja4KY9_mgs2MonZkEAlxQjjeKnb0CEYnoEv2zV5JsImginqsF-bhAxk-9YUZdN_kvOvjUWExTTxcj9_AlK7kG7lvDFz",
+      "width": 3494,
+      "height": 1832,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103530855626737959749\">T Hartberg</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebum6mPxfPPAtCJ4O_mY6QRcmQ3Vj3L8gsKKB9qv0tX1nLbxn-5gmchF0HysMcmUC2ZJMzxgb3OSFPGOUNUmfl0HFNnPbHixgnAGLvKbsuTT5RjjWJ5OEkxFjrWgXDqtxlGroQgRvWncC4Tvn-hRQsLTSdskioZN0WSyBppUvPLD0ShbjgasWVG6nt-luJe3wm93XIWv-cPJ3mM1fI5zhk0Knik7j7b_uGmVjJqbIn78ExpvmZF4CmhRrphTTczv8tfGzm_J8DLW9SlBVICzfZP1RgWUjTIkyi83OgzDsaXmZM72NO19AanYGEnFHEYxqO0GOj5lTqoACnqjmqIwgB9SDTplt0PMyMPkd2FJKJjKIqD3J_6qfSBHXl7nKixiPognLXW7_p2E85pBhsvRq8jIUjgClZXnb7Zl-ZiBo1YRgO4HLFzhXUDNRPrw",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100327460793563649853\">Amy Gillespie</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ekalV6J7AjZeerXBngEidWpWYZIkwe_JVvt24QixBhmNnArZX-o9ij1lUY9W2t-T9LqG_Kn3Veo6K5k3hAtsMYAqWHsQtXT1kVtGlidDVVyc96aX_x7QQOQC0pIWKqldTPdklWkCJ40P4dSFS9zwzZnEn2_YS4Qm1RmXlrWTNn9w7JIQyMRgKAy9rsx9soHHUrJM07AwOODX_V2oL2v3qKGHQtRfcdfrWQOLu1PXvYNTYvJ16CLqan-lMFrssl4gPmJOqx1rvTVJU2TRsgsdHo8sODR6psQIn97FNepbzRnQYss0UeobRWnPMz5rLNPdLdjzJUHNkn4OHHA0UHg1LaC7quipm7gkqG1zJIWOyX08oIOFcJ2x8NkIoJNyO_JiHOVp7TXst54Zen67eeYf1FhpraF3Psai0RbS5oCm7CJQ",
+      "width": 3852,
+      "height": 2596,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115886888999268985013\">L. Quiroga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzL7xbJ0_RobPZIzzX6gpOuaSp3cCtPKby0f-qH-R2znNReEJmnYla2Nnp38qQxse9wNQTXiP6jfZCOI8aW9RmFPGW5oYVYZ3CHC98CIo7zVTt9iNsmfnD4jhYgHu5vrZitzT10jFEht3Bk6sns-ZI1GDSRE8xZKmjpZ2gRl5WM6qA4E-PYudk-DNrbnri_60f_vWcXmXhpq2wcM0fzNOoY9JF6r26yUuMLggeClB7AfIjKgeQ3XGpZCyLAUPh8__alwwm6YAWbBdbw4gDatrjTM5lkdlinwf0lCHyGbQ-zwdRewgAz3Hnjwa2EVNaZnfZhPOVzvyPPM30y9Kd1YkRipzQ5S_jowLMJRcPEMOVW9b8AnRYfJxwogiAHB2UVvrJqHcpVPf2aeD_CWMtL6ok9sX5vbwb2CVKDvcHp-iWIX5VftTb8pEX4lL2t8by",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102002624009178597424\">Phil Anderson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cezkeyY_fn2IObV_p-vslLtv2VZVxXlR8c91_weleCgpuRBT76_68l-RwA400TXrM0DnxQtjtSQETPMSNBIvaog_P80gR4Xn17U1-IFP7QQyqia6AQub6QKAu6-i6S_ivBnAOSlalVH-mK5eCwWkN_RvzZpoK5wHXz8I-V8OQcy_u8zULShZTjjexcQ38z-HrhAO72eKNXsYBQ-JX0iEzwA246NtOL8MTZzirRzVDRUVv7GlR69_P1juj4KB0YviaWXZTekWT1PZx1ULrzE3rsaVDJaNbsYD_hzdjUdwdKsXp_QvjGMdwsIHs6Z9EExTjFihKcDwYck2DTsvq0N-k8JPBu9S9-WJNhvEfrLHQbCv5RxZ6_PVkT6dkiK3-u6ttS0ktMIukZPwVMLnjZX7F5zGdi1Pe0sREPX-dY5nnIDnDpmI21mrfkamBu_a6i",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109090080682246305320\">Ayval Ron</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e8kkUkfzguHY7_MZw4jPu98-3hXQ-lc3eq_g0bOTkQ4EIcK2tEqrqsRCDKbsrLprd0HyAlD62Q2Lb2dOqjrpkilokwJqGYytQxmlo9RJhEJtIe7tIg0S8cLL1XnpLqeZjKer3QFNEI9AIqjTePeJ2wc7BE5kA182Zi7j9LPQkgzCx-G9hzMUIi9n9pptN-IRWd3A2-c_R4o1a9GmpOpgBjDVCvmBsj-ofN7zpdaphC2JrYBemkxAFqQqzEXlLB_ECgMQacEC0ew1MROzBvfBmpkrX9WYM891dqik53pUMjdMdMTGRuWQ6kD2lwyavNQbDxawVE_LsYyqIy4xfrsADKtrpb2Q4YcMz95QY5dlCZI3V0IRTfxxki3vrCyIV9dT359q5yb8_pQm5h4z7Eq6i-WcuQrMLu52RZb83XRI4qj5g5XimwDMDI0oHRTg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109090080682246305320\">Ayval Ron</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fi-70TukEqTyD7MtKggKXWQQvQrBnT1DTGcPbf3mm9atn-bhIM3bN1R1aQNtWEsvPvHv1UP07HrYEDbu3wg-j2bUzsq81XXrouQzbaisr1OcVkjwK-DlyXMOEDXHwY-THtzoY5Hd_tQsDyyGr9beVKAMB8zU2G9e3YRhIhy4xUH2Sj5kX2AWg_KqUIYMbkRRW32vFumx9JGcjQc-TqQ5Itog5CfkJAOq0RGyJmOrD6jwHRHVdU2DpYOJ0f3IxkT5bBuuVY0VGb9TjCgCaofl7jGk3pIUAO6zVf2n-8z8draAmDV0_0jdDR3PQGSOGsN40Z_GRhGCz0KcFDAZpJAGLSZ9GstkWoovVakymkcoWMscgB0l_4-ZWL5LYWXjJi1hGBVx0ZjbWYH94_xhQOG4AmmAH2w0HqY7HI-Bcswh7wdQbXuVVRwXrP9r7rEA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109090080682246305320\">Ayval Ron</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eqrAkG1JGQycb3l27tGAhvlPxC6vbpFU15BZPDcZpCaudUu6j8Rh7qWiseh0lBgKXB9xypgrTHJJ7W5xmXr1-I_bMCnCgVEaoDdQ5zmi-UwByc-x8hY8t2xqJ4JbEa06lz4xFN54U080k6ljuY9rznorp_1JXeqLrsBeDcD7GAY8PbS3gJNK9UoDviawrndeAgBMZ7liqL4_T8cf5xEFKZ7DVPX9qBXaublo_Yk9vO4cXgjspXUsk2xqUXSWnc3DaRxlHItIT3sJ9D-zMUw_fCVEOLssFKJh815LC1stJ1LwToZhi6wQGYEHaZdGwVvlk9wTTkH-pC3_jvg7-7NJzUOwgWIhnubqG-N_w6ZttakuarZJvOOEB1UTQ0BXyULDuAh7yQ9o3MrGFHqVGbjEkbsZVCYKYInHVmBSsuvUQRXg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112038806194544155094\">Jimmy Venus</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eQbdwxfLrpKod3YZFm116lJ7odE0FDElF7GFZmeAkDzemCCvnZGUD_ot1rXjwoDAgzYJr5D_oeJzjSZDxJkp0PfCgiGqFG5kQrqC-gulvwbwTDQ-4IQBS43gvy1m2taC-0So0U_c753nGK_yTl-NFSd9ZIUYPcjTZa5MpYTsTrMU0PTWNoOt-LZkoln3UJ-cnI7wyLgWP1MDBxH0zCZgRAOr4ZyPt98fEBIRnVV_vOf1Ow2OEZr3YXJM0jL_AuiMP2pILoodu66nV-Qlqs8tTDVImnGs-7aA3BABaFUglNDl8TqKf3MWLb-5DNH8ZI1h_GW2BbVstpoci77s6HqiQg85V-FaxCi8IhP7bNXwjtnqTNOJFSpwXF99-Ttng4kREaGc1NNo0v-W70mJANGdCQzNSHdjo5t0hYkbptyS3_YCX2CzvVGMHecD6hEMZY",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111305211357354258130\">Wong “Cyrus” Cyrus</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dT0qctvhoJCbMkvKaUF43qGn2olkz3ztuyI2aeaz5D99mO6f60ML_cCVuwqELeziwEth4o5acs1xG1otnkf0ykyrG1AgE46Yy7jXnUDb521zarBLrGLE27hbgnOjyeqluIuGebAQzSoVGn7I3ERug-A16d6BzOyU2zqHqFtrkufCfaj7QGDkUWC0_rkZcSQBo_e4eidTh4QXzYduIgTVJoDAE7IydOCG55nCuvA4KRzGXAmy6SbgtiGxdsKTDcHtAdPMCNW-OUIWCSpMWWFYdf6hehyJZyLcKGrp_FBCAPOhmlJuA10wmMLhURNCK1hEkt8dCqEo1HyW8FViVKYWN-uwsgvPU0nhtaPnwYwKaIFLsGcr1lJKpFp7KwaGKBC0z_CAkYwepky9TAtgPssv84bJFTgPikgkbFdouIcPhJ-Kkr",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111975625585494152423\">Elena R.</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Classic Italian dishes in airy basement with aqua-blue furniture, framed photos and hanging guitars.",
+  "reviews": [
+    {
+      "author_name": "Dario Oliver",
+      "rating": 5,
+      "text": "A little piece of Italy in the centre of London.\nThis evening we visited ciao Bella for a family meal. The food is the most authentic Italian food I’ve had outside of Italy.\n\nI had the special lamb ragu with freshly made pasta , genuinely the best pasta dish I’ve had outside of Italy. I also tried the ravioli , lasagne and arribatta . All incredible dishes. As a fellow italian it takes a lot for me to be blown away by the food whilst eating Italian out… but wow! Incredible.\n\nThe portions are super generous almost as if your Nonna was serving you. The atmosphere is vibrant and a busy Italian setting which adds to the whole experience. The staff were great and the fiery, scary, polish nonna was so lovely once we got talking to her!\n\nHighly recommend! Will be back",
+      "time": 1759698402,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Kartik Shah",
+      "rating": 5,
+      "text": "Very well maintained and ambient Italian restaurant which appears to be run by Italians and feels very much like a family run business.\n\nVast menu selection and lots of seating options. Indoor and outdoor.\n\nThe food portions were good and decent in taste. I have had better Italian food but it was still good, no complaints.\n\nThe ambience and atmosphere is lovely and the staff are attentive and whizzing around. We went there as a couple with two yound kids and they have a separate allergen menu which is very easy to use.",
+      "time": 1746996936,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Gillian Eshman",
+      "rating": 5,
+      "text": "What a lovely authentic Italian restaurant! Service was prompt and friendly. The restaurant has lots of atmosphere. I had a special and a salad. My friend had the veal romano. The house wine was pleasant but not very punchy. The espresso was very good and a great way to finish the dinner.",
+      "time": 1752435926,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Alison Hawkesworth",
+      "rating": 5,
+      "text": "A lovely Italian restaurant - family run by the looks of it. Lovely service and has always been busy each night I walked past. Eating here tonight was lovely - generous portions of pasta for a decent price and a great tiramisu. Also have live music on a Sunday. There are also several families with young children and the staff have been lovely with them. A real welcome here. Highly recommend.",
+      "time": 1753644412,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Tijana K",
+      "rating": 5,
+      "text": "If you fancy a no pretend/simple and delicious Italian cuisine, this is definitely a place to visit. Staff is very friendly, food is delicious and prices are reasonable. On a sunny day it feels like you are sat somewhere in Italy ;) we have loved the complimentary limoncello, grazie.",
+      "time": 1749743790,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:53:24.571Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcCAtTcbdkgRyc_tXY8K928"
+}

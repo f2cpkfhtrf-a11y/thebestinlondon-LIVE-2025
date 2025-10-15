@@ -1,0 +1,246 @@
+{
+  "place_id": "ChIJkQ3E6swDdkgRuFY-iKFPZYU",
+  "name": "Caravan Canary Wharf Restaurant",
+  "formatted_address": "Reuters Plaza, London E14 5AJ, UK",
+  "vicinity": "Reuters Plaza, Cabot Square, London",
+  "rating": 4.5,
+  "user_ratings_total": 1724,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5042061,
+      "lng": -0.0194987
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5057357802915,
+        "lng": -0.01815546970849797
+      },
+      "southwest": {
+        "lat": 51.5030378197085,
+        "lng": -0.02085343029150203
+      }
+    }
+  },
+  "lat": 51.5042061,
+  "lng": -0.0194987,
+  "formatted_phone_number": "020 3725 7600",
+  "international_phone_number": "+44 20 3725 7600",
+  "website": "https://caravanandco.com/pages/canary-wharf",
+  "url": "https://maps.google.com/?cid=9612176534886307512",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:00 AM – 9:30 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:30 PM",
+      "Saturday: 9:00 AM – 10:30 PM",
+      "Sunday: 9:00 AM – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eB3Q-6wXh-JTH8MQom9mZLuidMeg23a9rEyT77VX_ct1m6nRsxwgLeeJ_yuYIDCSC-_dDMRr7cy9j0wnEbLYjsVCqzU0EQ6nszPnxGfI6uY3t7KvlYhULSJdghZ8Tk1LYBUnPsaTzFzr67EJRaaJYvWiDZODa9QRXLeNg9q4c0wdRzUR7oKz0bO0tRsEGPmyO7cIKO824bKUf3tXjwD3Mk6_Ie_Pl3Q5u5EzIId82Ph3LUB-otDUu_pcg3cvem7AKiaXMj2g9QL7CVoYBgcsp__JIjqTpxGML5WycqXCh26A",
+      "width": 4800,
+      "height": 3599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114087108273531896067\">Caravan Canary Wharf Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJm6TCtmBXtwV7QL7hl3wdApiaUlECKgNeQdiL3YWQ-4nVpaj9uxyhKZgNDuuRe6aY4QpLJfaaniYPj7FqYQypRsCzNfAZmRVLHYIWOzBvDl-woRBImCeoCG_0V0tv-l0OrV-JcPWOMwkvkRIgiJQ9gDAd5e0nMlo_NqUQOiP_OyKZWM_hw7Z3f58YvWFr0TE8Xgv4AAkq7QQte4hjqj2TrDOJOGWWd56-QFpvAV9PzFEErTamv_EkZMdkYvMne1YWxoT54sGU5x7qs9R2jam9eB9A5cN0NOsal4bj8J8iQA",
+      "width": 3203,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114087108273531896067\">Caravan Canary Wharf Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d_FQB4imda7uCAFXPPAL_pQKrPLZWteLCoNsKjQjT6nlmr8z1KNSanxzviTvEljCIOo0sBcjozAorjSmJ3ua4h4eVH1dR3uhVwTmzspocjm_A7J518E2AoibPwsgCTetDFMfbyXAIwP5yun0to_hdtGReY1fgWl1cwKZViUtPZ8NjAMxY1pqpwSpg-mU9qEML6_F9ZL8XFCRRunpzHkqO1jOky15ehfdxr5W_mlcNETdssN37GxXteGZee9FvtT07C40hAwk_EQCB6GRhjxBuqEI3RbqSgk37CZqRt0EmlXpLJ1Nhq8VsL4lLFWmQmAydVMO45GpVudnlPOVAn3UT8dICr-ybL3eTvx65NWzjPTpiTFaRxH0tgyr8nkJZp-W_P_v_w8nPEQYz8B0mKk-mmwWq2Ug5DHb4L3W1IXODH0CZa9RBWtPxC3tGaJ_q5",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105292065277722712889\">Beata Wilks</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fDeWaR2Gsv7ZQB6MbMhAzLTAj8DnPjBVSlE3EmzjTQVu5qFudvSJSXSVvzjf6rgLCI7revoOMN21OT-X3KZ_HbmqaqUPtcRBO8ZH13MqBX-Etvo0rk6bPHO-KETVMpdBj5pLi3zKrzClHgydeLBk6QosLZR6oxO8cCcP4TblOOu8HWf8xKIGZg_GKrMY30oub9Pqd5Cm-JmN8nugJSGDFryXdPatltPToLjLjt_34Z_9nXRVbeg30PXuLHcOZOSaY-aUHNotAp-CB_gKyMFX7qmwA07elDejrUMAf2HBLU94-twLrsihDMYP3o79XInzKkL3Mz5ABnArkYmZlrLeJ5KHUp8Po5G2jMddlr38Ei5wNbm3kIIU-S8PcMZpAJsP_Y8CbNQyad-iF_Kml1heG87sOY_l2olobrLI3RCF_TcFtg-QRol-v6pGuTiA",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101426650922119235142\">Clare Isakson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3RQbBEm5w8vK2XfiG43Z6bhT_DeAzb4_BqgXVRqn7rdPj37F2nvX5ghMivtE5tVnJCUj5xxeHo4D7EXrrtAido4cwUtT7jk16nsXnUmZYykqJ3PxXtrGLvgtge5biWLif-K6Dcry8bHw1vJVzvkr_pwKTfgSsg2HV152M8X9rLJqgfLKyGyB7E1EB6P-TBnz7M4cfzzMiqXBEgX2rLrMxAn1Kz04NIKjeyaVaEs339pKiwuQryJnwbeOtMBJpBInV6-q-RRXutIhZPd-eEC_gC7WaXC0ZvIhmML_5KAO78xZtAaSU7V0FhpPb7C-7sj_I0iUtTHTZLZcyu6r8N9rgDkqy9dCBRFVY1pGcvaultkmErcKeIvmJ_G1MtYosZmzP7_idMB2yNpRCaPj9RrmNm9wtVxTWEevX2HF__opim0cVo03CpFYdYEUw9Ili",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114685626588524138530\">A P</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dGyz_M-NuBmXhcMJylLCSKaTIUtNTMQcLCtQQTK0eVqZq-qqrC80agkVgvv5TEWEELVMQY4oxg1hwA3jFVkIYz1aEFGQ09Gl_S0qjhuuKvJ9W7klI0N4iAPA7tPp-bIuOgvSabLD48fVFzVV7VAtCdUZpyPz8vme5tmYU6Kn4BUuuqwH6lRXCnntM-zwo7MUAHTccu4DMWpRNQRAVhuy9AebBacJGIKTYbz4z74VHNB7VcwlsIuNbIEmDe5Vk90bmHXGYD7vV2_5QjFvSorZDek5jrpN6KNduUxGROFSOv_wUwLLxdDp2pilmgKkve36pluXvBVhmJTnBdVYjUkOw-hWiQt3ni7nU-VLrJj9o0BPOoSqjXIMm6Qe9jKRyJnGH7qtvr-0oxFTKK0ctEHqNEbJf2jyU8Ku50vwA0G49duA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104142547402861764401\">Max Galkin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_oECfvQAdJsqek65OXF56r0gVQKYPhU-Fq6RJxuSulUjEeMFoXYwZZFkA9tnk0XeRHxudn6isoIdeJw4a7iObgkWZYYqxtdU5xxcARCl0ykjOEw2KUQLDuj1tC9iGh5fyGaB9H8OVRKG1rFv19fGVN0PABoTc0CS6DyH52tnwB8u-G2SZrOgtHWyGJbm8gmo5bcCIZxEIqH6PfYtU8cUH7tyNjKWdEvUCi4h6L3pHI1dl2NqGae3fZqhkQI6R9MQTOMThqZJBlu1lGkj7rXfUMiPHRxIix-GUOIZ3KSe5TQlW3Mnc4HxEahp0o7kYp2T3Kfple6nzb8EO29Fjla1ZSGiJmsmU2mt2G0xU2oIrymkzbPaJDzodbrz-wPnAbp3X72YMib-Grh7yZf68wDVDe7j_QYrQPffNWsr0U8pOGIge",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107330286977802446990\">XY BAI</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwqWXag6RX76S11fJPKeflTPMMVqZV2CnVwFrcfkLdjEWCYIPBjER6YhUqfPspAwiNBalvc0hZ4NOXGNmzVvkxoPomt1fOGQKZ-0sZEMeqpon9vkgNhriEBbtgVI-LggPqhGg7Hm_RqAHA_o1dk7B8XuH2frD40gqZg8z2vdGxacWnx5lqehCm28p7GQMbVNy91bCP6_QU8WjvujSCtPH4nWY3r3k7iYD3MPeBxyCzequvZ22M8ovyCyZ7TTEGa3ky93E6T8lbe4ZWOk_hNmiuIGco8qEZJaGDJ1zL_gB1MhBzCe7M-seQ3Kg2xwYdBJvoq8p7zokqDo6fZi4ZGT9cLyXfuvlstGjmnH6Jv8EMyudtViMZzu95RQvZjdH2ah5d51E6UQDTeyo9axmtR1vXb1VZU89B14BagaXdMrZE5g",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101517658856953368018\">Jia Lin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxZ-M3xoTZ5S5jEhesOUn5VOjQdCfEAwm52hF-IX9qB7FFPW_mPqGIRYZFPYEzpaHlzCfwSfBXtbWYBxER9Ew7u1PemiM9pmbKcgDEar2yyoUjjQkCTvCWknC-EUarLU23aQrfbW-mTaLNatSNY9MOegq6DxDNn-kwxqlEapR-yteJL_d5HW4v0nyA0svWiV0PUDTIK_T26D24tkvksIWCsAXTQqcITv4o2Dy6Mj9J6qJEGS08GPFEZePz9A3jHPzQJsj0sPFFxAglK4iIolkXhPNeCFvlfLqxzlLr2I_uBZlenE0pvD1rpJ_81exK8Pu2Lyh6lKPR_fyFAAJiyQTHvP3ot2bQB0zMXvokHKVcWOvRhZUEImScwr137q0-0tiBCYwmTg0v7K0b9SSSNFQMLUZ2XiSOUYADWAn_PL9k3w",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104853013756057979657\">Sugary Sweet</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnIabMp6DDxnaS5ipO5tTFmjk5mhhZYix3IznE3SNWcgHjWFdpPdvK6OiTAQgS584o7Cum0dRJJXZHgcepd6TCJxP_WRhnuKz6iG7YVUC1UwA3p0qisxs6xf4FuOEK39Mk2xM_DqTqGY5D73mGanCl8ralFQzMfwl2BzJRrUMQkzxOV7FRKRK_8wDCMNKtvytsf_3uvG9a_MQeZrgqzZ5eTpIMgRa55ESuTJ3fhm24A3Ow8uWJ0owjahoYAgDlcnWqA7h453wTX4pmHvMqGm_uyLqEvu4Fsf7hRYL21GY1QDywCD1Fpl2RBUDzBAzEKEpz_5xrqqELj98wOvvLYjn0m0R130l9ZTR5c4ydN1qwkHH66bVmIBSfPX_np3hhWBXQ-scI9ZrJJVUzo49y3chfBGzvvwCcqv3ReELUHUVtsiaNN7gG4MC0KJN3bSey",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116981020457681190127\">Ana Larkin</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": "Industrial chic decor, an upbeat vibe & eclectic global cooking served all day in a hip hub.",
+  "reviews": [
+    {
+      "author_name": "Carrie J",
+      "rating": 5,
+      "text": "Our server was attentive and helpful. The restaurant has an everyday elegance type of vibe. Uptempo music playing at the right volume. The beans were just not right. Plain baked beans would have been just fine.",
+      "time": 1760265661,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "A Little Life With Purni",
+      "rating": 4,
+      "text": "We visited Caravan in Canary Wharf and had a lovely experience! The pizza was fresh and flavourful with a perfectly crispy base – simple but delicious. The real star for us, though, was the spiced cauliflower – beautifully seasoned, warm, and comforting with just the right kick of spice.\n\nThe atmosphere was vibrant yet relaxed, with a stylish interior and friendly staff. It’s a great spot whether you’re catching up with friends or looking for a cosy dinner in the city.\n\nWould definitely come back to try more of the menu. 🌿🍕✨",
+      "time": 1749487970,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Salvatore Bernunzo",
+      "rating": 5,
+      "text": "Absolutely phenomenal! From the moment we stepped into the restaurant, we were greeted with warm smiles and a genuinely welcoming atmosphere that immediately set the tone for an unforgettable dining experience.\n\nLet’s talk food — the pizza was nothing short of brilliant. Perfectly blistered crust, rich tomato sauce, and toppings that tasted like they were handpicked in an Italian countryside that morning. Every bite was a little celebration. You can tell the chefs take serious pride in their craft.\n\nAnd the tiramisu? Divine. Creamy, delicate, with just the right balance of espresso and sweetness — it was the kind of dessert that makes you close your eyes for a second and just savor. Easily one of the best I’ve had anywhere.\n\nBut what truly elevated the whole experience was the staff. Attentive without being intrusive, genuinely passionate about the menu, and full of great recommendations. They made us feel like regulars, even though it was our first visit.\n\nThis is one of those rare places where everything just clicks. We left already planning our next visit. Highly, highly recommended!",
+      "time": 1750839394,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Ruby Reynolds",
+      "rating": 3,
+      "text": "I’ve been to the branch in the city so thought this would be of the same calibre, it was not.\nHad the avocado and crispy chickpeas on toast, knew it would be stone cold when I couldn’t force the knife through the toast. But the chickpeas were crispy which thankfully offset the slightly oily avocado.\nMy daughter had the fruit with yogurt. Took her a while to find the yogurt as she didn’t have a magnifying glass to hand. The quantity and quality  of fruit was marginally better. This was ridiculously overpriced at £12.\nThe staff were very nice and the setting is lovely but I would not come back here again.",
+      "time": 1756116675,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Mark Pattison",
+      "rating": 5,
+      "text": "James and I grabbed breakfast at Caravan Canary Wharf this morning. The space itself is really nice, open, bright and a calm pocket in the middle of Canary Wharf.\n\nThe coffee was spot on, and the menu has loads of choice without feeling overwhelming. We both had breakfast dishes that were fresh and well put together, with good portions too.\n\nIt was busy but not in a bad way, more of a lively atmosphere, and the staff kept things moving without making it feel rushed. Our waitress Lilly was brilliant, really friendly and attentive, which made the experience even better.\n\nOverall, it is a solid spot if you are looking for somewhere reliable for breakfast or a coffee meeting in Canary Wharf.",
+      "time": 1757058169,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:55:07.713Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQ3E6swDdkgRuFY-iKFPZYU"
+}

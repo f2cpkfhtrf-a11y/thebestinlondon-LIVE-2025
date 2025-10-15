@@ -1,0 +1,179 @@
+{
+  "place_id": "ChIJV8gP0ykFdkgRbsmzJFpywNA",
+  "name": "The Ritz Restaurant",
+  "formatted_address": "150 Piccadilly, London W1J 9BR, UK",
+  "vicinity": "150 Piccadilly, London",
+  "rating": 4.7,
+  "user_ratings_total": 1297,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.50692129999999,
+      "lng": -0.1419737
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5084147802915,
+        "lng": -0.140513619708498
+      },
+      "southwest": {
+        "lat": 51.5057168197085,
+        "lng": -0.143211580291502
+      }
+    }
+  },
+  "lat": 51.50692129999999,
+  "lng": -0.1419737,
+  "formatted_phone_number": "020 7300 2370",
+  "international_phone_number": "+44 20 7300 2370",
+  "website": "https://www.theritzlondon.com/dine-with-us/the-ritz-restaurant/?utm_source=google&utm_medium=local&utm_campaign=Ritz_Restaurant",
+  "url": "https://maps.google.com/?cid=15042148486905842030",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f_k0B9N9odnYg8-9iKww0-nA8L0HKQqYJbeZ63V3HCwohG7yeSGUzOOcsE54ZUK66PiVCFMeuUx7tE7hcwjc4M4mtey7gzuX_-jNVVN93vpymFFYIZxS9ZCDtYl6_TrsV7QXTnxFJKDjln5yq2bWxQnc_VPu_oFH_6W8GUtZdjk9e9ykqplH6rD-uSQr-0_uGhW6JZ4hPna5xlsIFD-SjSmGy2gvYmJX93MGzbs11yZZFMSYhVUmjN_PCqPrxQvoyQJXYNKWGBO_uMhKSlmZYyxtCXGxg4tt9ajC0x0aEH7Q",
+      "width": 3000,
+      "height": 2250,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116074393402193441656\">The Ritz Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ehCjkZAOyaTHizV3_kW-bYc7CutqQQhptO9d8pKBKmFpO2omk8IEoweb_jd-pnA1jJ9KVWBoAVbKUGaclPjtxNbHQMmzuG2Mdo9schBXYZCbmzEmgQeCRRc3MtaBTfC9avCkueXgp3G48OKO3S4TcmaaDCpYvr09bqMtI-di74qYRzUoAuyuFnmBJrmW52v3DaulSvFaGQClJfmxqCxvZYJydUHMC3CvFUuiCZHjW1tiSxhZZcTaLy3hVBfVsVdNh7zt-I_Y3ERyV65Bjsy0FLMMVjD9qtFNAy2p55mpG4Ww",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116074393402193441656\">The Ritz Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_iTYtlqEICofKUocTh42aNGky0u2kWNPcRUqZYxEq6_mBXY4GXGqaXnBWY6YMD_pL6JzdPvGmbIdruoFDNA6b3XyvTxps35wI3efZ9r4tq7G6Pf2USHU3FrbZ_UWSNA09FqINDVLeI887jPEWy15DaKAqORHGT4CCViApZt_kgdFIr1Vj712BMJ2jVQw0oai6EoDVcW_e6hBeqUnyv_q2gQVbLbom0NhEWNjZVmJP_3telQ6LrH8j8YuN2mxwmULtCHrBjlpHCKCSuM17ezC4xhZvWs2gZ_PVWcvhP1nFAlxsiMWek3esRQv6HEefpzAKoZa3a9-Rx89EMEI2Z4rrAwVqbrWbkmZDfN8KbLu9SNhn89gjZJDVPYRqGqqF8hX2Bd11dIRplaPoZeAajgIGWWoFHkvygaMaGS4azVG0RJOtZlv9ExXXdXeW-a95",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109521921034734193159\">Juan Ángel Hernández</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cKiZ58okVwmIs2ffLrhUgyFTPAUCJA8RMjR530OTIfJbFVsNBd8pIbpP3kCIf3Z5snaIJaWwtSH0Lz3WUOxX55Nh5K1wj1mMZYzNXkq7lYZXHUgJt6ojpvpIHkrMW-6byKzaiqB4aKjWZ3qoHUEY3Wg7yUaU_SBrHmXPwZDDqJAiUgzKrrFCC1fODq5Fyx6t5AWGTtCiYqVy1A1sTG0ZogCpaq8MfEUoVkWrawY2qrfTX7SdvaInImvhdfEnJZPlQnD62JJBA9hFjaWssiPVd-hb1_cSiCZ813Zfq7wLWa3ZjThFeVAUMC368eij7A019FkVMClmi3ZwqCW-vrC87a8uAMyXoy_js_Ns5e0Dw1CCo2k78ecEw1uVfFv7kflFvJTilby0B_xwtKlawlDU1SBtVcy9wnn69BK28dSQQffcAZoQhJgJeGYz-892uE",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114706992591837471805\">Ariel Cuadrado</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5KPOBx74MoyHULeP4xXJY3V_V21nUX49Q-AKloiezTp-37w0jvCqeLnEXJnF51BNYrwBSrsnnKPGdv4iPiE8W5vCBmNOLp-d59630sQFG0M_Hc5UQ6g5copg_t00vnGQUHkTQ-6Bdwlz9SfNKEg44WF1ngwNVGQcqxZIs9f2wyJ2EQQAV2OosW9rQ4izKyhT_Mfg2TknAtL-XCrRsVPQyYuwVctZ9Ptw8JxLuyvzsbC2z_39oOh8t6XG-hczxBRwtRHgGdRpzdeF39DI4L8Hi3zsx2NgWPxkf8V9SwAs1bOsAzTjSxjGjWAgwFHTOSoDy6lv2BIHfdfaAqjSHgDYZyBpIKWKp3NgN3wRrHVCQv_ZHpqRi4UqbGwjgbWf3etBQnRkatyXVKI0K6XY7LAvGB-oguiqqL9EVzF0z__CxRq93VdpOfW6ZCW8RSQfS",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102881795168880310447\">Janet Foley</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fzf9xZPrqbpoLJTkhhIXTBhy7KDPcY4dhWbL1OhGd028RpfrS-MDevkTKErTBfRxv9tPAC_hmQipqlSoMgooBm7X3xXrpxLxy6eyt7aYwaZpf6JEdZTCGlSmyoUh8US8513LM2g_puHybtOAu725yJ3S6GdjknAJxn8DRzp3EuilUBRSaYCPKvoK22301_AN6TWRgmsbKGIc7Zue9KkfMvqu4bK91HY5so6wUYryvFZO2rW-LGE9_L9OEF4Zy31Do150c9r9SSa8HLxhm2qEpE19tdQblyeUF7G7k2OH6lcmleDyuAzmW--k-vWPP5b3DjMME8LLHpg6LlSP7XiSQ2fn2W3nMm7ggFTc2fboFMEXcDJxbdER3x60UTmpuwvqrfiNpjOV3Y2P3QU93_I7HRw78gZ_EulNfJMUK2gW6GO6RHlyXPzS5sdQmWjB_P",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109521921034734193159\">Juan Ángel Hernández</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2czn_8fcYS7YfFCvmGCjghBJNCCyKQ-fQsAi4-UkJCPz4lhBLZ6PLUpP2ln2vILAwK3ceSuKiVsr-mU9F8prUYMGltlhsfdihd7uL2O2j4QcjIGkBAcPy78awfV-AbvsmilRDsrN3HKGmdjSckYYo4gNU-Lb0dGtQwgIB-AEoxnCJEtWEjPWEHr4AHx04TFY7tloaegMA7u71nVGqWyk1W9gQaYeaS-tnF0BipYnacJZBRG12OuvF65ZVRsQXEuCpfdA2QMBtgaskNkcVjBcszQXIDPYFR94czCRSI8VP7MhyYuD2OkQL1_sbDwuCFSvKuXoiMElYKxA5IouGM0VxJZwUWgQ9SEtByQfLyM9PMbinzwdc_ky39tww6_MtmU2aM1RBepq0TYO8RoBRNEgPYeTlpu4ZwzLY2Fq8SE2aetqht5hJXdRsoh8_QmCwA1",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116493703564691133574\">Christian Geng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dqCw-eaIh2d4bt1wVag5a-p_NyY9WA6Z9usa_hA9z7hcpN12LRL6KOWyiyh-zMX1uzqeL4X_e7cMRpC8i_pFahBWMerKqeV1AEg4xweaHuDHtR5NMZVZpXosdfUHSgmZoxULukV7iuRHrBKx64J9s-4nRI3qsRKIwzQ53m8Dwz-oWKcM-WywSOFYOHDoG9-oeMOb_wpSg4NbC3OEBTGtnneNBg-ForpAWf1hl3gfu0ICkh_epCmrNApiAFFE_zgSofYon51rexWGM-R5vLWNmsHDU7lgv8QzWfKC87fW2AQTKfKs9iBXRK96aw-kxfZC09ZongcDDiQabGAmZ_4dND3-JoGVN6Fmgk08hugCW7g9wqkhiI0CS5UvXLCDWZddC8jRsFa_mYcrUb4EDB962ixksQIBMqHiUEaJVWy12VcQN275Dn7soaCh0uk25l",
+      "width": 1182,
+      "height": 946,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115683911565709759137\">daniel tang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVTuPfJszpeJgQYiYGfrpJ9-olyP0yL9s7wvP2xlmhH4kK8OQJevb-h9q05jJEKFOQha6_qS1Q2vnxSlYJ_YdlI75m5W5tp1EKVn6ofYK_OYuBAy4OBOgjKeQqfQ3cW1TEuS3ud5XM0TtBH8GGRdC52gRv_pa7vxsAnbeEJew9bN-UoZ9B55Yf-N5pwH5D5CBERSWQFIRlFFsEmHJY9RxfCKcY9tuEwJyNg0gRgMAK4l4k1-srIvgEUMNTVDfoM01bek6gNNJ_3_nWulYgQkBxziCeTxN8pIeucHigUHS4-Broh8TKb3DuTPM2iPA37uW019VkyfaYJHGNZTfu5UHCKd0IGyekntwEmET6W3oeT10TFw7TzweU7FrlF3zw8y5I--60zqGzaLzvTYYlDFdwRuzYCH5aF316-MQdQ_s0KKSgGj-2Ofb0rlSjIuSQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105190143360067296850\">Maria Yu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2diaWLEqr0jSQYbW-SoW_O87UYfJLKP1Oc8HCsKc3eM0OHHRuw1LW5or1qqlOzSIkf7SEVnjv346Kl3mSyjh5Anu0cZ7vrb2Z5Y-vf0GXVC6YLwffkKG9EDtEsK8oOtYtZetscvU-f4yqDCPHKOeU0VArgoQ9roYqEPPoEGSvoZI12etR7q_mA3DTGr7uThqF13HOt2zSXoSWPNJYzOXTmnvvPp0JGrsziQJOrpgdKazuyVy_g8TeWFbqk5CHRWIa5RSmRvQEo5l7HKE52yIxU7uQCQbLec3c5GwIsNgZz4PpG8FYF1das-HA9sTmf9vJlztRrr70NLNoxygKPdUy5r2lwxg9KiKe133lX23TcqI64R2DRfRuZfZhFRH1jWR1L37t5MpaJo_tQPah0l4sW2ySd7xgjvT-xWKui19pvvFCIqZOxlxTOgczIt13CK",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117070642758320552688\">Ian Ferris</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "High-end British–French dining in baroque-style  gilded salon with ceiling frescoes and chandeliers.",
+  "reviews": [
+    {
+      "author_name": "Hendrik Folkerts",
+      "rating": 4,
+      "text": "Having enjoyed Afternoon Tea and the Rivoli Bar at the Ritz in the past, I now wanted to try out the restaurant. I visited for the breakfast service. The atmosphere is really fantastic. The coffee, orange juice, English breakfast and Eggs Benedict were very good. The only thing I noticed was that the hash brown was a bit hard on the edges and therefore a little difficult to cut. I would have liked a little more attention to detail with the service. I had to actively ask for a new juice. Otherwise the staff were all very kind. Overall, it was a great experience that I would like to repeat in the future.",
+      "time": 1755011409,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "S P",
+      "rating": 5,
+      "text": "Wahhhhh, Sunday lunch at The Ritz.\nArt des table for 4 people.\nStarted with a warm welcome and clear instructions from the doorman. Rivoli Bar for a cocktail, very helpful member of staff to explain the extensive menu. Cocktails were very good. Then walking through the main halls to the restaurant was beautiful and greeted and brought to our table effortlessly.\nIntroduced to waiters and sommelier and so we began. Stunning amuse bouche, fish cookery and sauces stunning, beef Wellington good, sauces and potatoes amazing. Pre desert stunning and the crepe suzette amazing...\nSommelier was possibly the highlight. Warm, welcoming and loved talking, explaing and recommending a few wines. His manner and professionalism was exemplary.\nWhat a fantastic experience.",
+      "time": 1755595302,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Sara Sidle",
+      "rating": 5,
+      "text": "Absolutely sublime experience at the Ritz! Every bit as fancy and impressive as it was expensive! Definitely worth it however for taste of food presentation quality and ambiance. We went for my mom’s birthday on 9/16/25 and dined on the 7 course meal. Of note for the course meals everyone in the table has to do the same experience. This delectable delight had the perfect amount of savory and sweet and was definitely good enough portion size to be filling as well. Each course was a culinary delight with robust well paired flavors that lended to the next dish. The service was also outstanding everyone was attentive courteous and well versed on presentation of the dishes. The ambiance was also amazing quite striking elegance in a more intimate setting. They additionally made mention of my mom’s birthday and ensured that this was recognized. I appreciated their hard work and dedication to making my moms birthday meal memorable",
+      "time": 1758364526,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Ian Ferris",
+      "rating": 5,
+      "text": "An extraordinary experience. John Williams gained his second Michelin star in February 2025 but we've known this restaurant to be one of the best, if not the best restaurant in London for many years. The dining room is opulent, the service friendly and simply the best anywhere and the kitchen just keeps cooking and presenting some of the best UK food we've ever enjoyed. There's a perfectly reasonable dress code. You will not be disappointed.",
+      "time": 1757672848,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Ali Alhasoon",
+      "rating": 5,
+      "text": "We had the pleasure of visiting the RITZ resutatnt a Two Michelin starred restaurant in London, and the experience was truly exceptional. The food was exquisite, and the service was absolutely outstanding we were treated like royalty. It felt like being princes for the evening.\n\nThis was my third visit, and each time has been uniquely beautiful, with something new to admire. What truly makes the place special is the people the warmth, care, and attention they bring.\n\nA heartfelt thank you to the managers special Mr Enzo…  and every team member working behind the scenes. You’ve created something truly memorable. we will never forget",
+      "time": 1757158523,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-15T10:54:14.532Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8gP0ykFdkgRbsmzJFpywNA"
+}
