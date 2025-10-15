@@ -37,15 +37,34 @@ export async function getStaticProps() {
       }
     });
     
-    // Create cuisine data for navigation
-    const cuisines = [
-      { name: 'International', count: cuisineCounts.international || 0, href: '/international-restaurants-london', image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=85' },
-      { name: 'Korean', count: cuisineCounts.korean || 0, href: '/korean-restaurants-london', image: 'https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&q=85' },
-      { name: 'Thai', count: cuisineCounts.thai || 0, href: '/thai-restaurants-london', image: 'https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600&q=85' },
-      { name: 'Chinese', count: cuisineCounts.chinese || 0, href: '/chinese-restaurants-london', image: 'https://images.unsplash.com/photo-1525755662778-989d0524087e?w=600&q=85' },
-      { name: 'Japanese', count: cuisineCounts.japanese || 0, href: '/japanese-restaurants-london', image: 'https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=600&q=85' },
-      { name: 'Italian', count: cuisineCounts.italian || 0, href: '/italian-restaurants-london', image: 'https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=600&q=85' },
-    ];
+    // Generate top 12 cuisines dynamically from actual data
+    const cuisineImages = {
+      'modern european': 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&q=85',
+      'bar': 'https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&q=85',
+      'cafe': 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=85',
+      'italian': 'https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=600&q=85',
+      'french': 'https://images.unsplash.com/photo-1559339352-11d035aa65aa?w=600&q=85',
+      'british': 'https://images.unsplash.com/photo-1513442542250-854d436a73f2?w=600&q=85',
+      'japanese': 'https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=600&q=85',
+      'indian': 'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&q=85',
+      'turkish': 'https://images.unsplash.com/photo-1560269999-cef6ebd23ad3?w=600&q=85',
+      'chinese': 'https://images.unsplash.com/photo-1525755662778-989d0524087e?w=600&q=85',
+      'spanish': 'https://images.unsplash.com/photo-1534080564583-6be75777b70a?w=600&q=85',
+      'mexican': 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&q=85',
+      'korean': 'https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&q=85',
+      'thai': 'https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600&q=85',
+      'steakhouse': 'https://images.unsplash.com/photo-1558030006-450675393462?w=600&q=85',
+    };
+    
+    const cuisines = Object.entries(cuisineCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 12)
+      .map(([cuisine, count]) => ({
+        name: cuisine.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+        count,
+        href: `/${cuisine.replace(/\s+/g, '-')}-restaurants-london`,
+        image: cuisineImages[cuisine] || 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=85'
+      }));
     
     // Calculate stats
     const totalVenues = venues.length;
