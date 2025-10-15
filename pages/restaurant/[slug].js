@@ -279,6 +279,36 @@ export default function VenueDetailPage({ venue }) {
                   </div>
                 </div>
               )}
+
+              {/* Reviews Section */}
+              {venue.reviews && venue.reviews.length > 0 && (
+                <div style={{ background: "#1A1A1A", padding: "32px", borderRadius: "12px", border: "1px solid #2A2A2A" }}>
+                  <h2 style={{ fontSize: "20px", fontWeight: 600, marginBottom: "24px", fontFamily: "Playfair Display, serif" }}>What People Say</h2>
+                  <div style={{ display: "grid", gap: "24px" }}>
+                    {venue.reviews.map((review, idx) => (
+                      <div key={idx} style={{ padding: "20px", background: "#0B0B0B", borderRadius: "8px", border: "1px solid #2A2A2A" }}>
+                        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "start", marginBottom: "12px" }}>
+                          <div>
+                            <div style={{ fontWeight: 600, marginBottom: "4px" }}>{review.author_name}</div>
+                            <div style={{ fontSize: "13px", color: "#9AA0A6" }}>{review.relative_time_description || "Recently"}</div>
+                          </div>
+                          <div style={{ display: "flex", color: "#D4AF37" }}>
+                            {[...Array(5)].map((_, i) => (<span key={i}>{i < review.rating ? "★" : "☆"}</span>))}
+                          </div>
+                        </div>
+                        {review.text && (<p style={{ fontSize: "15px", lineHeight: 1.6, color: "#E0E0E0", margin: 0 }}>{review.text}</p>)}
+                      </div>
+                    ))}
+                  </div>
+                  {venue.user_ratings_total > venue.reviews.length && (
+                    <div style={{ marginTop: "24px", textAlign: "center" }}>
+                      <a href={`https://www.google.com/maps/place/?q=place_id:${venue.place_id}`} target="_blank" rel="noopener noreferrer" style={{ color: "#D4AF37", fontSize: "14px", textDecoration: "none", display: "inline-block", padding: "12px 24px", border: "1px solid rgba(212, 175, 55, 0.3)", borderRadius: "8px" }}>
+                        Read all {venue.user_ratings_total.toLocaleString()} reviews on Google →
+                      </a>
+                    </div>
+                  )}
+                </div>
+              )}
             </div>
 
             {/* Right Column - CTAs */}
