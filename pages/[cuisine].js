@@ -71,75 +71,77 @@ export default function CuisinePage({ cuisine, venues, totalVenues }) {
         </div>
 
         {/* Dietary Filters */}
-        <div className="border-b" style={{ borderColor: '#1F1F1F', backgroundColor: '#0F0F0F' }}>
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-            <div className="flex items-center justify-center space-x-4 flex-wrap gap-2">
-              <button
-                onClick={() => setSelectedDiet('all')}
-                className="px-6 py-2 rounded-full transition-all"
-                style={{
-                  backgroundColor: selectedDiet === 'all' ? '#D4AF37' : '#1F1F1F',
-                  color: selectedDiet === 'all' ? '#0B0B0B' : '#FAFAFA',
-                  fontWeight: selectedDiet === 'all' ? '600' : '400'
-                }}
-              >
-                All ({totalVenues})
-              </button>
-              {dietaryCounts.halal > 0 && (
+        {totalVenues > 0 && (
+          <div className="border-b" style={{ borderColor: '#1F1F1F', backgroundColor: '#0F0F0F' }}>
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+              <div className="flex items-center justify-center space-x-4 flex-wrap gap-2">
                 <button
-                  onClick={() => setSelectedDiet('halal')}
+                  onClick={() => setSelectedDiet('all')}
                   className="px-6 py-2 rounded-full transition-all"
                   style={{
-                    backgroundColor: selectedDiet === 'halal' ? '#D4AF37' : '#1F1F1F',
-                    color: selectedDiet === 'halal' ? '#0B0B0B' : '#FAFAFA',
-                    fontWeight: selectedDiet === 'halal' ? '600' : '400'
+                    backgroundColor: selectedDiet === 'all' ? '#D4AF37' : '#1F1F1F',
+                    color: selectedDiet === 'all' ? '#0B0B0B' : '#FAFAFA',
+                    fontWeight: selectedDiet === 'all' ? '600' : '400'
                   }}
                 >
-                  Halal ({dietaryCounts.halal})
+                  All ({totalVenues})
                 </button>
-              )}
-              {dietaryCounts.vegetarian > 0 && (
-                <button
-                  onClick={() => setSelectedDiet('vegetarian')}
-                  className="px-6 py-2 rounded-full transition-all"
-                  style={{
-                    backgroundColor: selectedDiet === 'vegetarian' ? '#D4AF37' : '#1F1F1F',
-                    color: selectedDiet === 'vegetarian' ? '#0B0B0B' : '#FAFAFA',
-                    fontWeight: selectedDiet === 'vegetarian' ? '600' : '400'
-                  }}
-                >
-                  Vegetarian ({dietaryCounts.vegetarian})
-                </button>
-              )}
-              {dietaryCounts.vegan > 0 && (
-                <button
-                  onClick={() => setSelectedDiet('vegan')}
-                  className="px-6 py-2 rounded-full transition-all"
-                  style={{
-                    backgroundColor: selectedDiet === 'vegan' ? '#D4AF37' : '#1F1F1F',
-                    color: selectedDiet === 'vegan' ? '#0B0B0B' : '#FAFAFA',
-                    fontWeight: selectedDiet === 'vegan' ? '600' : '400'
-                  }}
-                >
-                  Vegan ({dietaryCounts.vegan})
-                </button>
-              )}
-              {dietaryCounts['gluten-free'] > 0 && (
-                <button
-                  onClick={() => setSelectedDiet('gluten-free')}
-                  className="px-6 py-2 rounded-full transition-all"
-                  style={{
-                    backgroundColor: selectedDiet === 'gluten-free' ? '#D4AF37' : '#1F1F1F',
-                    color: selectedDiet === 'gluten-free' ? '#0B0B0B' : '#FAFAFA',
-                    fontWeight: selectedDiet === 'gluten-free' ? '600' : '400'
-                  }}
-                >
-                  Gluten-Free ({dietaryCounts['gluten-free']})
-                </button>
-              )}
+                {dietaryCounts.halal > 0 && (
+                  <button
+                    onClick={() => setSelectedDiet('halal')}
+                    className="px-6 py-2 rounded-full transition-all"
+                    style={{
+                      backgroundColor: selectedDiet === 'halal' ? '#D4AF37' : '#1F1F1F',
+                      color: selectedDiet === 'halal' ? '#0B0B0B' : '#FAFAFA',
+                      fontWeight: selectedDiet === 'halal' ? '600' : '400'
+                    }}
+                  >
+                    Halal ({dietaryCounts.halal})
+                  </button>
+                )}
+                {dietaryCounts.vegetarian > 0 && (
+                  <button
+                    onClick={() => setSelectedDiet('vegetarian')}
+                    className="px-6 py-2 rounded-full transition-all"
+                    style={{
+                      backgroundColor: selectedDiet === 'vegetarian' ? '#D4AF37' : '#1F1F1F',
+                      color: selectedDiet === 'vegetarian' ? '#0B0B0B' : '#FAFAFA',
+                      fontWeight: selectedDiet === 'vegetarian' ? '600' : '400'
+                    }}
+                  >
+                    Vegetarian ({dietaryCounts.vegetarian})
+                  </button>
+                )}
+                {dietaryCounts.vegan > 0 && (
+                  <button
+                    onClick={() => setSelectedDiet('vegan')}
+                    className="px-6 py-2 rounded-full transition-all"
+                    style={{
+                      backgroundColor: selectedDiet === 'vegan' ? '#D4AF37' : '#1F1F1F',
+                      color: selectedDiet === 'vegan' ? '#0B0B0B' : '#FAFAFA',
+                      fontWeight: selectedDiet === 'vegan' ? '600' : '400'
+                    }}
+                  >
+                    Vegan ({dietaryCounts.vegan})
+                  </button>
+                )}
+                {dietaryCounts['gluten-free'] > 0 && (
+                  <button
+                    onClick={() => setSelectedDiet('gluten-free')}
+                    className="px-6 py-2 rounded-full transition-all"
+                    style={{
+                      backgroundColor: selectedDiet === 'gluten-free' ? '#D4AF37' : '#1F1F1F',
+                      color: selectedDiet === 'gluten-free' ? '#0B0B0B' : '#FAFAFA',
+                      fontWeight: selectedDiet === 'gluten-free' ? '600' : '400'
+                    }}
+                  >
+                    Gluten-Free ({dietaryCounts['gluten-free']})
+                  </button>
+                )}
+              </div>
             </div>
           </div>
-        </div>
+        )}
 
         {/* Venues Grid */}
         <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -148,13 +150,11 @@ export default function CuisinePage({ cuisine, venues, totalVenues }) {
               <p className="text-2xl mb-4" style={{ color: '#9AA0A6' }}>
                 No {selectedDiet !== 'all' ? selectedDiet : ''} restaurants found
               </p>
-              <button
-                onClick={() => setSelectedDiet('all')}
-                className="px-8 py-3 rounded-full"
-                style={{ backgroundColor: '#D4AF37', color: '#0B0B0B', fontWeight: '600' }}
-              >
-                View All {totalVenues} Restaurants
-              </button>
+              <Link href="/">
+                <a className="inline-block px-8 py-3 rounded-full" style={{ backgroundColor: '#D4AF37', color: '#0B0B0B', fontWeight: '600' }}>
+                  Back to Homepage
+                </a>
+              </Link>
             </div>
           ) : (
             <div style={{ 
@@ -337,46 +337,92 @@ export default function CuisinePage({ cuisine, venues, totalVenues }) {
 }
 
 export async function getStaticPaths() {
-  const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
-  const data = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
-  const venues = Array.isArray(data) ? data : (data.venues || []);
-
-  // Get all unique cuisines
-  const cuisines = new Set();
-  venues.forEach(venue => {
-    if (venue.cuisines) {
-      venue.cuisines.forEach(cuisine => {
-        cuisines.add(cuisine.toLowerCase().trim());
-      });
+  try {
+    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
+    
+    // Check if file exists
+    if (!fs.existsSync(venuesPath)) {
+      console.warn('venues.json not found during build - using fallback');
+      return { paths: [], fallback: 'blocking' };
     }
-  });
 
-  const paths = Array.from(cuisines).map(cuisine => ({
-    params: { cuisine: cuisine.replace(/\s+/g, '-') }
-  }));
+    const data = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
+    const venues = Array.isArray(data) ? data : (data.venues || []);
 
-  return { paths, fallback: false };
+    if (!venues || venues.length === 0) {
+      console.warn('No venues found - using fallback');
+      return { paths: [], fallback: 'blocking' };
+    }
+
+    // Get all unique cuisines
+    const cuisines = new Set();
+    venues.forEach(venue => {
+      if (venue.cuisines && Array.isArray(venue.cuisines)) {
+        venue.cuisines.forEach(cuisine => {
+          if (cuisine) {
+            cuisines.add(cuisine.toLowerCase().trim());
+          }
+        });
+      }
+    });
+
+    const paths = Array.from(cuisines).map(cuisine => ({
+      params: { cuisine: cuisine.replace(/\s+/g, '-') }
+    }));
+
+    console.log(`Generated ${paths.length} cuisine paths during build`);
+
+    // Use blocking fallback so pages can be generated on-demand if not pre-built
+    return { paths, fallback: 'blocking' };
+  } catch (error) {
+    console.error('Error in getStaticPaths:', error);
+    // Return empty paths with blocking fallback - pages will be generated on-demand
+    return { paths: [], fallback: 'blocking' };
+  }
 }
 
 export async function getStaticProps({ params }) {
-  const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
-  const data = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
-  const allVenues = Array.isArray(data) ? data : (data.venues || []);
-
-  // Convert URL cuisine param back to match data format
-  const cuisineParam = params.cuisine.replace(/-/g, ' ').toLowerCase();
-
-  // Filter venues that have this cuisine in ANY of their cuisine tags
-  const venues = allVenues.filter(venue => {
-    if (!venue.cuisines || !Array.isArray(venue.cuisines)) return false;
-    return venue.cuisines.some(c => c.toLowerCase().trim() === cuisineParam);
-  });
-
-  return {
-    props: {
-      cuisine: cuisineParam,
-      venues,
-      totalVenues: venues.length
+  try {
+    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
+    
+    if (!fs.existsSync(venuesPath)) {
+      console.error('venues.json not found');
+      return { notFound: true };
     }
-  };
+
+    const data = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
+    const allVenues = Array.isArray(data) ? data : (data.venues || []);
+
+    if (!allVenues || allVenues.length === 0) {
+      console.error('No venues in data');
+      return { notFound: true };
+    }
+
+    // Convert URL cuisine param back to match data format
+    const cuisineParam = params.cuisine.replace(/-/g, ' ').toLowerCase();
+
+    // Filter venues that have this cuisine in ANY of their cuisine tags
+    const venues = allVenues.filter(venue => {
+      if (!venue.cuisines || !Array.isArray(venue.cuisines)) return false;
+      return venue.cuisines.some(c => c && c.toLowerCase().trim() === cuisineParam);
+    });
+
+    if (venues.length === 0) {
+      console.warn(`No venues found for cuisine: ${cuisineParam}`);
+      return { notFound: true };
+    }
+
+    return {
+      props: {
+        cuisine: cuisineParam,
+        venues,
+        totalVenues: venues.length
+      },
+      // Revalidate every hour to keep data fresh
+      revalidate: 3600
+    };
+  } catch (error) {
+    console.error('Error in getStaticProps:', error);
+    return { notFound: true };
+  }
 }
