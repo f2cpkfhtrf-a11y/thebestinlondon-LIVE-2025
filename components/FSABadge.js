@@ -1,51 +1,131 @@
-import { theme } from '../utils/theme';
+import { Shield } from 'lucide-react';
 
-export default function FSABadge({ rating, size = 'default', showLabel = true }) {
-  const colors = {
-    5: { bg: '#10B981', text: '#FFFFFF', label: 'Excellent' },
-    4: { bg: '#059669', text: '#FFFFFF', label: 'Good' },
-    3: { bg: '#F59E0B', text: '#FFFFFF', label: 'Satisfactory' },
-    2: { bg: '#EF4444', text: '#FFFFFF', label: 'Improvement Needed' },
-    1: { bg: '#DC2626', text: '#FFFFFF', label: 'Urgent Improvement' },
-    0: { bg: '#6B7280', text: '#FFFFFF', label: 'Awaiting Inspection' }
+export default function FSABadge({ rating, variant = 'default', size = 'default' }) {
+  if (!rating) return null;
+
+  // Luxurious green with gold accents
+  const getColors = () => {
+    if (rating >= 4) return {
+      bg: 'linear-gradient(135deg, #047857 0%, #065f46 100%)', // Rich emerald green
+      border: '2px solid #D4AF37', // Gold border
+      text: '#FAFAFA', // White text
+      ratingText: '#FAFAFA', // White rating
+      shadow: '0 8px 24px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(212, 175, 55, 0.5)'
+    };
+    if (rating >= 3) return {
+      bg: 'linear-gradient(135deg, #d97706 0%, #b45309 100%)', // Amber
+      border: '2px solid #D4AF37',
+      text: '#FAFAFA',
+      ratingText: '#FAFAFA',
+      shadow: '0 8px 24px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(212, 175, 55, 0.5)'
+    };
+    return {
+      bg: 'linear-gradient(135deg, #dc2626 0%, #991b1b 100%)', // Red
+      border: '2px solid #D4AF37',
+      text: '#FAFAFA',
+      ratingText: '#FAFAFA',
+      shadow: '0 8px 24px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(212, 175, 55, 0.5)'
+    };
   };
 
-  const sizes = {
-    small: { padding: '4px 8px', fontSize: '11px' },
-    default: { padding: '6px 12px', fontSize: '13px' },
-    large: { padding: '8px 16px', fontSize: '15px' }
-  };
+  const colors = getColors();
 
-  const color = colors[rating] || colors[0];
-  const sizeStyle = sizes[size] || sizes.default;
-
-  return (
-    <div style={{ display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
+  // Card variant for image overlays - LUXURIOUS
+  if (variant === 'card') {
+    return (
       <div style={{
-        background: color.bg,
-        color: color.text,
-        padding: sizeStyle.padding,
-        borderRadius: theme.radius.sm,
-        fontSize: sizeStyle.fontSize,
-        fontWeight: 600,
+        background: colors.bg,
+        border: colors.border,
+        borderRadius: '10px',
+        padding: '12px 16px',
         display: 'flex',
         alignItems: 'center',
-        gap: '4px',
-        boxShadow: '0 2px 8px rgba(0,0,0,0.15)'
+        gap: '10px',
+        boxShadow: colors.shadow,
+        transition: 'all 0.3s ease'
       }}>
-        <span>FSA</span>
-        <span style={{ fontWeight: 700 }}>{rating}</span>
-        <span style={{ fontSize: '12px' }}>⭐</span>
+        <Shield 
+          size={26} 
+          color={colors.text}
+          strokeWidth={2.5}
+          fill="rgba(255, 255, 255, 0.2)"
+          style={{ flexShrink: 0 }}
+        />
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
+          <span style={{
+            color: colors.text,
+            fontSize: '10px',
+            fontWeight: '700',
+            textTransform: 'uppercase',
+            letterSpacing: '0.8px',
+            lineHeight: '1',
+            fontFamily: 'Inter, sans-serif'
+          }}>
+            FSA Hygiene Rating
+          </span>
+          <div style={{ display: 'flex', alignItems: 'baseline', gap: '5px', marginTop: '6px' }}>
+            <span style={{
+              color: colors.ratingText,
+              fontSize: '28px',
+              fontWeight: '800',
+              lineHeight: '1',
+              fontFamily: 'Inter, sans-serif'
+            }}>
+              {rating}
+            </span>
+            <span style={{
+              color: colors.text,
+              fontSize: '16px',
+              fontWeight: '700',
+              lineHeight: '1'
+            }}>
+              / 5
+            </span>
+          </div>
+        </div>
       </div>
-      {showLabel && size !== 'small' && (
+    );
+  }
+
+  // Default inline variant - LUXURIOUS
+  return (
+    <div style={{
+      background: colors.bg,
+      border: colors.border,
+      borderRadius: '8px',
+      padding: '10px 14px',
+      display: 'inline-flex',
+      alignItems: 'center',
+      gap: '10px',
+      boxShadow: colors.shadow
+    }}>
+      <Shield 
+        size={22} 
+        color={colors.text}
+        strokeWidth={2.5}
+        fill="rgba(255, 255, 255, 0.2)"
+      />
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
         <span style={{
-          fontSize: '12px',
-          color: theme.colors.text.secondary,
-          fontWeight: 500
+          color: colors.text,
+          fontSize: '9px',
+          fontWeight: '700',
+          textTransform: 'uppercase',
+          letterSpacing: '0.8px',
+          lineHeight: '1'
         }}>
-          {color.label}
+          FSA Hygiene Rating
         </span>
-      )}
+        <span style={{
+          color: colors.ratingText,
+          fontSize: '22px',
+          fontWeight: '800',
+          lineHeight: '1',
+          marginTop: '4px'
+        }}>
+          {rating}/5
+        </span>
+      </div>
     </div>
   );
 }

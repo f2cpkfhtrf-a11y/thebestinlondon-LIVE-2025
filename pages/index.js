@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { useRouter } from 'next/router';
 import { theme } from '../utils/theme';
 import SearchModal from '../components/SearchModal';
+import FSABadge from '../components/FSABadge';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -12,10 +13,13 @@ export async function getStaticProps() {
   try {
     const filePath = path.join(process.cwd(), 'public/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
-    const data = JSON.parse(fileContent);
+    let data = JSON.parse(fileContent);
+    
+    // Handle both flat array and wrapped object
+    const venues = Array.isArray(data) ? data : (data.venues || []);
     
     // Get ALL venues (sorted by rating)
-    const allVenues = data.venues
+    const allVenues = venues
       .filter(v => v.rating && v.rating >= 4.0)
       .sort((a, b) => (b.rating || 0) - (a.rating || 0));
     
@@ -24,7 +28,7 @@ export async function getStaticProps() {
     
     // Calculate cuisine counts
     const cuisineCounts = {};
-    data.venues.forEach(v => {
+    venues.forEach(v => {
       if (v.cuisines && v.cuisines.length > 0) {
         v.cuisines.forEach(cuisine => {
           const lower = cuisine.toLowerCase();
@@ -44,9 +48,9 @@ export async function getStaticProps() {
     ];
     
     // Calculate stats
-    const totalVenues = data.venues.length;
-    const avgRating = (data.venues.reduce((sum, v) => sum + (v.rating || 0), 0) / data.venues.length).toFixed(1);
-    const fsaVerified = data.venues.filter(v => v.fsa_rating).length;
+    const totalVenues = venues.length;
+    const avgRating = (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1);
+    const fsaVerified = venues.filter(v => v.fsa_rating).length;
     const fsaPercentage = Math.round((fsaVerified / totalVenues) * 100);
     
     return {
@@ -58,7 +62,7 @@ export async function getStaticProps() {
           totalVenues,
           avgRating,
           fsaPercentage,
-          lastUpdated: data.lastUpdated || new Date().toISOString()
+          lastUpdated: (typeof data === 'object' && !Array.isArray(data) && data.lastUpdated) ? data.lastUpdated : new Date().toISOString()
         }
       },
       revalidate: 86400 // Revalidate daily
@@ -525,16 +529,10 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
                       {venue.fsa_rating && (
                         <div style={{
                           position: 'absolute',
-                          top: theme.spacing.base,
-                          right: theme.spacing.base,
-                          background: theme.colors.accent.success,
-                          color: theme.colors.text.inverse,
-                          padding: `${theme.spacing.xs} ${theme.spacing.md}`,
-                          borderRadius: theme.radius.sm,
-                          fontSize: '12px',
-                          fontWeight: 600
+                          top: theme.spacing.md,
+                          right: theme.spacing.md
                         }}>
-                          FSA {venue.fsa_rating}
+                          <FSABadge rating={venue.fsa_rating} size="large" showLabel={false} variant="card" />
                         </div>
                       )}
 

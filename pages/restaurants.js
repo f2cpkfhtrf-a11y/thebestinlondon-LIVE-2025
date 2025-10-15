@@ -1,299 +1,374 @@
+import { useState } from 'react';
+import Link from 'next/link';
 import Layout from '../components/Layout';
+import FSABadge from '../components/FSABadge';
 
-const venues = [
-  {
-    "id": 1,
-    "name": "The Ledbury",
-    "area": "Notting Hill",
-    "rating": 4.8,
-    "googleReviews": 1247,
-    "address": "127 Ledbury Rd, London W11 2AQ",
-    "cuisine": "Modern European",
-    "priceRange": "££££",
-    "description": "Two Michelin-starred restaurant offering innovative European cuisine in an elegant setting."
-  },
-  {
-    "id": 2,
-    "name": "Dishoom",
-    "area": "Covent Garden",
-    "rating": 4.6,
-    "googleReviews": 3241,
-    "address": "12 Upper St Martin's Ln, London WC2H 9FB",
-    "cuisine": "Indian",
-    "priceRange": "££",
-    "description": "Bombay-style café serving authentic Indian street food and cocktails."
-  },
-  {
-    "id": 3,
-    "name": "The River Café",
-    "area": "Hammersmith",
-    "rating": 4.7,
-    "googleReviews": 892,
-    "address": "Thames Wharf, Rainville Rd, London W6 9HA",
-    "cuisine": "Italian",
-    "priceRange": "££££",
-    "description": "Iconic riverside restaurant serving exceptional Italian cuisine with stunning Thames views."
-  },
-  {
-    "id": 4,
-    "name": "Hawksmoor Seven Dials",
-    "area": "Covent Garden",
-    "rating": 4.5,
-    "googleReviews": 2156,
-    "address": "11 Langley St, London WC2H 9JG",
-    "cuisine": "Steakhouse",
-    "priceRange": "£££",
-    "description": "Premium steakhouse known for exceptional British beef and craft cocktails."
-  },
-  {
-    "id": 5,
-    "name": "Clos Maggiore",
-    "area": "Covent Garden",
-    "rating": 4.4,
-    "googleReviews": 1873,
-    "address": "33 King St, London WC2E 8JD",
-    "cuisine": "French",
-    "priceRange": "£££",
-    "description": "Romantic French restaurant with a stunning conservatory and exceptional wine list."
-  },
-  {
-    "id": 6,
-    "name": "Gymkhana",
-    "area": "Mayfair",
-    "rating": 4.6,
-    "googleReviews": 1456,
-    "address": "42 Albemarle St, London W1S 4JH",
-    "cuisine": "Indian",
-    "priceRange": "£££",
-    "description": "Michelin-starred Indian restaurant offering refined regional cuisine in elegant surroundings."
-  },
-  {
-    "id": 7,
-    "name": "The Wolseley",
-    "area": "Piccadilly",
-    "rating": 4.3,
-    "googleReviews": 3421,
-    "address": "160 Piccadilly, St. James's, London W1J 9EB",
-    "cuisine": "European",
-    "priceRange": "£££",
-    "description": "Grand European café-restaurant in a stunning Art Deco building on Piccadilly."
-  },
-  {
-    "id": 8,
-    "name": "Barrafina",
-    "area": "Soho",
-    "rating": 4.5,
-    "googleReviews": 1987,
-    "address": "26-27 Dean St, London W1D 3LL",
-    "cuisine": "Spanish",
-    "priceRange": "£££",
-    "description": "Authentic Spanish tapas bar with counter seating and exceptional sherry selection."
-  },
-  {
-    "id": 9,
-    "name": "The Clove Club",
-    "area": "Shoreditch",
-    "rating": 4.7,
-    "googleReviews": 756,
-    "address": "380 Old St, London EC1V 9LT",
-    "cuisine": "Modern British",
-    "priceRange": "££££",
-    "description": "Michelin-starred restaurant showcasing innovative British cuisine with global influences."
-  },
-  {
-    "id": 10,
-    "name": "Franco Manca",
-    "area": "Brixton",
-    "rating": 4.4,
-    "googleReviews": 4567,
-    "address": "Unit 4, Market Row, London SW9 8LD",
-    "cuisine": "Italian",
-    "priceRange": "£",
-    "description": "Popular sourdough pizza chain with authentic Neapolitan-style pizzas and fresh ingredients."
+export default function Restaurants({ venues, stats }) {
+  const [filter, setFilter] = useState('all');
+  const [sortBy, setSortBy] = useState('rating');
+
+  // Filter venues
+  let filtered = venues;
+  if (filter !== 'all') {
+    filtered = venues.filter(v => 
+      v.categories?.includes(filter) || 
+      v.cuisines?.includes(filter)
+    );
   }
-];
 
-export default function Restaurants() {
-  // Use the venues array directly
-  const venueData = venues;
-  
+  // Sort venues
+  const sorted = [...filtered].sort((a, b) => {
+    if (sortBy === 'rating') return (b.rating || 0) - (a.rating || 0);
+    if (sortBy === 'reviews') return (b.user_ratings_total || 0) - (a.user_ratings_total || 0);
+    if (sortBy === 'name') return a.name.localeCompare(b.name);
+    return 0;
+  });
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
     "name": "Best Restaurants in London",
-    "description": "Curated list of London's finest restaurants",
-    "url": "https://thebestinlondon.com/restaurants",
-    "numberOfItems": venueData.length,
-    "itemListElement": venueData.map((venue, index) => ({
+    "description": "Curated list of London's finest restaurants, verified and updated daily",
+    "url": "https://thebestinlondon.co.uk/restaurants",
+    "numberOfItems": venues.length,
+    "itemListElement": venues.slice(0, 20).map((venue, index) => ({
       "@type": "ListItem",
       "position": index + 1,
       "item": {
         "@type": "Restaurant",
         "name": venue.name,
-        "address": {
+        "url": `https://thebestinlondon.co.uk/restaurant/${venue.slug}`,
+        "address": venue.address ? {
           "@type": "PostalAddress",
-          "streetAddress": venue.address,
-          "addressLocality": venue.area,
+          "streetAddress": venue.address.formatted,
+          "postalCode": venue.address.postcode,
           "addressCountry": "GB"
-        },
+        } : null,
         "aggregateRating": venue.rating ? {
           "@type": "AggregateRating",
           "ratingValue": venue.rating,
-          "reviewCount": venue.reviews || venue.googleReviews || 0,
+          "reviewCount": venue.user_ratings_total || 0,
           "bestRating": 5,
           "worstRating": 1
         } : null,
-        "servesCuisine": venue.cuisines?.[0],
-        "priceRange": venue.priceRange,
-        "description": venue.description
+        "servesCuisine": venue.cuisines?.join(', '),
+        "priceRange": '£'.repeat(venue.price_level || 2),
+        "description": venue.description,
+        "image": venue.photos?.[0]?.url
       }
     }))
   };
 
-  const getGoogleMapsUrl = (venue) => {
-    const address = encodeURIComponent(venue.address);
-    return `https://www.google.com/maps/search/?api=1&query=${address}`;
-  };
-
   return (
-    <Layout title="Best Restaurants in London - The Best in London">
+    <Layout 
+      title="Best Restaurants in London | The Best in London"
+      description={`Discover ${venues.length} exceptional restaurants in London. Curated, verified, and updated daily with Google ratings and FSA hygiene scores.`}
+    >
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       
-      <div className="bg-gray-50 py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+      <div style={{ backgroundColor: '#0B0B0B', minHeight: '100vh', paddingTop: '4rem', paddingBottom: '4rem' }}>
+        <div style={{ maxWidth: '1280px', margin: '0 auto', padding: '0 1.5rem' }}>
+          
+          {/* Header */}
+          <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
+            <h1 style={{ 
+              fontFamily: 'Playfair Display, serif',
+              fontSize: 'clamp(2.5rem, 5vw, 4rem)', 
+              fontWeight: 700,
+              color: '#FAFAFA',
+              marginBottom: '1rem',
+              letterSpacing: '-0.02em'
+            }}>
               London's Best Restaurants
             </h1>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
-              From Michelin-starred fine dining to authentic local favorites, discover the restaurants that make London a world-class culinary destination
+            <p style={{ 
+              fontSize: '1.25rem', 
+              color: '#9AA0A6',
+              maxWidth: '800px',
+              margin: '0 auto 2rem',
+              lineHeight: 1.6
+            }}>
+              From Michelin-starred fine dining to hidden neighborhood gems — discover {venues.length} exceptional restaurants, curated and verified daily
             </p>
-            <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-500">
-              <span className="bg-gray-100 px-3 py-1 rounded-full">
-                {venueData.length} venues
+            
+            {/* Stats */}
+            <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '1rem', marginTop: '2rem' }}>
+              <span style={{ 
+                backgroundColor: 'rgba(212, 175, 55, 0.1)',
+                border: '1px solid rgba(212, 175, 55, 0.3)',
+                color: '#D4AF37',
+                padding: '0.5rem 1rem',
+                borderRadius: '999px',
+                fontSize: '0.875rem',
+                fontWeight: 600
+              }}>
+                {venues.length} Venues
               </span>
-              <span className="bg-gray-100 px-3 py-1 rounded-full">
-                {venueData.filter(v => v.rating >= 4.5).length} highly rated
+              <span style={{ 
+                backgroundColor: 'rgba(212, 175, 55, 0.1)',
+                border: '1px solid rgba(212, 175, 55, 0.3)',
+                color: '#D4AF37',
+                padding: '0.5rem 1rem',
+                borderRadius: '999px',
+                fontSize: '0.875rem',
+                fontWeight: 600
+              }}>
+                {venues.filter(v => v.rating >= 4.5).length} Highly Rated
               </span>
-              <span className="bg-gray-100 px-3 py-1 rounded-full">
-                {new Set(venueData.map(v => v.area)).size} areas
+              <span style={{ 
+                backgroundColor: 'rgba(212, 175, 55, 0.1)',
+                border: '1px solid rgba(212, 175, 55, 0.3)',
+                color: '#D4AF37',
+                padding: '0.5rem 1rem',
+                borderRadius: '999px',
+                fontSize: '0.875rem',
+                fontWeight: 600
+              }}>
+                {stats.fsaCoverage}% FSA Verified
               </span>
-              <span className="bg-gray-100 px-3 py-1 rounded-full">
-                {new Set(venueData.map(v => v.cuisine)).size} cuisines
+              <span style={{ 
+                backgroundColor: 'rgba(212, 175, 55, 0.1)',
+                border: '1px solid rgba(212, 175, 55, 0.3)',
+                color: '#D4AF37',
+                padding: '0.5rem 1rem',
+                borderRadius: '999px',
+                fontSize: '0.875rem',
+                fontWeight: 600
+              }}>
+                Updated Daily
               </span>
             </div>
           </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {venueData.map((restaurant) => (
-              <div key={restaurant.id} className="card p-6 hover:shadow-xl transition-shadow duration-300">
-                <div className="flex justify-between items-start mb-4">
-                  <h3 className="text-xl font-bold text-gray-900">{restaurant.name}</h3>
-                  {restaurant.rating && (
-                    <div className="flex items-center">
-                      <svg className="w-5 h-5 text-yellow-500 mr-1" fill="currentColor" viewBox="0 0 20 20">
-                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                      </svg>
-                      <span className="text-lg font-semibold text-gray-900">{restaurant.rating}</span>
+
+          {/* Filters & Sort */}
+          <div style={{ 
+            display: 'flex', 
+            gap: '1rem', 
+            marginBottom: '2rem',
+            flexWrap: 'wrap',
+            justifyContent: 'center'
+          }}>
+            <select 
+              value={sortBy}
+              onChange={(e) => setSortBy(e.target.value)}
+              style={{
+                backgroundColor: '#1A1A1A',
+                color: '#FAFAFA',
+                border: '1px solid #333',
+                borderRadius: '0.5rem',
+                padding: '0.75rem 1rem',
+                fontSize: '0.875rem',
+                fontWeight: 600,
+                cursor: 'pointer'
+              }}
+            >
+              <option value="rating">Highest Rated</option>
+              <option value="reviews">Most Reviews</option>
+              <option value="name">Alphabetical</option>
+            </select>
+          </div>
+
+          {/* Venues Grid */}
+          <div style={{ 
+            display: 'grid', 
+            gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 350px), 1fr))',
+            gap: '1.5rem',
+            marginBottom: '3rem'
+          }}>
+            {sorted.map((venue) => (
+              <Link 
+                href={`/restaurant/${venue.slug}`} 
+                key={venue.place_id}
+                style={{ textDecoration: 'none' }}
+              >
+                <div style={{
+                  backgroundColor: '#1A1A1A',
+                  border: '1px solid #2A2A2A',
+                  borderRadius: '1rem',
+                  padding: '1.5rem',
+                  transition: 'all 0.3s ease',
+                  cursor: 'pointer',
+                  height: '100%',
+                  display: 'flex',
+                  flexDirection: 'column'
+                }}
+                className="venue-card"
+                >
+                  
+                  {/* Image */}
+                  {venue.photos && venue.photos[0] && (
+                    <div style={{
+                      position: 'relative',
+                      width: '100%',
+                      height: '200px',
+                      borderRadius: '0.75rem',
+                      overflow: 'hidden',
+                      marginBottom: '1rem',
+                      backgroundColor: '#2A2A2A'
+                    }}>
+                      <img 
+                        src={venue.photos[0].url}
+                        alt={venue.name}
+                        style={{
+                          width: '100%',
+                          height: '100%',
+                          objectFit: 'cover'
+                        }}
+                      />
+                      {venue.fsa_rating && (
+                        <div style={{
+                          position: 'absolute',
+                          top: '12px',
+                          right: '12px'
+                        }}>
+                          <FSABadge rating={venue.fsa_rating} size="large" variant="card" />
+                        </div>
+                      )}
                     </div>
                   )}
-                </div>
-                
-                <div className="mb-4">
-                  <div className="flex items-center text-gray-600 mb-2">
-                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                    </svg>
-                    <span className="font-medium">{restaurant.area}</span>
+
+                  {/* Header */}
+                  <div style={{ marginBottom: '1rem' }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'start', marginBottom: '0.5rem' }}>
+                      <h3 style={{
+                        fontFamily: 'Playfair Display, serif',
+                        fontSize: '1.5rem',
+                        fontWeight: 700,
+                        color: '#FAFAFA',
+                        margin: 0,
+                        lineHeight: 1.3
+                      }}>
+                        {venue.name}
+                      </h3>
+                      {venue.rating && (
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '0.25rem', flexShrink: 0, marginLeft: '0.5rem' }}>
+                          <span style={{ color: '#D4AF37', fontSize: '1.25rem' }}>★</span>
+                          <span style={{ color: '#FAFAFA', fontSize: '1.125rem', fontWeight: 700 }}>
+                            {venue.rating.toFixed(1)}
+                          </span>
+                        </div>
+                      )}
+                    </div>
+
+                    {/* Cuisine & Price */}
+                    <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap', marginBottom: '0.75rem' }}>
+                      {venue.cuisines && venue.cuisines[0] && (
+                        <span style={{
+                          color: '#9AA0A6',
+                          fontSize: '0.875rem',
+                          textTransform: 'capitalize'
+                        }}>
+                          {venue.cuisines[0]}
+                        </span>
+                      )}
+                      {venue.price_level && (
+                        <span style={{ color: '#D4AF37', fontSize: '0.875rem', fontWeight: 600 }}>
+                          {'£'.repeat(venue.price_level)}
+                        </span>
+                      )}
+                    </div>
                   </div>
-                  
-                  <div className="flex items-center text-gray-600 mb-2">
-                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 3h2l.4 2M7 13h10l4-8H5.4m0 0L7 13m0 0l-2.5 5M7 13l2.5 5m6-5v6a2 2 0 01-2 2H9a2 2 0 01-2-2v-6m8 0V9a2 2 0 00-2-2H9a2 2 0 00-2 2v4.01" />
-                    </svg>
-                    <span>{restaurant.cuisine}</span>
-                  </div>
-                  
-                  <div className="flex items-center text-gray-600 mb-2">
-                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1" />
-                    </svg>
-                    <span>{restaurant.priceRange}</span>
-                  </div>
-                  
-                  {restaurant.openingStatus && (
-                    <div className="flex items-center text-gray-600 mb-2">
-                      <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                      </svg>
-                      <span className={`font-medium ${restaurant.openingStatus === 'Open now' ? 'text-green-600' : 'text-red-600'}`}>
-                        {restaurant.openingStatus}
+
+                  {/* Description */}
+                  <p style={{
+                    color: '#9AA0A6',
+                    fontSize: '0.875rem',
+                    lineHeight: 1.6,
+                    marginBottom: '1rem',
+                    display: '-webkit-box',
+                    WebkitLineClamp: 3,
+                    WebkitBoxOrient: 'vertical',
+                    overflow: 'hidden',
+                    flex: 1
+                  }}>
+                    {venue.description}
+                  </p>
+
+                  {/* Footer */}
+                  <div style={{ 
+                    paddingTop: '1rem',
+                    borderTop: '1px solid #2A2A2A',
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'center',
+                    fontSize: '0.75rem',
+                    color: '#666'
+                  }}>
+                    <span>{venue.user_ratings_total?.toLocaleString() || 0} reviews</span>
+                    {venue.fsa_rating && (
+                      <span style={{ 
+                        color: '#10B981',
+                        fontWeight: 600,
+                        display: 'flex',
+                        alignItems: 'center',
+                        gap: '0.25rem'
+                      }}>
+                        <span>✓</span> FSA {venue.fsa_rating}/5
                       </span>
-                    </div>
-                  )}
-                  
-                  {restaurant.fsaRating && (
-                    <div className="flex items-center text-gray-600 mb-2">
-                      <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                      </svg>
-                      <span className="font-medium text-green-600">
-                        FSA Rating: {restaurant.fsaRating.rating}/5
-                      </span>
-                    </div>
-                  )}
-                </div>
-                
-                <p className="text-gray-600 text-sm mb-4 line-clamp-3">
-                  {restaurant.description}
-                </p>
-                
-                <div className="flex justify-between items-center mb-4">
-                  <div className="text-sm text-gray-500">
-                    {(restaurant.reviews || restaurant.googleReviews || 0).toLocaleString()} reviews
-                  </div>
-                  <div className="text-sm text-gray-500">
-                    {restaurant.address}
+                    )}
                   </div>
                 </div>
-                
-                <div className="mt-4 pt-4 border-t border-gray-100 space-y-2">
-                  <a
-                    href={getGoogleMapsUrl(restaurant)}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg transition-colors duration-200 flex items-center justify-center"
-                  >
-                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                    </svg>
-                    View on Maps
-                  </a>
-                  <button className="w-full bg-yellow-600 hover:bg-yellow-700 text-white font-semibold py-2 px-4 rounded-lg transition-colors duration-200">
-                    View Details
-                  </button>
-                </div>
-              </div>
+              </Link>
             ))}
           </div>
-          
-          <div className="text-center mt-12">
-            <p className="text-gray-600 mb-6">
-              Can't find what you're looking for? We're constantly updating our recommendations.
-            </p>
-            <button className="btn-primary">
-              Suggest a Restaurant
-            </button>
-          </div>
+
         </div>
       </div>
+
+      <style jsx>{`
+        .venue-card:hover {
+          transform: translateY(-4px);
+          border-color: #D4AF37 !important;
+          box-shadow: 0 20px 40px rgba(212, 175, 55, 0.15);
+        }
+      `}</style>
     </Layout>
   );
 }
 
+export async function getStaticProps() {
+  const fs = require('fs');
+  const path = require('path');
+  
+  try {
+    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
+    const raw = fs.readFileSync(venuesPath, 'utf8');
+    let venues = JSON.parse(raw);
+    
+    // Handle both flat array and wrapped object
+    if (!Array.isArray(venues) && venues.venues) {
+      venues = venues.venues;
+    }
+    
+    // Filter restaurants only
+    const restaurants = venues.filter(v => 
+      v.categories?.includes('restaurant') || 
+      v.categories?.includes('cafe') ||
+      v.categories?.includes('bar')
+    );
 
+    // Calculate stats
+    const stats = {
+      total: restaurants.length,
+      fsaCoverage: Math.round((restaurants.filter(v => v.fsa_rating).length / restaurants.length) * 100)
+    };
+
+    return {
+      props: {
+        venues: restaurants,
+        stats
+      }
+    };
+  } catch (error) {
+    console.error('Error loading venues:', error);
+    return {
+      props: {
+        venues: [],
+        stats: { total: 0, fsaCoverage: 0 }
+      }
+    };
+  }
+}

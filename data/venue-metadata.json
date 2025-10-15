@@ -1,0 +1,17 @@
+{
+  "lastUpdated": "2025-10-15T11:16:41.677Z",
+  "totalVenues": 459,
+  "dataSource": {
+    "google": "Google Places API",
+    "fsa": "UK Food Standards Agency API"
+  },
+  "coverage": {
+    "google_rating": 459,
+    "fsa_rating": 212,
+    "fsa_coverage_pct": "46.2%",
+    "photos": 459,
+    "website": 447,
+    "phone": 389,
+    "opening_hours": 457
+  }
+}

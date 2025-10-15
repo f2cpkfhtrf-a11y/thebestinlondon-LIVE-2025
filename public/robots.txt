@@ -1,33 +1,11 @@
-# thebestinlondon.co.uk - Robots.txt
-# Updated: 2025-10-15
-
+# thebestinlondon.co.uk
 User-agent: *
 Allow: /
-
-# Disallow admin and debug routes
-Disallow: /admin
-Disallow: /api/debug
-Disallow: /_next/
-Disallow: /reports/
 
 # Sitemaps
 Sitemap: https://thebestinlondon.co.uk/sitemap.xml
 Sitemap: https://thebestinlondon.co.uk/sitemap-pages.xml
 Sitemap: https://thebestinlondon.co.uk/sitemap-venues.xml
 
-# Crawl-delay for respectful crawling
+# Crawl-delay
 Crawl-delay: 1
-
-# Allow all images
-User-agent: Googlebot-Image
-Allow: /
-
-# Allow search engines
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Slurp
-Allow: /
