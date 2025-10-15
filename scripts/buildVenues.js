@@ -284,7 +284,7 @@ async function buildVenues() {
       })),
       
       // Reviews (sample)
-      reviews: place.reviews.slice(0, 3),
+      reviews: place.reviews || [],
       
       // Google data
       types: place.types,

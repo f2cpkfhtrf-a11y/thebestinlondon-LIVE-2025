@@ -1,6 +1,6 @@
 # Venue Build Report
 
-**Date:** 2025-10-15T10:57:28.186Z
+**Date:** 2025-10-15T23:25:03.967Z
 
 ## Summary
 - **Total Venues:** 459
@@ -17,7 +17,7 @@
 | Phone Numbers | 389 | 84.7% |
 
 ## Output Files
-- `public/venues.json` - Final venue data (5254.59 KB)
+- `public/venues.json` - Final venue data (5850.13 KB)
 - `data/coverage.json` - Coverage statistics
 
 ## Next Steps
