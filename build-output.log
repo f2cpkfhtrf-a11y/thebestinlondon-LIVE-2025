@@ -6,75 +6,388 @@
    Creating an optimized production build ...
  ✓ Compiled successfully
    Collecting page data ...
-   Generating static pages (0/504) ...
-   Generating static pages (126/504) 
-   Generating static pages (252/504) 
-   Generating static pages (378/504) 
- ✓ Generating static pages (504/504) 
-   Finalizing page optimization ...
-   Collecting build traces ...
+   Generating static pages (0/544) ...
 
-Route (pages)                                           Size     First Load JS
-┌ ● / (ISR: 86400 Seconds)                              7.87 kB        92.8 kB
-├   /_app                                               0 B            79.2 kB
-├ λ /[cuisine]                                          2.84 kB        87.8 kB
-├ ○ /404                                                1.71 kB        83.3 kB
-├ ● /best-cafes-london                                  3.06 kB        84.7 kB
-├ ○ /best-coffee-shops-london                           2.16 kB        83.8 kB
-├ ● /best-halal-restaurants-london                      4.89 kB        86.5 kB
-├ ● /chinese-restaurants-london                         2.59 kB        84.1 kB
-├ ● /halal-restaurants-london                           5.47 kB        84.6 kB
-├ ● /indian-restaurants-london                          3.24 kB        87.2 kB
-├ ● /italian-restaurants-london                         2.59 kB        84.1 kB
-├ ● /japanese-restaurants-london                        2.63 kB        84.2 kB
-├ ○ /privacy                                            2.55 kB        84.2 kB
-├ ● /restaurant/[slug] (ISR: 86400 Seconds) (11578 ms)  4.73 kB        86.3 kB
-├   ├ /restaurant/dishoom-covent-garden-OZ6OHOJw
-├   ├ /restaurant/gymkhana-uPIWeLM0
-├   ├ /restaurant/the-india-fleet-street--I6jzO1c
-├   └ [+456 more paths]
-├ ○ /restaurants                                        4.01 kB        85.6 kB
-├ ● /restaurants-bethnal-green                          2.04 kB        81.2 kB
-├ ● /restaurants-bloomsbury                             2.04 kB        81.2 kB
-├ ● /restaurants-borough                                2.03 kB        81.2 kB
-├ ● /restaurants-brixton                                2.03 kB        81.2 kB
-├ ● /restaurants-camden                                 2.03 kB        81.2 kB
-├ ● /restaurants-canary-wharf                           4.94 kB        84.1 kB
-├ ● /restaurants-chelsea                                2.03 kB        81.2 kB
-├ ● /restaurants-clapham                                2.03 kB        81.2 kB
-├ ● /restaurants-clerkenwell                            2.04 kB        81.2 kB
-├ ● /restaurants-covent-garden                          2.04 kB        81.2 kB
-├ ● /restaurants-fitzrovia                              2.04 kB        81.2 kB
-├ ● /restaurants-greenwich                              2.03 kB        81.2 kB
-├ ● /restaurants-hackney                                2.03 kB        81.2 kB
-├ ● /restaurants-islington                              2.03 kB        81.2 kB
-├ ● /restaurants-kensington                             2.04 kB        81.2 kB
-├ ● /restaurants-kings-cross                            2.04 kB        81.2 kB
-├ ● /restaurants-marylebone                             2.04 kB        81.2 kB
-├ ● /restaurants-mayfair                                2.03 kB        81.2 kB
-├ ● /restaurants-near-london-eye                        5.63 kB        84.8 kB
-├ ● /restaurants-notting-hill                           2.04 kB        81.2 kB
-├ ● /restaurants-richmond                               2.03 kB        81.2 kB
-├ ● /restaurants-shoreditch                             2.04 kB        81.2 kB
-├ ● /restaurants-soho                                   2.03 kB        81.2 kB
-├ ● /restaurants-spitalfields                           2.04 kB        81.2 kB
-├ ● /restaurants-stratford                              2.04 kB        81.2 kB
-├ ● /restaurants-whitechapel                            2.03 kB        81.2 kB
-├ ● /restaurants-wimbledon                              2.03 kB        81.2 kB
-├ ○ /seo-demo                                           5.39 kB        84.6 kB
-├ ● /thai-restaurants-london                            2.38 kB        83.9 kB
-├ ● /turkish-restaurants-london                         2.37 kB        83.9 kB
-├ ● /vegan-restaurants-london                           6.9 kB         86.1 kB
-└ ● /vegetarian-restaurants-london                      5.4 kB         84.6 kB
-+ First Load JS shared by all                           79.3 kB
-  ├ chunks/framework-9387e000915d7b64.js                45.4 kB
-  ├ chunks/main-22b097576bec5cea.js                     32.7 kB
-  ├ chunks/pages/_app-a45419c47abf2028.js               296 B
-  ├ chunks/webpack-63dea7f82d6d8ac6.js                  837 B
-  └ css/0cbf5b7991fe6ce8.css                            136 B
+Error occurred prerendering page "/halal/near-stations". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: y.filter is not a function
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations.js:1:10606
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations.js:1:10586)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:110:107
+   Generating static pages (136/544) 
+   Generating static pages (272/544) 
+   Generating static pages (408/544) 
 
-λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
-○  (Static)  automatically rendered as static HTML (uses no initial props)
-●  (SSG)     automatically generated as static HTML + JSON (uses getStaticProps)
-   (ISR)     incremental static regeneration (uses revalidate in getStaticProps)
+Error occurred prerendering page "/halal/near-stations/covent-garden". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
 
+Error occurred prerendering page "/halal/near-stations/green-park". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/bond-street". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/liverpool-street". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/london-bridge". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/waterloo". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/kings-cross". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/paddington". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/victoria". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/euston". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/canary-wharf". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/stratford". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/notting-hill-gate". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/south-kensington". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/shepherds-bush". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/tottenham-court-road". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/piccadilly-circus". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/leicester-square". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/oxford-circus". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/bank". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/whitechapel". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/baker-street". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/angel". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/aldgate-east". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/old-street". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+
+Error occurred prerendering page "/halal/near-stations/shoreditch-high-street". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: t.map is not a function
+    at getVenuesNearStation (/Users/htanweer/Desktop/thebestinlondon/.next/server/chunks/1558.js:1:4964)
+    at /Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10759
+    at Array.forEach (<anonymous>)
+    at getStaticProps (/Users/htanweer/Desktop/thebestinlondon/.next/server/pages/halal/near-stations/[stationSlug].js:1:10734)
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:47:4097
+    at /Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/server/lib/trace/tracer.js:121:36
+    at NoopContextManager.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7057)
+    at ContextAPI.with (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:516)
+    at NoopTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18086)
+    at ProxyTracer.startActiveSpan (/Users/htanweer/Desktop/thebestinlondon/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:18847)
+ ✓ Generating static pages (544/544) 
+
+> Export encountered errors on following paths:
+	/halal/near-stations
+	/halal/near-stations/[stationSlug]: /halal/near-stations/aldgate-east
+	/halal/near-stations/[stationSlug]: /halal/near-stations/angel
+	/halal/near-stations/[stationSlug]: /halal/near-stations/baker-street
+	/halal/near-stations/[stationSlug]: /halal/near-stations/bank
+	/halal/near-stations/[stationSlug]: /halal/near-stations/bond-street
+	/halal/near-stations/[stationSlug]: /halal/near-stations/canary-wharf
+	/halal/near-stations/[stationSlug]: /halal/near-stations/covent-garden
+	/halal/near-stations/[stationSlug]: /halal/near-stations/euston
+	/halal/near-stations/[stationSlug]: /halal/near-stations/green-park
+	/halal/near-stations/[stationSlug]: /halal/near-stations/kings-cross
+	/halal/near-stations/[stationSlug]: /halal/near-stations/leicester-square
+	/halal/near-stations/[stationSlug]: /halal/near-stations/liverpool-street
+	/halal/near-stations/[stationSlug]: /halal/near-stations/london-bridge
+	/halal/near-stations/[stationSlug]: /halal/near-stations/notting-hill-gate
+	/halal/near-stations/[stationSlug]: /halal/near-stations/old-street
+	/halal/near-stations/[stationSlug]: /halal/near-stations/oxford-circus
+	/halal/near-stations/[stationSlug]: /halal/near-stations/paddington
+	/halal/near-stations/[stationSlug]: /halal/near-stations/piccadilly-circus
+	/halal/near-stations/[stationSlug]: /halal/near-stations/shepherds-bush
+	/halal/near-stations/[stationSlug]: /halal/near-stations/shoreditch-high-street
+	/halal/near-stations/[stationSlug]: /halal/near-stations/south-kensington
+	/halal/near-stations/[stationSlug]: /halal/near-stations/stratford
+	/halal/near-stations/[stationSlug]: /halal/near-stations/tottenham-court-road
+	/halal/near-stations/[stationSlug]: /halal/near-stations/victoria
+	/halal/near-stations/[stationSlug]: /halal/near-stations/waterloo
+	/halal/near-stations/[stationSlug]: /halal/near-stations/whitechapel
