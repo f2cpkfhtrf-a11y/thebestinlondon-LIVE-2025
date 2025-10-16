@@ -442,6 +442,45 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
                     }}>({tab.count})</span>
                   </button>
                 ))}
+                {/* Halal Near Stations Link */}
+                <Link href="/halal/near-stations" style={{ textDecoration: 'none' }}>
+                  <button
+                    style={{
+                      padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
+                      border: '2px solid rgba(5, 150, 105, 0.5)',
+                      borderRadius: theme.radius.xl,
+                      fontSize: '14px',
+                      fontWeight: 600,
+                      background: 'rgba(5, 150, 105, 0.1)',
+                      color: '#10B981',
+                      whiteSpace: 'nowrap',
+                      cursor: 'pointer',
+                      transition: `all ${theme.motion.fast} ${theme.motion.ease}`,
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '8px'
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.background = 'rgba(5, 150, 105, 0.15)';
+                      e.currentTarget.style.transform = 'translateY(-2px)';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.background = 'rgba(5, 150, 105, 0.1)';
+                      e.currentTarget.style.transform = 'translateY(0)';
+                    }}
+                  >
+                    <span style={{ fontSize: '18px' }}>🚇</span>
+                    <span>Halal Near Stations</span>
+                    <span style={{ 
+                      fontSize: '11px',
+                      background: '#10B981',
+                      color: '#0B0B0B',
+                      padding: '2px 6px',
+                      borderRadius: '4px',
+                      fontWeight: 700
+                    }}>NEW</span>
+                  </button>
+                </Link>
               </div>
             </div>
 
@@ -726,6 +765,8 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
               <div>
                 <h4 style={{ fontSize: '14px', fontWeight: 600, marginBottom: theme.spacing.lg, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Cuisines</h4>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: theme.spacing.md, fontSize: '14px', color: theme.colors.text.secondary }}>
+                  <Link href="/best-halal-restaurants-london" style={{ color: '#10B981', textDecoration: 'none', fontWeight: 600 }}>Halal Restaurants ★</Link>
+                  <Link href="/halal/near-stations" style={{ color: '#10B981', textDecoration: 'none', fontWeight: 600 }}>Halal Near Stations 🆕</Link>
                   <Link href="/indian-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Indian</Link>
                   <Link href="/italian-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Italian</Link>
                   <Link href="/japanese-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Japanese</Link>
