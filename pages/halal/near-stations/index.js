@@ -444,12 +444,16 @@ function StationCard({ station, count }) {
 }
 
 export async function getStaticProps() {
+  // Pre-filter halal venues once to reduce memory
+  const halalVenues = venuesData.filter(venue => {
+    const halal = isHalalVenue(venue);
+    return halal.isHalal;
+  });
+  
   const stationCounts = {};
   
   LONDON_STATIONS.forEach(station => {
-    const nearbyHalal = venuesData.filter(venue => {
-      const halal = isHalalVenue(venue);
-      if (!halal.isHalal) return false;
+    const nearbyHalal = halalVenues.filter(venue => {
       const distance = calculateDistance(station.lat, station.lng, venue.lat, venue.lng);
       return distance <= 0.6;
     });

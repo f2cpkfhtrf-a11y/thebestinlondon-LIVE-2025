@@ -391,19 +391,35 @@ export default function HalalNearStation({ station, venuesByRadius }) {
 }
 
 export async function getStaticPaths() {
-  const paths = LONDON_STATIONS.map(station => ({
-    params: { stationSlug: station.slug }
-  }));
-  return { paths, fallback: false };
+  // Generate only top 10 stations initially, rest on-demand
+  const topStations = [
+    'kings-cross', 'oxford-circus', 'liverpool-street', 'london-bridge',
+    'victoria', 'waterloo', 'paddington', 'bank', 'tottenham-court-road', 'euston'
+  ];
+  const paths = LONDON_STATIONS
+    .filter(s => topStations.includes(s.slug))
+    .map(station => ({
+      params: { stationSlug: station.slug }
+    }));
+  return { 
+    paths, 
+    fallback: 'blocking' // Generate other stations on first request
+  };
 }
 
 export async function getStaticProps({ params }) {
   const station = LONDON_STATIONS.find(s => s.slug === params.stationSlug);
   if (!station) return { notFound: true };
 
+  // Pre-filter to reduce memory usage during build
+  const halalOnly = venuesData.filter(v => {
+    const { isHalal } = require('../../../utils/halalStations').isHalalVenue(v);
+    return isHalal;
+  });
+  
   const venuesByRadius = {};
   [0.3, 0.6, 1.0].forEach(radius => {
-    venuesByRadius[radius] = getVenuesNearStation(station, venuesData, radius);
+    venuesByRadius[radius] = getVenuesNearStation(station, halalOnly, radius);
   });
 
   const nearbyStations = LONDON_STATIONS
