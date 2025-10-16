@@ -1,11 +1,11 @@
 # FSA Enhancement Report
 
-**Date:** 2025-10-15T11:16:41.713Z
+**Date:** 2025-10-16T23:35:22.127Z
 
 ## Results
-- **New FSA Ratings Found:** 211
-- **Still Without FSA:** 247
-- **Total FSA Coverage:** 212/459 (46.2%)
+- **New FSA Ratings Found:** 373
+- **Still Without FSA:** 386
+- **Total FSA Coverage:** 374/760 (49.2%)
 
 ## Strategy Used
 1. Enhanced postcode extraction (multiple patterns)
@@ -15,7 +15,7 @@
 5. Partial name matching fallback
 
 ## Updated File
-- `public/venues.json` - Now with 46.2% FSA coverage
+- `public/venues.json` - Now with 49.2% FSA coverage
 
 
 ## Sample Successful Matches
@@ -26,6 +26,13 @@
 - **Authority:** Westminster
 - **Last Inspection:** 2025-08-27T00:00:00
 - **URL:** https://ratings.food.gov.uk/business/413545
+
+
+### Kricket Soho
+- **FSA Rating:** 5
+- **Authority:** Westminster
+- **Last Inspection:** 2025-01-10T00:00:00
+- **URL:** https://ratings.food.gov.uk/business/932331
 
 
 ### Maharaja of India
@@ -42,17 +49,10 @@
 - **URL:** https://ratings.food.gov.uk/business/470851
 
 
-### Kricket Soho
+### Aladin Brick Lane
 - **FSA Rating:** 5
-- **Authority:** Westminster
-- **Last Inspection:** 2025-01-10T00:00:00
-- **URL:** https://ratings.food.gov.uk/business/932331
-
-
-### Punjab Restaurant
-- **FSA Rating:** 5
-- **Authority:** Camden
-- **Last Inspection:** 2025-03-27T00:00:00
-- **URL:** https://ratings.food.gov.uk/business/1634000
+- **Authority:** Tower Hamlets
+- **Last Inspection:** 2024-07-22T00:00:00
+- **URL:** https://ratings.food.gov.uk/business/148512
 
 

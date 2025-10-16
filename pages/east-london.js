@@ -15,27 +15,82 @@ export async function getStaticProps() {
     
     const allVenues = Array.isArray(data) ? data : (data.venues || []);
     
-    const keywords = ["Whitechapel","Aldgate East"];
-    const venues = allVenues.filter(v => {
-      const address = v.address?.formatted || v.formatted_address || v.address || '';
-      const borough = v.borough || (v.address && typeof v.address === 'object' && v.address.borough) || '';
-      const combined = (address + ' ' + borough).toLowerCase();
-      
-      return keywords.some(k => combined.includes(k.toLowerCase()));
-    }).sort((a, b) => (b.rating || 0) - (a.rating || 0));
+    // East London boroughs
+    const eastLondonBoroughs = [
+      'Tower Hamlets', 'Hackney', 'Newham', 'Redbridge', 'Havering',
+      'Waltham Forest', 'Barking and Dagenham'
+    ];
     
-    const stats = {
-      totalVenues: venues.length,
-      halalCount: venues.filter(v => v.dietary_tags?.halal === true || (v.dietaryTags && v.dietaryTags.includes('halal'))).length,
-      veganCount: venues.filter(v => v.dietary_tags?.vegan === true || (v.dietaryTags && v.dietaryTags.includes('vegan'))).length,
-      vegetarianCount: venues.filter(v => v.dietary_tags?.vegetarian === true || (v.dietaryTags && v.dietaryTags.includes('vegetarian'))).length,
-      avgRating: venues.length > 0 ? (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1) : 0
-    };
+    // East London keywords for fallback
+    const eastLondonKeywords = [
+      'whitechapel', 'bethnal green', 'canary wharf', 'bow', 'mile end',
+      'stratford', 'ilford', 'romford', 'hackney', 'shoreditch', 'hoxton',
+      'poplar', 'limehouse', 'stepney', 'wapping', 'shadwell', 'aldgate',
+      'spitalfields', 'brick lane', 'columbia road', 'victoria park',
+      'hackney wick', 'dalston', 'stoke newington', 'clapton',
+      'west ham', 'plaistow', 'east ham', 'barking', 'dagenham',
+      'leyton', 'leytonstone', 'walthamstow', 'chingford',
+      'woodford', 'redbridge', 'gants hill', 'seven kings',
+      'chadwell heath', 'harold hill', 'rainham', 'upminster'
+    ];
+    
+    const venues = allVenues.filter(v => {
+      const borough = v.borough || (v.address && typeof v.address === 'object' && v.address.borough);
+      const address = v.address?.formatted || v.formatted_address || v.address || '';
+      
+      // Check borough match
+      if (borough && eastLondonBoroughs.some(b => borough.toLowerCase().includes(b.toLowerCase()))) {
+        return true;
+      }
+      
+      // Check address keywords
+      if (address && eastLondonKeywords.some(k => address.toLowerCase().includes(k))) {
+        return true;
+      }
+      
+      return false;
+    });
+    
+    // Calculate stats
+    const totalVenues = venues.length;
+    const halalCount = venues.filter(v => v.dietary_tags?.halal === true || (v.dietaryTags && v.dietaryTags.includes('halal'))).length;
+    const veganCount = venues.filter(v => v.dietary_tags?.vegan === true || (v.dietaryTags && v.dietaryTags.includes('vegan'))).length;
+    const vegetarianCount = venues.filter(v => v.dietary_tags?.vegetarian === true || (v.dietaryTags && v.dietaryTags.includes('vegetarian'))).length;
+    const avgRating = venues.length > 0 ? (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1) : 0;
+    
+    // Group by area
+    const byArea = {};
+    venues.forEach(v => {
+      const address = v.address?.formatted || v.formatted_address || v.address || '';
+      let area = 'Other';
+      
+      for (const keyword of eastLondonKeywords) {
+        if (address.toLowerCase().includes(keyword)) {
+          area = keyword.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+          break;
+        }
+      }
+      
+      if (!byArea[area]) byArea[area] = 0;
+      byArea[area]++;
+    });
+    
+    const areas = Object.entries(byArea)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 12)
+      .map(([name, count]) => ({ name, count }));
     
     return {
       props: {
-        venues,
-        stats,
+        venues: venues.sort((a, b) => (b.rating || 0) - (a.rating || 0)),
+        stats: {
+          totalVenues,
+          halalCount,
+          veganCount,
+          vegetarianCount,
+          avgRating
+        },
+        areas,
         lastUpdated: (typeof data === 'object' && !Array.isArray(data) && data.lastUpdated) ? data.lastUpdated : new Date().toISOString()
       },
       revalidate: 86400
@@ -46,13 +101,14 @@ export async function getStaticProps() {
       props: {
         venues: [],
         stats: { totalVenues: 0, halalCount: 0, veganCount: 0, vegetarianCount: 0, avgRating: 0 },
+        areas: [],
         lastUpdated: new Date().toISOString()
       }
     };
   }
 }
 
-export default function WhitechapelRestaurants({ venues, stats, lastUpdated }) {
+export default function EastLondon({ venues, stats, areas, lastUpdated }) {
   const [activeFilter, setActiveFilter] = useState('all');
   const [hoveredCard, setHoveredCard] = useState(null);
 
@@ -85,21 +141,36 @@ export default function WhitechapelRestaurants({ venues, stats, lastUpdated }) {
 
   return (<>
     <Head>
-      <title>Best Restaurants in Whitechapel 2025 — {stats.totalVenues}+ Top Rated | The Best in London</title>
-      <meta name="description" content={`Discover ${stats.totalVenues}+ best restaurants in Whitechapel. Halal, vegan, vegetarian options. Real reviews, FSA verified, updated daily.`} />
-      <link rel="canonical" href="https://thebestinlondon.co.uk/restaurants-whitechapel" />
+      <title>Best Restaurants in East London 2025 — {stats.totalVenues}+ Curated Venues | The Best in London</title>
+      <meta name="description" content={`Discover ${stats.totalVenues}+ best restaurants in East London. Halal, vegan, vegetarian options. Whitechapel, Stratford, Canary Wharf & more.`} />
+      <link rel="canonical" href="https://thebestinlondon.co.uk/east-london" />
       
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "name": "Best Restaurants in Whitechapel",
-        "description": `Directory of ${stats.totalVenues} top-rated restaurants in Whitechapel`,
-        "url": "https://thebestinlondon.co.uk/restaurants-whitechapel"
+        "name": "Best Restaurants in East London",
+        "description": `Directory of ${stats.totalVenues} top-rated restaurants in East London`,
+        "url": "https://thebestinlondon.co.uk/east-london",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": venues.length,
+          "itemListElement": venues.slice(0, 20).map((venue, index) => ({
+            "@type": "ListItem",
+            "position": index + 1,
+            "item": {
+              "@type": "Restaurant",
+              "name": venue.name,
+              "address": venue.address?.formatted || venue.formatted_address,
+              ...(venue.rating && { "aggregateRating": { "@type": "AggregateRating", "ratingValue": venue.rating } })
+            }
+          }))
+        }
       }) }} />
     </Head>
 
     <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary, fontFamily: theme.typography.sans }}>
       
+      {/* Nav */}
       <nav style={{
         position: 'sticky',
         top: 0,
@@ -116,67 +187,68 @@ export default function WhitechapelRestaurants({ venues, stats, lastUpdated }) {
                 The Best in London
               </div>
             </Link>
-            <div style={{ display: 'flex', gap: '16px', alignItems: 'center' }}>
-              <Link href="/east-london" style={{ fontSize: '14px', color: theme.colors.text.secondary, textDecoration: 'none' }}>
-                East London
-              </Link>
-              <Link href="/" style={{ fontSize: '14px', color: theme.colors.text.secondary, textDecoration: 'none' }}>
-                Home
-              </Link>
-            </div>
+            <Link href="/" style={{ fontSize: '14px', color: theme.colors.text.secondary, textDecoration: 'none' }}>
+              ← Back to Home
+            </Link>
           </div>
         </div>
       </nav>
 
+      {/* Hero */}
       <header style={{
         position: 'relative',
-        height: '50vh',
-        minHeight: '400px',
+        height: '60vh',
+        minHeight: '500px',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
         overflow: 'hidden',
-        background: `linear-gradient(to bottom, rgba(11,11,11,0.4), rgba(11,11,11,0.8)), url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=2400&q=90')`,
+        background: `linear-gradient(to bottom, rgba(11,11,11,0.4), rgba(11,11,11,0.8)), url('https://images.unsplash.com/photo-1513267048331-5611cad62662?w=2400&q=90')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}>
-        <div style={{ position: 'relative', zIndex: 2, textAlign: 'center', maxWidth: '700px', padding: '0 20px' }}>
+        <div style={{ position: 'relative', zIndex: 2, textAlign: 'center', maxWidth: '800px', padding: '0 20px' }}>
           <h1 style={{
             fontFamily: theme.typography.serif,
-            fontSize: 'clamp(36px, 5vw, 56px)',
+            fontSize: 'clamp(40px, 6vw, 64px)',
             fontWeight: 700,
             letterSpacing: '-0.03em',
-            marginBottom: theme.spacing.lg
+            marginBottom: theme.spacing.xl
           }}>
-            Restaurants in Whitechapel
+            East London Restaurants
           </h1>
           
           <p style={{
-            fontSize: '18px',
+            fontSize: '20px',
             color: 'rgba(245,245,245,0.9)',
-            marginBottom: theme.spacing.xl
+            marginBottom: theme.spacing['2xl']
           }}>
-            {stats.totalVenues}+ curated venues • ⭐ {stats.avgRating} avg rating
+            From Whitechapel to Stratford • {stats.totalVenues}+ curated venues
           </p>
 
-          {stats.halalCount > 0 && (
-            <div style={{
-              display: 'inline-block',
-              padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
-              background: 'rgba(212,175,55,0.15)',
-              backdropFilter: 'blur(8px)',
-              borderRadius: theme.radius.md,
-              border: `1px solid ${theme.colors.accent.gold}50`,
-              fontSize: '14px',
-              fontWeight: 600,
-              color: theme.colors.accent.gold
-            }}>
-              ☪️ {stats.halalCount}+ Halal Options Available
-            </div>
-          )}
+          <div style={{ display: 'flex', gap: theme.spacing.lg, justifyContent: 'center', flexWrap: 'wrap' }}>
+            {[
+              { label: `${stats.halalCount}+ Halal`, emoji: '☪️' },
+              { label: `${stats.veganCount}+ Vegan`, emoji: '🌱' },
+              { label: `⭐ ${stats.avgRating} Avg Rating`, emoji: '⭐' },
+            ].map((stat, idx) => (
+              <div key={idx} style={{
+                padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
+                background: 'rgba(255,255,255,0.1)',
+                backdropFilter: 'blur(8px)',
+                borderRadius: theme.radius.md,
+                border: '1px solid rgba(255,255,255,0.2)',
+                fontSize: '14px',
+                fontWeight: 600
+              }}>
+                {stat.emoji} {stat.label}
+              </div>
+            ))}
+          </div>
         </div>
       </header>
 
+      {/* Filters - Sticky */}
       <section style={{
         position: 'sticky',
         top: '64px',
@@ -220,13 +292,58 @@ export default function WhitechapelRestaurants({ venues, stats, lastUpdated }) {
         </div>
       </section>
 
+      {/* Areas Grid */}
+      <section style={{ padding: `${theme.spacing['4xl']} 0`, background: theme.colors.bg.elevated }}>
+        <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
+          <h2 style={{
+            fontFamily: theme.typography.serif,
+            fontSize: '36px',
+            fontWeight: 700,
+            marginBottom: theme.spacing['2xl']
+          }}>
+            Explore by Area
+          </h2>
+          
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: theme.spacing.xl }}>
+            {areas.map(area => (
+              <Link key={area.name} href={`/restaurants-${area.name.toLowerCase().replace(/\s+/g, '-')}`} style={{ textDecoration: 'none' }}>
+                <div style={{
+                  padding: theme.spacing.xl,
+                  background: theme.colors.bg.primary,
+                  border: `1px solid ${theme.colors.border.subtle}`,
+                  borderRadius: theme.radius.lg,
+                  transition: `all ${theme.motion.base}`,
+                  cursor: 'pointer'
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.borderColor = theme.colors.accent.gold;
+                  e.currentTarget.style.transform = 'translateY(-4px)';
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.borderColor = theme.colors.border.subtle;
+                  e.currentTarget.style.transform = 'translateY(0)';
+                }}>
+                  <div style={{ fontSize: '20px', fontWeight: 600, color: theme.colors.text.primary, marginBottom: theme.spacing.xs }}>
+                    {area.name}
+                  </div>
+                  <div style={{ fontSize: '14px', color: theme.colors.text.secondary }}>
+                    {area.count} restaurants
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Venue Cards */}
       <section style={{ padding: `${theme.spacing['5xl']} 0` }}>
         <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
           
           <div style={{ marginBottom: theme.spacing['3xl'] }}>
             <h2 style={{
               fontFamily: theme.typography.serif,
-              fontSize: '32px',
+              fontSize: '36px',
               fontWeight: 700,
               marginBottom: theme.spacing.md
             }}>
@@ -238,7 +355,7 @@ export default function WhitechapelRestaurants({ venues, stats, lastUpdated }) {
                'Restaurants'}
             </h2>
             <p style={{ fontSize: '16px', color: theme.colors.text.secondary }}>
-              {filteredVenues.length} venues in Whitechapel
+              {filteredVenues.length} venues matching your preferences
             </p>
           </div>
 
@@ -333,6 +450,7 @@ export default function WhitechapelRestaurants({ venues, stats, lastUpdated }) {
         </div>
       </section>
 
+      {/* Footer */}
       <footer style={{ background: theme.colors.bg.primary, padding: `${theme.spacing['4xl']} 0`, borderTop: `1px solid ${theme.colors.border.subtle}` }}>
         <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', textAlign: 'center' }}>
           <Link href="/" style={{ fontFamily: theme.typography.serif, fontSize: '20px', fontWeight: 700, color: theme.colors.text.primary, textDecoration: 'none' }}>

@@ -1,103 +1,19 @@
 {
-  "timestamp": "2025-10-16T20:26:24.695Z",
+  "timestamp": "2025-10-16T23:14:36.093Z",
   "coverage": {
-    "google_rating": 458,
+    "google_rating": 760,
     "fsa_rating": 1,
-    "fsa_coverage_pct": "0.2%",
-    "photos": 458,
-    "website": 445,
-    "phone": 392,
-    "opening_hours": 455
+    "fsa_coverage_pct": "0.1%",
+    "photos": 760,
+    "website": 717,
+    "phone": 673,
+    "opening_hours": 754
   },
-  "totalVenues": 458,
-  "byCategory": [
-    {
-      "category": "cafe",
-      "count": 68
-    },
-    {
-      "category": "bar",
-      "count": 153
-    },
-    {
-      "category": "restaurant",
-      "count": 400
-    },
-    {
-      "category": "fine-dining",
-      "count": 80
-    },
-    {
-      "category": "bakery",
-      "count": 24
-    },
-    {
-      "category": "brunch",
-      "count": 6
-    },
-    {
-      "category": "rooftop",
-      "count": 9
-    }
-  ],
-  "byCuisine": [
-    {
-      "cuisine": "international",
-      "count": 421
-    },
-    {
-      "cuisine": "indian",
-      "count": 2
-    },
-    {
-      "cuisine": "japanese",
-      "count": 4
-    },
-    {
-      "cuisine": "chinese",
-      "count": 1
-    },
-    {
-      "cuisine": "thai",
-      "count": 6
-    },
-    {
-      "cuisine": "turkish",
-      "count": 4
-    },
-    {
-      "cuisine": "french",
-      "count": 3
-    },
-    {
-      "cuisine": "spanish",
-      "count": 4
-    },
-    {
-      "cuisine": "korean",
-      "count": 7
-    },
-    {
-      "cuisine": "mexican",
-      "count": 4
-    },
-    {
-      "cuisine": "italian",
-      "count": 1
-    },
-    {
-      "cuisine": "british",
-      "count": 1
-    },
-    {
-      "cuisine": "mediterranean",
-      "count": 1
-    }
-  ],
+  "totalVenues": 760,
   "byBorough": [
     {
       "borough": "Central London",
-      "count": 436
+      "count": 584
     },
     {
       "borough": "Southwark",
@@ -109,7 +25,7 @@
     },
     {
       "borough": "Hackney",
-      "count": 7
+      "count": 11
     },
     {
       "borough": "Camden",
@@ -117,11 +33,23 @@
     },
     {
       "borough": "Tower Hamlets",
-      "count": 1
+      "count": 67
     },
     {
       "borough": "Kensington and Chelsea",
       "count": 1
+    },
+    {
+      "borough": "Redbridge",
+      "count": 41
+    },
+    {
+      "borough": "Havering",
+      "count": 32
+    },
+    {
+      "borough": "Newham",
+      "count": 11
     }
   ]
 }
