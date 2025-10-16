@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJA2F7oSwFdkgRVkmQrSL-ok8",
+  "name": "Chisou Sushi and Izakaya",
+  "formatted_address": "22-23 Woodstock St, London W1C 2AR, UK",
+  "vicinity": "22-23 Woodstock St, London",
+  "rating": 4.5,
+  "user_ratings_total": 1299,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.5138031,
+      "lng": -0.147187
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5151895302915,
+        "lng": -0.145783619708498
+      },
+      "southwest": {
+        "lat": 51.5124915697085,
+        "lng": -0.148481580291502
+      }
+    }
+  },
+  "lat": 51.5138031,
+  "lng": -0.147187,
+  "formatted_phone_number": "020 7629 3931",
+  "international_phone_number": "+44 20 7629 3931",
+  "website": "https://www.chisourestaurant.com/",
+  "url": "https://maps.google.com/?cid=5738428300117690710",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 4:00 PM, 6:00 – 10:30 PM",
+      "Tuesday: 12:00 – 4:00 PM, 6:00 – 10:30 PM",
+      "Wednesday: 12:00 – 4:00 PM, 6:00 – 10:30 PM",
+      "Thursday: 12:00 – 4:00 PM, 6:00 – 10:30 PM",
+      "Friday: 12:00 – 4:00 PM, 6:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 1:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ed4AqbAWIWuOZ7uwX32gBr8FsYFTQ98tXWcfKpM36py4dKnthxiE-hmBq18kp1pmR7qmOcKmZYa3F46z3qZcB1Mjwg7mJ25ua0mXpikkBT8cUauT0KpKAslw1bWJYIFdjn5Wqo8CjmP75p65xVs467Hk7xGRtoYByUUpUEypHDxqRww_LHvjBAoSKvq8MIJdPE_oZ4zKbUFpmyMoAThX9qvYahFyaAwk56zueWechz_hd6wCYIebE3i58DWTx50dZdANLtDdE4Ozx1rk1YQYqwgPeZlAs-zg-4745Bo0-jvQ",
+      "width": 2577,
+      "height": 4022,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105082360626831501383\">Chisou Sushi and Izakaya</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dzNZIyvmo_EUMqVxCeNfX0XmwK_j5dgVMmdFT5SkKTm82BvdL4WqNMiKUBZvFGQMvPqpZe7Etm4qLFnNeTAF9tUQyXaTXWEs-dC_e-TjWGJ7A3ezWLeGPFYt82tEPik5ZXWMPPef7W4MWijJskCny0lJ4orUjN58hLIHvHZQIEl0uixIrmMkhaYJ6RY8SFm0U1zk91tDrWhYQKYDRt0ArwBvh9FJcoDCVRpMGzDcaV9EeM4ivRoIocBBNMUGUt7roTl9daBg1idYMy5cfhwgzZMUvSJIbX_jeRWSQyiYF-lQ",
+      "width": 1600,
+      "height": 901,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105082360626831501383\">Chisou Sushi and Izakaya</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2coeA4hOuBW5DVQOujd-ha5ICnNfTV-1Ox_tBwL0zcd81hUMB7aZ3vSUMSaXPdbbZqKskBBWq40liP9wa49lnxoQ7suGO8JjKMVL91VUVJY1EBfCFzV8hFbNo9M4GVq5AuGTH7jVUOXuSna6ZMVnJAIxuD_QFQj-4XWwSPTRecxWNNqXzHBOM2SR4nAZmhLP2PlUn8zPiApI20qZlQFUBwQSuUGWxCqAvuUIXU7hUdWm5WwT-H6pBJLpJ1JKnq2cimtiK3_MaV6qLIsKTEPoCpe1EjduVWkFuLd6h5vNQtJ8DQp2eDmiQhazSBcrgQjAGXJqCDpROenOVMgXMgoDJ_heaPdkS_0OVLUknJLanSymZEqvDbr5UxMsZ6D98ZCSQDHzVMdMScXjlc_grvh5kzKL0MY3r98Yr0rsTgjoFD-gu9bIARKzYzmQOLo8HxT",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104752013322365295272\">Chase Chung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2euAd2Vum1RH-0RqLRnbaI-IISW0ZKambyA6BYQ4h-C9Tx7saL7-5qDDJub31ejSmqPu9JTOIVpQU9gw6G2uGzANzp_eqml2mY0hh7tg8vbGTlmohm_zInu4fbpWL3-QoGwdOB9bu6JtXV_m0s-zQWZTqLYucIYONpjpaxVEkLVIQ4BELQb1vX2fFSX31bLMChtzBkNPwkn0IOH6ZuWptfVKInG9xi5kdAKgeJLaNXpdzEha0GjiwcSkvys1SBgtwWplPDWjYf5Y-0eGThL8YkgHyWtZhGj9T3rNlXsDHI0YStes-hQLfLgwsmgDJeF2j_pwT20SlApxN-rL65UsJTIThjAfxlvtNjIo7wml_TDC27LDX3g26y0VrWzNuCfQPr_MAMct2gQ3ls2o_-VK4OJzwW52IemXPksnftD-qRdLUQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113402997069732307170\">T C.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-BkP0kJ_edlnWkoD0y7eUERzXUDpT-GsNJ5YtL5frP02Z7K682lvgj7G2M5liZ3M3D81w8UcsqAxT9RC1hQ3qVJ--RFc_PNeT8O4iE9D5eJEXEwO9IanmgpfcSuqUSrckEQmQ1k-OEJLfdhsHoOGsAKQxghniAKot5a78hvVQHq9x6EtMiNllEMcOb9CxvanXIU1hU_lvYWTLyg768bBauPi7se9quy8W70Hr_yzXOmRISrwVJbGKkKngDQhpPZyV2SMNMrJVigCEGGwaceD_vG_Rb9iLfI3ceZLp2_N7F7hnI7cTqaL1nQ9r_fNsNeduHgiBh8tCbfIHvpaMNDKT7apDd8UwilLx8l2Z4gjVIqnyBCcUNhYktaMlafOrehb9kBaDH-38fl3H1wDcvVLB8VsoJT3pqRt7ACUzQ-OZRy7jBeY5g-O0CDQVPCVX",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103304157375492239296\">kate kate</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVH5dwDXSYrQkVRbYjgxlpA9JpUIz_LzX-2Tt1g5_rUBloNtPXynVFmkSd-mBmEgG8il1HRF5iVs01bWhT2xabodhOispnudHlBufnJxYaaTInreu82_cYFoQNOPqXl4TJ9uugOmSjxdpvrpXmprilzwRKzC56ANXWGJrGNaZczmK65A2IM6ugHXrogzfcBjSi9fnjatWHonDklI7DSKQwhzfj035oP3dXcrVUATF7onDpKk-5dY0oAr9vkGx2Lc3gcvjaWA9NsQlgMukRY6Za8e1KJ10S7FlcoUsUCz0XYqn8fWPx7C23Aohub3lKaeu-vc7I44nyxyy6LxesfeeiU4eA951F3PegGgwKwd47VSNhIk6XSQSHG7M8gH6s3pM48g9EWjmsxjSXXaUEjVM_qq8qfF1A4i6GU_NVcZ9_q31MCT-VIBRVlwU66g",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109347424958233163837\">Limor Hertzman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ead1yapLC-fiTjgR3E77gSzy8enWfZoHCKKaBQgdu4LQsKEJYnEPpdQy-25XsAXTh50NH70O8w2b6syowFEgrvdgf2tEqRHRa8BDvW5MppjLvz9fDpDfV_Bo7-wm2ThAPbQlvnLOwgCN0CboBCOhoXHMtWdHr-gEKQlPv-PqHse9qYCHbedzkBEGlSy5dDZ-qh8BW_EJkUclTPmV_8DpW-xWtEgV_j7v2oE9z0a-X10mhviuB4_Dhsgy1ubDw8fPulqnNeqSjcd5DNcNHFb0KOeoJ2-KG_dawr1BA4bTVvbvjpx4Ucd7vHvAMwD3pYtTaI1FHfPwBB3JgGjZFMUcEiV0BkwR0ZZK5cxCKlWzR-5JRDkUYx8u7nPlMl_gwzXB4b6BN35voRm1RQLHDC_GbSRpFjEeyk70mOTHIFLiHbFfQD",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104826251782316225820\">A C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvmZn-NQVd34xp67k_Ferd7J6O4BmvICLE5946l5lO7vQ81UxHlTYZyuCWj6vlKqfFeGSwUymWp7O7XZ6SfwWCnwQjE9H7qwnfj77eavowgqBKumV1sELsk9jnjY0uLYfPNnCBYGMLYEENyf6c6LZMgDaP3GcVPVkVvEmfC4JxeNrKv52PpLE-f6yUxiKppLpRdI8HHWRIHHOA5yKBZzGYeybHhy7zIpnCq6uY62bguKIlB0FI1YPICecEh808SBrBpdpJ-u08389FH97zO0Qp-r0KSX-OF_GLAL-EGYxA4_aau7DoThD58ULl0wbjXM4_q-CzQu7VDJqdhDLs1BimFYYgabSC8MX13PVRAutTdB28n0xmbewK8u8zmRPIKHG5AsKdF3GvVea4GHvM7yRv7ROvZ-uXLrZQP6UY35mr",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115608268479096632656\">Eddie Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZu67fyrq0GxFxolkqKAx2sRqBNaxhyjxJ5gXtywipiTFmexUL75bvwnCS6HwEZ3XLnS-2SEsyI0-BYr_cG-s6A2-JtqtiCmRfeAR9je1pgV4_-g4pHdpzIlAvZup4pTGnAEEspvg-mvi1HxvNTK0sK7YBgxowUfhzVCTTfP9bG8l9UBkXrh1EpUCDazxYmjrABrw2lpOu7299ZuKZZnsFNSO_uIvbwim0Zb_O5AjVjcoYgj0A3gsSc6uaE4XFDfTNP8uV7GCLyc9NLH1D7JfyrfD2x6ifJov__MzOobRaBXAYK1g9Ryz5wUA_pGSsKAtW_WgO77csIbaPk9emochdWD9U7RoVJPytYp4mLRFk3YEyfh9iZiTBdPei7EwDtGbys0GLLo12iBHsVYf5DyyouDJlbbYzthIqBKhAEki3lTw",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100822439650826135173\">Kiyo Horimoto</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cPCsc9GhNpwWHGnyvpoR6HnufEdHjX52z4OV6cJZrI1TnP2aHX16o3-Op4WylJXLYdPbNBBjdAGlDyi88jVeDuhX0ryYH-iAoPTirrNQh-kCAORssOeUEp3x3sLG0PYJl0KD2pciWTmjEyDqFbnxfhhpSeZy-IvQsPhr8SrvoIebztYUxiiuIuomRZO52xOGcC6T0_MTed-gpV2vjuYQKm6mRjKewwGliiiESS1riFHuU4h5ZiKvK6XJDFBAq0nlm7EPLOvpoA1m67a32bNFRLDUZeA85fCuzpGjR53l0Q32mEyaKiz1YK612ylu4NYoOTguwuNgF4LV8MObSK-1fpyEjchvZaO_wQ6o0A1_FDcV23lnqnxfDU3JMESzwaCNJaLD5aLjubtC4gN5UtiBzbcVdyCDVz-dOS0Z9scJ1BCsxP",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112968513802833562707\">Miriam Terilli</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Nom",
+      "rating": 5,
+      "text": "One of my favourite places to get high quality sushi and Japanese cuisine. The staff are always super fast and friendly. The food is fresh and delicious. They get quite busy so make sure to call ahead and make a reservation. Overall, I have never been disappointed dining here.",
+      "time": 1754312885,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "na has",
+      "rating": 5,
+      "text": "After hearing positive reviews from friends i was delighted to stop by Chisou on Woodstock street. After a much pleasant welcome we were greeted with warmth and kindness. The waitress was calm and patient whilst taking our order. With a full palate to choose from it was a tough call to decide but the plate took us worlds away. Savouring and enjoying every mouthful. What was noticed was the attention to detail especially with the table service, the hand towels before ordering and the prompt clearing of used dishes, topping up our glasses throughout the meal and checking in with us felt completely natural and the experience was enjoyable throughout. Highly recommended for those wishing for more from dining out in the heart of London.",
+      "time": 1751922436,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Surachate Chutima",
+      "rating": 5,
+      "text": "Experience a fine Japanese cuisine in Mafair, London. The resturant offer variety of typical Japanese Sushi, Sashimi, noodles and much more. We ordered Kaiso slad, Chirashi, Nigiri max, Negitoro maki, Unagi maki, Tonkatsu, Unaju, Saikyo, Tempura  moriawase and Age Dahil Dofu. All are delicious. I would recommend to make reservation before hand.",
+      "time": 1754174208,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Sasha Ivanov",
+      "rating": 5,
+      "text": "🌟🌟🌟🌟🌟\nChisou Sushi is an absolute gem in the heart of London. The sushi is incredibly fresh, artfully prepared, and packed with flavor. The ambiance is warm and elegant, and the staff made us feel truly welcome from start to finish.\n\nThe highlight? The mochi ice cream dessert — soft, colorful, and the perfect sweet ending to a flawless meal. Every detail, from presentation to service, shows how much care goes into the dining experience here. Highly recommended for anyone who appreciates authentic Japanese cuisine!",
+      "time": 1753566332,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Yasmine Cheradi",
+      "rating": 5,
+      "text": "Our server yesterday was Owen, he was extremely kind and helpful with recommendations. He recommended things which ended up being my fave items on the menu. The chefs are incredibly skilled, I loved the quality of the food and the green tea ice cream ended everything perfectly. Thank you to all staff!",
+      "time": 1747994100,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:44.625Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2F7oSwFdkgRVkmQrSL-ok8"
+}

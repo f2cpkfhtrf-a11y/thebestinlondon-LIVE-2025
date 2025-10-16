@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJYaJz2qEFdkgR_dxL71SyoB0",
+  "name": "Banana Tree Covent Garden",
+  "formatted_address": "34 Wellington St, London WC2E 7BD, UK",
+  "vicinity": "34 Wellington St, London",
+  "rating": 4.6,
+  "user_ratings_total": 2141,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51239529999999,
+      "lng": -0.1207001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51371493029149,
+        "lng": -0.119421769708498
+      },
+      "southwest": {
+        "lat": 51.51101696970849,
+        "lng": -0.122119730291502
+      }
+    }
+  },
+  "lat": 51.51239529999999,
+  "lng": -0.1207001,
+  "formatted_phone_number": "020 3535 6801",
+  "international_phone_number": "+44 20 3535 6801",
+  "website": "https://bananatree.co.uk/restaurants/covent-garden/?utm_source=google&utm_medium=organic&utm_campaign=google_lpm_bananatree_coventgarden",
+  "url": "https://maps.google.com/?cid=2134902301235338493",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fBpHStYIVqB6Q4ehdpy6-5fZ3EHnoWlPN_1Kye3fkHCQ0nPSJ7E9ifb30aOaoGQl9rlEFfnQmtUA3m1_F3VzUzcWX7Dx14DyZubXFyARlwjQSxg0bov9dCo6kz5uJcS10YeJWcRC05z4qw8hAn97aqjwRNEyNfhvJ0E5KOl0A23ke_DjAAlLLbOgU9cA9Vp77MKcKqHxTvPmwctOyHw839fy54QYEXDH523skmtjiHoYQrTMX9pcZrw8mC_qDhw6a45NcfPctEpc_Z5k7ruX1eLLsKVn_Ti7GTidUlnCd7Nw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104221760143427879176\">Banana Tree Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fEklkf2X2jMkhwS9hEV2S-J9G1vRon7PBJuSs1RNbjtf_BWE-eZ4h9-ZXn0zDE5OrWenUA3D93X04N9UarZo2VBlFWZAIorFwzRes51S23CztNtsjVrG_6_3GNPOttR1geN_JrlxTaGwJF1MufYcb4XDrNsUQxtswEZyJmJp-TdRZztcbwidH71llVw2VNbeL4kgB05ezHnrU3jQMqhcVbuWRkzEaQv1f-Vc88iOZ5irNaVWEsqmZ7HeAzTryN6vpFZx4Fw4vYIHud7dEBpMSGWEI94hevkvqJoYuFVrGC5g",
+      "width": 1920,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104221760143427879176\">Banana Tree Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fRsiDwyI3T6J2dGf9zMLtJHkWJHuU-SVE0OOkr8QsDMKEBJZ_3ZR9KIjyhJbV8slIVdGjXXvzsBPow9Bs_LE-tGAtM20a4yAzFMIJsHYljqZnqESX7oq2YISrJbOO2YzDWdNwoPG9jwI26_TlfgFsyjzk0j5fWTqYNUzTFxqrkvX8LQ_cO5SwI8fkTFu3bqmqkXL1RuKSeWnH83okJaUkj1xgk1UWhCWJD_k0k-7BdqYto-uvYmEPf_FggK2LESUa8yuV36tQTc_XTug5SVZjauWTxvgYJxg2_oqq9hI-cqk-nxOhg53caVlZhSi5C66Pbn2wdV5CdVnNCCxbPa2AxCZ32iafmZRAZp3Emucjl84ZFj0ah9YafJzkeyn6f7zuCi3xDn5DcXZ9zSf60yWPQXqN9XRuSOmHqlUEGjQas28k7MM8Xj4Iaomft9vCI",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104943929700306338628\">Prasad Prabhakaran</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cK9lwM1dcEzCTH-zurz7ERDJY73e_UNTU_qBc9zVezIjbKSyH6DujhYIo8fyKS4orc8PtPAEf6aS4RlwWkvQFJJ4C2X_0sDa-INA2Dhi19dg2zkq5lO5kHExiwDAypm0mTjBZa-XmbXwY3PxTVFarPCISq_n3brk_CvYw5TpqnOb6Eaengo6XDqPDsCWs_NMocRPzoaJGDXBglVoky26BjpSGGAoy1PturQ3H7vO5pNJlloIq-5nEl7AwpFySHmr9Q8En0bM-I5yGlZuUVuXSWhoFlST5G5W4P8W5no88ORkwj4DtnpIZ_OAwOmtBayYd20vWtGF15UiMC3rzvydsl6peiwI5sgmDAPIDyHV9HY-RmUgeiXyzLWF19woxy_YJg9jK4LwF4kGJ2dRXfElRCKkG7X_LX8Oz-MIX9R0UnjA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118007699132330780842\">Akshay Raikar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eLuCcuvILUgSBVEZ9E5TJOs4_dUbvS1yYdSPe_cGTTCNwXReoFUDWdVmsgIRvEkNKVfp0bqhj0jZb6o9WNg4Pf7oe35I9fEDnmRrG6F3XbLAzHEtm5CN96PKQobrD1LVZOQ54GF5lXrG3ddH7bSAOKBgDtm1NGMvcU1I7PYoFWolvV-JqyOc3ZANnfwdX40okDyxIHMke-zqUw-z28QWbm3jgKFE9aW_ClVWABP1YzIKLIU1P3v5KdlQooWBjmXrCZwQqhwO_0zmZMU5UHol2whoIsBM_3LO7GuO3b0erwVEwqQpfwSRKSPfdrTkQlT9OREO6PHN1mrnGyIi6lihq70UFT8L4Wqhy4Hwveha9AIYzvJdy-ivGO99eLzGVhezITCf2JUEp-xwDFWXElIWAVt4tjwxDrCLM42vcJBYrUVA",
+      "width": 3540,
+      "height": 3369,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104509742724558139329\">Eri Huartos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ctcDOCeKCT9Bd_X_-PwpUg96IWZXE6TfenOYjjn6-WReDI2SVWXNbSA2HDO-IG7wlHHUVR1ml5Ydrjfn18IgyqCNbkipqaNmSwFiXOe8MT_V5BBr8inOHCxq_jUN9JnW0DFa0QHkoVwNfvetzHqS1oEC-1-3D_gFMZKwRNFJwvN9T6OPergzlm0xCb4YgpHk9iTkxVU7qpJH3K365ELhjeaVOyRmd7E8cLswvnPfb6zePnfa1TZjeGp_JEOt7ZDSd4_l9dLzy9pHxsV8BFfHTHZ3GaaXki6TwmoxaqsrS-vASqFAhOLYpv0c05FCMnDq4rZF3CpItJU0QE5fgjecZyrMThsjblwge82Wm8JsY5-YCnnqzKzeRY6Vzl1-rdryoYWlq2UEOFbSMKQC1DlR8L2KKu-_iyF1BahlmSDBySJA",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100423792310039882895\">Gabby Romanelli</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eJ8eRgSnjMcVWvj0_WXM9C7OHkxpFCb3MthfALwVw91CmO5vyjVt8H2SsrR3GuEv3rrSHp5df-oiYLplqiuhHTjwTCSXn8GckK3Y-axdN2XAiZodeDOAt29xevsaxCO6oJIrAtCnzy3eBCRo2om8qQQpziywqCzjXdqN7qroxTYIAPBOtJiGG7yDw__xxhVb9i-5i3VMIgToW9NAi8CW42wOFJoVrdFpbJbrkc-BIpJmi-fJW1-Nb6zQQguEMP7Xn8fB-rgS8BTE-rIvVdB6_BufZ4PvdYFXYq1AbkqJSmE7n_rgu6Wlt7NdUEEW10LBUbcUzVf4PWQUswpwXf5BjuK23teKydhiOyahU5kXuVe2rGaejDO3FlNIw4LtZfpdPorMZhMcM8gXuPaW3UjyVmx-5bjl_fCrcx0MWUId3aY0_P-_7ejm_p-APgZUzS",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108512497205677557260\">The Vegan Traveller</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYgINxxrzvxYhUbIdA84vyWH8W7fM__SguDkHVkYq9ak3IEC1TFltGiP7dGuU1maErmOYQC-Sie1V-gGSLsc66LqFL1r3RPyP1qB8HJo8midPcBtZ6veIvGY1wIFucdgMlsMI9wdTB1KdjZuHrZ5XIgznjQSzMG7bLIulEJsggnGJU24veE28GAJWkl0e3sJ-93qlefudOXddxZVy9OX-ttVp1JUNTgO5h84LOZ_uNhpdoo1LrjHOLmypazfLxLFljKik3OkbSIOKE3HnWC1LmoN0f84UNwmYjvSxNttTRIcS-G0CcJQyHfB5_T1nIE4_WwseaeE--R0TJa-deg0pi93i2cv2v7r0Ws7AmRy7RL2CB1vSrqiACcZ725IDv4DRC7u-qjXzi3vKNpWBXnOqfwFXAxz8rWF-AMZF-iwk5wQ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112559645461979760727\">Gemmalicious Tv</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dW2VFtLeZfLVTp9ilw0lSYljTvUBmEGSqC_a4Qidh2S-5jvBghE3UNBl4BLs90Kyp0hDixKdnVzonNi3P5RixCpbBLa9m644zW3-inavpdvFr7onFww4oxcdfwEk5JQU69xyl4skG5YDhOo8Vckx5eVLsZlPQZtv_xNVOvfBHfqITZU0fUZwNjoXg0bgyQGZhy31rETo_-sr4goy0c78Vj6vQaWKPofAoPX70Fc0Rw5v_vCZHKpIakdjMoNWh7SDcszr6ZdG2wmzltkE5qrvmrbfSJdfqay3UCh7kHM0dV8X-HVAhJTzkwui7BNQH8L-1Q3mt4cnNa-DhZx71pt15QQuMkzPwwshWbrXmCh-rKqzH-vX-oIIF0fNgpX20Ei6Vrj_VY1Vx98h_IRX8sLyGiey2yH08SKJORUKeW8I_55CY",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111220076270624184646\">karim Hamideh</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cuAvggb3PwwMqgEwf4fVFuRieRVqX3L-VQgSWBSi4Do_ziMwK_G2pN0CDA5QQEBsYYN9NrB_AAVrSsQhYvy6VoZG5g-uLdYiV868zHb7ImN42KMS42AOxa6BjPS30dffrgak1K3bnVmpUluSHUscgJYv8neLkRnXlcW8BAWtyNholRIxGnYt3TS20wNGGAfSUOOZivkDe19iC1AmYtV75L71ubZe8_xbeTePsCE7vlIv8j6dnUTKmQNOzndG_fXTawGRd9ZxNoMtJfDsna7Yxf7EvNLeF-LRqwpHaDRJXnFnY4ox4yom2f9IburlhJD44kffvztfOXjc-kTsTTrGokrUhhsWpf9UB6lMe3dILBXJhrDrLrFnyPt8XfdnpZbH461w2YF1YMV3XRV_C_f7q9nDvzOcPe-nUKm7BOHQS0nx1gZbynKqOHSTCiD5-n",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117677058850740193844\">B R</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Pan-Asian fare served in a lively, industrial-chic restaurant with a bar & happy hours.",
+  "reviews": [
+    {
+      "author_name": "S Stokoe",
+      "rating": 5,
+      "text": "Excellent service at this restaurant. Came to London to celebrate mine and my twin girls' birthdays. Ahmed was extremely attentive. Food and drinks were served quickly and all was delicious. They made a big deal of it being our birthdays, serving us a lovely slice of banana and chocolate cake and ice cream with a candle and sang happy birthday. Was first time visiting this restaurant and would definitely come back.",
+      "time": 1754329205,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Amy",
+      "rating": 4,
+      "text": "Went before a theatre show and the food and service was exceptional!\n\nWe got the bang bang broccoli to start and it was so fresh with the perfect light coating on the outside of it.\n\nFor mains I had the Chicken Massaman curry and all I can say is that I have a new favourite dish! The balance of the flavours in the curry with the pickles on the side and crunch of the crackers was perfect.\n\n2-4-1 cocktails were also absolutely delish, we got a Long Island iced tea and the Jungle Bird.",
+      "time": 1756811086,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Mich D",
+      "rating": 5,
+      "text": "What a great restaurant in Covent Garden. The music, energy, friendly service, cleanliness, and delicious food made this wonderful. Whether dining solo, as a couple or big group - all are welcome. The laughter and chatter are so much fun!\n\nGood vegetarian options, too.\n\nThanks Ahmed and team.",
+      "time": 1753563081,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "The Vegan Traveller",
+      "rating": 3,
+      "text": "Great location and a good menu with plenty of vegan options to choose from. We ordered the Drunken noodles which were amazing and delicious. We also ordered the ramen dish which was sadly bland and the salt and pepper fries wore cold and stale too. I’d recommend other places to eat. Atmosphere was good. Service not great.",
+      "time": 1756331063,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Lucy Muir",
+      "rating": 5,
+      "text": "Food was amazing and very worth the money. Ahmed could not have been more attentive and hospitable, he was so lovely. Will be coming back !!",
+      "time": 1759610443,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:03.151Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaJz2qEFdkgR_dxL71SyoB0"
+}

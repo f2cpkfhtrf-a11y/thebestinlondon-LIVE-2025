@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJGRfu8NIEdkgRsjX6nVyJm2I",
+  "name": "Assa",
+  "formatted_address": "23 Romilly St, London W1D 5AQ, UK",
+  "vicinity": "23 Romilly St, London",
+  "rating": 4.3,
+  "user_ratings_total": 2401,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5128311,
+      "lng": -0.1312998
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5141421302915,
+        "lng": -0.129933719708498
+      },
+      "southwest": {
+        "lat": 51.5114441697085,
+        "lng": -0.132631680291502
+      }
+    }
+  },
+  "lat": 51.5128311,
+  "lng": -0.1312998,
+  "formatted_phone_number": "020 7734 9050",
+  "international_phone_number": "+44 20 7734 9050",
+  "website": null,
+  "url": "https://maps.google.com/?cid=7105423867987506610",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2chEe9PfbShjGXFzo_8II6eLpHKWbO2Aq4zQ3sTM6Y3yawmBydmb2li56fge9ceotlsL3eGDJUCpkZP7RPoimw8cUP2PSCCMDbh1oQmUcJf9zWk4gEl0IGLTqNI0X1sBl5TObQSJ_dYjBORGjd5SwM8G1-1hm-nSz5VcqA226pzOdxMn9LvvGCeDLPGnc93A_X3YRkWcS4AKUZiC9ieSMhDFJMBcIOIC1elmk9qpi4oTsAhglT5f8OMoh7p-kF7wINgvqfsIel4pQ-E7TQghxP-YbufLTsp4CH2gZziJD8IQ0Cxq-73rUfRVg_uAcR7uTweGvaCOU0yzmhWVQBhucCJIvczT7tCKdPgDbC3-y1ezKVTOqDSrBJZXqWmRO_ZWi2JkvkstzWtMcazgiv8rq-M8vS89AyAJYnEeYybty6GTko1",
+      "width": 4087,
+      "height": 2080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111719219215411994893\">Indoorfish</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d4KnPIgdnXPMUblL3oE-kT-zH2yIvEgRgtG7Mz_RWT-1h8BtVO9ppIv7hZ79VQjkWKkQ9I9wT3_lP4Bmq8Pd9mM8ArqX6jQC4-uxw0HJu2F8jY0s9nOSeH3YO2yXHDuWuQapJkhSS9CgS8mIyGCzNPASigQlqpLnTaamRGwBIi7zSMwaTcjEbvUBEr3eC1I2bCH6Ei6_d6nF-ZVU56fGcFUrUzZQAaA8Dtd8J6ojpIVq2Sw_cwxIYlM4GYioyIolhmBX7yOQqnsj_20ccxmV7ngb3ZkJ8JCFZ45GZ5qjzx6SzD80zfvcHhvPTUXUH86R0frUPRf1yvYFcaB00U7f7bqE0uORBcPdJdoER3m0XksDbG8eRipkH_FLDLIfEcS6NxlBSUtd-ONrIHSZBg6jqh_1WR3q50rhHm-N3E3UE2X5j2",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113624117902823884248\">AGGA</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUkwhRKG8nwuv-QzA1XXaFUZv5JKD7z1NC6zsvAsfKZ1urP01kZc5GIfX-YwqmqzdIshYN6d7377xmC_CseZEqZSxfGy1KGLocJ_C_Y66g7HZiKQ1CvsvJ4sIMjH0Cj6oUC57p1FXh6o2YC7uNKf2QDUnAOETmamex6XMwy1Drm1gGgwqKqECYh6yz5qQ1t5jMNWdz8OEDV0ixzbHa1WRa9KwRsFcNtT0Zu6SG7my4opTFAsYCEFARnVnPE5IcnhU6OwArQUF0lnedx0pTtHxQYBfhryKraEIRI2egY-Tk5DQfTGc5SMrl-2WbiJts0WQ12kPguNAOz4VS8QkDeLGocqEzLWu-4J8KDElUcv1AHqHFzFaYcLu8b11VT39gMgiLcaPuPyE9c60z88gp7VElRzju7FjV-L6Qr2BBAqQDLLENdpiE6TMO4tUmSA",
+      "width": 1264,
+      "height": 1497,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105348629139788166466\">Wei</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fEZgCxO7-T0PUxZZfwSay8L_v82vMFcECyZ8vYmcBmECe97zU2EtPrVC-XRFqpWs69bEsz_ZqNEn_yRfhxhvwUEnHfrv68wba-FLbwjEA_SLqj3IM3L_8NscQmk7WI7X16m6IhQ1dYGIQPkvEFTTu7qkdLP9cWTexfoj8X3v0t7CKd3i_VjH2wDGN1ZwGabc4PXXAwoIJ07GQbpuYtYHATIu4nhIhJQTMC3qsjR29OSLYtCggwcQHSx5Y-a683gkAPdpz98tdAVLnPgYotSQQdTiEnJo99P4M5_ezTSXBpCQ",
+      "width": 1242,
+      "height": 699,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103915468918441279456\">Assa</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-JrTpGjEvyMkm4c5PrJ62yjZ7EbwDs6azGvAQcDFhAj2YtZ86Vp7I3gzrHnnfJjgepuhaWRfkCsXi_73UfYbuCgpeQNSL-f0Bc3VkpDgRCQbZAdZ5WQdS7IeS5GN4zz2DgET0Qz_BcL23RB3QfZMCK7KBUbD8rSETwGtd4sdnyHY4pI9yHHxKgSGZqcpDu7bs275OpUIr9Ajo3HPLLKg-P0Y2Zts59jnadhEuhRizr_Rd_jybIL0qSS7b6BM9gJxse6ObJn9DxhA1iiODTM2xOLAc-et95XGshyOMniP5J21mhe9GcAx9D8YlfFCg6RyDQoV9ylpJt3iKKXVO4W4Z48_0cdmryt4rJtNyLdCWMyWGAXBFPZhgYEefJKTOPwUCRqpUWMbsk1uAsh09mc7plKc8g14ik9arsLUP69jf-w",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118330888476863799850\">Annamária Simon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cgulPDlZAQgZjUDD_RpyfTbDID9agG2QPifzsZqhWI248DgE35f0rH9zCQpeZPjPc6ic0XENWEDmkSmHq0D6TbktfJxwYGUp4IRvdBF3Oe5Yu7FZKLoo8wlO-pIz6QaKll-gGFG6ZCuot9TbOAxUKHHGVqlU3QU1Va4tfHMMypoBQKWokN5ZiEd2BJ4o0oAIR9BC4vtyM9M58xAQK_BZBYHWOGQLUw8g4DBtCfiaU3JUNwj99jMapeBQA83nDLHqrqQouIoyGiqQb-tDPb8y9q035YmV46EXyUxdPOOROBB7oewJnLLd1RSo6ZNIgXDCNBeaKuVCK8UH0D1rPpabrG60BK7LsqkMmQ4oqPG-7qZhzD_3yxgAtvVfsiyL_7RXDVIKaiwz6cs4jXwyWC5EVCF0HYeGzkfERZw7eDA64",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101973738390489790055\">Amy大姐姐</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eYNK4AKVV2V89sQ9eQ1P2iYunjmAy5RMF8BK0jzkFeK4wgyKbJXt2AO3jG7ZOszSnB1iBKWZd35kpABz8u2AgJDVLVdWewRXGS8753eUUiY45KC3Ds2-u-pgBawCAGc4-cNHAuz7Z4Cgk_aqfRg37JqA2WDXdgxZSsl7O_TNOrBqTK8V6aZ_T7lW_kUl3lC1rkL5cs-Y2J5fMzLUuThlxvgfu-qB7801rqtYtgRksHeLitrMZcuIGi4Ez5sQqTfRUbflp89alLW_PYJIDrlRV83oH5ycW9QTDE8C6dnl5sCOFgBxGh76h-UJOI_HDLzqfeUPzxkeDFGQVM7njWw-ArpGe_Fb-L_VYiBV_AX_InjNVRMelTpd_9-s83KTmr9x6depwN0GaJFUvNmmVNUifEIqnSv0ewuNYdhbzDpnOuvzRS",
+      "width": 4624,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115325370411240181689\">Vandani Kalia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKYNpwdp9_-gOgn9g0D32aAZ4x1rymUIuhpLTRRVroteXjcahrAoqjR2XnYZMxbDzi0GVSTDDmrFBSG26qFh3l6LfVtzUnlfhMP77qxB6k-_UnIvjCCcCJWjcTJSNgNTI4TbyAeYWHu0fJ2Lzgkyx3XJUg1oj0v8OxMEMvvePoX4n4AekJIWsb3nXppuC-iCMbSxWVoKsNNggRRRbCrkdxlcZz_exEahpbuFf0KY9AmHSGx-DOFFAbRzkSlxnKecyl8MLWzAFupNC9ODjrqmp0N11W2_-VVStiaY2FcoSDtdy4Anjb4wCT72gOheAW02C5gFQE9wcdk_avWc8AU7HVR3iEtBKVqAr7-wHhBxV8iDwvmSN3udbmAOWOWqxzsQ_JMvPN325rZJwpTN0PRIkXnLfMIbcHYzR7qEVhpLR5HQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116554773835772230480\">Ayumi Mamiya</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnIaAPcRNKc_vz2tQtqG0RL6jj1g4AA72AJn8zYAhXZ8TTCOMMnFeNg-wg7pakBPB5w1R8dY-Wy2THNmKipQQHz2N_PJ3YI48-ltO38F7YkHWOJfFzY4QH5jD4cpMzXHVAQ_-Fz22BwBTdY61O4LNoDhFnKcdL46jrnEsqlqE0V_0PhzHP1BuyEYoNYU-KrMtf_EJ6Dcf6iGiZbOSuRClz8TQ7YXqUqSiA9jfzvsRMHEXarB2NF0Ow6jFpfIbxZJPMgbrqOLZDGiziAZk93aHawun6C-QtNGO-gvIosoydMBgZHsUiQ9uTU7RdKMw-EdrzcubTm_ZiAWpurpQXi5DrCB0gWegiBK1a5cBbSCy8QhmgOdGi7gtsE6Meenpc2B5vmmOGfvgxBvqS95blRLDOWnj43x91clW_vkDa9kLBz0AQ",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102034547814974555950\">윤혁수</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJBz8PQmZOpFHZKe4rY4-myTMg5ULWCv2Mr4yrTjzGfIRn-5OwUueEUsXXj3oeBMhLaApB6k_wEkbl-rzHqLoDciHEQ0hEXkeqty9Ix8I3Vq8zKCZC0m-zZm8F558d4Yf0fDYX5S6j5rhfpsIFs-kblnwsmfNWTsjZVOmzFjkYUuq6NUUyfcrIrDswAsZPxNBG85i8NTlVLrlvThmYOH4UHUMIdWZ3K8BLlKCS0YfYM3svCC5QDd0Kza2Tsk-vzzRRZUTBz5cjf6U5u5dz3cJOCLNUma6B64mgZMqnnjbwWDxeK3T8B28F87L0zVO2hk77BcKfueGLPVa6HzcLXtOP1L1Y9dcf0j2L6Eoae3DqxkvjTuAVnYMivN0d3cnlsDLXFNv7FkYK0sSsZFkgoVCGKeIWql5yeqTFj43oBDi2jZq-f8yrD3dEAC3wZnt9",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110505715304133698698\">주주</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Laid-back eatery serving rice bowls, hot pot & other Korean comfort foods, plus beer, sake & wine.",
+  "reviews": [
+    {
+      "author_name": "Popo Eyes",
+      "rating": 5,
+      "text": "I had a great time at Assa! The place felt cozy and welcoming 😊. The food was super tasty 🇰🇷—full of real, bold flavors.\n\nThe staff were kind and helpful, and made sure we understood the menu 👍. You can tell they care about their food and guests.\n\nWhether you're trying Korean food for the first time or love it already, this spot is worth visiting. I’ll be back soon! 👏",
+      "time": 1759082787,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Tasfia Sufi",
+      "rating": 5,
+      "text": "The food was delicious, I would definitely come back again to try other items on the menu. The restaurant is walk in only, the queue does move fast. The staff are very attentive and the food came out very quick despite being super busy. From the flavours to the portion size, this place did not disappoint and it was halal.",
+      "time": 1755900514,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Diana Bay",
+      "rating": 5,
+      "text": "I come here at least once a month because the food is delicious and priced well. My favourites are the beef bulgogi, the scallion pancakes and the boneless chicken in sweet and spicy sauce. Their drinks selection is really impressive as they have a wide range of flavours. I like the lychee soda personally. The service is very quick, I gave the atmosphere 3* as it's quite packed and loud in there but I guess that's what makes it so reasonably priced. Always looking forward to coming here ❤️",
+      "time": 1756382965,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Chih P",
+      "rating": 5,
+      "text": "not gonna lie, I walked in kinda skeptical… but then I saw actual Koreans eating there and was like 👀 this place is legit. And omg the food?? So good. The prices?? Literally unreal. Like how is it this cheap?? And in London!! Definitely coming back.\n\n-written by a millennial trying to be a Gen z ✨",
+      "time": 1757966313,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nicholas Martin",
+      "rating": 4,
+      "text": "Assa\n\nLocated in Soho, is a favourite for those craving authentic Korean food in central London. Known for its hearty hot pots, flavourful bibimbap, and crisp kimchi pancakes, the restaurant delivers bold, satisfying dishes at prices that feel fair for the area. The casual setting, lively atmosphere, and quick service make it a great choice for groups or anyone after a vibrant dining experience without the polish of fine dining.\n\nOn the flip side, Assa’s popularity means it often gets crowded, with tight seating and noise levels that won’t suit all diners  seeking quiet meal or intimate meal. Some dishes can be hit-or-miss, but the highlights more than make up for it, keeping regulars coming back. For authentic flavours served in a bustling, energetic space, Assa remains one of Soho’s most reliable Korean food spots.\n\nPersonally , we loved the food and experience.",
+      "time": 1757858235,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:52.262Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRfu8NIEdkgRsjX6nVyJm2I"
+}

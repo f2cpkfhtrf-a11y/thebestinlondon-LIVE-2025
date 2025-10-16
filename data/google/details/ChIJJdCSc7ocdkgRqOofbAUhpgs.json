@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJJdCSc7ocdkgRqOofbAUhpgs",
+  "name": "Barrio - Shoreditch",
+  "formatted_address": "141-143 Shoreditch High St, London E1 6JE, UK",
+  "vicinity": "141-143 Shoreditch High St, London",
+  "rating": 4.5,
+  "user_ratings_total": 9931,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5260601,
+      "lng": -0.07820909999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5274170302915,
+        "lng": -0.07674001970849796
+      },
+      "southwest": {
+        "lat": 51.5247190697085,
+        "lng": -0.07943798029150202
+      }
+    }
+  },
+  "lat": 51.5260601,
+  "lng": -0.07820909999999999,
+  "formatted_phone_number": "020 7749 3940",
+  "international_phone_number": "+44 20 7749 3940",
+  "website": "https://www.barriobars.com/bars/shoreditch?utm_medium=organic&utm_source=gbp&utm_campaign=homepage",
+  "url": "https://maps.google.com/?cid=839394687723760296",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 4:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 2:00 PM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cLZh9D8AjeHyps78Mye9YTm36TXrtIf1Yx_GRfuCJdYjw_w2j26Lw8aFHWXQKVTvJhs1x4Ewvz7Zykb-mziQeB0Bp7sHyHsVsZ3XN7ahG1HTUWGDYmLrRC0dos2s6iEkm-qD0L_ZrjbShkV-FUadIASc3S_lwT4OtTqhDvLXeha1i3bUvzPU-33co0PrQjogMr1gFXZNbIqx3I99Pt2TEYClI9RbArE-QdmaFHSH_GX-oLLyx6ofjjNWvHFoQ6aodNTEkrl1nlyFbz3DilQmkKlwPl2P7kepcbCKx-SHcAQg",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109397420942618888231\">Barrio - Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cDW9_yF3pgPHpDgo8AsuQZdLCdi89XK7wzWyV4QkMM0BbeTpgUB9OkvmujvZiFBeSsF-5Iyp0XwLIh3WjOIG7lu5nKKP6HWQP7f0_1YIOQljDluKCqXWqt7s6hp979Y2-yKAxsBFPqxFOYt6Xw-6axXt1tumildcabef7ZAGojwXAiOGu0fGF4Ti_CTPZH3Ypk9VB0g81lt7-dfG2P_siRALQcdqHU3iHZlxl8PcAmk98J7t_2SPGXKG6luJg4ytxQ9RZUTBZrW2sa8QuJ7rKL9FZG8HU8CwHWKOuU3OEoVQ",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109397420942618888231\">Barrio - Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eliDgu3CSKaE2Mq8vXlhiMupCG5eKLbqq-fJAJy-RNSV0G_CX5r31NEQo6YscmfNWz_QRrMGzLTXd_Wgp2ZD_D7sagDf7laNDhPNcoC2kVXf9QLl_YkmKu-kV1gUH5hdPcx62zAP6ken3CqpG6t0FJwSZIXDe0n70nOjwR5XZe8gM63mLuuYBOd6bsGe4RWseL_EMhUXKrI8JZnQUIJ98fckEMR4ZIozRpX71zJ6p21laRnepIjYoB-NTyUUR2D3WGpVhM4stbMgcFfxhnrUXAqDkJxvK6kijwX3n1UOnIHA",
+      "width": 1950,
+      "height": 1300,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109397420942618888231\">Barrio - Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f_LQD9T2HszSe7ll5aNJUEt3LgcTVuf-vQ81duQyRzVNUIgJTPYRJfry9m4Vm5gDycC5q--tgbrWflUK_3HxxjCGI8nLqqqbQ0PjcOA8QTc9oLajUB-wsCLIqijfKoV8a0rYu0QmjT8ZfP55H3Pm6TUklVNTCfBDn3hJtgBIuZsrHcpgUF22SG0nSoPwL3fU_b5a1cz47jslz5Q_l0dVPasDSF1a72BFp6i6tkx8RKB-SKZu6awNeH1mNOPEVznofCD6QHV4G3pcRqjBp7UU0gKgHrmXHFBYquB_CV2mnOi6hnwQm8Cy8VNMcNa3vyHdlN3gdo-OaBwnJsUC9Vw7VA1HKC5UhO4GNXqd3mjoJ-sU0mluQaBHMTYnTj8I46KfQ2yjus1IaC32doSEe8lexjeuOQET2tlGCvOmij8Tb7CJA",
+      "width": 3472,
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112921024230088303786\">matteo giuliani</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dWC7jgumSBBHFybyjE_YfOpBqKH3csCmt1X_YceMJqKcUgKuBD5v9fmE3qJlVkF_LCweyVCioQV7S0hSWCrFYcgaLJd20CMrI6lxLkusmAoTiGkvkn6nGOx5S8LYfDlEl6O1MuRb9pJMA5voMjLP1x7HFXJzS-SjO-toA7V6a1YzbU06n73ivRez3Rj0c2QtsMmDwMxtNiu-N3xvvUnEz9LC1nTl8-85pbBXIM7yHPbjijMDbo8wx4g8ngsj6-eFwkQoPNEwCZD_XMsmtuwKUYXcA3DqL5I2LEcpZLZcDwOi985bhpL9VzhVyWmZRf9DWIs_n8I_KKqhGpd6EXBFB3W90SbSmz4SN8Yzus06oPm9btIRo1zcfuGqkp20M5QfRQbUbSh0O_fIClNITYdspzwWtTKzyvBt5Hqt613UDpT-kP",
+      "width": 3000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113946980278689339464\">Tamar Harnik</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dR4LivH-_fiuPYg8onwnho6MxCsCPikYW1FzO4_Odig2AXyTT9V0ASBmZCL1SuAUsRB0Uf4rOGYtnvYTVqAUa5OtRRiUtW6iPlRvInuWWb6NIAsJM0nPMVbfoKP2w4RIQfL_Rok_-A1Yv9CNlZbL0vuBhe6nJmZ9wdjZ13H9FoJroqWOA6-HdyQnLqdp1pnUxJ1RlIxLfSERmW9J8v8vtV5YlumG77-st6Yi6H46CNHu59T0GPN2pdKgLuuCw71ePcscHqbglSOO_fPhassygmJR25MAxdxx04o7uuDTBq3A",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109397420942618888231\">Barrio - Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsXLZeS48Qb_RQ6k-YJz7lB8Y7QZ69aL0feHLQ4c5x5HsGGzDUg2fuIhC9NgxqCwta3UG-sZWNws1rPxB8BDWeX4E5OqAU2kTiHJjhtpBNcXnUacTo40W4nO8DcRATfe56fiQcIPA7OL_tw1PK5tUDNSV82BS841jwsFr9-mD9EwgRfM7P8ZDkvg7GYoRPZyBOBLzdml8mhv-0D2guu5raeTd04FSMiAEyOA7Ix9tafLe-hNs8rFQkB9weoI_g_-OLxpSuNISOelRursPXAYzuqVfzMEuFiK3iT83ItpMAlg",
+      "width": 1200,
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109397420942618888231\">Barrio - Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBTYytX3S3MzqSRScVn6G1M_w2CmidxoOHL6BPPhBZ-0ohxs3L6X55m6DCibpJFNzPJmUM9PvSP_Ng34Roe8PmvNSP8UefCtSNmdBaHMK_SInjm8XpxBzI8YnFTy-1XS_5unLSi28ScaTXoTFyZH5Cs9EoyfFw2v_L-yuNrvun0dWzsPgiypCE4x2EwkR3-N3ACd0rKF0CecrFvDJVMKKbqAbjvTf7eS7R_tjbcb23Vy927-La78JVN8vhtZvchQ3uJYKsyA5ETC1MgaK_Mq1qcoFOfUFPb_bkEwJOzoPMUA",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109397420942618888231\">Barrio - Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dLl3-Fx5E7gxhq9geldAI7F5_-vqK5C-v396Px3pn_et3IAmU5E8KCHKNC4hLjgTSpLARmD8Ex9NkNGo6EybrYzN2ycWfjgK11yhvuFLoLxMCVxO4shEBIUC7fE93_2KVZfsqg4lnibT6XmOiGWq2_axd4ixuA0hz6f9xUwh_u1PKHSWWYDh-ryNFsF3MMrzwc-41R0BCvCt_btenRFdjBP57Udsayy4SArmoBSK4LDbyvoUcTCmNwzC00-5qPNtcK4aOu8o7inuRRP6bset2F4-Mlp8JDSBgXvYUIsmFAeQ",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109397420942618888231\">Barrio - Shoreditch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dM6gqiy_F2TMQ_-Ry99mCQZG9aTy987q1eIQCQ6quCVucyPJV-fWrmLF7idZcUHb4NoxLpkNzLM2zkZqm39Ux1rGLwejkomaMy69zodC8vqkHHM4ztritJsGO671pm-pRRCvT3lBY9L_XOBda0mS0A1i6292wAVYww7a18iYqc8HNosT4X7LPmHAHz1JHemt4FryMpnTnyyncCiwKfgKnFCy0Elh-3UIfbyrxxFLvjl54uCM7U3kBLPrrzLoCQMNjs73nnM-5j15VYoDghrSCZ2PCr9-OMWTCzsBHc7r0zyw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109397420942618888231\">Barrio - Shoreditch</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Vibrant destination serving tapas-style food & cocktails, plus late night club with DJs.",
+  "reviews": [
+    {
+      "author_name": "S H",
+      "rating": 5,
+      "text": "Fun place with amazing tacos. We went on a friday evening and it was happy hour (woot woot) cocktails were refreshing on a hot day like that.. the tacos were delicious! Music was great. Overall a good experience and would definitely bring more people with us next time.",
+      "time": 1751492060,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Valentina Ronchi",
+      "rating": 2,
+      "text": "Food was not too bad, it came and it was already cold. Tacos are cheap and small, fries too expensive for what you actually get.\nWe were also asked to leave a 5 star review and mention Mohit for drinks (who didn’t serve us either), we did but he never came back! Spoiler alert Mohit: you can update the review after submitting it! 😜",
+      "time": 1757848785,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Olivia Palm",
+      "rating": 2,
+      "text": "I stood at the host stand with 3 people chatting for a while before I was acknowledged. The bar experience was the same. The “Tommy’s Margarita” was so sweet and gut-rot worthy tbh. & the tacos were SO disappointing. Literally krafts singles  (as pictured) & tasteless.\nAtmosphere & decor were lovely but otherwise so truly disappointing.\n& having to pay a service charge while I’m ordering from a QR code.",
+      "time": 1752169436,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Alex Gallacher",
+      "rating": 5,
+      "text": "Barrio Shoreditch was such a fun vibe. Great spot for tacos and cocktails with a proper party atmosphere. Music was lively, the decor was colourful, and the staff were great. Perfect place to start a night out, definitely going back.",
+      "time": 1747726563,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Amelia Rose",
+      "rating": 2,
+      "text": "Unfortunately a really disappointing service on a birthday night out. Went to order drinks at the bar and had to struggle to get the two free bartenders attention then finally ordered but our bartender slowly stopped and took shots with another bartender instead while we waited.\nThe jug was filled with ice and barely garnished which the official instagram had led us to believe was part of service.\nThe bar is very pretty and the drinks were okay but disappointed how customers seem to be a hindrance to staff",
+      "time": 1759653335,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:00.657Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdCSc7ocdkgRqOofbAUhpgs"
+}

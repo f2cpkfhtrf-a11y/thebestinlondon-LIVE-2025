@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJSyrKsHsFdkgRlscc2dm1IRY",
+  "name": "The MAINE",
+  "formatted_address": "6, Medici Courtyard, London W1S 1JY, UK",
+  "vicinity": "6, Medici Courtyard, London",
+  "rating": 4.5,
+  "user_ratings_total": 1740,
+  "price_level": 4,
+  "geometry": {
+    "location": {
+      "lat": 51.5136763,
+      "lng": -0.1446788
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5149556802915,
+        "lng": -0.143849069708498
+      },
+      "southwest": {
+        "lat": 51.5122577197085,
+        "lng": -0.146547030291502
+      }
+    }
+  },
+  "lat": 51.5136763,
+  "lng": -0.1446788,
+  "formatted_phone_number": "020 3432 2192",
+  "international_phone_number": "+44 20 3432 2192",
+  "website": "http://www.themainemayfair.com/?utm_source=GMB&utm_medium=website%20click&utm_campaign=SDM&utm_id=GMB",
+  "url": "https://maps.google.com/?cid=1594755690320938902",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 PM – 1:00 AM",
+      "Tuesday: 12:00 PM – 1:00 AM",
+      "Wednesday: 12:00 PM – 1:00 AM",
+      "Thursday: 12:00 PM – 1:30 AM",
+      "Friday: 12:00 PM – 1:30 AM",
+      "Saturday: 12:00 PM – 1:30 AM",
+      "Sunday: 12:00 PM – 1:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eGnaaQVI-TVzS1UADZkASsMkUemEISimdDb-E93MthowTOvzjGvDPJ4kByxHMdwPZd2AXzv73v7GpSa2ieF6DaPn_Uew9eMz-BBT95DessDZcGt4D8zHN5XdMPumI_e1ttFgd0zhFfh34aI6jWkTRKY3000Tntq-VynI1AnwRb_qUK6jLr68CRd3kleDCP6129RAYelaO0Vgqp9Nz-GlKjdTa_nOweLyRgaO76oTqAKeihrOyCDoEDpkU0qJ7j4_BklTu1ZpxHWtVCwmsnzvzhkIGBj3zDJAqT4fniDOXKyQ",
+      "width": 1280,
+      "height": 942,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fZxQ_dKc7s1wEYQzovNqNmrKxS5HnSAHsDtfFei7EV-6gshMu_79b_PlV5kOp_Ron4DQ3dm670Bvg0Sb3pbLQMh9c0DULkaB57XRCI8qZzLuxNC2RFpZgy5h4HtVpuw_RzPtZkI1Bi_h0u5Cgp6Fzn-VWeB2umlN1CDVlVZR-3bd5MNq-IqEtQzhJ5z8wIXJAb3MXZSXv77N6Jp3ONZr9-Z1MsJMNh0uTALcIqLsqW77ZiQFo1K0BzRtCvZS00UgBNSPe5R8YZ5qbaY041aqC5JGQMIvoMkafpDdXqWNMwVQ",
+      "width": 1080,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJCVkBZExVIzOHV95iLgApQfHkUhiTzOXkiixtBbQt-WnIptTc3-961puYJDWF9VyNiDKBewf3ksuaWYnr7NUPDMBP0EvynuZU-qutrCf_qWAroJVIbiQdZIltu00y-9K6vi2Hx4tmyZlRKJeEOT1LTRYYcLJBJa96QHMcQftaDm3MvPFNUTq16SLmK3KppYcEahoecBaSRitWEFpP1l1dTEe7Wy5XR1Imq4DRTUmYF1J7TSblIhGUkpXd1E2DlhVPaPlgzcZXnBMA4b1kWe5G4l7cFz9aDi30CK1brpsdyg",
+      "width": 1002,
+      "height": 1252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cra_n19HCqhhpXNj_ZH0XKc-GGE9HUFH-iPUVuqfDAHXvo-4fP8bmOH04nSWT3EShy1s8Qrnh8hSncQ-ZLqq_likwFXouvEueWkn-sYlr-UZ8J_r6Y097YUMeMEm6aNaXYUiK8kev9Hd2CVeCJqpCI4jzH0AAol3Mn_y9JrIBin9VU2IDk9RQLwgCjk648BZOOdsxPaumi1-IQ21RdsDY-nw--H6-FLAW1PGI9Wzu9cTkLEsOXPlsd6OuqQmBXirsNO_obL-TN6-2o60-2P7kSMeu0p5vNdfEsC4JwLLs2OA",
+      "width": 1080,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPPs4LkiViIoswx7ozIJrXGo6k3mP5YQDGo_pEt8fSb3sORm_gVvy_l9O51kOqYybKchRcNpNH4ZKKdkI7iqIVVJgj4IBn4nV-32ljT7xxE24NvtP42cUhf7z1QiA4g2sE2MSGNaeobcWqHntfOBXD2CXWT0fsDPn9WRhBzvUK4Rc4UA6SWvJo2zpimMNqYlAS0Zz0lj0c2H-dkdF8-bxeto13R-PC67G6qTrIzQvO3eMIcuGMXZVjIOiLR5NovKN8vHjQnrahlXECyR9xkuKzHhYPJUfhH68g3F30Ffi7HQ",
+      "width": 917,
+      "height": 1146,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fEycV5DA9EcqCIRxc9oE8LvrUH3HQQNZ1I6y7WdWbHAJcYiWeX7aZpRDus5i14eJrlsOYZ2cETunxpbe4z9KkpJYbQqeqdnYelcrkCAMGQ2NvMfsxCGVHAp_uvyrvaU7uc1eMc57mMwR58oklY17OeQz6BPPAtHQmYcmWxwiGd6kGLjO9oYo3ee84d6ETnGNQFPXB3TAq87v4yITXitTaMpn0MpkQhoNWKVUgIBZMhR7mtwbkSemQdYVHAk_Bf91-qt_xZ9SE9p_2Ki6b7ayI5z2PgXAFaII4wbDc1Qzeb_w",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exnz7ShwrQ15H7bIL1lSiVsP_oMLMd48xaCv1uB47XC9wBmjG0pkTEVuIybaDh_CKr2gldJLKvqhpgBK3Jh26NaCTOt7eKwoIsCF-zMWrElzjeMOHmVkrp4T-T9samKwKcR72rTh8DwTnqQGNBI4agDcaXwxo52ihbMXk-FDpNr3wHkJfBYukrTg_I3_sVvIBycgjsteANTryqShxjereM29E5rBy7CBb6m7WJ5Pc47XupdevDZ14JDBxu0kx1Hxp-SpIE_iKu0Bb-ilJN1YLD60PJRQFYkCBBJsbs2_QMPw",
+      "width": 1440,
+      "height": 1797,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxDpruGgv8usaGz2Vp6VBX5YTE6NOfs86_SZxyRgBHPNZJA6wJ6MfcUCIacRZpXCELDAn8yQb081okkzhSgHvNQLf9eH6mkKbREZKVcjknVd2GYjkmV0pLYXXwKEzicwbfVQfEOkkDcUKTPEdngfgopByjGyd94GrMHvdUW_LjQvadRgnDfbkr6sxtgdISonE4jUjYIx1v-6lIpoBYSLWG3fditKODPFyoVnjgpiPyMnZT8UQj4H3Sbt9GzTG6MG99HJ9W814OBvVhPUFkbECuCKig4Yu111SfeChWiXC9Yzh9gdVflaoDnCYNlLDTKrX3GAtsxc3byrQJiqyNqcio61FVFW7ZtF-UgbH-YTKzHBxaPjXHdGkffwulylTOvIwiHwytarVKMvkfw1ZMxgDw9GaFL5MHahe6QoaW1snkYw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101783922966435141508\">Echo Hong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1vpzZdKc3ML3oRSq9clPiNwnIsI4rWu53Nd6pykJdoasQLEkGdKGC5QsoiHe6gP-wqqDzIacJqAyP_vVRXIgLAzwKdqXkbcfWVvUNhX_M7YKP4t7r3gK7ZtRuxd5Dt4Pli_Ia0DL3j6GGtq4jbjdgp5rp2fUPgmixD_LF8An3zeTjWSAjdEdrLOK6xEFhHG8aRLfLoPwDCtTrOYYrxwjfP6gnChmS77Rb3zA6P7qtMM_LYjlYQEnStG4YRzUjzES8ByuwTob64GOipQOLO-g2SgPoaXIfcSL_w3BOJ_aWKA",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dd24fW77C9fqPq9niRwlwAtUr5OBBZ0qfRFLxw4z1qgkkmnKGjeN_oJvuPBOz2gljgeZw1qoZ8le1eQQEXnILTv1ob-Ozo6tmyFZVXlrGwUBSb-VTug-wODkjbhhc6kjHMWNludtFCRX8my7sYzkQVRTLemoBOZCZ9Y__54Vhh2IPMRhnGuDnPqRI_kBOTWjiCcSW_1pE-wFab6iFf05q9Hezoj02TU3NajKA5U9Jd9RXOpxEOWMiUKR6uVzgr5UgMmV2dZBez67qealG6LsJfVd_Up0EerojsVMWPHkgDLQ",
+      "width": 1080,
+      "height": 1348,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117338277090283418766\">The MAINE</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "New England cuisine spotlighted in an opulent, historic venue with cabaret entertainment.",
+  "reviews": [
+    {
+      "author_name": "Shevy T",
+      "rating": 4,
+      "text": "We went to Maine Mayfair in London for a girls’ night out and absolutely loved the vibe and atmosphere from start to finish. The food was great, the music was amazing, and the cabaret dancer was lovely (though the performance ended a bit too soon!).\n\nA huge thank you to Maria, who handled our booking — she was absolutely incredible from beginning to end. Our server, the hosts, and the sommelier were all so attentive and kind.\n\nThe only part that wasn’t perfect was when an older gentleman wearing a cowboy hat who works there asked us to turn off our flash, saying it might disturb the musicians, even though our flash wasn’t facing the stage. Many others were using flash around us without being told anything, which left us feeling a bit singled out.\n\nThat aside, we had the best table in the house — right in the middle in front of the stage — and the atmosphere was incredible. As a Canadian, I also loved discovering that the restaurant is owned by a fellow Canadian, Joey Ghazal which made the experience even more special.\n\nOverall, it was a wonderful night, and we’d definitely come back again in the future!",
+      "time": 1759668017,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "shilan sharifzadeh",
+      "rating": 5,
+      "text": "We went to The MAINE Mayfair to celebrate our civil wedding anniversary, and once again, they completely exceeded our expectations. Every time we visit, the service, food, and atmosphere leave us speechless — it’s exactly why we keep coming back.\n\nThis time, we started with the butter lettuce salad, which was so fresh and tasty with a uniquely delicious dressing. The cauliflower taco as a starter absolutely stole the show — the highlight of the evening. For the main course, we had the large cut sirloin, perfectly cooked, tender, and full of flavor, paired with asparagus on the side. Everything was spot on.\n\nFor dessert, we tried the cookie topped with ice cream — simply heavenly! To our surprise, the team brought out a chocolate cake with a “Happy Anniversary” note, which made the evening even more special.\n\nThe service here is consistently outstanding. Every staff member is attentive, kind, and genuinely welcoming. The atmosphere is just as remarkable — we always love the beautiful décor and the lively entertainment that makes the whole experience unforgettable.\n\nThe MAINE Mayfair is truly one of our favorite places in London, and we cannot wait to come back again.",
+      "time": 1756314977,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Dr Afshin",
+      "rating": 5,
+      "text": "An exceptional dining experience in the heart of Mayfair. The MAINE offers more than just a meal it’s an atmosphere. The setting is glamorous yet comfortable, with a lively energy that makes the evening feel special from the moment you walk in.\nThe food was outstanding fresh, beautifully presented, and full of flavour. Every dish showed real attention to detail, with quality ingredients cooked to perfection. The lobster and seafood are a particular highlight, but even the smaller plates and salads were memorable.\nService was professional, warm, and attentive throughout, striking just the right balance between elegance and friendliness. The cocktails and wine list were equally impressive, adding to the overall experience.\nThis is not just dinner it’s a night out worth remembering. A perfect spot for anyone looking for world class food, ambience, and hospitality in London.",
+      "time": 1759357160,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Frank Higwanz Higgins",
+      "rating": 5,
+      "text": "I booked for 8pm on Saturday for my anniversary with my partner so I could catch the live music. The music was very good, both the normal and Cuban jazz.\n\nFood was amazing from the Oyster starters, steak as my main course and chocolate mousse for dessert. Service was amazing and we had a great time. I'd definitely recommend coming here.\n\nI think I may take my parents next time and pay a little extra to sit on the main floor with a better view of the singers and cabaret.\n\nAs it was our anniversary, they also gave us an anniversary cake which was a nice touch, and even that multilayered chocolate cake was amazing. I've been disappointed by recent restaurants and I had high hopes for this one. They definitely didn't let me down!\n\nThe place is also styled nicely with lots of different sections for all types of vibes. It may be worth exploring other rooms at some point.",
+      "time": 1753287176,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Shannon Sagawe",
+      "rating": 5,
+      "text": "Had a fabulous lunch here with my husband. The 3 piece band was wonderful. They played Dakota by Stereophonics for me. They played Bruno Mars and The Spice girls for other tables. The atmosphere was upbeat and elegant. We sat on the terrace. My only slight critique is that my lobster roll was very small. My husband really liked his steak. It felt like they could have made the lobster roll a bit bigger for the price. But everything else was perfect. The staff are very friendly and playful.",
+      "time": 1755015070,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:01.159Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyrKsHsFdkgRlscc2dm1IRY"
+}

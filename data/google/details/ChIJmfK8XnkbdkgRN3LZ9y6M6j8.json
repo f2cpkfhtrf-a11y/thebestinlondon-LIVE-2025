@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJmfK8XnkbdkgRN3LZ9y6M6j8",
+  "name": "Uzumaki London",
+  "formatted_address": "107 Great Russell St, London WC1B 3NB, UK",
+  "vicinity": "107 Great Russell St, London",
+  "rating": 4.7,
+  "user_ratings_total": 5001,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5175444,
+      "lng": -0.1292386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5188437302915,
+        "lng": -0.127892269708498
+      },
+      "southwest": {
+        "lat": 51.5161457697085,
+        "lng": -0.130590230291502
+      }
+    }
+  },
+  "lat": 51.5175444,
+  "lng": -0.1292386,
+  "formatted_phone_number": "07746 998623",
+  "international_phone_number": "+44 7746 998623",
+  "website": "http://www.uzumakilondon.com/",
+  "url": "https://maps.google.com/?cid=4605647702294360631",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cxYxkfQPS4n-2Y8fx3N9ZR0QLPm-o9b9dOnhYyYgfZQxWHU92hLojTfxV_vPIzWhbTVEerL0CYLRgEg7G4BHINY0TXIf8kYvMEZRmXVxSlwGvLR7DNgGsiAWN1Z_WoXOUgERerEYV-fAetVSU1QZ0fbL11xdWlp1a8zLZIASzXQj0hfuw3itxWHpZpGyL-FnQ_aR90M5oxNta7En-OFpz_L71yE5vmfwihDKg0G0W6Tlij_SL4RiPa3zUerel51lBSjQoO9fCADspTS-8nfTRW86VqCKUQf3ChOuzLDqo6FROBQ87bQUGz78pCM-PibnK8Ywl8gX0T3vVUOX5H3JvEKx01a3X_heMGdGnBB-QHce6INIgVObuVP19fA1Ccuhxfl2m4xZhsNpQgH1BpFTTn0NT4yeHTXUhdt2BuPn1IdWxA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114288089567894258580\">Kenichi Miyamoto</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eZzwwujmwB1Ea7ub42fCQuwdD-BGgO6ykOHSkZfzHcLuZ3zrKJFcVq4WZL_n2xsNR1XhSErfpWmeBuqnKUwzJ_mwB5WMjl-V5Q3mGP0KBWtoqsmelESBsf6upxv2_-KSUDsqHe5IPxUXWf4Cz0o_4Exc6HHkYtGLwRGtlIHlL7ErIysT-UsD_1mXyVE4Zt45LbqYvqpgRW_dsTBtxyF_59WzNhWlLgjbJYJlvwBGzPmUXTNU0guOvQ8Fcvoi7GOoOcPCKljfYiQhtS8tQmhCC7WDx49zdJJNAYIBXRulwHWw",
+      "width": 2688,
+      "height": 3754,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113680249918891671014\">Uzumaki London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0UQF4nJbkGlrJaZk3bcMOfNI-FClFM5kgGXgNqAavae7f7MpLOAF7huQ90oFQcgcJRrRkfU0HaIJDSuqBAP1rC7pUbXVBBjyUKDqOqBP905DvMLju2Nt-T58XgUDokOglJQTXfAYl7nlzIvrbm4LJNHndUusASk5RkA-ZUNuwzMjWeUSfgqACPLBzE9_fxYyGtulELSq63KTU3v8PtfBlCQ3QPy2GUlO6do7jcCqkP0HaX_f5SvRNU2vmIoghPitSC9ro0mJsK1sdZQUQKCQIft9Bw1Oo5N0UnuFZ8iXFbX6Nvbs_cJyuN-mOt1Hrw13s8CuWSUs0whS8kw-_n3chP97hmPlFwQ1XXr1iCGIjTBBhiJ3i_zM02vfgxGO4rXHjFr_g3G7kls3RGQGqTSnoiDcpF0o4hZubesJP-4hwrLjWIN96YlgOMzNQCKk7",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115252170996593062196\">Klaudia Piotrowicz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eIp1kIQQbEx6aMw1EH3MPQjNnn24YyIh411iksYB-1BIPXqROOOyrVqYmvK4dSSVsESnvZ5My7ilcWRzFGtzQNhI3ERiwBIC_GSpK6oYcbmReakc9zB3nnyiCMW_4XKOQKjoD0E2DRz0oUkFC30oYgciX1wDhtymf7_6z-uz8pXZ1IBPk2cUNNyO2mqoFhA31yw5v-PYL_5InKsu55ZAJdMTxxPT9S9pHBIOdTUREdF3IBr4Qp5zTSfUetXVE_5lz7oaegRA613Ol6OoFhhjzOVWA6Xtic7w4HkMXm0KPrgPGCK_dot6c2mBLyfVfYSeEcqT2MvPlISmn8tn5NHvcJEcaji89tQpnjabIZkPDbe717LY2MmdoI7iUNPJD8W-7YJ4QdDCHYVp35Fo5aftOXJKMcUgurH-XdzPOyihZiybUbw36sv4L12QAMhvIx",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105776098928355119523\">Joel Calvin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fst8Y-A_6KXxN3q1U_CI5SN0-Y42QksWF7-ZRg3phr5YBUslN3OKjN9-qlUiXzos5gIvgkfXmfaIR97GYs8OFiF_HmfOXb6UrzNPSQJdPpn5n8OQZKXUEjjkRwpe2b-k_QegAnQd14Lc9f_VhHnaEvuFGJSq2LkjQZv8TuOC3u8vJ1MP7HL67rIAh7oIyZJczNLdVhi6qRIItZ7OrlAtMuXccs92hQLoNjMU5pjSKHMC0G89ns_I9g-z1CNwfRNc3Z6_79HgNc7OsIz8YXW9KpLPDKObdnH9fr5JdWpQBJB8_4Mct7Yd8oPog5gcPRa6d8XAQ2tucRoOFdOcYbCFmNME6J724fKGdsUQMTjTJboPs_OA41HAnKCgEhuJCvElxrjs1xae0UcB32e02q6qKUOQZXOPUj0Ju371pTYpsb5mxwEnGe9XQEabjrNHv_",
+      "width": 2048,
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115373889371771796279\">Michael White</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2din87i3O75i7w2bbx_h6_YtwYGWMwW-xtBlyKcmICV0EDUAWHR3p8ruUC3vAT0xhCU6lI3v9PkUDZl3nuTyvc4sz_86G7T8fOKNd8tkgPB22L4sKOKBDyumuorOrMaWa66R8dmgm5xGHO9VyhmT9sNIuFdlNPc27ncfwfRuXGdXXnkDtt5H63nsOi5dKFps7t8r0w-CQV6RKxSuxpO7CeBX11AiWe0DJdlbmlpALV2EW24waC0lbSrEaVupQI4G-4eSwk-6f_EvP4htgDJ6KF_SB46VaWf7jCVp42xbSX8M3vqUBF8qUS25jHvZSPNH-yMczivin9xw6DsMGZ84hgSd3JcdRYWMF31bk1AAEVfBtFcP9FaHAkMDcvbF5dxRsvKEGCBJEV_raAOXnLja5M-SD1xiBEADgmMHf5CS-w",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115472614307330422708\">Bee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fVu67IDwkD5NFQ-vwAr9FpU5dwgndO4sx7SHyWiNwHs3Ix2N8_fabi_yAuY_UATWOghJUD3PAbQ_zivrEKwgRjWbQedWrI8uJR2fNVz9M6JJor_lwDOd72JI0j3ofEGlrCIppXWjZfQUa6AVbIezJHp69CWMXRdv41pethifoSHKcpcV3vwP1SjRMADh9XLM8QF2NDopyuR1FFnULpHvqgkgzFm4xhqLlOu8RjY29bvewyRYbYxgV_XkC-ioRj0BQMoIP-rtRxWwZBhKY705CFk0ONZ8-g6E-sngsewj67m0jIcpnZ503hns2PBQUbhA_FdTUD3EDWPKWH4tFa6ga4Hn4yqhRoikaSrKZZSJLV9cXmaOHxcrcRm-732jy3Yj_k4WcL4psPft9I4isRQeQ75YZFc4U_LqE5OLgknKgbueCe1Q0jcRnkwdZkYw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103058101565100032296\">Ashleigh Williams</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dfhyRjmLm_tGdfcpQH6dDRU17K-iLZIxUp7H452bDSCduj6DEk2Q7VkfupEZ4ewGNSRWFoJrygbp0unKT279MM-vXEhvfe4YAxB9EkFlu8-yDvSdubnxb58BnygIg1KL0x3LZP2gthppBXg2i_NGuByYB-cD_K0wypYqhE7k35WEKAlMWraPgpOkhg5RlvjoCrtV1uij42dm4oXZqNelglx_iRY3IBCxweDFz_JlBfHX4i7m1j-xT-RaoEzD8d3l2IK6oY6sXbnvhQ7EE-7tVYAbG84ydiBVmPGuQGpCEs4kZ8d8VravBFkMl-6G7Ij8ICHUp96FO-fTOQ68Fu76TETa3M6pxAf82lJ7XirI7ZAFeBnsWs54aPCByHbUfaFcfWk9tNx-u-H7lsJf7XdSuRjtZBrh3ull67fY-k_AgjqXu9",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117086460363565964380\">Aiden Rogers</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZP4cy4hyQxeddpFRqWHqY2h7pLubCHJJJVkRlH5iqrSuWKQWjm3w0Gjtc3QtJeeeNJzlzBOFr87gFq0h8dsxAB64iXILc1VfEy3RqTmIdbqeubtaLhBnGWzqoIGSPqtGh1qi8TtSlyQeo9qEF4ecGVGw5Fpb9aF4lvW4-mTYFGSV0Cb8SdIbLfnR0kQB8Q4240EyGfWQKViNqQC3yk4gnfhTttd6M-m4PCBr01a0a3KKyTZTs5mcVnLPlUYy2e6J1ou8v_v37e04QyK97DHSZ_sDPQWkoSGZGkhheNMrJl15Uccrw9t_3XpZDvWO8zaWLUY8GGZYexWoPIiTchd1EyjuhWMDvVXEz47M-uzmVaaYhotVMc92aXs4BkpjeUcYqVR1xm1xwU_l2iTEY3QqWTzf-kfDUgK9bJrSI77Q",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111543918059854721688\">Ben Shillabeer-Hall</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eC81ygzYs4y_x-kcIKGMNrXeRgLxjenrAYfgWcdZTabCrEecVr6M3PB4FgLWvGhlhTme7OQGtIUJtJgWZJqc_Ln5m0R25vrSg0Ww8UZy_IKzcsEz4RyBecgxkQON880Hri8e1UL1GJZ5L4ZGNlN2iFWtaOzTyEcDcYGJgxeG4Q-Nnr-uEyPsZwPxn9fe2-xNU7Cq-szdD6-aICttT8AozLKZb6-M2fpSadJJdBcpYhqsexFAIsLuuhypcvxCVDpuxLjgowrrW5jVc5zLje43F5BgO9qaBdLKtwOuxPiEi0d1mCR2UFkAZwPNQJcVdvCjyBpc4Fz0X0Au2WeZ6qC7yT0Wb3p-6kbm3hLnxQ1IJwgCG6P6qK088L3cGj0tltSnyay7u0LqFXFjhmgldTbO6tfq2cqhHp32wqz7yhDfE1-tc",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109212107221378055057\">Jane</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "phoebe webb",
+      "rating": 5,
+      "text": "Such an amazing experience. I went on the 16th of September with my friend who isn’t that interested in anime and even she was amazed with the amount of detail from the figurine shop, the decor, to the menu. Our server was Kai and he was very polite and attentive and so were the rest of the staff. They are constantly checking that everything is ok. I cannot explain how cool the art work is, I mean take a look at the pictures yourself. 10/10 experience, highly recommend.",
+      "time": 1760043408,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Ada",
+      "rating": 4,
+      "text": "Went to Uzumaki and understood why the reviews are so good. The food - Uchiha Ramen and edamame - was perfect and really filling. Good options of halal dishes too. Annoyingly no Japanese sodas were available that day so we had to settle for a fruit tea. My friend had the 9 tailed fox mango but did not enjoy the after taste.  Customer service was good too, with the servers being friendly and helpful.",
+      "time": 1760264120,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Andreas Kallis",
+      "rating": 5,
+      "text": "We had such a fantastic experience at Uzumaki London. The restaurant has really great dishes with an amazing, exotic taste. It’s easily one of the best spots in London and has quickly become my most visited place.\n\nA special mention to our server, Kay, who was absolutely wonderful. We had a small issue with the seating, but Kay immediately took action, spoke to the manager right away, and made sure we were accommodated as quickly and comfortably as possible. Throughout our meal he was attentive, professional, and genuinely made sure everything went smoothly.\n\nGreat food and incredible service. I can’t wait to come back again!",
+      "time": 1757623240,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Aravinth Don",
+      "rating": 5,
+      "text": "Had a wonderful anime-themed 🥷dinner experience! As an anime fan, I really enjoyed the cozy and creative atmosphere. The Naruto Ramen was absolutely amazing — the tonkotsu broth was rich, flavorful, and mouthwatering. Definitely recommend this spot to any anime lover or ramen enthusiast! 🍜✨",
+      "time": 1759743614,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Ebaa Alhinai",
+      "rating": 5,
+      "text": "Best ramen I have ever had! From what I've tried, this is the only restaurant I have ever liked their ramen in London and many other cities (with halal options). I highly recommend the Beef ramen ( Bankai ramen ) which is my absolute favourite. Dango was delicious too! Staff were considerate about my needs of halal food and gave me some recommendations. Optional seasonings are available for free at the dining tables. Atmosphere there is cool too I can think of going back there when I can :) I hope there will be more branches in the south in the future!",
+      "time": 1760267361,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:44.354Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfK8XnkbdkgRN3LZ9y6M6j8"
+}

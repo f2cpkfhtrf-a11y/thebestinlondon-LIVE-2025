@@ -1,0 +1,313 @@
+{
+  "place_id": "ChIJmSI9UdcFdkgRSbOLWv-dTSo",
+  "name": "Bottarga",
+  "formatted_address": "383 King's Rd, London SW10 0LP, UK",
+  "vicinity": "383 King's Rd, London",
+  "rating": 4.5,
+  "user_ratings_total": 403,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.48336459999999,
+      "lng": -0.1765098
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.48474678029149,
+        "lng": -0.175254869708498
+      },
+      "southwest": {
+        "lat": 51.4820488197085,
+        "lng": -0.177952830291502
+      }
+    }
+  },
+  "lat": 51.48336459999999,
+  "lng": -0.1765098,
+  "formatted_phone_number": "020 3874 2000",
+  "international_phone_number": "+44 20 3874 2000",
+  "website": "https://www.bottarga.london/",
+  "url": "https://maps.google.com/?cid=3048266242861019977",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Tuesday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Wednesday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Thursday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Friday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Saturday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Sunday: 12:00 – 3:30 PM, 6:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f-dFGgI5En8HYvDPev6KD5kE6dPJ-kf_T5Xm-SCpNU10KCcdEeGy_ymrrILqSrB4CzuxVAos2DR-NAXRuZ3h6TKEwCptfcRhhyJDQM2tzJFBWjlCTm_tE7aQmAVx9e8veCGL-xbS1xwtOzjAfGndRT2pgLQEqqTfyHb_rcHjzzANzSf69Tuc-dJ0sZQu0UwDFsKIoJJzyQ_ZOCuhjseFvw9bjWjMb7vuAmPbMX-AvhPZpcVhQgeDlkJooMlTEEBqch85WWX51n3LitUuKsGDSY2hTOkKA4zitTxiIbqzH-AA",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113498374612228516003\">Bottarga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2foIOqQCSVqfAcWYSUaG5xUg2jRKM0FRVawBNMLAkUPvqoJI92QOqhujsgdnJjJqs8n0ZUiBPymYC9iym9xnCyIN8Kt4IiIj3_-BQKApA9dL7cVXNiLwbLcC1FXaEAyxvEl8kpEQkM3hs-2MQjGL05hR48EPDMp_RqtxaxAhGp2zHC593f0FMl8h2d9Nv_7T_u5HjAXPWwniBjBnq2wnG_7tNvYlnjR_C6h-edXXOc1_6B5_ffAeHIm-7Lc8XadrbT2qNeMJxJFShdkE9KOF9J3cfa5s9UJJTpvCeDJd5rIww",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113498374612228516003\">Bottarga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fGp7fRxvxhExea1xXg9CbibH8Wxhq6UShI9Uc4kFBdVrE92sxSVcS0TXybRMH6_qxPk0-A2EfrLVy9HYVk7Zali5QF532MKFLzVaevhvc9ZTGDtwxbVgdZxRK9wo7tYfCZ_Hb-K0hCAZ9_gQJN-4KuijP2JB56zH_Wa1OFSJOqH5XgYSvYcAuxawBM3DQnUVR1H8ig6XefWV-29nnFWdDoaIENIeR-QLJmunysrCMJ26vAYffhWi2yFn_c5zjPhAtnEhjC2VSDzO1zqwYqlq3k0EOSL4_Ja2dA0LdVg294KLv-wt6JsLZ1k5Xtg9nwTR1IKKD37KunWErCftW5m1PD-ni6QDoSjIY6ZQLZX4FaFVJzjDX52eXCHhdehicl6mq7e4sC5sd8iXHhTqVr4VXGU8z4zJLdKAE-FzPTmEPOn67D3EeMe9wvnw4Cvats",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100275482988386019048\">Christine Kim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2em6AFEmw8pghl_WXW_CPN7UZlKR0HsBfkPM5LajwDpFarwcWjoGYYUsIHlY8dtRibyjDPJmrXD5pbBI76mC_7tl-j5uqsD2sCCVjnAlbLNtT68r7guiFyeAOaSBgo0qUMZE6_64pmlfuUU4wTwBnrRjkrqkU8G2tc-l0XiJToePQtNR9WEIGfEX0vveTU15PUKh_uvCsyXa4Kbacw6JHF9K1uoct5tzp2UKArYyVNCCK8x68LKjNfK7LF0e7buPFR5r1jy1OFqmsVFRYRlLePTT7SIzHrk3Ktgji6qqbttFQ",
+      "width": 3201,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113498374612228516003\">Bottarga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dyRQ13d39Z02kY3bEzLWO1yhZjJrwW-Y7zkUv5ZbdL4nfbFbaqCGh0CebnKhvGlrduMRidkev5fOukg5WM4amNzP5qX5APJ_1aHKSh2I-GAyE2I75EaMQZ4Ir6zwSj6x4n9Li33r5QO7TohDxZK7haVBF2aAF3wR2euFVcYt8dv7-yZKaYQE0JG1il-dNrtVpL2aDnE731cAqL0d_iP9ZsnBD6e-vszXjViWxKOA2Sgwr0pOhYUgt8S8r29PiIpsQnMZRkr9bONJCkWe63eSGnmdftE_qWjyR6T7kq1kST_emlal_NFHL94lCial5qdPKVZRjTXrsy2IfEMYXStwWm0cplJ8GBgGL7phbxYEQRpSxZ1LBVngmCj61EIHisjmuCfvJCRtBtx5YIrP9bDluumesdeijgAntNPmxf95jQlh2hPMIIuhjIhp9iPK3G",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106154165843542846004\">Rashid Mohammad</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cnqpdF-kTVLvqMaCizlpSu8Yeawm_ZJfFJrNkXnrhvbjfb7Q_rkv8sBJpDSGoJniB4tnImgXAWI9ZMMqCvVOZMx392jAuzKfACEWghtn1oCVypXl8wXOp68Rd9H8V3RefUp61YuFs_KpQTLflAz4-qUb9COxiF9CzQeA43IsgeQNKUnbLkXiVXVeC_CD7jPmwr6xT2-qgxO-x49UzjUD8WnbA_GJu3N5xyIv7QvApN2jbq91MDXxugfNgfiRexl_3jMtlI8Gdgi9d8h-OfOww-PRgygDS-V8BixjrvTzCcsXTmkwvUAIHr4XC_G2lEVrERAS73PvsvKKrvfBOARDJ6ZeK4j1E8z2MFmUebkHvkQ8Ve4PM7rmr79tis9KH1XeWzycBe7H1O0RagFFl68DJ9TkE3BrcLufXdvVfyESg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115313370817943463260\">Nelly Sid</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fndZfFb3lK7cwVCurcYmQJxJYejUFR7LonmbwK01P6xCSwTnDxi3nIZJ6RYxdoILRqFjp6V-BCCKs61nyzgbhRA7HFDf6JNeBrCrb4qpPdWvx6N73ToTWtsV3-zBnnn8T9UIjNgfXqYLbXGY3Ybsel5_wQNToO6dyDKeUaRQdDR0TddazaibuP0geJ0-9CtNVzNmdMCcGUVPGM3SelbZ4fBt3DvVH6NhIxJBhSfFrDiO6Cn60pm3oTZ6mZSVkfkbjgk-Y3o7a5uv6-bFmI4erUclWEgN3rDaHwhTB15XTH70f0FU7PKjyqhgMr8SCcYq0tLPssh5AJ_soYOs7n0hPSNHOX9xbdwEsjrxKuUyVbmtJ8VQNLvD3O_k_tE-0EfchjTCQmA_GTOUYFhP0Vg0l69VK_F3Om89KoLuN1UlIKID-h",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104918595443440703391\">Alana</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYIjuXCvf86TlwHwvbSW2eMKBaab5SfS4GeF6enmDe6PGGWQkE7ER6ozNYpjqQ8B8l3O6U8iD3U8yjXoA2W6-TJenhboZ3DgVwpX6HDWNnTfZr5RQxF1QgSbMc7ZsIuNfi5S1Jj0bFPE3tx7wKVTfqHJi_CEGNS2Z9a9fH28leHEZSPys2Zb3ESmx1w0URoUqknBYS0TtRKOpjWA52Pfdtc5H44iSBx3alKQ0dmQl5JMKW1R4gL41KX_psFr_75UYi32yp_wLfinSRivGoGiZITnQBLNw3o-h-q19JRvwLWw",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113498374612228516003\">Bottarga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eu8kACzhU_TuEaq2WhT9dHnlYQAmu06Ryrur4A8bhZ1IHeWHjaHxE6DADz0nf3xZtgI2mtCv1NBmTdjyiROkCjfy_CDnqShB0kpe01mHg_CJmJxGNS7nGfIzH7jBwIr6L6sL9wAqFiqLYV1vJMlS1_0j2so0Rmi6LGb3MhewP6K1aKrSPztsG1otY6incXbUMuxBBwxoN_eetbDrc8fAtvBY0dsZT20fjpMQcC2ZzcHnHGe-wwfA_epkTao0tmAqzXrLycQsSvR9WUtBRE0D0aoweR4BbYTQH922_xRlIFdA",
+      "width": 3201,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113498374612228516003\">Bottarga</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ez4oF2pN4ZA8KmyCkMPOrj-_-y3bNu3MOgiQF9ednDlAReu6gEbnfzN9TZKJc6xxkASfJhDokZSm_c0AyCh05eDADuq4cQClbXuJGUR2bFlSyzTv8ZKuQB9PEe3EoaFiZoVDQf5CzPU30FRDYNTL-cYYYv0w1rwCdHnNms19B7li7uqiDsTKkn0eNJu1SioNYCdGCPiK3KfexLxDYMYaiERj-FVSIya62-Xuc1Rd5lIhXF5cpXfJaLYRaQlA45lMBYptMJjZE8kyq4vqFdxnn0noJvGiqBiHY6TGdYnrzItg",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113498374612228516003\">Bottarga</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Christine Kim",
+      "rating": 3,
+      "text": "I would say the food wasn't bad but it didn’t justify the price point, portion sizes or quality. Between the three of us, we shared the spicy feta dip with pita bread (ok), saganaki tapioca bites (interesting), bluefin tuna (really good, my favourite), courgette tempura (nice crunch and the aioli was a good complement), classic greek salad (nothing special), grilled prawns (well cooked but lacked flavour), baby chicken (tender but it was too salty) and the charred tenderstem broccoli (really overpriced for undercooked broccoli). The welcome was cold although our waitress was polite.",
+      "time": 1760188225,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Paul",
+      "rating": 5,
+      "text": "We really enjoyed Bottarga, every dish was really tasty and the staff were very helpful and genuinely seemed happy to be working there (not that common in London)!\n\nThe bread and dips are exceptional but our favourite dish was the crudo!\n\nThe only issue was the Salted Caramel dessert where the top was exceptional but the base was stale - perhaps a once off mishap as last time we dined it was fantastic.",
+      "time": 1759743420,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Yuliya Subotniaya",
+      "rating": 3,
+      "text": "I know the place is considered to be new London hot spot, but in all honesty the food was below par and can barely be called Greek.\nYes, some interesting small plates. Yes, it is exceptionally pretty (serve plates and ambiance), but there was no wow factor in the quality and depth of flavor in dishes, nothing memorable, probably only a tad greasy.",
+      "time": 1759236589,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Andrea Bordoni",
+      "rating": 5,
+      "text": "This was a decadent experience.\nFood was way better than I’d have thought, amazing. Each single dish, from the plain Greek salad to the courgettes tempura. And the desserts? Yum. Do come here the atmosphere is an amazing and the food is truly delicious. Go now, thank me later.",
+      "time": 1757097135,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Martha Garcia",
+      "rating": 5,
+      "text": "Incredible food! Everything was delicious. The wine list looked incredible as well. Get the chocolate dessert! We had a late reservation and they let us take our time at the end of the night. Super nice staff.",
+      "time": 1760183460,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:02.916Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSI9UdcFdkgRSbOLWv-dTSo"
+}

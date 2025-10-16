@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJKfBc--AadkgRbx6u6AtJIpM",
+  "name": "Jamon Jamon",
+  "formatted_address": "38 Parkway, London NW1 7AH, UK",
+  "vicinity": "38 Parkway, London",
+  "rating": 4.1,
+  "user_ratings_total": 1136,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.538329,
+      "lng": -0.144426
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5396447802915,
+        "lng": -0.143005119708498
+      },
+      "southwest": {
+        "lat": 51.5369468197085,
+        "lng": -0.145703080291502
+      }
+    }
+  },
+  "lat": 51.538329,
+  "lng": -0.144426,
+  "formatted_phone_number": "020 7284 0606",
+  "international_phone_number": "+44 20 7284 0606",
+  "website": "http://jamonjamon.uk.com/booking/#1642380195032-c3228f2d-e5c5",
+  "url": "https://maps.google.com/?cid=10602116788280761967",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fzgVk-mZYBpJ_0yicpv-XlJWtKhDFElZCmmoqjm23347_RrbSsY3Njx8-2-7bEW5jbTyn16Pe_SFvIwCJi-VJRxR5zR3fpTDTVzCc1nKuP4h9Eu7o7cxuUfMVs3eQ9Gb88JLMizhLMEtUtPNfaosq0Y7grrDQidf9-XBX4cEkRYdn4E0v2DNY1Zq9eqdDevYynQG7OG8P2QPRVkQwIJhFhjDOQBIbscizSiqizzxz4NwlhAO6TsmBkV6Y9EigpY0HuQVlFbeIfwi7AHcjWdMfYbuaS6pm_Lx2DprFZ9VCjICXgyKxOACEINeSq4i-nmtn4Is3iUKRCF9NcXRc28LlE5gO0qG9UtzwQOOkG2MaHFXUYGpOX68iV0Z1BPwXyNL-W5XE0TONcKiaYWxykSjFHuTypzJKq26BQU9G_xKTOSA",
+      "width": 4800,
+      "height": 3204,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108108924971929003314\">Jamon Jamon Camden Town</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d7no_WjXjjHcaJUrcLxSeEOXKTfth9Dw9Q6x2PF2xrK3t7yat7NUPhd6C1jc0rS-hLc7gbEiJigYFo9BJ99oezseMtv9E59fzbf2cc_f2-osQV2XPDsSisI4dZzm8h9eBoiexcaf35MxkPN2tkBozJJ5XbS45X2PGrXfdv2HtBbNFVpSE8zRIPavB5Jnvk53ZhmZaab1ijEEoHVD0NwcGAcRW0PowqZBep1MkQviPF6X-BysCxRCBKcTU-ghOVLkKd1IA5VyTBZ3Y3Lf_giMxfXi7oH6NTZmWIls1JpDrigA",
+      "width": 1208,
+      "height": 681,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108108924971929003314\">Jamon Jamon Camden Town</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eLvg59oU6q3ClBgBhoN6-mh7m9VKL0YJFAyRRCfTBBEcg6cdSBmF1CwD-uGjwG9wbRSsrt5w0MMaNF-MOWpExX_4YMBU-53h9qk0hXfaiOkV-8XCkV2zV3StEvcEoH7IwqZcXK7m0E99EmK2pYDAb_fyWvY0DCOCTzwRQAMvPjIo_BmG5HOXn4Vno6DftFZaFfutaBusXFzcbDJhp3VxwerDxo5Z_fDeGczWka-9zGujHvNjnrbQCrsrsH7zcoZaEjqC1T6LyXIysT3E5OtA-szvP_Pd1v8RZ3B89heixysgeIrKII-oBMuCShN3HfXQcUZYOeg5Vjj15tHKu0AL7Ky0985xdLzf_2pMNkTxrOFj0NvM-gJMmaijD6l9fWalirhrcODHDYaxrSqd_4Kr7PbN7J3xR5OZ7NKIPkM3zxRuehq4dZ1GMxsDPcpWcr",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102340599217839351694\">Adriana Hadnagy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dI4vDb6xYrx7NmXR-X4Jlg9qQ-6QEAxGWPhoE0N7-Y6iCI-g6l_1rU79zdvm9ZqsZWuHv6VbdFB9XgASrn2rv_SparIG_-YssVKtZYk96oAKi_F24PRqmZ6o-lo2YfyqORk38chGja-5PrdPeoCCRfetehUHQNfT8h6_EY6srk7cWFGVDhgE5UIXg5ACGrtrydFCRIKMkYYr8h6-St9Nmbeg4Hwh1Hsh48hgCNCS0FHPOaU2rFrAV_BRL65XUQ6mTT2nPPFGU3TDqA1nh14S9J0p1gZ-J2obpJv_8l9WvJhGG89WMUvt-4aO22btSB2qcRW8xqvSzGvxc8fES9jzbD-JlgNS-HRCrM00-ZkfyMQWcQSlvfS6u0PbG5Zt8a9lAZkUe5TKF-joUxk5Go8Q2qiDSx7aAS6bw-Uv7T9MlhIQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109508125519371293203\">El Canasto de Lady</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBmLmjKbnIs3slZjg0bR0OljU-yB9ucnZhWm0J6QVM6B0hNgXQetOvwhLt0Kxu5P50LnZsVvsdy0Aj3iE_-b08K0x_e8ZVDb7Rp-fOwIj2LpXPMlm2r91jY2vdS9MdmZDp2bX_0xpHcrvmGDGpzCRzR55AS0FHpIyjU3rO0RhXt04lIaD4dY8EEmaSyPGF1ySirSTBqJuXf5J-fpVRPU_11cG8saU1CUPX0Jb6vR93-8DOb-4Jv-42zCdGQDi9ETCcDJRdNxNzoZPIL4yGFIVZmyGJAPxulfgLF0m40tGx5I8_ibv71Uz93_kMFK1wIIn8SXHRChgjYVXBAgx18wkijtgC_7sBpwYGLNkhTRzFhL3O_F1dvFBGJ9Ynnb-ePWXqlktaEe4YPqtuMCZIlqabDKD5VKDUuyPun-2zGJtQbwkGwmYd4r2xNilLMQ",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102340599217839351694\">Adriana Hadnagy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjPBubTkyxqTxWkQ4ocQEqiUpHFs3ZKYZVa1YSE0vdDPwsGHq03pN7gH3llA7ZgkS25C3iI-KDVxbWuEEPdOPPmxtq3d6P-O3bNqTmt7bkpWw6forbqwfKXo3ncDPxPMf6Mcu3gRoorQdT_LsqkyaJyj8ZhEqeWl0JrdtWsAmoAjZCs-oRjJLa3BNEOXM4MTuc2Ys4u21vdOEz9s7oMSsqb64U3buojMwpq7EG0GB5oMiwJG8smSTAm_k7okqLNEcHOLjCV1eZeKdiJE5GoV38NSnvNlwio_uRhsLxhbZJuGrLcGDaqBnFvRBE4LmWq0cA1x7DBi-2pwchMANp70IDheAKQVw--R7-HHel29CvrauqL6awB80iUpliuyMVxxuVO2CuHQ3HghIjCTC0ix-xOq3_hObuHE8PwNoV1-kGIA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117912193637167502053\">Anna Conti</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fA0EbXpSs5i-6adXDLcAm27kTsU-KPnSVw-rK-K7kb6OZ9t_ATON46hJhq6l-TUehlIZB16sLrvL0hWJMXKgQpo06wgVtSr1KuMbSTbZAWnKJ7p_v_-_9n-9U47v5OTGyJWq-k3GUpFFrvHWDp99iPeGEHjxa9TCm2vD-UkT2XOqGtbAqTx2xDKIG7GvgwgbC5cRLdFA6ZAaq5SAbPKp0--wh1sLpqsReNxavcqgCRG3gbt-UUx_z_z3GjOfhFcNMhF-97w6M5OTe6h2k5XkRmCSJVospcdkymqDmA6UXnocIDJDUIUyQQwpxPDzF-mss_Pu4_Uzo8mNTbHvxfcWeh28yBtPQp3iHK6tdO4twDFgJSWO-v_bh2hXFvxdo8DipAeWJhfUGhO4wqoVHKqGXRkx7SW561zWppNRL1rxukWoA4",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111367236413333092837\">naohide kubota</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fGKm61xKk3CFiNPCu8phPRsU6iZDE0H1f-yYZJwcBgtgvYe7fw0bLvypkgQQ_LLp9fLqWi3frjI28QAElGEZXRnSU_JqJ1JXiRm2lkRfgp2a2GvlWFHnv3Y0gcDL9SRX7dX4uebjfcx-4wBqJWOOL5Sewpb_-eAVZ9D8zXhR3ZROVVPR34Emkw01-ABv2zmnQaD4j9ql-Ikqc82kPVrBbDZ-cJsaWHQKvz4wEAbyGu_TBW6rfZxCBy88nrBwlDQNtlF9shugQ2YQTY2WuoH9_3zusEKRSTPkAlWTPEqibMjHqhoJMU9DUyFg_WxWEV69OZi-Wd4rvik01o4D9WruQcRbOXF-zs1UPbC4W0hUd0g4ahjojNV2RxqHehRcor8IyxreIGd5rkEF0z8tH8gZj2Bmia-2ADPL_p8Z6H5r4",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113139081084460299973\">Emma Costa (Emma)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dySWyRi9t0mcbkEJJWyaXLfmSI0IRjEkMCH5db40-fBL_nyWY9JHAM9PpyTCGgUAvauvYNZRVSg72NbBIQChTFBu4gHA4UnAA1LsDFzdmmb1FDOSXe8VDjUAV77rmaPQaxtSTWkjfDk92E9gY4MxAM9asj0blsn10o-w4CGElgiL57NQxCd5oNyawbvDDZILB1nueqVwNOT5RMmtYRo2T2ExOd8ck5iBzEPBx8VObGk-5slMVj6t2nNw_rsAo9xUgsFs8z-BciHym4241YRVlJIMr8RY4VcB0qf4U7pstYB84aAYatMhs4ErQ9n7oTxIz9FK1iPpfZrEevMr2GOpJilROSYvqY0O-n3C2IocQaXIDjKh_eS1_1cPMKAfz0BBqzeEfUNOe6gy7KBmrnA1Owe4h5FwXNb3xBlPeqEKOoFzMM",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113926575133984870820\">Nida Rafiq</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dPpwnxtOfYn5zlhIufu6aAWBHKdjBzEJg0dN9sXkHUMoXSdMzo9uP_oBNphThGOJm-RC0XCS_ZUlhSfOoQyKf1eC305q2ClXal65QDDauncGIUOlktbrHqlqwT7aSEABMwj5aI2LxtgwQWVTsWMYk8vKRfwjCLO2AjDj6v8JUcxrvbw6vGXJ-SyQTKsVtJxLkOqVTQxyKiDB7uD0L1MdA8_fQUNt4A1ZbMa26tqfewlbeBAcAseyz5W1CqWzVNoEb_jxuRjXwgidQlDuO9hsSbxZ7p1chJCwRkgWwM-yV_KUa4M0qGVn3icW5t53NIQ-WZkbwYpBk9876Uit9NLzsKY04Eizh7uPRXGCs4sS5Zkd_z3Gdr9oiq0P5uwA6c_daB1mUWLH8QwalbuqvZX8zU0sMc9Eo7dUABq0TDieP4XR-x",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116522515551259021326\">Jessica Hart</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Classic tapas, paella & sangria served in a contemporary dining room with wooden tables.",
+  "reviews": [
+    {
+      "author_name": "tyty",
+      "rating": 5,
+      "text": "We had a fantastic experience at Jamon Jamon Camden! The tapas were delicious, the chorizo and chicken paella was perfectly cooked. The staff was incredibly welcoming, and a special mention to the new manager, Isa, who gave us great recommendations and made us feel at home.\n\nIf you love authentic Spanish food with excellent service, this is the place to go!",
+      "time": 1741570971,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "Neil Macdonald",
+      "rating": 3,
+      "text": "Staff were nice enough and did came out in a timely way, it was hot. Had 5 plates, 2 were good the others were OK. The bravas is best described as small cubed fries with two sauces on the side. At nearly £7..well...so I would say the food was average compared to other Spanish tapas I have had at this price point. No major complaints but first visit for 5 plates and that will be my only visit.",
+      "time": 1759565302,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "El Canasto de Lady",
+      "rating": 5,
+      "text": "My interest in visiting this place was because I saw that Amy Winehouse loved to eat there.\nThat's why I went there and I eat Spanish food (I had already tried Spanish food when I was in Barcelona and Madrid).\nSo this place is very nice, the atmosphere, the food, the service and the music and it’s close to the bus station, metro, pubs, etc. I love it.",
+      "time": 1736639771,
+      "relative_time_description": "9 months ago"
+    },
+    {
+      "author_name": "Alisha Rodrigues",
+      "rating": 5,
+      "text": "I thoroughly enjoyed the delectable dishes at the restaurant.\n\nThe culinary experience was exceptional as we indulged in a variety of items\n\n1.  gamas\n2. Chorizo\n3. Paella with seafood,\n4. paella with ink,\n5. calamari.\n\nEach dish left a lasting impression with its incredible flavors, making the overall dining experience immensely satisfying.\n\nThe service and ambiance added to the positive experience; everything was simply outstanding, leaving no room for complaints. The staff provided excellent service, contributing to the overall pleasant vibe of the place.\n\nTip: Reserve to dine at Soho for a delightful experience.",
+      "time": 1706660638,
+      "relative_time_description": "a year ago"
+    },
+    {
+      "author_name": "Ben Cho",
+      "rating": 5,
+      "text": "We chanced upon this when we were looking for a place to eat. And we are really glad we did. The food is good. And the restaurant feels airy and inviting. I particularly like the natural daylight coming through the glass roof. The mushrooms and the prawns are highly recommended.",
+      "time": 1705764190,
+      "relative_time_description": "a year ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:04.980Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfBc--AadkgRbx6u6AtJIpM"
+}

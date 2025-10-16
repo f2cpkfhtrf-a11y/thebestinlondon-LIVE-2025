@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJoTZdPjUDdkgRPmRIp19fiZw",
+  "name": "Amber Restaurant",
+  "formatted_address": "21 Piazza Walk, London E1 8QH, UK",
+  "vicinity": "21 Piazza Walk, London",
+  "rating": 4.7,
+  "user_ratings_total": 2395,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5138963,
+      "lng": -0.06871719999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5151561802915,
+        "lng": -0.06691556970849796
+      },
+      "southwest": {
+        "lat": 51.5124582197085,
+        "lng": -0.06961353029150204
+      }
+    }
+  },
+  "lat": 51.5138963,
+  "lng": -0.06871719999999999,
+  "formatted_phone_number": "020 7702 0700",
+  "international_phone_number": "+44 20 7702 0700",
+  "website": "https://thisisamber.co.uk/",
+  "url": "https://maps.google.com/?cid=11279651606159189054",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2emGuKs1bH7LryRkazJGQNmn9al5E8I3V_Pf_A_xHL84oCFcR-F9BxJ_tUN3M2OmjzlL7npj3-ZKjjCnGroT_D4fwh04L68HAgAhvrNtJfISDu-R5l6m3GsnWz7dN55edSU8I3rkXSqUKZOcnbu6o1fQrkmn_y8wIQev9es9m9Qi0hBgCH4ByKleVrN2AT24osuAKpwjPNDq0EaCJovPzGRt4RCxWqAYkdxsTdBClpjZgdMCCO8R90VZDj7l1CGIJhVQmbMVkZoha3t8oGx5wXw8Elx60vSPnFRyij8ZiU",
+      "width": 1799,
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111408098739274846854\">Amber Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enUKWDQ2mhA67JlZs5uSOVityhKZz3KQEO14aKInvhyNaajdLk7-TkMW9wQINtZB0gYNyCVtjvWzf6e63H9eHdJ5IYNkxWtMx7iRo-SVbbgnd1K9cB84RRGbWRaEX7tlDHlU2PLTbvj2QgSKGNY4eAY85MGHcmupboS0xf1BVFvv9jq1tLff8VwBjwIDANlPqNAC9Tyvtg7p-UHXjJbM6gd7Ymb7kKOGAu8HUPCly9midPytUmRmuZpb7g_rNYhv7qnpbuHyguvHma5mRPZtO17Dg1mSdA6yapAGjOg_w",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111408098739274846854\">Amber Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dj4BXEOeLbZ53K-e-Lvqwh-eExZUAgbeT2M-SSKG0BNqHTBxmu8_vD9jV2A2xwG2vFvVciXfStD3CIvTaiclemI_ispvdCVjbCNZdfGfN58ITHtAzLlXoUXFNCUF8wCDDXAXNX7VMeyMdBduBZkInE1hbDJQ7ct98Jw3vHRYZwKbaOmWKrp2eySwGOT1Z-pYARydA53gDef2dhlmOCRZhKMxU2QA1pezonTby271VHpzLRVxBocpEE9CtMR8tXOB0VgKyRn3GvoOgXllBEDxIMjGg7AHFDhjphwietJuC99A2W97tWMEgKVSiBSApK25LwxA0PIa2LzF6pTn8cGWMkuKaEEousCBi7WazhNfivyqOmP8BUfvg2mlPzgFdskSa2g6FwkRIue7gNbxvP0Peal4j0yt3oQp3vf6P73OEn4T1ljbi2Fug9t9s26g",
+      "width": 1319,
+      "height": 1249,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110806900884396368436\">Sophia KB</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cGPH3Pya0Mk941FcfZbmurRDLy9IApw6TAdoCDcBRYNnUXQ4Y19YBeuQo9oFgDI-NjL_z6dj0t9p0jlwC4fecW3NdfJ4cYEkQjDH-oxlPTophA-tCSJzR_Wyq-Bocoqaqr8iPfnBrs6qtOXhNmYmt4Fhh9gUajOkc_LZGXKLtqBXh6EDpAnfNuUdnofFx-aiFl2METHKEKaBwyN6EYw8QbcxYQUpEuTG5o0w6rq_FZtZ-FdMMTM9TB2WQ2Mn3nqJYSwZ2v57Ium9yP-nvv7m6zTuJdSjbBtOrKgb0SrqbwE685Hd92EPKwxWwb0qBPG6X5UlXJhp-3R3cd9uzZGeVLZqi0BM0svm6dEmR4vRno0aaapnyms5X7qYpSjomvXJWRcaEatSuTGD8fyHKSET_l31eh72qwcUIZ5PRydrUY6DLK",
+      "width": 3069,
+      "height": 2027,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103654992899349717302\">Zi Wang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsM0AyP24WrP_g8rZ_ytRsZ3CD1AJ_s958KgR5JhnszJk-79mxT54WK3XRVuAtjT7nA18HK7lZtStPCIx3TEX7fHlzQRQPR8ciEztufdNH743fu3elW1SM0tseqLyaDHW2_BV9x66SHHY89YJsP2w_mOtJ0iKEbARixkXkTiqLeFk5_olV3ciIyLRZVE4IIcwbIElg_DY4Meb_m55Abxo-lZstWdCIZhj-SXk08RDMnQokxn4iowjZ2m54VnXBc5cjEOFadDTAEsWH5qg3WZ28TBQVw6SEQQkqJOE4HkvHfCtAgc9sqgadToAocea2lMot36pTeaf5dVrNyT0WBI0LIvdDvODu5VMcCnX4Lyu1vXUrbbcFlnahVx8tx9tn7FJmOsvvTzfeARGFvkNyymlhBt3ZPei1Op3Q1Lnek0c2bT1ECNEbX8Un58tbAg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106363103481062097589\">Ghazal Jabbari</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2euwqSJE7J7JElunwyEvyJqZynvBg9TJzXIi4pu1IB3HlDCdmbFjTe9QLe6sgmyMCyCms6V8JKkMsWKsSe8fmWaSXmB63yGUwOG6ZQY7kAvb1JRZ5ABcQ2Nr2CUO_g0Dcv12v9GqTckEDSVgnOuSRlH2-4_l_opkKQrk2XPx0lGqCvJ3RxWEWTx5ebIauMhJPZ3ZqAOz6F41C9rRZ1lDDma21KjwrG0hwadT5EvaLsOLGatC1Rfa1Nr2YA-rHV7-bxegMthAf0_LWqctL4MSri1QN7LuGSWe0yKNhkYTGE",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111408098739274846854\">Amber Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eXkRG0t84PpGjvqmuKIOuv9I74RPZRWxsvT6eiTyFDKJhiW-yaZctOQLVdNIGh24c-LqkrAOpAeQaX_7McogqV7frSdEcC1SkAOpXhPSfBMFlNeqf4Rbi0ie7LhY0vf6gjd8pbrnm_de6h2AdS8apMT1alztAxGquVotBiLDLTzOjNomsHs7Bh6IMbe3Vz8Wj_LyXGFCTwRYHmqoZu-6uRJ-LN159nMAPcNkOYtPE4KH08d-RrSYEH9zgXkkPJGfHy4qgS0V7MiPL-4ZoFd76Nw50JftualKDKEQCsDH4",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111408098739274846854\">Amber Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eL-C7npvBlMKaTBgmtsQyVM-HRYD1WQzD53_o-gTK6mxau3rR85GLF6EpHT5dtupJUOdDk6_YGrNEbUMJhNQ49XWWGwlNKivnmeGf9bQx3dupt6d-zVV6RkNxndW3YwErWn8YUGrL8aswIMX4cUC4D1p8Aqize2Ecw_2Zb7n-_0yp11XmorB2Yk8u277XzDXIv5pn7E3e-G-ZIpXuFBJ2mtza5mWI2QaMXy1C6ZfUbXW8dGoS5l1xhoKTKcSwSsaVEOo9vZBMigGmzE4-EEs1BW8FO7KQEWfxhTBaCfvg",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111408098739274846854\">Amber Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fkgpKV0vKkkhfQv4D3odOQwwMkaDn_yNLkjkNOoCxGN7gwirWEmsgdlhLfvLfS3NIQC3IigJ9B8jcSlmoF_QToqX8yOEXXV1uj7_FLTLRdXfyXJBCJAYavPfR6qXV9nFs428bgU-GFZ7eaOOfcpwt-j-qbwhVYpXmeAGd_aeDnflb6Y4ztqVcXXmLV3DxnjtF295Md-XCRz9iAw39WfPgUR9-fJrqZ7SysnuuSG6Kd5DsJQmuMLyOQffdzfg0ZmvGxB4ZZMh5qoCt6ZZY5rq9NWFpJ_hkptt1xM1LDiDDKfqXceCqv23JWoNycPJbXF5ZsOvxEpQ16lO2ibVbVvHo-I0qFFmNZnzcZddWpOk9UQj55xISRtjW0o74T2vU1UurVk83YdZRUdmTv0rFwwizRLyR_6V2xqEq_02dqzLlhXY7BlaAupA7w997Dda20",
+      "width": 1368,
+      "height": 1824,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100017918713981410633\">RP</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cTLeooBmwVjItUXCwj40O3ZQwxMX46QJzy_RNpnPIYd0ASZCksSTxkBX8NteINly7UizScn7zM6DeJqFpRm7CsF98chL1uJNL6UhRsZcCLR6aKm1xv6tCYzktb17agcCP4KjSRWtV2uYR9XaNhpwMUx_yaGcHdWFSS3wkVXe9MlDUVs_xwU8b0PI_deY9Ke9ecB222lRSaLtj9vy8ymEX_iDFOgjHUrJOrNioVxiLBjlHh0sqhrrLvc9bA-NvmbLeElTOBsxl2X2Ns01pddCg_Z7NkaVHXYlkvZxImU28",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111408098739274846854\">Amber Restaurant</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Modern restaurant & bar serving Mediterranean cuisine including bottomless weekend brunch.",
+  "reviews": [
+    {
+      "author_name": "Sophia KB",
+      "rating": 5,
+      "text": "This restaurant is wonderful! The dishes and desserts are excellent, the staff is friendly and welcoming, and the atmosphere is great. Everything is top-notch ❤️I highly recommend it!",
+      "time": 1759296839,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Sharon Chung-Thibault",
+      "rating": 5,
+      "text": "I’ve been to amber many many times over the past few years and have tried their breakfast, lunch and dinner menu. It’s safe to say that they always deliver on quality and atmosphere.\n\nStaff are always friendly and I remember once or twice that we didn’t make a booking and they were fully booked however the staff managed to squeeze us in last minute.\n\nYou have to try their prawn dish, hummus, aubergine, cauliflower and crudo. My fave dessert is their mango dessert. A year or two ago they used to do this fried chicken dish however they then changed it to grilled chicken which was not the same. Still reminiscing  over the fried chicken and would be amazing if they bring it back!\n\nI’ve brought my friends and families to this place and they all love it, even the ones who aren’t too adventurous with food! Highly recommend! Remember to book :)",
+      "time": 1755795099,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Milica Djordjevic",
+      "rating": 5,
+      "text": "Absolute delight! We had lunch here and everything was delicious. You can taste the difference when healthy food is prepared from fresh ingredients. Ambience is pleasant and relaxing, everything is clean and tidy. Staff friendly and relaxed. I loved the interior design, especially all the turshija jars and pepper wreaths above the bar! We were so happy to have discovered this place because we plan on coming back. Worth the time and money, although it's not too expensive!",
+      "time": 1749121892,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Enikő Szabó (pipicsibe)",
+      "rating": 5,
+      "text": "This is my favourite restaurant in London. The menu is always fresh, with some existing flavours. Vibrant selection for vegetarians. Whenever possible I sit next to the kitchen. The staff is helpful and they always give the best service.",
+      "time": 1758964116,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Jia Lim",
+      "rating": 4,
+      "text": "We went for weekend breakfast when they were serving both the lunch menu and the breakfast menu so lots of choice. Partner loved the fry up. Cauliflower was very well done. Lamb pita was alright but the aubergine was somewhat disappointing and lacking in flavour to someone who loves aubergines.",
+      "time": 1745223742,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:57.379Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTZdPjUDdkgRPmRIp19fiZw"
+}

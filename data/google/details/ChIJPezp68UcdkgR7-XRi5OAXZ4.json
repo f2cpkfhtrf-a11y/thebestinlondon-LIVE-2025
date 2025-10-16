@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJPezp68UcdkgR7-XRi5OAXZ4",
+  "name": "E Pellicci",
+  "formatted_address": "332 Bethnal Grn Rd, London E2 0AG, UK",
+  "vicinity": "332 Bethnal Grn Rd, London",
+  "rating": 4.8,
+  "user_ratings_total": 2781,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5264863,
+      "lng": -0.0634305
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5278898302915,
+        "lng": -0.06210191970849797
+      },
+      "southwest": {
+        "lat": 51.52519186970851,
+        "lng": -0.06479988029150203
+      }
+    }
+  },
+  "lat": 51.5264863,
+  "lng": -0.0634305,
+  "formatted_phone_number": "020 7739 4873",
+  "international_phone_number": "+44 20 7739 4873",
+  "website": "http://epellicci.co.uk/",
+  "url": "https://maps.google.com/?cid=11411418402021041647",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dgy2txODn_0hz2QmtvlmglqQhMl9XLyF-YdfYMB-qs5M78UtwS_YSi35KH5iv0HT5Yo5jVxOptgacQouoOZ-VTlXFky15ioHFi0HQoaNJn4auzDRk2ka3iyA5T6A9pvOkFGZUusmKPJAQLTeI0WMY_whmmuMdMdmbiA_bbzUtBMouQ3y4xzewtJAqBYxlX5RVE_ooycg90G2EfkSDQHYgurWAleaytvxfOxiAY8Y9wXOmXrmaTIVXuDRlT7BfHOXajMUqc9p8BSQVaaecqkBJ_odnJhyeedB565_IcYCE44g",
+      "width": 2500,
+      "height": 1407,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105144380376893710665\">E Pellicci</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eA7L8eSxy2GFm6f2JtTSh1p8xEdpzimjymYV9jkfeIUAFmuZdV-xIgizZEpWxuGrT-_vRk0x5sAxkA7BpGoBZrvBdXMNrYDTj8p2yGTNt7rMip7fxsHNEgcYwmFcW0S2IOjIIcutGjsvPnVP97FZ-vOTfW61dOcRg_z39WRFzuMnHWAG7e0tOambcsFMFS8OT6a-PLiAThYYWoGd-9_iU_DzD91UbAJ_BzrtO9GDCFVVckUKuq06v2qffOVlGEbz-kaFRZkY3n5Wgku1ZiQWgG03a3dCdgplp-zby0wLfq18kz8K34O3UyVLxngOGSZV-IdOHZyl90o4Yj0Vcwz03CJ_gVyxjRAgKdMZIP0y7NMAY4OcLRjslJgyOH5g96kkuJg5-eSiOk4jl_NNtdHojShp3WWIIQR85uPmAfn6ZmePU0V5DPcSW0zx8NVc88",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110223853569038932967\">Jon Arrowsmith</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6OqBqtz_0gkElu6wuvPDQr14YenbilTz8Z4rMBFeJsQo-gL68XI-sptC-4XYUFyZq4iBtars_Vjy7wqx6JEkQkHQSfgTjZbBodXbZhmgpg-5VxQ-dBDjDQFuUHuBuGTLOC3Q3gnItZPFKCaE8X-U5DDWjMMigWvOTHoIr7EWzJXkVI08Yy9O1lRC4ENjpnGgaEYbUFpHfLg_-quZ_u1jDIfGjwmhX_b9C4GWZTEV1vpOSx0myXqjlFfUUQf32uVi3LoUp_tLXKLKNZZBFLiJGSOcpVQm36fjq34wdD7lHjA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105144380376893710665\">E Pellicci</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e3ifsLjoZHAOTBYUznUFIK5bWanQBtVScKvKerFOC_YBpfMaNO3eNHm2yyAbvDgqN_kRjlUdMt9R4YxDt-0iAjDyu_gkFBsM71vXWo3ywJ8SSkOoHuhVnd2joViEvE_-ziKR5liKTio_iuaN2iRv8KWzfVL7skzXEPCeXW9yhv69KKkidInpDO95s-2QD4cdCGWHktWSVZ-01d5PNRtSlaqpfenpAm4LqhfdUFhhlUZP71AFb0siIEpX55OrWiS6nD-OHKTZ9f22UnxVQ2HOXNYSoT_qWB4XxL8d_4KiMR1w",
+      "width": 1290,
+      "height": 2293,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105144380376893710665\">E Pellicci</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c12wbhnHd7EGQLlGS6x5zI_UsLVF1wbJXplqmMvhMDOt6xez3VKHvrxqL2_3K8wdCwVKUDT2yvPAdDQejtYw4UhDOPOrPjOftkkpLKfdsV3I9Vih82wg6heZlkpE1178XgeqFGnUfexRFensJ-tm_XUcf5yuJ5Upilq58kvndZo72Dncfw5gQ-2l4smn9r0H1oS4cRKhcuz9AlNvU3DdI2sidDczcwZ0QlWrL4Jbe0uuNzt7oPGgF1Ku49Yl1CVBlNynIZ0UzNxP0tEAb0N4MV02ik03ax0lpuLMn0qa4yLnAG88QQaLaBy1kjuW3gKbxj_mQBvzLoTy-aexWDjZlIsnGbINGq0c8TfYedN9s0o9HjJXtLtuOD_cyxaZmO4rUJL8AE-FxP9In3Hj4HYUb__K6v1YaANpqxE4PVb3qmvJkc_LInvf-gCIKEeizE",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111590364735675876033\">Brian Miller</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dvFaL9fa71EOY4PcUiZWta7LJH4YINo2hQFn-rEojicA_8MYcBzhKrOfoOWJaJlZdaFVkHXUoRObXNC_24B2jU0kGt0txVv6BRPCndUnU4r10ZoA2C-1mq-8_okmiHUP3hxv9Zl2ARRhJSv-lnOtNidvDgaYGmnRStan9wuNO403PfhRsNBay-VtfxAZ9734LwqghXlXyMEePje0hVxrsL2Kb2J9F0_gB87x7RpbHaeZr9EQT-64ZKI86zgFLnQVHoKBAtDiLkM7WEUQ5LVuEXt1XXMRqAkzF_UuXooLYqxS7tV8UH1WsVIeoMTBEKksyjpXQG6dv-Qx9Pn8qCGGEOs6KZpFMIKMwFxC0Wx9Zylhoh3EjW4Uq0VMhdgrbFaaYkLBT_SmvDpW5NMsZ3Ln0v8nrqPZpWHqVm25_pEBM",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116622661375318302346\">Louis Paul Tin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eGxnMusiN0wSZTgOUTtM2stYTLFBpIGN-XHlUQMkeVOry5fPdk2loOJ95dEs5wdyr47-lTxuQSz53yvHBW_XS5W593jNlTMBBv7RvS5xAMvFLQrgHk41s_KKjRc1HDOu39Wx9E7F2cmlg8q64odhBTPyzD28QRN_xoihaYCA7Y-xN4w36DNOXIMUY5aWTi8G30iarEuiX2HCFJIZIivmoY5Cu_98GCLF_5-3Kq9MVmmhW92r6rbhVhd28znmfkTQhuvcXuI-Gzk9HRCIUBVvfT5oe8IDw6zLymwgsUhmi2jg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105144380376893710665\">E Pellicci</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eYcG7_HfmiK-6IV6CiOgEpfv_qIUXfli6u4Tf1fbxc1NKaPsgwmqiD_93Sx7S6Q9xjO6i-vwcPWTXUmb2aHP7F_UiUG9bD33VJD669pFwP26FtL1M1GKLrng16KCFTC0Cga0d0K8Uta0tNo2xR8g9gqQzStUZs9uwktpYeorJtTGnazT3YcfdLogvetGeOUY1_OAMFmODgZdOx-RXDqLRInOuXK7c_IVNnlk4k2H8ZYN8nPjA3Jp43OlWpwbX3SL5uEtfLR9QfyUW9YeOpqdQpBd7OI-AoFBbGgDRgAKrN1XfpPf1WyLDvDfrXYOKMvxVRF1b4AdLk3bFABI3u5azuh7W2LX0tNif9aI_o8MVC8XWScJGRF9Th92ZTaxImZW71u5zJ88N97s2JBGiLlSjo1_ixLoSAOvdZd2H-VW5kFQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104687199871853551838\">Kate</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dn4_BqjqO1RVJ8Dg9ZspsOZjK_pBFxFDYDK9W7JhvT34yRe17U3tuED-l80RcmE7dVGiRIl-AkDRs-4ljgoqK8fScA51e9VtmqdGxb3b2-igMMEdy91TCIP64aghb3v-_LOK_9H2YO0i2x-7gEuXpWfBqyhDOiSZ1GSkmz_qXOicX9hPTFLKIlg1OZN-x8vZP5DedbL1llXhR5JWvq7N_shnwZabvbO-ESFHynxgSeBs28NBQ1ukISM6qZ_3buD3jzU-oyJl4tDMgAvp99ZCOq3IYfoUWP6POudNwYga72vw",
+      "width": 1290,
+      "height": 1682,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105144380376893710665\">E Pellicci</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cOFZsj9t2aMp689QHUKIzRwoE_HJfam6jjXSbQYoSQwtzwSgvgBtFiJvyTGm7yjnTNYTgePKMmr0nOsuEAA83y-MyVrtxnbFQL2Seallg2g3kDQEQ1RXrdxWYqGNeGgjjRQforEGvs8m7ivusnBlQZFn6wImD-QTaORO8jDPkOgX-OTAYPTnZYpiBwgJuoQcYfOEi07tsbl2qRTc8tRuM7OyVDIGlJRBcgA3Y71WOtZAeR6NkXe7s9pvlWAUKdJVCdDoRvcUv5ezRnnsKbekavS6mIBfZsTVCPJAXE9G0r1eTIgezf02IRkxeuVoIFFSocHuVUigUmzErfLyk_inxaRV6FjRzbMaFdmjgEJvEotRs2ey1t557iSaJAuW1rByRodGSjm7_BAqjG7XCgn4k0_76aBIoa1elhR2sQim0RQQM",
+      "width": 1440,
+      "height": 949,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108210864180014688801\">Julie Manning</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Vintage Art Deco workers' cafe offering the full English breakfast and Italian classics since 1900.",
+  "reviews": [
+    {
+      "author_name": "Fionna Lee",
+      "rating": 5,
+      "text": "I’ve been here twice now, and both times were great! The portions are huge. The big breakfast is no joke. The food is delicious, and the service is amazing. The pesto was so good that my friend even got one to take away. I haven’t tried any of their desserts yet, but I’ll definitely be back to give them a go!\n\nSide note: They only accept cash so don't forget to bring some cash with you!",
+      "time": 1754383298,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Gul Bozkart",
+      "rating": 5,
+      "text": "First time coming here. The environment, staff and service was incredible. Such a warm, friendly and cosy environment with speedy service despite it being crazy busy. We were fortunate enough to meet the siblings Navio Jnr and Anna who were so funny and inviting. We ordered the veggie breakfast with a side of big bang ciabatta which was so delicious and their homemade pesto is to die for.\n\nThank you for such a great experience! 🥰\n\nSide note: Go in early because by 11am there was a really long line. Very popular!",
+      "time": 1758536998,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Philip Clay",
+      "rating": 5,
+      "text": "Almost am hours wait. No problem as was expecting it busy on a Saturday.\nAsked if I wanted to share a table....no problem (I was on my own).\nAtmosphere, food, staff, pricing spot on.\nCame from Norwich as been past before and it looked great",
+      "time": 1760208354,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "James Hadley",
+      "rating": 5,
+      "text": "Aw man, I wish there were more cafe restaurants like this everywhere. The good old days still lives in this establishment. The old cockney hospitality from days gone are still present in this amazing little place. The food is outstanding. I own two Italian restaurants and I can tell the food here is nothing short of delicious, authentic and fresh. The owner (Pellici) still cooks every plate in the kitchen but still has time to laugh and play with all the customers. His wife is amazing. The staff is amazing, the food is amazing and the atmosphere is second to non. Love this place, thank you.",
+      "time": 1758649044,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Leo",
+      "rating": 5,
+      "text": "Got the Have the Lot (meat) and portion sizes were huge. 2 plates for 3 was enough. Special mention to the white sausage and fried toast, both were absolutely delicious. Space was slightly small and the queue can get quite long out the door. Owner was friendly and always checked in on the food and food was served quick!",
+      "time": 1757094192,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:55.909Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPezp68UcdkgR7-XRi5OAXZ4"
+}

@@ -1,0 +1,275 @@
+{
+  "place_id": "ChIJpQZ9bukbdkgRUZEm0CT95rg",
+  "name": "Morr",
+  "formatted_address": "242 Upper St, London N1 1RU, UK",
+  "vicinity": "242 Upper St, London",
+  "rating": 4.9,
+  "user_ratings_total": 148,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5450828,
+      "lng": -0.1034029
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5464229302915,
+        "lng": -0.101984469708498
+      },
+      "southwest": {
+        "lat": 51.5437249697085,
+        "lng": -0.104682430291502
+      }
+    }
+  },
+  "lat": 51.5450828,
+  "lng": -0.1034029,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://www.morrlondon.com/",
+  "url": "https://maps.google.com/?cid=13323614882175029585",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 5:00 PM",
+      "Tuesday: 7:30 AM – 5:00 PM",
+      "Wednesday: 7:30 AM – 5:00 PM",
+      "Thursday: 7:30 AM – 5:00 PM, 5:15 – 11:00 PM",
+      "Friday: 7:30 AM – 5:00 PM, 5:15 – 11:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM, 5:15 – 11:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1715"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1715"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1715"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cuqyBHjFr5y-3w0xKcIIK2vPredecDEZO_fZl-41DnMA6s7Pfk1ZiMI6kNq1LbFLPj6i-Wh2pTpuoJZU-pouI_WIFucIXVcYRVFhMeLABHYjN1TwalUYR2wzZROqiGZbm_DY29Db0X7Ocj25iRUmgLxXm6CbtwUr6tXkLR1xBGbCW--iy-xQC2Z2r2ThseCn-gYy8r6Ym1rHi7r5KNJ0AJrMJCTgm2AvnnPwwONJnLdCC_UpRTEx5nISo3Z71-C6nMSmDR98joWp-0uxj201IWldRv57Yl1rD6oTJVwOOmQw",
+      "width": 856,
+      "height": 1141,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107385084554895754530\">Morr</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dB-_WKFfbKkNcZ4d-rn438U8iPMNl7ytNHSYs4Z4hZCeFkFyLWdPIG_GIDYeEzYkmOPMr8aXv-dj_vc7gPxEx9wcph6LvQQcbEw5Z9KjuMEYQYRXJA8TCOQnQO1AH_JLH127Wr5PzC5jidZP1YStO4XTPAdkwUImfw02awOrY-1F-2SoVSrWMMk9W5I_upPkYdw_ti1P_f3CXx1DdVnQiRKBB4_Ks47Gde6KTrHgCeacxGsCXakCRqjkvX95dMnJMgyOisVPLijz2r8P2VRISEY3AGHFHTk120CWEpxxXVtqYtlRjTfR5_jHYzOB6IZlcNRiNETBsB-mModH0-Edlxi8eqrcSRbPUyjUA9mRcu2wqtrSd0QUb2HFbpcmccfMY1E3_WvQchrxNyqmztcV_R_UntsZOYan_DQWusL2BMFdjc",
+      "width": 3362,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109221144084438441276\">Anastasia Lysenko</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMWu4thkZr8jaP85-rkZ3f8v41W5MZplbMkt87Py1Iy78YPLFkdje2mzV0jmV9YeQRslLWpm0PWb9nkM42C08yMy-b52apIm20QEET1XeUrg8QMlmMj24N80uK0hZYRC9Fwrz1FcgFUQcCL75QgXamm99ymLSH3H8Epw8vxGcfl53KTJf1eAug7nzaQa_htV29ODWIZ5hEUtWA2i6miRp9t9BmfDQFwqW7MF5DEWAbE8sFenquS8NieR-_ex4rRBfH4UckPYKLNDZfWB-2X0Tlo6Iwm7kJi8TT8XJHZt7usw",
+      "width": 1284,
+      "height": 724,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107385084554895754530\">Morr</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_72v3l_R59GHxqDMoW456k0-dKpK3MUoDSau7DYUKUgwdxpsH6K7-D8cOITHUmf14PWMxhZPRbV2NFYV9t74rtb6mJS1viQ5B5K0sc_3TD2BPSf4WaCALPT3CwpOn3_3SB2O8M383eTK6Fm_ddB_BuIVw644TKkb_5y6RXlGdMf7Bt6ybyUvE1yRDBumCS1fM5bY3T7w9Pi7-yDnsuKmt-DfILctTNIqrEdYeftrQze811t8cWyph_sXRfHAykMlxRJQ0J9xSanZMBWqatm2x1f8ZEB2LFzPJlroQ5XNY_6Rae2AqtX8-6_2pdEUHRhrJoeuxWrNyE-NQ-2RLbU3YOeqpAK66A78hhh5LpzWfr01rYTOKPNDXV2KT0xoujkS5zVr-y6zxKY76Mg-G0_pZNxTiskJDWpZulE0J9IShn4UZ",
+      "width": 4640,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116756882771954863375\">sevban oz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fCbe5l-1P3Xye7wjDsKAWLQY7DH8EbblKh9D3TC3mnGVrQVRFXBuXmQ2fOeT1NLaRduPndnsTT8_Ss2AWjBDPjfu3mZY9YCAAl9hACmwMjOEBbaaeGbTBgIjDLj8CsJBREJzcr7iHVBtHao-TC-FKU7Ds9uP6KUb3DDJhtE5VK2qyPvDiGA3gqanC3U_8gWVLyd83r_1aeR17na1DClbybA_-cbOe32aJtzzclamh1nwrbQ587u8h5EzgQBYPObYKzKLF-URDHNKl-wXPXMdTFymPJ0HpPdGWusIR0c5q59RuzfoP1JN0mOH-5b2u_hwi-ttm8SbazKferUypfnxfT6vHiwbOi9VxVuj7DpLZfLfI37pLSM2ABs5at4cvo69BnS6gTMmUkjPQ-egXJEE_JeC9Y8jBhDXMxmn9wjLDL0fQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102765381082209686829\">Adryan Cheung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eZJK79cMFr-yMj1EPyD9SQx7AlDVDb8XA8lzOO6wDCPnsbBcy_8RI6a8tQinjm3p4VwxJ1sn9RF-k0SamDtM6vOqk_n3wNVxORxDfqg5EpfLJ-u-lojSW_BqXUB_e_SXeDfBOk4qRN0_6z8ut4uInUhYgqyNj-WtLka3iUuIspanUPWqTWpLhRynkJo92y5WEnNnojpYOP72YRtBwqz-ZmYlLYdqy9bhy60j54Akb238ewdxUgGVrSCdGqsUojlHcDRUzzq1pBP9GQ5AlOFjQOoRagRRMs9RXVQZOYer6vEmyFpFmgbZ5f84nY6QiTNESKOoQJhjfrYJiIFBPgYKooCYE_qp7xnjsLTdDQSY94Fmi74DW3FehgCQ5RXGt4_alek9969KyxvfcjJrZ-GWrBPr8DTwkv_zuCGVK7vHXKzVgS",
+      "width": 4640,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116756882771954863375\">sevban oz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fFt4yUS74lqff5L_ieu3kwIM8S8jeC6HIk4xKT6F5jesEtHDmSJ63kYlb6TZWto4zX1n2-jidq0GvrLYwgsQV3T9Rk44ec8Vm4_03MCvCbKEgYpfVSL0wDv10T85lNPAYQcvzcCGpel8qB-D3n_CfI6lAE2UK0V8cJu4qnKe3cLf9_JgXk5XDwk-n_zOcf495pPA3wUubfR-jX8lo-nzQreCQub1uX_ygJZwicrKn_3AzwcVWweiCAR8WlmF_vvDXh2HhcW28hD-F_hJ-E5SDnV53pUqrQD7zYDaOYw7zQidxAn2xA437mJ9xTZ5jcnSbCrFJ9DjKrD_-mTgLs-PjnBwUGgokDl2S-UOhTGG74GdMTXt_Iy9JIgnfDSwJtUpgTkItxTsTEv6TGJI2Q0gIiVY556REn6SqQEYbXdHvkKQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100111055992500598345\">Shehnaz Hussain</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fSYrBxNpYHjmZ-xVGl-r4U_gxEGxL7WMtaPg7F6X4dEGDvBSgYAU-kHXKrn5AIpEpMge9SFdb5YC9IEJn4CTNxf8cIP2qIM8yOMswpcN6bm4_EtIdw24H6gJf1KV0jCxLCLuVtoggz7rlrXv0HhwcYUM9Aaj0TeJP7Qau8yY-B-JvrvgwjRmzHsU4t76LthY5JiaeicOHQjfwjyyyRcRNLLCly6RfJu9YYIB-H4OYWecSc6Jlq9KgcRgvc5D6dEtOlhav0icOr2w8SnQ_uFpj0R3-jbVKTarIaMgu7KS1mgcP3AwT6WQWUvZbi-eSp4pnhX2-gzDCWFrlowVj-BDTexnUh7Fu79U_ndMaxbXheCsCxyCHzgzh80iAhP1K6krfVvpB_HpIdGfXZDDTj9urd7QT0LSCbpUsXTG8pe8MM-rJNvtfi2X4IzfHNpw",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113989091265592234407\">y ky</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ed3hTA9LD7etqzgPg_F824S2WeDIwf5l-B-sDkP_w-2Nj8lt2gH-BFnxY5GNi_5z56Tf_ZJCrCNG8epoMIsKJkSbb0c1Q9nglHnxhTDfBYyrnLEPkVRCq10od4j7IbnoVvfp92eE1QL3EoHhAY_f1hjCC15oJzv8Ld7G8g7rtcgZXYm0ntDtm2pIMT4Y8QA_oI5dnVj-s8gnBU6LvhaeAXMSszqGp5yEpvBpCMXKiA_8s1YQ6kR2LQlhZ70V6xB8vdPl7UjuORWZN3-D2E__lNnUHQzSHlegWQJeRW018kCgQk5FM0lw9fBySL5kdEAmK-0_97L87lpi-xfQXit92bTvK4LJNfKmmr7uPGkPjQ2oIN79FNDlpur03vs4ldnNdQ_ui6vUtqm4F0FqLbtSSQtMsx87CbnqkF4us59CWaPHQ",
+      "width": 4640,
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116756882771954863375\">sevban oz</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwiNY4v1L5cQGIifT4ly3xCiz-GKYi3tmIaDBMjT-NQvNdGhpEmJHNsDnut9t93therEInVHiBRF3H6_5LCevu4v3sBHTSoKbp1JMqGxxezz0QB0od5vsEwqzUzTdeLY_VbN2qdMabYkig5pgELUhGAXkQsUlIH-E_8lP99T07ui48yD8Hgz1420tbzqq8pZ2W6SbgTMZMurV-yF-dY49PbDtagzBqVwBr2Q1ckxiUotStqkzguF_hLDe0nRC6IrzIvvKiRlCuPW877d3k-VHbNZ9uVkTyVZUFu1kz9_-azjIdPJEvxk3taIFLRTl__mBGh7p_WabM-_-7B6ENUypWPejC9J8PMpzS7Ya4zkjTkWtqctscvFdrTYqFkopHOzXMZKVWzDJ3YYoxrPoV6VrJ2i1oOUXLaqUDZWGoYszSyXY",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100970407914957593095\">Senanur Demirtaş</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Vivian Wong",
+      "rating": 5,
+      "text": "Incredible, loved the food menu and enjoyed the 2-4-1 cocktails as well. Very generous as ends at 8pm on a Friday (unsure about other days). Perfect for sharing, small groups or solo dining in a quieter part of N1. Highly recommend the pork belly, lamb skewer and chimichurri potatoes. For drinks, the bees knees was a hit and well balanced. Definitely returning",
+      "time": 1756507482,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "sevban oz",
+      "rating": 5,
+      "text": "Morr Coffee Brunch has quickly become one of my favorite spots. Every time I visit, I notice improvements and new additions, which shows their commitment to quality and customer satisfaction.\n\nTheir salads are absolutely delicious, with plenty of vegetarian and vegan options available. Recently, they've expanded with a new bar, which is a fantastic addition to the atmosphere.\n\nYou'll also find a great selection of pastries, sandwiches, and toasties—perfect for a quick bite or a relaxed meal.\n\nThe prices are very competitive, especially for the Islington area. You really get great value for what you pay.\n\nI highly recommend Morr Coffee Brunch and truly hope they continue maintaining this high standard of service and ongoing improvement.\n\nSpecial thanks to Berkay and his team for their cooperation and dedication!",
+      "time": 1746190333,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Oo L",
+      "rating": 5,
+      "text": "Very nice cafe. On an expensive side for tiny baked goods but they taste amazing, actually. Tried their salad and sandwich and they are good as well. Nice atmosphere and nice friendly and efficient staff members. Great cafe to go to.",
+      "time": 1751536238,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Wolfgang Mittelmaier",
+      "rating": 5,
+      "text": "What a breath of fresh air: These guys have passion and look after their place well, they offer a chocolatey Brazilian house coffee and may well have a more fruity alternative as a guest roast, just ask. I had their Brazilian decaf flat white, which was very mellow, but had enough body to shine through the full fat milk.\nThey recommended their ricotta and leek swirl as a smaller savoury food option, which was delicious, cheese, vegetables, and pastry were perfectly balanced.\nWill make this my default stop whenever I am in this area, which sadly is not very often.\nLovely place, welcoming staff, great food and great coffee!",
+      "time": 1752821827,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "y ky",
+      "rating": 5,
+      "text": "Perfection in everything! What a bunch of passionate hospitality people serving the best coffee, cocktail & food! The Lamb Skewer so tender! I also love the dip of Aubergine and Hummus with the baby patatos! So flavorful! I can't wait to have it again!\n\nWell done guys!\n\nThe only question is too cheap!! Please take my money guys!",
+      "time": 1751053566,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:56.148Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQZ9bukbdkgRUZEm0CT95rg"
+}

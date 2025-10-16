@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJk5zXxB8bdkgRsM8AQ6244NE",
+  "name": "Daphne Restaurant",
+  "formatted_address": "83 Bayham St, Greater, London NW1 0AG, UK",
+  "vicinity": "83 Bayham St, Greater, London",
+  "rating": 4.8,
+  "user_ratings_total": 634,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5377298,
+      "lng": -0.1403803
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5391212302915,
+        "lng": -0.1389212197084979
+      },
+      "southwest": {
+        "lat": 51.5364232697085,
+        "lng": -0.141619180291502
+      }
+    }
+  },
+  "lat": 51.5377298,
+  "lng": -0.1403803,
+  "formatted_phone_number": "020 7267 7322",
+  "international_phone_number": "+44 20 7267 7322",
+  "website": null,
+  "url": "https://maps.google.com/?cid=15123290603003105200",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Tuesday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eCORRWiF_SKYd0kwlilu8glXxPNO75lkt9K30lg_q9HZ23GGur4Mpf6ySaeKwpon0UHzuH0_8fA2rTUrDghGEXPDwz6XCsODVVxaS7flQM8GrVre-mKiUH4lf_Y2twtgBmVEluwls_tVRjpOWSKPjJUhjGj41Mwxq6_Uw-nnzb9kKqtSYfxVy6NfDZaEfgETFcByyJHlboS2LO7_nMaqDepPIFBOlPkexCEgxjR1a6WP5EpyMmltoyymRyoMq3QtBKioifaMEYnbip9jqBr9wLuu7NSCJNvOmVAmQVa2Ivyw",
+      "width": 965,
+      "height": 689,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100219407412499961265\">Daphne Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ch90HZ5bC3TGm6q3F33n0LIh1top-QSs6z5c6SdXMktnfeOU3iA8yKOjuxmIpc5cn1hnnN7nv-vyXTVNjucGBU3gjcteA0TErdcqoEOf-c-Gjmb5AqXei4eHqcWPLz94SazfnHzbcqe0mie728-TSvQOpQqPXEUPHrDqBD_-_nqUvUPPW0myLfZWMBCqFBUNj5Ocf3XBWJoj2E67o8qrIKKQkiuXUfGDzswAM_Mw4TZf1ovt6njZc2PWpo6gk5ugVOQO33h_BwpZowYdBuGQBod8WiuxBtXqxYaSq7cR61kJwkYGVT3dju5YR2Ta_NP7cL5V3ODvP3EGroBJyknoCOJBWF-8TYDgSo0ZDbRIUV0kVsFApNLoSVn0g9IluH2hNr4C4znDlh9lJ1pKlCDN_CHbBM0UpVtMYzO8ohIGVd1slZ",
+      "width": 2208,
+      "height": 1656,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109755732661676441885\">Eugene</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fCUJp3WTtubijC1-NUUutWWkoYuw1WpEpZtLif1Kbmekdv4T-p-o_A67vA-xY8mOFIs4LlX5Zo08abMEFJhWb3M7TXbZwtqOex_TtgSS7A4mid8LH0TYSDR6lC0DGeFuCf4NFSnampGwipEvcAvPal-cxKCbCrunPV1l6rElWwZp8w1hzE3F2UnsboryTyNNNnJUdDH3r170E4UzG4FR4eBgCMOUJg_Rgyv13wO9gZNtQ6cdgkWT1B7xxTglO-6O-sUzT1nmYWS-nWKhaS3101Tit9pKyqG9RwZRvAY3uV_A",
+      "width": 1150,
+      "height": 850,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100219407412499961265\">Daphne Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0hpUADcAwuqaW5axvbTBQlaw2Z4gQ277FiTz3xHBzEcTDt_yO9ZApZqmAKJk5_Ra0unPuePkT_IEFrZE15tmuEKOsfuA5VVRVRlfffd6PCHnslYBbPRbyvjgz2_GrQd-RkuG5G8hGEGTGy9ux9GmUxzxZSV92Dactw2xhV257uY8KaMq6JWgD4Qhswbg3lB5cNMivwfWShw1L_PV5H_Ib52H6HcEkMO2_sNv6MOcDBOZeHQ8W7pjegLck-daZFF3CorStfTLhHW0piLIseHl41iHyRVv8X2fHdweuBM3xLl4DPt7wjJuSB1RmnMrCD_-tHjsaSuIcE4i3GE2v99oy-0zFpDkfGdMAoGyBW9u-6_HHYpgyCW5wnyL4zALzBGH_65EyxY2YqwYJbcB5xLW4c9i4h2wZeKCUQf1gLELf6w",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112410140016087741344\">WEITING Z</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPfj8vH7VycD-DE4qM_rI2w4Cs1rIERTM-EZ5IVbZzfgc8dCyD-XUgINrZlpmGIOvBG5FGzKeKWhezEXnZ0-2Mva2XHjXQiBxbk_iF5fCeyE9m8RiKgsUI4_Zk-Yrvr6WzH4osp0QvPPhzJHljx9YvEt_Jfk_bO4RbM0Ea9grm43vueYvuuxsX83XcaxKyGGvJDjSZra2iTN_vXAFXPN5vW1hJE3EeT12adGg8oC-KQzyvLTZT6n_UpOus1mow89XqDFKwl54uLMdTtknUmFqfDzOUDXxYsH0nvLNJopnIaT37Z9NLPjzDx6lGvjotuXrx0uvT_2lKkv8TZNHvYpuHPSYRqe3AXxALyelSsYeenhhVoUGtwomePTADgyAU0KyRW_5EKpsGNYFkO83iRTJgcL-fVhFDWURuIn5yEy4",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339600033490415641\">Alexey Subach</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4qpBTsu5ZckGw_te7hO0Fjc5rv9CXR44B_1bQ8wlf00B4F4s-RVDuW4qgggvu-qnr0fpOkP7aCKXceu2jZlvQSCQPu13hzWRtCwm3IyXQ_xWBYXRQLCfIH-RXvUoiCmwXBor-q7emzS7wXUbIIR3nfPSOlg0Lsz54UdCEL1A_dvyAEzGgRlYge7fcWW_wE_A_TfnoEXMkc9qa0rvdHJCtC_ndvOukmGwgvGX8k0ormIY4rkHvIMDtLCb0JUrqyjqoKswK_ub9u1oIoFslv1qLB01TbCEAC3IA_AnylvxZ-pmIN9VucJgJpO_G9txkFOXnOSw6E7ThjQGsG1N76M-VNbGZNZxoyvdxK2j4U4RQRyz1i6zDniwjq8ItMK3t9raHVZCQGbQc6WM5KQZ5g_B_tTXlB_YrFPJGiyyl7A7Z0Rv7V9YNdctLRt87PVcU",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109045315150892551527\">Jon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dDjQIfHx2GBB3jOLqToGx_Nxgn1iOHQKE14jcCzFftLihrlluF0Rh-S-qO9IMfwfe3WBGPrhbZDB7CZno1sf1yP3wVwO63ROfrMx1wgHATAuNEdz1ijbtQz1l8diZL64RP-ITBAkN4cKSkYjikx3s0lmm7yKmiTmoXVDl8Lr1uaCa2HUEwjiBkrQDXVoPiB8jjB36uvqqx_uQyLFF5iVTAOG701swJXuo0Eh7hoiAVnPR6l9dlbikLrPEy8hqs_KLUsPJCd3t5HHdjMxJEBvmM3VI_VIbtSm9ysRA03ghsAI4W-7Dcq8AKxD-cF6D478YEZT7sf9kbtvBC0_YtULyynRhhXrL6Yvy9UEDJhEarZCv9SIlsP2dwshTrOn4pUXGK2R-yp_boENx3N5s22h-9W5aBW-lT1HlFL7YZItqLcRz4lXMPRkXkmSPxZA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100272243939453617325\">paige beech</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eYPcgeBoqQQnOjLU-pASjoM9T9K9IYTyBC5k1K6b6OHfiEn9BwoAENGEZv2kWnpSoa0qWiiDF6cOBm6v4KmFjM0iG5Lk1WijBfLQhCbaWykG4QlE6m_PVHs_TwVy0JBXltsqjby_f_X9HwVaxSpBHSpfiC6m4jfvA3Aqv_VKoeOCpzvjccsf2AfDapWMOr8uUmo-naxykeRQIhBpkD8kvrgHtx__pS--Na5T7Faf6nRiR1Bb-3u9-SFe5npN1LNSErwHyVxmrGslEQV92wwmnEUobdz2QIk9v3VU14lC9p1EcCw7VAcpD5qcoBoia3oPyvTEzyXsKqiXdWf1g1xSwRwyCM2-lNidv5mSMSoKb7wyCoqjr2IlqxGOgPYg549v4C0nGTlQySbMC17uaPFF66b_aIu-4QQx21FrAjTeFD4pwO",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339600033490415641\">Alexey Subach</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e06fUWQVguXTNo4DmF5xo3EC0KmC_7dT_yhTAzZWAt17HSObhr7oObi_M21YRsZfaFZlKhAzFpg2DwxtYX5acgd2_JbmXkMIhd-ewLp_CuWslyXEmpTYyxsamEOlN3HHPNteGqzSsYbh7OOVKXuWbrMCJdC3t4Ezfi8a4w4eFEj_KeBNcyhokOTw-Pcfe9Hl0l6z2yN_o1k9hPjiVS85ALEk5A4I_5wZ7IApwOOQ428wmjbP2meuyF-L-SJrEVaJting7Qa6zcOPdQAfqmd1WKwLAs3VmzHU2-HO_NYZip69Dkj-Ea8P4hShznM-GXiApAhJf5FKJzkoTkY1Pl-o3n6gWAvILWzcrKbZtJP3YNOy_Mt83614Lrrq8dzg06YmNl1icknYO0Hgl0zuIrAleDgE1q-HORJTBRwEWeyMZrm84",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105565269751979905441\">BIBIAN BUENO</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2em-41jicTVWiA5HyoBAIc6eO6p-O-qEk3KxaSGkhnDJPnOI2knhPjqz8aExtAUcnZ8cflZ11UiUHFTvGmFGV7he8WMG87FgZeRxRlE9M0_QeB_YVHM6pdysuLmffaH082brMv2Ntm8fUZTgtGHqWu5WADIJYLvcWScPuJItoyZflIwYoynErZrr-DsXPXoJAWYgEr9SPpSSJaX6Wx8I1z09qqPzVYTWmPjkCJW92lS7CkkQSWUVmEsUnN7MG2UE_V4C1YTQ3-qhp97qgD7hvDr24eDM6WZ35WBs3kbRS4BNEleKHTSsBtxgVMhF8W0rLTEvveFlKPH1aLp5RwH77QL9CAuPIJLp0t0-r_QUGSjBHsUEl6D533ZNBUuN-9LRRXOVEPZURa2P95rcLPzWeBoHpDYfOtgakRN8OP1HxIMtPE",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339600033490415641\">Alexey Subach</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Polished, long-running haunt adorned with photography & traditional decor executing Greek recipes.",
+  "reviews": [
+    {
+      "author_name": "A H OT",
+      "rating": 5,
+      "text": "The food was AMAZING!! Tasted and felt very authentic, from the meze to the mains and the lovely Greek service.\n\nTaramasalata is a MUST — best we’ve ever had. Had the lamb chops and was delicious!\n\nOnly thing is it’s a small place so can get cramped and a bit loud. However still a great place to go for special occasions or any occasion really!",
+      "time": 1751885523,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Jon",
+      "rating": 4,
+      "text": "Great 2 course lunch special for £15. The mixed dips you can choose how ever many you want (fits a small plate). The meat moussaka was great.",
+      "time": 1759186758,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Aditya Chugh",
+      "rating": 5,
+      "text": "Seems extreme to label all 5⭐️s but I had no plans to come here. I was meant to go across the street to another restaurant where I had a booking, peeked in here on the way over & ditched all plans. The food was phenomenal. I had a lamb shank which melted off the bone. We had a seafood starter and the haloumin which was grand. Nicholas was a gem. One of my fave nights in my new neighbourhood. 100% RECOMMEND!",
+      "time": 1758139023,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Barbara Deane",
+      "rating": 5,
+      "text": "Superior food and service. This restaurant is 5 stars plus! The shrimp appetizer, grilled swordfish steak special and Greek salad were all perfectly prepared and delicious! Such a great find in Camden that I asked for a reservation the next night as well.",
+      "time": 1740211837,
+      "relative_time_description": "7 months ago"
+    },
+    {
+      "author_name": "paige beech",
+      "rating": 5,
+      "text": "Amazing food!!! Very authentic. I lived in Cyprus for many years and just took me back to my happy place.",
+      "time": 1752349543,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:04.753Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5zXxB8bdkgRsM8AQ6244NE"
+}

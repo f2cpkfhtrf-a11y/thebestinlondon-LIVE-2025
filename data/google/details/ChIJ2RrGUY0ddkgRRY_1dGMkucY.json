@@ -1,0 +1,231 @@
+{
+  "place_id": "ChIJ2RrGUY0ddkgRRY_1dGMkucY",
+  "name": "London Night Cafe",
+  "formatted_address": "56 Middlesex St, London E1 7EZ, UK",
+  "vicinity": "56 Middlesex St, London",
+  "rating": 4.9,
+  "user_ratings_total": 123,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.51603369999999,
+      "lng": -0.0758891
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51735988029149,
+        "lng": -0.07459871970849798
+      },
+      "southwest": {
+        "lat": 51.51466191970849,
+        "lng": -0.07729668029150204
+      }
+    }
+  },
+  "lat": 51.51603369999999,
+  "lng": -0.0758891,
+  "formatted_phone_number": "07407 391867",
+  "international_phone_number": "+44 7407 391867",
+  "website": "https://www.londonnightcafe.co.uk/",
+  "url": "https://maps.google.com/?cid=14319516499783814981",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 6:00 PM – 3:00 AM",
+      "Tuesday: 10:00 PM – 3:00 AM",
+      "Wednesday: 6:00 PM – 3:00 AM",
+      "Thursday: 6:00 PM – 3:00 AM",
+      "Friday: 6:00 PM – 5:00 AM",
+      "Saturday: Closed",
+      "Sunday: 6:00 PM – 3:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0300"
+        },
+        "open": {
+          "day": 2,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dmPohXxZ5spRoznskjESe-yl29l5AE0aEebYxG_2ra8pxHjXPlP2pRvG1IYvBsuxRiaUgHehVdJZF-7J6musptQE4RvdlYJFHRGJOudlGWjlg-2RuS5S1a79AYZoYkuJoO8wBAtrL-EoeYHbeIJRCBLWN_f5Uy7VU8oV0E0UWZj6BFSvwd0ZhorApAf2T0ahdUnPhN5O7kQM59qdIsCU_G2J9hU-5HXpxn7JeLM4D0vsc5FThVJSJg64CcYuZAswrmei2cALJ_feVJqIBlvkzrulh0G2qc4UlHOgTrTUWfGg",
+      "width": 1184,
+      "height": 665,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108110781672765621979\">London Night Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eSy7ir_Bg79DTeEr4TlRVi5dh4PT3kb-m-BgR55imKcv36RwKATzr4iGyviZp-Da6z0x_OsMVNLORrYPsfDDOjL9oqXb1JIAoV7goq94jV0B9vuSQKE2GiEECXxEkrGUtZDk3OmWbq6fD1A_Xg3p6EjRi7bIUmMYSJvG_3VFPJdSBbHWsDyyVV14sJBh-x3lT0Mqxvs-MIJMs4a8X_hHo9KKp9iqD_aYrqFOK21MpA1XBADvj_bZh5GWV46KnNp_8EG3hPdDzb9sblc01raf7X9xl_sxTj4SFlc-7vmK6vXNaVuMw_iURtPvY-svLaJBkVb4jxA4PiBF78Np3Ex-gc1yO1YvRapuXH5ndgOeq0TZmdp4yMNWnMLWS30CAQav_D3ITbwGRAPMUQEczAW5TcUoLJQHeRifofE-FbLN8",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116569805924286126296\">Rashi Bansal</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eTGYddXkLeSSmsZCbTv65bsLyeIcuhZkWr9M_m2QcgK8i932x_ksjx0-zVvOtoHcaBG14cnvWokk5mfw1mGmCiNVn74q9eTdtbWhrGHmfQ49TJbc_oEE7zrrg_pQtce-L0im5nEXSopwcF71aT1vUKLQiqUl-TBD2ZPg0z1pNrB8InYqb1qmIAwGXpcOiQnUTcrFEJ8_XcWQAALVTV4JF6KjbS5gCRztA4P4POzf8ckr3-Qg9Ls1m-WigdQHG2HwhdT3_bvE9LrLNDGHaaOzkO_lNJy1uFpHddX4RWKtYdGp51AIRAui2HGnE1tVkvlv7j5E7s6PjIi5DBRH3pnOFI2sVP2GcIrpcY2Jc5kxZvMYUSdOzNyEG2CDT2imdrxLDUs7ALeunkHXD_-RXxmRYUE1EJCLHFwJC3ymajT9eFhXU",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114077060016012091255\">Pip Page-Jones</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fxmm3yJM-txLUWvPfGFwmE7dbHXtbki_jUC6R74tTmETXFZywKKqu8sNFK-0rypDlSdesE95WyXzWr156Ypsuc8MqGIdBANtGxVKIC4q9_rhMrmgNCsBWOQmxt4gInOnCrWcLrI-Qy2s0qMWF1YAkeDEcSBXxzXEqSCD-ZtUg2YUziRMD38UmsF4MkEdhsRniL4Z1ziSE0mcDq3kL1mKnhdl6Hl2EAAGoGIKBeUxREUo2HPBhHCXIuP5ps0YjILSvskTca8zKac1DovliVHc2VxeqqUBFtP1n4-1593fa2v7tVvlrX95dvAt3suBM9tPholpwbD2bsVVsnSgOepRFSpFKERVwQC1q_45VY_nP82IGdbrZqdBxNmvNVIhMuBCMnqfFC473S_JOfOCgtSWUz8PKxklaq_HUoudYckl99DpY",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104596842365583677253\">Lerryn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2envM7cKb88vlaEgK_ZqIrD96nVkOZqgdkfMH4vM-7rCninJD-qGc8JEqz7iPeJ3wiD20AFfcF0vdzesTcpHDspSktIScfokozKrcE60Js9QEBsZuZKrBQG2jgLV6-kNzeTTqaw1y4qvQCfuJ_MipcgE50iFtP9XU_E1V6Ic1MJ1Pq4F5xpKFgyCPYy9eIoLlzTlRyTC35cw2TlP7Wjh1F29NsHbErizJk5OZwQLZgyFXen2uFwWOVYpf28eeY9-IqX7LmvEvtdj-lB41SEF-7_ZlWSEqtifDXrDO7XOTOyUPB9w1M8KX5_fzOts7nllzusZiIHOtHn7UK7-ruy1PPS4ZxF4Gw3tO4oL2wWEUKNdSCWEXh_j_QgkeQ16h1RZPy_Lk9uwRZWhKfPQEdNqmTRwvvg5119efFXLE_5yuv259c",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106217369599996574412\">Dorian Perron</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fsQfWyssiVaXMN3BPxcehwt1GHkJ_q6ZVLhfKgnqcQ4fpJ3McciW_NRkVy4hOvXSul42S7nfSk8Olv9NlMFWeuqX8DoRP-jI2X1jmBeXM6-rLqH21_uFHuWBM18RTu-fE_Xt_yp5wz3w-wjVYKjK_kbZhYZ8yUkcAz5W6Bq_OyE1OsGeqaubmf_ZKH5lVBpKaCIliaG1i50dnt_VSInaUjpiHvqsaso9CZKDEF79u_oxKB4FObpnQvFPXE7NZJ9FjOqMVXPphM_bSX_-PrAA834Ay3EnWt1-t9apjU9ZEoeQ",
+      "width": 2054,
+      "height": 1170,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108110781672765621979\">London Night Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dwjwyV_qVictMVgunza0mAmCmfIlitHBpBNyvsHmae1gZ4AmN0FqAGwgBVFacznpGyLbkkMukpzkofVCdQF6DyO5ecI_eQ2PZMHDuWxQ9k5pO0a4YXFkW35MfDFPQlr31brb-iw3aNmGfsW0HOG1UF0sp6uJnGJbV8Lve5kxWpqaraFxOEdyWaoJT1ahsqn1ysQyLYPX4m-sMgvbQ-xFzee2ScbQ_1Nupxp5vEgWEYl70MBdEi_VfugsxShs_fPNjLDT4RT2eIwJTBD956tMWOdzGs6owIYsMdKFy-dZoN5KmnEJ9KueRrdvLRZcTBzmlOSyV83WaF74s_K_NQ8Pf_e3iGAMVN0jQiPi7qnyRAFFMJJbML3W4YtmuMf3gddI_wblO7FH7LJljm80St4B3e6s7qaf4-ocaOt7ibQKOcyg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107112444894528443416\">Eric Rogers</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eZNNJF_UIPvFC9LKKLOQw9Onk0ZJzKdxov4pDCE5a1_5h9szux417fECWnsLwIFpNQlKJ53AKm9lr-mDhp3cdK2q1T6sNjlqM365ZUwmCXaxo4HqJacLCBu-qDA9gPSn_snl-liGnKU4GqoWV2sJyWodVCkqmdsHs9i7vjw0C4epW3wPsruSXsB994X4xj-oTkzfZFvnBio8RdmYINFSdTF6OpBTg4NmJiMZEUjr66-qBQtgj95CpvzcSaavIzr4oqSByMRUhYji14USs57KNVdSE_iWyyQLYoaegV8frVF-BqG3dosFVIwlh-tHsrZ46DCrZhiOhsOKzPaE1HrWJc-uz7nh9FJCetS7igquyF_A8WIqMTvISp27MiZoNX9o4-E4dBP482y8ciZW4TBUUmvYhICkyAPhV2M6nA8vHBZALc",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104596842365583677253\">Lerryn</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enbJMMvWyNhKWxdcpS_J80NVHb99fwTjQ2CaXZJbma0jt87DO0Rjc0J5AD29cJxxEpwMiq6nxmyyS87XR40FRxc1evQF3AZ4gg-YYaDgEgxCuI0K4ZcrSqWnctG3dEl7F9tVCp_SpsgF093xiy8EhSzjdjK-OUw_TXrHPOJJvL9E4Ub6dkrAoMsKVeyzfqMdbTFDVPtKpj-aEL31Lyvbi4KchOc-uLTUA2zOp6onOju3er3yhPt8YoLQyTMZb3wbg1WDQQLgbzbzLEkEnZJE3sDOTyp9CrS57P0F3EPWCNtHmvixyEBEBQsCu4zmCmmiEEZ4bT4LAqMXJf9_hW8cpKoyTl-D1_PPOFQrayB1KSxktiW2SR5xl-pymQVHvKvseBow0Ni1X-W4-z_EvFyHtAeBoKopn8qBq1hOq-yzvTuQlK",
+      "width": 1170,
+      "height": 1546,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107112444894528443416\">Eric Rogers</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHmagUlL9kyV_hPYPrTjoiaH--NdhrgJbdWbmVyQQgytK9Dc-4Xv374kb41cavKvxVQJk-bGICEYg-pVdJfGDWU5xyTlQnExVWl-WoB_xS5Xtql42d7hsEmB4fTegHuchr6jyN5s1ED1LcSL9FoPVjhQICycbmFbiDaNJoDKF63IHLuT8GfOAi-M9McGlSF-zH-sG0R84iQcbm8IDr2gmGlcxmDeBM3GOAzLNazsaFtQGLL84h_p9LkeM3D7-v7hKM1wKwLanF4MzTcoHbOxKnWiqHJsynLNr8tAeD-Q9sTdbGQ2eaMOu3axU3LGAqELVuBA1KvXc-BPZzJWjfNcjmJ96_44amRLxJl7OAU46iellWi_fxAscHpYiWUgbW6enpK_ZaMzvFtYfjdR9mhBHmkCpKx20SbEB5NdWTUHe_Og",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106217369599996574412\">Dorian Perron</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Kamila",
+      "rating": 5,
+      "text": "Lovely space. It’s very obvious the owner put a lot of effort and care into it. Lots of little things to explore and everywhere you look, something interesting is going on. London desperately needs more spaces where people can hang out in the night/evening without alcohol being he main activity. Wonderful place and a great experience.\n\nI also left my charger and the owner was super helpful about it and went out of their way ♥️",
+      "time": 1753805995,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Maya Seligman",
+      "rating": 5,
+      "text": "Aghhhh what an awesome vibe this was so lush, so beautifully decorated, so many cool lo-fi sounds. Honestly it gave me lots of interior decorating inspiration!\nWe arrived at midnight, so it was quiet with a couple of people downstairs. No one is at the entrance, there's just a little phone to tell you how it works. £7 entry was totally earned for a very comfy resting spot, games, unlimited and so many kinds of tea and coffee and tasty biscuits. There's hot chocolate and different milks too!\nWill definitely be back. Its like a night out for a home bird! And was perfect for us as we had a really early morning flight, so needed somewhere to chill in Central London before getting to the airport :)",
+      "time": 1751266509,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Carlotta Dove",
+      "rating": 5,
+      "text": "One of a kind venue with the kindest owner Eric, put together with a lot of love and so many eccentric details. We rented out the night cafe for my birthday and had the best time!! Must-do for anyone living or visiting London ❤️",
+      "time": 1739102476,
+      "relative_time_description": "8 months ago"
+    },
+    {
+      "author_name": "Melissa Kelly Shore",
+      "rating": 5,
+      "text": "Me and my friends all met up in London for my birthday a few months back specifically to go here and were so so glad we did, had an absolutely brilliant night. Think this might be the coolest place I’ve ever been. If I lived in London I’d definitely go every week",
+      "time": 1754213868,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Aurora",
+      "rating": 5,
+      "text": "Went here for the first time tonight and OH MY GOD! This is not a real place! Loveliest chill areas with sofa, free tea and coffee and the best part: meeting people and finding out a diverse range of life stories. The owner was very welcoming and lovely and I definitely will be going back here again (might have to be a regular thing). Everything is so cool including the bathroom! There needs to be more places in London like this",
+      "time": 1706755848,
+      "relative_time_description": "a year ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:55.194Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RrGUY0ddkgRRY_1dGMkucY"
+}

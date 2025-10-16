@@ -4,44 +4,12 @@
   "count": 20,
   "results": [
     {
-      "place_id": "ChIJtTBPsJQDdkgRRhZtyhGZkk4",
-      "name": "Florattica Rooftop London",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.3,
-      "user_ratings_total": 1126,
-      "formatted_address": "11-15 Minories, London EC3N 1AX, United Kingdom",
-      "types": [
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5129534,
-          "lng": -0.07529129999999999
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51436987989272,
-            "lng": -0.07411347010727778
-          },
-          "southwest": {
-            "lat": 51.51167022010728,
-            "lng": -0.07681312989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
       "place_id": "ChIJF6Udn24FdkgRU6FtCxbuFiY",
       "name": "The Little Scarlet Door",
       "category": "bar",
       "priority": "medium",
       "rating": 4.5,
-      "user_ratings_total": 1767,
+      "user_ratings_total": 1766,
       "formatted_address": "12-13 Greek St, London W1D 4DL, United Kingdom",
       "types": [
         "night_club",
@@ -65,42 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJLQhK3sUDdkgRjdb6JaFRLAo",
-      "name": "Amazing Grace London Bridge",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.4,
-      "user_ratings_total": 1245,
-      "formatted_address": "9a St Thomas St, London SE1 9RY, United Kingdom",
-      "types": [
-        "bar",
-        "night_club",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.505059,
-          "lng": -0.0884176
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50634162989272,
-            "lng": -0.08722007010727778
-          },
-          "southwest": {
-            "lat": 51.50364197010728,
-            "lng": -0.08991972989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     },
     {
@@ -132,19 +65,20 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     },
     {
-      "place_id": "ChIJX9oFsVADdkgRy08FjKk2OHo",
-      "name": "London Bridge Rooftop Bar",
+      "place_id": "ChIJLQhK3sUDdkgRjdb6JaFRLAo",
+      "name": "Amazing Grace London Bridge",
       "category": "bar",
       "priority": "medium",
-      "rating": 4.2,
-      "user_ratings_total": 2688,
-      "formatted_address": "Colechurch House, Bridge Walk, London SE1 2SX, United Kingdom",
+      "rating": 4.4,
+      "user_ratings_total": 1248,
+      "formatted_address": "9a St Thomas St, London SE1 9RY, United Kingdom",
       "types": [
         "bar",
+        "night_club",
         "restaurant",
         "food",
         "point_of_interest",
@@ -152,31 +86,64 @@
       ],
       "geometry": {
         "location": {
-          "lat": 51.5061488,
-          "lng": -0.0872646
+          "lat": 51.505059,
+          "lng": -0.0884176
         },
         "viewport": {
           "northeast": {
-            "lat": 51.50741677989272,
-            "lng": -0.08574977010727779
+            "lat": 51.50634162989272,
+            "lng": -0.08722007010727778
           },
           "southwest": {
-            "lat": 51.50471712010728,
-            "lng": -0.08844942989272223
+            "lat": 51.50364197010728,
+            "lng": -0.08991972989272222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     },
     {
-      "place_id": "ChIJMatwN0kDdkgRcBw8bnixQpM",
-      "name": "Savage Garden Rooftop Bar",
+      "place_id": "ChIJO5NM4aUcdkgR-XrNmE-75f8",
+      "name": "Nightjar Shoreditch",
       "category": "bar",
       "priority": "medium",
-      "rating": 4.1,
-      "user_ratings_total": 1523,
-      "formatted_address": "Floor 12, 7 Pepys St, London EC3N 4AF, United Kingdom",
+      "rating": 4.6,
+      "user_ratings_total": 2598,
+      "formatted_address": "129 City Rd, London EC1V 1JB, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.52652459999999,
+          "lng": -0.0877366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52784162989272,
+            "lng": -0.08647217010727777
+          },
+          "southwest": {
+            "lat": 51.52514197010727,
+            "lng": -0.08917182989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJd0Gm6bccdkgRIZZqh6H_6VM",
+      "name": "Alcotraz London: Cell Block Two-One-Two",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 2571,
+      "formatted_address": "Unit 3B, 127 Hackney Rd, London E2 8GY, United Kingdom",
       "types": [
         "bar",
         "point_of_interest",
@@ -184,123 +151,53 @@
       ],
       "geometry": {
         "location": {
-          "lat": 51.5112113,
-          "lng": -0.0781301
+          "lat": 51.5301085,
+          "lng": -0.074373
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51262622989272,
-            "lng": -0.07663262010727777
+            "lat": 51.53138922989272,
+            "lng": -0.07308972010727778
           },
           "southwest": {
-            "lat": 51.50992657010728,
-            "lng": -0.07933227989272221
+            "lat": 51.52868957010728,
+            "lng": -0.07578937989272222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     },
     {
-      "place_id": "ChIJK8xFL2cbdkgRMg9yBFKANS4",
-      "name": "Lucy Wong | Fitzrovia",
+      "place_id": "ChIJtTBPsJQDdkgRRhZtyhGZkk4",
+      "name": "Florattica Rooftop London",
       "category": "bar",
       "priority": "medium",
-      "rating": 4.2,
-      "user_ratings_total": 397,
-      "formatted_address": "33-34 Rathbone Pl, London W1T 1JN, United Kingdom",
+      "rating": 4.3,
+      "user_ratings_total": 1127,
+      "formatted_address": "11-15 Minories, London EC3N 1AX, United Kingdom",
       "types": [
         "bar",
-        "restaurant",
-        "food",
         "point_of_interest",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5176082,
-          "lng": -0.1341934
+          "lat": 51.5129534,
+          "lng": -0.07529129999999999
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51900697989272,
-            "lng": -0.1328611701072778
+            "lat": 51.51436987989272,
+            "lng": -0.07411347010727778
           },
           "southwest": {
-            "lat": 51.51630732010728,
-            "lng": -0.1355608298927222
+            "lat": 51.51167022010728,
+            "lng": -0.07681312989272222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJBWTd664cdkgRr3oSfWBdQME",
-      "name": "Flight Club Shoreditch",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 4512,
-      "formatted_address": "2A Worship St, London EC2A 2AH, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5219806,
-          "lng": -0.0865396
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52343197989272,
-            "lng": -0.08525977010727777
-          },
-          "southwest": {
-            "lat": 51.52073232010728,
-            "lng": -0.08795942989272221
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJhwDB864cdkgRKKsKWOwoSgs",
-      "name": "Aviary",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.2,
-      "user_ratings_total": 2872,
-      "formatted_address": "Royal London House, 22-25 Finsbury Square, London EC2A 1DX, United Kingdom",
-      "types": [
-        "restaurant",
-        "bar",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5215805,
-          "lng": -0.0856625
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52297857989272,
-            "lng": -0.08432202010727778
-          },
-          "southwest": {
-            "lat": 51.52027892010728,
-            "lng": -0.08702167989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     },
     {
@@ -309,7 +206,7 @@
       "category": "bar",
       "priority": "medium",
       "rating": 4,
-      "user_ratings_total": 692,
+      "user_ratings_total": 693,
       "formatted_address": "35 The Piazza, London WC2E 8BE, United Kingdom",
       "types": [
         "bar",
@@ -334,7 +231,332 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJ-d3JPScbdkgRVkMUwI9RkYE",
+      "name": "Simmons Bar",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 5041,
+      "formatted_address": "203 Wardour St, London W1F 8ZH, United Kingdom",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5156782,
+          "lng": -0.1359222
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51704857989272,
+            "lng": -0.1344690201072778
+          },
+          "southwest": {
+            "lat": 51.51434892010727,
+            "lng": -0.1371686798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJbbfNWtIEdkgRkCmmqu5UyMU",
+      "name": "Opium Cocktail Bar - Soho",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.1,
+      "user_ratings_total": 2058,
+      "formatted_address": "15-16 Gerrard St, London W1D 6JE, United Kingdom",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5117862,
+          "lng": -0.13145
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51308572989272,
+            "lng": -0.1299447201072778
+          },
+          "southwest": {
+            "lat": 51.51038607010727,
+            "lng": -0.1326443798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJ6w2DBEkDdkgR_CwN2asGFhM",
+      "name": "The Cocktail Club - Cocktail Bar near Mansion House",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 376,
+      "formatted_address": "78 Queen Victoria St, Mansion House St, London EC4N 4SJ, United Kingdom",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5125494,
+          "lng": -0.0935921
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51386412989272,
+            "lng": -0.09226787010727777
+          },
+          "southwest": {
+            "lat": 51.51116447010727,
+            "lng": -0.09496752989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJUzv6p9UEdkgRf3JNfE64VXk",
+      "name": "Disrepute - Cocktail Bar in Soho",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 1119,
+      "formatted_address": "4 Kingly Ct, Carnaby, London W1F 9RS, United Kingdom",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5122358,
+          "lng": -0.1383323
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51352477989272,
+            "lng": -0.1369101701072778
+          },
+          "southwest": {
+            "lat": 51.51082512010728,
+            "lng": -0.1396098298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJ46R2PhMFdkgR1BjAhX30B_M",
+      "name": "Pulse Bar London",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.9,
+      "user_ratings_total": 350,
+      "formatted_address": "18 New Globe Walk, London SE1 9DR, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5075337,
+          "lng": -0.09633159999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50888252989272,
+            "lng": -0.09501342010727777
+          },
+          "southwest": {
+            "lat": 51.50618287010727,
+            "lng": -0.09771307989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJ79cBDAoFdkgR00V_0BAzrlU",
+      "name": "Mr Fogg's Society of Exploration",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 2258,
+      "formatted_address": "1A Bedford St, London WC2E 9HH, United Kingdom",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5098387,
+          "lng": -0.1236613
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51118697989272,
+            "lng": -0.1222564201072778
+          },
+          "southwest": {
+            "lat": 51.50848732010728,
+            "lng": -0.1249560798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJhQm0yNIEdkgRC4bXiV3RvY4",
+      "name": "Bar Soho",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.1,
+      "user_ratings_total": 2774,
+      "formatted_address": "23-25 Old Compton St, London W1D 5JL, United Kingdom",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5132254,
+          "lng": -0.1309166
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51461112989272,
+            "lng": -0.1295867201072778
+          },
+          "southwest": {
+            "lat": 51.51191147010727,
+            "lng": -0.1322863798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJrx4282IddkgRTeHNjFC_CEA",
+      "name": "A Bar with Shapes for a Name",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 789,
+      "formatted_address": "232 Kingsland Rd, Whitmore Estate, London E2 8AX, United Kingdom",
+      "types": [
+        "cafe",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5356735,
+          "lng": -0.0767291
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53702557989272,
+            "lng": -0.07546027010727778
+          },
+          "southwest": {
+            "lat": 51.53432592010728,
+            "lng": -0.07815992989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJk-Pwqj8FdkgRsRgIlFZ8FNU",
+      "name": "SOMA Soho",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 918,
+      "formatted_address": "14 Denman St, London W1D 7HJ, United Kingdom",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5108433,
+          "lng": -0.1352646
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51213547989272,
+            "lng": -0.1339459701072778
+          },
+          "southwest": {
+            "lat": 51.50943582010728,
+            "lng": -0.1366456298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
+      "query_used": "bar london"
+    },
+    {
+      "place_id": "ChIJ5WKTw7EEdkgRRhwij-alVfA",
+      "name": "Lyaness",
+      "category": "bar",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 2142,
+      "formatted_address": "20 Upper Ground, London SE1 9PD, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50839389999999,
+          "lng": -0.1066639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50958412989272,
+            "lng": -0.1053578701072778
+          },
+          "southwest": {
+            "lat": 51.50688447010727,
+            "lng": -0.1080575298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     },
     {
@@ -366,208 +588,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJbZiUoxsDdkgRG3fO4CTaBvA",
-      "name": "Electric Shuffle London Bridge",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 1207,
-      "formatted_address": "10 Bermondsey St, London SE1 2ER, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5040002,
-          "lng": -0.08326689999999999
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50534082989272,
-            "lng": -0.08185137010727778
-          },
-          "southwest": {
-            "lat": 51.50264117010728,
-            "lng": -0.08455102989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJ2Z0BJRYbdkgRLg6gh-bL9Xg",
-      "name": "Spiritland",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.3,
-      "user_ratings_total": 1219,
-      "formatted_address": "9 - 10 Stable St, London N1C 4AB, United Kingdom",
-      "types": [
-        "bar",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5365292,
-          "lng": -0.1253874
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53783467989271,
-            "lng": -0.1241582701072778
-          },
-          "southwest": {
-            "lat": 51.53513502010727,
-            "lng": -0.1268579298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJEW8mfi0bdkgRp7iYkQ45vqQ",
-      "name": "The Coral Room",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 669,
-      "formatted_address": "16-22 Great Russell St, London WC1B 3NN, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5172171,
-          "lng": -0.1289725
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51868467989272,
-            "lng": -0.1277570701072778
-          },
-          "southwest": {
-            "lat": 51.51598502010728,
-            "lng": -0.1304567298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJrx4282IddkgRTeHNjFC_CEA",
-      "name": "A Bar with Shapes for a Name",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 788,
-      "formatted_address": "232 Kingsland Rd, Whitmore Estate, London E2 8AX, United Kingdom",
-      "types": [
-        "cafe",
-        "bar",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5356735,
-          "lng": -0.0767291
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53702557989272,
-            "lng": -0.07546027010727778
-          },
-          "southwest": {
-            "lat": 51.53432592010728,
-            "lng": -0.07815992989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJbbfNWtIEdkgRkCmmqu5UyMU",
-      "name": "Opium Cocktail Bar - Soho",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.1,
-      "user_ratings_total": 2056,
-      "formatted_address": "15-16 Gerrard St, London W1D 6JE, United Kingdom",
-      "types": [
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5117862,
-          "lng": -0.13145
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51308572989272,
-            "lng": -0.1299447201072778
-          },
-          "southwest": {
-            "lat": 51.51038607010727,
-            "lng": -0.1326443798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJhQm0yNIEdkgRC4bXiV3RvY4",
-      "name": "Bar Soho",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.1,
-      "user_ratings_total": 2772,
-      "formatted_address": "23-25 Old Compton St, London W1D 5JL, United Kingdom",
-      "types": [
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5132254,
-          "lng": -0.1309166
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51461112989272,
-            "lng": -0.1295867201072778
-          },
-          "southwest": {
-            "lat": 51.51191147010727,
-            "lng": -0.1322863798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     },
     {
@@ -601,17 +622,17 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     },
     {
-      "place_id": "ChIJk-Pwqj8FdkgRsRgIlFZ8FNU",
-      "name": "SOMA Soho",
+      "place_id": "ChIJbxmJuLMcdkgR33dwiKTmT_Q",
+      "name": "Be At One - Spitalfields",
       "category": "bar",
       "priority": "medium",
       "rating": 4.7,
-      "user_ratings_total": 916,
-      "formatted_address": "14 Denman St, London W1D 7HJ, United Kingdom",
+      "user_ratings_total": 1515,
+      "formatted_address": "16-18 Brushfield St, London E1 6AN, United Kingdom",
       "types": [
         "bar",
         "point_of_interest",
@@ -619,55 +640,23 @@
       ],
       "geometry": {
         "location": {
-          "lat": 51.5108433,
-          "lng": -0.1352646
+          "lat": 51.518907,
+          "lng": -0.0782639
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51213547989272,
-            "lng": -0.1339459701072778
+            "lat": 51.52028972989272,
+            "lng": -0.07691697010727779
           },
           "southwest": {
-            "lat": 51.50943582010728,
-            "lng": -0.1366456298927222
+            "lat": 51.51759007010728,
+            "lng": -0.07961662989272222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
-      "query_used": "bar london"
-    },
-    {
-      "place_id": "ChIJd0Gm6bccdkgRIZZqh6H_6VM",
-      "name": "Alcotraz London: Cell Block Two-One-Two",
-      "category": "bar",
-      "priority": "medium",
-      "rating": 4.8,
-      "user_ratings_total": 2572,
-      "formatted_address": "Unit 3B, 127 Hackney Rd, London E2 8GY, United Kingdom",
-      "types": [
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5301085,
-          "lng": -0.074373
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53138922989272,
-            "lng": -0.07308972010727778
-          },
-          "southwest": {
-            "lat": 51.52868957010728,
-            "lng": -0.07578937989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:06.036Z",
+      "fetched_at": "2025-10-16T20:23:34.038Z",
       "query_used": "bar london"
     }
   ],
-  "fetched_at": "2025-10-15T10:53:06.037Z"
+  "fetched_at": "2025-10-16T20:23:34.038Z"
 }

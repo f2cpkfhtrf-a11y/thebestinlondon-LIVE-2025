@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJxdO_dIwcdkgRjJxaBzE5bwY",
+  "name": "Cirrik 19 Numara Bos",
+  "formatted_address": "34 Stoke Newington Rd, London N16 7XJ, UK",
+  "vicinity": "34 Stoke Newington Rd, London",
+  "rating": 4.8,
+  "user_ratings_total": 1613,
+  "price_level": 1,
+  "geometry": {
+    "location": {
+      "lat": 51.5515933,
+      "lng": -0.07474639999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.55294103029149,
+        "lng": -0.07352901970849796
+      },
+      "southwest": {
+        "lat": 51.55024306970849,
+        "lng": -0.07622698029150203
+      }
+    }
+  },
+  "lat": 51.5515933,
+  "lng": -0.07474639999999999,
+  "formatted_phone_number": "020 7249 0400",
+  "international_phone_number": "+44 20 7249 0400",
+  "website": "http://www.cirrik.co.uk/",
+  "url": "https://maps.google.com/?cid=463652169382009996",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ccrBZqKfhFct1KZnwRBLhnScQb13eF4QzqdTDU7bVv7MNj21nUoVMILqZViIModuM0CxEgjo5eFU32QJP6p1Gtn5nbhWYEpYSfAzTlL3KnTx00I4guEyhKFbJUKRqflQzM45-udhH2w-GgPhx30gSCqUVb3fqdcb9HfAm4DI8tOgVKYvEEewPVsIZB8-qiUbb0ZyF3da4cLHRBia0joFMIzq0im_eAHdxIIUdXwm9bUH_C4iTSSVT781o2lFoq2Ktob2ZD7g4wIddHGrqLSusKJottM-gxoBghx4i9d4M5Og",
+      "width": 1200,
+      "height": 801,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117250457243752909923\">Cirrik 19 Numara Bos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cdRkuO8cgip2D5qF-AQsE3sJmKWA-G0XAffhTz2c2bLCRPWN3XmaDfSkjAUO9UTiWybWcZmPmoMsld6VK27d1MmnS-qmRHDKK_WHl_BHIACrs_63OkgPTQCxmedq3OPmfIFMAkV34qWbDJ8HjuGuCoYJkzxopOHHm1VkMpIWvRkbV7rjoqTzHnavGctb4YBpae8YXpAx7VmPAMJ2Vs1sfbBRT3uaPNbg_pMiIwx7DiuIGWEqZtlIsgd3viiK_u72kRzm3ui6xRZlWPD6Aw-_-W-gEkQ_M2TqmONlll4T9omA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117250457243752909923\">Cirrik 19 Numara Bos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2czD01JvjD_qH47QHa3zGQ5rz7ClUmvPuJJ1jhnz6gcpArEeQoIDsLxsUBbjb4hbPTB0SVfkEdKC8edu5szjbMAOczaZ38yBUzRj6bCrqkW7DigbdJOOKLu0N-l0nVWMKTzksXaBziJg0vDEon7PyF9RDvk_mEqZLHf2AFTFibU9Wbv1ff7snS9M5pLiCIas1IfvYD3vRgY0mwpNs96b042Vfv417a5ua5667AzUdYfEB_8EEcBYSky-6F7hTgMoNIObXG12YeB8gb7CYrRVIrQlhG0xSVq3NVej_Eq2ftMiHbMemFridmtCeGgeAC3MeDSKdmQzmoqCCv8xzod_KHXdF_zgjMI47xn5uGARtd5s_snPP4JF4mu1aPOHbgtYYiZZRaa7-EjoKNjrY0PnraPHXIOTI1OZchl5sUc_EafmNPY_8HcdVGMypCHye0y",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114291049921022689087\">Stevie Gedge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eawI8TNNtQuCi7XmupF_ogmHT-SrtJlCBPeFFU44a_PzxfmHU0V8p3wVxfpwezySfqfOoVSR1U0YNWVHF5S8u3_coHN--MRNA3VDFfeJ_7HB4VKXoEtkOLI5VKYglqRqZKH7gB9CCKA3m6pXFOsKGvP61TJ276kY_uvvbBP4EhsYhnW4k3fFthoj5C4AD3M1jMeoLWoWAzq39-ZDbz11ccT_v-ralILD8BAvLNxdjrGokUtL-h9qeSfYUiBBlo98gefoDLE19k6ylxEe8YLxehqg5B2gyvIFm1a32FQgDhVQ",
+      "width": 1334,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117250457243752909923\">Cirrik 19 Numara Bos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNyzHPBIfq4ZV-4nwK_0AdAUJXNfRvUxkKmQsf1QYPD36yjSC3Agdg8CMDbqM9djEE5Vhhtd8SiRL_tQTfavwLsQA4KIEQBsalQYSgk-vnrjrVbVSNb4MuzcWL08Jewf0-53PH-9WSDI0L-KOUzF1zRl3maNsZel5Z9auo3XPHXnnFBHTuWInSfgnWsmXZUghijYT9QxL09x3xrM8DpQvRUKwxl2gOnoj4n3ZFsKhBjARHFpc6IUf5zZHzfofoSYSpm3a86gl15-VE9odCbYtN1LNW2RL_Tzz0aulJOelsnA",
+      "width": 2000,
+      "height": 1334,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117250457243752909923\">Cirrik 19 Numara Bos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d38ZvfSbAujE66lMS-HzVL9sXgK-NuX-yER92d9Wbha9N9bC568lgep-UvGpvxJbU4LV9MNYgzvsKlg_nadYjeaGLJyWfwiLK1D4FIbxA23Q3QG_HsOVq0ltc-5bLP2F0KpmrxdOSamHizTnPoGnh8RAmjVzDv_37z79cJ3zX9HlD40hf1IhTzgL2zCb4GnO8ytZJTYUSeMx7g8vbyZmzC1b67v5Q8p3cvmJQPnVlI63zlGEQmtywDG2gDfXX_madg04jsEdpX7EClFSyPYYKFnE6FsHwRibMcByntZPOAxA",
+      "width": 2000,
+      "height": 1334,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117250457243752909923\">Cirrik 19 Numara Bos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cuuS3OeaWaRXzfYdtuvndnk2YTqcNEPngwL3uckKGSDEkJUxPai0j6S6SAQzM-4TtEfIz5CRZSeTSrNkUnY5aRIrNBFUsIX1AAIfmLYQWMiSi67bk83gkdznqPwtx7BOrTQw2Py7jyChffheAw4DGhPK_TnwzlBS1WQutlsa1mvFsBCX_okiXVY7eCkxQD4LPfDC3NO2e_nrGDy6CVHNrichOb55G6oVAtezcNbjgQ_u9X4mBYCiSR7t0ER6A-9E73_2JtDyMILNrKS2Ty1MKWv53aIv2y7-aQRqr9htG_Xy_5g4E9lZb1NUYf-99n49P6ASkkR32m0UgYIUBFwoZsNVYsP0k2L6jelrSxEirCDYMvj9alBLMKFJqX4d1ScEuUAkDeMtXvZub3sSrsKUojySoAY9YxFY9v8j4wuAxdlzsvv1tsQE1XlMCNw2k1",
+      "width": 3024,
+      "height": 3254,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113607521826387723985\">Maxwell Beckett</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flSQ2AQmMVPe4-kQtfelQJ_QRwaW4GO0uwnLl49-XEwpMFam14EHpF16gDFBIvGSlCslW31KrEuUkTE1WnonSbpNF7CyrIz9CyVshi34fNYMd6AMA4YVYAq86tNQymdkc0AfjINuKUtXrLaDBVVBzZyWqrnUeZL_NTqs-xIOrDWksozOpu1VuT3br_Yk9tgApxHa4HJm5LDMdnfFfqVlWec-ef-nBHPgPQp_E_z99T0iF3ixduDAB09v6wprGN2vHLtXe5_Wmvb3SwL89KU3IB-qJeG0AMkYjcQZf0X7OHow",
+      "width": 1334,
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117250457243752909923\">Cirrik 19 Numara Bos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fK4oYp1dL3LC7JWMhVLEHgburcpSk0IE5VA4IHnQBa8kx0s2RSIAgYRaG8Lu2egQED7edRmKxhV-0-PUWpRvVcjr6kLxdr_ORYqTsi5uVkPc8hWf97DpolXugH_0UxLeALgo5PGIdy3tkO01Q365hc4hAGZ6ds29bv5wfkC8X9K24Gmml3NlaL_DEG344eojnYQZoBklAwRocixA-g6naeo4j9KkJDCpBK60SNOcrJBpFaSVIc8_Kf1iScO9cGxzak073ehCCKpQv5dU9E5MhwYR6zlwNjnwn9hRTW-eCTkA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117250457243752909923\">Cirrik 19 Numara Bos</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fMmgt1_FWtmOtD3tZbz2KjiBI3I6ONPpsKR2iMje1BgwecfbY5_oPcCNBk80icaKtJ0S4Czd7vJHCUZN1XDsoqcXNeshCMhtx54EAESFidD-3RjshRTvM8oHWrTrAaaqOTVFZYKo-6ILC2Dtp4bCWiEVq7cRPGNt_kZZiUjIrZfW4gRpDFFR5H--oQK1jUU0MwM0Mg50Mx6ra3joVW0KiMDr-qvkpzCgfwtEvUQN1psVIkyugjbgX4b9ge9Qsch8Ib45mEzglqC2Bcg-rUZxd8adr0AQnfi0I_7Qtzq3HiVdBtUtGRf1c0XAkeMuNxRhz3vzy_cZDbR7qHuIYitD3rUaAdnkNzlUWfFxYVqZwj1wM3QwZbz8Uev2QOIDT3_S_9thxCBrj0fZv3aRMhlYuxIVcMAtzsPYfSCZa_TnmAvA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106361038062953059143\">N Fidow</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Contemporary, family-run ocakbasi barbeque restaurant featuring natural wines & cocktails.",
+  "reviews": [
+    {
+      "author_name": "N Fidow",
+      "rating": 5,
+      "text": "Food was amazing! Great atmosphere and service. The owner recommended their dishes and the recommendations did not disappoint. Thank you for having us - we’ll be back.",
+      "time": 1749502524,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Amelia Griffiths",
+      "rating": 5,
+      "text": "One of the best restaurants I have ever been to. Outstanding food, incredible flavours and the staff were so attentive, kind and lovely. Couldn't fault a thing! A must try. I'd recommend every day of the week.",
+      "time": 1750081764,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "10Fold “Mr Rate Escape”",
+      "rating": 3,
+      "text": "⭐️⭐️⭐️✨ (3.5/5)\n⚖️ 5/10\n\nOrdered via Deliveroo 🚴‍♂️ — with a promo applied, the total came to £23.25 for the Et Beyti Yoğurtlu (£15.05) and chips (£2.80) 🍟. For the price, I can’t complain — it felt fair enough 💷. Delivery took just over an hour ⏰, which was reasonable, but by the time it landed the food had already lost its freshness.\n\nThe chips were limp and stale 🥱, lacking any crispness or warmth. The rice was standard 🍚 — no seasoning, no aroma, just a plain filler on the plate. The Beyti itself was decent but uninspired 🥙: yoghurt gave it tang, the meat had some flavour, but nothing that stood out or carried that fresh-off-the-grill vibrancy 🔥.\n\nOverall, a mediocre, mid-tier experience 😐. Edible, yes — but uninspired. I genuinely think the food would be far better fresh at the restaurant 🍽️, where the grill and seasoning could actually shine.\n\nWould I order delivery again? ❌ Doubt it.\nWould I visit in person? ✅ Most likely.",
+      "time": 1759362447,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "jemima griffiths",
+      "rating": 5,
+      "text": "Speechless!!! Outstanding food, couldn’t fault anything! Very authentic turkish food and the most lovely staff. Will be returning on our next visit. Just try the patlican ezme (roasted aubergine) and the hummus is to die for!! A hidden gem in Dalston. Super affordable they do a lunch deal for 13.50 per person",
+      "time": 1750081705,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Miroslav Výbošťok",
+      "rating": 5,
+      "text": "This was the first restaurant in London that I would say was actually very good. Nice personal, interesting flavours.",
+      "time": 1753093673,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:48.114Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdO_dIwcdkgRjJxaBzE5bwY"
+}

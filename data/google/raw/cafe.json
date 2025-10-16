@@ -4,108 +4,6 @@
   "count": 20,
   "results": [
     {
-      "place_id": "ChIJl381_ewEdkgRICMBqcXSYR4",
-      "name": "Kennington Lane Cafe",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.9,
-      "user_ratings_total": 7880,
-      "formatted_address": "383 Kennington Ln, London SE11 5QY, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4860762,
-          "lng": -0.1210587
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.48748252989273,
-            "lng": -0.1197542201072778
-          },
-          "southwest": {
-            "lat": 51.48478287010728,
-            "lng": -0.1224538798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJ565hgN0EdkgRMhOboIZ7uJ8",
-      "name": "Regency Cafe",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.7,
-      "user_ratings_total": 4433,
-      "formatted_address": "17-19 Regency St, London SW1P 4BY, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4937725,
-          "lng": -0.132194
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.49520907989272,
-            "lng": -0.1309128701072778
-          },
-          "southwest": {
-            "lat": 51.49250942010728,
-            "lng": -0.1336125298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJWzWzp8ocdkgR5RIcO94iwvs",
-      "name": "Dulce Coffee London",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 1550,
-      "formatted_address": "86 Whitechapel High St, London E1 7QX, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5158958,
-          "lng": -0.07057089999999999
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51720672989272,
-            "lng": -0.06914047010727778
-          },
-          "southwest": {
-            "lat": 51.51450707010728,
-            "lng": -0.07184012989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
       "place_id": "ChIJ48Eo7dMFdkgRDRR-IKXnm3c",
       "name": "EL&N London",
       "category": "cafe",
@@ -115,8 +13,8 @@
       "formatted_address": "112 Wardour St, London W1F 0TS, United Kingdom",
       "types": [
         "cafe",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -135,109 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJNc-tXDMbdkgRK71JU82ZU38",
-      "name": "Drury Covent Garden | Cafe & Brunch",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 3401,
-      "formatted_address": "188-189 Drury Ln, London WC2B 5QD, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5160905,
-          "lng": -0.123997
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51740692989272,
-            "lng": -0.1226980201072778
-          },
-          "southwest": {
-            "lat": 51.51470727010728,
-            "lng": -0.1253976798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJ-407j0sDdkgR6p-qL3dUD4I",
-      "name": "De Vine",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 5,
-      "user_ratings_total": 4061,
-      "formatted_address": "under railway bridge, to, 19 Vine st next, 2 America Square, London EC3N 2PX, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5110165,
-          "lng": -0.07562819999999999
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51239252989273,
-            "lng": -0.07404617010727778
-          },
-          "southwest": {
-            "lat": 51.50969287010728,
-            "lng": -0.07674582989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJjSKnuM0adkgRA725Gi-2JFk",
-      "name": "The Monocle Café",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 2021,
-      "formatted_address": "18 Chiltern St, London W1U 7QA, United Kingdom",
-      "types": [
-        "cafe",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5187865,
-          "lng": -0.1546211
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52013007989272,
-            "lng": -0.1533406201072778
-          },
-          "southwest": {
-            "lat": 51.51743042010728,
-            "lng": -0.1560402798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
+      "fetched_at": "2025-10-16T20:23:30.522Z",
       "query_used": "cafe london"
     },
     {
@@ -246,15 +42,15 @@
       "category": "cafe",
       "priority": "high",
       "rating": 4.4,
-      "user_ratings_total": 8585,
+      "user_ratings_total": 8593,
       "formatted_address": "155 Wardour St, London W1F 8WG, United Kingdom",
       "types": [
         "cafe",
         "bakery",
         "store",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -273,244 +69,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJByFlIyEFdkgRLsXxsLPLA3k",
-      "name": "The English Rose Café & Tea Shop",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 1957,
-      "formatted_address": "4 Lower Grosvenor Pl, London SW1W 0EJ, United Kingdom",
-      "types": [
-        "cafe",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4980729,
-          "lng": -0.1444755
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.49948442989272,
-            "lng": -0.1430989201072778
-          },
-          "southwest": {
-            "lat": 51.49678477010728,
-            "lng": -0.1457985798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJsdg0mjAbdkgRSDUV0W_8YaM",
-      "name": "49 Cafe",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.7,
-      "user_ratings_total": 934,
-      "formatted_address": "49 Marchmont St, London WC1N 1AP, United Kingdom",
-      "types": [
-        "cafe",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5249062,
-          "lng": -0.1252272
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52626797989272,
-            "lng": -0.1238236201072778
-          },
-          "southwest": {
-            "lat": 51.52356832010727,
-            "lng": -0.1265232798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJ_UZdjtsEdkgRcHnYGRr8sw0",
-      "name": "St James's Café",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4,
-      "user_ratings_total": 3609,
-      "formatted_address": "Horse Guards Rd, London SW1A 2BJ, United Kingdom",
-      "types": [
-        "cafe",
-        "bar",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.50394499999999,
-          "lng": -0.1316639
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50836855,
-            "lng": -0.12525595
-          },
-          "southwest": {
-            "lat": 51.49779475,
-            "lng": -0.14306255
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJu307LQ4ddkgR2fVMeX5bjs0",
-      "name": "Nora Cafe",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 1240,
-      "formatted_address": "9 Wentworth St, London E1 7TB, United Kingdom",
-      "types": [
-        "cafe",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5165654,
-          "lng": -0.0760312
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51786597989272,
-            "lng": -0.07455412010727777
-          },
-          "southwest": {
-            "lat": 51.51516632010727,
-            "lng": -0.07725377989272221
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJH-tBOc4EdkgRSJHGvvxILtY",
-      "name": "Café in the Crypt",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.2,
-      "user_ratings_total": 2486,
-      "formatted_address": "Trafalgar Sq, London WC2N 4JH, United Kingdom",
-      "types": [
-        "cafe",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.50913320000001,
-          "lng": -0.1267349
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51043517989272,
-            "lng": -0.1256350701072778
-          },
-          "southwest": {
-            "lat": 51.50773552010728,
-            "lng": -0.1283347298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJo3mM-EUbdkgRaCw8YKTvL74",
-      "name": "Cafe Maya",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 878,
-      "formatted_address": "114 Farringdon Rd, London EC1R 3AP, United Kingdom",
-      "types": [
-        "cafe",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5252972,
-          "lng": -0.1107044
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52665702989272,
-            "lng": -0.1092571201072778
-          },
-          "southwest": {
-            "lat": 51.52395737010728,
-            "lng": -0.1119567798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJR_W2JuMPdkgRyJM3RwBG_jg",
-      "name": "Farm Girl",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 3495,
-      "formatted_address": "59A Portobello Rd, London W11 3DB, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5119884,
-          "lng": -0.2008371
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51342232989272,
-            "lng": -0.1994686201072778
-          },
-          "southwest": {
-            "lat": 51.51072267010728,
-            "lng": -0.2021682798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
+      "fetched_at": "2025-10-16T20:23:30.522Z",
       "query_used": "cafe london"
     },
     {
@@ -519,12 +78,12 @@
       "category": "cafe",
       "priority": "high",
       "rating": 4.6,
-      "user_ratings_total": 7569,
+      "user_ratings_total": 7572,
       "formatted_address": "42 Hans Cres, London SW1X 0LZ, United Kingdom",
       "types": [
         "cafe",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -543,146 +102,586 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
+      "fetched_at": "2025-10-16T20:23:30.522Z",
       "query_used": "cafe london"
     },
     {
-      "place_id": "ChIJ2z4P9lIFdkgRWIvb_FtZZcI",
-      "name": "Sheila's Cafe",
-      "category": "cafe",
-      "priority": "high",
-      "rating": 4.7,
-      "user_ratings_total": 1767,
-      "formatted_address": "24a Craven Terrace, London W2 3QH, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.51222629999999,
-          "lng": -0.1783241
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51362892989272,
-            "lng": -0.1768835701072778
-          },
-          "southwest": {
-            "lat": 51.51092927010728,
-            "lng": -0.1795832298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
-      "query_used": "cafe london"
-    },
-    {
-      "place_id": "ChIJSXVK7qIFdkgRW0VrW66OFJs",
-      "name": "Cafe Parisienne",
+      "place_id": "ChIJl8b8USsbdkgRwY4c6Yh7udU",
+      "name": "Scarlett Green",
       "category": "cafe",
       "priority": "high",
       "rating": 4.8,
-      "user_ratings_total": 1108,
-      "formatted_address": "225 Lavender Hill, London SW11 1JR, United Kingdom",
+      "user_ratings_total": 9389,
+      "formatted_address": "soho@daisygreenfood.com, 4 Noel St, London W1F 8GB, United Kingdom",
       "types": [
-        "cafe",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.4643564,
-          "lng": -0.1620557
+          "lat": 51.5153079,
+          "lng": -0.1357991
         },
         "viewport": {
           "northeast": {
-            "lat": 51.46574822989272,
-            "lng": -0.1607172201072778
+            "lat": 51.51661057989272,
+            "lng": -0.1344161201072778
           },
           "southwest": {
-            "lat": 51.46304857010728,
-            "lng": -0.1634168798927222
+            "lat": 51.51391092010727,
+            "lng": -0.1371157798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
+      "fetched_at": "2025-10-16T20:23:30.522Z",
       "query_used": "cafe london"
     },
     {
-      "place_id": "ChIJI4805ysbdkgRfZMHHR3YA5M",
-      "name": "Double J's Cafe",
+      "place_id": "ChIJZ1C6--8bdkgRsDL5_Nb3ZME",
+      "name": "LUMI Camden",
       "category": "cafe",
       "priority": "high",
-      "rating": 4.9,
-      "user_ratings_total": 1657,
-      "formatted_address": "333 Euston Rd., London NW1 3AD, United Kingdom",
+      "rating": 4.7,
+      "user_ratings_total": 2013,
+      "formatted_address": "82 Camden High St, London NW1 0LT, United Kingdom",
       "types": [
         "cafe",
         "store",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5242768,
-          "lng": -0.1400542
+          "lat": 51.5367457,
+          "lng": -0.1404817
         },
         "viewport": {
           "northeast": {
-            "lat": 51.52569972989272,
-            "lng": -0.1387604701072778
+            "lat": 51.53809292989272,
+            "lng": -0.1392000701072778
           },
           "southwest": {
-            "lat": 51.52300007010727,
-            "lng": -0.1414601298927222
+            "lat": 51.53539327010727,
+            "lng": -0.1418997298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
+      "fetched_at": "2025-10-16T20:23:30.522Z",
       "query_used": "cafe london"
     },
     {
-      "place_id": "ChIJY1stUiwOdkgRNsy-zqRbmN8",
-      "name": "Wild Thyme London",
+      "place_id": "ChIJ9TEki7obdkgRxH3iJZNZUek",
+      "name": "Victoria House Coffee & Food",
       "category": "cafe",
       "priority": "high",
-      "rating": 4.9,
-      "user_ratings_total": 1090,
-      "formatted_address": "2b Thorpebank Rd, London W12 0PQ, United Kingdom",
+      "rating": 4.8,
+      "user_ratings_total": 4897,
+      "formatted_address": "5 Coptic St, London WC1A 1NH, United Kingdom",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51742429999999,
+          "lng": -0.1263894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51879832989272,
+            "lng": -0.1249455701072778
+          },
+          "southwest": {
+            "lat": 51.51609867010728,
+            "lng": -0.1276452298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJR_W2JuMPdkgRyJM3RwBG_jg",
+      "name": "Farm Girl",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 3497,
+      "formatted_address": "59A Portobello Rd, London W11 3DB, United Kingdom",
       "types": [
         "cafe",
         "restaurant",
+        "point_of_interest",
         "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5119884,
+          "lng": -0.2008371
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51342232989272,
+            "lng": -0.1994686201072778
+          },
+          "southwest": {
+            "lat": 51.51072267010728,
+            "lng": -0.2021682798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJ2RrGUY0ddkgRRY_1dGMkucY",
+      "name": "London Night Cafe",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 123,
+      "formatted_address": "56 Middlesex St, London E1 7EZ, United Kingdom",
+      "types": [
         "point_of_interest",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5070741,
-          "lng": -0.238548
+          "lat": 51.5160207,
+          "lng": -0.07591339999999999
         },
         "viewport": {
           "northeast": {
-            "lat": 51.50839707989272,
-            "lng": -0.2372473201072778
+            "lat": 51.51736072989272,
+            "lng": -0.0745978701072778
           },
           "southwest": {
-            "lat": 51.50569742010727,
-            "lng": -0.2399469798927222
+            "lat": 51.51466107010727,
+            "lng": -0.07729752989272223
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:02.136Z",
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJl381_ewEdkgRICMBqcXSYR4",
+      "name": "Kennington Lane Cafe",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 7895,
+      "formatted_address": "383 Kennington Ln, London SE11 5QY, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4860902,
+          "lng": -0.1210626
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48748252989273,
+            "lng": -0.1197542201072778
+          },
+          "southwest": {
+            "lat": 51.48478287010728,
+            "lng": -0.1224538798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJ565hgN0EdkgRMhOboIZ7uJ8",
+      "name": "Regency Cafe",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 4435,
+      "formatted_address": "17-19 Regency St, London SW1P 4BY, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4937725,
+          "lng": -0.132194
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49520907989272,
+            "lng": -0.1309128701072778
+          },
+          "southwest": {
+            "lat": 51.49250942010728,
+            "lng": -0.1336125298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJ_UZdjtsEdkgRcHnYGRr8sw0",
+      "name": "St James's Café",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4,
+      "user_ratings_total": 3608,
+      "formatted_address": "Horse Guards Rd, London SW1A 2BJ, United Kingdom",
+      "types": [
+        "cafe",
+        "bar",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50394499999999,
+          "lng": -0.1316639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50836855,
+            "lng": -0.12525595
+          },
+          "southwest": {
+            "lat": 51.49779475,
+            "lng": -0.14306255
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJNc-tXDMbdkgRK71JU82ZU38",
+      "name": "Drury Covent Garden | Cafe & Brunch",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 3409,
+      "formatted_address": "188-189 Drury Ln, London WC2B 5QD, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5160905,
+          "lng": -0.123997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51740692989272,
+            "lng": -0.1226980201072778
+          },
+          "southwest": {
+            "lat": 51.51470727010728,
+            "lng": -0.1253976798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJtXwZ4EsFdkgRakzEeDuvgGQ",
+      "name": "Café Kitsuné - Covent Garden",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 36,
+      "formatted_address": "55 Monmouth St, London WC2H 9DG, United Kingdom",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5134008,
+          "lng": -0.1269323
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51475512989272,
+            "lng": -0.1256585701072778
+          },
+          "southwest": {
+            "lat": 51.51205547010728,
+            "lng": -0.1283582298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJE_X5wtgFdkgR-S_jLo7iASU",
+      "name": "Old Queen Street Cafe",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 623,
+      "formatted_address": "6 Old Queen St, London SW1H 9HP, United Kingdom",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50091159999999,
+          "lng": -0.1299867
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50224732989273,
+            "lng": -0.1286096701072778
+          },
+          "southwest": {
+            "lat": 51.49954767010728,
+            "lng": -0.1313093298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJPezp68UcdkgR7-XRi5OAXZ4",
+      "name": "E Pellicci",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 2781,
+      "formatted_address": "332 Bethnal Grn Rd, London E2 0AG, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5264897,
+          "lng": -0.0634322
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52789067989272,
+            "lng": -0.06210107010727778
+          },
+          "southwest": {
+            "lat": 51.52519102010727,
+            "lng": -0.06480072989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJpQZ9bukbdkgRUZEm0CT95rg",
+      "name": "Morr",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.9,
+      "user_ratings_total": 148,
+      "formatted_address": "242 Upper St, London N1 1RU, United Kingdom",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5450828,
+          "lng": -0.1034029
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54642377989272,
+            "lng": -0.1019836201072778
+          },
+          "southwest": {
+            "lat": 51.54372412010728,
+            "lng": -0.1046832798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJWzWzp8ocdkgR5RIcO94iwvs",
+      "name": "Dulce Coffee London",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1550,
+      "formatted_address": "86 Whitechapel High St, London E1 7QX, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5158958,
+          "lng": -0.07057089999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51720672989272,
+            "lng": -0.06914047010727778
+          },
+          "southwest": {
+            "lat": 51.51450707010728,
+            "lng": -0.07184012989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJK8MVG6YFdkgRKPtZGres00k",
+      "name": "EL&N London Park Lane",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4,
+      "user_ratings_total": 3062,
+      "formatted_address": "48 Park Ln, London W1K 1PR, United Kingdom",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.50684889999999,
+          "lng": -0.1518459
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50819642989271,
+            "lng": -0.1505630701072778
+          },
+          "southwest": {
+            "lat": 51.50549677010727,
+            "lng": -0.1532627298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJo3mM-EUbdkgRaCw8YKTvL74",
+      "name": "Cafe Maya",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 880,
+      "formatted_address": "114 Farringdon Rd, London EC1R 3AP, United Kingdom",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5252972,
+          "lng": -0.1107044
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52665702989272,
+            "lng": -0.1092571201072778
+          },
+          "southwest": {
+            "lat": 51.52395737010728,
+            "lng": -0.1119567798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
+      "query_used": "cafe london"
+    },
+    {
+      "place_id": "ChIJvySgiAAFdkgRxqIqR9WFZCw",
+      "name": "Feya",
+      "category": "cafe",
+      "priority": "high",
+      "rating": 4.2,
+      "user_ratings_total": 2286,
+      "formatted_address": "Unit 4, 6 Marble Arch, London W1H 7EJ, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5139211,
+          "lng": -0.1607611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51521202989272,
+            "lng": -0.1594601701072778
+          },
+          "southwest": {
+            "lat": 51.51251237010727,
+            "lng": -0.1621598298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:30.523Z",
       "query_used": "cafe london"
     }
   ],
-  "fetched_at": "2025-10-15T10:53:02.136Z"
+  "fetched_at": "2025-10-16T20:23:30.523Z"
 }

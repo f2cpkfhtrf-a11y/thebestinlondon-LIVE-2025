@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJC3tJlEAFdkgRD9S3kGU0KS4",
+  "name": "Fes Restaurant",
+  "formatted_address": "210 Walworth Rd, London SE17 1JE, UK",
+  "vicinity": "210 Walworth Rd, London",
+  "rating": 4.8,
+  "user_ratings_total": 749,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4891566,
+      "lng": -0.0965451
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4905320302915,
+        "lng": -0.09506001970849798
+      },
+      "southwest": {
+        "lat": 51.48783406970851,
+        "lng": -0.09775798029150204
+      }
+    }
+  },
+  "lat": 51.4891566,
+  "lng": -0.0965451,
+  "formatted_phone_number": "020 7701 0004",
+  "international_phone_number": "+44 20 7701 0004",
+  "website": "http://www.fesrestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=3326247410614129679",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 1:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cje96Htf8RO2Fv20NyGKdQ-aCCjrNytG_K9nYiTGSeZBlUob9u3yM_0rOzyK33kiWuMts8inrhLaMsPVvdZJ5PrBNCxhU3fZ66LIM7T-jzYhDa_87EKUuN2Tdp4_AztPtTfGnFl3i3hvYmC4phbf52OY3DH4LEE9hFN28XjlCu3dWWuME7T7r2coVSS3-yLea3OJqyFYLJEaT7TfdZZyuPCMdqeL_KZBAtLaS5CRHMR2tSt_baHcm2HCBLCqHkifba_VPIzt28DPm16jv2tEIAVIQmozj72DVdAnlYcmFAGg",
+      "width": 1600,
+      "height": 1066,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111903775413688227029\">Fes Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHSiIPBMyCGIvVvnx3gB8JI24dXgjZZRy5ZLhUZ9iZB57kCxZmdz9fdzQolAEdYE_5-dkkFoqA43CSILlaC1mXtcmIzpVCoztbRU2TH_H_BLlq4_KQroI8taBAGhUU5YXjChrMnxe_vROm81StgWE7UEEgWv6dyHXY-ZmreB-SUIIpwdYErKoYKa0HKyaaMcYeoEwercdds-w5S_7jMuCB9xmB1obSvCTBtDUDsZhKSnrnlAtbIo26ajpu44AUGIyVp0mESPdUSUIr8x7jV7vGcl2LquBINEQnyvaPwuEK0A",
+      "width": 1600,
+      "height": 1066,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111903775413688227029\">Fes Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dBtK4Qn8EJBjxiKnfB47AYQH_HrAZAK3X0zH-qcyNt9k5vc9-W9fgwlycErj3ZzNTMU7WeI4Eim8iC1xgs4hPqrzD0hcb3fRo1R74dCaRjYeMD9ZcPhdG9Gme9hDdpK9W3REQ6-VOMlroZgwhoRQxUmK9GiInJmhy0SDhDtM30_bwpU4-chXkj_kYKsVdNs7LRA8hXWk8WxpzgMHCx823j8i-JanX4jqjAfkllJS14theSFe7TnHGkvpNtvHo_QxgKs1qIQZQrGpqY4m5MAxUEKBneIK2so2HtRdIdAGKhYmh7Wmsx2ibGcupRToHPMXafEt91g5L2xmWZrLJzAyRxX45NmjzS9rBGrIZqh6IIwD-HXVvO_xJKBpxmApJBHcEDQnykOgNnYG93CxV6Hx76Zs6OF6tSEf4SaMFJn-QHdWMQAQKAp21dCKsOBg",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104871210185223805387\">Chrissie Chou</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cwZFvjo5OlrP0E6dB0j7FxoZ3d78MUDPstyjkM34SLVYaPqcNOXZjPhE3WgMBs5HOXZjviybxduPRT-ocbE77Dogna3tgtlaMVL5vAqVOH_-BLDQvnXiqPkMQibkOG3Iv9lCC60Dn5eQF3MzULPr2gCshZlAsNtHWyidiPwuvsRrqOFt31mNipO9w7ny8C4urQkmjyStCO20OCl1418m8Dmr3z0I2jWhR_R0iCBN7DkBRVl1MqhE2YmtL6odmFMeBwRhjTFlB-uo1K2f9emgHFqjefRWDgYZwmzBOQJgZkiRrsFmpxsg7fcfnGDRSsOu8xI_IxJzHeqVgTOF0Z5HSadYlsE5WDqIN7qlIrhBmoln7r55XQD7ifj-US9j-UfpTUzn_OxWBd4N0FgxmDscItlU8MvKKW9mcAp5J3qAIo0A",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107798597612515364046\">Nasir Ali</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exzrIxOXTDZHYNIvo5SvLdXoGYAyDFe2VixqwwE4P70VBv-HpZh8brAStUUpn6iUEBW0nzIlsksYaayH_ph4Ppr2UhvH7fup6whsxLqucafRPa4N-7xnMRXkYLIqT5hGq-LKZAodkHmWfrB2SUP0rGQNdNRW5QVmbplQxgGqu7-k1woPSCs0q7yqnDfnVUegPhCGDaxG5XJZNagpgkX-itDMfF3IdssBOgY0-cs4kvUrHNCZfQhDGxL81hTp2qBxSzjcSMEAaVv3LLA9PaEBSF7zdsDEH_8JEWyWH6iCFAUsfpLJ5nLu_uRi4zWP-dGS-LydORT9429mtNvZxkbi5WYIN7aKHmwYb2VMxCdBxRBtbsVkznSVV92zWNUEJ_OBlQ7VLsKY6W4qG1Tp67jC1bsGz1jFPqcbSsFKss9Jw70fM3Wa1s03HjTOY7tw",
+      "width": 2252,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114906366644731438555\">Fawaz almehrij</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fNBjn03du6uul9goRc6US-R-rMGIYlJYwdJxbbqy2H_DWceEVPdy3vKqJ0gb-hA8jCwnVeuGvAd_n1RLogHf_SQsL9OInN3d5uCM1UqYc5ZLk_HPvlTZ7joqsynRWCu7CQNpCkIYEaO_-JUPp6mY16hE6XXCfsuhxWX1OfXg4_FhARmsucqElnI86bfN2s-RtxdCfDTKQiFmomyGeyWos-wQm9Lt3E953PjMeqoFEkpswOvgrEn3BzHIGwOeXWmwcd5KhOUshDxESKwD2KTpABEcg3DKcvBhqn-njWNOy04lah6_YlT1jLD0HvrBW5QWMD-DNaIHAgyBSgY919KmcNnjhBpzDgg7YqhRZzN8Kj1bF0WMduihb9kdoD73lUQGAR6Vw3Khielii8z__lQU_zHSVT3NbaWwEHpyi6Lrn76Q",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106570649055351011373\">Yiğit Kaan Kıran</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dqoGJu6VQ1OsK5mF6oB8wVWC9uvlxyhYyfkbWIBpW-wMpxHSFmDYzeBsYRG-K9KiNmkLxKz0ET-KbGZDK3xPX_RtBp6uYp9eJHJu2r1_vbzVBxLd_Z_xV19d6zTmbIdkikuR5nh3nufMKU-bTaVMDe1RhFG2xGXCoV2TrEcdI02j6K1REokLhbSwCAJf_D3hehUHqm_BpYXZd2cncGJ_eLWDBFLK29rk9oencda7-37dcxMQlb_xUEb_07ROl0TC3KrdJUA-ldIU4VWc7hfVW4N467jUBrDUXKPn2pVufLIE4R80V5mJYqcmRKMFbyjY9OI2Jdoxr_tpgLFXRJvSXsgBnHZQEik0GMXl53X-LJC_NlHQURXIJCf3xnOX5kcjq_nrOEHvzY-WSFIwsjWkcdMRCjoAbQZBI4JI31x57aZnU",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113741591820849408252\">Xinwen WU</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJ3AJp3BjKfFP75hkALbjnRMY67WGr4uPSKgRL3jL4sKIZ_wKpuED7lGIAPFaPGeRabR6EcnoxS0qvBjP5bl6XEKgyF22M_9YinWqyPOoJ7gzQk_bjpA9BShjZu8YN65V4A9ZgkckifWPmeotWO-IQmIJP9Uls5EoCXqX76sc8oPiJSIeD9YCDAQALzlA1PL84vRq6fgCZhCkXTPDArCZNGPruy3J2aPUvEwv1wQBZFRr2jaJBhGyXoor3w5mnQCjEebTkK6WzU03V3w3L0b5CWbduQNsje5ue1xNUHrD9y3OGEcK813Ei9aP7bu93S995gAo17B3DY6a7PF4P78bXDfJ_dUBKZEha3k-AoGvqNuSKEYUdRfjwKyiBy9f208LFyZlH6ZsjzjKkpSJBlS1O0I3JGK05PCIWnWTlZHs",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115279975641191323381\">Esteban I Alvarez</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fgoJQWOaTQXyhdgV9n2jiuwSwcwEdx08N2b-OBJk7YMUoJ7Aa3NHn3qcfZ2k8dCBawL6D88h33Urm3b-qBf33l4SPDTDqjIBV_KQanawMvy2X3SyOQNo8SG8aZpqd1-M-t6HLAhznZ_G6X1-5VCF50txrYiZWdBV5a4Fxf5GJwxNXX4HJNz8swm9Tgon_jncXGOVbAJvT5ZDK1h_HkSi3-D-XfA7hdHnPiZbJDDM7cdj-CuThA-vhwaz3z1PvtwVkMa24dZeeTpgiTGP0wO92xlqznBwZzemNeqBJMv6q9cN668o4e522IXlk0As4GziRLTrW_6c4a5FVSI_PWVda5dmP_iy10viv_K34NaWJYap9hLnDEiv6bsxDKel6NpSSwyoh4CZ7N_Imqh6SIg9IOwb1s7ZXd18PGPb3KICfTgA",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105549571863607218890\">Jd Han</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fNx3-dYTvuQdr5AaHpRlwtKiRk1-LJ4VMGiuHKzMXUET3eaL7_HgS-VKUrR78_wpiZtjgqoMDWU_yjGc_AOsjW75kHgaaAbCLKrjZykIEuxeeaep8233dq8Vxos920iLGMti8VeQ8LV3TSaAun56MUEsxA1JwVz1_Vr5C8hQKH-pdU7nDzeEPrflV85d7Hw28guRwi8lC_jxX5gQye1i3xLem9uGGW6IdPGDDk24xnivaICcRjMPWCCAI7EslowmbVKLstZdOSoyrXtKIpOxEVxd3RSbWlHxKimCQpIQ-Vow",
+      "width": 1600,
+      "height": 1066,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111903775413688227029\">Fes Restaurant</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Wasim Idoo",
+      "rating": 5,
+      "text": "The quality of the food was fantastic. Some restaurants I've eaten claim to use lamb but often can be mutton, but not this one. These guys use very good quality ingredients. My Yogürtlu Shish was fantastic. The lamb was incredibly tender and juicy. I'll be coming back just for this alone. The service was reasonably good. I think they could be a little more attentive and check everything is ok. They did however offer cup of Turkish tea on the house which was really helpful after such a hearty meal, a nice added touch at the end.\nA job well done!",
+      "time": 1755631076,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Luigi Di Biasi",
+      "rating": 5,
+      "text": "First time eating here and I was truly impressed by the size and the taste of the food. Super delicious, fresh, generous. A must try in the area 100%\n\nAnd thanks to Mohamed and all his team!",
+      "time": 1756582495,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Jd Han",
+      "rating": 5,
+      "text": "Absolutely loved this place! The Turkish food was delicious and came in really big portions—great value for money. The staff were super friendly and made us feel right at home. The atmosphere was cozy yet vibrant, perfect for a relaxed meal with friends or family. Fun experience overall, and we’ll definitely be back to try more dishes!",
+      "time": 1744832958,
+      "relative_time_description": "6 months ago"
+    },
+    {
+      "author_name": "Milad Khost (Dr)",
+      "rating": 2,
+      "text": "Extremely Disappointing Experience – Would Strongly Recommend Avoiding This Restaurant\n\nI rarely leave negative reviews, but our recent visit to this small Turkish restaurant was so shockingly poor that I feel compelled to share our experience in full detail, hoping it might help others avoid the same mistake.\n\nFrom the moment my partner and I walked in, it was clear that something was off. The atmosphere was unwelcoming and the service — or rather, the complete lack of it — was one of the worst I have experienced in any restaurant in London, or anywhere else for that matter.\n\nLet me begin with the staff attitude, which was simply appalling. The person who approached our table to take our order didn’t even bother to greet us. No “hello,” no “good evening,” nothing. Just a blank stare, followed by silence as if we were an inconvenience rather than customers. This wasn’t a case of someone being shy or overworked — it was plain rudeness. When we said thank you after giving our order or when receiving something at the table, the waiter didn’t respond at all. No smile, no nod, not even eye contact in most cases — just an indifferent, cold look.\n\nIn my culture — and in Turkish hospitality too — mutual respect and warmth are the foundation of good service. Turkish restaurants are usually known for their welcoming atmosphere, generosity with bread, and attentive service. This place, however, seems to have entirely missed that memo. I don’t expect over-the-top pampering, but basic human courtesy is the minimum anyone should expect from hospitality staff.\n\nSpeaking of bread, let’s talk about the extra charge for additional bread — something I have never seen in a Turkish restaurant before. Bread is often complimentary in Middle Eastern and Turkish dining, especially when the meals are served with dips or grilled meats. Here, not only were we charged extra for a small basket of bread, but there was also no mention of this when we asked for it. It was only when the bill arrived that we noticed the charge. While it’s not about the money, it’s the principle: being transparent with customers and not exploiting basic expectations like bread with a meal.\n\nNow, about the food quality. At best, it was average. Nothing particularly bad, but certainly nothing special or memorable either. The meat was a bit dry, the salads lacked freshness, and the seasoning was inconsistent. I’ve had far better meals in takeaway kebab shops than what we were served here. For the price we paid, the value was seriously lacking.\n\nAnd yes — the pricing. For a small, casual restaurant with mediocre food and poor service, the bill was surprisingly high. The dishes are priced as if you’re dining in a high-quality, fully-staffed Turkish restaurant with excellent ambiance and a pleasant experience — when in fact, the experience was more like eating in a disinterested diner that just happens to serve Turkish food.\n\nTo be clear, the real issue wasn’t just one specific thing, but the overall experience:\n•\tThe unwelcoming attitude from the staff\n•\tThe absence of any basic manners\n•\tThe surprise charge for something that should be complimentary\n•\tThe underwhelming food\n•\tThe high price tag for what we received\n\nAll of this combined made for an experience that left a bad taste in our mouths — both literally and figuratively.\n\nUnfortunately, this restaurant seems to lack even the most basic understanding of customer service.\n\nTo anyone considering visiting this place, my honest advice is: don’t waste your time or money. There are plenty of wonderful Turkish restaurants across London where the food is authentic, the prices are fair, and — most importantly — the staff genuinely care about your experience.\n\nThis was one of those rare meals where we left not just unsatisfied, but genuinely frustrated. A dinner that should have been an enjoyable evening out for me and my partner turned into a disappointing memory that we won’t soon forget — not because of the food, but because of how we were treated.\n\nAbsolutely not recommended.",
+      "time": 1747338152,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "P R",
+      "rating": 5,
+      "text": "Great food - we shared the Adana kebab and chicken wings and they were both delicious. You get bread and side salad complimentary and the salad is a plate each so no need to share! Chilli and garlic sauce also complimentary and were very nice. Prices are good, £15 for the Adana kebab which is very reasonable for quality and portion.",
+      "time": 1742809202,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:49.059Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3tJlEAFdkgRD9S3kGU0KS4"
+}

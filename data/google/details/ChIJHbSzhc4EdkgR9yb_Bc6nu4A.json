@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJHbSzhc4EdkgR9yb_Bc6nu4A",
+  "name": "Tandoor Chop House",
+  "formatted_address": "8 Adelaide St, London WC2N 4HZ, UK",
+  "vicinity": "Charing Cross Underground Shopping Concourse, 8 Adelaide St, London",
+  "rating": 4.4,
+  "user_ratings_total": 2635,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5091812,
+      "lng": -0.1257249
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51050808029151,
+        "lng": -0.124465919708498
+      },
+      "southwest": {
+        "lat": 51.50781011970851,
+        "lng": -0.127163880291502
+      }
+    }
+  },
+  "lat": 51.5091812,
+  "lng": -0.1257249,
+  "formatted_phone_number": "020 3096 0359",
+  "international_phone_number": "+44 20 3096 0359",
+  "website": "https://tandoorchophouse.com/?utm_source=google&utm_medium=local&utm_campaign=restaurant-tandoorchophouse",
+  "url": "https://maps.google.com/?cid=9276192360805377783",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dLntm5Rc1_Z3htG3wiCQVDmIuvHrL4_gQKWNxb0mUMByFRMw5vg6rIEh7mAKrPcQkCNDmw2nSJw6TUan_lGzPiXsc-BnGmSeZ8SKFc9t4S_Ux8la9uwRgUBjahdmZs4QoQVpl41nVDgE3EOOYmqZUZL99xiEjqk83S4MmvgotD9VWjCzlEMcHeqEYwa916Jv58NiQ5hCwxrXNwLgrCqOn4lfuv4ILTUzhLl3gl3tWypo5ku_vmTaifFRIFVmW3LzoKZ1z3y_RM5xF3sXCx72fxgNWYofxvJJg85nxyuhtB1A",
+      "width": 1347,
+      "height": 899,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110445910939828919089\">Tandoor Chophouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fDaKd-_cGzR8twUQvRHdt1mZ9jje-30LUzLLjfWlk0nrr7Mf8ilOZvxPM5YJ8aNOel111fJZ0YedpThrh3gCZJEyS19_ummFKT8wD6IO7C-w-i8S9EpTLD0HALfRJjLQEtziTdlhYSq5BaSlduvDN_a5QXP9z_NA3I0plwoB_TN3kPf5gYlyhEpe4kyMsRCdJLAFz4DPACqJcyIgxGI3LTXZcjwLjn3Nng91Os_Lb0OyiuvSS9vg4GXzcb1FqRYgqa-FkALNhEu-llyFbnaFArUmI0TK-wpWKyUVjHSDzpug",
+      "width": 1152,
+      "height": 648,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110445910939828919089\">Tandoor Chophouse</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cp1l7P5BqYEHpaQrHQmHnirxqZNuRAvjctmPZ-Z_pNM3wLMe0-XdGSCcLFIxcwVk50-VSljFqzSQZDgDfRUniBJjvOmwELhHmn17ta2EtD7n9iDGXCZJsWa9MLg_OBcZrBStuMYkNa-AUR_kTmChTYD1kGDywjQ4V42Lepk1L0kWJfGlpGzE4jI6haTi4X4Nzmm-i59KoWzdcYett7PvpZmrhcMcTXJI3TUhQujgelalSQ1GZvrmBZxpRljpTJs6WR8fr4GWZmgU6cbQOviD2x98OjvN-LRWXd-7Hj-sAxerdQZUmCSeBwspDNDMsJbU2cnAbM7V04yIF_QdhB7hwFVMUOmrsZolW67uEtN9hQMh_QNbe9R0X7096DvO-7Ua0yDQwbZPc7uuq3gSC6ibCXOplHARcWKrET-wjMMtLOPvHR",
+      "width": 1448,
+      "height": 1445,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106034250190423210466\">FOTOCENTREPLUS</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMpRedLyNgi8uPpSq8z5KJM_Rd5OnjBOJDt6KnXFlqzZImzUm72xioI1vGGF8YI7sXFOi7XHlShD4TdCh8J12OxF28BBGL7SVSGfBPU_huPqCx6csikuwdw6InzgZL6Fy2paMrXlsmGTqUsbqYrglZhnZkbGu7jWMeCCQNNFbfctex-A0GKszdhdCOik9y_XgMRjhcBpGtkcStsqR5bBlqZgNVbtsbHyxXMeixBONMynJwg5kpaxbnHxvgrO8UX_tUqN4ZbZWtGP59NfVG53yYA-QHvbM3UV9A2S5_ZwxdLYpXUmvtNcz9L6WTDRf0Ixux9Z-0weRy-Lf8hqL8YWtbcckYWQccXv5ubFKzBzm8cxkUDnYUkP1AplsloMVCQxroe4RDqAaUp54SIaTKHDCue-3HwxdfT9aygy-DGw4",
+      "width": 4000,
+      "height": 2256,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118231186484069250366\">sheetal Shah</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e22hyN9oQViR10dEd0OdaVXBzjF5KT0lEEBgYuh9Fa5eQ_NdNJxEbNikW4bDdaG3o7SJEkhk19sFpd8yHfYxnCirRI_fIZhW9jmL9mMkQpHvjyr9cWU4lsbRXZoZNbFvddYTbecMjMDuyHG3HFWdl4qknqQ1CDz_jFHZV8q9DqlbJKY5E_5v-n1J0fttCXN2HU4YJyIk8CR4x3q-VSuel_KQWoKTxP3S4QDw-M5pG8F5DdvswDmQkea4CkdPGAUBBFXLoqcTlgyLSkJfot2qlcmiITsehN1bFkf6qbR4E3JUq5RI4lzpRLYOGFZlTkVG4PVc1jzgB81onQZWF7qNSC5q6Z5YqBDexSHcE0xVWxs9eieZTWnG91I60A9Ud7Rbox3N84RysPYRMdAYHgQFc-ANfgx-TuIiB9KnjicWeGQkQRKx-90GlJKg239xdG",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103287528341255670440\">Kaira Yee</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fJ12oaHvvvYmOO4ZqizXPZiDQoFfzT47Gd7BLZWBPUrjYE6jkl511GhcTKjopIWEhpFnpEAs6sTbV2bCH8nenwaKSr6DnRAYSy7MfOgaCFjXlGmTgJB8FeJV5KDqblQKEbEQZl3VY36X_OpkbKGKenFsMtVtwff1A1c2AHmNJmEj-SilA_Rf_76xM3WZRrIsCly-1ty5RH8sOZ0j771mq5O-ZDgI7HXsVhXXusm2Q9co9w3rA4ckQs9sV06wgxy5efYY7N-03uEU531AS4XghSmqn2D5dcVbUntvjhQEvQMYSioO-1kQddh8fEQ_Rw0jLhO77GhQuQC9hncxe_TLzLaiPeNILTD2Mm5VqlnzsYnTKDJDKYPMCCCXDHtXwPktFC3mMgiQruvDWCkdHDcxOM_wuwD-qHap2cQUvgMFdWG9t0VFPFwNhzpUl-Qvzc",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117744089934396438825\">Ian Martin Adams</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cW74-lWOr7Idl8AAsuBeWLlAZT22llwF7f1k61x5ORan573NTdMhsT6tSM56wKcdi1xzs8ByoEixUyTEai_px_ShhFafVCPCKSLst2t3zusT31ZkhTGM53qM2XQY0j_GldDkqsfUgQRunUtK1tYwNEvBlPnmp7WW_YUeyESn86MhZKk2nhsZ-J1yCO3hCCkJLXsfsDpZD1JjaIhqaE7sVpF7D4IvfZ3FdUqMKWud_95PcgF7rJG7K4sD6VsoGFXhEbqKq3x0rukX6ImQmaiic4PQAsUD04HKpryBgG4W1VCUwgDXDZVzsYhLOV2oQSCUb1LNStFsOXEPvK4aDYDvfCeeIopsac44TiTjyfmOQBprZtWaIsIuXfU8X_WD3WgLQXiYHoNdTZztB7fixgu43WCPI-eVvmaKuU88GF_x8DRQ",
+      "width": 3463,
+      "height": 2812,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118114832539512525924\">Raoul</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMDTLCwKV1sIH86XgupAiFQTjG9nMSJOt-5nSvEzrEGc7aCrm6mBR7SfDSEFPq3b3SW6GzIO7m1I1HeNMTNcKCIxzpJMf_qc9jPKv3rqVUhU17Ttmr-s6lACrXNiAto9zgTQxlmIBzIrzuFNbhZPEvPX6P4LwY9I3FUHsoimPcrCHs03fBnCozrXUp3lK9Z3HhA_Tu3wiYOzqGrhMI0OtsTclzPTjr7kqU0uVeGwyAxwTgvdHICCCCVTy-5hxfy9EAcd9m8hsDTYb3P0hk86sfKJPGk7HrAF3BUZPoHD05jEAuibhBCG6z39EDY1ZanWZAUmCLMU0xo8GKUDRbvSRc1r49gNOO5SSRF-njWfrNhOLa384HEVUo6cXRnJ0wFLzgwBT85qC676VQGfwTztoX3Dbhl1Ur0CS5WT6FTliejxa1nDOcAXFKl2cLGf8D",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113045138919050366388\">Nav Thomas</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fLbvAlcUyR0z9m-6Cgc1wIORLg0sj8eF1BQwcF-lK3KyfeNM-izYXaE0OfRZl5FwPxEm_gZxoyyte6DjokpcyZEK1K2F3SEktRLaarfKte6x4J5oRZWo_8OUeKDqx2p11U_fVWqtg3ffQCn5vTyxu19a4Q7mD8lkpl_U3gezHSQvF_TSQaKWwHyp-JXIk01MCDSxf8ceLCjld4UNq9BgQIQUU_QtpcGm9NFfijoy1lHjtUYa1JNsBtj-ohnqPmMqg9tA8N_0bLrqxHsHwY8VaoKC1kUs21CM8LAKTi9hl1fQYaZVAs6jdLYDxOFvpnsxaLOkhaRsv-24eIOn-oLpbI4mJbPHPHXLJu6WJkXUrBIUlMI8ZTXEz1sZvGdHLaH4bdpDLBtYfI03Ovp5nicZHfthdqj5iuGlRIuINzqP8",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103299556106872528381\">Tamar Boursalian</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cu0NZFh0kGA9hQRdCK2eVnhgXTUrDqMDw0B8jWmimDUgMFygAMuw7wwQiuJkccen1kLjnRO_9rxm2zfozDt1Rbb-rl-ibr35tA0dzU0vYKS9aIZ8E-Ha_1ALoRyHWr-UNIdqwh0zAObZOz__N3NmtJc2pYYQrotAWTddTvG5a_rhf2QDT3au2mM1JVSQtKR3W6sguU9zM0eDrHsqY52G8tZFYKES9QFuSXHH_3eLjQGPFiZOPatZlgAMuJmA-mqCafbtkGA_MnWthD3ldpHznIXhxrNpV_0VP-8iaRK6rJvwafvTC-SyFsgT8niwhhWACNEPwUck_xjGIcoP5pPxgT6olQqCIxjyQ3tbDd9HbvROnfTz1NdX7etaKDxOBv70JI0rwYp5cVHv6VTUPl7Y9ZY_IXmcwT3E4GElfWkh1PtLHzWDcUvvGHKxWpjMSS",
+      "width": 4680,
+      "height": 3510,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117744089934396438825\">Ian Martin Adams</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Tandoori meats are given a British chop house treatment at this restaurant mixing cultures.",
+  "reviews": [
+    {
+      "author_name": "Dr Namitha Shibu",
+      "rating": 5,
+      "text": "⭐⭐⭐ ⭐ ⭐\nDropped in to Tandoori Chop House with friends for an unplanned dinner—no reservation, but the staff were welcoming and got us a table right away. Tried the house Chicken Tandoor and pepper chicken—great flavour, though both could’ve been a bit more tender.\nThe standout was the Honey Chicken from the small plates—easily my favourite. Chips were perfectly crispy too. Solid spot overall, would definitely recommend.",
+      "time": 1759699081,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Vittoria Brondin",
+      "rating": 5,
+      "text": "Just a short walk from Charing Cross Station, this local Indian restaurant pleasantly surprised me. The cocktail menu was impressive—great selection and even better taste! Their Neigroni was really good!🍸\n\nThe tandoori chicken was bursting with flavor and just the right amount of spice. I was also impressed by the variety of naan options—fresh, warm, and delicious. For a spot in such a busy area, the food quality really stands out.\n\nService was friendly, though a little disorganized with the orders, so keep track of what you’ve asked for. Still, the overall experience was very enjoyable. Definitely worth a visit if you're nearby!",
+      "time": 1754157410,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Goran Gooxich",
+      "rating": 5,
+      "text": "This is by far the best Indian restaurant I've ever been to. We had Sunday special menu which is a huge plate for two, and it has a little bit of everything. Now, we're big men, but it's impossible to eat all of it. And the food... Just superb. Butter chicken was out of this world without any exaggeration. I don't know the names of all the things we had on our platter, but everything was very tasty. Lentils in sauce - the most creamiest lentils I ever had... I can't recommend this restaurant enough.",
+      "time": 1751205369,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Randal Miles",
+      "rating": 5,
+      "text": "The best chicken tandoori I ha e every tasted.  I loved it.. Will travel 9000 km again to have lunch .   The .a mango sorbet was the bomb.    Great service.  We were seated right without a wait,  but it was a Monday.   Loved the native carmelized milk in a stick.",
+      "time": 1751410629,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Raoul",
+      "rating": 5,
+      "text": "5* Indian restaurant in Central London. I absolutely love it and recommend it. Very authentic tandoor grill served almost as in a traditional British grillhouse, yet better most Indian/Pakistani restaurants around, imo. I love the Punjabi-style dishes, especially the tandoori chicken, straight 10/10, and the paneer tikka. Every dish here is good, I will definitely revisit several times over.",
+      "time": 1752793319,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:42.544Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbSzhc4EdkgR9yb_Bc6nu4A"
+}

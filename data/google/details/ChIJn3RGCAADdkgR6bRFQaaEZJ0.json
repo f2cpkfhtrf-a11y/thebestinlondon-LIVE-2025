@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJn3RGCAADdkgR6bRFQaaEZJ0",
+  "name": "Kricket Canary Wharf Restaurant",
+  "formatted_address": "Unit 6 Frobisher Psge, London E14 5HA, UK",
+  "vicinity": "Cabot Square, Unit 6 Frobisher Psge, London",
+  "rating": 4.7,
+  "user_ratings_total": 1130,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5059669,
+      "lng": -0.0206983
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5070553802915,
+        "lng": -0.01938106970849797
+      },
+      "southwest": {
+        "lat": 51.5043574197085,
+        "lng": -0.02207903029150203
+      }
+    }
+  },
+  "lat": 51.5059669,
+  "lng": -0.0206983,
+  "formatted_phone_number": "020 3835 8800",
+  "international_phone_number": "+44 20 3835 8800",
+  "website": "https://kricket.co.uk/",
+  "url": "https://maps.google.com/?cid=11341335611220276457",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e5oc_vSq-fCToqJzMcuPoTy9YCi0BDv1zrFBs8O-jHohkxzFO1qG0_CNeHJAO2Q_YQ8976FwzAw0mVCXtpkL0foHDJH7RdUtR6x6KeBHoGecx_lUIrYdXhgRU79W_kLd06RJWsZitjQ7QIlkL5XQ_fDE8jfhGtVWMHKD1PGDTKwq10bqDjT4K1YvaLgpsbUs-QZZ4ZQ9qP5fVKuHBAcJOhNS7LkHT6MjAi_XOA6Mo7NedQ4oxg9ruT3X2voaKhabuzAD9YOfl9HaDjopSENrJm-4QGw-xz2NWwQ3MJjattEw",
+      "width": 2500,
+      "height": 1875,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104099989116344787354\">Kricket Canary Wharf Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cSFynHZDFT6V1O3sW1YX1Jo5NDc7TLkiah1fBeyCJ9v7NRnIYPY5atX7qtMwNXufM_QiyrHF7PkAI4u861YWbShljoR2XCzBIXt2iL74eTtv8TQ-RbRs0uOCIkil_8m6a1OhE5Uuube7ajkzP_17kZbC7dvxUYCw5rLMNkX18uJXzEyPdziRSKxl_-VjdV4vThaXY_EmexfIsTaakksEnMoIL89wE60zTDWwxR9s5HL7VD7dgwRD3uIXUn1d9YzAA_tG7DxevR-kFw9-USnNkn4KHUhf457Rmz2euuduFckQ",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104099989116344787354\">Kricket Canary Wharf Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c4sIc6SKIfYlm7cdkOQobk91bHCQA6DirwCBgwqzOcAgAQ57fr7mZlkFOSOs39L7BbtIjKYOUQxUx20eJEbUUiEvvXr8X8Lcr_-2RTd3M1VsibudtzwIh6tqKvgUVFHhY8fP4fdA5lNrVHkdIe_b2-0MGI5tHrDKwtw_PMpcv0RmGGqHVrV_4XrfUNJaqeP3cZLVPr2GgAmHOet4XPbe7ipLcZqymV2zih-6JKZoEOt5ckEYitRqbAzoverLbl0HDdud1IayNBgRu5Jgd9GAt-QMiEB_OaZwc4v9T0EaMfSmCioZaCc48N3unpeqlZ9eV_ajA4uhV_y7B9GfTjY6kpB2iI1xfyV_KXnJuMv0p2Pz1hlJ5wyNXyS8mQIqO9cVKcRDalQgJHPqBcVfULUHfbXvDfsn-RkksLX8QwQvKG2YCBondZI82g56ypd_zZ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103764860575088219770\">James Chiang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2evLUGs5GkSIXEY_3piBn4U83XdVonjx1M-bYjOArSSMPCZVM_giZpIaEFlNf_SiVKJIqntz24Ha3my3GgRURrarqhR5ZplkVLD944vCSMC7-j-qY70x4tfb4wDW9aNB8ZAyNOVR5tHSIUedgmXUkZkECJQjL8ppzIRgSfFIcuwwrJjiUTDW3CZc0UPxSfsQb7b40Bc8lhYTX1sYf3LtfA-c6D_R-z1ntY4y_AT4bhoPG6loD2U1EJ-WExB-QgAgy_WFOUQ2NDOuDn_7_UOJMIPyj6qcHGmj9CEql80tvuX0ruSc2eoOoyzh0WpqJUEkBr641up5cZBS4DR6HwIuQRD1b3nWWNLF4qwmifNvSYgL8ssorSMYosuRFyF5UH-cPD4ESqmofb6ibK6Cny_idcjtbwUQyy36TsLu1O3GAm8otEmYb6yYzGNCAdoGIqs",
+      "width": 3834,
+      "height": 2875,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116781572894732066431\">Zara</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2do-jmiLKoZHbZVSwRidhxP9WbcWH-UBJP8SzUfzDrXDqsp7r_wxOMvgLHkRJ04vN5iNN7d2n1IQN8lc992FXfLbz-MRp23yHjl_PpqwxR7OLWEc2KM7lYpisSufxxnGCSlaK_-7lZuS8vtkJwNnxdI8NijNIQNPV8tm2BfCvB91ks_-0pcBg9T5I_-KRXUQOPy-HasBx6ElR2BEqDrDIJ1Bml--apaGkO883AD7RZnwD6TG3vBdQiWUYdCAI8h-cu_UUWNMJfx4atPbaETZI2b-QNU3iXtH0emqyI6RAr6Xm8-85cVixH9lHxPKkcwOUIGE5g48SOWpmHRm_STMvPKwA-C-ZnWlWXUIxm6KKtRdxPTO5z_fKBwr9pjIOBkd09BMxk73DNCTUankU1TBHlnVb6bFo4zYUdBsvxhA-7a09aRSdwQOvPBVAyYMPeN",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100275482988386019048\">Christine Kim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c1E_wEHHvJ_oUJbhKvULtFHW8R6Dz3ijdAtnPFrdfBWBpWLOZFzzza3jGBON6opHlULJLp3aPwooR6bwjj0j_7yVk4Jr53cn_4qL6627NRNBFqhdKuKD8r1Hab8tOnEOhPQRJXl91tl-xs4_ZWP15bh_WfXHNmGgcCHwNEyNaMqQBoPL7TAni2SpnsExERgZZFV_xmOEX9FOS9rmXXmgy5RQgx0MCKqdFgedyr_DEcMFYIaEl6tzjnnVn68kuPFbx5IRlBSdSAa8rl0KkoyiFRRWuvB9xULJ12V8DfE59laQ",
+      "width": 2500,
+      "height": 1875,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104099989116344787354\">Kricket Canary Wharf Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2etj3305qzPEnosbyUL8Ilr0mOlYVcGSv3zxMBSa_LyVnLGss0n29t-HU13CRMgCDIpjfLAzX3H1sbeIjyAZXMiFgtE25U-s2iNmCW9_1gRRWMkB9ryHUJzBBDfLlhPlhFCFfLFkK3IfGUf8XG_TXxe7KjUIa17pBugPaDLOt7Wll6FSYIot6e4CP-OcuY97MiJpuONTdqyqIqkRinG_1AUOy0VyPPpHURgS1FXolyJz5KeryBNnvBt1hraGNSXk6pJRG1kZ2x_HnrXBKfFmgwE3hUVjfdQavvOPAM9M2wnjAl0B_WhVot943-or_oHBGp-htNhGZdPSjMh0kbf_UcDli7l8CWUkdWETwpA0E3TqzIyaEIZCH24BduoGSEnDnM6Mdyjs11b9nH3w_ijHBWXlu8W8FTLuB-8fTS5z5y6bDCN",
+      "width": 2971,
+      "height": 2592,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100409422922750581841\">Stephen Stokes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dlZrcBKi2RBB8OEe7StoGbMKMt49MnfFp0aBz_mjJfj8rUClwKfU7V_8Rje27Rqew6Sm5CXjcT3X1CAvquf5XhLTlxjcIsend4xCHExB_1bvsTy9IhWK9SLSNiydzv1I7g2SUziNDNZ0WME-gOXX7AKjS4nf1RWs-0crWXf0SmwFKs-7JKiNMTbXu0i8SqquayQm_z9U-dzhmBYp6hopq6rSxSAi8C3uGhVDcewg6fIbF_XCY6SQWyYk17_CAk0RIpig6BTtg6Y-O5LBgBd5r_61Qqv8Za4NAm_Yubdd-6mv2v4_qQvDHERomuGhxe7wHhOVsPxF1AhIi7okSLsFcuQe5V4XhWQKo2Be52J50LSqKGCiICOd_lOPq3fzSpv_5nAn5PIllUNr-DErdpmnuD9zmmRhTfly4XDSy0pjSrPA",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110102407682939698454\">Vijay Rane</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dwlkSmQy8HtyWgrOx6Liyo2NkF9Xx5sG0KJt5LXDhpAqjVG6l7O-jEbWhDUycBQez-SOwsMWT4Hf3nO-N0UnbJBU20-BDBiLe6K2TlzZM0Ph5ZOPsGyzt4vqmEVomOzeo1RL3Nr9dWVQ62vUChBzKKeoemxI5L7KX97gNh5oJ-Zg0C--A7L9Bi8tF9NxaT276-bjr6Cu1ETS0C87itLOrT2lPn08q1nfwGIN5gWxgdGPcVhQimdLKtAduI9dXr38377NG-3pgAdDHkNXz6lJsDYpwdxhR8je-0xBTWSwIBMmPc1e-vy3XCTS6RGQX4tq5jb6uumOR_-8NZWK4mFX4eKQV6lsbgrjlqmBwrLltN_-rA8w6E3yHP2dEtjbdLQQZN2IHcWThNTHVNd4SYfQ8wmetQpgnQskqy-_g0iwcwtSOW",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101113763666135283770\">Pamela Chow</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fc7oknOChzznbHRp3fJ7JGAAX6seIhIiKhuhOYS0RrTxjidxx86nGVbbZpup2_Vze-0i8ZfaQcopQLwsMZiBO_l8EMgfC_kL09DGou8W3GmVXVqmsi773cuJA-vS6fRlpJAKN9mfPzWSxV3AQvuGpMHQWhbg0PlQZQFliZCEyX74Ro0O4qf-KBcbRuG6zisJFE_w04M3uo7UBBXZ4fwnFx8yrBtcR7OnfAIM0tpLQDpp-u96OJBD8q6aHaKJh4EVzGolS4AGjRNYfOexEb0qu5kR20-23HZze59PWbYmAfBKGfZrYSoTI9u9grWoJrgKBbEQ7bFWOIn-wMCQAQm4z1nZUQ7xjg-yvCHiAVDvwFOVTpPmY0YywBX0E-6YEuCQ_8rVxJkKtDspHJiLzqo5UGnvxvkPH7w_w82-dfdUXcpASK",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101764231518137464021\">Yonsoo Kang</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Bob C",
+      "rating": 5,
+      "text": "Outstanding service with awesome food. Don't tell mum but I can't taste the difference!!\nHighlights include the perfectly cooked prawns, Bhapa Doi (sweetened yoghurt) with mango Mille-Feuille and the legendary Claypot Baked Cod (large dreamy flaky chunks of moist cod with a crispy skin in a rich cocunut sauce - how does chef get it flaky and crispy?). Thank you chef for customising my wife's Bhapa Doi with extra mango and cream. It really looked and tasted sensational. It was the best food experience this year! Don't forget to round off with the beautifully balanced masala chai in a glass... authentic and very very good. We look forward to trying the new Autumn/Winter menu.",
+      "time": 1756753153,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "yoyo ho",
+      "rating": 5,
+      "text": "We had a wonderful Sunday lunch experience here - Holly has great service and introduced the menu very well. The food is really nice and in great portions, delicious, hot - the prawns, the lamb & fried chicken, and everything is just so tasty. The desserts are fresh and delicious. Moreover, the cocktails are very refreshing. Definitely recommend!",
+      "time": 1747576249,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Stanton Govender",
+      "rating": 4,
+      "text": "I’ve never understood when I’ve been told that the UK has great Indian restaurants until I decided to try one in London! We were not let down at all by every meal. The location is very unassuming with its minimal exterior but simple and functional on the inside with vibrant colours to match. Going out with kids also makes it a challenge to find a decent restaurant that caters as such, and Kricket were amazing due to their Kids Thali options.\nWe had the 3 small plates with the Cod as a main and every dish was fantastic. Uniquely tasting Curry Leaf Mayo paired nicely with chicken while the banana leaf wrapped Cod brought on nostalgia from cooking back home in Durban, South Africa. Will be trying out other locations soon!",
+      "time": 1747576834,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Helen Cheng",
+      "rating": 5,
+      "text": "Visited Kricket Canary Wharf and had a great experience overall. The restaurant is spacious with a relaxed atmosphere, and staff were friendly and helpful, especially for first-time diners.\n\nTried the Mangalorean Chicken Gassi and the Karnatakan Pork Neck — both were rich, flavourful, and went perfectly with rice. Also had the masala naan, which was tasty, though the topping slightly overpowered the curries when dipping. Finished the meal with a warm and fragrant masala chai, which was a highlight.\n\nThe baby changing facilities were spacious and very comfortable — a thoughtful detail that doesn’t go unnoticed.\n\nWould definitely return for a curry fix.",
+      "time": 1753053677,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Christine Kim",
+      "rating": 4,
+      "text": "We came for an early dinner and the food was mostly good! I had the tomato rasam pani puri (nice bite) then between the two of us, we shared the Keralan fried chicken (great texture and flavour), Recheado butter prawns (the flavour was on point and it was my favourite), grilled squash makhani (felt the squash wasn't seasoned even when in the rich sauce) and the cod (perfectly cooked) with sides of paratha, rice and the green mango kachumber salad (cut through some of the richness of the mains). The staff were helpful and polite.",
+      "time": 1757081265,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:05.942Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3RGCAADdkgR6bRFQaaEZJ0"
+}

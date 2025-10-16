@@ -1,0 +1,2278 @@
+
+[1m[36m======================================================================[0m
+[1m[36mTHE BEST IN LONDON - DATA PIPELINE[0m
+[1m[36m======================================================================[0m
+
+[36m🚀 Starting automated data pipeline...[0m
+[33mThis will take approximately 10-15 minutes.
+[0m
+
+[1m[36m======================================================================[0m
+[1m[36mCHECKING PREREQUISITES[0m
+[1m[36m======================================================================[0m
+
+[32m✅ Environment file[0m
+[32m✅ Package.json[0m
+[32m✅ fetchPlaces.js[0m
+[32m✅ fetchPlaceDetails.js[0m
+[32m✅ buildVenues.js[0m
+[32m
+✅ All prerequisites met
+[0m
+[33mThis pipeline will:[0m
+[36m  1. Fetch 200+ place_ids from Google (2-3 min)[0m
+[36m  2. Get full details for each venue (5-7 min)[0m
+[36m  3. Merge with FSA hygiene data (3-5 min)[0m
+[36m  4. Generate venues.json + coverage stats
+[0m
+[33m⚠️  Note: Google Places API has 1000 free requests/month[0m
+[33mThis will use approximately 200-300 requests.
+[0m
+
+[1m[36m======================================================================[0m
+[1m[36mPHASE 1: FETCHING PLACE IDS[0m
+[1m[36m======================================================================[0m
+
+[34m
+▶️  Running: Google Places Text Search...[0m
+[36mScript: fetchPlaces.js[0m
+🔍 GOOGLE PLACES TEXT SEARCH
+
+======================================================================
+API Key: AIzaSyCOYUi9A598QJGW...
+Rate Limit: 200ms between requests
+Total Queries: 30
+======================================================================
+
+
+📍 Query: "indian restaurant london"
+   Category: indian | Priority: high | Limit: 30
+   ✅ Found 20 results
+   ✓ 20 new places (20 total unique)
+
+📍 Query: "italian restaurant london"
+   Category: italian | Priority: high | Limit: 30
+   ✅ Found 20 results
+   ✓ 20 new places (40 total unique)
+
+📍 Query: "japanese restaurant london"
+   Category: japanese | Priority: high | Limit: 25
+   ✅ Found 20 results
+   ✓ 20 new places (60 total unique)
+
+📍 Query: "chinese restaurant london"
+   Category: chinese | Priority: high | Limit: 25
+   ✅ Found 20 results
+   ✓ 20 new places (80 total unique)
+
+📍 Query: "thai restaurant london"
+   Category: thai | Priority: medium | Limit: 20
+   ✅ Found 20 results
+   ✓ 20 new places (100 total unique)
+
+📍 Query: "turkish restaurant london"
+   Category: turkish | Priority: medium | Limit: 20
+   ✅ Found 20 results
+   ✓ 20 new places (120 total unique)
+
+📍 Query: "french restaurant london"
+   Category: french | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 15 new places (135 total unique)
+
+📍 Query: "spanish restaurant london"
+   Category: spanish | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 15 new places (150 total unique)
+
+📍 Query: "korean restaurant london"
+   Category: korean | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 15 new places (165 total unique)
+
+📍 Query: "mexican restaurant london"
+   Category: mexican | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 15 new places (180 total unique)
+
+📍 Query: "halal restaurant london"
+   Category: halal | Priority: high | Limit: 30
+   ✅ Found 20 results
+   ✓ 15 new places (195 total unique)
+
+📍 Query: "vegan restaurant london"
+   Category: vegan | Priority: high | Limit: 25
+   ✅ Found 20 results
+   ✓ 20 new places (215 total unique)
+
+📍 Query: "vegetarian restaurant london"
+   Category: vegetarian | Priority: medium | Limit: 20
+   ✅ Found 20 results
+   ✓ 4 new places (219 total unique)
+
+📍 Query: "michelin star restaurant london"
+   Category: michelin | Priority: high | Limit: 20
+   ✅ Found 20 results
+   ✓ 16 new places (235 total unique)
+
+📍 Query: "fine dining restaurant london"
+   Category: fine-dining | Priority: medium | Limit: 20
+   ✅ Found 20 results
+   ✓ 6 new places (241 total unique)
+
+📍 Query: "cafe london"
+   Category: cafe | Priority: high | Limit: 25
+   ✅ Found 20 results
+   ✓ 20 new places (261 total unique)
+
+📍 Query: "coffee shop london"
+   Category: coffee | Priority: high | Limit: 25
+   ✅ Found 20 results
+   ✓ 20 new places (281 total unique)
+
+📍 Query: "bakery london"
+   Category: bakery | Priority: medium | Limit: 20
+   ✅ Found 20 results
+   ✓ 20 new places (301 total unique)
+
+📍 Query: "brunch restaurant london"
+   Category: brunch | Priority: high | Limit: 20
+   ✅ Found 20 results
+   ✓ 18 new places (319 total unique)
+
+📍 Query: "breakfast london"
+   Category: breakfast | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 5 new places (324 total unique)
+
+📍 Query: "bar london"
+   Category: bar | Priority: medium | Limit: 25
+   ✅ Found 20 results
+   ✓ 20 new places (344 total unique)
+
+📍 Query: "rooftop restaurant london"
+   Category: rooftop | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 13 new places (357 total unique)
+
+📍 Query: "restaurant soho london"
+   Category: soho | Priority: high | Limit: 20
+   ✅ Found 20 results
+   ✓ 11 new places (368 total unique)
+
+📍 Query: "restaurant shoreditch london"
+   Category: shoreditch | Priority: high | Limit: 20
+   ✅ Found 20 results
+   ✓ 15 new places (383 total unique)
+
+📍 Query: "restaurant mayfair london"
+   Category: mayfair | Priority: high | Limit: 15
+   ✅ Found 20 results
+   ✓ 12 new places (395 total unique)
+
+📍 Query: "restaurant chelsea london"
+   Category: chelsea | Priority: high | Limit: 15
+   ✅ Found 20 results
+   ✓ 14 new places (409 total unique)
+
+📍 Query: "restaurant covent garden london"
+   Category: covent-garden | Priority: high | Limit: 15
+   ✅ Found 20 results
+   ✓ 10 new places (419 total unique)
+
+📍 Query: "restaurant notting hill london"
+   Category: notting-hill | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 13 new places (432 total unique)
+
+📍 Query: "restaurant camden london"
+   Category: camden | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 12 new places (444 total unique)
+
+📍 Query: "restaurant canary wharf london"
+   Category: canary-wharf | Priority: medium | Limit: 15
+   ✅ Found 20 results
+   ✓ 14 new places (458 total unique)
+
+
+======================================================================
+✅ FETCH COMPLETE
+======================================================================
+Total Queries Executed: 30
+Total Unique Places Found: 458
+Output Directory: data/google/raw/
+Files Created: 31 (30 categories + 1 index)
+======================================================================
+
+📊 Report saved: /Users/htanweer/Desktop/thebestinlondon/reports/fetch-places-report.md
+📊 Index saved: /Users/htanweer/Desktop/thebestinlondon/data/google/raw/_index.json
+
+✅ Success! Ready for next phase: fetchPlaceDetails.js
+
+[32m
+✅ Google Places Text Search - Complete
+[0m
+
+[1m[36m======================================================================[0m
+[1m[36mPHASE 2: FETCHING PLACE DETAILS[0m
+[1m[36m======================================================================[0m
+
+[34m
+▶️  Running: Google Place Details...[0m
+[36mScript: fetchPlaceDetails.js[0m
+🔍 GOOGLE PLACES DETAILS FETCHER
+
+======================================================================
+API Key: AIzaSyCOYUi9A598QJGW...
+Rate Limit: 150ms between requests
+======================================================================
+
+📋 Found 458 place_ids to fetch
+
+[1/458] ✓ Cached: Dishoom Covent Garden
+[2/458] ✓ Cached: Gymkhana
+[3/458] Fetching: ChIJNY8ZOdMFdkgRSu_LdzF8eLo...
+   ✅ Maharaja - SoHo (4.9 ⭐)
+[4/458] ✓ Cached: Kricket Soho
+[5/458] ✓ Cached: Maharaja of India
+[6/458] ✓ Cached: The India - Fleet Street
+[7/458] ✓ Cached: Chettinad Restaurant
+[8/458] ✓ Cached: The India - Cannon Street
+[9/458] ✓ Cached: Aladin Brick Lane
+[10/458] ✓ Cached: Dishoom Kensington
+[11/458] Fetching: ChIJU1e3CVUDdkgRbWhGVEiDv0Y...
+   ✅ Brigadiers (4.5 ⭐)
+[12/458] Fetching: ChIJFVTGbyUddkgRwo5u9BLz27M...
+   ✅ Bengal Village - Best of Brick Lane (4.7 ⭐)
+[13/458] Fetching: ChIJMyKwDswEdkgRlLsZAjZBRu4...
+   ✅ Cinnamon Bazaar (4.6 ⭐)
+[14/458] ✓ Cached: Dishoom Shoreditch
+[15/458] ✓ Cached: Dishoom Carnaby
+[16/458] Fetching: ChIJH5HoVsAFdkgRd4SH6P8VAhk...
+   ✅ Paro - Covent Garden & Strand - Best Indian Restaurant London (4.7 ⭐)
+[17/458] Fetching: ChIJ__9DAWgFdkgRj0UKhMpiz4I...
+   ✅ Pravaas - South Kensington (4.9 ⭐)
+[18/458] Fetching: ChIJVYzv03EddkgR73xEvFfZ5AI...
+   ✅ The India - City Road (4.7 ⭐)
+[19/458] ✓ Cached: Dishoom King's Cross
+[20/458] Fetching: ChIJHbSzhc4EdkgR9yb_Bc6nu4A...
+   ✅ Tandoor Chop House (4.4 ⭐)
+[21/458] ✓ Cached: Circolo Popolare
+[22/458] ✓ Cached: Carlotta
+[23/458] ✓ Cached: Ave Mario
+[24/458] ✓ Cached: Grasso
+[25/458] ✓ Cached: Gloria
+[26/458] ✓ Cached: Bocca di Lupo
+[27/458] ✓ Cached: Faros Oxford Circus
+[28/458] ✓ Cached: Padella
+[29/458] ✓ Cached: Bocconcino Soho
+[30/458] ✓ Cached: Osteria romana
+[31/458] ✓ Cached: Amalfi Ristorante - Argyll Street
+[32/458] ✓ Cached: Bancone Covent Garden
+[33/458] ✓ Cached: Como Garden
+[34/458] Fetching: ChIJpatnEFEFdkgRAZyMCqb9oIE...
+   ✅ Doppo (4.8 ⭐)
+[35/458] ✓ Cached: manteca
+[36/458] Fetching: ChIJ9STvnSkFdkgRODIuGEySVuo...
+   ✅ Bocconcino Mayfair (4.3 ⭐)
+[37/458] Fetching: ChIJU9GMeq0PdkgRD7sEkK4r0z4...
+   ✅ Giulia Restaurant (4.9 ⭐)
+[38/458] Fetching: ChIJQ5s26P4FdkgRe38En7ayVDQ...
+   ✅ Sparrow Italia (4.5 ⭐)
+[39/458] ✓ Cached: Luca
+[40/458] Fetching: ChIJFcdH1QobdkgRDhK9fVApnuo...
+   ✅ Amor Gastronomia (4.9 ⭐)
+[41/458] ✓ Cached: Zuma London
+[42/458] ✓ Cached: Kanpai Classic Soho
+[43/458] ✓ Cached: Machiya
+[44/458] ✓ Cached: OITA Soho
+[45/458] ✓ Cached: SUSHISAMBA London
+[46/458] ✓ Cached: Sanjugo Victoria
+[47/458] ✓ Cached: Maru London
+[48/458] ✓ Cached: SUSHINOEN
+[49/458] ✓ Cached: Sanjugo Shoreditch
+[50/458] ✓ Cached: High Yaki
+[51/458] ✓ Cached: Eat Tokyo (Soho)
+[52/458] ✓ Cached: Hanasaki Japanese Restaurant
+[53/458] ✓ Cached: NIJŪ
+[54/458] ✓ Cached: ROKA Charlotte Street
+[55/458] Fetching: ChIJ3Xz1VkQbdkgRUgW5PZAMF6Q...
+   ✅ RAI Restaurant London (4.7 ⭐)
+[56/458] Fetching: ChIJmfK8XnkbdkgRN3LZ9y6M6j8...
+   ✅ Uzumaki London (4.7 ⭐)
+[57/458] Fetching: ChIJA2F7oSwFdkgRVkmQrSL-ok8...
+   ✅ Chisou Sushi and Izakaya (4.5 ⭐)
+[58/458] Fetching: ChIJYyj_7tQEdkgROdjdhJJKNHQ...
+   ✅ INKO NITO - Soho (4.4 ⭐)
+[59/458] ✓ Cached: Hot Stone London
+[60/458] ✓ Cached: Shack-Fuyu Soho
+[61/458] ✓ Cached: YiQi
+[62/458] ✓ Cached: Tattu London
+[63/458] ✓ Cached: The Duck and Rice
+[64/458] ✓ Cached: Din Tai Fung Covent Garden
+[65/458] ✓ Cached: Fatt Pundit
+[66/458] ✓ Cached: Yauatcha Soho
+[67/458] ✓ Cached: Gold Mine
+[68/458] ✓ Cached: Imperial Treasure Fine Chinese Cuisine
+[69/458] ✓ Cached: Hutong
+[70/458] ✓ Cached: House of Ming
+[71/458] ✓ Cached: Peacock London
+[72/458] ✓ Cached: Fatt Pundit
+[73/458] Fetching: ChIJlyw-LBMFdkgR0Wc6iVOz8Kc...
+   ✅ Noble Palace (4.8 ⭐)
+[74/458] Fetching: ChIJT9FOxa4cdkgRc54939Y8L8U...
+   ✅ The Sichuan Restaurant (4.5 ⭐)
+[75/458] ✓ Cached: Min Jiang
+[76/458] Fetching: ChIJU6ZLJ5QFdkgRYD9koPKExGg...
+   ✅ Nanyang Blossom - Knightsbridge (4.8 ⭐)
+[77/458] Fetching: ChIJZRnZ4dwEdkgRy-CoHK7UfPw...
+   ✅ Ma La Sichuan (4.6 ⭐)
+[78/458] ✓ Cached: Shan Shui Social
+[79/458] Fetching: ChIJkQhKHeAEdkgRbgw0TGfq-W8...
+   ✅ A. Wong (4.3 ⭐)
+[80/458] Fetching: ChIJsVvuTtIEdkgRpsIH_WaE2es...
+   ✅ Golden Dragon (Chinatown) (3.8 ⭐)
+[81/458] ✓ Cached: Speedboat Bar
+[82/458] ✓ Cached: Platapian Soho
+[83/458] ✓ Cached: Kolae
+[84/458] ✓ Cached: Nua
+[85/458] ✓ Cached: AngloThai
+[86/458] ✓ Cached: Smoking Goat Shoreditch
+[87/458] ✓ Cached: Khao Bird
+[88/458] ✓ Cached: Kiln
+[89/458] ✓ Cached: Plaza Khao Gaeng
+[90/458] ✓ Cached: Patara Knightsbridge
+[91/458] ✓ Cached: Phakoon Thai Kitchen - Earlsfield
+[92/458] ✓ Cached: The Great THAI Kitchen
+[93/458] ✓ Cached: Nipa Thai
+[94/458] ✓ Cached: Thai Square Trafalgar Square
+[95/458] Fetching: ChIJ_U4BPs0EdkgRdr9YZAI2sSM...
+   ✅ Rosa's Thai Covent Garden (4.6 ⭐)
+[96/458] Fetching: ChIJNyG8bdMEdkgRTf93j7EbIDA...
+   ✅ Banana Tree Soho (4.5 ⭐)
+[97/458] ✓ Cached: Champor-Champor
+[98/458] ✓ Cached: Kin + Deum
+[99/458] ✓ Cached: Chet's
+[100/458] Fetching: ChIJ497emyoFdkgRAoJWjgPtZQI...
+   ✅ Patara Oxford Circus (4.6 ⭐)
+[101/458] ✓ Cached: Kibele Restaurant
+[102/458] Fetching: ChIJu2eCrDUbdkgRywaC-vLLzJI...
+   ✅ FIRIN (4.8 ⭐)
+[103/458] ✓ Cached: MASA TURKISH RESTAURANT
+[104/458] ✓ Cached: ANA Turkish Restaurant and Bar
+[105/458] ✓ Cached: Gökyüzü Green Lanes
+[106/458] ✓ Cached: Tower Mangal
+[107/458] Fetching: ChIJnzfL2mYJdkgRGYdkWL5j4TM...
+   ✅ Efes Premium (4.8 ⭐)
+[108/458] ✓ Cached: Ishtar
+[109/458] Fetching: ChIJ53D3yEAFdkgRVnlGzBtMI-k...
+   ✅ The Mantl (4.7 ⭐)
+[110/458] Fetching: ChIJxdO_dIwcdkgRjJxaBzE5bwY...
+   ✅ Cirrik 19 Numara Bos (4.8 ⭐)
+[111/458] ✓ Cached: Liman Restaurant
+[112/458] ✓ Cached: Hala Restaurant
+[113/458] ✓ Cached: Antalya
+[114/458] Fetching: ChIJb1Clw08BdkgR_DUAY1XXrlM...
+   ✅ Dem Restaurant (Traditional Turkish Restaurant, Meze Grill) (4.8 ⭐)
+[115/458] Fetching: ChIJCfPyPQAddkgRzkykallxaYU...
+   ✅ Alanya turkish with fusion (4.7 ⭐)
+[116/458] Fetching: ChIJnTOKI7sPdkgRcQZ3DZNPQaM...
+   ✅ Ottoman (4.7 ⭐)
+[117/458] Fetching: ChIJC3tJlEAFdkgRD9S3kGU0KS4...
+   ✅ Fes Restaurant (4.8 ⭐)
+[118/458] ✓ Cached: Selale Restaurant
+[119/458] ✓ Cached: Midpoint Restaurant
+[120/458] Fetching: ChIJEVzWPNUEdkgR7nWzdRdGb1M...
+   ✅ Zahter (4.4 ⭐)
+[121/458] ✓ Cached: Riviera
+[122/458] ✓ Cached: Brasserie Zedel
+[123/458] ✓ Cached: Bouchon Racine
+[124/458] ✓ Cached: 64 Goodge Street
+[125/458] ✓ Cached: La Palombe Kensington
+[126/458] ✓ Cached: Le Relais de Venise L'Entrecote | Marylebone
+[127/458] ✓ Cached: L'Escargot Restaurant
+[128/458] ✓ Cached: Galvin La Chapelle
+[129/458] ✓ Cached: Chez Bruce
+[130/458] ✓ Cached: Maison François
+[131/458] Fetching: ChIJq-3ryUQDdkgRSZrC9yowifE...
+   ✅ Casse-Croûte (4.7 ⭐)
+[132/458] ✓ Cached: Clos Maggiore
+[133/458] ✓ Cached: Pavyllon London
+[134/458] ✓ Cached: La Trompette
+[135/458] ✓ Cached: Mon Plaisir
+[136/458] ✓ Cached: Sabor
+[137/458] ✓ Cached: Copita
+[138/458] ✓ Cached: El Pirata Of Mayfair - Tapas Bar Español
+[139/458] ✓ Cached: Copita Fitzrovia Tapas Bar
+[140/458] ✓ Cached: Barrafina Dean Street
+[141/458] Fetching: ChIJy6_-DNUEdkgRY6DEXuVnbPE...
+   ✅ Dehesa (4.6 ⭐)
+[142/458] Fetching: ChIJd5l5BBAFdkgR-_e7T6hRrh8...
+   ✅ La Gamba - Spanish Tapas Bar & Restaurant (4.5 ⭐)
+[143/458] Fetching: ChIJ7-kYWMoadkgR9tJjg_AiRQk...
+   ✅ Donostia Restaurant (4.5 ⭐)
+[144/458] Fetching: ChIJV9j3pyoFdkgRGVoRgp9w8To...
+   ✅ Aqua Nueva (4.3 ⭐)
+[145/458] Fetching: ChIJ5z-IMH0PdkgRE4OJLTM-Qgw...
+   ✅ La Parra Tapas (4.8 ⭐)
+[146/458] ✓ Cached: Lobos
+[147/458] ✓ Cached: Salt Yard
+[148/458] ✓ Cached: Luna Llena
+[149/458] Fetching: ChIJuSWNrA4GdkgRLXnFWZcP06w...
+   ✅ Little Taperia (4.7 ⭐)
+[150/458] ✓ Cached: El Ganso Cafe
+[151/458] ✓ Cached: Koko Grill Korean BBQ Restaurant
+[152/458] ✓ Cached: YORI Korean Restaurant (Covent Garden)
+[153/458] ✓ Cached: Majang Dong
+[154/458] ✓ Cached: Arang Restaurant
+[155/458] ✓ Cached: Seoul Tokyo
+[156/458] ✓ Cached: Soju Korean Restaurant
+[157/458] Fetching: ChIJ1wxyhyQDdkgRt_HA2kpdsBc...
+   ✅ Jang Restaurant (4.7 ⭐)
+[158/458] Fetching: ChIJtRKMndwFdkgRkv4ymMXVjzE...
+   ✅ Korean Dinner Party (4.5 ⭐)
+[159/458] ✓ Cached: Ssam Ssam Korean Restaurant
+[160/458] ✓ Cached: YORI Piccadilly Circus Korean BBQ
+[161/458] ✓ Cached: Bibimbap Soho
+[162/458] Fetching: ChIJr-ua5-wEdkgR45FdtHO4Ztg...
+   ✅ Daebak (4.6 ⭐)
+[163/458] Fetching: ChIJtUWINwAddkgRZpNHXJfDHaE...
+   ✅ Miga (4.6 ⭐)
+[164/458] ✓ Cached: Kimchimama
+[165/458] Fetching: ChIJGRfu8NIEdkgRsjX6nVyJm2I...
+   ✅ Assa (4.3 ⭐)
+[166/458] ✓ Cached: Cu4tro Restaurant & Tequila Bar
+[167/458] ✓ Cached: Mestizo Mexican Restaurant & Tequila Bar
+[168/458] ✓ Cached: Fonda
+[169/458] ✓ Cached: Wahaca Covent Garden
+[170/458] ✓ Cached: Santo Remedio - Asador, London Bridge
+[171/458] ✓ Cached: El Pastor Soho
+[172/458] ✓ Cached: Ixchel
+[173/458] ✓ Cached: Los Mochis London City
+[174/458] ✓ Cached: Mestizo Chelsea: Mexican Restaurant & Margarita Bar
+[175/458] ✓ Cached: El Pastor
+[176/458] ✓ Cached: Loco Mexicano
+[177/458] ✓ Cached: Mexican Seoul
+[178/458] Fetching: ChIJ3dvD8hMbdkgR4_wi5Opd7dI...
+   ✅ El Cenote (4.7 ⭐)
+[179/458] Fetching: ChIJ1-ByNTkbdkgRwi6Z6EHwE_c...
+   ✅ Cavita (4.3 ⭐)
+[180/458] Fetching: ChIJs4SV24QPdkgRb8z39NTBPjA...
+   ✅ Yucca London (4.7 ⭐)
+[181/458] ✓ Cached: The Great Chase
+[182/458] ✓ Cached: Coco Grill & Lounge
+[183/458] ✓ Cached: Taste of Lahore
+[184/458] ✓ Cached: The Banc
+[185/458] ✓ Cached: Shahs Halal Food Soho
+[186/458] ✓ Cached: Meet Bros (by Me’nate x Jibby&co.)
+[187/458] ✓ Cached: Steak and Company - Covent Garden
+[188/458] ✓ Cached: Colonel Saab
+[189/458] Fetching: ChIJ1TCDwroEdkgRKSUDBysgs2U...
+   ✅ Souk (4 ⭐)
+[190/458] Fetching: ChIJV5Y3MKWn2EcRtsMIUFC5N-E...
+   ✅ Elvet Steakhouse London (4.5 ⭐)
+[191/458] Fetching: ChIJw-QrOnEbdkgRIGaV5scfUeQ...
+   ✅ Azura Restaurant & Bar (4.6 ⭐)
+[192/458] Fetching: ChIJk383D9UEdkgReldnHq6ek84...
+   ✅ Le Bab (4.6 ⭐)
+[193/458] ✓ Cached: Naroon Fitzrovia
+[194/458] ✓ Cached: Halia Restaurant
+[195/458] Fetching: ChIJM96KJuAEdkgRpVnz86I3DWg...
+   ✅ Cyprus Mangal (4.6 ⭐)
+[196/458] ✓ Cached: Mildreds Covent Garden
+[197/458] ✓ Cached: Mildreds Victoria
+[198/458] ✓ Cached: Mallow Borough Market
+[199/458] ✓ Cached: Vantra Vegan
+[200/458] ✓ Cached: Vegan Yes
+[201/458] ✓ Cached: Tendril - A (mostly) Vegan Kitchen & Bar
+[202/458] ✓ Cached: Gauthier Soho
+[203/458] ✓ Cached: Studio Gauthier
+[204/458] ✓ Cached: Bubala Soho
+[205/458] ✓ Cached: Mildreds Soho
+[206/458] ✓ Cached: Tofu Vegan Islington
+[207/458] ✓ Cached: Govinda's Soho Street
+[208/458] ✓ Cached: Unity Diner
+[209/458] ✓ Cached: Holy Carrot
+[210/458] ✓ Cached: KIN Cafe & Restaurant
+[211/458] ✓ Cached: Meat The Vegans - Multicuisine
+[212/458] ✓ Cached: Plants of Roselyn
+[213/458] ✓ Cached: Cream Dream – Patisserie & Café
+[214/458] ✓ Cached: Love Shack
+[215/458] ✓ Cached: Mallow Canary Wharf
+[216/458] ✓ Cached: Mildreds Kings Cross
+[217/458] Fetching: ChIJERSGIcIbdkgRsqUFt7xf54g...
+   ✅ The Veg Box Cafe (4.9 ⭐)
+[218/458] ✓ Cached: Mildreds Camden
+[219/458] ✓ Cached: Vegan Planet
+[220/458] ✓ Cached: The Ledbury
+[221/458] ✓ Cached: Ekstedt at The Yard
+[222/458] ✓ Cached: Dinner by Heston Blumenthal
+[223/458] ✓ Cached: Restaurant St. Barts
+[224/458] ✓ Cached: Evelyn's Table
+[225/458] ✓ Cached: Kitchen Table
+[226/458] ✓ Cached: Restaurant Story
+[227/458] ✓ Cached: Row on 5
+[228/458] Fetching: ChIJU7uHDYcbdkgRttS28-dNO7E...
+   ✅ Akoko (4.8 ⭐)
+[229/458] ✓ Cached: Club Gascon - French Michelin Starred Restaurant
+[230/458] ✓ Cached: Hélène Darroze at The Connaught
+[231/458] ✓ Cached: Core by Clare Smyth
+[232/458] Fetching: ChIJdyD4g3MddkgRu4WVVDnjZv8...
+   ✅ Behind Restaurant (4.7 ⭐)
+[233/458] ✓ Cached: Restaurant 1890 by Gordon Ramsay
+[234/458] ✓ Cached: Cycene
+[235/458] ✓ Cached: The Ninth
+[236/458] ✓ Cached: The Ritz Restaurant
+[237/458] ✓ Cached: Ormer Mayfair
+[238/458] ✓ Cached: HIDE
+[239/458] ✓ Cached: HUMO
+[240/458] ✓ Cached: Frog by Adam Handling Restaurant Covent Garden
+[241/458] ✓ Cached: Scully
+[242/458] ✓ Cached: EL&N London
+[243/458] ✓ Cached: L'ETO Soho
+[244/458] ✓ Cached: EL&N London
+[245/458] ✓ Cached: Scarlett Green
+[246/458] ✓ Cached: LUMI Camden
+[247/458] ✓ Cached: Victoria House Coffee & Food
+[248/458] ✓ Cached: Farm Girl
+[249/458] Fetching: ChIJ2RrGUY0ddkgRRY_1dGMkucY...
+   ✅ London Night Cafe (4.9 ⭐)
+[250/458] ✓ Cached: Kennington Lane Cafe
+[251/458] ✓ Cached: Regency Cafe
+[252/458] ✓ Cached: St James's Café
+[253/458] ✓ Cached: Drury Covent Garden | Cafe & Brunch
+[254/458] Fetching: ChIJtXwZ4EsFdkgRakzEeDuvgGQ...
+   ✅ Café Kitsuné - Covent Garden (4.4 ⭐)
+[255/458] Fetching: ChIJE_X5wtgFdkgR-S_jLo7iASU...
+   ✅ Old Queen Street Cafe (4.5 ⭐)
+[256/458] Fetching: ChIJPezp68UcdkgR7-XRi5OAXZ4...
+   ✅ E Pellicci (4.8 ⭐)
+[257/458] Fetching: ChIJpQZ9bukbdkgRUZEm0CT95rg...
+   ✅ Morr (4.9 ⭐)
+[258/458] ✓ Cached: Dulce Coffee London
+[259/458] Fetching: ChIJK8MVG6YFdkgRKPtZGres00k...
+   ✅ EL&N London Park Lane (4 ⭐)
+[260/458] ✓ Cached: Cafe Maya
+[261/458] Fetching: ChIJvySgiAAFdkgRxqIqR9WFZCw...
+   ✅ Feya (4.2 ⭐)
+[262/458] ✓ Cached: % ARABICA London Covent Garden
+[263/458] ✓ Cached: Prufrock Coffee
+[264/458] ✓ Cached: Monmouth Coffee Company
+[265/458] ✓ Cached: Omotesando Koffee
+[266/458] ✓ Cached: Kiss the Hippo Coffee
+[267/458] ✓ Cached: Kaffeine
+[268/458] ✓ Cached: Rosslyn Coffee Queen Victoria Street
+[269/458] ✓ Cached: Ozone Coffee - Shoreditch
+[270/458] ✓ Cached: Rosslyn Coffee London Wall
+[271/458] ✓ Cached: Hideaway Coffee House
+[272/458] ✓ Cached: Chill House Coffee Shop
+[273/458] ✓ Cached: Lever & Bloom Coffee
+[274/458] ✓ Cached: Batch Baby
+[275/458] ✓ Cached: Saint Nine Coffee
+[276/458] ✓ Cached: Coffee London
+[277/458] ✓ Cached: Attendant Coffee Roasters | Fitzrovia
+[278/458] ✓ Cached: Coffee Island
+[279/458] ✓ Cached: Formative Coffee
+[280/458] ✓ Cached: Coffee & Friends
+[281/458] ✓ Cached: Monmouth Coffee Company
+[282/458] ✓ Cached: Arôme Bakery - Mercer Street
+[283/458] ✓ Cached: E5 Bakehouse
+[284/458] ✓ Cached: Aux pains de papy
+[285/458] ✓ Cached: Fortitude Bakehouse
+[286/458] ✓ Cached: Beigel Bake
+[287/458] ✓ Cached: Chestnut Bakery, Covent Garden
+[288/458] ✓ Cached: The Dusty Knuckle Bakery
+[289/458] ✓ Cached: COMMON BREADS
+[290/458] ✓ Cached: Bageriet
+[291/458] ✓ Cached: Miel Bakery
+[292/458] ✓ Cached: Maison Bertaux
+[293/458] ✓ Cached: Chestnut Bakery, Belgravia
+[294/458] ✓ Cached: Arôme Bakery - Duke Street
+[295/458] ✓ Cached: TOAD Bakery
+[296/458] ✓ Cached: Maya’s Bakehouse
+[297/458] ✓ Cached: GAIL's Bakery Soho
+[298/458] ✓ Cached: Dunn's Bakery
+[299/458] Fetching: ChIJM4CzbeMRdkgR9tHRMt9yZd0...
+   ✅ Don't Tell Dad (4.6 ⭐)
+[300/458] ✓ Cached: Patisserie Sainte Anne
+[301/458] ✓ Cached: Fabrique Bakery Hoxton
+[302/458] ✓ Cached: The Buttery
+[303/458] ✓ Cached: Paradise Green
+[304/458] ✓ Cached: Sunday in Brooklyn - Modern American Restaurant Notting Hill
+[305/458] ✓ Cached: Brother Marcus Borough
+[306/458] ✓ Cached: Sunday in Brooklyn - Modern American Restaurant Marylebone
+[307/458] ✓ Cached: Eggbreak
+[308/458] Fetching: ChIJozeGfRgFdkgRQw5RtkLRGTI...
+   ✅ Brother Marcus South Kensington (4.7 ⭐)
+[309/458] ✓ Cached: Duck & Waffle
+[310/458] ✓ Cached: Milk Beach Soho
+[311/458] ✓ Cached: Broken Eggs
+[312/458] ✓ Cached: Drunch Oxford Circus
+[313/458] ✓ Cached: The Breakfast Club Soho
+[314/458] ✓ Cached: The Table Café
+[315/458] ✓ Cached: Nessa Soho
+[316/458] ✓ Cached: Bill's Covent Garden Restaurant
+[317/458] ✓ Cached: KOZZEE Cafe Soho | Brunch, Coffee & Desserts
+[318/458] ✓ Cached: The Wolseley
+[319/458] Fetching: ChIJoTZdPjUDdkgRPmRIp19fiZw...
+   ✅ Amber Restaurant (4.7 ⭐)
+[320/458] ✓ Cached: The Breakfast Club Seven Dials
+[321/458] ✓ Cached: Brother Marcus Covent Garden
+[322/458] ✓ Cached: The Breakfast Club London Bridge
+[323/458] Fetching: ChIJ9wf3W04DdkgRhd7vUn5ijBQ...
+   ✅ Coppa Club Tower Bridge (4.1 ⭐)
+[324/458] ✓ Cached: The Breakfast Club Old Compton Street
+[325/458] ✓ Cached: The Little Scarlet Door
+[326/458] ✓ Cached: Swift Soho
+[327/458] ✓ Cached: Amazing Grace London Bridge
+[328/458] Fetching: ChIJO5NM4aUcdkgR-XrNmE-75f8...
+   ✅ Nightjar Shoreditch (4.6 ⭐)
+[329/458] ✓ Cached: Alcotraz London: Cell Block Two-One-Two
+[330/458] ✓ Cached: Florattica Rooftop London
+[331/458] ✓ Cached: STEREO Covent Garden
+[332/458] Fetching: ChIJ-d3JPScbdkgRVkMUwI9RkYE...
+   ✅ Simmons Bar (4.7 ⭐)
+[333/458] ✓ Cached: Opium Cocktail Bar - Soho
+[334/458] Fetching: ChIJ6w2DBEkDdkgR_CwN2asGFhM...
+   ✅ The Cocktail Club - Cocktail Bar near Mansion House (4.7 ⭐)
+[335/458] Fetching: ChIJUzv6p9UEdkgRf3JNfE64VXk...
+   ✅ Disrepute - Cocktail Bar in Soho (4.4 ⭐)
+[336/458] Fetching: ChIJ46R2PhMFdkgR1BjAhX30B_M...
+   ✅ Pulse Bar London (4.9 ⭐)
+[337/458] Fetching: ChIJ79cBDAoFdkgR00V_0BAzrlU...
+   ✅ Mr Fogg's Society of Exploration (4.6 ⭐)
+[338/458] ✓ Cached: Bar Soho
+[339/458] ✓ Cached: A Bar with Shapes for a Name
+[340/458] ✓ Cached: SOMA Soho
+[341/458] Fetching: ChIJ5WKTw7EEdkgRRhwij-alVfA...
+   ✅ Lyaness (4.6 ⭐)
+[342/458] ✓ Cached: Bussey Rooftop Bar
+[343/458] ✓ Cached: Nine Lives
+[344/458] Fetching: ChIJbxmJuLMcdkgR33dwiKTmT_Q...
+   ✅ Be At One - Spitalfields (4.7 ⭐)
+[345/458] ✓ Cached: The Rooftop
+[346/458] ✓ Cached: Wagtail
+[347/458] ✓ Cached: London Bridge Rooftop Bar
+[348/458] ✓ Cached: Mercer Roof Terrace
+[349/458] ✓ Cached: Madison
+[350/458] ✓ Cached: Kitty Hawk
+[351/458] ✓ Cached: Miradora Rooftop Restaurant Tequileria
+[352/458] ✓ Cached: Circe's Rooftop Waterloo
+[353/458] ✓ Cached: Aviary
+[354/458] ✓ Cached: Savage Garden Rooftop Bar
+[355/458] ✓ Cached: 1 Leicester Square Rooftop Bar & Restaurant
+[356/458] Fetching: ChIJR7FHQ7oFdkgRcGgNclUbmGs...
+   ✅ JOIA Restaurant, Bar & Rooftop (4.4 ⭐)
+[357/458] Fetching: ChIJGZCpa_4DdkgRhp_45r0lcTs...
+   ✅ Pergola on the Wharf (4.3 ⭐)
+[358/458] ✓ Cached: The Soho Social
+[359/458] ✓ Cached: Blacklock Soho
+[360/458] ✓ Cached: Kapara Soho
+[361/458] ✓ Cached: The Devonshire
+[362/458] ✓ Cached: Dirty Bones Soho
+[363/458] ✓ Cached: The Seafood Bar
+[364/458] ✓ Cached: Noble Rot Soho
+[365/458] ✓ Cached: Bill's Soho Restaurant
+[366/458] Fetching: ChIJ-2mrB9UEdkgReKgh9HDC-7s...
+   ✅ Cahoots Underground (4.6 ⭐)
+[367/458] ✓ Cached: BAO Soho
+[368/458] Fetching: ChIJBS3jB9UEdkgRVZR_jxtt_WE...
+   ✅ Señor Ceviche Peruvian Restaurant Soho (4.5 ⭐)
+[369/458] ✓ Cached: Kricket Shoreditch - Kafé, Restaurant & Bar
+[370/458] ✓ Cached: Flat Iron Shoreditch
+[371/458] ✓ Cached: Blacklock Shoreditch
+[372/458] ✓ Cached: Popolo Shoreditch
+[373/458] ✓ Cached: Padella Shoreditch
+[374/458] ✓ Cached: SMOKESTAK
+[375/458] ✓ Cached: The Blues Kitchen | Shoreditch
+[376/458] ✓ Cached: Lina Stores Shoreditch - Italian Restaurant & Bar
+[377/458] ✓ Cached: Lahpet Shoreditch
+[378/458] ✓ Cached: The Clove Club
+[379/458] ✓ Cached: Camino Shoreditch
+[380/458] ✓ Cached: BRAT Restaurant
+[381/458] ✓ Cached: Rochelle Canteen
+[382/458] ✓ Cached: The Light Bar & Dining
+[383/458] Fetching: ChIJJdCSc7ocdkgRqOofbAUhpgs...
+   ✅ Barrio - Shoreditch (4.5 ⭐)
+[384/458] ✓ Cached: 34 Mayfair
+[385/458] ✓ Cached: Bacchanalia Mayfair
+[386/458] ✓ Cached: COYA Mayfair
+[387/458] Fetching: ChIJ334TL0cFdkgRFmQvbqjY1fI...
+   ✅ Gaia Mayfair (4.3 ⭐)
+[388/458] Fetching: ChIJSyrKsHsFdkgRlscc2dm1IRY...
+   ✅ The MAINE (4.5 ⭐)
+[389/458] Fetching: ChIJQV-ujzIFdkgReTqDKWG7KVk...
+   ✅ ROKA Mayfair (4.3 ⭐)
+[390/458] ✓ Cached: Corrigan's Mayfair
+[391/458] ✓ Cached: Isabel Mayfair
+[392/458] Fetching: ChIJAzNI_8sFdkgRbRvnLqAvUJY...
+   ✅ Noble Rot Mayfair (4.7 ⭐)
+[393/458] ✓ Cached: The Ivy Asia Mayfair
+[394/458] ✓ Cached: Grilandia Mayfair
+[395/458] Fetching: ChIJydjklNQEdkgRRkTHmCM_92o...
+   ✅ Hakkasan (4.3 ⭐)
+[396/458] ✓ Cached: Bluebird Chelsea
+[397/458] ✓ Cached: Rabbit British Bistro
+[398/458] ✓ Cached: The Ivy Chelsea Garden
+[399/458] ✓ Cached: La Mia Mamma King's Road
+[400/458] Fetching: ChIJk8O_eJkFdkgRxU8DHQTBC8Q...
+   ✅ The Chelsea Corner (4.7 ⭐)
+[401/458] ✓ Cached: Daphne's
+[402/458] ✓ Cached: No. Fifty Cheyne
+[403/458] ✓ Cached: Granger & Co. Chelsea
+[404/458] ✓ Cached: The Ivy Asia Chelsea
+[405/458] ✓ Cached: Stanley's Chelsea
+[406/458] Fetching: ChIJz6D4H70FdkgRwmpVyOnTXqU...
+   ✅ Mucci's (4.7 ⭐)
+[407/458] ✓ Cached: The Cadogan Arms
+[408/458] Fetching: ChIJHbgcPVQFdkgRD_VwKVHz5WU...
+   ✅ Baba Restaurant Chelsea (4.8 ⭐)
+[409/458] Fetching: ChIJmSI9UdcFdkgRSbOLWv-dTSo...
+   ✅ Bottarga (4.5 ⭐)
+[410/458] ✓ Cached: Flat Iron Covent Garden
+[411/458] ✓ Cached: Gaucho Covent Garden
+[412/458] ✓ Cached: Caravan Covent Garden Restaurant
+[413/458] ✓ Cached: Blacklock Covent Garden
+[414/458] ✓ Cached: Da Mario Covent Garden
+[415/458] ✓ Cached: Balthazar
+[416/458] ✓ Cached: Browns
+[417/458] Fetching: ChIJYaJz2qEFdkgR_dxL71SyoB0...
+   ✅ Banana Tree Covent Garden (4.6 ⭐)
+[418/458] Fetching: ChIJy_ehYcsEdkgRCMgFVW5YtUs...
+   ✅ Inamo Covent Garden (4.2 ⭐)
+[419/458] Fetching: ChIJpXVfg3QFdkgR3QFeKXdNHEQ...
+   ✅ Cora Pearl (4.6 ⭐)
+[420/458] ✓ Cached: Osteria Napoletana
+[421/458] ✓ Cached: Granger and Co. Notting Hill
+[422/458] ✓ Cached: Gold
+[423/458] ✓ Cached: Frame Notting Hill
+[424/458] ✓ Cached: Wild Restaurant
+[425/458] ✓ Cached: LUSH & HUSH
+[426/458] ✓ Cached: The Barbary Notting Hill
+[427/458] Fetching: ChIJKVCOFHMPdkgR39y9CriYPSw...
+   ✅ Zephyr Notting Hill (4.5 ⭐)
+[428/458] Fetching: ChIJ6exwqg0PdkgRSngmCm7rHds...
+   ✅ Ci Tua Osteria Romana (4.6 ⭐)
+[429/458] ✓ Cached: Caractère
+[430/458] Fetching: ChIJC8ZZHMgRdkgRC3kvFotmv_k...
+   ✅ La mia Mamma Notting Hill (4.5 ⭐)
+[431/458] ✓ Cached: Dove Restaurant
+[432/458] Fetching: ChIJ8bckdgIQdkgRb1f7eGiCZeI...
+   ✅ Taqueria - Notting Hill (3.9 ⭐)
+[433/458] ✓ Cached: Andy’s Greek Taverna
+[434/458] ✓ Cached: The Blues Kitchen Camden
+[435/458] ✓ Cached: Il Sugo
+[436/458] ✓ Cached: Laz @Camden
+[437/458] Fetching: ChIJk5zXxB8bdkgRsM8AQ6244NE...
+   ✅ Daphne Restaurant (4.8 ⭐)
+[438/458] ✓ Cached: La Patagonia
+[439/458] ✓ Cached: Turtle Bay Camden
+[440/458] Fetching: ChIJKfBc--AadkgRbx6u6AtJIpM...
+   ✅ Jamon Jamon (4.1 ⭐)
+[441/458] Fetching: ChIJbatx-eAadkgR_WDnjsJLiQk...
+   ✅ Purezza Camden (4.8 ⭐)
+[442/458] ✓ Cached: Frida Camden
+[443/458] Fetching: ChIJkzzMOyAbdkgRQPthSECPqTc...
+   ✅ Band of Burgers, Camden (4.3 ⭐)
+[444/458] Fetching: ChIJPaw3oeEadkgRVI2ksQdQ3X4...
+   ✅ Made in Brasil (4.3 ⭐)
+[445/458] ✓ Cached: COCO Canary Wharf - Restaurant & Lounge
+[446/458] ✓ Cached: Brother Marcus Canary Wharf
+[447/458] ✓ Cached: The Ivy Canary Wharf
+[448/458] ✓ Cached: Barbarella
+[449/458] ✓ Cached: Gaucho Canary Wharf
+[450/458] ✓ Cached: Blacklock Canary Wharf
+[451/458] Fetching: ChIJn3RGCAADdkgR6bRFQaaEZJ0...
+   ✅ Kricket Canary Wharf Restaurant (4.7 ⭐)
+[452/458] ✓ Cached: Roe - Canary Wharf
+[453/458] Fetching: ChIJ9Qmpyf4DdkgRSjiX1welfDY...
+   ✅ Brera Lounge (4.5 ⭐)
+[454/458] Fetching: ChIJlyAZQ7cCdkgR8AfWRKEh1rE...
+   ✅ ROKA Canary Wharf (4.4 ⭐)
+[455/458] ✓ Cached: Dishoom Canary Wharf
+[456/458] ✓ Cached: Hawksmoor Wood Wharf
+[457/458] Fetching: ChIJY5yNZv0DdkgRM0383ClsbOQ...
+   ✅ Six by Nico Canary Wharf (4.2 ⭐)
+[458/458] Fetching: ChIJZ7h0_scCdkgR2vK0OaP4dNU...
+   ✅ Amerigo Vespucci (4.6 ⭐)
+
+
+======================================================================
+✅ DETAILS FETCH COMPLETE
+======================================================================
+Total Places: 458
+Successful: 458 (100.0%)
+Failed: 0
+Output Directory: data/google/details/
+======================================================================
+
+📊 Data Coverage:
+   Ratings: 458/458 (100.0%)
+   Photos: 458/458 (100.0%)
+   Websites: 445/458 (97.2%)
+   Phone Numbers: 392/458 (85.6%)
+   Opening Hours: 455/458 (99.3%)
+
+📊 Report saved: /Users/htanweer/Desktop/thebestinlondon/reports/fetch-details-report.md
+📊 Index saved: /Users/htanweer/Desktop/thebestinlondon/data/google/details/_details-index.json
+
+✅ Success! Ready for next phase: buildVenues.js
+
+[32m
+✅ Google Place Details - Complete
+[0m
+
+[1m[36m======================================================================[0m
+[1m[36mPHASE 3: BUILDING FINAL VENUES[0m
+[1m[36m======================================================================[0m
+
+[34m
+▶️  Running: Venue Builder (Google + FSA)...[0m
+[36mScript: buildVenues.js[0m
+🏗️  VENUE BUILDER
+
+======================================================================
+Merging Google Places + FSA hygiene data
+======================================================================
+
+📋 Found 458 Google Places
+
+[1/458] Processing: Dishoom Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[2/458] Processing: Gymkhana
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[3/458] Processing: Maharaja - SoHo
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[4/458] Processing: Kricket Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[5/458] Processing: Maharaja of India
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[6/458] Processing: The India - Fleet Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[7/458] Processing: Chettinad Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[8/458] Processing: The India - Cannon Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[9/458] Processing: Aladin Brick Lane
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[10/458] Processing: Dishoom Kensington
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[11/458] Processing: Brigadiers
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[12/458] Processing: Bengal Village - Best of Brick Lane
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[13/458] Processing: Cinnamon Bazaar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[14/458] Processing: Dishoom Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[15/458] Processing: Dishoom Carnaby
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[16/458] Processing: Paro - Covent Garden & Strand - Best Indian Restaurant London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[17/458] Processing: Pravaas - South Kensington
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[18/458] Processing: The India - City Road
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[19/458] Processing: Dishoom King's Cross
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[20/458] Processing: Tandoor Chop House
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[21/458] Processing: Circolo Popolare
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[22/458] Processing: Carlotta
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[23/458] Processing: Ave Mario
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[24/458] Processing: Grasso
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[25/458] Processing: Gloria
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[26/458] Processing: Bocca di Lupo
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[27/458] Processing: Faros Oxford Circus
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[28/458] Processing: Padella
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[29/458] Processing: Bocconcino Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[30/458] Processing: Osteria romana
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[31/458] Processing: Amalfi Ristorante - Argyll Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[32/458] Processing: Bancone Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[33/458] Processing: Como Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[34/458] Processing: Doppo
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[35/458] Processing: manteca
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[36/458] Processing: Bocconcino Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[37/458] Processing: Giulia Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[38/458] Processing: Sparrow Italia
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[39/458] Processing: Luca
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[40/458] Processing: Amor Gastronomia
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[41/458] Processing: Zuma London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[42/458] Processing: Kanpai Classic Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[43/458] Processing: Machiya
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[44/458] Processing: OITA Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[45/458] Processing: SUSHISAMBA London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[46/458] Processing: Sanjugo Victoria
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[47/458] Processing: Maru London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[48/458] Processing: SUSHINOEN
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[49/458] Processing: Sanjugo Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[50/458] Processing: High Yaki
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[51/458] Processing: Eat Tokyo (Soho)
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[52/458] Processing: Hanasaki Japanese Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[53/458] Processing: NIJŪ
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[54/458] Processing: ROKA Charlotte Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[55/458] Processing: RAI Restaurant London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[56/458] Processing: Uzumaki London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[57/458] Processing: Chisou Sushi and Izakaya
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[58/458] Processing: INKO NITO - Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[59/458] Processing: Hot Stone London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[60/458] Processing: Shack-Fuyu Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[61/458] Processing: YiQi
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[62/458] Processing: Tattu London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[63/458] Processing: The Duck and Rice
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[64/458] Processing: Din Tai Fung Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[65/458] Processing: Fatt Pundit
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[66/458] Processing: Yauatcha Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[67/458] Processing: Gold Mine
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[68/458] Processing: Imperial Treasure Fine Chinese Cuisine
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[69/458] Processing: Hutong
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[70/458] Processing: House of Ming
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[71/458] Processing: Peacock London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[72/458] Processing: Fatt Pundit
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[73/458] Processing: Noble Palace
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[74/458] Processing: The Sichuan Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[75/458] Processing: Min Jiang
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[76/458] Processing: Nanyang Blossom - Knightsbridge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[77/458] Processing: Ma La Sichuan
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[78/458] Processing: Shan Shui Social
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[79/458] Processing: A. Wong
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[80/458] Processing: Golden Dragon (Chinatown)
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[81/458] Processing: Speedboat Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[82/458] Processing: Platapian Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[83/458] Processing: Kolae
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[84/458] Processing: Nua
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[85/458] Processing: AngloThai
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[86/458] Processing: Smoking Goat Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[87/458] Processing: Khao Bird
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[88/458] Processing: Kiln
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[89/458] Processing: Plaza Khao Gaeng
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[90/458] Processing: Patara Knightsbridge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[91/458] Processing: Phakoon Thai Kitchen - Earlsfield
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[92/458] Processing: The Great THAI Kitchen
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[93/458] Processing: Nipa Thai
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[94/458] Processing: Thai Square Trafalgar Square
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[95/458] Processing: Rosa's Thai Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[96/458] Processing: Banana Tree Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[97/458] Processing: Champor-Champor
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[98/458] Processing: Kin + Deum
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[99/458] Processing: Chet's
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[100/458] Processing: Patara Oxford Circus
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[101/458] Processing: Kibele Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[102/458] Processing: FIRIN
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[103/458] Processing: MASA TURKISH RESTAURANT
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[104/458] Processing: ANA Turkish Restaurant and Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[105/458] Processing: Gökyüzü Green Lanes
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[106/458] Processing: Tower Mangal
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[107/458] Processing: Efes Premium
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[108/458] Processing: Ishtar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[109/458] Processing: The Mantl
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[110/458] Processing: Cirrik 19 Numara Bos
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[111/458] Processing: Liman Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[112/458] Processing: Hala Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[113/458] Processing: Antalya
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[114/458] Processing: Dem Restaurant (Traditional Turkish Restaurant, Meze Grill)
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[115/458] Processing: Alanya turkish with fusion
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[116/458] Processing: Ottoman
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[117/458] Processing: Fes Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[118/458] Processing: Selale Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[119/458] Processing: Midpoint Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[120/458] Processing: Zahter
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[121/458] Processing: Riviera
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[122/458] Processing: Brasserie Zedel
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[123/458] Processing: Bouchon Racine
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[124/458] Processing: 64 Goodge Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[125/458] Processing: La Palombe Kensington
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[126/458] Processing: Le Relais de Venise L'Entrecote | Marylebone
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[127/458] Processing: L'Escargot Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[128/458] Processing: Galvin La Chapelle
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[129/458] Processing: Chez Bruce
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[130/458] Processing: Maison François
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[131/458] Processing: Casse-Croûte
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[132/458] Processing: Clos Maggiore
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[133/458] Processing: Pavyllon London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[134/458] Processing: La Trompette
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[135/458] Processing: Mon Plaisir
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[136/458] Processing: Sabor
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[137/458] Processing: Copita
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[138/458] Processing: El Pirata Of Mayfair - Tapas Bar Español
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[139/458] Processing: Copita Fitzrovia Tapas Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[140/458] Processing: Barrafina Dean Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[141/458] Processing: Dehesa
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[142/458] Processing: La Gamba - Spanish Tapas Bar & Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[143/458] Processing: Donostia Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[144/458] Processing: Aqua Nueva
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[145/458] Processing: La Parra Tapas
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[146/458] Processing: Lobos
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[147/458] Processing: Salt Yard
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[148/458] Processing: Luna Llena
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[149/458] Processing: Little Taperia
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[150/458] Processing: El Ganso Cafe
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[151/458] Processing: Koko Grill Korean BBQ Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[152/458] Processing: YORI Korean Restaurant (Covent Garden)
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[153/458] Processing: Majang Dong
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[154/458] Processing: Arang Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[155/458] Processing: Seoul Tokyo
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[156/458] Processing: Soju Korean Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[157/458] Processing: Jang Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[158/458] Processing: Korean Dinner Party
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[159/458] Processing: Ssam Ssam Korean Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[160/458] Processing: YORI Piccadilly Circus Korean BBQ
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[161/458] Processing: Bibimbap Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[162/458] Processing: Daebak
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[163/458] Processing: Miga
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[164/458] Processing: Kimchimama
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[165/458] Processing: Assa
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[166/458] Processing: Cu4tro Restaurant & Tequila Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[167/458] Processing: Mestizo Mexican Restaurant & Tequila Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[168/458] Processing: Fonda
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[169/458] Processing: Wahaca Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[170/458] Processing: Santo Remedio - Asador, London Bridge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[171/458] Processing: El Pastor Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[172/458] Processing: Ixchel
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[173/458] Processing: Los Mochis London City
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[174/458] Processing: Mestizo Chelsea: Mexican Restaurant & Margarita Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[175/458] Processing: El Pastor
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[176/458] Processing: Loco Mexicano
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[177/458] Processing: Mexican Seoul
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[178/458] Processing: El Cenote
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[179/458] Processing: Cavita
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[180/458] Processing: Yucca London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[181/458] Processing: The Great Chase
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[182/458] Processing: Coco Grill & Lounge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[183/458] Processing: Taste of Lahore
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[184/458] Processing: The Banc
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[185/458] Processing: Shahs Halal Food Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[186/458] Processing: Meet Bros (by Me’nate x Jibby&co.)
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[187/458] Processing: Steak and Company - Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[188/458] Processing: Colonel Saab
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[189/458] Processing: Souk
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[190/458] Processing: Elvet Steakhouse London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[191/458] Processing: Azura Restaurant & Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[192/458] Processing: Le Bab
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[193/458] Processing: Naroon Fitzrovia
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[194/458] Processing: Halia Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[195/458] Processing: Cyprus Mangal
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[196/458] Processing: Mildreds Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[197/458] Processing: Mildreds Victoria
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[198/458] Processing: Mallow Borough Market
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[199/458] Processing: Vantra Vegan
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[200/458] Processing: Vegan Yes
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[201/458] Processing: Tendril - A (mostly) Vegan Kitchen & Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[202/458] Processing: Gauthier Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[203/458] Processing: Studio Gauthier
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[204/458] Processing: Bubala Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[205/458] Processing: Mildreds Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[206/458] Processing: Tofu Vegan Islington
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[207/458] Processing: Govinda's Soho Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[208/458] Processing: Unity Diner
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[209/458] Processing: Holy Carrot
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[210/458] Processing: KIN Cafe & Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[211/458] Processing: Meat The Vegans - Multicuisine
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[212/458] Processing: Plants of Roselyn
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[213/458] Processing: Cream Dream – Patisserie & Café
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[214/458] Processing: Love Shack
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[215/458] Processing: Mallow Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[216/458] Processing: Mildreds Kings Cross
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[217/458] Processing: The Veg Box Cafe
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[218/458] Processing: Mildreds Camden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[219/458] Processing: Vegan Planet
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[220/458] Processing: The Ledbury
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[221/458] Processing: Ekstedt at The Yard
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[222/458] Processing: Dinner by Heston Blumenthal
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[223/458] Processing: Restaurant St. Barts
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[224/458] Processing: Evelyn's Table
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[225/458] Processing: Kitchen Table
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[226/458] Processing: Restaurant Story
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[227/458] Processing: Row on 5
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[228/458] Processing: Akoko
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[229/458] Processing: Club Gascon - French Michelin Starred Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[230/458] Processing: Hélène Darroze at The Connaught
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[231/458] Processing: Core by Clare Smyth
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[232/458] Processing: Behind Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[233/458] Processing: Restaurant 1890 by Gordon Ramsay
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[234/458] Processing: Cycene
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[235/458] Processing: The Ninth
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[236/458] Processing: The Ritz Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[237/458] Processing: Ormer Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[238/458] Processing: HIDE
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[239/458] Processing: HUMO
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[240/458] Processing: Frog by Adam Handling Restaurant Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[241/458] Processing: Scully
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[242/458] Processing: EL&N London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[243/458] Processing: L'ETO Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[244/458] Processing: EL&N London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[245/458] Processing: Scarlett Green
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[246/458] Processing: LUMI Camden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[247/458] Processing: Victoria House Coffee & Food
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[248/458] Processing: Farm Girl
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[249/458] Processing: London Night Cafe
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[250/458] Processing: Kennington Lane Cafe
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[251/458] Processing: Regency Cafe
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[252/458] Processing: St James's Café
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[253/458] Processing: Drury Covent Garden | Cafe & Brunch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[254/458] Processing: Café Kitsuné - Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[255/458] Processing: Old Queen Street Cafe
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[256/458] Processing: E Pellicci
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[257/458] Processing: Morr
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[258/458] Processing: Dulce Coffee London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[259/458] Processing: EL&N London Park Lane
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[260/458] Processing: Cafe Maya
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[261/458] Processing: Feya
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[262/458] Processing: % ARABICA London Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[263/458] Processing: Prufrock Coffee
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[264/458] Processing: Monmouth Coffee Company
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[265/458] Processing: Omotesando Koffee
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[266/458] Processing: Kiss the Hippo Coffee
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[267/458] Processing: Kaffeine
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[268/458] Processing: Rosslyn Coffee Queen Victoria Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[269/458] Processing: Ozone Coffee - Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[270/458] Processing: Rosslyn Coffee London Wall
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[271/458] Processing: Hideaway Coffee House
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[272/458] Processing: Chill House Coffee Shop
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[273/458] Processing: Lever & Bloom Coffee
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[274/458] Processing: Batch Baby
+   🔍 Looking up FSA rating...
+   ✅ FSA: 3 (Hackney)
+[275/458] Processing: Saint Nine Coffee
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[276/458] Processing: Coffee London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[277/458] Processing: Attendant Coffee Roasters | Fitzrovia
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[278/458] Processing: Coffee Island
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[279/458] Processing: Formative Coffee
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[280/458] Processing: Coffee & Friends
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[281/458] Processing: Monmouth Coffee Company
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[282/458] Processing: Arôme Bakery - Mercer Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[283/458] Processing: E5 Bakehouse
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[284/458] Processing: Aux pains de papy
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[285/458] Processing: Fortitude Bakehouse
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[286/458] Processing: Beigel Bake
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[287/458] Processing: Chestnut Bakery, Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[288/458] Processing: The Dusty Knuckle Bakery
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[289/458] Processing: COMMON BREADS
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[290/458] Processing: Bageriet
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[291/458] Processing: Miel Bakery
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[292/458] Processing: Maison Bertaux
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[293/458] Processing: Chestnut Bakery, Belgravia
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[294/458] Processing: Arôme Bakery - Duke Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[295/458] Processing: TOAD Bakery
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[296/458] Processing: Maya’s Bakehouse
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[297/458] Processing: GAIL's Bakery Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[298/458] Processing: Dunn's Bakery
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[299/458] Processing: Don't Tell Dad
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[300/458] Processing: Patisserie Sainte Anne
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[301/458] Processing: Fabrique Bakery Hoxton
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[302/458] Processing: The Buttery
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[303/458] Processing: Paradise Green
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[304/458] Processing: Sunday in Brooklyn - Modern American Restaurant Notting Hill
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[305/458] Processing: Brother Marcus Borough
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[306/458] Processing: Sunday in Brooklyn - Modern American Restaurant Marylebone
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[307/458] Processing: Eggbreak
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[308/458] Processing: Brother Marcus South Kensington
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[309/458] Processing: Duck & Waffle
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[310/458] Processing: Milk Beach Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[311/458] Processing: Broken Eggs
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[312/458] Processing: Drunch Oxford Circus
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[313/458] Processing: The Breakfast Club Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[314/458] Processing: The Table Café
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[315/458] Processing: Nessa Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[316/458] Processing: Bill's Covent Garden Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[317/458] Processing: KOZZEE Cafe Soho | Brunch, Coffee & Desserts
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[318/458] Processing: The Wolseley
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[319/458] Processing: Amber Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[320/458] Processing: The Breakfast Club Seven Dials
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[321/458] Processing: Brother Marcus Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[322/458] Processing: The Breakfast Club London Bridge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[323/458] Processing: Coppa Club Tower Bridge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[324/458] Processing: The Breakfast Club Old Compton Street
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[325/458] Processing: The Little Scarlet Door
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[326/458] Processing: Swift Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[327/458] Processing: Amazing Grace London Bridge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[328/458] Processing: Nightjar Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[329/458] Processing: Alcotraz London: Cell Block Two-One-Two
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[330/458] Processing: Florattica Rooftop London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[331/458] Processing: STEREO Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[332/458] Processing: Simmons Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[333/458] Processing: Opium Cocktail Bar - Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[334/458] Processing: The Cocktail Club - Cocktail Bar near Mansion House
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[335/458] Processing: Disrepute - Cocktail Bar in Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[336/458] Processing: Pulse Bar London
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[337/458] Processing: Mr Fogg's Society of Exploration
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[338/458] Processing: Bar Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[339/458] Processing: A Bar with Shapes for a Name
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[340/458] Processing: SOMA Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[341/458] Processing: Lyaness
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[342/458] Processing: Bussey Rooftop Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[343/458] Processing: Nine Lives
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[344/458] Processing: Be At One - Spitalfields
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[345/458] Processing: The Rooftop
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[346/458] Processing: Wagtail
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[347/458] Processing: London Bridge Rooftop Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[348/458] Processing: Mercer Roof Terrace
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[349/458] Processing: Madison
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[350/458] Processing: Kitty Hawk
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[351/458] Processing: Miradora Rooftop Restaurant Tequileria
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[352/458] Processing: Circe's Rooftop Waterloo
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[353/458] Processing: Aviary
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[354/458] Processing: Savage Garden Rooftop Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[355/458] Processing: 1 Leicester Square Rooftop Bar & Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[356/458] Processing: JOIA Restaurant, Bar & Rooftop
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[357/458] Processing: Pergola on the Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[358/458] Processing: The Soho Social
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[359/458] Processing: Blacklock Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[360/458] Processing: Kapara Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[361/458] Processing: The Devonshire
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[362/458] Processing: Dirty Bones Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[363/458] Processing: The Seafood Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[364/458] Processing: Noble Rot Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[365/458] Processing: Bill's Soho Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[366/458] Processing: Cahoots Underground
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[367/458] Processing: BAO Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[368/458] Processing: Señor Ceviche Peruvian Restaurant Soho
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[369/458] Processing: Kricket Shoreditch - Kafé, Restaurant & Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[370/458] Processing: Flat Iron Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[371/458] Processing: Blacklock Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[372/458] Processing: Popolo Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[373/458] Processing: Padella Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[374/458] Processing: SMOKESTAK
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[375/458] Processing: The Blues Kitchen | Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[376/458] Processing: Lina Stores Shoreditch - Italian Restaurant & Bar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[377/458] Processing: Lahpet Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[378/458] Processing: The Clove Club
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[379/458] Processing: Camino Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[380/458] Processing: BRAT Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[381/458] Processing: Rochelle Canteen
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[382/458] Processing: The Light Bar & Dining
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[383/458] Processing: Barrio - Shoreditch
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[384/458] Processing: 34 Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[385/458] Processing: Bacchanalia Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[386/458] Processing: COYA Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[387/458] Processing: Gaia Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[388/458] Processing: The MAINE
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[389/458] Processing: ROKA Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[390/458] Processing: Corrigan's Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[391/458] Processing: Isabel Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[392/458] Processing: Noble Rot Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[393/458] Processing: The Ivy Asia Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[394/458] Processing: Grilandia Mayfair
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[395/458] Processing: Hakkasan
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[396/458] Processing: Bluebird Chelsea
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[397/458] Processing: Rabbit British Bistro
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[398/458] Processing: The Ivy Chelsea Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[399/458] Processing: La Mia Mamma King's Road
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[400/458] Processing: The Chelsea Corner
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[401/458] Processing: Daphne's
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[402/458] Processing: No. Fifty Cheyne
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[403/458] Processing: Granger & Co. Chelsea
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[404/458] Processing: The Ivy Asia Chelsea
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[405/458] Processing: Stanley's Chelsea
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[406/458] Processing: Mucci's
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[407/458] Processing: The Cadogan Arms
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[408/458] Processing: Baba Restaurant Chelsea
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[409/458] Processing: Bottarga
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[410/458] Processing: Flat Iron Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[411/458] Processing: Gaucho Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[412/458] Processing: Caravan Covent Garden Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[413/458] Processing: Blacklock Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[414/458] Processing: Da Mario Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[415/458] Processing: Balthazar
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[416/458] Processing: Browns
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[417/458] Processing: Banana Tree Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[418/458] Processing: Inamo Covent Garden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[419/458] Processing: Cora Pearl
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[420/458] Processing: Osteria Napoletana
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[421/458] Processing: Granger and Co. Notting Hill
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[422/458] Processing: Gold
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[423/458] Processing: Frame Notting Hill
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[424/458] Processing: Wild Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[425/458] Processing: LUSH & HUSH
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[426/458] Processing: The Barbary Notting Hill
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[427/458] Processing: Zephyr Notting Hill
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[428/458] Processing: Ci Tua Osteria Romana
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[429/458] Processing: Caractère
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[430/458] Processing: La mia Mamma Notting Hill
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[431/458] Processing: Dove Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[432/458] Processing: Taqueria - Notting Hill
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[433/458] Processing: Andy’s Greek Taverna
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[434/458] Processing: The Blues Kitchen Camden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[435/458] Processing: Il Sugo
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[436/458] Processing: Laz @Camden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[437/458] Processing: Daphne Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[438/458] Processing: La Patagonia
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[439/458] Processing: Turtle Bay Camden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[440/458] Processing: Jamon Jamon
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[441/458] Processing: Purezza Camden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[442/458] Processing: Frida Camden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[443/458] Processing: Band of Burgers, Camden
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[444/458] Processing: Made in Brasil
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[445/458] Processing: COCO Canary Wharf - Restaurant & Lounge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[446/458] Processing: Brother Marcus Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[447/458] Processing: The Ivy Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[448/458] Processing: Barbarella
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[449/458] Processing: Gaucho Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[450/458] Processing: Blacklock Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[451/458] Processing: Kricket Canary Wharf Restaurant
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[452/458] Processing: Roe - Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[453/458] Processing: Brera Lounge
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[454/458] Processing: ROKA Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[455/458] Processing: Dishoom Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[456/458] Processing: Hawksmoor Wood Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[457/458] Processing: Six by Nico Canary Wharf
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+[458/458] Processing: Amerigo Vespucci
+   🔍 Looking up FSA rating...
+   ⚠️  FSA: Not found
+
+
+======================================================================
+✅ VENUE BUILD COMPLETE
+======================================================================
+Total Venues: 458
+FSA Ratings Found: 1/458 (0.2%)
+Output: /Users/htanweer/Desktop/thebestinlondon/public/venues.json
+======================================================================
+
+📊 Coverage Summary:
+   Google Ratings: 458 (100.0%)
+   FSA Ratings: 1 (0.2%)
+   Photos: 458 (100.0%)
+   Websites: 445 (97.2%)
+   Phone Numbers: 392 (85.6%)
+
+📊 Report saved: /Users/htanweer/Desktop/thebestinlondon/reports/build-venues-report.md
+📊 Venues saved: /Users/htanweer/Desktop/thebestinlondon/public/venues.json
+📊 Coverage saved: /Users/htanweer/Desktop/thebestinlondon/data/coverage.json
+
+✅ Success! Venues ready for integration.
+
+[32m
+✅ Venue Builder (Google + FSA) - Complete
+[0m
+
+[1m[36m======================================================================[0m
+[1m[36mPIPELINE COMPLETE[0m
+[1m[36m======================================================================[0m
+
+[35m⏱️  Total Time: 3.1 minutes
+[0m
+[36m📊 Output Summary:[0m
+[32m   Total Venues: 458[0m
+[32m   Google Ratings: 458[0m
+[32m   FSA Ratings: 1[0m
+[32m   Photos: 458[0m
+[32m   File Size: 5862.99 KB[0m
+[32m   Location: public/venues.json
+[0m
+[36m📈 Coverage Report: data/coverage.json
+[0m
+[36m📋 Reports Generated:[0m
+[32m   reports/fetch-places-report.md[0m
+[32m   reports/fetch-details-report.md[0m
+[32m   reports/build-venues-report.md
+[0m
+
+[1m[36m======================================================================[0m
+[1m[36mNEXT STEPS[0m
+[1m[36m======================================================================[0m
+
+[32m✅ Data pipeline complete![0m
+[36m
+You can now:[0m
+[33m  1. Test the site: npm run dev[0m
+[33m  2. Update pages to use venues.json[0m
+[33m  3. Generate venue detail pages[0m
+[33m  4. Run link verification[0m
+[33m  5. Deploy to production
+[0m
+[32m🎉 Success! Site is ready for integration.
+[0m

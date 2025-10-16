@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJozeGfRgFdkgRQw5RtkLRGTI",
+  "name": "Brother Marcus South Kensington",
+  "formatted_address": "1-3 Pelham St, South Kensington, London SW7 2ND, UK",
+  "vicinity": "SOUTH KENSINGTON STATION ARCADE, 1-3 Pelham St, London",
+  "rating": 4.7,
+  "user_ratings_total": 2594,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.494156,
+      "lng": -0.1744284
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4954262802915,
+        "lng": -0.173067869708498
+      },
+      "southwest": {
+        "lat": 51.4927283197085,
+        "lng": -0.175765830291502
+      }
+    }
+  },
+  "lat": 51.494156,
+  "lng": -0.1744284,
+  "formatted_phone_number": "020 3146 0404",
+  "international_phone_number": "+44 20 3146 0404",
+  "website": "https://brothermarcus.co.uk/locations/southkensington/",
+  "url": "https://maps.google.com/?cid=3610146660770975299",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 11:00 PM",
+      "Tuesday: 7:30 AM – 11:00 PM",
+      "Wednesday: 7:30 AM – 11:00 PM",
+      "Thursday: 7:30 AM – 11:00 PM",
+      "Friday: 7:30 AM – 11:00 PM",
+      "Saturday: 8:30 AM – 11:00 PM",
+      "Sunday: 8:30 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fszD-U3REiC6MySg9iMOBdwmDtWs7b_0XBrV1ECZvF9kxkenEr6yARtOMGkXSsekbUjNWZxWcddKDe4Oaz_EPLZtNXhC74RU0_2EV0e5rNr3-K8c-nKtKbjrWeIYU21XUVKod37_KdDk6dbU-HMBRz0bdZsAYR4D3NSVzRhAoha_bYS3MrxVVC09C-QquARiyQCTLkU2lYwVZATHyqNrA3_OBKmFkvNK2hEBBGfek5ghXBgC4FI7anQ4eVdgcVlv7gbV3ynSZT4qgek2GMZKoHsWsm3piMLf1gUeoJSE_p7Q",
+      "width": 701,
+      "height": 1050,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105552861202336336412\">Brother Marcus South Kensington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d72rYNr-MCrt02g3XDPz13d1wXH9-hULcKlmtGYV7baWHoYRW4vh6Y146S_FYi8milD11ONRaMEXkOeqLz0bz0G9QAeDsxnReGQI0CwB1x277y-XpJv9eB4gnbIF_MIq24-7Cw8Yo2x1ANKrmHCelQFa0R2W-3vl6CoJrvM8GAI_s50HG6EbsVUAY3iJlg6fRKCGBuwyTlwtgf3bDO5ssfD9qhwfxwroce5qkwDwlEl8xLRnOUoVfNruDG98WX-O-nf_rdsqf1KSh2i4VyBOc0wlz3tDiw2DHQXv40xtTyUVb_ashaNntU0aI7IvHPKefFD56iExiD6BmbwLBiWgOLRXiEIKo7nVhGKBk4L4nNWbswY-IgOdRVZa_KNdr850jeEe6lbqp0bYFs99uYtCmhpGSvBkZVXD15WukYmPVT45MqfffAR5rt0wNa",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101038507856560464787\">Chutamas M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cf6V6ijWFuX3--8c4SkmT1mft9Bws5JSong0qhof11gSZoioTkQjffO8DhY5PMA8NNFPV5cgKaVapaYCSVa-GpB0yqwD7xDTbCn_1tukKygK0GtH5ktYhH83JZxIWdWsYkeMZcO7JH5YQoJk07MopfoftOJw1CEZMv2OruFTZJG8xRaT3Eqw4kHJlnfDp6-FChtOfr9_Bx7hUfKqIDlB-_l6oBekFOPcz-A3PLv3MsIYKas_eMcnIVmeSbWLiexHPuxcIsvFOrZAUCmbU0NwtIYTmTd0EwqwGFjvFW9z8WKA",
+      "width": 3302,
+      "height": 2202,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105552861202336336412\">Brother Marcus South Kensington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exOJYNQvZQdEEbDRWtuW7UjbWW-XYz8IfbzOnm8wu1mFWprYYJP7i6ZiQrRtpvLwjWCgIBKObHRw1kZJ3g4AWiE_cma9N-l8seUbbd828CPp4wt5AWbICJ1V7rqFCB21_Md8SES_EH02w6BEgwwdc2jYqzcyE196nJTscuArR79IjXu2znH3AOBx4mlaDJmNO--JRIr95_1n24E-n-7PtGKCkeYnJQppTjz_cvnx_iJlWOjqvTFCh6ST_ABHWB6yCWEl-DYZJvBzIpVa0DNt0CDznDHuD4Y8q2ugWpVn3JCPgUbBtAEJ2XPBmvFkReU7MH5E11EfU75CHriuwC3CpsrGtz9TR0MurDf8ozF8LmRBga6OhThSwjKOeipJmOggyXDk_g4cpYGhGxFNQWFDqm8YLgc_l3cbx7rqnmGkn_lP_Ab5qVkTa1jp09Oq72",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111028436441852095572\">Lili Szórád</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOe2cIOePFmZO3QUZGhRdmaCF1Vvh-_xhAOVXsEtD5PYM8hi4iNYnu3gqyOICbh8XWNGR4EWV3cZcGUEsVS0WhYd3rWxXzy2dYpNB91wXVf9MK7--cgAhMOiIWX3ADl1TgfX8zjmoym0xYBMGhxq6yKOca8sAAKau6_Dis4MFv971AjlA-91um-F91UwV8s-2xkdOWVgp7EK8GjTJqjsVDFuTmSl7Tm-9oY5-d7BnazceGtxuwYhXRB8X46pPlA0ULci3umGNBKvduRFJ75pmy-Z1BVvImdhiLrQdswAqU2TMjtdfBpAgk9IflPkyrP1LBgJn17kW8D-GqR7jJfCVHde9CdzgZ1z_rencmkgnk_YD1YrpVmpaeRFnAGlgM94Q3SRA6xXc_EMFXWgtRg1vcGErVeP9rqYfX6SnBDwDRA-vMLQSR5JEcIqHT0mir",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101610575705546704341\">Katja Srpan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d3gzZq0CZRHrnP1zYFqzqdt206p7oQk-0InPpxWvBEaSuN071oAQN8OL9jqDRDwe5QD1Tz-RESM1j8fNUUuDdxFD6ne8i479ED-Gb11tCsQxSkkSa8H87dQZLNtxA7TKvLmLupph_7zJwxVDLMbs68hu_dvo6A7NunuSrXEqS-HEwgE2ADZkwTQ1ctgA4_s3RJ-9OpgiZAkOwvgaTdxBu0Tt2199eKVWfeCbKAOch-s-wSKcYbAkEF2ruVjyg0OfG9k0ez7hn1go3kqhxBW4U9LjaWGQFzR4JdGXStLqz89TwNbEmnKwr0qMU-iZ2JMrHgBIV1m725bneabdBmKCf9nV5HNF4iXB3jcJpAioBx5eXLBJZFByIMtc0RaZ-fW9U7phSVlVN-XGpt2BuKZfFseQYQST3vIKyKUFzBD6d3qeHUVRuUGOkbo3LbqiPH",
+      "width": 4427,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101473207675249011590\">Aziza DAHBI</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c462SiOZ7SX7Nnnvim6QQ6_XB_zf_o33qXDOMq-23s49BKSaUSb6zhJJOWdcOjJ2F5bFcDPH-ZSeaI5OH2-QsgBn39b1VObU56Fd8mDd6qbwuwscBF_gKx8mtZsEG1Q4WGjzlzRyljWpnlsa_B2XHsqaP5TFZSrWehb3BaI1UhZHUGXVR7pVIw2EIzDp4kC-YPMQjAM_kH9wpgugnHSTW44xfZNfHdjtacBiNH1ifapRLIySvGBwCf5nK16pYYFe6gWauX-RzlHii5GoJrVaN4WGckHTFBmimJb-8JSIao1bKLQlnRWp5IClJpVzZoYH6G7kvKmFL11YlsGqhEGBjLOl8NlecUQhBjb3hPk4JiLiEf4vNSKXy-lCv548Rmp5_aly51IsUh3jxvUiRbv4Ehbk1Yl3ePniFRPIeVCY2-FacIYv8lvULtkP1wXQ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101280817026088783463\">Rayan Mufti (MirageDaBeast)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2deUrqTd9lejJC97wEUEo5qhCrxqcseVMqH-YwgL6VH38_anv6hMrNAJI5pyhTsDSfmQu45sFE_mLBJBJKJ2ClEkqUQdo5QRSZP-TMEOb6XROJ9BxvojNAnJFn_qsGRM7lQ6hw6ZHmN37v2vLgbaXH_t2IyU8tsjt3ojHSFBNeOsqpkuSEFATHRbOwX3zf0SXy9gguFfVi7vUtPRJBNbYD7GBWvTR0Q9rv_u7Vo4TbSgAal8zmV6LxywgzmflVQmbH-awmuU7AgIG90ZVq4iFA0i4fA6_K9APxanJfz9qap8MOZ8Sr5tAiaJIM26OEOx_X0HmI_1UtO6YS39fL-0prfBbpJUxqcSU_yasucIjF-pJLDgHMKvYMeGGM1Z6OazAUQoITrLIqK9JtA0ro0N-0PU64n8lBc-qgRnnHOuzBbzRWe",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102386369737540189902\">Abs</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dcKEL41YIrSeaUCYpB3v7058-s14KyGhtnnMea1ou3vj64m0gwd8b6L7zYe2kunIdc0DoI4FdYqcpv1yDenFrlSulhrKWiTz6q_xQYncFTDI6m04y03eE6r69dBJ9BNY39oaJJQpxG3hReoZOH6sX7-7PRBnGeU-xMjrdnnON0cHGy7gyU29EbvboKgb6TubutzylYONApWfwOe_z9kQSQ0l5RbQJXDG-dDC7egNS8RBwnF1vBlSloCV4MfwCEwsjei9AmmHUBFJ4CjkOChOtJ1wzLjEP3c1BW4ML_rXFjMAmR81AcAHYgicCg6q8neUxJgTUCPv5hIUQC0R4Etd8I5r8Nn2mGvVVVnL1rl_WUJajO_5fxNF2M3sTf4GcjCesdr4lwU5fvZXxN9kOXO0ikD2_FUyqFZlFC_A0YuI_AcSH1pft6WL2IUmnm9g",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101280817026088783463\">Rayan Mufti (MirageDaBeast)</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eq7dS0TliBD1b2uVuiaY5nGR3PHOALFUWijRVpgTU8EUdu0yTxLRGM-ARb8Tw6OP_AGSirIChftfeUwNt4ohxXvNcgCqmqhrSt_CRaVpgNXjXREDB6i4XWjxp3nOUq2JME0GuD4xXCD1kXXMcEEjWdN5b2HqOBfB_CilRgJAZVoRPReCfisDONzM9fxlEHLnleJalzEsrnqHhJsdVT9ylW6NSm7gzsBRmk7EAejizzhDVjT1EXP3rdNKIiNbVDSRVVp7JR7ijiiLmzAG8JIKsCkUPB456xCUaI8miNEDdLHUmB-vZKla8CaTIuf6155KD2f3gKSxqck59pggbsQRaIzzgjXbtkx5k7XkXelNj0M45iYydMSr-IRmfLK3UDmFeea03YRAuJOi0ty6t_Kqz6ZdE783QndIONnnGORi2UDHw5zBqrYKFflm-GbVkx",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101284193005943403959\">SOYEON Koh</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Jules",
+      "rating": 5,
+      "text": "Great dinner experience. Everything we ordered was delicious, and special thanks to our server, Raina! She was super helpful and kindly answered all my questions about the dishes and ingredients and made our dinner extra special:)",
+      "time": 1760139684,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Christine G",
+      "rating": 5,
+      "text": "Brother Marcus is an absolute gem in London! The atmosphere is warm and stylish, with a relaxed vibe that’s perfect for brunch or a casual dinner. The food was outstanding — fresh, flavorful, and beautifully presented. The menu had a great variety of Mediterranean-inspired dishes, and everything we tried was delicious.\n\nThe service was friendly and attentive without being overbearing, and the staff made us feel right at home.\nCan't wait to come back!",
+      "time": 1756251037,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Aziza DAHBI",
+      "rating": 5,
+      "text": "Had an amazing brunch at Brother Marcus on south Kensington ! The food was outstanding.\n\nthe fried chicken rösti with eggs was perfectly seasoned and beautifully cooked, the granola with apricot was fresh and light, and the scrambled eggs on toast were spot on. Drinks were refreshing too, especially the watermelon & pomegranate juice.\n\nService was friendly and attentive, and the atmosphere was bright, modern, and welcoming. Everything was well-prepared, delicious, and nicely presented. A great spot for a relaxed brunch.\n\nI’ll definitely be coming back. Highly recommend!",
+      "time": 1757408563,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nele Jahnig",
+      "rating": 5,
+      "text": "We had a great time here. The breakfast was delicious and the banana bread is a must-have. Our waitresses Jessica and Raina were super friendly. We would definitely come back again.",
+      "time": 1756207803,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Veda Avadhan",
+      "rating": 5,
+      "text": "Brother Marcus is a lovely, quaint restaurant around the corner from South Kensington Station. As a family we were celebrating a milestone, and greatly appreciated the team's efforts to make us feel special with a bottle of bubbly and dessert. Special shout out to all the staff, the manager and Belle for creating a warm atmosphere coupled with wholesome, good quality plates of food. Would definitely recommend others to try this place!",
+      "time": 1760086936,
+      "relative_time_description": "in the last week"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:57.145Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozeGfRgFdkgRQw5RtkLRGTI"
+}

@@ -1,23 +1,23 @@
 # Venue Build Report
 
-**Date:** 2025-10-15T23:50:49.290Z
+**Date:** 2025-10-16T20:26:24.696Z
 
 ## Summary
-- **Total Venues:** 459
-- **FSA Ratings:** 1/459 (0.2%)
+- **Total Venues:** 458
+- **FSA Ratings:** 1/458 (0.2%)
 
 ## Coverage
 
 | Metric | Count | Percentage |
 |--------|-------|------------|
-| Google Ratings | 459 | 100.0% |
+| Google Ratings | 458 | 100.0% |
 | FSA Ratings | 1 | 0.2% |
-| Photos | 459 | 100.0% |
-| Websites | 447 | 97.4% |
-| Phone Numbers | 389 | 84.7% |
+| Photos | 458 | 100.0% |
+| Websites | 445 | 97.2% |
+| Phone Numbers | 392 | 85.6% |
 
 ## Output Files
-- `public/venues.json` - Final venue data (5850.13 KB)
+- `public/venues.json` - Final venue data (5862.99 KB)
 - `data/coverage.json` - Coverage statistics
 
 ## Next Steps
@@ -49,9 +49,9 @@
 - **Photos:** 5
 
 
-### The India - Fleet Street
-- **Slug:** `/the-india-fleet-street--I6jzO1c`
-- **Rating:** 4.8 ⭐ (941 reviews)
+### Maharaja - SoHo
+- **Slug:** `/maharaja-soho-LdzF8eLo`
+- **Rating:** 4.9 ⭐ (789 reviews)
 - **FSA:** Not found
 - **Cuisines:** international
 - **Categories:** restaurant
@@ -59,9 +59,9 @@
 - **Photos:** 5
 
 
-### The India - Cannon Street
-- **Slug:** `/the-india-cannon-street-9AqN4mAU`
-- **Rating:** 4.7 ⭐ (6100 reviews)
+### Kricket Soho
+- **Slug:** `/kricket-soho-2UcQZFVQ`
+- **Rating:** 4.6 ⭐ (2552 reviews)
 - **FSA:** Not found
 - **Cuisines:** international
 - **Categories:** restaurant

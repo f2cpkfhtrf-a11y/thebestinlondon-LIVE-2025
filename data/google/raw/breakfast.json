@@ -1,7 +1,7 @@
 {
   "category": "breakfast",
   "query": "breakfast london",
-  "count": 4,
+  "count": 5,
   "results": [
     {
       "place_id": "ChIJbU1x6zkFdkgRSdNJQwXiRII",
@@ -33,7 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:05.250Z",
+      "fetched_at": "2025-10-16T20:23:33.356Z",
       "query_used": "breakfast london"
     },
     {
@@ -42,7 +42,7 @@
       "category": "breakfast",
       "priority": "medium",
       "rating": 4.9,
-      "user_ratings_total": 3726,
+      "user_ratings_total": 3736,
       "formatted_address": "23 Slingsby Pl, London WC2E 9AB, United Kingdom",
       "types": [
         "restaurant",
@@ -66,7 +66,77 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:05.250Z",
+      "fetched_at": "2025-10-16T20:23:33.357Z",
+      "query_used": "breakfast london"
+    },
+    {
+      "place_id": "ChIJp_lOi1cDdkgRITpReOHm84Y",
+      "name": "The Breakfast Club London Bridge",
+      "category": "breakfast",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 4545,
+      "formatted_address": "11 Southwark St, London SE1 1RQ, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5046066,
+          "lng": -0.09134629999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50600212989272,
+            "lng": -0.09000112010727777
+          },
+          "southwest": {
+            "lat": 51.50330247010728,
+            "lng": -0.09270077989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:33.357Z",
+      "query_used": "breakfast london"
+    },
+    {
+      "place_id": "ChIJ9wf3W04DdkgRhd7vUn5ijBQ",
+      "name": "Coppa Club Tower Bridge",
+      "category": "breakfast",
+      "priority": "medium",
+      "rating": 4.1,
+      "user_ratings_total": 9496,
+      "formatted_address": "3 Lower Thames St, London EC3R 6AH, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5080475,
+          "lng": -0.0794822
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50948597989272,
+            "lng": -0.07794907010727778
+          },
+          "southwest": {
+            "lat": 51.50678632010728,
+            "lng": -0.08064872989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:33.357Z",
       "query_used": "breakfast london"
     },
     {
@@ -75,7 +145,7 @@
       "category": "breakfast",
       "priority": "medium",
       "rating": 4.7,
-      "user_ratings_total": 679,
+      "user_ratings_total": 681,
       "formatted_address": "18 Old Compton St, London W1D 4TN, United Kingdom",
       "types": [
         "cafe",
@@ -99,44 +169,9 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:05.250Z",
-      "query_used": "breakfast london"
-    },
-    {
-      "place_id": "ChIJsVA9Dg0bdkgRUI0y1Fj9BNI",
-      "name": "KOZZEE Cafe Soho | Brunch, Coffee & Desserts",
-      "category": "breakfast",
-      "priority": "medium",
-      "rating": 4.7,
-      "user_ratings_total": 5135,
-      "formatted_address": "193 Wardour St, London W1F 8ZF, United Kingdom",
-      "types": [
-        "cafe",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5154586,
-          "lng": -0.135842
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51684732989271,
-            "lng": -0.1343596701072778
-          },
-          "southwest": {
-            "lat": 51.51414767010727,
-            "lng": -0.1370593298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:05.250Z",
+      "fetched_at": "2025-10-16T20:23:33.357Z",
       "query_used": "breakfast london"
     }
   ],
-  "fetched_at": "2025-10-15T10:53:05.251Z"
+  "fetched_at": "2025-10-16T20:23:33.357Z"
 }

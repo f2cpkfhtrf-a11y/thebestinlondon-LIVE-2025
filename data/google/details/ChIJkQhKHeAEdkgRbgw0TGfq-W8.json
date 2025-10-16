@@ -1,0 +1,263 @@
+{
+  "place_id": "ChIJkQhKHeAEdkgRbgw0TGfq-W8",
+  "name": "A. Wong",
+  "formatted_address": "70 Wilton Rd, Pimlico, London SW1V 1DE, UK",
+  "vicinity": "70 Wilton Rd, London",
+  "rating": 4.3,
+  "user_ratings_total": 1246,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.493006,
+      "lng": -0.1405639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4943121302915,
+        "lng": -0.139305869708498
+      },
+      "southwest": {
+        "lat": 51.4916141697085,
+        "lng": -0.142003830291502
+      }
+    }
+  },
+  "lat": 51.493006,
+  "lng": -0.1405639,
+  "formatted_phone_number": "020 7828 8931",
+  "international_phone_number": "+44 20 7828 8931",
+  "website": "http://www.awong.co.uk/",
+  "url": "https://maps.google.com/?cid=8068737936791964782",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:30 PM",
+      "Wednesday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eps49NG5ucFAmePBFARkr0w9t5xsDFm3hNfMJ4piSWThNGN5kCACG2I_m4GYv-OYo7TUP2OkzUxQAV2DXFzxq00Evhc4OhevfkWZZH2V-8txgy58_EQe1MPdRqELWx9-Uil-FP7VRrmRI4YE8KeFfMT2dNNsFpUtl_1O3UB3XlmKwwUZ0vADTk5-P1YfCjUiLXH1pbgcRM4ORKwOASFDEjfz-gxgtV32-SdhnBpaEDsaXkoTSiotw90NQ5ZS-yJP6LXLYR34tnXGMr8-KdbUuD0qKD9mKqZ8U2jzOc_iHnvA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112689351120051218269\">A. Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fwl3hWEVSX2eSSAtAbGfimRmL2hnakwwLlZcPWow7RJA5ADxxb5I6VuvUciSiI9lCrXhIUHwzeaDQWW__goJ9TSMKXzJrcVKNWdjTTDVlUiwZUHIOSLjyUL41TBBQkEbKUL47BiUduApJHFPeg4rekjv6pfx-eVg3IBX_lK0GXholvlDTa2mlLQPYNzYjNZrRiSglzeE8jwbGOLlQlyC5pZu6PkeT5UD893K59-cSDyv2WBH0gQRtUjRylJnesa01OF9IRuLvKMsQ_9eUcpXO-kzJVhgEyPIfbOYX_FTQGHA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112689351120051218269\">A. Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-SUuNQZ27MfjJ8lGNdUsC69_uBok2B2z-oGca2TK8L0LOcUHWplrasBQvRp3fkWeNnqlXHB1zSIayKtpxqpS2Kirn3SqKqsQNQFIxzdgo6PHmdZbblp0-KajTX6g3aEZ9T_Ao7HR5-udG0EHujpbE9vkUILWsR7StLyw3vE7uWgaNgg82KcN2SBnszIHLj0fHJ-zScZam9fJRPPg8dxV7z3n4oEiiEohDbYJYo_EKNqxNfCIT0cVbossPnQ2X-1APMoDPIkDM490Sj4qb_0i5pHUmB7ijWx84cWGlEoXE0zPJJJfq0nIzL9dgohAJU9WEPOkAtP9K9xaWRIjbtw47zJkLchmleQpcuaAWmmjYW_p3fgKX0Dp9cbHQp07_HwUIjN58W5mcHJViC6tO54STYjYIFFGRjHZawAbE4UI",
+      "width": 3600,
+      "height": 2402,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108048161013458421120\">Rakesh Agrawal</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRhvpa421G3oyRs1InItjr7nJAZSk_P4fI_og6R8p7eV83uEY0JlvKNFB4L2K71uNFsgdkMXzvytBV5MfiWMXPfz1DQZoM_QXk2dJ7eM2o-e5pb2_Y1j6238PcXb9Wuu3-lE8b1A4VOZkqOBana607XVhlqw-y6jminGjFsntG5FLUfPq-KWV6-zDqO03bs9orPHfnuxTf0Sn2RA5j8Oau5iMFrAbB4ChoN3C9ZwaMgO1xBDGTTVAz--ctburphyfqSvQ2Ua7WSpiwAw4leItnWV1EmI-yyGyEoGaBEtBK1QPebbcRH5mFhdToN7DW8Qr_DVBn1cmlHalDXHHlPcYFxtSFH0cB_7gv_-IDJNo1wHUmCoT_IbaqvuWp5La1u0-g_fb-sF-iLYI3dkczP4Z6Z0mNk5PhhkIz3JUjBQfpGHqN",
+      "width": 3024,
+      "height": 2712,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105323642578493184925\">Goldy Wong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-vYwZnTKtdcs-auldfIqd7eS4Cd2cEFuCqyAenQp9dhHv_LJ2NZ2i0O9TK7gfVesbuwhNd6w2yxEaq0SODzWMhwuJnEr2rzlt5YrtyqcWRKhIy7Ual-AbBIRDMStjLTp9p7Jhqe3AtB7L01djKhP9ElR8cr0s7w33eRV5fyTjorqLaM2zxWsBepFx3QbMj-G7Wb5948xOVWebkWrTZQlOEFnewCRXNjprqmuiE7x6N6RjXSw3yPkF7aVtZHydMwsNpZ8BleYinopk-36F7xiE48T4PGboJOeBOVKXVU0M63T1z852Ckwk-UAJ2Wqhh9tsvZwL0NnBQuCUFOrMEr_81VsWibsrwcKp4yvh8SW8H1MjO-bIwMW50Vn1g5aJAusYklaKNOACPyDRTP25KG-1W17_KSh-Bk85pTOOdJM",
+      "width": 2277,
+      "height": 2277,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109283082351444322364\">Philippe A.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eDKqn0dXxulOa9mPQAiy13aGl1gZTV_maiEOQaWsNea1U-YGrjHGWtpgj2HaJgxmWY9ZyPZp-1ftUjtBIsKgnPpYB-lMkVYvibIsfzLUJ3XxoYi-3RMH7crzYtOK-U2nE9xIp-__e3VNQDAD80oCmnF9ETSHmAbsv5eKjjIzzI3v0Y32xhLoMokA5bjpKMlTq45ksX2uSQq2KARv8WsheZh2zhqdwDSFpryt-FILdqCuFT-HANfcMA_y-Wp_maA8QbCEAqcCXuaNdldd2TlT-wxts69z5wI_RgndpMWalnFCRCqH7PUMOBu6msozTfbHYPM2UqAt-GeUrR1oirSCagc7W3FjXhuXAsPQYu_zmS39JlgvYlZWoR4S2xykHa3V82lJ42M5zj7QthwIewUENGsr9HGwl-kG-TOxg3a-ur658z30qIIl4vUO7Pxw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104160603926823979067\">Marco Hurt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eqARxSgUj4y4_t_qid7UOcBFEp9RV2x7oTeGBZj8fytdzB1JudhW8smdBzZaz4ixXNGjy0Mmx1cBcfB6I52Lyi8H7iMv_RbvTpo4UbUQ7CMiN-n2KdROFDF8StMQvgS1aZuspj9AX_Wcziptc8Z_M04KfxbX_gI6BEJX8LoO3eWO1KDaE1CuCenl733sVoumhBMUfhvJuuJuXsB8KII1Zq6NDWFWlLmltk3ZjPm75Yy72AlM9eksS34zhlyJh9pnHCnAChvfFH9t488k-rjv47gLPmqho706UyTgoqno6IshPxEXejM4bmJQAJ40MuA2jDB_rT86EBQ5gD4RaszbrfSoFvkvweBNxinoxeTNA-KOvjTqlAjT7c7ddT2gPY_o0sM9k_Z1sp8EFUrovqMZXLAkYK3NZOps_a4w2slCjCTeQesqsEicNJSVQgpasC",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104160603926823979067\">Marco Hurt</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eTTOLzz2qpCyHNOrRqeCzFtL8yVTyoRGqa-ElIBQc4SUXnFjdF6h2ZC3L3WPOElP8RGH08s7RFwLqxRVrO4b-Tg5lUsOh1P5cnHBF2Dol7LNr4pDojpULO46rinkZv8j4OYNlzGy5m641zGNm0ZTsr1ALovvu-VY22s4ERmElcFoOdDkEt7pMgRF2PUZS_BpSkEhPCy6aVMaWpbbO2L9H06EX2M_ehUD7Olle0s2gouiiSkqyK7E-ylZi63AnJChifICZS0ioK6KWKY7o7vLjF1OlCyyqr4bnogmc6vF0YQC0fk2gkZevLo3TJMCauVSH8E18mYQt2fYCUMHx15_4pjjmVtWk5caOJcZwW05LkF1JGekBBMVGc83DVZG6FOucZ7vsQ3-TtDsFTHiCyZHGGp3Zf08MZwHSoOni_fx8gpEpd",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103974918472519459984\">H Y</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dhM8k4VGxfk3OQI-yvOs18bn6YXVBz5gKKHvbnPHfJR5ZgQ6Ustb5DGOz5dvqiio8GFb-fqSLgOgO0jjM5W0-YCSEnK6F-GLZ_xsUZdoOeS7uYPcxFJebKlKiapIsPmrQE3P7hUv21uEyj9NXUFJbZqY1vkklvyK2y2tbmVNvmtpn9oTulSlwDOs2Gu5Luul-648IjHN4SxmsVe7xGuQ3wNObCXFSjXOH_Rxia3vvJ8TCPHFu7-yX_pXrPSc7QJYwIYp7lqRK1Hkpah7hCTmaTKB1viJ9YIrvc5NN-R7pbQ5U8ZjDPprPLkwLrtNgS_FwcuWcacBtLZSAO94hOGf1Ee3pB6GdZVAzTfcFmNdrSgVkHZD0fm3Dvi1AgrfvV6XmgVs7fOyT1UjHts3bbanGRGg4hvDahgJuVWBN8E2CERA",
+      "width": 3600,
+      "height": 2402,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108048161013458421120\">Rakesh Agrawal</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f3FRIXhVUhJ2W77H35SkH15z6OeKN-ym9XJQMaMoLlUQucBQ9R4k82QTV5wCUzN0V-0EXIF9dtX1M42Z_H9F8ym_ZdSnhzwNQWgcs8ifwmOxsp3BevBDUhSplD4KSuTK4gUcj-JEc02pusfW1T5Xo9vpI5T_yYbqGn8l7gVOfuGi0G8mlgw-MUomPG3YqxThA74oy1vO6T5NOolRt8EGqgsaQneRqIYQTBSTOfF7qPOLqlk4RhwswXz9YT2bmCiq-2jkq8v6pI_-TYZkpKJn1lEAbLj1YMebjZCZLeLSAsWVHOLfCVszjqS8ubetoiFys9WBGPf5PJEt7BRhXaH96JrE6GIcyfoqFt73axd2_rttcvrBqe39hLjnzpmNfIuervgpD9dWdp-Q9aKsgjjulbQqN-szx1M0OyXIRjDhA8ZGcFk8US7c03X2du3w",
+      "width": 2693,
+      "height": 2020,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104160603926823979067\">Marco Hurt</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Upmarket Chinese eatery for dim sum & a 10-course \"Taste of China\" menu showcasing regional cuisine.",
+  "reviews": [
+    {
+      "author_name": "Andrew",
+      "rating": 5,
+      "text": "Absolutely fantastic tasting menu. The course menu takes up to three hours to finish, so make sure you come hungry. The staff were lovely and the service was superb. At the very end, they even give you a little postcard to write and send home.",
+      "time": 1757146417,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Molly T",
+      "rating": 5,
+      "text": "A. Wong’s 36-course tasting menu is truly something special. It’s a journey through China via flavour and texture.\nSome dishes felt comforting and familiar, others completely unexpected, but all of them told a story. The balance between fun and finesse is spot on.\n\nService was warm and knowledgeable, and the wine pairings brought even more depth to the experience.\n\nGreat vibes too, Chef Andrew is talented, humble and geniune.\n\nA great dining experience ☺️\nWould love to try their dim sum lunch menu next time !",
+      "time": 1752390715,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Sharon Chung-Thibault",
+      "rating": 5,
+      "text": "Came here for my partner’s 30th and it is an absolute foodie dream come true! This place blew us away from start to finish.\n\nFirst off, yes: it’s a two-Michelin-starred restaurant, and deservedly so — but the service isn’t stiff or distant. The team are warm, super friendly, and genuinely passionate about what they do. They’re detailed, attentive, and make you feel as though you’ve known them forever.\n\nI am Chinese and my partner adores Chinese food. We’ve visited other Michelin-starred Chinese places before — but nothing compared to this. A. Wong delivers truly authentic regional Chinese cuisine, each dish capturing the soul of the province it represents, with that signature creative twist that only A wong can achieve. It’s like being transported to the heart of each region, but with modern flair.\n\nWe left the dinner talking about it non-stop. Every conversation with friends or family eventually circles back to that unforgettable culinary journey. The food was just exceptional!\n\nWe’ll absolutely be back very soon!!",
+      "time": 1755503531,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "John Waz",
+      "rating": 5,
+      "text": "Excellent tasting menu, uniquely Chinese. Beats some of the best fine dining meals I’ve had in Beijing and Shenzhen. Really enjoyed the wine pairing as well.",
+      "time": 1760201047,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Hing-Cheung Li",
+      "rating": 3,
+      "text": "Occasional flashes of brilliance, but plenty of room for improvement.\n\nWith two Michelin stars and a menu built around dim sum and Cantonese-inspired dishes, it’s hard not to draw comparisons to other modern high-end dim sum restaurants. Chef Wong clearly wants to showcase creativity and reinterpret classics. When it works, it really works; when it doesn’t, execution falters and leaves diners familiar with Cantonese cuisine confused or disappointed.\n\nHIGHLIGHTS\n\n帶子腸粉 — seared scallops and honey-glazed Iberico pork cheung fan\n\n粵式蜜汁叉燒臘腸配鵝肝 — Cantonese honey roast pork, wind-dried sausage with grated foie gras\n\n酥皮鮑魚撻 — flaky abalone tart with aged balsamic vinegar\n\nThese dishes show imagination, balance, and refinement. The modern twists enhance rather than distract.\n\nWEAKNESSES\n\nDeep-fried items such as 周朝釀蟹鉗 (crab claw with tomato and wasabi) and 千煸茄子 (crispy chilli aubergine with star anise glaze) arrive either bitter or oily, likely from reused oil or poor temperature control.\n\nSmall, delicate bites often suffer from poor proportions: the wrapper overwhelms the filling, resulting in chew without flavour. This issue appears in 兔肉鹹水角 (rabbit and carrot glutinous puff), 千層帶子酥 (999 layered scallop puff with XO oil), and even the otherwise solid 上海小籠包 (Shanghai steamed dumpling, ginger infused vinegar). The xiao long bao also loses intensity by having vinegar pre-infused into the broth, reducing its flavour impact.\n\nSERVICE\nService is proper and polite, but distant. Many other two-starred restaurants deliver a warmer, more personal experience that places the guest at the centre. To their credit, staff did ask what we particularly liked or disliked. However, when we voiced criticism, the only response was a polite “thanks for letting us know,” with no further engagement.\n\nCONCLUSION\nNot the perfect lunch we were hoping for. A. Wong could serve as a gateway for those new to Chinese cuisine, but execution issues need addressing before it can truly live up to its two-star billing.",
+      "time": 1756975249,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:46.041Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQhKHeAEdkgRbgw0TGfq-W8"
+}

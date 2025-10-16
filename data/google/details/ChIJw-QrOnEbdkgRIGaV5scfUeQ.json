@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJw-QrOnEbdkgRIGaV5scfUeQ",
+  "name": "Azura Restaurant & Bar",
+  "formatted_address": "265 Hampstead Rd, London NW1 7QX, UK",
+  "vicinity": "265 Hampstead Rd, London",
+  "rating": 4.6,
+  "user_ratings_total": 1361,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5342494,
+      "lng": -0.1394776
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5356025802915,
+        "lng": -0.137979119708498
+      },
+      "southwest": {
+        "lat": 51.5329046197085,
+        "lng": -0.140677080291502
+      }
+    }
+  },
+  "lat": 51.5342494,
+  "lng": -0.1394776,
+  "formatted_phone_number": "020 3404 8080",
+  "international_phone_number": "+44 20 3404 8080",
+  "website": "https://azura.london/",
+  "url": "https://maps.google.com/?cid=16451965857188636192",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 3:00 PM – 12:00 AM",
+      "Tuesday: 3:00 PM – 12:00 AM",
+      "Wednesday: 3:00 PM – 12:00 AM",
+      "Thursday: 3:00 PM – 12:00 AM",
+      "Friday: 3:00 PM – 1:00 AM",
+      "Saturday: 12:00 PM – 1:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2el1tc_dyvupzpZwh-EDE8ewM6aG62OZfLeWhusb9r9ebEGUrNQf3_eVBzhzxYWcjuHakf65WIxC9DE6mZg_dn9iDD_witzv5X4XfTKhoCQI9ENpB9ojw2LgKBF9axzPJ9hs8BoTzdzoCYfN1cTgmRif7OTn8X9mi89dIrTYBlc9rVM3vNe-nZ5_d6MPmGcCU_trR2IDZmJI6P6R6Mmn8TvFAH5EoYaOSw-Fe0KEwlIt8m-vuJDDea8eomU3LAYhdSD1BcXWIyS7V7Rv9HqrBvlo5pMVegeXueg2ePD1NPjobAMh2tu0GVgftXP--PODZUoaqopMqGAB_2CKzy--JXk6A5jlEiF5J-VNOWG732sGdX2i8JrPe2-j0te88UqSExpgprumPnXiNAx2hF5mnc7r1a4-fRAByY5NX-jrSoiclM",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116806538650265946738\">Raxa</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cv64EdVyMmRYZzFoSQnmGLrWMUaUznkyUdBOmvNH8hZ60HNrUBEkKVFgNaNYmyDrPRJEzNEzYfEctOIKVMplAtPMecE1P3eIZ3ZYng3E4yYViVo_UtrlaDb0WxgSSfEvwfq4Y2K75t6nvWgRj-lssjG7VdIIM6g-zNWWojQWLCIWGRFQaDthcIRh4JLMhNpO0L1Lt94ZKePi-gfHdSpqJBj5dAH9b9UYD1YFD0a8o6fKL-1BjiVME029w0r_9iwsBJ0e6Fbjea2VPN3cFBKAl87C-C9ihhMqSSt8iKqKkMpA",
+      "width": 3839,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106995042576464698192\">Azura Restaurant &amp; Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dW0yK25YZqBxFsW15w3MPJtzpXGggXErs6r-oU4R2Gxto68fSnXCNI4vNhrb2Ya9_iYvAtKbyxHfTcCIaxnu21C8mANlXFN3RgnqdaYwycTSKKtjpddfYkhR9ouJO5jAxBEXwzEwT0CgbrhC-WTopCkdARgElk7pTn2PLIqNwUbp1qlzXe31-WiFikfmXqauqOOGw9YyHyV_1OQawT-ZLUoXlB5C2Eg1Dnl4KFaxf2IHMW1PGO9-s2ur_CpmJZapCME5Dne_nsS8WDqucu50kfr_z2OHyY5bz4JfW_M7SpXuPwIE2nUJJ9z3gi_F-DVItTQPTgn_xffVUYvEND3CJEgrJ6PbfDdAyneJ3jgt1XSle1SfmmOZdWX1RcSZY9Csai_McEP0F5DKsLPwOO-ZuppfUolgq-PSGO6YxPo1vykqsxJpdY4bF5VuzKgKRb",
+      "width": 3828,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104705327701120329225\">Cigdem</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fBnwJLDtRp_HvWK8v2Jcgac_F1CJyo1Bm0CSnBmce0aWK94tNqkZzx5A9kKKsx0VJh9kMFjjsyYTo04-gVgSk5CwEjLLCiJ4Ap0ihb-oY4uQ_Lkw3eI2n9tIKXzSERkF1i8EKe0iJ5a_TP7szNw68q5xxaEU8O5olEKMHT0Ay-mgEzDVdYKIz4h_8RoCapD8JLj_pjvfY6iZvkC0_DAdK_9oWjxKoN5TgEhyFx3WzMpjFA0n5g9p8msYMX6GR3DU99vAW8Lst_Jo9QYGEB2HOrmFnXc_WWyHhrdmljC9zFvg",
+      "width": 1290,
+      "height": 1739,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106995042576464698192\">Azura Restaurant &amp; Bar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cSTWz-QDFkOIM0qJ214kW6RnXckIHAnYEXfDsKqskDrcrw9nZGt9j9Bx0n5-lfLNBflBuvY0srMVlFJShkD68Isgzr1LnEjPFd-x_hCcyMFRXIF2q3wYNG5s8iw9f1ZP-gXCoYlU5n9wgctRzNZleEPru1mligRVRGwS7biA0LkREk3RrlbXr3ijJAf2SBMtRbhwpSflUa_Z4V3mdDqogbI2je9Qi-8XYAIYYKDwupPqaWdLtXnhlutX9K25egNAmf3-tODrZraHd9glXBMmRimHHceCbRLVyEs36oBazu61xJHfMPBZEUDdThxMeY6NiusZg3lTAjJHPj1lcXRHeHoawTC98HOFD1RsnR4ojEl4R9E66KkJGNJ4DhLXK-mtyM0rL7TDIbmI4jU38GRPDR90yYuU1X7p0WK8TrSorGnpCHcBcpXW-7s-xw_Q",
+      "width": 1440,
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117357879128053432028\">Lilien</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eJzmQnLTTRKCBjP6F3sbEpX_TRiH2OBHlOf7jqIlpEMPmE8rps6DclQ1axFzY7uyP1GNYMGpMSgDa7yrov2bfNk5nmb_BzhK5WH7Rns61DH4miosKIsA_B61vgQgAcbJcTYqGRstn3mQ42no3VTD4hNwYajLS0HVUA2-bnIQjJ9Wgdb8I7QaPciLykm2LcyMkY2nI0Kbk-Gom-7KzEnhloSXQMddqS8ww-ED6Kg7zDFR_8f3VD4pIUYKoIvocNZPB52_wC2xUMxsBaNiJ3twivBieTPFIyibGUf1VPCQwanH5I6-NWCRmH5VrFIBZ8UuU3CB7hNJB60QSw02PIi5fJNKwthLmM5t2_bW0GalO85sYtot1mFA2LIZhW94HH2BbsTsd92bMEMcuqkEKT-MixdXIsnm7EQcZUOw5gtD51VGGhbdaCtBS_NWi8Lw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107009357117129901964\">Disht Advani</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eqFmhSeV84adM3gerhBl1uXmhPYJWRLgPJZvJJ93UocaHeuMzxI_sIWCMcIOekBouE_ywV7HTle7_V7_9o1-CFyhlVsVNwliOyosOWebde_rKw267SzAYQH2ZmMLGBS_JK7um1wKaibgs9JEVXdUVxkhtqgNRTx-uPVmmFmBnx9rJdUazBeqrzBucAob0pmvlH2DmGxAAxCV_vJg52vHLbfwo9vRQmvotnC8ApkiDxzN_tEca1C2s4-RaohHetp2A3Wa2Z52O-REupOBBbugqa1ZzxXpHyVDAloA0QZWN6Y6yNiNDEkCrCM9DMrFIa-Z70YlqXkTIN7lAlkc_fLThaBcjQ5O-Yjd5RW8ld4zuDEpnyMq_z8qju_LS9JG-b8jKdc2gKUy0-i6qdf-uS9tvFWO8oorlGfVqVvN7vGvnQ-gvB",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104249968203829077389\">Daisy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fAmY83HZLIRDGYLaM87Pp73FZckfmvffOcQG03NBcSmetcBuVuQGQKW5NjMAsKLRePv23qXATnmMlvPKihBEAR5IUpIaAC94FwjxOIpVcZq5FoUhaJdhyt6KuS9YP8FXMY6ttTyhkwJExulmtfHFedaWu4tEXxqMfZ_Ok4f8VqnNF8QbXFCSjwBpw816SIdJ6-xNYQFCdz03B5DX5Zl4WzewY9J6XsCMoTSAUBb4OO-p_w1AjfpI6QZ1RzVrQ9g8s7yKDGislm8uX6hjVudGrH2VH3fHGOF7Z7BAbMldCchNMdZtTugzE4NGeTsD9Vf_3ciswBKLvt11Uz_nm8n5xwS8rRaZnHGy_66tkc9WZNDgLZecb4x4BtNOqJgIZW4jZpkHyOAC8eZswTR13s-21hXE7p-yjzjgrYQnjBAqo",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112271304877062652312\">Holaitsbasit</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fsqztSf1zRxJmu_o1WCJB6vDRZTZOVdktq9MAD9UIOZx1EVYMabNrDngHxurg9bStNUVJd319Yo5fc35rHvgj5Ay30pTG0-Kbg6cLElPcGGIeNOMBXnpB1kMxdjMLpeInY6pvhiJdKcTTowME1md4NpO1YW1UHv_Z4cCamByMj81PLWQ2AWUR5ayIYL6x-KTq9qDlDdNSKFWet7Y9LXNHo_tVekbQ3Xxud1WfTMi4d5JTejVFtJrm1_1tEGUKLcfc73U5BYllM2JIhHXO_aQSmE84TM998rdcvwrZlC76e11A0yqcnC08XPJc3QnyJx-sc9Ees5PIALQyRkimIJpjPYywJTlG5J1rFYx5091xKvXz9FT5lGuBUKGIM2d7m9mc5XGgao7benAE2fvEadRL83T77uWMFti5NzYsGnd8g4w",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112676213557780474027\">Mara Rocha</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebkpi7HDDUd_xENoPu1YAP9utIP4NHkkKIekq2XoiVsgFmjhE1vwZchOTllqiWjfoUFkA3tC4_nkgPZyvjO3W1PXK6KpedCQhvRpfXMeVSyFIDCWZptqDaXAeEtLePjmaP1bx4GicDSRvtB8kj6Ew1JKzzvyeBX4fcQwlV2R0tOP4DVM6xhOt9dFOLnfg96jM2Q2hTy02_Ujj2-DRUqy8rg41U5HmyLjyynCTfSFhM1ZYTVB4MxCtNHyEQtRDInVcvsrB6VWKp30tk8P_ybR1EhX0gbdVatQyZ2qrKg7LF-1m0SYF4nC6MazRJW_Ajjiubob-pjwBB_w9AWox_pZycfTlnG68IwwGq29eNwBqFOiLUYypUM9lw0bYNZP7R7nNbhZW5fV_KJKq0OZ3k2LsbDyfZUaP9clEaM3J6ywzixvXT5c-v_otGFosmv2eT",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114540665375809096201\">София Волянюк</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "night_club",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Cigdem",
+      "rating": 5,
+      "text": "Had a lovely meal at Azura! The food was amazing – the lamb chops were so tender and full of flavour, and the meze platter was really tasty. The ambience was lovely and relaxed, perfect for an evening out.\n\nA special mention to our waiter Zizo, who was very friendly and gave excellent service throughout. Would definitely recommend and can’t wait to come back!",
+      "time": 1759354673,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Maria Ojeda",
+      "rating": 5,
+      "text": "I celebrated my anniversary with my partner and it was outstanding. The food was phenomenal, Zizo was our waiter and he looked after us so well. Thank you Zizo! We definitely would like to come back. 100% recommended 💯🫰🏼",
+      "time": 1751225618,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "ananya patel",
+      "rating": 4,
+      "text": "Went here last night for my boyfriend’s birthday! The food was tasty and served very quick! Our favourite was the sea bass!!! Beautiful flavour! The portion size was great. The specialty cocktails were really cool and tasted great! The lychee martini was my favourite. They were a bit expensive but can be expected. We sat in the garden area as it was warm, and the music was a good vibe. It felt like we were on holiday in Greece. The wait staff were very attentive, and though we were waiting for a 2nd round of drinks for a bit longer than normal, they apologised and gave us free shots as compensation!! They also gave us more free shots and a sparkling candle for a birthday treat! This really made the experience as I didn’t ask for them to do this! It was a little expensive but you are also paying for the experience. Overall I would recommend for a celebration dinner!",
+      "time": 1750761285,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Deepa Laxman",
+      "rating": 1,
+      "text": "The service was attentive and the venue undeniably photogenic, but the experience fell apart as soon as the food arrived.\n\nThe menu was limited, overpriced, and felt more like a cash grab than a curated dining experience. £3.50 for a 200ml Diet Coke, not even the standard 330ml and £6 for a regular Red Bull you’d buy in Tesco for £2. The pricing simply didn’t add up.\n\nPaying £15 for a basket of bread and dips, the kind you’d be served complimentary at most Turkish restaurants in North London - was the tipping point. The food lacked freshness, flavour, and any sense of value. We had to ask for salt and pepper and even some cheese because the pasta we ordered lacked so much flavour. We left midway, opting to settle the bill and find dessert and shisha elsewhere.\n\nThis is a place built for photos, not for food. If you’re chasing aesthetics for Instagram, it delivers. If you’re chasing quality cuisine, look elsewhere. We left disappointed and won’t return.",
+      "time": 1755382487,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Victoria Chwa (vivianexvictoria)",
+      "rating": 5,
+      "text": "We went for our anniversary, and chef Ahmet as always doesn’t disappoint! The steak was amazing, and the starters were appetising. We had the basket of bread with olives to start, meze trio and steak. And we also had some dessert! The outside space is also very comfortable, think it could do with more plants. Overall a really good date night! My compliments to Chef Ahmet, and the kitchen and floor staff team!",
+      "time": 1756238482,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:53.746Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-QrOnEbdkgRIGaV5scfUeQ"
+}

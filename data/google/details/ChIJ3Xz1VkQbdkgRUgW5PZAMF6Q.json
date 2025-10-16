@@ -1,0 +1,283 @@
+{
+  "place_id": "ChIJ3Xz1VkQbdkgRUgW5PZAMF6Q",
+  "name": "RAI Restaurant London",
+  "formatted_address": "RAI, 11, 13 Bayley St, London WC1B 3HD, UK",
+  "vicinity": "11, RAI, 13 Bayley St, London",
+  "rating": 4.7,
+  "user_ratings_total": 1339,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.518761,
+      "lng": -0.132082
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.52014713029151,
+        "lng": -0.130534019708498
+      },
+      "southwest": {
+        "lat": 51.51744916970851,
+        "lng": -0.133231980291502
+      }
+    }
+  },
+  "lat": 51.518761,
+  "lng": -0.132082,
+  "formatted_phone_number": "020 8149 6248",
+  "international_phone_number": "+44 20 8149 6248",
+  "website": "http://rairestaurant.com/",
+  "url": "https://maps.google.com/?cid=11823933160334886226",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 3:30 PM, 5:30 – 10:30 PM",
+      "Tuesday: 5:30 – 10:30 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 3:30 PM, 5:30 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cimfHA82DgXA1ougtrGKSOErBJOxbt6uhQa4lClvWXSdds2WqI0qrXxezAxgF-KEAH3zOJSOCiuK9skPTW3NsArQ1TpyQh7TknsJ_kfVcmGrjchzL1t3h_3jss2UuuTGyFnKI9QNgNhRPwu4B3sBEeP8-VRRlkuSSowuzg8fvntXcX3zuf8HaFB9A9sQr9RQRxep6dfwCgH0GKvLfdW97EZVV5Bk1rBax1YHfg_Im-Xnx-i1JtUM3ax42v4jyh6ajYhSsZqsT_TQ6pKY9-feI2QnPqO71x-sVtQRT0cfWIjQ",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105926374390623283660\">RAI Restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHNlB5oozRJliUIB0NFfQ06MPnm9bjgZZMb3xelfV_JvbtpUaZhwsr8V4M_NLwztNMGbl5ROo8Onr-UjMQvYmNzboJvUDwVkwbpiSn86WzlVcGE3cyyMSy9DCKlck6EyBwScalZTbeujX-TkxGtSArw50vV_wMTMRWEhikNPS3DHxTz2p9D6ZHdzYBQY1xC5ThYnaSJwabXL1Y7b9QcltgYqciek7r8hQxRDPPNEyid1ePBulYLBGHjy-2Px6Ek7tLA6OkzwyB3MSLnTP40-5ea8FuUYaXaQ6Y4NLZSCas6rPLejlUFafJRQ_bZ7ohqJ-YDr7uIFhwa-r866_YOR15otCCzp5sUXwfkL9BMPHxatcHXh4u-Ihnj4MJSu9PoMJh2BKFhbY6bPEtSIbaw5iLE4CO4cdVDIKgipDDLO2q4u00KDq0x-5OI_F-iQsR",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103291904495176641643\">Lisa Bourne</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enufFRiaF7vsjbeVTb6nGb3fpyK_fj9fxvYNhkkjp9wLeKYVk1cvoXiXYqWSGsNKG9qiPgSRqtq1E5fxDu6w42FupwtUbdpfQVryr5tN31AsjtP9e0IcEbuLOmjbo3pY4PwtIM57S-o2jFJmjHNN4AzYHe6pluVLvmU0q64aJR4TT3LgePWOjuNuBrVLZBJ1hwor2L2Yh6IbQGdBbvcuxNE294RncmE-HFoPlPl-zl08JZAHlRp9AENheDCUXQG8zQeiOqYV-g1cZXJHd-snDB_kcIpxXokxnzLki_WEZ3tw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105926374390623283660\">RAI Restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKNSoykjYDgHgBMABS1KSaAjLAvKZFNkI2ZGoUMrWhIjN8k890DjZVJ2CIBPMZa7ujkzK8NH4mlxsI8yv7SMadY0K9O77sE0VJYq3_x2KpgmV86mOYG1Je3tVzPPSgv5Thbvz_Y3H2t0ndV9BgX29nqOSfWtb4vlHWDEmzoglBYkaPZTELd1ZZuo2TmHwQ6dQok9OR665j0YNPR1SOK1EIm7rsKfa-mT9uBug6VbUpu2ncFFp3a_6tUEM7XiSZcUAqu9dqGTaFKwD0Fxbqe0H26TYqiqhjUK06RH5rQvT0d6fZrZdwLPuFc1rW8mmcLD1QNMiuoC8fo4lXWPzYD5YHtedXJS5bh3neNyfR8ihpuDZYOoGqQyEspsppqCF_tKwnpr3lw-Q3jjp_wEmmofLUN-qD7UXEos4Hhbz6fLThQEFHXicXd6dkOvNOyg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103511195980454274430\">Eric Pang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2efSZHRmXVq4_Jki04P-tGQAitiGfBGb1cHA9FrbqxJU9LaBqlj-VwVxmtnKIPq4zjJKK-BZdRChPvFkYbu52qrfRNJphcsOPYmMLLFBsPUsjONuuoEqxQH1oIUCFns0a87DXWXj69mD4QV1O8ugKe3_ttXptj3djbqvMuF31u0P1ik6swgkkmWnk6zNBRm_G6I9x3DtdF43osBKIWburhtCwfc_uSE4H4RQ_y_XwZeHhwFzvp-ntvTUN_X1WBt0jNAXuDD1UQl-8o6JRfRsVA9FUQGntrM4qCCv4i_ZQaV7A",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105926374390623283660\">RAI Restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2erPc_PUlyBUVNeweS1gz9HpQEeMl0Zter4qBEf2ymJkh0tPJsg7IPEq7ytJFa0lzmfl--JEP8zGvqQitm7ZpjsJA27o5054nHQ-EWuLZyU51CC6Ty8_3-uGRmcVL_djT9ON70COmbWsAtSkOi-uEiy4-j-dh4-i4XRAN2bR6FIsY3yAN-v0l7HFnX8J1cy_CADfEeZcBc082BhV9_8x4UTryNbs6UR2fI_z1nsJ0aD41TDnB8iiqQlkB6iJSbBeQB5hD0fKUYdgWM6ffTfs-eYkJaBdQ6mVHvBnLYP_Cqdp6IyU8Kslpifln5yxIbNdcwzsUz0lsXLaEo5gz0QKEkzy6dW8RTyBGanoClkjzqGzNA0-6fKswoW-6V91el_wU-MoVtc8JfweaKWRQe1dN0DZbTxzgicrpUnBFntqH0",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113308787383694790732\">Angel Lin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cQ30-iDOdrCzrgnP2vtOxunVmi_v_XSkzyFunc_r7sBRTDmabyfOzLiXEXpYq4DvH6OgKMNsMLt6Meiyn2HN459YH9rQwZ5EXJYhjJG3DwoFgwkQHPJtci1pFxKROxWEA4nfs2ED3t8bW_shxE8G8ufc7nPyQ3M6tVYGdsV7Itt61gAkfPBSv-1e9wf_94mWjnQ4enfBcjG2xBEf-2aK632-6KuWzRMHbGgH4gHBYYK5RzizrG5He2ztaSwggMt33Z2ahbu0AqQaNrJwTBkFqqjJ-kuwNu8PdPawF008je_WAGum_qjtH6sJ6IpsE3q59UqW07CFFTD3PVRayLFOXn86V92Q1Brx6qUNV2oNKHRFWNftWEhXThy6qn09D465ynlRKeMal2ISw5WOfTBuDg8GoBlJnx4HLQrPlyw6yK8g",
+      "width": 1284,
+      "height": 1678,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105937306412603501214\">Momo Chiew</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fUAhcJyfwROPJDuNSU5rp1RqbLVBo56cRteMBW2dXvltrGuGvDqn66nTLu9njC3-E-3gNRRNsXvkBMeeGFQknb-frxPfBTB-PIxtscLBiy8z1OT-2f7iKw2_fqU8fsnT9CfO0CwA9Tk4CwAoIsSu5AlOuhOGOdg5GKIgDe8woQjO4T1B1WlEbMiJLBooiYP5RXWE1Cy-qoPSZrWqVYwhlOxJeNrLu7gOuyjUlhg3GPsf8sDAwvKneIXbJtwyNmv2UNRI2G-XjveZvHqyxGvqGe524NaL8crsu2f_f4TSb7pA",
+      "width": 4501,
+      "height": 3001,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105926374390623283660\">RAI Restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eCNaHK9t9LVtxY_yf-m88XOb_EbHlHS78RQlQkVuBECNqp6T-_vTXfmiHOmICry5kbrcLJAjMdzKL5Ok9LUQkU-ZDV7WTHUG3Itxhc_9IBe87IvJiTCALVtx6kDm_brZwE6tn0VVglWP14QdB6U0yd0IyhPnGF-qaUWrkQuBzM62xPk9wme8pWTp2obCCS620XIikMKLy5NGRv3mnw33xwUxQgkKmUW99AR03F5lhUaCvBIwDedr7tH7USqxa2mysNjdP8_c1eeucVHq-65kDMYth49wzA5CVoI8cNT5qn4A",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105926374390623283660\">RAI Restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFCp3ZdurxtDb9tqZFwf2jxPR6K-zXnHNUmPdItuYw7ChEGlaz5eMLSweG9iNBNdSNMEaQaYXkpnFx2WatpmUOLkws-EArtCtzGOzf8PaKE2cRAvh39xwZ0YSzPXK916G-1BJDFhX3BFatW7FNU5FiP-44OFkPKsadoA6Wi4_U_XooTzmIlzgQ6Jjg7QNluqwU4sptlNU22pPhlxUoSVtxaxvcM_ZdSXQ86riUXl5BF52iaEJdE4IEvOIMLZjY4AmrcuFd7GQJYX9vT5k41pey4nPzdjz97x-KXwoi3jaZ4ZDWaB7nGys-wBHu1kGX4rSUXQBz3dneXWUzHG5fdH5Jwp2XHF_bVgk3smWQ7z-U0zRMoM3cmuUeAn83XMaup32rRQJBJhysHFiJ6YzMQrjx2mt_M7rw2dq9vB6GIU1FsQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111209857539566114749\">Yi Geng Tan</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Priya S",
+      "rating": 5,
+      "text": "I visited Rai for my birthday lunch as a solo diner and chose the 13-course Omakase. It was an incredible, intimate experience where the chef’s expertise really shone - each dish was beautifully crafted, and watching the skill and precision behind them made it even more special. The fish was unbelievably fresh and melted in my mouth; every course felt like a new favourite. Standouts for me were the butterfish, eel with grated black truffle, spicy scallop, and the black cod main.\n\nThe service was exceptional - attentive, friendly, and made me feel very welcome dining alone. A lovely surprise was a complimentary glass of champagne and a birthday dessert with a candle, which made the whole experience extra memorable.\n\nRai truly delivered a 5-star dining experience and made my birthday feel very special. Highly recommend for anyone wanting to enjoy a refined and beautifully thought-out omakase in London.",
+      "time": 1759399720,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Katrina D",
+      "rating": 5,
+      "text": "Great omakase experience for our anniversary. Service was absolutely great, food was fresh and delicious! Would be great if seats were more comfortable but overall, it’s very cozy.\n\nWe had additional wagyu, but honestly wouldn’t recommend that one.",
+      "time": 1759608621,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Rebecca Singh",
+      "rating": 5,
+      "text": "We came here to celebrate my fiance's birthday and it was the most amazing experience. The food was delicious, very fresh fish that literally melted in our mouths. The chefs were fantastic and put on an amazing show. We had the 13 course meal and it was the perfect amount of food. I'm not a big eater so I was stuffed by the end of it. You have to option to order more food if you like. They also gave us complimentary glasses of champagne for my fiance's birthday. Would definitely love to come back.",
+      "time": 1756122207,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Brian Shek",
+      "rating": 5,
+      "text": "An absolutely exceptional experience at RAI! The atmosphere was elegant yet welcoming, and every dish was a true work of art. I had the privilege of meeting Chef Rai himself who not only entertained us with his warm personality, but also impressed with his incredible skill and precision in crafting sushi. Watching his mastery up close elevated the whole dining experience, each piece was both visually stunning and bursting with flavour. Truly one of the best dining experiences I’ve had in London. Highly recommended for anyone who values world-class Japanese cuisine with a personal touch!",
+      "time": 1756488020,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Farah Ch.",
+      "rating": 5,
+      "text": "We had our anniversary dinner here and we absolutely loved it. Definitely one of the best omakase experiences I’ve had and the best I’ve had in London. The ingredients were fresh and the chef’s creative twists on the classic nigiris were simply delicious, a scrumptious balance of flavours in every bite, and even though they used premium ingredients (otoro, ikura and uni for example), they didn’t skimp- it’s probably the first time I’ve had omakase and felt happily full afterwards. The freshly grated fresh wasabi was one of my favourite things.\nChef Padam and his team are doing a great job. Only two minuses in our opinion: the seating is a bit too crowded and in one course the rice was too moist - those are our only two minor complaints.\n\nI’m already looking forward to our next visit.",
+      "time": 1759079342,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:44.116Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Xz1VkQbdkgRUgW5PZAMF6Q"
+}

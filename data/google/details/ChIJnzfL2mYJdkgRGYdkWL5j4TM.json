@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJnzfL2mYJdkgRGYdkWL5j4TM",
+  "name": "Efes Premium",
+  "formatted_address": "39A Hartfield Rd, London SW19 3SG, UK",
+  "vicinity": "39A Hartfield Rd, London",
+  "rating": 4.8,
+  "user_ratings_total": 921,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.4193851,
+      "lng": -0.2054761
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4207495302915,
+        "lng": -0.204012919708498
+      },
+      "southwest": {
+        "lat": 51.4180515697085,
+        "lng": -0.206710880291502
+      }
+    }
+  },
+  "lat": 51.4193851,
+  "lng": -0.2054761,
+  "formatted_phone_number": "020 3876 1125",
+  "international_phone_number": "+44 20 3876 1125",
+  "website": "http://efespremium.co.uk/",
+  "url": "https://maps.google.com/?cid=3738378834872141593",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dGy1FOQ6WDCvPyHTN7ye52y0noh22YzJXKKDHWkef3Gqe6wyPZWYKwk-soKyRq24UtJ7VEBm91HXN5v9c6TaAe0CiXeRWK0YyDWKga9QVFs_kXz7nM6KIH7b9tDnbMpqt44rngCH0Ynp6mIlee367pSELUMUsdG1tsdcemGP8rBargFtrZmeQ6SiOk7Xfn4lrwCWae9l9vKZ3u_iOx78j_yhKcGs9lBsEJmISGYoEV37SebB28O7tAnrbGw_VT6pcmCtNPjE6LDD-6-IExx_Jx0H7nxtXttnAmX0y85XqYmNRnsOR_hUoxV5gZOLHQ3N-AsdoPgNf8EqBFPwKaAM-nJRqv_wEEMIzwl0IW29Hnt4DTlHcxMJccveuRHg-2yaNgA5srM8IaW17KyeUBhRqaeomLP8HVCSk2gPPAfUoyKQ",
+      "width": 3265,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109980983887256381482\">Sins Of Wanderlust</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cu_zzsGVxvDiXx_8-q-xF6xKcoi5q_0HkNpPhH4Ee7XTTR872Y1AzZlqY_AwduiOA0-VCna9csDCiwz-f-8ucEx1xKwPAgiCdT6vph6D8uKjmoqO96bWHeK3eIfIzAdGAdJoebxnqiSSHCyDk_dMLEnQq0ePzA6rpjfhPg-bm_xqUnSuXe2nGvX24eddKau0-FHbfyhV-09WNS6H5JMqM64wcZvhuQiHKK3Q1D5HdMHbyjGM2JoCFHbNlMLKrgbPRDwXTjEEiPOnnqHuKs8IeqLVIjbMB7VuiWJfDE3VjAxw",
+      "width": 3652,
+      "height": 2922,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116554009238099151103\">Efes Premium Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d9HVVh8klIa42uJxpxapuGdbkegdva-KfbmIxjoL2VSrPIhGRGS4uCUeZxHMuoNKGszUBJu2CKBycHj3o1z8FoTi2p84PBev-P48jhsUTMRfFsPu9puyRPDt73Tz5NfgfBCvRRpDNa5JYpwCKJfw9uAmA7hfzUdMB3EhjxB94JZz9TIH_Ghm3d9cO1ydPmu4KwtEpBC_MvfTgcFOOmTAS8Wje9Ws88z7UURGelcMY3GB6OhiB_d3RXUQwvYl3bmyxph7pDH6mv-IsOxsIvxMT0AQRgDSk_lkJXI7YJhS-n-HmpPdUXjFS4zONVWQ4RrFHDFt-j3XLEET9BWEHSONDpcpe5LAsvXYLQh0QIrJ2fnN5AY_W4K4qfH7qFrGn7v5uXNy4SEiH5u2r5C_EdpScWTKYQahRg7VlNyTAhLKBI_zQ8uGiaWHc46QZJnA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101657142621806712240\">Qixin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eIT7dCyv-lSbs7tPs1z22K8xG3n9skZPl8lHfSMTFKiOCjBkNf79hYdiQ0DvgdHs5azaslNrthfkalRKt1Wui1BTnOKIyQQ746KtO4C__ncEr3rOQ0RnXrEpacSQZqpEdR_i7SriNHuI6UxndsYj8IWOBHadiJUCuYfuECxM3_FPnl67bIqsD5S8eQcuP3xIJrGpXHyziZ-U6Crgt-krPMcYLwyuwQNSLHJiJJ6tbb7NymM25FNQkdZbFRrHifxcYzpRx2v_vpjrScncrfCrMpr_DhGd2d0kps2fHpeJNxqQ",
+      "width": 3276,
+      "height": 4095,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116554009238099151103\">Efes Premium Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cbKJemRQJqNlBUJfXD0OTibEXl_kHDx8qhNef2JN_BQjclnFerP0BFs53_xFJNH4NozKNFJln1zYCcSqDiHzumx6X5g82mMMikw8ocZKpJiTO9p6F1xRkwQZMDndzlOr9HtzeVmz-xZfFy6jIYF0qHhhq1sReXnMKVBZzh1jMb12HyFoAfEuSwSxtKMheCKKc9G7_AxXYB6uL0hXNkh3FLY9bPyvxnCe4u2Jlh6iVzRSCnjEZznYivBBZYIAK9sCGGanC4SgLKyfJE5YQ8Es1eyQ4JpB08GGYvg1cNTuUZjWnvVyFOPvpq7rS1yLHJZIQz-Jvbts4LCcNqyEv5JArge5Ubeq7zcldFGQjFZ2jRbaVFsdpqAlpLeOOeCfy_eCqa0wqyAmn1y7IMRYxXoUX8DR9ILMjxiKqizRHCYNFl4QgOWdQEdPpHWonrNNQ7",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100690627930968564918\">Vivian Kong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dRcqYUs931vG471kyRtEz3hbbyC7OWfMunlvit3FVPHVbcmi-Zo1VdbUe3ADd_a3r_mBK-NfLtqV2elluNhSLN8BdACrGQY6VYwVF1JTy8_Tzz5Dm3KtbU7bEMn8T-2vYB6_wc52UWvTvEUbxIz-_r48T8_WUD9sThNHj1P3eLr2xIHK8buBfV256atKIWsznXdI8KKtbBVY6gx1Wo0XAw5YMiNGP5XgWj9nmSmDxc-XSj14FOy71PYix4bhRPSWCOVGJyrsDVLxLHbf1xgBFndids6ZsLEJWAj9z7grvTbKYiEar5XtvLpNqYMYn2zYhXw_FFaoZNdVHiSl_hc18_Eh4y3A9qPXEz3NXF9xk1Qfhsg_Pb5mE0N_InjZY-O9TfCs4qA9CFOjrtpeYVA5l72n0Lx3sKtCD9XfuM99k",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110702361641104714548\">jina Kim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fS3JGazo1dEmEQopEx29_NoW0ELzxNEPhpiel3u7vakZkMZj48kA0uIldUGPtPIYHnYWT4GDCNDstQWljRungFhgi0-OS49dQu4q_71pOJIkoacPgQuq9jBkzMe0gWODpQebGALcb_WRY3Xc5HHzBD1MJCiYFB9s9KghNKMSPRmoEcUlPwF_BQDw7cEkLqFYuqIwIPvW7eqLXjXqA9KKzLt8JT_CAx0Qy_2F3OY4h4xi62VyNo9EjFhljUMIWCMEhDlSqKTQjF1SszrdVo9QyviB0pxArJ9sdn7h6-FwLy2w",
+      "width": 3652,
+      "height": 2922,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116554009238099151103\">Efes Premium Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e71zzQX9VIMhQtBqLt9vtgIHQgEUTNMMRyairH47lA-xP8_h9aXt9LcMuscADfz61qQPolqxwfSdBOT3YBwtt80tyzYdMIcUH-QgZGQVHSWzTngMbFAF2ISYk5ZTPT9R3UoxPfqTZ7_KIQZNwqd9pcp8-UlmOs33rWaHa9pAsBZqSai53f385k9BUciMuOOLMXw2XcjTqq_jFwYiwB5SBmNp3CsPIYlPcsg_8x2TCZLpVbcEs1JpEFfk9aQw0Y08N7W97P0OOsbMAu3orCCK24GP78mXYpRDADfcPZIdiAj43FcnNc_Mp5-AZviX4W9G1r4lmPyw8b5QN9uqkbnxXS2f2V-g0HqH1gJfQuWTIx__edHMDx1_tTZ0zPktOSCuZc_Yp6pYqg1NN-ZU1syl0T8QA5f3x-aCjv_uNvFtH9c1fu0wJbOG5TvwY-YM5u",
+      "width": 1171,
+      "height": 1211,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101261729692005487221\">Elena Warnakulasuriya</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eOE5SjqE82SnoIE4M5PgC76biDzMkFpkg0GrjC9863kxX3z4M5gOKyVtBRhu5EP4d8kIXBBkwLYt9HnXr5xtfFWDSqpeusn6llBjGVZ-ih8nZwimUc7cI8GGS8lacywHbSizTPiM7OJmcw_I2O8eTkZTJSyAZgJtPfIDuQsxw6rfyMsIYTLrX39cZSjSwiUlZri-JgMcIvWxvhSJIh0l24CLV2kHimZfhPHwCexExXWR1pRnEFprlm84ai6FWzZfd6U21NJlP25yL3no6EOvbKwoEpaSv4KvfuKbf11FJLfB0BMX5PCsoSQ1kgF87cNQ0MVZhkzaygfIzYhH3MOPPmq88qS87jseperdFGJyybmA7YeJvJtc2hZcJ_nxKydTVfANSZezw418oHdClmpzPY-cYzSTBtkF724f8CZn4cNluA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113836683366594249938\">Hussam Galal</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_IgFf7rcUii3dDtPr3UVC7egdgfadU6fOGW-3g901IaI_yoW6Rv2LvgV5xqEhJrXHKIgOLX5TTDRgcRGCohS15xhvyNUEeKZ0SzM5SAh23VpKQ5r1RICM6rhHEJWalA4LtmXJPywfKCivmtb7BH0P3DyGN-H-MWN2xEsk-i35L0rI3M_MuDIhFpRQ4_tgyJ25RpsA-Afor7jmEW7J_lwICJzmXav1ZarOHvbLkdiv28NjqL_QTm38Ja9c-oKw60BgM2v5Jfbk5NU2la6Je8Gl9NVyOGdnYjqa_V4pLwNoltWIBZ3O0Pl7nII-Tm1CxC4_jaS9oUYbstjBjdtdNdRqk5db69XOX0UocpwDjPh90ObcAHyi1b2whEH0rBYCFYLp8LzKymmV9qxOMP90u18bZt4gnbuWWVCbkfmx3TA",
+      "width": 2913,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109980983887256381482\">Sins Of Wanderlust</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Elena Warnakulasuriya",
+      "rating": 5,
+      "text": "Food was amazing, top quality! Interiors and atmosphere were also great. Staff were lovely. Andrea served us, she was very patient, explained the menu and gave us recommendations, she was super friendly. Had the best time here :)",
+      "time": 1756393596,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Rabia Ekici",
+      "rating": 5,
+      "text": "We visited for a birthday celebration and had a really lovely evening. The place itself is nicely decorated—modern, clean, and stylish, with a relaxed vibe that made it a nice setting for the occasion.\n\nThe food was delicious, full of flavour and well presented. You can tell a lot of thought goes into the dishes, and there was a good variety to choose from, which made it easy for everyone to find something they liked. The “Chocolate Dream” cake was a real standout—rich, indulgent, and the perfect way to end the meal.\n\nA big shout out to our servers Ayten and Molly, who really made the evening special. They were so kind, respectful, and attentive throughout—nothing was too much trouble, and they looked after us really well.\n\nOverall, it was a great night, and everything went smoothly. Would definitely recommend",
+      "time": 1750988297,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "N Cho",
+      "rating": 5,
+      "text": "We had a lovely breakfast here with my parents and two children. Ordered the Turkish breakfast, very tasty ! The restaurant is beautiful and the tea at the end of the meal was perfect. Will be back for lunch or dinner next time, thank you !",
+      "time": 1754759657,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Fonsi D'Mikol",
+      "rating": 5,
+      "text": "Efes Premium in Wimbledon is an absolute gem! From the moment we walked in, without a booking, we were greeted with such warmth and genuine hospitality – the customer service was truly outstanding. The team made us feel incredibly welcome and attended to our every need with a smile.\nBut it doesn't stop there; the cuisine is simply on another level. Each dish was a delightful exploration of authentic Turkish flavours, prepared with such care and precision. The quality of the food shone through in every bite – fresh ingredients, expertly seasoned and cooked to perfection. It's clear that Efes Premium takes immense pride in their culinary offerings.\nIf you're looking for a top-notch Turkish dining experience in Wimbledon, with exceptional service and truly high-quality food, look no further than Efes Premium. Highly, highly recommended!",
+      "time": 1747505655,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Wardy",
+      "rating": 5,
+      "text": "I went here for lunch with my friend because I pass it everyday on my way to work and always loved the look of it.\nIt didn’t disappoint from the moment we arrived we were greeted with a very warm welcome.\nWe had the set menu (sorry I forgot to take any food pics)\nI had the lamb donor wrap with chunky chips and it was absolutely flavoursome and seasoned well and cooked to perfection.\nWe are definitely going back soon in the evening  and will order from the main menu ( I will remember pics next time)\nI will give everything about Effs a 10/10",
+      "time": 1755540104,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:47.616Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzfL2mYJdkgRGYdkWL5j4TM"
+}

@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJk383D9UEdkgReldnHq6ek84",
+  "name": "Le Bab",
+  "formatted_address": "Top Floor, Kingly Ct, Carnaby St, Carnaby, London W1B 5PW, UK",
+  "vicinity": "Top Floor, Kingly Ct, Carnaby St, London",
+  "rating": 4.6,
+  "user_ratings_total": 2725,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51266409999999,
+      "lng": -0.138753
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5137378302915,
+        "lng": -0.137139119708498
+      },
+      "southwest": {
+        "lat": 51.5110398697085,
+        "lng": -0.139837080291502
+      }
+    }
+  },
+  "lat": 51.51266409999999,
+  "lng": -0.138753,
+  "formatted_phone_number": "020 7439 9222",
+  "international_phone_number": "+44 20 7439 9222",
+  "website": "https://www.eatlebab.com/",
+  "url": "https://maps.google.com/?cid=14885415664061208442",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 4:00 PM, 5:00 – 9:30 PM",
+      "Tuesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+      "Wednesday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+      "Thursday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+      "Friday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:30 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fOm94gS9zziulF-y2hkEOlf2ixumCnvBYxGgeHiAlREuTYcmWbNjDKgtVxHPIcZYcBknb0TEPpaVpDNk4bRtKk5J3PxyObfelq6XAD2iNK6rcHHRswXfWAjhJ-hrwDX7aCL4EiTZlUe3rhkxqNvhWtHWk3FJFTopjcTHbM-t5Z8q-mpLOdsVth0tgIk0aNXory0Q3RkpRHePOXM8sLQaOgZ9l32c_XkxF1rRfXcY9yTK-uMC1a7KzvjSa7s8ElKh-lInAt0dWYFB3uhmew3ewhseolVcnrUWbkF8b2s7-QWA",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106022606616080416318\">Le Bab</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e31pSPbnH8xo-uKUoOKdExJaOUNvx9B0MRpqo6WrUohxu0Qr4mDUc-csbzK5nb7KfmxnOKtgnNgo_dKEx2Ebmx27aihP7g8rcrahlHLdXBFU9g0Zadwgspe79Tfc-N05fypcNWVAC9zIAglhy5Nbx0ARbvAq5pYP8sFsx9YJzpuKg9iQ2PIPJo8DOVlnow1K_KnwG7NZ_DpDWJ4j-un3Q1IJIhtaqCeo3dVn0qsaTXtmWN-6HJBbVcbobIBIMVZGKp-NCIar5JtCXLXl6-Zh8xWGaZnNX49SjgntqIB7ixig",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106022606616080416318\">Le Bab</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dbItre_ScbyhNQ3bzkyp56sdaOFwWcGzILA7N3ysV9MnapA_DctqW_1OJbbPwk23EAlsmxAOh8nSkKMb3ovvCIWgfOsQafcNxqw3S8K3bYzVydKBaOc2TdWIMIu_bp7yK9kHjE-SEXoHPnn0Tu4BA22Qc5Znl6nPrt-DE3qUBgWLhwAuhjANpKzX7eVY34p0yBNMTf3rFSW7qNbaIyKZ7FymiESA1GL1BsdfLXmS_cTqspzyc_pNV-4qSYJGJGMCMNfQG01cJL_2RYrzP-bLRkcvgnOwrQ54CWfo3TGni4mqwt3YwntBEkvG0WPW7-SzCMhntdJwptk4CkzRbr2BNYenpQLIz7nuJK7UGT1L8zNn-tJvb4n17BqH_44lNieOutay03GCRa04YDEtxqRemgkHL0e-HW4m0p2z7k742ylI0KxFi4S18cISYfsdUA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101478718596499222083\">fazeeh habib-ullah</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_oNShLG5F1L04kpZP9dZ85nkJYr89RscjqnWwivtbuErtkAhnPp73EfOIehyWsHnQabqG_bNC_cmqtr0H9OEo9Wlj9oYHJzUF1HDrFjnrol_reLJQ3Rec0UHc1Y8xbOlNZf66Waq0vZjU8G9zVX6eDR-EO2R74wp7JeYkGwpUgyxNooc9rHo8VCiDtRflcqZeGCXpD69jyaD-URzwDZeO2RcSkWJdphGChuD-XbBpBj2hjC4fY2PSaAICBWQyBLzSCEHb6Vubyaxx8q8ErAU7PqJ28GBm-cOiNcRL0-1FceG8FpZfLn548tfLEEfwgJc6Wc7BnQY6OP9OaeKSJ3G4Wd2ddzYLMAWYE3v-9Y87NdBulolsO_1FCSa5XDZHRTQl98tfCkkyLnDgTzUaSf5OPWpoT1F4zqyy9j-Okh6SR6s",
+      "width": 4284,
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101131878950615218805\">Olof Petterson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_g0cTUEwicAVH3RZuCFslmlu-nJz9xk8vlLXcjR1p8qhe2UYrkz7vpxgonhHMdIhidIB11AMMlj_OpIwqDCYEcz-RAR0wdNNxNCp3Rq5TzZtvkA6VEBPTD6SMxjc1LfJ8_p1QNhkJ9LgMnD3eKcATDlzjrbtZBx4iJwJOx-0FvJhnebf7lMBlR3rzk3p7IWeeep8mKd4Te75CfWoqSIAAxyNF5FIArxGxPjavbZDe1TjwWdoSzxc6NBp2NQWKatgIyBRYYpfvBBb7S739PehdlJAYhMY0xU-Rfjsqf4LDu2SPyr0vXGAlTXfMCZLxbzMRB3eaLzVSoNvikXiEJMvnoB3EVf3tE7_otIBIwYWaGzCYHKEVUD80KxdAonyG-S7Lvsr5U3xKvcPxBe9qAezBrM0OxzZB8JAupqqlkEY0dyNmSNZqaAEy4QLndH_i",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114355522075570960631\">Gregory Borsch</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dKy4xmyVOW5UKLJmfunF6j9AqjCbh_ZLj1kiLY5DPlqnRHcIA_UTZBux62XvKtoLqjflR3oche2B7jp0FHfYaWwAJSPzYf7mAh8sy3p_qWLqRAe7xt7oMVlP48ZL-SB5vIKs9NbNNGk9thzExIW-JA_bxrJ5y3U3tPnoyCssCWachGAwIpyv_0JPHibxzGSWW2KvFHX0qGzUk7UaOx6rXtteBslOoIW4h0hdSJjYiezCrVqHgSrYjLdZfl699Rvaj4kQlvrUFT_cxrbjbPn2NkCHhd2vPlTdjINeVoIYkGKQ",
+      "width": 2048,
+      "height": 1335,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106022606616080416318\">Le Bab</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2esh5nLdTJfF6e7VEEY2Pr36vpH_8F9Y5eTgHWWly5X_QUxBw8D4BbsFgKciUNehF1aghxPeiWnRmfzvK_sfCurSZMcw1hrheexYfUVmFEXcKA9MwLsL7joC3VeLkj9UI6U8NcdIz0FqKOscXE_UCR8FyRdLaLxhC3117elJwdaFDx-NkFeTtZtP4sKZBriOz3_Hf-QuScv4z8yiYR5OPPvIbpbIRFNNUtMHQ4fYu2m__1AXA6Xjwf1Tl45xZWdfnq5hpMHhyN9z49x746ph74q2ICBfNciDvUyZzQnRzMVCA",
+      "width": 1242,
+      "height": 1359,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106022606616080416318\">Le Bab</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0OKZ-pHEckxDY53qChqbN1aUDHogiQoO4hhUIrTHehMNy_r36YzT-NwHvhjawoEMoe1O7rKirQWDxu1fJjb1c3pB7toUSn-HY-sHIzHxS0rR84lWVWrV2YXKStdawHz4nSpzfkiC1Ot2kQug9DLajcKRzSa4mkUwn5DxgyP_XcbjLaqLPlvpTCjHi60ZBaLFcKjPtq5yvjcOTVNrXr5n-nm0WDQ6nqs-GF3GURn9iclmxC8ybBpn8w5cvvt_wqHMCkSi-vmVOBPEEj6OVQfHdqKyTTjrnegm1YytNCaPBtWE031JCu8p9TvixeawrVB-N5KF-ZkSs8-bNS3NZA1bZ8siY39DAeDItU7VDnf31Btdii4JP4VmQho4MCeco4dU6XbeW_PiLUT_VJUCnu4upaR5swpIkfjdSDLB_9GzmyQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110400683315352813065\">Ian Walton</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fxRIHRPVzUP6CTyMnLi0QZxTlMqkPsqJ0_DesOJU9sDD_NfvDj4zVHsi8ID1OMqHcM9gImvrpWp8zmIH4bJw_8XfDpO2jcgDBeFHQ6O9aSGoAMqs5nij6lW4XBjrXefF0LAN_0zHItfmL_ootN7s8tt38AQKkrtDd8kZ78Uy9ENXb3CKomsKvBBG1CjHbYK303q9AwquKN_Diul5PwT2BMXwXPt_v2c6txuKt8bJY2Agvc6rv3-UkMbdNWtuTrZlKkv1G4f8YcO6YvjEZvhH2IHLChtetjl5xxU4Qur5e_bvUFHR8z-1_giCL54tsSZ-GMV1QeQ2pJENirLmtZzdV7xDVOOLBIwU9H6lOw-NmVVlRcF1obKJ-ORnVrISi4i17GOYrGqi7MhoputA12jPgNhGAu-XgLvZRe3WjQfEkAwA",
+      "width": 4800,
+      "height": 3614,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109040255126268761998\">Josh Porter</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eMPevt62eF79yOpXqG47iQfewzJLPbT0O02emXBDEVUygNw7BwvAiXAGogr4KJTEbj12AdOspNVE2X94kuuho5HwiuwQkO6ZALRCeDlOkS7YGeHoJOHnFBte9unT8cjrFffFN1UN3E-mjreBgy2YjURbNGzZ1po2aCiQYmwUEv9n_mdNqMOibEcpMWWL9MZwG4ymuZm2h73bPFVm_Inaq6za1UOJ2wT6X2elomnfVk6AKlSyssUMpeUOfz0BPGIyH92p40u0r9cTLJHqGUmMNjAwx9JeYxpnFEVEOnZQ5j6a6qTzZLBtUUG42Sgb9AT9WkHu1hQXlqDdkDDqG3DQNPCLmZHa9wDe7yAggcbIokRNyoJSgDTOoYj-3Ym8RCpDjl7dx2ztnr6xyqNy70UcYSp2wSbbJpPfB-tZ6Gjb7zvwfgceVQi_hfJBL2q8VQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115064199792414549955\">Jacob Smith</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Casual Middle Eastern & Asian spot for creative shawarma & other fare cooked over charcoal & wood.",
+  "reviews": [
+    {
+      "author_name": "Joe Stoker",
+      "rating": 4,
+      "text": "Ideal spot for lunch. Enjoyable meal, food was tasty, menu had a few different options that I would come back for.\n\nService was good, price was very reasonable. I went solo and had a nice spot by the window overlooking the courtyard area.\n\nWouldn't recommend for a dinner but definitely ideal for lunch.",
+      "time": 1749190047,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Mehul Shukla",
+      "rating": 5,
+      "text": "Amazing service out of this world food from the lamb steak to the oh so amazing butter chicken roll. I will dream about that food and will definitely be back soon. One of the most amazing restaurants in London. Very authentic and unique flavours not found in many other places.",
+      "time": 1759480905,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Gabriella Lilova",
+      "rating": 5,
+      "text": "I had the best time here. The restaurant was cute, the waitress was really lovely and friendly, and the food was delicious. I recommend the flat iron hummus (my favourite), the smoked honey halloumi and the butter chicken kebab. It said on Google that Le Bab was started by chefs who previously worked in a Michelin star restaurant and honestly you can really tell in the food, it’s incredibly well made. I’ll defo come again.",
+      "time": 1749983589,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Emily Grant",
+      "rating": 5,
+      "text": "We got the broccoli starter, the Dirty Bab, and the chicken shish kebab. All were incredible! The two kebabs were so different and gave us the opportunity to try a range of flavors. We have been before and we will be back!",
+      "time": 1756389696,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Anya Pramayudyani",
+      "rating": 4,
+      "text": "Good reliable food and good options of non alcoholic beer and cocktails. Service was great. We had the salad bowls and the kale was perfectly crunchy.\nHighly recommend the:\n🔥 lamb adana or chicken\n🔥 pistachio kulfi\n\nThe place is extremely loud so you'll need to shout even in a group of three but it was a fun vibe.",
+      "time": 1747551863,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:53.987Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk383D9UEdkgReldnHq6ek84"
+}

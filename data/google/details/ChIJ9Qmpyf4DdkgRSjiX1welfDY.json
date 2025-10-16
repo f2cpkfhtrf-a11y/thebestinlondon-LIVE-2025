@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJ9Qmpyf4DdkgRSjiX1welfDY",
+  "name": "Brera Lounge",
+  "formatted_address": "15 Cabot Sq, London E14 4QT, UK",
+  "vicinity": "Cabot Square, 15 Cabot Sq, London",
+  "rating": 4.5,
+  "user_ratings_total": 1096,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5050934,
+      "lng": -0.0225865
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5063703802915,
+        "lng": -0.02125886970849797
+      },
+      "southwest": {
+        "lat": 51.5036724197085,
+        "lng": -0.02395683029150203
+      }
+    }
+  },
+  "lat": 51.5050934,
+  "lng": -0.0225865,
+  "formatted_phone_number": "07399 335550",
+  "international_phone_number": "+44 7399 335550",
+  "website": "https://www.breralounge.co.uk/",
+  "url": "https://maps.google.com/?cid=3926194428260595786",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 5:00 PM – 2:30 AM",
+      "Tuesday: 5:00 PM – 2:30 AM",
+      "Wednesday: 5:00 PM – 2:30 AM",
+      "Thursday: 5:00 PM – 3:30 AM",
+      "Friday: 5:00 PM – 3:30 AM",
+      "Saturday: 5:00 PM – 3:30 AM",
+      "Sunday: 5:00 PM – 2:30 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cReJHf2C6L2aparJLrLmUY2DDpthFE9XGJjAY7i3Ufd4UgYoxUypLHWghFV0I5k592C-ogapVfNdGBR3-__PAfJ5fLoJdZZZda-tpkO84sj0RlDHR02wyvgRhOahza6-ojBLp99MLna01qZHKECmT1DRYqErpVc9k2knyjjBPJNiRGkLBxvmri8hLsooxnhYEtqSsLRMR7aNGimH9st4qf94s0CQLUdm54WY3k_EdZKwGfxywTjs7HCFDneOfdEnK-VHt0ZFhsH4fQpmmplqtU40s8CnmpZlSmEHZpeS7e2w",
+      "width": 3072,
+      "height": 4608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117708958309200489726\">Brera Lounge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cco6zFUYpXsWJ4JwJIYH6aiUr6m7HMRM5E2GBE_5BV_fMLcQbxMrzQg2eO7RJrApLbP9WzzjwryXOl6O6BsNWYP5bEGFJa6r5zMvxZszc6-KrUa3TIiNTxPFsJGBqp4Yvwl1Zh6nkedRtttzzsIVU3MyFU8irRiwphfFMORDt6yrQJLpLG2_8jG1yWhtLpY9gug93gWDBjlR1frT01AXuZENc7roeBSDTm-oLIXtmU-OUdtE3H-2Ng12dIKlSH3jve7jqS4QjyNbgmwWtPGr8iR974vRfn9xJmD281Z6HwnHNX6cLRjF2CCkjnM1_amQEWLj4MSvGhDJ39AFW5In3eVgdZkSwCRToxx7pVygZCCqqm2Lvmn25_zkxx1oi-L_HWXY6xpxw_WAL7GcBWERV-1y3vQb86yBd7INTyN-PJKg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100227976941484532639\">DL551997</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fkGnx2dnaG3T_wme4WDL73qjwwHewgI2KFWeDegFbCl4m0Em1hUW-pfP7BhqypFZy84UjGtXsqXcW8sd4GUwakxBcV1FVQ-r3x1QQZRWrw3qcAqsNsWfMkBQxa3OWeGu7MLDKDSoCvzx_FieSjxGMkzjwiGP-4diowrFHA9l6gBYfOcTRLt9GceaMBIPUVejWFk4J5sH2nmbs19yJ-nln4IDxKyiPVrrFMi24v7zhEqRfXEv1bWliJJWImofz2S3OMGoYCFtWRgEiUx1DQ09DAbfylBdXSFxQA0BPJnnpUxA",
+      "width": 4608,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117708958309200489726\">Brera Lounge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f2ae_kqnykpwk6ctuPts9-V5_xePC17yPKfy2nDZyY-Fgv9ZXzh00YciZ7rEAl3Vd337iZaOEIWBQxkAMxarPa0X643SDjptUXX_hGlUXRgP9jdbATJQlQCNngiLWaBKymUcCQ39RtxVN2jCGkN-aHKPCsqorjL848XCryWTYSqpGcnadYJIyvS847ZWEK52kHYvk4VWWNNm7zefnFMthqqCkX6OI1EtT8hvg_4zMX9unitib87YPEeG16mDM6CB3-DLyNOh1i5C9U8nrvzQlJ7AaJUVQ7zw2Y3zfa_MjGghn5jiifUW51YWL5hw4QFdKZJ9kwNn-EJ2mC0MQSgEmWI3Q16O05MXIKmwIin_R_EiKUtZ_otsjJy-qqssg7Eed-w0rmjF83XEYaN9yce00eqJwaUzi5WK3oj0Ns52aGyNoT",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108427832370801785386\">Sahil Sharma</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cD6Fsq_CyCaSFGEq5OGt3fDRwPRVoJgM-I4EiAVmvv8VgUl51QKrcFpYf5IzDbFrYmGB-n26TuywN8BFYagnPLM8XDCCcm4pnzjFQHuGpAyS60mwrnOOcg3cT4EQyEhM771GKMskJDfD_i58V-0O_Hq3gBfZmX8lxw7z-ZWCk-GijIRuFAxlTNQtSm8eigyE0_Q56YTSzsCQV80z5AOPIfrJr1c7V8vqGpk2mpdbq_bXNCDVPxe6blPZnLbJrbADre6ToEiDCut2ZiAogaZbfaxR9gW64r-KxAuqmgmWCHLQ",
+      "width": 2960,
+      "height": 4440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117708958309200489726\">Brera Lounge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fiY0AZWs_SOAE2teMRfsXQ78albIaNfzxv9Z0qu4MmFvMBprjhvjP6B80DMMos-sSj_u-bzqs2FzrErZlY8IoLT_ssJ7l-8wJukc_GfH76mxOp71desKx-Dl0qTCMIijHp1OM8-Vg9sfEeAMIoMIKtAmV8oGvYkGFKMV2bwENOma_mRaDmjPPtZBm5kt8mY2HCVsfv79rMrpsTrWVAnpFVOGWfTorruL9zwRsGUkFdhzuCBnHd2jsNVUqY1xESCriXkHWZuTM4Wt1XJ12hyExPmiBBlK5lEpd4Uy__5TEnFbJ13PDi9Yo_rkSe9IUYb0PMrTrq1vmGyiCKnnVrNQ1Or8udO8QvCOiibvVJVe9kFsBo1EKgQDq45svBnt8tVmOAPouikcUDvF12que3Y_CyFo3ELkpWvyuQQhcWq7I8jh0",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116732322264042250530\">Mariel Rose</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cntNuzLo8ykyeTQOf4iDWOmkFyg2Rkg2p06InxPtymefWnNlITDSnm6PZzJxgJ_0ODJHPu86XNsew8XMhYNZfz8BFHVqDL4LWn7-NZLdFI2TwEJqIg4Lu9eax_zc-8ih-V13RN8X4vNCfcFANQV4-1AGhpY-o-HK5eQIuRJyL6vuy13mc_8WyUoJoVGGLAN-CV53z752oE4dXbUg45UTs4VQjA1GoSirh-f2FoGPOncsI8cX4XFuuVy-g4J096ahqd5QLp3AdwcDLGXAv-qaAV6CinMMLK3kQ5leRNVvoSZkH_aSZSQsGHpNVBhWrFqlrAv2T73xsFdK17IXWErCR6fFU_IgOoBnZnWFS4DuUq0smvV-YM_9dm9B0oyaITvNh-Std26pc5EH8Hymj4aOea5G6zqWxjo3cpHBqjggjHhg",
+      "width": 2178,
+      "height": 1226,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104607248595387407669\">Tori Leigh Mantanona</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cyJAsAUQZUKuFzn_ta4x_4YwOIyAAJmOyrot6b11zdODO01sYJnaJycEcSJM1ahF9mp1NtJI4SlN7ppYcsty6iko4WZoHP_RbLeepi3bc-xCsAZkNu8-ZDlKc-F0QvP5JGUQnBRasR-7Jv5gLMOZrcE1U1qANAdUDPwhbmPecmEM7zEFNBNMKeDmm7MBe-ppHPU52VxNPv3IRirOS1TlkCiBJUWwrC0G15u2hfGt3YP6_PNSpCBHgea3JmH1ZKSWMzz42oH9BKo1OFE2fWGIyoFgLT4ldM0BW47lLzGDH5hg",
+      "width": 3199,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117708958309200489726\">Brera Lounge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e680jXKnfwJSunUX5EIsv6sZvUVfnWxfMfKOUpOxEo04qduyYqsPwHEXbK3A4ciHSII0k_mBHAhm6LHQjHepoaZY7-eoJeoVYzxleLK0Up1mTTL3KQeG2eDBtNKuLSkkZfA23veAIPsgjgkFKjGDwEHhX1Jsi1HIhCrL4HW0x4_kN_ilYR_sQXvczxln-w5HFFObGjjR43qXgWXZ8Ry94XExl_0_nc0onXwGCoAKdZyd3A-PUZ8MXMpBndaqKXvEJ7jlAqdtbtDLx_SAWhVE_ClzEFZIstq2hP1ExE6m64sg",
+      "width": 3011,
+      "height": 4516,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117708958309200489726\">Brera Lounge</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJj7wLJ7wjJhnlz3xZpGbbWAvfD3y7tuhDzyEKDNuVWORn5w73by_J69nVBm_UXYlmj0VftvilxYYCA8bnbt07msI78k52LcUZT4WNvaSXQqb8u_L3nTkcBPgCXH-oQ7T9KrTjA03juBh3Jo3K1LreUmfbxvuBdXlxgG2alk87dQ2SFUeVTsL_Nf_6qRPLZ_MbqmUX5ML3SWKGiOJJTtuHpwJE-1No7NSZdLJGvLTRU0Ehj13wK54yxb9jo-j-4HVp4e2OHT7Xelu1q5xFwE77G01usXB_2i0JP4s8zEI_0g",
+      "width": 3072,
+      "height": 4608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117708958309200489726\">Brera Lounge</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "night_club",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Nora Francis",
+      "rating": 5,
+      "text": "⭐️⭐️⭐️⭐️ – Elegant Atmosphere & Great Vibes\nBrera Lounge is the perfect spot for a night out in London. The vibe is classy yet welcoming, with stylish interiors with luxurious feels. The music is great- DJ was lit. Food great- pizza- mouth watering and the drinks were crafted beautifully. I had such a great time. Will be back!",
+      "time": 1757192516,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Ciara Moore",
+      "rating": 5,
+      "text": "The music and vibe made it a perfect place to have fun with friends over drinks and good pizza. Great service and lovely atmosphere. Highly recommend if you're looking for great time out with great food! ✨🥳",
+      "time": 1759984536,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Paris Callender-Ferrier",
+      "rating": 5,
+      "text": "Brera Lounge in Canary Wharf absolutely nails it. The pepperoni pizza was spot-on—crispy crust, rich sauce, and perfectly cooked pepperoni with just the right kick.\n\nThe cherry on top? The vibe. They had 90s classics playing for tonight—TLC, Biggie, Aaliyah—which made the whole experience feel fun and laid-back. Great food, great music, great spot.",
+      "time": 1752613052,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Wura",
+      "rating": 5,
+      "text": "Amazing Drinks & Service\nI had such a great time at Brera Lounge. The cocktails are some of the best I’ve tried in the city, and the staff really go out of their way to make sure you’re having a good time. It’s the ideal mix of sophistication and fun. Highly recommend if you want a memorable night.",
+      "time": 1757192573,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Stephen Vernon",
+      "rating": 1,
+      "text": "Ordered 3 Gelato Mantecato... One of these was almost pure fluid, not even frozen.  Mixed nuts on all three turned out to be just salted peanuts.    The food was drop and run.  Will not be coming back their again!",
+      "time": 1758380872,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:06.170Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Qmpyf4DdkgRSjiX1welfDY"
+}

@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJtXwZ4EsFdkgRakzEeDuvgGQ",
+  "name": "Café Kitsuné - Covent Garden",
+  "formatted_address": "55 Monmouth St, London WC2H 9DG, UK",
+  "vicinity": "55 Monmouth St, London",
+  "rating": 4.4,
+  "user_ratings_total": 36,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5134008,
+      "lng": -0.1269323
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5147542802915,
+        "lng": -0.125659419708498
+      },
+      "southwest": {
+        "lat": 51.5120563197085,
+        "lng": -0.128357380291502
+      }
+    }
+  },
+  "lat": 51.5134008,
+  "lng": -0.1269323,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://maisonkitsune.com/ww/cafe-kitsune",
+  "url": "https://maps.google.com/?cid=7241980870775819370",
+  "opening_hours": {
+    "open_now": null,
+    "weekday_text": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2exrlfAyASlQLnZkeL0-qgH2Qa0ZHJNOU7EN-jD3wU5GandbA8UFBrxCvwVg1-NgPxKwmhretEpIMYCDzh-Tau98LWYlapd8UMnd4cfT8rm2UXAugW_bscd12VM0_-pA4VYqmTHRn0kjwQZ8uMfJFC08e17PM5UOUiF6h80_E6wQueYecHL3UyTvqw11GLBC-nr-3uLaZnNV1MCL91oWtgPmDKEz_ZsWcUfvzLG1PGrZFY5SR1_l3ci1bjDdy-ffe8sqLtm8U1xbnTwJCKC-kAsqSiIOymqbeVKu9_ix53ytg",
+      "width": 3500,
+      "height": 2333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105438899238129522892\">Café Kitsuné - Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2exn_mccEE9JuheOr05YZoS7iZba7uTVuhfig1RTdBeXTu28C9U2KpcISPNRFM6UG4_4wsI4TkGcEWThejIV9emInBglTqSiufV2Bekh0yYR7u_AonLWw2fhKtUxPXupNyXgjwdDPvhzf_gqpBktKsFjAP7WyF2VARcJboIrsus1BHJFVCtA3sOkqtlcR6S4KVr3MBUpTcVJW9d5AuVRiWm7UWpCwOkBDmgcEVnULPUem0Wq0Piyy65C1SFti6GlhAwD4txn7UKvi0ckyDCcHSMt9OCrVUqDrTa4tlgvw4c1xvyrT2DnMMnsIYJGZg3Oa3qJOoIKXIRpj0CTY3z0De7dW9Mtb9i0mZnGRCd1ixFJ8wEp8fP8_neD2U8MMrb9kma56T-P_kx_ue5EAT9uZTRVfERZaTQm0v9_AJMI9rhWsVlYbQBSeodq5bzPTP6",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107213917613320766444\">Anisha Jain</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnXyhQsBf6ekHBK1E86qsSebv9PXtHe5BEC-BCo6NS3JTQVfmaAl2YQYk5hbmC78mjlkaDtMDIx4k9RGy5qPF7svq-OP3PmTPD1Wj6axWpxo0HnU9fEi-PhLKn7ZlxO4pVr1YfVZKOfjKeopMnnX3eVLHOxgIYtkqd3A5GpjuLIWs_Oe4xuGPwuPAdgZh5Mnd-k7GkOpgZ229Y6mrRreH0z726fApr28-caOCfgBfcZkWc5MIRsnI7zPpiVe-Nj6E-NRni1j9YmLhY_sr693bM6Wnj9BbnYSCGEFxbbQ_VoTlfjEEkJ7xCvedcDoJJAyiUCbk8n0uBjCowb5uYxZMlp_uQ0OD7RZIUrCNF_doLKBt0zOchltxTAn6nJf-t6yWmc_QrJuBAISVr5s9QueV8hCxgadPN1D8su49-KtKfJoMPjqalam04HhqJMiDs",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107213917613320766444\">Anisha Jain</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eY4VJsgdFuOEALmsu_EVZXd6TAO_r38GlLqRDxNt0vKh0JnwzaC_RoHPKUPmMyJlitVimzN-Ic9UONwa9Pj7-bfp6hxeLuC2kghasP3EHe9b_G5LFqIJMGCbzoDqRzSjYGU9miz91ow1804Pjgr0ErEXJBuOG_5ERQxmKyihr1E_HKFqJTDQz-XOxXQ9QfVXngvmExKXpC0KoBQ8VcDsqIWZzEkudEpi5G8yauE3UkM9-DY1Xc7XqdeZPJ6_xTnYbEpjFn9S7LbbD3jUXx0u7jiX4MtyWcKSJNr9xYg90sHt0b4AsMpCsDDjMWY_u5f2Tg6d_PDokAR-sEIBOl7q2Hsxf_rxJMSXTNvdhD04Hk1jOI1TziGAAzA8u2E2sZHlqhFn2zzddPn-CjfKlsHGp6yb9DmsljV0a3Le0Gjq0NSTaZxnYNTbWTHwR5wA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115102529022971171837\">Kosti Gourgoulias</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d88rwZ6gnwjQRMWStl39d3yBUuDJMdRhy7rp3hhPrrzeedjnvEMRB_PN57HUtrSYXhOJghqFyLXFPbFwb3VGhKjp4uQsyW8sZxISRgHKvV8y9v5L5_Wv560ji8LkWuIrSM1tfiAtb3_j_Ae8j_bQuawCwLXt5TCGGN8lA6tNuSNe2mENY156h_y3o0GXCAP392N8aV6siOMGlVtaxP2hoRbXxaN8yQcPo2fTgT7ZEfOVd_5h_6R3bnQFk1RJKslfKEdAEktVgzgdiZ4E_jBerX4qkwTvCFRsKl3hK28ProAQlA-Zyl66iMPeG1UaaAR4s7ma-Y_0F3U6RAk7veUy_iy3H2TSTt6BnlULOnqvyazEtT3JPQMX8JrLX0weMTWcVUjIGZOV3qbbFYKgrLpv_NMn1_5gD2Rh5xr1bxnA5DBgdtCM58LoXNFV3hE-N9",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109245342598729878931\">Pedram Panbehchi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cm1kYGbEtSA7nvCrIk3y-wVNq5HsF4gsIxoqnWep_AeWUHkzen-DCTSdkcYRuNk91V39cwG_xVvbUxvQBhaJwhyJqAgf6nwzYfwdxWCFtLSAzKXK10mBNwaIyDKAcFbIWmXf2zacWu261LH_2dL4NR9iEmwzuBiOfiAcP3LStGTysHqxQhTkJkTJkurqQrUHxYbTKcP1oO8kvDiMkhjKpOkiHa27NytVlu05Zeel3drT9BauQBmPZHpn1wSzhAEB85voCo_b22oIsIcUNQHJR0aUWSrHL9jyoMlCyTUyQ-wkDACPiZNhscJpBW3JtIHV6DLUPXrtm2QVSMSvSXhawcnJYlE_lqdXmeHTtfvX_CEkvf-lbN5cu8PaJGKgkWSygBKjXbXEFZp6H0b-iAg7KQYk2wj42VMOYE5v96PtfgbpjlkQED-6V90jrzNSVY",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115755747420763127512\">Anthony L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d0FQdIiSMK8F5nD-ZAiZDt1IBo_3TufoMgEqbWs4l2PsCYPBDfq-Lz3Vra-dYwh7sl8MDUgd2bStebWZd9nYdV3NKSTRn8IrzBe2YhgbeHzUFSzSiRyei84o08Ao1eeIZztR8WbMUXJiBUm7qrL3LGgnzJ4iaKVFf1Qvu4cARuWQ_hNGl794ts2eQ_YptNDnt27c-sczjOe5OMl9zlFYIKvXF97k5431Y6S1ASJCTp88sE74DQ0Jg_VTxJMM3ymkmo4t420liJ1u1uNe0pEMEYyBFzsTQkZAXSBncGr9qnuJmagPP-bg2Y6HZtAHm5YyfFaQoG5xbBuSLH_xg4r5m35Jk6_5pvrWOJDnWYi4vfqya-gNH8oWfTQivAUYeLbsSzc41Tlu2ohQJuAVwIIoCLXaSvK0Ej-cHEpU89q9NA1L6WqotJ8d6oKkFfco8G",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115755747420763127512\">Anthony L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-b6bE7RcMwp7h0AHomBRbuC3mUHetNxm_IGYH-T3Ye7AjM0o10CsCx7RFFlHGagRO3nS5iUFNQVVJaDtDD3JHCTo7tDrp0BfLHhmazVHZCIP_imARN8Sicexjhk6UiDmf6svF3I0CQBYshIfs9qHJBLByDn7YOk7xjzhRNuSHuotdj3DZoilfphcol-DPqddFkhIbLinEIjLsWK91uOLikFJD35M3YghoHbPzvzxyb02MvKS-1zTJig8qacfXdORwQnu7hgDdvahwOG0-21Mi99FrVsq2Y46-QmCWezRtH25hjwpegJj4BGFP_Vc93deoNZ3ThlD_Ms2vqNJo54HMtDFlop3xB9EeUD7nFUeXALr064bc3WO421ufV0j1eIMoKEitUWVHopWpqmqthmRDMInMJetBWlNvGOTRiXCTwPUp1mkB-upPunm3xKTb",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113522843872861253211\">Bloomy Loomy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dLx60LBmE9PVzghX-8qo13jrENhwVcz9tFPQMsqu178tjSlTvh7MsrTTQ7VN3z2ZRhmyMDZvGrm5HiQ9j3_F0ngfvU7H_TsWz_u2j5BIxPXzQBfzBOhHwBb9CGgQXy-l4gOX0d5j4aNxr1f0vBACsDAvD0LiAEdm4v0kxp749r-HB5cTWR_gxJ-eTDnqLkwDZTp0dT19-sIm94DlFVt-k2m-wRYCBYaMOZWMd5MwqIbZGmKFm2z-yw6eU11tfH9gPES_YWXiyL3MgZwm5JSfHUnHW2JQoPu30g1SOnKota4tsTn5ltZ1UQdDErXeNe_LRvubs5pgs3D3p4LUdU04sNZg5nlo3564pM8vL22pNzYapRozsysTjbZ7yO6QWg011gT2GylqyQeNxylvAGjIwhWi72h5b8x8HeoEkxGwRXeUjFdh89L3tSOCxoLhb3",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115755747420763127512\">Anthony L</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f42LjToDGyU1qd1WzmoTU9uC_LtvsnY_3hL2_JDhWrILyIqdx6vYBzhwxGE0WUcsBdMBjXrzI2lmZwnbtPfTew182d71fPnjlwmcjobC01Qnt0HQhzYXGxZgT3cj56SIQk0wvsrWmQmC4oM_RYJDPr-XrRYzZI8abqTTAGm7pxs410qu01GTsTSFwoMV2XW_NJqvAdnzjCCxrngGE5Ord8hGMXGzFV43wZNkfPMAkhksnsvZa1hX_Uac_j87OvfIpQs9SKqZI3lAcLe2PNw-BJPNzWtTlMw-Fqn6AjJZ3cnIgiTF9TEhk_0GgaqP5erMUuP5UKa9pEeE2-xCKUT2XAgB8LQ9_20mpqsYzzVr2rgjKNXDkU8miwMk7pulkjIhuXcCDhFMrmIXNb9og9e9azOrCQb-3_u8Sl3K9g5dCF7fEu6xxWNDVAx0aLZQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108414197324537690219\">Anne-Sophie</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Anisha Jain",
+      "rating": 5,
+      "text": "One of my favourite cafes in London. Hands down. Good coffee. Good location. Good food. Good staff.\n\nYou can even work from here comfortably",
+      "time": 1758478577,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Zoriana Makukh",
+      "rating": 5,
+      "text": "I had a truly wonderful experience at Kitsume! From the moment we walked in, we felt welcomed and taken care of. The atmosphere is cozy and aesthetically pleasing — the perfect spot to relax or catch up with a friend.\n\nA special shout-out to Angie, the lovely young woman who served us. She was incredibly attentive, warm, and genuinely caring toward each guest. Her professionalism and kindness made our visit feel extra special. It’s rare to encounter someone so dedicated to great service, and she absolutely elevated the whole experience.\n\nAs for the drinks and desserts — everything was absolutely delicious! We tried the strawberry matcha latte, which had a beautifully balanced flavor — earthy and slightly sweet with a fresh fruity note. The banana bread was soft, moist, and comforting, and the chocolate brownie was rich, fudgy, and indulgent — just the way a brownie should be!\n\nI can’t wait to come back and try more. Kitsume has definitely become one of my favorite spots in the city. Highly recommended!",
+      "time": 1753981311,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Anthony L",
+      "rating": 5,
+      "text": "If you know the brand, you’ll be very impressed with their new Covent Garden cafe - a second outpost in London (their first is in Belgravia). Coffee and matcha are high quality, fitout is exceptional and staff are quick and friendly. Plenty of seating downstairs inside, as well as a few tables outside.\n\nHigh praise to Yava - she was very personable and provided fantastic service. She’s a credit to the Kitsune team!",
+      "time": 1753621199,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "The Wayfarer",
+      "rating": 5,
+      "text": "I enjoyed my iced decaf latte and iced chocolate. It was so nice seating at the basement. Beautiful interior design. Loo was spotless and well stocked.",
+      "time": 1757278786,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Bishnu Tamang",
+      "rating": 5,
+      "text": "Really liked the vibe of this café. It feels calm and well-designed without being too fancy, and it’s a nice spot to take a break. The matcha latte was smooth  exactly how I like it. The staff were kind and attentive, which made the experience even better. Overall, it’s the kind of place where you’d want to come back and spend some quiet time",
+      "time": 1757956478,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:55.441Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXwZ4EsFdkgRakzEeDuvgGQ"
+}
