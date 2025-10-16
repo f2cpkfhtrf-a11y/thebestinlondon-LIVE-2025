@@ -776,3 +776,4 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
     </>
   );
 }
+

@@ -69,3 +69,4 @@ The restaurants page is now ready to work with the comprehensive venue data that
 
 The page is fully responsive and maintains the premium design aesthetic while providing comprehensive venue information.
 
+

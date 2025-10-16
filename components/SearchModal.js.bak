@@ -19,7 +19,7 @@ export default function SearchModal({ isOpen, onClose, venues }) {
       const matchesName = venue.name?.toLowerCase().includes(term);
       const matchesCuisine = venue.cuisines?.some(c => c.toLowerCase().includes(term));
       const matchesArea = venue.vicinity?.toLowerCase().includes(term);
-      const matchesDietary = venue.dietary_tags && Object.keys(venue.dietary_tags).some(key => key.toLowerCase().includes(term) && venue.dietary_tags[key] === true);
+      const matchesDietary = venue.dietary_tags?.some(tag => tag.toLowerCase().includes(term));
       
       return matchesName || matchesCuisine || matchesArea || matchesDietary;
     });
