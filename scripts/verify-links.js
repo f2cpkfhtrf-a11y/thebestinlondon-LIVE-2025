@@ -1,285 +1,210 @@
-// AUTOMATED LINK VERIFICATION CRAWLER
-// Crawls all pages and verifies internal links return 200 OK
+// Link verification script for BestOfLondon
+// Finds all internal links and checks if pages/files exist
+// Run with: node scripts/verify-links.js
 
-const http = require('http');
-const https = require('https');
 const fs = require('fs');
 const path = require('path');
-const { parse } = require('node-html-parser');
 
-const BASE_URL = 'http://localhost:3000';
-const OUTPUT_DIR = path.join(__dirname, '../logs');
+const PAGES_DIR = path.join(__dirname, '../pages');
+const PUBLIC_DIR = path.join(__dirname, '../public');
+const REPORTS_DIR = path.join(__dirname, '../reports');
 
-// Pages to crawl
-const PAGES_TO_CRAWL = [
-  '/',
-  '/restaurants',
-  '/indian-restaurants-london',
-  '/italian-restaurants-london',
-  '/japanese-restaurants-london',
-  '/chinese-restaurants-london',
-  '/thai-restaurants-london',
-  '/turkish-restaurants-london',
-  '/best-halal-restaurants-london',
-  '/vegan-restaurants-london',
-  '/vegetarian-restaurants-london',
-  '/best-cafes-london',
-  '/best-coffee-shops-london',
-  '/best-bakeries-london',
-  '/best-brunch-london',
-  '/best-bars-london',
-  '/restaurants-shoreditch',
-  '/restaurants-soho',
-  '/restaurants-camden',
-  '/search',
-  '/about',
-  '/contact',
-  '/guides',
-  '/privacy',
+const IGNORE_PATTERNS = [
+  /node_modules/,
+  /\.next/,
+  /\.git/,
+  /\.bak$/,
+  /\.backup$/
 ];
 
-// Utility to fetch a URL
-function fetchUrl(url) {
-  return new Promise((resolve, reject) => {
-    const protocol = url.startsWith('https') ? https : http;
-    
-    const req = protocol.get(url, (res) => {
-      let data = '';
-      
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        resolve({
-          status: res.statusCode,
-          headers: res.headers,
-          body: data
-        });
-      });
-    });
-    
-    req.on('error', reject);
-    req.setTimeout(10000, () => {
-      req.destroy();
-      reject(new Error('Timeout'));
-    });
-  });
-}
-
-// Extract links from HTML
-function extractLinks(html, baseUrl) {
-  const root = parse(html);
-  const links = new Set();
+// Extract links from JSX/TSX content
+function extractLinks(content, filePath) {
+  const links = [];
   
-  // Find all <a> tags
-  root.querySelectorAll('a').forEach(a => {
-    const href = a.getAttribute('href');
-    if (href && href.startsWith('/') && !href.startsWith('//')) {
-      links.add(href);
+  // href="..." or href={...}
+  const hrefPattern = /href=["'`]([^"'`]+)["'`]/g;
+  let match;
+  
+  while ((match = hrefPattern.exec(content)) !== null) {
+    const href = match[1];
+    
+    // Skip external links, anchors, and dynamic routes with actual params
+    if (href.startsWith('http') || 
+        href.startsWith('mailto:') || 
+        href.startsWith('tel:') ||
+        href === '#' ||
+        href.includes('${') ||
+        href.includes('place_id:')) {
+      continue;
     }
-  });
+    
+    links.push({
+      href,
+      file: path.relative(path.join(__dirname, '..'), filePath),
+      line: content.substring(0, match.index).split('\n').length
+    });
+  }
   
-  return Array.from(links);
+  return links;
 }
 
-// Main crawler function
-async function crawlAndVerifyLinks() {
-  console.log('🕷️  Starting link verification crawler...\n');
+// Check if a page exists
+function pageExists(href) {
+  // Remove query params and hash
+  const cleanHref = href.split('?')[0].split('#')[0];
   
-  const results = {
-    tested: 0,
-    passed: 0,
-    failed: 0,
-    links: [],
-    broken: [],
-    summary: {}
-  };
+  // Root
+  if (cleanHref === '/' || cleanHref === '') {
+    return { exists: true, type: 'root' };
+  }
   
-  const allLinks = new Set(PAGES_TO_CRAWL);
-  const testedLinks = new Set();
+  // Remove leading slash
+  const pagePath = cleanHref.startsWith('/') ? cleanHref.slice(1) : cleanHref;
   
-  // Crawl each page
-  for (const pagePath of PAGES_TO_CRAWL) {
-    const url = `${BASE_URL}${pagePath}`;
-    console.log(`\n📄 Crawling: ${pagePath}`);
+  // Check if it's a static file in public/
+  const publicPath = path.join(PUBLIC_DIR, pagePath);
+  if (fs.existsSync(publicPath)) {
+    return { exists: true, type: 'static', path: publicPath };
+  }
+  
+  // Check for page file (try multiple extensions)
+  const possiblePagePaths = [
+    path.join(PAGES_DIR, `${pagePath}.js`),
+    path.join(PAGES_DIR, `${pagePath}.tsx`),
+    path.join(PAGES_DIR, pagePath, 'index.js'),
+    path.join(PAGES_DIR, pagePath, 'index.tsx'),
+  ];
+  
+  for (const pagePath of possiblePagePaths) {
+    if (fs.existsSync(pagePath)) {
+      return { exists: true, type: 'page', path: pagePath };
+    }
+  }
+  
+  // Check if it's a dynamic route pattern
+  if (pagePath.includes('[')) {
+    // Extract the base path
+    const basePath = pagePath.split('[')[0];
+    const dynamicPagePaths = [
+      path.join(PAGES_DIR, basePath, '[slug].js'),
+      path.join(PAGES_DIR, basePath, '[slug].tsx'),
+      path.join(PAGES_DIR, basePath, '[id].js'),
+      path.join(PAGES_DIR, basePath, '[id].tsx'),
+    ];
     
-    try {
-      const response = await fetchUrl(url);
-      
-      const pageResult = {
-        url: pagePath,
-        status: response.status,
-        success: response.status === 200,
-        linksFound: [],
-        timestamp: new Date().toISOString()
-      };
-      
-      if (response.status === 200) {
-        console.log(`   ✅ Page OK (${response.status})`);
-        results.passed++;
-        
-        // Extract links from this page
-        const links = extractLinks(response.body, BASE_URL);
-        pageResult.linksFound = links;
-        
-        console.log(`   Found ${links.length} internal links`);
-        
-        // Add to set for testing
-        links.forEach(link => {
-          if (!testedLinks.has(link)) {
-            allLinks.add(link);
-          }
-        });
-        
-      } else {
-        console.log(`   ❌ Page failed (${response.status})`);
-        results.failed++;
-        results.broken.push({
-          url: pagePath,
-          status: response.status,
-          error: 'Non-200 response'
-        });
+    for (const dynamicPath of dynamicPagePaths) {
+      if (fs.existsSync(dynamicPath)) {
+        return { exists: true, type: 'dynamic', path: dynamicPath };
       }
-      
-      results.links.push(pageResult);
-      results.tested++;
-      testedLinks.add(pagePath);
-      
-    } catch (error) {
-      console.log(`   ❌ Error: ${error.message}`);
-      results.failed++;
-      results.broken.push({
-        url: pagePath,
-        status: 0,
-        error: error.message
-      });
-      results.tested++;
     }
-    
-    // Small delay to avoid overwhelming the server
-    await new Promise(resolve => setTimeout(resolve, 100));
   }
   
-  // Test discovered links that weren't in initial list
-  console.log(`\n\n🔗 Testing ${allLinks.size - PAGES_TO_CRAWL.length} additional discovered links...`);
+  // Special case: check if it's a known dynamic route
+  const knownDynamicRoutes = [
+    { pattern: /^\/restaurant\/.+/, page: '/pages/restaurant/[slug].js' },
+    { pattern: /^\/cuisine\/.+/, page: '/pages/cuisine/[cuisine].js' },
+    { pattern: /^\/location\/.+/, page: '/pages/location/[location].js' },
+    { pattern: /^\/halal\/near-stations\/.+/, page: '/pages/halal/near-stations/[stationSlug].js' }
+  ];
   
-  for (const linkPath of allLinks) {
-    if (testedLinks.has(linkPath)) continue;
-    
-    const url = `${BASE_URL}${linkPath}`;
-    
-    try {
-      const response = await fetchUrl(url);
-      
-      if (response.status === 200) {
-        results.passed++;
-      } else {
-        results.failed++;
-        results.broken.push({
-          url: linkPath,
-          status: response.status,
-          error: 'Non-200 response'
-        });
+  for (const route of knownDynamicRoutes) {
+    if (route.pattern.test(`/${pagePath}`)) {
+      const fullPath = path.join(__dirname, '..', route.page);
+      if (fs.existsSync(fullPath)) {
+        return { exists: true, type: 'dynamic', path: fullPath };
       }
-      
-      results.tested++;
-      testedLinks.add(linkPath);
-      
-    } catch (error) {
-      results.failed++;
-      results.broken.push({
-        url: linkPath,
-        status: 0,
-        error: error.message
-      });
-      results.tested++;
+    }
+  }
+  
+  return { exists: false, type: null };
+}
+
+// Recursively scan directory for .js/.tsx files
+function scanDirectory(dir, files = []) {
+  const entries = fs.readdirSync(dir);
+  
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry);
+    
+    // Skip ignored patterns
+    if (IGNORE_PATTERNS.some(pattern => pattern.test(fullPath))) {
+      continue;
     }
     
-    await new Promise(resolve => setTimeout(resolve, 50));
+    const stat = fs.statSync(fullPath);
+    
+    if (stat.isDirectory()) {
+      scanDirectory(fullPath, files);
+    } else if (entry.endsWith('.js') || entry.endsWith('.tsx')) {
+      files.push(fullPath);
+    }
   }
   
-  // Generate summary
-  results.summary = {
-    totalTested: results.tested,
-    passed: results.passed,
-    failed: results.failed,
-    successRate: ((results.passed / results.tested) * 100).toFixed(1) + '%',
-    timestamp: new Date().toISOString()
-  };
-  
-  // Save results
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-  
-  const jsonPath = path.join(OUTPUT_DIR, 'link-audit-results.json');
-  fs.writeFileSync(jsonPath, JSON.stringify(results, null, 2));
-  
-  // Generate markdown report
-  const report = `# Link Audit Report
-
-**Date:** ${results.summary.timestamp}
-**Status:** ${results.failed === 0 ? '✅ All links working' : '⚠️ Some links broken'}
-
-## Summary
-- **Total Links Tested:** ${results.summary.totalTested}
-- **Passed:** ${results.summary.passed} ✅
-- **Failed:** ${results.summary.failed} ❌
-- **Success Rate:** ${results.summary.successRate}
-
-## Core Pages Status
-${results.links.map(link => 
-  `- ${link.success ? '✅' : '❌'} ${link.url} (${link.status}) ${link.linksFound.length ? `- ${link.linksFound.length} links found` : ''}`
-).join('\n')}
-
-${results.broken.length > 0 ? `
-## Broken Links
-${results.broken.map(broken => 
-  `- ❌ ${broken.url} - Status: ${broken.status} - ${broken.error}`
-).join('\n')}
-
-## Recommendations
-${results.broken.map(broken => {
-  if (broken.status === 404) {
-    return `- Create missing page: ${broken.url}`;
-  } else if (broken.status === 0) {
-    return `- Fix server/routing error for: ${broken.url}`;
-  } else {
-    return `- Investigate ${broken.status} error for: ${broken.url}`;
-  }
-}).join('\n')}
-` : ''}
-
-## Next Steps
-${results.failed === 0 ? 
-  '✅ All links verified! Ready for production.' : 
-  `⚠️ Fix ${results.failed} broken links before launch.`}
-`;
-  
-  const reportPath = path.join(OUTPUT_DIR, 'link-audit-report.md');
-  fs.writeFileSync(reportPath, report);
-  
-  // Print summary
-  console.log('\n\n' + '='.repeat(70));
-  console.log('LINK VERIFICATION COMPLETE');
-  console.log('='.repeat(70));
-  console.log(`Total Links Tested: ${results.summary.totalTested}`);
-  console.log(`Passed: ${results.summary.passed} ✅`);
-  console.log(`Failed: ${results.summary.failed} ❌`);
-  console.log(`Success Rate: ${results.summary.successRate}`);
-  console.log('='.repeat(70));
-  console.log(`\nReport saved to: ${reportPath}`);
-  console.log(`JSON data saved to: ${jsonPath}\n`);
-  
-  return results;
+  return files;
 }
 
-// Run if called directly
-if (require.main === module) {
-  crawlAndVerifyLinks()
-    .then((results) => {
-      process.exit(results.failed === 0 ? 0 : 1);
-    })
-    .catch(error => {
-      console.error('❌ Fatal error:', error);
-      process.exit(1);
+console.log('🔍 Scanning for broken links...\n');
+
+// Scan all pages and components
+const filesToScan = [
+  ...scanDirectory(PAGES_DIR),
+  ...scanDirectory(path.join(__dirname, '../components'))
+];
+
+const allLinks = [];
+const brokenLinks = [];
+
+for (const file of filesToScan) {
+  const content = fs.readFileSync(file, 'utf8');
+  const links = extractLinks(content, file);
+  allLinks.push(...links);
+}
+
+console.log(`Found ${allLinks.length} internal links\n`);
+
+// Check each link
+for (const link of allLinks) {
+  const check = pageExists(link.href);
+  
+  if (!check.exists) {
+    console.log(`❌ ${link.file}:${link.line}`);
+    console.log(`   Link: ${link.href}`);
+    console.log('');
+    
+    brokenLinks.push({
+      href: link.href,
+      file: link.file,
+      line: link.line
     });
+  }
 }
 
-module.exports = { crawlAndVerifyLinks };
+// Summary
+console.log('\n📊 Summary:\n');
+console.log(`   Total links: ${allLinks.length}`);
+console.log(`   ✅ Valid: ${allLinks.length - brokenLinks.length}`);
+console.log(`   ❌ Broken: ${brokenLinks.length}\n`);
+
+// Write report
+const report = {
+  generated_at: new Date().toISOString(),
+  summary: {
+    total: allLinks.length,
+    valid: allLinks.length - brokenLinks.length,
+    broken: brokenLinks.length
+  },
+  broken_links: brokenLinks
+};
+
+fs.mkdirSync(REPORTS_DIR, { recursive: true });
+const reportPath = path.join(REPORTS_DIR, 'links.json');
+fs.writeFileSync(reportPath, JSON.stringify(report, null, 2));
+
+console.log(`📄 Report saved: ${reportPath}`);
+
+if (brokenLinks.length > 0) {
+  console.log('\n⚠️  Fix broken links before deployment');
+  process.exit(1);
+} else {
+  console.log('\n✅ All internal links are valid!');
+}
