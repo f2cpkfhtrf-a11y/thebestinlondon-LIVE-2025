@@ -1,20 +1,30 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/router';
 
 export default function SearchModal({ isOpen, onClose, venues }) {
   const router = useRouter();
   const [searchTerm, setSearchTerm] = useState('');
+  const [debouncedTerm, setDebouncedTerm] = useState('');
   const [filteredVenues, setFilteredVenues] = useState([]);
   const [selectedIndex, setSelectedIndex] = useState(0);
+  const inputRef = useRef(null);
 
-  // Real-time search filtering
+  // 300ms debounce for search
   useEffect(() => {
-    if (!searchTerm.trim()) {
+    const timer = setTimeout(() => {
+      setDebouncedTerm(searchTerm);
+    }, 300);
+    return () => clearTimeout(timer);
+  }, [searchTerm]);
+
+  // Real-time search filtering with debounced term
+  useEffect(() => {
+    if (!debouncedTerm.trim()) {
       setFilteredVenues([]);
       return;
     }
 
-    const term = searchTerm.toLowerCase();
+    const term = debouncedTerm.toLowerCase();
     const results = venues.filter(venue => {
       const matchesName = venue.name?.toLowerCase().includes(term);
       const matchesCuisine = venue.cuisines?.some(c => c.toLowerCase().includes(term));
@@ -26,7 +36,22 @@ export default function SearchModal({ isOpen, onClose, venues }) {
 
     setFilteredVenues(results.slice(0, 20));
     setSelectedIndex(0);
-  }, [searchTerm, venues]);
+  }, [debouncedTerm, venues]);
+
+  // Maintain focus on mobile
+  useEffect(() => {
+    if (isOpen && inputRef.current) {
+      // Delay to ensure modal is rendered
+      const timer = setTimeout(() => {
+        inputRef.current?.focus();
+        // Prevent iOS zoom on focus
+        if (inputRef.current) {
+          inputRef.current.style.fontSize = '16px';
+        }
+      }, 100);
+      return () => clearTimeout(timer);
+    }
+  }, [isOpen]);
 
   // Keyboard navigation
   useEffect(() => {
@@ -130,32 +155,40 @@ export default function SearchModal({ isOpen, onClose, venues }) {
                 </svg>
                 
                 <input
+                  ref={inputRef}
                   type="text"
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
                   placeholder="Search restaurants, cuisines, areas..."
-                  autoFocus
+                  inputMode="search"
                   style={{
                     flex: 1,
-                    fontSize: '18px',
+                    fontSize: '16px',
                     fontWeight: 500,
                     outline: 'none',
                     border: 'none',
                     background: 'transparent',
-                    color: '#111827'
+                    color: '#111827',
+                    WebkitTapHighlightColor: 'transparent'
                   }}
                 />
                 
                 {/* Close Button */}
                 <button
                   onClick={onClose}
+                  aria-label="Close search"
                   style={{
-                    padding: '8px',
+                    minWidth: '48px',
+                    minHeight: '48px',
+                    padding: '12px',
                     background: 'transparent',
                     border: 'none',
                     borderRadius: '8px',
                     cursor: 'pointer',
-                    transition: 'background 0.2s'
+                    transition: 'background 0.2s',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center'
                   }}
                   onMouseEnter={(e) => e.currentTarget.style.background = '#f3f4f6'}
                   onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
@@ -176,14 +209,16 @@ export default function SearchModal({ isOpen, onClose, venues }) {
                         key={suggestion}
                         onClick={() => setSearchTerm(suggestion)}
                         style={{
-                          padding: '6px 12px',
+                          minHeight: '44px',
+                          padding: '10px 16px',
                           fontSize: '14px',
                           background: '#f3f4f6',
                           color: '#374151',
                           border: 'none',
                           borderRadius: '9999px',
                           cursor: 'pointer',
-                          transition: 'background 0.2s'
+                          transition: 'background 0.2s',
+                          WebkitTapHighlightColor: 'transparent'
                         }}
                         onMouseEnter={(e) => e.currentTarget.style.background = '#e5e7eb'}
                         onMouseLeave={(e) => e.currentTarget.style.background = '#f3f4f6'}

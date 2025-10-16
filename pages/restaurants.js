@@ -299,7 +299,8 @@ export default function Restaurants({ venues, stats }) {
                     background: filter === 'halal' ? theme.colors.accent.gold : 'rgba(11, 11, 11, 0.85)',
                     backdropFilter: 'blur(8px)',
                     color: filter === 'halal' ? theme.colors.text.inverse : theme.colors.text.primary,
-                    padding: '12px 28px',
+                    minHeight: '52px',
+                    padding: '14px 30px',
                     borderRadius: '999px',
                     fontSize: '15px',
                     fontWeight: 700,
@@ -311,7 +312,8 @@ export default function Restaurants({ venues, stats }) {
                     display: 'flex',
                     alignItems: 'center',
                     gap: '8px',
-                    transform: filter === 'halal' ? 'scale(1.05)' : 'scale(1)'
+                    transform: filter === 'halal' ? 'scale(1.05)' : 'scale(1)',
+                    WebkitTapHighlightColor: 'rgba(212, 175, 55, 0.3)'
                   }}
                 >
                   <span style={{ fontSize: '20px' }}>☪️</span>
@@ -333,7 +335,8 @@ export default function Restaurants({ venues, stats }) {
                     background: filter === 'vegan' ? theme.colors.accent.gold : 'rgba(11, 11, 11, 0.85)',
                     backdropFilter: 'blur(8px)',
                     color: filter === 'vegan' ? theme.colors.text.inverse : theme.colors.text.primary,
-                    padding: '12px 28px',
+                    minHeight: '52px',
+                    padding: '14px 30px',
                     borderRadius: '999px',
                     fontSize: '15px',
                     fontWeight: 700,
@@ -345,7 +348,8 @@ export default function Restaurants({ venues, stats }) {
                     display: 'flex',
                     alignItems: 'center',
                     gap: '8px',
-                    transform: filter === 'vegan' ? 'scale(1.05)' : 'scale(1)'
+                    transform: filter === 'vegan' ? 'scale(1.05)' : 'scale(1)',
+                    WebkitTapHighlightColor: 'rgba(212, 175, 55, 0.3)'
                   }}
                 >
                   <span style={{ fontSize: '20px' }}>🌱</span>
@@ -367,7 +371,8 @@ export default function Restaurants({ venues, stats }) {
                     background: filter === 'vegetarian' ? theme.colors.accent.gold : 'rgba(11, 11, 11, 0.85)',
                     backdropFilter: 'blur(8px)',
                     color: filter === 'vegetarian' ? theme.colors.text.inverse : theme.colors.text.primary,
-                    padding: '12px 28px',
+                    minHeight: '52px',
+                    padding: '14px 30px',
                     borderRadius: '999px',
                     fontSize: '15px',
                     fontWeight: 700,
@@ -379,7 +384,8 @@ export default function Restaurants({ venues, stats }) {
                     display: 'flex',
                     alignItems: 'center',
                     gap: '8px',
-                    transform: filter === 'vegetarian' ? 'scale(1.05)' : 'scale(1)'
+                    transform: filter === 'vegetarian' ? 'scale(1.05)' : 'scale(1)',
+                    WebkitTapHighlightColor: 'rgba(212, 175, 55, 0.3)'
                   }}
                 >
                   <span style={{ fontSize: '20px' }}>🥗</span>
@@ -401,7 +407,8 @@ export default function Restaurants({ venues, stats }) {
                     background: filter === 'gluten-free' ? theme.colors.accent.gold : 'rgba(11, 11, 11, 0.85)',
                     backdropFilter: 'blur(8px)',
                     color: filter === 'gluten-free' ? theme.colors.text.inverse : theme.colors.text.primary,
-                    padding: '12px 28px',
+                    minHeight: '52px',
+                    padding: '14px 30px',
                     borderRadius: '999px',
                     fontSize: '15px',
                     fontWeight: 700,
@@ -413,7 +420,8 @@ export default function Restaurants({ venues, stats }) {
                     display: 'flex',
                     alignItems: 'center',
                     gap: '8px',
-                    transform: filter === 'gluten-free' ? 'scale(1.05)' : 'scale(1)'
+                    transform: filter === 'gluten-free' ? 'scale(1.05)' : 'scale(1)',
+                    WebkitTapHighlightColor: 'rgba(212, 175, 55, 0.3)'
                   }}
                 >
                   <span style={{ fontSize: '20px' }}>🌾</span>
@@ -499,15 +507,17 @@ export default function Restaurants({ venues, stats }) {
           </div>
         </section>
 
-        {/* Results Count & Sort Bar */}
+        {/* Results Count & Sort Bar - Sticky */}
         <section style={{
-          background: theme.colors.bg.elevated,
+          background: `${theme.colors.bg.elevated}f0`,
           padding: '20px 0',
           borderBottom: `1px solid ${theme.colors.border.subtle}`,
           position: 'sticky',
-          top: '64px',
+          top: scrolled ? '72px' : '64px',
           zIndex: 90,
-          backdropFilter: 'blur(12px)'
+          backdropFilter: 'blur(16px)',
+          WebkitBackdropFilter: 'blur(16px)',
+          transition: 'top 0.3s ease'
         }}>
           <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px' }}>
