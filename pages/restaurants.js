@@ -608,7 +608,7 @@ export default function Restaurants({ venues, stats }) {
                         background: theme.colors.bg.primary,
                         overflow: 'hidden'
                       }}>
-                        {venue.photos && venue.photos[0] ? (
+                        {venue.photos && venue.photos[0] && venue.photos[0].url ? (
                           <img 
                             src={venue.photos[0].url}
                             alt={venue.name}
@@ -619,18 +619,27 @@ export default function Restaurants({ venues, stats }) {
                               transition: 'transform 0.4s ease'
                             }}
                             className="venue-image"
+                            onError={(e) => {
+                              // Fallback to gradient on image load error
+                              e.target.style.display = 'none';
+                              e.target.parentElement.style.background = venue.fallback_image?.value || 'linear-gradient(135deg, rgba(212,175,55,0.2) 0%, rgba(11,11,11,0.9) 100%)';
+                            }}
                           />
                         ) : (
                           <div style={{
                             width: '100%',
                             height: '100%',
-                            background: 'linear-gradient(135deg, #1A1A1A 0%, #2A2A2A 100%)',
+                            background: venue.fallback_image?.value || 'linear-gradient(135deg, rgba(212,175,55,0.2) 0%, rgba(11,11,11,0.9) 100%)',
                             display: 'flex',
                             alignItems: 'center',
                             justifyContent: 'center',
+                            flexDirection: 'column',
+                            gap: '8px',
+                            padding: '20px',
                             color: theme.colors.text.secondary
                           }}>
-                            No image
+                            <div style={{ fontSize: '32px', opacity: 0.4 }}>🍽️</div>
+                            <div style={{ fontSize: '13px', textAlign: 'center', opacity: 0.6 }}>{venue.cuisines?.[0] || 'Restaurant'}</div>
                           </div>
                         )}
                         

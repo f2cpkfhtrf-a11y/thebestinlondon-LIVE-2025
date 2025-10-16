@@ -132,16 +132,33 @@ export default function VenueDetailPage({ venue }) {
         </nav>
 
         {/* Hero Image */}
-        <div style={{ position: 'relative', height: 'clamp(250px, 40vh, 400px)', background: '#1A1A1A' }}>
-          {venue.photos && venue.photos[0] ? (
+        <div style={{ 
+          position: 'relative', 
+          height: 'clamp(250px, 40vh, 400px)', 
+          background: venue.fallback_image?.value || 'linear-gradient(135deg, rgba(212,175,55,0.2) 0%, rgba(11,11,11,0.9) 100%)'
+        }}>
+          {venue.photos && venue.photos[0] && venue.photos[0].url ? (
             <img 
               src={venue.photos[0].url}
               alt={venue.name}
               style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+              onError={(e) => {
+                e.target.style.display = 'none';
+              }}
             />
           ) : (
-            <div style={{ width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#666' }}>
-              <p>No image available</p>
+            <div style={{ 
+              width: '100%', 
+              height: '100%', 
+              display: 'flex', 
+              flexDirection: 'column',
+              alignItems: 'center', 
+              justifyContent: 'center', 
+              gap: '16px',
+              color: '#9AA0A6' 
+            }}>
+              <div style={{ fontSize: '64px', opacity: 0.4 }}>🍽️</div>
+              <p style={{ fontSize: '18px', opacity: 0.6 }}>{venue.cuisines?.[0] || 'Restaurant'}</p>
             </div>
           )}
           
