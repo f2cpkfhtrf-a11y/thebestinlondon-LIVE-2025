@@ -1,0 +1,38 @@
+{
+  "started": "2025-10-16T23:12:32.987Z",
+  "steps": [
+    {
+      "step": 1,
+      "name": "Snapshot",
+      "success": true
+    },
+    {
+      "step": 2,
+      "name": "Expansion Search",
+      "success": true
+    },
+    {
+      "step": 3,
+      "name": "Fetch Details",
+      "success": true
+    },
+    {
+      "step": 4,
+      "name": "Merge Data",
+      "success": true
+    },
+    {
+      "step": 5,
+      "name": "FSA Enhancement",
+      "success": true
+    },
+    {
+      "step": 6,
+      "name": "Final Snapshot",
+      "success": true
+    }
+  ],
+  "completed": "2025-10-16T23:35:22.216Z",
+  "durationMinutes": "22.82",
+  "success": true
+}
