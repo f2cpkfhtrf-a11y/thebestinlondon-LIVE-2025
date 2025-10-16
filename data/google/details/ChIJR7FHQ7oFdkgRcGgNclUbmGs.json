@@ -1,0 +1,253 @@
+{
+  "place_id": "ChIJR7FHQ7oFdkgRcGgNclUbmGs",
+  "name": "JOIA Restaurant, Bar & Rooftop",
+  "formatted_address": "15th Floor, 1 Electric Blvd, Nine Elms, London SW11 8BJ, UK",
+  "vicinity": "15th Floor, Electric Boulevard, 1 Electric Blvd, London",
+  "rating": 4.4,
+  "user_ratings_total": 767,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4806861,
+      "lng": -0.1455533
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.48200698029149,
+        "lng": -0.144197919708498
+      },
+      "southwest": {
+        "lat": 51.4793090197085,
+        "lng": -0.146895880291502
+      }
+    }
+  },
+  "lat": 51.4806861,
+  "lng": -0.1455533,
+  "formatted_phone_number": "020 3833 8333",
+  "international_phone_number": "+44 20 3833 8333",
+  "website": "https://www.joiabattersea.co.uk/",
+  "url": "https://maps.google.com/?cid=7752976812317960304",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 1:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 12:00 – 3:00 PM, 5:00 PM – 1:00 AM",
+      "Sunday: 12:00 – 6:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eZeujoB6tKeMlAPBTizlNRDXZ6BHrps0x3o1bC3dtsdFZRt1Xn6dXhTSnirJTr7LUgG8qPySHmbOFI4BEX85fmOub6-JjXPKoMmjXcyBnLypG9fozTtxR-Ep65TR-B8NaZSMjguEq4KO6SBQ4aEdo2tddNaCncIdOTrOEkBcWbJh0f8n3bGqSjPuW-KO-fole8Un-XU_JhFp34FNe38ihlzer3raQXPB9OGRCHK7GgPacQiKt8eAFg0dHSvaYF5-2JaL7ygLeboyYV1ncmpriqJ6_IqGc-Y9FVjUGl_kOj0w",
+      "width": 2048,
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102181124414782194891\">JOIA Restaurant, Bar &amp; Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cXT6t8wBVF_SX9C7SzFY6oAYj6gADHaieqEQBGLc-tL4BXwhyONXgZyY4f31OGTnEJHdoD9u-U1vEMs5lHUnAo14GM084VvY2RXjkUmyvj62kAsn4eSyqXvgT5sz0REFP1r09KFYg2ODl9MPrKdQJYq94i2vi-04mrwZ2OkDfl4Ey0xKNJB4hiVta2VHLu2JwIylMFp0EhalLr-5XV1Id-CTCe80VoJJiUel3g9IqI8pdy-xDQut8CTGKiu_4Z5mUcjkCTn4jZ_46CC7guEYCwWOVYOJm2t2VcpKSVfhWbXQ",
+      "width": 1900,
+      "height": 1267,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102181124414782194891\">JOIA Restaurant, Bar &amp; Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dNyvreD3Y2XIgxGdAKSxKPQIqxEfJgx8i8JV1D9H4nPLJ32oSOjBBT6DeP9-v5JoRCmP2iY9M15P4cFm2jmoTlwP6esSi3C2ZVNlvVp3hufZho00_qj2BV2qDZcxaJfreyU9tIpq5q8SXuHDn_E3De3HLJ8QvORvgTuLTjrNo9_QIYAcTG49wRfsp4rt7FAaDjdQGYtoVXw29AbsX9ackSMqmbU3dIY2jMlrstq6dnYMq4krkVbunP91gaE-ixrLPX56TKn2-KXVHlZ3VdWYvyy0Zysgdv96AwijBgZjltbA",
+      "width": 1280,
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102181124414782194891\">JOIA Restaurant, Bar &amp; Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dARV3uQEtQ1yp_tL1b0DNmz_RIAIscVQJKZEMymL9Jdx2uV5jcv5Y8420qpfzUt04AX1liLDCxksfrOBnmEmh3FI8ApS8BlhwVnNtCZI_ppGgJwxQgTm0HuNBfDldwAYw2anRb4s0fD02ooyMGteDyVv365zDvux06-IxSwn87oc5hn64NcMaHihdnvVQ-46X7qEdjC4Tlaf24EKjlFa_4hpqrUoeIZO2KcjOcOwAPSzBVS8xPUg0cXiKdmgXcz0rwI2BUMvnO9M5LxpGmA8KjNvuPQWcbFzFj-keq63kQZA",
+      "width": 1520,
+      "height": 1900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102181124414782194891\">JOIA Restaurant, Bar &amp; Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cNi8orXndoMOMVk6BnLbPE30wpp7mqvBtE7gTjUx69QMyVPnEXGJEsHQeZYCXa5jugitACg8BRubATt-D6aRwtQV8nDF_cpCgy_EFyd8hPO1eymD5YzcYYR7yn62P_rD1RRL3nFoEW2p5cXGS4xjL0CJHJgUA3ZE9k6JydtLptfiGY5travwU8qXCQolcfpayKR695f2pB4KFYtZun8se0cHxlZqyel5SYzfY_ZdUBZBKJYd0DuaRCiu27PU9oj1qpR2e-ep7XxPHzq_jZ_CPhQcbrSp8dN_woKliKFeE4FQ",
+      "width": 1520,
+      "height": 1899,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102181124414782194891\">JOIA Restaurant, Bar &amp; Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cweTlgp7QTb-1PoMAYFvktxFzIno2fLGiiahqOCMlBpEgW7KH4HSoLPwDOTuCrKftGVysFD6GJ11onKoLDypPCg9ZMwfJ3FpQ0rs1GDMGwRbRRYzR0WZeqi3alNWAJNefv0lWB2k2oD1TtNIwRuah4JfblBC9_BAXPqxt83eICnJzalxbzrmMuJ1wqLrvEB4Ueq7JPGDqPF45o4PYZxSp41W-aY73J71Du2GnlKu3xprukXCoYoff5wSk93RRwp_faJoLY-rR1sgipbc_47_RAg3lQa4ltvDAp0xTLtrLDJUw89I9W1KIAHFXMNEhBAhuIXGvP8T28JbUb7y3tlh3ib0ITXPkAUw1cq3w8UcSxsqMbSJsC3dIqixuaFri8hujDjQ45qThXh788dqSZNOEVIg1Z9OHKnVPVJf4IDrwG8wAe",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112146187427243302981\">Sara Solanes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enB69y3rZv7mojq4C2DUbe8eDFP_-9G9zeXs1H-JcbLHxFPlUiyo8C7kqzltlvTvpaokBI9FwMj6YPJq1rA5lTvIr-jfDWtnJUiaJJP4ZUqW4nVfEPH7NqjOSvmpiPfWQy2CZVvqnDVWsodqOLJUId1k46T6x9mMjE6W2EEnJebj3RvWvKorHCSWL42-2PmQa5LUXXihmwBT6aHBqYMqNVBeQb0h7tFYWyyEyx2NMtwWTiFUAlrE5vPfZHf4Mlp5YuSkm0VDAmpIcltOdDcbWjMqAU1vR1BhgWNikWC8cNyg",
+      "width": 1024,
+      "height": 683,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102181124414782194891\">JOIA Restaurant, Bar &amp; Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fFqbgkaoA1buaIFm-BDk8TJHWDQybRS8mxzd9VU7LylOx37NeLay7JV75I88_zH2qv3LX8a63sj5obNRf_GL4lhjisYsRKr-6U6u_1Uxoq0O_XJCa8_hvPzw4QsyFaBqkkPFv-nrSA1ajObGHHedL1XKNKP2RofTMYWSYSL--ysXQTErgJhdwJErcrgMfeXAtp-xhwDDEzcyf_kzkLsoGJPG9sKztkaHZEwb5kG1g23SA0bJobEXtvPrySDlbmUX0oMbBPMDapx1OV0LZS7Uin6WtgxgaWCzmIGZqMk-yvWZev75Rpt0UO1yNeDxRI14EWCnSjPTAeeVxGxbfZFD4ddyaFTGhVYnA9XpZxAervpNC8Q6XbCQXD73eMtOaMjQwK7ECpIAb0Kg1NBXx5a4xbQy-P6gNJf6YT4wKuCg9l-FQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112608657339038504214\">Nicolas Antonio Mota Dieguez</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJNZ42d0rcYElHRtojgurfKFdrDJHXSwgCjLc7699FXWMmXvzOlea0bKR7cRTZ7PnU0jVRQ2czXdz40kZZr1RJqWELpvE15iOdQASfCRzsuYeSycUlm8CNFhSPouKf-wrOrpMOkdaWT6S7mguIYwIxW0VYsqNrM6dQKovdAOJgMtmF7hZ_pJpg06y12LZwnMxY7yQW0qciEvMNiPw6I_SHvk1pZiC8YvAWfsjAqHItaPwjrCFqPaFIQiT6uNDWl9VqQldjXZ4-Ai4yr6FD00CwOMCOAWJGmgrj8a56wr16sA",
+      "width": 1024,
+      "height": 683,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102181124414782194891\">JOIA Restaurant, Bar &amp; Rooftop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f2J5CaNmXcbQLvyFpHU1_g6f4eyuqyzvcRCtgZxiHAMLHZXuUcOjYR9oVexpluwMtigYW7bLcIABpRJnAq4DB-RC0dbYSGQXK8DpFJwZJ-4q_1wbduB7JGipzrnihQNd31r3eO4zOPyYz-ybZ-Zv_t_ePmGIwJnDxq-6BkUSq8Q6T2rtxpCokwGhaL1Y3lHgajxdQyukhQ62WWh70elJDhPFb06gdZPZcP-FHvOjl0xTktwiUS1Ehd3aHhwzEjp4EZO0LTeWsDzegYlaTvqe1jyfhdpz_vVYNmO_Q28pIa-A",
+      "width": 2048,
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102181124414782194891\">JOIA Restaurant, Bar &amp; Rooftop</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Vinna",
+      "rating": 4,
+      "text": "We visited JOIA Restaurant as a group of nine. The venue and customer service were excellent definitely 5/5. The food presentation was impressive, and overall the dishes looked great.\n\nI ordered the arroz de mariscos, which I’d rate 3.5/5. I found it a little salty at first, but after squeezing the lime on it, the flavour balanced out nicely and became much more enjoyable. They also served these small potatoes that were absolutely delicious.\n\nIn my experience, JOIA is a beautiful spot with top notch service, a welcoming atmosphere and lovely food. I would visit again. ❤️",
+      "time": 1757863975,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "SUNNY Dan",
+      "rating": 5,
+      "text": "Went to this restaurant with my girlfriends on a Friday evening.\nUpstairs is a rooftop bar with a great atmosphere and a wide selection of drinks.\nThe food and drinks are on the pricier side, but the ambiance makes up for it.\nThe cuisine is a fusion of Portuguese and Spanish flavors.\nWe ordered a variety of dishes to try — the food was flavorful and satisfying, especially for someone trying Portuguese cuisine for the first time.\nThe service was also very good.",
+      "time": 1753570525,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Mig",
+      "rating": 4,
+      "text": "Beautiful restaurant\nNot much of a view if you look down because it is train tracks.\nHowever, if you look up then it’s gorgeous specifically when the sun is setting.\nService impeccable. Attention to every single  detail.\nThe food was delicious too however for me a bit too oily.\nThe quantity served for the price is disappointing.\nUnfortunately they don’t have any vegan desserts.",
+      "time": 1752829635,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Popo Eyes",
+      "rating": 5,
+      "text": "We celebrated our wedding anniversary at Joia, and it was a truly lovely experience. The food was amazing, with authentic Portuguese flavors and a stunning view of Battersea Park and the Power Station. We highly recommend the octopus—it's fantastic! We tried the Chef's Menu, and it was a great way to enjoy a variety of dishes. It was also a pleasure meeting Chef Rafa. We’ll definitely be coming back!",
+      "time": 1757259475,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Inês Ribeiro",
+      "rating": 5,
+      "text": "We had a lovely visit to this restaurant!\nMust say that to get there it was a bit confusing due to the lifts system within the hotel. We had to find staff to allow us to get up there as we were pressing the buttons and it didn’t seem like it was working. But maybe it was just a “us” thing!\nWe arrived at the restaurant and we were greeted warmly by the staff and the atmosphere was brilliant. Service was flawless and the food was excellent.\nMust say that I drank London Essence for the first time (White peach & jasmine flavour) and this is now my favourite drink ever!\nAdditionally, this was a meal out to celebrate my partner’s birthday and according to my note left on the booking form, they presented him a cake at the end with a happy birthday note. Really thoughtful gesture and the cake was brilliant. Definitely coming back.",
+      "time": 1749548163,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:59.724Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7FHQ7oFdkgRcGgNclUbmGs"
+}

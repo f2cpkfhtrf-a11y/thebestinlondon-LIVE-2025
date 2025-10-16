@@ -1,57 +1,53 @@
 {
-  "timestamp": "2025-10-15T23:50:49.287Z",
+  "timestamp": "2025-10-16T20:26:24.695Z",
   "coverage": {
-    "google_rating": 459,
+    "google_rating": 458,
     "fsa_rating": 1,
     "fsa_coverage_pct": "0.2%",
-    "photos": 459,
-    "website": 447,
-    "phone": 389,
-    "opening_hours": 457
+    "photos": 458,
+    "website": 445,
+    "phone": 392,
+    "opening_hours": 455
   },
-  "totalVenues": 459,
+  "totalVenues": 458,
   "byCategory": [
     {
       "category": "cafe",
-      "count": 79
+      "count": 68
     },
     {
       "category": "bar",
-      "count": 155
+      "count": 153
     },
     {
       "category": "restaurant",
-      "count": 407
+      "count": 400
     },
     {
       "category": "fine-dining",
-      "count": 73
+      "count": 80
     },
     {
       "category": "bakery",
-      "count": 25
+      "count": 24
     },
     {
       "category": "brunch",
-      "count": 7
+      "count": 6
     },
     {
       "category": "rooftop",
-      "count": 10
+      "count": 9
     }
   ],
   "byCuisine": [
     {
       "cuisine": "international",
-      "count": 419
+      "count": 421
     },
     {
       "cuisine": "indian",
       "count": 2
-    },
-    {
-      "cuisine": "italian",
-      "count": 3
     },
     {
       "cuisine": "japanese",
@@ -67,15 +63,15 @@
     },
     {
       "cuisine": "turkish",
-      "count": 3
-    },
-    {
-      "cuisine": "french",
       "count": 4
     },
     {
+      "cuisine": "french",
+      "count": 3
+    },
+    {
       "cuisine": "spanish",
-      "count": 2
+      "count": 4
     },
     {
       "cuisine": "korean",
@@ -83,21 +79,25 @@
     },
     {
       "cuisine": "mexican",
-      "count": 6
+      "count": 4
     },
     {
-      "cuisine": "mediterranean",
-      "count": 2
+      "cuisine": "italian",
+      "count": 1
     },
     {
       "cuisine": "british",
+      "count": 1
+    },
+    {
+      "cuisine": "mediterranean",
       "count": 1
     }
   ],
   "byBorough": [
     {
       "borough": "Central London",
-      "count": 435
+      "count": 436
     },
     {
       "borough": "Southwark",
@@ -109,18 +109,14 @@
     },
     {
       "borough": "Hackney",
+      "count": 7
+    },
+    {
+      "borough": "Camden",
       "count": 6
     },
     {
       "borough": "Tower Hamlets",
-      "count": 2
-    },
-    {
-      "borough": "Camden",
-      "count": 7
-    },
-    {
-      "borough": "Newham",
       "count": 1
     },
     {

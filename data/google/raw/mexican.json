@@ -9,12 +9,12 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.9,
-      "user_ratings_total": 559,
+      "user_ratings_total": 561,
       "formatted_address": "21 Great Windmill St, London W1D 7LB, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -33,7 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
@@ -42,12 +42,12 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.5,
-      "user_ratings_total": 6574,
+      "user_ratings_total": 6601,
       "formatted_address": "103 Hampstead Rd, London NW1 3EL, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -66,74 +66,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
-      "query_used": "mexican restaurant london"
-    },
-    {
-      "place_id": "ChIJWdod-rgddkgRus3lFrOzbg8",
-      "name": "Los Mochis London City",
-      "category": "mexican",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 2353,
-      "formatted_address": "100 Liverpool St, London EC2M 2AT, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5178587,
-          "lng": -0.08358320000000001
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51942537989272,
-            "lng": -0.08251112010727779
-          },
-          "southwest": {
-            "lat": 51.51672572010728,
-            "lng": -0.08521077989272223
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
-      "query_used": "mexican restaurant london"
-    },
-    {
-      "place_id": "ChIJC0NJGMwEdkgRg6RWBJ_l_cY",
-      "name": "Wahaca Covent Garden",
-      "category": "mexican",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 6349,
-      "formatted_address": "66 Chandos Pl, London WC2N 4HG, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5103369,
-          "lng": -0.1246003
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51164037989272,
-            "lng": -0.1231821201072778
-          },
-          "southwest": {
-            "lat": 51.50894072010728,
-            "lng": -0.1258817798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
@@ -142,12 +75,12 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.7,
-      "user_ratings_total": 497,
+      "user_ratings_total": 504,
       "formatted_address": "12 Heddon St, London W1B 4BZ, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -166,7 +99,41 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
+      "query_used": "mexican restaurant london"
+    },
+    {
+      "place_id": "ChIJC0NJGMwEdkgRg6RWBJ_l_cY",
+      "name": "Wahaca Covent Garden",
+      "category": "mexican",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 6355,
+      "formatted_address": "66 Chandos Pl, London WC2N 4HG, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5103369,
+          "lng": -0.1246003
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51164037989272,
+            "lng": -0.1231821201072778
+          },
+          "southwest": {
+            "lat": 51.50894072010728,
+            "lng": -0.1258817798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
@@ -175,12 +142,12 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.4,
-      "user_ratings_total": 2408,
+      "user_ratings_total": 2409,
       "formatted_address": "152 Tooley St, London SE1 2TU, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -199,7 +166,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
@@ -208,13 +175,13 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.3,
-      "user_ratings_total": 911,
+      "user_ratings_total": 912,
       "formatted_address": "66-70 Brewer St, London W1F 9UP, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -233,7 +200,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
@@ -242,12 +209,12 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.6,
-      "user_ratings_total": 928,
+      "user_ratings_total": 931,
       "formatted_address": "33H King's Rd, London SW3 4LX, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -266,41 +233,40 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
-      "place_id": "ChIJ9x0ypLYbdkgR4xBspFXKt8k",
-      "name": "Wahaca Paddington",
+      "place_id": "ChIJWdod-rgddkgRus3lFrOzbg8",
+      "name": "Los Mochis London City",
       "category": "mexican",
       "priority": "medium",
-      "rating": 4.9,
-      "user_ratings_total": 1898,
-      "formatted_address": "Unit 42, 1 Paddington Sq, London W2 1DL, United Kingdom",
+      "rating": 4.5,
+      "user_ratings_total": 2361,
+      "formatted_address": "100 Liverpool St, London EC2M 2AT, United Kingdom",
       "types": [
-        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.516533,
-          "lng": -0.1755727
+          "lat": 51.5178587,
+          "lng": -0.08358320000000001
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51798192989272,
-            "lng": -0.1742533701072778
+            "lat": 51.51942537989272,
+            "lng": -0.08251112010727779
           },
           "southwest": {
-            "lat": 51.51528227010727,
-            "lng": -0.1769530298927222
+            "lat": 51.51672572010728,
+            "lng": -0.08521077989272223
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
@@ -309,12 +275,12 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.7,
-      "user_ratings_total": 2052,
+      "user_ratings_total": 2066,
       "formatted_address": "392 King's Rd, London SW3 5UZ, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -333,7 +299,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
@@ -342,12 +308,12 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.2,
-      "user_ratings_total": 2857,
+      "user_ratings_total": 2859,
       "formatted_address": "7A Stoney St, London SE1 9AA, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -366,40 +332,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
-      "query_used": "mexican restaurant london"
-    },
-    {
-      "place_id": "ChIJzXZ0VKUddkgRqMoG3LgXTqI",
-      "name": "Mexican Seoul",
-      "category": "mexican",
-      "priority": "medium",
-      "rating": 4.8,
-      "user_ratings_total": 685,
-      "formatted_address": "Bow Wharf, 221 Grove Rd., London E3 5SN, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5319959,
-          "lng": -0.0414538
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53340107989272,
-            "lng": -0.04013877010727778
-          },
-          "southwest": {
-            "lat": 51.53070142010727,
-            "lng": -0.04283842989272221
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
@@ -408,13 +341,13 @@
       "category": "mexican",
       "priority": "medium",
       "rating": 4.4,
-      "user_ratings_total": 2090,
+      "user_ratings_total": 2091,
       "formatted_address": "64-65 Wilton Rd, Pimlico, London SW1V 1DE, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -433,77 +366,141 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
-      "place_id": "ChIJ-4a8XjMDdkgRiJhI126vIB8",
-      "name": "Chicome Mexican Restaurant & Bar",
+      "place_id": "ChIJzXZ0VKUddkgRqMoG3LgXTqI",
+      "name": "Mexican Seoul",
+      "category": "mexican",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 685,
+      "formatted_address": "Bow Wharf, 221 Grove Rd., London E3 5SN, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5319959,
+          "lng": -0.0414538
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53340107989272,
+            "lng": -0.04013877010727778
+          },
+          "southwest": {
+            "lat": 51.53070142010727,
+            "lng": -0.04283842989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.209Z",
+      "query_used": "mexican restaurant london"
+    },
+    {
+      "place_id": "ChIJ3dvD8hMbdkgR4_wi5Opd7dI",
+      "name": "El Cenote",
       "category": "mexican",
       "priority": "medium",
       "rating": 4.7,
-      "user_ratings_total": 336,
-      "formatted_address": "2 St Katharine's Way, London E1W 1AA, United Kingdom",
+      "user_ratings_total": 420,
+      "formatted_address": "2 Inverness St, London NW1 7HJ, United Kingdom",
       "types": [
-        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5084131,
-          "lng": -0.0732784
+          "lat": 51.5397689,
+          "lng": -0.1436352
         },
         "viewport": {
           "northeast": {
-            "lat": 51.50984237989272,
-            "lng": -0.07143022010727777
+            "lat": 51.54106992989271,
+            "lng": -0.1421215201072778
           },
           "southwest": {
-            "lat": 51.50714272010728,
-            "lng": -0.07412987989272221
+            "lat": 51.53837027010727,
+            "lng": -0.1448211798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     },
     {
-      "place_id": "ChIJH7pLAZADdkgR6VC-_JNjazs",
-      "name": "Mexican Mama",
+      "place_id": "ChIJ1-ByNTkbdkgRwi6Z6EHwE_c",
+      "name": "Cavita",
       "category": "mexican",
       "priority": "medium",
-      "rating": 4.9,
-      "user_ratings_total": 164,
-      "formatted_address": "232 Rye Ln, London SE15 4NL, United Kingdom",
+      "rating": 4.3,
+      "user_ratings_total": 788,
+      "formatted_address": "56-60 Wigmore St, London W1U 2RZ, United Kingdom",
       "types": [
-        "grocery_or_supermarket",
-        "food",
-        "store",
+        "restaurant",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.4662331,
-          "lng": -0.06649089999999999
+          "lat": 51.5163825,
+          "lng": -0.1495688
         },
         "viewport": {
           "northeast": {
-            "lat": 51.46753912989271,
-            "lng": -0.06510592010727775
+            "lat": 51.51766622989272,
+            "lng": -0.1481943701072778
           },
           "southwest": {
-            "lat": 51.46483947010727,
-            "lng": -0.06780557989272219
+            "lat": 51.51496657010728,
+            "lng": -0.1508940298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.186Z",
+      "fetched_at": "2025-10-16T20:23:26.209Z",
+      "query_used": "mexican restaurant london"
+    },
+    {
+      "place_id": "ChIJs4SV24QPdkgRb8z39NTBPjA",
+      "name": "Yucca London",
+      "category": "mexican",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1198,
+      "formatted_address": "496 Fulham Rd., London SW6 5NH, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4802539,
+          "lng": -0.1984751
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48155067989271,
+            "lng": -0.1970910701072777
+          },
+          "southwest": {
+            "lat": 51.47885102010727,
+            "lng": -0.1997907298927221
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.209Z",
       "query_used": "mexican restaurant london"
     }
   ],
-  "fetched_at": "2025-10-15T10:52:57.186Z"
+  "fetched_at": "2025-10-16T20:23:26.209Z"
 }

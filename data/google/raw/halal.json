@@ -1,7 +1,7 @@
 {
   "category": "halal",
   "query": "halal restaurant london",
-  "count": 14,
+  "count": 15,
   "results": [
     {
       "place_id": "ChIJQdMuPVsbdkgRHm9Z8ad_36c",
@@ -9,12 +9,12 @@
       "category": "halal",
       "priority": "high",
       "rating": 4.5,
-      "user_ratings_total": 1967,
+      "user_ratings_total": 1970,
       "formatted_address": "6G Esther Anne Pl, London N1 1WL, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -33,7 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
+      "fetched_at": "2025-10-16T20:23:26.879Z",
       "query_used": "halal restaurant london"
     },
     {
@@ -42,14 +42,14 @@
       "category": "halal",
       "priority": "high",
       "rating": 4.7,
-      "user_ratings_total": 8828,
+      "user_ratings_total": 8830,
       "formatted_address": "34a Shad Thames, London SE1 2YG, United Kingdom",
       "types": [
         "night_club",
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -68,40 +68,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
-      "query_used": "halal restaurant london"
-    },
-    {
-      "place_id": "ChIJG9nFOzcFdkgRQQ16JA8YvLY",
-      "name": "Shah's Halal Food",
-      "category": "halal",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 619,
-      "formatted_address": "Near, Waterloo Rd, London SE1 8TY, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5045808,
-          "lng": -0.1126559
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50585847989272,
-            "lng": -0.1113961701072778
-          },
-          "southwest": {
-            "lat": 51.50315882010728,
-            "lng": -0.1140958298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
+      "fetched_at": "2025-10-16T20:23:26.879Z",
       "query_used": "halal restaurant london"
     },
     {
@@ -110,13 +77,13 @@
       "category": "halal",
       "priority": "high",
       "rating": 4.7,
-      "user_ratings_total": 4317,
+      "user_ratings_total": 4374,
       "formatted_address": "256 Edgware Rd, London W2 1DS, United Kingdom",
       "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
         "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -135,209 +102,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
-      "query_used": "halal restaurant london"
-    },
-    {
-      "place_id": "ChIJBfx8uYoFdkgRvqs1Z89Bclk",
-      "name": "Meet Bros (by Me’nate x Jibby&co.)",
-      "category": "halal",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 2700,
-      "formatted_address": "29-31 Craven Rd, London W2 3BX, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5136639,
-          "lng": -0.1788915
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51504302989272,
-            "lng": -0.1775837201072778
-          },
-          "southwest": {
-            "lat": 51.51234337010728,
-            "lng": -0.1802833798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
-      "query_used": "halal restaurant london"
-    },
-    {
-      "place_id": "ChIJyQlPIyYFdkgRCxg-CkRGRto",
-      "name": "Shahs Halal Food Soho",
-      "category": "halal",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 628,
-      "formatted_address": "9 St Anne's Ct, London W1F 0BB, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.51431669999999,
-          "lng": -0.1340833
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51564477989273,
-            "lng": -0.1329590201072778
-          },
-          "southwest": {
-            "lat": 51.51294512010728,
-            "lng": -0.1356586798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
-      "query_used": "halal restaurant london"
-    },
-    {
-      "place_id": "ChIJo89fh5gbdkgR-R3hadciq8w",
-      "name": "Naroon Fitzrovia",
-      "category": "halal",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 3790,
-      "formatted_address": "65 Great Titchfield St., London W1W 7PS, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5188783,
-          "lng": -0.1408681
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52024657989272,
-            "lng": -0.1394548701072778
-          },
-          "southwest": {
-            "lat": 51.51754692010727,
-            "lng": -0.1421545298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
-      "query_used": "halal restaurant london"
-    },
-    {
-      "place_id": "ChIJEynsh7gddkgRfR_Tdf3cvhU",
-      "name": "PAR LONDON - PAK AL REYAN RESTAURANT",
-      "category": "halal",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 107,
-      "formatted_address": "57 Hoe St, London E17 4SA, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "store",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5876321,
-          "lng": -0.0206568
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.58900247989271,
-            "lng": -0.01931472010727778
-          },
-          "southwest": {
-            "lat": 51.58630282010727,
-            "lng": -0.02201437989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
-      "query_used": "halal restaurant london"
-    },
-    {
-      "place_id": "ChIJ2wsNyakddkgRnCzgzgPUtqI",
-      "name": "Babel Grill House",
-      "category": "halal",
-      "priority": "high",
-      "rating": 4.7,
-      "user_ratings_total": 1402,
-      "formatted_address": "40 Brick Ln, London E1 6RF, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "store",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.51828709999999,
-          "lng": -0.0711429
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51959977989272,
-            "lng": -0.06981242010727778
-          },
-          "southwest": {
-            "lat": 51.51690012010727,
-            "lng": -0.07251207989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
-      "query_used": "halal restaurant london"
-    },
-    {
-      "place_id": "ChIJF26DpCAPdkgRGNmblyelZus",
-      "name": "Halia Restaurant",
-      "category": "halal",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 245,
-      "formatted_address": "Grand Plaza, 42 Prince's Square, London W2 4AD, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5134608,
-          "lng": -0.1907627
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51476757989271,
-            "lng": -0.1894905201072778
-          },
-          "southwest": {
-            "lat": 51.51206792010727,
-            "lng": -0.1921901798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
+      "fetched_at": "2025-10-16T20:23:26.879Z",
       "query_used": "halal restaurant london"
     },
     {
@@ -352,8 +117,8 @@
         "night_club",
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -372,113 +137,378 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
+      "fetched_at": "2025-10-16T20:23:26.879Z",
       "query_used": "halal restaurant london"
     },
     {
-      "place_id": "ChIJzcgxvsocdkgRQcs3eKI7-vM",
-      "name": "Grounded London",
+      "place_id": "ChIJyQlPIyYFdkgRCxg-CkRGRto",
+      "name": "Shahs Halal Food Soho",
+      "category": "halal",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 633,
+      "formatted_address": "9 St Anne's Ct, London W1F 0BB, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51431669999999,
+          "lng": -0.1340833
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51564477989273,
+            "lng": -0.1329590201072778
+          },
+          "southwest": {
+            "lat": 51.51294512010728,
+            "lng": -0.1356586798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.879Z",
+      "query_used": "halal restaurant london"
+    },
+    {
+      "place_id": "ChIJBfx8uYoFdkgRvqs1Z89Bclk",
+      "name": "Meet Bros (by Me’nate x Jibby&co.)",
+      "category": "halal",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2705,
+      "formatted_address": "29-31 Craven Rd, London W2 3BX, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5136639,
+          "lng": -0.1788915
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51504302989272,
+            "lng": -0.1775837201072778
+          },
+          "southwest": {
+            "lat": 51.51234337010728,
+            "lng": -0.1802833798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.879Z",
+      "query_used": "halal restaurant london"
+    },
+    {
+      "place_id": "ChIJyXplTswEdkgR3Duw3R08uas",
+      "name": "Steak and Company - Covent Garden",
       "category": "halal",
       "priority": "high",
       "rating": 4.5,
-      "user_ratings_total": 3780,
-      "formatted_address": "9 Whitechapel Rd, London E1 1DU, United Kingdom",
+      "user_ratings_total": 3376,
+      "formatted_address": "4-6 Garrick St, London WC2E 9BH, United Kingdom",
       "types": [
-        "cafe",
-        "meal_takeaway",
         "restaurant",
-        "food",
         "point_of_interest",
-        "store",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5163842,
-          "lng": -0.0693367
+          "lat": 51.5115937,
+          "lng": -0.1258172
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51768927989272,
-            "lng": -0.06793257010727778
+            "lat": 51.51287977989273,
+            "lng": -0.1244316701072778
           },
           "southwest": {
-            "lat": 51.51498962010728,
-            "lng": -0.07063222989272222
+            "lat": 51.51018012010728,
+            "lng": -0.1271313298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
+      "fetched_at": "2025-10-16T20:23:26.879Z",
       "query_used": "halal restaurant london"
     },
     {
-      "place_id": "ChIJZWE0nCsFdkgRURzZERHYDtw",
-      "name": "Grilandia Mayfair",
+      "place_id": "ChIJnVf83AIbdkgR054D55weEBY",
+      "name": "Colonel Saab High Holborn",
       "category": "halal",
       "priority": "high",
-      "rating": 4.9,
-      "user_ratings_total": 573,
-      "formatted_address": "10 Grosvenor St, Greater, London W1K 4QB, United Kingdom",
+      "rating": 4.8,
+      "user_ratings_total": 5451,
+      "formatted_address": "193-197 High Holborn, London WC1V 7BD, United Kingdom",
       "types": [
+        "meal_takeaway",
+        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.51211379999999,
-          "lng": -0.1458047
+          "lat": 51.5169661,
+          "lng": -0.1226498
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51340787989272,
-            "lng": -0.1444267701072778
+            "lat": 51.51840762989271,
+            "lng": -0.1213763701072778
           },
           "southwest": {
-            "lat": 51.51070822010728,
-            "lng": -0.1471264298927222
+            "lat": 51.51570797010727,
+            "lng": -0.1240760298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
+      "fetched_at": "2025-10-16T20:23:26.879Z",
       "query_used": "halal restaurant london"
     },
     {
-      "place_id": "ChIJ4bViBUkbdkgRrOcolkOcafI",
-      "name": "Chamisse",
+      "place_id": "ChIJ1TCDwroEdkgRKSUDBysgs2U",
+      "name": "Souk",
       "category": "halal",
       "priority": "high",
-      "rating": 4.7,
-      "user_ratings_total": 1355,
-      "formatted_address": "55 Grays Inn Rd, London WC1X 8PP, United Kingdom",
+      "rating": 4,
+      "user_ratings_total": 1558,
+      "formatted_address": "27 Litchfield St, London WC2H 9NJ, United Kingdom",
       "types": [
-        "meal_takeaway",
+        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
-        "store",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5221772,
-          "lng": -0.1139637
+          "lat": 51.5128782,
+          "lng": -0.1283016
         },
         "viewport": {
           "northeast": {
-            "lat": 51.52353587989272,
-            "lng": -0.1125340201072778
+            "lat": 51.51417382989273,
+            "lng": -0.1269594201072778
           },
           "southwest": {
-            "lat": 51.52083622010728,
-            "lng": -0.1152336798927222
+            "lat": 51.51147417010728,
+            "lng": -0.1296590798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:57.925Z",
+      "fetched_at": "2025-10-16T20:23:26.879Z",
+      "query_used": "halal restaurant london"
+    },
+    {
+      "place_id": "ChIJV5Y3MKWn2EcRtsMIUFC5N-E",
+      "name": "Elvet Steakhouse London",
+      "category": "halal",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 4094,
+      "formatted_address": "392 Romford Rd, London E7 8DF, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5470809,
+          "lng": 0.0330535
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54848457989273,
+            "lng": 0.03439157989272221
+          },
+          "southwest": {
+            "lat": 51.54578492010728,
+            "lng": 0.03169192010727778
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.879Z",
+      "query_used": "halal restaurant london"
+    },
+    {
+      "place_id": "ChIJw-QrOnEbdkgRIGaV5scfUeQ",
+      "name": "Azura Restaurant & Bar",
+      "category": "halal",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1361,
+      "formatted_address": "265 Hampstead Rd, London NW1 7QX, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5342494,
+          "lng": -0.1394776
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53560342989272,
+            "lng": -0.1379782701072778
+          },
+          "southwest": {
+            "lat": 51.53290377010727,
+            "lng": -0.1406779298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.879Z",
+      "query_used": "halal restaurant london"
+    },
+    {
+      "place_id": "ChIJk383D9UEdkgReldnHq6ek84",
+      "name": "Le Bab",
+      "category": "halal",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2725,
+      "formatted_address": "Top Floor, Kingly Ct, Carnaby St, Carnaby, London W1B 5PW, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51266409999999,
+          "lng": -0.138753
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51373867989272,
+            "lng": -0.1371382701072778
+          },
+          "southwest": {
+            "lat": 51.51103902010728,
+            "lng": -0.1398379298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.879Z",
+      "query_used": "halal restaurant london"
+    },
+    {
+      "place_id": "ChIJo89fh5gbdkgR-R3hadciq8w",
+      "name": "Naroon Fitzrovia",
+      "category": "halal",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 3796,
+      "formatted_address": "65 Great Titchfield St., London W1W 7PS, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5188783,
+          "lng": -0.1408681
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52024657989272,
+            "lng": -0.1394548701072778
+          },
+          "southwest": {
+            "lat": 51.51754692010727,
+            "lng": -0.1421545298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.879Z",
+      "query_used": "halal restaurant london"
+    },
+    {
+      "place_id": "ChIJF26DpCAPdkgRGNmblyelZus",
+      "name": "Halia Restaurant",
+      "category": "halal",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 247,
+      "formatted_address": "Grand Plaza, 42 Prince's Square, London W2 4AD, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5134608,
+          "lng": -0.1907627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51476757989271,
+            "lng": -0.1894905201072778
+          },
+          "southwest": {
+            "lat": 51.51206792010727,
+            "lng": -0.1921901798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.879Z",
+      "query_used": "halal restaurant london"
+    },
+    {
+      "place_id": "ChIJM96KJuAEdkgRpVnz86I3DWg",
+      "name": "Cyprus Mangal",
+      "category": "halal",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 2191,
+      "formatted_address": "45 Warwick Wy, Pimlico, London SW1V 1QS, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4921245,
+          "lng": -0.1405825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49344497989271,
+            "lng": -0.1392154201072778
+          },
+          "southwest": {
+            "lat": 51.49074532010727,
+            "lng": -0.1419150798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:26.879Z",
       "query_used": "halal restaurant london"
     }
   ],
-  "fetched_at": "2025-10-15T10:52:57.925Z"
+  "fetched_at": "2025-10-16T20:23:26.879Z"
 }

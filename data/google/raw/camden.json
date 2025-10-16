@@ -1,316 +1,8 @@
 {
   "category": "camden",
   "query": "restaurant camden london",
-  "count": 15,
+  "count": 12,
   "results": [
-    {
-      "place_id": "ChIJZ1C6--8bdkgRsDL5_Nb3ZME",
-      "name": "LUMI Camden",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.7,
-      "user_ratings_total": 2009,
-      "formatted_address": "82 Camden High St, London NW1 0LT, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "store",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5367457,
-          "lng": -0.1404817
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53809292989272,
-            "lng": -0.1392000701072778
-          },
-          "southwest": {
-            "lat": 51.53539327010727,
-            "lng": -0.1418997298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJXUnCHeAadkgRYXm9TW4YKyQ",
-      "name": "The Blues Kitchen Camden",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.4,
-      "user_ratings_total": 7236,
-      "formatted_address": "111-113 Camden High St, London NW1 7JN, United Kingdom",
-      "types": [
-        "night_club",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.537087,
-          "lng": -0.1412168
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53846527989273,
-            "lng": -0.1398004201072778
-          },
-          "southwest": {
-            "lat": 51.53576562010728,
-            "lng": -0.1425000798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJ4yNHISAbdkgR5rd76VT1JVI",
-      "name": "Frida Camden",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.4,
-      "user_ratings_total": 947,
-      "formatted_address": "40 Camden High St, London NW1 0JH, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5356738,
-          "lng": -0.1393614
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53701167989271,
-            "lng": -0.1380377201072778
-          },
-          "southwest": {
-            "lat": 51.53431202010727,
-            "lng": -0.1407373798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJI99Jb-EadkgRgUmezihm2j4",
-      "name": "Mildreds Camden",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 3086,
-      "formatted_address": "9 Jamestown Rd, London NW1 7BW, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.54036,
-          "lng": -0.1449998
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.54177157989272,
-            "lng": -0.1436253701072778
-          },
-          "southwest": {
-            "lat": 51.53907192010728,
-            "lng": -0.1463250298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJra4hIyAbdkgRL1Hm68uICC0",
-      "name": "La Patagonia",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 1568,
-      "formatted_address": "31 Camden High St, London NW1 7JE, United Kingdom",
-      "types": [
-        "meal_takeaway",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5353496,
-          "lng": -0.1393882
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53672647989273,
-            "lng": -0.1379748201072778
-          },
-          "southwest": {
-            "lat": 51.53402682010728,
-            "lng": -0.1406744798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJjZ5F-eAadkgRPsytDcIWGmI",
-      "name": "Laz @Camden",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.4,
-      "user_ratings_total": 646,
-      "formatted_address": "41 Parkway, London NW1 7PN, United Kingdom",
-      "types": [
-        "meal_takeaway",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5381552,
-          "lng": -0.1442703
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53952922989272,
-            "lng": -0.1429652201072778
-          },
-          "southwest": {
-            "lat": 51.53682957010728,
-            "lng": -0.1456648798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJpeddjx8bdkgR0Dv14hyxzlw",
-      "name": "Alexander The Great Restaurant",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 2874,
-      "formatted_address": "8 Plender St, London NW1 0JT, United Kingdom",
-      "types": [
-        "meal_takeaway",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.53623450000001,
-          "lng": -0.138873
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53754142989273,
-            "lng": -0.1374778701072778
-          },
-          "southwest": {
-            "lat": 51.53484177010728,
-            "lng": -0.1401775298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJnUZ6DtMbdkgRz0VWMkvabBA",
-      "name": "Dez Amore • Camden Market The Stables",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.8,
-      "user_ratings_total": 315,
-      "formatted_address": "Arch 4, Italian Alley, Camden Stables Market, London NW1 8AH, United Kingdom",
-      "types": [
-        "meal_takeaway",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "store",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5418155,
-          "lng": -0.1465667
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.54321532989272,
-            "lng": -0.1449629201072778
-          },
-          "southwest": {
-            "lat": 51.54051567010728,
-            "lng": -0.1476625798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJU0K9V-cbdkgRi025AY6e8_c",
-      "name": "Three Uncles Camden",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 437,
-      "formatted_address": "2nd Floor, Hawley Wharf, Water Ln., London NW1 8AA, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5418542,
-          "lng": -0.144567
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.54328672989272,
-            "lng": -0.1427242701072778
-          },
-          "southwest": {
-            "lat": 51.54058707010727,
-            "lng": -0.1454239298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
     {
       "place_id": "ChIJRyzDxB8bdkgRSHoXhUaj5gk",
       "name": "Andy’s Greek Taverna",
@@ -323,8 +15,8 @@
         "meal_takeaway",
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -343,145 +35,42 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
+      "fetched_at": "2025-10-16T20:23:39.656Z",
       "query_used": "restaurant camden london"
     },
     {
-      "place_id": "ChIJMVHsLBwbdkgRMu6Y8cB8mLM",
-      "name": "Casa Tua Camden",
+      "place_id": "ChIJXUnCHeAadkgRYXm9TW4YKyQ",
+      "name": "The Blues Kitchen Camden",
       "category": "camden",
       "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 765,
-      "formatted_address": "176 Royal College St, London NW1 0SP, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5416604,
-          "lng": -0.1379849
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.54297832989272,
-            "lng": -0.1367291701072778
-          },
-          "southwest": {
-            "lat": 51.54027867010727,
-            "lng": -0.1394288298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJ-SYFw-AbdkgR5W7qjuOGFwI",
-      "name": "Bread Bite Camden",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.9,
-      "user_ratings_total": 111,
-      "formatted_address": "Unit 304, Camden Lock Market, London NW1 8AF, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5411853,
-          "lng": -0.1462467
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.54227237989272,
-            "lng": -0.1447469701072778
-          },
-          "southwest": {
-            "lat": 51.53957272010727,
-            "lng": -0.1474466298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJqw-TnsobdkgRily-oWWT9Ec",
-      "name": "Turtle Bay Camden",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.8,
-      "user_ratings_total": 4818,
-      "formatted_address": "10 Jamestown Rd, London NW1 7BY, United Kingdom",
+      "rating": 4.4,
+      "user_ratings_total": 7248,
+      "formatted_address": "111-113 Camden High St, London NW1 7JN, United Kingdom",
       "types": [
         "night_club",
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5405844,
-          "lng": -0.1453723
+          "lat": 51.537087,
+          "lng": -0.1412168
         },
         "viewport": {
           "northeast": {
-            "lat": 51.54184237989272,
-            "lng": -0.1439560701072778
+            "lat": 51.53846527989273,
+            "lng": -0.1398004201072778
           },
           "southwest": {
-            "lat": 51.53914272010728,
-            "lng": -0.1466557298927222
+            "lat": 51.53576562010728,
+            "lng": -0.1425000798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
-      "query_used": "restaurant camden london"
-    },
-    {
-      "place_id": "ChIJEyGW09wbdkgRsrpSD2wF5Lw",
-      "name": "The Lost Elephant's Kitchen",
-      "category": "camden",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 1094,
-      "formatted_address": "15 Chalk Farm Rd, London NW1 8AG, United Kingdom",
-      "types": [
-        "cafe",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "store",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5420986,
-          "lng": -0.1460815
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.54340997989272,
-            "lng": -0.1447887701072778
-          },
-          "southwest": {
-            "lat": 51.54071032010727,
-            "lng": -0.1474884298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
+      "fetched_at": "2025-10-16T20:23:39.656Z",
       "query_used": "restaurant camden london"
     },
     {
@@ -490,12 +79,12 @@
       "category": "camden",
       "priority": "medium",
       "rating": 4.5,
-      "user_ratings_total": 721,
+      "user_ratings_total": 722,
       "formatted_address": "1-3 Pratt St., London NW1 0AE, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -514,9 +103,314 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:12.645Z",
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJjZ5F-eAadkgRPsytDcIWGmI",
+      "name": "Laz @Camden",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 646,
+      "formatted_address": "41 Parkway, London NW1 7PN, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5381552,
+          "lng": -0.1442703
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53952922989272,
+            "lng": -0.1429652201072778
+          },
+          "southwest": {
+            "lat": 51.53682957010728,
+            "lng": -0.1456648798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJk5zXxB8bdkgRsM8AQ6244NE",
+      "name": "Daphne Restaurant",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 634,
+      "formatted_address": "83 Bayham St, Greater, London NW1 0AG, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5377298,
+          "lng": -0.1403803
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53912207989272,
+            "lng": -0.1389203701072778
+          },
+          "southwest": {
+            "lat": 51.53642242010728,
+            "lng": -0.1416200298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJra4hIyAbdkgRL1Hm68uICC0",
+      "name": "La Patagonia",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 1568,
+      "formatted_address": "31 Camden High St, London NW1 7JE, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5353496,
+          "lng": -0.1393882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53672647989273,
+            "lng": -0.1379748201072778
+          },
+          "southwest": {
+            "lat": 51.53402682010728,
+            "lng": -0.1406744798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJqw-TnsobdkgRily-oWWT9Ec",
+      "name": "Turtle Bay Camden",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 4817,
+      "formatted_address": "10 Jamestown Rd, London NW1 7BY, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5405844,
+          "lng": -0.1453723
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54184237989272,
+            "lng": -0.1439560701072778
+          },
+          "southwest": {
+            "lat": 51.53914272010728,
+            "lng": -0.1466557298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJKfBc--AadkgRbx6u6AtJIpM",
+      "name": "Jamon Jamon",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.1,
+      "user_ratings_total": 1136,
+      "formatted_address": "38 Parkway, London NW1 7AH, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.538329,
+          "lng": -0.144426
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53964562989272,
+            "lng": -0.1430042701072778
+          },
+          "southwest": {
+            "lat": 51.53694597010728,
+            "lng": -0.1457039298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJbatx-eAadkgR_WDnjsJLiQk",
+      "name": "Purezza Camden",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 6952,
+      "formatted_address": "45-47 Parkway, London NW1 7PN, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5380834,
+          "lng": -0.1443914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53942642989271,
+            "lng": -0.1430274701072778
+          },
+          "southwest": {
+            "lat": 51.53672677010727,
+            "lng": -0.1457271298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJ4yNHISAbdkgR5rd76VT1JVI",
+      "name": "Frida Camden",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 947,
+      "formatted_address": "40 Camden High St, London NW1 0JH, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5356738,
+          "lng": -0.1393614
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53701167989271,
+            "lng": -0.1380377201072778
+          },
+          "southwest": {
+            "lat": 51.53431202010727,
+            "lng": -0.1407373798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJkzzMOyAbdkgRQPthSECPqTc",
+      "name": "Band of Burgers, Camden",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 1490,
+      "formatted_address": "23 Camden High St, London NW1 7JE, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.53517220000001,
+          "lng": -0.1393056
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53654717989271,
+            "lng": -0.1378583701072778
+          },
+          "southwest": {
+            "lat": 51.53384752010727,
+            "lng": -0.1405580298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
+      "query_used": "restaurant camden london"
+    },
+    {
+      "place_id": "ChIJPaw3oeEadkgRVI2ksQdQ3X4",
+      "name": "Made in Brasil",
+      "category": "camden",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 2071,
+      "formatted_address": "12 Inverness St, London NW1 7HJ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5396268,
+          "lng": -0.1440187
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54099612989272,
+            "lng": -0.1423132701072778
+          },
+          "southwest": {
+            "lat": 51.53829647010728,
+            "lng": -0.1450129298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:39.656Z",
       "query_used": "restaurant camden london"
     }
   ],
-  "fetched_at": "2025-10-15T10:53:12.645Z"
+  "fetched_at": "2025-10-16T20:23:39.656Z"
 }

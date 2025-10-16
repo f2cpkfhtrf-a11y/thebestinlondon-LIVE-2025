@@ -1,74 +1,8 @@
 {
   "category": "chelsea",
   "query": "restaurant chelsea london",
-  "count": 13,
+  "count": 14,
   "results": [
-    {
-      "place_id": "ChIJXcPZYWsFdkgRsWEe71cturU",
-      "name": "Rabbit British Bistro",
-      "category": "chelsea",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 2462,
-      "formatted_address": "172 King's Rd, London SW3 4UP, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4887032,
-          "lng": -0.1660769
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.49000317989272,
-            "lng": -0.1646770701072778
-          },
-          "southwest": {
-            "lat": 51.48730352010728,
-            "lng": -0.1673767298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
-      "query_used": "restaurant chelsea london"
-    },
-    {
-      "place_id": "ChIJJ-MhPWwFdkgRKVwtA039nU0",
-      "name": "The Ivy Chelsea Garden",
-      "category": "chelsea",
-      "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 6305,
-      "formatted_address": "197 King's Rd, London SW3 5EQ, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4869913,
-          "lng": -0.1693306
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.48842977989273,
-            "lng": -0.1680495201072778
-          },
-          "southwest": {
-            "lat": 51.48573012010728,
-            "lng": -0.1707491798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
-      "query_used": "restaurant chelsea london"
-    },
     {
       "place_id": "ChIJuW4AjG8FdkgRDb_vqbTS508",
       "name": "Bluebird Chelsea",
@@ -82,8 +16,8 @@
         "night_club",
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -102,176 +36,140 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
+      "fetched_at": "2025-10-16T20:23:37.292Z",
       "query_used": "restaurant chelsea london"
     },
     {
-      "place_id": "ChIJ66HKJ8QFdkgRoWrsa8akEZc",
-      "name": "The Cadogan Arms",
+      "place_id": "ChIJXcPZYWsFdkgRsWEe71cturU",
+      "name": "Rabbit British Bistro",
       "category": "chelsea",
       "priority": "high",
       "rating": 4.6,
-      "user_ratings_total": 1704,
-      "formatted_address": "298 King's Rd, London SW3 5UG, United Kingdom",
+      "user_ratings_total": 2465,
+      "formatted_address": "172 King's Rd, London SW3 4UP, United Kingdom",
       "types": [
-        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.4859959,
-          "lng": -0.1729423
+          "lat": 51.4887032,
+          "lng": -0.1660769
         },
         "viewport": {
           "northeast": {
-            "lat": 51.48730132989272,
-            "lng": -0.1715075701072778
+            "lat": 51.49000317989272,
+            "lng": -0.1646770701072778
           },
           "southwest": {
-            "lat": 51.48460167010727,
-            "lng": -0.1742072298927222
+            "lat": 51.48730352010728,
+            "lng": -0.1673767298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
+      "fetched_at": "2025-10-16T20:23:37.292Z",
       "query_used": "restaurant chelsea london"
     },
     {
-      "place_id": "ChIJlRcZynoFdkgR0we2mTUEuTs",
-      "name": "Medlar",
-      "category": "chelsea",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 677,
-      "formatted_address": "438 King's Rd, London SW10 0LH, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4831008,
-          "lng": -0.1776936
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.48441277989273,
-            "lng": -0.1763178201072778
-          },
-          "southwest": {
-            "lat": 51.48171312010728,
-            "lng": -0.1790174798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
-      "query_used": "restaurant chelsea london"
-    },
-    {
-      "place_id": "ChIJCVdqxMAFdkgRYpy56gR6GCk",
-      "name": "Three Darlings",
-      "category": "chelsea",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 122,
-      "formatted_address": "241B Pavilion Rd, London SW1X 0BP, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4937097,
-          "lng": -0.1584574
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.49503882989272,
-            "lng": -0.1572666201072778
-          },
-          "southwest": {
-            "lat": 51.49233917010727,
-            "lng": -0.1599662798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
-      "query_used": "restaurant chelsea london"
-    },
-    {
-      "place_id": "ChIJ5YAiW2UFdkgRxAuqGLK1fTo",
-      "name": "Beaufort House Chelsea",
-      "category": "chelsea",
-      "priority": "high",
-      "rating": 4.2,
-      "user_ratings_total": 842,
-      "formatted_address": "354 King's Rd, London SW3 5UZ, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.484533,
-          "lng": -0.176005
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.48586837989272,
-            "lng": -0.1745443201072778
-          },
-          "southwest": {
-            "lat": 51.48316872010728,
-            "lng": -0.1772439798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
-      "query_used": "restaurant chelsea london"
-    },
-    {
-      "place_id": "ChIJgW0B060FdkgRNOVOkEGQfxw",
-      "name": "BÓHA LONDON",
+      "place_id": "ChIJJ-MhPWwFdkgRKVwtA039nU0",
+      "name": "The Ivy Chelsea Garden",
       "category": "chelsea",
       "priority": "high",
       "rating": 4.3,
-      "user_ratings_total": 435,
-      "formatted_address": "562 King's Rd, London SW6 2DZ, United Kingdom",
+      "user_ratings_total": 6311,
+      "formatted_address": "197 King's Rd, London SW3 5EQ, United Kingdom",
       "types": [
-        "night_club",
-        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.4793442,
-          "lng": -0.1876141
+          "lat": 51.4869913,
+          "lng": -0.1693306
         },
         "viewport": {
           "northeast": {
-            "lat": 51.48066627989272,
-            "lng": -0.1862277201072778
+            "lat": 51.48842977989273,
+            "lng": -0.1680495201072778
           },
           "southwest": {
-            "lat": 51.47796662010727,
-            "lng": -0.1889273798927222
+            "lat": 51.48573012010728,
+            "lng": -0.1707491798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJwx_Hci0FdkgRgxwdoexS6ec",
+      "name": "La Mia Mamma King's Road",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1683,
+      "formatted_address": "257 King's Rd, London SW3 5EL, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.48606410000001,
+          "lng": -0.1721451
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48743037989271,
+            "lng": -0.1708163701072778
+          },
+          "southwest": {
+            "lat": 51.48473072010727,
+            "lng": -0.1735160298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJk8O_eJkFdkgRxU8DHQTBC8Q",
+      "name": "The Chelsea Corner",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 827,
+      "formatted_address": "451 Fulham Rd., London SW10 9UZ, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4831559,
+          "lng": -0.1854555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48454917989272,
+            "lng": -0.1841103201072778
+          },
+          "southwest": {
+            "lat": 51.48184952010727,
+            "lng": -0.1868099798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
       "query_used": "restaurant chelsea london"
     },
     {
@@ -285,8 +183,8 @@
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -305,107 +203,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
-      "query_used": "restaurant chelsea london"
-    },
-    {
-      "place_id": "ChIJK7aYUOsFdkgRKgJYM07RLuw",
-      "name": "Stanley's Chelsea",
-      "category": "chelsea",
-      "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 274,
-      "formatted_address": "151 Sydney St, London SW3 5UE, United Kingdom",
-      "types": [
-        "restaurant",
-        "bar",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.48757519999999,
-          "lng": -0.1692573
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.48900327989271,
-            "lng": -0.1677277201072778
-          },
-          "southwest": {
-            "lat": 51.48630362010727,
-            "lng": -0.1704273798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
-      "query_used": "restaurant chelsea london"
-    },
-    {
-      "place_id": "ChIJnaPBAT4FdkgRaNTHwWGWYYA",
-      "name": "Granger & Co. Chelsea",
-      "category": "chelsea",
-      "priority": "high",
-      "rating": 4.2,
-      "user_ratings_total": 2308,
-      "formatted_address": "237-239 Pavilion Rd, London SW1X 0BP, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4937491,
-          "lng": -0.1587577
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.49511487989272,
-            "lng": -0.1574100701072778
-          },
-          "southwest": {
-            "lat": 51.49241522010728,
-            "lng": -0.1601097298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
-      "query_used": "restaurant chelsea london"
-    },
-    {
-      "place_id": "ChIJySy3o2MFdkgRrkVexMIkbzk",
-      "name": "The Ivy Asia Chelsea",
-      "category": "chelsea",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 1926,
-      "formatted_address": "201, 203A King's Rd, London SW3 5ED, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4869652,
-          "lng": -0.1696046
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.48838212989272,
-            "lng": -0.1682761201072778
-          },
-          "southwest": {
-            "lat": 51.48568247010728,
-            "lng": -0.1709757798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
+      "fetched_at": "2025-10-16T20:23:37.292Z",
       "query_used": "restaurant chelsea london"
     },
     {
@@ -419,8 +217,8 @@
       "types": [
         "restaurant",
         "bar",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -439,9 +237,242 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:10.078Z",
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJnaPBAT4FdkgRaNTHwWGWYYA",
+      "name": "Granger & Co. Chelsea",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.2,
+      "user_ratings_total": 2314,
+      "formatted_address": "237-239 Pavilion Rd, London SW1X 0BP, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4937491,
+          "lng": -0.1587577
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49511487989272,
+            "lng": -0.1574100701072778
+          },
+          "southwest": {
+            "lat": 51.49241522010728,
+            "lng": -0.1601097298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJySy3o2MFdkgRrkVexMIkbzk",
+      "name": "The Ivy Asia Chelsea",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 1925,
+      "formatted_address": "201, 203A King's Rd, London SW3 5ED, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4869652,
+          "lng": -0.1696046
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48838212989272,
+            "lng": -0.1682761201072778
+          },
+          "southwest": {
+            "lat": 51.48568247010728,
+            "lng": -0.1709757798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJK7aYUOsFdkgRKgJYM07RLuw",
+      "name": "Stanley's Chelsea",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 274,
+      "formatted_address": "151 Sydney St, London SW3 5UE, United Kingdom",
+      "types": [
+        "restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.48757519999999,
+          "lng": -0.1692573
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48900327989271,
+            "lng": -0.1677277201072778
+          },
+          "southwest": {
+            "lat": 51.48630362010727,
+            "lng": -0.1704273798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJz6D4H70FdkgRwmpVyOnTXqU",
+      "name": "Mucci's",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 2212,
+      "formatted_address": "442 King's Rd, London SW10 0LQ, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4829896,
+          "lng": -0.1781273
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48427412989273,
+            "lng": -0.1766994201072778
+          },
+          "southwest": {
+            "lat": 51.48157447010728,
+            "lng": -0.1793990798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJ66HKJ8QFdkgRoWrsa8akEZc",
+      "name": "The Cadogan Arms",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1704,
+      "formatted_address": "298 King's Rd, London SW3 5UG, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4859959,
+          "lng": -0.1729423
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48730132989272,
+            "lng": -0.1715075701072778
+          },
+          "southwest": {
+            "lat": 51.48460167010727,
+            "lng": -0.1742072298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJHbgcPVQFdkgRD_VwKVHz5WU",
+      "name": "Baba Restaurant Chelsea",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 265,
+      "formatted_address": "212 Fulham Rd., London SW10 9PJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4856878,
+          "lng": -0.1816679
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48699602989272,
+            "lng": -0.1802472701072778
+          },
+          "southwest": {
+            "lat": 51.48429637010728,
+            "lng": -0.1829469298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
+      "query_used": "restaurant chelsea london"
+    },
+    {
+      "place_id": "ChIJmSI9UdcFdkgRSbOLWv-dTSo",
+      "name": "Bottarga",
+      "category": "chelsea",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 403,
+      "formatted_address": "383 King's Rd, London SW10 0LP, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4833969,
+          "lng": -0.1765442
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48474762989272,
+            "lng": -0.1752540201072778
+          },
+          "southwest": {
+            "lat": 51.48204797010728,
+            "lng": -0.1779536798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:37.292Z",
       "query_used": "restaurant chelsea london"
     }
   ],
-  "fetched_at": "2025-10-15T10:53:10.078Z"
+  "fetched_at": "2025-10-16T20:23:37.292Z"
 }

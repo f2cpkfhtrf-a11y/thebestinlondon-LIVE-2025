@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJ1-ByNTkbdkgRwi6Z6EHwE_c",
+  "name": "Cavita",
+  "formatted_address": "56-60 Wigmore St, London W1U 2RZ, UK",
+  "vicinity": "56-60 Wigmore St, London",
+  "rating": 4.3,
+  "user_ratings_total": 788,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5163825,
+      "lng": -0.1495688
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51766538029149,
+        "lng": -0.148195219708498
+      },
+      "southwest": {
+        "lat": 51.51496741970849,
+        "lng": -0.150893180291502
+      }
+    }
+  },
+  "lat": 51.5163825,
+  "lng": -0.1495688,
+  "formatted_phone_number": "020 3928 1000",
+  "international_phone_number": "+44 20 3928 1000",
+  "website": "http://www.cavitarestaurant.com/",
+  "url": "https://maps.google.com/?cid=17803837917791596226",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 3:30 PM, 5:00 – 11:30 PM",
+      "Wednesday: 12:00 – 3:30 PM, 5:00 – 11:30 PM",
+      "Thursday: 12:00 – 3:30 PM, 5:00 – 11:30 PM",
+      "Friday: 12:00 – 3:30 PM, 5:00 – 11:30 PM",
+      "Saturday: 11:30 AM – 3:30 PM, 5:00 – 11:30 PM",
+      "Sunday: 11:30 AM – 3:30 PM, 5:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dkax1csoWMJf-tsOKpiFlteMGF-XYFjrLkopPq8KIvpyfvKYcgsE4KFzR71BQnoBYHcBQKWrzeDchyIhXCsNAqvK7XtmeQbAyGmg0u7DOCDhKjLMNojqm4tHSav2TgBupnTCF4PQW_74I9D4wTIk4OzZYodqejuH0Fqlq5ztDCFalCyDUy9p7G1kUvbWhUJJ6O8rNnQjGolbQtBaRCNKsBQqKvEMAaVri_SjLW2UW9Dtl7h8ooK--TIS7UsO7Eg7Smhjqd9jXIAKrAT_A4VQ2JeslJsOO1S1ymRsMHwmndyg",
+      "width": 4415,
+      "height": 2943,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107484076215614209799\">Cavita Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_dW_SIqyxT37Lu4mKdOrbHIvQS_gF671DYeI7sEu7U64mHCxcsOE6_FmTi-BCGQG-nQR93WH96LNFvuCjyq_KhTtM-5Qjw0HSVq5zHOmcQMi1uBX0a7GrSUP_lSg89cfNf7FqUabniVCFBqpNPcSUMAOVL4164f0W0HblLa_BtD3xLCcgyZZJ3TTWfh3U05k6B80ZAuniwyGjdey2SaOTEShnNTPybb0cdIzOq5-tSaPyfFpzEXjgoGb6K2SNOHQUlnpcTsLFWvIxTmAG_zciyy6VHT8fQ3tUkRhqAR_w5Q",
+      "width": 3239,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107484076215614209799\">Cavita Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eSchiYSn3nYK3U1P-xDhCWcF9tFdeN_fdEm0qyHSEX-1MISkOopAUT_k8KCMgFG7Sm7H-sZ9XIuFTBoVAkLZLYVDh4goWIdHYUG_h5mlzaT4ROTMrYmQMyNP5eX8ucyxfE_bolLRncnlDbM3zXlvz106PWLSeISmz6ZVl2vwgH-0JBhRzNjkMbX8L_UV4nnX1fLsBPiYcqWgSMFZptxM48J7bbkoF9MIZQnFZ8LbaRTuC7etV9Gk5kcEY0xp3DSrxcYUGItwOhnxyEB0-JFejuA7aFc32sBz8btvhRs_mRntAbmgvfO-z8ByFGxvg66UAthLAivH8MKT024VCIFwnuAZTGaOVK2Pmx1iSvmtMknm1cUtzT80zNQvzFdXzNAywwwUTMUQ285wbQleAWGYilzorphQWmOk4sF9moFr8YZTU",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104539527001352025329\">Daria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dxYDUVDsveTjjKznufxBcy1iBmvTY4hKVyCbO8iF1mknaRJQaLPpVqmPGTC_e0zwPs0xl3c8YMEMougxsWkXrG7uAgKA99uCRqsF7pub6lwtbfpRmGzjfuaU-4M5ri81JhGvIOrtQGy3jYhoIhQQcXpU7OBwr3388Sd0M8LSenA5Ma1J-MHTq5tWCOAFWAFGyi_BB4384JgsipcpjgSk6CNw8yfSET_qMPqZIHQAEz2in-cvO5NDRRek6XtLj-sZH3c3Rwd2xP7i5PVcmZ6cPSjfJYu5Cz5l7XrgQ-GwLD8OshkJw9dG1LOuUMrDJ5AwMBC2-GUQD1AGGTYrcNSLCbQoIyF_SV_rXS7xJ1O4zucmzA13ErS4lb95zpOXWneMmzbcTvNYiPIwHQ_X5ZkfNBGJTq4caXRL8q1Qj36N54teOt9YmcdXmEzTcpskMI",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102968298498988102429\">Uriel Contreras</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fWSbjOnDOR023FLmoud4K3amdgUNbD6Jy54ULVhu-StlSUL_sX1-4W2odqG73v0dPT3kUoX3JTsDuh6_cJDGpgVcdfQpW5ma6OECmcMJeo4JsBXOh7bk2i_Xp0LC_8Y-Mrxxauvau09og7SGHoGkoxECtJWXOndwP6g-Nmms3ZT7aTATNlAIM-ACBwi4bvtaPACgvg1F72mWCKc_q-J7PGZN71wBe7lb05eW59d-IAsnm0eM-z3M1SSgRAn842tWkaSxk8lTG85Kfm-jTkC5ya0wW1U-CnI-Lo3AXWFOyFzH1dcoDXEs66Exwb8MaWElVPTopRavBnc0Q0nIx2AtD_jV5wpM9J511ksTGLgqcN-62hlVja2bffn9ZFcymv938g9CrjEAfGWdXRsCTsLq8wk-aqIkNkxjEVr_lKZ1dl5EGZYxC2mOTKnv9-iVO4",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100380585909671646203\">Cherie Tourie</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dx3RZd90gwAx7vvxELwzC7KDHB7w_TLld9w_0GzPeM3P5TKleBlPBpIg4lWIzSF3oNFi3KKSe4oIXUfsCKZaOjaAQpDz84laTlrm1XBeyridhmcS6gRBV08E2UqR418upJWIwK8h2CNM6IyauFa2jU11Wj_GOCtNJq1oa5te5_rYwfBEWP54HPTxtzkl_tAqN5QX4pS8NcbUs8UxtNJJASmQWsKWwh4j55UHYLHAAlL-kF-CSCDsksDG9OczaaZWXB1eHshW_HOP3-cv-F30XFnZyxZAPDccSmNT-XHZ_3-klWvJk5jIe6GFsbthqYGAJ_nIOPuQd_j_x1XJCDu53pfgmMi_Kh0m1Bk2YX2ADkkVWFVLr_cRC_reAVruNecfsi6Ob-y20yLkKH8nP4UTv0G8mAmHIGWSCS1Dt3ARgjpA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117906504105268299696\">Elaine C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4OVdTWNO8sy4uW_a2kA3vq4ClsrX1uEz_o-hOrXSvTzRDQBBB7gIOMdWj0udmMh2tcgqHCf_Jw_xZEkRbJIIXHCo_MxJlJr65HXAiSwSdWxazGxkOG0U_W0pGcboFxCSMfXEQ-dZL9YPg-wTDcNKcBkZi4zBecqay0ULOsWClHTINQpZjJyWHY5-OwrC26Y352mEYnlVvrBHd6L9tfbvFWlWmRP7EcopKRE5bF1eAJ4SZ1KaqlW-vw63J1_4nvmIbeBwoX2HacfPJxtVf9WWIjixyDHJRKvwom9fdiKzZAASyRUW96cwzDEzlf8ez8XR7kJ5ygJY5E0qXimxvkI17YEOtZ-igfSZ88T5tAqoD6praCEzcbKHYN8ZmNzxkKXWPbttVg5HZDT5kLHKOFm0CXdl705vmH2LXShAZWVix-Eyjo-bASW4vTiAZinM9",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100380585909671646203\">Cherie Tourie</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2epQ_zeC5xWaOKSNcfRkM1o-v4bBWj7EvJLIKYXnjGrXEk-8cH87AxAGG8vY7ObQboFV8Ixs2dut_pVQ-4Ihag_bg_H2qdb12tbZOe4wXSUZwZ-hGaR1MY7AWvN5IhqO3OSFedNPJfIeaicwPjeMNPEObhvvSrTCbBlKSNAvDY1vc1o_w4q3GAaiSdUVGBR3_yG5yGMMpMzyyq6i8rqoC91HT5JK-8EkT5z4rT7hYC_JRL4t3zShJ6O_Mm5ktGUA5aLcun8DgoddoRqCVwzxj5v16gY30NPwovjxsMRFqBR6g",
+      "width": 4414,
+      "height": 2944,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107484076215614209799\">Cavita Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cSUmz3kgJjCk0SsZcH_DP7LXZvm59Gx9v_0A71TZumfGFBw6xvatnlBhimYzNcaXbs7WZpHwpnIf-cLuT9lVv79snmXrLDIQ4B_vPuV3y6RUIdxCJy6CcBT0G7XfCmzNNRRPpg3QF4cVD9C7gg2aIPmvmzeLoufzNJbox3HbqcXsrlTwBzGU3UCo9zHKdhPnHGovqlIn6_Iln68agVFiVlRzQFdiuBCl2_Nx7SXpRC5w5h8UUtQYmb9mKM8w8jDFFgA0FIbY5gJ5-PkNciXuJ-0kl4FLv9dsddaRKjfaAfiZSbNbpZvmRKPVSvsuWgONpO8Whww35rGGXfsWFIX1ROgi4N-_f_6_VoUAFEvbK3GfXNOwU0odwg0EOz6O7FXzkHC7onXEIe6dNIQV_UPNtLxGprtrVZPxe7IALWynbkdQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104129877099548361895\">Rebeca Durán</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c0U_sPNgGSQQIBDi0Apcdz9rTMsPm0cLYphfcbjX2vOessKBMQFJhxp8n7xwXCAkU2LUcM70LoFdS1NqTHt7dc-nwDMU0oF0IkXPlgalsVooih0D_5Ic7l4cbE7mtHkSkbY55QDylE4UiZ9AHmPAUUNLOLhFnaS7c36X6-1BJ_IFqm4Z0o0o2xkZmYXBefOHYMFPNK_-LCFsM3-Y7dsdFIgLdALtC_pxfx4vxDeLkcAQyVfD6DPU_LCJoQrJcFatEZ8iZkDTAMR-cAZJfmdtvclY6iahIHDBrle5IYummmFS3IwGlLwHY5Zj2c4CYppZ2qO04chDQQJcLdHtklOfy_VECBRumdZQZC9WPNZlzaKLZd8OiNuyPUaiWetxvVMrV42sYTxwZQsELp8ubt8Cgn2OEVN9IVi8BANiQY6L0AAH0",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111798790185970168010\">Connie Richardson</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Graphic Kitchen",
+      "rating": 5,
+      "text": "A True Taste of Mexico in the Heart of London – CAVITA\n\nAfter visiting Tulum, I’ve been searching for a restaurant that could take me back to that same authentic Mexican warmth and flavour — and my search was finally over when I discovered CAVITA.\n\nFrom the moment you step inside, you’re transported straight to Mexico. The interiors are earthy, vibrant, and full of soul — just like the food. My wife and I had the most incredible experience here, guided by the wonderful team and the energy of the restaurant.\n\nWe quite literally tried everything! From the tostadas and small plates to the grilled prawns, skewers, and the catch of the day — every dish was bursting with layered flavours and authenticity. The desserts? Simply divine. Every bite felt like a journey through Mexico’s regions, just as the restaurant’s concept promises.\n\nAnd to top it all off, we had the pleasure of meeting Chef Adriana Cavita herself — her passion for Mexican heritage and culinary craft shines through in every detail.\n\nIf you want real Mexican food, cooked the way Mexicans eat it, this is an absolute must-try. The margaritas are exceptional, the atmosphere is electric, and the food is nothing short of extraordinary.\n\n¡Viva CAVITA! 🇲🇽✨",
+      "time": 1760162864,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Psipsina Corelli",
+      "rating": 4,
+      "text": "We very much enjoyed our experience at Cavita.  I am not sure why, but good Mexican food seems harder and harder to find in London; for me, this has been the best Mexican meal I have had in the UK in the last few years.  The decor is beautiful and the staff extremely friendly and efficient.  The fact that they are dog-friendly makes us like them even more.  We certainly intend to return, especially as, since our first visit to Cavita, we have spent two weeks eating our way around Mexico.  It will be interesting to compare for authenticity and taste of course.  Having said that, while we were in Oaxaca (capital of more modern/pared down Mexican food, in the style of Cavita), I remember thinking that the meal at Cavita was comparable in both taste and presentation.",
+      "time": 1755805588,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Cherie Tourie",
+      "rating": 5,
+      "text": "Wow… just wow! Dining at Cavita was an unforgettable experience. From the moment we stepped in, we were swept away by the vibrant yet elegant atmosphere. The restaurant’s setup is both stylish and inviting, blending authentic Mexican charm with a modern twist — a true feast for the senses before the food even arrives.\n\nNow, the food… where do I even begin? Every bite was bursting with flavor — bold, refined, and deeply satisfying. You can feel the passion behind each dish. The ingredients were fresh and the presentation was stunning,\n\nAnd the cocktails! Creative, perfectly balanced, and crafted with care. They complemented the meal beautifully and added another layer of delight to the whole evening.\n\nA very special thank you to Daniel, who greeted us so warmly at the door and made us feel instantly at home. And a heartfelt thank you to Stephanie, whose kind presence, attentiveness, and knowledge added so much joy to our meal. Their combined hospitality truly made this experience extraordinary.\n\nCavita is not just a restaurant — it’s an experience. One I will definitely return to, and one I can’t recommend highly enough. Bravo!\n\nThe pictures are truly self-explanatory — no filter needed when the food looks and tastes this good!",
+      "time": 1749737303,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Paisley Dodds",
+      "rating": 2,
+      "text": "Really, really disappointing and insanely expensive - more than 200 pounds for two people, and for Mexican food! My husband booked this place for my birthday dinner. What a let-down. The hostess was apathetic and unfriendly. Cocktails were overly filled with giant ice cubes. And the Romanian waiter - who was nice enough - knew absolutely nothing about Mexican food or the menu. Part of paying a bit more for good Mexican food should also include wait staff who are knowledgeable and passionate about the region and the food. That was not the case. And even though we both made it clear that this was my birthday dinner - there was no candle or anything when the dessert arrived. That would have salvaged an overall underwhelming and sterile experience (which Mexican food should never be!). The ceviche was fine as was the fish we shared as a main. The dessert - a corn cake - looked promising but tasted more like coconut than corn. I would have been happier with street tacos pretty much anywhere else. Will not be returning.",
+      "time": 1752054588,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Dipti Papasavva",
+      "rating": 5,
+      "text": "Hubby took me to Cavita for my birthday treat and what a treat it was!! The atmosphere is great, the decor is beautiful and the service was fantastic! Michaela was attentive, suggested great recommendations and had a great sense of humour. The food was delicious, a burst of tastes in your mouth, just amazing! We are far too much! The cocktails and mocktails were really good and the chocolate mousse was divine! A tad expensive for Mexican but then again you’re in central london so expected. I would highly recommend!",
+      "time": 1752495584,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:52.741Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-ByNTkbdkgRwi6Z6EHwE_c"
+}

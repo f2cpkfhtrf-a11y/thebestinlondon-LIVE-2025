@@ -1,0 +1,283 @@
+{
+  "place_id": "ChIJtUWINwAddkgRZpNHXJfDHaE",
+  "name": "Miga",
+  "formatted_address": "1 Mare St, London E8 4RP, UK",
+  "vicinity": "1 Mare St, London",
+  "rating": 4.6,
+  "user_ratings_total": 472,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5345336,
+      "lng": -0.0576598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.53588403029149,
+        "lng": -0.05611601970849796
+      },
+      "southwest": {
+        "lat": 51.53318606970849,
+        "lng": -0.05881398029150203
+      }
+    }
+  },
+  "lat": 51.5345336,
+  "lng": -0.0576598,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "http://instagram.com/miga.restaurant",
+  "url": "https://maps.google.com/?cid=11609650469286679398",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 10:30 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:30 – 11:00 PM",
+      "Sunday: 12:00 – 3:00 PM, 5:30 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eQU0Ozat_OV4rWFGX3eeGXBz3F45NuYwn5tmcNQZQKMQE83J82nNiMw3qJ7LGyBcLJDI4JOWDywWleLv2frnVbhkNoIGnc-0oN4G33viwl5sozvEAC4UEsjgfD663JVlRSVsk7byqpJYXgYQOSR3okwSK0n6ReIu-fnuScdtfib964lLvF10U_6qhrkcKTBUAS74SzH0nPKOseSwXUdD0tIf-oqmJ3pyITj5Ylo9Y1lW1NxZn8HHni8KSMgJckAdEFkGBzBrIOja4eH5qbN20IEh7eLfYQv0tO1sf7RDp9VXNAZBJYccC51RzZciBj_gmsW2zLrvus_bfoZ-J-aSEecYLRZ82mP0ZfVgs4RE3xk4r7eIdwBBFsNlF038yNLnlyczSovzrMscHVyH9HLrYFj3wk3NyLIJ-gAIgI-HC7BA",
+      "width": 3638,
+      "height": 3924,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104665165906769108053\">Christopher Thomas</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cbFXdBspgkNK8Ton-Afz7rDMPJfxmciQj970xoA56meC5PrDcjgNVI3T14H0KQMlcBR4B83dv5rHYJxGG8ruQ9ElloHGbZeineJ_Aj7ZYcay4-D1xwBFcL-ExYScb8PIHPhBpyr4eLJhJQlmar0I7727aaqQ0V32rHW8SaIpX7SfbbpkExIjfbFvTFGhXP9Kuz3w5r_SStEuXydqyephcOy3u6iDnwQLwmsWVx1qqUV_NCI02MEMBbbnNb0RN67nU4smw-AIBTh8sZKQchWw-IY_FMndYViYMffPXS0WAm-NVRKEMucVtxINK0Cp0NLFdjhzM8q75UAyX2oESvwe1IItclg05Zx3Ofv2zXc501nL5OEz7FIr9TW5tegS84o4AJv_bi3oTNNosFtnZ5Codre7YljL2P2tuhHBL3RYyzuwmWgVQ2IEGFUUmEm9ny",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108325571574048256303\">Sonia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d-DtCJ4VW9E_4OYDMsXkI4zcV3QMYGhC6VNX3tvA5IWc9yz_9nEl1-5l0cOrfUkNzXt5KngrhNnXl1Kf3_6pEtwkl13TuD4gKmONgDQ_OnG7OA_l53BCpYJbwaQW_MbPPghgoVvIxsYu6qFTMud-CLsbYEEqt1ADWAFjlig_tk0IVahlyuU5Gma8U85ggPerc-DhemxIxrGWl6aOF9TgmFaz9_HqXSWHySzF9__VhIk5UIAa4XKlib8ygvfyTUH7Cq1WNzuYxrqIgGXV8cH6TMmIP82giHBLNcIZQRH-pqj6VqD0HpTbBI2f2nxY-rW6CrkDX-Q141aaQV_Z-O2QFvzkUy9bhrBdYaL0JaxJuskQglOtpfOV34YjzBnOaqIG2-nfjoM8QJf8xK7iwSsgpeJ5N08TpgrDvn-XffsYxl6Z_e",
+      "width": 3024,
+      "height": 2710,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104665165906769108053\">Christopher Thomas</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e8hKg8dlQL1z2Ow7k6k4eZ-wysXy382p3lfV0M_T97QWpgbNPy1u4qvsOkhgXTx9fLphGbGAwofP8X_AbloJFIplPGXpIq6HLzlW2sSvWo24orKJ9tQIeHD8K2Opob-qZc_wAw425XvyDOF1lpApFrLMIJrg_jHkgDZi-AgfdZM-uVUm-iBd2iGz-zNbovmzY6jILQvaroaIO1-UDYktdG9foeMtP0PjqnKNHe39dRYwZZXdXrhp0p6qUEyLBF5q7C-EfzOVZ0F8l_rVITegt902MXHKoLin2u21pq2OkwC34eo3Wrx2TfzJnTs-ggNAGuP3cCkYwdUIYDU56uSWffUwI034VxBi2TR2h30szF3FpWENB7gUZ4liJlk9OkBmBcNw2mHctSTeLbl_J9fEMVMQbdAOr-J_mhDRvsRgZpVbFJ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117854902502814229509\">Gerry Tang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d3wa7tWDWQB50xwXzuukPvIELW9_GrnYjXaaHp-VSonu4OhbBABhrwFdog1G0csUVEFw87l7uCdDViglFMSKR37YqfDpUvLqARvRduxn7Cnc7TnHTWTvIpuC_1qJ8AfEyUK6jN9wUIQcx9Hq53fIh0wze3cUgYZ9FMkIXofgmpSB-_W6-rvsKybqCpb2nqUAhaqtcsGTAaYD3m5ebq3X_cwVUYt2X0jQ4ouxapK85FTFIZNDu_ivZ4UupwEAis12AVpa9x8vFba8TBWOadIpSKnuUqUvKjZuUrbdBITCALMFmVNV6GMgtSvdvDjdvRvSFBGGhCvClEqYtuI1RT9lIUEfXcpOCJai0nijNTOLZ6jt8kwgNfHkzKv1jl3Qiw-z71COBuxGx20eF9d-dpf7_rn0FYHS9QB2TYqKheWFQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111830735146190935542\">Fangyuan Cheng</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eF3j1X62qOyMaIDg68w64X66fvB9Co1CSzZXsov1CPUAX5l12QMeuJ8xaMEGLYGDJfV2I9FQmUqoT6Pj-wUvENeUfADBSt82zMy7ZoHS6MLWWeOr7h5dfJvCPvWvo4SfQ0yH4w-q_Fht28Dik9EOIRB34cdJqU6DswgDpPNvF_Pio-5ARSQaj8idTw2YQhCxKU8E55h8LKZw8O5TFmZ7BHx7Z96MsoFczvPWagJY35zyS8WvgPoSDIOeK5vw3v9qAPxOyqPeH9V0x8bZJaXrMK35-ii-hMvK1aJGmxrA7F0XPufUipBqLzbX76lPulnYCezYg2MvBiFF-r8N0piDlesQjsm_9BmQlWUldrKNP7XDYEnD57lSkYtEuNPYcHqcO2Sw7W6Bf5l5kzEoyCxqMH1qKiH4C3FMDAbdwEOqQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101990394618222383952\">Pavida Charoen-Rajapark</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c-WM_lZ07ZWJ6hhU0LsN8cQdi4ls8tCvB3SFub4D55aHd6sNg0e2qw4Ai9CIH2ucJ0bgitGL_Q0H9mh-nd89YcDZTyqvqRr_4Z_CJydeJk5LtlDJ6bFFZoK2Hb3m2tzYz0apAmTsetUY-TLKq3CdxY4K28WVZDlH6Y4hcXRgt-2yk5rPQy9J25w_6_6Hzmi5NhOfIXg8lnqlQsRhjnSsK3tRTBDug3kAABf7NSfF2rpfIiLgXR8_EL1iZjJOEt4iTwj4ybOwB6yXyuKVN6xaw3ks_AoBTftDrp85ogdsCsoaEy4_ozu71dZSAWzsD61XuDJ3ioRFeZrJw_XYyqiWF5RqW3NUf8tIqQ2AK1iaebMW7Sv_nt6_WDhHAGLYCmDt5Rph6RVXaSfLpcg9Zy_ZZ3oQr_aPWjMXgddM3mbOIhcG3OTVIch5TJFUmMGA",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104635398132107279856\">Matthew Webster</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ceSnRva0X0SW21vBkRlBIGrl38f36gjD4HU952CxbAQqpxZXRV2GieDqjjOIu8vZJBFrpTD1HiNgSwwm7itkmqprjKxpw35a4nI9RnhJ6JIR46iVzNUH5emEGV6kIeGs0WSCSBfANo6iLJuIVF8sR68DqCXRnajmue3Gz2jEGpv8MldtfmQ3U-tnJfPBA9cwIrlRznCg6jXeC8jGE6S5qNZb4yuuBP3kQLMKo4mGD030m_yPKVNeIJWEGZxZY4_oUsR93swtHOo9NdhpyjMRTJb4nKhX5PgfN_YaFBMBX_xrvl-oL6IXATgc7At_n_BxWl6YvQjGmtvjENpUskTmm4qgKZHuY_rRGMrAvyyc2v14qVl5rHna2L9pMIikESYfFwolTaRHzmMNHP9hMIb1lOf7MBD_b9ohnHpjnbGnDFsWLJZseLAlX9-95ryoh8",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101692252266459785652\">Lina Suvorova</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fE-WYEhhX4LigK1xJMTjIiPDjcEyixyErtXuE0m8LehH5qxHPk-BjcnGW1KP1oNVtO0tWOvMBQurXKNtwFLVvYspCvGDL4M32YLyuIetgw0qxYB_omOvrg7mVTh3FestasSxwhlOl4Kr5OgkK7_aJ8g57t3i-kSAukKHNEP-g8gNaRFV0F95n_Cqqf2SymS-NzcCZiX9-KVvvpzdQjt5a5dn9YSDc4FvHdZU1YTUYH_6IOO7PWHakykzJaIkYtzWMKlia86_D152m3YUHuvWY5OzAKSatjrk8zr57qhtPf8Df_zVFBKhxxrg7HTMPFbk5aUOHBxf-SoUjg_I3sn3TYdDDiyQyoCU3e7JXxev2kyckNQWTRHaznUUli46vkqMybfFQNO4L3DJa9Ll3CegXVxzAILQg2gl6EZnGmd43pLw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104900626040290731861\">Maarten Janssens</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cPOaGhvlg6jqSl5PFQx2i0-VH5_DYn-7FdQYLn9tGFf0_RkepWldEB72cINGnkLMzgqRpa7Ez60tmUPOSJXMjwvHLQxrvIhykCucWhNH_TG6Qls5-IPkGwh9zFdPo84gcOfgkBgjQodyZOSUYvw2_8rAXWekeBWODf5FFBc5cpdjDMBf0_V7ziOwv10aZK9xV7WFlhWEPawMDzN-tpRZE6C2CiKNHKlN6az-9dNQXn8W4FpyPdsEr2rPY1syJ8KVIIZdVou23c-W26PMZGhqd1WIx9RATdhHYDyd1Lzs0oYcTiAG0s_tNHaa2y09nU4O_d3kFeDW0nYLfAmq-3PJ_cQReomkKocYmv7XnNwChGJ3XnIuBX3rrMG6lFEyj5mGrxtKhvJMtuBAcuOFCrUAnHLaazf8wSRd1tw3eL728fwg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104583831848899724856\">Rui Yi Ang</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Lina Suvorova",
+      "rating": 1,
+      "text": "We chose Miga to celebrate our anniversary, hoping for a special experience — but unfortunately, we left quite disappointed.\n\nWe ordered six dishes: hwe, maeun saeu, yukhwe, galbijjim, oligogi tangsuyuk, and seolleongtang, which was never brought to us despite being ordered.\n\nService was inconsistent. One waiter (a young man with a European appearance) was genuinely excellent — attentive and kind, and we truly appreciated him. However, the other waiter  called my boyfriend ( who is also Korean) “oppa” in front of me, which I found completely unprofessional and inappropriate, especially given that we were clearly a couple. It made the atmosphere uncomfortable.\n\nFood-wise, it was underwhelming. The galbijjim was the only dish we really enjoyed. The yukhwe was the biggest disappointment — both in taste and presentation. The overall quality simply didn’t match the hype or the pricing.\n\nHonestly, the place feels overrated and overpriced. There are far better, more authentic Korean restaurants in London that offer better food and atmosphere for the same — or even less — money.\n\nSadly, I don’t think we’ll be returning. And definitely not worth to visit.",
+      "time": 1751580139,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "AJ luvzlondon",
+      "rating": 4,
+      "text": "Lunch for 2 at Miga, Hackney. Our order: fried chicken thigh, sliced raw fish w/ rice, soy braised beef short ribs w/ rice, a bowl of ox bone broth, tea & a Cass beer. The meat dishes were exceptional (especially the galbi) and customer service was excellent. Our total bill for 2 was about £95. Highly recommended.",
+      "time": 1757781056,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Adrienne Kher",
+      "rating": 3,
+      "text": "Unfortunately this place did not live up to its hype for me. The portions were small, flavours were underwhelming and I’ve definitely tasted better for cheaper at more affordable traditional Korean restaurants in London.\n\nThe starters were good - I liked the sashimi paired with the sauce. The tofu was also really good.\n\nBeef ribs were tasty but I found the portions way too small. Did not like the beef stew - lacked depth and flavour with a strange after taste. The beef noodles were also very average.\n\nOverall a very average experience.",
+      "time": 1754177391,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Jose Bilbao",
+      "rating": 5,
+      "text": "Very good Korean restaurant with a very good value. Very attentive staff.\n\nAfter visiting South Korea and falling in love with its cuisine, we gave a shot at this Michelin’s bib gourmand restaurant and it was a success.\n\nBoth, starters and mains were perfect.",
+      "time": 1753024390,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Diona",
+      "rating": 3,
+      "text": "Good food, poor service. The guy who served us told us that there was a problem with our order, so we ended up waiting almost an hour for our food. Our reservation was for 1:30 which we were on time for and ordered probably 5/10 minutes later and didn’t get our first dish until 2:15 which is fine but we the next dish came at 2:28 and the one after that came at 2:32. They close at 3 and were rushing us for the bill, I wasn’t able to finish the soup or my meal comfortably. I really wanted to remove the service charge but we were in such a rush that it completely slipped my mind. They were rushing us that I didn’t even have time to go to the toilet.  To expect us to finish two main dishes in less than 30 minutes, and when we spent more time waiting for our food than actually eating is a bit silly. They removed two of our drinks from the bill but I ended up ordering another one since I had drunk most of my first one while waiting.\nVery disappointing service to be honest, the server just made it worse. I was turning my head towards the kitchen just to see what was going on as it’s not normal to be waiting so long and our server was just watching me the entire time. I could not comfortably enjoy my food at all, that being said the food is good and if we had a different server or experience I am sure the rating will be at least 4 stars. But to rush us for your mistake is very silly to be honest. Can’t say I want to be back, my friends were also looking forward to visiting since the food looked so good but not sure if I would want to recommend…",
+      "time": 1750275880,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:52.021Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUWINwAddkgRZpNHXJfDHaE"
+}

@@ -34,7 +34,41 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.731Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJs0RsDuYcdkgRZtmvLKMG934",
+      "name": "E5 Bakehouse",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 1579,
+      "formatted_address": "396 Mentmore Terrace, London E8 3PH, United Kingdom",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5411909,
+          "lng": -0.05769800000000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54256107989272,
+            "lng": -0.05624487010727779
+          },
+          "southwest": {
+            "lat": 51.53986142010728,
+            "lng": -0.05894452989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
@@ -43,7 +77,7 @@
       "category": "bakery",
       "priority": "medium",
       "rating": 4.7,
-      "user_ratings_total": 1038,
+      "user_ratings_total": 1039,
       "formatted_address": "279 Grays Inn Rd, London WC1X 8QF, United Kingdom",
       "types": [
         "bakery",
@@ -70,41 +104,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.731Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJs0RsDuYcdkgRZtmvLKMG934",
-      "name": "E5 Bakehouse",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.4,
-      "user_ratings_total": 1578,
-      "formatted_address": "396 Mentmore Terrace, London E8 3PH, United Kingdom",
-      "types": [
-        "bakery",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5411909,
-          "lng": -0.05769800000000001
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.54256107989272,
-            "lng": -0.05624487010727779
-          },
-          "southwest": {
-            "lat": 51.53986142010728,
-            "lng": -0.05894452989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.731Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
@@ -113,7 +113,7 @@
       "category": "bakery",
       "priority": "medium",
       "rating": 4.4,
-      "user_ratings_total": 2425,
+      "user_ratings_total": 2427,
       "formatted_address": "35 Colonnade, London WC1N 1JD, United Kingdom",
       "types": [
         "bakery",
@@ -138,7 +138,41 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.731Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJjUgahq0ddkgRDLV2zZrg4ck",
+      "name": "Beigel Bake",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.4,
+      "user_ratings_total": 13638,
+      "formatted_address": "159 Brick Ln, London E1 6SB, United Kingdom",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5244985,
+          "lng": -0.0717608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52585167989272,
+            "lng": -0.07032762010727779
+          },
+          "southwest": {
+            "lat": 51.52315202010728,
+            "lng": -0.07302727989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
@@ -172,146 +206,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.731Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJ-xBcaZEFdkgRZ6htuvgyCWI",
-      "name": "COMMON BREADS",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.9,
-      "user_ratings_total": 571,
-      "formatted_address": "110 Buckingham Palace Rd, London SW1W 9SA, United Kingdom",
-      "types": [
-        "bakery",
-        "cafe",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4939671,
-          "lng": -0.1470608
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.49534087989272,
-            "lng": -0.1456185701072778
-          },
-          "southwest": {
-            "lat": 51.49264122010728,
-            "lng": -0.1483182298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.731Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJn8uATcwEdkgRWaURuaW-j-k",
-      "name": "Bageriet",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.7,
-      "user_ratings_total": 1008,
-      "formatted_address": "24 Rose St, London WC2E 9EA, United Kingdom",
-      "types": [
-        "bakery",
-        "cafe",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5119236,
-          "lng": -0.1261821
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51320247989272,
-            "lng": -0.1247602701072778
-          },
-          "southwest": {
-            "lat": 51.51050282010728,
-            "lng": -0.1274599298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.731Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJwYEDBrYFdkgRR1eiBlmtIW4",
-      "name": "Miel Bakery",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.4,
-      "user_ratings_total": 1064,
-      "formatted_address": "60-61 Warren St, London W1T 5NU, United Kingdom",
-      "types": [
-        "bakery",
-        "cafe",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5242395,
-          "lng": -0.1395342
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52554147989272,
-            "lng": -0.1381642201072778
-          },
-          "southwest": {
-            "lat": 51.52284182010728,
-            "lng": -0.1408638798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.731Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJ8Wy2dvADdkgRr4cikvURs_0",
-      "name": "TOAD Bakery",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.8,
-      "user_ratings_total": 653,
-      "formatted_address": "44 Peckham Rd, London SE5 8PX, United Kingdom",
-      "types": [
-        "bakery",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4735143,
-          "lng": -0.0810946
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.47497812989272,
-            "lng": -0.07976402010727779
-          },
-          "southwest": {
-            "lat": 51.47227847010728,
-            "lng": -0.08246367989272223
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
@@ -345,19 +240,20 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
-      "place_id": "ChIJMcmAWGAFdkgRdlL0s3jyK4g",
-      "name": "Chestnut Bakery, Belgravia",
+      "place_id": "ChIJ-xBcaZEFdkgRZ6htuvgyCWI",
+      "name": "COMMON BREADS",
       "category": "bakery",
       "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 2322,
-      "formatted_address": "17-21 Elizabeth St, London SW1W 9RP, United Kingdom",
+      "rating": 4.9,
+      "user_ratings_total": 573,
+      "formatted_address": "110 Buckingham Palace Rd, London SW1W 9SA, United Kingdom",
       "types": [
         "bakery",
+        "cafe",
         "store",
         "food",
         "point_of_interest",
@@ -365,33 +261,69 @@
       ],
       "geometry": {
         "location": {
-          "lat": 51.4928834,
-          "lng": -0.1494293
+          "lat": 51.4939671,
+          "lng": -0.1470608
         },
         "viewport": {
           "northeast": {
-            "lat": 51.49428847989272,
-            "lng": -0.1480367201072778
+            "lat": 51.49534087989272,
+            "lng": -0.1456185701072778
           },
           "southwest": {
-            "lat": 51.49158882010727,
-            "lng": -0.1507363798927222
+            "lat": 51.49264122010728,
+            "lng": -0.1483182298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
-      "place_id": "ChIJjUgahq0ddkgRDLV2zZrg4ck",
-      "name": "Beigel Bake",
+      "place_id": "ChIJn8uATcwEdkgRWaURuaW-j-k",
+      "name": "Bageriet",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1009,
+      "formatted_address": "24 Rose St, London WC2E 9EA, United Kingdom",
+      "types": [
+        "bakery",
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5119236,
+          "lng": -0.1261821
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51320247989272,
+            "lng": -0.1247602701072778
+          },
+          "southwest": {
+            "lat": 51.51050282010728,
+            "lng": -0.1274599298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJwYEDBrYFdkgRR1eiBlmtIW4",
+      "name": "Miel Bakery",
       "category": "bakery",
       "priority": "medium",
       "rating": 4.4,
-      "user_ratings_total": 13633,
-      "formatted_address": "159 Brick Ln, London E1 6SB, United Kingdom",
+      "user_ratings_total": 1069,
+      "formatted_address": "60-61 Warren St, London W1T 5NU, United Kingdom",
       "types": [
         "bakery",
+        "cafe",
         "store",
         "food",
         "point_of_interest",
@@ -399,55 +331,21 @@
       ],
       "geometry": {
         "location": {
-          "lat": 51.5244985,
-          "lng": -0.0717608
+          "lat": 51.5242395,
+          "lng": -0.1395342
         },
         "viewport": {
           "northeast": {
-            "lat": 51.52585167989272,
-            "lng": -0.07032762010727779
+            "lat": 51.52554147989272,
+            "lng": -0.1381642201072778
           },
           "southwest": {
-            "lat": 51.52315202010728,
-            "lng": -0.07302727989272223
+            "lat": 51.52284182010728,
+            "lng": -0.1408638798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJXaGQmXAbdkgROIIGIxd7wo8",
-      "name": "Arôme Bakery - Duke Street",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 987,
-      "formatted_address": "27 Duke St, London W1U 1LE, United Kingdom",
-      "types": [
-        "bakery",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5153896,
-          "lng": -0.1518005
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51672217989272,
-            "lng": -0.1505106201072778
-          },
-          "southwest": {
-            "lat": 51.51402252010728,
-            "lng": -0.1532102798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
@@ -456,7 +354,7 @@
       "category": "bakery",
       "priority": "medium",
       "rating": 4.4,
-      "user_ratings_total": 2736,
+      "user_ratings_total": 2737,
       "formatted_address": "28 Greek St, London W1D 5DQ, United Kingdom",
       "types": [
         "cafe",
@@ -483,7 +381,109 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJMcmAWGAFdkgRdlL0s3jyK4g",
+      "name": "Chestnut Bakery, Belgravia",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 2325,
+      "formatted_address": "17-21 Elizabeth St, London SW1W 9RP, United Kingdom",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4928834,
+          "lng": -0.1494293
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49428847989272,
+            "lng": -0.1480367201072778
+          },
+          "southwest": {
+            "lat": 51.49158882010727,
+            "lng": -0.1507363798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJXaGQmXAbdkgROIIGIxd7wo8",
+      "name": "Arôme Bakery - Duke Street",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 990,
+      "formatted_address": "27 Duke St, London W1U 1LE, United Kingdom",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5153895,
+          "lng": -0.1518006
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51672217989272,
+            "lng": -0.1505106201072778
+          },
+          "southwest": {
+            "lat": 51.51402252010728,
+            "lng": -0.1532102798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJ8Wy2dvADdkgRr4cikvURs_0",
+      "name": "TOAD Bakery",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 655,
+      "formatted_address": "44 Peckham Rd, London SE5 8PX, United Kingdom",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4735143,
+          "lng": -0.0810946
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.47497812989272,
+            "lng": -0.07976402010727779
+          },
+          "southwest": {
+            "lat": 51.47227847010728,
+            "lng": -0.08246367989272223
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
@@ -517,7 +517,44 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJGeN8WtMEdkgRm8DhT1Hvx9k",
+      "name": "GAIL's Bakery Soho",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.2,
+      "user_ratings_total": 978,
+      "formatted_address": "128 Wardour St, London W1F 8ZL, United Kingdom",
+      "types": [
+        "bakery",
+        "cafe",
+        "meal_delivery",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5142981,
+          "lng": -0.1344713
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51561092989272,
+            "lng": -0.1331703701072778
+          },
+          "southwest": {
+            "lat": 51.51291127010727,
+            "lng": -0.1358700298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
@@ -552,7 +589,76 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJM4CzbeMRdkgR9tHRMt9yZd0",
+      "name": "Don't Tell Dad",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 277,
+      "formatted_address": "10-14 Lonsdale Rd, London NW6 6RD, United Kingdom",
+      "types": [
+        "restaurant",
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5373519,
+          "lng": -0.203387
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.53865762989271,
+            "lng": -0.2020093701072778
+          },
+          "southwest": {
+            "lat": 51.53595797010727,
+            "lng": -0.2047090298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
+      "query_used": "bakery london"
+    },
+    {
+      "place_id": "ChIJ8d6pvEoOdkgRwLWHaVvibrE",
+      "name": "Patisserie Sainte Anne",
+      "category": "bakery",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 701,
+      "formatted_address": "204 King St, London W6 0RA, United Kingdom",
+      "types": [
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4930629,
+          "lng": -0.23586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49436967989271,
+            "lng": -0.2344829201072777
+          },
+          "southwest": {
+            "lat": 51.49167002010727,
+            "lng": -0.2371825798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     },
     {
@@ -586,116 +692,9 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJGeN8WtMEdkgRm8DhT1Hvx9k",
-      "name": "GAIL's Bakery Soho",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.2,
-      "user_ratings_total": 978,
-      "formatted_address": "128 Wardour St, London W1F 8ZL, United Kingdom",
-      "types": [
-        "bakery",
-        "meal_delivery",
-        "cafe",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5142981,
-          "lng": -0.1344713
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51561092989272,
-            "lng": -0.1331703701072778
-          },
-          "southwest": {
-            "lat": 51.51291127010727,
-            "lng": -0.1358700298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJ_2q-wxEPdkgREgYiJYgk89A",
-      "name": "The Bakehouse",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 397,
-      "formatted_address": "232 Upper Richmond Rd, London SW15 6TG, United Kingdom",
-      "types": [
-        "bakery",
-        "cafe",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4613439,
-          "lng": -0.2188391
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.46264342989272,
-            "lng": -0.2175063201072778
-          },
-          "southwest": {
-            "lat": 51.45994377010727,
-            "lng": -0.2202059798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
-      "query_used": "bakery london"
-    },
-    {
-      "place_id": "ChIJ8d6pvEoOdkgRwLWHaVvibrE",
-      "name": "Patisserie Sainte Anne",
-      "category": "bakery",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 700,
-      "formatted_address": "204 King St, London W6 0RA, United Kingdom",
-      "types": [
-        "bakery",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4930629,
-          "lng": -0.23586
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.49436967989271,
-            "lng": -0.2344829201072777
-          },
-          "southwest": {
-            "lat": 51.49167002010727,
-            "lng": -0.2371825798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:03.732Z",
+      "fetched_at": "2025-10-16T20:23:31.872Z",
       "query_used": "bakery london"
     }
   ],
-  "fetched_at": "2025-10-15T10:53:03.732Z"
+  "fetched_at": "2025-10-16T20:23:31.873Z"
 }

@@ -1,7 +1,7 @@
 {
   "category": "fine-dining",
   "query": "fine dining restaurant london",
-  "count": 5,
+  "count": 6,
   "results": [
     {
       "place_id": "ChIJV8gP0ykFdkgRbsmzJFpywNA",
@@ -13,8 +13,8 @@
       "formatted_address": "150 Piccadilly, London W1J 9BR, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -33,7 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "fetched_at": "2025-10-16T20:23:29.627Z",
       "query_used": "fine dining restaurant london"
     },
     {
@@ -46,8 +46,8 @@
       "formatted_address": "Flemings Mayfair, 7-12 Half Moon St, 7-12 Half Moon St, London W1J 7BH, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -66,7 +66,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "fetched_at": "2025-10-16T20:23:29.627Z",
       "query_used": "fine dining restaurant london"
     },
     {
@@ -75,12 +75,12 @@
       "category": "fine-dining",
       "priority": "medium",
       "rating": 4.5,
-      "user_ratings_total": 4270,
+      "user_ratings_total": 4268,
       "formatted_address": "85 Piccadilly, London W1J 7NB, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -99,7 +99,40 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "fetched_at": "2025-10-16T20:23:29.627Z",
+      "query_used": "fine dining restaurant london"
+    },
+    {
+      "place_id": "ChIJyZOR1jkFdkgR75CyutG9DI4",
+      "name": "HUMO",
+      "category": "fine-dining",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 579,
+      "formatted_address": "12 St George St, London W1S 2FB, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5124603,
+          "lng": -0.1432237
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51381437989271,
+            "lng": -0.1418536201072778
+          },
+          "southwest": {
+            "lat": 51.51111472010727,
+            "lng": -0.1445532798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:29.627Z",
       "query_used": "fine dining restaurant london"
     },
     {
@@ -112,8 +145,8 @@
       "formatted_address": "34-35 Southampton St, London WC2E 7HG, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -132,7 +165,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "fetched_at": "2025-10-16T20:23:29.627Z",
       "query_used": "fine dining restaurant london"
     },
     {
@@ -141,12 +174,12 @@
       "category": "fine-dining",
       "priority": "medium",
       "rating": 4.8,
-      "user_ratings_total": 1350,
+      "user_ratings_total": 1351,
       "formatted_address": "4 St James's Market, London SW1Y 4AH, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -165,9 +198,9 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:01.150Z",
+      "fetched_at": "2025-10-16T20:23:29.627Z",
       "query_used": "fine dining restaurant london"
     }
   ],
-  "fetched_at": "2025-10-15T10:53:01.150Z"
+  "fetched_at": "2025-10-16T20:23:29.628Z"
 }

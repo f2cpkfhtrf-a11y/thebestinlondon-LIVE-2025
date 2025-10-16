@@ -1,0 +1,263 @@
+{
+  "place_id": "ChIJU9GMeq0PdkgRD7sEkK4r0z4",
+  "name": "Giulia Restaurant",
+  "formatted_address": "77 Askew Rd, London W12 9AH, UK",
+  "vicinity": "77 Askew Rd, London",
+  "rating": 4.9,
+  "user_ratings_total": 298,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5041143,
+      "lng": -0.2434161
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5054561802915,
+        "lng": -0.2421321697084979
+      },
+      "southwest": {
+        "lat": 51.5027582197085,
+        "lng": -0.244830130291502
+      }
+    }
+  },
+  "lat": 51.5041143,
+  "lng": -0.2434161,
+  "formatted_phone_number": "020 8743 0572",
+  "international_phone_number": "+44 20 8743 0572",
+  "website": "http://www.giuliarestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=4527010079178013455",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 10:30 PM",
+      "Wednesday: 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Sunday: 12:00 – 4:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1630"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2f9bjQY2Om0EO04c6UKYPnI5jUcFj4WU8y4QxF8oCRXtPWpbPwShYlOK6R1ljRP-WQnFp1qwAVyzaWFkwZioKL0lzC0l8ncCRFDjYZWXlR29-vSB2r9IFe78OSKK-hVJvfvVuhn1Zv76Pl2RxsKh_BBAZv1JvKU7NZFDkKKRlccxaVlC-8AeitwPE_choTuBKTzHg5RLJGh1BBiZyd0Ntv5wpxVBiAnLO6KHPFF1nx_2yxAkQu05CCkAVa7-1tDauaCD9dDUIin1MO5K-NpAxJI0oT3C0y2QUay9kVXl0iL8w",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109184008530782802269\">Giulia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cvmCy1bdL721uRbTC6XypchO0fjwlFmhLFfi9B7DGjMfrO25tz2lJW8oUIIhnCAXWBG3QzLFu2NCOOq7aGKqlJabOcP2kYw65Oae6ACidMfTdB5Zh36witTFSOrVMg72buh_P_7zIFowRlSIbPfdZ2isoMtUqVcBM7uRANuzprJANP0dT4JIDldMLHVFOCzH5HHU8MqG8zuoIb0IqzMCaNk0JV17I3baGThA_EIJXwoxkR8bI0cwuuf15Bf5FxDseLVZFQ5KTUQT2u27ck2yA9RO3qi_uP6OBruV1hbLJigQ",
+      "width": 3862,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109184008530782802269\">Giulia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHPjK7kE4Gt-bmAmksmm8DmLmxBe0B908_h0dGCdR9wiHKuC4X1higSO_eh5foA713Q_pEhQCZfRrH5kEO-96Y-gFc5rd2tjY4kSjFPUVksdWfbaDs1GWT973928gtiDrHSGtV50L3yJPKDrV5V7E4iKdWouzd0nyG2tPTEmT-v4UYKFlhC3MoCYlYtbH1XZG8aMUvpLz4Rr-j_mkNJrr_gU72nJOc7rV1NzFGw7ry_AcYjHWsBuxfIIVYkF94_End31DvndP-phbVf0kGJrVHkTklZ8M6GEjiFsJvo4sHKhZFP_08l-Xs6IGK-TH_LGIeLrWJNCHDEJCoisrNRjNc8vNvjuP3onUw3BeMavEpR5EyyuBmCg7nQ6gkoHKli7u1VMLxu7h3Og8wSWllWTYtJ-SOIhd3RD-mD71J9Xh3fbU",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117998269497695521317\">Luísa Santos Carraro</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eWQbYXGwle38QTYSf6XTdl6lAIvpGlt23WgnPtKkC8X44YtFnFUWiMvqYzG5l1oMQ7GhtAQv0Bg9sTO5LDW1qN6vYnitKkCnwU58SlQMkKm6_HUJs88nV8UjvKiLkKV1YXpNSHBy-5c86Qm-Zt2kftrp4JJYpy-JyAaF40Pe9CGO-eBJQVYTb_tw-UPVaQG8m4hVtXp83b3iTE4kSlVL2h-Cl_fgKIVx7pd2guoEA8phJv5JlgzPgWzjjldlfm9quTwC6cBUakM3-3_Ugaz6bFdCBOmjOIueQ4S1asqNnkxbe1K8HayyWfO-SDB6T9mF0UQ8f4XRFQW0hrW1JLTwDdcOdCIDWUE_k4R73mwLc1gD_TjNTtmRwBz1lL0UKc2CkegHAqVqznws0t4nBRc7bTNwBhbhR7tfNYGC-jsV07Cny1",
+      "width": 2197,
+      "height": 2164,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113912032903085153729\">Dominika p</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dhby1JSvm_HUkhPd3CEAa83EbiecfG3Yt59_WUHHwInutDKYozRIZQUI_UFG9JEOrSxYsxJlU-cn_j6Hy7rXB_o4IfpNScvnvwq8DrC35OJ322RkMYWzrfnjqtiJDSbTcVhrffIF4-xDAhErB1Es0t-6ub7fLBq5b7JWmWQZ11l3x8C8cxZrZoOfj_iN0YDtfCma2kKGWDDf4ffQToMyZ-y_E83O0jEuy1zigmRS2r637miQAsbwITLiqwOKwKqxs3SJNgiNSZZcOs2NSWgbM7OrE2MhHNXv25BYV4qbtJTA",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109184008530782802269\">Giulia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cR5kMfAo-36XATG5dh1ILw3UsgGx66bVaswM2sOgSigi4IErq3XvgLTWUyf9BKMfLdPw3YrR8NVpIP7YxYkp226bsGaG0Dwn6ajSrZao5MXOeuFBZqCCWUw-u3m-GxH6bXUBLeYiWOwmx1UkzhdAI0wVNHe1dYJLUaM1IEZRwo8MTH0wEjv-fTVtYGdQK4Ue2IDdJNy5FOVcUTmYpWwALaJ52MaodJhrQc31VlomgJSD1nVUqAJ8KsDZ7fCdAd_-IY_zDlBsCc2JemVp-zbTxk763nHsYzVfOHjgPh3AGuMeGIb4tOR4yLw0uiuyQaF6zIw36Kp4xfdxg8KXqmM31B77VU6StBVO7EY4L9dTVjxpPbTkwO12h4cnHMYQqH2zWWPw-oMtN_j5aPzhm7hP1XlXroIq67WYKB8vpZywDFNg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117998269497695521317\">Luísa Santos Carraro</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cK4Tt_hXr2zeIfJPxgsgsS8mtsrKcx9yNOTmddd1ZS4LSL9F5f857l-zKh-xjd0a7fdCOHluswiM19v5KZa1BBeTgL6FR4TFM6mxvLcQOIwYPsv0BpMkAXTjxxwBzObUxrc7rFqyw5UrKKKZm-bSLkhvWW7t_OS7wd6T2wMlUIVYs1VNp-r8OEKvgum_Tzj3wLew5m5nR4ZB0chkVo5m222ijvP3BrWwJzxe0RFdoWA7fr7Gd5xBlgmEX8CYxW78TGtB9s9HaHt8c652Lne8fSpMPOx0OfCnB0QLoqJ6jO6WZjRBHnY4F67i2DMik7101hts1wwxnR8Hx58EDXpWIXaQHBcwzpc_oVHf6SlDWi8SYkPzUO_6AqMO-TSXvDQ6ahjqA8tf8Zr0U8NcS6LGK3ZGxAYx7kRW5bU0NjNSXZoW7I",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100404586853992029205\">Chao Tang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fkCzRL62yZURnErLLqfps7HcZ-ziWmqYuJ0Qj19NrsL88QKlW7r8TsRjs9jtPnuEmyR90kFHBW34FzxiarJD228pvBDZI7ZQJtoNi4jE5Ih8WWYvCnYN-eeVX2YV7jkek2n9FH1TYEXF09UT4lWR0N1hu8Eusb8dU6hglPZQ9F-qWebqwCPblXqqvde1ckOrQrSldRnXf_Z4LL-ET7eDJfdlkdrSegHXrStugudlPrKzTRIbZlAmah54DQjzj0Z_wzQZugR8yTJPSQC2IaoR4ETNohcHnEsF5TZAw0MpP8h4w03WgzBo7XYZflZzHa-uMXtpHX28bDRdZR8WRdu3JD9savaqMN4JreUMXRbMCGsq3rpIcMwUPmSUSpKZj838ND6-IkYAVlR2j2dO0Bx530e068Q2DNPRZF8YBMlF0Yp9giEvrlwOeU-bO1MTsH",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101756638016520605177\">L Chen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fPfHL_edklvEPf4H5aqtBcRx0mAXCD2PQfnXac6wLgeyrrFrauynJPRApltvNqbP3hL7rxNfCuqTIt2e-6wb6f5g37VXVuNEpQHCN7bcMkbnGiiEiqMcfXJEWgLwcBraXPYcVcbXUhAY6UrwzDjnw8brbSgQmuAYD8cYq0OI2cJ-enVJx9yHtM3ON-EM6lcyrghaDrElIUF9lfzG4veRJaguFB-i5lgfTHE0y8x2LVxjieJyhMLmsxnS9S86LZ2ObmguvLWmz5O3rerrHN18fsTT7Wz03AUTdGsJwcItbJVg",
+      "width": 1280,
+      "height": 1280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109184008530782802269\">Giulia Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cgKtoIslfi84ReBm4SczxvzlvtPAQMWwwVtINwp8r6Oe1c6L9rCuQZjXA0EDTU3quwgKSjU7DSrKB8PZYMfgd-vSslp3f8Ml_HnJwTmAgDJA-rIw0BsrS9a9qR09nV7WvCQH496GgX5OSn9gjBqQ6hjG0HBtf7zXy_-35CHxzPPAnHQ_-SN4ZEKzFiEvJ8Lw_0t4AljDiKY5Hv7z0PabnCnx0ICCG685e4AGKcRI5Fsl4EDL69yioeL2-YgpgjjiIy97p7fCN_PWERYG9umm_tHFsOBu7e8wrENbV-pDh18zqB2jeBdrY28aHkPXqb-ufmumKbe6Ls7dZUzmkfH3j7AyduzghOU-O_qcx207jXv0II-v0xfLg-iVcv2Anfl5E6L6kW-oOC2AE8vsgMyeRskdu9TNCZpzsPM0EXub5sAA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116184255973113776784\">Monica Martinez</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Anastasia Stutz",
+      "rating": 5,
+      "text": "My new favourite place, a true gourmet experience with such special dishes and good size portions. Menu is small but delicious and changes every month. Service is awesome, friendly, professional and very attentive. Came back after one week and planing to go back often.",
+      "time": 1755115194,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Luísa Santos Carraro",
+      "rating": 5,
+      "text": "Giulia is a lovely neighbourhood restaurant with amazing food. The menu changes monthly with focus on seasonal produce, so it is always a fantastic experience (needless to say I go literally every month to try the new menu). Can’t recommend it enough. One of my absolute favourites.",
+      "time": 1753048659,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Aman Brar",
+      "rating": 5,
+      "text": "So happy to have booked dinner at this little gem of a restaurant for my girlfriend’s 30th birthday.\n\nWe loved all the dishes we ordered - the quality of the ingredients and the combination of flavours really shone through & the service was fantastic.\n\nA place that will no doubt leave you wanting to come back. Highly recommend! :)",
+      "time": 1733231602,
+      "relative_time_description": "10 months ago"
+    },
+    {
+      "author_name": "Hoa",
+      "rating": 5,
+      "text": "I've been meaning to leave a review since our last visit in July. Giulia's is a special place. We've been coming here since it first opened and the food has been consistently amazing. We were so lucky to have this authentic Italian restaurant five minutes away from where we lived, and Giulia and her fiancé are a fantastic team. They've created something that is truly rare, with dishes you wouldn't find in hundreds of other Italian restaurants. All delicious because you can see the passion that goes into the flavours. We've moved to Manchester now, but when we're in London next we'll make sure to treat ourselves to a meal at our favourite place, Giulia's. Thank you for always welcoming us and treating us so warmly!",
+      "time": 1755594885,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "ali s",
+      "rating": 5,
+      "text": "Came here in early July and had a fantastic experience. Both the food and service were sublime. Gulia was warm, attentive, and made us, and other diners,  feel genuinely welcomed. The young man also working the floor was excellent. Every course impressed: the starters, pasta, and mains were beautifully prepared. The pork cheeks,  a recent addition to the menu, I believe, were especially tender and succulent. We’ll definitely be back.",
+      "time": 1753045762,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:43.380Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9GMeq0PdkgRD7sEkK4r0z4"
+}

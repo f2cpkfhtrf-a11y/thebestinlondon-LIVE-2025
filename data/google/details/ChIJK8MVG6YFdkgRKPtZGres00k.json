@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJK8MVG6YFdkgRKPtZGres00k",
+  "name": "EL&N London Park Lane",
+  "formatted_address": "48 Park Ln, London W1K 1PR, UK",
+  "vicinity": "48 Park Ln, London",
+  "rating": 4,
+  "user_ratings_total": 3062,
+  "price_level": 3,
+  "geometry": {
+    "location": {
+      "lat": 51.50684889999999,
+      "lng": -0.1518459
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5081955802915,
+        "lng": -0.150563919708498
+      },
+      "southwest": {
+        "lat": 51.5054976197085,
+        "lng": -0.153261880291502
+      }
+    }
+  },
+  "lat": 51.50684889999999,
+  "lng": -0.1518459,
+  "formatted_phone_number": "020 7491 8880",
+  "international_phone_number": "+44 20 7491 8880",
+  "website": "http://www.elnlondon.com/",
+  "url": "https://maps.google.com/?cid=5319785487275785000",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 7:30 AM – 11:00 PM",
+      "Tuesday: 7:30 AM – 11:00 PM",
+      "Wednesday: 7:30 AM – 11:00 PM",
+      "Thursday: 7:30 AM – 11:00 PM",
+      "Friday: 7:30 AM – 12:00 AM",
+      "Saturday: 7:30 AM – 12:00 AM",
+      "Sunday: 7:30 AM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dQDhdQiTEEgus-4CBBgE5lwe4IDgYld7TP1sYzfkmLi4kOdAVimHyLeFZoNnUd4s3nMdTWqSzmdDyFT4kc-xwm2113fU7piJQ0iBZC60TeQAAbBKxwS-NnCS1OPMSs496P3lVcSgTJ-_wHLTzJ3Z7O0yKKcnc-ss7906gtfUsyeSIDwU1aTjl0UjaEJIi9dkRgAcIDZ_pjqTtnEJ6uGXhESC05_buF-t19hMq5Ho7f4tLSFoyZ2x8A9lDN_6djs7bYPpSi5sWgTMvAkxoLvzKTguydxxHhmSOksFrWJarH0A",
+      "width": 4800,
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107027628465606402320\">EL&amp;N London Park Lane</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fapoePz1_TQb3r0oQFo4TWOhkGNWt7JoL-wNLpzre1HMRO4SlAqOXLzffIcHv3hisjOA7xDfEbYrmyLlLbpbDtpkqHLOM6xDGr9qahQhfLhUin_OxG9gCxtXurZvvDkczWoumJFqm7DOzdbHu3vU2gAK8bpkAta0Ew3Bpu6yeikduYcPpqP9qyb3Y61RFvzukAvtZnsUiYY0JhMK1BmEP3z-sMry8Fzck8diBaHZos0DZ3JwZJiL6LmRIUknp6MAX20JXzsBf2kgU4XDM8RPCrD_bhKvCN8qh8ZNlY9n8VJEIcDaNMNmvPkrT8cIoobObakjG4qlqM_eCM0Ksdxzgiw6lQefWo0bunxzsLvlwWTduVD1n8uKxcjU1gQinhDi-47cdMM7sZ4dmBqdl7As2vs7h9tiBDxlQqZd1ogVfQx5pX4pE_STPMb6dHOQ",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112043011457176261456\">Andrew Garcia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fomuHl23S_Xthe82YjAM79HnTaFX_JrVrsYOXZTvxhobkFZ-uYwbGvPuN0CpR9w5jCn4ZGmSt1EMhghqJgpvLues4z1-mowFJSX32aa7i3LM1jJCnS6vsBAAOFtDk9f5ZOaQkNWuLuWrNbFoWM2Ff_H1Xypcz8AYlxebGSDXHgTpPPnNCI2jSReVei0F5buG8Za5_WXjBulzoaQp2XeXfzFDphuhGOQtzCtOL70TC25viFcJi3wqBatcVMmmEg4MBQLvaBrGvjYDLkyJ6UXS0B_kScFXUdSRr_FKXEwdde4DztB-qh2hPHq_sopcqvGUAVdmlFI_yPwH2PdanB57fokEjYwGPfJ6qjWCtXHpUQINlns4PuLvBnnpMK9hj0Z45Oybos0ExawWKx2ABfG9ktVWiTDvc7tqFxZulVWSo",
+      "width": 4048,
+      "height": 3036,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106748130955486436965\">AudiS3UK</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cS7DkwL5cUOaF7q_XXN3V9eS24sTmtM_klsrNJLoIDXQCT9hf8vRWQyz_980OSQZRY5ySMWDwoJ19ww9M0WR_k7ZiWybCNRxk8Vvn-hmrD4_rJtFmGAv1N7d82TrIulP8CHJ89fg1llTGflJWUw8GDorxYFpfxD22TDrGPN3yJypExeUJjMFUzChwV4QbO9OvVZ3CkAs2tXJnfsm_52rAQUWG4-IF275Nvhidw9U6TAYiDKIHnm4-pBE3NwvMd7NPs82yqqomaDhMPQc3Sc-iZJhI9cKOH4cvY1FH4vLKO7GRRexei8HnhXNn0Ye5i9PFF0I1pb6jzH50u7yxg8DMMSqlJN8jgN8cTGA8rMcwForpBIfStfdUzZ15Fo_cNk8dHsmB5pqDxerAvlkmZjdxAc7A5qKixFdFT0rbAS3VQG3b5",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104132506169810702389\">Martin Roberts</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2feiGtPL8TNJxpBeKMS0t19gv61Hw5rM5i5fcieVNhpExv9lYk2q58uZRJ2_j58EALhbYlQbXzEa2pZgHz2R_c9-OgTItHX7pvQQB3aYxyuEQhCeb_cspzcrXqjoEXvRv7urWcf2YliBQBOHIk2UZhDb5Um9q207VXJRi8hScofPv_1WS_SXKahFM7PKSmMRIxqIkvFYTj0YO2-A2hN4hGaos2vt6v1dKqJiVUGY6iXJjOX8Ys4eRv-FxB0FNfjZC2iLXEyPC5hH1v_Pl9VFlF8Xenj-rOQQdwZTdYfcMe8RI7o9Y3zsbs19h1_JXpU5pjqdjOHaOvlzZbcMaxwJRGKnBbxr7t2WEwFyj-DrMZ_4UH9X3qKexzyjtbRaoQJDIE4FEUBsKHOGravHRb4n0S_yrdK61I1dXQOX5y_fQpa4b8axoALGl4ljrTwtw",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112043011457176261456\">Andrew Garcia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dTdIpULhmYPJeJ35TAmEulb9CFHgtyeOa2ih4F_kyhnAMlJkE1W4m68nraFST8L3G-1WU469-D7Dta27ZUbUUsvnxjXOLHLG4XV93j98W3_Hu05ywg9SUqjY4FbvptHHybjhCH80NeikV4f6Jrx5VMkL9WjKM6VzilQBsWyYTa0SFDodUJvX_SWBES3kB9tANhWdkHstcUvp9fgqHbOPE9b5LzZnZz1-nK1TjHGlSH2nG0iMyZZ_dg07V-nhFPJNs2C2YUh4JAhWh1iEsmylWsDfIJtpgg5XVXIeI55RYl6qdZS8bhXJl15v2a5G4O0ZljvOdVEAuhpA1UgMrHVmGtDgFanxsqfxriP4lEB2V7-PNvnoLSkaRTdSukaGfadCT0DORp0J4xKaRmbzTXCZ8Lpg-xAixyFa-E_bEnfnialVT_",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112019109851744620894\">Vimala V</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOAYV5fFs56szomZj90WNbWNHONY6TZCl0WCosV_YrdL3czudo-p_tJHUvoeURXx2tyWYO9_b-99HUu5M59l7AcinRroyE4WqucZaC2qUTYAb3rE0VeT69oDwckgax3_eDI5CtSD63lCakwm4Cq2i1-4NhMDH9e3k37zcUhfbpDd72TlPformULN9U6Wzu0ujkqhP_QrsWrwHvohUxdBYnP-Y794wCRxotzYSMUzVik8jSDiVYVmtuezKwXSqzYXBoTrpUNUhWX2oeSl0xEVhufvp7Noc_ZVyO2illspymYDgaVhr_jcZcir-k3f17Gnz1Hh5bHOnTk6L7VWzNQoxWRFlGv2KLiNmFQbTFrSKZMmkUM4fTY3wLIaH0vQa_MLkas3nbsIWsZozle75Xw3Mj2EelHF2bCyt6bKW6JuLhIw",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111409863904188141834\">Eric Burford</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5nEZoub1ZWTU58kPchtsHfVxTcdyVHTlg_uBE11-ox1Gb3W_m5QztN1k8gqyepf6hgT6Wks-9i_OsHohL_mBuane2yFkeP3rUdo2oPmbWh8MA4iokOlStILAg6BxOQE7vbq3o886xBI5451rG90xcd3DXtGmvqa9mV0-W2s2_6RGjJ9DZik9v0Pb7_wTk-2KTWJB30kzyPPCNMtsPqcdlj1Atf_nEgF62pWCTqIDqMsqsvxtIITT2WxLzyvHawzvY0Vy93eoyMcusTCATiO1olTqhdDpbzUiA0vNoU2JKwIMphckbWMw30crRd5MyHcdrHbmEPM1om9i1H08xPcIf7KWteCgwBX1b-SbaetfT8Q95oiXQ-ruHbSGLty2tICb29G9gB17mudq34cO5ZktMqENVzTCdJqVI5ptghoFN8UM",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117012351152053905872\">DAVID</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cbG6ABiGArS6yVh2b8pCM-NC-E6jyd4qo7PFnYmgwpSAYrbYJ5hHUfE4BaZCHh_DnhzOvOqFviLmDJ7_AETuuhGrvkH5xw17Xy5SKQJHgTBNMyUQMP6nMbbzMdZPYS0x9cmMkGY0IIaDxaJiU5ktKbLW9dGaGSyPQBNBUNmUtrHQDqnsehytUGqRZAdr3lm-llCR37lHkUFRbVzYn4ehriYdz9SV2V6Lk4gOqYzwnrCtGPrDsr_W05dLBEhTONBRmeswg_B_HloUyEcrTqTZlmZ8cfAgabjPHICcJIwSgrCm7_yjtUttUUoxxL1PkbImWl8UhyR89PujpaJeiUBvXrn37eKi0QJgUwhv-j8I0LOPxe8AE_ziNGwXGsnwUsCgq-gVgvW1Hf854gmLbYcvdUC75BhaD86v30mqMFoxUwU_RC",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111641608994022962497\">Mariam El Yahyaoui</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cml7wgamtYq46HNhZIYDvg0R_lVOrodgvUQKwyX70SDGWXHIX1BdIFgwPI1sjDQ1S0cdsdKDc4ong2o_z1WhN9n0tJMry63RYAN0sab-FCA0uDzQ9QRulcUQTAyHIrPzROVtrKQ_Yyd1PyVrSQTs5GO6Xxkqt8CWqrfeXksasQ_GxBm3Pg8r6Pzd-ouPITWNm4ZjSqslRqGs0qTsZ5VjufTXwMUzgU5LSQ4O9czXtcd9F_-WT9DyZY2dWZKqtT8Y2OQBi-kJ9E_VUQ_zJb4LR1JvzFO0AuKIcrcaX2HZXpwJt_G3I6JYVZac1NUbE11dikondwuvjG4fUKAvnosiTX6NZISk73Qn_RV5hsb7l7pLZA7FbvMKgP7qsDBSfO0s6TceiNwoDAq-DG9kZhcWJyeP-ceziZCnDm3asYRRFLOQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115433498776118238337\">Viviane Gouveia Braz</a>"
+      ]
+    }
+  ],
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Metal Mama",
+      "rating": 5,
+      "text": "Stopped here to pick buy some food for a picnic and were not disappointed.\nWe were served immediately and asked if we were dining in or taking out. Said we were taking out and were promptly offered two menus: one for food and one for drinks.\nOur server then promptly took our order which was confirmed at the till point before payment.\nThe cakes and pastries on display, looked delicious and there were other secondary items for sale such as chilli oil, olives and sauces.\nThe staff were so friendly and you could tell there was some genuine camaraderie in the team.\nOrder was carefully  packed in paper bags and boxes. We were asked if we'd like our food heated. I was also asked which milk I'd like in my coffee.\nThank you Aayush, for making us smile with your banter with your colleague on the till whilst I was ordering. ☺️\nThe food was really enjoyable.\nWould love to go back and sample the pastries next time.",
+      "time": 1754771550,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Basma A",
+      "rating": 5,
+      "text": "Stylish café with amazing food!\n\nEL&N London – Park Lane is a beautiful, Instagram-worthy spot with top-tier service and a relaxing vibe. I had the truffle omelette breakfast — rich, flavorful, and cooked to perfection. The staff were lovely and the whole experience felt effortlessly chic.\n\nPerfect for a luxe brunch or coffee break in Mayfair. Highly recommend!",
+      "time": 1748425473,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Sally Moon",
+      "rating": 5,
+      "text": "Fantastic little spot with a variety of refreshments,  Bakery goods, sandwiches,  salads, teas, and coffees.\nLovely staff, and fast service!\nI enjoyed the avocado and egg for breakfast with peppermint tea.",
+      "time": 1753611742,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Maha Altayer",
+      "rating": 5,
+      "text": "This is one of the best and most elegant branches in terms of service. I requested a dish that was not available on the menu, and the staff member made every effort to fulfill my request, also offering other options in a very refined and polite manner. Thank you to all the staff at the branch opposite The Dorchester Hotel for their classy service, cheerful demeanor, and lovely spirit.",
+      "time": 1755169701,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Maud Habets",
+      "rating": 5,
+      "text": "We had a lovely lunch. Hema made sure that we could sit together (we were with a group of 8). Everything was perfect, we had some sandwiches, pancakes and pastries.",
+      "time": 1748786861,
+      "relative_time_description": "4 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:56.396Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8MVG6YFdkgRKPtZGres00k"
+}

@@ -1,0 +1,242 @@
+{
+  "place_id": "ChIJ-d3JPScbdkgRVkMUwI9RkYE",
+  "name": "Simmons Bar",
+  "formatted_address": "203 Wardour St, London W1F 8ZH, UK",
+  "vicinity": "203 Wardour St, London",
+  "rating": 4.7,
+  "user_ratings_total": 5041,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5156782,
+      "lng": -0.1359222
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51704773029149,
+        "lng": -0.1344698697084979
+      },
+      "southwest": {
+        "lat": 51.5143497697085,
+        "lng": -0.137167830291502
+      }
+    }
+  },
+  "lat": 51.5156782,
+  "lng": -0.1359222,
+  "formatted_phone_number": "020 3879 9251",
+  "international_phone_number": "+44 20 3879 9251",
+  "website": "https://www.simmonsbar.co.uk/venues/oxford-street/",
+  "url": "https://maps.google.com/?cid=9336333180360475478",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 3:00 PM – 3:00 AM",
+      "Tuesday: 3:00 PM – 3:00 AM",
+      "Wednesday: 3:00 PM – 3:00 AM",
+      "Thursday: 3:00 PM – 3:00 AM",
+      "Friday: 3:00 PM – 4:00 AM",
+      "Saturday: 12:00 PM – 4:00 AM",
+      "Sunday: 3:00 PM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0400"
+        },
+        "open": {
+          "day": 5,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0400"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dJINFguAZJoCpCpS9qukgn7Q-aI1xctHPy0YpseDNyqOHxtom1PLQDRo3g5PGVNho5q61tVcJBKvwmODNawklVaoSwMIdxnTeTVV6_Xc-nQf6qYtpEGAJjyfwFZJIg7Q9e6Ps6EOA9uFtOuxkNdi99UEpu1EfOo7fKDOoPnKcU_7EKQEShT4xLoIeDwr_jA5o9ggoNmjOzbXO2BX_prvPqZCPk6RJMMuCk_4-hnElw2aWCHhas3UIRzcU9kJlr59dNsrXWKLO6_9ttxuGSSjMZexqAj046Ia3HSmUYk6w2Nw",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109346423792330920078\">Simmons Bar | Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dCODeXJiRjpyfnMXicyBht37Wv9N_9_v0I_w-gaCVd2kj0LamjiYAyFikLvmGbChSzvfv0XKKHT4Mvgo7B8fNpgcfTgGqtSKWHL9cv-AxTv-tuC_LRaX0eSrBGy1P1mp6EdXJJolUUOKxeuxaxOisf8OFLAHgUZVkVkJOisrSxJyqfSY2NGvyWUEbP2FL5BvqK0ez_zxi1S1Ggi1cBC9jOGJfCzL1ka43Q_l-VQ4VLiRwpQgiquGePqn_jklR6xghjEz2R1JTaWyDYkWO_VGXRyg9WC3-GKd8V_dWXyqWtlg",
+      "width": 1080,
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109346423792330920078\">Simmons Bar | Oxford Street</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drtWcgxr0rnd0Kx6gKuQL03Brh-T-i5pfr5wWd-cXgMPD-I1TiIIJv2nBJJBLHR9IGCCgq8qKjCe170xXOtf028jEcCiYuU1MxrqGtxJvm2-Wa097WKiqee-4lV6OLi89TBhvJlPzei_JDkMs-Cfhh7e47ZK_KU22me47avreVtDO00pwbaMCovP0PgO89qVvkPb6S84TZrH0TZkw-b1Jop9f2uYy7a1m4runS88GSBD0P5r6jl53rAw1W5WCTNzV6KOC5YCYIWdslwbmsKPUUFIkrXLoowzA363FlS5k2Ns50z247phfXHFl6y9mXqaYTTRdP8V0J4GTsbKB45i_bGBchKfyih3GHw58WFaO0I6pN3cYD3gUtd07wV6zu30vG8aLg2RlRIYGEL9uxilFolZTbSIAde-O7jGmaOjuC2pvS",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104624932148989801681\">Heather Boswick</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fnf7hI5jjHVUYkgMS2brFKz3wLeEE_nA0k57OlJPYtbtx85PhZPbwoPdOsT2yWH9l1-7jO_nrKdIcydaFwzVmNkzMLMVAEDuf3qg8eSads0z-AYKc9Nrj7E-zLg667E3TGwctoiydVVwe_Ac0FSnd_Moysxkt3WVBHur9KGycl5ZVN5fRSLXQpNVHlOi9CGdz1NnjuM2L7BJLZ1sIQJsgxZksStUJzsOfQFFrKoXS45sNyZEhk7PWoH6T4i2nsf3WHmdtd65h9YvLaArdpzCzhABkt0cjiCFwMxGAdB7xhTiulhgNxflLJptgROg79cxUdx6d_9NnosfNmnAdOgPOlmnhLlikZiED9i17L7cAfqNL-iD-bqrIi0BBs7Bgz-clhXCWczbXq1F-5An8MhDdfTW94BOi20M7rZMS05a-BTw",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103195862360760541371\">Alka Dhowtall</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ft5l5GFv9hB7UOX7ahejx1NGRCfS3m3hvrWICurV2IChVHYxyuwFqf8e1WLjepXNUZk9De8k8YzfALg-8jFTD2BZe0OQ529CqGkyqM8d6QdLGaX69U8AuxbhXZXxFXQWKKpeIzoxDoXKKd94Zaa6pUjuOY8m9_nSzlaQsLTyPNe4HpnNkRzeMKC_NgQ14y6v_Zu8sOLbZtfW7ItaCsPNX3Dhiw-63maDq-cV-YP8BNOxVjpj08lyFnS6N1WKj2eeMWqo-OVZrwAS9k6AloNcsysTs3ywplyLoA9TVvB9nPViqIOHgYUSr3GtnUK4BUpcal3N9NoVt0c-sJ5ysqvZRFIiN9Sn_7SsiMJjapnNSQAlyrSfoOkyjpypYF0TE9K0vApmarCpt8YVdTj-ismKi6d2L1Sws0ghQ3UguisVlgEkFy",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101762282675467971511\">Tia Jackson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f-izyijEBqHiX8OKTsnyoSaRhTsFqGaxFxNnSFTk4791YtazFHZ7Q89kYdLWjZrBTR8wHLuOR6vrXisZf7iVJWFtx9OLF1zgEifva5XRDRk2o5s9vQqpB1NMvxonVcPejfjVdDsThbsTv1TxSlnbzZAm9H-wXtkkf6ICAnuvoC-hd8ctjxCFDsQmiBD4ZIozsU7DT2u-oEfa6uJuif1zLIrBr9Za4_y7ubxC_nIIiGUQ-IsEJQLZhccvZ3sltRcbRCvwiLLqyPP9MfCdtYY20fkA2I-YCeytU2YFcHvjRpBzpSz2ZrxNXJQGJ9VhgrKEJ3ouoyNJwVh9B1OmzujWBSH6RgG4_ErIXiXzy7bEj7F_0tN3MFz-jx1jrQxrnO-ADtVE--4aWykUH2Zkjn3myW1sJ7DHtDBc6cGfJTUnvZrh2A",
+      "width": 3277,
+      "height": 1592,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104367673449245631221\">G C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fK5B-kddvPXB9NAvKzMexsNNXPDlUaA-_DB2MHFGubtBELNMwa64ts2VROBLBVegmBoQb76XdRAye56o7PIjjs78sTKZcMU1E6Z7HSKiKWaDMyVgRmanyNftJTIsstZ7_jJBjmWpXiGAQuh1JDaOcikhLYwBmppNuNF1pvn4kjFPFVvQxQmlVrU1bCVHASvdEOM5Ye7ppHOCxf7P0fw1RpzT0-hQsCnm2M_tRCxjhHy8N2OBPUVWbTEman_RovwUTA6g2CGXMYe61Z1BzsfB0CurrghBF3lMy8QpAn-h6laoVVA3Z1xtAksGLbOwZy16asTBusgHRrOijwH_8M9Wg-npow90OU-MCEwkFlkBECIik7TRRS84aUWo8xOH6LgzyWvRy412w8__0xTwkKL2xfXSNN9Jlrqu62MbjOxWYzMu6-",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101074976832482491451\">YAFEA ALYAFEI</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eLxqoTWIen7MZZga6Mh3_cHK6k56qVcWswX6Mq5YF37q4V8cuFjBKdi9CuuO4zPNtKDG6LlveqhpqIBPpzazqqMcIO1Mp7R6kpddVyhp4QJU9vTmuuE04M28fgX2fzM9CWsBKV7O1ziG5MJoW6VuH1M3lD-BjHH1PC2cXynY_okuLKllv4RH6Piiv9pwmVxNs4VzFESQtZrGV_zzRQ-UxYgqwwOxO2_Jy2xivhEwUYNuMe_arM_W4CNp3Iavm3f4M3tZkYsjbc2bDKdo_JufLseTTuVR4kBluMXwTRgwI6KocLrDZzt6TE0zRbT2Z2VSquR6Cykz8v9L7ZsCDL3gIzsGiYHqmigiyX8wU4Dmc_iq8D3uWGY__vYoGW60UWWd-BMin9A66BinTUPh_lp4uA9UdPI7vn1gcsrok9vbYtpO5L",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101074976832482491451\">YAFEA ALYAFEI</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eevq0AsJftPZaUZfA6CjUqxen9UDAej965mbNatO-DAwbVSTgHccNIWEdeLSwIRLbTn1FDM7tV-j3VqA1ml5lxlie2NqTr-6CqYRdNlMC1FE_GeqPjWLk_XYPz-AmzpV9vBAYFoeznI5PVAmN3WtM9QbK8HsSfprFmCBD46MpAlwid3FzncH3wpVEGwpbwOvyITnP3xeR5L312ZIE4KlrmP4jNCrGlPL4zVaZK5owRDn1IAzWIWO1UnnBC--pl_XTuy4-RJktJ_06r6G050EdSsXzH_ASFR66bEdbfoCwG1AJ_2T0Bf7BBvemzuHGIfJmZbl7qq-ngAO-xLMUVG61jbmnVj3EVYlpBQicZuckECSJG6u5552jm-FUVN9JksnHCuIIMprKW7uQkl5P9qcIuqrtiWOKBl0jT5EcWN-iCpQ",
+      "width": 1440,
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104029529770903635301\">Jamie Bruton</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f389rg9JoVxtqw7Jsb_ki13st5GSEplk_vHpljhrCdR4_XRC0puvBTOc9fBVKqe68Gyr3eDxfenAYvEyaT1eABDQmioouwq8T8RaqRFZPkYj3oyzuRAU6od5Se9Kp_Yda0VlTpT4_i0q5Rcd_5WxdaSVkQZY5Unh0x6NyDqt9Tlb2gAlKIEwxTrtU2YW9ufA2anHlznIh04dCg20nu7z4gRxT30Q7nHObPHo4etf2d6Sdyd0DqF51kjwJdic5yN0cclSRMaGG_IzA8cKQ_SkPJ-R0r0nmn_UXcet2ZLSmCWydXtNaB4vHDJNeFUEV2gmmToML30Xo0cMlG1h43h92e2-Sub3cr3MdHKqW0iZj2HeC0dUxXCMPy-2wfcszSqoNtwAtjYP7GBgAipsahgRLLNmZ0slSZtv9DR6Gf4HcSfg",
+      "width": 2235,
+      "height": 3274,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102159745729925808611\">Deanne Gatfield</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Reece Bollen",
+      "rating": 5,
+      "text": "Bvumai was an amazing bartender. Tailored to my preferences when even I didn't know what I wanted on the menu. Strongly recommend either the Long island ice tea or the maple old fashioned!!",
+      "time": 1755632307,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Sunita Upreti",
+      "rating": 5,
+      "text": "Roman was absolutely amazing! From the moment we arrived, he was super welcoming, friendly, and attentive. He made sure our drinks were perfect and checked in on us throughout the night, even though the bar was really busy. His energy and customer service honestly made the experience so much better — you can tell he genuinely cares about guests having a great time. Huge thanks to Roman for making the night unforgettable!",
+      "time": 1758053848,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "aiste varanaviciute",
+      "rating": 1,
+      "text": "I had an extremely upsetting and unacceptable experience at Simon’s Bar near Oxford Circus. After buying a drink at the bar, I was abruptly taken outside by security without any explanation. They accused me of being intoxicated without any proper assessment or reason.\nWhat followed was even more concerning. My coat was withheld for over 30 minutes, and I was left waiting outside in very cold weather without any assistance. When I requested my coat, staff were dismissive and unhelpful. The manager and one of the security guards were particularly rude and unprofessional. I began to feel physically unwell due to the cold. It was another guest who eventually showed some basic human decency and gave me a coat while my friend was inside trying to retrieve mine. This experience was not only unprofessional but inhumane. I’ve never been treated with such disrespect in any venue. I would strongly advise others to think twice before going here — this is not how paying customers should be treated.",
+      "time": 1759909769,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Niru Fekri-Arnold",
+      "rating": 5,
+      "text": "What can I say about Holleigh and Ali that hasn't already been said. Sensational service. Maybe the greatest of all time. People will sing songs of these girls and what they did for our evening. Truly unparalleled.\n\nIf I had to describe the service in one word :\n\nI couldn't x",
+      "time": 1756243978,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Andreea Petrescu",
+      "rating": 5,
+      "text": "Came into Simmons for a quick drink with my girls, from the moment we got in, Ali greeted us at the bar with excellent service. She was joking around, bubbly and all round happy. She also made very delicious drinks. Couldn’t be happier with the service but also how welcome she made us feel.",
+      "time": 1756241707,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:58.116Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-d3JPScbdkgRVkMUwI9RkYE"
+}

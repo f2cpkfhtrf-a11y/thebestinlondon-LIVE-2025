@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJEVzWPNUEdkgR7nWzdRdGb1M",
+  "name": "Zahter",
+  "formatted_address": "30, 32 Foubert's Pl, Carnaby, London W1F 7PS, UK",
+  "vicinity": "30, 32 Foubert's Pl, London",
+  "rating": 4.4,
+  "user_ratings_total": 1062,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5137848,
+      "lng": -0.138785
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5151094802915,
+        "lng": -0.137198269708498
+      },
+      "southwest": {
+        "lat": 51.5124115197085,
+        "lng": -0.139896230291502
+      }
+    }
+  },
+  "lat": 51.5137848,
+  "lng": -0.138785,
+  "formatted_phone_number": "07775 156768",
+  "international_phone_number": "+44 7775 156768",
+  "website": "http://www.zahter.co.uk/",
+  "url": "https://maps.google.com/?cid=6012101094135789038",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 9:30 AM – 10:30 PM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "0930"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2fvyYi230rX8UJrZAYBPco1aFVabfm6K5-UHbcQ2WZlHMUKeIT9ff0lAskbMDjEEEkIT60joka5z8tQp9iDoNBNuFa4zH9VV_bT6aRbj-IRRM2IzHtAu8_j9_Ym4fuP7h77B-OdmhFD4QrgmTiGIDmH6nSKBSQufYfrY_em4D7WTA6ujEfvbINeat5Qxals8Wgi0YtRiDajs0DON5unwfhIVZt0YCHhDbetpvD3wDrP4UC-UM02_UZhniz4dhP_IqCW5cYkoFLORWGGp_5NZO_Dw0CtGXJ6VLWEMzKuHZXrw3dwlARs0e9mMymVCeDDjDah9PXpKOABtx3cIUDP2NXQ6p8bqAKb2FDeZ9lzo5kEeRX2LzY9TjU50FwfBe7hQvdieD0nHZUrAUug2muOHHTHBSx_p4LlnVQSJ2zV9AicxQGu",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104539527001352025329\">Daria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fE0STVCQO3YqJVCpg3F8Hlr7B8swGV4XvNVj6E95LG3clfXvBrYup7TPyadMTvZ0G8cJzep44sNPqP8QIJPV79a4bzsukZeuEFflDEMzRx-RfXCM4YlQC11KjyeBzGqXf9_Hd7cSIWeir_OpqbWE4ZCQFnjjEPpaIugJP3Y4BVQosZ3Jq9zspqBZ8ZVioZEBdu35EaZAoKHDUm2Gr_E68n7nQxI3s0OGu4_vSMAf1er-8pEwmadTwXEffzDTsXF2vUTcBQQrWoMgDYAgpzNel92hLu-svrbWnrQIfY1VjnKA",
+      "width": 3201,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102484974832439212143\">Zahter</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ePdHUDprNwhd1iNSfwf8O5at9XgJRcbIxZHfIuX2tQga9dgGDvcUZ9XAgf0odnrO3HKoLGp27QfTqLXazBO43HexKMA6IjUjg3pC4KneStPpSFQxRmV2Z8XbC_s4eDURfNxE_Db3uw8_jimwae6wB8vIwxwRudIXFfGyXff7XoVV97CnLm21__EAAoteEWPY7NUzyKel9bRpLNDcJ8wVJOjTiIEfa2ivowJDi8aP5_FtR2uTsu7WFWMpg0Q9eo--6vFx4-DNfdDEshF95SelFqxZnuXnIOiLDdOQBRjIszBw",
+      "width": 1067,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102484974832439212143\">Zahter</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eoaTZeKWq84B_cYhDoeMPfdBICi24ayqGw0i2tWO0fSrpsVoc_MQcoU9jrQQ5GZRP5CkJpv0_qriABZgtANz3lQ9Rdqz0CTaj414X5RO2fAjReLsadbT3TLEmzu_hFPmqYHfbvdTDAjSoY6ZQOgsBkx5qA_afTMXpc6DqKsFQb_eiLH0_cDvclJqfnL72iH7cvMAjj8MsG9zdrLlvxStN-GWHtGeoPvVX1b0jW9keeBfNBALJ8CJCaHZVs82vMNB-wU0C4hg66CkBAW5GGozMkGtZow4Gchji9LF30um9pH6Hq4WWQw8-LLHOwTOoywykJE3QVp2iNj4MvK5nIjPRAvic2DIjuuJ_vQ6S2VaM8AXg7ykb7t_yILX_GZ6SgrdogNjcDKrW5Uqe-3vkXEQZOtM3bewNrQLCgdnBkZk3SB2F4cf2nRG-dvYYmvF9N",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109373821599370183838\">Adrian Alonso</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c5c7uuuAZQrMYd51Knyn-YbkNvrKC72gTyHGurTWKqOpdMDtpn3dCrX7e3Tjx9Mb5NgyQzTFyTTfYxvhy_W7_UW0dFZ29o_9KCw6_JPVgfqk6o3OYYjUQ5yi_JkhvhGHHMF409juN2JBHOGcTsIcPb6zBWgUmSUJFSKKWfx9c-gvLBN7KtPPhQxBA3c37888kz3Ym7DzpaZNgsOxG86sVAkRr9AtgoMInDSTv5OUj3K-u5l8H0g6Ny6yiZH4h7aTeH84AFlkpO0kh33xT1MFa83EcrAmY8FS3JYhJ3mcsSVfilC7aMiClr3NYdlIGX8snL1RPslTCuQYp-QmFb4mVlv50S3ba5Feq1fRHBwszbId5wggJcDinwyIjaxuVfPisFTkpnTr4lxo5cWhjN-aBIionrXlQAn8j0L-j9LnvTzgNfWkALVWxXP-lU6NVC",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101961142504192382856\">Dilara</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e4lpcAYsBpllRaJ4XrlwmtN88ph2SwIehRxs86Zs_AdqzB40b9qzz8f6fboCk0LjH0McCT4qkn7nxU2WUsL8v6B_30hmL5-guMQB8XqXt7S30jlSW6CXczjjYCofV3_2esGsTWFlXHQ3HH-rPLseLXDLPs3kRzmHYkIope2nV3M09gd9NAoPm03lxVRpz8brLCRNK7J7VVtuERsFWLYEKHCqFoKLO9lxaUP3eed_KFJ-XicN4azt-gAMRM6lkkm1PUSDo7DY4DQuNT55OGyacA6Rb3KDdYpoX7NHKarru0oQaRK-DIEmYg_F5eB_juqKpI8wAy3C9IS_cL7z8CuKXrYNY6_XT7lZW4BPwarmcWIAGS3c1WKStzaCH0hLRroMZQ67pQbWAD7DKT8rO4icsW9W2-lCnGX5ZFmucj6VmhTfM",
+      "width": 4080,
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114990455226660629875\">Ro.K B.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2de2h_tzyW-tjJTvJkFqbVQW6NiWDjxeUNh6yFTh6Ja9xvEjsPit7GmY7qjDz7scPdRIfgvtyDL-KTkTUpht2wWVGLk-67TblLrNfkAJtuunNyxVf6dWA1oHxQ2P9i_kaHvLZB0YKgLFvitB2AWObhYL6zK1ULItJo2aXK1Zj5K_mA0vpCPO85VpWpownq8HgzHHq93P5SiqLBtHgSQS2sUInE5T7CF-7XanDqHpTnoXMPpMe6aQ1miq5GlFlLGwVZQ3BQUG23nQFoVZJWFCyg91lnr4eMwWpKXncfPljESHQ",
+      "width": 4096,
+      "height": 3699,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102484974832439212143\">Zahter</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eUtnfMApcBEqsP2--7IARkWjtYGRTmNpYDKzxG4FClNs8PIvtsC-rRHOUhiuGh-BAVlAPPBq8JBYZEDJJFkFpJGZksWn-sa-fKMgXSGfjN4BgzM8ymxOHxdbxGFUsQZ5tosluenjIP7cOaroIFw4nNXVyjEivhJWjgx-NmEOPTcVWxpG9RGTRsZvs0DsikucXPtrB-xRgnQH4ZDCo8CGL5eIKu7cx4JNVLveOtbopKZfZvWItF7T5jrRGkp2QyRZqSet_-LXBp37Gfm6NgI7eTWU93QgMUug0mziCbu2fW6SlgyQ4-2yQjOYYLqXwLgiPXqWs-BlolSWRL_jP7CfIjdGPydCCOJqUGDKjLsqOt1Yk9pbcBzGp2N8bHZ-XVx2r3IuQGexDITvTXqyIQ66bJopuhrpTCjgxvWpr4guA6RDlH",
+      "width": 3510,
+      "height": 4181,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106243363536480826847\">Lai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e_VlKKOc5FElnoL8RaDKp7yBdIEwNUVNar24LVUiM8gbPoXm7Y6CtuT-GmZ7tRcwQgxFjDIuSMNHNKIb09IaT-WmcYbgURXVpYji84AKpnX7xJKMCaeGsh0-B1awqajorRhzmY9Wc3_siRVonAhAHhzsz0PXdIQpwkrzL5QjFVuhZ4KOmsE8Sxnv8hWGaIKoJvjT503zChmwOkn4TUC-y67_KoJ3rz5m9mSuW9lrN5quoJx40MN7lpNDZPKy3Y5mvZbVGhcW9ZnZLUSfRwKxGDGVneMvEsMTO9JEpPmIsmvnnt9mDphjCYcWKvoIPQuMzMnAPHORApEqWCqyNjftpVy_9Y0ON2kn-a6nsXxq2I5HpLLG9JWtg45ccroM4_0XozKSwtSOpsL469qjudGxDOgxseSCf-dzDxjYnRkSoCV40bJ8I22lF7dDjEYQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106851148684073640976\">Adriana Piątek</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2euTvKaoq4KQoLuAgZCDuDm87EJMyZl3johg3LvWKyXbgttdhLj2ujeHYQq2FiOeq6mZ4pO8Z0v1RG-abYd3ZU54rYOr33DkLYwPkw9POz2EQ1U-W7ImX8kZJfSVFXd3gOz38l0HxEAp4N-FB7zBnGE7_mPzCkhKiSNJ0N_8ln8lipVX6-E_JSmpeUWqO74X_Lag5zUuOXy1pyBU2PbOVOXwnhNBxq8WntaJIL2bFmyETkRxt4dJ8lZ5ryTapv5nMSt4Pl37Z-VhY1bVFcEjPTe-hye6za_I3PFfEMMXYLvIg",
+      "width": 2690,
+      "height": 2466,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102484974832439212143\">Zahter</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Celina How",
+      "rating": 4,
+      "text": "Yummyyy! Loved the Ali Nazak (ground beef and lamb with aubergine). The pastry with spinach was good too. The garlic labneh and the bread was such a good starter.\n\nSlightly on the higher price side.",
+      "time": 1759431073,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Rhiannon",
+      "rating": 4,
+      "text": "Nice restaurant in a good location in London.\nThe food was all tasty, but a little overpriced for the quantity. It would have definitely been nice to have more bread or the waitress to explain that we should have ordered two of them.\nThe waiting staff generally were very inattentive. We were never asked if we wanted more drinks, and we had to go inside to pay because no one was around.\nOverall, the food is delicious but the price is too high for the level of service and portions.",
+      "time": 1754086127,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Rasoul",
+      "rating": 2,
+      "text": "The overall quality was good enough, though I noticed the food portions have become smaller compared to last year. For a Middle Eastern/Turkish restaurant, where bread is usually an essential part of the dining experience, it felt strange (and a bit disappointing) that no bread was offered with the meal. When we asked, the staff weren’t very accommodating, so we ended up buying toast from a nearby shop just to feel satisfied.\n\nThe flavours are still enjoyable and the atmosphere is nice, but small details like this make a big difference, especially in a place that should feel warm and generous by nature of its cuisine.",
+      "time": 1760064306,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "YEO JOUNG SUH",
+      "rating": 5,
+      "text": "All the food was more than expected! In particular, baklava with kaymak was the best I experienced. The fish and shrimp dish was really nice. It is on the pricy side, but worth trying! The staff there was also very kind and polite.",
+      "time": 1753550554,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Sanjana Mitra",
+      "rating": 4,
+      "text": "Zahter is a total gem in the heart of Soho. Unique flavors you don’t come across often.  The service was warm and on point from start to finish, and for the quality, it felt like real value. Booked through The Fork!\n\nFor mains, the wood-fired prawns were a standout: succulent, garlicky, with a subtle kick from Aleppo chili and a rich lemon butter sauce. The beef fillet skewers were tender and juicy, complemented by a smoky paprika butter. The sea bream was beautifully cooked, flaky, and paired wonderfully with chimichurri. Highly recommend!",
+      "time": 1746145079,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:49.298Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVzWPNUEdkgR7nWzdRdGb1M"
+}

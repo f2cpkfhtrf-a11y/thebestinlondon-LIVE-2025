@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJq-3ryUQDdkgRSZrC9yowifE",
+  "name": "Casse-Croûte",
+  "formatted_address": "109 Bermondsey St, London SE1 3XB, UK",
+  "vicinity": "109 Bermondsey St, London",
+  "rating": 4.7,
+  "user_ratings_total": 1226,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.50053,
+      "lng": -0.0816008
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.50186918029149,
+        "lng": -0.08031956970849798
+      },
+      "southwest": {
+        "lat": 51.49917121970849,
+        "lng": -0.08301753029150204
+      }
+    }
+  },
+  "lat": 51.50053,
+  "lng": -0.0816008,
+  "formatted_phone_number": "020 7407 2140",
+  "international_phone_number": "+44 20 7407 2140",
+  "website": "http://www.cassecroute.co.uk/",
+  "url": "https://maps.google.com/?cid=17404495196053477961",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cDkhLCVjlidLK7qycLK3rEmSxBLKkrP0CFTBpEUNB6WLmfAKP9V9I07MHpK04jVXSKz7PuAprdAjJfeS8aL8agfqKB8ZZHmrgvccwnxvl02DJL21LbJ-XnwhEdtgcWWtPc35ZYzmstI9YTKiuzrNK3o9KpZ5pITH21lshomTQAzBXgbip0tnSl4b4cASNd8FDnhyAzSd0kItrgPAz_Q8BmtrpAiJF5-BPjWwITDZKv7xg7qC5IBSLLbVWXRgRN74gnZSYxodA1O-BTDPZgnAnEccjaQCdsioII-xh3WINoWyoj9bJViFtVAatixK_t3ea-LLUYk8Va31sbI9X8Kb5qI-2YaWhUIOClLsmGikl_5nos19qSRj0NZLtD3A7KPWSJxT_x-6oUb90LYZ4Sxdc_ntRFy9NsytHM-R5Zgx4",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114945809497216666581\">Alla Tsyganova</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e-nFfbLctOfb6BazOfsKofB9XXx16OFBdDZFThqpQ8d8klshRNoshdrB9I4lYoIt81PTD_zuSoQROIlZwkv9UVW8GM4t7eeaSW4yRDi70_aieWct1uoiT-Kti8qVfkCNRBVECZDqW5RZTd2lRytchkLwfLAIdDvSFuE3qb9Z4WVe92BrEzRFQoFZyA6deqRlU_KlOxLC5po6j7UNYjJcw8uPz0fzfOyHdqTFHZvdRVvzbnM2N-gsCGD4VFrrRebjNSt0n3o8030TFIn1TqO30DeO8y0g6hvM4066YaOXviyV_KB9_fK20UNBF9G8pc6aOJF1SU2iJ_mSw1ZsRfuR4mJ_luSLIcMSYk6imKEsso4DIFAEEjtpgHrB6VCk7fBSOZVrtL-kaqlL5u9hlpsHzSArljHI3SYw3WEW2R-BLf9WgPYZ6Mf2aTBUDJzA",
+      "width": 2891,
+      "height": 3653,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115426436259678504554\">Uni TT</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fE5lUjEA7hxjkRuRGnEv_HOnbYjIXKOOQ5ta9mHe3w27J9d1An_8Q92ScW7SPmHe2yy9Oy33n8kXVdtW9__hbaiBzk5mP8J4oSpWzUS-cI2ZD63l_U_ObpFznRbOSyLKszSXyVtnbQ75W3FNAUUUyFFe1NNMDsH5Hhi-XHff8E8mWYh_BZqHvc5jtLowTTZkigJPP4qbfyCCuIn0ayBOxxg4gTVx7B1bal2Rc8_km3vnXyG-h51c7LvTNf766LVuXwYwODyqi8g61ld1ijFRi000ZxE58l5sbogpSbezSFw1FMI5nm4hzA7PMugnDvA5pomxogHKFSUW2_2TaxU41zkK-0fHWwLD3kjV0Kqiz6--JbkrBShqyl_l1uTWA_pt-ZaVp3cLJcoS9af_oDBUWo2ro-1Rc2VgNS1K07yTUaGdg",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104474232205492060962\">Candy Hung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOTrQqapV7mcEoS5vM8njyKe1uamUC6YSYR8HkVBhMibrHLJhmxgjb1JwGBYfEyWsEzcku-pSayAJdGeOXMXZc_0futl0ylGtrDxmnPcMyHwpP-iqW-_Dw2hOMk0BTsV1-7sdtWc0WAYpjwXhsDsClDKZ1NNA43cz2sDvZAf-owq9Qwo_t7dCduDcjbuAORhn9OuAPDV3x1rtAuwHoNcht5p9uepylB-bac85PkeBtsF1d3a8lbZupxn0sp2ssuqp57wMsgzZ0NqWF2ftiNS2kHh-w2obS9Dg2FuAf6FfyElki05YIHwdQYWridjFXKlV0GSc95ss3tjyHfDu3hOOXo9XVl67uZDfUmo4D1svPA9VCk-OZQQMw1_8rY7jyuV9n6x0bleQLQ7IXp6ZB_JgOKFk7vwZat0mz-a8AR51x8GKATnl5iIH2Ql3_8aB1",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104228144272007620215\">Maria Vasileva - Grinfeld</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dqBerAodE1V6LWsfj2Z5VlBMuXz4FkSiFMDtol3UEikk2go1K5P1nbNyYYQIPeg_fK33GrDcfou-5WoYq76Kh6ODyJ_c0Y6lAQfMMuT8LohZJKFCf_RP7Qplx0f2NEg_KsI-43h4dwsH5APQod2BriMPMPFGMF_32NxFwRQf0q0fX05vUUzvb6nwUdeo3u0aFjZIbVkTjrX2zDjrzOvRP7SoJdGglY9qrOasA4F0R69yCI1KF01Tk2e1yPI2bICgEGQiYFa5tcMg3lAiM4YchR-7KCnjOfGjHne1-guflHvu2ApmaUT0rSbMO7Wz2V3tOsgRe0bI9grNV-voKXnuQYmHC_U7pwR_tsh22M2YdqBDbOyu8pw-zx5ntg5TEU6UOYRxb8ep2SVewwlifbtkfEIQMVhxFagRqp-EK-QaDsKvtmRCGin-SUbOHQ1klK",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115426436259678504554\">Uni TT</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dJf6ueaZXMKX3107uj5DEP7u7rANOjGvqhI7p0h2l4_shj74I102sC52uwaEDQ8kF6_43KRwSKmXWgt6Vh7iyh4eueXfmPIqy7GUyCqOY2ZxDHnE3OBI5Oo2ZRBidIR0Yt2A0iZon4BAwbGEJfNJbU-6DvB1qRP51F5p7gmMOhRzrkQzLPEC9OyqZcEmnCFvKl2vHqdseN_KA2MSeuIphntEENKnZRHDNw1WSBf_FAEGDLDZEVUifBGRG6ipdJYRlRQGDQeyfsZKTMn8WV-CUWG95SV1uq7v3uy5viYboecUWyyDg10aXG-2pplxkvIB6zgraDfPztU7dZTJzOeLSpx1DYhq7mGdmdx6ObS4AMlGKXNgCodAy1i8_3Ot2zhX8OVDTTX7pqwmP2T5GqpannL-j_sC6JudKyL_ml3NtB-08m9bDIGe-WBl_7Pw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110704877399797353189\">lily l</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2estthxFUA3s0o4JHoZFq8K4WtrjJAc30obJvx-f3nEprRN2tQL1a852LvgrZ_JDBJHDSzGO099hrvjhHE8tt9yj8kUb8Az8IkiVOxENTwC3nwDIKf8UOktNG9hG2k7PvTv_p82f20vJB-MpxWzWJXN-sEUxztSfWsLlSNC_QZUq-F-9Fbvx952WVdXxaLJbEqXOhV_LFIMBAv9p3Aafsig2pQVxDSLTCkayvIOOkjn6IWItyXMDbVxPxfpbKykkintSrNUInOzYVXxxJqJbtG2DXpHKTqw5e36iH5sYiqQW0_jmo_L4Iqw7A2qESKssGUOKg-LmVMe_UHO2_8KuyOKf3u_MLvaC5_LVLDoR-_q08iP4dHY7Yn4d77U6RObQp2MmdGUIf1CQRZFxZizZFRMGqGp2RQ9KcJxhitW0lQVc8E_BwIcnTWLWfiZYQj5",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115566407854204770469\">Hugo J</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dAitOZVj4jdWKjPh1ja0VrO7bl5qFs1FCG_W-zPvGa7OsKS6v6iR4BHO0VyP48J9yvHlMyJa7nZNk2s2h5lsrvA1wMc8JVbOqW_B7A9lZF1A7lSCvoVWKp3f1n_2QaYHp25dccGXbcrhfH_YRrnfV31JtXJu5KMfdkoig49QT6QwQeuFp37E0fkTUHr_p6i6lBi3V8NG8EJ9-FWU3K2MmkqioghuejtWAxneskpJ1qO0yLHqZr6N6pw_ep-Wvk7WvvaqytsmZhRcIrIGiGwMXvJbQ-FqRijl3F0yBp09IhYRhqpSqRfvAUBMs9awk8g6wTNtPM1FnLfoHZNg35DP6vmbSeh-OG2jpay2wdb8mXW-tv8pTeMGk6K3m51OZzJVN1At5pum_MC0uAkbkL-J2E3Zf4kRwmQu54zZu2OBJWxJEsVVmvIwDClYFu5SlR",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104331199010636845403\">Alina Karpovich</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eTa3n1p2xUrMeu54dFWcDoTGH00l8Gl5LvDUtyZVlpWxquJb60K3_eL8swqg2nIa1EQnaGT8v9la0xaVJ9TBQZ78TnUlRSUpbQUJKMVoaF_4qDPelx7NQevkDk-_P5j7YQ-UUngNfJCqeXocO8tdNjdhniFP4odqp3bvfK1do_VWOTikN-c7Pz6W_4odbLPwy2pWI0K6DCh3qbxOReQ7RPCqFWIjkXSUumg5eq6AFfxR8yXp-lcfrP7xaL-5rInecX4N0KzoD9Fse6k1JlcrW87XQQgy2LrUinfFpyR_wT4MGVvqxVvmgPWOZB_kYic_UxP3JtHjG3aBpkMRl0svDYRoSwtvk2ZZceXka_oWDAd2IzSeQWnEQkvznWQPAO4nzY9axwTVpn4KFxY4YSbkx_pR-kM-sRjazjRHMoKXJ2RK-TxXO2S15KKT1hwHrg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104299954645582835283\">Tak Ho Fong</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eSQojRYKW0Y-fnX7j461C-dS2npFPbIswG8xQlsdW6MskDCzzx5Le4WFokewuRJcU7RXNtAcDe6wf5OGaNe_Y9ln4EFBkwFmbu_1nQ8sF1usMYzhcHTWIimq6IuS375k0lNCJ_aDAP88Tl4FfHaUVpjtYnFcrfMreMYIamaadiPg78a6CrPRaqzzAYJB8UyMZ5OdjGxIQGxFzTuwM5G7rmLWlIJVNIURr4gKUKd_9r22IUNkVrj_WgRBd53fYttNuAUFrOoDx2vVI19Vgfuvod40tSg4b45GbwNpWaIESRcy9WfkM9KxSSJ1mtHsc9JNatvMIWk6qMYR2IrdYcAULukQwyiuQX2NreBpFnVSebp859HeiPYWkUXZcsbyR8JzaNu3dwPcyoP0QVopnKKc8TdCtyEnf9-isbiHLPrvW6gA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109207835040103241249\">Stella</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Intimate operation presenting a menu of traditional French offering & fine wines.",
+  "reviews": [
+    {
+      "author_name": "Z Holdsworth",
+      "rating": 5,
+      "text": "I had a thoroughly enjoyable experience overall and would recommend this establishment to others. The service was consistently attentive throughout our visit—staff members were prompt with drinks, checked on us regularly, and were quick to address any needs we had. However, I did notice that while they were professional and efficient, there wasn’t much warmth or personality in the interactions. The service felt somewhat mechanical, lacking the friendly banter or genuine connection that can elevate a dining experience from good to memorable. It wasn’t poor service by any means, just a bit formal and distant.\nThat said, the food—which is undeniably the star of the show here—absolutely delivered on every level. Each dish was thoughtfully prepared and beautifully presented, showcasing quality ingredients and skilled execution. The flavors were well-balanced and sophisticated, demonstrating real culinary expertise in the kitchen. From the appetizers through to dessert, everything we ordered met or exceeded our expectations. The portion sizes were generous without being excessive, and the timing between courses was well-paced.\nWhile the slightly impersonal service was a minor drawback, it certainly didn’t overshadow the exceptional quality of the food. When you’re dining at a place that prides itself on its cuisine, that’s ultimately what matters most, and this restaurant succeeds admirably in that regard",
+      "time": 1760255751,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Fiona Choi",
+      "rating": 4,
+      "text": "The atmosphere at this restaurant really is so beautiful. It’s low lit and intimate so it is perfect for couples or groups up to 4. The menu changes regularly and is entirely in French so the servers will translate for you if needed (which I certainly did). We ordered a veal salad, a duck main, and chocolate fondant. The veal salad was nice and light with a sour dressing. The duck confit was soft with mash and spinach. The chocolate fondant had a vanilla ice cream and a little caramel on top.",
+      "time": 1752834429,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Christine Kim",
+      "rating": 5,
+      "text": "We came for Saturday lunch and enjoyed the cosy bistro atmosphere and the food was very good with good portion sizes. I like that the menu changes daily. Between the two of us, we shared the quail salad (very fresh and tasty), the steak with beans and peppercorn sauce with green beans and potatoes on the side (meat cooked perfectly medium rare and the peppercorn sauce was delicious) and the cabillaud with ratatouille (nice piece of fish and the ratatouille balanced it out well). The service was polite and friendly.",
+      "time": 1752397015,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Tak Ho Fong",
+      "rating": 5,
+      "text": "This bistro in the vicinity of London Bridge offers a compact menu but their dishes are all very good. This evening the three of us have the chance to try all their three starters and three main courses. Among the starters, I love the herring salad most, yet the asparagus and smoked duck breast with gizzard are not bad either. As for the main dish, the wellington beef, the cod and rabbit are all at our satisfaction. The ingredients are fresh enough and nicely cooked. The staff is helpful enough despite they are very busy.",
+      "time": 1748900426,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Daphné Riffi-Aslett",
+      "rating": 5,
+      "text": "It was my first time here and I wish I could go everyday! The atmosphere, the food and the friendly staff were simply incredible. I never go to places twice but I planning on visiting this gem again next week! It is not overdone, very authentic and INCREDIBLE food. As a French person living in London it was like they took the best parts of Paris and made it into this lovely place.",
+      "time": 1757372295,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:49.582Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-3ryUQDdkgRSZrC9yowifE"
+}

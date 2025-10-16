@@ -1,0 +1,242 @@
+{
+  "place_id": "ChIJbxmJuLMcdkgR33dwiKTmT_Q",
+  "name": "Be At One - Spitalfields",
+  "formatted_address": "16-18 Brushfield St, London E1 6AN, UK",
+  "vicinity": "16-18 Brushfield St, London",
+  "rating": 4.7,
+  "user_ratings_total": 1515,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.518907,
+      "lng": -0.0782639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5202888802915,
+        "lng": -0.07691781970849798
+      },
+      "southwest": {
+        "lat": 51.5175909197085,
+        "lng": -0.07961578029150204
+      }
+    }
+  },
+  "lat": 51.518907,
+  "lng": -0.0782639,
+  "formatted_phone_number": "020 7377 1238",
+  "international_phone_number": "+44 20 7377 1238",
+  "website": "https://www.beatone.co.uk/spitalfields?utm_source=gmb&utm_medium=organic&utm_campaign=homepage",
+  "url": "https://maps.google.com/?cid=17604543062752655327",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 4:00 PM – 1:00 AM",
+      "Tuesday: 4:00 PM – 1:00 AM",
+      "Wednesday: 4:00 PM – 1:00 AM",
+      "Thursday: 3:00 PM – 2:00 AM",
+      "Friday: 3:00 PM – 2:00 AM",
+      "Saturday: 1:00 PM – 2:00 AM",
+      "Sunday: 3:00 PM – 1:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2ck60PxNTix2-sPDCzgUDJvf5WsVnjwGbVddtNy7PMtyw9ufFU9AMp_ZjgZbg-IHqpiGHOi0SZIqwTatJS8ZbWZf0m2bKfoMMrkIiJk4DYUDld59m_xarwSn9x5f-CzD_o05QFO6djgroB64M6OG61mSa6vs_mnRTtiZ5cctn4e2BCeLH4VZaXBW3k3JDtaIdflgEGxZvnXiRcXjBougtVrT9ERyOlGAeFgn1s74uGfk_llwkUC4VVIJiKlNKYN_hLvx7XTtEpRFGYVUbxQiYthI68shXjKEQSZ-k1Lfxc0uQ",
+      "width": 1379,
+      "height": 921,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109757879252650464986\">Be At One - Spitalfields</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e1bhzS_6iIPg1aJwSQrIIyg0bfwW-PDBIOWSZSDilKXlIFJoZrAYqPdgkCT6ClZkcwTJlQXU4lAtTYez3j2ZaTGFl58IHH2kTXgIGmoN-QqcSiVIpeEs0f4MlDT6daO_KM0tLxbf_ZxpbiL7cwqZoA-fJ66TbGroCWZ-emeXqmHiX7BXkCvAUc0Qu0tBOMnUHISINhRlelL6gXAO-07ApgVklVIBGVkePTE1jGKjvJLOk1_upK_CHN8XWz8kCV6SW8yXGY4cHUivn--W4-f7PLAtNiAre6hO_kVG2SEKqZF4R9pZlYMbIxrGIYYr_uLxtBt_kCZL_jNoHKT21pWJuEfnAsZFXfiKe5nq5TzI-bZIC8BmtoQT9BW6yZrCF06jAHVKYCj-4tTxvYFUd-tFQrFDa9VJ54KGON-1KAQEo",
+      "width": 4032,
+      "height": 1816,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115035121327508412169\">Katie Applegarth</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dXvbCh6bzYPglYTbUJ-E_6of1zJdUDZo2fZVlIruEu5cHqAJkXUwJmmU4eJJDkhXgqnkyux-Vg5SORDzZMo7GU9nJ9ZmCmzVBh7S9SoziuHmTKb6CDnNJmtDJsEX678cVJtucq5FDNhFvxKAiHgD8AjIzTKMJWD0UrFihPQA8IeMmjwW4v5X6WmEh_jAtjCXmTIfD2x1YLdtwjSc1J7hh3M8sbiLBr-xgOz8n00CW-LFlCmPGhUo2YWxE4XlCsNSmsbUm8L0pJqGwSF8b5rPoqHQsbB2h7fprgvCJyUHT5wQ",
+      "width": 1383,
+      "height": 923,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109757879252650464986\">Be At One - Spitalfields</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZGTMI3kQcztW1fCeDQK-edxNAxR7PUigZhbc8apabyDpia0OI1f1WoBOyZO18x2PXoTVvT8TL2VjvHY8_9CrcyQKHYhWFOmzLZYEfdA504zBtGki8bcG4Ngq2XEVxLBIFipclrphnVe7kABL-0_EphjAim6KDVrrK_hWktub0pAJYFCesmQ8GymdBSnoCSvYtvwEHAJNr8QNZFep8XXjRgB9Ij2rGvj_DNVclJZHlHScTKMl2soMwq1GWBBpbr96GKDEsfqRxjBhoqlHV9Qm676BLutVpMEuigwg1Z6PcLNsTfwApv2wtMQbTKpS_SUHAZi6OD0HxiPPjAjNbxrKOe9llaVVHfh5oN2T5VWI8loz7xHOQEFbc0QwxIPeGwy_3dHjuMEJ8BJ-R2nmPJmjCU088JIrDjW53J1HiMoVIQxLXJ4QESmEGvaTQ34bh",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107334091286563180275\">TheMinevera</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cqEDOb3Zh0jLgbevYhYA2BsijEstN45KBhwuETAFen-YtN-MPHlB5k9rmH15gZnaoDGk2oudo3rOufmD63sp62ds8PCIu2_vafdIltcjMP8-9YxP0kh1Yvac2e9855LZBnVq-gVYXJ3r8ivLHAJgk0XFMQWJRP5s5JSdk5T3EtnX1DsonX3_AiPrCuT9UjCPCY0OaBFxH3cuoCZ3dc0atuK_0y8aARl22IGhQ8W9t-exuQZoLpdjZ4vxbuVNXINQlQBC1eiuJyoLP9ocRbSzsCO6Qc3xpe2QuklT14NHsJa9OFYnDZDzWT0bKWIm2SC1v_AVPiB23bSPLVVy6fHUOdhq227yb1_MhmuAluR5sDDI1plsC5HeYHNCZsoxERxSnfMb6_BSj0TXJ-E8Lye_iBLdw6har1LLhwbFvfyzz4PFo",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110706972982753474556\">Cameron Rao</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cES3F5x0v2fv73OBP37n-jPvaU9exVupH5YWBCLfzo5PUdlkDTTYi1y_mKYMSVn8eE_milScujJ_ZlyF5LWMnoPTzOztqViBMRJgJr_9-cSx7iK5Swkn74XuApzfGHPfP-Au-OmDk-UlK22FHesEYBTcU6kwJyhHRPm7Yqpx8yI8IM5r4tCJ-QksfUpBC-I61f33gZiDRJ39DB7HN-sRAQl-GjwmYP6T4zVJPkDYzylwADzBX4zSgAJrsQZNfJ8T3YWRq1EJm0JFlXBuQiWamj2e5blhP51AYf6QyEiUXaq_awFP4tID_LVPDLTfNUrenT9GgzcporEaW7Ils8t_n-v1F-9JRbGJftPdPxKxuWMEReUOyFrBQhGwQHYiJZmEp6iBhVZYBLClKmhinD2tgR3FbXHu0uJlkNsJRRj3H9GQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105336191764023074538\">Nella Kawira Gatumo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fCuWFlqGn2Kq7jub89OiHngIR_6S9b3KnkoQmE8sclMH4IAkRIRXrhcCSCNy8WddDcafDFYn-LLhYCJi5t1x6WcrDnWnGh9Qdb0pazX7LiZXM7Y723moS2Ejp0RGkSP3cyO6G9dVDrR2NatWAyslEM4TqU4AuVZHzfZt-uregWktuiY5MoNe-TnLwzsIU23ZXxGTp6rUfwHIguIgpo0csm8hgJMax1DQjaPzqMOProteLJsbpbKbu9ahwYDk9zIFPup0buPTvMZBWBlVNBnt2NIbWChZotDZcN2EF0KEKSDn4WBZeRZypPxnh0ky2qFeEKgDws3w74PPOIa6WAqwyjsWz14vG770hwqJQpgghSr9L97uLfjIvXfQC-wSUAMUKBxjXXc7IrpdKtsS1ypkSm16tVcZziopVmfvlUQXZCQw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115806533692651545795\">Louise Nicholson</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dqiwOZaEPvH0JWtVFoX_f7Q3tX9tQ5QkjEGh9Zu0LVCP7djev8Cut-krOehlyYB2BuxH9DOwRjgP6XYu3NjpB-RDBh2arck8-aK7pdTaR6qrAYW1553fOSgvHh1gzZUoszQu_3FSP1CL5rxNnfCX_ewvr1e72WTRtamCACHSWTnBjqgJmHlVEFzvDk9-EkXpzlOzhzOQ9_UhQJte50rrjqonq3ZUxsTFXQbCsv_7u_zs5fQka2C0ZVLCYl0oX7Omv7CAaP0xSuRMO5EFx9wXty3ObDYpupSkHFJE_FKWtZDQz2QLKx19Mm5s_zAKVSEhdOM7tR5IYkIZLD-4LUVmaO13xhj7j1bimrlnsIttQ7-DB_5w902fDuCgLo0jcgzMQERAM8Rd_X0a6xyrLQcDTQIYTNeMqTwadU4ozta9Ziqw",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101271527960196001795\">Debbie Morgan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d4Ly3oqWLsroAV7bOY0aYDf1QVP86R0US9VZVeh25uqyJispJdLRf9dPE9OoZhR946Empv7mgjubH38gLtv4lI7bGx3pLzMm_Oo8ZSUQugj-dCcszK1t8n961AZ5dY3mk537KPmALjR-ib1OM1WZpFDtcJEXwSl1BngY43uQmrYVaob_tene8AMVvG05Pa6sFqdWCPLaO1_VUpbiTqEGg6Q-Kgv0W1n5GF__VwbHfhAZfFLz6CqgJdIFrYITICUTEMKx-gSL_X6dR86LJCFkblf0XDiE5KsT0sy5O4-yGsavJEaC422PtgcJhMXMK_DcQ5XMekgRywj58w7daRnJnBpYDT4AoN-iSWNMoLUoHIVh3w1PaDOQbK6ZbKaFiym9qemfyhboIBZWay0hNkySGaJ8yzaqorUYLFKctcW4xXETs",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104132191908711954204\">Victoria Balint</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cBsYDJ--I73PCEyAlfzoRN3GL8LBeW61YYGmdIWldbJt6FFNlBmdDtt4fdfnEXe1zr5rmP6qeSHMqCfjKB71dqRmZImz5R1xYTunp-gwTTwcXcmTJHwpgf-pugzFb5r56FfidcYTr2sOp6aqSIK-zlqEj6ZbRetk0VrAd2S2H-i6wNL-LSmn3gprUEza13mEBjoAfzypCNc9aqH575kFjKuDGmp6-l7ZKBO515jx-_UoSGPsXadyc8NfC1axRM6sQ3V2dKoGRyFM8kBvTaRo49XKP2N6mpElzhrqo_O5jNk0BUxEFQJTuKBTXsdz16jQT79V2bbzIxrGx-eF1o5oCf9eXMQix5RYzseXGc1IJmrZ7WvOsNsKBZJafKLoIPUI24c6BXOmXpGItcKbDPcSjM5UbRFANDu2JEQILbQitnUg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103525307582831629542\">Jackson 0920</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Lively chain bar that serves sweet, sour and spicy cocktails, and offers mixing masterclasses.",
+  "reviews": [
+    {
+      "author_name": "Bishow Sundar Sejuwal",
+      "rating": 5,
+      "text": "Thanks for the best drinks over here. Great service by the team . I would love to visit again here ❤️ So much love .",
+      "time": 1748299878,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "georgia may",
+      "rating": 5,
+      "text": "Great atmosphere, music and customer service was 10/10. Kadir was serving us and the drinks were strong and great tasting. Would defo recommend coming here in the summer.\n2 for 1 was really good deal.",
+      "time": 1750527864,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Vishakha Upadhaya",
+      "rating": 5,
+      "text": "Shaun was amazing!\nVery warm and friendly\nPlus he made fab drinks really really quick.\nDeffo recommend the chilli mango margaritas for £5 on happy hour",
+      "time": 1752101717,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Alexandria Hall",
+      "rating": 5,
+      "text": "Just had the most wonderful cocktails from Libor & Kadir, amazing service and the cocktails were delicious! we just finished a gig watching Goldie. What a way to end the night thank you gentlemen. Xx",
+      "time": 1745967857,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Nella Kawira Gatumo",
+      "rating": 5,
+      "text": "Always a fun place to hang out! The music is for everyone and the crowd is always so lovely. Livor and  Kadir served us great cocktails and we are now regulars at this point! Can’t wait to be back.",
+      "time": 1745878185,
+      "relative_time_description": "5 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:59.488Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxmJuLMcdkgR33dwiKTmT_Q"
+}

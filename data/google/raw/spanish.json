@@ -9,12 +9,12 @@
       "category": "spanish",
       "priority": "medium",
       "rating": 4.6,
-      "user_ratings_total": 2042,
+      "user_ratings_total": 2043,
       "formatted_address": "35-37 Heddon St, London W1B 4BR, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -33,110 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJqeYp3NIEdkgRl9hMI8pRL8U",
-      "name": "Barrafina Dean Street",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 2855,
-      "formatted_address": "26-27 Dean St, London W1D 3LL, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5141074,
-          "lng": -0.1326682
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51542947989272,
-            "lng": -0.1313619701072778
-          },
-          "southwest": {
-            "lat": 51.51272982010727,
-            "lng": -0.1340616298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJCXPcQi8FdkgRYnqAE3sr-lc",
-      "name": "El Pirata Of Mayfair - Tapas Bar Español",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.4,
-      "user_ratings_total": 1674,
-      "formatted_address": "5 - 6 Down St, London W1J 7AQ, United Kingdom",
-      "types": [
-        "meal_takeaway",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5051129,
-          "lng": -0.1481722
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50645707989272,
-            "lng": -0.1468329701072778
-          },
-          "southwest": {
-            "lat": 51.50375742010727,
-            "lng": -0.1495326298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJqRED6isbdkgRCT80mnwGaVU",
-      "name": "Salt Yard",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 1571,
-      "formatted_address": "54 Goodge St, London W1T 4NA, United Kingdom",
-      "types": [
-        "restaurant",
-        "bar",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.519168,
-          "lng": -0.1364891
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52048852989272,
-            "lng": -0.1351069201072778
-          },
-          "southwest": {
-            "lat": 51.51778887010727,
-            "lng": -0.1378065798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
+      "fetched_at": "2025-10-16T20:23:24.884Z",
       "query_used": "spanish restaurant london"
     },
     {
@@ -145,12 +42,12 @@
       "category": "spanish",
       "priority": "medium",
       "rating": 4.4,
-      "user_ratings_total": 1218,
+      "user_ratings_total": 1219,
       "formatted_address": "27 D'Arblay St, London W1F 8EN, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -169,107 +66,42 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
+      "fetched_at": "2025-10-16T20:23:24.884Z",
       "query_used": "spanish restaurant london"
     },
     {
-      "place_id": "ChIJW7d2YlMDdkgR6xp0JHq_DP4",
-      "name": "Hispania",
+      "place_id": "ChIJCXPcQi8FdkgRYnqAE3sr-lc",
+      "name": "El Pirata Of Mayfair - Tapas Bar Español",
       "category": "spanish",
       "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 942,
-      "formatted_address": "72-74 Lombard St, London EC3V 9AY, United Kingdom",
+      "rating": 4.4,
+      "user_ratings_total": 1675,
+      "formatted_address": "5 - 6 Down St, London W1J 7AQ, United Kingdom",
       "types": [
+        "meal_takeaway",
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5128777,
-          "lng": -0.08770889999999999
+          "lat": 51.5051129,
+          "lng": -0.1481722
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51423187989273,
-            "lng": -0.08632947010727778
+            "lat": 51.50645707989272,
+            "lng": -0.1468329701072778
           },
           "southwest": {
-            "lat": 51.51153222010728,
-            "lng": -0.08902912989272221
+            "lat": 51.50375742010727,
+            "lng": -0.1495326298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJDW6yXuobdkgR8VOW20m4wUU",
-      "name": "Luna Llena",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.7,
-      "user_ratings_total": 319,
-      "formatted_address": "119 Stroud Green Rd, Finsbury Park, London N4 3PX, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5692122,
-          "lng": -0.1123256
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.57063382989272,
-            "lng": -0.1109240201072778
-          },
-          "southwest": {
-            "lat": 51.56793417010728,
-            "lng": -0.1136236798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJzSHq59IEdkgR9YV2dM-vHRY",
-      "name": "Lobos",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.3,
-      "user_ratings_total": 1517,
-      "formatted_address": "48 Frith St, London W1D 4SG, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5135532,
-          "lng": -0.1315777
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51491242989272,
-            "lng": -0.1301921701072778
-          },
-          "southwest": {
-            "lat": 51.51221277010728,
-            "lng": -0.1328918298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
+      "fetched_at": "2025-10-16T20:23:24.884Z",
       "query_used": "spanish restaurant london"
     },
     {
@@ -283,8 +115,8 @@
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -303,7 +135,344 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJqeYp3NIEdkgRl9hMI8pRL8U",
+      "name": "Barrafina Dean Street",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 2856,
+      "formatted_address": "26-27 Dean St, London W1D 3LL, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5141074,
+          "lng": -0.1326682
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51542947989272,
+            "lng": -0.1313619701072778
+          },
+          "southwest": {
+            "lat": 51.51272982010727,
+            "lng": -0.1340616298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJy6_-DNUEdkgRY6DEXuVnbPE",
+      "name": "Dehesa",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 2503,
+      "formatted_address": "25 Ganton St, Carnaby, London W1F 9BP, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.512777,
+          "lng": -0.1393547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51412102989272,
+            "lng": -0.1380531701072778
+          },
+          "southwest": {
+            "lat": 51.51142137010728,
+            "lng": -0.1407528298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJd5l5BBAFdkgR-_e7T6hRrh8",
+      "name": "La Gamba - Spanish Tapas Bar & Restaurant",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 1208,
+      "formatted_address": "Unit 3, Royal Festival Hall, Southbank Centre, London SE1 8XX, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5062053,
+          "lng": -0.1172521
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50726187989272,
+            "lng": -0.1162980201072778
+          },
+          "southwest": {
+            "lat": 51.50456222010728,
+            "lng": -0.1189976798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJ7-kYWMoadkgR9tJjg_AiRQk",
+      "name": "Donostia Restaurant",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.5,
+      "user_ratings_total": 727,
+      "formatted_address": "10 Seymour Pl, London W1H 7ND, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5147163,
+          "lng": -0.1609987
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51605007989272,
+            "lng": -0.1597001701072778
+          },
+          "southwest": {
+            "lat": 51.51335042010728,
+            "lng": -0.1623998298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJV9j3pyoFdkgRGVoRgp9w8To",
+      "name": "Aqua Nueva",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 1601,
+      "formatted_address": "30 Argyll St, London W1B 3BR, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.514452,
+          "lng": -0.1407718
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51581862989272,
+            "lng": -0.1393580701072778
+          },
+          "southwest": {
+            "lat": 51.51311897010728,
+            "lng": -0.1420577298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJ5z-IMH0PdkgRE4OJLTM-Qgw",
+      "name": "La Parra Tapas",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.8,
+      "user_ratings_total": 274,
+      "formatted_address": "158 Fulham Palace Rd, London W6 9ER, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4865501,
+          "lng": -0.2211468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.48793507989272,
+            "lng": -0.2196834701072778
+          },
+          "southwest": {
+            "lat": 51.48523542010728,
+            "lng": -0.2223831298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJzSHq59IEdkgR9YV2dM-vHRY",
+      "name": "Lobos",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.3,
+      "user_ratings_total": 1517,
+      "formatted_address": "48 Frith St, London W1D 4SG, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5135532,
+          "lng": -0.1315777
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51491242989272,
+            "lng": -0.1301921701072778
+          },
+          "southwest": {
+            "lat": 51.51221277010728,
+            "lng": -0.1328918298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJqRED6isbdkgRCT80mnwGaVU",
+      "name": "Salt Yard",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 1573,
+      "formatted_address": "54 Goodge St, London W1T 4NA, United Kingdom",
+      "types": [
+        "restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.519168,
+          "lng": -0.1364891
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52048852989272,
+            "lng": -0.1351069201072778
+          },
+          "southwest": {
+            "lat": 51.51778887010727,
+            "lng": -0.1378065798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJDW6yXuobdkgR8VOW20m4wUU",
+      "name": "Luna Llena",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 321,
+      "formatted_address": "119 Stroud Green Rd, Finsbury Park, London N4 3PX, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5692122,
+          "lng": -0.1123256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.57063382989272,
+            "lng": -0.1109240201072778
+          },
+          "southwest": {
+            "lat": 51.56793417010728,
+            "lng": -0.1136236798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
+      "query_used": "spanish restaurant london"
+    },
+    {
+      "place_id": "ChIJuSWNrA4GdkgRLXnFWZcP06w",
+      "name": "Little Taperia",
+      "category": "spanish",
+      "priority": "medium",
+      "rating": 4.7,
+      "user_ratings_total": 1014,
+      "formatted_address": "143 Tooting High St, London SW17 0RU, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4254822,
+          "lng": -0.1701185
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.42681092989272,
+            "lng": -0.1687294201072778
+          },
+          "southwest": {
+            "lat": 51.42411127010728,
+            "lng": -0.1714290798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:24.884Z",
       "query_used": "spanish restaurant london"
     },
     {
@@ -317,8 +486,8 @@
       "types": [
         "cafe",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -337,180 +506,9 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJAQgrN8AbdkgRGhaGlWPrMDA",
-      "name": "Broken Eggs",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.8,
-      "user_ratings_total": 446,
-      "formatted_address": "24, 25 Foley St, London W1W 6DX, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.519337,
-          "lng": -0.140511
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52063352989272,
-            "lng": -0.1391203201072778
-          },
-          "southwest": {
-            "lat": 51.51793387010728,
-            "lng": -0.1418199798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJzTqczssEdkgRbuUUlkEuzMM",
-      "name": "Casa Manolo, Strand",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 466,
-      "formatted_address": "99 Strand, London WC2R 0EW, United Kingdom",
-      "types": [
-        "bar",
-        "liquor_store",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5105698,
-          "lng": -0.1207466
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51198732989272,
-            "lng": -0.1193570701072778
-          },
-          "southwest": {
-            "lat": 51.50928767010728,
-            "lng": -0.1220567298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJ4SojyD4bdkgRDaUS-yosED0",
-      "name": "Camino",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.2,
-      "user_ratings_total": 3514,
-      "formatted_address": "290 - 292 Pentonville Rd, London N1 9NR, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5309402,
-          "lng": -0.1217038
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53231987989272,
-            "lng": -0.1204421701072778
-          },
-          "southwest": {
-            "lat": 51.52962022010728,
-            "lng": -0.1231418298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJ05ipQssEdkgRFQa0UBb-vpQ",
-      "name": "Barrafina Drury Lane",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.5,
-      "user_ratings_total": 1330,
-      "formatted_address": "43 Drury Ln, London WC2B 5AJ, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5143764,
-          "lng": -0.1218053
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51572822989272,
-            "lng": -0.1204589701072778
-          },
-          "southwest": {
-            "lat": 51.51302857010727,
-            "lng": -0.1231586298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
-      "query_used": "spanish restaurant london"
-    },
-    {
-      "place_id": "ChIJKWSNSlIbdkgRmJ7LCCJYdt0",
-      "name": "Maresco",
-      "category": "spanish",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 498,
-      "formatted_address": "45 Berwick St, London W1F 8SF, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.515172,
-          "lng": -0.1361222
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51650122989272,
-            "lng": -0.1347593201072778
-          },
-          "southwest": {
-            "lat": 51.51380157010728,
-            "lng": -0.1374589798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:55.587Z",
+      "fetched_at": "2025-10-16T20:23:24.884Z",
       "query_used": "spanish restaurant london"
     }
   ],
-  "fetched_at": "2025-10-15T10:52:55.588Z"
+  "fetched_at": "2025-10-16T20:23:24.884Z"
 }

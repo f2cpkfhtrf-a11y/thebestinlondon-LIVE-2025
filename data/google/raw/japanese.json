@@ -9,12 +9,12 @@
       "category": "japanese",
       "priority": "high",
       "rating": 4.5,
-      "user_ratings_total": 2748,
+      "user_ratings_total": 2752,
       "formatted_address": "5 Raphael St, London SW7 1DL, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -33,40 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
-      "query_used": "japanese restaurant london"
-    },
-    {
-      "place_id": "ChIJn6rIg9EEdkgRX8hySToFzgk",
-      "name": "Machiya",
-      "category": "japanese",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 3070,
-      "formatted_address": "5 Panton St, London SW1Y 4DL, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.50936009999999,
-          "lng": -0.1319244
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51072442989273,
-            "lng": -0.1305888701072778
-          },
-          "southwest": {
-            "lat": 51.50802477010728,
-            "lng": -0.1332885298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.985Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -80,8 +47,8 @@
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -100,42 +67,40 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.985Z",
       "query_used": "japanese restaurant london"
     },
     {
-      "place_id": "ChIJi_vxlrIcdkgRIz_Ec6MJUBA",
-      "name": "SUSHISAMBA London",
+      "place_id": "ChIJn6rIg9EEdkgRX8hySToFzgk",
+      "name": "Machiya",
       "category": "japanese",
       "priority": "high",
-      "rating": 4.5,
-      "user_ratings_total": 12172,
-      "formatted_address": "Heron Tower, London EC2N 4AY, United Kingdom",
+      "rating": 4.6,
+      "user_ratings_total": 3071,
+      "formatted_address": "5 Panton St, London SW1Y 4DL, United Kingdom",
       "types": [
-        "night_club",
-        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5162529,
-          "lng": -0.0809449
+          "lat": 51.50936009999999,
+          "lng": -0.1319244
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51770207989272,
-            "lng": -0.07980827010727778
+            "lat": 51.51072442989273,
+            "lng": -0.1305888701072778
           },
           "southwest": {
-            "lat": 51.51500242010728,
-            "lng": -0.08250792989272222
+            "lat": 51.50802477010728,
+            "lng": -0.1332885298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -144,13 +109,13 @@
       "category": "japanese",
       "priority": "high",
       "rating": 4.7,
-      "user_ratings_total": 2717,
+      "user_ratings_total": 2719,
       "formatted_address": "47 Gerrard St, London W1D 5QJ, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -169,40 +134,42 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
-      "place_id": "ChIJAWYM7dIEdkgRB4EK5EPS4KM",
-      "name": "Eat Tokyo (Soho)",
+      "place_id": "ChIJi_vxlrIcdkgRIz_Ec6MJUBA",
+      "name": "SUSHISAMBA London",
       "category": "japanese",
       "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 5509,
-      "formatted_address": "16 Old Compton St, London W1D 4TL, United Kingdom",
+      "rating": 4.5,
+      "user_ratings_total": 12179,
+      "formatted_address": "Heron Tower, London EC2N 4AY, United Kingdom",
       "types": [
+        "night_club",
+        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5137149,
-          "lng": -0.130203
+          "lat": 51.5162529,
+          "lng": -0.0809449
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51502257989272,
-            "lng": -0.1288186201072778
+            "lat": 51.51770207989272,
+            "lng": -0.07980827010727778
           },
           "southwest": {
-            "lat": 51.51232292010727,
-            "lng": -0.1315182798927222
+            "lat": 51.51500242010728,
+            "lng": -0.08250792989272222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -211,12 +178,12 @@
       "category": "japanese",
       "priority": "high",
       "rating": 4.9,
-      "user_ratings_total": 664,
+      "user_ratings_total": 674,
       "formatted_address": "44 Hugh St, Pimlico, London SW1V 4EP, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -235,7 +202,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -248,8 +215,8 @@
       "formatted_address": "18 Shepherd Market, London W1J 7QH, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -268,106 +235,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
-      "query_used": "japanese restaurant london"
-    },
-    {
-      "place_id": "ChIJUxM3CtgFdkgRcQdT2JJrEPo",
-      "name": "High Yaki",
-      "category": "japanese",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 929,
-      "formatted_address": "UNIT 13, High Yaki, 10 Newport Pl, London WC2H 7PR, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5120368,
-          "lng": -0.1293737
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51335127989272,
-            "lng": -0.1279411201072778
-          },
-          "southwest": {
-            "lat": 51.51065162010728,
-            "lng": -0.1306407798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
-      "query_used": "japanese restaurant london"
-    },
-    {
-      "place_id": "ChIJIe6SvdIEdkgR2JJDuWXEJRc",
-      "name": "Shack-Fuyu Soho",
-      "category": "japanese",
-      "priority": "high",
-      "rating": 4.5,
-      "user_ratings_total": 2548,
-      "formatted_address": "14A Old Compton St, London W1D 4TJ, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5137081,
-          "lng": -0.130121
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51503977989272,
-            "lng": -0.1287575701072778
-          },
-          "southwest": {
-            "lat": 51.51234012010728,
-            "lng": -0.1314572298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
-      "query_used": "japanese restaurant london"
-    },
-    {
-      "place_id": "ChIJtztpzhwbdkgRsuNgcj18UxQ",
-      "name": "Hot Stone London",
-      "category": "japanese",
-      "priority": "high",
-      "rating": 4.5,
-      "user_ratings_total": 6435,
-      "formatted_address": "3 Windmill St, London W1T 2HY, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5185559,
-          "lng": -0.1343133
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51991367989272,
-            "lng": -0.1330165201072778
-          },
-          "southwest": {
-            "lat": 51.51721402010728,
-            "lng": -0.1357161798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -376,12 +244,12 @@
       "category": "japanese",
       "priority": "high",
       "rating": 4.7,
-      "user_ratings_total": 3120,
+      "user_ratings_total": 3128,
       "formatted_address": "2 White Church Ln, London E1 7QR, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -400,40 +268,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
-      "query_used": "japanese restaurant london"
-    },
-    {
-      "place_id": "ChIJdROADDMbdkgRrD4gdDbG9ko",
-      "name": "Abeno",
-      "category": "japanese",
-      "priority": "high",
-      "rating": 4.7,
-      "user_ratings_total": 1951,
-      "formatted_address": "47 Museum St, London WC1A 1LY, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5175339,
-          "lng": -0.1252188
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51885327989272,
-            "lng": -0.1238836701072778
-          },
-          "southwest": {
-            "lat": 51.51615362010727,
-            "lng": -0.1265833298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -442,12 +277,12 @@
       "category": "japanese",
       "priority": "high",
       "rating": 4.8,
-      "user_ratings_total": 3491,
+      "user_ratings_total": 3492,
       "formatted_address": "13-15 Great Eastern St, London EC2A 3EJ, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -466,40 +301,73 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
-      "place_id": "ChIJOVNb59IEdkgR4MHN89sf5aI",
-      "name": "Koya Japanese Restaurant Soho",
+      "place_id": "ChIJUxM3CtgFdkgRcQdT2JJrEPo",
+      "name": "High Yaki",
       "category": "japanese",
       "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 2502,
-      "formatted_address": "50 Frith St, London W1D 4SQ, United Kingdom",
+      "rating": 4.4,
+      "user_ratings_total": 928,
+      "formatted_address": "UNIT 13, High Yaki, 10 Newport Pl, London WC2H 7PR, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.51364,
-          "lng": -0.131701
+          "lat": 51.5120368,
+          "lng": -0.1293737
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51501857989271,
-            "lng": -0.1302822201072778
+            "lat": 51.51335127989272,
+            "lng": -0.1279411201072778
           },
           "southwest": {
-            "lat": 51.51231892010727,
-            "lng": -0.1329818798927222
+            "lat": 51.51065162010728,
+            "lng": -0.1306407798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
+      "query_used": "japanese restaurant london"
+    },
+    {
+      "place_id": "ChIJAWYM7dIEdkgRB4EK5EPS4KM",
+      "name": "Eat Tokyo (Soho)",
+      "category": "japanese",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 5510,
+      "formatted_address": "16 Old Compton St, London W1D 4TL, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5137149,
+          "lng": -0.130203
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51502257989272,
+            "lng": -0.1288186201072778
+          },
+          "southwest": {
+            "lat": 51.51232292010727,
+            "lng": -0.1315182798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -508,12 +376,12 @@
       "category": "japanese",
       "priority": "high",
       "rating": 4.8,
-      "user_ratings_total": 238,
+      "user_ratings_total": 239,
       "formatted_address": "53 Cleveland St, London W1T 4JJ, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -532,40 +400,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
-      "query_used": "japanese restaurant london"
-    },
-    {
-      "place_id": "ChIJafBMJ6wbdkgR-KqbdKzyekE",
-      "name": "Sanjugo Angel",
-      "category": "japanese",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 2670,
-      "formatted_address": "42 Duncan St, London N1 8BW, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5336574,
-          "lng": -0.1045314
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.53502062989272,
-            "lng": -0.1031711701072778
-          },
-          "southwest": {
-            "lat": 51.53232097010728,
-            "lng": -0.1058708298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -578,8 +413,8 @@
       "formatted_address": "20 Berkeley St, London W1J 8EE, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -598,7 +433,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
@@ -607,13 +442,13 @@
       "category": "japanese",
       "priority": "high",
       "rating": 4.4,
-      "user_ratings_total": 2820,
+      "user_ratings_total": 2821,
       "formatted_address": "37 Charlotte St., London W1T 1RR, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -632,42 +467,207 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     },
     {
-      "place_id": "ChIJ6XM3ctMEdkgRnt-6NpixXG8",
-      "name": "Bone Daddies Soho",
+      "place_id": "ChIJ3Xz1VkQbdkgRUgW5PZAMF6Q",
+      "name": "RAI Restaurant London",
       "category": "japanese",
       "priority": "high",
-      "rating": 4.5,
-      "user_ratings_total": 5787,
-      "formatted_address": "31 Peter St, London W1F 0AR, United Kingdom",
+      "rating": 4.7,
+      "user_ratings_total": 1339,
+      "formatted_address": "11, RAI, 13 Bayley St, London WC1B 3HD, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5128581,
-          "lng": -0.1338819
+          "lat": 51.518761,
+          "lng": -0.132082
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51421562989272,
-            "lng": -0.1325367201072778
+            "lat": 51.52014797989272,
+            "lng": -0.1305331701072778
           },
           "southwest": {
-            "lat": 51.51151597010728,
-            "lng": -0.1352363798927222
+            "lat": 51.51744832010728,
+            "lng": -0.1332328298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:51.476Z",
+      "fetched_at": "2025-10-16T20:23:20.986Z",
+      "query_used": "japanese restaurant london"
+    },
+    {
+      "place_id": "ChIJmfK8XnkbdkgRN3LZ9y6M6j8",
+      "name": "Uzumaki London",
+      "category": "japanese",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 5001,
+      "formatted_address": "107 Great Russell St, London WC1B 3NB, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5175087,
+          "lng": -0.1292179
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51884457989273,
+            "lng": -0.1278914201072778
+          },
+          "southwest": {
+            "lat": 51.51614492010729,
+            "lng": -0.1305910798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:20.986Z",
+      "query_used": "japanese restaurant london"
+    },
+    {
+      "place_id": "ChIJA2F7oSwFdkgRVkmQrSL-ok8",
+      "name": "Chisou Sushi and Izakaya",
+      "category": "japanese",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1299,
+      "formatted_address": "22-23 Woodstock St, London W1C 2AR, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5138031,
+          "lng": -0.147187
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51519037989272,
+            "lng": -0.1457827701072778
+          },
+          "southwest": {
+            "lat": 51.51249072010728,
+            "lng": -0.1484824298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:20.986Z",
+      "query_used": "japanese restaurant london"
+    },
+    {
+      "place_id": "ChIJYyj_7tQEdkgROdjdhJJKNHQ",
+      "name": "INKO NITO - Soho",
+      "category": "japanese",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 1441,
+      "formatted_address": "55 Broadwick St, Carnaby, London W1F 9QS, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5130582,
+          "lng": -0.1372415
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51448672989272,
+            "lng": -0.1359090201072778
+          },
+          "southwest": {
+            "lat": 51.51178707010727,
+            "lng": -0.1386086798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:20.986Z",
+      "query_used": "japanese restaurant london"
+    },
+    {
+      "place_id": "ChIJtztpzhwbdkgRsuNgcj18UxQ",
+      "name": "Hot Stone London",
+      "category": "japanese",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 6436,
+      "formatted_address": "3 Windmill St, London W1T 2HY, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5185559,
+          "lng": -0.1343133
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51991367989272,
+            "lng": -0.1330165201072778
+          },
+          "southwest": {
+            "lat": 51.51721402010728,
+            "lng": -0.1357161798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:20.986Z",
+      "query_used": "japanese restaurant london"
+    },
+    {
+      "place_id": "ChIJIe6SvdIEdkgR2JJDuWXEJRc",
+      "name": "Shack-Fuyu Soho",
+      "category": "japanese",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 2548,
+      "formatted_address": "14A Old Compton St, London W1D 4TJ, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5137081,
+          "lng": -0.130121
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51503977989272,
+            "lng": -0.1287575701072778
+          },
+          "southwest": {
+            "lat": 51.51234012010728,
+            "lng": -0.1314572298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:20.986Z",
       "query_used": "japanese restaurant london"
     }
   ],
-  "fetched_at": "2025-10-15T10:52:51.476Z"
+  "fetched_at": "2025-10-16T20:23:20.986Z"
 }

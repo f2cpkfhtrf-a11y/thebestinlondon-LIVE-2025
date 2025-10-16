@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJsVvuTtIEdkgRpsIH_WaE2es",
+  "name": "Golden Dragon (Chinatown)",
+  "formatted_address": "28-29 Gerrard St, London W1D 6JW, UK",
+  "vicinity": "28-29 Gerrard St, London",
+  "rating": 3.8,
+  "user_ratings_total": 3992,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5114322,
+      "lng": -0.131632
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51281323029151,
+        "lng": -0.1305246197084979
+      },
+      "southwest": {
+        "lat": 51.51011526970851,
+        "lng": -0.133222580291502
+      }
+    }
+  },
+  "lat": 51.5114322,
+  "lng": -0.131632,
+  "formatted_phone_number": "020 7734 1073",
+  "international_phone_number": "+44 20 7734 1073",
+  "website": "http://www.gdlondon.co.uk/",
+  "url": "https://maps.google.com/?cid=16994760246725952166",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dXDa-bEi3ur6ENEpo8p8dd5rBugAWIxHvqxI_fdXbAYGBnejSwSx5LfSdRgwGyQNQbeQrSyXEtGTWGgYLtVuFL3OUeZNVFE8JyIFBLapdem_5sWHy4L0Rbtrr9sg_3KSNn4pL8a9LSA_gxBO608YM9kDFFG88lQQ_-zeEFXrLdt-IkCjEUbI4Fs967XPGYj8YiscZd8IsoGkkxdu_0BNapE3zxePDRFbzh3q3Ffr31HzxhDgW54oyUaTwB7L4Jnai8GVm1dwzpZBAxIDP4kBlzSSUbeEzEX5vArE03xUQr_6gwQEUnYWTfi_CcoGTTBg9VYx2dy0JoEYr1-7NlbjiDsP6fKynnMiVmch_g8CDg8fubX2SaStddeMEKh8sMvSz_yK0Y4TO8SZp9otNfyUutrIQaSx5kdDhFgcUSGb9ggy8",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117329189221939895271\">Gary Bennett</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fgej_rQhfRV5J2gFquyORIV-BEkK-292U3Q6XvNjgYFlvb9QkoePNcwXqD6pAgo0PFLCUpaWlnbXeoOaPBqYH1durLTy4--9ShglC9ZlBhfnCI-6J7ljzKC8j5jar2DiQJIQAe8VaMxwFCaQ9NjmcCotgoXmxQXbbGICqo_EWghmNrML17O4arvaXvqoHGvWIE76LMa3zaI8Pag_lFRXbnEJ8Y5qOAjaquSvIU3TDZYTFcmtuTh7-0DsBZY3UcibNdQmlRUpcAOKos5hmqwVdvtZ5K3at6t3YFutT9ZMDCLBWU8FgIdF_pC7rcP9DmLIexK7b3tQ2GV17iI70GqAUIraxRE0Nl34z17uEAZpdocZOy4Nm3ZiIQXPqveWdIiLlZ89GMl_NLL1UgOz768LjXBBDKwz_vaX6vlF8euOMXV16up8n_okMfqwx82hfD",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110530445375212614291\">A G</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ehBWoOMpptbAIp61j7EDl0CUMR6kSf4-KLsxK9rKBS6sqBrcyqK97eGuzHX5pEx9OcrGfRoMT5_irU4llTGPDBOcGQr5cyofpkM_R789N95N1BbLS7DC9eTW-yJd6r_Vsh2TrLgst-3DtOwBWgceVGWniQEwFRr8ADvAMYXkQxwISKm1ZZ-DxU9Z6YFTctE9z7PdBnbXzNHf7dEamyX1JTOzrTMPExa-XE2ZJysr3fQnUGwbe1lNaHzosjIa5Smy0JV93QLTLeXlfdVpI6S0h3Kt1U8FxeWZgLsS6wSLa55Y1ESNtDEgJd5dehN-HNXBq3Neau4Q3BBCmFzDSwluUDEPAeKOPJu15Zt1JOzCAK3pnLOw4HlospE6TsZjiB3sVsx2t45hrDfWupkekWE468h9G9T5Rf95J_SkqC9So",
+      "width": 4032,
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103933398473131634816\">Cecilia Ramesar</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d62FYwAYP9C2ZFcQdZIPrznSgCcjmlA74Vjiy_PU_w1H_k7xu7kvDNJviVGwKR-A5ZrHZWR54Eg2f2K6iaM2owZoarrdhWW1Z4YtDJ_daRjGrmVrunOFBgckwuZ5PTgoEJNbYeOYzB6d9ZDBvesx1g_8TI11Lai9uH8pHoUmFMOcvg2L-di6XwJIfD4CAn_ndm1woUzk2ef6AAgRUm8T9Z6q9btwEoXIFNlqMqnPlKjl7SMZz4diXRFPBG-3NVQELJvYahUM7IXhJhYCenPY8qlsjkxAHzOK3_ejBCNH_UPJ0suyc35cfXpL_tcej-Jbl9lVvnJSaoE-ApvJ4u1oPgKaujmJtSLBFD5NboFhFI6swoJhXboIvlSKGfuGhpiGOoO4fcDP8gQMXp8X_03jrjW38yOBaEqoAkFqysF7AMyPnAIeWXfmBLM30N_-aM",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115339483096513313371\">Alejandra Peña</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fMPYZNVloig7lgGwx7bScQyCVEO7fgUYexh1wiqot9GeZ2yl-M_sgBdybsJmcniqyA9f9McGFkLYx-HUsDmAL3QFsrnLNd_XuNVXx4Fs9Ohbtyau2EsWoBl8wee0paI9ai4YqDfMDLRAwz4ysgf34EZySw_2nu8p0paMHG17IDUhSIV6xPias43xRNqJDEvtbxKNmRE8Inub1OEpyxUgk2joguJoe-HmOGAn32aXuV3ztUm7Su3FSfgXUSAo_G50l0Z2EqoxEp5xa_5wzi-odqB5TtQqJEEIHnxGucXGsaPVlOtna8qQysA730gE0GR-ePNBrMzlGip8uwsGWjt98QrPe7dx0Qy9SpaSdPYO38vqXSquQb_cbGIUnQS7fX-ps7cKiJDsrDP4Ao8ku5UwOfW6zwegFkfSoY9tIs1dP4F2hbHQnHwth2fFgNKDl5",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104045705994923551345\">joan williams</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dkPrhisP_usP7DslNRUL_Q6_NCNY14xKooX78JLl7Pfb8X8t3zi66HQOlpal3Z0NjSoHO7fttdX9Y-fwRAVAwhrbGZoeCWCjg4iCP-Zd1MxAzbcemgvxCZTxP4z53mVDzTuexkoJh5EEJQjse_gFhQarM8t4hWtZUSHEu1op7yqK0BIfiGEQnMAcw_IlYif0ZvYR8yAgnI8GylgNUF5G_xEJ4nrBRCIOPXauJeYGP5vqmbY3_PY-MtlffH2JewfCNrb_5jiDcHqt23A3NKdjI9xzRtxO7rVWpTCtG_OWlhb3LtswJ2YZ2QZJmbxZ7TfE0FFrwKPOwNwtpXHsKe71lCruYgQXpspb1yPvUYDgeEznp2V6nFLlKuzsQN2Fo_uuWTFUiCEu3A5zX7BP6UrltqDjddNI88qZjGZnwX-lXQUbWi",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106862207199956144899\">Bogdan Kidon</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ewMglnU03fBEH6VpgKcmXXicvMm34opy9KY7LUNnPX7hCpy1jmY-9GHcha81I7_cI2xVbH-3GmuAouUvUzRh38zfDTMmv4XpLvyTYjX-fJ7ZGm1uOpvPSaGUsnxBso541FjXPcr_dJfToEglATVIlZf2PQz4S0hNDsOtC6m5285ZderCCCwF_AqAsosFogpY3Q4yzHMiKSTLZ5en8WIX_ZoLRzXgfd4OYG0S7p3tC32a-eWQnzTQeo1XhsHGnu3CApncNnXONA1yIe1tw5LvW5Nfnr4yZFZliCvM062zRaFH7gDlTKni7Y6ppY0N6xOdMJbM4YP6NXoxsbOQ1LGFSlLZHBWpsQQvyzWjUb3j7bZv8qv1t1rUqrKx6HpJnyyoS-7cX3_qC10j-8vFxBp4Wk_y3ZxJ6P6xbUQiURgPGYkfHh",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103358461112620449353\">Sophano Kan</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2enXi0yIkDpGaY8vcHAwQybfomx38vruyOM_Sn-VrZQ83tvgMx7CL6pX4XV_zaZeU-oX1DMC8QjEc0J5ZjNyqsYCDKjwXRISoeasXZ0b18Ws-MgKjkUrq2YsYGExFLY6VQLrfmEJ7AmkmaGoMsNrbpqEgLPEKIZ2vBtrm8oFyhhbaNP3k4U3yAaFCYplVjOB81h1dpbM2TQavM0n5gmqs7sG-ZawQFk-ezK_Zm0wt0dgnQKWiZ7JKBxbhT2h7jpP21QCRWK5DHadvIXtcwJjAD6TXMtUxE53sHKk2RsNdfEKXEaP6_pBsF1EU_KRLCPkdK2F9UFcKaT6Kp70XTpYP0V9OKktGmnMm3b3iJj8Af1rccZi2yE7uwc-vzniKNhyOOzbTTv6AuTw2v8BnZVGW4t6xYpb4tr9lkAthTzwbo",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113706820623467171413\">Yen Bui</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dEEy1ywhnXtInTYpNkcVcoTJdDGGwTzyIlNKoB_bO_u6BNtSl74gp4B5Wg0VELCnJhalH-Eod5T_xluKziOMAN45EYp3tH5BUr2SZOaNu9a5AcSEBufVsNeJjGfx-xW2EWrgMthT5TGEWRpj7b2sgBfNK1pnW0R0sFbdSSPVlf_ZVBZPwI_Wra2JfNk4zFfOdmUcfLL27xJgjqUjXCM-Lavdjubet78VxN8zUoIFjuHhTyg3858-QdSNqHw3oBkPbGNeQCS32nI_tE6__UzHaq-pReE8M3JNbvATxMk67tQhS6LfK9DTQVFO4TblajRKZab-b92lB3IjGwSGrNkaRzNSZpxvoc7Qfkj2TN3xiQglysQ_N4FMgAT9yTXro9VMuQoO_gHhE1bn0j6CP6GI8HKhr354gHHvOJVoIWJag",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112958022303071630891\">Mike Carroll</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dQ7cgEELTPNjmA4zqVovcsy0xNkaowsfZBX79ZW7Rj3QLbMT_vlR5qezBT15EVEucPTvVBifhAilSqOdP1nRWk8TbxFbEsCX-0oo0A0v9PxCsOiukJpspeDi88ELFmL8pFE0mA4Nkl8ddrypme-ixhEXAm-YIYKM7m71La0eZyKhhIyx74sndYiOTTFZp08C1_RMFcB6M3LCTy-96LxbstKrSBYleo_McLLL46CPY711AsD2aK10JQJbWh3kryoLFtsE5Meb7VcZHcpiI76-kcdQdv4-oubNEcrtYn8vdw-Evxlj_8HCd-4g2r9nmbdzhSQTqB41PiK9wernSEzpypDnEizB8l-3Cl5KbB1seM4_6C1N-S9Bgtj_eYz_dOudC23jPASUXxKWozYQbXtJIirdbi_bXOK3NkkNLfeCEkN98l",
+      "width": 4080,
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104614478271892323739\">Kon Yew Tan</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Spacious restaurant set over 2 floors serving Cantonese and Pekinese cuisine with dim sum lunches.",
+  "reviews": [
+    {
+      "author_name": "Josh Porter",
+      "rating": 5,
+      "text": "Golden Dragon is everything you want from a Chinatown restaurant. Fast, attentive service, great food, and a buzzing atmosphere. From the moment we walked in, the table we had booked was ready for us straight away, and despite the restaurant being fast-paced and busy, we never once felt rushed. There were so many staff on hand that we never had to wait for anything—credit to the team for running such a slick operation.\n\nWe ordered the Oriental Set Menu, and the restaurant was more than happy to accommodate a swap from beef to chicken for one of our party, which meant everyone could enjoy the full menu together. A thoughtful touch that really stood out, and one they were within their right to not need to accommodate.\n\nThe meal began with a comforting chicken and corn soup, before the array of mains arrived. The standout for me was the Sweet and Sour Pork which was perfectly balanced, crispy, and packed with flavour. My friends raved about the Stir-Fried Diced Chicken with Cashew Nuts and the Spicy Szechuan Prawns, both cooked to perfection. The duck dish was also excellent, rich and tender, and rounded off the meal beautifully.\n\nOverall, Golden Dragon delivered a brilliant Chinatown dining experience being efficient yet friendly service, excellent food across the board, and a lively atmosphere. Highly recommended, and I’ll definitely be returning.",
+      "time": 1758626516,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Matthew Clarke",
+      "rating": 5,
+      "text": "A faultless dining experience today...came here on a Thursday as part of a trip. We regularly dine in Chinatown but so far hadn't experienced this restaurant. Filled with lots of Chinese (always a good sign..no offence meant) . We ordered a large array of dim sum and 2 a la carte dishes. Food arrived super quick and was really good one of my favourite char su pork I have ever eaten. Staff were friendly attentive and helpful. Definitely recommend this venue for both seasoned and novice dim sum eaters.",
+      "time": 1756986918,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nicholas Martin",
+      "rating": 4,
+      "text": "Golden Dragon in Chinatown is a lively spot known for its authentic Cantonese and dim sum offerings. The average main course is reasonably priced, usually around £12–£18, making it good value for both casual meals and special outings. Drinks are varied, with a mix of traditional teas, soft drinks, and a decent selection of wines and beers to pair with your meal. The atmosphere is bustling, especially at peak times, and the staff keep things running smoothly despite the crowds.\n\nThe food stands out for its freshness, with dishes arriving hot and well-prepared, especially the seafood and dumplings which are customer favourites. Golden Dragon also caters for accessibility, offering disabled facilities that make it easier for all guests to enjoy their dining experience.\n\nI love my Chinese foods , and Golden Dragon didnt disappoint ..",
+      "time": 1758405129,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "A G",
+      "rating": 4,
+      "text": "Stopped in after the theater for something to eat. Large menu offering a great variety of food was good, not great. Was clear the staff wanted to go home even though there was still quite a crowd inside eating.",
+      "time": 1760224177,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Scarlett Zhao",
+      "rating": 5,
+      "text": "Authentic Cantonese cuisine in quite large portions. We had fish & tofu stew and shredded duck vermicelli soup, both were tasty and comforting\nEdit: we came back for dim sum, and everything was wonderful. The egg pudding is a must try!",
+      "time": 1757535977,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:46.275Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVvuTtIEdkgRpsIH_WaE2es"
+}

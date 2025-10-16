@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJ__9DAWgFdkgRj0UKhMpiz4I",
+  "name": "Pravaas - South Kensington",
+  "formatted_address": "PRAVAAS, 3 Glendower Pl, South Kensington, London SW7 3DU, UK",
+  "vicinity": "PRAVAAS, 3 Glendower Pl, London",
+  "rating": 4.9,
+  "user_ratings_total": 363,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.493587,
+      "lng": -0.1758392
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4949686302915,
+        "lng": -0.174403619708498
+      },
+      "southwest": {
+        "lat": 51.4922706697085,
+        "lng": -0.177101580291502
+      }
+    }
+  },
+  "lat": 51.493587,
+  "lng": -0.1758392,
+  "formatted_phone_number": "020 3161 7641",
+  "international_phone_number": "+44 20 3161 7641",
+  "website": "http://www.pravaas.com/",
+  "url": "https://maps.google.com/?cid=9425861167047918991",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Friday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eMpg0WB9q4TbLlO6aqMQTNkEJqrzyhRxdDDImegFt2LCcz-WEu9WDn72HHxfPlY-GSttrNNFELYH2DpjkmKX2BL0DbtCST_v80yfpFsz250U_noC3lk_k5gy3fYDE3jx_JT30s2nhKzvCeDZdnw-utbKkl33L0YywXsAwijuNTzWLY0vxzbZAY17-JYHRTApkTU1OC7EwnIuIEMdLl0bhqoc8uqBxZnb52XzRme2J67Zh1axSHvrIPXwkwB2vmgAQxEWq28SMh1zEV_Or98_TN8wtnhH7p0o_FM3N-vdZ-Sg",
+      "width": 911,
+      "height": 768,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109980664224687399302\">Pravaas - South Kensington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dMbYzG4tCBDFJeOz83UraACDFCkI37x8EJ5wptMhYTYp_8uVomAAq3FYPnNiroDZozQUJ3ZFTxP1t0hSEl19Wbq2DTaa9NcaJe6khInbBt8vGtclhhmQRypx_kVZfvjKIibQf9pI5aEsGVeFx_7loB_b9ymy60V9S_rRNOAatghd_9ouEF5-Y5VpWHkeLDUPygPPLpQonlFdew4XfGXjCiNUFOSJE36F4mP9dJUXaJAweLTJzAua8Ncfy1j90mVxK7JrDJOp-8a_WrFV_YkSEp_cY2Fyfd1RTtPnEmYXZlgA",
+      "width": 1279,
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109980664224687399302\">Pravaas - South Kensington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e7yjLcyL5VASg7vP0htppfCkaAe8AHI7mAO8iuIC7mYIFMUEBcWuLl1_5dStyuSKvPTaVupC7KvLjr7I7JZd4cSPX2AbzDx1CU_jGx0P3WngdomazB5ueA5QpE-niiBAmAO5VTm_s2I_6g3HUfinyUAnVeS8PIl3F2gq4cRcOQL9AMfGVpOoEtXJOCZxhncqDI0YgcyraTXVeoffJml6XzJ3-CLhD56J9M_ZHteIVo_ay3XJG14gAi3hKczUp-NmAfSwllcJ3Vi_3NmMvaojREZckMgrxkQK-dyl51ZybJUA",
+      "width": 3188,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109980664224687399302\">Pravaas - South Kensington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fsgejHWXjLzMozj-UqThm_fVVzhNoy61VZC8wQgeSsvbTLR_zs-Gls22NsOXkh1cQ53fqJT3PbnzQOTd82jyhSjYxgftGuas2i-DHN6Ul6CGJJHi39jrBO4qBEqxrIx7MrjNYXhov2SWD8L-7lFpbiiwOzGEns_QQPYxugs_umL_9wRQjJx5fY4F-VB5rWd0IBTTNQ6LVbGE7m4Gx5juIAHAQmyGhfJutia68yloN-1TDYUkyueBRwXaMSNe2TlblIv6JvF-mKEjs3cD-AxESJjiUllmXR7GW13apRLXvbV2WlTrksEaNCvlVTbhBvdfL13vG4LAB_ClhHwqiLd8nt6cl-b81uFkvKs_awTaFLASxuQpM1nSmmkafw1N8Z8NHjg-gpwDvD2svwVPEUsnoK2vMF7mvWYEr00KNAlOLDkg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101894372868859169738\">Claudia Rei</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dW-OFshaa6qNcNJzxCwr-yAcJNZJcjTKTwvcWC4a4lQVfL6tZ3XGITeCDxUt-TKVpJvoqxuw3P7pStVNJhMikpBp67PeHuCjTBRePTc2Gg0f3v8CUuqBA2-7TE1ygXes8pz2F6CCOP7RcCJwX7YJGU-pTPabaGCJJnide7M6DbXE0zZmIr4lxdRBYG_JniK28aowUs6LDyQEYksOyU2tf__bAoI8lEjoyrJ3-B0wJXYFl8jHYPz_Y8K3stSxrzCYIaqBKj93tA7WHSQgBOVA2UN7bDuHBkZ9zUGdPrdV1wrhjunAKjRI7EZCLCrB7fOfIvlhqYWGAmc3AtqzGy-wImRiK0tX2qG93jDq3TMHv9E5OAxOXxTynvQ_KKRxD1DBOb1cNYR3bZIKRqj7WLWgh1QcrLNr6-HiTRYPtNLWs4ourMvVFG5Gsh7xaZBmDA",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117100816018388115781\">Brad Hardman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c0X89rn-CSKJhmQGsqtKCPsJ_BEFKxeEkwe17zv7q2AM40K-4dnxIIAF5bhOUTHXQ4csrBr5R3FVtA1PpxFE1-ucAtw11AsAa-8LAjptKG718CRH9-mdSyAcrQqRtvCCX01YJp4ad_kZAs_xagGXjrCGPVu32FS8LTOgjBNxdP-Dk4xE7ZG2_0hKWvQXMJzcLpdw1MLi4oynf6Au5nNTcWHolVFgDu7QL-5Qd9GIg7hVW8ZXRlILrw1tVs8OsEyTD6hyXSX_MgOhAJYM3M0EPdSb6PT0GsWx58A2yeIw3zuZXcm2Ey0grxVIiraqpwYfSJUlsN4uyMjvW3cs-zAoUVOpQMIgLoifcZmKtpIT3JIpXeovClQZnoi359_Qm4hRSneCXspMv2okt7MRaKSRmI0ZIDD657rTjYT4_E9TTJ0Q",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100447103868016131958\">Andrea M</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eEIktlDc9ZTEyN6D-ro5Vx9OblL3fQLORPeJ1wGQDsYF8stAXlROuWxO_VWK04mkRL0XoMQBP8aKMTCqINwBOdE4em6tKPQSSXdqzn316rGvlezLgtjPg90l5XMpM85KJ3758py0b7BJ3H1H6QcTvSX5BwRWvaJ5LlXctyLrbPGTB9MjiQpMH4uJ2nKwueZ1483UbQnSfJZSI4oWK8Ja68GBNkBMfFHrU9gYdH7XIOhsd_vTypOvLeGpeI4B4JWnOVHK6a3dezLIH-n4uVjqG30ZRDs8gFLTlDsWgYcZvehA",
+      "width": 2050,
+      "height": 1367,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109980664224687399302\">Pravaas - South Kensington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eERaijTWkKwGRO97CAjVTyjYOChDFuQoABLNEbJEf_fvxPGtA-OnLymHicUO42QOr3ApbQhU4ImD1ITS49V_wJohyh9Wrx3kJELOu0EivObAlw3_AjW3KzyOhstkPKphSL3ck0TjEQWyATN2ZyR0sf5ngeyGIwKkIXeP7fbKZvcgBsbbVQBMmXC3FlbmqEeb9VIGCrSZyrg9IQQL9SzptLVrRaUSnplW4NpBNvJ-5sxj0eeqwVRZDURGdDW6oE1GlpgkMaquAZyp96Ns95BD_p6Ue-IsNCHC1Z4RErdyXxw4A3FzkOvnl1EPzj8o7Dn88I3rvq4WW2qml-ZYHPmaSfggRdr6ZGZNoyw1MBafKRG6ucbKjpMKCoapOSgpZeln2R1FNS-Olu4TWvtWKh0FyR-Hyv-9ImBUQSppcLZzE",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103565380167998004970\">Pranav Kasetti</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ey9l6_-yf1kxL9MjiE8YZIelRFux1mypmGaz90bXGJENbmvQnqczA3FIRb0In0jLhto9uzizKSy80pacLztc6dWlAaIRLrCcGPk5ZLLfERIUw5JqpVRFaRUsxopTCOJMLfxNsDMKAhJVRYKkNpzDk1LbLw2ev68T2RRK1irjQEcYTWlld89T1HUzHDV3PYtDt_LSNIaP3ugkF0wAPUzAfclIu3nkc0W3zQpJv_QY9KULQUjWavgGsHWvFmYO3cpqLY7KnwQiXbtaHQb7iJeT20hHzBV1GyLwqo4X-1DqL1-w",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109980664224687399302\">Pravaas - South Kensington</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f5ZAgA_v-WlwpsM6tREn-nkh8uieIuqZTjoQpH6Znans4owOgyg56QO2lJarF0k607rapNd0AH0uut8ZWd88Jg_4E_1-iHDToevYuv-0oFTNUhCTeVVbdzGcCVoFvF4PGVkTisxony2p5idk8CemICv5olFE4dO_exbJzdhLu4HHsX2E1et-Fv4Md7WH2TyIURDLojxW8F0A9rhUsr-Hk0xaK76sq0TiKhqhSpKZQvRst6jtBz-hot2P_f_ZlAFOmEfzeTAc-mBQr0HTCPkTkkU-1jHlaSQXDlTjsulNX7DlGbhioCEgGNER61EQlkloB-g0x5upL5G5rg5dHa0KaxqlS6b8JfaiZLlBYnt06CrN2z4XOV_KiQOfFRQp8tO9gLLb_W0xkq48Ebbjm80ClCkrsjERz2tzCIUvlLsRCwY3INnm9fMOtatWJ7EE7E",
+      "width": 3216,
+      "height": 2346,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111624583570258038726\">Markus Berglund</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Brad Hardman",
+      "rating": 5,
+      "text": "Absolutely delish, more modern take on Indian cuisine. Every dish was delicious and elevated from the version I had before. My favourite would be the lamb fillet rogan josh with potato dauphinoise. The chicken mangalorean was really nice with a flavourful and creamy sauce. Staff very friendly and attentive and we enjoyed sitting downstairs with a glass window into the kitchen.",
+      "time": 1759689893,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Rashi Bansal",
+      "rating": 5,
+      "text": "Absolutely mind-blowing food experience! The flavours were outstanding — truly some of the best Indian food I’ve ever had. Every dish was beautifully prepared, rich in taste, and perfectly balanced. The ambience added to the experience — warm, inviting, and elegant, set in a lovely spot in South Kensington. It was my first time visiting, and I went based on a special recommendation — so glad I did! I’ll definitely be coming back very soon. A must-visit for anyone who loves authentic Indian cuisine with a refined touch.",
+      "time": 1753828752,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "G Cinna",
+      "rating": 5,
+      "text": "Starters were excellent and the selection of pappadum was nice but very small, chutneys were served in tiny ramekins. I don’t think is appropriate to charge £4.50 for additional chutney so we skipped that. Mains were good as it was the service, perhaps a bit too much, over attentive in an artificial way, sometimes people like to be left alone. Lighting was too bright and the toilets lacked the finesse of a fine dining restaurant. Overall, a very nice experience that I recommend but I won’t return. I will discover a new place next time I’m looking for a fancy Indian!",
+      "time": 1758478616,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "kate-lynn lam",
+      "rating": 5,
+      "text": "grabbed dinner at this restaurant with a friend last week! was highly recommended by my aunt who went for dinner with a couple work friends previously in the summer. service was impeccable ✨ thank you for pouring my bubble tea into a restaurant glass (even though it was completely my fault for bringing in an outside drink). the entrees were so delicious. we got the duck and lamb for our mains. lamb was 10/10, duck 8/10. highly recommend in my books",
+      "time": 1758641969,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Ammar Ali",
+      "rating": 5,
+      "text": "An absolute hidden gem in South Kensington. I visited Pravaas with 14 of my teammates and the entire experience was outstanding from start to finish. Pre-ordering was seamless, the service on the day was warm, attentive, and genuinely personal, and the food, just incredible. Beautifully presented, packed with flavour, and very reasonably priced for the quality. My whole team was thoroughly impressed. Thank you, Pravaas, for a fantastic meal. I don’t give out 5-star reviews often, but this one is well deserved. Highly recommended.",
+      "time": 1753450302,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:42.077Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__9DAWgFdkgRj0UKhMpiz4I"
+}

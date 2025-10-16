@@ -1,54 +1,21 @@
 {
   "category": "brunch",
   "query": "brunch restaurant london",
-  "count": 19,
+  "count": 18,
   "results": [
-    {
-      "place_id": "ChIJl8b8USsbdkgRwY4c6Yh7udU",
-      "name": "Scarlett Green",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 9318,
-      "formatted_address": "soho@daisygreenfood.com, 4 Noel St, London W1F 8GB, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5153079,
-          "lng": -0.1357991
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51661057989272,
-            "lng": -0.1344161201072778
-          },
-          "southwest": {
-            "lat": 51.51391092010727,
-            "lng": -0.1371157798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
     {
       "place_id": "ChIJI1s27W4FdkgR6UFTIUl6WXo",
       "name": "The Buttery",
       "category": "brunch",
       "priority": "high",
       "rating": 4.6,
-      "user_ratings_total": 837,
+      "user_ratings_total": 838,
       "formatted_address": "135-137 Ebury St, London SW1W 9QU, United Kingdom",
       "types": [
         "restaurant",
         "cafe",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -67,7 +34,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
@@ -76,13 +43,13 @@
       "category": "brunch",
       "priority": "high",
       "rating": 4.6,
-      "user_ratings_total": 2066,
+      "user_ratings_total": 2069,
       "formatted_address": "100 Bishopsgate, London EC2N 4AG, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -101,7 +68,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
@@ -110,13 +77,13 @@
       "category": "brunch",
       "priority": "high",
       "rating": 4.5,
-      "user_ratings_total": 3606,
+      "user_ratings_total": 3614,
       "formatted_address": "98 Westbourne Grove, London W2 5RU, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -135,74 +102,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
-    {
-      "place_id": "ChIJIZLtni4bdkgRyOp4TnRehhc",
-      "name": "Drunch Oxford Circus",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 1283,
-      "formatted_address": "71 Great Titchfield St., London W1W 6RB, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5192656,
-          "lng": -0.1410235
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.52058337989272,
-            "lng": -0.1396389201072778
-          },
-          "southwest": {
-            "lat": 51.51788372010728,
-            "lng": -0.1423385798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
-    {
-      "place_id": "ChIJX__2lbIcdkgRPCpSjiwV5LM",
-      "name": "Duck & Waffle",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 15165,
-      "formatted_address": "110 Bishopsgate, London EC2N 4AY, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5162529,
-          "lng": -0.0811942
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51774912989272,
-            "lng": -0.07989677010727778
-          },
-          "southwest": {
-            "lat": 51.51504947010728,
-            "lng": -0.08259642989272221
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
@@ -211,12 +111,12 @@
       "category": "brunch",
       "priority": "high",
       "rating": 4.8,
-      "user_ratings_total": 5020,
+      "user_ratings_total": 5034,
       "formatted_address": "1 Dirty Ln, London SE1 9PA, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -235,175 +135,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
-    {
-      "place_id": "ChIJr_4cVy8FdkgRIrNbO93eUFM",
-      "name": "The Wolseley",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 7265,
-      "formatted_address": "160 Piccadilly, London W1J 9EB, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5074844,
-          "lng": -0.140978
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50884387989272,
-            "lng": -0.1396387201072778
-          },
-          "southwest": {
-            "lat": 51.50614422010727,
-            "lng": -0.1423383798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
-    {
-      "place_id": "ChIJwzyqtB0NdkgRVh0zsP3u8F4",
-      "name": "Peggy Jean at Riverside Green",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 1208,
-      "formatted_address": "The Boat, Bridge Boat House, Riverside, Richmond TW9 1TH, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4578868,
-          "lng": -0.3069996
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.45930022989273,
-            "lng": -0.3051771701072778
-          },
-          "southwest": {
-            "lat": 51.45660057010728,
-            "lng": -0.3078768298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
-    {
-      "place_id": "ChIJp_lOi1cDdkgRITpReOHm84Y",
-      "name": "The Breakfast Club London Bridge",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 4544,
-      "formatted_address": "11 Southwark St, London SE1 1RQ, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5046066,
-          "lng": -0.09134629999999999
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50600212989272,
-            "lng": -0.09000112010727777
-          },
-          "southwest": {
-            "lat": 51.50330247010728,
-            "lng": -0.09270077989272221
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
-    {
-      "place_id": "ChIJX_OPq9QEdkgRwIpAEYl2RYc",
-      "name": "The Breakfast Club Soho",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 4037,
-      "formatted_address": "33 D'Arblay St, London W1F 8EU, United Kingdom",
-      "types": [
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5147578,
-          "lng": -0.1354163
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51612157989273,
-            "lng": -0.1340777201072778
-          },
-          "southwest": {
-            "lat": 51.51342192010728,
-            "lng": -0.1367773798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
-    {
-      "place_id": "ChIJR96P1aQFdkgRVCU0FCf6358",
-      "name": "Milk Beach Soho",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 1032,
-      "formatted_address": "14 Greek St, James Court, London W1D 4AL, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5142434,
-          "lng": -0.1307665
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51556377989272,
-            "lng": -0.1295151701072778
-          },
-          "southwest": {
-            "lat": 51.51286412010727,
-            "lng": -0.1322148298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
@@ -412,13 +144,13 @@
       "category": "brunch",
       "priority": "high",
       "rating": 4.6,
-      "user_ratings_total": 1343,
+      "user_ratings_total": 1347,
       "formatted_address": "10-12 James St, London W1U 1EE, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -437,7 +169,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
@@ -446,12 +178,12 @@
       "category": "brunch",
       "priority": "high",
       "rating": 4.6,
-      "user_ratings_total": 9439,
+      "user_ratings_total": 9446,
       "formatted_address": "30 Uxbridge St, London W8 7TA, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -470,43 +202,209 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
-      "place_id": "ChIJiXkYgKgEdkgRnxva5dinBcw",
-      "name": "Caravan London Bridge Restaurant",
+      "place_id": "ChIJozeGfRgFdkgRQw5RtkLRGTI",
+      "name": "Brother Marcus South Kensington",
       "category": "brunch",
       "priority": "high",
-      "rating": 4.5,
-      "user_ratings_total": 2435,
-      "formatted_address": "30 Great Guildford St, London SE1 0HS, United Kingdom",
+      "rating": 4.7,
+      "user_ratings_total": 2594,
+      "formatted_address": "1-3 Pelham St, South Kensington, London SW7 2ND, United Kingdom",
       "types": [
         "restaurant",
-        "cafe",
-        "bar",
-        "store",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5045608,
-          "lng": -0.0970248
+          "lat": 51.494156,
+          "lng": -0.1744284
         },
         "viewport": {
           "northeast": {
-            "lat": 51.50592547989272,
-            "lng": -0.09561422010727778
+            "lat": 51.49542712989273,
+            "lng": -0.1730670201072778
           },
           "southwest": {
-            "lat": 51.50322582010728,
-            "lng": -0.09831387989272222
+            "lat": 51.49272747010728,
+            "lng": -0.1757666798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
+      "query_used": "brunch restaurant london"
+    },
+    {
+      "place_id": "ChIJX__2lbIcdkgRPCpSjiwV5LM",
+      "name": "Duck & Waffle",
+      "category": "brunch",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 15181,
+      "formatted_address": "110 Bishopsgate, London EC2N 4AY, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5162529,
+          "lng": -0.0811942
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51774912989272,
+            "lng": -0.07989677010727778
+          },
+          "southwest": {
+            "lat": 51.51504947010728,
+            "lng": -0.08259642989272221
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:32.611Z",
+      "query_used": "brunch restaurant london"
+    },
+    {
+      "place_id": "ChIJR96P1aQFdkgRVCU0FCf6358",
+      "name": "Milk Beach Soho",
+      "category": "brunch",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1036,
+      "formatted_address": "14 Greek St, James Court, London W1D 4AL, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5142434,
+          "lng": -0.1307665
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51556377989272,
+            "lng": -0.1295151701072778
+          },
+          "southwest": {
+            "lat": 51.51286412010727,
+            "lng": -0.1322148298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:32.611Z",
+      "query_used": "brunch restaurant london"
+    },
+    {
+      "place_id": "ChIJAQgrN8AbdkgRGhaGlWPrMDA",
+      "name": "Broken Eggs",
+      "category": "brunch",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 447,
+      "formatted_address": "24, 25 Foley St, London W1W 6DX, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.519337,
+          "lng": -0.140511
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52063352989272,
+            "lng": -0.1391203201072778
+          },
+          "southwest": {
+            "lat": 51.51793387010728,
+            "lng": -0.1418199798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:32.611Z",
+      "query_used": "brunch restaurant london"
+    },
+    {
+      "place_id": "ChIJIZLtni4bdkgRyOp4TnRehhc",
+      "name": "Drunch Oxford Circus",
+      "category": "brunch",
+      "priority": "high",
+      "rating": 4.4,
+      "user_ratings_total": 1289,
+      "formatted_address": "71 Great Titchfield St., London W1W 6RB, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5192656,
+          "lng": -0.1410235
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52058337989272,
+            "lng": -0.1396389201072778
+          },
+          "southwest": {
+            "lat": 51.51788372010728,
+            "lng": -0.1423385798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:32.611Z",
+      "query_used": "brunch restaurant london"
+    },
+    {
+      "place_id": "ChIJX_OPq9QEdkgRwIpAEYl2RYc",
+      "name": "The Breakfast Club Soho",
+      "category": "brunch",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 4039,
+      "formatted_address": "33 D'Arblay St, London W1F 8EU, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5147578,
+          "lng": -0.1354163
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51612157989273,
+            "lng": -0.1340777201072778
+          },
+          "southwest": {
+            "lat": 51.51342192010728,
+            "lng": -0.1367773798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
@@ -515,13 +413,13 @@
       "category": "brunch",
       "priority": "high",
       "rating": 4.4,
-      "user_ratings_total": 2523,
+      "user_ratings_total": 2524,
       "formatted_address": "83 Southwark St, London SE1 0HX, United Kingdom",
       "types": [
         "cafe",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -540,116 +438,181 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
-      "place_id": "ChIJiQF_yTQbdkgRQmqIK5l4P7E",
-      "name": "Breakfast & Brunch Covent Garden | The Black Penny",
+      "place_id": "ChIJr5F6YRwFdkgRNR-MS9GLn8s",
+      "name": "Nessa Soho",
+      "category": "brunch",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 861,
+      "formatted_address": "86 Brewer St, London W1F 9UB, United Kingdom",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5107321,
+          "lng": -0.1372246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51201167989272,
+            "lng": -0.1359923201072778
+          },
+          "southwest": {
+            "lat": 51.50931202010727,
+            "lng": -0.1386919798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:32.611Z",
+      "query_used": "brunch restaurant london"
+    },
+    {
+      "place_id": "ChIJxe02As0EdkgRZeOhNiEbtt8",
+      "name": "Bill's Covent Garden Restaurant",
+      "category": "brunch",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 6190,
+      "formatted_address": "St Martin's Courtyard, Slingsby Pl, London WC2H 9EF, United Kingdom",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.51258139999999,
+          "lng": -0.1265727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51396227989272,
+            "lng": -0.1255009701072778
+          },
+          "southwest": {
+            "lat": 51.51126262010727,
+            "lng": -0.1282006298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:32.611Z",
+      "query_used": "brunch restaurant london"
+    },
+    {
+      "place_id": "ChIJsVA9Dg0bdkgRUI0y1Fj9BNI",
+      "name": "KOZZEE Cafe Soho | Brunch, Coffee & Desserts",
+      "category": "brunch",
+      "priority": "high",
+      "rating": 4.7,
+      "user_ratings_total": 5143,
+      "formatted_address": "193 Wardour St, London W1F 8ZF, United Kingdom",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5154586,
+          "lng": -0.135842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51684732989271,
+            "lng": -0.1343596701072778
+          },
+          "southwest": {
+            "lat": 51.51414767010727,
+            "lng": -0.1370593298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:32.611Z",
+      "query_used": "brunch restaurant london"
+    },
+    {
+      "place_id": "ChIJr_4cVy8FdkgRIrNbO93eUFM",
+      "name": "The Wolseley",
       "category": "brunch",
       "priority": "high",
       "rating": 4.4,
-      "user_ratings_total": 1441,
-      "formatted_address": "34 Great Queen St, London WC2B 5AA, United Kingdom",
+      "user_ratings_total": 7267,
+      "formatted_address": "160 Piccadilly, London W1J 9EB, United Kingdom",
       "types": [
-        "cafe",
-        "meal_takeaway",
-        "bar",
-        "store",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5152479,
-          "lng": -0.1216801
+          "lat": 51.5074844,
+          "lng": -0.140978
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51656557989273,
-            "lng": -0.1202576701072778
+            "lat": 51.50884387989272,
+            "lng": -0.1396387201072778
           },
           "southwest": {
-            "lat": 51.51386592010728,
-            "lng": -0.1229573298927222
+            "lat": 51.50614422010727,
+            "lng": -0.1423383798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     },
     {
-      "place_id": "ChIJ9TEki7obdkgRxH3iJZNZUek",
-      "name": "Victoria House Coffee & Food",
+      "place_id": "ChIJoTZdPjUDdkgRPmRIp19fiZw",
+      "name": "Amber Restaurant",
       "category": "brunch",
       "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 4884,
-      "formatted_address": "5 Coptic St, London WC1A 1NH, United Kingdom",
+      "rating": 4.7,
+      "user_ratings_total": 2395,
+      "formatted_address": "21 Piazza Walk, London E1 8QH, United Kingdom",
       "types": [
-        "cafe",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.51742429999999,
-          "lng": -0.1263894
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51879832989272,
-            "lng": -0.1249455701072778
-          },
-          "southwest": {
-            "lat": 51.51609867010728,
-            "lng": -0.1276452298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
-      "query_used": "brunch restaurant london"
-    },
-    {
-      "place_id": "ChIJx-qWEgAbdkgR0D05nwBzcuc",
-      "name": "Caravan Fitzrovia Restaurant",
-      "category": "brunch",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 2249,
-      "formatted_address": "152 Great Portland St, London W1W 6AJ, United Kingdom",
-      "types": [
-        "restaurant",
         "cafe",
         "bar",
-        "food",
+        "restaurant",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5207202,
-          "lng": -0.1427393
+          "lat": 51.5138963,
+          "lng": -0.06871719999999999
         },
         "viewport": {
           "northeast": {
-            "lat": 51.52212277989272,
-            "lng": -0.1414635201072778
+            "lat": 51.51515702989273,
+            "lng": -0.06691472010727778
           },
           "southwest": {
-            "lat": 51.51942312010728,
-            "lng": -0.1441631798927222
+            "lat": 51.51245737010728,
+            "lng": -0.06961437989272222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:53:04.487Z",
+      "fetched_at": "2025-10-16T20:23:32.611Z",
       "query_used": "brunch restaurant london"
     }
   ],
-  "fetched_at": "2025-10-15T10:53:04.487Z"
+  "fetched_at": "2025-10-16T20:23:32.611Z"
 }

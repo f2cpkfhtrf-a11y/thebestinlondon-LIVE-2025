@@ -1,0 +1,242 @@
+{
+  "place_id": "ChIJGZCpa_4DdkgRhp_45r0lcTs",
+  "name": "Pergola on the Wharf",
+  "formatted_address": "Crossrail Pl, London E14 5AR, UK",
+  "vicinity": "Cabot Square, Crossrail Pl, London",
+  "rating": 4.3,
+  "user_ratings_total": 3134,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5059067,
+      "lng": -0.0159173
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5073537802915,
+        "lng": -0.01489541970849797
+      },
+      "southwest": {
+        "lat": 51.5046558197085,
+        "lng": -0.01759338029150203
+      }
+    }
+  },
+  "lat": 51.5059067,
+  "lng": -0.0159173,
+  "formatted_phone_number": "020 8176 6105",
+  "international_phone_number": "+44 20 8176 6105",
+  "website": "https://www.pergolacanarywharf.co.uk/",
+  "url": "https://maps.google.com/?cid=4283246218160152454",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cuF87pz2jbC4stRizPpnVN6D-xRHdv-w_iaOGSjOZThPcRLaIXKgF0CGhCKQ2tTQl0hBF8UBIx8R8yhimdOtUt1R0UxpYEe8fWBbyEDD7YoHEBy1FOG6betppeBkfn44CPyTOoSNL3TYjBwLSGCQtFDKiQ4Lsn73UgezF-gaalWtGQwiKLuzycvXpvNiBiayeZNh2z_YhKFx_zMCrmVvTfJZgKUZhDKMwtZrK78YoxQKe_XcFvzn_PGvvrfnzkKDVbDUmQk9SuRD8Avh_M0TAp7G0LKhXPZq8laY8Fq8N1LA",
+      "width": 4800,
+      "height": 3193,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114623675942917993292\">Pergola on the Wharf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cOyW7JTZyKOwwMax8pLfvKucluc5dFcpZvX-hgfjINizu4v2G6BI77rHaQknPDq8b0rjGPkJFswN6pefgFv-jBYCc0UqNJtBIM1Ys9LUDziwZGXBKLiOc7gKhKUT-jF850C3WH7Sad3YfSZXQ8je7thmOZF2TH1q08oTlNftu-mNioGm8MQCr21MUoUnrgy2x9KjaP3lbMZS7VFmNZLV6RjJ9TAjldtBHLwN_cgJA-1jQ8ciaiMLsqUcXvi-cZHDF2Vk1MF9m9TL3yHwc7gk78NyeN94Zg5R-ErXruH-_M8RqUnttw-SLV2k96cIFfm1PgUo9FPZxo1a2ApPUSHmfK4PbWB0bVb8WBm1OwZzxwcUDz8jE5R-eUtiZCMyLEsa1JQvSQ92KYJuuPnCpYm6AlqGjgv4eQM7bv551ghw-45NFX86o3DJYgEpcUVQ",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100219876556427663178\">Sam Stone</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d-d0jnzWXX_VFguzN864XANvNTL1hL9J74ZWKOlyEXnzP0NvitqEpWWvCX9BsT9AoiloXPMggR-FJ3niDfmpyfMAySi3P0o1Ymr4epvcguY7BbdTGm792BWWdWqKjB7QdP6yqYg3tOxw4hCCveVjRv4UBtsruAmt0yHCcwpR66eP-QVVMzDjWYner_UUO0lQuAU-9DL_xhQaSIxU4nDaoU7ip8zXWxkflqc7JhzN39RLwfFlhx0aYiPEh4ixLgqTvNK3ZkHAZsMJJ99tdwqhUYb0p3hRHalLTj3WRE6Vbd-Q",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114623675942917993292\">Pergola on the Wharf</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHnKLzcOQq492xeTpsksaTVVbzXsXtXU1fBdyh1JQw2c9w_fXv0dVVOxbhQSIjM3Nqh-1MbMoy9hjNdwZqZy-KSKC1ZlODdj5NZ7fcI6QKscTQcsFkSQTzIPNKQy0yOgYZ8Ck56CIQpWrbVyfrmrjSWo9Dn3Seqjm462Csqa2nTneDgJNjCf_WIUwtcMVH0fT15VDdvV4bygnpOcojwxJLEbDCiYI9v-DNCWu1fCcd6OCxx9QPczq4iTbMKQcEyPgMIOGYtwltSynN3ZQqZ67-sBTnVA9Wsw1pNa3WNsmz-rUlQGkOcJmeQ_NyJlgPU-J8zRPoCrLw57F7emEbUjUxVwtFcOEFY_k4v0zS8BeAh8-blCVA2cJ1mFhZL_YSLpWt6OPc-5yH7Vqb1znbSKyNvH1Yvem0ajXGu9Y6dvBZZIbK3nknwntRv87smkzO",
+      "width": 2898,
+      "height": 3866,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111812730845185063040\">Anu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fl1Ok9dkYRQLumeslyTsrQluKWX5PmWFFv3UoroN8SkybcKiiGzI7kNey9oug3ptSMSwEUX7kk6E6MmMrQyR40kh4sOK3PEuXpFG3JsP1y-C8CB6QHvaxOJXvvOQnaMNKJfp0bMm_XVyeipY122hLz85TivYvgBQNQ7qgnSL8cgWOu6WBcAYXNipSaI4zoXLxfe7Tj87lBCck3xQtVQyNtTEs5CHJYMYn-i6BgTVJNt7lAb7TkMxdOdTFDPKmMMa2LqEUiWf2j6qE8Cj9jUYUpPJsSu3s18BT1vd8V9BnPE8qcI8ObFkb8kQ3pAKhm0B4tcfY_4Z6k8GIoCr0zLIFAac3pw4-61Cy9MMzwKf5z_UYswz_dSSfxLXJcq8gL3nLOWmCF6DJ7HlmTV7uQSxskZ8OaCLSgJSdybWHEDQmGdTWeqPRBbIo1_051W65M",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100219876556427663178\">Sam Stone</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d6j4-jIV6443OHWTML-pm5NQCPL6Bdbp_CcYF20Y0z7As1B9x_9B420YqhTi9wjHCIf9qPrlZTNDgayjzY8HIOty9zCfLuayiPcGX8wKYFanfYEeUNMsTE2XTGCvZ0ZsjFO5R59tVI4b6aBoYtz8tDKT5NeNOWvOwSvMAEWU3iXIXW7YxMoa1LPv6sKjxSP3-7Yg08kf2r_GkKVWRY1k-_Nn1XDH135T2vZfafEepoQMXSMs-PmSupmKZ3zdfh7QGdKC5h_n0hX4oHzO6C03119P7Ru9e1js-pU3BziJZL60POa0d0N2OOavAY9oJCE_WLP0bkB7wV5yQr0uYnlxz5rEm65LMXxL60dF7aWyQtvuFfAwxnxDcHJt42jFGeKaPtI7vH1_KCAdvLPDfoh8DXoCbOAxvMn7m5caXHSFzVvQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105435222859324822990\">IDee ISee IWin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ceWNzrvAPKmPZBFLOfwllXB9n5a_hGvKzbR5GDolXrc1dTSEyeknAFqxVEMMIz6Vk5zPq1J51-YAfdTTUD9fytQgGYSk0ayw_22AIEKnurYafmKjCmFBFtHXXxnU_ZJH2VgmfJzCWQQvbo9qZpRJvpA7QL4RQ2rwqBp60vmG9zpmYJBAtv06OUHsLfMbKQDFTSwOJd47h5cjBSv_qZHI81ikAZwzrer7q3yMrzNkcAqsLPvENMM8bdp1r-MKcci24yST268Z1TLzfyHWQ3InLOOrXa6SlI8Ez3HMTcjZ9Ou67ijtgN8NCmVTu-XtsJEaqaAAMMxc9HYSaO6Kq56dooYx2Ac0JXlj7OuxIdJ5frnGH26k5IRSa4D3Ezi_4KP3b4ASOrY9pVRsEqq2Qrvk5QIYmwE8L-CXzMusNdTYpMxQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112702505009884553373\">Go Figure Accounting</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f37MIZB8wk1K1nidCcZBDmX5yYwxZz0L7Ww6pZHaFqxIwpCqXjuj28kIFK19FCqyHjfzfpIXD0ha0-nprNSVZ_n1iCjhokoVBYp9UC0NOU2bWxXggfE7hCje587ffdNTaz4EcFlqImWBjA-wUv6oW3hnJrr-xi4GUtV2iey0e8VUwfboMRmQqmfZNAPza26lCfDLqs9og-VRTkyMCkIyRq8Wqjnb79XQ9gcXxg9ukYFVZwZtEKDPnAzG4_I07AbzhsqyUollgn_NUn2_H3MtOziiGShR_235LtdH9vInveh43jgZqg_VJ3XqH6niMFbGHQGm4kZlflEgt_E11lJxkSP5xDAiMx9uGNRZM41FuNMIWi4r2V1MRosO7JZfRkP9L1t_klwMyBLrMWmVYGbx659XJLKr666syXPG8iiqIKW4MPG3WTNdaK5Ix6u2YM",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104485700295572023625\">Jessi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUffvn_hVDlQ3k0kGLr0UzcBa5ZDxLEC8L2wEQxFIol6FzsisVNgKRtQdpgpzyTX0k1ZQDoQ2UBglOA2AoL8MNsX1uBnJoIzbr8gbMrhD8bcffD--vTDvhQlGu0LhzRkyorEhKI-jawu8RBb-L90Oo08GlU34cliBvF7r_KFQHHozXxgJp75nQobz10Sv_M_bN458xL9Uy3JCu1dhwpmLiZHpcnmbYT05HkANtFfuAMnDJoM20Lj385y4j1Rua-oy__jz58xd0SfNMurIcDiRxcoCxPxzfs3BzQhjWMSZde1exjvtjz4YTUK7e7bHlkGPV-4faVCTg3Hb1NijUgzeKUQb23Ovcuy7MQ2Sdt5S7ty-QPTpoOutaK4iapv438WoWsO2WRWsFBzK25IihaIPXjKNpuBdTliL1NwhrettCot6J",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109947190167198640276\">Samantha Schwenk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eZSaD1IH_u2M6lw_OtXCrGw2kdMUD8VFi9eLESicglKLpCpQ5TuPI1rIedEpk3LcbPjjoIwlzepMg_rcOwURzbe9PNu7P4cz4GAW3Tihw_58cO-w0RySFWplXC5w1pmcTxUjwJ073Zz-mPJNTjp8NhGj4gL0nuRosZLarrmlgvXpoa8y0UV6jsie8ulxckjIlmTfycJDbhhC6wdQdrAc5li4uMYgMHJ9Bhc43jQD7S-OoNTIQTxG8Ievk8iYzmLcJCE421RqptvTrc5pdmuhXViz1rkaPHluMTSb8ZpL7YHL4qHvOth7vnpqNBHFG5MDwCHyyPxeGToZORX_kHBXX0SiroHMBgNjZcPxy7d3OO67uW69n4CKC7cXtoC0lk8riEUpdUUhxPwhO4nkJ2ushF2G4v3tHK4qxVhJ8LW_IQwA",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115463654880651285286\">Christine Aimee</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": "Contemporary, plant-filled tavern on the water offering cocktails & casual bites.",
+  "reviews": [
+    {
+      "author_name": "Sam Stone",
+      "rating": 4,
+      "text": "Came here with some colleagues for an evening meal.\nService was good and efficient, and we all enjoyed our food.\n\nI had the cheeseburger, which was made of 2 patties (not really smashed as per the description) which had a good taste.  Plenty of cheese and a nice soft bun.\n\nThe place is really nicely decorated and they have some amazing wraparound views with tables outside.",
+      "time": 1759143936,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Goldenlovestotravel",
+      "rating": 4,
+      "text": "Another birthday celebration done! This was a last minute booking but very much worth it! We thoroughly enjoyed our time at Pergola. Loved the the vibe and will have to return to dance a little more. Thank you to our waiter for it night, unfortunately I cannot remember his name.",
+      "time": 1759699378,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Ade (ITGuy)",
+      "rating": 5,
+      "text": "A lovely place to eat, food is great, with great service and a nice atmosphere.\nIn the middle of the iconic Canary wharf- what is not to like. We were a party of 11 after a work operations meeting and the company was enjoyable to boot, with some belly laughing.",
+      "time": 1755559699,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Breaking Bread with Barry",
+      "rating": 4,
+      "text": "📍 Pergola on the Wharf, Canary Wharf\n\nAfter seeing Pergola all over my feed—lush interiors, rooftop vibes, and bold plates—we finally booked in for an evening visit. And yes, booking ahead is essential—this place gets busy, and for good reason.\n\n🍽️ What we ordered:\n• Korean-Glazed Flat Iron Steak with Yuzu Hollandaise & House Pickles\n• Sweet Potato Fries\n• Korean Pulled Beef Bao Buns with Kimchi Slaw & Gochujang Sauce\n• Camden Pale Ale\n• Diet Coke\n\n🥩 The Korean-Glazed Flat Iron Steak was cooked beautifully—tender, smoky, and packed with flavour. The Yuzu Hollandaise added a citrusy zing that cut through the richness perfectly, and the house pickles brought a bright, crunchy balance. The Korean Pulled Beef Bao Buns were equally epic: pillowy-soft, filled with slow-cooked, spicy-sweet beef, creamy kimchi slaw, and a generous drizzle of gochujang sauce. And the Sweet Potato Fries? Crispy, golden, and dangerously snackable. Drinks were simple but hit the spot—Camden Pale Ale for a hoppy kick, and a Diet Coke to keep it classic.\n\n📝 What I liked?\nThe evening atmosphere was vibey—think fairy lights, chilled music, and a buzzy crowd without feeling chaotic. The space is airy and beautifully designed, with greenery everywhere and waterfront views if you time it right. Food came out quick, portions were solid, and every dish delivered on flavour.\n\n👎 What I didn’t like?\nHonestly, not much. It’s definitely a spot you plan for—not ideal for walk-ins—but the payoff is worth the booking. Prices reflect the location and setting, but the quality backs it up.\n\n✅ Would I go back?\nAbsolutely. I already want to try more of the menu—and the cocktails next time. It’s a perfect mix of relaxed and refined, and ideal for an after-work treat or a casual date night.\n\n🔍 Note: First visit review—excited to return and try more soon.\n\nRating: ⭐️⭐️⭐️⭐️ out of ⭐️⭐️⭐️⭐️⭐️\n\n📌 DISCLAIMER: All reviews are based on real visits to the listed establishment, items ordered, my personal experience on the day, and a true reflection of my visit.\n\n#PergolaOnTheWharf #CanaryWharfEats #EveningEats #KoreanFlavours #FlatIronSteak #YuzuHollandaise #PulledBeefBao #KimchiSlaw #GochujangGoodness #RooftopVibes #LondonFoodie #SweetPotatoLove #FoodieLondon #FirstBiteReview #SkylineDining #PergolaVibes",
+      "time": 1752064474,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Tissy O’Neill",
+      "rating": 3,
+      "text": "To begin with, at the front the security asked to check my bag which it wasn’t a problem till he decided to get my wallet and started removing cards, money.. which I thought it was way too much, I really didn’t like it and he should have mentioned the reason why the thorough search.\nThe food had everything to be great, the Korean chicken burger sounded delicious, weirdly it arrived 10min after ordering, it wasn’t good it wasn’t warm.\nMusic was good but a bit too loud when trying to have food and a conversation.\nThe waitress was nice",
+      "time": 1743950072,
+      "relative_time_description": "6 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:59.955Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZCpa_4DdkgRhp_45r0lcTs"
+}

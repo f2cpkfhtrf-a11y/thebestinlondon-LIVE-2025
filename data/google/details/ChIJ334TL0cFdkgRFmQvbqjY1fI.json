@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ334TL0cFdkgRFmQvbqjY1fI",
+  "name": "Gaia Mayfair",
+  "formatted_address": "50 Dover St, London W1S 4NY, UK",
+  "vicinity": "50 Dover St, London",
+  "rating": 4.3,
+  "user_ratings_total": 708,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.50767219999999,
+      "lng": -0.1415671
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5089382802915,
+        "lng": -0.140233169708498
+      },
+      "southwest": {
+        "lat": 51.5062403197085,
+        "lng": -0.142931130291502
+      }
+    }
+  },
+  "lat": 51.50767219999999,
+  "lng": -0.1415671,
+  "formatted_phone_number": "020 3961 0000",
+  "international_phone_number": "+44 20 3961 0000",
+  "website": "https://gaia-restaurants.com/london/",
+  "url": "https://maps.google.com/?cid=17498130145132635158",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cO531xF_Kr5eO3-h9zPFlzs4I6TjcHN8HGTMEL2ImTS25X1FF5j6wHvE1g-Xn3VJwya8PkJKNk9Npj4MsFvB0gO8NOdCd5jmIVUpH4UFQtGmYM1HjuBK6Pic0fohdHNlsoXRRQTydh1Mea6T9PXF3MAU5XYNW2C-Gz7qX4xlepoQbWJFK0qmxKQvfIh1haQWmJY0fMbdCpH8KyJl_4ZpGJ4qDLGrOCbfRcw-_cugMUTtjZUwEaBjcUv6JxnUvxsIllXvmxhj42VzaeWsd2iFPHU9XrDlDu4D6TGX2UkjzRRw",
+      "width": 3720,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103193711804311209613\">Gaia Mayfair</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dufOZ5OjiMrIw8eER4zFYD7ZtXdMx0EdMHeaO58URMxX15qkdQK8_KDTMqVqV_Z38Wy-3ICPesHH2yqbwDkkrMOxZM3EuwsH5JOMuSo_yR0HIpjfLNz2fkV_gJwS8EKQCktpLIdnZLtBboAayj1jMvza4nA668x-s8LL_vnAfPiR1gSH_YzNbAMM-C8t2w3K3CtmAE0Kxprhxapml8IW3y250gjk1Gi8-jBKEcytt3GzE8APrmfmoVI0sf5MbT_NuJ6nY7yaUL84Y9nYDmBnJXU4cMagFB0Zp7nkI2T8-GS0ZJpvy2nRkoZk1xVA3yrWVLVZcPGVdWXUcsm4OcsDecTKfQ_tm_-PNhlLwEc5E5loZP1jx40E0LdYHY3SVxqBhJnQiaqWXZHMT5i0NEvCzZjk-YxZQjKQ8_BbRsOls4AoKt",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103951344105373574062\">Ed Hu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dFjsKF-J9PvSlXYNjYPrbpQKns2NyejR7ndn20HSSK6AinrFnmPjJrGDIvbVtvJV_2muX0D-0OoQBqYquUp61JFcwRLK-7_S_2dp9jZFYXJzDsJxH67NtBo7okbYY2ZgmXgzh_GlmpJ1KLiB27-AczpiRAtfGmImxCCrCd35mAl510QHWXwiXfUNPKCSSrxED6LsYQCk5yJgZ9-m7lFc2Rf74GuT_h1KoC7cDZ-pVLwQewEYHK997_5Owjor2enOuNPpTszSCsInmuRUEUyBeOomjmg_3_4s77ztnkNIYP1IRudGQcbJ3S6AqWnZW0xQWjegXMFoUshpPEPUCwP038isMqikJ1ZVADrSus2UdC54txC0d_JnpuURWaNQpS9lG4SHkFigE3s4Fxq-ab3a9V804N6CudVeQh8XKsGIiHjHyoUuQIqQF_shsg9bsD",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108177932579577407812\">majeeds</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHXNWDPZCITB9i-vMbf2LCBYXgDodrLHznk4b96d4C257AF0sLxGZWrFNbMDtny5AxKm7GWKncZDK2jUQSAyO28c3Bhexq5c_ehBGriWD-sm4asLruAzumJ7RhkXZ_NSvCdVoCKAm5unoi7GNYx1DOOX3RuLNIQwyMgq7UUWZVYZDExvRUp_ZzcDYZJB40Co6cN-n4_6HcnTg5pnbMF1SXJjlX01ccreoM4Gh-59Cg8QE5Y6qK6pYPV5zXOoOJYJ7mv9pj9hwJrXGD9Y91_TRYkd6RnSzGPPSlpQMiNcyV0Zj1goAZViS58MheGqlMraqmGN5U5TRILwK3i3HLnchW5Df1Duj3xRoML2OvNEEzHUDxo8QP7vPxASkO0ju6MZs3wCEZydBFaVcLUbRkc3F9OFKAnA1d3qIDktP9uyN8UGLpHWyqTkiaI24GYFBV",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117525182164337277592\">Xenia Wustova</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eN_KRNkCW8SiAhKeMhnRE0NuCYqsQZYYAp7fQ53krFEiCWRMoWpFfZScVvU3DXGet400D9b2LvQohWisOk_n9sZRmvXPP3xB3PlcbeQ5UZShBd9ZiYF0jWt1AIluW-8RGFFEJLxJPJ120w3_OdvsISUUGoWKHpPucq2uwbK1fcnUchFj9rxRHmg6PFrEWAx86c9tSx6ZYQTGxZjdB7DJYI0uGodEg_PcqI44P3YhuIH8wZ98fCQOiECBaLCkofXlk4IWP4UtnrbFVWwEGPR84ccQobgDq1UKAnNuJCkxUua2oObMDfviSEExfAhxY-b4Ftgp6VuG6f32Ahlstk7fRZLijPegM6B3ltylv85XGq-55gbk3ZQH-OvvSY-bh9TSCrCKeFdcWcWRjeJrp2SUVUvByLThNLWpvZthkO8Vn-dlFv1rvxaPYFb1agFqM_",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110575966994417284929\">Tunescu Ionut</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fMr2rMRFIR-kYgPosva0wX8xj2xR7vyfkabv8Lode8bYrSWCjXN7moK1Pzm1hECfZtXczJOfun2tFV_b7UycLOyWcbdSdaOhjyOIKTPcK06r-quOZbes4OcFF3X7z_tjVUsd6gC8OWTAeDppPQLy0wRx_a1lBWoyH0p_gltkx9A9WTcAYiXeXCgAHKcEXh5_wMjQ24rPg-cYYhF5YF7q1acFNo0RkBRfM1CzSGl9xWo9TiVLvmBqtYsoeXHSpb-G32SoMJ46MmAuW03TFaNIm4hmnR7QsYKtCMtGjRp7hq8BbChHL_qKgKvZv_nfk2pDq2Zi3mqgmXQ9CPmnWOPocsp0LUJTZWUMT98BArNDDEilf5EV9M1HM6mthRDmk6DYa0edKKFoMNH-7dKtNINTAFzqMyEb4UQ60IGJNsyM0",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104679146179356596037\">Ziad Dakroub</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ft1btIVwgxYiivjaD_OT4vxbc3P4LHrMWAoZ0HrZY_MQY9uP2AE8j3TASJW5P1-PX0fuZia-8Mwb0CAz1U5O--gj9grlX7-0zb1BSelHTlKy6g-M5luB_GnVtCi302Lm7p_xnKYkHeEapuusYkcA3x4f9Vt_iau-xorbiEqly84_HDYf6rSVc4n-hA74vc-GdIxV-iFn9QK-rjitCrvJMm0d7hgmAgXt6aZhWZrkcoi6_6JEtpM3brjhfq_SPbO5LpokuJpc-JQenaZq57tIAQGRUUw79KBcFi1PORG_mDqjMSp4ao0wxEPBVoIV1iBNWFJEUknGyO4ufVPPurS1A26D-W634diiOYXmnNFhccl4-REdnVpraXtm2zj39xholkyaxebz729YgyOE-4V2lpFf3D-QkUpovKIr5ioA7F6jALKJQbunv3OqVKl38l",
+      "width": 659,
+      "height": 486,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102848633716167741290\">Rahaf Alhabbab</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f04V9XaFo0fz-6GPGBJhjf6WHtc65U3ZmI4FrS2-hDVOrEdYJnex_eZCd2__6Ge2GQ1X1Jdh3dT5zXXBPh_zPffaNE0GuBL1Q6VyHl5Pi4XrWAvDtj2P_sFZnuM9k5CCqfPfEAseKsZu0QOLV5WZMg7M2ZQZUdRIJrsJiyxKKyhHz4nOF82Ei5JPq7cjwepHJnn560viIe-RB-NHFTsYFCYPg49XPMzcR46l_hN_g5hkAT31lUZFNg_Hqp7uQfdEGLH35dlacw2rgKhef-MnpKeUWgWYauVWgX5z9-yedNn2X81JY1iV4RQ1-F3-DOF5PFCnt32CiT4mfT5DYXpzwyBjYtMZPWbvH8TlSCNrNElJ3LAg59vGPVkA_f93LmQ79BiVqVpd7tNaORro36F9aTKm0T6eDSU14O6H4xw4i1yg",
+      "width": 2700,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108351087735089965547\">Mohammed Saadi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6oyiwnjzF_3B30MkxsrtOaX-8wMhq9jxt681iqmhybcFT-7qWxtjoY5WBbMuhJxo9WFEuH50F6X78eSYzL3GKsm64uMZX5A10Pww0ObG9_UYvKhlEgUjHZ0t0otRCmYgQRzxr736Dcyb5JKOIR6UfIADaEQDzBdysj0ZXOF6jj0zS7_Y8a0Ndeg1doNPwwzL17dI01-6hqefVgls2h7SxhjFue5sd8gD3cOF5Hyh1kHgWqfhXBKqduEXsQhKr0pFyxepjbtuEQJ9SUR8NtkR2VKwvpux5sMZ6V8vwzQ7nxWEgR8_J4C2UTEu-8mTUpmpMFpCB3gYCCvmSdZABioftGBu3U7CF5QMiynF2q-NurhHxb0heora3KttzTPL7YONBbtIAC_LI1y7XC077_wE47B1mdQ1J2u3D9WewH4rokKA2",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108372547836917873780\">Dasha Tera</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eyiC-g_ucKe5wS7o0ovWO-e1de50ot0E4aGtkYYmZYojAm8CUENt95BmR71SjUHTgp-NNKm5jl0kjToc6QGRRKpWuwje9Rift_oBZR6g02S77GQKOtxrBHAVrkpiUN0-D-uuV-M9gSVuxXsKGuNMvINWF1SW03rMrnmTHrc2fE_pguisaVm-cL9SjqmWRcPypXzq-3Gc3itmGrVP2BoJnX7xozFliESBAM7MFuwvd6e0IQDRJbQN_sLa99QSn8ZsrFgQhUuJ9s4jh9kw5cgPUAauw6Cv6AZ8PjQ7YgTxZjTBixA3gEs51v05iaaiKVrUryyar4mzPDyZEfD-S3O-eRMPHMibinUGXfy_NpNJoGpXkQ5d5TUVpUDtipOA2QNdfEX7qqlv4yI3uflDv3NHZqF48xaQUSHCBPGib5Kwt721kIrZ3a2eNvNG3vEOv4",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117253406933080956644\">Ангелина Дубровская</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Lilili Zhang",
+      "rating": 1,
+      "text": "The foods don’t worth the price！The seafood pasta was way too sweet and the broccoli was not even cooked. Raw prawn (50pounds per)and scallops (28-29pounds per scallop and we ordered 2) def don’t worth their money …. As well as I feel I am spending money for a Michelin but I literally sat in a noisy pub🤯Having my friend birthday here and both of us were super disappointed .we did not order a drink so no comment lol..",
+      "time": 1759744497,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Mo K",
+      "rating": 4,
+      "text": "Gaia in Mayfair is a stylish and upscale Greek restaurant with a fine-dining atmosphere. The place has a chic, modern vibe — exactly what you’d expect in this part of London. The food is exquisite, with authentic Greek flavours and a sharing-style concept that makes the experience more enjoyable and social. The quality is excellent, and the service is just as impressive. Overall, it’s a fantastic spot for a refined Greek dining experience in the heart of Mayfair.",
+      "time": 1759753430,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "R A",
+      "rating": 4,
+      "text": "The food and atmosphere were nice, we ordered the seafood orzo, mousaka, truffle potato’s, sea bream, and frozen yoghurt for dessert. All these dishes tasted lovely. We had to return the chicken dish because it had a smell, was chewy and quite tasteless. The manager was nice enough to speak to the chef and cut it from our bill as we weren’t able to eat it and had it returned to the kitchen. The only reason I’m rating it 4 stars was due to the fact we felt a little rushed to place our orders. The service was good, but the front of house reception staff member was rude as we arrived 15 minutes late to a reservation which we did call in advance to let them know we were running behind schedule and they told us that it’s fine and they would hold our reservation, baring in mind when we arrived the restaurant it was half empty and there was lots of space as we left a couple of hours later. Other than that experience, the staff allocated to serving our table were kind and knowledgeable about the menu. The wait staff good suggestions and recommendations and they were attentive to our table. Really friendly and polite.",
+      "time": 1759323433,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Melanie Daher",
+      "rating": 5,
+      "text": "perfect ambiance. the service was amazing and our waiter helped us so so so much. she was so friendly and we loved her service. the food was SOO good and i loved it. the mousaka is AMAZING. the grilled prawns were the best ive ever had. these two, you CANNOT miss! i really recomend the taziki and greek salad as they are so yummy, fresh and perfect staples. for mains, we got the grilled chicken to share, which was so fresh and marinated so well. the side, the truffle potatoes are amazing and a must try. ofcourse, the froszen yogurt is also amazing and i really recomend. overall really yummy and great place.",
+      "time": 1746786587,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Leanah Alsaber",
+      "rating": 5,
+      "text": "Gaia is one of the London restaurants that you want to go to, the food was nice and the waters were so welcoming, they took us to our table and we requested to change it and they helped directly.\n\nThe atmosphere was nice with a little bit noise but you can easily talk and hear..\n\nFor the food we tried the steak and it was juicy and perfect, the linguine pasta was nice with the lobster also.\n\nGenerally i like the place and for sure I will come again to try different dishes.",
+      "time": 1754944463,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:00.885Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ334TL0cFdkgRFmQvbqjY1fI"
+}

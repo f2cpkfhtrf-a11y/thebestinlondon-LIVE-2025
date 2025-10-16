@@ -1,0 +1,293 @@
+{
+  "place_id": "ChIJr-ua5-wEdkgR45FdtHO4Ztg",
+  "name": "Daebak",
+  "formatted_address": "316-318 Kennington Ln, London SE11 5HY, UK",
+  "vicinity": "316-318 Kennington Ln, London",
+  "rating": 4.6,
+  "user_ratings_total": 1205,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.4865956,
+      "lng": -0.1190241
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.48788133029149,
+        "lng": -0.117650919708498
+      },
+      "southwest": {
+        "lat": 51.4851833697085,
+        "lng": -0.120348880291502
+      }
+    }
+  },
+  "lat": 51.4865956,
+  "lng": -0.1190241,
+  "formatted_phone_number": "020 7642 1522",
+  "international_phone_number": "+44 20 7642 1522",
+  "website": null,
+  "url": "https://maps.google.com/?cid=15593353566903701987",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dPF9mrPnDPQdff35dWCZk_4qR4ih7gANKG6EwuiIyJRVHzK35Nr-7ZQSbMkLlJI0gBJ9cFrPPrYhSpIyRMgoOq4Ee0edq7FqDpBQoj4hIdk_G4N8StEHuW5qtfiB1UzPen0N52OdYjibpiSEt9FWyOmP11uEVcllICP67o9DlNgqLkuTxxouB5fOpHfNVPlIsfKsVnNgz_8jkZfjKQaR8tJwZYmEG8OtDqMvkTiwKHdpbaFgF7TFvA2ObSjnDxsAfGmm1mrc5TBtWynTjQP05PwlexlSpa_KLpxOM6YzwPueZpPywHbTnrcvpcCp3g4sCmz2IXJvf5E1e4lV5x5JI3vbDntCzDr84E9uOSOtNrThDYn8Qoh3ME7wSPAAz3sXk8638bOxXGdGs8-E89s61nxdS-TS4m0syZsncllNRXdvkU",
+      "width": 4036,
+      "height": 3354,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118383098816377051977\">Andrew G. T</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dsQCDDQVGo5zoxXL2H_F7THd97SdohwVNtbPVyvdhWbXdcz3h0-JGggn-p7o5_LV2Viezg07hygjBKqPyBfDDPpf0WY7zCs7M7TObDg01UshLUHJN9O9PunodbQxN1HokGRQAIR5FRIKEIsSHiPbYEHS-151FK0Rm8b--fhoGUOLEp6LMqF9ilHr1NwUczAcKGyhhRfhVJMTEBM1fgghxAEAMSO97SAyi8rPQ3gOZuEuGTe72kJjAPuRtSH6_nKbigzqz_9jmTbVtpF6vfxDXpIu6olVqod0RSXgKuSG8izg",
+      "width": 2048,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103553256414370959627\">Daebak</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dk5cKzonYT77zlbeih20ZftNcUsNNMN8-xbdk19CUdL00bj0un0aHeEOCIo-HZBCNgZuqbM0RqXXAQEv-4qnEDlRjZA-u76cb6Kz-pzWIJ1QFNkBph5WXRb-ZM0kAJq-UE_S22dsogJ-w51NSAQLzf09QIG8jKR722gl-YVd5DDLlymZHy4aVcvdaRHshaTj1RsamVCQ-5QWSs1wTw-gUKyvemX5HrrJ9fQ8Le8xzOzxKky1euA5-m1DvnwpPu52-LWExdX88GVUg1aKyJu-eNoPgM8Q78opRtcvb4IR4pMEkta9mrgsb7ZF0MnqUCuhXWJs-WkrXmAqBnQfMg81dvD09TXh0bDYWnME9e3AhOxuyLCFvI51WbhFm8lic4Et7KKraKc_eZytFYjHuRk0s-ZK9dxpzkdGH1NCqpR5_efY4kg6Ztizhk937gp19r",
+      "width": 4096,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109334044398940057939\">Caleb</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eVQx01vjUtrkI1MjfyXMLG5i-wJwLRFmq4Gl5idgYQKJzzaiO-H085M_JGwzCp4vvMZ8E3snWR71gRhUB3aBuaH6n3y1I7rlZRFFjBfxRmrumVIF36QWG8ShOGuAY1DLeiS0VBxxnXfIiiroFpiMaHxG0avgHGAAd5NZRfJXOb2Qyyd-clObKLGgK3dcNLg1SI6BjJORP4hRR47vrk4I8mLDkbZKtZYImg6_dWayoi7XeoAHykZxFQzmkMl-LxizfgZLHG6HJ4IjWY-g5D-s5w0kEYokHHVHwGnQAh4GHR5OwHPr5fppjl47OQ8or_MSSBUwybG_urWhNiekms5TjSEHvAMKy9_SMzTMLn1hwNc9uajjmjkTZz8qxm5w1Sg1pOZb6DutOPcqg6CF2QU8GZW6i4Y46sqGMGJFRhA6-SpouP",
+      "width": 2880,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118142382748768872767\">kanoknop</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4h0M5LGIfPOKHI8kczLUviXfVyiBWVnvC1y1w5urrmH4ft0oqeq8g70cxuEmcAAa0HDd7omF6AACRYvM4ODcIX969m_lrbxgkDJxSo-uRxArEpRfiKOEgsOk_WrZmGZBicveumQPVAc7iAnbiP97ChFCm72PPhDPo4LPko1tfRott6i_kg07Qecii1pPbCo2pjMDrA37L2AblcW8S9OMFcoF_2GMRrN4S0368epBAhLSGLTqKE9KCbNJKDLzhw88EyD4URBLPc_ilhqO-23ZLi5UVw0vwuM00Rf2R37dOBklFN5NnAXfunlXztpWE5I0Wse3pO3v5tfeGxXA41oB924b8mQH_hmjaSuThoTGOnuD53A10OKhP1o0tpSVaM_PAGUk-xldkCJiLpf_06Ovt8dASNUuk--dSD1ka1ypWwg",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102410759370996347025\">Tianze Zhang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUrJrLeK0H5CfciowovATy0TgIn5i-DrcQy0i24_YHYcw2jeDMx9I0m25icH-KJpmr5lHQYNzAn6jsLp1pB5AzwzbciHbaIcwZUP4ek-Myf41-R5xMo2LW7Worh28tOCCtiybEcfIzhKTMa5exWtj9WJBza5fFz6B0JRRqnEYhmv-zqhSeqT81ZcBGMxGhhuQoBteFrFhzlfesRMlEIcBPwTEtrE6j9gYhCZswFfBSPANvMkHwpCQCENLNu4i3frY50j-are5UW1_zlOnXEvZ71c4bnjkGrP1deoyQRhWX1PFfWNvNwIeg9cIIg7mvJaek5yIsM7vf2N0LDwk9WTNxCEMWnN5YCQJ-3WfQazfLWuI9FZbfOa74huJiR-krECNp_vyjAwA4-c-tHKn59cvIm50p4MagR1pbu3HfY_LJAg",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113931045681884089846\">Joe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f8CkLhrcyeCEqRflmdk_FWFp6R98wsCNoi4t2o_YPULMLV9N2y1Iin-YptuQMuIICIHZWh-sNOcVPji9YtT36oHCEkaGkPIj3L7tjX9TLgAjskgo3HRDeQboHQjvV_0AZMEueCzu--Z0OeXCKqFb1dzP9A_HrOEfd6UAKAStP3C5MEn2bfxdnh-4QlMbERWJ3et3UDF6HAwqdEN-ox1fBsp3WPloZknrp26tkuP4Yh4b2pVdzRT8fvfgb-4dOeDMGgyzXutj5Aq0KIUcXdjAZInZbosYtGRjwEw6SoJ0Y9_Dq_2_ks5vi6CliRypLXx7IxT51PIEkk56YJC8o0D5egvss8WbJA9YW1DuUNlwgW1CMyaAU-to5v6piLC1K7bDoKOWqCaJyTgn0u6kKxbgztrXcUhYP7LQZcylMX3PVZ9Flg",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107903805662963061157\">Giselle JB</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eDb_5nps3WjpUGgzEt3VFtO8ZcGNwKDGafdkQ-1h2TSDOqyeKQf0KLkBPG-rZMhdPV0veN3zUyPZ4hjQlTre8LsT3i7drSb0wRstybp2UzU5Xlqj3TL_HL_pfKR1niiTujq1abDRJ44iADIx70NaYMl4KWumit9s2gCHoTMpP_05E3Vw21mWc_WsZwYxetcatvCf2r_tG-iJIohDU5iYVSUwsRxWMPdol0Hj6-xgCFTc4co18Iu49Z0kVLceucWP_TI8_JXZFJp9ovSoCXCVKmViHLZPv8ZWzzMb5V4EeJ6jtMvRER2XsZX6LtGwB2Rdm2yM5QLHd6AaxrRKiGQvS94t-4bvHZbtLF9xfbkUwM8W4n2INaSUbeOh68iDxzhwGMg9p6ik0AYzy7ogo__tuE7B5EMYZOKVlIyfF16VqPOjfK",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108334314765607530566\">S S</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fHj7NxaqosiN2Rcn7EW9ts5eK3cgLhQ1CPV1c1HMq-Mo6H2NeqxTJstX-YDbpeOolcHk61UFwSRG_bz8Px-vRWypbEhPuoSWmDHcSjGUEVt94TtZW60vAEX5RSVJ9TkarMZK3F_S2O6vowjYHND8ZjjzNLP_hqJ7cR-OsXhGHmrdbI4A-6W8Y0YSVxRME2TPULSAGnLp2Uiyhwro1aZ2JXi8iu1DsiwwilVxt-yHwie6KB9LFRLPrSi72BsfOEDjqovXXuL94Nb1JIBUVmWnDxKIkHs4aQCwJLx_t7ZLIFw7z154-1ZCdXsuP5m6mYBekCCK9j7tWmoTVumHwSNzI0meYFoWuF13QSNO1rRRFWaK0SLOKy2ec8YgNEjbtv1t-PTFiLJAqfX_YydkETcdPqct5Dz3qn4TRzxF3HcBW1f5-uxwqeiRW_5vPXjlSM",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101084032166329943967\">bastien garcia</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c2s8fhwgLj9qBh0XpFCVIsKyPrnqxZU6UrZNd89QbktVmSbAeRX2lnIdjwGPQAInxnAVgHqt0lWYjXJtlYRCmUtSrSuJknLBEJuBFjSth9Xs9tvcKWsUkTEWN2Bz76BUkFujM7gqModZd1F2jsYezMsHmpdFothuCO-ieTCwEtQT6thPOZqz1zl-TnGpRklkxF6hgcg_6anUsROc0H1zwR97caBBYOO82SKaUCyQeRvoVGGElc9zewbQ2HD9v0TzSBzcfS-8PB-Kpio0OkAX5sl2u0-bfZT7CIQAjTSusvK_p1ZMT8znSYxNqigNCiiF6Aabox7pXqsBJQbVNg1cQKCgG2VrUfhGz8qd2cpjOOGMg6HOQLxwpVazzn-i6dXjGtON9kE2SA3bRwwhqPkh_4aCOZWEGZbBOCjnCsrl-L5zeo",
+      "width": 3641,
+      "height": 2728,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107929224533286360622\">Fiona Luk</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Korean staples, such as fried chicken, rice dishes and noodles, served in a chill, wood-clad space.",
+  "reviews": [
+    {
+      "author_name": "Herman Mak",
+      "rating": 5,
+      "text": "Really good Korean fried chicken. They're deboned, so the portions are huge. Ordering the half-and-half on my own (especially on top of the seafood pancake) was a mistake. I bagged half of it for take out, ordering that much was definitely enough for 2.5 people. I went for the Yang Nyeum and sweet cheese powder. The former is better, but the latter isn't bad.\n\nCame at an 4pm on a Saturday so there was no queue. They also don't take reservations past 6pm. Really kind service.",
+      "time": 1750056822,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Sabrina Lupsan",
+      "rating": 4,
+      "text": "Food is pretty good here! My partner liked it a lot, me not that much, hence why I took off 1 star, but I think it's a matter of taste. What I do want to point out is that the pieces of fried chicken are pretty good and satiating so even if you feel tempted to get the big portion, if you're also getting a side dish my advice would be to get the medium one for 2 people. At the end the food felt a bit too greasy for me but again I think it's just my opinion.",
+      "time": 1752438384,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "R V",
+      "rating": 3,
+      "text": "Daebak – A Fun Spot for Soju and Korean Bites Near Vauxhall\nDaebak is a great little restaurant if you’re near Vauxhall and in the mood for Korean food and soju. The vibe is casual and lively—perfect for sharing dishes and drinks with friends.\n\nStarters\nWe tried the Spinach Namul and Beansprouts Namul. Both were flavourful and nicely seasoned, though a touch too salty for my taste.\n\nMains\nPa Dak (Spring Onion Fried Chicken)\nThe fried chicken was perfectly crispy without feeling too greasy, and the spring onion topping added a refreshing bite. Great texture and balance—especially with a shot of soju on the side!\n\nBibimbap with Soy Chicken & Egg\nThis came with a generous portion—definitely enough to share. The soy chicken was well-marinated, and the bibimbap arrived with a side of miso soup. Overall tasty, but again, a bit on the salty side.\n\nFinal Thoughts\nDaebak is a solid choice if you're looking to drink soju and enjoy some Korean comfort food to go with it. If you're visiting just for the food and not drinking, some dishes might come across a bit salty. But if you’re pairing it with drinks and good company—it hits the spot.",
+      "time": 1754047273,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Julian Van Marle",
+      "rating": 5,
+      "text": "Excellent. Food is tasty & waitress was great, now I know where to feed my KFC addiction.",
+      "time": 1759148644,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Joe",
+      "rating": 5,
+      "text": "Loving little place in Vauxhall… went there before night out and had the set menu for £22. Was so much food and great to try a few different things. Will definitely go back and do this again when I have plans in Vauxhall.",
+      "time": 1742291276,
+      "relative_time_description": "7 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:51.787Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-ua5-wEdkgR45FdtHO4Ztg"
+}

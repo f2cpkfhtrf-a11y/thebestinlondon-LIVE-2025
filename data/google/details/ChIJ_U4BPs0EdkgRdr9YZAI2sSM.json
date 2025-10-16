@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ_U4BPs0EdkgRdr9YZAI2sSM",
+  "name": "Rosa's Thai Covent Garden",
+  "formatted_address": "26 Earlham St, Seven Dials, London WC2H 9LN, UK",
+  "vicinity": "Sartaj Indian Restaurant, 26 Earlham St, Seven Dials, London",
+  "rating": 4.6,
+  "user_ratings_total": 2651,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.51363749999999,
+      "lng": -0.1273773
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51502878029149,
+        "lng": -0.1260107197084979
+      },
+      "southwest": {
+        "lat": 51.5123308197085,
+        "lng": -0.128708680291502
+      }
+    }
+  },
+  "lat": 51.51363749999999,
+  "lng": -0.1273773,
+  "formatted_phone_number": "020 3627 6716",
+  "international_phone_number": "+44 20 3627 6716",
+  "website": "https://rosasthai.com/locations/rosas-thai-restaurant-delivery-takeaway-sevendials?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+  "url": "https://maps.google.com/?cid=2571896246106636150",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 10:30 PM",
+      "Tuesday: 12:00 – 10:30 PM",
+      "Wednesday: 12:00 – 10:30 PM",
+      "Thursday: 12:00 – 10:30 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eJbzAonSNO2pOqRzsFk95bNOfqu4U4ZK0f0EZoXmrYZYBh8qBvirXHXUWiKauVbxMI8GLE4H1Eze1yyLw7xTiucZiTPdEIG9yii_Fao95xsOoSnxakN8PIQfigMeLQiCQIjK8A30ShXFPUNdG8pJU8Ba2Q8nMBpyRI2qwsDugbPRsERK34mu60NwIea3x_i2gXDy4lpiq335FOgMF15uRhEx7jbiN-w-nowzOij_VeOAn05lqjssDJE5JZfhTchqUHqmE_ViHOGjniPW0wgQHa8nHYdLB6xAkLyiGdaMEM5w",
+      "width": 1200,
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110074428344605118641\">Rosa&#39;s Thai Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c8PXKE_chg8ykt1a1pAWbNs8FPz33tDVkqKY7D2neDbSi28xqo04I9ZK2NysXUxXs5WIjGV8sZAszv6dAD2AjIitOmWI8t-Ps1ioxrEl2m4HpoVkqprA1KrLY1K4c863aOCRPoG8e5wduiUe5AjzFBAd1oWk--4968f3cI1ZRlz78_WWcrkvWrk6amLfwGmmWInkzUw-O44k2J9dHf0ycPH5WIQwOfuv8WjcgJl5TfpgFpXjUjUdMbGF3twYLQZOia6q-tkpir7Pw86Okvo4hJWBSXR4NXaV0dXhkcoDEsLg",
+      "width": 1372,
+      "height": 832,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110074428344605118641\">Rosa&#39;s Thai Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eF7bnjX4Ir4mCA3iqwATxAw0ruO8TPb_OYIMqbh-a7QfHkAhb2pJuCyZtIKd5jCpDNkiKT-nty_pgTRVvkc3cfjl_7IaQWaxkikA7IV90k4ESR5NxkUxwJwE5oKIWKhmBWpjrP_4ozDQuwy71Mpq2a2N4c1F9PTSJRyJ2Hkd3uwaY950eYTnD-oOAX3AaTropb148iqaEBDUgf2rg961LaDzmSVtkQOzrRsc9OoRYHZCjPpqNL1Xt2E74nqrHGtWEoTpE7Dnjp2VfGX__bTHLZ2_CUhxE3yzT0G8S117KxDPOBX42hX2p7F0u-CemKUJqUpdhuv8E3GUcPonv6n6tj8seFqKCBdJ8-geI9-sHI1cp9lrYp1R1UU0OOe35Kyvb7YQI-p58GummjwDUs35uhSFD5oWL7L5vql9lBS81-GYadO1VpTy6vakMXOLWL",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101089488555917065681\">NaYeon Kim</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dI52XDeMrKNbkS5HFvqo37VvL7ahn441jpQkkz0QBpGobcqAmTpQjXoBcF7-4nhfbOVYjJCgvmGeD4baSHULfoQj2V-p343mD2EgnraamcmjCu_bnIWTWuBsFyK8R-9Avvt7i2jxFlsW-PkksJOjni_sUtfuJULpJ9xhgSF-sOjRsBcfd0NIbV4tio6nBF0JQkqXgipqP3bha948sSTtvDBxWrKNYLngrpkZx9Atw70z6BbHOLZtREOLVgtThulCYFb5X7NJRPA4UaXgJKbb3oyzNULXfy8DnR9RBctxdjq44PpwToiNSkAl-mf19W-Stpi9uPzPeyCANMGNB4GNl9nENM1GTL7hluyTVuFBuFVM9iXa7bSbNwS4QT-sTuhoDTnTAKNNnu0Qunt2UD5XerOLCSSBQcrcyYrNqOxOo",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115251378954086397594\">yinqi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fXjkf7zPIt3XjOiiYPFhiHHFIdqkvoPL11g-lTY0sUR3mkHNQGJxW3J-DO8f8dnYkvN6hg2igGl1bCGdqqNtSmCFj54lxoThbNAJOSxz6K3CYnW_kdKHNfj5V1cCPQjgVLXu9BL0ahYXK3BJs39eCTDia7euLF3kznbbxs1P1f_7VllrfwPMUMBBQ6ECTLLSjupefE3aRkJ_WM1_Cst1zjUsL0PC-AmitdKvugXTN16-z3a8CgXBYhl2LklWkvoBBMogq_hKt1Hrqk05Qc_pgOs-3a1MR7fFwaAD-RT_1ImOEBH1tE_-P6ifxq_Sdu7XjqUJ8hoZcEa-eFk1UuQELymXi_pHSBoquwL3TtgtJClYsx4HcmMAmqbO9NLbmXwxfg7QB8FyJ9wgnG0iwG9vajKsxEY6BiAEcV_1Lo61LcOA",
+      "width": 3072,
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114887967351080083515\">Panayiotis Yiavris</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dI2cX7Ic_znrIy0AtuQ5w-4LDI10GN2HHq_Vany4-evjL0ynVb7Y_zqth3BrwXdT5_Oiw9IL2slOkuk-evY-iLNs_j-BuK5M0Y_Hd-it0zmHee5TxiEHvEhTfvyjSiRPwuQyZ0UMngCFBhHSBW0YP753bSanMeiZy5f_vRGlt1ei11sZMmiZRibRnNR41eJv02uzY_4FgBi_Y_OMEfRrzjHNLe9shS0d0ij6_WS-cGKYC2YtVR6LKjZOAH5wb6RELYWTDmrroE9WDhoC-MdeddrUpOiE66nyOrtctPMvWQHw",
+      "width": 1966,
+      "height": 1311,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110074428344605118641\">Rosa&#39;s Thai Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2doEc4tB9z383JCekQM9LhnzQ6ee2CRJt0byKiyil-SCHf-ZsZFCVXTHMI0qHeBpNsKDvj-fBitIMB3LNNq8OVKKhZLTEHHrwWiPB1w9Oy6YDBeAfiOK-NPmJrfdTjV0nxag-bsXMu8OWniutx30Z2UfCvxsYcwRv9CwijNnns4f9SZzActE4nypY0CLux5ZK7iwArYdclMWs7ZLtFkhP4F-yKOhc2t9dEqXBHFVqv6dEbN1WigP-AuAUe6n64-pnzCP0RwsogtoHRbm2_R7UPMxdru1BbsyV88g9RuSp4FSg",
+      "width": 1966,
+      "height": 1311,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110074428344605118641\">Rosa&#39;s Thai Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fjVeOfqdYXhHjbFd2TRSjL4Byh1K95Kt3dFkq7Db0KG2Uz8sCEsM4TPuIcll2gdmtRhGr2e7svA8vAzVpaEQBIj6NUUI_XvPQ7T0VKakDRu0w5K8TUFLz47fd4Fas9xh_zsZxJkEVRWbyYlGhvI1lliI0z41re55SJScxm8SDldDyp3CNKpASyiXqhrg86CopIyLAtG4sc5zV4kZym49XZESBcGPJbMSivEaSeBk_GT5IO2Rn-hP4qrl5kXG5oewnGsdUxhj4vE-cSeai2zEaD6_JvsG7W1riT21D9-9-e2w",
+      "width": 1966,
+      "height": 1311,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110074428344605118641\">Rosa&#39;s Thai Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6vutCFNGXqSPycoCrVzoDvlyZggVQH7_usZb8joxP3VRLF9St9qhGuwWtwTEveJrfeL1ROPJi_Qg_3-Lq8YubsBnpeC1kveQUEJp90hWwBjNkFjWmy8igB6zifiIVChU0trr7BNa9_4ybWhra5Zc9LalbXm1dEVqQ8EKoSq8vw3Z9Gz4dj8d-a_N4q_0_Hup0u5sxosxASXrF1r2Napbiv31TEoI9sDkW6rQv2IFnAEbgPwULE8BFnbl8eq925hpmQDgc9fmhZ-8nI41KD0TyMWRcpSVKfYd8ZOX-0jUEwg",
+      "width": 1966,
+      "height": 1311,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110074428344605118641\">Rosa&#39;s Thai Covent Garden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e52_vK6dSvxuI0lQXd4NB1QXbnXu_R_BN12-aA8NfZE8E3uvkWUJvqei0VBKmHfIc89gUheNkJwNOIzhlQ7MBne1epICNssskfIoF-PK3DGtgK5JOQ8euBwRhnFBqZahdonZEzIcwZoPHNK52sKR0m8MmdUP_MyqTnqpwLUjwIAo-cV83Mklh8ZraGZYdvni-yXz6bRNWFAZ-VaZELQ3oGoyBqAsljeUIWOurLZotQgdV4hZwCaLLlPqqNm5Pikr4mLR_88KFDodqeocJLJIh-TUdKj76YKdwQvR7GHExTftL2eKmCAD9VxAjNHOBJeu3Jqpc1fiNY8l1np2SOD2d4kCugwUOD-wUUwO6kU5YKQELunfBs-oSV1uo3O5C4Jcmj7EoFFVSHP-uMaqdqaAOwMZZSPIKt7vfep3C6Xlx1id35",
+      "width": 2048,
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105439205500912039569\">Joe G</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Casual eatery with a warm vibe offering typical Thai dishes made with carefully sourced ingredients.",
+  "reviews": [
+    {
+      "author_name": "Dawn Kaur",
+      "rating": 5,
+      "text": "I had a fantastic experience at Rosa’s Thai in Covent Garden! From the moment we walked in, the atmosphere was warm and welcoming. A special shoutout to General Manager Nicky, who went above and beyond to make us feel at home, incredibly friendly, attentive, and professional.\nThe service was outstanding throughout, and the food was absolutely delicious! fresh, full of flavour, and beautifully presented. Whether you're a Thai food lover or trying it for the first time, this place is a must-visit",
+      "time": 1759434674,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Pratik Rajiv Shah",
+      "rating": 5,
+      "text": "Rosa’s Thai had been popping up on my Instagram feed like that one friend who won’t stop humble-bragging about their vacation 📸🍜—so naturally, I had to check it out while in London. Good call.\n\nI started with the crispy corn fritters (yes, they’re as addictive as they sound) and then dove into the eggplant stir-fry, which honestly made me question why I don’t cook eggplant like that at home. Both dishes were packed with flavor, balanced spice, and just the right hit of comfort.\n\nThe hype? Totally justified. Rosa’s feels like one of those rare spots where vegetarians don’t just have “options”—they actually get the good stuff. 🌱 If you’re in London and looking for Thai food that doesn’t disappoint, this is it.\n\nRatings:\n🍴 Food: 5/5\n🛎 Service & Ambience: 4/5\n💸 Money’s Worth: 4/5\n\nOverall: 5/5 – A hype train I’m actually glad I boarded.",
+      "time": 1758971388,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "RT Shaw",
+      "rating": 5,
+      "text": "Vegan incredible! Watch out for the sauce on the fresh rolls, sweet, sour and finished with some unexpected but enjoyable heat. The drunken noodles were excellent as well. The tofu fried rive was very good, but the noodles were better...Did not have to wait as we got right in between shows at the palace theater but it did get busy as soon as we were leaving. A must try!",
+      "time": 1752746460,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Ratedfood",
+      "rating": 5,
+      "text": "Fantastic lunch at Rosa’s Thai Covent Garden! The £15 Saiphin’s Lunch Deal is amazing value-generous, flavour-packed, and super satisfying. The grilled giant prawns are a must have, wrap them in lettuce with vermicelli and spicy peanut sauce… unreal! Huge thanks to Nikki for being such a warm and welcoming host, she really made our visit special. Highly recommend!",
+      "time": 1757539949,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Luiz Valério P. Trindade",
+      "rating": 5,
+      "text": "Very nice restaurant. I discovered this place by chance with my wife while exploring Covent Garden during our summer break, and we were really satisfied. The place is small but very cosy and with a nice atmosphere. The staff is very gentle and friendly (always available to explain the dishes in case of doubts), the prices are fair and the food is delicious. Highly recommended.",
+      "time": 1756987746,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:46.530Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_U4BPs0EdkgRdr9YZAI2sSM"
+}

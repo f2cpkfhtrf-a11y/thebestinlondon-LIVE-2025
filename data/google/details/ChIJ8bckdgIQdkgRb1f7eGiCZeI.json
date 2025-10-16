@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJ8bckdgIQdkgRb1f7eGiCZeI",
+  "name": "Taqueria - Notting Hill",
+  "formatted_address": "141-145 Westbourne Grove, London W11 2RR, UK",
+  "vicinity": "141-145 Westbourne Grove, London",
+  "rating": 3.9,
+  "user_ratings_total": 2059,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5148385,
+      "lng": -0.1959831
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51623318029149,
+        "lng": -0.194645319708498
+      },
+      "southwest": {
+        "lat": 51.51353521970849,
+        "lng": -0.197343280291502
+      }
+    }
+  },
+  "lat": 51.5148385,
+  "lng": -0.1959831,
+  "formatted_phone_number": "020 7229 4734",
+  "international_phone_number": "+44 20 7229 4734",
+  "website": "http://www.taqueria.co.uk/",
+  "url": "https://maps.google.com/?cid=16313588610437437295",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 12:00 – 11:00 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2egE-I8Anx3EgsrNDwP9c5B9wMM5YI31XYxZ38ikq7Rl-cY2IpPz6ZaHCkMYgEdsOwh5T-GEoL-8yM70SyoEOP-rHp7lkZrpOXxJYbLnEzdRFrPru7oFV5K6-4JSFieOphTrQscIHA9H-Nvxod5HEPxsPtFHXHst1kfJG0VIxpDJ2LyV5vmqARuBolyNcQRH3_GD51tM-Oala6AKLGmNqmF5kUeOpOlKGIkrvg4855C45zpSFEsHW0UmNaOltkBxE4Yb-ReKIX1SOY4mJSx0LucmEGydohwNxXcTg4YGwIWO774JBjGKHwa0MX5iKk4tz9BDWB1B16N0GSC1--4UNPrby-HWK4mgQgk8enRi6ayQjnlSmWpSjUkDnlGw_m0k4f3-fOoepymCltWABtT6oVZ8TBUq2WGkzSz-U7aCJ8AevdCBJnLJuBCb5EQog",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105187765789620117278\">Sergio Portillo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fdSRglpLrHY8xa6SLZj0TbNl7IKbvV9EyTcA8z-haohQXX9pmV1w5OZFRUejvKj39J4Y12PDkGR1idIhFGlD3msXx_96JOl2YIkXOrmnoYlKXRw1HJd7Sw_01SOG5vHlpqQChxXY43jKmivDoFmHwva6pgQxh8CrqWAnDnStmHrZ_U32kMXpSGxTXGN5JuW_W0uA5Q0cAHvDODnAC1EZ_XiaJHvoqy4hJX26lvAnLVNhtTU0YHfJz7NbEd-TIGGQiEh98VqLVoClGxxrjJsU0UalmdJZDYLgkzksynT6s",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104790289114615398562\">Taqueria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e9mjFjYV1g9kABIB3LGpx2oCYvD8X38XtgHbw3UycMWsGRD2xgTC7ji8RMm6IJscAV_ecQ0YkwrQwj_4Jg_WVIiK2FDPcesXSV5FL0zkEkobE5sp8WBznZT6HnC2EmUj15BQIj-oBZSisVOM1WImz83NCRYukgJIJHFdgjoueq-3XzXCJeYs5g3VYTqf5SdczGlIP8SP1WFVX_7M-L1ZwcW07FJNytXff4mejUG6_EEbsG-w_2FJHZxX-NTKv_UYvhByIh2MBbugeR_agO2cIyV2hVzKXM4r2g4mH_g50VlgyZflhX62k3h7wbd2Sukhn5fQD2kmKgozpPAU5xiEZkY9HzAYoxbJDjJXkdk4ztdKn1ZrfjrJKQe_qzFyz9FDV5C_VG0Srw2-pDfyr1s-SoGr-FNBLzhpoCLMev_jRe1onWzxowtPlkUMIZWTeW",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112886694692016410189\">Mike Hamoudi</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ffs_YYIxq05sD4MRNfZcQftg4UKF0eat8U4QVx0M_JrPQMwIi_BJ7mitr0uEm9m7ENSlXC1l2F_u1C3pJ3SVVSwfLUOxQn_3JVY82RxRVr88P0Ql9syO7u3QF4mXEHygOVPSXngZG2arhjr85yzjyXI7aIWfBOYHxr77gQuKxd3JPz4Me9n4RAVXVT43xu_qfFkzrqJfbm80jhfMDVFIIqfWQSmrTi-YraS9W6zkyIhUCtR77doUx4jyAW8ejfeel0Ksn5Ur3DuAaqoCujlpLxgudMa3kcv3zn-yh0QnrRlACePT3P4e607dG01oGGJA__Ng7eThWMMuT87dmzzV7iZztt95RWX-TwG0m2FjS7FDccIm1gNITXIMQ0sBPMPUGEWfrO6RBYcA3wiAU6x5k82OOKyJHykaSwOjVy6vWm_netPk5axx3fIJIwm4_k",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105187765789620117278\">Sergio Portillo</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ebBpi3Mh5qLfDMe-7SSpsFJGl_o4yFmcvmWEtlxI8q1jpwMCNOegQZ9OyOEqPay5EHbakIspQOIOIITBn32wWX8x1Ew-5g-aZjhaJX82otlsWmE1b-E3wy8229tFJ3z5s8neHI7os8RyV-cVTHc6rwHnPZOw4P8a8Hu0HZNVfRPFncVkAitD9pdQ9lnvlgLfRnLOErdfEBoErIevvyApIDZroYVuhectW0KaVpHKzi4m5Ukg_Yf0-cOqwq_4Zk_EhvkevKwMB805SvZjcTZrhimNkZNGYLJgITaAzRfFs",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104790289114615398562\">Taqueria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2flHsgAneyerWsn_o12-wEyO0vzWr4GdL5h-jYgUTT1UZ_9zkMbBsmvMkoNSI33CpcyDs5s-TGvIEbZvX9FmdAAeZUk245OQrSfLuz5ccpQ2rhU62HitRJWGOLIGnFN9xycFDzbBUlYIHOgsdano_dJZjyKJrkRdr5nibhzsQJHuw-X6ip6OsjRXoc23wvoJNxdbcEbAf9K2fVc6JfV5Qbc7EcQYqylHOidf4BngYKdWLdtycMPuBXlavA0v_ogX6RuU7Ko6k7cB0-QTYblBTSEbBm6ijKb_YLvB04ucfdopFI6qzZIffWgB0R9Zr3yOOBM0QR-lAda6TqZsSux7Xst0VU7mh51j9G70KRRFWH4iiFQ7lr3eWf5SWf3sk30Rzv62V6UQVnoP0dHeM_Ew5e2YFo6Ex-jpNNsBmR9SS76TneJth6vOX4C2Et4t3up",
+      "width": 3000,
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103893137973792531758\">Marc Harris</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dfRVAwrOh1_hlGcp1IZ13mSN2FWj6FEwPL7-oK741yAew1o4GsBDIzmoLGTbrVLVSgm-uWPJZm1BDhlHapLVfW1R6nEP_IYwRYoWtNnXPkNKIy7xwYWZsSm3CFKBIi8_DAX17QcvvjzuLtLGnSSVpV2YFiwwZxImXfXKGCNPVPgxR1wtUrbaNow1svszMAYjuOHzxj2r3bvuc8otVRjbaCRH3pyFeTDYIJkiKxWn6Cht1-GnZQ1ySPzDnw-LcozVPhWLc1wWEl10u-CXA0km4ZfUiErYKfsNv5CL3Lzzg",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104790289114615398562\">Taqueria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cITaTQ0gQFqv84Ua0w4BSUox18sz9GBlZnadXsr2frzgWh26KGQxj8YZerZlnjbY1Pzd5rOzp82gxdUP00SPvo24Y3Qt2MST0fVB8KA9tCbS29Dje1dDzipdN_wbRCDg9S6voEeDmNuCxTW6uwJUsDCapQcQQe9Vb2_Mq6Ik8ecRiU6a6SBduuA01H7AysQUl7ByGvOWFeso2X6-H0ZrKakSDy-HjCtCTE-c3nRO0XQpg1H8XRKRul1J7eTE1hWci4Ywx-8yWWZkN8EJlcPFt_T0lIUzNAfZtd2Y5Gwbht0YBB9_V-ogq9FcEuaS-41lk4ExQHq9fWwOdT9ZknnKzOgNuwMT3BXuhBuLAWy9w47gE5TRMmtYjRpbz9uwISwuw5CTp88e9cLTLqfO3AGLKrvUxhJ0ZIbjck3oNYQkZj62Senossj1S3L3k4Vp9u",
+      "width": 2000,
+      "height": 1500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102714841430918288699\">Alexander Tschukes</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eP3fspNa_8Gz2qakzbgSFQx9EFv4cgNW1sd8asvUNM6OMm3LMD5s8tjdNyR-cGEbZlL9UEVzOphoTUE9fxzjmgo5bM-_Wr9Ya4uAkH19DbHW3KcSJiUgjZsH0s4vzVxu2goE-5DIzJ8gn83GdJ358vLGdNt5zev3MzelbmdYE8kzC7lFQ52rHW5gCTz5hFwDlqwf3oJpMOj83ZPKVYv1d4YW0ECjWabt1MlSeOtvr6ErhibPiJMJ0QpociMbK3PUxxfTJFNx-4QSFK4EocsZR0tUchElUTVnMNTpV7YT0",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104790289114615398562\">Taqueria</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c6iCdklLZJ5_B_1F1w96-XS9U9w78EQwCTVDUNQ7vV4aOI8MxlMssS2jLIdZ3hLKORC88qFIaDrknSbbAm7vsqLJkTelArp85njl3-drnnj7VmKbSnzieuXLo9bFRnPSbfyFOBPubt_kyrbBRNvtS38E0hh4RDxh_1vmQbbkWNwYwyc93X_dTTGsvjrameE_sh3T9DncmEvDUxtJVY9yPNxkgGgPF84eCe2KtlszeusbJgckk9l4prHtmoj2nzeTCGxJeq7x3TK9tO1cgyKnepuw65hPckDr8WD86f1ddf5QojcFZDcjlThtwZLESacEhQhYCZbI-A2_0SeQc82Q93xujEKLaGlZx1DwlReqxPVyNuSiwlopDkTkuff7m7pkYdPd1GC4cohDsyF5rWXCJ6x-c5XKv5SEFUQ8P9O9xHztfYd6qrm9Pj735vz7s3",
+      "width": 3072,
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105187765789620117278\">Sergio Portillo</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Tacos & Mexican street food small plates, plus margaritas & blue agave tequilas.",
+  "reviews": [
+    {
+      "author_name": "Alina Asaturian",
+      "rating": 5,
+      "text": "Friendly staff, delicious tacos and cocktails. A true margarita paradise, with the pisco sour being top-notch. On Friday evening there was live music, which made the atmosphere really warm and soulful. Highly recommend!",
+      "time": 1757766856,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Sergio Portillo",
+      "rating": 5,
+      "text": "A Hidden Gem in Notting Hill. We Didn’t Know We Needed This!\n\nMy group of friends and I were wandering around Notting Hill recently, not really sure where to grab a bite. Honestly, we hadn't heard of Taquería before, we actually came across it online while walking nearby. It looked close and promising, so on a bit of a whim (and with some help from a little AI suggestion), we decided to give it a shot.\n\nAnd wow, what a fantastic decision it turned out to be!\n\nFrom the moment we walked in, we were impressed. The place is just as good in person as it looks in photos, vibrant, cozy, and full of character. It instantly felt welcoming, which was made even better by the absolutely amazing staff who treated us like old friends. They were warm, attentive, and always checking in to make sure we were enjoying everything, it really elevated the whole experience.\n\nNow, onto the food: this is the real deal when it comes to authentic Mexican cuisine. The tacos were bursting with flavor, tender meat, fresh toppings, and warm tortillas that tasted homemade. The nachos were a highlight too; crispy, cheesy, and perfectly seasoned. And the drinks? So refreshing! We tried a few different options, and each one was delicious and well-made.\n\nBeyond the food, we genuinely had a lot of fun here. It’s the kind of place that feels like a little escape, great vibes, great people, and great flavors. You can tell they put love into every part of the experience.\n\nI can’t recommend Taquería enough. Whether you're a local or just passing through Notting Hill, do yourself a favor and stop by. We’ll definitely be back, next time maybe with more friends (and less wandering)",
+      "time": 1752218838,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Mariana Yanez",
+      "rating": 5,
+      "text": "Staff was very friendly and gave quick service. The food was delicious and great value for money. Would definitely recommend order a variety of plates to share so you can try everything.They had a range of vegetarian/vegan options too.",
+      "time": 1754667364,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "róisín",
+      "rating": 4,
+      "text": "tacos sooo tasty.. tho please some more vegan options this is very important!! the churros apparently tasted like a kit kat (5*) the little cocktail stand kept falling over and i appreciated how they had a barcode to go straight to the reviewing",
+      "time": 1746475843,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Dimi",
+      "rating": 5,
+      "text": "Its a lovely restaurant with a Mexican Cuisine! It’s not too big or too small. We were greeted with a smile and the staff was very accommodating ~ and always tending to us! The food was amazing! We loved everything. I really recommend the fried Calamari and the Pork/Pineapple tacos! Also the drinks were delightful! We got the “Piñata” and it was amazing! Really really recommend!",
+      "time": 1730785885,
+      "relative_time_description": "11 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:04.526Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bckdgIQdkgRb1f7eGiCZeI"
+}

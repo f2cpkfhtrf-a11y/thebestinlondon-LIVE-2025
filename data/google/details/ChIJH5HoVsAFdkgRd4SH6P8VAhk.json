@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJH5HoVsAFdkgRd4SH6P8VAhk",
+  "name": "Paro - Covent Garden & Strand - Best Indian Restaurant London",
+  "formatted_address": "21 Wellington St, London WC2E 7DN, UK",
+  "vicinity": "21 Wellington St, London",
+  "rating": 4.7,
+  "user_ratings_total": 5000,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5115791,
+      "lng": -0.1200931
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5130384802915,
+        "lng": -0.118658069708498
+      },
+      "southwest": {
+        "lat": 51.51034051970851,
+        "lng": -0.121356030291502
+      }
+    }
+  },
+  "lat": 51.5115791,
+  "lng": -0.1200931,
+  "formatted_phone_number": "020 3722 0951",
+  "international_phone_number": "+44 20 3722 0951",
+  "website": "https://paroindian.com/",
+  "url": "https://maps.google.com/?cid=1802026989763658871",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 3:00 – 10:30 PM",
+      "Tuesday: 3:00 – 10:30 PM",
+      "Wednesday: 12:00 – 11:00 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dBbuMTe2l1NHph7N8r86aRx1Xl3bnQhQrCzk-EYHtJUdBHAsPsO-t-LHrz2BR37uPeI0gtDFP7v1j1T6hTRW57mSDmdOl0CHjP2ni-fWUaDe1okWJwC5rhl8gkY1T2t9sjPlv7BZ7PJTyzZsUylYXVCHLmDqczRex57ENa9bF37BwZzygUAWbYKrJr8qqI8qhbP13lX25CuihyfJuJMw6yt4W1TuEOw5-0Y-rQOTaFoGqN19JILr_B-DKgqlYn53cwMJ68JVEDmmp3kQSyySXUJ119MbyOjYDeTBZxnXxzXA",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116645206695526075513\">Paro - Covent Garden &amp; Strand - Best Indian Restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e4pvPXD_10RZFHX_ZfaCQagI5oJbRqU8mrBy_yx4bNj8nRXRpgpEQB_SsN9T0oEXL660cjvEMo9cmXxKIm-F7xagl1yOdFv6ntSHLri0uPU8uyPn-ZObJvkT4_HTexyuy6knpFOvoQNJxhNto5mDTac_V7RTwAbOiaPdB3UCxfoB8Nb8EYxcB-derhSggnoyQPRs1LNXXd06NK5DJCSjcl1vfO7z8kFIohcEQaIHJ6DZ5DaUc9WEunCKMhvmOrWnpmyQMC_HFyTr5EnJXcgWsZAoFmW9QI2Z4uYwAPqXvSBg",
+      "width": 2005,
+      "height": 1339,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116645206695526075513\">Paro - Covent Garden &amp; Strand - Best Indian Restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fwEZ4ZR0TX9RC8J_ldmYNL9U8GTopXfrqEwVpR36NmEHusPqigW-5-OyvIpKLSvRN7qvklhK5g-OtMysN7AvYeVVvN0wTs6QBi-4qVWUDLTLdxhAKMfhxY86NIoVZsecyt8wEPKm8iQtqB-LtPdtzXGpVwqtOc31Am5LgYx54xGf_lV1xJrZ2gmmHEcbrQV-EEIoMX3tXPnsg91eVFAXoJ16Ld8P4wkLTzH4ozjLmp4glAtemHmpYtJ8A_MPHarBF1xrVldgvfOXaOx80ngKz1Iif_Zo5Sl80iVWiiu5f2mmE5D_jSqIfPiwnVfT0mESq0W2bVzmHahA0QKIdSsKtSIYyYdvQ2OOi7GcR7IvMVWWatJxiz45fyCk4iryDDdeB6kgzNZNB30RaPenlnZdiWPP4BlZXQFgQ43nOESa59hvGFTDU5rHkLbuGXeg",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105021894141933408792\">Finn McCartney</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ej3T6cwDkVecCi7NqsHg_T2u0GgvZwXqZaVO7OfK3OhC4jlvc-REDap5zWWI5vNb5qeNWZyQhsw5kjTcIDp8fMCWFtLlaGQYBIdFNVpzEFutrTZtNjogJ6ePIyxInZ2yX3mGCm32meNG8wYFzeSmjj14bKkF7I5teHNj-Dd_zDZ6jF1CGCGxFvSJXLjV0LZMtfPiFW0-hbA2QyhAy1f6ZTGfigdn_NnbsOjspADdqtBB17ZTFLsYnmwXTNFU-DGSQbNKsEa3uH8k72NTUBnmtWMxU-ffcQWvEqqCpgvtsg5hbZDXVLy1NYVK4dfQx0-EysPZPqpUe7QdQnRexUJfMpFz5lTygyNJt9_zDCYnJ0GqtIJjNLqOBqjH7ePUDgD-6WAjo5odwPh23-YlJlNhoab3bh8_6R6uglEruQH2izNvAeiwV3qefRgYLa016q",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112607874576460602822\">Zihe Bai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dLV6_PvmTjqLyFPnDXHz6rha81P0f0zlJRkIldmcabr5tVmmLtH5m4E9MLESsyT7cdpbfK3PYpR-mrON1h-OjvtVFIk2CU15Lv4xZGA4vgRxzV-0xYLwbXwY3GsZqVk_QB_EK8fxLdHUscTVomw_sP6upDBFJYziJC556QK74J1aYmXkACyL9jDHpeL1trzf8j8tcE-CTBJguvs1MwM1k73WbNN0QQiNJpBNIUd-SkvADu511besigSTY6YFU0Z0TzLVw2dbQ0VAApC0YEzS_GKsCpCwyEbXbWHPG3Nia9Hfv0yJwUfbSy5-EWU-tcinZ-qOQI7z088qE1B4aQZ08L7zN7otrDHDmhMrrK5-6Fqi7sGDP3H_8o-iXQ24tjN7TcyN2cI8m5yJeNjipDR2wIBdC-r8OHvVebwI41HCv1fIpJ",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105469123359991253287\">Iris Ki</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eX0Eb1h7X5EHfHK5TvMIXvCvgxA29R6tYZruvM7PQGXfnkJ4IJNbvmMI53Cjr4FPbJnvixKqWeSya1eQ0qCpzUGdfFe6uQQVmG3EzPtAJSo0mE_Camlnh-QiBINTUowOq7a6PHtgHMfWqaHTeeNlTv5tQuIJKEXkDX6l_kIXEHr1IIgaGT9_VxTQZDJAm0nsUQN-Uvnp9e24B3d0yOGOu3w7ErnS7iH7z48o5VOv1iSWu4EGtGgnFVRyGLfrQBKfORvB0iSQ5ZlB9dn-l30NPrefdQrm9qGYrrpL9oHgGGmnr4uYnbhX0cPEMkQaofcSiHzfeLOMDrknOXZDW3uwdr69pCxIM1mY2fQCtS6oxOqkCspucPxy6QyJlX4OzW8sf7xTuTxv93M7PgtlkQrH0WhMF7yCT887nZqLqwCcwRfQ",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117709939778830580858\">Marcin Marcin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e0-WmzjH3wiXlPJzvM_pOK4fZ6ZkVjmWP-DBygZvhXl3jJmdDsTR6GKcTSP6xEjoT9sp54jBQmv5VoQP480JkNde2pC_mAEKaHqG-_SH9YQ7u8weqxFcwY40mFKEir9uLMrxl9ZFUUPVFJHrmz39ZDA4abt6OhQqWUUOeVyntzC4C36DtBDgkq0lml1JrhCUdBuFi5oQjLXB2C5OsJodYiVEkFeFdWudzoB9lLZyu__M17coMjeOXeiTBoMfW7qneaBBXtU-7wXOgTin8Wgrxt-7Ro-M4lUaijAC3A_iPIgnMxe0hbwEtzCMVZ8wAalps3Eu8ERX6XqQ_BCF9saBrNZY9NWCP2_-4ukVyIReB0fuqT7kBlm1EpMWcU2J_UIytE5yvyjDU4VRwbkzRXQBB8lfqMgWzMbFmQ_tTG7e0yBX9k",
+      "width": 4624,
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118314888083844603739\">Chris Burgess</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fbt7FAFSC-go2jtns7F2TR-vaTttvdHnbZk-KoK6UOtLI19G_C_9wPuAp4nDoMMG3PV-2b610ZTyduN-6wdggpuy2zuBfH37mPcQqDB_OP8S7JQlcmFklNqT_wD_2DhncwYMYiz3khN4uil2AxrmkT5FZ2yyc6k2m25ualWEoD01VthLupB2kL2zsELdMeYpgvMz7GzTlvtWj1cx-WZVtnNpK4w9H2OBycV_N_GExJXTjGLARkL0NozIR7g3SFVkLfJx6BOyzP8Yy5K3dC_Q75LSRJGHTV9-Cxr8kDGKj7zQ",
+      "width": 4787,
+      "height": 2567,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116645206695526075513\">Paro - Covent Garden &amp; Strand - Best Indian Restaurant London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fmHptTPIMNg-0coVKi3rjKaT8R21BjdpNL23DJEfUQFxrMKdJdqGMBo_i6NsbBlNx9LQuVZvUDa2yt1kAsQdv5i1TwBBokKmFizRyLQ4fGrzGN2TjKYHyjk2eL0CKIFgfYl0A5iLsdbLuDekVCJ2wgs8sXHzXP_zlDhaYaVqkMxMBoiUfz93Jq-pXxwpOFBvUVa6-55flN0MOl1-FQjF_TZ8nKQ3iDJT8A6pWTB4HGoi1CkZMSBS_SVaoVOiDALBhyUDV5SVE5AoKFZfIoDAunydoRPWxGM-k-tW2Ms2G537-7cqIAxZ9W7u_mqxidgt737V1kr7_pghDPSZ6K9GCHO913wFAwoZxWEC3D7Rkb-VqTVqUOlKbBeAHkGTOSmRVsZvsfcu_zOKKcqW3z_TtZGBdAX4uHg20fkAKp851deV-D0rE3j_NH5122Uw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106839152572701555230\">Karen Low</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eIMY8SIEaz2kpDDHD8hFpBIRFGdrBvw5GETXuMMKlz7l9yvOkob-k29y2D7OAa0Zotdw0BtYzwV0nCnINc8Y7FsbFtSawFlVln8eXear3majel8iTfypW960Ae3n_sRI6tHGX79UWhGA9yVfNblgZevQAkEM32SnD0a65ovBNa6CfqsNBhtUDv2d2VkV-Fm_GCtoIeQlBx-3qBjegblDBDa6vJuGIZxAF2CLnFSQlsSZ913qxR0xtsfxtocZK7ANpy9EO-6Yb_DeDs_Buod3dLnD2-D1WTG6XX6YBzd2SM9Py2JwoqBMXu9bgPq1Arg6ZFAP9jJSzS8OrzcX2wRDXbxNKw1Ohb2lc3014I7u1CWd6ZLYJUJpV7QNXpcOzNC6JX5t28KkJAJFFKls9aft3VNBXRA7U46a6fsfqm7aLAnOwlUf4tux9bYHwUuplf",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101230032285511582669\">Andreas Augustini</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Leah Flatman",
+      "rating": 5,
+      "text": "Had a fantastic experience at Paro Indian Restaurant in Covent Garden! The food was absolutely amazing — full of flavour, beautifully presented, and clearly made with care. We went for the pre-theatre menu, which was not only delicious but also very reasonably priced and great value for central London.\nThe atmosphere was warm, welcoming, and vibrant — perfect for a relaxed evening out before a show.\nA special shout-out to Joy, our server, who made the experience even better. He was incredibly attentive, friendly, and happy to help with anything we needed. Such lovely service really added to the overall experience.\nHighly recommend this spot if you're in the area — we'll definitely be back!",
+      "time": 1759600700,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Noble Paul",
+      "rating": 4,
+      "text": "I recently came here with my family, we had a 3pm booking. Pre-booking is kinda essential, the place gets really busy. The interior is lovely, very unique and really adds to the vibe. Staffs were very friendly and helpful too.\n\nFood wise, I’d give it maybe 6/10. Felt like something was missing. One of the starters my sister ordered came a bit undercooked, but once we said it, they did bring out a fresh plate which was nice.\n\nFor families coming with a stroller, just to note there’s only a small area at reception where you leave the stroller. They also have a nappy changing room which is handy.\n\nOverall, good restaurant and worth a visit, just food could be little better.",
+      "time": 1756399382,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nina Gimpl",
+      "rating": 5,
+      "text": "I was absolutely blown away by my experience at Paro in London! Our server Joy was incredibly friendly, attentive, and truly made the evening special. The food was simply outstanding – the best Indian cuisine I’ve ever had! Every dish was perfectly spiced, fresh, and full of flavor. You can really taste the passion and care that goes into the cooking.",
+      "time": 1759603071,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Jo Powell",
+      "rating": 4,
+      "text": "Lovely experience. Service was quick and smooth, Sam was attentive and polite. Food was delicious and we loved the flavours, portions were large too. Venue decor was lovely, very cosy. Couple of downsides were the noise levels, it was rather loud, you can still talk but it wasn't always easy to hear. I did feel a little uncomfortable when a qr code was shown to me basically telling me to do a google review there and then, and then the staff member coming back to tell me how to fill it in didn't impress me, if I think something is outstanding I will do a review when I'm ready, which is why I waited until I left the restaurant to do my review. Encourage your customers to do a review, but don't force it on them, it's not professional, this is why I took a star off.",
+      "time": 1756416441,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Natalia Deeva",
+      "rating": 5,
+      "text": "The food was absolutely amazing — truly one of the best dining experiences of our lives. The staff was very kind and welcoming. The dishes were so delicious that we honestly didn’t know which one to try first. We ordered a variety of plates to taste a little bit of everything, and every single dish was outstanding. The naan, especially the garlic bread, was incredibly tasty, as were the samosas. Both the beef and the chicken in sauce were cooked to perfection.\n\nNot long ago, we visited another Indian restaurant outside of London, which had very good reviews, but the food there simply doesn’t compare to what we had today.\n\n5 out of 5 stars — a must-visit! If we are back in London anytime soon, we will definitely return.",
+      "time": 1756067384,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:41.837Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5HoVsAFdkgRd4SH6P8VAhk"
+}

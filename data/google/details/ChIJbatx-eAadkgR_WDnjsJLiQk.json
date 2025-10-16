@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJbatx-eAadkgR_WDnjsJLiQk",
+  "name": "Purezza Camden",
+  "formatted_address": "45-47 Parkway, London NW1 7PN, UK",
+  "vicinity": "45-47 Parkway, London",
+  "rating": 4.8,
+  "user_ratings_total": 6952,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5380242,
+      "lng": -0.1442746
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5394255802915,
+        "lng": -0.143028319708498
+      },
+      "southwest": {
+        "lat": 51.5367276197085,
+        "lng": -0.145726280291502
+      }
+    }
+  },
+  "lat": 51.5380242,
+  "lng": -0.1442746,
+  "formatted_phone_number": "020 7284 3965",
+  "international_phone_number": "+44 20 7284 3965",
+  "website": "https://purezza.co.uk/locations/camden/",
+  "url": "https://maps.google.com/?cid=687163717143978237",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:30 PM",
+      "Saturday: 12:00 – 10:30 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eGCAeq0N3ZA0tVqZ97Mkbh3AG-4zpQMQIfpOh9sRsYZkhbY6IjAKl05ifpxAUJQm5btJ9fYV1kXS1srpzHDc7CbP0LiIpLIvfT1XoVC3EzYdxhNvevrXknryBsSZY1xCLINDhmqTuwtAzJ-0IshEPtSbxZkn5zMiE9v5uCQCeT-MXcva6pgxjoLft7CrmmijNGLDEgFt0REQ8Xk8t08Ft1E914QEheIoSgdV9DDGhEANj5a_6qjPA8LQ66KSxuvfhqUbOS2NWu26Pk1ZxghkncmdAhvtqDtvnRdLN92Mk",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107769438393867614426\">Purezza Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eIX8pwhgJGnE32x3C9pqIB_IhWsgG8L6F_29VjuzWURg9uPdsT1IPXsQe7hiUGdzpY-tOzrhZsLSB39LQAb2N-QA3fyv-vibbGwSn46cXk0FjSfy1nX2YllAttcnYKwlO0m_e4uvy_HzpKIzGA2bY5iHOYTiLZpLX4w2l89A90qVxGROlnC-WFbGgC63holceiusX0h33ITJDrYsCbym2SCZ5zuB44bg2JMDicrBYVM54rKdR7uNU8URjdcIFZTyUWZFaj33iWLbQqx5ewPeoqr4mPJ5xJPUQIZPm8ZbGBCGshqxEZznNl88Vj2mI77ADE8FMUPJilUQ8jH-4d46sPU9g7PKqOHpNZR8Ngz5h3zhYYF4ZC5gvFIPod1RPZXBYgtuKUqsNhPCHzMGkrk7oIpS-UhmdukC2F9kyZhTjHziNOc0Rxja07jJkfC3gt",
+      "width": 4800,
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114673871722331952791\">Andrew Kubarenko</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eSKHsHKJdn9-wcRHFOC6tCATtVjjodj6PnLZ1RSEh_d2UZs2BZ9D27LukGRsVxhGF7gSg4ZUwLRTc09FJq1myiJf8oWebWImK9JUQ_C4T-qyoRAZOBoNFe3lRY8wCKcvaELhzHH-U1ayL9trROMw0URK6UJ3IE17gwN2hKoyra3UCZ975aIb3Zgnbjxzrd2Z2rg0Majrnr7ZpZZCrT_IHlopqlUai28v1oDYvzH9v1RkISQtG7QuN8xhiZ7bO8KvyK8W0rQKp4YGiUATddLVLH2b6lG88sOnVkLRcNz4k",
+      "width": 3140,
+      "height": 3140,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107769438393867614426\">Purezza Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c4L2ppuRhucCX17idt81kNUXALtSdyPIIukjzBT56xt216wcoEOWbATSEzxH9oVPD98aSO_LkX9Z4-3cWiNcgynCwJKt5pMXThW2MEMh1VgqH6IKgs0VxVRgaxcBbtOdrmhmKDHBxkQRRhTzuyOM2XXCuGSJCKEz2a_dapnkbW_miVWNXn3e89BCRLfg3lxGlTkJI46pWYR-O7VbLxmJTGkqiZPx07PhgXLEtnLIWyyzn_yaNJfptgN2mO1LryKX8lxqwKG6WpQvhyzJEmGrrvXrgakRgaYzhBmeoBnfPOAG3jV_uwi8xR8I68Ipl38WwxZDNil3hzrM2dMTW6Mf7cqrxBAmvKM7l2GcjKVP818-A4-U4SwrKgELvGO36reS0_19TyzdVn9Ct7QECyeXNgy1Ucot02VcNyN9152j7hwA7fhW_92FqWLoZstQ",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105759083460718458396\">Jessie Premet</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2diDKr-k7I1BFvq3TPQbF2lA3wFEIPzmXUn05JHVit7DnePvl-saG4lZEfAe-KeZBSu2C-ftJ_SPpHbZS1QfGhQTvnlNCEbQMnJ9RkeOuaEOAanJxmlGdczX3iU39FYE5p0HalyM1UFn-YE2H6QZVSLfkefxYrAUABEVGsy5w88zufsH5T1_M8aHSunnHt2kEJ14LiHJ6janJwl0Cbp2hZT3NddvUEvRXnqGe-GhvUm4RHjQIG4hIURLRMWQl2mIP9pLs6ukkRumMyajbGVAU55qJpQnueeevRpxN9oNmjJTztB2NVQAUHHyLhyybHr9PEbrHzyMgT_Pzd1gR_9lQVcOVHlg2wj0HHjhZl8zhkoWfDGK0BYeOfFeLb1Pt3c759l6cGZ3b-GcC6BiMe4dOb5FJDXxjZFgNfBDFLGOlyO9d3UnsT3CyCTjEiYwmS2",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107931181637859942328\">Fraffolin</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dV-b3QekaoMG0Dwb50jdXSAd05vtCUCIy6VOHYVMzjOfD_1C7vHlx4FxvwbY5_UFGuJA-PINov95-h5K-ek9XaLRok2AJL5VBK80GtQQ1-Qzazz23-aIw9c7g2zqIn40nz7fCrHEa7d0NyLXDoum-ryD6rjjsTjhLZJqkSKR8EQGXJciasRtkbKYLtm0dxWGYZeFib9mQ-ob35tNt6ue8M7pbX5inbROoCAxjqBr5QzczCNiEVFrFKCAuD6lvmqeTxkDezdX730E0v-yGlxpZyuwpyWVWc0Y1ogzJDSsD1r9LxOwmxiN-x6L5yVQZATs3KGcFNN3TWF5_LjHUTRg1GfAT4fPWhxVfHNw-9WJ1ghDk0vsrP0xui7VXzks7ZkLtVP7i_3wCZuDOzXPhqW1x4E8kPS-WddSYN82XTizdbbxq8",
+      "width": 1956,
+      "height": 1613,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110787970093947990988\">Christopher Patacsil</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dUllPmnlvfgPyjQOSFd1Jqq22EP7m11mkE5SuIfXrGWKXae8HmIWN0qOm3OcJQWwgNrLDjo0mWql_Qc-ZQA8-bLJMYkN07V30kRuBiyZo1PtX3443kTWnTk4JcmhpslY_8UpHEFn9QNkVWgcgrscsNobOglSqNwbGZCLLgNlNn7NhnA0Ky0dminOFXrMbqOEXVDb77EK8BcT0_iFWOvlSeyDFKJPretUg4V6iX33pJTMQNf5DkBSbEFJh1wLfYgltRpqMUHoTYdGoIIfGFF3NU0r55HaVKlMLhjgm90qSwenQkJ0lyDw7rIJn-W-gFGUocWceGOYYASFO8-5Sx4Iv-Xay2LB_93276eCftOxOdMt3gfvrZpMhEHqYpOdgeLeAF9X8N4uto4ldfHk4kqNulL6oFJsn8MZvPK6ZcqYCreHE8FsGR34aVeb8u5VLu",
+      "width": 3024,
+      "height": 3010,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117353999023263904849\">juliusmacete</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eHELBMR8H5KNVSeiJ5rtuQwPm7wNYGUJftYZdWDka33ZAbPO6arxoejogJD9tqY6PToaPJudtrkwGYZgvzlte96zQ7l-CZolnCFykbhU_cV5Uqul44aRS-6QVA59pMbq154JX0uiZ4skMjlPpz6Io0g7uLi0Nfl1H_NgNxayQigBeLybwqwQrPSu4yrqpsrbH6DTbRf3ubU1JmKHq--uCUw1TmcjJBlbj6LwhYi_E3sItCVvdmWzrYzcGwb4bbwSUa4fAWWrSlMLLLzdS8O4qKInbdB7mE9qOsYuvmt8w",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107769438393867614426\">Purezza Camden</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cuYw8Cl2HQk68ZCDvWRjpSeoN5-Wnv3s6Fc2Jj6rsPum4Vcp1U5pAcaajQ6Lubsl-4t-qV5N_pFYmvS1K-QY9lAyPzc8pSTq3qwUfq_fpxq9sFd8vZBuq7tG7vF58k6TAD91yWqOXTQDP3xr6iTX9sHrUsx4FVUVkpyLC8i-rA7NOjlBxRmbFn5Omu_YeyIs2Yc3g5k03c8nlSNgSt1ODgQRZpqC0L0UOallUU2rrnUyoU3qOAEXorLtqP5ojprStlru9l0tvo1FdG3zZoWr4_y3rIUaCnmc4LKhYnd6oRleEUOsznMeV0DfWhGddLb6-4rgTL2NxvBMUoJgwoJMpeijgVOITU7QIzMCyYshuTGkrSWVsEP2xWBhwhdXtXSilmcFg2ZUsGETGpHRRLv6xnKThQW8BqDtP6b4Dln0T1edaYqI1KFqEd8jkCY3Qi",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104249600830080980157\">Avery Summers</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cjm0coUaufvm_s7FqwE4x0pOrm6BMp5j0meW7dySbw0-DbL4EQ3JNChJG3v6kHjt_dlBV3oY7GQ7jxjw9CW5KsAhFwo9J2Jd14NiDof9o8Mes6YNOgy9JIG0TQKkb1VX3QVazns0xFRw0KCmRGJzIVDZYU9qbCEXVzkpWXWqA0lyNxIH0qoTn1fwCE8sI_V1F5magZy-UdATHEYK4nr8HxkqWmdiRZ8XgfnmW_k65eeN-tWzNKTSGt3MlOzoVvxRF7b3LyycP_aNArI6BhFissIQi7_Dt07P-9rUhRKmI",
+      "width": 2048,
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107769438393867614426\">Purezza Camden</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Easygoing place offering a range of vegan sourdough pizza, salads, raw dishes, pasta & desserts.",
+  "reviews": [
+    {
+      "author_name": "NATTHA PODOK",
+      "rating": 5,
+      "text": "We had the Black Truffle Pizza and the Parmigiana Party — both were sooo flavourful and perfectly seasoned! The vegan cheese made the pizzas super creamy and delicious. The dough was soft with a little chew, just right for that perfect crust texture. 🍕✨\n\nI love how they use the real pizza oven — makes everything taste so fresh and amazing. The vibe in the restaurant is really good too.\n\nHonestly, this is the BEST pizza I’ve ever had in my life 🙌 whether you’re vegan or not, you gotta try it. I’d definitely go back again!",
+      "time": 1757824291,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Matteo Comune",
+      "rating": 5,
+      "text": "I’m Italian, and I can say with absolute certainty it’s one of the best pizzas I’ve ever eaten. The taste is just like a real, authentic one, yet it’s completely plant-based. They offer different types of dough, and the sourdough is incredibly delicious, light, tasty, and it leaves you feeling great, without any bloating.\n\nThe staff are very nice, friendly, and professional. I had the pizza Parmigiana and the tiramisù, and both were absolutely mouth-watering. I only wish I could stay longer in London to go back there again!",
+      "time": 1755292052,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Stefano",
+      "rating": 5,
+      "text": "If you’re looking for the best vegan Neapolitan pizza in London, this is the place to be! Warm and welcoming atmosphere that makes you feel right at home. The pizza is soft, flavorful, and made with the freshest ingredients — a true hug of taste in every bite. Perfect for a friendly evening out with friends!\nTry pistachio and parmesana!",
+      "time": 1760298510,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Giuseppe Morana",
+      "rating": 4,
+      "text": "TL;DR: I liked it! Not all my friends did.\n\n1. If you are not used to vegan pizza, you might find it quite different from the classic one (e.g. the cheese didn't taste like the standard counterpart)\n2. The standard wholemeal dough was really good 😋\n3. We really didn't like the gluten-free one ❌\n4. We liked the parmigiana pizza and the veggie, but not the margherita 😢\n5. We liked the starters (parmigiana and meatballs)\n6. The service was really great: Greg was very helpful and kind, and he even offered to take the gluten-free pizza off the bill when we complained about it",
+      "time": 1757831641,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "C K",
+      "rating": 5,
+      "text": "Joe was our server and was very helpful with recommending toppings for my pizza and service was so friendly and welcoming, the food was also very delicious as were desserts. Definitely will come back. Thank you !!",
+      "time": 1759776986,
+      "relative_time_description": "a week ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:05.216Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbatx-eAadkgR_WDnjsJLiQk"
+}

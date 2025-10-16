@@ -1,0 +1,233 @@
+{
+  "place_id": "ChIJ1wxyhyQDdkgRt_HA2kpdsBc",
+  "name": "Jang Restaurant",
+  "formatted_address": "The Mezzanine, First Floor, Royal Exchange, London EC3V 3LQ, UK",
+  "vicinity": "The Mezzanine, First Floor, Royal Exchange, London",
+  "rating": 4.7,
+  "user_ratings_total": 203,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5135331,
+      "lng": -0.08690089999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5148068302915,
+        "lng": -0.08565791970849798
+      },
+      "southwest": {
+        "lat": 51.51210886970851,
+        "lng": -0.08835588029150206
+      }
+    }
+  },
+  "lat": 51.5135331,
+  "lng": -0.08690089999999999,
+  "formatted_phone_number": "020 8187 2209",
+  "international_phone_number": "+44 20 8187 2209",
+  "website": "https://jangrestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=1706966834852458935",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: Closed"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dMO1tZIptniSGlMXjPOvGXmZk3jnyKHokLBakhKJFxxHXZUx05Fqa-T63R8_9xPhnwxEddv6H0BTZ8yRuSfI4ydbon9POB2LBLbj565PLLxQvYKmKlEItX8jawcYFVi1bR0X1Us4ioNRNkCM0u4SLukwWrJiGFb0JLWi9z3bLW9Hwp9AnfqBbgcFKoAa7lyHBTUa2EiqZHq6M78HVNQCkcP5P4wamrk1kYRV5x-sezKwgJn9JUHiiyYPJH-NiDeKqHbC9eB40eD52nCPWhptknYtoUPf43gtHf9OcFk9O6NQ",
+      "width": 2209,
+      "height": 1523,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108402620368719383985\">Jang Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fLPIAEFKCSl1ndlO5MfFCAwc-bHUQI4dKREx5YRAOlwcwwwBwzUNsjBCd19lJXvzqZAKwgWITOTCMSpyM8waGbS8-XBMMQPbaLwzTb09tBV8kaW8mMGZQrfvTg4qnR27x9jpX61zaQIqo3PHrBvXva82oN_pQZsQrnK5OFPjrMOqs0LmxFptL098voAF0hUZ0mdXvBd1Vx0bj7q2LcOe2DGucKkgOnfrxb4_KK743y7tuUsa00FZoGlM5xcmUbsWWoFF0fd5f_9-ksEx1eKx7iNXisHqTyqXYTrGxu8uc18JSY63-naReH9JkUCCT2j8c1U0C_MA8XdTzfdzKD-HY-c9kVqt6VNVMLFfOFesqAm7gkJCeKCuyZEiVo3z4N57O2NRNarDTk8LiDlz0UpAKLjSn_j2Uwve2lEOzMX6Q962dihf1N4aFUvMZsQ5IR",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109058191144356693509\">Catalin Gaman</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cb1FE5xV7bZWEysicoAN4zkVeUYAMDmfTKcFXzVO8enL8WVCbF_0lI__S_IUwKA6nCD8w2-WJ20etQo0039NLTpEX5zi51OHlo5nVJCMCgSAIbpR7FcqBsSb5k6LTYhmc8qLaWyYHtuzLC1bg0lCdNtOHQBhE4LmCtc05Sl8RoHb6nYKKYqy8yaAWBm9MjrTmKfSjb-ZYT8e4dkL1FDWNTIQ5FAnnopmmvkl9S5yrG0UpeLuAxrcCmvmTyEc7lXFQiODB6WY0eK8lvNpxCEvxFfe6I1zuN7O_De8-lyLrR7g",
+      "width": 3439,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108402620368719383985\">Jang Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eKfP5jl2PraN-YdxFHCaCPWVIjiHHruAk-CejgRm_cwh-VCwpGfEb3CtOojtXRL-tf7FqYo03KSCvuR8ZrCmT5P_kGHDVIqKNR42RUO0MIKHtbfgtTYWy1O-WEqIU-0MANJblAzuHQeLjPQaB4AawYQMtkQwZ50pOEtsee3urbDUpafSyu9Qj95IIagHg9GK__DdyRHwiupt2qnJ_abwL9Iz1b0SAlLI6yyeHtE3kVbS-zz4wrTmpXgtc1GiTPylOYV_V5ZW10hizA8tLG96fZtiX7ixR94voDjldsRAY4IQ",
+      "width": 2000,
+      "height": 1385,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108402620368719383985\">Jang Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnKP3LINMyc0qPZmZqVRbwl49xgMz1LGx7VtJ10SYVqvs0AJq9jouOo0oDjasSsg1PGfuKXlOMDsFYP8Qs1z2WYiQfpAA52R-3ucyv6PgqJq0XG9Mwo1i0-EAkzNYSVEubuqw0Xi7d_6B6BxgtuRSaqSmB59HE_mO6wepzY2ktNETrLK4u8jecOm63Ya58vYZJuQs6GHpb7jl_tl3wMZJqMUkhVpM3GnAbyf4q47XNcuNK6_CG_qk-VY9DrDPoKMdDryedzRu7b4jLeikpMHBoajfqzjVGehhwiVzL7r3xgw",
+      "width": 3200,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108402620368719383985\">Jang Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dIPyifN49XOpwOL2AcMiSWfMjAt9kgSGKeL3x1fq6kufWQeVwdF63d9EGYeDYEOvaN3FLDOYJfLaBfgiwRctHk97uQp3ory0if9bSS3RBSxpeMA2y9ZioLe-XIfOlIPWwiubfA4AO37hMyaHqVXKQR5ry4BMgpMiD6jdYH2dNXblt3nhkoeTynrmSNlmqq72hdJDIZ3yYSZTL0Sli4bK26Bew2q12hf11dnNicQvn06hn5A8yqpHQGLqhgaDfwyhrCGomXJc2EOZdsW9462Qz1BD9jdJgdA0MWczzc6nbyFw",
+      "width": 1500,
+      "height": 1120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108402620368719383985\">Jang Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnY7AWYx0i-C8VsYJLDKSHZqjCidlj-hWnA0sa665B6vsKUcFgbiwKvVttLTEWRtu8I4HxuITQOHtJNhUrgyXkQOj9KxUggoUuqZW3PqQB4tBU3Ic4NG29Tne8kMv3coVQxxdJtoDcVQTSsnjLnDfZ2DbGecBdK4Vll2dpd2NMhhd9I3fewoFucMH3W36JXQSGTIjbTspAna2Rn8Zjljss-W-hTExaPWa80OOiA5su3EIJKeCFt1cW3FLWrBtEDDCAeD1gVpwmVXzcbQRkvrVssnvEAJDnEJMDyim56RlYLw",
+      "width": 3499,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108402620368719383985\">Jang Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fR4v6mW3SwACeqe5GvlOnY7o2fQfac_GFb_j1L_gZEa8y_GRHPe7DHsfFO_t-dsk9DzRezKrpxMPwfjP--_mc0l3OxYB_RK95iPK8sGJSqJvERl7YMsviT7GEqJcI0LYUpWKVOmXQiXH1TBW_cM_0Kh95xEI7TVWx-4lxUC6cdPbxZe5PJEIpZjZtTsL5xTAMCuQv47ee-rwHpSipUr37pwNdU6eiwraDccD_lgSX0nmatJpoVfi-JiEQDxVqRXfKyQImDTARj4zxApRV7nvILmF_5moigAJJRvB1dm1paDTPHcvWn7DwjjzroFuH7M5EOwF50cFMyFhN8E0rHNldu3YO11zuutsET5VnoJanmg1YZOY_grKYey8gMQjm7Q7aTLxroETVQOkuZ5eMyDyLc8nAP6fiyvf3mAhMaq9M8SPk85Omzw7-GNZi_DA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114727102685956795502\">Sana C</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cjBkcTKsCkdPkv0pdK-zTsdXweqrgjmBX6AAkFqxcWAdqlQLdbRjY_TYx4lNdDv6pSVng--5PkcOK-GVMddYzK5AMxcQHzfhmOATbpLglPSeN2o1M69C3MSFwnWslUdjiIqe9XB1o4iCcxoOJkM2cb-JUldK0xpxnVPzHPmunRew8I6dm6OwmsWNIWD9cJ4ABmZs4Lajhk0OZh6qrEuqHSjxD8S9Jf65PsDvTtTvQfSObNZQH6hw3HraH9CFfRtt6yVTdzmoTcZTmtYQR8Xsl1_0pMrR7WuYTFDnVM38TBHw",
+      "width": 3682,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108402620368719383985\">Jang Restaurant</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fYNQrWFU_fgD72mMDVrYdO6foeVQJp9Bkz1IibMW4kU4J_7Lb0BrGBHvaYgH_qfkKJ70x3FoCGaPc_ocU80fjXBq58dJYupFZqz5DdwmtPlO-yzm2l6cnfDsSTBktRXzE8-xjnDqz6mXwo5LGEgLvJf7VRZyecx2gMfs_REdn6YuOnGgUGhgJ-0SFjAs0VyY6ZacMO680yPIl1lQI7z4XpfrGyKJRqTTMq_EuXFiRgZTdOluCjgaHJmXS0ZnIYaEHxvGHcb6egec-aFtn73eSvWpuJI8ExpS63QYpl_EhwwA",
+      "width": 1536,
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108402620368719383985\">Jang Restaurant</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Elodie Lawrence",
+      "rating": 5,
+      "text": "This was an amazing experience with top quality food.\nWe were served by Rebecca, Neda and Jose who where all very welcoming and helpful.\nThe restaurant is beautiful and nice and relaxing atmosphere. They even kindly changed the chair for me to fit my preference.\nWe had the sushi to start which was the best sushi I've ever had. I then had the lobster which was tender and flavorful in a delicious creamy broth with noodles and a side of kimchi which tasted really authentic. One of us had the duck which was cooked medium rare as requested and the broccoli which was seasoned really nicely. And lastly 2 of us had the sharing platter and added wagyu. All the meats where cooked to our preference and seasoned well and it came with lots of sides my favourite was the seaweed salad and loads of sauces to try with the meats as well as some rise.\nWe also had some lovely cocktails presented very nicely as well as a lovely birthday suprise.\nDefinitely worth a visit couldn't recommend enough hopefully we'll get to go back soon.",
+      "time": 1758579660,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Abdulrahman Babgi",
+      "rating": 5,
+      "text": "A very wonderful place to take an afternoon tea. This place is preferred to book in advance due to a lot of people. I can describe this place as a romantic quiet place where you can have some of quiescence. The view from up is also another interesting point. The atmosphere with the red colors is giving the impression of an awesome view. Honestly I have enjoyed the experience and I strongly recommend everyone to try and to get some of quiescence. One more thing that staff are so friendly really big thanks to the whole entire involved people for making such great experiences.",
+      "time": 1758720816,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Gionatan Didonna",
+      "rating": 5,
+      "text": "We had a truly wonderful afternoon tea experience, thanks to Jaqueline and Rebecca.\n\nJaqueline warmly welcomed us, personally escorted us to our table, and made sure we were seated by the balcony as requested. Rebecca was absolutely charming and explained the menu with ease. She also kindly accommodated my partner’s dietary preference by adjusting the selection and offering extra salmon sandwiches without mayonnaise.\n\nThe presentation was beautiful, and we especially appreciated Rebecca’s attention to detail—she even changed our plates just before we enjoyed the desserts.\n\nThank you both for making our visit so special. It was a delightful experience, and we would highly recommend it.",
+      "time": 1758647282,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "EL O",
+      "rating": 5,
+      "text": "I had lunch at Jang today, and it was such a great experience. The food was delicious, well-prepared, and full of flavor. The atmosphere was welcoming, and the service made the meal even more enjoyable. I’ll definitely come back again!",
+      "time": 1755541786,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Kelly Bocarro",
+      "rating": 5,
+      "text": "I absolutely loved my experience at Jang! Our server Neda was so friendly and her recommendations all hit the spot!\n\nThe Wagyu Korean BBQ was stunning and we loved that it was smoked at the table and had 3 condiments we could pair it with! The sushi was presented beautifully and the Korean fried chicken bites were gorgeous!\n\nBeautiful interior, perfect for an occasion!",
+      "time": 1756638575,
+      "relative_time_description": "a month ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:51.319Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wxyhyQDdkgRt_HA2kpdsBc"
+}

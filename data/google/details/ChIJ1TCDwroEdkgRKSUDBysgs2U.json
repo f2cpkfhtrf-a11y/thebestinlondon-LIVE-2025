@@ -1,0 +1,244 @@
+{
+  "place_id": "ChIJ1TCDwroEdkgRKSUDBysgs2U",
+  "name": "Souk",
+  "formatted_address": "27 Litchfield St, London WC2H 9NJ, UK",
+  "vicinity": "27 Litchfield St, London",
+  "rating": 4,
+  "user_ratings_total": 1558,
+  "price_level": 2,
+  "geometry": {
+    "location": {
+      "lat": 51.5128782,
+      "lng": -0.1283016
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51417298029151,
+        "lng": -0.126960269708498
+      },
+      "southwest": {
+        "lat": 51.51147501970851,
+        "lng": -0.129658230291502
+      }
+    }
+  },
+  "lat": 51.5128782,
+  "lng": -0.1283016,
+  "formatted_phone_number": "020 7240 1796",
+  "international_phone_number": "+44 20 7240 1796",
+  "website": "http://www.soukrestaurant.co.uk/",
+  "url": "https://maps.google.com/?cid=7328236387835258153",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 PM – 12:00 AM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2e-YmGjfAGd0u6aFo4Q6yGYNvSBGM3fsuissIQh_MdfRoHPpn71ivcjUfi93Pbzd02bG_MWQLt5ykPnfam2uV7-8Pq8ROGa-8r-_xrX9FKCshg38s4HEqWzieWS7ScF0hHxu2aR-7_ykVi_GhPuXPZKiQWT00VZoavph9Z_BDbzUDKEQSfRquztg7N8T-S6v2AsjK89g5oSE597gk_xYWQC-DIhMv7d_M7NUiesyDizMk61iMofaIS_6KT96-3DuC1rYbGe2c8w3YLYiAD_eIsq5_VO7XtOiQwcw-WliaAWFg",
+      "width": 498,
+      "height": 332,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111907733944401575012\">Souk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fsRRZQAkJ36JXkvBWyZwNztssC0FJsKinxSCM8cOcJrn6Y10xlZm3cTIalT8fYFazPSidGwnePdSy8XmHvdK9LR9sNoNMLlY_9yKvjfRLPRVlelrqBUw-oYmZSX4K1UB_EFIQ8leOrHhLIS_HVDcfJ0O_ODbROxKGgHBb6563xXtCeyKwbk6PuglTtf0iYZ0-WgS4pvBv44VV4n6Q0KMAQtSn07VU98ucRP0rl9r-uYs0gMRbA6gbGCYUnovLeyzXGUdQOgeN6rnFq1fdjTG1uRX3RHiDxreI1O5OkmYK9AA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111907733944401575012\">Souk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2e8MB_YI5KAlFjWmMwhFGWi5CpvsNGQnTqgn7m6JJWbnX-4txF0aLYpE6edQKb9syuZtsIPvblrFQQjjhrWN7S3Lz7QSmhLyCFUUoxBxulBMcd206bzNqI7FXlmjWObeGhk5PFqe9bycg1tRD5lsXR7ts8ljFxUY-t1bTGxTGUfbyPNLQtLEndJeFdX2iZrZZ1iqYn4f2CpaUuN63DeLeE-mzZqsU_hmcj8a4dixws6Hb6YE7-VRbc-BJ4u-MLvAN9bwXaeXXgIgAJmeZxYWxNj2XMIS4SqeGlSjjNl4bqrg3Qn3AfjYS5WggrGjFHrtjv8vzwc9EB3oGS0Nk2gK5Eeg_YMSpJkOYyAdn0n2Y3QwaJwfpRR5wTKtjMXyZZCb1E1ez4KFK9iOgiPMZnjKt2S20gBmaLfZKO-7tAvBNIE_dwowXYD13jYtG-yqg",
+      "width": 3024,
+      "height": 3099,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107033502412243729031\">Jess</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dnFn4Co4UW_5uLZ-wwV_jz2qWEXmxmh6FVBzVp5ww2ai8VxVAmZXT7et1DaBfMRMgAzwPVGR_PoxaWYfmUpOMgqUyQJDlxTVSoirnibyzHz0DAu8MbaGVW7mbjxjuLH_-Db2tl2JzSuqmKBvtEnNLapDh2OO4jyd49gm0aLWVOEb0dY7jkRPiiiPJ2J9JzOf4UsjS-Wkvsuy-sJTRtt5XqRyNycfFFTLhWmSSMgTYlKA_SS3roSTQNc0s5lcq7k7j-H0vcgF-9DU1_wuGS4koznCrOGm8A9BT3Qh9OSieiiw",
+      "width": 1066,
+      "height": 599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111907733944401575012\">Souk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eumhIFpCI6AOCkJBruQmKYwrG8E3PdteFfkfB17zxqDWjCubn9MAv4zDNR65PVRJq81OCJacZuHFGqawlAfVYHecr7d-uaynOdTyZ56G-YnTyTCAupRzGamHlF7qCgegkXdo1P63W-rl3KSKPky57u5V_H5-MD0rw-_j48lIQcFKxLIfTI8gfFzXa5Jel7URgKX7fqczSzwP6RvGBqsh1slvo5RC4CkyfzQgv4k1DC3vnJ_bP2F0L1F34iUYXKM8EOJU_dHRx00itmZixSwX9bDPEDmDr3wjB5URUT2v9vGG4LRBQGqKWERL3wz5QB8U2mZGLhTrtoKin2sAmiaUtFZQ_cSBFl7DPZqvhgxwmxgb4y7leRnNvqaXDgt_YbGoCpp2sqGi8g37odDQeMn5Bdm-qTSJqaYhshEAkHJ_wNRw",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107588760453356271209\">Salah Mohammed</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eiUqfKUei-R28bSLqPv-EcMzi66GhFA8ehtWR3XgDTAiCvqYkQ6vlTowGvIXbBdrUojVaBwpPqDU4Hs0jSYta1WO6K4Ue6n2IbVlZhp_9y7ZImJk8aTZyFbxFGxGuBErHANDvFb9Tj8LIY6ECHmD_wLETdzdnkPLSnf_kyJViioIb5MSzb2La_aK1ybZr1hkLMSitSqaS08L2h4AoMtag-MILr9J39CZzS8uwWk-EGkQ9ZmbkuD43I3zWOVPf2vMhmpRrsZCl-iVReEXL46kpG79chMLhHEkJSTd0d5Tr7g1HG51d9jWD8xD9cMEm_Ivic7GpIQaorQEMETw051DvoLTEY70AlNxn-ATr2xheoCqyt9g3icDvRffQ-KnmUi8rllaNVHgdXM6Vdt9DwsMfRRqy4wHN5yOts5s2NBlQ0CQ",
+      "width": 4000,
+      "height": 1868,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102527064675431428889\">Ayman Zyada</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c7dt7Ivz7XoEOxU5tJ136nyh8y6ZmlN1MfuukK_CbFy5GF-3cnWPY1bUXCeWT35UIrWoNkJdEhx5Jl54HFYCTImWRPPXLNDsvTrGbbWO2KEM8sDqhYM03laxsU2qD3P2Q3rXPIZJlSRRoHJWyvcYzY57qN0yQax53U8qc68SNloAakV_7EgF_kesAkImrvWo2yR5ngvB0922Y5hKRmDtcnDi5Vyfbpeny679GSncB6dCjrxvM3QkKfMZ7Z4aDALI5KWiyPo2CskmKal9pasvWEtcbjq56ZfjuvpsMPqB1CXgMhf7cMVlc3ShxM_vlCcb1AzPG4D5WBWcuoGi7Jv6X-75b724DrDX7tuOb0sXNYBBdmo5k46tcZ-rn8c3Ld5leWFpGTcSGdLmNw8AlBmQHxW0TjSHb6LfxcuvUYyzXk39M",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113021889904703517317\">Daniel</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fi5SwjJfqYkDDxd1F6kPGhJA_G7P1D6vUNbhvWAip9sw1TXyvo3GGTVdXyyWxtEgNt7N0fg-XuC6txx8ulZbPOqZoazhXyU_k2e5gelIvnZaWOVRMzBytYlzOQjG70OIOjdEDpjchJ6tU4SCCAbTVc_PXhvsXvcsRzkCNOlUYV3qcHNvXSavyQ_6LjZIIJdxB3ozY5iWif3Ui92JOVEiRKcxkECeoNjgPCWy5kCwF8oJ8UH7jvkvcFBR6gtGN-gKa254p4cVvu84CdoJXNvagU-EOQd9paBDn21o6m-naQwLK1WUO2ZmvEBnYmPzYwZjGiiNQk6xwbx8soz3UaGeL7nCXfnVPh05Xp6YX5kNofeTiHm6KMXIE7fUkXBxRnnG-3o8doi-jsZZbbkaxHm0KcaVw5OjdJWq_hU16_LpIapg",
+      "width": 1284,
+      "height": 1352,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105511456621338231967\">Melanie R</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dXDBVS0CU_0C8Vh2CAKl8aCwV8B7xb106UAyEXbXWTDYg79Q6G_q26m1OxzQeF1zx0as6WrSnNZD_izxVK0Ycqmiijnov8VlzBLzItTxQiSM_vscmh5S6wX9iU7GVt6jjdGWuP29hN6_qVHZA1qm0rv1L3hovuVdhYG0_cSvroJTjqekg93G5C1ir6xx308bwOl_4xYb0h8OTl35FpGxr4iEj21g89kVlcZ91Ugc4JnMJ15_IfzbBoeSmoVeobf5pXRD0U1s36oE_gmkQuBhBl3l06OsLyBn5J5ALqwiT2nA",
+      "width": 1908,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111907733944401575012\">Souk</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ezaa3cmywpy6DHIyflrifo0dEnTrr1GhAjLv7EAaMKM2MrI-hUxubRR5iLjivYeZxh4Y_sYW2gUSXLaRNTg_xFguADCvLbgumTBti601cXuby9uugGT_gSKAFRMXOCi8iJDnmqxVYzAvLw4nHxQmzOKRRje5-qVeflICMswUlP-2CRUbjjL9w2J0qzdEPl0Su73VPKULRkRvI--gX7VnFw6kGJV6lRqRqLRlFLnYd9Kj_0ijBftgpTWaRJ_TXrgonB4jEK_CsnqhwnplCGVCzOljtfD3Td_YDeTB1Wa1ouPcvhqdhYVT-_2a3YS_oRG24sqUfKk41VNsxS59Dfx2nzK5NOEjKWvEgLk1EFoYcncj3KAC7bcP-aoCuq6-w8nVOxQsSmB_x_RhW30vOwyzK3NO7tzrO9ejaNRNCJ2iBwgXZetVUOa_51T-98-A",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109726930127601846783\">Shero Rauf</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "North African dishes served in souk-like rooms with tiles, lanterns, shishas and exotic fabrics.",
+  "reviews": [
+    {
+      "author_name": "Fatima Zahrae Kerkour (Feuza)",
+      "rating": 5,
+      "text": "I had a dinner with my friends and we tried different dishes, all of which were delicious especially the Royal Couscous, Lamb Tagine and Pastilla. The atmosphere and the decoration were impressive, I loved how patient and welcoming the staff were with a tone of humour. My friends and I had the time of our lives in this restaurant\nI would deffo recommend it! Thanks to all the people working there for providing us with such a splendid experience",
+      "time": 1748612835,
+      "relative_time_description": "4 months ago"
+    },
+    {
+      "author_name": "Tais Hardt",
+      "rating": 5,
+      "text": "I'd give 10 stars if I could! I had an amazing experience here! The service was great! Me and my friend were treated so well by the amazing staff. The food was something else, we loved it so much! Perfect seasoning in everything. It's a little piece of Morocco in London that everyone should visit! Love love love!! Can't wait to return again and again!",
+      "time": 1759279852,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Rupali Kapur",
+      "rating": 4,
+      "text": "Service felt a little rushed, but food and drink or were quite good. The rice and chicken are a bit dry, and you can ask for dishes to be spicy (doesn't work though).",
+      "time": 1747675696,
+      "relative_time_description": "5 months ago"
+    },
+    {
+      "author_name": "Jess",
+      "rating": 5,
+      "text": "First time trying Moroccan food and it was lovely. Interior is so nice and cosy and service was amazing - had the best birthday here, thank you!",
+      "time": 1759158575,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Karim Awad",
+      "rating": 5,
+      "text": "Delicious Mediterranean food and authentic atmosphere. Variety of Moroccan tagines to grilled food. They also serve shisha outside",
+      "time": 1758548846,
+      "relative_time_description": "3 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:53.222Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TCDwroEdkgRKSUDBysgs2U"
+}

@@ -1,0 +1,313 @@
+{
+  "place_id": "ChIJKVCOFHMPdkgR39y9CriYPSw",
+  "name": "Zephyr Notting Hill",
+  "formatted_address": "100 Portobello Rd, London W11 2QD, UK",
+  "vicinity": "100 Portobello Rd, London",
+  "rating": 4.5,
+  "user_ratings_total": 808,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5133132,
+      "lng": -0.2026129
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.51462798029149,
+        "lng": -0.201320469708498
+      },
+      "southwest": {
+        "lat": 51.51193001970849,
+        "lng": -0.204018430291502
+      }
+    }
+  },
+  "lat": 51.5133132,
+  "lng": -0.2026129,
+  "formatted_phone_number": "020 4599 1177",
+  "international_phone_number": "+44 20 4599 1177",
+  "website": "https://www.zephyr.london/book-a-table",
+  "url": "https://maps.google.com/?cid=3187872027469798623",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Tuesday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Wednesday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Thursday: 12:00 – 3:00 PM, 6:00 – 10:30 PM",
+      "Friday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Saturday: 12:00 – 3:30 PM, 6:00 – 10:30 PM",
+      "Sunday: 12:00 – 3:30 PM, 6:00 – 9:30 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2cB_c_XOQKsqzzrvIVE35wN_VQuilJMLaO8Me1QmfNUCfnZ_bsCCPXVEs1eQxlCbzjYUoKTAP_p_6wCAeqqLmvVwQqKfpkl6JbkB1Qn05gbAm-MgK7Fchfb1oXMCT-w3qkmBj-KJLOwOlsXcn_vt86K6mifVgb2o66xo_N1RyCz7pLE718y4sUOzKuyT9oWopXhNdTmtu4obRftaFrsUwTsbh9TuNviLDp3tO9XJlzs8NGsUBn-pmjzlxRBWhLBjeACtLaB4qTgp73YLy_D_i_jTexql-CTCEVJ02WTzseBXg",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105929164512476142001\">Zephyr Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eD_2g_kXahSM_LX3wxwF34wXEdObOZqUG5gV3duDUP539ZkxXMa5V_B5sG6W9sOQA33ZyjaMlm6prRZwdZJM4iLveah-7jC_YzAJZU9QF9qaoLwWYgePDOYz-PsZx5cJQgh9hMxYY9YNMM9zVn9Xr6dwAcQY_rG5Nv0LhExpt_8v8723Mh9mxdCSFYKovmyHwZ5pEBu7FWad_RrZtS9aI5_av9pxqPTqfNZYIE3P7Tvig0U1AnYDv-Dgz68wZA2RAhaYG4fO5Uhx5RJJgEoKVCv3BAtZFFBkycRv8thpbq_w",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105929164512476142001\">Zephyr Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fahV5HRMXgQBjvtWu3F791cKVXXSsSCJNIYhUPevkpC28RCxEnJYl7DsxTtyaTdUJsRcS0IWIUMLGi13GviRR_AMdNE2nG2BCuG6wnxKQCoJpWj_rqLzdOSHRpMLIk3RUHjQTo9Cd9pX5RQspDrBU6bg8y10zelGM1RO7Vh9oxCNGD2QhgY1G2_cjIF7NnpHPRDMLRuuE5_Z3GNbyGy6u3d5oHaH_qIoZYxG5NibeKkcRFpsFClERXc7c8kZ8S8-uy697bKtMRN2NmQhbuE_llySVNS4Gcyj1P7nbBrUvB4w",
+      "width": 4800,
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105929164512476142001\">Zephyr Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drWGoz2Xi7ymbR8XBre8JmkWKcgqLT1xdBvfr67dp9yAfoUX4zj9ILNDxiUedvdgiIbIhfVfA6CEV9wBlJP6q88dmRsFfejODHqOv8QL4Pv4oV48eK3Lyrp8vv5vB4fCo0JU6VK0Y-T6yplcaiVeKfcizF_yW7-zgxVPjzFLJp0bkFdXO0NzfoKGrCQlEb2pM8wthcOulO0vRcQHDlPsh-XLcxQCJdHIoZ9y4kGHsV0wxarehfGcGzLhm1w9Z1y1zG2ut3_YF24GehKIoS6d5jTt_sS-GWlgJzMGWgJMB5Zui7NIxqjAgtwaA4gaAAgEnqiQv-Dkx8M2u_dH-Yhp-Reao6HKOApvaYM-AbcSebUME98lEzre5LOFKzUM6slb9tpO54giA34zhU9t3EoEweDhBi4ee0t_403OM3J7iNsQ",
+      "width": 4000,
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100407681051131858994\">Kwex</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2drDC5RYDocsayUttBOteAaSQ-mHh2Bh3QV-jmDO3mANKrMsbM3rlUCHV1A4OpAZzobopEXzR8wWxyCv_nl-NiFSW0TFqbHw2EfexU0UILdP5M1XvLqtWnBvZCZjul9cs9t4PhrNci-nSfU-0HV1twR_DE1E1N5Pr5Yro1LtgltTCWq5eKJF1-TjTmbe1Z7cncCkqN8y4psGbKaUdCXSM7lxxRWyN-7cU9RSh7LHToVuQh1it8lRSpebZz0_NX3Ofiwoa--KjE0TR0DUFdOyjzwyoDOgK7qC-UfAhFD4AThEzJR4sfTILjIVdDkqE3ZQb1-kooOi4b2Nv0BeqEIV4p1OH40nIr82yUHgv1w0FKG6_N_lIqy_f2y6pQ8vgPLBFhUMIQsVndPjQ0lv4IaS64u4nw1hLe77Au6juBptuqUoeLBAVGcb0EcoKH7fV5V",
+      "width": 1242,
+      "height": 2208,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112506912026197077961\">Rawan Sadideen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2f4FMKNrtoyTQtKktua1mZs5OIgAs-2xbwVKEN4qvHf1KAmbfzzcmTGG21tMSVp3GGNldJe8M5DGBdrYgaqfujcOdI2X6siFTU4vKMTOTGXm2csdC4KsTLdZS2SSZ2gfc4hURo4PiLVDprrpp9Wo-1Pp-YAiXkROg0DDPZR1teMGn2h8a5SVF_lwR2euqWk7dRq4IL9MWSA0917LyWGrrdXlUGceEag0ytaTKZ3hqmaO0WCJd27Skvl2OFGUfXuOB8XRkwF_4QstimC4mw1galkSL0JJtkGeMN39eAMOyVeDKPPafW3Uakm1Q2Q5mGpo01yDC4Lp0Xt_njJh30669xOrpoFnCjEIUPEAG7XjlyvbewbeNloslqNinT7NgCk-mqHs0g_RSvSVHt_o8dITJxNqnuSmHBLPqEeSG1fc4OqNMdm",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110956513513650331152\">Shirley Wu</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fkAYt-qCzXBvzllYof-jVzSK5ZoVBjiSvCc_1YklXXsJvvG7n9Z28jgYKUaxspUg63ZomWsdDnQXWXe6lB_Su_3j0dwetoXjAmfK6D9gwWwp0V6tH5XR6ul2W7rYroH0cPxjeuexwcjX5zlWgYws-OrnsLNPpw7bOLzzfEyyQoO2nwVplwA2bnuTQiI8c4k0HQPsTrD2McOC3jrhHOLFpsf8tvKkGbecKQ0vuGYgcsZffBePwYzMKK-U0MDOvHo3y5rBjHKrf9-Xg2ki9JbpmCvSDcZkexjTsT5lcE36a4CA",
+      "width": 1080,
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105929164512476142001\">Zephyr Notting Hill</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fxx7hABwrcloX-RPG5My8n2BL4uAbTy6hzArERd_MYSwlRly0_3oKQxOO1Ea_NAiJnyiQCIjo-CoZSHpEEN-Nv5gmCjZ6QuyaxLFbP373zBd7MMrtwt5ZRAxyQjL8vxDkVxWzazdJYsbVihqRdSqOjUzQ25T-uf6eHd9bSYZxFXpnJFQiCY6xI30C2RvDiOcs6Jr9R7Yhutn_RlqF_m02fbQjaXLHBbBLwzwfmBDwwxaBfuoYeYC_VX4sF3eA6FMvX-Inj4UQcexH_FKIwHtXvqbmH1c0vtl1hbA71Zn5lAHsEJw9ySKqudpfEDlwPuHVex48ik-xPJE23XjCeopqU33QLINQu7nu-yPO-sN4mjA3MvxuwsumbXImEpj_Q-vAbUCty6tpN5VRTskL1_HXO5yibyrqzPlIuxG6xLF5I9w",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114469540685212528736\">Deema</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d5MsvTEyHTXc9u0NXNJ1M41J4G5aqVJb7IoM-B9eWg88QUMoVRSn5Tbf2AQ3FM5fTHVD3iV6qaGyJObe08MJ5pN6WcYd-xVA2-NaW4CCSPiu3mOuKpc6FZ_ue11BGnhQzULDPaOZ-HhDkl1iVszjA8QBZSXNV0lIGm9XEqAQBjen8oanl9attKR78Or4liMN1wArlI-FOc2u3Ez0w8yt2_eEjs72Z9eWjXml_Cv0xIwG6sdUxesHgQtcE4fqwHzzdLmYJR7iMlQD5lQdvHYY0ilwE7lBkhuWuDIWbUeJpbD9YG3Z7Y-8zV3_3FtWFWLcg5bbl-_yTwol5kEOtLkrxh1q5Y1pJCKXOOfgRQMRlMHb7M98o7Pb_rufjffylnC5sUMFqtvqQ4qXzQJ6_RN_lUNSjNLm_aOWB7LEqL3ZvY0g",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107419732227365098076\">K London</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eCem_1hVxSsnBLTHvYtQC4owZX_AQP9bzP6YOnaIjspExHGIjuA0VabMRyOU8MdPWQF0EDzbIp1e3biLDZkZA3llO_-eCnoLd23RUl7_LcGrmF3UetISmfRXvbuA5FhdEH8PDKyRmZ3nnns4vssA-v3LoAXTqQQ_7wH8BG4gTl9suKswL0sSHLasKV0BIFcJOYI2_SUztfmKdURHpa0O5m_rtJvhCSaUBziLsC3-IfbPnZyyQSj73jx3HkNd7ZC5-16MjShiB3WQ5-QoZfAeRH8D9Jd-jgtQ-w5f8qF2f8sG1t9TvMlqxPbPptGj9D74t7N0rGECnlHAMLajlVH6KICh_9bYgLrD_21NwRhH5PrnKmOLlPuf_WSFIBygYF7faX2rV91GWM1f7kHEmTIy-cneSany9iQFjiQElJ9hSGm50auIB0E2hG3JeZFA",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103341677747455696435\">Valerie Koon</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Tom 84",
+      "rating": 5,
+      "text": "Zephyr Notting Hill is an absolute gem that truly transports you to the heart of Greece!\nFrom the moment you step in, the atmosphere is wonderfully relaxing and truly immersive. It creates the perfect mood for a long, enjoyable meal.\nMost importantly, the food is magnificent—it's authentic Greek cuisine with genuine, rich flavors that clearly speak to the quality of the ingredients and preparation.\nThe staff is highly qualified and professional, striking a perfect balance between attentiveness and warmth. They were excellent at guiding us and offering tailored recommendations based on our preferences, which made the experience even better.\nWe finished our meal on a high note with a wonderful dessert and super artisanal coffee!!\nA perfect conclusion to a perfect evening.\nHighly, highly recommend Zephyr for anyone looking for an authentic and delicious Greek dining experience in London. We can't wait to go back!",
+      "time": 1759554502,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Rawan Sadideen",
+      "rating": 5,
+      "text": "A special thank you to Teddy from Nina who recommended Zephyr Notting Hill and made sure we were well taken care of. From the moment we arrived, the experience was outstanding.\n\nThe food was absolutely delicious — every dish was full of flavor and beautifully prepared. We were even offered a complimentary dessert along with a couple of extra dishes to try as a gesture for my birthday which made the evening feel even more special.\n\nThe service was flawless, the atmosphere and vibes were perfect, and the décor added so much charm to the whole experience. Everything came together so smoothly that it made dining here truly memorable.\n\nZephyr Notting Hill is definitely a restaurant I’ll recommend and return to again.",
+      "time": 1758998635,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Cheryl Lam",
+      "rating": 5,
+      "text": "had a wonderful evening at zephyr! the food is beautiful and the atmosphere is great. we got the aubergine dip which was such a standout and was so tasty, the yellowtail was also amazing! both of us normally don't enjoy raw fish but this was a great dish. the service can be a bit slow (but understandable as it gets so busy!), we did have a mistake with our bill but the staff were super friendly and corrected it for us immediately. would definitely return again soon",
+      "time": 1756923459,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Nicole Brixi",
+      "rating": 5,
+      "text": "WORTH THE HYPE!\n\nIf anything, worth the visit for the Smoky Tommi and their signature crispy potato terrine alone.\n\nAnother must try is their incredible selections of dips! But my personal favourite was the seafood, definitely will be coming back for the yellowtail and prawns.\n\nJ’adore!!",
+      "time": 1759328620,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Rawya laghlami",
+      "rating": 5,
+      "text": "A Truly Memorable Experience at Zephyr\n\nAfter hearing so many glowing recommendations, I finally made it to Zephyr  and I can honestly say it exceeded all expectations.\n\nFrom the moment we arrived, the service was impeccable. The manager,  I believe he was Italo-Moroccan  was incredibly helpful in walking us through the menu. He took the time to explain each dish with passion and detail, which really added to the whole experience.\n\nWe started with the spreads and a classic Greek salad  fresh, vibrant, and packed with flavour. Then came the lamb, which was simply outstanding. Tender, perfectly seasoned, and cooked to perfection. And dessert? The cheesecake was unforgettable  rich, creamy, and the perfect way to end the meal.\n\nOur server was just as impressive professional, attentive, and thoughtful. He made sure we were looked after from start to finish, even changing our plates between courses, which is such a rare touch these days.\n\nZephyr isn’t just about great food, it’s about hospitality, care, and creating a memorable dining experience. I’m already looking forward to my next visit!",
+      "time": 1751678434,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:03.841Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVCOFHMPdkgR39y9CriYPSw"
+}

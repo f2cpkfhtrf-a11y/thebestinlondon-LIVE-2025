@@ -1,0 +1,234 @@
+{
+  "place_id": "ChIJk8O_eJkFdkgRxU8DHQTBC8Q",
+  "name": "The Chelsea Corner",
+  "formatted_address": "451 Fulham Rd., London SW10 9UZ, UK",
+  "vicinity": "451 Fulham Rd., London",
+  "rating": 4.7,
+  "user_ratings_total": 827,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.4831559,
+      "lng": -0.1854555
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.4845483302915,
+        "lng": -0.184111169708498
+      },
+      "southwest": {
+        "lat": 51.4818503697085,
+        "lng": -0.186809130291502
+      }
+    }
+  },
+  "lat": 51.4831559,
+  "lng": -0.1854555,
+  "formatted_phone_number": "020 3055 0088",
+  "international_phone_number": "+44 20 3055 0088",
+  "website": "http://www.thechelseacorner.com/",
+  "url": "https://maps.google.com/?cid=14126596879588478917",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00 – 11:00 PM",
+      "Wednesday: 5:00 – 11:00 PM",
+      "Thursday: 5:00 – 11:00 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 12:00 PM – 12:00 AM",
+      "Sunday: 12:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dxSwUXPoWCrG4D2D45CkKU9zLMEwIFOCdXTvH3k2i0Ugu_29LVTOLXO4-2X2ElZE1HbSKp9g0giP9mjKQyg_qzNibk5X1BEq-fcDXZVeM1V33J7AtCQYV5rNSSqioFRMKfuk6J_Iup-Gav1k75Bg-qijxNj2BkvdwLgnHOzGG_5AyHKoJggZ5EzTa4IQjU9f70KLeLmshDrHYi1szlvaAtM8bdXN79RR4vgrUeprv3TzWHUMEpCjTqDCJ0y5N6NI5J6VluREV9iddZd0KGVq3ypiEJMxexqYjQjuEmMXs7Fg",
+      "width": 1600,
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100465649004701522724\">The Chelsea Corner</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dHzc7NlgpsjChT0FPM2ZxHEwoqYIs3s2R61QlXlu3kS2sAIhhLwKfUnNnsCWBgjhgeA7CrBK_k8XTAtjrPuNK7-hzb5C5wzX2lS2MoSES55lyJpH3zEt6jActIVJLKRp8dPNthxXAJANQHxSc7by2nM-RHlTxzjBSNbFjtChFXcDuUQRFiP5CCbcP1wK4Qs-HNEHVmowA7vOoCOk_K9GjL4_veiqNXa8DspLNnHlS6yfagzsKpgcXYvb7WmhW26YQqnV6Ry5uQWl8gP9l3y8bJDyNk2QtZln8gdlY6Pe0URw",
+      "width": 4800,
+      "height": 3599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100465649004701522724\">The Chelsea Corner</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cVewY4NdKtOb5vQjGx9-jY2F62W0r-NBV3-BKVLH1rj5Jf_5_UqoLyAFcODA_TeFufQEgv48wQ2DGGRYbGjmoC2AIZXZBmNA9NGbyMmStZpKs40NpfLEKDxyyBqWQmKSBcCGY4AjUJUugot2m11cRCWWqjB4Guv6GpiKDY8G6brD6o3wqHowzkO4UdAZ64GsHatP_oyT4G2NgO7ukwJkqdOvsDWLfCRVhlPHeKhV7b8OXZY1q4ulBXTUncXIzkW6amsTD3I2Z8MUUFVeGe1QU25tNg8dZn3Vbv_pyj6AK7OQ",
+      "width": 2572,
+      "height": 2571,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100465649004701522724\">The Chelsea Corner</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cJ49mzz6gy86xwsVWzJQKQYk4QjUG84wvjl0rO_Evw61cVDoI4nGoJSEUr58b7B2gl-_vRg7HLFiyZfsArS7nw1tidHMydPoSY4HhF3F509hauiQ1m_IwBhTm30YKc4ybt0gXyJeJeaTFhe5xjB1idfxj_bN4drj7LbcVx49Bm9nrvzi3TUocBm-GseUKICjYtyYuqdJc04zuFXboLYspwwaVew-fVIzPvqKSGjnACyhJoxZmpRDh5jAg24qkWuS1mcAouXX_4ZFEwWZD_x2P4Hxqt7OlJzyoVynS9yFHYW0OEHY8CVbau66rZOSPx3BHgGRl2XBNCkZ0eK4gHInI5EHdGKXhr9E3n5wB-rLYfQlX9I7ehrR6OiE_hFgAADp7kVYuo1-Ww3Pk-q-Tn9haLfP6HE03cH-Di7yFXUwJJIa02xYj259u6DTihAA",
+      "width": 1320,
+      "height": 990,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108845697072687503720\">PatchSlaw7</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dm6E1bHBYeYYcaH4d_k_XpEcjni0LtYoHyAIt_Ep2C9pakqekjfCAojPeukoBQeWQOjXYCBBwzksBeGYeYr0GH01Rhjbz-h9WZy5K_1xtA05AIPeXPu_nsXc72ht_1-iQ4VrAsGcvF53Ie4UysITf2WvSOSnAkiGwGF-wXoJr9kVmZakvRf1YBB5aPaRL6HAYYnnLcRBrsts8dxJDgr6414iLpTIHssANOpZO7YxpOuSnB2opL_my-Cf2sKX3shClEHKj2WvtLFzM2zLM0975NmYGLfJnPgBSkfbmkyl8MDML68ASzHKlhTsx-sEKZ3CZ2jbjJZ6AACyboVSkUOcFxV9IhUFEFF91uR19vioU8_oZvbAX7ysFyeN9wvvmwEAnBU1hFEw_SQUkDnOqhuwY1YtJ_BeB_M3EMwU6UG9yowgjLlxm7a8EuPtSc99Cl",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116731661870085436826\">Heo jaeyoung</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ezDiGdPcfNEOB-s_rnXqT6boCSwvoWpajIWANvGUNKvYod3wURUMu1zL6L1FXkAaNDEpCfkVxjAIZmRmO8skwFYIQp4Xnd-6-aplJrlUMi47iyjpGrPrd9dXZwdfepEsBNyUt1UngVWMqD4eWW8VwkU5B5jQOBB4LMa2Sh2w0kirpo6n02UQmY6apshBqHJgNTHguqfNSf5d7wlwVp4xv78lZtWf3h7EXtfsad3e5abt9DgMrEPpbOKRQCbWt__KaXux8hXW-WL9di43we-6e25n4U5oafk-JZO0VZROpMUQ",
+      "width": 2674,
+      "height": 1783,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100465649004701522724\">The Chelsea Corner</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cROakOYYRw2TC-EtwHyEBtwVPQcWGQufzlqxPZr4x6h7AU8AOUU_vdpIloZdfSehdUulOxJChdUuU-8luyOdbCHMhgxUmxYBgGwLK8h1vBBnXppCNF5UDzstJOVIvgkA44R2gzcV5VXT66CMZajvG72hL6fN_sGw53wP_ykmS-Zt_cQonnQ9T2Pv9OaQ94DJfG4LC7S3Ti3aZuoZrtii5qcStIAxNZoeLl1i6ICaRvCR3IzkheAPMbBk-YA5YTw7_1uXEoGlabpv2Rq4T1kkveITGTMxIo2qXwnZ-dYd1zw02fyHs8BUk6n8Ees24F0F4mLw1KsUNrV2CgNGeRgsedIuYHuGj75T4rspPmXO6Ww434QD8-QzK2i-O9a3_9z8O2kHxuFSvcnNSiUunfo2YxzeQjQutRWMe2rU8pd1fWCw",
+      "width": 3024,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109934155431970747966\">Qingyuan Zhang</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d7t60CdrasK3xga4AM-zeOmR41ohqMdV1RJ_a0iLOdC8vBDOLVzxhJovzih5cJEDzKLWXVMrRJJulJ1m6G9cf20_3Aha2YNAoC37MVJLhRSHxytyN1enA3EqYXHCGiyWu6H84-0Kdmz0rpcZWLVNLNA0KK0muLBrgTZ4c6295j9yYUehCHCN5EsPQ9BbaCfV7z2MnwTtofWI0o_wdq_6lVoRx_1-vIeFF8NbRlvEIb1hNAriN3AU8S-5A76jWCRGNF4AUOxDy0bXB-G77LrAJY5jGmomqhw35IdJdpFZWt1s9eacbtbNjQ0B5sq76YfLnOiCykVVBrdcjv0tXRzsOhatyO7FPpm5QMMzXhg-H6LUhMi7Gt9augxjLRUbEQNhG47gAwV7U7Yrwk2esb5gsIubv9Ie-SHCXiVZpyAu40_TMJVMJC4WZOnhy9oqoo",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100504873826638784162\">diego enjuto</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ewoZ0ItQ-mQHzfsMTjxF8oopSjOE0-2Dyy4RITMx36u3AJ-X1fXYSFwrzhAaah3vyCHlLx7c-xBoe6HY1M8tieZdp1JRAjw2yIuVDtiNiG_VghAW4dKKWZz-keJPkkoukT9RxK9tKWpIHrawNjijVdOyL-Ew8spJuOiNH3EJ4aJ5ySmkw0juwrneeCW7gzZOS_Kxt72p5tFeW3RIDn2RmPSB2P_J8GvIsX30sFK9aRP7bdUdv-vrjMdgoKGHfvFt7N8y5HLQr9MF-2zKZG8Tjjs3A6h5pusDIeaG-sSKtoPoGd2DVq1mweQcYVdBh4kp4DeOKR6QeYyvfTv_o-XIxgc21L_s6r4o9ClN3LA_1iRc7ODREJvC85XljFVktel4OPZTreZZ-AQIbsyRwz8X0TAH5IVBCVHyalCWxS5CXPgtAGWzbuw3J5gceC7O5v",
+      "width": 4284,
+      "height": 2320,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115326234254710298238\">Lara King</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2egW1fGya14B2lvyIsyOIoJrL3OvwZHXUAjACNiJZRzkUErD5ZQqX2WMj9eKdh9JAO3fxCpB6JE00yNJyuahfUgR_i0h61uJg3VDu8_k2M_h6GTA5Ik7nBzkY0qscuoKPZn4KC9LN6kqQHULbALlNFMj6a3cMVT4k4nRGmI5ClJ6TGc08YgwgU5YmJmcE_Fy7VDi5coaHfqjCi-Kr6DofXeXXuJkMADtmdGYEFH7v9NU47Ak07SR01Yu7BC2gF6oGpzBnj42Z28tUgos0m_0BFI2PLXg59mmvgubcwwbJTDSt7xekY5sdYGgm4FmFPxcJ2G3HHuLaQf7u1URpj81772SNPc65HlrXgrh1AID0km1havzfmee2Qr3Gnfn9Z2S72GuRd-RyU0aHohZNMXPV_JzYxEbYMGKQMGObajPUVBiDg",
+      "width": 4080,
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103911639702535575368\">Saminda Wijegunawardena</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": "Polished Italian restaurant prepping pizza, pasta, meat dishes & fish, plus cocktails & wine.",
+  "reviews": [
+    {
+      "author_name": "PatchSlaw7",
+      "rating": 5,
+      "text": "As a tourist, I felt absolutely welcome here. The service, and our waiter, Rose, were nothing short of amazing. We first ordered drinks and they were very good, and then we ordered our food. Rose forgot to put in our orders at first, which wasn’t a big deal. We are all humans, we make mistakes, but in light of that, she gave us a free round of drinks. Rose was a very great waitress. Very cordial, professional, and friendly. Our food was absolutely delicious and it was overall a 10/10 experience. If I’m ever back in London, I will for sure be coming back here.",
+      "time": 1759533047,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "I",
+      "rating": 5,
+      "text": "We were having dinner at The chelsea corner in the spring in 2023.\nLove the Lamp chops and the vibe of the restaurant. We also ordered a bottle of wine that’s really highlight the meal up to the next level.\nThe staff provides good service when we were there, thanks a lot.",
+      "time": 1757782976,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Kristin Allcorn",
+      "rating": 5,
+      "text": "Our dinner tonight at the Chelsea Corner was hands down the best dinner we’ve had on our 9 day trip to London. Carl and Francis took excellent care of us and made sure we were well taken care of. The Mozzarella garlic bread with caramelized onions was the perfect start to our meal. The pasta was fresh with perfect portion and  presentation. I had the prawns, another had the bolognese special, and my daughter only wanted chicken Alfredo, which wasn’t on the menu, but they made it for her and it was delicious! We finished with sorbet and tiramisu which were both light and refreshing. Gent, the bartender, poured excellent drinks and remembered our special orders. If you’re like us and tired of pub food and want something different and satisfying, look no further than Chelsea Corner! I wish it wasn’t so far away from New Jersey. It’s saved for next time though!",
+      "time": 1754859423,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Marc Rister",
+      "rating": 5,
+      "text": "What a fabulous meal. Delicious, freshly prepared and tasty food, buzzy restaurant, and lovely staff.\n\nVee our server was very attentive, always there to check in, bring us another drink and just generally an all round friendly guy.\n\nVery reasonably priced and worth the trip!",
+      "time": 1756042336,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Travis Huddleston",
+      "rating": 5,
+      "text": "Our server Carl was AMAZING. Tough night after a Chelsea loss, but he made it so much better for us! Asked if they could do spaghetti carbonara and he was able to ask the chef who said yes! Service, drinks, food, all 5 stars. A win is a win! Thank you Carl!",
+      "time": 1758997236,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:24:02.136Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8O_eJkFdkgRxU8DHQTBC8Q"
+}

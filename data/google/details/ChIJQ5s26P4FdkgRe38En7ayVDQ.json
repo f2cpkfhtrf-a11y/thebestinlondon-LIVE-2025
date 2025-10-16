@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJQ5s26P4FdkgRe38En7ayVDQ",
+  "name": "Sparrow Italia",
+  "formatted_address": "1-3 Avery Row, London W1K 4AJ, UK",
+  "vicinity": "Avery House, 1-3 Avery Row, London",
+  "rating": 4.5,
+  "user_ratings_total": 648,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5124343,
+      "lng": -0.1453151
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5136557302915,
+        "lng": -0.143798469708498
+      },
+      "southwest": {
+        "lat": 51.5109577697085,
+        "lng": -0.146496430291502
+      }
+    }
+  },
+  "lat": 51.5124343,
+  "lng": -0.1453151,
+  "formatted_phone_number": "020 3089 9501",
+  "international_phone_number": "+44 20 3089 9501",
+  "website": "http://www.sparrowitalia.com/",
+  "url": "https://maps.google.com/?cid=3770835285437611899",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 12:00 PM – 12:00 AM",
+      "Tuesday: 12:00 PM – 12:00 AM",
+      "Wednesday: 12:00 PM – 12:00 AM",
+      "Thursday: 12:00 PM – 12:00 AM",
+      "Friday: 12:00 PM – 12:00 AM",
+      "Saturday: 1:00 PM – 12:00 AM",
+      "Sunday: 1:00 – 11:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2coig8J5LsOle7H4tkqLnBHgy1EAZOWk1qmHwbV0oYKcw_eI8WleyuGTCJfuKHIKE0n7y_-dbaHWiPclD1s0MFxFxFYrklvchUVAQEzsJOYtrtqubfqcLD1BXGdWlau68wf8HGlChBq6pjuDOS9F0FXQza-Gc_XznQk1GRfN0Zu_qjguKANjc6TblKppEy983iVWQkK2sQjOW2u8VgZ-MGyGNVVi2RxCNDpKFusyP6Jn0KkpX8ASBbEnznerpcUKM5xgrU2ZGTLVl6hslNvgRYw0nEmp2WgWU-_U3PRLjY9sA",
+      "width": 3517,
+      "height": 2480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105157171626017651418\">Sparrow Italia Mayfair</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d4h5g7oczN76X-GNSLMmAdgmx7nauiavoqmKdBfZbwJkODm7Y5762BZr4qUvHwek0QsgW7WYlJ4SSTyTz4eL_MobGZnmaknR3AnlVrjYr0h8kk3jI6xunziiDal9f_TyjHMuFSe1-TGNf8JetahM9G93O4JTuCrHDUXAG-SHIlutASO8Hx8K17XIevZg82tTxlLbd7vTtia0mON2Ys6s3BilcSvQe2VTwXAChgLoS68kVhgGhoXm8AVmLA2OvQ1e-HFe19XOnW-Y3mb_2vk-guPl9grNyhnl-50mQrYjF_PWm0g5DZoffZXRV85Gz4AC1xueQmWMIiWKZTvWOKbhjnFkKpMUUIRrAhixeO_i3RjVikH8Y4Zv3vH_wj9X6qbOeTcWI7gmjAPikzxdlwGKayAmVMDJTvsREc-SAk-K7VXUsWpTDo-IVu50p2_j3s",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103634326075682160758\">yaxin Bai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cG067IxkbOoI2uifJUj8Kffk9dKypMLR7PQm-M66f26YoIytcDnySlYllqNFsg3GNrpJ72tFakMp6YKVaJTMSxGTxeMaRPir_0ElocT8mA78QajDXS7_7Fz9-MlgQGPaoJMqYah4PLEsfNqF4jf24IFmUYqxa8aLSflMBLtyZYYYoWsNqbEbIvvU-2Of02RMlfFA9e7WANYHgFYrnP9QbJHG2rmNX6DdRMtBBKnBC3tbIPPfmagSMQz3qP1HDiWpsrh9TvxYQ5CcoUc7HfEhPm6BX1WUhd2xxDX3UrKlCBkA",
+      "width": 3719,
+      "height": 2480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105157171626017651418\">Sparrow Italia Mayfair</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fGYrphBioedj8DLI7-EgrSBO3lJQQ8vW3lAgxzzttO4AePrhOz_0KbgdjznrVS8BVvjzWa9P7uTOkxp6ryrCEWiLXer3u5apQCiTEIAk2pZhfbQAtQnJzmuuB47xFdpKs-59pRQO-pnI1eQmRPfben8cfolO4J6uZEBaeneAQIpSxVwnFO2sQs2vwjfL9Jskjcr229xFtJvMibulLGcEqyD8OA0d_y5vxlvI7EXd9iwAS1Tiurc8RFs97a3QF3IN5F1_snx4DO0luD_w0x_E0fza7x7Mjz1r810xJ6z9Kb89TIR-JDx0mO_UI9s7qqOLV7sOyxBWK6Rx_AQKKsRmneqczMBsriOIHxefWUl7ZzNqKfaBtwytzeJMQF2svZd5fnJMnLj9Jg-CJnvqm-O_ktjGUjIKt1MW_4ZJva_LIjj01HYlyeyqPAgjLBwg",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103634326075682160758\">yaxin Bai</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cjuElSTmaAIg3OMiCBXW0qbGtJiaJlHCBopCV95FBZt7Ep819opkNt2ZO_1TrKtkrf7V-ju4LTGZfpeME51e-XkHK-2fV5oIbO7-bbfLElJ29BnZUtIb3rSjgReUIK8SRxTpTvgCEnx1EkVgMDVuU8RikmcOytFM02LzuHqjiYd1Gg8LKQIuTPS-65uVQUfsXNtZ8m8JqJudOlRVvJg3PHnynsxEkL7oysYWy4yOt1lz5sTYqdmwFwLH4sXe4cPdQ15BcnWLW1wtAWDG6Y8WEDhadzY_fctE3_hIPSWpzghg",
+      "width": 3517,
+      "height": 2480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105157171626017651418\">Sparrow Italia Mayfair</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fwGw5Ll48ZPNlpU7xbBrxloJI0rT9xe6kywU5QrngcaQuD5WJ8swUdK5iat-c_EtSDRQumkF4hRdQnDijYMK4tBtflcENkSYOsoKiCIFC2omIWXyN7jfN9TJjriUOW0ggAG6cN-6Rrc2aSmmFq40xzVVSlu5Xk03HjlDiUULUNKYO3cgaHSm4oZESoBeUW9dGwnWlPXE1blbmse8aYxJLLpPsqDizWEVWW_dYnsFJCDiHOcg2nltufi0UfjNyhWgKJfNcVsdefbjIB9CQs6X4OXiF9QgXP85TyEf7bUXaXLocS4di2bB4q-RxY6rlPoUoDDVftOeJf4p25LCDRzeeDJs5vcm4IjeRhOif6HJdU0SLfjdDBoSJEpGr2UMyl-0FX54PA55NLeFgTfZTa0yXEzX1csWxMKjaQkz8mCNY",
+      "width": 3182,
+      "height": 2703,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109980045024363972346\">Koolkitty</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2c_oHrWK712x4380DeE46Pz4ctxGz1RLxiCYJPloiu44mmLK77nEVhCEPciL59J1p_a51YUj7MpbeUhYZy-u2zH3EnuaOhXqbYS2OUYQWDv2DG_jo940AfPAtnH_CoNnqZSL41B8jgmLRu2vtmFzPBREIcD0oGAkeO5HJxcenoqgviVh4r2zCowdDdHnw7tyg6gv2bqpmavfnzm9Q16k6mF46oUol1Qaa5LYi1k7BRF2JMWjfGyPXHwYAF2lWZ4LTdqUbm1NDiQVGZaGiKkm4MQla5m04SVDYVvlS6bwU8udUKHKco0y0wnx7hcEXAfGAsFpzHR3Al8H5lsSlIk4udM-ZEKph1Ki-F9qIWMbhYrEEP1k_naB3gF9MhEhQLkFubkxUTCvV3QE4KJx_rn8Pt4Kv9DA0noHgvOKYWFblhrSHL3OfNjsNoRXG5Y11nw",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108189587050871927619\">Chris Chabot</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fGwHL76mXXeGd6WEa2ETVX5QMo5PG-KRP115P98sxU4KrEIhmNJkUCXOu3kx2quc6w3Tnxb_wQvvGSVEgsWcaUeaGessnFEKBaDPqJ1rG6q87_noEJlkGPAmlwVQQYaMlCLe5rv-TOd8zYjI5a8kdfdWGT4Wj6mQ1coxc6PlEbtziXTkdO5Q2Xqu1BIueRKSlLt9vR854pOXvxfYpDUx3fMF761EdMgMWI0eR9ufhuzA2PhQvLl6V52yfvjPQZebDrWKIuobNTJaEbqbd4f_MI_-BBEHFzY3gcD-Czd8x-70plxP0EmSVHgw9G04ZQfO5WlbJnyQ3_-fx6ka4CnJpyVJZIA_mJ6nFs1tWqGqB5QM1_gvSJ2iI-fKVM4rhRIlJaXvA1LonbohHSCtjL-8qQD7EXQRXxHvKgyGyd9vFBFnyn",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116690354957113350593\">Napaphat Rybicki</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dqUg842GLdVOJcbzPODogPiBEs8RRKl9CNhv1-faRJNwwsA6OOp05ShMCvJB1ZiEncietv6ukrZN7bjRYjqPDlFuxjZ3tNgUr_jC129rCFs0bNbumyOJGSnezKMqMwkeyEHWX7MnG8zHT-K4DlpPiGoTf3OtdEWq5sVvdqfXV_lkjjwBJVF1t5p13HfZ_5z3MUp_U-xf6upopRaciwJXqr8P9UYNL1rKua1k8wpo3Kfx060GGix0Mk20_eUFRvBQ4N1XH5jlTpQZAT_8Nr_UZRNEGxLXzE7VEeClZJpwwTiiV1NIg3FCnXF_DtAbyRinFTOXLDKGu3s9Me0KlaI8enMzz_OqDPnCLshU878kVmRGzBuRgdmHvtkw2_6BdQwqYNd2GSv0JSMxLvu-S5plQ6g-FyzcAIFS2tuDKTQ3uKOA",
+      "width": 1072,
+      "height": 1429,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109941508414933348391\">circle shen</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2db5vt67FBlv5BS-G3-taFriS9EwpXIls6ATQ1XNwE_MeuQcAoptnU_Ki8WzuAS2SDde2s7v7-si0oIHOCA9slQr5ih2JRv9lQsL145OTjOtcBL8ltbgeRruurJuSV2kuRt_e8zhkyMSImtAsfi4VklByul31ppl1sMvHCxP4NJ7rqJvyZkggWQhUsYUX1EusQf76xJ1m6CzQiGUO1nn49xHMEsEHEtsCNWcdQxbVzq73rPka-kbfN0F0EJpn1q55xzJLAyc9T_l-TRMZsnt0cdR3wXUKNSWvIVSbbWgi_ScxGR8aTcfMYEkFjiSeg70y6ZIzi8FEgZxxNyoA2qtl4nVOyoS26womyFdy0sgYbdBziqIcMfMx0a6PxTME5CUXQ_lvYFh7KVd-pgJ976AzYi3aa_4gj-dYDlYDaiGL4zcHQ",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114439141823480899401\">Arthur</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "yaxin Bai",
+      "rating": 5,
+      "text": "The Italian food here is absolutely delicious, and the service is exceptional. Located on Bond Street, it’s incredibly convenient to get to, with a distinct \"old money\" vibe.\n\nThe dining atmosphere is fantastic—there’s even a wine cellar on the ground floor stocked with a wide variety of wines. While we didn’t try their desserts (we’re on a healthy diet), they likely taste amazing too. Importantly, the restaurant’s offerings fully align with our healthy eating plan.",
+      "time": 1759104954,
+      "relative_time_description": "2 weeks ago"
+    },
+    {
+      "author_name": "Mihai Stroe",
+      "rating": 5,
+      "text": "Upscale Italian dining experience, great wine selection, beautifully crafted cocktails, elegant setting and delicious food. Also features a cigar lounge with a small selection of cigars but they do carry the good ones. Definitely recommend!",
+      "time": 1752324221,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "Jo Hogley",
+      "rating": 2,
+      "text": "I’ve always enjoyed dining at The Sparrow and had a wonderful visit previously, so last night’s experience was a surprise. My friend and I ordered side dishes along with our mains, but the portions were far smaller than expected—especially given the price. The spinach side was £12 and the mushrooms £15, yet both arrived in what felt like a very modest serving.\n\nThe atmosphere and service were pleasant as always, but the value for these sides just didn’t match the quality I’ve come to associate with The Sparrow. I hope the restaurant can review the portion sizes or pricing so that future visits feel more in line with their usual high standards.",
+      "time": 1758731714,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Ahmad Alfilimbany",
+      "rating": 5,
+      "text": "I went to Sparrow restaurant in Mayfair and it was a wonderful experience. The atmosphere is chic yet welcoming, making it a great spot for a memorable dinner.\n\nFor appetizers, I had the Pane al Tartufo (grilled focaccia with truffle ricotta, honey, and truffle) — an absolute highlight. For mains, I tried the veal Milanese and the Wagyu ribeye, both perfectly cooked and full of flavor. To finish, the tiramisu and the chocolate hazelnut cake were the perfect sweet ending — rich, indulgent, and beautifully presented.\n\nOverall, delicious food, warm service, and a stylish setting — definitely one of the best dining spots in London.",
+      "time": 1758312401,
+      "relative_time_description": "3 weeks ago"
+    },
+    {
+      "author_name": "Rowa Al Moammar",
+      "rating": 5,
+      "text": "The restaurant was recommended by my daughter, and I would highly recommend paying Sparrow Italian a visit; very nice Italian restaurant with 👌 quality and excellent service. The menu doesn’t contain ham products 👏 The restaurant is very nice and cozy 🇮🇹 have shared the menu and the ordered dishes ✨ My regards to the chef 🧑‍🍳",
+      "time": 1755064151,
+      "relative_time_description": "2 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:43.617Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5s26P4FdkgRe38En7ayVDQ"
+}

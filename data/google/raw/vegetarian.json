@@ -4,46 +4,12 @@
   "count": 4,
   "results": [
     {
-      "place_id": "ChIJAQAAAKUEdkgRQ-1aRUC5Ao0",
-      "name": "Bala Baya Restaurant Bankside",
-      "category": "vegetarian",
-      "priority": "medium",
-      "rating": 4.6,
-      "user_ratings_total": 2997,
-      "formatted_address": "Arch 25, Old union yard arches, 229 Union St, London SE1 0LR, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5032699,
-          "lng": -0.1018623
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50462897989272,
-            "lng": -0.1004535201072778
-          },
-          "southwest": {
-            "lat": 51.50192932010728,
-            "lng": -0.1031531798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:59.568Z",
-      "query_used": "vegetarian restaurant london"
-    },
-    {
       "place_id": "ChIJl5XKp0AbdkgRTn2NK2JhzA0",
       "name": "Mildreds Kings Cross",
       "category": "vegetarian",
       "priority": "medium",
       "rating": 4.6,
-      "user_ratings_total": 3527,
+      "user_ratings_total": 3533,
       "formatted_address": "200 Pentonville Rd, London N1 9JP, United Kingdom",
       "types": [
         "bar",
@@ -68,17 +34,17 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:59.568Z",
+      "fetched_at": "2025-10-16T20:23:28.256Z",
       "query_used": "vegetarian restaurant london"
     },
     {
-      "place_id": "ChIJKeSilD0DdkgR6sdthhHgYmk",
-      "name": "Amrutha - Honor Oak",
+      "place_id": "ChIJERSGIcIbdkgRsqUFt7xf54g",
+      "name": "The Veg Box Cafe",
       "category": "vegetarian",
       "priority": "medium",
-      "rating": 5,
-      "user_ratings_total": 304,
-      "formatted_address": "37-39 Honor Oak Park, Honor Oak, London SE23 1DZ, United Kingdom",
+      "rating": 4.9,
+      "user_ratings_total": 1580,
+      "formatted_address": "136 Marylebone Rd, London NW1 5PH, United Kingdom",
       "types": [
         "restaurant",
         "food",
@@ -87,21 +53,55 @@
       ],
       "geometry": {
         "location": {
-          "lat": 51.4492208,
-          "lng": -0.0436467
+          "lat": 51.5222417,
+          "lng": -0.1580921
         },
         "viewport": {
           "northeast": {
-            "lat": 51.45058487989272,
-            "lng": -0.04226002010727779
+            "lat": 51.52352172989272,
+            "lng": -0.1568295701072778
           },
           "southwest": {
-            "lat": 51.44788522010728,
-            "lng": -0.04495967989272222
+            "lat": 51.52082207010728,
+            "lng": -0.1595292298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:59.568Z",
+      "fetched_at": "2025-10-16T20:23:28.256Z",
+      "query_used": "vegetarian restaurant london"
+    },
+    {
+      "place_id": "ChIJI99Jb-EadkgRgUmezihm2j4",
+      "name": "Mildreds Camden",
+      "category": "vegetarian",
+      "priority": "medium",
+      "rating": 4.6,
+      "user_ratings_total": 3088,
+      "formatted_address": "9 Jamestown Rd, London NW1 7BW, United Kingdom",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.54036,
+          "lng": -0.1449998
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.54177157989272,
+            "lng": -0.1436253701072778
+          },
+          "southwest": {
+            "lat": 51.53907192010728,
+            "lng": -0.1463250298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:28.256Z",
       "query_used": "vegetarian restaurant london"
     },
     {
@@ -110,7 +110,7 @@
       "category": "vegetarian",
       "priority": "medium",
       "rating": 4.6,
-      "user_ratings_total": 649,
+      "user_ratings_total": 650,
       "formatted_address": "11 Parkway, London NW1 7PG, United Kingdom",
       "types": [
         "restaurant",
@@ -134,9 +134,9 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:59.568Z",
+      "fetched_at": "2025-10-16T20:23:28.256Z",
       "query_used": "vegetarian restaurant london"
     }
   ],
-  "fetched_at": "2025-10-15T10:52:59.568Z"
+  "fetched_at": "2025-10-16T20:23:28.256Z"
 }

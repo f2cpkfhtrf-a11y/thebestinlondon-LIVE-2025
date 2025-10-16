@@ -1,0 +1,243 @@
+{
+  "place_id": "ChIJERSGIcIbdkgRsqUFt7xf54g",
+  "name": "The Veg Box Cafe",
+  "formatted_address": "136 Marylebone Rd, London NW1 5PH, UK",
+  "vicinity": "136 Marylebone Rd, London",
+  "rating": 4.9,
+  "user_ratings_total": 1580,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.5222417,
+      "lng": -0.1580921
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5235208802915,
+        "lng": -0.156830419708498
+      },
+      "southwest": {
+        "lat": 51.52082291970851,
+        "lng": -0.159528380291502
+      }
+    }
+  },
+  "lat": 51.5222417,
+  "lng": -0.1580921,
+  "formatted_phone_number": null,
+  "international_phone_number": null,
+  "website": "https://thevegboxcafe.co.uk/",
+  "url": "https://maps.google.com/?cid=9864958772907451826",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:30 AM – 10:00 PM",
+      "Tuesday: 8:30 AM – 10:00 PM",
+      "Wednesday: 8:30 AM – 10:00 PM",
+      "Thursday: 8:30 AM – 10:00 PM",
+      "Friday: 8:30 AM – 10:00 PM",
+      "Saturday: 8:30 AM – 10:00 PM",
+      "Sunday: 9:30 AM – 4:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "0930"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2eiL3-R_Mngwh_SBKSPJDgu1sdYZSDFYkXFdGYgvKWO5T-uQRmdYHquL5eDYB796bMaAvWmYXjhIJqWpdjafguMiqrnjeXrHP4LYfzNYiRMY2P_z8CUMbAljYImno7_ceVHuK4OzSbEJNwKAqGuxQanjb9jThVHZqhvvQc9KiX3Wu_LBquW-NtR_wLX2vQLbGJ-didaUyrMl1u-hRF8MViL3UJdC5wgHjK6lSFIlOeG3u5DguA2En-YCTHEPX9eY2w8G-dqeDtNUWnmxrXMn_DXyOWqKqUpK8XPoX9FpogpSw",
+      "width": 1024,
+      "height": 768,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115778388181727746482\">The Veg Box Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dD3vB9GCdpGwBW2fS1H8KUoXrr9u34N6-Tsytn7usK_kXDpFEOMG_PDj2twbx1hbJINHHKK6YNN5EpXbEmPp52YnY4d420bkYWSfDPDBRUzdnNz5POeBl9NkR8TQT0SjQfZrbYUpjNLqPld3Pg_q48ZoF3Itu9jnYqNb02a5VAp2GYcYyPLDTVeXecCg-3zbMycSjnugfCxlsT0fKXX6UvI9BfS9-Ke-ugiDJ0PzcOhQ1jiLK0RXQjvUDPhWQe6r2ZciHIq_OKAB0grxCBH-TfUpzz4GbXvS1CqLY1wCErrLnRT_8obtHU2q19ra3qBFY-Qd-kF2l6rWxJKO-86FaOVkG6Y7Ei2khv5CkdU1B3ucllK5apcIs_jxGG-MHN4AjHx-2mQFK27hZNxEV_p2rxRGNVLvLe5lxq3vuyfYo4X7Q0f54mHAeNPX6fnm_C",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108586663649470420180\">J S</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2deX4cntQLn9FyZRa2_NduwG-EvCkJyTSrDNRgR7_3d-rkE3ZVHMfvCiDO1OCs8W-3RcLnpUeRvs9eqCjHuSTGYW-U_0UksfbTGZZp3Ap5q3VfEiRg-6FIo1ySUOigRwKfgYxM_qg0CqiI1N69mvvGETmpBjJyfSBHETvR2C8qTcMftWOxsdnWYfMJ2MNgNp3Ymj92VHomb2wsRDFW8QJiqwL87Du4AMq6bUwzV1v7NPbLb9bM-cT7oqm-sKW4fMdunfs39iJij5rR4NVP-AUM44UknVTzI2xNHw4vNxWolng",
+      "width": 1280,
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115778388181727746482\">The Veg Box Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fCvQcqOWtAlhoKTz719calMlEAvDYkvEsFDhep4ZMPsLTyLPuv7p-taddfdxJ4Pm_uTIXGzzf8BpCuYw0XqYV3nS_afW_bbTA2qeVQLmMnCNjaJZsb2cxMbLBhvm4alHZqKZDISdhZQYp-GrA19BKghof4RrAuhLcYK534BGBarvj6gmXkc4jCuu2MENU7YfvB3Ja3zpgCArz8vczXBhQOf88hy_M6cyX4ynj_tNI0YvbigIK_gUfJrKNxGTKwkWmH0UTPbWM0WdUbxWtEOp9re9e378c7IJc5qAf7fd5mTw7u5a-Ljl81uHFnXMHHdYAcVkQR0x4zMAmT3vHSz09CkKZC2fkQWuyLANGDLBPvgl8353Y6mKQ-dTiRmJwoGsajYjpvfE2EGw_GnsIDaG5Hpkvuj656R8JaGqRCyTZWvmBk2hM-aADfx8eFS2an",
+      "width": 2268,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109563199057492973741\">Nicole Novy</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2ej4y-3xih38AnSZjSW023WtB-If5oEsblDXmEWtaDc9dJm5RoFX-BOOnx12GXYQKUkVeYKsbS4cu7NOTiMc-u3LL-6Zckd_Gpiia_50rxtIhZTBpSmir8QEJOpL63zMcWB-pQAQrsbH2tO8iF_HYwVmTfXG4yB86kovlOoOo0XdHHoaRsgZ1mYPnXg2MzMnftzjIss-kcjXVPWWaFu_Z9W4P_IJ2UoTD5QY-kCIDyZOjIJysi4VjQdZh5quk2CGFB7Xq8F4cdBal6ILB7HgHGRXLrF9oDaT80QwKLWcdsOc7v5AMOJus3SUhcagvCg_73YVre-g5WMCVuD3h_FsIY-TKu02TProRuaC7QBQMUq6wqMocgJsJNdiU0QU54GIPvIUSIzNRVw5mInHsK9EFD0OSOJO0NFG7d2aKKSokPsEoV39Ye4NQzjajp6jiea",
+      "width": 3840,
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110195354210209334407\">john rafter</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cC4I6XR6RLVMvuJICPw05mQWlmOg0y_3L5H9c-fQV8huAl07jijV4E7M2rLoxwRtP-JXzehEmNSitUivZxPDK6uMm85djEDBxXDQUHHtPztGawKROFbv2PcBMKH-e204jfntl2IUl-hOCljGdoP5mQrEEhOnQ3w-3hNkCVbGMZeyf2F7GorqE6jRewOsTRb6kcH_ADR06RxLRrMDCckxVGSu3k-RwpSaXmJXXIs86GoSHk-GT9UxUBJTXuSh1XxOw61cktDEH3kcYpfmOHGlbi8WGGjAF5RkJLLvGWTcoNJjGu1GF_wolxLwSeOgp6rJ5ORl0AmkraUPCNXRiErgp0dLSB5ou-5DEKrPa3qkb0SkylKkpnKMWHYbVIOgP5mzuoaHyrZRWKFRYgMuxvbYS8EDaVtJ0GWkCgyuZIdDp57caHEUxFZeTNI0Dt-g",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107793762942688495588\">Milan Wouters</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fqRKnLelIAcd5Hch_I1Zwv0Qg8gf5_vH4s6-o3KXcJCxah9H3_mp7iO81vFTyzwYW9Z0-cixkZWF6oTp4HhL7Upq1JfqW_-wdMkvCxYFsg0nuH_JkHjnNAtCjOMR180hcmuasOgshI5ykCRSi1sXSzqkysH9hV0_0-77Ejlw7LH64qL10s2DQovrZweSn6KcRy-g1RTi-bW0DlL4u2Zz4Rdm7bBCtJ-hfoKitNgH4fvlu1U7g1BM-MTwzWK0-GevJb-6_utZNgqmcXa1DkQ0G3_6NvZ-EcTLvhVYskK4fgHxw2TxVr7aWB8eQOPkak-MOUMftcZkTuyD11mfGxvbN0y72iLgqhnMoQgT2WB_0ecQg8oQep_O3zcakFzlbYPofECBrkSJfu1LIk5TgjMLm_Iu1MsLr5kxuwnUaEOCjwUV7J",
+      "width": 3600,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118257968416680855558\">Jeanpiere Parchow</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eqLgDTPvmdnv2ZoueOGtbn30ZAVmtCinaSpBLtoRBEa-Knl0n8cWtTmXa9fzNuGW2UTUsgloD6DlW-bY-QOjTk6MZUQKaAve5ZA6-y83APq_uwy4krEahA3flrjmxJCVxmLoDnIRfZ5HyqBraum-1o5u62-rDov-pmQb3fKs3nuGHQkBkHOe0Y9D1gCyl5qqlSlIPBxn-Cl1J0wBPFSF2a7HHoLfV69ucfgXGeFLl0tm4lTmwBU8kibY-Teo4R6zpKShmpNV3NIBiE-YhitR-aNs6qxXqf_VVzuEf1-PW7RigbGdSMWlsS1LMbShADpU1-fR5IXiiECy3kilH8bQIu-_Jyr30srHeSAyJkMGHt13YbdIBmV7Aus3Z-oBely1gaz1JjryT4Mlbw9jU4AENg22mHjqqkisQXVLIiVDYFU1Og",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109928559822653751783\">Selin Erdal</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eTu_70IMb3ateP66hZfTDIlwzFjJ2acenvkLg9ZZoEGKCmY9mWDw3kmaEQc6zT_376QVlUeCYNevhyfBvMCgXGorH2EAD8KUMiIiaWAAbALJT-ogRimOZ11Y7q1hr4C-yGphU_euOboUxNhqV_EtPW3iTJ_XjeRPTHGEQushhIWDE_uKPsSWncyrlYBNxpUiDLXahLLWVRjS4YKT7veI_Jdb22-ry46xXsRa72eThuQXrLFsAO_x5ZzHT2mCE5-Jd0gDla6jt4sLUG1TdwuvYeUdkhih6V1yMWBwIzgPKBxfENwFq0m3lhppIOa2fni3jyJ-HXq3cfuSCM1oq63kM0N7WpcGSeGnqUIXCkZ-vNhWwW7AGLwa1XfeQFDbqngqzp63y1jUmgn9mqC0IlhANBSf5p23NbypGO8_oBGeGWJkCjm0chfqGJ4awpQAM7",
+      "width": 4032,
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108453405177665787977\">Will Butler</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2dubt5z-i_YNlSFxUDez6j_OAVSJRIGv6QGTOYqb0pFWgltlQQu_xqjxv0zBokaVTjo0OvkgWm0x__Bx3FLsF6HzHLPXN9mMWQhRBWLJfoJDba_u4gtzaaSjHNuLSK61tKdnzGr47YlUYnBKpdnnnGHijqDYh7uc5p8ave0VMlJJLQm7sioKrJUxxISTne0QhV7b9c_uVc0ysZf2EBOSaBV9dYzZpOeGNFQ--Ezi2sU6RLqKsvj0lhVwg5MrdXBK3BqafM8037cvsl5rczwesVkRt2D0V1GdDCctrdtCWhdinqoxnc1eVno-SYltRyZ6CHMpan1OPH8AZd20TTjr-m-HQpHrMRezwNTc2-QSmCAP3DOjSxAo8wv6_N5Ks4a2TjsHRRYFiHzqjxLsF74RbTuHl_yuf-Cj_yfnZjOcB7w6Tgz",
+      "width": 4032,
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116050181435340416706\">Alex Csaba Kovács</a>"
+      ]
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "L S",
+      "rating": 5,
+      "text": "We found this restaurant on the Happy Cow app. The food was so fresh and delicious, we all enjoyed our meals. I would like to come back again if l had time while staying in London. The taxi driver told me the burgers are great here, glad l listened to him and tried it!",
+      "time": 1757601323,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Antonio Stavri",
+      "rating": 5,
+      "text": "Incredible food, amazing atmosphere on the second floor, and amazing food as well! Highly recommend if you are vegan and want some delicious food!\n\nThe staff are also very friendly and polite!",
+      "time": 1760107592,
+      "relative_time_description": "in the last week"
+    },
+    {
+      "author_name": "Lavinia Håkansson",
+      "rating": 5,
+      "text": "We visited last month and I just remembered I forgot to post this review but: Great staff, great variety of vegan food options (all VG menu) and dog friendly! Need I say more?\n\nI never got the name of the man who greeted us but this place is a hidden gem. We walked in (as a vegan and a vegetarian) to ask if they were dog friendly and before we could ask he was obsessed with our dog and said hi to her. He brought her a bowl as well! Good vegan food can be hard to find now as it’s all the same options everywhere. But this place really hit the spot. We shared a couple dishes and it was delicious. Loved the vibe of the place and the staff checked in lots even though we ordered on the QR code which was so nice.\nHonestly would go back for the lovely man who greeted us as his energy was 10000/10.",
+      "time": 1758062718,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "Lloyd Murray",
+      "rating": 5,
+      "text": "Found this restaurant shortly after visiting Madame Tussaud’s. Always nice to visit a vegan/vegetarian restaurant as it’s rare we can order anything on the menu!\n\nFood was good, very tasty. I liked that you could order via the web (or at desk if you prefer). Wasn’t too busy, there were plenty of tables, and very comfy. Bathroom facilities were very clean and tidy.\n\nWould visit again if I was in the area.",
+      "time": 1756876352,
+      "relative_time_description": "a month ago"
+    },
+    {
+      "author_name": "Sanjeev Kumar",
+      "rating": 5,
+      "text": "One of the best vegan breakfasts I've had in London. I really liked it, everything was spot on and just goes to show that vegan food can be every bit as good as the traditional stuff.",
+      "time": 1759140302,
+      "relative_time_description": "2 weeks ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:54.464Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERSGIcIbdkgRsqUFt7xf54g"
+}

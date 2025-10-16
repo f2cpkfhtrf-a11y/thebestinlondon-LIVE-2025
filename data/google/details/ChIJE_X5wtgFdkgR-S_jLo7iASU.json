@@ -1,0 +1,245 @@
+{
+  "place_id": "ChIJE_X5wtgFdkgR-S_jLo7iASU",
+  "name": "Old Queen Street Cafe",
+  "formatted_address": "6 Old Queen St, London SW1H 9HP, UK",
+  "vicinity": "6 Old Queen St, London",
+  "rating": 4.5,
+  "user_ratings_total": 623,
+  "price_level": null,
+  "geometry": {
+    "location": {
+      "lat": 51.50091159999999,
+      "lng": -0.1299867
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 51.5022464802915,
+        "lng": -0.1286105197084979
+      },
+      "southwest": {
+        "lat": 51.4995485197085,
+        "lng": -0.131308480291502
+      }
+    }
+  },
+  "lat": 51.50091159999999,
+  "lng": -0.1299867,
+  "formatted_phone_number": "020 3005 2320",
+  "international_phone_number": "+44 20 3005 2320",
+  "website": "https://oldqueenstreet.com/",
+  "url": "https://maps.google.com/?cid=2666661554679918585",
+  "opening_hours": {
+    "open_now": true,
+    "weekday_text": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ]
+  },
+  "photos": [
+    {
+      "photo_reference": "AciIO2dTLpHrexEL6hnc4i5TG0R_zTkk87TwDNz1iGgFJuDQ3keg_yrPbqkwB-6AfCcaJ2AOIFoMzdnPpDMpjImLRX60r_q5417EeeIM6IQGASbdCrUu52ZRdYbKEHwcDyGhuCbL8r99pDDzx2OTF4vXpd_BoDDYtUgVS5gvyaIU6PWQFEBVxbJU023ColPVjBOsq3uqXESz_hUM8lI-4LWcQdNjd86mU0euVrhqazuz9vr2_JP3IbT3DCF8eihGENeNTgsiLFTc7maTZBsVMmMwW_bV7qeqW-HSBdcM01jTuGlJwQ",
+      "width": 2560,
+      "height": 1708,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107956130828915946488\">Old Queen Street Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2egHi996EAwDGyaeUDs4jCOsZs7owcosXHXGxx6R9K7tEATo3YDKLRKYZCz__8gKcEWr90S-h5vkQiJ3GeBrY49pbcVhkzYsHlAHkrrj0g3Pg6ClTxr--KR-6ztqBKex7fvTjQXtvgxZVtEmHRK7CAas6GtUXYveFLJMwtBdrMGNJ-VLEfJXZcFArw01bNkTvB6sfbXz86HuQUsFjseN7NtbNC8Thso5kQQkSFbATgmpChusuhvVzD_JjDYrF2nE-Mze5AT-YlqE70RZjgIX7j_K34pe2i_FKb2HeCVWT1zhQ",
+      "width": 3201,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107956130828915946488\">Old Queen Street Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cbTyqIUUcYTkBgHsBMipZ4s62woBEQ12884JPKEaKXGuAAJ9w-Mutf7OxxUr4lBkLvLJnwhB7KCfpZi2CdeNIE4bnM-QOz8DT7gN0mBj-MfgPTYr-34GVPdXElsN8P4S9ggUF5vD4moSZPry1pTiiIOMW8BO700gAoR6BsNoOYBOG6GdGJM-gX9iCsrtzXxmbeyLC9bv8FI1ws1Cm8DAwN5-Hkx6ExYMKfB7OgudkQlfZuM2SgRLwyhA0Si2vIjZXpA7fmCoCpIU-vx9TYp4SivUB8kKCPWHihp0azypA5ez0tS4KaPoOiS_fI0YnoXqqVxrcywKnM44AocawdzzSeKwvX06OFCE2M_IRzMuhwhHnhc5Dx8rYaYbykB4JwxcXQiCU6M7GmSmKSRfkm6fhzAYazG-qrMe2TtDDoi0kwbVZ-mcnBUiPl86nhEw",
+      "width": 3846,
+      "height": 2163,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111253026968744883601\">E. N.</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cAJG5LD24CLAAWdcNx9J6Jj8xBlBRUrvTPc1U_1PZ1JuFTWe5qzXPNmr5_Qm56yNvIZmQxI_zNmO5aclDstso2VzP2zMFi8DYlQIZtNFz1MKOGNB0k4jXsdy_bWNfS5oVK2s0riTj9E_ujDqudCqOuPc_oguYobggu7KWOve2evyAdfADK8Tgfay9t8CYlgb2BILs7SJZ7vuzKqwACNO6VZOuXcWiQZIwCgJ2pDZtUmP7trY00U14tBBbAPytdurmll8DJHrJCAE2PLPc0Q7JoWVSUqsbDO8mcUM4bhVrDdQoTeJxHFEpi-UcBOmFPtjC6j074_S_b6CmnipWhn_KU9Y6fR1TmOfUTTONVpdoXRpmSXVS2taVyjJDjCOe7c2063k1UwonSKuXy84AnQnKXksA89A6Szg2XxYg-Rzgf2VGK",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111108754315992452533\">daisuke</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cLOSjul70SKOYhCSvDKRAJ0tX43XiKcTv9gEX0B82WSdL0ZSH0MPDsrKSdRITszQQ5wZ9NyRTZ66ZHVyU4x_ZVIYq6Cb3A3pRBxmcuf9hfSkX8e_bttOOSNZMJJDjxFapBZy8eo1lhkA8y1nQf3903StlD5YBabA6wPQgTLPqwyCYtVAShsfmyhKbBGuBlFN02bollOEOhKBgDFyhl6zO0GtXaDd6czvtRIJKDkl99W_LCzcZPYv8Qp4jPGS3P3RH9Qwcu6YZQ85P4T8ToQKZq62uJi_hFe_euTLWK_CkQ3w",
+      "width": 4800,
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107956130828915946488\">Old Queen Street Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eFM0CRHVWA6K1rXSz_1f-1fTZBYFONTmzdAST1j1Uax0UUCFtKgcTpvREBpPgUGvGSXcxnFDAFK-YqyY8OZM93WnsVatnv3X0UubeCXorbGqjUZDKzLA1IWmEIi46MMadzHdJswijkGP9mwfNmEVDSL7zatd0G7p2zjCE4j_U21A5GFVqoYRq8j6YB84Z6wbAGKFfdjuf1s9ueDGvzgCnODmLEPTAAeGpUZmsSv1D5FucGRqaOwkAGPqawoDuI3Nr2EEKxF7CLyR7XLObM8MNm4jv8I_OX9q0yq76ljS5Cjy3ABihMwdsbFjqgcfZzKShIoip3QJj1h2l-e9Jhz9tyWJUNOmu5-o-2zyHWjxRJxCV70ndfXcCNfVN6hG_pneE8rFjoJU1F-iKeo1Os5TSHshXstan6Z3XgbshofxTlPg",
+      "width": 4000,
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112610363234250886184\">Helaine Ferreira</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2d6ktRM7dhkfLAxKpJiF_q8-igDGWk2GzbsSROVWOdnqOkzjFTfl9tEC7PNBDO2z-Ad3Sl9yHA1QyVeDEc4TkcvyYRlISOYCWh80nDJdy7EEzvtc5wGea7zM3s4F0DRMmXCs4gBRUOSPPYZ0MM6zvih1fHwDTOd_ik4EJkeNE5GVFLrxH9b-kmyFpMz6-A4MnzhQjDLCrX7iJvXQDIhGMRumomrKpKYQv1qZ1mjtAoFT5NXfQn-Xwg0GOxTy8EmSkIF0JndxyQ3WyMoY26H3VGnaTJ88Q5fOK44OyD68erTmZHgFNcaLEDFBxGypEpDe6DoAf2WHRvFziDdwolNbvGQmBWLKEI3QQejKUG900bii1Yyxfj0rw0MKZTgHoZfkXS-pJXmi7chNqh-Tt5ZVYjE3JoZrB-KHFJ7eG5HSlA",
+      "width": 4800,
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112937500820623408810\">冯钰志</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2cZ6ccoDODDccINEOrD14oytf3HsDtASvWVL0BWT9m6W4R6L0NcFw5VBxIDyIaafbxypAj8wG1OS96d3Cq6w9oZ_aYtV4EYPeE3OkVNBkISHJRLYwFunQxhgFZE0lOHTVQyzgsCO9762t2qJSswN23vE9guo2xUyDWidhAAm5e11_UgZqbKnJqgraaqkvSO_vjtSFtMuJ0JKcd1VRWLeNdEA37Fi519BjmFlew8-mNmsgoBv-esK5-ls9MPvS0_RVyGhqC5rVjLThhweEJmuhluKUEkWMyebVhDHkkUZt9UKfaGhBdOJ7HKqKuafuIVrOUji-KFPffKa3xBuJhlUlWi3U1zKXbwqpS4fRxjChjT5rnHolxuPuFEpH4IUaBrDY6Gc28DaCqruP3zfouF2vkxXbc9sXVMBjgVBYVlEFVlLQ",
+      "width": 3024,
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103910685884245516664\">Sof</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2fOpYjtHpnQkpzUBsJmPPj3iDlOa4guZAJgVNZqFpQGPu65mkCg6uIslqls_6CnhJEjx9AjFBJtzoo-Xdvm-ugu3f6yP9OdPspH-ny8G3JSiKn8dUjNXzN0g0ueJ-pF2u9nJFePoS8pQTibxdBx-_HXdJxIyrO1AYBN6EZP1tZrc8xIAIYQUJHP_RsL6_rAZYN9UDEDDC4ykaeVO2VtiYnclTnpae4RUdFT00SIviaRkFEnvPpykpzm52n3TD5CybbAQgGtknBVR0epIKOuLegqevvNObGC5mpOEJ8BffrfkQ",
+      "width": 1000,
+      "height": 667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107956130828915946488\">Old Queen Street Cafe</a>"
+      ]
+    },
+    {
+      "photo_reference": "AciIO2eRQEG6l5VZOX7eOM6T6qX-rA80Yl6igYjVpvg3inyKH0DrR623k32rXymO2_6hlrKsAk7SHdM8cK5cwkzwnPViKTD0LzSp8rS1_H6C0muPWzvVj0FZF6ASD4jQP0SK7Izyd1hYqsfSVnSm6hKwuWWv8jQVMsotvirqhV4H9CyJa2Mno9coWxUtG6Ccog0kDCfxpG-t00hU6_JGkrDmn5uuKGwBMjoejLgOcOsEXh54CbaCbVvDP_wh6NZQGsV-7BEfXUShgNw_VCOFqjRZJbyCwm9PUD5u_fh-S7v70fqQ5g",
+      "width": 3199,
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107956130828915946488\">Old Queen Street Cafe</a>"
+      ]
+    }
+  ],
+  "types": [
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "editorial_summary": null,
+  "reviews": [
+    {
+      "author_name": "Jo S",
+      "rating": 5,
+      "text": "A beautiful find tucked away in a Westminster back street. Beautifully presented ‘cafe’ - loved the decor and the photography adorning the walls. Service was friendly and the breakfast was SUPERB!\n\nPlenty of interesting characters who visit regularly. Busy on a Saturday morning so recommend booking, but did see several walk ins accommodated.\n\nWould definitely return.\n\nA great place to escape the hustle and bustle of main tourist spots around Westminster.",
+      "time": 1754228286,
+      "relative_time_description": "2 months ago"
+    },
+    {
+      "author_name": "Olga S",
+      "rating": 5,
+      "text": "A brilliant spot for a delicious breakfast! The eggs Benedict—whether with salted beef or salmon—are outstanding and highly recommended. The café gets quite busy, so I was glad to have booked a reservation. The space itself is beautifully decorated, with a charming French bistro feel. Staff was very attentive and friendly which always boosts \"the experience\"",
+      "time": 1758213705,
+      "relative_time_description": "4 weeks ago"
+    },
+    {
+      "author_name": "shaz Suleyman",
+      "rating": 5,
+      "text": "My first time coming here and honestly can’t wait to go back! From the service to the food I was so happy; and such a chilled atmosphere. I had the full English and it was all so tasty, even down to the butter!",
+      "time": 1759860415,
+      "relative_time_description": "a week ago"
+    },
+    {
+      "author_name": "Kyle Tobiasson",
+      "rating": 5,
+      "text": "Delicious! Our first server was bubbly and kind. Not sure where she went off to, but we were still well taken care of. Food and drinks were great. Mimosa’s were ✨strong✨",
+      "time": 1750617391,
+      "relative_time_description": "3 months ago"
+    },
+    {
+      "author_name": "JT Tay",
+      "rating": 5,
+      "text": "Went down for lunch (lunch menu seems to start at 12 noon!)\nExcellent service, even better food! Thanks for making my solo meal a fabulous one!",
+      "time": 1751685175,
+      "relative_time_description": "3 months ago"
+    }
+  ],
+  "fetched_at": "2025-10-16T20:23:55.675Z",
+  "google_place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_X5wtgFdkgR-S_jLo7iASU"
+}

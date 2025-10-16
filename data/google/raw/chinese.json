@@ -9,12 +9,12 @@
       "category": "chinese",
       "priority": "high",
       "rating": 4.9,
-      "user_ratings_total": 2539,
+      "user_ratings_total": 2543,
       "formatted_address": "14 Lisle St, London WC2H 7BE, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -33,7 +33,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
@@ -42,13 +42,13 @@
       "category": "chinese",
       "priority": "high",
       "rating": 4.7,
-      "user_ratings_total": 5785,
+      "user_ratings_total": 5791,
       "formatted_address": "The Now Building Rooftop, Outernet, Denmark St, London WC2H 0LA, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -67,41 +67,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
-      "query_used": "chinese restaurant london"
-    },
-    {
-      "place_id": "ChIJhfAKn9QEdkgRBBKDiFubnrA",
-      "name": "Yauatcha Soho",
-      "category": "chinese",
-      "priority": "high",
-      "rating": 4.3,
-      "user_ratings_total": 4664,
-      "formatted_address": "15-17 Broadwick St, London W1F 0DL, United Kingdom",
-      "types": [
-        "meal_takeaway",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.513587,
-          "lng": -0.1351682
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51502712989272,
-            "lng": -0.1338447701072778
-          },
-          "southwest": {
-            "lat": 51.51232747010728,
-            "lng": -0.1365444298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
@@ -110,13 +76,13 @@
       "category": "chinese",
       "priority": "high",
       "rating": 4.4,
-      "user_ratings_total": 4867,
+      "user_ratings_total": 4868,
       "formatted_address": "90 Berwick St, London W1F 0QB, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -135,7 +101,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
@@ -144,12 +110,12 @@
       "category": "chinese",
       "priority": "high",
       "rating": 4.3,
-      "user_ratings_total": 7052,
+      "user_ratings_total": 7075,
       "formatted_address": "5 Henrietta St, London WC2E 8PS, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -168,208 +134,7 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
-      "query_used": "chinese restaurant london"
-    },
-    {
-      "place_id": "ChIJB8B-q6AbdkgRmCnXSme91Uk",
-      "name": "Shanghai Family",
-      "category": "chinese",
-      "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 1200,
-      "formatted_address": "40 New Oxford St, London WC1A 1EP, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.517184,
-          "lng": -0.1256395
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51848687989272,
-            "lng": -0.1242746701072778
-          },
-          "southwest": {
-            "lat": 51.51578722010728,
-            "lng": -0.1269743298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
-      "query_used": "chinese restaurant london"
-    },
-    {
-      "place_id": "ChIJE1j0oVADdkgRDVQQ49MtNE4",
-      "name": "Hutong",
-      "category": "chinese",
-      "priority": "high",
-      "rating": 4.2,
-      "user_ratings_total": 6986,
-      "formatted_address": "lvl 33, 31 St Thomas St, London SE1 9RY, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.50434569999999,
-          "lng": -0.08683529999999999
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50560867989272,
-            "lng": -0.08543407010727778
-          },
-          "southwest": {
-            "lat": 51.50290902010728,
-            "lng": -0.08813372989272222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
-      "query_used": "chinese restaurant london"
-    },
-    {
-      "place_id": "ChIJB-cY1hgFdkgRJ8lzg_TLvpA",
-      "name": "Peacock London",
-      "category": "chinese",
-      "priority": "high",
-      "rating": 4.5,
-      "user_ratings_total": 551,
-      "formatted_address": "County Hall, Westminster Bridge Rd, The Queen's Walk, London SE1 7PB, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.50231059999999,
-          "lng": -0.1194993
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.50345152989271,
-            "lng": -0.1171308
-          },
-          "southwest": {
-            "lat": 51.50075187010727,
-            "lng": -0.1204608
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
-      "query_used": "chinese restaurant london"
-    },
-    {
-      "place_id": "ChIJZzLmQYoFdkgRf2kJmh4FwkA",
-      "name": "Fatt Pundit",
-      "category": "chinese",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 13328,
-      "formatted_address": "6 Maiden Ln, London WC2E 7NA, United Kingdom",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.51074999999999,
-          "lng": -0.122639
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51215317989272,
-            "lng": -0.1213483201072778
-          },
-          "southwest": {
-            "lat": 51.50945352010728,
-            "lng": -0.1240479798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
-      "query_used": "chinese restaurant london"
-    },
-    {
-      "place_id": "ChIJsXtpkRMFdkgRGbnTiNwEkvg",
-      "name": "Shan Shui Social",
-      "category": "chinese",
-      "priority": "high",
-      "rating": 4.8,
-      "user_ratings_total": 162,
-      "formatted_address": "14 Buckingham Palace Rd, London SW1W 0QP, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.4977812,
-          "lng": -0.1442387
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.49911932989271,
-            "lng": -0.1428465201072778
-          },
-          "southwest": {
-            "lat": 51.49641967010727,
-            "lng": -0.1455461798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
-      "query_used": "chinese restaurant london"
-    },
-    {
-      "place_id": "ChIJo9_aYFUFdkgRAudTdQFvIxU",
-      "name": "Gold Mine",
-      "category": "chinese",
-      "priority": "high",
-      "rating": 4.2,
-      "user_ratings_total": 2922,
-      "formatted_address": "100-102 Queensway, London W2 3RR, United Kingdom",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5133525,
-          "lng": -0.1875537
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51470557989272,
-            "lng": -0.1862390701072778
-          },
-          "southwest": {
-            "lat": 51.51200592010728,
-            "lng": -0.1889387298927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
@@ -378,12 +143,12 @@
       "category": "chinese",
       "priority": "high",
       "rating": 4.8,
-      "user_ratings_total": 9887,
+      "user_ratings_total": 9890,
       "formatted_address": "77 Berwick St, London W1F 8TH, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -402,7 +167,74 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
+      "query_used": "chinese restaurant london"
+    },
+    {
+      "place_id": "ChIJhfAKn9QEdkgRBBKDiFubnrA",
+      "name": "Yauatcha Soho",
+      "category": "chinese",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 4665,
+      "formatted_address": "15-17 Broadwick St, London W1F 0DL, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.513587,
+          "lng": -0.1351682
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51502712989272,
+            "lng": -0.1338447701072778
+          },
+          "southwest": {
+            "lat": 51.51232747010728,
+            "lng": -0.1365444298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:21.759Z",
+      "query_used": "chinese restaurant london"
+    },
+    {
+      "place_id": "ChIJo9_aYFUFdkgRAudTdQFvIxU",
+      "name": "Gold Mine",
+      "category": "chinese",
+      "priority": "high",
+      "rating": 4.2,
+      "user_ratings_total": 2922,
+      "formatted_address": "100-102 Queensway, London W2 3RR, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5133525,
+          "lng": -0.1875537
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51470557989272,
+            "lng": -0.1862390701072778
+          },
+          "southwest": {
+            "lat": 51.51200592010728,
+            "lng": -0.1889387298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
@@ -411,12 +243,12 @@
       "category": "chinese",
       "priority": "high",
       "rating": 4.3,
-      "user_ratings_total": 859,
+      "user_ratings_total": 858,
       "formatted_address": "9 Waterloo Pl, London SW1Y 4BE, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -435,75 +267,41 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
-      "place_id": "ChIJFdebc3oFdkgRKPctEvUI2KE",
-      "name": "Pot and Rice",
+      "place_id": "ChIJE1j0oVADdkgRDVQQ49MtNE4",
+      "name": "Hutong",
       "category": "chinese",
       "priority": "high",
-      "rating": 4.7,
-      "user_ratings_total": 1369,
-      "formatted_address": "16A D'Arblay St, London W1F 8EA, United Kingdom",
-      "types": [
-        "meal_takeaway",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "geometry": {
-        "location": {
-          "lat": 51.5145172,
-          "lng": -0.1366895
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 51.51583812989272,
-            "lng": -0.1352732201072778
-          },
-          "southwest": {
-            "lat": 51.51313847010728,
-            "lng": -0.1379728798927222
-          }
-        }
-      },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
-      "query_used": "chinese restaurant london"
-    },
-    {
-      "place_id": "ChIJy1y33_cPdkgRy4SK96aOVBM",
-      "name": "Min Jiang",
-      "category": "chinese",
-      "priority": "high",
-      "rating": 4.4,
-      "user_ratings_total": 983,
-      "formatted_address": "2, 24 Kensington High St, London W8 4PT, United Kingdom",
+      "rating": 4.2,
+      "user_ratings_total": 6997,
+      "formatted_address": "lvl 33, 31 St Thomas St, London SE1 9RY, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5027523,
-          "lng": -0.1878415
+          "lat": 51.50434569999999,
+          "lng": -0.08683529999999999
         },
         "viewport": {
           "northeast": {
-            "lat": 51.50392562989273,
-            "lng": -0.1868425201072778
+            "lat": 51.50560867989272,
+            "lng": -0.08543407010727778
           },
           "southwest": {
-            "lat": 51.50122597010728,
-            "lng": -0.1895421798927222
+            "lat": 51.50290902010728,
+            "lng": -0.08813372989272222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
@@ -516,8 +314,8 @@
       "formatted_address": "54 Buckingham Gate, London SW1E 6AF, United Kingdom",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
@@ -536,143 +334,344 @@
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
-      "place_id": "ChIJDUiFmbMcdkgRJO2SIjZWdTI",
-      "name": "Ye Ye Noodle & Dumpling",
+      "place_id": "ChIJB-cY1hgFdkgRJ8lzg_TLvpA",
+      "name": "Peacock London",
       "category": "chinese",
       "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 1861,
-      "formatted_address": "14 Artillery Psge, London E1 7LJ, United Kingdom",
+      "rating": 4.5,
+      "user_ratings_total": 551,
+      "formatted_address": "County Hall, Westminster Bridge Rd, The Queen's Walk, London SE1 7PB, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5181674,
-          "lng": -0.07754699999999999
+          "lat": 51.50231059999999,
+          "lng": -0.1194993
         },
         "viewport": {
           "northeast": {
-            "lat": 51.51949377989272,
-            "lng": -0.07629922010727777
+            "lat": 51.50345152989271,
+            "lng": -0.1171308
           },
           "southwest": {
-            "lat": 51.51679412010728,
-            "lng": -0.07899887989272221
+            "lat": 51.50075187010727,
+            "lng": -0.1204608
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
-      "place_id": "ChIJg5d2zuYFdkgR2C8LqLBooxM",
-      "name": "Gouqi",
+      "place_id": "ChIJZzLmQYoFdkgRf2kJmh4FwkA",
+      "name": "Fatt Pundit",
       "category": "chinese",
       "priority": "high",
-      "rating": 4.6,
-      "user_ratings_total": 495,
-      "formatted_address": "25-34 Cockspur St, London SW1Y 5BN, United Kingdom",
+      "rating": 4.8,
+      "user_ratings_total": 13354,
+      "formatted_address": "6 Maiden Ln, London WC2E 7NA, United Kingdom",
       "types": [
         "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5074328,
-          "lng": -0.129652
+          "lat": 51.51074999999999,
+          "lng": -0.122639
         },
         "viewport": {
           "northeast": {
-            "lat": 51.50884652989272,
-            "lng": -0.1282814701072778
+            "lat": 51.51215317989272,
+            "lng": -0.1213483201072778
           },
           "southwest": {
-            "lat": 51.50614687010727,
-            "lng": -0.1309811298927222
+            "lat": 51.50945352010728,
+            "lng": -0.1240479798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
-      "place_id": "ChIJOxy7ZYwbdkgRULgTZJdxJz0",
-      "name": "Meeting Noodles",
+      "place_id": "ChIJlyw-LBMFdkgR0Wc6iVOz8Kc",
+      "name": "Noble Palace",
       "category": "chinese",
       "priority": "high",
-      "rating": 4.7,
-      "user_ratings_total": 518,
-      "formatted_address": "35 Grays Inn Rd, London WC1X 8PG, United Kingdom",
+      "rating": 4.8,
+      "user_ratings_total": 226,
+      "formatted_address": "Brewer's Grn, London SW1H 0PY, United Kingdom",
       "types": [
+        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5216594,
-          "lng": -0.1135774
+          "lat": 51.49832379999999,
+          "lng": -0.1357522
         },
         "viewport": {
           "northeast": {
-            "lat": 51.52304067989273,
-            "lng": -0.1121656201072778
+            "lat": 51.49978367989272,
+            "lng": -0.1344599701072778
           },
           "southwest": {
-            "lat": 51.52034102010728,
-            "lng": -0.1148652798927222
+            "lat": 51.49708402010727,
+            "lng": -0.1371596298927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.759Z",
       "query_used": "chinese restaurant london"
     },
     {
-      "place_id": "ChIJkfIXjXYbdkgRomIMKvJV1CA",
-      "name": "Xi'an Impression London",
+      "place_id": "ChIJT9FOxa4cdkgRc54939Y8L8U",
+      "name": "The Sichuan Restaurant",
+      "category": "chinese",
+      "priority": "high",
+      "rating": 4.5,
+      "user_ratings_total": 1399,
+      "formatted_address": "14 City Rd, London EC1Y 2AA, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5221631,
+          "lng": -0.08722279999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.52351872989272,
+            "lng": -0.08580747010727778
+          },
+          "southwest": {
+            "lat": 51.52081907010728,
+            "lng": -0.08850712989272222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:21.760Z",
+      "query_used": "chinese restaurant london"
+    },
+    {
+      "place_id": "ChIJy1y33_cPdkgRy4SK96aOVBM",
+      "name": "Min Jiang",
       "category": "chinese",
       "priority": "high",
       "rating": 4.4,
-      "user_ratings_total": 1149,
-      "formatted_address": "117 Benwell Rd, London N7 7BW, United Kingdom",
+      "user_ratings_total": 983,
+      "formatted_address": "2, 24 Kensington High St, London W8 4PT, United Kingdom",
       "types": [
+        "bar",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "geometry": {
         "location": {
-          "lat": 51.5538184,
-          "lng": -0.1103404
+          "lat": 51.5027523,
+          "lng": -0.1878415
         },
         "viewport": {
           "northeast": {
-            "lat": 51.55518017989272,
-            "lng": -0.1089403201072778
+            "lat": 51.50392562989273,
+            "lng": -0.1868425201072778
           },
           "southwest": {
-            "lat": 51.55248052010728,
-            "lng": -0.1116399798927222
+            "lat": 51.50122597010728,
+            "lng": -0.1895421798927222
           }
         }
       },
-      "fetched_at": "2025-10-15T10:52:52.183Z",
+      "fetched_at": "2025-10-16T20:23:21.760Z",
+      "query_used": "chinese restaurant london"
+    },
+    {
+      "place_id": "ChIJU6ZLJ5QFdkgRYD9koPKExGg",
+      "name": "Nanyang Blossom - Knightsbridge",
+      "category": "chinese",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 269,
+      "formatted_address": "12 Knightsbridge Grn, London SW1X 7QL, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5014371,
+          "lng": -0.1624734
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.50290672989272,
+            "lng": -0.1611933701072778
+          },
+          "southwest": {
+            "lat": 51.50020707010727,
+            "lng": -0.1638930298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:21.760Z",
+      "query_used": "chinese restaurant london"
+    },
+    {
+      "place_id": "ChIJZRnZ4dwEdkgRy-CoHK7UfPw",
+      "name": "Ma La Sichuan",
+      "category": "chinese",
+      "priority": "high",
+      "rating": 4.6,
+      "user_ratings_total": 1629,
+      "formatted_address": "37 Monck St, London SW1P 2BL, United Kingdom",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4967529,
+          "lng": -0.1306158
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49812992989272,
+            "lng": -0.1292689201072778
+          },
+          "southwest": {
+            "lat": 51.49543027010728,
+            "lng": -0.1319685798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:21.760Z",
+      "query_used": "chinese restaurant london"
+    },
+    {
+      "place_id": "ChIJsXtpkRMFdkgRGbnTiNwEkvg",
+      "name": "Shan Shui Social",
+      "category": "chinese",
+      "priority": "high",
+      "rating": 4.8,
+      "user_ratings_total": 162,
+      "formatted_address": "14 Buckingham Palace Rd, London SW1W 0QP, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.4977812,
+          "lng": -0.1442387
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49911932989271,
+            "lng": -0.1428465201072778
+          },
+          "southwest": {
+            "lat": 51.49641967010727,
+            "lng": -0.1455461798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:21.760Z",
+      "query_used": "chinese restaurant london"
+    },
+    {
+      "place_id": "ChIJkQhKHeAEdkgRbgw0TGfq-W8",
+      "name": "A. Wong",
+      "category": "chinese",
+      "priority": "high",
+      "rating": 4.3,
+      "user_ratings_total": 1246,
+      "formatted_address": "70 Wilton Rd, Pimlico, London SW1V 1DE, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.493006,
+          "lng": -0.1405639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.49431297989272,
+            "lng": -0.1393050201072778
+          },
+          "southwest": {
+            "lat": 51.49161332010728,
+            "lng": -0.1420046798927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:21.760Z",
+      "query_used": "chinese restaurant london"
+    },
+    {
+      "place_id": "ChIJsVvuTtIEdkgRpsIH_WaE2es",
+      "name": "Golden Dragon (Chinatown)",
+      "category": "chinese",
+      "priority": "high",
+      "rating": 3.8,
+      "user_ratings_total": 3992,
+      "formatted_address": "28-29 Gerrard St, London W1D 6JW, United Kingdom",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "geometry": {
+        "location": {
+          "lat": 51.5114322,
+          "lng": -0.131632
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 51.51281407989273,
+            "lng": -0.1305237701072778
+          },
+          "southwest": {
+            "lat": 51.51011442010728,
+            "lng": -0.1332234298927222
+          }
+        }
+      },
+      "fetched_at": "2025-10-16T20:23:21.760Z",
       "query_used": "chinese restaurant london"
     }
   ],
-  "fetched_at": "2025-10-15T10:52:52.183Z"
+  "fetched_at": "2025-10-16T20:23:21.760Z"
 }
