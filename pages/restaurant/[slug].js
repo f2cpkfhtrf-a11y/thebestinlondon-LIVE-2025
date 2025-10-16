@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { theme } from '../../utils/theme';
 import FSABadge from '../../components/FSABadge';
+import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 
 export async function getStaticPaths() {
   const fs = require('fs');
@@ -197,20 +198,25 @@ export default function VenueDetailPage({ venue }) {
                   {venue.price_level && <span>{'£'.repeat(venue.price_level)}</span>}
                 </div>
                 
-                {/* Rating */}
-                {venue.rating && (
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '32px' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                      <span style={{ color: '#D4AF37', fontSize: '32px' }}>★</span>
-                      <span style={{ fontSize: '32px', fontWeight: 700 }}>{venue.rating.toFixed(1)}</span>
-                    </div>
-                    {venue.user_ratings_total && (
-                      <span style={{ color: '#9AA0A6', fontSize: '16px' }}>
-                        ({venue.user_ratings_total.toLocaleString()} reviews)
-                      </span>
+                {/* Ratings */}
+                <div style={{ marginBottom: '32px' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '16px', flexWrap: 'wrap' }}>
+                    {/* Best of London Score */}
+                    <BestOfLondonBadge venue={venue} size="large" />
+                    {/* Google Rating */}
+                    {venue.rating && (
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                        <span style={{ color: '#D4AF37', fontSize: '28px' }}>★</span>
+                        <span style={{ fontSize: '28px', fontWeight: 700 }}>{venue.rating.toFixed(1)}</span>
+                      </div>
                     )}
                   </div>
-                )}
+                  {venue.user_ratings_total && (
+                    <span style={{ color: '#9AA0A6', fontSize: '15px' }}>
+                      {venue.user_ratings_total.toLocaleString()} Google reviews
+                    </span>
+                  )}
+                </div>
               </div>
 
               {/* Description */}

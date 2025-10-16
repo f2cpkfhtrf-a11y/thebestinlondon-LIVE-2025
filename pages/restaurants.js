@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { theme } from '../utils/theme';
 import FSABadge from '../components/FSABadge';
+import BestOfLondonBadge from '../components/BestOfLondonBadge';
 
 export default function Restaurants({ venues, stats }) {
   const [filter, setFilter] = useState('all');
@@ -737,26 +738,37 @@ export default function Restaurants({ venues, stats }) {
                           </p>
                         )}
 
-                        {/* Footer - Rating & Reviews */}
+                        {/* Footer - Scores & Reviews */}
                         <div style={{
                           display: 'flex',
-                          justifyContent: 'space-between',
-                          alignItems: 'center',
+                          flexDirection: 'column',
+                          gap: '12px',
                           paddingTop: '16px',
                           borderTop: `1px solid ${theme.colors.border.subtle}`
                         }}>
-                          {venue.rating && (
-                            <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                              <span style={{ color: theme.colors.accent.gold, fontSize: '18px' }}>★</span>
-                              <span style={{
-                                color: theme.colors.text.primary,
-                                fontSize: '18px',
-                                fontWeight: 700
-                              }}>
-                                {venue.rating.toFixed(1)}
-                              </span>
-                            </div>
-                          )}
+                          {/* Best of London Score + Google Rating */}
+                          <div style={{
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'space-between',
+                            flexWrap: 'wrap',
+                            gap: '8px'
+                          }}>
+                            <BestOfLondonBadge venue={venue} size="medium" />
+                            {venue.rating && (
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                                <span style={{ color: theme.colors.accent.gold, fontSize: '16px' }}>★</span>
+                                <span style={{
+                                  color: theme.colors.text.primary,
+                                  fontSize: '16px',
+                                  fontWeight: 700
+                                }}>
+                                  {venue.rating.toFixed(1)}
+                                </span>
+                              </div>
+                            )}
+                          </div>
+                          {/* Review count */}
                           {venue.user_ratings_total && (
                             <span style={{
                               color: theme.colors.text.secondary,
