@@ -1,11 +1,9 @@
-# thebestinlondon.co.uk
+# BestOfLondon - thebestinlondon.co.uk
 User-agent: *
 Allow: /
 
-# Sitemaps
 Sitemap: https://thebestinlondon.co.uk/sitemap.xml
-Sitemap: https://thebestinlondon.co.uk/sitemap-pages.xml
-Sitemap: https://thebestinlondon.co.uk/sitemap-venues.xml
 
-# Crawl-delay
-Crawl-delay: 1
+# Disallow admin/internal pages
+Disallow: /api/
+Disallow: /admin/

@@ -1,84 +1,121 @@
+#!/usr/bin/env node
+
+/**
+ * SITEMAP GENERATOR - Automatic
+ * Generates all sitemaps for SEO
+ */
+
 const fs = require('fs');
 const path = require('path');
 
+console.log('\n🗺️  SITEMAP GENERATOR\n');
+console.log('═'.repeat(70) + '\n');
+
+const ROOT = path.join(__dirname, '..');
+const VENUES_PATH = path.join(ROOT, 'public/venues.json');
+const SITE_URL = 'https://thebestinlondon.co.uk';
+
 // Load venues
-const venuesPath = path.join(__dirname, '../public/venues.json');
-const venues = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
+const data = JSON.parse(fs.readFileSync(VENUES_PATH, 'utf-8'));
+const venues = data.venues || [];
 
-console.log(`\n🗺️  Generating sitemaps for ${venues.length} venues...\n`);
+console.log(`📊 Found ${venues.length} venues\n`);
 
-// 1. SITEMAP FOR STATIC PAGES
+// 1. Sitemap for static pages
 const staticPages = [
-  { url: '', changefreq: 'daily', priority: '1.0' },
-  { url: 'restaurants', changefreq: 'daily', priority: '0.9' },
-  { url: 'bars', changefreq: 'weekly', priority: '0.8' },
-  { url: 'cafes', changefreq: 'weekly', priority: '0.8' },
+  { url: '/', priority: 1.0, changefreq: 'daily' },
+  { url: '/restaurants', priority: 0.9, changefreq: 'daily' },
+  { url: '/indian-restaurants-london', priority: 0.8, changefreq: 'weekly' },
+  { url: '/best-halal-restaurants-london', priority: 0.8, changefreq: 'weekly' },
+  { url: '/japanese-restaurants-london', priority: 0.7, changefreq: 'weekly' },
+  { url: '/italian-restaurants-london', priority: 0.7, changefreq: 'weekly' },
+  { url: '/chinese-restaurants-london', priority: 0.7, changefreq: 'weekly' },
+  { url: '/thai-restaurants-london', priority: 0.7, changefreq: 'weekly' },
+  { url: '/best-cafes-london', priority: 0.7, changefreq: 'weekly' },
+  { url: '/about', priority: 0.5, changefreq: 'monthly' },
+  { url: '/contact', priority: 0.5, changefreq: 'monthly' }
 ];
 
-const sitemapPages = `<?xml version="1.0" encoding="UTF-8"?>
+let staticSitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${staticPages.map(page => `  <url>
-    <loc>https://thebestinlondon.co.uk/${page.url}</loc>
-    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
+`;
+
+staticPages.forEach(page => {
+  staticSitemap += `  <url>
+    <loc>${SITE_URL}${page.url}</loc>
     <changefreq>${page.changefreq}</changefreq>
     <priority>${page.priority}</priority>
-  </url>`).join('\n')}
-</urlset>`;
+    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
+  </url>
+`;
+});
 
-fs.writeFileSync(path.join(__dirname, '../public/sitemap-pages.xml'), sitemapPages);
+staticSitemap += `</urlset>`;
+
+fs.writeFileSync(path.join(ROOT, 'public/sitemap-pages.xml'), staticSitemap);
 console.log('✅ sitemap-pages.xml created');
 
-// 2. SITEMAP FOR VENUES
-const sitemapVenues = `<?xml version="1.0" encoding="UTF-8"?>
+// 2. Sitemap for venues
+let venuesSitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${venues.map(venue => `  <url>
-    <loc>https://thebestinlondon.co.uk/restaurant/${venue.slug}</loc>
-    <lastmod>${venue.lastVerified || new Date().toISOString().split('T')[0]}</lastmod>
+`;
+
+venues.forEach(venue => {
+  venuesSitemap += `  <url>
+    <loc>${SITE_URL}/restaurant/${venue.slug}</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>`).join('\n')}
-</urlset>`;
+    <priority>0.8</priority>
+    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
+  </url>
+`;
+});
 
-fs.writeFileSync(path.join(__dirname, '../public/sitemap-venues.xml'), sitemapVenues);
-console.log(`✅ sitemap-venues.xml created (${venues.length} venues)`);
+venuesSitemap += `</urlset>`;
 
-// 3. SITEMAP INDEX
+fs.writeFileSync(path.join(ROOT, 'public/sitemap-venues.xml'), venuesSitemap);
+console.log('✅ sitemap-venues.xml created');
+
+// 3. Sitemap index
 const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://thebestinlondon.co.uk/sitemap-pages.xml</loc>
+    <loc>${SITE_URL}/sitemap-pages.xml</loc>
     <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://thebestinlondon.co.uk/sitemap-venues.xml</loc>
+    <loc>${SITE_URL}/sitemap-venues.xml</loc>
     <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
   </sitemap>
 </sitemapindex>`;
 
-fs.writeFileSync(path.join(__dirname, '../public/sitemap.xml'), sitemapIndex);
+fs.writeFileSync(path.join(ROOT, 'public/sitemap.xml'), sitemapIndex);
 console.log('✅ sitemap.xml (index) created');
 
-// 4. ROBOTS.TXT
-const robotsTxt = `# thebestinlondon.co.uk
+// 4. robots.txt
+const robotsTxt = `# BestOfLondon - thebestinlondon.co.uk
 User-agent: *
 Allow: /
 
-# Sitemaps
-Sitemap: https://thebestinlondon.co.uk/sitemap.xml
-Sitemap: https://thebestinlondon.co.uk/sitemap-pages.xml
-Sitemap: https://thebestinlondon.co.uk/sitemap-venues.xml
+Sitemap: ${SITE_URL}/sitemap.xml
 
-# Crawl-delay
-Crawl-delay: 1
+# Disallow admin/internal pages
+Disallow: /api/
+Disallow: /admin/
 `;
 
-fs.writeFileSync(path.join(__dirname, '../public/robots.txt'), robotsTxt);
-console.log('✅ robots.txt created');
+fs.writeFileSync(path.join(ROOT, 'public/robots.txt'), robotsTxt);
+console.log('✅ robots.txt created\n');
 
-console.log('\n🎉 All SEO files generated!\n');
-console.log('📁 Files created:');
-console.log('   - /public/sitemap.xml (index)');
-console.log('   - /public/sitemap-pages.xml (4 static pages)');
-console.log(`   - /public/sitemap-venues.xml (${venues.length} venues)`);
-console.log('   - /public/robots.txt');
-console.log('');
+console.log('═'.repeat(70));
+console.log('\n📊 SUMMARY:\n');
+console.log(`   Static pages: ${staticPages.length}`);
+console.log(`   Venue pages: ${venues.length}`);
+console.log(`   Total URLs: ${staticPages.length + venues.length}`);
+console.log(`\n   Files created:`);
+console.log(`   - public/sitemap.xml (index)`);
+console.log(`   - public/sitemap-pages.xml`);
+console.log(`   - public/sitemap-venues.xml`);
+console.log(`   - public/robots.txt\n`);
+console.log('═'.repeat(70) + '\n');
+
+console.log('✅ Sitemaps ready for search engines!\n');
