@@ -1,9 +1,20 @@
-# BestOfLondon - thebestinlondon.co.uk
+# Allow all bots
 User-agent: *
 Allow: /
 
-Sitemap: https://thebestinlondon.co.uk/sitemap.xml
-
-# Disallow admin/internal pages
+# Disallow admin/test pages  
 Disallow: /api/
-Disallow: /admin/
+Disallow: /test-data
+Disallow: /seo-demo
+
+# Sitemaps
+Sitemap: https://thebestinlondon.co.uk/sitemap.xml
+Sitemap: https://thebestinlondon.co.uk/sitemap-venues.xml
+Sitemap: https://thebestinlondon.co.uk/sitemap-pages.xml
+
+# Crawl-delay for specific bots
+User-agent: Googlebot
+Crawl-delay: 0
+
+User-agent: Bingbot
+Crawl-delay: 1

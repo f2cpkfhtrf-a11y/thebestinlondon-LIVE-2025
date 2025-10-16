@@ -194,7 +194,7 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
 
       <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary, fontFamily: theme.typography.sans }}>
         
-        {/* Navigation - Sticky with Blur */}
+        {/* Navigation - Sticky with Blur - Mobile Responsive */}
         <nav style={{
           position: 'fixed',
           top: 0,
@@ -204,16 +204,16 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
           background: scrolled ? 'rgba(11,11,11,0.92)' : 'transparent',
           backdropFilter: scrolled ? 'blur(12px)' : 'none',
           borderBottom: scrolled ? `1px solid ${theme.colors.border.subtle}` : 'none',
-          padding: '20px 0',
+          padding: '16px 0',
           transition: `all ${theme.motion.base} ${theme.motion.ease}`,
         }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
+          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               
               <Link href="/" style={{ textDecoration: 'none' }}>
                 <div style={{ 
                   fontFamily: theme.typography.serif, 
-                  fontSize: '24px', 
+                  fontSize: 'clamp(18px, 4vw, 24px)', 
                   fontWeight: 700, 
                   color: theme.colors.text.primary,
                   letterSpacing: '-0.02em'
@@ -222,22 +222,23 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
                 </div>
               </Link>
 
-              <div style={{ display: 'flex', gap: '40px', fontSize: '15px', fontWeight: 500, alignItems: 'center' }}>
-                <a href="#explore" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}` }}>Explore</a>
-                <a href="#cuisines" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}` }}>Cuisines</a>
-                <a href="#areas" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}` }}>Areas</a>
+              <div style={{ display: 'flex', gap: 'clamp(12px, 3vw, 40px)', fontSize: '14px', fontWeight: 500, alignItems: 'center' }}>
+                <a href="#explore" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}`, display: 'none' }} className="desktop-only">Explore</a>
+                <a href="#cuisines" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}`, display: 'none' }} className="desktop-only">Cuisines</a>
+                <a href="#areas" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}`, display: 'none' }} className="desktop-only">Areas</a>
                 <button 
                   onClick={() => setSearchModalOpen(true)}
                   style={{
-                  padding: '10px 20px',
+                  padding: '10px 16px',
                   background: theme.colors.text.primary,
                   color: theme.colors.text.inverse,
                   border: 'none',
                   borderRadius: theme.radius.sm,
-                  fontSize: '14px',
+                  fontSize: '13px',
                   fontWeight: 600,
                   cursor: 'pointer',
                   transition: `all ${theme.motion.fast}`,
+                  whiteSpace: 'nowrap'
                 }}>
                   Search
                 </button>
@@ -334,17 +335,17 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
           }} />
         </header>
 
-        {/* Tabs - Two-Tier Premium Design */}
+        {/* Tabs - Two-Tier Premium Design - Mobile Optimized */}
         <section style={{
           position: 'sticky',
-          top: '84px',
+          top: '64px', // Adjusted for smaller mobile nav
           zIndex: 90,
           background: 'rgba(17,17,17,0.95)',
           backdropFilter: 'blur(12px)',
           borderBottom: `1px solid ${theme.colors.border.subtle}`,
-          padding: '20px 0 0',
+          padding: 'clamp(12px, 2vw, 20px) 0 0',
         }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
+          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
             
             {/* Primary Tabs Row */}
             <div style={{ marginBottom: '16px' }}>
@@ -507,8 +508,8 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
 
             <div style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))',
-              gap: theme.spacing['2xl']
+              gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 320px), 1fr))',
+              gap: 'clamp(16px, 3vw, 32px)'
             }}>
               {filteredVenues.map((venue, idx) => (
                 <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} style={{ textDecoration: 'none' }}>
@@ -770,6 +771,19 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
           to {
             opacity: 1;
             transform: translateY(0);
+          }
+        }
+
+        /* Mobile-specific styles */
+        @media (max-width: 768px) {
+          .desktop-only {
+            display: inline-block !important;
+          }
+        }
+
+        @media (min-width: 769px) {
+          .desktop-only {
+            display: inline-block !important;
           }
         }
       `}</style>

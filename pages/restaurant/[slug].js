@@ -131,7 +131,7 @@ export default function VenueDetailPage({ venue }) {
         </nav>
 
         {/* Hero Image */}
-        <div style={{ position: 'relative', height: '400px', background: '#1A1A1A' }}>
+        <div style={{ position: 'relative', height: 'clamp(250px, 40vh, 400px)', background: '#1A1A1A' }}>
           {venue.photos && venue.photos[0] ? (
             <img 
               src={venue.photos[0].url}
@@ -152,8 +152,8 @@ export default function VenueDetailPage({ venue }) {
         </div>
 
         {/* Main Content */}
-        <main style={{ maxWidth: '1200px', margin: '0 auto', padding: '48px 20px' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: '48px' }}>
+        <main style={{ maxWidth: '1200px', margin: '0 auto', padding: 'clamp(24px, 5vw, 48px) clamp(16px, 3vw, 20px)' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 300px), 1fr))', gap: 'clamp(24px, 5vw, 48px)' }}>
             
             {/* Left Column */}
             <div>
@@ -313,7 +313,7 @@ export default function VenueDetailPage({ venue }) {
 
             {/* Right Column - CTAs */}
             <div>
-              <div style={{ position: 'sticky', top: '100px' }}>
+              <div style={{ position: 'relative' }} className="sidebar-sticky">
                 <div style={{ background: '#1A1A1A', padding: '24px', borderRadius: '12px', border: '1px solid #2A2A2A', marginBottom: '16px' }}>
                   
                   <a href={`https://www.google.com/maps/place/?q=place_id:${venue.place_id}`} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
@@ -397,6 +397,15 @@ export default function VenueDetailPage({ venue }) {
         </footer>
 
       </div>
+
+      <style jsx global>{`
+        @media (min-width: 1024px) {
+          .sidebar-sticky {
+            position: sticky !important;
+            top: 100px;
+          }
+        }
+      `}</style>
     </>
   );
 }

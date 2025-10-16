@@ -1,294 +1,206 @@
-// JAPANESE RESTAURANTS IN LONDON
-import { useState, useMemo } from 'react';
+import { useState, useEffect } from 'react';
 import Head from 'next/head';
-import ComparisonTool from '../components/ComparisonTool';
-
-export async function getStaticProps() {
-  const fs = require('fs');
-  const path = require('path');
-  
-  try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    const allVenues = JSON.parse(fileContent);
-    
-    const japaneseVenues = allVenues
-      .filter(v => {
-        if (!v) return false;
-        const name = v.name?.toLowerCase() || '';
-        const types = (v.types || []).join(' ').toLowerCase();
-        
-        return types.includes('japanese') || 
-               name.includes('sushi') ||
-               name.includes('ramen') ||
-               name.includes('izakaya');
-      })
-      .map(v => {
-        const address = v.vicinity || v.formatted_address || '';
-        const areas = ['Shoreditch', 'Camden', 'Soho', 'Covent Garden', 'Canary Wharf'];
-        
-        let area = 'Central London';
-        for (const a of areas) {
-          if (address.toLowerCase().includes(a.toLowerCase())) {
-            area = a;
-            break;
-          }
-        }
-        
-        let priceEstimate = '';
-        if (v.price_level) {
-          const estimates = { 1: '£10-15', 2: '£15-25', 3: '£25-40', 4: '£40+' };
-          priceEstimate = estimates[v.price_level] || '';
-        }
-        
-        return { ...v, area, priceEstimate };
-      })
-      .sort((a, b) => (b.rating || 0) - (a.rating || 0));
-    
-    return { props: { venues: japaneseVenues }};
-  } catch (error) {
-    return { props: { venues: [] } };
-  }
-}
+import Link from 'next/link';
+import { theme } from '../utils/theme';
+import FSABadge from '../components/FSABadge';
 
 export default function JapaneseRestaurants({ venues }) {
-  const [searchTerm, setSearchTerm] = useState('');
-  const [sortBy, setSortBy] = useState('rating');
   const [filterArea, setFilterArea] = useState('all');
-  const [showComparison, setShowComparison] = useState(false);
-  
-  const filtered = useMemo(() => {
-    let result = venues.filter(v => {
-      const matchesSearch = !searchTerm || 
-        v.name?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        v.area?.toLowerCase().includes(searchTerm.toLowerCase());
-      const matchesArea = filterArea === 'all' || v.area === filterArea;
-      return matchesSearch && matchesArea;
-    });
+  const [sortBy, setSortBy] = useState('rating');
+  const [scrolled, setScrolled] = useState(false);
 
-    if (sortBy === 'rating') result.sort((a, b) => (b.rating || 0) - (a.rating || 0));
-    else if (sortBy === 'reviews') result.sort((a, b) => (b.user_ratings_total || 0) - (a.user_ratings_total || 0));
+  useEffect(() => {
+    const handleScroll = () => setScrolled(window.scrollY > 50);
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
-    return result;
-  }, [venues, searchTerm, sortBy, filterArea]);
-
-  const areas = useMemo(() => {
-    const areaSet = new Set(venues.map(v => v.area).filter(Boolean));
-    return ['all', ...Array.from(areaSet).sort()];
-  }, [venues]);
+  const areas = ['all', ...new Set(venues.map(v => v.area).filter(Boolean))].slice(0, 15);
+  let filtered = filterArea === 'all' ? venues : venues.filter(v => v.area === filterArea);
+  const sorted = [...filtered].sort((a, b) => {
+    if (sortBy === 'rating') return (b.rating || 0) - (a.rating || 0);
+    if (sortBy === 'reviews') return (b.user_ratings_total || 0) - (a.user_ratings_total || 0);
+    return 0;
+  });
 
   return (
     <>
       <Head>
-        <title>Best {venues.length} Japanese Restaurants London 2025 | Sushi & Ramen</title>
-        <meta name="description" content={`Discover ${venues.length} top-rated Japanese restaurants in London. Sushi, ramen, izakaya and more. Real photos, ratings & prices.`} />
+        <title>Best Japanese Restaurants in London 2025 | Sushi & Ramen | The Best in London</title>
+        <meta name="description" content={`Discover ${venues.length} top-rated Japanese restaurants in London. Sushi, ramen, izakaya and more.`} />
         <link rel="canonical" href="https://thebestinlondon.co.uk/japanese-restaurants-london" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: '#fafafa' }}>
-        <header style={{ 
-          background: 'linear-gradient(135deg, #dc2626 0%, #7f1d1d 100%)', 
-          color: 'white', 
-          padding: '60px 20px 50px',
-          boxShadow: '0 4px 20px rgba(220, 38, 38, 0.3)'
+      <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary }}>
+        <nav style={{
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          right: 0,
+          zIndex: 100,
+          background: scrolled ? 'rgba(11,11,11,0.92)' : 'transparent',
+          backdropFilter: scrolled ? 'blur(12px)' : 'none',
+          borderBottom: scrolled ? `1px solid ${theme.colors.border.subtle}` : 'none',
+          padding: '16px 0',
+          transition: `all ${theme.motion.base} ${theme.motion.ease}`,
         }}>
-          <div style={{ maxWidth: '1400px', margin: '0 auto' }}>
-            <div style={{ fontSize: '64px', marginBottom: '16px' }}>🍣</div>
-            <h1 style={{ fontSize: 'clamp(32px, 5vw, 52px)', fontWeight: '800', margin: '0 0 16px 0' }}>
-              Best Japanese Restaurants in London
+          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <Link href="/" style={{ textDecoration: 'none' }}>
+                <div style={{ fontFamily: theme.typography.serif, fontSize: 'clamp(18px, 4vw, 24px)', fontWeight: 700, color: theme.colors.text.primary, letterSpacing: '-0.02em' }}>
+                  The Best in London
+                </div>
+              </Link>
+              <div style={{ display: 'flex', gap: 'clamp(16px, 3vw, 32px)', fontSize: '14px', fontWeight: 500 }}>
+                <Link href="/" style={{ color: theme.colors.text.secondary, textDecoration: 'none' }}>Home</Link>
+                <Link href="/restaurants" style={{ color: theme.colors.text.secondary, textDecoration: 'none' }}>Restaurants</Link>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+        <section style={{
+          position: 'relative',
+          minHeight: '500px',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          background: `linear-gradient(to bottom, rgba(11,11,11,0.5), rgba(11,11,11,0.75)), url('https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=2400&q=90')`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundAttachment: 'fixed',
+          padding: '140px 20px 80px',
+          textAlign: 'center'
+        }}>
+          <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, height: '120px', background: `linear-gradient(to bottom, transparent, ${theme.colors.bg.primary})` }} />
+          <div style={{ maxWidth: '900px', width: '100%', position: 'relative', zIndex: 1 }}>
+            <h1 style={{
+              fontFamily: theme.typography.serif,
+              fontSize: 'clamp(2.5rem, 6vw, 4rem)',
+              fontWeight: 700,
+              color: theme.colors.text.primary,
+              marginBottom: theme.spacing.lg,
+              letterSpacing: '-0.03em',
+              textShadow: '0 4px 20px rgba(0,0,0,0.8)'
+            }}>
+              Japanese Restaurants in London
             </h1>
-            <p style={{ fontSize: 'clamp(16px, 2.5vw, 20px)', opacity: 0.95, margin: '0 0 12px 0' }}>
-              {venues.length} authentic Japanese restaurants • Sushi • Ramen • Izakaya
+            <p style={{ fontSize: 'clamp(16px, 2vw, 19px)', color: 'rgba(250, 250, 250, 0.95)', marginBottom: theme.spacing['2xl'], lineHeight: 1.7, textShadow: '0 2px 12px rgba(0,0,0,0.6)' }}>
+              From omakase to izakaya — {venues.length} exceptional Japanese restaurants
             </p>
-            <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', fontSize: '14px', opacity: 0.9 }}>
-              <span>🍱 Omakase</span>
-              <span>⭐ 4.0+ Rated</span>
-              <span>💰 £20-50pp</span>
-              <span>📸 Real Photos</span>
+            <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '12px' }}>
+              <span style={{
+                background: 'rgba(11, 11, 11, 0.75)',
+                backdropFilter: 'blur(12px)',
+                border: `1px solid rgba(212, 175, 55, 0.4)`,
+                color: theme.colors.accent.gold,
+                padding: '10px 24px',
+                borderRadius: '999px',
+                fontSize: '14px',
+                fontWeight: 600
+              }}>{venues.length} Venues</span>
+              <span style={{
+                background: 'rgba(11, 11, 11, 0.75)',
+                backdropFilter: 'blur(12px)',
+                border: `1px solid rgba(212, 175, 55, 0.4)`,
+                color: theme.colors.accent.gold,
+                padding: '10px 24px',
+                borderRadius: '999px',
+                fontSize: '14px',
+                fontWeight: 600
+              }}>🍱 Sushi • 🍜 Ramen • 🏮 Izakaya</span>
             </div>
           </div>
-        </header>
+        </section>
 
-        <div style={{ maxWidth: '1400px', margin: '-30px auto 40px', padding: '0 20px', position: 'relative', zIndex: 10 }}>
-          <div style={{ background: 'white', borderRadius: '16px', padding: '24px', boxShadow: '0 10px 40px rgba(0,0,0,0.12)' }}>
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr auto auto auto', gap: '12px' }}>
-              <input
-                type="text"
-                placeholder="Search Japanese restaurants..."
-                value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                style={{
-                  padding: '14px 20px',
-                  fontSize: '16px',
-                  border: '2px solid #e5e7eb',
-                  borderRadius: '10px',
-                  outline: 'none'
-                }}
-              />
-              <select value={filterArea} onChange={(e) => setFilterArea(e.target.value)}
-                style={{ padding: '14px 16px', fontSize: '16px', border: '2px solid #e5e7eb', borderRadius: '10px' }}>
-                {areas.map(area => <option key={area} value={area}>{area === 'all' ? 'All Areas' : area}</option>)}
-              </select>
-              <select value={sortBy} onChange={(e) => setSortBy(e.target.value)}
-                style={{ padding: '14px 16px', fontSize: '16px', border: '2px solid #e5e7eb', borderRadius: '10px' }}>
-                <option value="rating">⭐ Highest Rated</option>
-                <option value="reviews">💬 Most Reviews</option>
-              </select>
-              <button onClick={() => setShowComparison(!showComparison)}
-                style={{
-                  padding: '14px 20px',
-                  background: showComparison ? '#dc2626' : 'white',
-                  color: showComparison ? 'white' : '#dc2626',
-                  border: `2px solid #dc2626`,
-                  borderRadius: '10px',
-                  fontWeight: '600',
-                  cursor: 'pointer'
-                }}>
-                {showComparison ? '✓ Compare' : '🔍 Compare'}
-              </button>
+        <section style={{ background: theme.colors.bg.elevated, padding: '20px 0', borderBottom: `1px solid ${theme.colors.border.subtle}`, position: 'sticky', top: '64px', zIndex: 90 }}>
+          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px' }}>
+              <div style={{ color: theme.colors.text.secondary, fontSize: '14px' }}>
+                Showing <strong style={{ color: theme.colors.text.primary }}>{sorted.length}</strong> Japanese restaurants
+              </div>
+              <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
+                <select value={filterArea} onChange={(e) => setFilterArea(e.target.value)} style={{ background: theme.colors.bg.primary, color: theme.colors.text.primary, border: `1px solid ${theme.colors.border.subtle}`, borderRadius: '8px', padding: '10px 16px', fontSize: '14px', cursor: 'pointer' }}>
+                  <option value="all">All Areas</option>
+                  {areas.filter(a => a !== 'all').map(area => <option key={area} value={area}>{area}</option>)}
+                </select>
+                <select value={sortBy} onChange={(e) => setSortBy(e.target.value)} style={{ background: theme.colors.bg.primary, color: theme.colors.text.primary, border: `1px solid ${theme.colors.border.subtle}`, borderRadius: '8px', padding: '10px 16px', fontSize: '14px', cursor: 'pointer' }}>
+                  <option value="rating">⭐ Highest Rated</option>
+                  <option value="reviews">💬 Most Reviews</option>
+                </select>
+              </div>
             </div>
           </div>
-        </div>
+        </section>
 
-        <main style={{ maxWidth: '1400px', margin: '0 auto', padding: '0 20px 60px' }}>
-          {showComparison && <ComparisonTool venues={filtered} />}
-          
-          <p style={{ fontSize: '16px', color: '#6b7280', marginBottom: '24px' }}>
-            <strong style={{ color: '#dc2626' }}>{filtered.length}</strong> of {venues.length} restaurants
-          </p>
-
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(380px, 1fr))', gap: '24px' }}>
-            {filtered.map((venue, idx) => (
-              <article key={venue.place_id} style={{
-                background: 'white',
-                borderRadius: '20px',
-                overflow: 'hidden',
-                boxShadow: '0 2px 12px rgba(0,0,0,0.08)',
-                transition: 'all 0.3s'
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.transform = 'translateY(-8px)';
-                e.currentTarget.style.boxShadow = '0 20px 40px rgba(0,0,0,0.15)';
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.transform = 'translateY(0)';
-                e.currentTarget.style.boxShadow = '0 2px 12px rgba(0,0,0,0.08)';
-              }}>
-                <div style={{ height: '220px', position: 'relative', background: '#dc2626' }}>
-                  {venue.photos?.[0] && (
-                    <img 
-                      src={`https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=800&q=80`}
-                      alt={venue.name}
-                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-                    />
-                  )}
-                  
-                  {idx < 3 && (
-                    <div style={{
-                      position: 'absolute',
-                      top: '16px',
-                      right: '16px',
-                      background: idx === 0 ? '#fbbf24' : idx === 1 ? '#d1d5db' : '#cd7f32',
-                      color: 'white',
-                      padding: '6px 14px',
-                      borderRadius: '20px',
-                      fontWeight: 'bold',
-                      fontSize: '13px',
-                      boxShadow: '0 4px 12px rgba(0,0,0,0.3)'
-                    }}>
-                      #{idx + 1}
-                    </div>
-                  )}
-
-                  {venue.area && (
-                    <div style={{
-                      position: 'absolute',
-                      bottom: '12px',
-                      left: '12px',
-                      background: 'rgba(255,255,255,0.95)',
-                      color: '#dc2626',
-                      padding: '6px 12px',
-                      borderRadius: '20px',
-                      fontSize: '12px',
-                      fontWeight: '600'
-                    }}>
-                      📍 {venue.area}
-                    </div>
-                  )}
-                </div>
-
-                <div style={{ padding: '24px' }}>
-                  <h2 style={{ fontSize: '22px', fontWeight: '700', margin: '0 0 8px 0', color: '#111827' }}>
-                    {venue.name}
-                  </h2>
-                  
-                  <p style={{ color: '#6b7280', fontSize: '14px', margin: '0 0 16px 0' }}>
-                    {venue.vicinity}
-                  </p>
-
-                  {venue.rating && (
-                    <div style={{ 
-                      display: 'flex', 
-                      alignItems: 'center', 
-                      justifyContent: 'space-between', 
-                      marginBottom: '16px', 
-                      padding: '12px', 
-                      background: '#fef3c7', 
-                      borderRadius: '12px' 
-                    }}>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                        <span style={{ color: '#fbbf24', fontSize: '20px' }}>★</span>
-                        <span style={{ fontSize: '18px', fontWeight: '700' }}>{venue.rating}</span>
-                      </div>
-                      {venue.user_ratings_total && (
-                        <span style={{ color: '#6b7280', fontSize: '13px' }}>
-                          {venue.user_ratings_total.toLocaleString()} reviews
-                        </span>
+        <section style={{ padding: 'clamp(2rem, 5vw, 4rem) 0' }}>
+          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 clamp(16px, 3vw, 20px)' }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 320px), 1fr))', gap: 'clamp(20px, 3vw, 24px)' }}>
+              {sorted.map((venue) => (
+                <Link href={`/restaurant/${venue.slug}`} key={venue.place_id} style={{ textDecoration: 'none' }}>
+                  <article style={{ background: theme.colors.bg.elevated, border: `1px solid ${theme.colors.border.subtle}`, borderRadius: '16px', overflow: 'hidden', transition: 'all 0.3s ease', cursor: 'pointer', height: '100%' }} className="venue-card">
+                    <div style={{ position: 'relative', width: '100%', height: '220px', background: theme.colors.bg.primary }}>
+                      {venue.photos?.[0] ? (
+                        <img src={venue.photos[0].url} alt={venue.name} style={{ width: '100%', height: '100%', objectFit: 'cover', transition: 'transform 0.4s ease' }} className="venue-image" />
+                      ) : (
+                        <div style={{ width: '100%', height: '100%', background: 'linear-gradient(135deg, #1A1A1A 0%, #2A2A2A 100%)', display: 'flex', alignItems: 'center', justifyContent: 'center', color: theme.colors.text.secondary }}>No image</div>
                       )}
+                      {venue.fsa_rating && <div style={{ position: 'absolute', top: '12px', right: '12px' }}><FSABadge rating={venue.fsa_rating} size="large" variant="card" showLabel={false} /></div>}
+                      {venue.rating >= 4.7 && <div style={{ position: 'absolute', top: '12px', left: '12px', background: theme.colors.accent.gold, color: theme.colors.text.inverse, padding: '6px 12px', borderRadius: '8px', fontSize: '12px', fontWeight: 700 }}>⭐ Top Rated</div>}
                     </div>
-                  )}
-
-                  {venue.priceEstimate && (
-                    <div style={{ 
-                      marginBottom: '18px', 
-                      padding: '10px 12px', 
-                      background: '#fee2e2', 
-                      borderRadius: '10px',
-                      display: 'flex',
-                      justifyContent: 'space-between'
-                    }}>
-                      <span style={{ color: '#b91c1c', fontWeight: '700', fontSize: '15px' }}>
-                        💰 {venue.priceEstimate}pp
-                      </span>
-                      <span style={{ color: '#dc2626', fontSize: '14px', fontWeight: '600' }}>
-                        {'£'.repeat(venue.price_level || 2)}
-                      </span>
+                    <div style={{ padding: 'clamp(16px, 3vw, 20px)' }}>
+                      <h3 style={{ fontFamily: theme.typography.serif, fontSize: '20px', fontWeight: 700, color: theme.colors.text.primary, marginBottom: '8px', lineHeight: 1.3 }}>{venue.name}</h3>
+                      {venue.area && <div style={{ fontSize: '13px', color: theme.colors.text.secondary, marginBottom: '12px' }}>📍 {venue.area}</div>}
+                      <div style={{ display: 'flex', gap: '12px', marginBottom: '12px' }}>
+                        <span style={{ color: theme.colors.text.secondary, fontSize: '14px' }}>🍣 Japanese</span>
+                        {venue.price_level && <span style={{ color: theme.colors.accent.gold, fontSize: '14px', fontWeight: 700 }}>{'£'.repeat(venue.price_level)}</span>}
+                      </div>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', paddingTop: '16px', borderTop: `1px solid ${theme.colors.border.subtle}` }}>
+                        {venue.rating && (
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                            <span style={{ color: theme.colors.accent.gold, fontSize: '18px' }}>★</span>
+                            <span style={{ color: theme.colors.text.primary, fontSize: '18px', fontWeight: 700 }}>{venue.rating.toFixed(1)}</span>
+                          </div>
+                        )}
+                        {venue.user_ratings_total && <span style={{ color: theme.colors.text.secondary, fontSize: '13px' }}>{venue.user_ratings_total.toLocaleString()} reviews</span>}
+                      </div>
                     </div>
-                  )}
-
-                  <button
-                    onClick={() => window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(venue.name + ' ' + venue.vicinity)}`, '_blank')}
-                    style={{
-                      width: '100%',
-                      background: 'linear-gradient(135deg, #dc2626 0%, #7f1d1d 100%)',
-                      color: 'white',
-                      padding: '14px',
-                      borderRadius: '12px',
-                      fontSize: '15px',
-                      fontWeight: '600',
-                      border: 'none',
-                      cursor: 'pointer',
-                      boxShadow: '0 2px 8px rgba(220, 38, 38, 0.3)'
-                    }}
-                  >
-                    View Details →
-                  </button>
-                </div>
-              </article>
-            ))}
+                  </article>
+                </Link>
+              ))}
+            </div>
           </div>
-        </main>
+        </section>
+
+        <footer style={{ background: theme.colors.bg.primary, padding: `${theme.spacing['4xl']} 0 ${theme.spacing['2xl']}`, borderTop: `1px solid ${theme.colors.border.subtle}` }}>
+          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', textAlign: 'center' }}>
+            <p style={{ fontSize: '14px', color: theme.colors.text.secondary, margin: 0 }}>© 2025 The Best in London. All rights reserved.</p>
+          </div>
+        </footer>
       </div>
+
+      <style jsx>{`
+        .venue-card:hover { transform: translateY(-4px); border-color: ${theme.colors.accent.gold} !important; box-shadow: 0 12px 40px rgba(212, 175, 55, 0.2); }
+        .venue-card:hover .venue-image { transform: scale(1.05); }
+      `}</style>
     </>
   );
+}
+
+export async function getStaticProps() {
+  const fs = require('fs');
+  const path = require('path');
+  try {
+    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const fileContent = fs.readFileSync(filePath, 'utf8');
+    let allVenues = JSON.parse(fileContent);
+    if (!Array.isArray(allVenues) && allVenues.venues) allVenues = allVenues.venues;
+    const venues = allVenues.filter(v => v && (v.cuisines?.some(c => c.toLowerCase().includes('japanese')) || v.name?.toLowerCase().includes('japanese') || v.name?.toLowerCase().includes('sushi') || v.name?.toLowerCase().includes('ramen'))).sort((a, b) => (b.rating || 0) - (a.rating || 0));
+    return { props: { venues }};
+  } catch (error) {
+    return { props: { venues: [] } };
+  }
 }
