@@ -7,6 +7,21 @@ export default function Document() {
         {/* Google Search Console Verification */}
         <meta name="google-site-verification" content="JXlXLBYM0IKbIxKjsGtl2p5YG3vguJ2Nuxie2muNDIY" />
         
+        {/* Google Analytics 4 */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9XD4NQSM99"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-9XD4NQSM99', {
+                page_path: window.location.pathname,
+              });
+            `,
+          }}
+        />
+        
         {/* DNS Prefetch & Preconnect for Performance */}
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         <link rel="dns-prefetch" href="https://maps.googleapis.com" />
