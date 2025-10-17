@@ -302,17 +302,30 @@ export default function HalalNearStationsIndex() {
                     )}
                   </div>
 
-                  <div style={{
-                    fontSize: '0.875rem',
-                    color: theme.colors.accent.gold,
-                    textAlign: 'center',
-                    padding: theme.spacing.sm,
-                    background: `${theme.colors.accent.gold}10`,
-                    borderRadius: '6px',
-                    marginTop: theme.spacing.sm
-                  }}>
-                    Coming soon: View restaurants
-                  </div>
+                  <Link 
+                    href={`/${station.slug}`}
+                    style={{
+                      display: 'block',
+                      fontSize: '0.875rem',
+                      color: theme.colors.accent.gold,
+                      textAlign: 'center',
+                      padding: theme.spacing.sm,
+                      background: `${theme.colors.accent.gold}10`,
+                      borderRadius: '6px',
+                      marginTop: theme.spacing.sm,
+                      textDecoration: 'none',
+                      fontWeight: 600,
+                      transition: 'all 0.2s'
+                    }}
+                    onMouseEnter={(e) => {
+                      e.target.style.background = `${theme.colors.accent.gold}20`;
+                    }}
+                    onMouseLeave={(e) => {
+                      e.target.style.background = `${theme.colors.accent.gold}10`;
+                    }}
+                  >
+                    View {station.count} Restaurants →
+                  </Link>
                 </div>
               ))}
             </div>
