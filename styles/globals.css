@@ -94,4 +94,27 @@
   .scrollbar-hide::-webkit-scrollbar {
     display: none;
   }
+  
+  /* Mobile-specific improvements */
+  .mobile-padding {
+    @apply px-4 sm:px-6 lg:px-8;
+  }
+  
+  .mobile-text {
+    @apply text-base leading-relaxed;
+  }
+  
+  .mobile-heading {
+    @apply text-2xl sm:text-3xl lg:text-4xl;
+  }
+  
+  /* Touch-friendly buttons */
+  .touch-target {
+    @apply min-h-[44px] min-w-[44px];
+  }
+  
+  /* Mobile navigation spacing */
+  .mobile-nav-spacing {
+    @apply pb-16 lg:pb-0;
+  }
 }
