@@ -1,13 +1,97 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=DM+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background-color: #0E0E0E;
+    color: #F9F9F9;
+    line-height: 1.6;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #F9F9F9;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    font-weight: 700;
+  }
+  
+  h2 {
+    font-size: 2.25rem;
+    font-weight: 600;
+  }
+  
+  h3 {
+    font-size: 1.875rem;
+    font-weight: 600;
+  }
+  
+  button {
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
+  
+  nav {
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
 }
 
-* {
-  box-sizing: border-box;
+@layer components {
+  .btn-primary {
+    @apply bg-gold text-black font-nav font-semibold px-6 py-3 rounded-xl shadow-gold hover:shadow-gold-lg transition-all duration-300 hover:bg-gold-light transform hover:-translate-y-0.5;
+  }
+  
+  .btn-secondary {
+    @apply bg-transparent border-2 border-gold text-gold font-nav font-semibold px-6 py-3 rounded-xl hover:bg-gold hover:text-black transition-all duration-300;
+  }
+  
+  .card {
+    @apply bg-black-light border border-grey-dark rounded-2xl shadow-dark hover:shadow-dark-lg transition-all duration-300;
+  }
+  
+  .text-gradient {
+    @apply bg-gradient-to-r from-gold to-gold-light bg-clip-text text-transparent;
+  }
+  
+  .logo-container {
+    @apply flex items-center justify-center;
+  }
+  
+  .logo-text {
+    @apply font-serif font-bold text-gold text-2xl;
+  }
 }
 
-h1 {
-  color: #333;
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
 }
