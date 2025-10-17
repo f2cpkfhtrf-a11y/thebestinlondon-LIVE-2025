@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { theme } from '../../utils/theme';
+import { generateSEOTitle, generateSEODescription, generateStructuredData, generateBreadcrumbData } from '../../utils/seoOptimization';
 import FSABadge from '../../components/FSABadge';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 
@@ -100,10 +101,45 @@ export default function VenueDetailPage({ venue }) {
   return (
     <>
       <Head>
-        <title>{venue.name} | The Best in London</title>
-        <meta name="description" content={venue.description || `${venue.name} in London. ${venue.cuisines?.[0] || 'Restaurant'} with ${venue.rating || 'great'} rating.`} />
+        <title>{generateSEOTitle('restaurant', venue)}</title>
+        <meta name="description" content={generateSEODescription('restaurant', venue)} />
         <link rel="canonical" href={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        
+        {/* Open Graph Tags */}
+        <meta property="og:title" content={generateSEOTitle('restaurant', venue)} />
+        <meta property="og:description" content={generateSEODescription('restaurant', venue)} />
+        <meta property="og:type" content="restaurant" />
+        <meta property="og:url" content={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
+        <meta property="og:image" content={venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
+        <meta property="og:image:alt" content={`${venue.name} restaurant in ${venue.borough || 'London'}`} />
+        <meta property="og:site_name" content="The Best in London" />
+        
+        {/* Twitter Card Tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={generateSEOTitle('restaurant', venue)} />
+        <meta name="twitter:description" content={generateSEODescription('restaurant', venue)} />
+        <meta name="twitter:image" content={venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
+        <meta name="twitter:image:alt" content={`${venue.name} restaurant in ${venue.borough || 'London'}`} />
+        
+        {/* Additional SEO Meta Tags */}
+        <meta name="keywords" content={`${venue.name}, ${venue.cuisines?.join(', ') || 'restaurant'}, ${venue.borough || 'London'}, restaurant reviews, FSA rating, halal restaurant`} />
+        <meta name="robots" content="index, follow" />
+        <meta name="author" content="The Best in London" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        {/* Structured Data */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(generateStructuredData('restaurant', venue)) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(generateBreadcrumbData([
+          { name: 'Home', url: 'https://thebestinlondon.co.uk' },
+          { name: 'Restaurants', url: 'https://thebestinlondon.co.uk/restaurants' },
+          { name: venue.cuisines?.[0] || 'Restaurants', url: `https://thebestinlondon.co.uk/${venue.cuisines?.[0]?.toLowerCase().replace(/\s+/g, '-')}` },
+          { name: venue.name, url: `https://thebestinlondon.co.uk/restaurant/${venue.slug}` }
+        ])) }} />
+        
+        {/* Preconnect to external domains */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
       <div style={{ minHeight: '100vh', background: '#0B0B0B', color: '#FAFAFA' }}>
