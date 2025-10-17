@@ -134,14 +134,19 @@ export default function VenueDetailPage({ venue }) {
         {/* Hero Image */}
         <div style={{ 
           position: 'relative', 
-          height: 'clamp(250px, 40vh, 400px)', 
-          background: venue.fallback_image?.value || 'linear-gradient(135deg, rgba(212,175,55,0.2) 0%, rgba(11,11,11,0.9) 100%)'
+          height: 'clamp(300px, 50vh, 500px)', 
+          background: 'linear-gradient(135deg, rgba(11,11,11,0.8) 0%, rgba(11,11,11,0.4) 100%)'
         }}>
           {venue.photos && venue.photos[0] && venue.photos[0].url ? (
             <img 
               src={venue.photos[0].url}
-              alt={venue.name}
-              style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+              alt={`${venue.name} restaurant in London`}
+              style={{ 
+                width: '100%', 
+                height: '100%', 
+                objectFit: 'cover',
+                filter: 'brightness(0.9)'
+              }}
               onError={(e) => {
                 e.target.style.display = 'none';
               }}
@@ -155,13 +160,49 @@ export default function VenueDetailPage({ venue }) {
               alignItems: 'center', 
               justifyContent: 'center', 
               gap: '16px',
-              color: '#9AA0A6' 
+              color: '#9AA0A6',
+              background: 'linear-gradient(135deg, rgba(212,175,55,0.1) 0%, rgba(11,11,11,0.9) 100%)'
             }}>
-              <div style={{ fontSize: '64px', opacity: 0.4 }}>🍽️</div>
-              <p style={{ fontSize: '18px', opacity: 0.6 }}>{venue.cuisines?.[0] || 'Restaurant'}</p>
+              <div style={{ fontSize: '64px', opacity: 0.6 }}>🍽️</div>
+              <p style={{ fontSize: '18px', opacity: 0.8 }}>{venue.cuisines?.[0] || 'Restaurant'}</p>
             </div>
           )}
           
+          {/* Overlay with restaurant name */}
+          <div style={{
+            position: 'absolute',
+            bottom: 0,
+            left: 0,
+            right: 0,
+            background: 'linear-gradient(transparent, rgba(11,11,11,0.9))',
+            padding: '40px 20px 20px',
+            color: '#FAFAFA'
+          }}>
+            <h1 style={{
+              fontFamily: 'Playfair Display, serif',
+              fontSize: 'clamp(32px, 5vw, 48px)',
+              fontWeight: 700,
+              letterSpacing: '-0.02em',
+              margin: 0,
+              textShadow: '0 2px 4px rgba(0,0,0,0.5)'
+            }}>
+              {venue.name}
+            </h1>
+            <div style={{ 
+              display: 'flex', 
+              gap: '16px', 
+              fontSize: '16px', 
+              color: '#D4AF37', 
+              marginTop: '8px',
+              flexWrap: 'wrap'
+            }}>
+              {venue.cuisines?.[0] && <span style={{ textTransform: 'capitalize' }}>{venue.cuisines[0]}</span>}
+              {venue.price_level && <span>{'£'.repeat(venue.price_level)}</span>}
+              {venue.dietary_tags?.halal && <span>☪️ Halal</span>}
+            </div>
+          </div>
+          
+          {/* FSA Badge */}
           {venue.fsa_rating && (
             <div style={{ position: 'absolute', top: '24px', right: '24px' }}>
               <FSABadge rating={venue.fsa_rating} size="hero" variant="card" />
@@ -197,41 +238,47 @@ export default function VenueDetailPage({ venue }) {
                   </div>
                 )}
                 
-                <h1 style={{
-                  fontFamily: 'Playfair Display, serif',
-                  fontSize: '48px',
-                  fontWeight: 700,
-                  letterSpacing: '-0.03em',
-                  marginTop: '16px',
-                  marginBottom: '16px',
-                  color: '#FAFAFA'
-                }}>
-                  {venue.name}
-                </h1>
-                
-                {/* Meta Info */}
-                <div style={{ display: 'flex', gap: '16px', fontSize: '16px', color: '#9AA0A6', marginBottom: '24px', flexWrap: 'wrap' }}>
-                  {venue.cuisines?.[0] && <span style={{ textTransform: 'capitalize' }}>{venue.cuisines[0]}</span>}
-                  {venue.price_level && <span>{'£'.repeat(venue.price_level)}</span>}
-                </div>
-                
-                {/* Ratings */}
+                {/* Ratings Section */}
                 <div style={{ marginBottom: '32px' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '16px', flexWrap: 'wrap' }}>
                     {/* Best of London Score */}
-                    <BestOfLondonBadge venue={venue} size="large" />
+                    <BestOfLondonBadge venue={venue} size="large" showExplanation={true} />
                     {/* Google Rating */}
                     {venue.rating && (
                       <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                         <span style={{ color: '#D4AF37', fontSize: '28px' }}>★</span>
                         <span style={{ fontSize: '28px', fontWeight: 700 }}>{venue.rating.toFixed(1)}</span>
+                        <span style={{ color: '#9AA0A6', fontSize: '14px' }}>Google</span>
                       </div>
                     )}
                   </div>
                   {venue.user_ratings_total && (
-                    <span style={{ color: '#9AA0A6', fontSize: '15px' }}>
+                    <div style={{ color: '#9AA0A6', fontSize: '15px', marginBottom: '16px' }}>
                       {venue.user_ratings_total.toLocaleString()} Google reviews
-                    </span>
+                    </div>
+                  )}
+                  
+                  {/* Additional Photo Gallery */}
+                  {venue.photos && venue.photos.length > 1 && (
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(120px, 1fr))', gap: '8px', marginTop: '16px' }}>
+                      {venue.photos.slice(1, 5).map((photo, index) => (
+                        <img
+                          key={index}
+                          src={photo.url}
+                          alt={`${venue.name} interior ${index + 1}`}
+                          style={{
+                            width: '100%',
+                            height: '80px',
+                            objectFit: 'cover',
+                            borderRadius: '8px',
+                            cursor: 'pointer',
+                            transition: 'transform 0.2s'
+                          }}
+                          onMouseEnter={(e) => e.target.style.transform = 'scale(1.05)'}
+                          onMouseLeave={(e) => e.target.style.transform = 'scale(1)'}
+                        />
+                      ))}
+                    </div>
                   )}
                 </div>
               </div>
@@ -245,6 +292,7 @@ export default function VenueDetailPage({ venue }) {
                   marginBottom: '32px',
                   border: '1px solid #2A2A2A' 
                 }}>
+                  <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '16px', fontFamily: 'Playfair Display, serif' }}>About</h2>
                   <p style={{ 
                     fontSize: '16px', 
                     lineHeight: 1.7, 
@@ -255,6 +303,67 @@ export default function VenueDetailPage({ venue }) {
                   </p>
                 </div>
               )}
+
+              {/* Reviews Section */}
+              <div style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
+                <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '24px', fontFamily: 'Playfair Display, serif' }}>What People Say</h2>
+                
+                <div style={{ display: 'grid', gap: '20px' }}>
+                  {/* Google Reviews Summary */}
+                  {venue.rating && venue.user_ratings_total && (
+                    <div style={{ 
+                      background: 'rgba(212, 175, 55, 0.05)', 
+                      padding: '20px', 
+                      borderRadius: '8px',
+                      border: '1px solid rgba(212, 175, 55, 0.2)'
+                    }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '8px' }}>
+                        <span style={{ color: '#D4AF37', fontSize: '24px' }}>★</span>
+                        <span style={{ fontSize: '24px', fontWeight: 700 }}>{venue.rating.toFixed(1)}</span>
+                        <span style={{ color: '#9AA0A6', fontSize: '14px' }}>Google Reviews</span>
+                      </div>
+                      <div style={{ color: '#9AA0A6', fontSize: '14px' }}>
+                        Based on {venue.user_ratings_total.toLocaleString()} reviews
+                      </div>
+                    </div>
+                  )}
+                  
+                  {/* FSA Rating */}
+                  {venue.fsa_rating && (
+                    <div style={{ 
+                      background: 'rgba(16, 185, 129, 0.05)', 
+                      padding: '20px', 
+                      borderRadius: '8px',
+                      border: '1px solid rgba(16, 185, 129, 0.2)'
+                    }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '8px' }}>
+                        <span style={{ color: '#10B981', fontSize: '24px' }}>🏥</span>
+                        <span style={{ fontSize: '24px', fontWeight: 700 }}>{venue.fsa_rating}/5</span>
+                        <span style={{ color: '#9AA0A6', fontSize: '14px' }}>FSA Hygiene Rating</span>
+                      </div>
+                      <div style={{ color: '#9AA0A6', fontSize: '14px' }}>
+                        Food Standards Agency hygiene inspection
+                      </div>
+                    </div>
+                  )}
+                  
+                  {/* Best of London Score Explanation */}
+                  <div style={{ 
+                    background: 'rgba(212, 175, 55, 0.05)', 
+                    padding: '20px', 
+                    borderRadius: '8px',
+                    border: '1px solid rgba(212, 175, 55, 0.2)'
+                  }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '8px' }}>
+                      <span style={{ color: '#D4AF37', fontSize: '24px' }}>⭐</span>
+                      <span style={{ fontSize: '20px', fontWeight: 700 }}>Best of London Score</span>
+                    </div>
+                    <div style={{ color: '#9AA0A6', fontSize: '14px', lineHeight: 1.5 }}>
+                      Our proprietary rating combines Google reviews (60%), review quality (20%), and FSA hygiene (20%) to give you the most comprehensive assessment of London's dining scene.
+                    </div>
+                  </div>
+                </div>
+              </div>
 
               {/* Location & Contact */}
               <div style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
