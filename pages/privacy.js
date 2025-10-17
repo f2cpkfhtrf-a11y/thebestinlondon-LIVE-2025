@@ -7,7 +7,8 @@ export default function Privacy() {
     <>
       <Head>
         <title>Privacy Policy | The Best in London</title>
-        <meta name="robots" content="noindex,follow" />
+        <meta name="description" content="Privacy policy for The Best in London. Learn how we collect and use your data." />
+        <link rel="canonical" href="https://thebestinlondon.co.uk/privacy" />
       </Head>
 
       <div style={{ 
