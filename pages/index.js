@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { generateSEOTitle, generateSEODescription, generateStructuredData } from '../utils/seoOptimization';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
 import Footer from '../components/Footer';
