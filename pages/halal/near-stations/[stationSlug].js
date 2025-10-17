@@ -117,7 +117,7 @@ export default function HalalNearStation({ station, venuesByRadius }) {
               maxWidth: '700px',
               marginBottom: theme.spacing.lg
             }}>
-              {venues.length} halal dining options within {selectedRadius}km. All venues verified for halal status.
+              {venues.length} halal-friendly dining options within {selectedRadius}km. Please verify halal status directly with restaurants.
             </p>
 
             {/* Transport Lines */}
@@ -226,7 +226,7 @@ export default function HalalNearStation({ station, venuesByRadius }) {
                             fontSize: '0.75rem',
                             fontWeight: 600
                           }}>
-                            ✓ {venue.halalType === 'verified' ? 'Verified Halal' : 'Community Verified'}
+                            ✓ {venue.halalType === 'verified' ? 'Verified Halal' : 'Halal-Friendly'}
                           </div>
                           {/* Distance Badge */}
                           <div style={{
