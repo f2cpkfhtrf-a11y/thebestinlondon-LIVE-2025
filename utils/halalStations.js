@@ -93,20 +93,27 @@ export function isHalalVenue(venue, mode = 'all') {
   
   if (mode === 'strict') return { isHalal: strict, type: 'verified' };
   
-  // Fuzzy match for cuisines commonly halal
-  const halalCuisines = ['middle eastern', 'turkish', 'pakistani', 'bangladeshi', 'indonesian', 'malaysian', 'afghan', 'lebanese', 'moroccan', 'iranian', 'persian'];
+  // Fuzzy match for cuisines commonly halal - expanded list
+  const halalCuisines = [
+    'middle eastern', 'turkish', 'pakistani', 'bangladeshi', 'indonesian', 'malaysian', 
+    'afghan', 'lebanese', 'moroccan', 'iranian', 'persian', 'indian', 'caribbean',
+    'mediterranean', 'korean', 'thai', 'vietnamese', 'chinese', 'international'
+  ];
   const cuisineMatch = (venue.cuisines || []).some(c => 
     halalCuisines.some(hc => c.toLowerCase().includes(hc))
   );
   
   // Exclude non-halal signals
-  const excludeTerms = ['pork', 'bacon', 'ham', 'charcuterie', 'prosciutto'];
+  const excludeTerms = ['pork', 'bacon', 'ham', 'charcuterie', 'prosciutto', 'wine bar', 'pub', 'bar', 'brewery', 'steakhouse'];
   const hasExclusion = excludeTerms.some(term => 
     venue.description?.toLowerCase().includes(term) ||
-    venue.name?.toLowerCase().includes(term)
+    venue.name?.toLowerCase().includes(term) ||
+    (venue.types || []).some(t => t.toLowerCase().includes(term))
   );
   
-  const communityVerified = cuisineMatch && !hasExclusion && !strict;
+  // For now, be more inclusive - include most restaurants as potentially halal-friendly
+  // unless they have clear non-halal signals
+  const communityVerified = !hasExclusion && (cuisineMatch || (venue.cuisines || []).length === 0);
   
   if (strict) return { isHalal: true, type: 'verified' };
   if (communityVerified) return { isHalal: true, type: 'community' };
