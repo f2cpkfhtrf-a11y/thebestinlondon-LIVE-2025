@@ -4,6 +4,20 @@ import Link from 'next/link';
 import { theme } from '../utils/theme';
 import FSABadge from '../components/FSABadge';
 import BestOfLondonBadge from '../components/BestOfLondonBadge';
+import { fetchVenuesData, filterVenuesByCuisine, filterVenuesByDietary, sortVenues, getUniqueCuisines, getUniqueAreas, getDietaryTags, calculateVenueStats } from '../utils/venueDataUtils';
+
+export async function getStaticProps() {
+  const venues = await fetchVenuesData();
+  const stats = calculateVenueStats(venues);
+  
+  return {
+    props: {
+      venues,
+      stats
+    },
+    revalidate: 3600 // Revalidate every hour
+  };
+}
 
 export default function Restaurants({ venues, stats }) {
   const [filter, setFilter] = useState('all');
@@ -17,34 +31,24 @@ export default function Restaurants({ venues, stats }) {
   }, []);
 
   // Get available cuisines from venues
-  const availableCuisines = [...new Set(
-    venues.flatMap(v => v.cuisines || []).filter(Boolean)
-  )].slice(0, 10);
+  const availableCuisines = getUniqueCuisines(venues).slice(0, 10);
+  const availableAreas = getUniqueAreas(venues).slice(0, 10);
+  const availableDietaryTags = getDietaryTags(venues);
 
   // Filter venues by cuisine OR dietary tag
   let filtered = venues;
   if (filter !== 'all') {
     // Check if it's a dietary filter
-    const dietaryFilters = ['halal', 'vegan', 'vegetarian', 'gluten-free'];
-    if (dietaryFilters.includes(filter.toLowerCase())) {
-      // Filter by dietary tag
-      const tagKey = filter.toLowerCase().replace('-', '_');
-      filtered = venues.filter(v => v.dietary_tags && v.dietary_tags[tagKey] === true);
+    if (availableDietaryTags.includes(filter)) {
+      filtered = filterVenuesByDietary(venues, filter);
     } else {
       // Filter by cuisine
-      filtered = venues.filter(v => 
-        v.cuisines?.some(c => c.toLowerCase() === filter.toLowerCase())
-      );
+      filtered = filterVenuesByCuisine(venues, filter);
     }
   }
 
   // Sort venues
-  const sorted = [...filtered].sort((a, b) => {
-    if (sortBy === 'rating') return (b.rating || 0) - (a.rating || 0);
-    if (sortBy === 'reviews') return (b.user_ratings_total || 0) - (a.user_ratings_total || 0);
-    if (sortBy === 'name') return a.name.localeCompare(b.name);
-    return 0;
-  });
+  const sorted = sortVenues(filtered, sortBy);
 
   // Count dietary options
   const dietaryCounts = {
@@ -832,46 +836,3 @@ export default function Restaurants({ venues, stats }) {
   );
 }
 
-export async function getStaticProps() {
-  const fs = require('fs');
-  const path = require('path');
-  
-  try {
-    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
-    const raw = fs.readFileSync(venuesPath, 'utf8');
-    let venues = JSON.parse(raw);
-    
-    // Handle both flat array and wrapped object
-    if (!Array.isArray(venues) && venues.venues) {
-      venues = venues.venues;
-    }
-    
-    // Filter restaurants only
-    const restaurants = venues.filter(v => 
-      v.categories?.includes('restaurant') || 
-      v.categories?.includes('cafe') ||
-      v.categories?.includes('bar')
-    );
-
-    // Calculate stats
-    const stats = {
-      total: restaurants.length,
-      fsaCoverage: Math.round((restaurants.filter(v => v.fsa_rating).length / restaurants.length) * 100)
-    };
-
-    return {
-      props: {
-        venues: restaurants,
-        stats
-      }
-    };
-  } catch (error) {
-    console.error('Error loading venues:', error);
-    return {
-      props: {
-        venues: [],
-        stats: { total: 0, fsaCoverage: 0 }
-      }
-    };
-  }
-}
