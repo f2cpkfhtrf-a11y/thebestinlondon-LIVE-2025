@@ -137,13 +137,13 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
         return filtered.filter(v => v.price_range === '££');
       // Dietary filters
       case 'halal':
-        return filtered.filter(v => v.dietary_tags?.halal === true);
+        return filtered.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.halal === true);
       case 'vegan':
-        return filtered.filter(v => v.dietary_tags?.vegan === true);
+        return filtered.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegan === true);
       case 'vegetarian':
-        return filtered.filter(v => v.dietary_tags?.vegetarian === true);
+        return filtered.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegetarian === true);
       case 'gluten-free':
-        return filtered.filter(v => v.dietary_tags?.gluten_free === true);
+        return filtered.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.gluten_free === true);
       default:
         return filtered.slice(0, 50);
     }
@@ -160,10 +160,10 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
 
   // Dietary tabs (Your USP!)
   const dietaryTabs = [
-    { id: 'halal', label: 'Halal', count: allVenues.filter(v => v.dietary_tags?.halal === true).length, emoji: '☪️' },
-    { id: 'vegan', label: 'Vegan', count: allVenues.filter(v => v.dietary_tags?.vegan === true).length, emoji: '🌱' },
-    { id: 'vegetarian', label: 'Vegetarian', count: allVenues.filter(v => v.dietary_tags?.vegetarian === true).length, emoji: '🥗' },
-    { id: 'gluten-free', label: 'Gluten-Free', count: allVenues.filter(v => v.dietary_tags?.gluten_free === true).length, emoji: '🌾' },
+    { id: 'halal', label: 'Halal', count: allVenues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.halal === true).length, emoji: '☪️' },
+    { id: 'vegan', label: 'Vegan', count: allVenues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegan === true).length, emoji: '🌱' },
+    { id: 'vegetarian', label: 'Vegetarian', count: allVenues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegetarian === true).length, emoji: '🥗' },
+    { id: 'gluten-free', label: 'Gluten-Free', count: allVenues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.gluten_free === true).length, emoji: '🌾' },
   ];
 
   return (
