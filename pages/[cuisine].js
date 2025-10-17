@@ -3,32 +3,49 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { theme } from '../utils/theme';
 import FSABadge from '../components/FSABadge';
+import BestOfLondonBadge from '../components/BestOfLondonBadge';
+import FilterBar from '../components/FilterBar';
+import CuisineHero from '../components/CuisineHero';
 import fs from 'fs';
 import path from 'path';
 
 export default function CuisinePage({ cuisine, venues, totalVenues }) {
-  const [selectedDiet, setSelectedDiet] = useState('all');
+  const [filteredVenues, setFilteredVenues] = useState(venues);
   const [hoveredCard, setHoveredCard] = useState(null);
   
-  const filteredVenues = useMemo(() => {
-    if (selectedDiet === 'all') return venues;
-    return venues.filter(v => 
-      v.dietaryTags?.some(tag => tag.toLowerCase() === selectedDiet.toLowerCase())
-    );
-  }, [venues, selectedDiet]);
-
   const cuisineTitle = cuisine.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   
-  const dietaryCounts = useMemo(() => ({
-    halal: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.halal === true).length,
-    vegetarian: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegetarian === true).length,
-    vegan: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegan === true).length,
-    'gluten-free': venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.gluten_free === true).length,
-  }), [venues]);
-
   // Calculate stats
   const avgRating = venues.length > 0 ? (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1) : '0.0';
   const fsaVerified = venues.filter(v => v.fsa_rating && v.fsa_rating >= 4).length;
+
+  // Generate cuisine-specific description
+  const getCuisineDescription = (cuisine) => {
+    const descriptions = {
+      'indian': 'From aromatic curries to tandoori specialties, London\'s Indian dining scene offers authentic flavors and modern interpretations that celebrate centuries of culinary tradition.',
+      'italian': 'Experience the soul of Italy in London with handmade pasta, wood-fired pizzas, and regional specialties that transport you to the heart of Italian cuisine.',
+      'japanese': 'Discover the precision and artistry of Japanese cuisine, from fresh sushi and sashimi to comforting ramen and delicate kaiseki experiences.',
+      'chinese': 'Explore the diverse regions of Chinese cuisine, from Cantonese dim sum to Sichuan spice, showcasing the incredible depth of China\'s culinary heritage.',
+      'thai': 'Savor the perfect balance of sweet, sour, salty, and spicy in London\'s Thai restaurants, where traditional recipes meet contemporary presentation.',
+      'turkish': 'Indulge in the rich flavors of Turkish cuisine, from succulent kebabs to fresh meze, representing the crossroads of Middle Eastern and Mediterranean traditions.',
+      'french': 'Experience the elegance of French cuisine in London, from classic bistro fare to haute cuisine, celebrating the artistry of French culinary tradition.',
+      'spanish': 'Discover the vibrant flavors of Spain, from authentic tapas to paella, showcasing the regional diversity and passion of Spanish cooking.',
+      'korean': 'Explore Korean cuisine\'s bold flavors and fermented traditions, from sizzling BBQ to comforting stews and the art of Korean table culture.',
+      'vietnamese': 'Savor the fresh, aromatic flavors of Vietnamese cuisine, from pho to banh mi, celebrating the balance of herbs, spices, and textures.',
+      'mexican': 'Experience authentic Mexican flavors beyond tacos, from mole to ceviche, showcasing the rich culinary traditions of Mexico\'s diverse regions.',
+      'american': 'Discover American comfort food and modern interpretations, from classic burgers to innovative fusion, celebrating the melting pot of American cuisine.',
+      'caribbean': 'Taste the vibrant flavors of the Caribbean, from jerk spices to coconut curries, representing the fusion of African, Indian, and indigenous traditions.',
+      'african': 'Explore the diverse flavors of African cuisine, from Ethiopian injera to West African stews, celebrating the continent\'s rich culinary heritage.',
+      'mediterranean': 'Savor the healthy, sun-kissed flavors of Mediterranean cuisine, from fresh seafood to olive oil-drenched vegetables and herbs.',
+      'seafood': 'Dive into London\'s finest seafood offerings, from fresh oysters to sustainable catches, celebrating the ocean\'s bounty with expert preparation.',
+      'vegetarian': 'Discover innovative vegetarian cuisine that celebrates plant-based ingredients with creativity and flavor, proving vegetables can be the star.',
+      'vegan': 'Explore the growing world of vegan cuisine, from comfort food classics to innovative plant-based creations that satisfy every craving.',
+      'modern european': 'Experience contemporary European cuisine that blends traditional techniques with modern innovation, creating sophisticated and memorable dining experiences.',
+      'british': 'Discover modern British cuisine that celebrates local ingredients and traditional recipes while embracing contemporary techniques and global influences.'
+    };
+    
+    return descriptions[cuisine.toLowerCase()] || `Explore London's finest ${cuisineTitle.toLowerCase()} restaurants, carefully curated for exceptional quality and authentic flavors.`;
+  };
 
   return (
     <>
@@ -49,474 +66,133 @@ export default function CuisinePage({ cuisine, venues, totalVenues }) {
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary, fontFamily: theme.typography.sans }}>
-        
-        {/* Navigation - PREMIUM STICKY WITH BLUR (MATCHES HOMEPAGE) */}
-        <nav style={{
-          position: 'sticky',
-          top: 0,
-          zIndex: 100,
-          background: 'rgba(17,17,17,0.95)',
-          backdropFilter: 'blur(12px)',
-          borderBottom: `1px solid ${theme.colors.border.subtle}`,
-          padding: '20px 0',
-          transition: `all ${theme.motion.base} ${theme.motion.ease}`,
-        }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-              
-              <Link href="/" style={{ textDecoration: 'none' }}>
-                <div style={{ 
-                  fontFamily: theme.typography.serif, 
-                  fontSize: '24px', 
-                  fontWeight: 700, 
-                  color: theme.colors.text.primary,
-                  letterSpacing: '-0.02em'
-                }}>
-                  The Best in London
-                </div>
-              </Link>
+      {/* Hero Section */}
+      <CuisineHero
+        title={`${cuisineTitle} Restaurants`}
+        subtitle="London's Finest Selection"
+        description={getCuisineDescription(cuisine)}
+        venueCount={totalVenues}
+        cuisine={cuisine}
+      />
 
-              <div style={{ display: 'flex', gap: '40px', fontSize: '15px', fontWeight: 500, alignItems: 'center' }}>
-                <Link href="/#explore" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}` }}>Explore</Link>
-                <Link href="/#cuisines" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}` }}>Cuisines</Link>
-                <Link href="/restaurants" style={{ color: theme.colors.text.secondary, textDecoration: 'none', transition: `color ${theme.motion.fast}` }}>All Restaurants</Link>
-              </div>
-            </div>
-          </div>
-        </nav>
+      {/* Filter Bar */}
+      <FilterBar
+        venues={venues}
+        onFilteredVenues={setFilteredVenues}
+        cuisine={cuisine}
+        showAreaFilter={true}
+        showCuisineFilter={false}
+        showDietaryFilter={true}
+        showRatingFilter={true}
+      />
 
-        {/* Hero Section - CINEMATIC (MATCHES HOMEPAGE) */}
-        <header style={{
-          position: 'relative',
-          height: '60vh',
-          minHeight: '500px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          overflow: 'hidden',
-          background: `linear-gradient(to bottom, rgba(11,11,11,0.4), rgba(11,11,11,0.8)), url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=2880&q=90')`,
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-        }}>
+      {/* Main Content */}
+      <main style={{ backgroundColor: theme.colors.bg.primary, minHeight: '100vh' }}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           
-          <div style={{ 
-            position: 'relative', 
-            zIndex: 2, 
-            textAlign: 'center', 
-            maxWidth: '900px', 
-            padding: '0 20px',
-          }}>
-            <div style={{
-              fontSize: '14px',
-              textTransform: 'uppercase',
-              letterSpacing: '0.15em',
-              color: theme.colors.accent.gold,
-              fontWeight: 600,
-              marginBottom: theme.spacing.lg
-            }}>
-              Cuisine Collection
+          {/* Stats Section */}
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+            <div className="bg-black-light rounded-lg p-6 text-center">
+              <div className="text-2xl font-bold text-gold mb-2">{totalVenues}</div>
+              <div className="text-sm text-grey">Restaurants</div>
             </div>
-            
-            <h1 style={{
-              fontFamily: theme.typography.serif,
-              fontSize: 'clamp(40px, 6vw, 72px)',
-              fontWeight: 700,
-              letterSpacing: '-0.04em',
-              lineHeight: 1.1,
-              marginBottom: theme.spacing.xl,
-              textShadow: '0 4px 24px rgba(0,0,0,0.8)'
-            }}>
-              {cuisineTitle}<br />Restaurants
-            </h1>
-            
-            <p style={{
-              fontSize: '18px',
-              color: 'rgba(245,245,245,0.9)',
-              lineHeight: 1.6,
-              marginBottom: theme.spacing['2xl'],
-              fontWeight: 400,
-            }}>
-              {totalVenues} exceptional venues • Avg rating {avgRating} ★ • {fsaVerified} FSA verified
-            </p>
-
-            <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
-              {[
-                { label: `${totalVenues} Venues`, icon: '🍽️' },
-                { label: `${avgRating} ★ Avg`, icon: '⭐' },
-                { label: `${fsaVerified} FSA`, icon: '✓' },
-              ].map((stat, idx) => (
-                <div key={idx} style={{
-                  background: 'rgba(11,11,11,0.85)',
-                  backdropFilter: 'blur(12px)',
-                  padding: '12px 24px',
-                  borderRadius: theme.radius.xl,
-                  fontSize: '14px',
-                  fontWeight: 600,
-                  border: `1px solid ${theme.colors.border.subtle}`
-                }}>
-                  {stat.icon} {stat.label}
-                </div>
-              ))}
+            <div className="bg-black-light rounded-lg p-6 text-center">
+              <div className="text-2xl font-bold text-gold mb-2">{avgRating}</div>
+              <div className="text-sm text-grey">Avg Rating</div>
+            </div>
+            <div className="bg-black-light rounded-lg p-6 text-center">
+              <div className="text-2xl font-bold text-gold mb-2">{fsaVerified}</div>
+              <div className="text-sm text-grey">FSA Verified</div>
+            </div>
+            <div className="bg-black-light rounded-lg p-6 text-center">
+              <div className="text-2xl font-bold text-gold mb-2">100%</div>
+              <div className="text-sm text-grey">Verified</div>
             </div>
           </div>
 
-          {/* Gradient Overlay */}
-          <div style={{
-            position: 'absolute',
-            bottom: 0,
-            left: 0,
-            right: 0,
-            height: '200px',
-            background: `linear-gradient(to bottom, transparent, ${theme.colors.bg.primary})`,
-            pointerEvents: 'none'
-          }} />
-        </header>
-
-        {/* Dietary Filters - PREMIUM DESIGN */}
-        {totalVenues > 0 && (
-          <section style={{
-            position: 'sticky',
-            top: '84px',
-            zIndex: 89,
-            background: 'rgba(17,17,17,0.95)',
-            backdropFilter: 'blur(12px)',
-            borderBottom: `1px solid ${theme.colors.border.subtle}`,
-            padding: '20px 0',
-          }}>
-            <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
-              <div style={{ 
-                background: 'linear-gradient(135deg, rgba(212,175,55,0.08) 0%, rgba(212,175,55,0.03) 100%)',
-                padding: '16px',
-                borderRadius: theme.radius.lg,
-                border: `1px solid ${theme.colors.accent.gold}30`
-              }}>
-                <div style={{ 
-                  fontSize: '11px', 
-                  textTransform: 'uppercase', 
-                  letterSpacing: '0.1em', 
-                  color: theme.colors.accent.gold, 
-                  marginBottom: '12px', 
-                  fontWeight: 600,
-                }}>
-                  Filter by Dietary Preference
-                </div>
-                <div style={{ display: 'flex', gap: theme.spacing.md, flexWrap: 'wrap' }}>
-                  <button
-                    onClick={() => setSelectedDiet('all')}
-                    style={{
-                      padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
-                      border: `2px solid ${selectedDiet === 'all' ? theme.colors.accent.gold : 'rgba(212,175,55,0.3)'}`,
-                      borderRadius: theme.radius.xl,
-                      fontSize: '14px',
-                      fontWeight: 600,
-                      background: selectedDiet === 'all' ? theme.colors.accent.gold : 'rgba(255,255,255,0.03)',
-                      color: selectedDiet === 'all' ? theme.colors.text.inverse : theme.colors.text.primary,
-                      cursor: 'pointer',
-                      transition: `all ${theme.motion.fast}`,
-                      boxShadow: selectedDiet === 'all' ? '0 4px 12px rgba(212,175,55,0.3)' : 'none'
-                    }}
-                  >
-                    All ({totalVenues})
-                  </button>
-                  
-                  {dietaryCounts.halal > 0 && (
-                    <button
-                      onClick={() => setSelectedDiet('halal')}
-                      style={{
-                        padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
-                        border: `2px solid ${selectedDiet === 'halal' ? theme.colors.accent.gold : 'rgba(212,175,55,0.3)'}`,
-                        borderRadius: theme.radius.xl,
-                        fontSize: '14px',
-                        fontWeight: 600,
-                        background: selectedDiet === 'halal' ? theme.colors.accent.gold : 'rgba(255,255,255,0.03)',
-                        color: selectedDiet === 'halal' ? theme.colors.text.inverse : theme.colors.text.primary,
-                        cursor: 'pointer',
-                        transition: `all ${theme.motion.fast}`,
-                      }}
-                    >
-                      ☪️ Halal ({dietaryCounts.halal})
-                    </button>
-                  )}
-                  
-                  {dietaryCounts.vegetarian > 0 && (
-                    <button
-                      onClick={() => setSelectedDiet('vegetarian')}
-                      style={{
-                        padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
-                        border: `2px solid ${selectedDiet === 'vegetarian' ? theme.colors.accent.gold : 'rgba(212,175,55,0.3)'}`,
-                        borderRadius: theme.radius.xl,
-                        fontSize: '14px',
-                        fontWeight: 600,
-                        background: selectedDiet === 'vegetarian' ? theme.colors.accent.gold : 'rgba(255,255,255,0.03)',
-                        color: selectedDiet === 'vegetarian' ? theme.colors.text.inverse : theme.colors.text.primary,
-                        cursor: 'pointer',
-                        transition: `all ${theme.motion.fast}`,
-                      }}
-                    >
-                      🥗 Vegetarian ({dietaryCounts.vegetarian})
-                    </button>
-                  )}
-                  
-                  {dietaryCounts.vegan > 0 && (
-                    <button
-                      onClick={() => setSelectedDiet('vegan')}
-                      style={{
-                        padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
-                        border: `2px solid ${selectedDiet === 'vegan' ? theme.colors.accent.gold : 'rgba(212,175,55,0.3)'}`,
-                        borderRadius: theme.radius.xl,
-                        fontSize: '14px',
-                        fontWeight: 600,
-                        background: selectedDiet === 'vegan' ? theme.colors.accent.gold : 'rgba(255,255,255,0.03)',
-                        color: selectedDiet === 'vegan' ? theme.colors.text.inverse : theme.colors.text.primary,
-                        cursor: 'pointer',
-                        transition: `all ${theme.motion.fast}`,
-                      }}
-                    >
-                      🌱 Vegan ({dietaryCounts.vegan})
-                    </button>
-                  )}
-                  
-                  {dietaryCounts['gluten-free'] > 0 && (
-                    <button
-                      onClick={() => setSelectedDiet('gluten-free')}
-                      style={{
-                        padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
-                        border: `2px solid ${selectedDiet === 'gluten-free' ? theme.colors.accent.gold : 'rgba(212,175,55,0.3)'}`,
-                        borderRadius: theme.radius.xl,
-                        fontSize: '14px',
-                        fontWeight: 600,
-                        background: selectedDiet === 'gluten-free' ? theme.colors.accent.gold : 'rgba(255,255,255,0.03)',
-                        color: selectedDiet === 'gluten-free' ? theme.colors.text.inverse : theme.colors.text.primary,
-                        cursor: 'pointer',
-                        transition: `all ${theme.motion.fast}`,
-                      }}
-                    >
-                      🌾 Gluten-Free ({dietaryCounts['gluten-free']})
-                    </button>
-                  )}
-                </div>
-              </div>
+          {/* Results Header */}
+          <div className="flex items-center justify-between mb-6">
+            <h2 className="text-2xl font-serif font-bold text-warmWhite">
+              {filteredVenues.length} {cuisineTitle} Restaurants
+            </h2>
+            <div className="text-sm text-grey">
+              Showing {filteredVenues.length} of {totalVenues} restaurants
             </div>
-          </section>
-        )}
+          </div>
 
-        {/* Venues Grid - PREMIUM CARDS (MATCHES HOMEPAGE EXACTLY) */}
-        <main style={{ padding: `${theme.spacing['5xl']} 0` }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
-            
-            <div style={{ marginBottom: theme.spacing['3xl'] }}>
-              <h2 style={{
-                fontFamily: theme.typography.serif,
-                fontSize: '48px',
-                fontWeight: 700,
-                color: theme.colors.text.primary,
-                letterSpacing: '-0.03em',
-                marginBottom: theme.spacing.md
-              }}>
-                {filteredVenues.length} {selectedDiet !== 'all' ? `${selectedDiet} ` : ''}Restaurants
-              </h2>
-              <p style={{ fontSize: '18px', color: theme.colors.text.secondary }}>
-                {selectedDiet === 'all' ? 'All curated venues in this cuisine' : `Filtered for ${selectedDiet} options`}
-              </p>
-            </div>
-
-            {filteredVenues.length === 0 ? (
-              <div style={{ textAlign: 'center', padding: `${theme.spacing['5xl']} 0` }}>
-                <p style={{ fontSize: '24px', color: theme.colors.text.secondary, marginBottom: theme.spacing.xl }}>
-                  No {selectedDiet !== 'all' ? selectedDiet : ''} restaurants found
-                </p>
-                <button
-                  onClick={() => setSelectedDiet('all')}
-                  style={{
-                    padding: `${theme.spacing.md} ${theme.spacing['2xl']}`,
-                    background: theme.colors.accent.gold,
-                    color: theme.colors.text.inverse,
-                    border: 'none',
-                    borderRadius: theme.radius.sm,
-                    fontSize: '16px',
-                    fontWeight: 600,
-                    cursor: 'pointer'
-                  }}
+          {/* Restaurant Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {filteredVenues.map((venue, index) => (
+              <Link key={venue.id || index} href={`/restaurant/${venue.slug}`}>
+                <article
+                  className="group bg-black-light rounded-xl overflow-hidden hover:bg-black-light/80 transition-all duration-300 hover:scale-105 hover:shadow-xl"
+                  onMouseEnter={() => setHoveredCard(venue.id || index)}
+                  onMouseLeave={() => setHoveredCard(null)}
                 >
-                  View All {totalVenues} Restaurants
-                </button>
-              </div>
-            ) : (
-              <div style={{
-                display: 'grid',
-                gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))',
-                gap: theme.spacing['2xl']
-              }}>
-                {filteredVenues.map((venue, idx) => (
-                  <Link key={venue.place_id || venue.slug} href={`/restaurant/${venue.slug}`} style={{ textDecoration: 'none' }}>
-                    <article 
-                      onMouseEnter={() => setHoveredCard(idx)}
-                      onMouseLeave={() => setHoveredCard(null)}
-                      style={{
-                        background: theme.colors.bg.elevated,
-                        borderRadius: theme.radius.lg,
-                        overflow: 'hidden',
-                        border: `1px solid ${hoveredCard === idx ? theme.colors.border.prominent : theme.colors.border.subtle}`,
-                        transition: `all ${theme.motion.base} ${theme.motion.ease}`,
-                        transform: hoveredCard === idx ? 'translateY(-8px)' : 'translateY(0)',
-                        boxShadow: hoveredCard === idx ? theme.shadows.lg : theme.shadows.sm,
-                        cursor: 'pointer'
-                      }}>
-                      
-                      <div style={{ position: 'relative', height: '240px', overflow: 'hidden', background: theme.colors.bg.elevated }}>
-                        {venue.photos && venue.photos[0] ? (
-                          <img 
-                            src={venue.photos[0].url}
-                            alt={venue.name}
-                            style={{ 
-                              width: '100%', 
-                              height: '100%', 
-                              objectFit: 'cover',
-                              transform: hoveredCard === idx ? 'scale(1.05)' : 'scale(1)',
-                              transition: `transform ${theme.motion.slow} ${theme.motion.ease}`
-                            }}
-                          />
-                        ) : (
-                          <div style={{ width: '100%', height: '100%', background: 'linear-gradient(135deg, #1A1A1A 0%, #2A2A2A 100%)', display: 'flex', alignItems: 'center', justifyContent: 'center', color: theme.colors.text.secondary }}>
-                            No image
-                          </div>
-                        )}
-                        
-                        {venue.fsa_rating && (
-                          <div style={{
-                            position: 'absolute',
-                            top: theme.spacing.md,
-                            right: theme.spacing.md
-                          }}>
-                            <FSABadge rating={venue.fsa_rating} size="large" showLabel={false} variant="card" />
-                          </div>
-                        )}
+                  {/* Image */}
+                  <div className="relative h-48 overflow-hidden">
+                    <img
+                      src={venue.photos?.[0]?.url || 'https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=85'}
+                      alt={venue.name}
+                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                    />
+                    
+                    {/* Overlay Badges */}
+                    <div className="absolute top-3 right-3">
+                      <BestOfLondonBadge venue={venue} size="small" showTooltip={false} showExplanation={false} />
+                    </div>
+                    <div className="absolute top-3 left-3">
+                      <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
+                    </div>
+                  </div>
+
+                  {/* Content */}
+                  <div className="p-6">
+                    <h3 className="text-xl font-serif font-bold text-warmWhite mb-2 group-hover:text-gold transition-colors duration-300">
+                      {venue.name}
+                    </h3>
+                    
+                    <div className="flex items-center space-x-2 mb-3">
+                      <span className="text-gold text-lg">★</span>
+                      <span className="text-warmWhite font-semibold">{venue.rating?.toFixed(1) || 'N/A'}</span>
+                      <span className="text-grey text-sm">({venue.review_count || 0} reviews)</span>
+                    </div>
+
+                    <div className="text-grey text-sm mb-3">
+                      {venue.borough && <span>{venue.borough}</span>}
+                      {venue.cuisines && venue.cuisines.length > 0 && (
+                        <span className="ml-2">• {venue.cuisines[0]}</span>
+                      )}
+                    </div>
+
+                    <div className="flex items-center justify-between">
+                      <div className="text-sm text-grey">
+                        {venue.price_level && '£'.repeat(venue.price_level)}
                       </div>
-
-                      <div style={{ padding: theme.spacing.xl }}>
-                        
-                        <h3 style={{
-                          fontSize: '20px',
-                          fontWeight: 600,
-                          color: theme.colors.text.primary,
-                          marginBottom: theme.spacing.sm,
-                          lineHeight: 1.3
-                        }}>
-                          {venue.name}
-                        </h3>
-
-                        <div style={{
-                          display: 'flex',
-                          justifyContent: 'space-between',
-                          fontSize: '14px',
-                          color: theme.colors.text.secondary,
-                          marginBottom: theme.spacing.lg
-                        }}>
-                          <span>{venue.cuisines?.[0] ? venue.cuisines[0].charAt(0).toUpperCase() + venue.cuisines[0].slice(1) : 'Restaurant'}</span>
-                          <span>{venue.price_range || '££'}</span>
-                        </div>
-
-                        {/* REVIEWS SECTION - ADDED */}
-                        <div style={{
-                          display: 'flex',
-                          alignItems: 'center',
-                          justifyContent: 'space-between',
-                          padding: `${theme.spacing.md} 0`,
-                          borderTop: `1px solid ${theme.colors.border.subtle}`,
-                          marginBottom: theme.spacing.md
-                        }}>
-                          <div style={{ display: 'flex', alignItems: 'center', gap: theme.spacing.xs }}>
-                            <span style={{ color: theme.colors.accent.gold, fontSize: '16px' }}>★</span>
-                            <span style={{ fontSize: '16px', fontWeight: 600, color: theme.colors.text.primary }}>{venue.rating ? venue.rating.toFixed(1) : 'N/A'}</span>
-                          </div>
-                          {venue.user_ratings_total && (
-                            <span style={{ fontSize: '13px', color: theme.colors.text.secondary }}>
-                              {venue.user_ratings_total.toLocaleString()} reviews
-                            </span>
-                          )}
-                        </div>
-
-                        {venue.fsa_rating && (
-                          <div style={{
-                            fontSize: '12px',
-                            color: '#10B981',
-                            fontWeight: 600,
-                            marginBottom: theme.spacing.sm
-                          }}>
-                            ✓ FSA {venue.fsa_rating}/5 Verified
-                          </div>
-                        )}
-
-                        <button style={{
-                          width: '100%',
-                          padding: theme.spacing.md,
-                          background: theme.colors.text.primary,
-                          color: theme.colors.text.inverse,
-                          border: 'none',
-                          borderRadius: theme.radius.sm,
-                          fontSize: '14px',
-                          fontWeight: 600,
-                          cursor: 'pointer',
-                          transition: `all ${theme.motion.fast}`,
-                        }}>
-                          View Details
-                        </button>
+                      <div className="text-sm text-gold font-medium group-hover:text-gold/80 transition-colors duration-300">
+                        View Details →
                       </div>
-                    </article>
-                  </Link>
-                ))}
-              </div>
-            )}
+                    </div>
+                  </div>
+                </article>
+              </Link>
+            ))}
           </div>
-        </main>
 
-        {/* Footer - PREMIUM (MATCHES HOMEPAGE) */}
-        <footer style={{ background: theme.colors.bg.primary, padding: `${theme.spacing['5xl']} 0 ${theme.spacing['3xl']}`, borderTop: `1px solid ${theme.colors.border.subtle}` }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
-            
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: theme.spacing['4xl'], marginBottom: theme.spacing['4xl'] }}>
-              <div>
-                <div style={{ fontFamily: theme.typography.serif, fontSize: '24px', fontWeight: 700, marginBottom: theme.spacing.lg }}>
-                  The Best in London
-                </div>
-                <p style={{ fontSize: '14px', color: theme.colors.text.secondary, lineHeight: 1.6 }}>
-                  Curated guide to London's finest restaurants with real reviews, FSA ratings & verified photos.
-                </p>
-              </div>
-
-              <div>
-                <h4 style={{ fontSize: '14px', fontWeight: 600, marginBottom: theme.spacing.lg, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Cuisines</h4>
-                <div style={{ display: 'flex', flexDirection: 'column', gap: theme.spacing.md, fontSize: '14px', color: theme.colors.text.secondary }}>
-                  <Link href="/indian-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Indian</Link>
-                  <Link href="/italian-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Italian</Link>
-                  <Link href="/japanese-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Japanese</Link>
-                </div>
-              </div>
-
-              <div>
-                <h4 style={{ fontSize: '14px', fontWeight: 600, marginBottom: theme.spacing.lg, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Company</h4>
-                <div style={{ display: 'flex', flexDirection: 'column', gap: theme.spacing.md, fontSize: '14px', color: theme.colors.text.secondary }}>
-                  <Link href="/" style={{ color: 'inherit', textDecoration: 'none' }}>Home</Link>
-                  <Link href="/restaurants" style={{ color: 'inherit', textDecoration: 'none' }}>All Restaurants</Link>
-                </div>
-              </div>
+          {/* Empty State */}
+          {filteredVenues.length === 0 && (
+            <div className="text-center py-12">
+              <div className="text-grey text-lg mb-4">No restaurants found matching your filters</div>
+              <button
+                onClick={() => setFilteredVenues(venues)}
+                className="bg-gold text-black px-6 py-3 rounded-lg font-semibold hover:bg-gold/90 transition-colors duration-300"
+              >
+                Clear Filters
+              </button>
             </div>
-
-            <div style={{ borderTop: `1px solid ${theme.colors.border.subtle}`, paddingTop: theme.spacing['2xl'], textAlign: 'center', fontSize: '13px', color: theme.colors.text.secondary }}>
-              <p style={{ margin: 0 }}>© 2025 The Best in London. All rights reserved.</p>
-            </div>
-          </div>
-        </footer>
-      </div>
-
-      <style jsx global>{`
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        *::-webkit-scrollbar { width: 8px; height: 8px; }
-        *::-webkit-scrollbar-track { background: #111111; }
-        *::-webkit-scrollbar-thumb { background: #2A2A2A; border-radius: 4px; }
-        *::-webkit-scrollbar-thumb:hover { background: #3A3A3A; }
-      `}</style>
+          )}
+        </div>
+      </main>
     </>
   );
 }
