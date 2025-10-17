@@ -5,6 +5,7 @@ import { theme } from '../utils/theme';
 import { enhanceVenueData, filterByDietary, sortVenues } from '../utils/venueData';
 import { isHalalVenue } from '../utils/halalStations';
 import FSABadge from '../components/FSABadge';
+import BestOfLondonBadge from '../components/BestOfLondonBadge';
 import ReviewBadges from '../components/ReviewBadges';
 import DietaryTags from '../components/DietaryTags';
 
@@ -295,15 +296,31 @@ export default function BestHalalRestaurantsLondon({ venues }) {
               }}>
                 
                 <div style={{ position: 'relative', height: '240px' }}>
-                  <img 
-                    src={`https://images.unsplash.com/photo-1544025162-d76694265947?w=700&q=85`}
-                    alt={`${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
-                    style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-                    loading="lazy"
-                  />
+                  {venue.photos && venue.photos[0] && venue.photos[0].url ? (
+                    <img 
+                      src={venue.photos[0].url}
+                      alt={`${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      loading="lazy"
+                      onError={(e) => {
+                        e.target.src = `https://images.unsplash.com/photo-1544025162-d76694265947?w=700&q=85`;
+                      }}
+                    />
+                  ) : (
+                    <img 
+                      src={`https://images.unsplash.com/photo-1544025162-d76694265947?w=700&q=85`}
+                      alt={`${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      loading="lazy"
+                    />
+                  )}
                   
                   <div style={{ position: 'absolute', top: theme.spacing.base, right: theme.spacing.base }}>
                     <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
+                  </div>
+
+                  <div style={{ position: 'absolute', top: theme.spacing.base, left: theme.spacing.base }}>
+                    <BestOfLondonBadge venue={venue} size="small" showTooltip={false} />
                   </div>
 
                   {venue.area && (
@@ -355,23 +372,25 @@ export default function BestHalalRestaurantsLondon({ venues }) {
                     layout="column"
                   />
 
-                  <button style={{
-                    width: '100%',
-                    padding: theme.spacing.md,
-                    background: theme.colors.text.primary,
-                    color: theme.colors.text.inverse,
-                    border: 'none',
-                    borderRadius: theme.radius.sm,
-                    fontSize: '14px',
-                    fontWeight: 600,
-                    cursor: 'pointer',
-                    marginTop: theme.spacing.lg,
-                    transition: `all ${theme.motion.fast}`,
-                  }}
-                  onMouseEnter={(e) => e.currentTarget.style.background = '#E5E5E5'}
-                  onMouseLeave={(e) => e.currentTarget.style.background = theme.colors.text.primary}>
-                    View Details
-                  </button>
+                  <Link href={`/restaurant/${venue.slug}`} style={{ textDecoration: 'none' }}>
+                    <button style={{
+                      width: '100%',
+                      padding: theme.spacing.md,
+                      background: theme.colors.text.primary,
+                      color: theme.colors.text.inverse,
+                      border: 'none',
+                      borderRadius: theme.radius.sm,
+                      fontSize: '14px',
+                      fontWeight: 600,
+                      cursor: 'pointer',
+                      marginTop: theme.spacing.lg,
+                      transition: `all ${theme.motion.fast}`,
+                    }}
+                    onMouseEnter={(e) => e.currentTarget.style.background = '#E5E5E5'}
+                    onMouseLeave={(e) => e.currentTarget.style.background = theme.colors.text.primary}>
+                      View Details
+                    </button>
+                  </Link>
                 </div>
               </article>
             ))}
