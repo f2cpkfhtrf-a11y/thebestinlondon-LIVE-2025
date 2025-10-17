@@ -20,10 +20,10 @@ export default function CuisinePage({ cuisine, venues, totalVenues }) {
   const cuisineTitle = cuisine.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   
   const dietaryCounts = useMemo(() => ({
-    halal: venues.filter(v => v.dietary_tags?.halal === true).length,
-    vegetarian: venues.filter(v => v.dietary_tags?.vegetarian === true).length,
-    vegan: venues.filter(v => v.dietary_tags?.vegan === true).length,
-    'gluten-free': venues.filter(v => v.dietary_tags?.gluten_free === true).length,
+    halal: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.halal === true).length,
+    vegetarian: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegetarian === true).length,
+    vegan: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegan === true).length,
+    'gluten-free': venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.gluten_free === true).length,
   }), [venues]);
 
   // Calculate stats
