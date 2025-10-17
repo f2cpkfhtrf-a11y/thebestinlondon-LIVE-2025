@@ -37,7 +37,7 @@ export const enhanceVenueData = (venue) => {
       url: venue.tripadvisor_url || null
     },
     dietary_tags: tags,
-    slug: generateSlug(venue.name),
+    slug: venue.slug || generateSlug(venue.name), // Preserve existing slug
     seo_title: generateSEOTitle(venue),
     seo_description: generateSEODescription(venue)
   };
