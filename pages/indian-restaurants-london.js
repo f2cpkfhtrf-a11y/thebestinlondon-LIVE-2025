@@ -29,6 +29,13 @@ export default function IndianRestaurants({ venues }) {
         <title>Best Indian Restaurants in London 2025 | Curry & Tandoor | The Best in London</title>
         <meta name="description" content={`Discover ${venues.length} top-rated Indian restaurants in London. From Michelin-starred to authentic curry houses.`} />
         <link rel="canonical" href="https://thebestinlondon.co.uk/indian-restaurants-london" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": "Indian Restaurants in London",
+          "description": `Discover ${venues.length} top-rated Indian restaurants in London`,
+          "url": "https://thebestinlondon.co.uk/indian-restaurants-london"
+        }) }} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />

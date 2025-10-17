@@ -29,6 +29,13 @@ export default function ChineseRestaurants({ venues }) {
         <title>Best Chinese Restaurants in London 2025 | Dim Sum & Authentic | The Best in London</title>
         <meta name="description" content={`Discover ${venues.length} authentic Chinese restaurants in London. Dim sum, Cantonese, Szechuan and more.`} />
         <link rel="canonical" href="https://thebestinlondon.co.uk/chinese-restaurants-london" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": "Chinese Restaurants in London",
+          "description": `Discover ${venues.length} authentic Chinese restaurants in London`,
+          "url": "https://thebestinlondon.co.uk/chinese-restaurants-london"
+        }) }} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />

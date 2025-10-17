@@ -29,6 +29,13 @@ export default function JapaneseRestaurants({ venues }) {
         <title>Best Japanese Restaurants in London 2025 | Sushi & Ramen | The Best in London</title>
         <meta name="description" content={`Discover ${venues.length} top-rated Japanese restaurants in London. Sushi, ramen, izakaya and more.`} />
         <link rel="canonical" href="https://thebestinlondon.co.uk/japanese-restaurants-london" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": "Japanese Restaurants in London",
+          "description": `Discover ${venues.length} top-rated Japanese restaurants in London`,
+          "url": "https://thebestinlondon.co.uk/japanese-restaurants-london"
+        }) }} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
