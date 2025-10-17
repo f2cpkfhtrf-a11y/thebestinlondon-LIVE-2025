@@ -53,7 +53,7 @@ export default function Header() {
 
           {/* CTA Button */}
           <div className="hidden lg:flex items-center space-x-4">
-            <Link href="/restaurants" className="btn-secondary text-sm">
+            <Link href="/search" className="btn-secondary text-sm">
               Search
             </Link>
           </div>
@@ -114,7 +114,7 @@ export default function Header() {
                 About
               </Link>
               <div className="pt-4 border-t border-grey-dark">
-                <Link href="/restaurants" className="btn-secondary text-sm w-full text-center">
+                <Link href="/search" className="btn-secondary text-sm w-full text-center">
                   Search
                 </Link>
               </div>
