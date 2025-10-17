@@ -276,24 +276,25 @@ export default function BestHalalRestaurantsLondon({ venues }) {
             gap: theme.spacing['2xl']
           }}>
             {filtered.map((venue, idx) => (
-              <article key={venue.place_id} style={{
-                background: theme.colors.bg.elevated,
-                borderRadius: theme.radius.lg,
-                overflow: 'hidden',
-                border: `1px solid ${theme.colors.border.subtle}`,
-                transition: `all ${theme.motion.base} ${theme.motion.ease}`,
-                cursor: 'pointer'
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.transform = 'translateY(-8px)';
-                e.currentTarget.style.boxShadow = theme.shadows.lg;
-                e.currentTarget.style.borderColor = theme.colors.border.prominent;
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.transform = 'translateY(0)';
-                e.currentTarget.style.boxShadow = theme.shadows.sm;
-                e.currentTarget.style.borderColor = theme.colors.border.subtle;
-              }}>
+              <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} style={{ textDecoration: 'none' }}>
+                <article style={{
+                  background: theme.colors.bg.elevated,
+                  borderRadius: theme.radius.lg,
+                  overflow: 'hidden',
+                  border: `1px solid ${theme.colors.border.subtle}`,
+                  transition: `all ${theme.motion.base} ${theme.motion.ease}`,
+                  cursor: 'pointer'
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.transform = 'translateY(-8px)';
+                  e.currentTarget.style.boxShadow = theme.shadows.lg;
+                  e.currentTarget.style.borderColor = theme.colors.border.prominent;
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.transform = 'translateY(0)';
+                  e.currentTarget.style.boxShadow = theme.shadows.sm;
+                  e.currentTarget.style.borderColor = theme.colors.border.subtle;
+                }}>
                 
                 <div style={{ position: 'relative', height: '240px' }}>
                   {venue.photos && venue.photos[0] && venue.photos[0].url ? (
@@ -372,27 +373,25 @@ export default function BestHalalRestaurantsLondon({ venues }) {
                     layout="column"
                   />
 
-                  <Link href={`/restaurant/${venue.slug}`} style={{ textDecoration: 'none' }}>
-                    <button style={{
-                      width: '100%',
-                      padding: theme.spacing.md,
-                      background: theme.colors.text.primary,
-                      color: theme.colors.text.inverse,
-                      border: 'none',
-                      borderRadius: theme.radius.sm,
-                      fontSize: '14px',
-                      fontWeight: 600,
-                      cursor: 'pointer',
-                      marginTop: theme.spacing.lg,
-                      transition: `all ${theme.motion.fast}`,
-                    }}
-                    onMouseEnter={(e) => e.currentTarget.style.background = '#E5E5E5'}
-                    onMouseLeave={(e) => e.currentTarget.style.background = theme.colors.text.primary}>
-                      View Details
-                    </button>
-                  </Link>
+                  <div style={{
+                    width: '100%',
+                    padding: theme.spacing.md,
+                    background: `linear-gradient(135deg, ${theme.colors.accent.gold} 0%, #F4D03F 100%)`,
+                    color: theme.colors.text.inverse,
+                    border: 'none',
+                    borderRadius: theme.radius.sm,
+                    fontSize: '14px',
+                    fontWeight: 700,
+                    textAlign: 'center',
+                    marginTop: theme.spacing.lg,
+                    textTransform: 'uppercase',
+                    letterSpacing: '0.05em'
+                  }}>
+                    View Details →
+                  </div>
                 </div>
               </article>
+              </Link>
             ))}
           </div>
         </main>
