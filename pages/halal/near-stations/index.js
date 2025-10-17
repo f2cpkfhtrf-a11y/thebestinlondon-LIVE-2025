@@ -6,13 +6,18 @@ import { LONDON_STATIONS, getVenuesNearStation, isHalalVenue } from '../../../ut
 
 const theme = {
   colors: {
-    background: { primary: '#0B0B0B' },
-    text: { primary: '#FAFAFA', secondary: '#9AA0A6' },
+    bg: { primary: '#0B0B0B', elevated: '#1A1A1A' },
+    text: { primary: '#FAFAFA', secondary: '#B0B0B0', inverse: '#0B0B0B' },
     accent: { gold: '#D4AF37' },
-    border: { subtle: '#2A2A2A', default: '#333333' }
+    border: { subtle: '#2A2A2A', prominent: '#404040' }
   },
   spacing: { sm: '0.5rem', md: '1rem', lg: '1.5rem', xl: '2rem', xxl: '3rem' },
-  typography: { heading: { family: "'Playfair Display', serif" } }
+  typography: { 
+    serif: "'Playfair Display', serif",
+    sans: "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+  },
+  radius: { sm: '4px', md: '8px', lg: '12px', xl: '16px' },
+  shadows: { sm: '0 1px 3px rgba(0,0,0,0.3)', lg: '0 8px 25px rgba(0,0,0,0.4)' }
 };
 
 export async function getStaticProps() {
@@ -88,7 +93,7 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
         }) }} />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: theme.colors.background.primary }}>
+      <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary, fontFamily: theme.typography.sans }}>
         {/* Navigation */}
         <nav style={{
           position: 'sticky',
@@ -249,19 +254,20 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
           ) : (
             <div style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-              gap: theme.spacing.md
+              gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))',
+              gap: theme.spacing.lg
             }}>
               {filteredStations.map(station => (
                 <div
                   key={station.slug}
                   style={{
                     display: 'block',
-                    background: `${theme.colors.text.primary}05`,
+                    background: theme.colors.bg.elevated,
                     border: `1px solid ${theme.colors.border.subtle}`,
-                    borderRadius: '12px',
+                    borderRadius: theme.radius.lg,
                     padding: theme.spacing.lg,
-                    transition: 'all 0.3s ease'
+                    transition: 'all 0.3s ease',
+                    boxShadow: theme.shadows.sm
                   }}
                 >
                   <div style={{ 
@@ -271,28 +277,33 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
                     marginBottom: theme.spacing.sm 
                   }}>
                     <h3 style={{
-                      fontSize: '1.125rem',
-                      fontWeight: 600
+                      fontSize: '1.25rem',
+                      fontWeight: 600,
+                      color: theme.colors.text.primary,
+                      lineHeight: 1.3
                     }}>
                       {station.name}
                     </h3>
                     <div style={{
-                      background: `${theme.colors.accent.gold}20`,
-                      color: theme.colors.accent.gold,
-                      padding: '0.25rem 0.625rem',
-                      borderRadius: '12px',
+                      background: station.count > 0 ? theme.colors.accent.gold : '#666',
+                      color: station.count > 0 ? theme.colors.text.inverse : theme.colors.text.primary,
+                      padding: '0.375rem 0.75rem',
+                      borderRadius: theme.radius.md,
                       fontSize: '0.875rem',
                       fontWeight: 600,
-                      whiteSpace: 'nowrap'
+                      whiteSpace: 'nowrap',
+                      minWidth: '60px',
+                      textAlign: 'center'
                     }}>
                       {station.count} venues
                     </div>
                   </div>
 
                   <div style={{
-                    fontSize: '0.8125rem',
+                    fontSize: '0.875rem',
                     color: theme.colors.text.secondary,
-                    marginBottom: theme.spacing.sm
+                    marginBottom: theme.spacing.sm,
+                    fontWeight: 500
                   }}>
                     {station.borough}
                   </div>
@@ -300,18 +311,20 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
                   <div style={{
                     display: 'flex',
                     flexWrap: 'wrap',
-                    gap: '0.375rem',
-                    marginBottom: theme.spacing.sm
+                    gap: theme.spacing.sm,
+                    marginBottom: theme.spacing.lg
                   }}>
                     {station.lines.slice(0, 3).map(line => (
                       <span
                         key={line}
                         style={{
                           fontSize: '0.75rem',
-                          padding: '0.25rem 0.5rem',
-                          background: `${theme.colors.text.secondary}20`,
-                          color: theme.colors.text.secondary,
-                          borderRadius: '4px'
+                          padding: `${theme.spacing.sm} ${theme.spacing.md}`,
+                          background: theme.colors.border.prominent,
+                          color: theme.colors.text.primary,
+                          borderRadius: theme.radius.sm,
+                          fontWeight: 500,
+                          border: `1px solid ${theme.colors.border.subtle}`
                         }}
                       >
                         {line}
@@ -320,8 +333,12 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
                     {station.lines.length > 3 && (
                       <span style={{
                         fontSize: '0.75rem',
-                        padding: '0.25rem 0.5rem',
-                        color: theme.colors.text.secondary
+                        padding: `${theme.spacing.sm} ${theme.spacing.md}`,
+                        background: theme.colors.border.prominent,
+                        color: theme.colors.text.secondary,
+                        borderRadius: theme.radius.sm,
+                        fontWeight: 500,
+                        border: `1px solid ${theme.colors.border.subtle}`
                       }}>
                         +{station.lines.length - 3}
                       </span>

@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { theme } from '../utils/theme';
 import { enhanceVenueData, filterByDietary, sortVenues } from '../utils/venueData';
+import { isHalalVenue } from '../utils/halalStations';
 import FSABadge from '../components/FSABadge';
 import ReviewBadges from '../components/ReviewBadges';
 import DietaryTags from '../components/DietaryTags';
@@ -14,25 +15,29 @@ export async function getStaticProps() {
   try {
     const filePath = path.join(process.cwd(), 'public/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
-    const allVenues = JSON.parse(fileContent);
+    const venuesData = JSON.parse(fileContent);
+    const allVenues = Array.isArray(venuesData) ? venuesData : (venuesData.venues || []);
     
-    // Filter halal restaurants
+    // Filter halal restaurants using improved filtering
     const halalVenues = allVenues
       .map(enhanceVenueData)
       .filter(v => {
         if (!v) return false;
-        const searchText = `${v.name} ${(v.types || []).join(' ')}`.toLowerCase();
-        return searchText.includes('halal') || 
-               searchText.includes('muslim') ||
-               searchText.includes('islamic') ||
-               v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.halal === true;
+        const { isHalal } = isHalalVenue(v);
+        return isHalal;
       })
       .sort((a, b) => (b.rating || 0) - (a.rating || 0));
     
-    return { props: { venues: halalVenues }};
+    return { 
+      props: { 
+        venues: halalVenues,
+        lastUpdated: (typeof venuesData === 'object' && !Array.isArray(venuesData) && venuesData.lastUpdated) ? venuesData.lastUpdated : new Date().toISOString()
+      },
+      revalidate: 86400
+    };
   } catch (error) {
     console.error('Error loading venues:', error);
-    return { props: { venues: [] } };
+    return { props: { venues: [], lastUpdated: new Date().toISOString() } };
   }
 }
 
