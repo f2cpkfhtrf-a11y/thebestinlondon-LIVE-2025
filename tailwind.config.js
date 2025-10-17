@@ -8,18 +8,23 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // Brand Colors
+        // Brand Colors - BestDubai Inspired
         gold: '#D4AF37',
-        black: '#0E0E0E',
-        white: '#F9F9F9',
+        charcoal: '#0E0E0E',
+        warmWhite: '#F9F9F9',
         grey: '#B3B3B3',
         
         // Extended palette
         'gold-light': '#E6C85A',
         'gold-dark': '#B8941F',
-        'black-light': '#1A1A1A',
+        'charcoal-light': '#1A1A1A',
         'grey-light': '#D1D5DB',
         'grey-dark': '#6B7280',
+        
+        // BIL Score colors
+        'score-high': '#10B981', // Green-gold for ≥ 8.5
+        'score-mid': '#D4AF37',  // Neutral gold for mid
+        'score-low': '#EF4444',  // Red tint for < 6
       },
       fontFamily: {
         'serif': ['Playfair Display', 'Georgia', 'serif'],
@@ -51,13 +56,15 @@ module.exports = {
       boxShadow: {
         'gold': '0 4px 14px 0 rgba(212, 175, 55, 0.3)',
         'gold-lg': '0 8px 25px 0 rgba(212, 175, 55, 0.4)',
-        'dark': '0 4px 14px 0 rgba(0, 0, 0, 0.5)',
-        'dark-lg': '0 8px 25px 0 rgba(0, 0, 0, 0.6)',
+        'charcoal': '0 4px 14px 0 rgba(14, 14, 14, 0.5)',
+        'charcoal-lg': '0 8px 25px 0 rgba(14, 14, 14, 0.6)',
+        'score-glow': '0 0 20px rgba(212, 175, 55, 0.5)',
       },
       animation: {
         'glow': 'glow 2s ease-in-out infinite alternate',
         'fade-in': 'fadeIn 0.5s ease-in-out',
         'slide-up': 'slideUp 0.3s ease-out',
+        'score-pulse': 'scorePulse 1.5s ease-in-out infinite',
       },
       keyframes: {
         glow: {
@@ -72,6 +79,17 @@ module.exports = {
           '0%': { transform: 'translateY(10px)', opacity: '0' },
           '100%': { transform: 'translateY(0)', opacity: '1' },
         },
+        scorePulse: {
+          '0%': { transform: 'scale(1)', boxShadow: '0 0 0 0 rgba(212, 175, 55, 0.7)' },
+          '70%': { transform: 'scale(1.05)', boxShadow: '0 0 0 10px rgba(212, 175, 55, 0)' },
+          '100%': { transform: 'scale(1)', boxShadow: '0 0 0 0 rgba(212, 175, 55, 0)' },
+        },
+      },
+      backgroundImage: {
+        'gradient-gold': 'linear-gradient(135deg, #D4AF37 0%, #E6C85A 100%)',
+        'gradient-score-high': 'linear-gradient(135deg, #10B981 0%, #D4AF37 100%)',
+        'gradient-score-low': 'linear-gradient(135deg, #EF4444 0%, #D4AF37 100%)',
+        'hero-pattern': "url('data:image/svg+xml,%3Csvg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Cg fill=\"none\" fill-rule=\"evenodd\"%3E%3Cg fill=\"%23D4AF37\" fill-opacity=\"0.05\"%3E%3Ccircle cx=\"30\" cy=\"30\" r=\"2\"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E')",
       },
     },
   },

@@ -3,27 +3,20 @@ import Image from 'next/image';
 
 export default function HeroSection() {
   return (
-    <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-black via-black-light to-black overflow-hidden">
+    <section className="relative min-h-screen flex items-center justify-center hero-bg overflow-hidden">
       
-      {/* Background Pattern */}
-      <div className="absolute inset-0 opacity-5">
-        <div className="absolute inset-0" style={{
-          backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23D4AF37' fill-opacity='0.1'%3E%3Ccircle cx='30' cy='30' r='2'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`
-        }}></div>
-      </div>
-
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         
-        {/* Logo */}
+        {/* Logo - BestDubai Inspired */}
         <div className="mb-8">
           <div className="logo-container mb-6">
             <Image
               src="/logo.svg"
               alt="The Best in London"
-              width={120}
-              height={120}
-              className="w-24 h-24 lg:w-32 lg:h-32 mx-auto"
+              width={140}
+              height={140}
+              className="w-28 h-28 lg:w-36 lg:h-36 mx-auto"
               priority
             />
           </div>

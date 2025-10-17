@@ -57,19 +57,19 @@
 
 @layer components {
   .btn-primary {
-    @apply bg-gold text-black font-nav font-semibold px-6 py-3 rounded-xl shadow-gold hover:shadow-gold-lg transition-all duration-300 hover:bg-gold-light transform hover:-translate-y-0.5;
+    @apply bg-gradient-gold text-charcoal font-nav font-semibold px-6 py-3 rounded-xl shadow-gold hover:shadow-gold-lg transition-all duration-300 hover:bg-gold-light transform hover:-translate-y-0.5;
   }
   
   .btn-secondary {
-    @apply bg-transparent border-2 border-gold text-gold font-nav font-semibold px-6 py-3 rounded-xl hover:bg-gold hover:text-black transition-all duration-300;
+    @apply bg-transparent border-2 border-gold text-gold font-nav font-semibold px-6 py-3 rounded-xl hover:bg-gold hover:text-charcoal transition-all duration-300;
   }
   
   .card {
-    @apply bg-black-light border border-grey-dark rounded-2xl shadow-dark hover:shadow-dark-lg transition-all duration-300;
+    @apply bg-charcoal-light border border-grey-dark rounded-2xl shadow-charcoal hover:shadow-charcoal-lg transition-all duration-300;
   }
   
   .text-gradient {
-    @apply bg-gradient-to-r from-gold to-gold-light bg-clip-text text-transparent;
+    @apply bg-gradient-gold bg-clip-text text-transparent;
   }
   
   .logo-container {
@@ -78,6 +78,53 @@
   
   .logo-text {
     @apply font-serif font-bold text-gold text-2xl;
+  }
+  
+  /* BIL Score Components */
+  .bil-score-card {
+    @apply bg-gradient-to-br from-charcoal-light to-charcoal border border-gold/20 rounded-2xl p-6 shadow-score-glow;
+  }
+  
+  .bil-score-ring {
+    @apply w-16 h-16 rounded-full border-4 border-gold/30 flex items-center justify-center relative;
+  }
+  
+  .bil-score-ring::before {
+    content: '';
+    @apply absolute inset-0 rounded-full border-4 border-transparent;
+    background: conic-gradient(from 0deg, #D4AF37 0deg, transparent 0deg);
+  }
+  
+  .bil-score-high {
+    @apply border-score-high/50;
+  }
+  
+  .bil-score-high::before {
+    background: conic-gradient(from 0deg, #10B981 0deg, transparent 0deg);
+  }
+  
+  .bil-score-low {
+    @apply border-score-low/50;
+  }
+  
+  .bil-score-low::before {
+    background: conic-gradient(from 0deg, #EF4444 0deg, transparent 0deg);
+  }
+  
+  .bil-score-mini-bar {
+    @apply w-full h-2 bg-charcoal-light rounded-full overflow-hidden;
+  }
+  
+  .bil-score-mini-fill {
+    @apply h-full bg-gradient-gold rounded-full transition-all duration-1000 ease-out;
+  }
+  
+  .bil-score-mini-fill-high {
+    @apply bg-gradient-score-high;
+  }
+  
+  .bil-score-mini-fill-low {
+    @apply bg-gradient-score-low;
   }
 }
 
@@ -116,5 +163,24 @@
   /* Mobile navigation spacing */
   .mobile-nav-spacing {
     @apply pb-16 lg:pb-0;
+  }
+  
+  /* Hero background with crown/skyline hint */
+  .hero-bg {
+    background: linear-gradient(135deg, #0E0E0E 0%, #1A1A1A 50%, #0E0E0E 100%);
+    position: relative;
+  }
+  
+  .hero-bg::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('data:image/svg+xml,%3Csvg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg"%3E%3Cg fill="none" fill-rule="evenodd"%3E%3Cg fill="%23D4AF37" fill-opacity="0.03"%3E%3Cpath d="M60 20L70 40H90L75 55L80 75L60 65L40 75L45 55L30 40H50L60 20Z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+    background-size: 120px 120px;
+    background-repeat: repeat;
+    opacity: 0.5;
   }
 }
