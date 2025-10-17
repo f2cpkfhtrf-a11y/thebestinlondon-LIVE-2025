@@ -70,6 +70,13 @@ export default function ShoreditchRestaurants({ venues, stats, lastUpdated }) {
       <title>Best Restaurants in Shoreditch 2025 — {stats.totalVenues}+ Top Rated | The Best in London</title>
       <meta name="description" content={`Discover ${stats.totalVenues}+ best restaurants in Shoreditch. Trendy dining, halal, vegan options. Real reviews, FSA verified.`} />
       <link rel="canonical" href="https://thebestinlondon.co.uk/restaurants-shoreditch" />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Restaurants in Shoreditch",
+        "description": `Discover ${stats.totalVenues}+ best restaurants in Shoreditch. Trendy dining, halal, vegan options.`,
+        "url": "https://thebestinlondon.co.uk/restaurants-shoreditch"
+      }) }} />
     </Head>
 
     <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary, fontFamily: theme.typography.sans }}>

@@ -52,7 +52,14 @@ export default function HalalNearStationsIndex() {
           name="description" 
           content={`Find halal restaurants within walking distance of ${STATIONS.length} major London tube stations. ${totalVenues}+ verified halal venues across Zone 1-2.`}
         />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/halal/near-stations" />
+        <link rel="canonical" href="https://thebestinlondon.co.uk/halal-near-stations-simple" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": "Halal Restaurants Near London Tube Stations",
+          "description": `Find halal restaurants within walking distance of ${STATIONS.length} major London tube stations`,
+          "url": "https://thebestinlondon.co.uk/halal-near-stations-simple"
+        }) }} />
       </Head>
 
       <div style={{ minHeight: '100vh', background: theme.colors.background.primary }}>
