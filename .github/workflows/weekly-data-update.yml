@@ -1,0 +1,75 @@
+name: Weekly Venue Data Update
+
+on:
+  schedule:
+    # Run every Sunday at 2 AM UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Validate current data
+      run: node scripts/updateVenueData.js validate
+      
+    - name: Check if update is needed
+      id: check-update
+      run: |
+        UPDATE_NEEDED=$(node scripts/updateVenueData.js check)
+        echo "needed=$UPDATE_NEEDED" >> $GITHUB_OUTPUT
+        echo "Update needed: $UPDATE_NEEDED"
+        
+    - name: Perform data update
+      if: steps.check-update.outputs.needed == 'Yes'
+      run: |
+        node scripts/updateVenueData.js update
+        
+    - name: Commit changes
+      if: steps.check-update.outputs.needed == 'Yes'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/venues.json data/last-update.json backups/
+        git commit -m "🤖 Automated weekly venue data update
+
+- Updated venue data with latest information
+- Validated data integrity
+- Created backup of previous data
+- Updated last update timestamp
+
+This is an automated update performed weekly to ensure data accuracy."
+        
+    - name: Push changes
+      if: steps.check-update.outputs.needed == 'Yes'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+        
+    - name: Trigger Vercel deployment
+      if: steps.check-update.outputs.needed == 'Yes'
+      run: |
+        echo "Data updated successfully. Vercel will automatically deploy the changes."
+        
+    - name: Create summary
+      run: |
+        echo "## Weekly Data Update Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "- **Update Status**: ${{ steps.check-update.outputs.needed == 'Yes' && '✅ Updated' || '⏭️ Skipped (not needed)' }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Timestamp**: $(date -u)" >> $GITHUB_STEP_SUMMARY
+        echo "- **Workflow**: ${{ github.workflow }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Run ID**: ${{ github.run_id }}" >> $GITHUB_STEP_SUMMARY
