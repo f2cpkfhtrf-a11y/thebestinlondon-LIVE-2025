@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2025-10-16T23:35:22.071Z",
-  "totalVenues": 760,
-  "dataSource": {
-    "google": "Google Places API",
-    "fsa": "UK Food Standards Agency API"
-  },
-  "coverage": {
-    "google_rating": 760,
-    "fsa_rating": 374,
-    "fsa_coverage_pct": "49.2%",
-    "photos": 760,
-    "website": 717,
-    "phone": 673,
-    "opening_hours": 754
+  "_meta": {
+    "version": "v1760706537596",
+    "hash": "da411f15",
+    "lastUpdated": "2025-10-17T13:08:57.596Z",
+    "venueCount": 760
   },
   "venues": [
     {
