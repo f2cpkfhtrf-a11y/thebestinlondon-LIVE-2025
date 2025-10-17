@@ -1,0 +1,75 @@
+{
+  "totalVenues": 760,
+  "validVenues": 760,
+  "venuesWithIssues": 0,
+  "issues": [],
+  "cuisineDistribution": {
+    "modern european": 691,
+    "indian": 7,
+    "japanese": 6,
+    "chinese": 1,
+    "thai": 9,
+    "turkish": 10,
+    "french": 7,
+    "spanish": 4,
+    "korean": 7,
+    "mexican": 7,
+    "italian": 5,
+    "british": 4,
+    "mediterranean": 3,
+    "vietnamese": 1,
+    "caribbean": 1
+  },
+  "dietaryDistribution": {
+    "vegetarian": 5,
+    "halal": 13,
+    "vegan": 16,
+    "organic": 2,
+    "healthy": 1
+  },
+  "areaDistribution": {
+    "Central London": 584,
+    "Southwark": 3,
+    "Westminster": 4,
+    "Hackney": 11,
+    "Camden": 6,
+    "Tower Hamlets": 67,
+    "Kensington and Chelsea": 1,
+    "Redbridge": 41,
+    "Havering": 32,
+    "Newham": 11
+  },
+  "ratingDistribution": {
+    "3": 20,
+    "4": 730,
+    "5": 10
+  },
+  "duplicates": [
+    {
+      "name": "Fatt Pundit",
+      "index": 71,
+      "type": "name_duplicate"
+    },
+    {
+      "name": "EL&N London",
+      "index": 243,
+      "type": "name_duplicate"
+    },
+    {
+      "name": "Monmouth Coffee Company",
+      "index": 280,
+      "type": "name_duplicate"
+    },
+    {
+      "name": "Naan Staap®",
+      "index": 508,
+      "type": "name_duplicate"
+    },
+    {
+      "name": "Grounded London",
+      "index": 640,
+      "type": "name_duplicate"
+    }
+  ],
+  "normalizationNeeded": []
+}
