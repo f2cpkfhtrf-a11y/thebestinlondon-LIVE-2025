@@ -242,7 +242,7 @@ export default function VenueDetailPage({ venue }) {
                 <div style={{ marginBottom: '32px' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '16px', flexWrap: 'wrap' }}>
                     {/* Best of London Score */}
-                    <BestOfLondonBadge venue={venue} size="large" showExplanation={true} />
+                    <BestOfLondonBadge venue={venue} size="large" showExplanation={true} showSubScores={true} />
                     {/* Google Rating */}
                     {venue.rating && (
                       <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>

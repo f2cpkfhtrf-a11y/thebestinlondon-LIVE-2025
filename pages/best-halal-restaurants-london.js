@@ -321,7 +321,7 @@ export default function BestHalalRestaurantsLondon({ venues }) {
                   </div>
 
                   <div style={{ position: 'absolute', top: theme.spacing.base, left: theme.spacing.base }}>
-                    <BestOfLondonBadge venue={venue} size="small" showTooltip={false} />
+                    <BestOfLondonBadge venue={venue} size="small" showTooltip={false} showExplanation={false} />
                   </div>
 
                   {venue.area && (
