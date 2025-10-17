@@ -1,7 +1,8 @@
-// SIMPLIFIED WORKING VERSION - Halal Near Stations
+// Halal Near Stations - Dynamic Counts
 import { useState } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import { LONDON_STATIONS, getVenuesNearStation, isHalalVenue } from '../../../utils/halalStations';
 
 const theme = {
   colors: {
@@ -14,35 +15,60 @@ const theme = {
   typography: { heading: { family: "'Playfair Display', serif" } }
 };
 
-// Hardcoded station data (no external dependencies)
-const STATIONS = [
-  { slug: 'kings-cross', name: "King's Cross", borough: 'Camden', lines: ['Northern', 'Piccadilly', 'Victoria'], count: 45 },
-  { slug: 'oxford-circus', name: 'Oxford Circus', borough: 'Westminster', lines: ['Central', 'Victoria', 'Bakerloo'], count: 38 },
-  { slug: 'liverpool-street', name: 'Liverpool Street', borough: 'City of London', lines: ['Central', 'Circle', 'Metropolitan'], count: 52 },
-  { slug: 'london-bridge', name: 'London Bridge', borough: 'Southwark', lines: ['Northern', 'Jubilee'], count: 41 },
-  { slug: 'victoria', name: 'Victoria', borough: 'Westminster', lines: ['Victoria', 'District', 'Circle'], count: 36 },
-  { slug: 'waterloo', name: 'Waterloo', borough: 'Lambeth', lines: ['Northern', 'Bakerloo', 'Jubilee'], count: 33 },
-  { slug: 'paddington', name: 'Paddington', borough: 'Westminster', lines: ['Circle', 'District', 'Bakerloo'], count: 28 },
-  { slug: 'bank', name: 'Bank', borough: 'City of London', lines: ['Central', 'Northern', 'DLR'], count: 47 },
-  { slug: 'tottenham-court-road', name: 'Tottenham Court Road', borough: 'Camden', lines: ['Central', 'Northern'], count: 35 },
-  { slug: 'euston', name: 'Euston', borough: 'Camden', lines: ['Northern', 'Victoria'], count: 29 },
-  { slug: 'canary-wharf', name: 'Canary Wharf', borough: 'Tower Hamlets', lines: ['Jubilee', 'DLR'], count: 24 },
-  { slug: 'angel', name: 'Angel', borough: 'Islington', lines: ['Northern'], count: 31 },
-  { slug: 'old-street', name: 'Old Street', borough: 'Islington', lines: ['Northern'], count: 27 },
-  { slug: 'whitechapel', name: 'Whitechapel', borough: 'Tower Hamlets', lines: ['District', 'Hammersmith & City'], count: 38 }
-];
-
-export default function HalalNearStationsIndex() {
-  const [searchQuery, setSearchQuery] = useState('');
+export async function getStaticProps() {
+  const fs = require('fs');
+  const path = require('path');
   
-  const totalVenues = STATIONS.reduce((sum, s) => sum + s.count, 0);
+  try {
+    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const fileContent = fs.readFileSync(filePath, 'utf8');
+    const venuesData = JSON.parse(fileContent);
+    const allVenues = Array.isArray(venuesData) ? venuesData : (venuesData.venues || []);
+    
+    // Filter to halal venues only
+    const halalOnly = allVenues.filter(v => {
+      const { isHalal } = isHalalVenue(v);
+      return isHalal;
+    });
+    
+    // Calculate actual counts for each station
+    const stationsWithCounts = LONDON_STATIONS.map(station => ({
+      ...station,
+      count: getVenuesNearStation(station, halalOnly, 0.6).length
+    }));
+    
+    const totalVenues = stationsWithCounts.reduce((sum, s) => sum + s.count, 0);
+    
+    return {
+      props: { 
+        stations: stationsWithCounts,
+        totalVenues,
+        lastUpdated: (typeof venuesData === 'object' && !Array.isArray(venuesData) && venuesData.lastUpdated) ? venuesData.lastUpdated : new Date().toISOString()
+      },
+      revalidate: 86400
+    };
+  } catch (error) {
+    console.error('Error loading venues data:', error);
+    return {
+      props: { 
+        stations: LONDON_STATIONS.map(s => ({ ...s, count: 0 })),
+        totalVenues: 0,
+        lastUpdated: new Date().toISOString()
+      },
+      revalidate: 86400
+    };
+  }
+}
+
+export default function HalalNearStationsIndex({ stations, totalVenues, lastUpdated }) {
+  const [searchQuery, setSearchQuery] = useState('');
 
   const filteredStations = searchQuery 
-    ? STATIONS.filter(s => 
+    ? stations.filter(s => 
         s.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
         s.borough.toLowerCase().includes(searchQuery.toLowerCase())
       )
-    : STATIONS;
+    : stations;
 
   return (
     <>
@@ -50,14 +76,14 @@ export default function HalalNearStationsIndex() {
         <title>Halal Restaurants Near London Tube Stations | Best of London</title>
         <meta 
           name="description" 
-          content={`Find halal restaurants within walking distance of ${STATIONS.length} major London tube stations. ${totalVenues}+ verified halal venues across Zone 1-2.`}
+          content={`Find halal restaurants within walking distance of ${stations.length} major London tube stations. ${totalVenues} verified halal venues across Zone 1-2.`}
         />
         <link rel="canonical" href="https://thebestinlondon.co.uk/halal/near-stations" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "CollectionPage",
           "name": "Halal Restaurants Near London Tube Stations",
-          "description": `Find halal restaurants within walking distance of ${STATIONS.length} major London tube stations`,
+          "description": `Find halal restaurants within walking distance of ${stations.length} major London tube stations`,
           "url": "https://thebestinlondon.co.uk/halal/near-stations"
         }) }} />
       </Head>
@@ -133,7 +159,7 @@ export default function HalalNearStationsIndex() {
               margin: `0 auto ${theme.spacing.xl}`,
               lineHeight: 1.6
             }}>
-              Find authentic halal dining within walking distance of {STATIONS.length} major London stations.
+              Find authentic halal dining within walking distance of {stations.length} major London stations.
             </p>
 
             {/* Stats */}
@@ -150,14 +176,14 @@ export default function HalalNearStationsIndex() {
             }}>
               <div>
                 <div style={{ fontSize: '2rem', fontWeight: 700, color: theme.colors.accent.gold }}>
-                  {STATIONS.length}
+                  {stations.length}
                 </div>
                 <div style={{ fontSize: '0.875rem', color: theme.colors.text.secondary }}>Stations</div>
               </div>
               <div style={{ width: '1px', background: theme.colors.border.default }}></div>
               <div>
                 <div style={{ fontSize: '2rem', fontWeight: 700, color: theme.colors.accent.gold }}>
-                  {totalVenues}+
+                  {totalVenues}
                 </div>
                 <div style={{ fontSize: '0.875rem', color: theme.colors.text.secondary }}>Halal Venues</div>
               </div>
