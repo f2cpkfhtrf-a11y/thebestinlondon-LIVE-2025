@@ -3,7 +3,7 @@ import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
 import Footer from '../components/Footer';
 import Link from 'next/link';
-import OptimizedImage from '../components/OptimizedImage';
+import Image from 'next/image';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -93,16 +93,16 @@ export default function Home({ topVenues, stats, popularCuisines }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebSite",
-              "name": "The Best in London",
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "The Best in London",
               "description": "London's premier dining guide featuring 760+ verified restaurants",
               "url": "https://www.thebestinlondon.co.uk",
-              "potentialAction": {
-                "@type": "SearchAction",
+          "potentialAction": {
+            "@type": "SearchAction",
                 "target": "https://www.thebestinlondon.co.uk/search?q={search_term_string}",
-                "query-input": "required name=search_term_string"
-              }
+            "query-input": "required name=search_term_string"
+          }
             })
           }}
         />
@@ -123,14 +123,14 @@ export default function Home({ topVenues, stats, popularCuisines }) {
                 Handpicked establishments that define London's culinary excellence
               </p>
             </div>
-            
+
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {topVenues.map((venue) => (
                 <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                   <div className="card overflow-hidden h-full">
                     <div className="relative h-48">
                       {venue.photos && venue.photos[0] ? (
-                        <OptimizedImage
+                        <Image
                           src={venue.photos[0].url}
                           alt={venue.name}
                           fill
@@ -145,7 +145,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
                         <div className="bg-gold text-black px-2 py-1 rounded-lg text-sm font-semibold">
                           ⭐ {venue.rating?.toFixed(1)}
                         </div>
-                      </div>
+                        </div>
                     </div>
                     <div className="p-6">
                       <h3 className="font-serif font-semibold text-white text-xl mb-2 group-hover:text-gold transition-colors duration-300">
@@ -177,7 +177,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
             <div className="text-center mb-16">
               <h2 className="text-3xl lg:text-4xl font-serif font-bold text-white mb-4">
                 Popular Cuisines
-              </h2>
+            </h2>
               <p className="text-lg text-grey max-w-2xl mx-auto">
                 Explore London's diverse culinary landscape
               </p>
@@ -210,7 +210,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
             <div className="text-center mb-16">
               <h2 className="text-3xl lg:text-4xl font-serif font-bold text-white mb-4">
                 London's Dining Scene
-              </h2>
+            </h2>
               <p className="text-lg text-grey max-w-2xl mx-auto">
                 Comprehensive coverage of the capital's culinary landscape
               </p>
@@ -220,7 +220,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
               <div className="text-center">
                 <div className="text-4xl lg:text-5xl font-serif font-bold text-gold mb-2">
                   {stats.totalVenues}+
-                </div>
+                  </div>
                 <div className="text-grey font-nav uppercase tracking-wider text-sm">
                   Restaurants
                 </div>
@@ -228,7 +228,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
               <div className="text-center">
                 <div className="text-4xl lg:text-5xl font-serif font-bold text-gold mb-2">
                   {stats.areas}+
-                </div>
+                      </div>
                 <div className="text-grey font-nav uppercase tracking-wider text-sm">
                   Areas
                 </div>
