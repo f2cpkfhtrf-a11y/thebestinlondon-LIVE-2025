@@ -45,7 +45,7 @@ export default function MobileNavigation() {
             <span className="text-xs font-nav">Home</span>
           </Link>
           
-          <Link href="/restaurants" className="flex flex-col items-center justify-center text-grey hover:text-gold transition-colors duration-300">
+          <Link href="/areas" className="flex flex-col items-center justify-center text-grey hover:text-gold transition-colors duration-300">
             <svg className="w-5 h-5 mb-1" fill="currentColor" viewBox="0 0 20 20">
               <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
             </svg>

@@ -22,6 +22,17 @@ export default function Search({ venues }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredVenues, setFilteredVenues] = useState([]);
   const [isSearching, setIsSearching] = useState(false);
+  const [activeFilter, setActiveFilter] = useState('all');
+  const [sortBy, setSortBy] = useState('relevance');
+
+  // Handle URL query parameters
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const query = urlParams.get('q');
+    if (query) {
+      setSearchQuery(query);
+    }
+  }, []);
 
   // Handle search
   useEffect(() => {
@@ -33,16 +44,59 @@ export default function Search({ venues }) {
     setIsSearching(true);
     
     const query = searchQuery.toLowerCase().trim();
-    const filtered = venues.filter(venue => 
+    let filtered = venues.filter(venue => 
       venue.name.toLowerCase().includes(query) ||
       venue.cuisines?.some(cuisine => cuisine.toLowerCase().includes(query)) ||
       venue.borough?.toLowerCase().includes(query) ||
-      venue.description?.toLowerCase().includes(query)
-    ).slice(0, 20); // Limit to 20 results
+      venue.description?.toLowerCase().includes(query) ||
+      venue.address?.formatted?.toLowerCase().includes(query) ||
+      venue.formatted_address?.toLowerCase().includes(query)
+    );
 
-    setFilteredVenues(filtered);
+    // Apply additional filters
+    if (activeFilter !== 'all') {
+      switch (activeFilter) {
+        case 'halal':
+          filtered = filtered.filter(v => v.dietary_tags?.halal || v.dietaryTags?.includes('halal'));
+          break;
+        case 'vegan':
+          filtered = filtered.filter(v => v.dietary_tags?.vegan || v.dietaryTags?.includes('vegan'));
+          break;
+        case 'vegetarian':
+          filtered = filtered.filter(v => v.dietary_tags?.vegetarian || v.dietaryTags?.includes('vegetarian'));
+          break;
+        case 'top-rated':
+          filtered = filtered.filter(v => v.rating >= 4.5);
+          break;
+        case 'budget':
+          filtered = filtered.filter(v => v.price_level <= 2);
+          break;
+        case 'fine-dining':
+          filtered = filtered.filter(v => v.price_level >= 3);
+          break;
+      }
+    }
+
+    // Sort results
+    switch (sortBy) {
+      case 'rating':
+        filtered = filtered.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+        break;
+      case 'reviews':
+        filtered = filtered.sort((a, b) => (b.user_ratings_total || 0) - (a.user_ratings_total || 0));
+        break;
+      case 'name':
+        filtered = filtered.sort((a, b) => a.name.localeCompare(b.name));
+        break;
+      case 'relevance':
+      default:
+        // Keep original order for relevance
+        break;
+    }
+
+    setFilteredVenues(filtered.slice(0, 50)); // Limit to 50 results
     setIsSearching(false);
-  }, [searchQuery, venues]);
+  }, [searchQuery, venues, activeFilter, sortBy]);
 
   return (
     <>
@@ -97,6 +151,88 @@ export default function Search({ venues }) {
                   <span className="text-grey">
                     {isSearching ? 'Searching...' : `${filteredVenues.length} results`}
                   </span>
+                </div>
+
+                {/* Advanced Filters & Sort */}
+                <div className="flex flex-col lg:flex-row gap-4 mb-8">
+                  {/* Filters */}
+                  <div className="flex flex-wrap gap-2">
+                    <button
+                      onClick={() => setActiveFilter('all')}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        activeFilter === 'all' 
+                          ? 'bg-gold text-black' 
+                          : 'bg-charcoal text-grey hover:text-warmWhite border border-grey-dark'
+                      }`}
+                    >
+                      All Results
+                    </button>
+                    <button
+                      onClick={() => setActiveFilter('halal')}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        activeFilter === 'halal' 
+                          ? 'bg-gold text-black' 
+                          : 'bg-charcoal text-grey hover:text-warmWhite border border-grey-dark'
+                      }`}
+                    >
+                      ☪️ Halal
+                    </button>
+                    <button
+                      onClick={() => setActiveFilter('vegan')}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        activeFilter === 'vegan' 
+                          ? 'bg-gold text-black' 
+                          : 'bg-charcoal text-grey hover:text-warmWhite border border-grey-dark'
+                      }`}
+                    >
+                      🌱 Vegan
+                    </button>
+                    <button
+                      onClick={() => setActiveFilter('top-rated')}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        activeFilter === 'top-rated' 
+                          ? 'bg-gold text-black' 
+                          : 'bg-charcoal text-grey hover:text-warmWhite border border-grey-dark'
+                      }`}
+                    >
+                      ⭐ Top Rated
+                    </button>
+                    <button
+                      onClick={() => setActiveFilter('budget')}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        activeFilter === 'budget' 
+                          ? 'bg-gold text-black' 
+                          : 'bg-charcoal text-grey hover:text-warmWhite border border-grey-dark'
+                      }`}
+                    >
+                      💰 Budget
+                    </button>
+                    <button
+                      onClick={() => setActiveFilter('fine-dining')}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        activeFilter === 'fine-dining' 
+                          ? 'bg-gold text-black' 
+                          : 'bg-charcoal text-grey hover:text-warmWhite border border-grey-dark'
+                      }`}
+                    >
+                      🍽️ Fine Dining
+                    </button>
+                  </div>
+
+                  {/* Sort */}
+                  <div className="flex items-center gap-2">
+                    <span className="text-grey text-sm">Sort by:</span>
+                    <select
+                      value={sortBy}
+                      onChange={(e) => setSortBy(e.target.value)}
+                      className="bg-charcoal border border-grey-dark rounded-lg px-3 py-2 text-warmWhite text-sm focus:border-gold focus:outline-none"
+                    >
+                      <option value="relevance">Relevance</option>
+                      <option value="rating">Rating</option>
+                      <option value="reviews">Most Reviews</option>
+                      <option value="name">Name A-Z</option>
+                    </select>
+                  </div>
                 </div>
 
                 {isSearching ? (
