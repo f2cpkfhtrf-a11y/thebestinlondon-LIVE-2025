@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { theme } from '../utils/theme';
 import FSABadge from '../components/FSABadge';
 import BestOfLondonBadge from '../components/BestOfLondonBadge';
+import NearMeFeature from '../components/NearMeFeature';
 import { fetchVenuesData, filterVenuesByCuisine, filterVenuesByDietary, sortVenues, getUniqueCuisines, getUniqueAreas, getDietaryTags, calculateVenueStats } from '../utils/venueDataUtils';
 
 export async function getStaticProps() {
@@ -23,6 +24,7 @@ export default function Restaurants({ venues, stats }) {
   const [filter, setFilter] = useState('all');
   const [sortBy, setSortBy] = useState('rating');
   const [scrolled, setScrolled] = useState(false);
+  const [filteredVenues, setFilteredVenues] = useState(venues);
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 50);
@@ -36,14 +38,14 @@ export default function Restaurants({ venues, stats }) {
   const availableDietaryTags = getDietaryTags(venues);
 
   // Filter venues by cuisine OR dietary tag
-  let filtered = venues;
+  let filtered = filteredVenues;
   if (filter !== 'all') {
     // Check if it's a dietary filter
     if (availableDietaryTags.includes(filter)) {
-      filtered = filterVenuesByDietary(venues, filter);
+      filtered = filterVenuesByDietary(filteredVenues, filter);
     } else {
       // Filter by cuisine
-      filtered = filterVenuesByCuisine(venues, filter);
+      filtered = filterVenuesByCuisine(filteredVenues, filter);
     }
   }
 
@@ -552,6 +554,12 @@ export default function Restaurants({ venues, stats }) {
             </div>
           </div>
         </section>
+
+        {/* Near Me Feature */}
+        <NearMeFeature
+          venues={venues}
+          onFilteredVenues={setFilteredVenues}
+        />
 
         {/* Venues Grid */}
         <section style={{ padding: 'clamp(2rem, 5vw, 4rem) 0' }}>
