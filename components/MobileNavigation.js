@@ -1,9 +1,37 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { useRouter } from 'next/router';
 
 export default function MobileNavigation() {
   const [isOpen, setIsOpen] = useState(false);
+  const router = useRouter();
+
+  // Scroll position restoration
+  useEffect(() => {
+    const handleRouteChange = () => {
+      // Store current scroll position
+      const scrollPosition = window.scrollY;
+      sessionStorage.setItem('scrollPosition', scrollPosition.toString());
+    };
+
+    const restoreScrollPosition = () => {
+      const savedPosition = sessionStorage.getItem('scrollPosition');
+      if (savedPosition) {
+        setTimeout(() => {
+          window.scrollTo(0, parseInt(savedPosition));
+        }, 100);
+      }
+    };
+
+    router.events.on('routeChangeStart', handleRouteChange);
+    router.events.on('routeChangeComplete', restoreScrollPosition);
+
+    return () => {
+      router.events.off('routeChangeStart', handleRouteChange);
+      router.events.off('routeChangeComplete', restoreScrollPosition);
+    };
+  }, [router]);
 
   return (
     <>
@@ -17,7 +45,7 @@ export default function MobileNavigation() {
             <span className="text-xs font-nav">Home</span>
           </Link>
           
-          <Link href="/restaurants-soho" className="flex flex-col items-center justify-center text-grey hover:text-gold transition-colors duration-300">
+          <Link href="/restaurants" className="flex flex-col items-center justify-center text-grey hover:text-gold transition-colors duration-300">
             <svg className="w-5 h-5 mb-1" fill="currentColor" viewBox="0 0 20 20">
               <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
             </svg>
@@ -38,11 +66,11 @@ export default function MobileNavigation() {
             <span className="text-xs font-nav">Halal</span>
           </Link>
           
-          <Link href="/privacy" className="flex flex-col items-center justify-center text-grey hover:text-gold transition-colors duration-300">
-            <svg className="w-5 h-5 mb-1" fill="currentColor" viewBox="0 0 20 20">
-              <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+          <Link href="/search" className="flex flex-col items-center justify-center text-grey hover:text-gold transition-colors duration-300">
+            <svg className="w-5 h-5 mb-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
             </svg>
-            <span className="text-xs font-nav">About</span>
+            <span className="text-xs font-nav">Search</span>
           </Link>
         </div>
       </nav>
@@ -65,7 +93,7 @@ export default function MobileNavigation() {
             </div>
 
             {/* Search Content */}
-            <div className="flex-1 p-4 space-y-6">
+            <div className="flex-1 p-4 space-y-6 overflow-y-auto">
               {/* Quick Filters */}
               <div>
                 <h3 className="text-lg font-serif font-semibold text-white mb-4">Quick Filters</h3>

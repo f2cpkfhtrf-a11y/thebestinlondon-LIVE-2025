@@ -1,12 +1,25 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  // Handle scroll for sticky header effect
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 10);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   return (
-    <header className="sticky top-0 z-50 bg-charcoal/95 backdrop-blur-md border-b border-grey-dark">
+    <header className={`sticky top-0 z-50 transition-all duration-300 ${
+      isScrolled ? 'bg-charcoal/98 backdrop-blur-lg shadow-lg' : 'bg-charcoal/95 backdrop-blur-md'
+    } border-b border-grey-dark`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-20">
           
@@ -46,17 +59,18 @@ export default function Header() {
             <Link href="/best-halal-restaurants-london" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
               Halal
             </Link>
-            <Link href="/privacy" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
-              About
-            </Link>
-          </nav>
-
-          {/* CTA Button */}
-          <div className="hidden lg:flex items-center space-x-4">
-            <Link href="/search" className="btn-secondary text-sm">
+            <Link href="/search" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
               Search
             </Link>
-          </div>
+            
+            {/* CTA Button */}
+            <Link 
+              href="/search" 
+              className="bg-gold text-black px-4 py-2 rounded-lg font-nav font-semibold hover:bg-gold/90 transition-colors duration-300"
+            >
+              Find Restaurants
+            </Link>
+          </nav>
 
           {/* Mobile Menu Button */}
           <button
@@ -76,49 +90,55 @@ export default function Header() {
 
         {/* Mobile Menu */}
         {isMenuOpen && (
-          <div className="lg:hidden border-t border-grey-dark bg-charcoal/98 backdrop-blur-md">
-            <div className="px-4 py-6 space-y-4">
+          <div className="lg:hidden border-t border-grey-dark bg-charcoal/98 backdrop-blur-lg">
+            <nav className="py-4 space-y-2">
               <Link 
                 href="/restaurants" 
-                className="block text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
                 Restaurants
               </Link>
               <Link 
                 href="/restaurants-soho" 
-                className="block text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
                 Areas
               </Link>
               <Link 
                 href="/indian-restaurants-london" 
-                className="block text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
                 Cuisines
               </Link>
               <Link 
                 href="/best-halal-restaurants-london" 
-                className="block text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Halal
+                Halal Options
               </Link>
               <Link 
-                href="/privacy" 
-                className="block text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                href="/search" 
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
-                About
+                Search
               </Link>
-              <div className="pt-4 border-t border-grey-dark">
-                <Link href="/search" className="btn-secondary text-sm w-full text-center">
-                  Search
+              
+              {/* Mobile CTA */}
+              <div className="px-4 pt-2">
+                <Link 
+                  href="/search" 
+                  className="block w-full bg-gold text-black px-4 py-3 rounded-lg font-nav font-semibold text-center hover:bg-gold/90 transition-colors duration-300"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  Find Restaurants
                 </Link>
               </div>
-            </div>
+            </nav>
           </div>
         )}
       </div>
