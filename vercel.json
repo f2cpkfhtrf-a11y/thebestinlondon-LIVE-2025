@@ -4,8 +4,6 @@
   "buildCommand": "npm ci && npm run build",
   "installCommand": "npm ci",
   "env": {
-    "NEXT_PUBLIC_GOOGLE_PLACES_KEY": "@next_public_google_places_key",
-    "NEXT_PUBLIC_GA_MEASUREMENT_ID": "@next_public_ga_measurement_id",
     "NEXT_TELEMETRY_DISABLED": "1"
   },
   "build": {
