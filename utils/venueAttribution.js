@@ -79,11 +79,11 @@ export const createVenueWithAttribution = (venue) => {
     
     // SEO Metadata
     seo: {
-      slug: generateSlug(venue.name),
+      slug: venue.slug || generateSlug(venue.name), // Preserve existing slug
       title: generateSEOTitle(venue),
       description: generateSEODescription(venue),
       keywords: generateKeywords(venue),
-      canonical: `https://thebestinlondon.co.uk/restaurants/${generateSlug(venue.name)}`
+      canonical: `https://thebestinlondon.co.uk/restaurants/${venue.slug || generateSlug(venue.name)}`
     }
   };
 };
