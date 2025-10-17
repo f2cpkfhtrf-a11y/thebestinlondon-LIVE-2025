@@ -93,27 +93,31 @@ export function isHalalVenue(venue, mode = 'all') {
   
   if (mode === 'strict') return { isHalal: strict, type: 'verified' };
   
-  // Fuzzy match for cuisines commonly halal - expanded list
+  // Include cuisines that are commonly halal (balanced approach)
   const halalCuisines = [
     'middle eastern', 'turkish', 'pakistani', 'bangladeshi', 'indonesian', 'malaysian', 
     'afghan', 'lebanese', 'moroccan', 'iranian', 'persian', 'indian', 'caribbean',
-    'mediterranean', 'korean', 'thai', 'vietnamese', 'chinese', 'international'
+    'korean', 'thai', 'vietnamese', 'chinese'
   ];
   const cuisineMatch = (venue.cuisines || []).some(c => 
     halalCuisines.some(hc => c.toLowerCase().includes(hc))
   );
   
-  // Exclude non-halal signals
-  const excludeTerms = ['pork', 'bacon', 'ham', 'charcuterie', 'prosciutto', 'wine bar', 'pub', 'bar', 'brewery', 'steakhouse'];
+  // Strong exclusion terms for clearly non-halal venues
+  const excludeTerms = [
+    'pork', 'bacon', 'ham', 'charcuterie', 'prosciutto', 'wine bar', 'pub', 'bar', 
+    'brewery', 'steakhouse', 'butcher', 'french', 'italian', 'spanish', 'british',
+    'european', 'continental'
+  ];
   const hasExclusion = excludeTerms.some(term => 
     venue.description?.toLowerCase().includes(term) ||
     venue.name?.toLowerCase().includes(term) ||
-    (venue.types || []).some(t => t.toLowerCase().includes(term))
+    (venue.types || []).some(t => t.toLowerCase().includes(term)) ||
+    (venue.cuisines || []).some(c => c.toLowerCase().includes(term))
   );
   
-  // For now, be more inclusive - include most restaurants as potentially halal-friendly
-  // unless they have clear non-halal signals
-  const communityVerified = !hasExclusion && (cuisineMatch || (venue.cuisines || []).length === 0);
+  // Include if explicitly halal OR has halal cuisine AND no exclusion signals
+  const communityVerified = cuisineMatch && !hasExclusion;
   
   if (strict) return { isHalal: true, type: 'verified' };
   if (communityVerified) return { isHalal: true, type: 'community' };
