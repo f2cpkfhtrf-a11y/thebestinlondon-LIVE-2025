@@ -1,10 +1,13 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
+import { useRouter } from 'next/router';
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const router = useRouter();
 
   // Handle scroll for sticky header effect
   useEffect(() => {
@@ -15,6 +18,14 @@ export default function Header() {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  // Handle search submission
+  const handleSearch = (e) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+    }
+  };
 
   return (
     <header className={`sticky top-0 z-50 transition-all duration-300 ${
@@ -46,11 +57,11 @@ export default function Header() {
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center space-x-8">
+          <nav className="hidden lg:flex items-center space-x-6">
             <Link href="/restaurants" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
               Restaurants
             </Link>
-            <Link href="/restaurants-soho" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link href="/areas" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
               Areas
             </Link>
             <Link href="/indian-restaurants-london" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
@@ -59,16 +70,32 @@ export default function Header() {
             <Link href="/best-halal-restaurants-london" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
               Halal
             </Link>
-            <Link href="/search" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
-              Search
-            </Link>
+            
+            {/* Search Input */}
+            <form onSubmit={handleSearch} className="relative">
+              <input
+                type="text"
+                placeholder="Search restaurants..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="bg-charcoal-light border border-grey-dark rounded-lg px-4 py-2 pr-10 text-warmWhite placeholder-grey focus:border-gold focus:outline-none transition-colors duration-300 w-64"
+              />
+              <button
+                type="submit"
+                className="absolute right-2 top-1/2 transform -translate-y-1/2 text-grey hover:text-gold transition-colors duration-300"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+              </button>
+            </form>
             
             {/* CTA Button */}
             <Link 
               href="/search" 
               className="bg-gold text-black px-4 py-2 rounded-lg font-nav font-semibold hover:bg-gold/90 transition-colors duration-300"
             >
-              Find Restaurants
+              Browse All
             </Link>
           </nav>
 
@@ -92,6 +119,28 @@ export default function Header() {
         {isMenuOpen && (
           <div className="lg:hidden border-t border-grey-dark bg-charcoal/98 backdrop-blur-lg">
             <nav className="py-4 space-y-2">
+              {/* Mobile Search */}
+              <div className="px-4 pb-4">
+                <form onSubmit={handleSearch} className="relative">
+                  <input
+                    type="text"
+                    placeholder="Search restaurants..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    className="w-full bg-charcoal-light border border-grey-dark rounded-lg px-4 py-3 pr-12 text-warmWhite placeholder-grey focus:border-gold focus:outline-none transition-colors duration-300"
+                  />
+                  <button
+                    type="submit"
+                    className="absolute right-3 top-1/2 transform -translate-y-1/2 text-grey hover:text-gold transition-colors duration-300"
+                    onClick={() => setIsMenuOpen(false)}
+                  >
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                  </button>
+                </form>
+              </div>
+
               <Link 
                 href="/restaurants" 
                 className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
@@ -100,7 +149,7 @@ export default function Header() {
                 Restaurants
               </Link>
               <Link 
-                href="/restaurants-soho" 
+                href="/areas" 
                 className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
@@ -120,13 +169,6 @@ export default function Header() {
               >
                 Halal Options
               </Link>
-              <Link 
-                href="/search" 
-                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                Search
-              </Link>
               
               {/* Mobile CTA */}
               <div className="px-4 pt-2">
@@ -135,7 +177,7 @@ export default function Header() {
                   className="block w-full bg-gold text-black px-4 py-3 rounded-lg font-nav font-semibold text-center hover:bg-gold/90 transition-colors duration-300"
                   onClick={() => setIsMenuOpen(false)}
                 >
-                  Find Restaurants
+                  Browse All Restaurants
                 </Link>
               </div>
             </nav>
