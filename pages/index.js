@@ -3,7 +3,7 @@ import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
 import Footer from '../components/Footer';
 import Link from 'next/link';
-import Image from 'next/image';
+import OptimizedImage from '../components/OptimizedImage';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -130,7 +130,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
                   <div className="card overflow-hidden h-full">
                     <div className="relative h-48">
                       {venue.photos && venue.photos[0] ? (
-                        <Image
+                        <OptimizedImage
                           src={venue.photos[0].url}
                           alt={venue.name}
                           fill
