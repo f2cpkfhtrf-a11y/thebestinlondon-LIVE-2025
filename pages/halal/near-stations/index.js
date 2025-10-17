@@ -402,7 +402,7 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
               style={{
                 display: 'inline-block',
                 background: `linear-gradient(135deg, ${theme.colors.accent.gold} 0%, #F4D03F 100%)`,
-                color: theme.colors.background.primary,
+                color: theme.colors.text.inverse,
                 padding: `${theme.spacing.md} ${theme.spacing.xl}`,
                 borderRadius: '8px',
                 fontWeight: 600,
