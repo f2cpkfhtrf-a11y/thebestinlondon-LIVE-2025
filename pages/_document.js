@@ -28,7 +28,7 @@ export default function Document() {
         <link rel="dns-prefetch" href="https://res.cloudinary.com" />
         
         {/* Favicon & Web App Manifest */}
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.svg" />
         
         {/* Theme Color for Mobile Browsers */}
         <meta name="theme-color" content="#0B0B0B" />

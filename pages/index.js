@@ -443,7 +443,7 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
                   </button>
                 ))}
                 {/* Halal Near Stations Link */}
-                <Link href="/halal/near-stations" style={{ textDecoration: 'none' }}>
+                <Link href="/halal-near-stations-simple" style={{ textDecoration: 'none' }}>
                   <button
                     style={{
                       padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
@@ -1090,7 +1090,7 @@ export default function Home({ allVenues, topVenues, cuisines, stats }) {
                 <h4 style={{ fontSize: '14px', fontWeight: 600, marginBottom: theme.spacing.lg, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Cuisines</h4>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: theme.spacing.md, fontSize: '14px', color: theme.colors.text.secondary }}>
                   <Link href="/best-halal-restaurants-london" style={{ color: '#10B981', textDecoration: 'none', fontWeight: 600 }}>Halal Restaurants ★</Link>
-                  <Link href="/halal/near-stations" style={{ color: '#10B981', textDecoration: 'none', fontWeight: 600 }}>Halal Near Stations 🆕</Link>
+                  <Link href="/halal-near-stations-simple" style={{ color: '#10B981', textDecoration: 'none', fontWeight: 600 }}>Halal Near Stations 🆕</Link>
                   <Link href="/indian-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Indian</Link>
                   <Link href="/italian-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Italian</Link>
                   <Link href="/japanese-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Japanese</Link>
