@@ -44,7 +44,7 @@ export default function HeroSection() {
           <Link href="/restaurants" className="btn-primary text-lg px-8 py-4 w-full sm:w-auto">
             Explore Restaurants
           </Link>
-          <Link href="/halal" className="btn-secondary text-lg px-8 py-4 w-full sm:w-auto">
+          <Link href="/best-halal-restaurants-london" className="btn-secondary text-lg px-8 py-4 w-full sm:w-auto">
             Find Halal Options
           </Link>
         </div>

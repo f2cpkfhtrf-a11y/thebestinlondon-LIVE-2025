@@ -46,10 +46,10 @@ export default function Footer() {
             <h4 className="font-nav font-semibold text-white mb-4">Quick Links</h4>
             <ul className="space-y-2">
               <li><Link href="/restaurants" className="text-grey hover:text-gold transition-colors duration-300 text-sm">All Restaurants</Link></li>
-              <li><Link href="/halal" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Halal Restaurants</Link></li>
-              <li><Link href="/vegan" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Vegan Options</Link></li>
-              <li><Link href="/areas" className="text-grey hover:text-gold transition-colors duration-300 text-sm">By Area</Link></li>
-              <li><Link href="/cuisines" className="text-grey hover:text-gold transition-colors duration-300 text-sm">By Cuisine</Link></li>
+              <li><Link href="/best-halal-restaurants-london" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Halal Restaurants</Link></li>
+              <li><Link href="/vegan-restaurants-london" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Vegan Options</Link></li>
+              <li><Link href="/restaurants-soho" className="text-grey hover:text-gold transition-colors duration-300 text-sm">By Area</Link></li>
+              <li><Link href="/indian-restaurants-london" className="text-grey hover:text-gold transition-colors duration-300 text-sm">By Cuisine</Link></li>
             </ul>
           </div>
 
@@ -60,8 +60,8 @@ export default function Footer() {
               <li><Link href="/privacy" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Privacy Policy</Link></li>
               <li><Link href="/terms" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Terms of Service</Link></li>
               <li><Link href="/cookies" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Cookie Policy</Link></li>
-              <li><Link href="/about" className="text-grey hover:text-gold transition-colors duration-300 text-sm">About Us</Link></li>
-              <li><Link href="/contact" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Contact</Link></li>
+              <li><Link href="/privacy" className="text-grey hover:text-gold transition-colors duration-300 text-sm">About Us</Link></li>
+              <li><Link href="/terms" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Contact</Link></li>
             </ul>
           </div>
         </div>

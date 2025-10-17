@@ -37,23 +37,23 @@ export default function Header() {
             <Link href="/restaurants" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
               Restaurants
             </Link>
-            <Link href="/areas" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link href="/restaurants-soho" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
               Areas
             </Link>
-            <Link href="/cuisines" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link href="/indian-restaurants-london" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
               Cuisines
             </Link>
-            <Link href="/halal" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link href="/best-halal-restaurants-london" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
               Halal
             </Link>
-            <Link href="/about" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link href="/privacy" className="text-white hover:text-gold font-nav font-medium transition-colors duration-300">
               About
             </Link>
           </nav>
 
           {/* CTA Button */}
           <div className="hidden lg:flex items-center space-x-4">
-            <Link href="/search" className="btn-secondary text-sm">
+            <Link href="/restaurants" className="btn-secondary text-sm">
               Search
             </Link>
           </div>
@@ -86,35 +86,35 @@ export default function Header() {
                 Restaurants
               </Link>
               <Link 
-                href="/areas" 
+                href="/restaurants-soho" 
                 className="block text-white hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
                 Areas
               </Link>
               <Link 
-                href="/cuisines" 
+                href="/indian-restaurants-london" 
                 className="block text-white hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
                 Cuisines
               </Link>
               <Link 
-                href="/halal" 
+                href="/best-halal-restaurants-london" 
                 className="block text-white hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
                 Halal
               </Link>
               <Link 
-                href="/about" 
+                href="/privacy" 
                 className="block text-white hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
                 About
               </Link>
               <div className="pt-4 border-t border-grey-dark">
-                <Link href="/search" className="btn-secondary text-sm w-full text-center">
+                <Link href="/restaurants" className="btn-secondary text-sm w-full text-center">
                   Search
                 </Link>
               </div>
