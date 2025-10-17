@@ -145,7 +145,7 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
             </div>
 
             <h1 style={{
-              fontFamily: theme.typography.heading.family,
+              fontFamily: theme.typography.serif,
               fontSize: 'clamp(2rem, 5vw, 3.5rem)',
               fontWeight: 700,
               lineHeight: 1.2,
@@ -384,7 +384,7 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
         }}>
           <div style={{ maxWidth: '700px', margin: '0 auto' }}>
             <h2 style={{
-              fontFamily: theme.typography.heading.family,
+              fontFamily: theme.typography.serif,
               fontSize: '1.75rem',
               marginBottom: theme.spacing.md
             }}>
