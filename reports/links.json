@@ -1,90 +1,9 @@
 {
-  "generated_at": "2025-10-16T21:06:58.988Z",
+  "generated_at": "2025-10-17T15:06:55.075Z",
   "summary": {
-    "total": 103,
-    "valid": 87,
-    "broken": 16
+    "total": 139,
+    "valid": 139,
+    "broken": 0
   },
-  "broken_links": [
-    {
-      "href": "/indian",
-      "file": "pages/[cuisine].js",
-      "line": 484
-    },
-    {
-      "href": "/italian",
-      "file": "pages/[cuisine].js",
-      "line": 485
-    },
-    {
-      "href": "/japanese",
-      "file": "pages/[cuisine].js",
-      "line": 486
-    },
-    {
-      "href": "/favicon.ico",
-      "file": "pages/_document.js",
-      "line": 31
-    },
-    {
-      "href": "/best-brunch-london",
-      "file": "pages/best-cafes-london.js",
-      "line": 96
-    },
-    {
-      "href": "/best-vegan-restaurants-london",
-      "file": "pages/best-halal-restaurants-london.js",
-      "line": 389
-    },
-    {
-      "href": "/terms",
-      "file": "pages/privacy.js",
-      "line": 218
-    },
-    {
-      "href": "/bars",
-      "file": "pages/restaurant/[slug].js",
-      "line": 128
-    },
-    {
-      "href": "/cookies",
-      "file": "components/CookieConsent.js",
-      "line": 95
-    },
-    {
-      "href": "/favicon.ico",
-      "file": "components/Layout.js",
-      "line": 11
-    },
-    {
-      "href": "/cafes",
-      "file": "components/Layout.js",
-      "line": 33
-    },
-    {
-      "href": "/bars",
-      "file": "components/Layout.js",
-      "line": 36
-    },
-    {
-      "href": "/cafes",
-      "file": "components/Layout.js",
-      "line": 61
-    },
-    {
-      "href": "/bars",
-      "file": "components/Layout.js",
-      "line": 62
-    },
-    {
-      "href": "/terms",
-      "file": "components/LegalFooter.js",
-      "line": 119
-    },
-    {
-      "href": "/cookies",
-      "file": "components/LegalFooter.js",
-      "line": 121
-    }
-  ]
+  "broken_links": []
 }
