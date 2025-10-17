@@ -13,7 +13,7 @@ export default function Custom404() {
         <meta name="robots" content="noindex" />
       </Head>
 
-      <div className="min-h-screen bg-black flex flex-col">
+      <div className="min-h-screen bg-charcoal flex flex-col">
         <Header />
         
         <main className="flex-1 flex items-center justify-center px-4 sm:px-6 lg:px-8">
@@ -35,7 +35,7 @@ export default function Custom404() {
               <h1 className="text-6xl lg:text-8xl font-serif font-bold text-gold mb-4">
                 404
               </h1>
-              <h2 className="text-2xl lg:text-3xl font-serif font-semibold text-white mb-4">
+              <h2 className="text-2xl lg:text-3xl font-serif font-semibold text-warmWhite mb-4">
                 Page Not Found
               </h2>
               <p className="text-lg text-grey mb-8 max-w-md mx-auto">
