@@ -99,14 +99,14 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
           position: 'sticky',
           top: 0,
           zIndex: 50,
-          background: theme.colors.background.primary,
+          background: theme.colors.bg.primary,
           borderBottom: `1px solid ${theme.colors.border.subtle}`,
           padding: theme.spacing.md
         }}>
           <div style={{ maxWidth: '1200px', margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
             <Link href="/" style={{ textDecoration: 'none' }}>
               <span style={{ 
-                fontFamily: theme.typography.heading.family,
+                fontFamily: theme.typography.serif,
                 fontSize: '1.5rem',
                 fontWeight: 700,
                 color: theme.colors.text.primary 
@@ -228,7 +228,7 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
           {filteredStations.length === 0 ? (
             <div style={{ textAlign: 'center', padding: theme.spacing.xxl }}>
               <h3 style={{ 
-                fontFamily: theme.typography.heading.family,
+                fontFamily: theme.typography.serif,
                 fontSize: '1.5rem',
                 marginBottom: theme.spacing.md,
                 color: theme.colors.text.primary
