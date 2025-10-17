@@ -175,7 +175,7 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
               justifyContent: 'center',
               padding: theme.spacing.lg,
               background: `${theme.colors.accent.gold}10`,
-              borderRadius: '12px',
+              borderRadius: theme.radius.lg,
               border: `1px solid ${theme.colors.border.subtle}`,
               marginBottom: theme.spacing.xl
             }}>
@@ -185,14 +185,14 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
                 </div>
                 <div style={{ fontSize: '0.875rem', color: theme.colors.text.secondary }}>Stations</div>
               </div>
-              <div style={{ width: '1px', background: theme.colors.border.default }}></div>
+              <div style={{ width: '1px', background: theme.colors.border.prominent }}></div>
               <div>
                 <div style={{ fontSize: '2rem', fontWeight: 700, color: theme.colors.accent.gold }}>
                   {totalVenues}
                 </div>
                 <div style={{ fontSize: '0.875rem', color: theme.colors.text.secondary }}>Halal Venues</div>
               </div>
-              <div style={{ width: '1px', background: theme.colors.border.default }}></div>
+              <div style={{ width: '1px', background: theme.colors.border.prominent }}></div>
               <div>
                 <div style={{ fontSize: '2rem', fontWeight: 700, color: theme.colors.accent.gold }}>
                   0.6km
@@ -212,7 +212,7 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
                   width: '100%',
                   padding: theme.spacing.md,
                   background: `${theme.colors.text.primary}08`,
-                  border: `1px solid ${theme.colors.border.default}`,
+                  border: `1px solid ${theme.colors.border.subtle}`,
                   borderRadius: '8px',
                   color: theme.colors.text.primary,
                   fontSize: '1rem',
