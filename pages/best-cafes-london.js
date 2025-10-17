@@ -93,8 +93,8 @@ export default function BestCafesLondon({ venues }) {
               <Link href="/indian-restaurants-london" style={{ textDecoration: 'none', padding: theme.spacing.xl, background: theme.colors.bg.elevated, border: `1px solid ${theme.colors.border.subtle}`, borderRadius: theme.radius.md, color: theme.colors.text.primary }}>
                 🍛 Indian Restaurants
               </Link>
-              <Link href="/best-brunch-london" style={{ textDecoration: 'none', padding: theme.spacing.xl, background: theme.colors.bg.elevated, border: `1px solid ${theme.colors.border.subtle}`, borderRadius: theme.radius.md, color: theme.colors.text.primary }}>
-                🥞 Best Brunch Spots
+              <Link href="/best-coffee-shops-london" style={{ textDecoration: 'none', padding: theme.spacing.xl, background: theme.colors.bg.elevated, border: `1px solid ${theme.colors.border.subtle}`, borderRadius: theme.radius.md, color: theme.colors.text.primary }}>
+                ☕ Best Coffee Shops
               </Link>
               <Link href="/vegan-restaurants-london" style={{ textDecoration: 'none', padding: theme.spacing.xl, background: theme.colors.bg.elevated, border: `1px solid ${theme.colors.border.subtle}`, borderRadius: theme.radius.md, color: theme.colors.text.primary }}>
                 🌱 Vegan Restaurants

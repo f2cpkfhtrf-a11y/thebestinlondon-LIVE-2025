@@ -36,6 +36,13 @@ export default function CuisinePage({ cuisine, venues, totalVenues }) {
         <title>{cuisineTitle} Restaurants in London | The Best in London</title>
         <meta name="description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
         <link rel="canonical" href={`https://thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": `${cuisineTitle} Restaurants in London`,
+          "description": `Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London with real reviews and FSA ratings`,
+          "url": `https://thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`
+        }) }} />
         
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
@@ -481,9 +488,9 @@ export default function CuisinePage({ cuisine, venues, totalVenues }) {
               <div>
                 <h4 style={{ fontSize: '14px', fontWeight: 600, marginBottom: theme.spacing.lg, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Cuisines</h4>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: theme.spacing.md, fontSize: '14px', color: theme.colors.text.secondary }}>
-                  <Link href="/indian" style={{ color: 'inherit', textDecoration: 'none' }}>Indian</Link>
-                  <Link href="/italian" style={{ color: 'inherit', textDecoration: 'none' }}>Italian</Link>
-                  <Link href="/japanese" style={{ color: 'inherit', textDecoration: 'none' }}>Japanese</Link>
+                  <Link href="/indian-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Indian</Link>
+                  <Link href="/italian-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Italian</Link>
+                  <Link href="/japanese-restaurants-london" style={{ color: 'inherit', textDecoration: 'none' }}>Japanese</Link>
                 </div>
               </div>
 

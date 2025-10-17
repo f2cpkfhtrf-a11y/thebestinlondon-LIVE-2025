@@ -386,7 +386,7 @@ export default function BestHalalRestaurantsLondon({ venues }) {
               <Link href="/turkish-restaurants-london" style={{ color: theme.colors.text.secondary, textDecoration: 'none', fontSize: '15px' }}>
                 Turkish Restaurants →
               </Link>
-              <Link href="/best-vegan-restaurants-london" style={{ color: theme.colors.text.secondary, textDecoration: 'none', fontSize: '15px' }}>
+              <Link href="/vegan-restaurants-london" style={{ color: theme.colors.text.secondary, textDecoration: 'none', fontSize: '15px' }}>
                 Vegan Restaurants →
               </Link>
             </div>
