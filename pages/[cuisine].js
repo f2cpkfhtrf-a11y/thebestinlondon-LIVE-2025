@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import { generateCuisineEditorial } from '../utils/contentGeneration';
 import { theme } from '../utils/theme';
 import FSABadge from '../components/FSABadge';
 import BestOfLondonBadge from '../components/BestOfLondonBadge';
@@ -9,7 +10,7 @@ import CuisineHero from '../components/CuisineHero';
 import fs from 'fs';
 import path from 'path';
 
-export default function CuisinePage({ cuisine, venues, totalVenues }) {
+export default function CuisinePage({ cuisine, venues, totalVenues, editorial }) {
   const [filteredVenues, setFilteredVenues] = useState(venues);
   const [hoveredCard, setHoveredCard] = useState(null);
   
@@ -74,6 +75,25 @@ export default function CuisinePage({ cuisine, venues, totalVenues }) {
         venueCount={totalVenues}
         cuisine={cuisine}
       />
+
+      {/* Editorial Content */}
+      {editorial && (
+        <section className="py-12 bg-black-light">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center mb-8">
+              <h2 className="text-3xl font-serif font-bold text-warmWhite mb-4">
+                {editorial.title}
+              </h2>
+              <div className="w-24 h-1 bg-gold mx-auto rounded-full"></div>
+            </div>
+            <div className="prose prose-lg max-w-none">
+              <p className="text-lg text-grey leading-relaxed text-center">
+                {editorial.content}
+              </p>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Filter Bar */}
       <FilterBar
@@ -264,7 +284,8 @@ export async function getStaticProps({ params }) {
       props: {
         cuisine: cuisineParam,
         venues,
-        totalVenues: venues.length
+        totalVenues: venues.length,
+        editorial: generateCuisineEditorial(cuisineParam)
       },
       revalidate: 3600
     };
