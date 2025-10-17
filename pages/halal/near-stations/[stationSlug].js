@@ -253,7 +253,7 @@ export default function HalalNearStation({ station, venuesByRadius }) {
 
                         {/* Scores */}
                         <div style={{ display: 'flex', gap: theme.spacing.sm, marginBottom: theme.spacing.sm, flexWrap: 'wrap' }}>
-                          <BestOfLondonBadge score={venue.bestOfLondonScore} />
+                          <BestOfLondonBadge venue={venue} />
                           {venue.rating && (
                             <div style={{
                               padding: '0.375rem 0.625rem',
