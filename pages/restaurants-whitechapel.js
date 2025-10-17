@@ -26,9 +26,9 @@ export async function getStaticProps() {
     
     const stats = {
       totalVenues: venues.length,
-      halalCount: venues.filter(v => v.dietary_tags?.halal === true || (v.dietaryTags && v.dietaryTags.includes('halal'))).length,
-      veganCount: venues.filter(v => v.dietary_tags?.vegan === true || (v.dietaryTags && v.dietaryTags.includes('vegan'))).length,
-      vegetarianCount: venues.filter(v => v.dietary_tags?.vegetarian === true || (v.dietaryTags && v.dietaryTags.includes('vegetarian'))).length,
+      halalCount: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.halal === true || (v.dietaryTags && v.dietaryTags.includes('halal'))).length,
+      veganCount: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegan === true || (v.dietaryTags && v.dietaryTags.includes('vegan'))).length,
+      vegetarianCount: venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegetarian === true || (v.dietaryTags && v.dietaryTags.includes('vegetarian'))).length,
       avgRating: venues.length > 0 ? (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1) : 0
     };
     
@@ -61,13 +61,13 @@ export default function WhitechapelRestaurants({ venues, stats, lastUpdated }) {
       case 'all':
         return venues;
       case 'halal':
-        return venues.filter(v => v.dietary_tags?.halal === true || (v.dietaryTags && v.dietaryTags.includes('halal')));
+        return venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.halal === true || (v.dietaryTags && v.dietaryTags.includes('halal')));
       case 'vegan':
-        return venues.filter(v => v.dietary_tags?.vegan === true || (v.dietaryTags && v.dietaryTags.includes('vegan')));
+        return venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegan === true || (v.dietaryTags && v.dietaryTags.includes('vegan')));
       case 'vegetarian':
-        return venues.filter(v => v.dietary_tags?.vegetarian === true || (v.dietaryTags && v.dietaryTags.includes('vegetarian')));
+        return venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.vegetarian === true || (v.dietaryTags && v.dietaryTags.includes('vegetarian')));
       case 'gluten-free':
-        return venues.filter(v => v.dietary_tags?.gluten_free === true || (v.dietaryTags && v.dietaryTags.includes('gluten-free')));
+        return venues.filter(v => v.dietary_tags && typeof v.dietary_tags === 'object' && v.dietary_tags.gluten_free === true || (v.dietaryTags && v.dietaryTags.includes('gluten-free')));
       case 'top-rated':
         return venues.filter(v => v.rating >= 4.5);
       default:
