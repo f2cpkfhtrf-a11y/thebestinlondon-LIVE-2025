@@ -1,0 +1,42 @@
+{
+  "rateLimiting": {
+    "googlePlaces": {
+      "current": 463,
+      "limit": 1000,
+      "status": "safe",
+      "remaining": 537
+    },
+    "unsplash": {
+      "current": 0,
+      "limit": 50,
+      "status": "safe",
+      "remaining": 50
+    },
+    "aiGeneration": {
+      "current": 8,
+      "limit": 100,
+      "status": "safe",
+      "remaining": 92
+    }
+  },
+  "dailyLimits": {
+    "googlePlaces": {
+      "current": 463,
+      "limit": 10000,
+      "status": "safe",
+      "remaining": 9537
+    },
+    "unsplash": {
+      "current": 0,
+      "limit": 5000,
+      "status": "safe",
+      "remaining": 5000
+    },
+    "aiGeneration": {
+      "current": 8,
+      "limit": 1000,
+      "status": "safe",
+      "remaining": 992
+    }
+  }
+}

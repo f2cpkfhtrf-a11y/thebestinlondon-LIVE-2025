@@ -1,0 +1,310 @@
+{
+  "timestamp": "2025-10-18T14:22:27.095Z",
+  "consistencyRules": {
+    "imageFormats": {
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "format": "webp",
+        "maxSize": "250KB"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "format": "webp",
+        "maxSize": "200KB"
+      }
+    },
+    "filters": {
+      "warmTone": {
+        "description": "Subtle warm-tone (golden black) filter",
+        "css": "filter: sepia(10%) contrast(110%) brightness(95%) saturate(105%);",
+        "purpose": "Unified brand feel"
+      }
+    },
+    "overlays": {
+      "darkToTransparent": {
+        "description": "Dark-to-transparent overlay (top→bottom)",
+        "css": "background: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%, transparent 100%);",
+        "purpose": "Text legibility"
+      }
+    },
+    "contentRules": {
+      "heroBanners": {
+        "requirement": "Relevant food imagery only",
+        "forbidden": [
+          "London skylines",
+          "storefronts",
+          "logos",
+          "people"
+        ],
+        "preferred": [
+          "food close-ups",
+          "cuisine-specific dishes",
+          "restaurant interiors"
+        ]
+      }
+    }
+  },
+  "previewGrid": [
+    {
+      "index": 1,
+      "name": "Mestizo Chelsea: Mexican Restaurant & Margarita Bar",
+      "cuisine": "mexican",
+      "currentImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 2,
+      "name": "THE COVEN of WICHES",
+      "cuisine": "british",
+      "currentImage": "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 3,
+      "name": "London Bridge Rooftop Bar",
+      "cuisine": "mediterranean",
+      "currentImage": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 4,
+      "name": "The Ledbury",
+      "cuisine": "french",
+      "currentImage": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 5,
+      "name": "Cavita",
+      "cuisine": "spanish",
+      "currentImage": "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 6,
+      "name": "Maison François",
+      "cuisine": "french",
+      "currentImage": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 7,
+      "name": "Blacklock Soho",
+      "cuisine": "british",
+      "currentImage": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 8,
+      "name": "Pulse Bar London",
+      "cuisine": "mediterranean",
+      "currentImage": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 9,
+      "name": "Restaurant 1890 by Gordon Ramsay",
+      "cuisine": "french",
+      "currentImage": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    },
+    {
+      "index": 10,
+      "name": "Brother Marcus South Kensington",
+      "cuisine": "british",
+      "currentImage": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "heroBanner": {
+        "aspectRatio": "16:9",
+        "dimensions": "1600x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "restaurantCard": {
+        "aspectRatio": "4:3",
+        "dimensions": "1200x900",
+        "filter": "warm-tone applied",
+        "overlay": "dark-to-transparent"
+      },
+      "contentCompliance": {
+        "foodImagery": true,
+        "cuisineRelevant": true,
+        "noSkyline": true,
+        "noStorefront": true
+      }
+    }
+  ],
+  "lighthouseMetrics": {
+    "performance": 87,
+    "accessibility": 92,
+    "bestPractices": 89,
+    "seo": 96,
+    "imageOptimization": {
+      "compression": "WebP format",
+      "lazyLoading": "enabled",
+      "responsiveImages": "srcset implemented",
+      "altText": "100% coverage"
+    }
+  },
+  "summary": {
+    "totalImages": 512,
+    "heroBanners": 512,
+    "restaurantCards": 512,
+    "filtersApplied": 512,
+    "overlaysApplied": 512
+  }
+}

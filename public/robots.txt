@@ -3,24 +3,18 @@ Allow: /
 
 # Sitemaps
 Sitemap: https://thebestinlondon.co.uk/sitemap.xml
-Sitemap: https://thebestinlondon.co.uk/sitemap-pages.xml
-Sitemap: https://thebestinlondon.co.uk/sitemap-venues.xml
 Sitemap: https://thebestinlondon.co.uk/sitemap-images.xml
+Sitemap: https://thebestinlondon.co.uk/sitemap-venues.xml
+Sitemap: https://thebestinlondon.co.uk/sitemap-pages.xml
 
-# Crawl-delay for respectful crawling
-Crawl-delay: 1
+# Image optimization
+Allow: /images/
+Allow: /*.webp
+Allow: /*.avif
 
 # Disallow admin and private areas
 Disallow: /admin/
-Disallow: /api/
-Disallow: /_next/
+Disallow: /private/
+Disallow: /reports/
 Disallow: /scripts/
 Disallow: /backups/
-
-# Allow important pages
-Allow: /restaurant/
-Allow: /restaurants
-Allow: /near-me
-Allow: /best-halal-restaurants-london
-Allow: /vegan-restaurants-london
-Allow: /vegetarian-restaurants-london

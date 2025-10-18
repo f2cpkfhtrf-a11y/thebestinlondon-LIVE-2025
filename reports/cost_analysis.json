@@ -1,0 +1,11 @@
+{
+  "totalCost": 3.4010000000000002,
+  "costBreakdown": {
+    "googlePlaces": 3.241,
+    "unsplash": 0,
+    "aiGeneration": 0.16
+  },
+  "costPerRestaurant": 0.0066425781250000005,
+  "budgetStatus": "within_budget",
+  "estimatedMonthlyCost": 102.03
+}

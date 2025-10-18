@@ -1,505 +1,613 @@
 const fs = require('fs');
 const path = require('path');
-const sharp = require('sharp');
 
-// Performance optimization utilities
-async function optimizeImages() {
-  console.log('🖼️ Starting image optimization...');
+// Performance Optimization and Core Web Vitals
+function optimizePerformance() {
+  console.log('⚡ OPTIMIZING PERFORMANCE & CORE WEB VITALS...\n');
   
-  try {
-    // Read venues data
-    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
-    const venuesData = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
-    const venues = Array.isArray(venuesData) ? venuesData : (venuesData.venues || []);
-    
-    const optimizedImagesDir = path.join(process.cwd(), 'public', 'optimized-images');
-    
-    // Create optimized images directory
-    if (!fs.existsSync(optimizedImagesDir)) {
-      fs.mkdirSync(optimizedImagesDir, { recursive: true });
-    }
-    
-    let optimizedCount = 0;
-    let skippedCount = 0;
-    
-    // Process venue images
-    for (const venue of venues) {
-      if (venue.photos && venue.photos.length > 0) {
-        for (let i = 0; i < Math.min(venue.photos.length, 3); i++) {
-          const photo = venue.photos[i];
-          const imageUrl = photo.url;
-          
-          try {
-            // Generate optimized filename
-            const filename = `${venue.slug}-${i + 1}.webp`;
-            const outputPath = path.join(optimizedImagesDir, filename);
-            
-            // Skip if already optimized
-            if (fs.existsSync(outputPath)) {
-              skippedCount++;
-              continue;
-            }
-            
-            // Download and optimize image
-            const response = await fetch(imageUrl);
-            const buffer = await response.arrayBuffer();
-            
-            // Optimize with Sharp
-            await sharp(Buffer.from(buffer))
-              .resize(800, 600, { 
-                fit: 'cover',
-                position: 'center'
-              })
-              .webp({ 
-                quality: 85,
-                effort: 6
-              })
-              .toFile(outputPath);
-            
-            optimizedCount++;
-            
-            // Update venue photo URL
-            venue.photos[i].optimized_url = `/optimized-images/${filename}`;
-            venue.photos[i].optimized = true;
-            
-          } catch (error) {
-            console.warn(`Failed to optimize image for ${venue.name}:`, error.message);
-          }
-        }
-      }
-    }
-    
-    // Save updated venues data
-    const updatedData = {
-      ...venuesData,
-      venues: venues,
-      lastOptimized: new Date().toISOString(),
-      optimizationStats: {
-        optimizedImages: optimizedCount,
-        skippedImages: skippedCount,
-        totalVenues: venues.length
-      }
-    };
-    
-    fs.writeFileSync(venuesPath, JSON.stringify(updatedData, null, 2));
-    
-    console.log(`✅ Image optimization complete!`);
-    console.log(`📊 Optimized: ${optimizedCount} images`);
-    console.log(`📊 Skipped: ${skippedCount} images`);
-    console.log(`📊 Total venues: ${venues.length}`);
-    
-    return {
-      optimized: optimizedCount,
-      skipped: skippedCount,
-      total: venues.length
-    };
-    
-  } catch (error) {
-    console.error('❌ Error during image optimization:', error);
-    throw error;
-  }
-}
-
-// Performance audit and optimization
-async function performPerformanceAudit() {
-  console.log('⚡ Starting performance audit...');
+  const optimizations = {
+    timestamp: new Date().toISOString(),
+    lazyLoading: [],
+    fontOptimization: [],
+    imageOptimization: [],
+    bundleOptimization: [],
+    totalOptimizations: 0
+  };
   
-  try {
-    const auditResults = {
-      timestamp: new Date().toISOString(),
-      checks: []
-    };
-    
-    // Check for large files
-    const publicDir = path.join(process.cwd(), 'public');
-    const largeFiles = [];
-    
-    function checkDirectory(dir) {
-      const files = fs.readdirSync(dir);
-      for (const file of files) {
-        const filePath = path.join(dir, file);
-        const stats = fs.statSync(filePath);
-        
-        if (stats.isDirectory()) {
-          checkDirectory(filePath);
-        } else if (stats.size > 500000) { // 500KB
-          largeFiles.push({
-            path: filePath.replace(process.cwd(), ''),
-            size: stats.size,
-            sizeMB: (stats.size / 1024 / 1024).toFixed(2)
-          });
+  // 1. Create lazy loading component
+  const lazyImagePath = path.join(__dirname, '../components/OptimizedLazyImage.js');
+  const lazyImageContent = `import React, { useState, useRef, useEffect } from 'react';
+
+const OptimizedLazyImage = ({ 
+  src, 
+  alt, 
+  width, 
+  height, 
+  className = '', 
+  fallbackSrc = 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85',
+  priority = false,
+  ...props 
+}) => {
+  const [imgSrc, setImgSrc] = useState(priority ? src : '');
+  const [isLoading, setIsLoading] = useState(true);
+  const [isInView, setIsInView] = useState(priority);
+  const [hasError, setHasError] = useState(false);
+  const imgRef = useRef(null);
+
+  useEffect(() => {
+    if (priority) return;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsInView(true);
+          setImgSrc(src);
+          observer.disconnect();
         }
+      },
+      { 
+        rootMargin: '50px',
+        threshold: 0.1 
       }
+    );
+
+    if (imgRef.current) {
+      observer.observe(imgRef.current);
     }
-    
-    checkDirectory(publicDir);
-    
-    auditResults.checks.push({
-      name: 'Large Files Check',
-      status: largeFiles.length === 0 ? 'PASS' : 'WARN',
-      details: largeFiles.length === 0 ? 'No large files found' : `Found ${largeFiles.length} large files`,
-      files: largeFiles
-    });
-    
-    // Check for unused dependencies
-    const packageJson = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'package.json'), 'utf8'));
-    const dependencies = Object.keys(packageJson.dependencies || {});
-    const devDependencies = Object.keys(packageJson.devDependencies || {});
-    
-    auditResults.checks.push({
-      name: 'Dependencies Check',
-      status: 'INFO',
-      details: `${dependencies.length} dependencies, ${devDependencies.length} dev dependencies`,
-      dependencies: dependencies.length,
-      devDependencies: devDependencies.length
-    });
-    
-    // Check build output size
-    const nextDir = path.join(process.cwd(), '.next');
-    if (fs.existsSync(nextDir)) {
-      let buildSize = 0;
-      
-      function calculateSize(dir) {
-        const files = fs.readdirSync(dir);
-        for (const file of files) {
-          const filePath = path.join(dir, file);
-          const stats = fs.statSync(filePath);
-          
-          if (stats.isDirectory()) {
-            calculateSize(filePath);
-          } else {
-            buildSize += stats.size;
-          }
-        }
-      }
-      
-      calculateSize(nextDir);
-      
-      auditResults.checks.push({
-        name: 'Build Size Check',
-        status: buildSize < 50 * 1024 * 1024 ? 'PASS' : 'WARN', // 50MB
-        details: `Build size: ${(buildSize / 1024 / 1024).toFixed(2)}MB`,
-        size: buildSize
-      });
+
+    return () => observer.disconnect();
+  }, [src, priority]);
+
+  const handleError = () => {
+    if (imgSrc !== fallbackSrc) {
+      setImgSrc(fallbackSrc);
+      setHasError(true);
     }
-    
-    // Save audit results
-    const auditPath = path.join(process.cwd(), 'reports', 'performance-audit.json');
-    fs.writeFileSync(auditPath, JSON.stringify(auditResults, null, 2));
-    
-    console.log('✅ Performance audit complete!');
-    console.log(`📊 Checks performed: ${auditResults.checks.length}`);
-    
-    return auditResults;
-    
-  } catch (error) {
-    console.error('❌ Error during performance audit:', error);
-    throw error;
-  }
-}
+    setIsLoading(false);
+  };
 
-// Clean up temporary files
-async function cleanupTempFiles() {
-  console.log('🧹 Cleaning up temporary files...');
-  
-  try {
-    const tempFiles = [
-      '.next/cache',
-      'node_modules/.cache',
-      'public/.DS_Store',
-      'public/Thumbs.db'
-    ];
-    
-    let cleanedCount = 0;
-    
-    for (const tempFile of tempFiles) {
-      const filePath = path.join(process.cwd(), tempFile);
+  const handleLoad = () => {
+    setIsLoading(false);
+  };
+
+  return (
+    <div 
+      ref={imgRef}
+      className={\`relative overflow-hidden \${className}\`}
+      style={{ width, height }}
+    >
+      {isLoading && (
+        <div 
+          className="absolute inset-0 bg-grey-dark animate-pulse flex items-center justify-center"
+        >
+          <div className="w-8 h-8 border-2 border-gold border-t-transparent rounded-full animate-spin"></div>
+        </div>
+      )}
       
-      if (fs.existsSync(filePath)) {
-        if (fs.statSync(filePath).isDirectory()) {
-          fs.rmSync(filePath, { recursive: true, force: true });
-        } else {
-          fs.unlinkSync(filePath);
-        }
-        cleanedCount++;
-        console.log(`🗑️ Removed: ${tempFile}`);
-      }
-    }
-    
-    // Remove backup files older than 7 days
-    const backupsDir = path.join(process.cwd(), 'backups');
-    if (fs.existsSync(backupsDir)) {
-      const files = fs.readdirSync(backupsDir);
-      const sevenDaysAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
+      {isInView && (
+        <img
+          src={imgSrc}
+          alt={alt}
+          width={width}
+          height={height}
+          className={\`\${className} transition-opacity duration-300 \${isLoading ? 'opacity-0' : 'opacity-100'}\`}
+          onError={handleError}
+          onLoad={handleLoad}
+          loading={priority ? 'eager' : 'lazy'}
+          decoding="async"
+          {...props}
+        />
+      )}
       
-      for (const file of files) {
-        const filePath = path.join(backupsDir, file);
-        const stats = fs.statSync(filePath);
-        
-        if (stats.mtime.getTime() < sevenDaysAgo) {
-          fs.unlinkSync(filePath);
-          cleanedCount++;
-          console.log(`🗑️ Removed old backup: ${file}`);
-        }
-      }
-    }
-    
-    console.log(`✅ Cleanup complete! Removed ${cleanedCount} files/directories`);
-    
-    return cleanedCount;
-    
-  } catch (error) {
-    console.error('❌ Error during cleanup:', error);
-    throw error;
-  }
-}
-
-// Generate deployment report
-async function generateDeploymentReport() {
-  console.log('📋 Generating deployment report...');
-  
-  try {
-    const report = `# Deployment Report - BestDubai-Inspired Redesign
-Generated: ${new Date().toISOString()}
-
-## 🎯 Project Overview
-- **Project**: The Best in London - Premium Dining Guide
-- **Redesign**: BestDubai-inspired luxury restaurant directory
-- **Total Venues**: 760+ verified restaurants
-- **Areas Covered**: 50+ London areas
-- **Cuisines**: 25+ cuisine types
-
-## ✅ Completed Phases
-
-### PHASE 1 — BRAND, LOGO & VISUAL THEME ✅
-- Gold #D4AF37, Charcoal #0E0E0E, Warm White #F9F9F9 color palette
-- Playfair Display, DM Sans, Poppins typography
-- Logo integration in header and footer
-- Hero background with crown/skyline hint
-
-### PHASE 2 — ROUTING, 404 & NAVIGATION ✅
-- Fixed all broken internal links
-- Custom 404 page with brand styling
-- Scroll position restoration
-- Site-wide search functionality
-
-### PHASE 3 — DATA VALIDATION & NORMALISATION ✅
-- Standardized venue schema
-- Fixed empty/mis-categorized cuisines
-- Verified dietary tags accuracy
-- Removed duplicates and filled null fields
-
-### PHASE 4 — IMAGE INTELLIGENCE ✅
-- Replaced generic images with unique photos
-- Google Places API integration
-- WebP optimization (≤300KB)
-- 100% image coverage with provenance tracking
-
-### PHASE 5 — BIL SCORE REDESIGN ✅
-- BestDubai-inspired scoring system
-- Dynamic color gradients (green-gold, neutral gold, red tint)
-- Main score block with "BIL Verified" badge
-- Sub-score mini-bars for categories
-- Accessibility score ≥95
-
-### PHASE 6 — MOBILE EXPERIENCE ✅
-- Sticky header with logo
-- Persistent bottom navigation
-- Collapsible filter bar
-- Scroll position restoration
-- Touch-friendly controls
-
-### PHASE 7 — CUISINES, AREAS & FILTERS ✅
-- Functional /cuisine/[slug] and /area/[slug] pages
-- Real-time filtering and sorting
-- Dynamic content generation
-- Comprehensive filter bars
-
-### PHASE 8 — NEAR ME GEO FEATURE ✅
-- GPS-based restaurant discovery
-- Haversine distance calculations
-- Walking time estimates
-- Location permission handling
-- Distance filtering (1km-20km)
-
-### PHASE 9 — CONTENT & COPY REWRITE ✅
-- Witty, London-centric restaurant bios
-- Editorial content for cuisine/area pages
-- GuiltyChef-inspired modern tone
-- Intelligent cuisine detection
-- 50+ enhanced descriptions
-
-### PHASE 10 — SEO & SCHEMA OPTIMISATION ✅
-- Dynamic title/description optimization
-- Comprehensive structured data (JSON-LD)
-- Complete sitemap suite (760 venues, 15 cuisines, 10 areas)
-- Open Graph and Twitter Card optimization
-- Breadcrumb navigation
-
-## 🚀 Technical Implementation
-
-### Build Status
-- **Static Pages**: 840 pages generated
-- **Build Time**: ~35 seconds
-- **Bundle Size**: Optimized with code splitting
-- **Performance**: Lighthouse Mobile ≥85
-
-### SEO Implementation
-- **Sitemaps**: Complete coverage (main, pages, venues, images)
-- **Structured Data**: Restaurant, CollectionPage, WebSite schemas
-- **Meta Tags**: Optimized titles (≤60 chars), descriptions (≤155 chars)
-- **Social Media**: Open Graph and Twitter Card optimization
-
-### Performance Features
-- **Image Optimization**: WebP compression, lazy loading
-- **Code Splitting**: Dynamic imports for optimal loading
-- **Caching**: ISR with 1-hour revalidation
-- **Mobile Optimization**: Responsive design, touch targets
-
-## 📊 Key Metrics
-
-### Content
-- **Total Venues**: 760 restaurants
-- **Enhanced Descriptions**: 50+ witty bios
-- **Editorial Content**: 15 cuisines + 10 areas
-- **Image Coverage**: 100% unique images
-
-### Technical
-- **Pages Generated**: 840 static pages
-- **Build Success**: ✅ No errors
-- **SEO Score**: ≥90 (estimated)
-- **Accessibility**: ≥95 (WCAG compliant)
-
-### User Experience
-- **Mobile Navigation**: Persistent bottom nav
-- **Location Features**: GPS-based discovery
-- **Filtering**: Real-time cuisine/area/dietary filters
-- **Search**: Site-wide search functionality
-
-## 🎨 Design Features
-
-### Visual Identity
-- **Color Palette**: Gold, Charcoal, Warm White, Grey
-- **Typography**: Playfair Display (titles), DM Sans (body), Poppins (buttons)
-- **Logo Integration**: Header (64-72px), Footer (centered)
-- **Hero Background**: Crown/skyline hint for depth
-
-### UI Components
-- **BIL Score System**: Dynamic colors, explanations, sub-scores
-- **Restaurant Cards**: Clickable, hover effects, distance badges
-- **Filter Bars**: Real-time updates, mobile-optimized
-- **Navigation**: Sticky header, bottom nav, search integration
-
-## 🔧 Deployment Checklist
-
-### Pre-Deployment
-- [x] All phases completed successfully
-- [x] Build passes without errors
-- [x] SEO optimization implemented
-- [x] Performance audit completed
-- [x] Image optimization applied
-- [x] Temporary files cleaned up
-
-### Post-Deployment
-- [ ] Submit sitemaps to Google Search Console
-- [ ] Monitor Core Web Vitals
-- [ ] Track keyword rankings
-- [ ] Analyze user engagement metrics
-- [ ] Set up performance monitoring
-
-## 📈 Expected Outcomes
-
-### User Experience
-- **Engagement**: Increased time on site
-- **Conversion**: Higher restaurant page views
-- **Mobile**: Improved mobile experience
-- **Discovery**: Better restaurant discovery
-
-### SEO Performance
-- **Visibility**: Improved search rankings
-- **Traffic**: Increased organic traffic
-- **Rich Snippets**: Enhanced search results
-- **Social Sharing**: Better social media presence
-
-### Technical Performance
-- **Speed**: Faster page load times
-- **Mobile**: Optimized mobile experience
-- **Accessibility**: WCAG compliant
-- **Maintainability**: Clean, organized codebase
-
-## 🎉 Project Success
-
-The BestDubai-inspired redesign has been successfully implemented with:
-- **Complete visual transformation** matching luxury restaurant directory standards
-- **Enhanced user experience** with modern navigation and filtering
-- **Comprehensive SEO optimization** for maximum search visibility
-- **Performance optimization** for fast, responsive experience
-- **Mobile-first design** with persistent navigation and touch-friendly controls
-
-The site is now ready for production deployment and long-term organic growth.
-
----
-*Generated by The Best in London Development Team*
-*BestDubai-Inspired Redesign Complete*`;
-
-    const reportPath = path.join(process.cwd(), 'reports', 'deployment-report.md');
-    fs.writeFileSync(reportPath, report);
-    
-    console.log('✅ Deployment report generated!');
-    
-    return reportPath;
-    
-  } catch (error) {
-    console.error('❌ Error generating deployment report:', error);
-    throw error;
-  }
-}
-
-// Main performance optimization function
-async function optimizePerformance() {
-  console.log('⚡ Starting comprehensive performance optimization...');
-  
-  try {
-    // Step 1: Optimize images
-    const imageStats = await optimizeImages();
-    
-    // Step 2: Performance audit
-    const auditResults = await performPerformanceAudit();
-    
-    // Step 3: Cleanup temporary files
-    const cleanedCount = await cleanupTempFiles();
-    
-    // Step 4: Generate deployment report
-    const reportPath = await generateDeploymentReport();
-    
-    console.log('\\n🎉 Performance optimization complete!');
-    console.log(`📊 Images optimized: ${imageStats.optimized}`);
-    console.log(`📊 Files cleaned: ${cleanedCount}`);
-    console.log(`📊 Audit checks: ${auditResults.checks.length}`);
-    console.log(`📋 Report generated: ${reportPath}`);
-    
-    return {
-      images: imageStats,
-      audit: auditResults,
-      cleaned: cleanedCount,
-      report: reportPath
-    };
-    
-  } catch (error) {
-    console.error('❌ Error during performance optimization:', error);
-    throw error;
-  }
-}
-
-// Run if called directly
-if (require.main === module) {
-  optimizePerformance().catch(console.error);
-}
-
-module.exports = {
-  optimizeImages,
-  performPerformanceAudit,
-  cleanupTempFiles,
-  generateDeploymentReport,
-  optimizePerformance
+      {!isInView && !priority && (
+        <div 
+          className="absolute inset-0 bg-grey-dark flex items-center justify-center"
+        >
+          <div className="text-grey text-sm">Loading...</div>
+        </div>
+      )}
+    </div>
+  );
 };
+
+export default OptimizedLazyImage;
+`;
+  
+  fs.writeFileSync(lazyImagePath, lazyImageContent);
+  optimizations.lazyLoading.push('Created OptimizedLazyImage component with Intersection Observer');
+  
+  // 2. Create font optimization utility
+  const fontOptimizationPath = path.join(__dirname, '../utils/fontOptimization.js');
+  const fontOptimizationContent = `// Font optimization utilities
+export const fontPreloadLinks = [
+  {
+    href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap',
+    as: 'style',
+    crossorigin: 'anonymous'
+  },
+  {
+    href: 'https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiJ-Ek-_EeA.woff2',
+    as: 'font',
+    type: 'font/woff2',
+    crossorigin: 'anonymous'
+  }
+];
+
+export const fontDisplay = 'swap';
+
+export const fontFallbacks = {
+  'Inter': 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+};
+
+// Preload critical fonts
+export function preloadCriticalFonts() {
+  if (typeof window === 'undefined') return;
+  
+  const preloadLink = document.createElement('link');
+  preloadLink.rel = 'preload';
+  preloadLink.href = 'https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiJ-Ek-_EeA.woff2';
+  preloadLink.as = 'font';
+  preloadLink.type = 'font/woff2';
+  preloadLink.crossOrigin = 'anonymous';
+  
+  document.head.appendChild(preloadLink);
+}
+
+// Optimize font loading
+export function optimizeFontLoading() {
+  if (typeof window === 'undefined') return;
+  
+  // Add font-display: swap to all font faces
+  const style = document.createElement('style');
+  style.textContent = \`
+    @font-face {
+      font-family: 'Inter';
+      font-display: swap;
+    }
+  \`;
+  document.head.appendChild(style);
+}
+`;
+  
+  fs.writeFileSync(fontOptimizationPath, fontOptimizationContent);
+  optimizations.fontOptimization.push('Created font optimization utilities');
+  
+  // 3. Create image optimization utility
+  const imageOptimizationPath = path.join(__dirname, '../utils/imageOptimization.js');
+  const imageOptimizationContent = `// Image optimization utilities
+export const imageFormats = ['webp', 'avif', 'jpg'];
+export const imageSizes = [640, 750, 828, 1080, 1200, 1920, 2048, 3840];
+
+export function getOptimizedImageUrl(src, width, height, quality = 85) {
+  if (!src) return '';
+  
+  // If it's already an optimized URL, return as is
+  if (src.includes('w=') && src.includes('h=')) {
+    return src;
+  }
+  
+  // For Unsplash URLs, add optimization parameters
+  if (src.includes('unsplash.com')) {
+    const url = new URL(src);
+    url.searchParams.set('w', width.toString());
+    url.searchParams.set('h', height.toString());
+    url.searchParams.set('fit', 'crop');
+    url.searchParams.set('crop', 'center');
+    url.searchParams.set('q', quality.toString());
+    return url.toString();
+  }
+  
+  // For Google Places API URLs, add maxwidth parameter
+  if (src.includes('maps.googleapis.com')) {
+    const url = new URL(src);
+    url.searchParams.set('maxwidth', width.toString());
+    return url.toString();
+  }
+  
+  return src;
+}
+
+export function getImageSrcSet(src, sizes = imageSizes) {
+  if (!src) return '';
+  
+  return sizes
+    .map(size => \`\${getOptimizedImageUrl(src, size)} \${size}w\`)
+    .join(', ');
+}
+
+export function preloadCriticalImages(imageUrls) {
+  if (typeof window === 'undefined') return;
+  
+  imageUrls.forEach(url => {
+    const link = document.createElement('link');
+    link.rel = 'preload';
+    link.as = 'image';
+    link.href = url;
+    document.head.appendChild(link);
+  });
+}
+
+// Lazy load images below the fold
+export function lazyLoadImages() {
+  if (typeof window === 'undefined') return;
+  
+  const images = document.querySelectorAll('img[data-src]');
+  const imageObserver = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const img = entry.target;
+        img.src = img.dataset.src;
+        img.removeAttribute('data-src');
+        observer.unobserve(img);
+      }
+    });
+  });
+  
+  images.forEach(img => imageObserver.observe(img));
+}
+`;
+  
+  fs.writeFileSync(imageOptimizationPath, imageOptimizationContent);
+  optimizations.imageOptimization.push('Created image optimization utilities');
+  
+  // 4. Create bundle optimization configuration
+  const nextConfigPath = path.join(__dirname, '../next.config.js');
+  let nextConfig = '';
+  
+  if (fs.existsSync(nextConfigPath)) {
+    nextConfig = fs.readFileSync(nextConfigPath, 'utf8');
+  }
+  
+  // Add performance optimizations to next.config.js
+  const performanceConfig = `
+module.exports = {
+  // Existing config...
+  
+  // Performance optimizations
+  experimental: {
+    optimizeCss: true,
+    optimizePackageImports: ['@next/font', 'react-icons']
+  },
+  
+  // Image optimization
+  images: {
+    formats: ['image/webp', 'image/avif'],
+    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
+    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
+    minimumCacheTTL: 60,
+    dangerouslyAllowSVG: true,
+    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;"
+  },
+  
+  // Compression
+  compress: true,
+  
+  // Bundle optimization
+  webpack: (config, { dev, isServer }) => {
+    if (!dev && !isServer) {
+      config.optimization.splitChunks = {
+        chunks: 'all',
+        cacheGroups: {
+          vendor: {
+            test: /[\\\\/]node_modules[\\\\/]/,
+            name: 'vendors',
+            chunks: 'all',
+          },
+          common: {
+            name: 'common',
+            minChunks: 2,
+            chunks: 'all',
+            enforce: true,
+          },
+        },
+      };
+    }
+    return config;
+  },
+  
+  // Headers for performance
+  async headers() {
+    return [
+      {
+        source: '/(.*)',
+        headers: [
+          {
+            key: 'X-Content-Type-Options',
+            value: 'nosniff',
+          },
+          {
+            key: 'X-Frame-Options',
+            value: 'DENY',
+          },
+          {
+            key: 'X-XSS-Protection',
+            value: '1; mode=block',
+          },
+        ],
+      },
+      {
+        source: '/images/(.*)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+    ];
+  },
+  
+  // Redirects
+  async redirects() {
+    return [
+      { source: '/halal-near-stations-simple', destination: '/best-halal-restaurants-london', permanent: true },
+      { source: '/areas/index', destination: '/areas', permanent: true },
+      { source: '/restaurants/index', destination: '/restaurants', permanent: true }
+    ];
+  },
+};
+`;
+  
+  if (nextConfig.trim()) {
+    nextConfig = nextConfig.replace('module.exports = {', `module.exports = {${performanceConfig}`);
+  } else {
+    nextConfig = performanceConfig;
+  }
+  
+  fs.writeFileSync(nextConfigPath, nextConfig);
+  optimizations.bundleOptimization.push('Updated next.config.js with performance optimizations');
+  
+  // 5. Create performance monitoring utility
+  const performanceMonitoringPath = path.join(__dirname, '../utils/performanceMonitoring.js');
+  const performanceMonitoringContent = `// Performance monitoring utilities
+export function measureCoreWebVitals() {
+  if (typeof window === 'undefined') return;
+  
+  // Measure Largest Contentful Paint (LCP)
+  new PerformanceObserver((entryList) => {
+    const entries = entryList.getEntries();
+    const lastEntry = entries[entries.length - 1];
+    console.log('LCP:', lastEntry.startTime);
+  }).observe({ entryTypes: ['largest-contentful-paint'] });
+  
+  // Measure First Input Delay (FID)
+  new PerformanceObserver((entryList) => {
+    const entries = entryList.getEntries();
+    entries.forEach(entry => {
+      console.log('FID:', entry.processingStart - entry.startTime);
+    });
+  }).observe({ entryTypes: ['first-input'] });
+  
+  // Measure Cumulative Layout Shift (CLS)
+  let clsValue = 0;
+  new PerformanceObserver((entryList) => {
+    const entries = entryList.getEntries();
+    entries.forEach(entry => {
+      if (!entry.hadRecentInput) {
+        clsValue += entry.value;
+      }
+    });
+    console.log('CLS:', clsValue);
+  }).observe({ entryTypes: ['layout-shift'] });
+}
+
+export function measurePageLoadTime() {
+  if (typeof window === 'undefined') return;
+  
+  window.addEventListener('load', () => {
+    const loadTime = performance.now();
+    console.log('Page load time:', loadTime + 'ms');
+  });
+}
+
+export function measureImageLoadTimes() {
+  if (typeof window === 'undefined') return;
+  
+  const images = document.querySelectorAll('img');
+  images.forEach(img => {
+    img.addEventListener('load', () => {
+      const loadTime = performance.now();
+      console.log(\`Image loaded: \${img.src} in \${loadTime}ms\`);
+    });
+  });
+}
+
+// Lighthouse performance score estimation
+export function estimateLighthouseScore() {
+  if (typeof window === 'undefined') return;
+  
+  const metrics = {
+    lcp: 0,
+    fid: 0,
+    cls: 0,
+    fcp: 0,
+    ttfb: 0
+  };
+  
+  // Measure First Contentful Paint (FCP)
+  new PerformanceObserver((entryList) => {
+    const entries = entryList.getEntries();
+    entries.forEach(entry => {
+      if (entry.name === 'first-contentful-paint') {
+        metrics.fcp = entry.startTime;
+      }
+    });
+  }).observe({ entryTypes: ['paint'] });
+  
+  // Measure Time to First Byte (TTFB)
+  new PerformanceObserver((entryList) => {
+    const entries = entryList.getEntries();
+    entries.forEach(entry => {
+      if (entry.name === 'navigation') {
+        metrics.ttfb = entry.responseStart - entry.requestStart;
+      }
+    });
+  }).observe({ entryTypes: ['navigation'] });
+  
+  return metrics;
+}
+`;
+  
+  fs.writeFileSync(performanceMonitoringPath, performanceMonitoringContent);
+  optimizations.bundleOptimization.push('Created performance monitoring utilities');
+  
+  // 6. Create service worker for caching
+  const serviceWorkerPath = path.join(__dirname, '../public/sw.js');
+  const serviceWorkerContent = `// Service Worker for caching
+const CACHE_NAME = 'thebestinlondon-v1';
+const urlsToCache = [
+  '/',
+  '/restaurants',
+  '/cuisines',
+  '/areas',
+  '/best-halal-restaurants-london',
+  '/nearby',
+  '/about',
+  '/contact',
+  '/venues.json',
+  '/search-data.json'
+];
+
+self.addEventListener('install', (event) => {
+  event.waitUntil(
+    caches.open(CACHE_NAME)
+      .then((cache) => {
+        return cache.addAll(urlsToCache);
+      })
+  );
+});
+
+self.addEventListener('fetch', (event) => {
+  event.respondWith(
+    caches.match(event.request)
+      .then((response) => {
+        // Return cached version or fetch from network
+        return response || fetch(event.request);
+      })
+  );
+});
+
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.map((cacheName) => {
+          if (cacheName !== CACHE_NAME) {
+            return caches.delete(cacheName);
+          }
+        })
+      );
+    })
+  );
+});
+`;
+  
+  fs.writeFileSync(serviceWorkerPath, serviceWorkerContent);
+  optimizations.bundleOptimization.push('Created service worker for caching');
+  
+  // 7. Generate summary
+  optimizations.totalOptimizations = 
+    optimizations.lazyLoading.length + 
+    optimizations.fontOptimization.length + 
+    optimizations.imageOptimization.length + 
+    optimizations.bundleOptimization.length;
+  
+  console.log('\n📊 PERFORMANCE OPTIMIZATION SUMMARY:');
+  console.log('='.repeat(50));
+  console.log(`Lazy Loading Optimizations: ${optimizations.lazyLoading.length}`);
+  console.log(`Font Optimizations: ${optimizations.fontOptimization.length}`);
+  console.log(`Image Optimizations: ${optimizations.imageOptimization.length}`);
+  console.log(`Bundle Optimizations: ${optimizations.bundleOptimization.length}`);
+  console.log(`Total Optimizations: ${optimizations.totalOptimizations}`);
+  
+  console.log('\n⚡ LAZY LOADING:');
+  optimizations.lazyLoading.forEach((opt, index) => {
+    console.log(`${index + 1}. ${opt}`);
+  });
+  
+  console.log('\n🔤 FONT OPTIMIZATION:');
+  optimizations.fontOptimization.forEach((opt, index) => {
+    console.log(`${index + 1}. ${opt}`);
+  });
+  
+  console.log('\n🖼️ IMAGE OPTIMIZATION:');
+  optimizations.imageOptimization.forEach((opt, index) => {
+    console.log(`${index + 1}. ${opt}`);
+  });
+  
+  console.log('\n📦 BUNDLE OPTIMIZATION:');
+  optimizations.bundleOptimization.forEach((opt, index) => {
+    console.log(`${index + 1}. ${opt}`);
+  });
+  
+  // 8. Save report
+  const reportPath = path.join(__dirname, '../reports/performance.md');
+  const reportContent = `# Performance Optimization Report
+
+## Summary
+- **Optimization Date**: ${optimizations.timestamp}
+- **Lazy Loading Optimizations**: ${optimizations.lazyLoading.length}
+- **Font Optimizations**: ${optimizations.fontOptimization.length}
+- **Image Optimizations**: ${optimizations.imageOptimization.length}
+- **Bundle Optimizations**: ${optimizations.bundleOptimization.length}
+- **Total Optimizations**: ${optimizations.totalOptimizations}
+
+## Lazy Loading Optimizations
+${optimizations.lazyLoading.map((opt, index) => `
+${index + 1}. ${opt}
+`).join('')}
+
+## Font Optimizations
+${optimizations.fontOptimization.map((opt, index) => `
+${index + 1}. ${opt}
+`).join('')}
+
+## Image Optimizations
+${optimizations.imageOptimization.map((opt, index) => `
+${index + 1}. ${opt}
+`).join('')}
+
+## Bundle Optimizations
+${optimizations.bundleOptimization.map((opt, index) => `
+${index + 1}. ${opt}
+`).join('')}
+
+## Core Web Vitals Targets
+- **LCP (Largest Contentful Paint)**: ≤ 2.5s
+- **FID (First Input Delay)**: ≤ 100ms
+- **CLS (Cumulative Layout Shift)**: ≤ 0.1
+- **FCP (First Contentful Paint)**: ≤ 1.8s
+- **TTFB (Time to First Byte)**: ≤ 600ms
+
+## Lighthouse Score Targets
+- **Performance**: ≥ 85
+- **SEO**: ≥ 95
+- **Accessibility**: ≥ 90
+- **Best Practices**: ≥ 90
+
+## Files Created/Updated
+- \`components/OptimizedLazyImage.js\` - Advanced lazy loading component
+- \`utils/fontOptimization.js\` - Font loading optimization
+- \`utils/imageOptimization.js\` - Image optimization utilities
+- \`utils/performanceMonitoring.js\` - Performance monitoring
+- \`next.config.js\` - Performance configuration
+- \`public/sw.js\` - Service worker for caching
+
+## Next Steps
+1. Test Core Web Vitals on live site
+2. Run Lighthouse audit
+3. Monitor performance metrics
+4. Optimize based on real-world data
+5. Implement additional caching strategies
+`;
+  
+  fs.writeFileSync(reportPath, reportContent);
+  
+  console.log(`\n💾 Report saved to: ${reportPath}`);
+  console.log(`✅ Performance optimization complete!`);
+  
+  return optimizations;
+}
+
+// Run the optimization
+optimizePerformance();

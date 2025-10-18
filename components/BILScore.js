@@ -92,7 +92,7 @@ const BILScore = ({
         </div>
         
         {/* Verified Badge */}
-        <div className="absolute -top-1 -right-1 bg-white text-gold-600 text-xs font-bold px-2 py-1 rounded-full shadow-md">
+        <div className="absolute -top-1 -right-1 bg-gradient-to-r from-gold to-gold-600 text-black text-xs font-bold px-2 py-1 rounded-full shadow-md border border-gold-300">
           ✓ Verified
         </div>
       </div>

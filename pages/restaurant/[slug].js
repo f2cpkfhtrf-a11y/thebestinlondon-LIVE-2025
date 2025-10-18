@@ -6,6 +6,8 @@ import { theme } from '../../utils/theme';
 import { generateSEOTitle, generateSEODescription, generateStructuredData, generateBreadcrumbData } from '../../utils/seoOptimization';
 import FSABadge from '../../components/FSABadge';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
+import { TabContainer } from '../../components/HeroTabs';
+import ImageWithFallback from '../../components/ImageWithFallback';
 
 export async function getStaticPaths() {
   const fs = require('fs');
@@ -73,7 +75,7 @@ export default function VenueDetailPage({ venue }) {
     "@context": "https://schema.org",
     "@type": "Restaurant",
     "name": venue.name,
-    "image": venue.photos?.[0]?.url || '',
+    "image": venue.image_url || venue.photos?.[0]?.url || '',
     "address": venue.address ? {
       "@type": "PostalAddress",
       "streetAddress": venue.address.formatted,
@@ -110,16 +112,16 @@ export default function VenueDetailPage({ venue }) {
         <meta property="og:description" content={generateSEODescription('restaurant', venue)} />
         <meta property="og:type" content="restaurant" />
         <meta property="og:url" content={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
-        <meta property="og:image" content={venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
-        <meta property="og:image:alt" content={`${venue.name} restaurant in ${venue.borough || 'London'}`} />
+        <meta property="og:image" content={venue.image_url || venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
+        <meta property="og:image:alt" content={venue.image_alt || `${venue.name} restaurant in ${venue.borough || 'London'}`} />
         <meta property="og:site_name" content="The Best in London" />
         
         {/* Twitter Card Tags */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={generateSEOTitle('restaurant', venue)} />
         <meta name="twitter:description" content={generateSEODescription('restaurant', venue)} />
-        <meta name="twitter:image" content={venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
-        <meta name="twitter:image:alt" content={`${venue.name} restaurant in ${venue.borough || 'London'}`} />
+        <meta name="twitter:image" content={venue.image_url || venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
+        <meta name="twitter:image:alt" content={venue.image_alt || `${venue.name} restaurant in ${venue.borough || 'London'}`} />
         
         {/* Additional SEO Meta Tags */}
         <meta name="keywords" content={`${venue.name}, ${venue.cuisines?.join(', ') || 'restaurant'}, ${venue.borough || 'London'}, restaurant reviews, FSA rating, halal restaurant`} />
@@ -167,24 +169,22 @@ export default function VenueDetailPage({ venue }) {
           </div>
         </nav>
 
+        <TabContainer currentPath={`/restaurant/${venue.slug}`} pageType="restaurant" venue={venue}>
+        <main>
         {/* Hero Image */}
         <div style={{ 
           position: 'relative', 
           height: 'clamp(300px, 50vh, 500px)', 
           background: 'linear-gradient(135deg, rgba(11,11,11,0.8) 0%, rgba(11,11,11,0.4) 100%)'
         }}>
-          {venue.photos && venue.photos[0] && venue.photos[0].url ? (
-            <img 
-              src={venue.photos[0].url}
-              alt={`${venue.name} restaurant in London`}
+          {venue.image_url || (venue.photos && venue.photos[0] && (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887') ? (
+            <ImageWithFallback 
+              src={venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
+              alt={venue.image_alt || `${venue.name} restaurant in London`}
+              fill
               style={{ 
-                width: '100%', 
-                height: '100%', 
                 objectFit: 'cover',
                 filter: 'brightness(0.9)'
-              }}
-              onError={(e) => {
-                e.target.style.display = 'none';
               }}
             />
           ) : (
@@ -247,7 +247,7 @@ export default function VenueDetailPage({ venue }) {
         </div>
 
         {/* Main Content */}
-        <main style={{ maxWidth: '1200px', margin: '0 auto', padding: 'clamp(24px, 5vw, 48px) clamp(16px, 3vw, 20px)' }}>
+        <div style={{ maxWidth: '1200px', margin: '0 auto', padding: 'clamp(24px, 5vw, 48px) clamp(16px, 3vw, 20px)' }}>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 300px), 1fr))', gap: 'clamp(24px, 5vw, 48px)' }}>
             
             {/* Left Column */}
@@ -555,14 +555,16 @@ export default function VenueDetailPage({ venue }) {
               </div>
             </div>
           </div>
+        </div>
         </main>
-
+        
         {/* Footer */}
         <footer style={{ background: '#0B0B0B', padding: '48px 0 24px', borderTop: '1px solid #2A2A2A', marginTop: '80px' }}>
           <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', textAlign: 'center', fontSize: '13px', color: '#666' }}>
             <p style={{ margin: 0 }}>© 2025 The Best in London. All rights reserved.</p>
           </div>
         </footer>
+        </TabContainer>
 
       </div>
 

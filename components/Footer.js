@@ -10,10 +10,21 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           
           {/* Logo & Description */}
-          <div className="lg:col-span-2">
-            <div className="flex items-center space-x-3 mb-4">
+          <div className="lg:col-span-2 relative">
+            {/* Watermark Logo Background */}
+            <div className="absolute top-0 right-0 opacity-5">
               <Image
-                src="/logo.svg"
+                src="/assets/logos/logo-monochrome.svg"
+                alt=""
+                width={120}
+                height={120}
+                className="w-24 h-24 lg:w-32 lg:h-32"
+              />
+            </div>
+            
+            <div className="flex items-center space-x-3 mb-4 relative z-10">
+              <Image
+                src="/assets/logos/logo-compact.svg"
                 alt="The Best in London"
                 width={40}
                 height={40}
@@ -21,7 +32,7 @@ export default function Footer() {
               />
               <h3 className="logo-text text-xl">The Best in London</h3>
             </div>
-            <p className="text-grey-light text-sm leading-relaxed max-w-md mb-4">
+            <p className="text-grey-light text-sm leading-relaxed max-w-md mb-4 relative z-10">
               London's premier dining guide featuring 760+ verified restaurants across 50+ areas. 
               From street food to fine dining, discover your next favorite meal.
             </p>

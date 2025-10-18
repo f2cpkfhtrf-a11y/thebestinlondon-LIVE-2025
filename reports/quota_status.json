@@ -1,0 +1,20 @@
+{
+  "googlePlaces": {
+    "quota": "1000 calls/hour, 10000 calls/day",
+    "used": "463 calls/hour, 463 calls/day",
+    "remaining": "537 calls/hour, 9537 calls/day",
+    "status": "safe"
+  },
+  "unsplash": {
+    "quota": "50 calls/hour, 5000 calls/day",
+    "used": "0 calls (removed)",
+    "remaining": "50 calls/hour, 5000 calls/day",
+    "status": "safe"
+  },
+  "aiGeneration": {
+    "quota": "100 calls/hour, 1000 calls/day",
+    "used": "8 calls/hour, 8 calls/day",
+    "remaining": "92 calls/hour, 992 calls/day",
+    "status": "safe"
+  }
+}

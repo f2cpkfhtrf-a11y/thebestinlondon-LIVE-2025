@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <defs>
+    <style>
+      .logo-crown-white { fill: #FFFFFF; }
+      .logo-skyline-white { fill: #FFFFFF; }
+    </style>
+    <filter id="whiteShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Crown -->
+  <g transform="translate(25, 15)">
+    <path d="M15 5 L25 15 L35 5 L30 20 L20 25 L10 20 Z" class="logo-crown-white" filter="url(#whiteShadow)"/>
+    <circle cx="20" cy="8" r="2" fill="#FFFFFF"/>
+    <circle cx="15" cy="12" r="1.5" fill="#FFFFFF"/>
+    <circle cx="25" cy="12" r="1.5" fill="#FFFFFF"/>
+  </g>
+  
+  <!-- Skyline -->
+  <g transform="translate(15, 50)">
+    <rect x="0" y="15" width="6" height="20" class="logo-skyline-white"/>
+    <rect x="8" y="10" width="5" height="25" class="logo-skyline-white"/>
+    <rect x="15" y="20" width="4" height="15" class="logo-skyline-white"/>
+    <rect x="21" y="8" width="6" height="27" class="logo-skyline-white"/>
+    <rect x="29" y="15" width="3" height="20" class="logo-skyline-white"/>
+    <rect x="34" y="10" width="5" height="25" class="logo-skyline-white"/>
+    <rect x="41" y="20" width="4" height="15" class="logo-skyline-white"/>
+    <rect x="47" y="5" width="7" height="30" class="logo-skyline-white"/>
+    <rect x="56" y="12" width="3" height="23" class="logo-skyline-white"/>
+    <rect x="61" y="16" width="5" height="19" class="logo-skyline-white"/>
+  </g>
+</svg>

@@ -8,27 +8,27 @@ export default function HeroSection() {
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         
-        {/* Logo - BestDubai Inspired */}
-        <div className="mb-8">
-          <div className="logo-container mb-6">
+        {/* Logo - Premium Crown + Skyline */}
+        <div className="mb-12">
+          <div className="logo-container mb-8">
             <Image
-              src="/logo.svg"
+              src="/assets/logos/logo-primary.svg"
               alt="The Best in London"
-              width={140}
-              height={140}
-              className="w-28 h-28 lg:w-36 lg:h-36 mx-auto"
+              width={200}
+              height={120}
+              className="w-48 h-28 lg:w-56 lg:h-32 mx-auto drop-shadow-lg"
               priority
             />
           </div>
-          <h1 className="text-gradient text-4xl sm:text-5xl lg:text-6xl font-serif font-bold mb-4">
-            The Best in London
+          <h1 className="text-gradient text-4xl sm:text-5xl lg:text-6xl font-serif font-bold mb-6">
+            Discover London's Finest
           </h1>
-          <p className="text-xl sm:text-2xl text-grey font-sans font-medium mb-2">
-            Premium Dining Guide
+          <p className="text-xl sm:text-2xl text-grey font-sans font-medium mb-4">
+            Curated Excellence in London
           </p>
-          <p className="text-lg text-grey-light max-w-2xl mx-auto leading-relaxed">
-            Discover London's finest restaurants, from hidden gems to Michelin-starred establishments. 
-            Curated by food experts, verified by real diners.
+          <p className="text-lg text-grey-light max-w-3xl mx-auto leading-relaxed">
+            From hidden gems to Michelin-starred establishments, discover London's most exceptional dining experiences. 
+            Expertly curated, thoroughly verified, beautifully presented.
           </p>
         </div>
 

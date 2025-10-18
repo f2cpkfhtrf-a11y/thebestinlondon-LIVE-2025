@@ -1,0 +1,2123 @@
+{
+  "indian": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "indian Restaurants in London",
+    "description": "Discover 36 top-rated indian restaurants in London",
+    "url": "https://thebestinlondon.co.uk/indian-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 36,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Dishoom Covent Garden",
+            "url": "https://thebestinlondon.co.uk/restaurant/dishoom-covent-garden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Gymkhana",
+            "url": "https://thebestinlondon.co.uk/restaurant/gymkhana"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kricket Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/kricket-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Maharaja of India",
+            "url": "https://thebestinlondon.co.uk/restaurant/maharaja-of-india"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Aladin Brick Lane",
+            "url": "https://thebestinlondon.co.uk/restaurant/aladin-brick-lane"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Dishoom Kensington",
+            "url": "https://thebestinlondon.co.uk/restaurant/dishoom-kensington"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Brigadiers",
+            "url": "https://thebestinlondon.co.uk/restaurant/brigadiers"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Cinnamon Bazaar",
+            "url": "https://thebestinlondon.co.uk/restaurant/cinnamon-bazaar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Pravaas - South Kensington",
+            "url": "https://thebestinlondon.co.uk/restaurant/pravaas---south-kensington"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Taste of Lahore",
+            "url": "https://thebestinlondon.co.uk/restaurant/taste-of-lahore"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Shahs Halal Food Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/shahs-halal-food-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Colonel Saab",
+            "url": "https://thebestinlondon.co.uk/restaurant/colonel-saab"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kricket Shoreditch - Kafé, Restaurant & Bar",
+            "url": "https://thebestinlondon.co.uk/restaurant/kricket-shoreditch---kaf-restaurant-bar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Dishoom Canary Wharf",
+            "url": "https://thebestinlondon.co.uk/restaurant/dishoom-canary-wharf"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Hichki Indian Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/hichki-indian-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Shahs Halal Food Shadwell",
+            "url": "https://thebestinlondon.co.uk/restaurant/shahs-halal-food-shadwell"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Shahs Halal Food Whitechapel",
+            "url": "https://thebestinlondon.co.uk/restaurant/shahs-halal-food-whitechapel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Haweli Restaurant ® Ilford",
+            "url": "https://thebestinlondon.co.uk/restaurant/haweli-restaurant-ilford"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Royal Nawaab Ilford",
+            "url": "https://thebestinlondon.co.uk/restaurant/royal-nawaab-ilford"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Hyderabad Darbar",
+            "url": "https://thebestinlondon.co.uk/restaurant/hyderabad-darbar"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://www.dishoom.com/wp-content/uploads/2021/03/dishoom-covent-garden-interior-1.jpg",
+      "https://www.gymkhanalondon.com/wp-content/uploads/2021/03/gymkhana-interior-1.jpg",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "modern-european": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "modern-european Restaurants in London",
+    "description": "Discover 45 top-rated modern-european restaurants in London",
+    "url": "https://thebestinlondon.co.uk/modern-european-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 45,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "The India - City Road",
+            "url": "https://thebestinlondon.co.uk/restaurant/the-india---city-road"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "SUSHISAMBA London",
+            "url": "https://thebestinlondon.co.uk/restaurant/sushisamba-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Imperial Treasure Fine Chinese Cuisine",
+            "url": "https://thebestinlondon.co.uk/restaurant/imperial-treasure-fine-chinese-cuisine"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "MASA TURKISH RESTAURANT",
+            "url": "https://thebestinlondon.co.uk/restaurant/masa-turkish-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Gökyüzü Green Lanes",
+            "url": "https://thebestinlondon.co.uk/restaurant/gkyz-green-lanes"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Dem Restaurant (Traditional Turkish Restaurant, Meze Grill)",
+            "url": "https://thebestinlondon.co.uk/restaurant/dem-restaurant-traditional-turkish-restaurant-meze-grill"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Alanya turkish with fusion",
+            "url": "https://thebestinlondon.co.uk/restaurant/alanya-turkish-with-fusion"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Brasserie Zedel",
+            "url": "https://thebestinlondon.co.uk/restaurant/brasserie-zedel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Meet Bros (by Me’nate x Jibby&co.)",
+            "url": "https://thebestinlondon.co.uk/restaurant/meet-bros-by-menate-x-jibbyco"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Andy’s Greek Taverna",
+            "url": "https://thebestinlondon.co.uk/restaurant/andys-greek-taverna"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Sahara Grill Whitechapel",
+            "url": "https://thebestinlondon.co.uk/restaurant/sahara-grill-whitechapel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Mr. White’s English Chophouse London Whitechapel",
+            "url": "https://thebestinlondon.co.uk/restaurant/mr-whites-english-chophouse-london-whitechapel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "DanDan Aldgate East",
+            "url": "https://thebestinlondon.co.uk/restaurant/dandan-aldgate-east"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Enigma Pan Asian",
+            "url": "https://thebestinlondon.co.uk/restaurant/enigma-pan-asian"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Wah Bey",
+            "url": "https://thebestinlondon.co.uk/restaurant/wah-bey"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Monal Restaurant London",
+            "url": "https://thebestinlondon.co.uk/restaurant/monal-restaurant-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Banana Leaf",
+            "url": "https://thebestinlondon.co.uk/restaurant/banana-leaf"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Zamana",
+            "url": "https://thebestinlondon.co.uk/restaurant/zamana"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Singam Bay",
+            "url": "https://thebestinlondon.co.uk/restaurant/singam-bay"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Zahra Grill Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/zahra-grill-restaurant"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1551218808-93d42e57582b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "italian": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "italian Restaurants in London",
+    "description": "Discover 18 top-rated italian restaurants in London",
+    "url": "https://thebestinlondon.co.uk/italian-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 18,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Circolo Popolare",
+            "url": "https://thebestinlondon.co.uk/restaurant/circolo-popolare"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Grasso",
+            "url": "https://thebestinlondon.co.uk/restaurant/grasso"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Gloria",
+            "url": "https://thebestinlondon.co.uk/restaurant/gloria"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Bocca di Lupo",
+            "url": "https://thebestinlondon.co.uk/restaurant/bocca-di-lupo"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Padella",
+            "url": "https://thebestinlondon.co.uk/restaurant/padella"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Bancone Covent Garden",
+            "url": "https://thebestinlondon.co.uk/restaurant/bancone-covent-garden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Doppo",
+            "url": "https://thebestinlondon.co.uk/restaurant/doppo"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "manteca",
+            "url": "https://thebestinlondon.co.uk/restaurant/manteca"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Giulia Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/giulia-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Amor Gastronomia",
+            "url": "https://thebestinlondon.co.uk/restaurant/amor-gastronomia"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Da Mario Covent Garden",
+            "url": "https://thebestinlondon.co.uk/restaurant/da-mario-covent-garden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Osteria Napoletana",
+            "url": "https://thebestinlondon.co.uk/restaurant/osteria-napoletana"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Fatto a Mano Bethnal Green",
+            "url": "https://thebestinlondon.co.uk/restaurant/fatto-a-mano-bethnal-green"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Casa Fofó",
+            "url": "https://thebestinlondon.co.uk/restaurant/casa-fof"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Buon Appetito",
+            "url": "https://thebestinlondon.co.uk/restaurant/buon-appetito"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Luca Dsq.",
+            "url": "https://thebestinlondon.co.uk/restaurant/luca-dsq"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Italina385",
+            "url": "https://thebestinlondon.co.uk/restaurant/italina385"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Restaurant",
+            "name": "La Bella napoli",
+            "url": "https://thebestinlondon.co.uk/restaurant/la-bella-napoli"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1551218808-93d42e57582b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1579725942050-c312f3b1f8d6?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "japanese": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "japanese Restaurants in London",
+    "description": "Discover 19 top-rated japanese restaurants in London",
+    "url": "https://thebestinlondon.co.uk/japanese-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 19,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Zuma London",
+            "url": "https://thebestinlondon.co.uk/restaurant/zuma-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "OITA Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/oita-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Maru London",
+            "url": "https://thebestinlondon.co.uk/restaurant/maru-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "RAI Restaurant London",
+            "url": "https://thebestinlondon.co.uk/restaurant/rai-restaurant-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "INKO NITO - Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/inko-nito---soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "YiQi",
+            "url": "https://thebestinlondon.co.uk/restaurant/yiqi"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Hutong",
+            "url": "https://thebestinlondon.co.uk/restaurant/hutong"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "House of Ming",
+            "url": "https://thebestinlondon.co.uk/restaurant/house-of-ming"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Peacock London",
+            "url": "https://thebestinlondon.co.uk/restaurant/peacock-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Noble Palace",
+            "url": "https://thebestinlondon.co.uk/restaurant/noble-palace"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "The Sichuan Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/the-sichuan-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Min Jiang",
+            "url": "https://thebestinlondon.co.uk/restaurant/min-jiang"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Ma La Sichuan",
+            "url": "https://thebestinlondon.co.uk/restaurant/ma-la-sichuan"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Golden Dragon (Chinatown)",
+            "url": "https://thebestinlondon.co.uk/restaurant/golden-dragon-chinatown"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Speedboat Bar",
+            "url": "https://thebestinlondon.co.uk/restaurant/speedboat-bar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Master Bao - Westfield Stratford City",
+            "url": "https://thebestinlondon.co.uk/restaurant/master-bao---westfield-stratford-city"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Shoryu Westfield Stratford City",
+            "url": "https://thebestinlondon.co.uk/restaurant/shoryu-westfield-stratford-city"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Yauatcha City",
+            "url": "https://thebestinlondon.co.uk/restaurant/yauatcha-city"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Miyako",
+            "url": "https://thebestinlondon.co.uk/restaurant/miyako"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1505253716362-af3e789f8724?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "british": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "british Restaurants in London",
+    "description": "Discover 253 top-rated british restaurants in London",
+    "url": "https://thebestinlondon.co.uk/british-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 253,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "SUSHINOEN",
+            "url": "https://thebestinlondon.co.uk/restaurant/sushinoen"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "ANA Turkish Restaurant and Bar",
+            "url": "https://thebestinlondon.co.uk/restaurant/ana-turkish-restaurant-and-bar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "El Pirata Of Mayfair - Tapas Bar Español",
+            "url": "https://thebestinlondon.co.uk/restaurant/el-pirata-of-mayfair---tapas-bar-espaol"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "La Gamba - Spanish Tapas Bar & Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/la-gamba---spanish-tapas-bar-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "The Banc",
+            "url": "https://thebestinlondon.co.uk/restaurant/the-banc"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Steak and Company - Covent Garden",
+            "url": "https://thebestinlondon.co.uk/restaurant/steak-and-company---covent-garden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Naroon Fitzrovia",
+            "url": "https://thebestinlondon.co.uk/restaurant/naroon-fitzrovia"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Mildreds Victoria",
+            "url": "https://thebestinlondon.co.uk/restaurant/mildreds-victoria"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Mildreds Kings Cross",
+            "url": "https://thebestinlondon.co.uk/restaurant/mildreds-kings-cross"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Hélène Darroze at The Connaught",
+            "url": "https://thebestinlondon.co.uk/restaurant/hlne-darroze-at-the-connaught"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Brother Marcus Borough",
+            "url": "https://thebestinlondon.co.uk/restaurant/brother-marcus-borough"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Brother Marcus South Kensington",
+            "url": "https://thebestinlondon.co.uk/restaurant/brother-marcus-south-kensington"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Brother Marcus Covent Garden",
+            "url": "https://thebestinlondon.co.uk/restaurant/brother-marcus-covent-garden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Blacklock Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/blacklock-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Señor Ceviche Peruvian Restaurant Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/seor-ceviche-peruvian-restaurant-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Blacklock Shoreditch",
+            "url": "https://thebestinlondon.co.uk/restaurant/blacklock-shoreditch"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Popolo Shoreditch",
+            "url": "https://thebestinlondon.co.uk/restaurant/popolo-shoreditch"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Restaurant",
+            "name": "SMOKESTAK",
+            "url": "https://thebestinlondon.co.uk/restaurant/smokestak"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Camino Shoreditch",
+            "url": "https://thebestinlondon.co.uk/restaurant/camino-shoreditch"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": "Restaurant",
+            "name": "34 Mayfair",
+            "url": "https://thebestinlondon.co.uk/restaurant/34-mayfair"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1551218808-93d42e57582b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "thai": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "thai Restaurants in London",
+    "description": "Discover 13 top-rated thai restaurants in London",
+    "url": "https://thebestinlondon.co.uk/thai-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 13,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kolae",
+            "url": "https://thebestinlondon.co.uk/restaurant/kolae"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Nua",
+            "url": "https://thebestinlondon.co.uk/restaurant/nua"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "AngloThai",
+            "url": "https://thebestinlondon.co.uk/restaurant/anglothai"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Plaza Khao Gaeng",
+            "url": "https://thebestinlondon.co.uk/restaurant/plaza-khao-gaeng"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Patara Knightsbridge",
+            "url": "https://thebestinlondon.co.uk/restaurant/patara-knightsbridge"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Champor-Champor",
+            "url": "https://thebestinlondon.co.uk/restaurant/champor-champor"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kin + Deum",
+            "url": "https://thebestinlondon.co.uk/restaurant/kin-deum"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Chet's",
+            "url": "https://thebestinlondon.co.uk/restaurant/chets"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Patara Oxford Circus",
+            "url": "https://thebestinlondon.co.uk/restaurant/patara-oxford-circus"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Busaba Westfield Stratford",
+            "url": "https://thebestinlondon.co.uk/restaurant/busaba-westfield-stratford"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Tripti's Thai Pie Stratford",
+            "url": "https://thebestinlondon.co.uk/restaurant/triptis-thai-pie-stratford"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Mum Likes Thai Food (Bethnal Green)",
+            "url": "https://thebestinlondon.co.uk/restaurant/mum-likes-thai-food-bethnal-green"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Thai n Pie Stepney",
+            "url": "https://thebestinlondon.co.uk/restaurant/thai-n-pie-stepney"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1548940740-204726a115ae?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "turkish": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "turkish Restaurants in London",
+    "description": "Discover 20 top-rated turkish restaurants in London",
+    "url": "https://thebestinlondon.co.uk/turkish-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 20,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Efes Premium",
+            "url": "https://thebestinlondon.co.uk/restaurant/efes-premium"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "The Mantl",
+            "url": "https://thebestinlondon.co.uk/restaurant/the-mantl"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Cirrik 19 Numara Bos",
+            "url": "https://thebestinlondon.co.uk/restaurant/cirrik-19-numara-bos"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Liman Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/liman-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Antalya",
+            "url": "https://thebestinlondon.co.uk/restaurant/antalya"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Fes Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/fes-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Efes Restaurant (Whitechapel)",
+            "url": "https://thebestinlondon.co.uk/restaurant/efes-restaurant-whitechapel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Halal Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/halal-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Shah's Halal Food Ilford",
+            "url": "https://thebestinlondon.co.uk/restaurant/shahs-halal-food-ilford"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kervan Kitchen Gidea Park",
+            "url": "https://thebestinlondon.co.uk/restaurant/kervan-kitchen-gidea-park"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kervan Saray",
+            "url": "https://thebestinlondon.co.uk/restaurant/kervan-saray"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Ottomans",
+            "url": "https://thebestinlondon.co.uk/restaurant/ottomans"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kasiba Lounge and Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/kasiba-lounge-and-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Lokma Westfield",
+            "url": "https://thebestinlondon.co.uk/restaurant/lokma-westfield"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Tanjia Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/tanjia-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Halal Street Kitchen",
+            "url": "https://thebestinlondon.co.uk/restaurant/halal-street-kitchen"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Shah's Halal Food Cambridge Heath Hackney",
+            "url": "https://thebestinlondon.co.uk/restaurant/shahs-halal-food-cambridge-heath-hackney"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Tanjia Garden",
+            "url": "https://thebestinlondon.co.uk/restaurant/tanjia-garden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Olives and Oregano London",
+            "url": "https://thebestinlondon.co.uk/restaurant/olives-and-oregano-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Shah's Halal Food Walthamstow",
+            "url": "https://thebestinlondon.co.uk/restaurant/shahs-halal-food-walthamstow"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1548940740-204726a115ae?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1504674900247-087700f998c5?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299585323-38174c4aab98?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "french": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "french Restaurants in London",
+    "description": "Discover 18 top-rated french restaurants in London",
+    "url": "https://thebestinlondon.co.uk/french-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 18,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Bouchon Racine",
+            "url": "https://thebestinlondon.co.uk/restaurant/bouchon-racine"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Le Relais de Venise L'Entrecote | Marylebone",
+            "url": "https://thebestinlondon.co.uk/restaurant/le-relais-de-venise-lentrecote-marylebone"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "L'Escargot Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/lescargot-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Galvin La Chapelle",
+            "url": "https://thebestinlondon.co.uk/restaurant/galvin-la-chapelle"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Chez Bruce",
+            "url": "https://thebestinlondon.co.uk/restaurant/chez-bruce"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Maison François",
+            "url": "https://thebestinlondon.co.uk/restaurant/maison-franois"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Casse-Croûte",
+            "url": "https://thebestinlondon.co.uk/restaurant/casse-crote"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Clos Maggiore",
+            "url": "https://thebestinlondon.co.uk/restaurant/clos-maggiore"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Pavyllon London",
+            "url": "https://thebestinlondon.co.uk/restaurant/pavyllon-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "La Trompette",
+            "url": "https://thebestinlondon.co.uk/restaurant/la-trompette"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Gauthier Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/gauthier-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Studio Gauthier",
+            "url": "https://thebestinlondon.co.uk/restaurant/studio-gauthier"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "The Ledbury",
+            "url": "https://thebestinlondon.co.uk/restaurant/the-ledbury"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Restaurant 1890 by Gordon Ramsay",
+            "url": "https://thebestinlondon.co.uk/restaurant/restaurant-1890-by-gordon-ramsay"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Restaurant",
+            "name": "The Ninth",
+            "url": "https://thebestinlondon.co.uk/restaurant/the-ninth"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Restaurant",
+            "name": "HIDE",
+            "url": "https://thebestinlondon.co.uk/restaurant/hide"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Frog by Adam Handling Restaurant Covent Garden",
+            "url": "https://thebestinlondon.co.uk/restaurant/frog-by-adam-handling-restaurant-covent-garden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Scully",
+            "url": "https://thebestinlondon.co.uk/restaurant/scully"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1519671482749-fd09be7c511a?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1551218808-93d42e57582b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "spanish": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "spanish Restaurants in London",
+    "description": "Discover 8 top-rated spanish restaurants in London",
+    "url": "https://thebestinlondon.co.uk/spanish-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Copita Fitzrovia Tapas Bar",
+            "url": "https://thebestinlondon.co.uk/restaurant/copita-fitzrovia-tapas-bar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Salt Yard",
+            "url": "https://thebestinlondon.co.uk/restaurant/salt-yard"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Santo Remedio - Asador, London Bridge",
+            "url": "https://thebestinlondon.co.uk/restaurant/santo-remedio---asador-london-bridge"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "El Pastor Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/el-pastor-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Los Mochis London City",
+            "url": "https://thebestinlondon.co.uk/restaurant/los-mochis-london-city"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "El Cenote",
+            "url": "https://thebestinlondon.co.uk/restaurant/el-cenote"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Cavita",
+            "url": "https://thebestinlondon.co.uk/restaurant/cavita"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Yucca London",
+            "url": "https://thebestinlondon.co.uk/restaurant/yucca-london"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "korean": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "korean Restaurants in London",
+    "description": "Discover 10 top-rated korean restaurants in London",
+    "url": "https://thebestinlondon.co.uk/korean-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Koko Grill Korean BBQ Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/koko-grill-korean-bbq-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Arang Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/arang-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Soju Korean Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/soju-korean-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Jang Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/jang-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Korean Dinner Party",
+            "url": "https://thebestinlondon.co.uk/restaurant/korean-dinner-party"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "YORI Piccadilly Circus Korean BBQ",
+            "url": "https://thebestinlondon.co.uk/restaurant/yori-piccadilly-circus-korean-bbq"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Bibimbap Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/bibimbap-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Daebak",
+            "url": "https://thebestinlondon.co.uk/restaurant/daebak"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Vegan Yes",
+            "url": "https://thebestinlondon.co.uk/restaurant/vegan-yes"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Bibimbop Bow",
+            "url": "https://thebestinlondon.co.uk/restaurant/bibimbop-bow"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "mexican": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "mexican Restaurants in London",
+    "description": "Discover 12 top-rated mexican restaurants in London",
+    "url": "https://thebestinlondon.co.uk/mexican-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 12,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Cu4tro Restaurant & Tequila Bar",
+            "url": "https://thebestinlondon.co.uk/restaurant/cu4tro-restaurant-tequila-bar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Mestizo Mexican Restaurant & Tequila Bar",
+            "url": "https://thebestinlondon.co.uk/restaurant/mestizo-mexican-restaurant-tequila-bar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Wahaca Covent Garden",
+            "url": "https://thebestinlondon.co.uk/restaurant/wahaca-covent-garden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Mestizo Chelsea: Mexican Restaurant & Margarita Bar",
+            "url": "https://thebestinlondon.co.uk/restaurant/mestizo-chelsea-mexican-restaurant-margarita-bar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Mexican Seoul",
+            "url": "https://thebestinlondon.co.uk/restaurant/mexican-seoul"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Taqueria - Notting Hill",
+            "url": "https://thebestinlondon.co.uk/restaurant/taqueria---notting-hill"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Frida Camden",
+            "url": "https://thebestinlondon.co.uk/restaurant/frida-camden"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Wahaca Stratford",
+            "url": "https://thebestinlondon.co.uk/restaurant/wahaca-stratford"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Wahaca Canary Wharf",
+            "url": "https://thebestinlondon.co.uk/restaurant/wahaca-canary-wharf"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Dead Pedro's - Mexican Kitchen at The Bow Bells",
+            "url": "https://thebestinlondon.co.uk/restaurant/dead-pedros---mexican-kitchen-at-the-bow-bells"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Tacosmash Mile End",
+            "url": "https://thebestinlondon.co.uk/restaurant/tacosmash-mile-end"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Mi Casa Burrito London Liverpool Street",
+            "url": "https://thebestinlondon.co.uk/restaurant/mi-casa-burrito-london-liverpool-street"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1565299585323-38174c4aab98?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "mediterranean": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "mediterranean Restaurants in London",
+    "description": "Discover 53 top-rated mediterranean restaurants in London",
+    "url": "https://thebestinlondon.co.uk/mediterranean-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 53,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Tendril - A (mostly) Vegan Kitchen & Bar",
+            "url": "https://thebestinlondon.co.uk/restaurant/tendril---a-mostly-vegan-kitchen-bar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Unity Diner",
+            "url": "https://thebestinlondon.co.uk/restaurant/unity-diner"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Holy Carrot",
+            "url": "https://thebestinlondon.co.uk/restaurant/holy-carrot"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "KIN Cafe & Restaurant",
+            "url": "https://thebestinlondon.co.uk/restaurant/kin-cafe-restaurant"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Vegan Planet",
+            "url": "https://thebestinlondon.co.uk/restaurant/vegan-planet"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Ekstedt at The Yard",
+            "url": "https://thebestinlondon.co.uk/restaurant/ekstedt-at-the-yard"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Restaurant St. Barts",
+            "url": "https://thebestinlondon.co.uk/restaurant/restaurant-st-barts"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kitchen Table",
+            "url": "https://thebestinlondon.co.uk/restaurant/kitchen-table"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Restaurant",
+            "name": "L'ETO Soho",
+            "url": "https://thebestinlondon.co.uk/restaurant/leto-soho"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Restaurant",
+            "name": "London Night Cafe",
+            "url": "https://thebestinlondon.co.uk/restaurant/london-night-cafe"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Old Queen Street Cafe",
+            "url": "https://thebestinlondon.co.uk/restaurant/old-queen-street-cafe"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Restaurant",
+            "name": "E Pellicci",
+            "url": "https://thebestinlondon.co.uk/restaurant/e-pellicci"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Dulce Coffee London",
+            "url": "https://thebestinlondon.co.uk/restaurant/dulce-coffee-london"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Restaurant",
+            "name": "EL&N London Park Lane",
+            "url": "https://thebestinlondon.co.uk/restaurant/eln-london-park-lane"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Monmouth Coffee Company",
+            "url": "https://thebestinlondon.co.uk/restaurant/monmouth-coffee-company"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kiss the Hippo Coffee",
+            "url": "https://thebestinlondon.co.uk/restaurant/kiss-the-hippo-coffee"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Kaffeine",
+            "url": "https://thebestinlondon.co.uk/restaurant/kaffeine"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Rosslyn Coffee London Wall",
+            "url": "https://thebestinlondon.co.uk/restaurant/rosslyn-coffee-london-wall"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Chill House Coffee Shop",
+            "url": "https://thebestinlondon.co.uk/restaurant/chill-house-coffee-shop"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Batch Baby",
+            "url": "https://thebestinlondon.co.uk/restaurant/batch-baby"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1551218808-93d42e57582b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "chinese": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "chinese Restaurants in London",
+    "description": "Discover 6 top-rated chinese restaurants in London",
+    "url": "https://thebestinlondon.co.uk/chinese-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Dragon's Den Oriental Kitchen",
+            "url": "https://thebestinlondon.co.uk/restaurant/dragons-den-oriental-kitchen"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Gansu Bethnal Green",
+            "url": "https://thebestinlondon.co.uk/restaurant/gansu-bethnal-green"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Far East Kitchen",
+            "url": "https://thebestinlondon.co.uk/restaurant/far-east-kitchen"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Lucky Cat by Gordon Ramsay - Bishopsgate",
+            "url": "https://thebestinlondon.co.uk/restaurant/lucky-cat-by-gordon-ramsay---bishopsgate"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Shezan GCD",
+            "url": "https://thebestinlondon.co.uk/restaurant/shezan-gcd"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Restaurant",
+            "name": "Zu's Ilford",
+            "url": "https://thebestinlondon.co.uk/restaurant/zus-ilford"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  },
+  "caribbean": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "caribbean Restaurants in London",
+    "description": "Discover 1 top-rated caribbean restaurants in London",
+    "url": "https://thebestinlondon.co.uk/caribbean-restaurants-london",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Restaurant",
+            "name": "iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food",
+            "url": "https://thebestinlondon.co.uk/restaurant/ivisecrets-vegan-fine-dining-lounge-iveganit---caribbean-asian-fusion-food"
+          }
+        }
+      ]
+    },
+    "image": [
+      "https://images.unsplash.com/photo-1563379091339-03246963d4d8?w=1600&h=1200&fit=crop&crop=center&q=85&auto=format"
+    ]
+  }
+}

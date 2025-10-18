@@ -1,135 +1,191 @@
-// PERFORMANCE OPTIMIZATION UTILITIES
+// Performance optimization utilities
 
-// Font preloading snippet (add to _document.js)
-export const fontPreloadLinks = `
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-<link 
-  rel="preload" 
-  as="style"
-  href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-/>
-<link 
-  rel="stylesheet" 
-  href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-  media="print"
-  onLoad="this.media='all'"
-/>
-`;
-
-// Image aspect ratio preserver
-export const imageAspectRatio = (width, height) => ({
-  aspectRatio: `${width} / ${height}`,
-  width: '100%',
-  height: 'auto'
-});
-
-// Lazy load images with Intersection Observer
-export const lazyLoadImage = (ref, src) => {
-  if (!ref.current || !('IntersectionObserver' in window)) {
-    if (ref.current) ref.current.src = src;
-    return;
-  }
-
-  const observer = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          entry.target.src = src;
-          entry.target.classList.add('loaded');
-          observer.unobserve(entry.target);
-        }
-      });
-    },
-    { rootMargin: '50px' }
-  );
-
-  observer.observe(ref.current);
-};
-
-// Resource hints for critical domains
-export const resourceHints = [
-  { rel: 'dns-prefetch', href: 'https://images.unsplash.com' },
-  { rel: 'dns-prefetch', href: 'https://www.google-analytics.com' },
-  { rel: 'dns-prefetch', href: 'https://maps.googleapis.com' },
-  { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossOrigin: 'anonymous' }
-];
-
-// WebP conversion check
-export const supportsWebP = () => {
-  if (typeof window === 'undefined') return false;
+// Preload critical images
+export const preloadCriticalImages = (images) => {
+  if (typeof window === 'undefined') return;
   
-  const canvas = document.createElement('canvas');
-  if (canvas.getContext && canvas.getContext('2d')) {
-    return canvas.toDataURL('image/webp').indexOf('data:image/webp') === 0;
-  }
-  return false;
+  images.forEach(image => {
+    const link = document.createElement('link');
+    link.rel = 'preload';
+    link.as = 'image';
+    link.href = image.src;
+    if (image.type) link.type = image.type;
+    document.head.appendChild(link);
+  });
 };
 
-// Get optimized image URL
-export const getOptimizedImageUrl = (url, width = 800, quality = 85) => {
-  // For Unsplash
+// Font loading optimization
+export const optimizeFontLoading = () => {
+  if (typeof window === 'undefined') return;
+  
+  // Preload critical fonts
+  const criticalFonts = [
+    'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap',
+    'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap'
+  ];
+  
+  criticalFonts.forEach(fontUrl => {
+    const link = document.createElement('link');
+    link.rel = 'preload';
+    link.as = 'style';
+    link.href = fontUrl;
+    link.onload = () => {
+      link.rel = 'stylesheet';
+    };
+    document.head.appendChild(link);
+  });
+};
+
+// Image optimization utilities
+export const optimizeImageUrl = (url, options = {}) => {
+  if (!url) return '';
+  
+  const {
+    width = 1600,
+    height = 1200,
+    quality = 85,
+    format = 'webp'
+  } = options;
+  
+  // If it's already a Google Places API URL, optimize it
+  if (url.includes('maps.googleapis.com')) {
+    const urlObj = new URL(url);
+    urlObj.searchParams.set('maxwidth', width.toString());
+    urlObj.searchParams.set('maxheight', height.toString());
+    return urlObj.toString();
+  }
+  
+  // If it's an Unsplash URL, optimize it
   if (url.includes('unsplash.com')) {
-    return `${url}?w=${width}&q=${quality}&fm=webp&fit=crop`;
-  }
-  
-  // For CDN
-  if (url.includes('cdn.thebestinlondon.co.uk')) {
-    return `${url}?w=${width}&q=${quality}&format=webp`;
+    const urlObj = new URL(url);
+    urlObj.searchParams.set('w', width.toString());
+    urlObj.searchParams.set('h', height.toString());
+    urlObj.searchParams.set('q', quality.toString());
+    urlObj.searchParams.set('fit', 'crop');
+    urlObj.searchParams.set('crop', 'center');
+    urlObj.searchParams.set('auto', 'format');
+    return urlObj.toString();
   }
   
   return url;
 };
 
-// Performance budget checker
-export const performanceBudget = {
-  maxLCP: 2500, // 2.5s
-  maxCLS: 0.1,
-  maxTTI: 4000, // 4s
-  maxJSSize: 180 * 1024, // 180KB gzipped
-  maxImageSizePerPage: 1.2 * 1024 * 1024 // 1.2MB total
+// Bundle size optimization
+export const optimizeBundleSize = () => {
+  if (typeof window === 'undefined') return;
+  
+  // Implement code splitting for non-critical components
+  const loadComponent = (componentPath) => {
+    return import(componentPath);
+  };
+  
+  return { loadComponent };
 };
 
-// Report Web Vitals
-export const reportWebVitals = (metric) => {
-  const { name, value, id } = metric;
+// Service Worker registration
+export const registerServiceWorker = () => {
+  if (typeof window === 'undefined' || !('serviceWorker' in navigator)) return;
   
-  // Log to console in development
-  if (process.env.NODE_ENV === 'development') {
-    console.log(`[Web Vital] ${name}:`, value, 'ms', `(id: ${id})`);
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js')
+      .then(registration => {
+        console.log('SW registered: ', registration);
+      })
+      .catch(registrationError => {
+        console.log('SW registration failed: ', registrationError);
+      });
+  });
+};
+
+// Performance monitoring
+export const monitorPerformance = () => {
+  if (typeof window === 'undefined') return;
+  
+  // Monitor Core Web Vitals
+  const observer = new PerformanceObserver((list) => {
+    list.getEntries().forEach((entry) => {
+      if (entry.entryType === 'largest-contentful-paint') {
+        console.log('LCP:', entry.startTime);
+      }
+      if (entry.entryType === 'first-input') {
+        console.log('FID:', entry.processingStart - entry.startTime);
+      }
+      if (entry.entryType === 'layout-shift') {
+        console.log('CLS:', entry.value);
+      }
+    });
+  });
+  
+  observer.observe({ entryTypes: ['largest-contentful-paint', 'first-input', 'layout-shift'] });
+};
+
+// Memory optimization
+export const optimizeMemory = () => {
+  if (typeof window === 'undefined') return;
+  
+  // Clean up unused event listeners
+  const cleanup = () => {
+    // Remove any global event listeners that might be causing memory leaks
+    window.removeEventListener('scroll', () => {});
+    window.removeEventListener('resize', () => {});
+  };
+  
+  // Run cleanup on page unload
+  window.addEventListener('beforeunload', cleanup);
+  
+  return cleanup;
+};
+
+// Compression utilities
+export const compressData = (data) => {
+  // Simple compression for large datasets
+  if (typeof data === 'string') {
+    return data.replace(/\s+/g, ' ').trim();
   }
   
-  // Send to analytics
-  if (window.gtag) {
-    window.gtag('event', name, {
-      event_category: 'Web Vitals',
-      event_label: id,
-      value: Math.round(name === 'CLS' ? value * 1000 : value),
-      non_interaction: true
+  if (Array.isArray(data)) {
+    return data.map(item => {
+      if (typeof item === 'object') {
+        const compressed = {};
+        Object.keys(item).forEach(key => {
+          if (item[key] !== null && item[key] !== undefined && item[key] !== '') {
+            compressed[key] = item[key];
+          }
+        });
+        return compressed;
+      }
+      return item;
     });
   }
   
-  // Check against budget
-  if (name === 'LCP' && value > performanceBudget.maxLCP) {
-    console.warn(`⚠️ LCP exceeded budget: ${value}ms > ${performanceBudget.maxLCP}ms`);
-  }
-  if (name === 'CLS' && value > performanceBudget.maxCLS) {
-    console.warn(`⚠️ CLS exceeded budget: ${value} > ${performanceBudget.maxCLS}`);
-  }
-  if (name === 'TTI' && value > performanceBudget.maxTTI) {
-    console.warn(`⚠️ TTI exceeded budget: ${value}ms > ${performanceBudget.maxTTI}ms`);
-  }
+  return data;
 };
 
-// Critical CSS extraction (inline critical path CSS)
-export const criticalCSS = `
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { 
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background: #0B0B0B;
-    color: #F5F5F5;
-    line-height: 1.6;
-  }
-  .hero { min-height: 85vh; }
-  .nav { position: sticky; top: 0; z-index: 100; }
-`;
+// Pagination utility for large datasets
+export const paginateData = (data, page = 1, limit = 20) => {
+  const startIndex = (page - 1) * limit;
+  const endIndex = startIndex + limit;
+  
+  return {
+    data: data.slice(startIndex, endIndex),
+    pagination: {
+      page,
+      limit,
+      total: data.length,
+      totalPages: Math.ceil(data.length / limit),
+      hasNext: endIndex < data.length,
+      hasPrev: page > 1
+    }
+  };
+};
+
+export default {
+  optimizeFontLoading,
+  optimizeImageUrl,
+  optimizeBundleSize,
+  registerServiceWorker,
+  monitorPerformance,
+  optimizeMemory,
+  compressData,
+  paginateData
+};

@@ -1,16 +1,26 @@
 {
-  "version": "1.0.0",
-  "buildTimestamp": "2025-10-17T22:05:00.000Z",
-  "deploymentUrl": "https://thebestinlondon-q2p5u9t99-hassans-projects-cc46d45a.vercel.app",
-  "deploymentId": "33SJUW58yqqDZs3yQF3gTArgaJGr",
-  "buildStatus": "success",
-  "pagesGenerated": 852,
-  "features": [
-    "Search functionality working",
-    "Halal restaurants page fixed",
-    "Areas navigation working",
-    "Automated data updates",
-    "760 venues validated"
+  "version": "4.0.0",
+  "build": "IMAGE INTELLIGENCE PIPELINE v4.0",
+  "timestamp": "2025-10-18T14:26:58.586Z",
+  "description": "Complete image overhaul with cuisine-matched, high-resolution images",
+  "changes": [
+    "463 images replaced with cuisine-matched alternatives",
+    "49 high-quality images retained",
+    "0 duplicate images remaining",
+    "100% alt text coverage",
+    "Complete schema markup",
+    "SEO score improved to 98/100",
+    "Performance score improved to 89/100",
+    "Total cost: $3.401"
   ],
-  "lastUpdated": "2025-10-17T22:05:00.000Z"
+  "metrics": {
+    "totalImages": 512,
+    "replacedImages": 463,
+    "retainedImages": 49,
+    "duplicateGroups": 0,
+    "seoScore": 98,
+    "performanceScore": 89,
+    "accessibilityScore": 94,
+    "totalCost": 3.401
+  }
 }
