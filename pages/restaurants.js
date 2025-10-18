@@ -126,7 +126,7 @@ export default function Restaurants({ venues, stats }) {
         <StandardizedHeader 
           title="Best Restaurants in London"
           subtitle="Discover the finest restaurants across London. From Michelin-starred dining to hidden gems, find your perfect meal in the capital."
-          backgroundImage="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=800&fit=crop&crop=center&q=85&auto=format"
+          backgroundImage=""
         />
 
         {/* Filter Controls */}
