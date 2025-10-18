@@ -1,0 +1,26 @@
+{
+  "imageFilenames": {
+    "description": "Rename all image filenames with SEO keywords",
+    "pattern": "{cuisine}-restaurant-{location}-london.webp",
+    "examples": [
+      "indian-restaurant-covent-garden-london.webp",
+      "italian-restaurant-soho-london.webp",
+      "japanese-restaurant-marylebone-london.webp"
+    ]
+  },
+  "altText": {
+    "description": "Dynamic alt text with city + cuisine context",
+    "pattern": "High-resolution photo of {cuisine} cuisine at {restaurant}, serving authentic {cuisine} food in {area}, London.",
+    "coverage": "100%"
+  },
+  "captions": {
+    "description": "Image captions with city + cuisine context",
+    "pattern": "{Restaurant} - Authentic {cuisine} cuisine in {area}, London",
+    "coverage": "100%"
+  },
+  "sitemap": {
+    "description": "Include images in sitemap",
+    "status": "updated",
+    "imageCount": 512
+  }
+}

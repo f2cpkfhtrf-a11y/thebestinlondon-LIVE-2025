@@ -3,8 +3,13 @@ import { generateSEOTitle, generateSEODescription, generateStructuredData } from
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
 import Footer from '../components/Footer';
+import { TabContainer } from '../components/HeroTabs';
+import ImageWithFallback from '../components/ImageWithFallback';
+import StandardizedCard from '../components/StandardizedCard';
+import StandardizedHeader from '../components/StandardizedHeader';
 import Link from 'next/link';
 import Image from 'next/image';
+import { useEffect } from 'react';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -68,6 +73,43 @@ export async function getStaticProps() {
 }
 
 export default function Home({ topVenues, stats, popularCuisines }) {
+  useEffect(() => {
+    // Optimize font loading
+    if (typeof window !== 'undefined') {
+      // Preload critical fonts
+      const criticalFonts = [
+        'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap',
+        'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap'
+      ];
+      
+      criticalFonts.forEach(fontUrl => {
+        const link = document.createElement('link');
+        link.rel = 'preload';
+        link.as = 'style';
+        link.href = fontUrl;
+        link.onload = () => {
+          link.rel = 'stylesheet';
+        };
+        document.head.appendChild(link);
+      });
+      
+      // Preload critical images
+      const criticalImages = topVenues.slice(0, 3).map(venue => ({
+        src: venue.image_url || venue.photos?.[0]?.url || '',
+        type: 'image/webp'
+      })).filter(img => img.src);
+      
+      criticalImages.forEach(image => {
+        const link = document.createElement('link');
+        link.rel = 'preload';
+        link.as = 'image';
+        link.href = image.src;
+        if (image.type) link.type = image.type;
+        document.head.appendChild(link);
+      });
+    }
+  }, [topVenues]);
+
   return (
     <>
       <Head>
@@ -111,7 +153,8 @@ export default function Home({ topVenues, stats, popularCuisines }) {
 
       <div className="min-h-screen bg-black">
         <Header />
-        <HeroSection />
+        <TabContainer currentPath="/" pageType="home">
+          <HeroSection />
         
         {/* Featured Restaurants */}
         <section className="py-20 bg-black-light">
@@ -127,39 +170,14 @@ export default function Home({ topVenues, stats, popularCuisines }) {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {topVenues.map((venue) => (
-                <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
-                  <div className="card overflow-hidden h-full">
-                    <div className="relative h-48">
-                      {venue.photos && venue.photos[0] ? (
-                        <Image
-                          src={venue.photos[0].url}
-                          alt={venue.name}
-                          fill
-                          className="object-cover group-hover:scale-105 transition-transform duration-300"
-                        />
-                      ) : (
-                        <div className="w-full h-full bg-grey-dark flex items-center justify-center">
-                          <span className="text-grey text-sm">No Image</span>
-                        </div>
-                      )}
-                      <div className="absolute top-4 right-4">
-                        <div className="bg-gold text-black px-2 py-1 rounded-lg text-sm font-semibold">
-                          ⭐ {venue.rating?.toFixed(1)}
-                        </div>
-                        </div>
-                    </div>
-                    <div className="p-6">
-                      <h3 className="font-serif font-semibold text-white text-xl mb-2 group-hover:text-gold transition-colors duration-300">
-                        {venue.name}
-                      </h3>
-                      <p className="text-grey text-sm mb-3">
-                        {venue.cuisines?.[0]} • {venue.borough}
-                      </p>
-                      <p className="text-grey-light text-sm line-clamp-2">
-                        {venue.description || 'Experience exceptional dining in the heart of London.'}
-                      </p>
-                    </div>
-                  </div>
+                <Link key={venue.place_id} href={`/restaurant/${venue.slug}`}>
+                  <StandardizedCard 
+                    venue={venue}
+                    className="h-full"
+                    showBadges={true}
+                    showRating={true}
+                    showLocation={true}
+                  />
                 </Link>
               ))}
             </div>
@@ -167,7 +185,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
             <div className="text-center mt-12">
               <Link href="/restaurants" className="btn-primary text-lg px-8 py-4">
                 View All Restaurants
-              </Link>
+                </Link>
             </div>
           </div>
         </section>
@@ -253,7 +271,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
             </div>
           </div>
         </section>
-
+        </TabContainer>
         <Footer />
       </div>
     </>

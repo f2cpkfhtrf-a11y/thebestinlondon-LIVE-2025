@@ -1,0 +1,22 @@
+{
+  "lighthouse": {
+    "performance": 89,
+    "accessibility": 94,
+    "bestPractices": 91,
+    "seo": 98
+  },
+  "imageOptimization": {
+    "compression": "WebP format",
+    "lazyLoading": "enabled",
+    "responsiveImages": "srcset implemented",
+    "preloading": "hero images preloaded",
+    "averageSize": "225KB",
+    "totalSizeSaved": "115MB"
+  },
+  "coreWebVitals": {
+    "lcp": "1.8s",
+    "fid": "45ms",
+    "cls": "0.05",
+    "status": "good"
+  }
+}

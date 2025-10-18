@@ -5,14 +5,30 @@ const nextConfig = {
   
   // Image optimization
   images: {
-    domains: [
-      'images.unsplash.com',
-      'maps.googleapis.com',
-      'res.cloudinary.com',
-      'cloudinary.com',
-      'lh3.googleusercontent.com'
-    ],
+    domains: ['images.unsplash.com', 'maps.googleapis.com'],
     formats: ['image/webp', 'image/avif'],
+  },
+  async headers() {
+    return [
+      {
+        source: '/images/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+      {
+        source: '/api/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'no-cache, no-store, must-revalidate',
+          },
+        ],
+      },
+    ];
   },
 
   // Performance optimizations

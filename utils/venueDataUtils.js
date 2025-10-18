@@ -1,14 +1,12 @@
 // Data fetching utility with caching and ISR support
 export async function fetchVenuesData() {
   try {
-    // In production, this would fetch from your API or database
-    // For now, we'll read from the static file with caching headers
-    const fs = require('fs');
-    const path = require('path');
-    
-    const filePath = path.join(process.cwd(), 'public/venues.json');
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    const data = JSON.parse(fileContent);
+    // Fetch from the public JSON file via HTTP
+    const response = await fetch('/venues.json');
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data = await response.json();
     
     return Array.isArray(data) ? data : (data.venues || []);
   } catch (error) {

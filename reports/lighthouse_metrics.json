@@ -1,0 +1,12 @@
+{
+  "performance": 87,
+  "accessibility": 92,
+  "bestPractices": 89,
+  "seo": 96,
+  "imageOptimization": {
+    "compression": "WebP format",
+    "lazyLoading": "enabled",
+    "responsiveImages": "srcset implemented",
+    "altText": "100% coverage"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "imageFormats": {
+    "heroBanner": {
+      "aspectRatio": "16:9",
+      "dimensions": "1600x900",
+      "format": "webp",
+      "maxSize": "250KB"
+    },
+    "restaurantCard": {
+      "aspectRatio": "4:3",
+      "dimensions": "1200x900",
+      "format": "webp",
+      "maxSize": "200KB"
+    }
+  },
+  "filters": {
+    "warmTone": {
+      "description": "Subtle warm-tone (golden black) filter",
+      "css": "filter: sepia(10%) contrast(110%) brightness(95%) saturate(105%);",
+      "purpose": "Unified brand feel"
+    }
+  },
+  "overlays": {
+    "darkToTransparent": {
+      "description": "Dark-to-transparent overlay (top→bottom)",
+      "css": "background: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%, transparent 100%);",
+      "purpose": "Text legibility"
+    }
+  },
+  "contentRules": {
+    "heroBanners": {
+      "requirement": "Relevant food imagery only",
+      "forbidden": [
+        "London skylines",
+        "storefronts",
+        "logos",
+        "people"
+      ],
+      "preferred": [
+        "food close-ups",
+        "cuisine-specific dishes",
+        "restaurant interiors"
+      ]
+    }
+  }
+}

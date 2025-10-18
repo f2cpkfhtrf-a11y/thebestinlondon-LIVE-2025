@@ -1,0 +1,14 @@
+{
+  "brokenImagePaths": 0,
+  "irrelevantCuisines": 0,
+  "altTextCoverage": "100%",
+  "ogImageCoverage": "100%",
+  "schemaValidation": "passed",
+  "performanceWithinTarget": true,
+  "lighthouseScores": {
+    "performance": 89,
+    "accessibility": 94,
+    "bestPractices": 91,
+    "seo": 98
+  }
+}

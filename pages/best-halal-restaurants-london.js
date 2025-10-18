@@ -4,9 +4,28 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import { TabContainer } from '../components/HeroTabs';
+import ImageWithFallback from '../components/ImageWithFallback';
 import { theme } from '../utils/theme';
 import { enhanceVenueData, filterByDietary, sortVenues } from '../utils/venueData';
 import { isHalalVenue } from '../utils/halalStations';
+// Pagination utility function
+const paginateData = (data, page = 1, limit = 20) => {
+  const startIndex = (page - 1) * limit;
+  const endIndex = startIndex + limit;
+  
+  return {
+    data: data.slice(startIndex, endIndex),
+    pagination: {
+      page,
+      limit,
+      total: data.length,
+      totalPages: Math.ceil(data.length / limit),
+      hasNext: endIndex < data.length,
+      hasPrev: page > 1
+    }
+  };
+};
 import FSABadge from '../components/FSABadge';
 import BestOfLondonBadge from '../components/BestOfLondonBadge';
 
@@ -47,6 +66,8 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [sortBy, setSortBy] = useState('rating');
   const [filterArea, setFilterArea] = useState('all');
+  const [currentPage, setCurrentPage] = useState(1);
+  const [itemsPerPage] = useState(20); // Limit items per page for better performance
 
   const filtered = useMemo(() => {
     let result = venues;
@@ -91,6 +112,27 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
   // Get unique areas for filter
   const areas = ['all', ...new Set(venues.map(v => v.area || v.borough).filter(Boolean))];
 
+  // Pagination logic
+  const paginatedData = useMemo(() => {
+    return paginateData(filtered, currentPage, itemsPerPage);
+  }, [filtered, currentPage, itemsPerPage]);
+
+  // Reset to first page when filters change
+  const handleFilterChange = (newFilter) => {
+    setFilterArea(newFilter);
+    setCurrentPage(1);
+  };
+
+  const handleSearchChange = (newSearch) => {
+    setSearchTerm(newSearch);
+    setCurrentPage(1);
+  };
+
+  const handleSortChange = (newSort) => {
+    setSortBy(newSort);
+    setCurrentPage(1);
+  };
+
   return (
     <>
       <Head>
@@ -125,6 +167,7 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
         <Header />
         
         <main className="pt-16">
+          <TabContainer currentPath="/best-halal-restaurants-london" pageType="halal">
           {/* Hero Section */}
           <section className="py-20 bg-gradient-to-br from-charcoal via-charcoal-light to-charcoal">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -168,12 +211,12 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                   type="text"
                   placeholder="Search halal restaurants..."
                   value={searchTerm}
-                  onChange={(e) => setSearchTerm(e.target.value)}
+                  onChange={(e) => handleSearchChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite placeholder-grey focus:border-gold focus:outline-none transition-colors duration-300"
                 />
                 <select 
                   value={filterArea} 
-                  onChange={(e) => setFilterArea(e.target.value)}
+                  onChange={(e) => handleFilterChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite focus:border-gold focus:outline-none transition-colors duration-300"
                 >
                   <option value="all">All Areas</option>
@@ -183,7 +226,7 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                 </select>
                 <select 
                   value={sortBy} 
-                  onChange={(e) => setSortBy(e.target.value)}
+                  onChange={(e) => handleSortChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite focus:border-gold focus:outline-none transition-colors duration-300"
                 >
                   <option value="rating">⭐ Highest Rated</option>
@@ -198,7 +241,10 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
           <section className="py-6 bg-charcoal">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <p className="text-grey">
-                Showing <span className="text-gold font-semibold">{filtered.length}</span> halal-certified restaurants
+                Showing <span className="text-gold font-semibold">{paginatedData.data.length}</span> of <span className="text-gold font-semibold">{filtered.length}</span> halal-certified restaurants
+                {paginatedData.pagination.totalPages > 1 && (
+                  <span className="ml-2">(Page {currentPage} of {paginatedData.pagination.totalPages})</span>
+                )}
               </p>
             </div>
           </section>
@@ -207,19 +253,17 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
           <section className="py-16">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {filtered.map((venue) => (
+                {paginatedData.data.map((venue) => (
                   <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                     <div className="card overflow-hidden h-full group-hover:border-gold transition-all duration-300">
                       <div className="relative h-48">
-                        {venue.photos && venue.photos[0] ? (
-                          <Image
-                            src={venue.photos[0].url}
-                            alt={`${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
+                        {venue.image_url || (venue.photos && venue.photos[0]) ? (
+                          <ImageWithFallback
+                            src={venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
+                            alt={venue.image_alt || `${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-300"
-                            onError={(e) => {
-                              e.target.src = 'https://images.unsplash.com/photo-1544025162-d76694265947?w=700&q=85';
-                            }}
+                            priority={paginatedData.data.indexOf(venue) < 6} // Priority for first 6 images
                           />
                         ) : (
                           <div className="w-full h-full bg-grey-dark flex items-center justify-center">
@@ -276,8 +320,53 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                   </Link>
                 ))}
               </div>
+              
+              {/* Pagination Controls */}
+              {paginatedData.pagination.totalPages > 1 && (
+                <div className="flex justify-center items-center space-x-4 mt-12">
+                  <button
+                    onClick={() => setCurrentPage(currentPage - 1)}
+                    disabled={!paginatedData.pagination.hasPrev}
+                    className="px-4 py-2 bg-charcoal border border-grey-dark rounded-lg text-warmWhite hover:border-gold disabled:opacity-50 disabled:cursor-not-allowed transition-colors duration-300"
+                  >
+                    Previous
+                  </button>
+                  
+                  <div className="flex space-x-2">
+                    {Array.from({ length: Math.min(5, paginatedData.pagination.totalPages) }, (_, i) => {
+                      const pageNum = Math.max(1, Math.min(
+                        paginatedData.pagination.totalPages - 4,
+                        currentPage - 2
+                      )) + i;
+                      
+                      return (
+                        <button
+                          key={pageNum}
+                          onClick={() => setCurrentPage(pageNum)}
+                          className={`px-3 py-2 rounded-lg transition-colors duration-300 ${
+                            pageNum === currentPage
+                              ? 'bg-gold text-black'
+                              : 'bg-charcoal border border-grey-dark text-warmWhite hover:border-gold'
+                          }`}
+                        >
+                          {pageNum}
+                        </button>
+                      );
+                    })}
+                  </div>
+                  
+                  <button
+                    onClick={() => setCurrentPage(currentPage + 1)}
+                    disabled={!paginatedData.pagination.hasNext}
+                    className="px-4 py-2 bg-charcoal border border-grey-dark rounded-lg text-warmWhite hover:border-gold disabled:opacity-50 disabled:cursor-not-allowed transition-colors duration-300"
+                  >
+                    Next
+                  </button>
+                </div>
+              )}
             </div>
           </section>
+        </TabContainer>
         </main>
 
         <Footer />

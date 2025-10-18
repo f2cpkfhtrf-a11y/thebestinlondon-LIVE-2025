@@ -1,166 +1,105 @@
 import Head from 'next/head';
 
-export default function SEOHead({ 
+const SEOHead = ({ 
   title, 
   description, 
-  canonical, 
-  keywords = [],
-  image = '/logo.svg',
+  keywords = [], 
+  image, 
+  url, 
   type = 'website',
-  structuredData = null 
-}) {
-  const fullTitle = title ? `${title} | The Best in London` : 'The Best in London | Premium Dining Guide';
-  const fullDescription = description || 'Discover London\'s finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas.';
-  const fullImage = image.startsWith('http') ? image : `https://www.thebestinlondon.co.uk${image}`;
+  venue = null,
+  structuredData = null
+}) => {
+  // Ensure title is under 60 characters
+  const optimizedTitle = title && title.length > 60 ? title.substring(0, 57) + '...' : title;
+  
+  // Ensure description is under 155 characters
+  const optimizedDescription = description && description.length > 155 ? description.substring(0, 152) + '...' : description;
+  
+  // Default values
+  const defaultTitle = 'The Best in London - Discover London\'s Finest Restaurants';
+  const defaultDescription = 'Find the best restaurants, cafes, and dining experiences in London. From Michelin-starred fine dining to hidden gems, discover London\'s culinary scene.';
+  const defaultImage = 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1200&h=630&fit=crop&crop=center&q=85';
+  const defaultUrl = 'https://www.thebestinlondon.co.uk';
+  
+  const finalTitle = optimizedTitle || defaultTitle;
+  const finalDescription = optimizedDescription || defaultDescription;
+  const finalImage = image || defaultImage;
+  const finalUrl = url || defaultUrl;
+  
+  // Generate keywords
+  const defaultKeywords = [
+    'London restaurants',
+    'best restaurants London',
+    'fine dining London',
+    'restaurant guide London',
+    'London food',
+    'restaurant reviews London',
+    'London dining',
+    'restaurant recommendations London'
+  ];
+  
+  const finalKeywords = [...defaultKeywords, ...keywords].join(', ');
   
   return (
     <Head>
-      {/* Basic Meta */}
-      <title>{fullTitle}</title>
-      <meta name="description" content={fullDescription} />
-      <meta name="keywords" content={keywords.join(', ')} />
-      <link rel="canonical" href={canonical || 'https://www.thebestinlondon.co.uk'} />
+      {/* Primary Meta Tags */}
+      <title>{finalTitle}</title>
+      <meta name="title" content={finalTitle} />
+      <meta name="description" content={finalDescription} />
+      <meta name="keywords" content={finalKeywords} />
+      <meta name="author" content="The Best in London" />
+      <meta name="robots" content="index, follow" />
+      <meta name="language" content="English" />
+      <meta name="revisit-after" content="7 days" />
       
-      {/* Open Graph */}
-      <meta property="og:title" content={fullTitle} />
-      <meta property="og:description" content={fullDescription} />
-      <meta property="og:image" content={fullImage} />
-      <meta property="og:url" content={canonical || 'https://www.thebestinlondon.co.uk'} />
+      {/* Open Graph / Facebook */}
       <meta property="og:type" content={type} />
+      <meta property="og:url" content={finalUrl} />
+      <meta property="og:title" content={finalTitle} />
+      <meta property="og:description" content={finalDescription} />
+      <meta property="og:image" content={finalImage} />
       <meta property="og:site_name" content="The Best in London" />
       <meta property="og:locale" content="en_GB" />
       
       {/* Twitter */}
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content={fullTitle} />
-      <meta name="twitter:description" content={fullDescription} />
-      <meta name="twitter:image" content={fullImage} />
-      <meta name="twitter:site" content="@thebestinlondon" />
+      <meta property="twitter:card" content="summary_large_image" />
+      <meta property="twitter:url" content={finalUrl} />
+      <meta property="twitter:title" content={finalTitle} />
+      <meta property="twitter:description" content={finalDescription} />
+      <meta property="twitter:image" content={finalImage} />
       
-      {/* Additional SEO */}
-      <meta name="robots" content="index, follow" />
-      <meta name="googlebot" content="index, follow" />
-      <meta name="language" content="English" />
-      <meta name="geo.region" content="GB-LND" />
-      <meta name="geo.placename" content="London" />
-      <meta name="geo.position" content="51.5074;-0.1278" />
-      <meta name="ICBM" content="51.5074, -0.1278" />
+      {/* Additional Meta Tags */}
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="theme-color" content="#D4AF37" />
+      <meta name="msapplication-TileColor" content="#D4AF37" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+      
+      {/* Canonical URL */}
+      <link rel="canonical" href={finalUrl} />
+      
+      {/* Favicon */}
+      <link rel="icon" href="/favicon.ico" />
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+      
+      {/* Preconnect to external domains */}
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      <link rel="preconnect" href="https://images.unsplash.com" />
+      <link rel="preconnect" href="https://maps.googleapis.com" />
       
       {/* Structured Data */}
       {structuredData && (
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(structuredData)
-          }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
         />
       )}
     </Head>
   );
-}
-
-// Structured Data Templates
-export const structuredDataTemplates = {
-  website: {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "The Best in London",
-    "description": "London's premier dining guide featuring 760+ verified restaurants",
-    "url": "https://www.thebestinlondon.co.uk",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://www.thebestinlondon.co.uk/search?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "The Best in London",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://www.thebestinlondon.co.uk/logo.svg"
-      }
-    }
-  },
-  
-  restaurant: (venue) => ({
-    "@context": "https://schema.org",
-    "@type": "Restaurant",
-    "name": venue.name,
-    "description": venue.description,
-    "url": `https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`,
-    "image": venue.photos?.[0]?.url,
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": venue.address?.formatted || venue.vicinity,
-      "addressLocality": "London",
-      "addressCountry": "GB"
-    },
-    "telephone": venue.phone,
-    "website": venue.website,
-    "servesCuisine": venue.cuisines,
-    "priceRange": venue.price_range || `£${'£'.repeat(venue.price_level || 2)}`,
-    "aggregateRating": venue.rating ? {
-      "@type": "AggregateRating",
-      "ratingValue": venue.rating,
-      "reviewCount": venue.user_ratings_total || 0
-    } : undefined,
-    "openingHours": venue.opening_hours?.weekday_text?.map(hours => 
-      hours.replace(/^\w+\s/, '')
-    ),
-    "geo": venue.lat && venue.lng ? {
-      "@type": "GeoCoordinates",
-      "latitude": venue.lat,
-      "longitude": venue.lng
-    } : undefined
-  }),
-  
-  collectionPage: (title, description, items) => ({
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": title,
-    "description": description,
-    "url": `https://www.thebestinlondon.co.uk/${title.toLowerCase().replace(/\s+/g, '-')}`,
-    "mainEntity": {
-      "@type": "ItemList",
-      "numberOfItems": items.length,
-      "itemListElement": items.slice(0, 10).map((item, index) => ({
-        "@type": "ListItem",
-        "position": index + 1,
-        "item": {
-          "@type": "Restaurant",
-          "name": item.name,
-          "url": `https://www.thebestinlondon.co.uk/restaurant/${item.slug}`
-        }
-      }))
-    }
-  }),
-  
-  breadcrumbList: (items) => ({
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": items.map((item, index) => ({
-      "@type": "ListItem",
-      "position": index + 1,
-      "name": item.name,
-      "item": item.url
-    }))
-  }),
-  
-  organization: {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "The Best in London",
-    "description": "London's premier dining guide featuring 760+ verified restaurants",
-    "url": "https://www.thebestinlondon.co.uk",
-    "logo": "https://www.thebestinlondon.co.uk/logo.svg",
-    "sameAs": [
-      "https://twitter.com/thebestinlondon",
-      "https://instagram.com/thebestinlondon"
-    ],
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "contactType": "customer service",
-      "email": "hello@thebestinlondon.co.uk"
-    }
-  }
 };
+
+export default SEOHead;

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <defs>
+    <style>
+      .logo-crown { fill: url(#crownGradient); }
+      .logo-skyline { fill: url(#skylineGradient); }
+    </style>
+    <linearGradient id="crownGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#CBAE60;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E2C77E;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="skylineGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4AF37;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#F4D03F;stop-opacity:0.6" />
+    </linearGradient>
+    <filter id="logoShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.15"/>
+    </filter>
+    <filter id="haloEffect" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feOffset in="blur" dx="0" dy="0" result="offset"/>
+      <feFlood flood-color="#D4AF37" flood-opacity="0.3"/>
+      <feComposite in2="offset" operator="in"/>
+    </filter>
+  </defs>
+  
+  <!-- Soft halo for contrast -->
+  <circle cx="40" cy="40" r="35" fill="url(#crownGradient)" opacity="0.1" filter="url(#haloEffect)"/>
+  
+  <!-- Crown -->
+  <g transform="translate(25, 15)">
+    <path d="M15 5 L25 15 L35 5 L30 20 L20 25 L10 20 Z" class="logo-crown" filter="url(#logoShadow)"/>
+    <circle cx="20" cy="8" r="2" fill="#D4AF37"/>
+    <circle cx="15" cy="12" r="1.5" fill="#D4AF37"/>
+    <circle cx="25" cy="12" r="1.5" fill="#D4AF37"/>
+  </g>
+  
+  <!-- Skyline -->
+  <g transform="translate(15, 50)">
+    <rect x="0" y="15" width="6" height="20" class="logo-skyline"/>
+    <rect x="8" y="10" width="5" height="25" class="logo-skyline"/>
+    <rect x="15" y="20" width="4" height="15" class="logo-skyline"/>
+    <rect x="21" y="8" width="6" height="27" class="logo-skyline"/>
+    <rect x="29" y="15" width="3" height="20" class="logo-skyline"/>
+    <rect x="34" y="10" width="5" height="25" class="logo-skyline"/>
+    <rect x="41" y="20" width="4" height="15" class="logo-skyline"/>
+    <rect x="47" y="5" width="7" height="30" class="logo-skyline"/>
+    <rect x="56" y="12" width="3" height="23" class="logo-skyline"/>
+    <rect x="61" y="16" width="5" height="19" class="logo-skyline"/>
+  </g>
+</svg>

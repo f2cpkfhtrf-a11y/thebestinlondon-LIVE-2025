@@ -1,0 +1,607 @@
+{
+  "timestamp": "2025-10-18T12:42:13.921Z",
+  "pages": [
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/404.js",
+      "name": "404",
+      "hasImageIssues": false,
+      "hasLinkIssues": true,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains broken links"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/[cuisine].js",
+      "name": "[cuisine]",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/about.js",
+      "name": "about",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/areas.js",
+      "name": "areas",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains placeholder images",
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/bars.js",
+      "name": "bars",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/best-cafes-london.js",
+      "name": "best-cafes-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/best-coffee-shops-london.js",
+      "name": "best-coffee-shops-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/best-halal-restaurants-london-old.js",
+      "name": "best-halal-restaurants-london-old",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains placeholder images",
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/best-halal-restaurants-london.js",
+      "name": "best-halal-restaurants-london",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains placeholder images",
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/cafes.js",
+      "name": "cafes",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/chinese-restaurants-london.js",
+      "name": "chinese-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/contact.js",
+      "name": "contact",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/cookies.js",
+      "name": "cookies",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/cuisines.js",
+      "name": "cuisines",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains placeholder images",
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/east-london.js",
+      "name": "east-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/guides.js",
+      "name": "guides",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/halal-restaurants-london.js",
+      "name": "halal-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/index.js",
+      "name": "index",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/indian-restaurants-london.js",
+      "name": "indian-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/italian-restaurants-london.js",
+      "name": "italian-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/japanese-restaurants-london.js",
+      "name": "japanese-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/near-me.js",
+      "name": "near-me",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/nearby.js",
+      "name": "nearby",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/privacy.js",
+      "name": "privacy",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-bethnal-green.js",
+      "name": "restaurants-bethnal-green",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-bloomsbury.js",
+      "name": "restaurants-bloomsbury",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-borough.js",
+      "name": "restaurants-borough",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-brixton.js",
+      "name": "restaurants-brixton",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-camden.js",
+      "name": "restaurants-camden",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-canary-wharf.js",
+      "name": "restaurants-canary-wharf",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-chelsea.js",
+      "name": "restaurants-chelsea",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-clapham.js",
+      "name": "restaurants-clapham",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-clerkenwell.js",
+      "name": "restaurants-clerkenwell",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-covent-garden.js",
+      "name": "restaurants-covent-garden",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-fitzrovia.js",
+      "name": "restaurants-fitzrovia",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-greenwich.js",
+      "name": "restaurants-greenwich",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-hackney.js",
+      "name": "restaurants-hackney",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-islington.js",
+      "name": "restaurants-islington",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-kensington.js",
+      "name": "restaurants-kensington",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-kings-cross.js",
+      "name": "restaurants-kings-cross",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-marylebone.js",
+      "name": "restaurants-marylebone",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-mayfair.js",
+      "name": "restaurants-mayfair",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-near-london-eye.js",
+      "name": "restaurants-near-london-eye",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-notting-hill.js",
+      "name": "restaurants-notting-hill",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-richmond.js",
+      "name": "restaurants-richmond",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-shoreditch.js",
+      "name": "restaurants-shoreditch",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-soho.js",
+      "name": "restaurants-soho",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-spitalfields.js",
+      "name": "restaurants-spitalfields",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-stratford.js",
+      "name": "restaurants-stratford",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-whitechapel.js",
+      "name": "restaurants-whitechapel",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants-wimbledon.js",
+      "name": "restaurants-wimbledon",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurants.js",
+      "name": "restaurants",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/search.js",
+      "name": "search",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": [
+        "Contains placeholder images"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/seo-demo.js",
+      "name": "seo-demo",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/terms.js",
+      "name": "terms",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/test-data.js",
+      "name": "test-data",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/thai-restaurants-london.js",
+      "name": "thai-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/turkish-restaurants-london.js",
+      "name": "turkish-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/vegan-restaurants-london.js",
+      "name": "vegan-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/vegetarian-restaurants-london.js",
+      "name": "vegetarian-restaurants-london",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/areas/[slug].js",
+      "name": "[slug]",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/restaurant/[slug].js",
+      "name": "[slug]",
+      "hasImageIssues": true,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains placeholder images",
+        "Contains console errors"
+      ]
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/halal/near-stations/[stationSlug].js",
+      "name": "[stationSlug]",
+      "hasImageIssues": false,
+      "hasLinkIssues": false,
+      "hasConsoleErrors": false,
+      "issues": []
+    },
+    {
+      "file": "/Users/htanweer/Desktop/thebestinlondon/pages/halal/near-stations/index.js",
+      "name": "index",
+      "hasImageIssues": true,
+      "hasLinkIssues": true,
+      "hasConsoleErrors": true,
+      "issues": [
+        "Contains placeholder images",
+        "Contains broken links",
+        "Contains console errors"
+      ]
+    }
+  ],
+  "brokenLinks": [],
+  "missingImages": [],
+  "consoleErrors": [],
+  "performanceMetrics": {},
+  "totalIssues": 46
+}
