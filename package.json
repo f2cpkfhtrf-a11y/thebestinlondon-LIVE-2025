@@ -34,6 +34,10 @@
     "analyze": "ANALYZE=true next build",
     "post:verify": "node scripts/postDeployVerify.mjs",
     "verify:preprod": "node scripts/postDeployVerify.mjs",
+    "deploy:preflight": "npm run audit:complete && next build",
+    "deploy:prebuilt": "npx vercel deploy --prebuilt --prod --yes --archive=tgz",
+    "deploy:auto": "node scripts/vercelAutoRetry.mjs",
+    "deploy:verify": "node scripts/postDeployVerify.mjs --report reports/post_deploy_verification.json",
     "postbuild": "echo 'Post-build completed'"
   },
   "dependencies": {
