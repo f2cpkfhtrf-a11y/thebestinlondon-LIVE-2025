@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Central London",
+    "slug": "central-london",
+    "count": 351,
+    "heroImage": "/images/areas/central-london-hero.webp"
+  },
+  {
+    "name": "Tower Hamlets",
+    "slug": "tower-hamlets",
+    "count": 66,
+    "heroImage": "/images/areas/tower-hamlets-hero.webp"
+  },
+  {
+    "name": "Redbridge",
+    "slug": "redbridge",
+    "count": 40,
+    "heroImage": "/images/areas/redbridge-hero.webp"
+  },
+  {
+    "name": "Havering",
+    "slug": "havering",
+    "count": 32,
+    "heroImage": "/images/areas/havering-hero.webp"
+  },
+  {
+    "name": "Newham",
+    "slug": "newham",
+    "count": 11,
+    "heroImage": "/images/areas/newham-hero.webp"
+  },
+  {
+    "name": "Camden",
+    "slug": "camden",
+    "count": 4,
+    "heroImage": "/images/areas/camden-hero.webp"
+  },
+  {
+    "name": "Hackney",
+    "slug": "hackney",
+    "count": 4,
+    "heroImage": "/images/areas/hackney-hero.webp"
+  },
+  {
+    "name": "Southwark",
+    "slug": "southwark",
+    "count": 1,
+    "heroImage": "/images/areas/southwark-hero.webp"
+  },
+  {
+    "name": "Westminster",
+    "slug": "westminster",
+    "count": 1,
+    "heroImage": "/images/areas/westminster-hero.webp"
+  },
+  {
+    "name": "Kensington and Chelsea",
+    "slug": "kensington-and-chelsea",
+    "count": 1,
+    "heroImage": "/images/areas/kensington-and-chelsea-hero.webp"
+  }
+]

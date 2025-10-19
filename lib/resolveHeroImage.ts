@@ -186,8 +186,9 @@ export async function resolveCardImage(opts: {
     }
     
     // Quaternary: Try area-based fallback
-    if (venue.area || venue.borough) {
-      const areaSlug = (venue.area || venue.borough).toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const areaName = venue.area || venue.borough;
+    if (areaName) {
+      const areaSlug = areaName.toLowerCase().replace(/[^a-z0-9]/g, '-');
       const areaCardPath = `/images/areas/${areaSlug}-card.webp`;
       assertLocalImage(areaCardPath);
       return areaCardPath;
@@ -209,6 +210,20 @@ export function resolveAreaImage(areaSlug: string): string {
 
 export function resolveCuisineImage(cuisineSlug: string): string {
   const path = cuisineImageMap[cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
+  assertLocalImage(path);
+  return path;
+}
+
+export function resolveAreaHero(slug: string): string {
+  // Try area-specific hero first
+  const areaHero = `/images/areas/${slug}-hero.webp`;
+  const areaCard = `/images/areas/${slug}-card.webp`;
+  const cuisineDefault = `/images/cuisines/default-hero.webp`;
+  const siteDefault = `/images/site/hero-default.webp`;
+  
+  // Return the most specific available (we can't check existence client-side)
+  // but this provides the proper fallback chain
+  const path = areaImageMap[slug] || areaHero || areaCard || cuisineDefault || siteDefault;
   assertLocalImage(path);
   return path;
 }

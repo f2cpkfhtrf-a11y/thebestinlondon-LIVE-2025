@@ -148,7 +148,7 @@ export default function Areas({ areas, totalVenues }) {
                     key={area.slug}
                     title={area.name}
                     subtitle={`${area.count} restaurants`}
-                    href={`/restaurants-${area.slug}`}
+                    href={`/areas/${area.slug}`}
                     src={imageSrc}
                     alt={`Popular restaurants in ${area.name}`}
                   />

@@ -4,28 +4,53 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
+import { TabContainer } from '../../components/HeroTabs';
+import PageHero from '../../components/PageHero';
+import { resolveHeroImage } from '../../lib/resolveHeroImage';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import FSABadge from '../../components/FSABadge';
+import StandardizedCard from '../../components/StandardizedCard';
 
 export async function getStaticPaths() {
   const fs = require('fs');
   const path = require('path');
   
   try {
+    // Use areas.json for consistent paths if it exists
+    const areasPath = path.join(process.cwd(), 'data/areas.json');
+    if (fs.existsSync(areasPath)) {
+      const areas = JSON.parse(fs.readFileSync(areasPath, 'utf8'));
+      return {
+        paths: areas.map(area => ({
+          params: { slug: area.slug }
+        })),
+        fallback: false
+      };
+    }
+    
+    // Fallback to venues.json
     const filePath = path.join(process.cwd(), 'public/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let data = JSON.parse(fileContent);
     
     const venues = Array.isArray(data) ? data : (data.venues || []);
     
-    // Get unique areas
-    const areas = [...new Set(venues.map(v => v.borough || v.address?.borough).filter(Boolean))]
-      .map(area => ({
-        params: { slug: area.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') }
-      }));
+    // Get unique areas with better normalization
+    const areaMap = {};
+    venues.forEach(venue => {
+      const areas = [venue.area, venue.borough, venue.address?.borough].filter(Boolean);
+      areas.forEach(area => {
+        const slug = area.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+        if (slug && !areaMap[slug]) {
+          areaMap[slug] = true;
+        }
+      });
+    });
     
     return {
-      paths: areas,
+      paths: Object.keys(areaMap).map(slug => ({
+        params: { slug }
+      })),
       fallback: false
     };
   } catch (error) {
@@ -111,6 +136,9 @@ export async function getStaticProps({ params }) {
 export default function AreaPage({ areaName, areaSlug, venues, stats, topCuisines }) {
   const [activeFilter, setActiveFilter] = useState('all');
   const [sortBy, setSortBy] = useState('rating');
+  
+  // Get hero image for area page
+  const hero = resolveHeroImage({ type: "list-area", areaSlug });
 
   const filteredVenues = useMemo(() => {
     let filtered = venues;
@@ -162,12 +190,26 @@ export default function AreaPage({ areaName, areaSlug, venues, stats, topCuisine
         <meta name="description" content={`Discover ${stats.totalVenues}+ best restaurants in ${areaName}. Halal, vegan, and top-rated options with detailed reviews and ratings.`} />
         <link rel="canonical" href={`https://www.thebestinlondon.co.uk/areas/${areaSlug}`} />
         
+        {/* Open Graph Tags */}
+        <meta property="og:title" content={`Best Restaurants in ${areaName} | The Best in London`} />
+        <meta property="og:description" content={`Discover ${stats.totalVenues}+ best restaurants in ${areaName}. Halal, vegan, and top-rated options with detailed reviews and ratings.`} />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        <meta property="og:url" content={`https://www.thebestinlondon.co.uk/areas/${areaSlug}`} />
+        <meta property="og:type" content="website" />
+        
+        {/* Twitter Card Tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={`Best Restaurants in ${areaName} | The Best in London`} />
+        <meta name="twitter:description" content={`Discover ${stats.totalVenues}+ best restaurants in ${areaName}. Halal, vegan, and top-rated options with detailed reviews and ratings.`} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "CollectionPage",
           "name": `Best Restaurants in ${areaName}`,
           "description": `Directory of ${stats.totalVenues} top-rated restaurants in ${areaName}`,
           "url": `https://www.thebestinlondon.co.uk/areas/${areaSlug}`,
+          "image": `https://www.thebestinlondon.co.uk${hero.src}`,
           "mainEntity": {
             "@type": "ItemList",
             "numberOfItems": venues.length,
@@ -185,39 +227,22 @@ export default function AreaPage({ areaName, areaSlug, venues, stats, topCuisine
         }) }} />
       </Head>
 
-      <div className="min-h-screen bg-charcoal">
-        <Header />
-        
-        <main className="pt-16">
-          {/* Hero Section */}
-          <section className="py-20 bg-gradient-to-br from-charcoal via-charcoal-light to-charcoal">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="text-center mb-16">
-                <h1 className="text-4xl lg:text-6xl font-serif font-bold text-warmWhite mb-6">
-                  {areaName} Restaurants
-                </h1>
-                <p className="text-xl text-grey max-w-3xl mx-auto mb-8">
-                  Discover the best dining experiences in {areaName}. 
-                  From casual eateries to fine dining, find your perfect meal.
-                </p>
-                
-                <div className="flex flex-wrap justify-center gap-8 text-sm">
-                  <div className="flex items-center gap-2">
-                    <span className="text-gold font-semibold text-lg">{stats.totalVenues}</span>
-                    <span className="text-grey">Restaurants</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <span className="text-gold font-semibold text-lg">{stats.halalCount}</span>
-                    <span className="text-grey">Halal Options</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <span className="text-gold font-semibold text-lg">★ {stats.avgRating}</span>
-                    <span className="text-grey">Avg Rating</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
+      <Header />
+      
+      <main className="min-h-screen bg-black text-warmWhite">
+        <TabContainer currentPath={`/areas/${areaSlug}`} pageType="list-area">
+          {/* Page Hero */}
+          <PageHero 
+            title={`${areaName} Restaurants`}
+            subtitle={`Discover the best dining experiences in ${areaName}. From casual eateries to fine dining, find your perfect meal.`}
+            stats={[
+              { label: "Restaurants", value: stats.totalVenues },
+              { label: "Halal Options", value: stats.halalCount },
+              { label: "Avg Rating", value: stats.avgRating },
+            ]}
+            image={hero}
+            center={true}
+          />
 
           {/* Filters */}
           <section className="py-8 bg-charcoal-light border-b border-grey-dark sticky top-16 z-40">
@@ -297,69 +322,18 @@ export default function AreaPage({ areaName, areaSlug, venues, stats, topCuisine
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {filteredVenues.map((venue) => (
-                  <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
-                    <div className="card overflow-hidden h-full group-hover:border-gold transition-all duration-300">
-                      <div className="relative h-48">
-                        {venue.photos && venue.photos[0] ? (
-                          <Image
-                            src={venue.photos[0].url}
-                            alt={venue.name}
-                            fill
-                            className="object-cover group-hover:scale-105 transition-transform duration-300"
-                          />
-                        ) : (
-                          <div className="w-full h-full bg-grey-dark flex items-center justify-center">
-                            <span className="text-grey text-sm">No Image</span>
-                          </div>
-                        )}
-                        
-                        <div className="absolute top-4 right-4">
-                          <BestOfLondonBadge venue={venue} size="small" showTooltip={false} showExplanation={false} />
-                        </div>
-                        
-                        {venue.fsa_rating && (
-                          <div className="absolute top-4 left-4">
-                            <FSABadge rating={venue.fsa_rating} size="small" showLabel={false} />
-                          </div>
-                        )}
-                      </div>
-                      
-                      <div className="p-6">
-                        <h3 className="font-serif font-semibold text-warmWhite text-xl mb-2 group-hover:text-gold transition-colors duration-300">
-                          {venue.name}
-                        </h3>
-                        
-                        <div className="flex items-center justify-between text-sm text-grey mb-3">
-                          <span>{venue.cuisines?.[0] || 'Restaurant'}</span>
-                          <span>{venue.price_range || (venue.price_level ? '£'.repeat(venue.price_level) : '££')}</span>
-                        </div>
-                        
-                        <p className="text-grey-light text-sm line-clamp-2 mb-4">
-                          {venue.description || 'Experience exceptional dining in the heart of London.'}
-                        </p>
-                        
-                        <div className="flex items-center justify-between pt-4 border-t border-grey-dark">
-                          <div className="flex items-center gap-1">
-                            <span className="text-gold">★</span>
-                            <span className="text-warmWhite font-medium">{venue.rating || 'N/A'}</span>
-                          </div>
-                          {venue.user_ratings_total && (
-                            <span className="text-grey text-sm">
-                              {venue.user_ratings_total.toLocaleString()} reviews
-                            </span>
-                          )}
-                        </div>
-                      </div>
-                    </div>
-                  </Link>
+                  <StandardizedCard 
+                    key={venue.place_id} 
+                    venue={venue} 
+                  />
                 ))}
               </div>
             </div>
           </section>
-        </main>
+        </TabContainer>
+      </main>
 
-        <Footer />
-      </div>
+      <Footer />
     </>
   );
 }

@@ -24,6 +24,11 @@
     "audit:images:fix": "tsx scripts/auditAndFixImages.ts",
     "audit:tiles": "tsx scripts/auditTiles.ts",
     "audit:all": "npm run audit:images && npm run audit:tiles",
+    "audit:files": "tsx scripts/auditFiles.ts",
+    "audit:routes": "tsx scripts/auditRoutes.ts", 
+    "audit:links": "tsx scripts/checkLinks.ts",
+    "audit:summary": "tsx scripts/generateAuditSummary.ts",
+    "audit:complete": "npm run audit:files && npm run audit:routes && npm run audit:links && npm run audit:summary",
     "images:lqip": "tsx scripts/generateLqip.ts",
     "postbuild": "tsx scripts/buildImageSitemap.ts"
   },
