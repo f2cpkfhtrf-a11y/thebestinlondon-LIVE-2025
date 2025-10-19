@@ -19,6 +19,9 @@ jobs:
         run: |
           echo "NODE_ENV=production" >> $GITHUB_ENV
           echo "IMAGE_PIPELINE_MODE=local-only" >> $GITHUB_ENV
+      - name: Generate LQIP (non-blocking)
+        run: |
+          npm run images:lqip || echo "⚠️ LQIP generation skipped/failed"
       - name: Run comprehensive audit
         run: |
           if [ "${{ github.event_name }}" = "pull_request" ]; then
@@ -27,10 +30,16 @@ jobs:
           else
             npm run audit:all
           fi
-      - name: Block external/Unsplash URLs
+      - name: Block external URLs in source code
         run: |
-          ! grep -R -E 'images\.unsplash\.com|http(s)?://(?!www\.thebestinlondon\.co\.uk|localhost)' public/venues.json || \
-          (echo "❌ External/Unsplash URLs detected" && exit 1)
+          # Check for external image URLs in source code (case-insensitive)
+          if grep -r -i -E 'http://|https://|unsplash|googleusercontent|cloudfront|gstatic' --include='*.js' --include='*.ts' --include='*.tsx' --include='*.jsx' pages/ components/ lib/ || \
+             grep -r -i -E 'http://|https://|unsplash|googleusercontent|cloudfront|gstatic' public/venues.json; then
+            echo "❌ External URLs detected in source code"
+            exit 1
+          else
+            echo "✅ No external URLs found"
+          fi
       - name: Check small images
         run: |
           find public/images/restaurants -type f -name '*.webp' -size -50k -print -quit | \

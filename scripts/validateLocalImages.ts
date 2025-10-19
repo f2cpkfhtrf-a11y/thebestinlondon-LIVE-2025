@@ -13,6 +13,11 @@ function scan(dir: string): void {
       if (stat.isDirectory()) {
         scan(full);
       } else if (full.endsWith('.webp') || full.endsWith('.jpg') || full.endsWith('.jpeg') || full.endsWith('.png')) {
+        // Skip blur files (they are intentionally small)
+        if (file.includes('.blur.')) {
+          return;
+        }
+        
         // Check file size - must be at least 50KB for quality validation
         if (stat.size < 50 * 1024) {
           invalid.push(full.replace(process.cwd(), ''));

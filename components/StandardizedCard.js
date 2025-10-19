@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ImageWithFallback from './ImageWithFallback';
 import { assertLocalImage } from '../lib/assertLocalImage';
+import { getBlurAndColor } from '../lib/imagePlaceholders';
 
 const StandardizedCard = ({ 
   venue, 
@@ -63,10 +64,22 @@ const StandardizedCard = ({
   const imageUrl = getImageUrl();
   const location = vicinity || borough || area;
   
+  // Get blur and dominant color for the image (with error handling for JS)
+  let blurAndColor = {};
+  try {
+    blurAndColor = getBlurAndColor(imageUrl);
+  } catch (e) {
+    // Fallback if getBlurAndColor fails
+    blurAndColor = { color: '#1E1B18' };
+  }
+  
   return (
     <div className={`relative overflow-hidden rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 group ${className}`}>
       {/* Image with standardized overlay */}
-      <div className="relative h-48 overflow-hidden">
+      <div 
+        className="relative h-48 overflow-hidden aspect-[16/10]"
+        style={{ backgroundColor: blurAndColor.color }}
+      >
                 {imageUrl ? (
           <img
             src={imageUrl}
