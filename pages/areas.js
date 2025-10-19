@@ -5,6 +5,8 @@ import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
+import PageHero from '../components/PageHero';
+import { resolveHeroImage } from '../lib/resolveHeroImage';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -56,6 +58,9 @@ export async function getStaticProps() {
 export default function Areas({ areas, totalVenues }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [filteredAreas, setFilteredAreas] = useState(areas);
+  
+  // Get hero image for areas page
+  const hero = resolveHeroImage({ type: "list-all" });
 
   useEffect(() => {
     if (searchTerm) {
@@ -78,7 +83,7 @@ export default function Areas({ areas, totalVenues }) {
         {/* Open Graph */}
         <meta property="og:title" content="Restaurant Areas in London | The Best in London" />
         <meta property="og:description" content={`Explore ${areas.length}+ areas across London with our comprehensive restaurant guide.`} />
-        <meta property="og:image" content="https://www.thebestinlondon.co.uk/logo.svg" />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         <meta property="og:url" content="https://www.thebestinlondon.co.uk/areas" />
         <meta property="og:type" content="website" />
         
@@ -86,28 +91,26 @@ export default function Areas({ areas, totalVenues }) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Restaurant Areas in London | The Best in London" />
         <meta name="twitter:description" content={`Explore ${areas.length}+ areas across London with our comprehensive restaurant guide.`} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
       </Head>
 
       <Header />
       
       <main className="min-h-screen bg-black">
         <TabContainer currentPath="/areas" pageType="areas">
-        {/* Hero Section */}
-        <section className="relative py-20 lg:py-32">
-          <div className="absolute inset-0 bg-gradient-to-br from-charcoal via-black to-charcoal opacity-90"></div>
-          <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-serif font-bold text-gradient mb-6">
-              Explore Areas
-            </h1>
-            <p className="text-xl sm:text-2xl text-grey font-sans font-medium mb-4">
-              Discover London's Neighborhoods
-            </p>
-            <p className="text-lg text-grey-light max-w-3xl mx-auto leading-relaxed">
-              From the bustling streets of Soho to the trendy vibes of Shoreditch, 
-              explore London's diverse areas and their culinary treasures.
-            </p>
-          </div>
-        </section>
+        {/* Page Hero */}
+        <PageHero 
+          title="Explore Areas"
+          subtitle="From the bustling streets of Soho to the trendy vibes of Shoreditch, explore London's diverse areas and their culinary treasures."
+          stats={[
+            { label: "Areas", value: areas.length },
+            { label: "Restaurants", value: totalVenues },
+            { label: "Boroughs", value: "50+" },
+            { label: "Coverage", value: "100%" }
+          ]}
+          image={hero}
+          center={true}
+        />
 
         {/* Search */}
         <section className="py-8 bg-charcoal-light">

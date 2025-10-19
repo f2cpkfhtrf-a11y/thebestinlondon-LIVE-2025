@@ -4,7 +4,9 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import PageHero from '../components/PageHero';
 import BILScore from '../components/BILScore';
+import { resolveHeroImage } from '../lib/resolveHeroImage';
 import { fetchVenuesData } from '../utils/venueDataUtils';
 
 export async function getStaticProps() {
@@ -24,6 +26,9 @@ export default function Search({ venues }) {
   const [isSearching, setIsSearching] = useState(false);
   const [activeFilter, setActiveFilter] = useState('all');
   const [sortBy, setSortBy] = useState('relevance');
+  
+  // Get hero image for search page
+  const hero = resolveHeroImage({ type: "search" });
 
   // Handle URL query parameters
   useEffect(() => {
@@ -104,25 +109,25 @@ export default function Search({ venues }) {
         <title>Search Restaurants | The Best in London</title>
         <meta name="description" content="Search London's best restaurants by name, cuisine, area, or description." />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/search" />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
       </Head>
 
       <div className="min-h-screen bg-charcoal">
         <Header />
         
         <main className="pt-16">
-          {/* Search Section */}
-          <section className="py-20 bg-gradient-to-br from-charcoal via-charcoal-light to-charcoal">
-            <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="text-center mb-12">
-                <h1 className="text-4xl lg:text-5xl font-serif font-bold text-warmWhite mb-4">
-                  Search Restaurants
-                </h1>
-                <p className="text-lg text-grey max-w-2xl mx-auto">
-                  Find your perfect dining experience in London
-                </p>
-              </div>
+          {/* Page Hero */}
+          <PageHero 
+            title="Search Restaurants"
+            subtitle="Find your perfect dining experience in London"
+            image={hero}
+            center={true}
+          />
 
-              {/* Search Input */}
+          {/* Search Input */}
+          <section className="py-8 bg-charcoal-light">
+            <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="relative max-w-2xl mx-auto">
                 <input
                   type="text"

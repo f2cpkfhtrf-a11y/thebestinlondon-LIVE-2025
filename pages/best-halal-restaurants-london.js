@@ -5,7 +5,9 @@ import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
+import PageHero from '../components/PageHero';
 import ImageWithFallback from '../components/ImageWithFallback';
+import { resolveHeroImage } from '../lib/resolveHeroImage';
 import { theme } from '../utils/theme';
 import { enhanceVenueData, filterByDietary, sortVenues } from '../utils/venueData';
 import { isHalalVenue } from '../utils/halalStations';
@@ -68,6 +70,9 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
   const [filterArea, setFilterArea] = useState('all');
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage] = useState(20); // Limit items per page for better performance
+  
+  // Get hero image for halal restaurants page
+  const hero = resolveHeroImage({ type: "list-halal" });
 
   const filtered = useMemo(() => {
     let result = venues;
@@ -139,6 +144,8 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
         <title>Best Halal Restaurants in London 2025 — {venues.length}+ Verified Venues | The Best in London</title>
         <meta name="description" content={`Discover ${venues.length}+ best halal restaurants in London. Verified halal options with detailed reviews, FSA ratings, and authentic cuisine across all areas.`} />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/best-halal-restaurants-london" />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
@@ -146,6 +153,7 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
           "name": "Best Halal Restaurants in London",
           "description": `Directory of ${venues.length} verified halal restaurants in London`,
           "url": "https://www.thebestinlondon.co.uk/best-halal-restaurants-london",
+          "image": `https://www.thebestinlondon.co.uk${hero.src}`,
           "mainEntity": {
             "@type": "ItemList",
             "numberOfItems": venues.length,
@@ -168,40 +176,18 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
         
         <main className="pt-16">
           <TabContainer currentPath="/best-halal-restaurants-london" pageType="halal">
-          {/* Hero Section */}
-          <section className="py-20 bg-gradient-to-br from-charcoal via-charcoal-light to-charcoal">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="text-center mb-16">
-                <div className="inline-flex items-center gap-2 bg-green-500/10 px-4 py-2 rounded-lg border border-green-500/20 mb-6">
-                  <span className="text-2xl">☪️</span>
-                  <span className="text-green-400 font-semibold">Halal Verified</span>
-                </div>
-                
-                <h1 className="text-4xl lg:text-6xl font-serif font-bold text-warmWhite mb-6">
-                  Best Halal Restaurants in London
-                </h1>
-                <p className="text-xl text-grey max-w-3xl mx-auto mb-8">
-                  Discover {venues.length}+ verified halal restaurants across London. 
-                  From authentic Middle Eastern cuisine to modern halal dining experiences.
-                </p>
-                
-                <div className="flex flex-wrap justify-center gap-8 text-sm">
-                  <div className="flex items-center gap-2">
-                    <span className="text-gold font-semibold text-lg">{venues.length}</span>
-                    <span className="text-grey">Halal Restaurants</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <span className="text-gold font-semibold text-lg">{areas.length - 1}</span>
-                    <span className="text-grey">Areas Covered</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <span className="text-gold font-semibold text-lg">100%</span>
-                    <span className="text-grey">Verified</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
+          {/* Page Hero */}
+          <PageHero 
+            title="Best Halal Restaurants in London"
+            subtitle={`Discover ${venues.length}+ verified halal restaurants across London. From authentic Middle Eastern cuisine to modern halal dining experiences.`}
+            stats={[
+              { label: "Halal Restaurants", value: venues.length },
+              { label: "Areas Covered", value: areas.length - 1 },
+              { label: "Verified", value: "100%" }
+            ]}
+            image={hero}
+            center={true}
+          />
 
           {/* Filter Bar */}
           <section className="py-8 bg-charcoal-light border-b border-grey-dark sticky top-16 z-40">
