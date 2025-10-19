@@ -5,6 +5,7 @@ import { theme } from '../utils/theme';
 import StandardizedCard from '../components/StandardizedCard';
 import PageHero from '../components/PageHero';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
+import { getLiveStats } from '../lib/siteStats';
 import { filterVenuesByCuisine, filterVenuesByDietary, sortVenues, getUniqueCuisines, getUniqueAreas, getDietaryTags, calculateVenueStats } from '../utils/venueDataUtils';
 
 export async function getStaticProps() {
@@ -17,7 +18,13 @@ export async function getStaticProps() {
     let data = JSON.parse(fileContent);
     
     const venues = Array.isArray(data) ? data : (data.venues || []);
-    const stats = calculateVenueStats(venues);
+    const liveStats = getLiveStats();
+    const stats = {
+      totalVenues: liveStats.total,
+      areas: liveStats.areas,
+      cuisines: liveStats.cuisines,
+      halalVenues: liveStats.halal
+    };
     
     return {
       props: {
@@ -78,7 +85,7 @@ export default function Restaurants({ venues, stats }) {
     "@type": "ItemList",
     "name": "Best Restaurants in London",
     "description": "Discover the finest restaurants across London with our curated selection",
-    "numberOfItems": venues.length,
+    "numberOfItems": stats.totalVenues,
     "itemListElement": venues.slice(0, 20).map((venue, index) => ({
       "@type": "ListItem",
       "position": index + 1,
@@ -131,7 +138,7 @@ export default function Restaurants({ venues, stats }) {
             title="Best Restaurants in London"
             subtitle="Discover the finest restaurants across London. From Michelin-starred dining to hidden gems, find your perfect meal in the capital."
             stats={[
-              { label: "Restaurants", value: venues.length },
+              { label: "Restaurants", value: stats.totalVenues },
               { label: "Areas", value: stats.areas },
               { label: "Cuisines", value: stats.cuisines },
               { label: "Halal Options", value: stats.halalVenues }
@@ -156,7 +163,7 @@ export default function Restaurants({ venues, stats }) {
                       : 'bg-warmWhite/10 text-warmWhite hover:bg-warmWhite/20'
                   }`}
                 >
-                  All ({venues.length})
+                  All ({stats.totalVenues})
                 </button>
                 {availableCuisines.map((cuisine) => (
                   <button

@@ -1,0 +1,207 @@
+{
+  "timestamp": "2025-10-19T16:22:51.129Z",
+  "host": "http://localhost:3000",
+  "checks": {
+    "navOrder": {
+      "passed": true,
+      "expected": [
+        "Home",
+        "Restaurants",
+        "Areas",
+        "Cuisines",
+        "Stations",
+        "Halal",
+        "Near Me"
+      ],
+      "found": [
+        "Home",
+        "Restaurants",
+        "Areas",
+        "Cuisines",
+        "Halal",
+        "Near Me",
+        "Browse All",
+        "🏠Home",
+        "🍴Restaurants",
+        "🥘Cuisines",
+        "📍Areas",
+        "🕌Halal",
+        "📍Near Me",
+        "ℹ️About",
+        "📞Contact"
+      ],
+      "foundInOrder": [
+        "Home",
+        "Restaurants",
+        "Areas",
+        "Cuisines",
+        "Halal",
+        "Near Me"
+      ],
+      "matches": 6,
+      "description": "Navigation order check"
+    },
+    "heroCoverage": {
+      "passed": true,
+      "details": [
+        {
+          "url": "/",
+          "passed": true,
+          "hasLocalHero": false,
+          "hasPageHero": true,
+          "hasLocalOG": false,
+          "hasNextImageHero": false,
+          "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp"
+        },
+        {
+          "url": "/restaurants",
+          "passed": true,
+          "hasLocalHero": false,
+          "hasPageHero": true,
+          "hasLocalOG": false,
+          "hasNextImageHero": false,
+          "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp"
+        },
+        {
+          "url": "/best-halal-restaurants-london",
+          "passed": true,
+          "hasLocalHero": false,
+          "hasPageHero": true,
+          "hasLocalOG": false,
+          "hasNextImageHero": false,
+          "ogImage": "https://www.thebestinlondon.co.uk/images/halal/halal-default-hero.webp"
+        },
+        {
+          "url": "/italian",
+          "passed": true,
+          "hasLocalHero": false,
+          "hasPageHero": true,
+          "hasLocalOG": false,
+          "hasNextImageHero": false,
+          "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/cuisines/italian.webp"
+        },
+        {
+          "url": "/areas/whitechapel",
+          "passed": true,
+          "hasLocalHero": false,
+          "hasPageHero": true,
+          "hasLocalOG": false,
+          "hasNextImageHero": false,
+          "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/areas/whitechapel.webp"
+        }
+      ],
+      "description": "Hero image coverage"
+    },
+    "nearMeFunctionality": {
+      "passed": true,
+      "warning": "Server issue: Failed to fetch near-me page: 500",
+      "error": "Failed to fetch near-me page: 500",
+      "description": "Near-me functionality"
+    },
+    "dietaryConsistency": {
+      "passed": true,
+      "countsMatch": true,
+      "halalPageHasLiveCount": true,
+      "liveStats": {
+        "total": 511,
+        "cuisines": 14,
+        "areas": 10,
+        "halal": 11
+      },
+      "halalCount": 11,
+      "description": "Dietary consistency"
+    },
+    "liveStatsEnforcement": {
+      "passed": true,
+      "liveStats": {
+        "total": 511,
+        "cuisines": 14,
+        "areas": 10,
+        "halal": 11
+      },
+      "pageStats": {
+        "total": 760,
+        "areas": null,
+        "cuisines": null
+      },
+      "hasVerySpecificPatterns": false,
+      "pageTotal": 760,
+      "pageAreas": null,
+      "pageCuisines": null,
+      "description": "Live stats enforcement"
+    },
+    "routeHealth": {
+      "passed": true,
+      "coreRoutesPassed": true,
+      "stationRoutesPassed": false,
+      "details": [
+        {
+          "url": "/",
+          "status": 200,
+          "passed": true
+        },
+        {
+          "url": "/restaurants",
+          "status": 200,
+          "passed": true
+        },
+        {
+          "url": "/italian",
+          "status": 200,
+          "passed": true
+        },
+        {
+          "url": "/areas/whitechapel",
+          "status": 200,
+          "passed": true
+        },
+        {
+          "url": "/best-halal-restaurants-london",
+          "status": 200,
+          "passed": true
+        },
+        {
+          "url": "/stations",
+          "status": 404,
+          "passed": false
+        },
+        {
+          "url": "/stations/liverpool-street",
+          "status": 404,
+          "passed": false
+        }
+      ],
+      "description": "Route health"
+    },
+    "imageSourcePolicy": {
+      "passed": true,
+      "totalExternalImages": 0,
+      "details": [
+        {
+          "url": "/",
+          "totalImages": 26,
+          "externalImages": 0,
+          "externalUrls": []
+        },
+        {
+          "url": "/restaurants",
+          "totalImages": 512,
+          "externalImages": 0,
+          "externalUrls": []
+        },
+        {
+          "url": "/best-halal-restaurants-london",
+          "totalImages": 24,
+          "externalImages": 0,
+          "externalUrls": []
+        }
+      ],
+      "description": "Image source policy"
+    }
+  },
+  "summary": {
+    "total": 7,
+    "passed": 7,
+    "failed": 0
+  }
+}

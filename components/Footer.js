@@ -1,7 +1,10 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import { getLiveStats } from '../lib/siteStats';
 
-export default function Footer() {
+export default function Footer({ stats }) {
+  // Use passed stats or get live stats as fallback
+  const liveStats = stats || getLiveStats();
   return (
     <footer className="bg-black border-t border-grey-dark">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -33,7 +36,7 @@ export default function Footer() {
               <h3 className="logo-text text-xl">The Best in London</h3>
             </div>
             <p className="text-grey-light text-sm leading-relaxed max-w-md mb-4 relative z-10">
-              London's premier dining guide featuring 760+ verified restaurants across 50+ areas. 
+              London's premier dining guide featuring {liveStats.total}+ verified restaurants across {liveStats.areas}+ areas. 
               From street food to fine dining, discover your next favorite meal.
             </p>
             <div className="flex space-x-4">

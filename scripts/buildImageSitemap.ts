@@ -67,7 +67,7 @@ function collectVenueImages(venue: Venue): string[] {
     images.push(...localPhotos);
   }
   
-  return [...new Set(images)]; // Remove duplicates
+  return Array.from(new Set(images)); // Remove duplicates
 }
 
 function generateImageUrlset(): ImageEntry[] {

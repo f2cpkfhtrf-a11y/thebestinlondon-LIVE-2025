@@ -29,7 +29,13 @@
     "audit:links": "tsx scripts/checkLinks.ts",
     "audit:summary": "tsx scripts/generateAuditSummary.ts",
     "audit:complete": "npm run audit:files && npm run audit:routes && npm run audit:links && npm run audit:images && npm run audit:summary",
-    "audit:seo": "node scripts/auditSEO.ts",
+    "audit:seo": "tsx scripts/auditSEO.ts",
+    "audit:dietary": "tsx scripts/auditDietary.ts",
+    "test:stats": "node scripts/testStatsConsistency.mjs",
+    "test:seo": "tsx scripts/auditSEO.ts",
+    "test:e2e": "node scripts/e2eSmoke.mjs",
+    "test:facts": "node scripts/factChecks.mjs",
+    "precommit": "npm run audit:complete && npm run test:facts",
     "images:lqip": "tsx scripts/generateLqip.ts",
     "analyze": "ANALYZE=true next build",
     "post:verify": "node scripts/postDeployVerify.mjs",
@@ -38,7 +44,9 @@
     "deploy:prebuilt": "npx vercel deploy --prebuilt --prod --yes --archive=tgz",
     "deploy:auto": "node scripts/vercelAutoRetry.mjs",
     "deploy:verify": "node scripts/postDeployVerify.mjs --report reports/post_deploy_verification.json",
-    "postbuild": "echo 'Post-build completed'"
+    "prod:facts": "HOST=https://www.thebestinlondon.co.uk node scripts/factChecks.mjs",
+    "postbuild": "echo 'Post-build completed'",
+    "prepare": "husky"
   },
   "dependencies": {
     "axios": "^1.12.2",
@@ -50,12 +58,16 @@
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@types/node": "24.8.1",
+    "@types/react": "19.2.2",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "13.5.6",
+    "husky": "^9.1.7",
     "postcss": "^8",
     "sharp": "^0.34.4",
     "tailwindcss": "^3.4.18",
-    "tsx": "^4.20.6"
+    "tsx": "^4.20.6",
+    "typescript": "5.9.3"
   }
 }

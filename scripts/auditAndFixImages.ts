@@ -100,7 +100,8 @@ function isValidWebP(filePath: string): boolean {
     }
     
     // Basic WebP header check
-    const buffer = fs.readFileSync(fullPath, { start: 0, end: 12 });
+    const buffer = fs.readFileSync(fullPath);
+    if (buffer.length < 12) return false;
     const header = buffer.toString('ascii', 0, 4);
     return header === 'RIFF' && buffer.toString('ascii', 8, 12) === 'WEBP';
     

@@ -3,119 +3,109 @@ import areaImageMap from '../data/areaImageMap';
 import cuisineImageMap from '../data/cuisineImageMap';
 import { logImageFallback } from './logImageIssue';
 
-export function resolveHeroImage(ctx: {
-  type: "home" | "list-cuisine" | "list-area" | "list-all" | "list-halal" | "search" | "venue" | "tile-area" | "tile-cuisine" | "halal";
+const base = "/images/heroes";
+const fallbacks = {
+  default: `${base}/site-default.webp`,
+  halal: `${base}/halal-default.webp`,
+  cuisines: `${base}/cuisines-default.webp`,
+  areas: `${base}/areas-default.webp`,
+  station: `${base}/station-default.webp`,
+};
+
+function safe(path?: string){ return path?.startsWith("/images/") ? path : undefined; }
+
+export type HeroContext =
+  | { type: "home" }
+  | { type: "list-halal" }
+  | { type: "list-cuisine"; cuisineSlug: string }
+  | { type: "list-area"; areaSlug: string }
+  | { type: "station"; stationSlug: string }
+  | { type: "venue"; venue: any }
+  | { type: "search" }
+  | { type: "list-all" };
+
+export function resolveHeroImage(ctx: HeroContext | {
+  type: "home" | "list-cuisine" | "list-area" | "list-all" | "list-halal" | "search" | "venue" | "tile-area" | "tile-cuisine" | "halal" | "station";
   cuisineSlug?: string;
   areaSlug?: string;
+  stationSlug?: string;
   venue?: any;
   scope?: "list" | "venue" | "guideSection";
 }): { src: string; alt: string; srcMd?: string; srcLg?: string } {
-  // Define known good image paths in order of preference
-  // This avoids fs operations during client-side rendering
   
-  let imageSrc: string | null = null;
+  let imageSrc: string;
   
-  // Venue-specific hero selection with smart fallbacks
-  if (ctx.type === "venue" && ctx.venue) {
+  // Handle the new simplified pattern with proper fallback chains
+  if (ctx.type === "list-halal") {
+    // Specific halal hero → halal generic → site default
+    imageSrc = safe(`${base}/halal/halal.webp`) || 
+               safe(`${base}/halal/halal-default.webp`) ||
+               fallbacks.halal;
+  } else if (ctx.type === "list-cuisine") {
+    // Specific cuisine hero → cuisine generic → site default
+    imageSrc = safe(`${base}/cuisines/${ctx.cuisineSlug}.webp`) || 
+               safe(`${base}/cuisines/cuisine-generic.webp`) ||
+               fallbacks.cuisines ||
+               fallbacks.default;
+  } else if (ctx.type === "list-area") {
+    // Specific area hero → area generic → site default
+    imageSrc = safe(`${base}/areas/${ctx.areaSlug}.webp`) || 
+               safe(`${base}/areas/area-generic.webp`) ||
+               fallbacks.areas ||
+               fallbacks.default;
+  } else if (ctx.type === "station") {
+    // Specific station hero → station generic → site default
+    imageSrc = safe(`${base}/stations/${ctx.stationSlug}.webp`) || 
+               safe(`${base}/stations/station-generic.webp`) ||
+               fallbacks.station ||
+               fallbacks.default;
+  } else if (ctx.type === "home" || ctx.type === "search" || ctx.type === "list-all") {
+    imageSrc = fallbacks.default;
+  } else if (ctx.type === "venue") {
     const v = ctx.venue;
-    
-    // Primary: Use provided venue hero path if available
-    if (v.image_hero_path && !v.image_hero_path.includes('placeholder')) {
-      imageSrc = v.image_hero_path.replace('/public', '');
-    }
-    
-    // Secondary: Try venue-specific hero
-    if (!imageSrc) {
-      const venueSlug = v.slug || v.name?.toLowerCase().replace(/[^a-z0-9]/g, '-');
-      if (venueSlug) {
-        imageSrc = `/images/restaurants/${venueSlug}/${venueSlug}-hero.webp`;
+    // Venue-specific → cuisine → area → site default
+    imageSrc = safe(v.image_hero_path)
+        || (v.cuisine_slug && safe(`${base}/cuisines/${v.cuisine_slug}.webp`))
+        || (v.area_slug && safe(`${base}/areas/${v.area_slug}.webp`))
+        || (v.cuisine_slug && fallbacks.cuisines)
+        || (v.area_slug && fallbacks.areas)
+        || fallbacks.default;
+  } else {
+    // Handle legacy types and other cases for backward compatibility
+    if (ctx.type === "tile-area" && ctx.areaSlug) {
+      imageSrc = areaImageMap[ctx.areaSlug] || "/images/heroes/site/default-area.webp";
+      if (!areaImageMap[ctx.areaSlug]) {
+        logImageFallback('area-tile', 3, {
+          originalPath: `/images/areas/${ctx.areaSlug}-hero.webp`,
+          fallbackPath: imageSrc,
+          reason: 'Area not found in areaImageMap'
+        });
       }
-    }
-    
-    // Tertiary: Try cuisine-based hero
-    if (!imageSrc && v.cuisines && v.cuisines[0]) {
-      const cuisineSlug = v.cuisines[0].toLowerCase().replace(/[^a-z0-9]/g, '-');
-      imageSrc = `/images/heroes/cuisines/${cuisineSlug}.webp`;
-    }
-    
-    // Quaternary: Try area-based hero
-    if (!imageSrc && (v.area || v.borough)) {
-      const areaSlug = (v.area || v.borough).toLowerCase().replace(/[^a-z0-9]/g, '-');
-      imageSrc = `/images/heroes/areas/${areaSlug}.webp`;
-    }
-    
-    // Venue fallback
-    if (!imageSrc) {
-      imageSrc = "/images/heroes/site/default-list-hero.webp";
-    }
-  }
-  // Home page hero
-  else if (ctx.type === "home") {
-    imageSrc = "/images/heroes/site/home-hero.webp";
-  }
-  // Cuisine page hero
-  else if (ctx.type === "list-cuisine" && ctx.cuisineSlug) {
-    imageSrc = `/images/heroes/cuisines/${ctx.cuisineSlug}.webp`;
-    // Fallback chain: specific cuisine -> default list hero
-    if (!imageSrc || imageSrc.includes('undefined')) {
-      imageSrc = "/images/heroes/site/default-list-hero.webp";
-    }
-  }
-  // Area page hero
-  else if (ctx.type === "list-area" && ctx.areaSlug) {
-    imageSrc = `/images/heroes/areas/${ctx.areaSlug}.webp`;
-    // Fallback chain: specific area -> default list hero
-    if (!imageSrc || imageSrc.includes('undefined')) {
-      imageSrc = "/images/heroes/site/default-list-hero.webp";
-    }
-  }
-  // Halal restaurants page
-  else if (ctx.type === "list-halal") {
-    imageSrc = "/images/heroes/site/default-list-hero.webp";
-  }
-  // Tile for areas
-  else if (ctx.type === "tile-area" && ctx.areaSlug) {
-    imageSrc = areaImageMap[ctx.areaSlug] || "/images/heroes/site/default-area.webp";
-    if (!areaImageMap[ctx.areaSlug]) {
-      logImageFallback('area-tile', 3, {
-        originalPath: `/images/areas/${ctx.areaSlug}-hero.webp`,
-        fallbackPath: imageSrc,
-        reason: 'Area not found in areaImageMap'
-      });
-    }
-  }
-  // Tile for cuisines
-  else if (ctx.type === "tile-cuisine" && ctx.cuisineSlug) {
-    imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
-    if (!cuisineImageMap[ctx.cuisineSlug]) {
-      logImageFallback('cuisine-tile', 3, {
-        originalPath: `/images/cuisines/${ctx.cuisineSlug}-hero.webp`,
-        fallbackPath: imageSrc,
-        reason: 'Cuisine not found in cuisineImageMap'
-      });
-    }
-  }
-  // Halal specific logic
-  else if (ctx.type === "halal") {
-    if (ctx.scope === "list") {
-      if (ctx.cuisineSlug) {
+    } else if (ctx.type === "tile-cuisine" && ctx.cuisineSlug) {
+      imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
+      if (!cuisineImageMap[ctx.cuisineSlug]) {
+        logImageFallback('cuisine-tile', 3, {
+          originalPath: `/images/cuisines/${ctx.cuisineSlug}-hero.webp`,
+          fallbackPath: imageSrc,
+          reason: 'Cuisine not found in cuisineImageMap'
+        });
+      }
+    } else if (ctx.type === "halal") {
+      if (ctx.scope === "list") {
+        if (ctx.cuisineSlug) {
+          imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/halal/halal-default-hero.webp";
+        } else {
+          imageSrc = "/images/halal/halal-default-hero.webp";
+        }
+      } else if (ctx.scope === "venue" && ctx.cuisineSlug) {
         imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/halal/halal-default-hero.webp";
       } else {
         imageSrc = "/images/halal/halal-default-hero.webp";
       }
-    } else if (ctx.scope === "venue" && ctx.cuisineSlug) {
-      imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/halal/halal-default-hero.webp";
     } else {
-      imageSrc = "/images/halal/halal-default-hero.webp";
+      // Default fallback for all other cases
+      imageSrc = fallbacks.default;
     }
-  }
-  // List pages (all restaurants, search)
-  else if (ctx.type === "list-all" || ctx.type === "search") {
-    imageSrc = "/images/heroes/site/default-list-hero.webp";
-  }
-  // Default fallback
-  else {
-    imageSrc = "/images/heroes/site/default-list-hero.webp";
   }
 
   // Assert local-only for development
@@ -126,9 +116,27 @@ export function resolveHeroImage(ctx: {
   const srcMd = imageSrc; // For now, just use the main src as md variant
   const srcLg = basePath.includes('-hero') ? imageSrc.replace('-hero.webp', '-hero-xl.webp') : imageSrc;
 
+  // Generate appropriate alt text based on context type
+  let altText = "The Best in London";
+  if (ctx.type === "list-cuisine" && 'cuisineSlug' in ctx) {
+    altText = `Hero image for ${ctx.cuisineSlug} restaurants in London`;
+  } else if (ctx.type === "list-area" && 'areaSlug' in ctx) {
+    altText = `Hero image for ${ctx.areaSlug} dining in London`;
+  } else if (ctx.type === "station" && 'stationSlug' in ctx) {
+    altText = `Hero image for restaurants near ${ctx.stationSlug} Station`;
+  } else if (ctx.type === "venue" && 'venue' in ctx) {
+    altText = `Hero image for ${ctx.venue?.name || "Restaurant"} in London`;
+  } else if (ctx.type === "list-halal") {
+    altText = "Hero image for best halal restaurants in London";
+  } else if (ctx.type === "home") {
+    altText = "Hero image for London's finest restaurants";
+  } else if (ctx.type === "search") {
+    altText = "Hero image for restaurant search in London";
+  }
+
   const result: { src: string; alt: string; srcMd?: string; srcLg?: string } = {
     src: imageSrc,
-    alt: `Hero image for ${ctx.cuisineSlug || ctx.areaSlug || ctx.venue?.name || "The Best in London"}`,
+    alt: altText,
   };
 
   // Only include variants if they differ from src (client-side safe)

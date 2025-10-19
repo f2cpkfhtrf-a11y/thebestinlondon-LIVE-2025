@@ -7,6 +7,7 @@ import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
 import { resolveHeroImage, resolveAreaImage } from '../lib/resolveHeroImage';
+import { getLiveStats } from '../lib/siteStats';
 import ImageTile from '../components/tiles/ImageTile';
 
 export async function getStaticProps() {
@@ -38,10 +39,12 @@ export async function getStaticProps() {
       }))
       .sort((a, b) => b.count - a.count);
 
+    const liveStats = getLiveStats();
+    
     return {
       props: {
         areas,
-        totalVenues: venues.length
+        stats: liveStats
       },
       revalidate: 3600
     };
@@ -50,13 +53,13 @@ export async function getStaticProps() {
     return {
       props: {
         areas: [],
-        totalVenues: 0
+        stats: { total: 0, areas: 0, cuisines: 0, halal: 0 }
       }
     };
   }
 }
 
-export default function Areas({ areas, totalVenues }) {
+export default function Areas({ areas, stats }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [filteredAreas, setFilteredAreas] = useState(areas);
   
@@ -104,8 +107,8 @@ export default function Areas({ areas, totalVenues }) {
           title="Explore Areas"
           subtitle="From the bustling streets of Soho to the trendy vibes of Shoreditch, explore London's diverse areas and their culinary treasures."
           stats={[
-            { label: "Areas", value: areas.length },
-            { label: "Restaurants", value: totalVenues },
+            { label: "Areas", value: stats.areas },
+            { label: "Restaurants", value: stats.total },
             { label: "Boroughs", value: "50+" },
             { label: "Coverage", value: "100%" }
           ]}
@@ -164,7 +167,7 @@ export default function Areas({ areas, totalVenues }) {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
               <div className="text-center">
                 <div className="text-4xl lg:text-5xl font-serif font-bold text-gold mb-2">
-                  {totalVenues}+
+                  {stats.total}+
                 </div>
                 <div className="text-grey font-nav uppercase tracking-wider">Restaurants</div>
               </div>
@@ -192,7 +195,7 @@ export default function Areas({ areas, totalVenues }) {
         </TabContainer>
       </main>
 
-      <Footer />
+      <Footer stats={stats} />
     </>
   );
 }

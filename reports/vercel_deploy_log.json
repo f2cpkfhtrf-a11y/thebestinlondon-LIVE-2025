@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-10-19T13:38:03.812Z",
+  "deployment": {
+    "success": true,
+    "output": "https://thebestinlondon-fku8s1jl3-hassans-projects-cc46d45a.vercel.app"
+  },
+  "verification": {
+    "success": true,
+    "output": "\n> the-best-in-london@0.1.0 deploy:verify\n> node scripts/postDeployVerify.mjs --report reports/post_deploy_verification.json\n\n🔍 Starting post-deploy verification...\n\nTesting /...\n✅ / - 200\nTesting /restaurants...\n✅ /restaurants - 200\nTesting /best-halal-restaurants-london...\n✅ /best-halal-restaurants-london - 200\nTesting /areas/whitechapel...\n✅ /areas/whitechapel - 200\nTesting /italian...\n✅ /italian - 200\n\nChecking content for /...\n  Status: 200\n  Local Images: ❌\n  OG/Twitter Images: ✅\n  Breadcrumbs: ❌\n  Cache Headers: public, max-age=0, must-revalidate\n\nChecking content for /restaurants...\n  Status: 200\n  Local Images: ❌\n  OG/Twitter Images: ✅\n  Breadcrumbs: ❌\n  Cache Headers: public, max-age=0, must-revalidate\n\nChecking content for /best-halal-restaurants-london...\n  Status: 200\n  Local Images: ❌\n  OG/Twitter Images: ✅\n  Breadcrumbs: ❌\n  Cache Headers: public, max-age=0, must-revalidate\n\nChecking content for /areas/whitechapel...\n  Status: 200\n  Local Images: ❌\n  OG/Twitter Images: "
+  },
+  "environment": {
+    "nodeVersion": "v22.20.0",
+    "platform": "darwin"
+  }
+}

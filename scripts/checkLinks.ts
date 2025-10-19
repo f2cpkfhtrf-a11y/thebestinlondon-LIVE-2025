@@ -206,7 +206,7 @@ async function runLinkAudit(): Promise<void> {
     total_pages_scanned: 0
   };
   
-  for (const [url, foundIn] of linkMap.entries()) {
+  for (const [url, foundIn] of Array.from(linkMap.entries())) {
     result.total_links_checked++;
     
     try {

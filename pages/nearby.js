@@ -5,6 +5,11 @@ import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
+import RadiusControl from '../components/RadiusControl';
+import { filterByRadius, safeUserLocation } from '../lib/geo';
+import { getVenueLatLng } from '../lib/venueLocation';
+import { resolveHeroImage } from '../lib/resolveHeroImage';
+import PageHero from '../components/PageHero';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -17,7 +22,7 @@ export async function getStaticProps() {
     
     const venues = Array.isArray(data) ? data : (data.venues || []);
     
-    // Get top-rated venues for featured section
+    // Get top-rated venues for featured section (fallback)
     const topVenues = venues
       .filter(v => v.rating && v.rating >= 4.5)
       .sort((a, b) => (b.rating || 0) - (a.rating || 0))
@@ -25,7 +30,7 @@ export async function getStaticProps() {
 
     return {
       props: {
-        topVenues,
+        topVenues: venues, // Pass all venues for distance calculations
         totalVenues: venues.length
       },
       revalidate: 3600
@@ -45,64 +50,78 @@ export default function Nearby({ topVenues, totalVenues }) {
   const [userLocation, setUserLocation] = useState(null);
   const [nearbyVenues, setNearbyVenues] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [radius, setRadius] = useState(2); // Start with 2km
+  const [hasExpanded, setHasExpanded] = useState(false);
+  const allVenues = topVenues; // Use all venues for distance calculations
 
-  const getCurrentLocation = () => {
-    if (!navigator.geolocation) {
-      alert('Geolocation is not supported by this browser.');
-      return;
-    }
+  // Central London fallback
+  const CENTRAL_LONDON = { lat: 51.5072, lng: -0.1276 };
 
+  const getCurrentLocation = async () => {
     setIsLoading(true);
-    navigator.geolocation.getCurrentPosition(
-      (position) => {
-        const { latitude, longitude } = position.coords;
-        setUserLocation({ latitude, longitude });
-        setIsLoading(false);
-      },
-      (error) => {
-        console.error('Error getting location:', error);
-        alert('Unable to retrieve your location. Please try again.');
-        setIsLoading(false);
+    
+    try {
+      const location = await safeUserLocation();
+      if (location) {
+        setUserLocation(location);
+        // Persist location in localStorage
+        localStorage.setItem('userLocation', JSON.stringify(location));
+        localStorage.setItem('locationTimestamp', Date.now().toString());
+      } else {
+        // Fallback to Central London
+        setUserLocation(CENTRAL_LONDON);
       }
-    );
+    } catch (error) {
+      console.error('Error getting location:', error);
+      setUserLocation(CENTRAL_LONDON);
+    }
+    
+    setIsLoading(false);
   };
 
-  const calculateDistance = (lat1, lon1, lat2, lon2) => {
-    const R = 6371; // Radius of the Earth in kilometers
-    const dLat = (lat2 - lat1) * Math.PI / 180;
-    const dLon = (lon2 - lon1) * Math.PI / 180;
-    const a = 
-      Math.sin(dLat/2) * Math.sin(dLat/2) +
-      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
-      Math.sin(dLon/2) * Math.sin(dLon/2);
-    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-    return R * c;
+  const refreshNearbyVenues = (currentRadius = radius) => {
+    if (userLocation) {
+      const venuesInRadius = filterByRadius(
+        allVenues,
+        userLocation,
+        currentRadius,
+        getVenueLatLng
+      );
+      
+      setNearbyVenues(venuesInRadius);
+      
+      // Auto-expand radius if no results and haven't expanded yet
+      if (venuesInRadius.length === 0 && !hasExpanded && currentRadius === radius) {
+        const expansionRadii = [5, 10, 20];
+        const nextRadius = expansionRadii.find(r => r > currentRadius);
+        if (nextRadius) {
+          setRadius(nextRadius);
+          setHasExpanded(true);
+          setTimeout(() => refreshNearbyVenues(nextRadius), 100);
+        }
+      }
+    }
   };
+
+  // Load location from localStorage on mount
+  useEffect(() => {
+    const savedLocation = localStorage.getItem('userLocation');
+    const locationTimestamp = localStorage.getItem('locationTimestamp');
+    
+    if (savedLocation && locationTimestamp) {
+      const age = Date.now() - parseInt(locationTimestamp);
+      // Use cached location if less than 30 minutes old
+      if (age < 30 * 60 * 1000) {
+        setUserLocation(JSON.parse(savedLocation));
+      }
+    }
+  }, []);
 
   useEffect(() => {
-    if (userLocation) {
-      // Calculate distances and sort venues
-      const venuesWithDistance = topVenues.map(venue => {
-        if (venue.geometry?.location) {
-          const distance = calculateDistance(
-            userLocation.latitude,
-            userLocation.longitude,
-            venue.geometry.location.lat,
-            venue.geometry.location.lng
-          );
-          return { ...venue, distance };
-        }
-        return { ...venue, distance: null };
-      });
+    refreshNearbyVenues();
+  }, [userLocation, radius, allVenues]);
 
-      const sortedVenues = venuesWithDistance
-        .filter(v => v.distance !== null)
-        .sort((a, b) => a.distance - b.distance)
-        .slice(0, 20);
-
-      setNearbyVenues(sortedVenues);
-    }
-  }, [userLocation, topVenues]);
+  const hero = resolveHeroImage({ type: "search" });
 
   return (
     <>
@@ -114,7 +133,7 @@ export default function Nearby({ topVenues, totalVenues }) {
         {/* Open Graph */}
         <meta property="og:title" content="Restaurants Near Me | The Best in London" />
         <meta property="og:description" content="Discover the best restaurants near your location in London." />
-        <meta property="og:image" content="https://www.thebestinlondon.co.uk/logo.svg" />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         <meta property="og:url" content="https://www.thebestinlondon.co.uk/nearby" />
         <meta property="og:type" content="website" />
         
@@ -129,20 +148,16 @@ export default function Nearby({ topVenues, totalVenues }) {
       <main className="min-h-screen bg-black">
         <TabContainer currentPath="/nearby" pageType="nearby">
         {/* Hero Section */}
-        <section className="relative py-20 lg:py-32">
-          <div className="absolute inset-0 bg-gradient-to-br from-charcoal via-black to-charcoal opacity-90"></div>
-          <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-serif font-bold text-gradient mb-6">
-              Restaurants Near Me
-            </h1>
-            <p className="text-xl sm:text-2xl text-grey font-sans font-medium mb-4">
-              Discover Local Dining
-            </p>
-            <p className="text-lg text-grey-light max-w-3xl mx-auto leading-relaxed mb-8">
-              Find the best restaurants near your current location. 
-              Get personalized recommendations based on your proximity to London's finest dining establishments.
-            </p>
-            
+        <PageHero
+          title="Restaurants Near Me"
+          subtitle="Find the best restaurants near your current location. Get personalized recommendations based on your proximity to London's finest dining establishments."
+          image={hero}
+          center={true}
+        />
+
+        {/* Location Controls */}
+        <section className="py-8 bg-charcoal-light">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             {!userLocation ? (
               <button
                 onClick={getCurrentLocation}
@@ -162,61 +177,127 @@ export default function Nearby({ topVenues, totalVenues }) {
         </section>
 
         {/* Nearby Restaurants */}
-        {userLocation && nearbyVenues.length > 0 && (
+        {userLocation && (
           <section className="py-16 lg:py-24">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="text-center mb-16">
+              <div className="text-center mb-8">
                 <h2 className="text-3xl lg:text-4xl font-serif font-bold text-white mb-4">
-                  Closest to You
+                  {nearbyVenues.length > 0 ? 'Restaurants Near You' : 'No Restaurants Found'}
                 </h2>
-                <p className="text-lg text-grey max-w-2xl mx-auto">
-                  Top-rated restaurants within walking distance
+                <p className="text-lg text-grey max-w-2xl mx-auto mb-6">
+                  {nearbyVenues.length > 0 
+                    ? `Showing ${nearbyVenues.length} within ${radius} km`
+                    : `Try increasing your search radius to find more restaurants.`
+                  }
                 </p>
               </div>
-              
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {nearbyVenues.map((venue) => (
-                  <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
-                    <div className="card overflow-hidden h-full">
-                      <div className="relative h-48">
-                        {venue.image_card_path || venue.image_url ? (
-                          <Image
-                            src={venue.image_card_path || venue.image_url}
-                            alt={venue.image_alt || `${venue.name} restaurant`}
-                            fill
-                            className="object-cover group-hover:scale-105 transition-transform duration-300"
-                          />
-                        ) : (
-                          <div className="w-full h-full bg-grey-dark flex items-center justify-center">
-                            <span className="text-grey text-sm">No Image</span>
-                          </div>
-                        )}
-                        <div className="absolute top-4 right-4">
-                          <div className="bg-gold text-black px-2 py-1 rounded-lg text-sm font-semibold">
-                            ⭐ {venue.rating?.toFixed(1)}
-                          </div>
-                        </div>
-                        <div className="absolute bottom-4 left-4">
-                          <div className="bg-black/80 text-white px-3 py-1 rounded-lg text-sm font-medium">
-                            📍 {venue.distance?.toFixed(1)} km
-                          </div>
-                        </div>
-                      </div>
-                      <div className="p-6">
-                        <h3 className="font-serif font-semibold text-white text-xl mb-2 group-hover:text-gold transition-colors duration-300">
-                          {venue.name}
-                        </h3>
-                        <p className="text-grey text-sm mb-3">
-                          {venue.cuisines?.[0]} • {venue.area || venue.borough}
-                        </p>
-                        <p className="text-grey-light text-sm line-clamp-2">
-                          {venue.description || 'Experience exceptional dining in the heart of London.'}
-                        </p>
-                      </div>
+
+              {/* Radius Control */}
+              <div className="max-w-2xl mx-auto mb-12">
+                <div className="bg-grey-dark/50 rounded-lg p-6">
+                  <div className="text-center mb-4">
+                    <h3 className="text-white font-semibold mb-2">Search Radius: {radius} km</h3>
+                    <div className="flex justify-center gap-2">
+                      {[2, 5, 10, 20].map(km => (
+                        <button
+                          key={km}
+                          onClick={() => setRadius(km)}
+                          className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                            radius === km 
+                              ? 'bg-gold text-black' 
+                              : 'bg-grey text-white hover:bg-grey/80'
+                          }`}
+                        >
+                          {km} km
+                        </button>
+                      ))}
                     </div>
-                  </Link>
-                ))}
+                  </div>
+                  <RadiusControl 
+                    value={radius} 
+                    onChange={setRadius}
+                    min={2}
+                    max={20}
+                  />
+                </div>
               </div>
+
+              {/* Empty State */}
+              {nearbyVenues.length === 0 && (
+                <div className="text-center py-16">
+                  <div className="max-w-md mx-auto">
+                    <div className="text-6xl mb-6">🍽️</div>
+                    <h3 className="text-2xl font-serif font-bold text-white mb-4">
+                      No restaurants found within {radius} km
+                    </h3>
+                    <p className="text-grey mb-6">
+                      Try increasing your search radius or explore our featured restaurants below.
+                    </p>
+                    <div className="flex flex-wrap justify-center gap-2">
+                      {[2, 5, 10, 20].map(km => (
+                        <button
+                          key={km}
+                          onClick={() => setRadius(km)}
+                          className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                            radius === km 
+                              ? 'bg-gold text-black' 
+                              : 'bg-grey-dark text-white hover:bg-grey'
+                          }`}
+                        >
+                          {km} km
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {/* Results Grid */}
+              {nearbyVenues.length > 0 && (
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                  {nearbyVenues.map((venue) => (
+                    <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
+                      <div className="card overflow-hidden h-full">
+                        <div className="relative h-48">
+                          {venue.image_card_path || venue.image_url ? (
+                            <Image
+                              src={venue.image_card_path || venue.image_url}
+                              alt={venue.image_alt || `${venue.name} restaurant`}
+                              fill
+                              className="object-cover group-hover:scale-105 transition-transform duration-300"
+                            />
+                          ) : (
+                            <div className="w-full h-full bg-grey-dark flex items-center justify-center">
+                              <span className="text-grey text-sm">No Image</span>
+                            </div>
+                          )}
+                          <div className="absolute top-4 right-4">
+                            <div className="bg-gold text-black px-2 py-1 rounded-lg text-sm font-semibold">
+                              ⭐ {venue.rating?.toFixed(1)}
+                            </div>
+                          </div>
+                          <div className="absolute bottom-4 left-4">
+                            <div className="bg-black/80 text-white px-3 py-1 rounded-lg text-sm font-medium">
+                              📍 {venue.distance?.toFixed(1)} km
+                            </div>
+                          </div>
+                        </div>
+                        <div className="p-6">
+                          <h3 className="font-serif font-semibold text-white text-xl mb-2 group-hover:text-gold transition-colors duration-300">
+                            {venue.name}
+                          </h3>
+                          <p className="text-grey text-sm mb-3">
+                            {venue.cuisines?.[0]} • {venue.area || venue.borough} • {venue.distance?.toFixed(1)} km away
+                          </p>
+                          <p className="text-grey-light text-sm line-clamp-2">
+                            {venue.description || 'Experience exceptional dining in the heart of London.'}
+                          </p>
+                        </div>
+                      </div>
+                    </Link>
+                  ))}
+                </div>
+              )}
             </div>
           </section>
         )}

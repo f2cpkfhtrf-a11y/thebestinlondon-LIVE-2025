@@ -8,6 +8,9 @@ import PageHero from '../components/PageHero';
 import BILScore from '../components/BILScore';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
 import { fetchVenuesData } from '../utils/venueDataUtils';
+import { dietaryFlags } from '../lib/dietary';
+import { haversineKm } from '../lib/geo';
+import { getVenueLatLng } from '../lib/venueLocation';
 
 export async function getStaticProps() {
   const venues = await fetchVenuesData();
@@ -27,6 +30,19 @@ export default function Search({ venues }) {
   const [activeFilter, setActiveFilter] = useState('all');
   const [sortBy, setSortBy] = useState('relevance');
   
+  // Advanced filters
+  const [selectedCuisine, setSelectedCuisine] = useState('');
+  const [selectedArea, setSelectedArea] = useState('');
+  const [priceRange, setPriceRange] = useState('');
+  const [isHalalFilter, setIsHalalFilter] = useState(false);
+  const [isNearMe, setIsNearMe] = useState(false);
+  const [userLocation, setUserLocation] = useState(null);
+  const [nearMeRadius, setNearMeRadius] = useState(5);
+  
+  // Get unique values for filters
+  const uniqueCuisines = [...new Set(venues.map(v => v.cuisine_slug || v.cuisines?.[0]).filter(Boolean))].sort();
+  const uniqueAreas = [...new Set(venues.map(v => v.area_slug || v.area || v.borough).filter(Boolean))].sort();
+  
   // Get hero image for search page
   const hero = resolveHeroImage({ type: "search" });
 
@@ -39,47 +55,138 @@ export default function Search({ venues }) {
     }
   }, []);
 
-  // Handle search
+  // Get user location for "Near Me" filter
+  const getCurrentLocation = () => {
+    if (!navigator.geolocation) {
+      // Fallback to Central London coordinates
+      setUserLocation({ lat: 51.5074, lng: -0.1278 });
+      return;
+    }
+
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const { latitude, longitude } = position.coords;
+        setUserLocation({ lat: latitude, lng: longitude });
+      },
+      (error) => {
+        console.error('Error getting location:', error);
+        // Fallback to Central London coordinates
+        setUserLocation({ lat: 51.5074, lng: -0.1278 });
+      }
+    );
+  };
+
+  // Toggle Near Me filter
+  const toggleNearMe = () => {
+    if (!isNearMe) {
+      getCurrentLocation();
+    }
+    setIsNearMe(!isNearMe);
+  };
+
+  // Handle search with advanced filters
   useEffect(() => {
-    if (searchQuery.trim().length === 0) {
+    if (searchQuery.trim().length === 0 && !isHalalFilter && !selectedCuisine && !selectedArea && !priceRange && !isNearMe) {
       setFilteredVenues([]);
       return;
     }
 
     setIsSearching(true);
     
-    const query = searchQuery.toLowerCase().trim();
-    let filtered = venues.filter(venue => 
-      venue.name.toLowerCase().includes(query) ||
-      venue.cuisines?.some(cuisine => cuisine.toLowerCase().includes(query)) ||
-      venue.borough?.toLowerCase().includes(query) ||
-      venue.description?.toLowerCase().includes(query) ||
-      venue.address?.formatted?.toLowerCase().includes(query) ||
-      venue.formatted_address?.toLowerCase().includes(query)
-    );
+    let filtered = venues;
+    
+    // Apply search query filter
+    if (searchQuery.trim().length > 0) {
+      const query = searchQuery.toLowerCase().trim();
+      filtered = filtered.filter(venue => 
+        venue.name.toLowerCase().includes(query) ||
+        venue.cuisines?.some(cuisine => cuisine.toLowerCase().includes(query)) ||
+        venue.borough?.toLowerCase().includes(query) ||
+        venue.description?.toLowerCase().includes(query) ||
+        venue.address?.formatted?.toLowerCase().includes(query) ||
+        venue.formatted_address?.toLowerCase().includes(query)
+      );
+    }
 
-    // Apply additional filters
+    // Apply cuisine filter
+    if (selectedCuisine) {
+      filtered = filtered.filter(venue => 
+        venue.cuisine_slug === selectedCuisine || 
+        venue.cuisines?.some(c => c.toLowerCase() === selectedCuisine.toLowerCase())
+      );
+    }
+
+    // Apply area filter
+    if (selectedArea) {
+      filtered = filtered.filter(venue => 
+        venue.area_slug === selectedArea || 
+        venue.area?.toLowerCase() === selectedArea.toLowerCase() ||
+        venue.borough?.toLowerCase() === selectedArea.toLowerCase()
+      );
+    }
+
+    // Apply price range filter
+    if (priceRange) {
+      switch (priceRange) {
+        case 'budget':
+          filtered = filtered.filter(v => v.price_level <= 2);
+          break;
+        case 'moderate':
+          filtered = filtered.filter(v => v.price_level === 3);
+          break;
+        case 'expensive':
+          filtered = filtered.filter(v => v.price_level >= 4);
+          break;
+      }
+    }
+
+    // Apply halal filter using dietaryFlags
+    if (isHalalFilter) {
+      filtered = filtered.filter(venue => {
+        const flags = dietaryFlags(venue);
+        return flags.halal === true;
+      });
+    }
+
+    // Apply legacy filters for backward compatibility
     if (activeFilter !== 'all') {
       switch (activeFilter) {
         case 'halal':
-          filtered = filtered.filter(v => v.dietary_tags?.halal || v.dietaryTags?.includes('halal'));
+          filtered = filtered.filter(venue => {
+            const flags = dietaryFlags(venue);
+            return flags.halal === true;
+          });
           break;
         case 'vegan':
-          filtered = filtered.filter(v => v.dietary_tags?.vegan || v.dietaryTags?.includes('vegan'));
+          filtered = filtered.filter(venue => {
+            const flags = dietaryFlags(venue);
+            return flags.vegan === true;
+          });
           break;
         case 'vegetarian':
-          filtered = filtered.filter(v => v.dietary_tags?.vegetarian || v.dietaryTags?.includes('vegetarian'));
+          filtered = filtered.filter(venue => {
+            const flags = dietaryFlags(venue);
+            return flags.vegetarian === true;
+          });
           break;
         case 'top-rated':
           filtered = filtered.filter(v => v.rating >= 4.5);
           break;
-        case 'budget':
-          filtered = filtered.filter(v => v.price_level <= 2);
-          break;
-        case 'fine-dining':
-          filtered = filtered.filter(v => v.price_level >= 3);
-          break;
       }
+    }
+
+    // Apply Near Me filter
+    if (isNearMe && userLocation) {
+      filtered = filtered.map(venue => {
+        const venueCoords = getVenueLatLng(venue);
+        if (venueCoords) {
+          const distance = haversineKm(userLocation, venueCoords);
+          return { ...venue, distance };
+        }
+        return null;
+      }).filter(Boolean);
+      
+      filtered = filtered.filter(v => v.distance <= nearMeRadius);
     }
 
     // Sort results
@@ -93,6 +200,11 @@ export default function Search({ venues }) {
       case 'name':
         filtered = filtered.sort((a, b) => a.name.localeCompare(b.name));
         break;
+      case 'distance':
+        if (isNearMe && userLocation) {
+          filtered = filtered.sort((a, b) => (a.distance || 0) - (b.distance || 0));
+        }
+        break;
       case 'relevance':
       default:
         // Keep original order for relevance
@@ -101,7 +213,7 @@ export default function Search({ venues }) {
 
     setFilteredVenues(filtered.slice(0, 50)); // Limit to 50 results
     setIsSearching(false);
-  }, [searchQuery, venues, activeFilter, sortBy]);
+  }, [searchQuery, venues, activeFilter, sortBy, selectedCuisine, selectedArea, priceRange, isHalalFilter, isNearMe, userLocation, nearMeRadius]);
 
   return (
     <>
@@ -145,8 +257,145 @@ export default function Search({ venues }) {
             </div>
           </section>
 
+          {/* Advanced Filters */}
+          <section className="py-8 bg-charcoal">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
+                {/* Cuisine Filter */}
+                <div>
+                  <label className="block text-sm font-medium text-grey mb-2">Cuisine</label>
+                  <select
+                    value={selectedCuisine}
+                    onChange={(e) => setSelectedCuisine(e.target.value)}
+                    className="w-full bg-charcoal-light border border-grey-dark rounded-lg px-3 py-2 text-warmWhite text-sm focus:border-gold focus:outline-none"
+                  >
+                    <option value="">All Cuisines</option>
+                    {uniqueCuisines.map(cuisine => (
+                      <option key={cuisine} value={cuisine}>{cuisine}</option>
+                    ))}
+                  </select>
+                </div>
+
+                {/* Area Filter */}
+                <div>
+                  <label className="block text-sm font-medium text-grey mb-2">Area</label>
+                  <select
+                    value={selectedArea}
+                    onChange={(e) => setSelectedArea(e.target.value)}
+                    className="w-full bg-charcoal-light border border-grey-dark rounded-lg px-3 py-2 text-warmWhite text-sm focus:border-gold focus:outline-none"
+                  >
+                    <option value="">All Areas</option>
+                    {uniqueAreas.map(area => (
+                      <option key={area} value={area}>{area}</option>
+                    ))}
+                  </select>
+                </div>
+
+                {/* Price Range Filter */}
+                <div>
+                  <label className="block text-sm font-medium text-grey mb-2">Price Range</label>
+                  <select
+                    value={priceRange}
+                    onChange={(e) => setPriceRange(e.target.value)}
+                    className="w-full bg-charcoal-light border border-grey-dark rounded-lg px-3 py-2 text-warmWhite text-sm focus:border-gold focus:outline-none"
+                  >
+                    <option value="">Any Price</option>
+                    <option value="budget">Budget (£)</option>
+                    <option value="moderate">Moderate (££)</option>
+                    <option value="expensive">Expensive (£££+)</option>
+                  </select>
+                </div>
+
+                {/* Special Filters */}
+                <div>
+                  <label className="block text-sm font-medium text-grey mb-2">Special</label>
+                  <div className="flex gap-2">
+                    <button
+                      onClick={() => setIsHalalFilter(!isHalalFilter)}
+                      className={`px-3 py-2 rounded-lg text-xs font-medium transition-colors ${
+                        isHalalFilter 
+                          ? 'bg-gold text-black' 
+                          : 'bg-charcoal-light text-grey hover:text-warmWhite border border-grey-dark'
+                      }`}
+                    >
+                      ☪️ Halal
+                    </button>
+                    <button
+                      onClick={toggleNearMe}
+                      className={`px-3 py-2 rounded-lg text-xs font-medium transition-colors ${
+                        isNearMe 
+                          ? 'bg-gold text-black' 
+                          : 'bg-charcoal-light text-grey hover:text-warmWhite border border-grey-dark'
+                      }`}
+                    >
+                      📍 Near Me
+                    </button>
+                  </div>
+                </div>
+              </div>
+
+              {/* Active Filter Chips */}
+              {(selectedCuisine || selectedArea || priceRange || isHalalFilter || isNearMe) && (
+                <div className="flex flex-wrap gap-2 mb-6">
+                  <span className="text-grey text-sm">Active filters:</span>
+                  {selectedCuisine && (
+                    <span className="bg-gold text-black px-3 py-1 rounded-full text-sm flex items-center gap-2">
+                      Cuisine: {selectedCuisine}
+                      <button onClick={() => setSelectedCuisine('')} className="hover:bg-black/20 rounded-full p-0.5">×</button>
+                    </span>
+                  )}
+                  {selectedArea && (
+                    <span className="bg-gold text-black px-3 py-1 rounded-full text-sm flex items-center gap-2">
+                      Area: {selectedArea}
+                      <button onClick={() => setSelectedArea('')} className="hover:bg-black/20 rounded-full p-0.5">×</button>
+                    </span>
+                  )}
+                  {priceRange && (
+                    <span className="bg-gold text-black px-3 py-1 rounded-full text-sm flex items-center gap-2">
+                      Price: {priceRange}
+                      <button onClick={() => setPriceRange('')} className="hover:bg-black/20 rounded-full p-0.5">×</button>
+                    </span>
+                  )}
+                  {isHalalFilter && (
+                    <span className="bg-gold text-black px-3 py-1 rounded-full text-sm flex items-center gap-2">
+                      ☪️ Halal
+                      <button onClick={() => setIsHalalFilter(false)} className="hover:bg-black/20 rounded-full p-0.5">×</button>
+                    </span>
+                  )}
+                  {isNearMe && (
+                    <span className="bg-gold text-black px-3 py-1 rounded-full text-sm flex items-center gap-2">
+                      📍 Near Me ({nearMeRadius}km)
+                      <button onClick={() => setIsNearMe(false)} className="hover:bg-black/20 rounded-full p-0.5">×</button>
+                    </span>
+                  )}
+                </div>
+              )}
+
+              {/* Near Me Radius Control */}
+              {isNearMe && (
+                <div className="mb-6">
+                  <label className="block text-sm font-medium text-grey mb-2">
+                    Search Radius: {nearMeRadius} km
+                  </label>
+                  <input
+                    type="range"
+                    min="1"
+                    max="25"
+                    value={nearMeRadius}
+                    onChange={(e) => setNearMeRadius(Number(e.target.value))}
+                    className="w-full max-w-md h-2 bg-grey-dark rounded-lg appearance-none cursor-pointer accent-gold"
+                  />
+                  <div className="flex justify-between text-xs text-grey mt-1 max-w-md">
+                    <span>1km</span>
+                    <span>25km</span>
+                  </div>
+                </div>
+              )}
+            </div>
+          </section>
+
           {/* Search Results */}
-          {searchQuery && (
+          {(searchQuery || selectedCuisine || selectedArea || priceRange || isHalalFilter || isNearMe) && (
             <section className="py-12 bg-charcoal-light">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between mb-8">
@@ -236,6 +485,7 @@ export default function Search({ venues }) {
                       <option value="rating">Rating</option>
                       <option value="reviews">Most Reviews</option>
                       <option value="name">Name A-Z</option>
+                      {isNearMe && userLocation && <option value="distance">Distance</option>}
                     </select>
                   </div>
                 </div>
@@ -265,6 +515,13 @@ export default function Search({ venues }) {
                             <div className="absolute top-4 right-4">
                               <BILScore score={venue.rating} size="card" />
                             </div>
+                            {venue.distance && (
+                              <div className="absolute bottom-4 left-4">
+                                <div className="bg-black/80 text-white px-3 py-1 rounded-lg text-sm font-medium">
+                                  📍 {venue.distance.toFixed(1)} km
+                                </div>
+                              </div>
+                            )}
                           </div>
                           <div className="p-6">
                             <h3 className="font-serif font-semibold text-warmWhite text-xl mb-2 group-hover:text-gold transition-colors duration-300">
@@ -272,6 +529,7 @@ export default function Search({ venues }) {
                             </h3>
                             <p className="text-grey text-sm mb-3">
                               {venue.cuisines?.[0]} • {venue.borough}
+                              {venue.distance && ` • ${venue.distance.toFixed(1)} km away`}
                             </p>
                             <p className="text-grey-light text-sm line-clamp-2">
                               {venue.description || 'Experience exceptional dining in the heart of London.'}
@@ -309,7 +567,7 @@ export default function Search({ venues }) {
           )}
 
           {/* Quick Categories */}
-          {!searchQuery && (
+          {!searchQuery && !selectedCuisine && !selectedArea && !priceRange && !isHalalFilter && !isNearMe && (
             <section className="py-20 bg-charcoal">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="text-center mb-16">

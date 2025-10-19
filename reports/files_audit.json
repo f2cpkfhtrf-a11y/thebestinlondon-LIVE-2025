@@ -10431,6 +10431,16 @@
       "type": "json"
     },
     {
+      "path": "components/AreaTile.tsx",
+      "sizeKB": 2,
+      "lines": 64,
+      "importCount": 4,
+      "exportCount": 1,
+      "complexityScore": 68,
+      "lastModified": "2025-10-19T14:47:13.822Z",
+      "type": "tsx"
+    },
+    {
       "path": "components/BILScore.js",
       "sizeKB": 6,
       "lines": 171,
@@ -10521,6 +10531,16 @@
       "type": "js"
     },
     {
+      "path": "components/CuisineTile.tsx",
+      "sizeKB": 2,
+      "lines": 64,
+      "importCount": 4,
+      "exportCount": 1,
+      "complexityScore": 68,
+      "lastModified": "2025-10-19T14:47:13.806Z",
+      "type": "tsx"
+    },
+    {
       "path": "components/DataAttribution.js",
       "sizeKB": 5,
       "lines": 126,
@@ -10603,21 +10623,21 @@
     {
       "path": "components/Footer.js",
       "sizeKB": 6,
-      "lines": 99,
-      "importCount": 2,
+      "lines": 102,
+      "importCount": 3,
       "exportCount": 1,
-      "complexityScore": 101,
-      "lastModified": "2025-10-18T14:31:24.909Z",
+      "complexityScore": 105,
+      "lastModified": "2025-10-19T15:04:42.316Z",
       "type": "js"
     },
     {
       "path": "components/Header.js",
-      "sizeKB": 18,
-      "lines": 446,
-      "importCount": 4,
+      "sizeKB": 23,
+      "lines": 577,
+      "importCount": 5,
       "exportCount": 1,
-      "complexityScore": 450,
-      "lastModified": "2025-10-19T11:37:15.604Z",
+      "complexityScore": 582,
+      "lastModified": "2025-10-19T16:03:23.752Z",
       "type": "js"
     },
     {
@@ -10639,6 +10659,16 @@
       "complexityScore": 216,
       "lastModified": "2025-10-18T14:31:24.910Z",
       "type": "js"
+    },
+    {
+      "path": "components/IdentityTile.tsx",
+      "sizeKB": 2,
+      "lines": 63,
+      "importCount": 4,
+      "exportCount": 1,
+      "complexityScore": 67,
+      "lastModified": "2025-10-19T13:09:48.226Z",
+      "type": "tsx"
     },
     {
       "path": "components/ImageCredit.js",
@@ -10763,11 +10793,21 @@
     {
       "path": "components/PageHero.tsx",
       "sizeKB": 4,
-      "lines": 115,
+      "lines": 118,
       "importCount": 4,
       "exportCount": 1,
-      "complexityScore": 119,
-      "lastModified": "2025-10-19T11:06:07.682Z",
+      "complexityScore": 122,
+      "lastModified": "2025-10-19T15:35:41.145Z",
+      "type": "tsx"
+    },
+    {
+      "path": "components/RadiusControl.tsx",
+      "sizeKB": 1,
+      "lines": 42,
+      "importCount": 1,
+      "exportCount": 1,
+      "complexityScore": 43,
+      "lastModified": "2025-10-19T14:47:13.822Z",
       "type": "tsx"
     },
     {
@@ -10822,12 +10862,12 @@
     },
     {
       "path": "components/StandardizedCard.js",
-      "sizeKB": 8,
-      "lines": 224,
-      "importCount": 4,
+      "sizeKB": 9,
+      "lines": 250,
+      "importCount": 5,
       "exportCount": 1,
-      "complexityScore": 228,
-      "lastModified": "2025-10-19T11:07:35.593Z",
+      "complexityScore": 255,
+      "lastModified": "2025-10-19T16:03:23.752Z",
       "type": "js"
     },
     {
@@ -10842,12 +10882,32 @@
     },
     {
       "path": "components/home/Cuisines.tsx",
-      "sizeKB": 2,
-      "lines": 52,
+      "sizeKB": 1,
+      "lines": 46,
+      "importCount": 2,
+      "exportCount": 1,
+      "complexityScore": 48,
+      "lastModified": "2025-10-19T15:35:41.145Z",
+      "type": "tsx"
+    },
+    {
+      "path": "components/home/ExploreByDiet.tsx",
+      "sizeKB": 5,
+      "lines": 125,
       "importCount": 3,
       "exportCount": 1,
-      "complexityScore": 55,
-      "lastModified": "2025-10-19T10:42:51.551Z",
+      "complexityScore": 128,
+      "lastModified": "2025-10-19T15:35:41.145Z",
+      "type": "tsx"
+    },
+    {
+      "path": "components/home/FeaturedNearYou.tsx",
+      "sizeKB": 8,
+      "lines": 224,
+      "importCount": 5,
+      "exportCount": 1,
+      "complexityScore": 229,
+      "lastModified": "2025-10-19T15:35:41.126Z",
       "type": "tsx"
     },
     {
@@ -10857,27 +10917,27 @@
       "importCount": 3,
       "exportCount": 1,
       "complexityScore": 128,
-      "lastModified": "2025-10-19T09:08:03.881Z",
+      "lastModified": "2025-10-19T15:35:41.145Z",
       "type": "tsx"
     },
     {
       "path": "components/home/LatestAdds.tsx",
-      "sizeKB": 4,
-      "lines": 104,
+      "sizeKB": 5,
+      "lines": 134,
       "importCount": 3,
       "exportCount": 1,
-      "complexityScore": 107,
-      "lastModified": "2025-10-19T09:08:03.896Z",
+      "complexityScore": 137,
+      "lastModified": "2025-10-19T15:35:41.145Z",
       "type": "tsx"
     },
     {
       "path": "components/home/PopularAreas.tsx",
       "sizeKB": 2,
-      "lines": 71,
-      "importCount": 3,
+      "lines": 64,
+      "importCount": 2,
       "exportCount": 1,
-      "complexityScore": 74,
-      "lastModified": "2025-10-19T10:42:10.994Z",
+      "complexityScore": 66,
+      "lastModified": "2025-10-19T15:35:41.145Z",
       "type": "tsx"
     },
     {
@@ -10929,6 +10989,16 @@
       "complexityScore": 34,
       "lastModified": "2025-10-19T10:47:28.435Z",
       "type": "ts"
+    },
+    {
+      "path": "data/dietary_overrides.json",
+      "sizeKB": 0,
+      "lines": 4,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 4,
+      "lastModified": "2025-10-19T14:47:13.832Z",
+      "type": "json"
     },
     {
       "path": "data/google/details/ChIJ-2mrB9UEdkgReKgh9HDC-7s.json",
@@ -16941,6 +17011,16 @@
       "type": "json"
     },
     {
+      "path": "data/stations.json",
+      "sizeKB": 0,
+      "lines": 7,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 7,
+      "lastModified": "2025-10-19T14:47:13.806Z",
+      "type": "json"
+    },
+    {
       "path": "data/venue-metadata.json",
       "sizeKB": 0,
       "lines": 17,
@@ -16991,6 +17071,26 @@
       "type": "ts"
     },
     {
+      "path": "lib/dietary.ts",
+      "sizeKB": 2,
+      "lines": 55,
+      "importCount": 2,
+      "exportCount": 3,
+      "complexityScore": 57,
+      "lastModified": "2025-10-19T15:04:42.340Z",
+      "type": "ts"
+    },
+    {
+      "path": "lib/geo.ts",
+      "sizeKB": 2,
+      "lines": 70,
+      "importCount": 0,
+      "exportCount": 7,
+      "complexityScore": 70,
+      "lastModified": "2025-10-19T15:50:12.738Z",
+      "type": "ts"
+    },
+    {
       "path": "lib/imagePlaceholders.ts",
       "sizeKB": 1,
       "lines": 50,
@@ -17012,12 +17112,22 @@
     },
     {
       "path": "lib/resolveHeroImage.ts",
-      "sizeKB": 8,
-      "lines": 238,
+      "sizeKB": 9,
+      "lines": 246,
       "importCount": 4,
-      "exportCount": 5,
-      "complexityScore": 242,
-      "lastModified": "2025-10-19T12:47:03.879Z",
+      "exportCount": 6,
+      "complexityScore": 250,
+      "lastModified": "2025-10-19T16:03:23.752Z",
+      "type": "ts"
+    },
+    {
+      "path": "lib/siteStats.ts",
+      "sizeKB": 1,
+      "lines": 35,
+      "importCount": 2,
+      "exportCount": 1,
+      "complexityScore": 37,
+      "lastModified": "2025-10-19T15:04:42.344Z",
       "type": "ts"
     },
     {
@@ -17028,6 +17138,26 @@
       "exportCount": 2,
       "complexityScore": 76,
       "lastModified": "2025-10-19T10:10:07.626Z",
+      "type": "ts"
+    },
+    {
+      "path": "lib/venueLocation.ts",
+      "sizeKB": 1,
+      "lines": 33,
+      "importCount": 1,
+      "exportCount": 2,
+      "complexityScore": 34,
+      "lastModified": "2025-10-19T14:47:13.806Z",
+      "type": "ts"
+    },
+    {
+      "path": "next-env.d.ts",
+      "sizeKB": 0,
+      "lines": 6,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 6,
+      "lastModified": "2025-10-19T14:43:33.314Z",
       "type": "ts"
     },
     {
@@ -17042,32 +17172,32 @@
     },
     {
       "path": "package-lock.json",
-      "sizeKB": 242,
-      "lines": 7216,
+      "sizeKB": 244,
+      "lines": 7269,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 7216,
-      "lastModified": "2025-10-19T12:45:09.675Z",
+      "complexityScore": 7269,
+      "lastModified": "2025-10-19T16:10:56.137Z",
       "type": "json"
     },
     {
       "path": "package.json",
-      "sizeKB": 2,
-      "lines": 55,
+      "sizeKB": 3,
+      "lines": 74,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 55,
-      "lastModified": "2025-10-19T12:49:05.675Z",
+      "complexityScore": 74,
+      "lastModified": "2025-10-19T16:21:04.452Z",
       "type": "json"
     },
     {
       "path": "pages/404.js",
-      "sizeKB": 2,
-      "lines": 44,
-      "importCount": 2,
+      "sizeKB": 4,
+      "lines": 80,
+      "importCount": 5,
       "exportCount": 1,
-      "complexityScore": 46,
-      "lastModified": "2025-10-18T14:31:24.916Z",
+      "complexityScore": 85,
+      "lastModified": "2025-10-19T13:09:48.237Z",
       "type": "js"
     },
     {
@@ -17077,7 +17207,7 @@
       "importCount": 17,
       "exportCount": 3,
       "complexityScore": 352,
-      "lastModified": "2025-10-19T12:47:03.886Z",
+      "lastModified": "2025-10-19T13:09:48.237Z",
       "type": "js"
     },
     {
@@ -17122,12 +17252,12 @@
     },
     {
       "path": "pages/areas.js",
-      "sizeKB": 7,
-      "lines": 199,
-      "importCount": 10,
+      "sizeKB": 8,
+      "lines": 202,
+      "importCount": 11,
       "exportCount": 2,
-      "complexityScore": 209,
-      "lastModified": "2025-10-19T11:37:15.613Z",
+      "complexityScore": 213,
+      "lastModified": "2025-10-19T15:04:42.316Z",
       "type": "js"
     },
     {
@@ -17172,12 +17302,12 @@
     },
     {
       "path": "pages/best-halal-restaurants-london.js",
-      "sizeKB": 16,
-      "lines": 363,
-      "importCount": 15,
+      "sizeKB": 17,
+      "lines": 391,
+      "importCount": 18,
       "exportCount": 2,
-      "complexityScore": 378,
-      "lastModified": "2025-10-19T11:00:29.034Z",
+      "complexityScore": 409,
+      "lastModified": "2025-10-19T15:35:41.145Z",
       "type": "js"
     },
     {
@@ -17223,11 +17353,11 @@
     {
       "path": "pages/cuisines.js",
       "sizeKB": 7,
-      "lines": 186,
-      "importCount": 9,
+      "lines": 189,
+      "importCount": 10,
       "exportCount": 2,
-      "complexityScore": 195,
-      "lastModified": "2025-10-19T10:46:25.946Z",
+      "complexityScore": 199,
+      "lastModified": "2025-10-19T15:04:42.340Z",
       "type": "js"
     },
     {
@@ -17283,11 +17413,11 @@
     {
       "path": "pages/index.js",
       "sizeKB": 8,
-      "lines": 202,
-      "importCount": 13,
+      "lines": 210,
+      "importCount": 16,
       "exportCount": 2,
-      "complexityScore": 215,
-      "lastModified": "2025-10-19T09:09:07.058Z",
+      "complexityScore": 226,
+      "lastModified": "2025-10-19T15:35:41.145Z",
       "type": "js"
     },
     {
@@ -17333,21 +17463,21 @@
     {
       "path": "pages/near-me.js",
       "sizeKB": 13,
-      "lines": 309,
-      "importCount": 9,
+      "lines": 348,
+      "importCount": 16,
       "exportCount": 2,
-      "complexityScore": 318,
-      "lastModified": "2025-10-18T15:38:16.006Z",
+      "complexityScore": 364,
+      "lastModified": "2025-10-19T16:03:23.752Z",
       "type": "js"
     },
     {
       "path": "pages/nearby.js",
-      "sizeKB": 13,
-      "lines": 317,
-      "importCount": 7,
+      "sizeKB": 16,
+      "lines": 398,
+      "importCount": 12,
       "exportCount": 2,
-      "complexityScore": 324,
-      "lastModified": "2025-10-18T15:38:16.000Z",
+      "complexityScore": 410,
+      "lastModified": "2025-10-19T15:50:12.738Z",
       "type": "js"
     },
     {
@@ -17662,22 +17792,22 @@
     },
     {
       "path": "pages/restaurants.js",
-      "sizeKB": 10,
-      "lines": 255,
-      "importCount": 8,
+      "sizeKB": 11,
+      "lines": 262,
+      "importCount": 9,
       "exportCount": 2,
-      "complexityScore": 263,
-      "lastModified": "2025-10-19T09:15:34.194Z",
+      "complexityScore": 271,
+      "lastModified": "2025-10-19T14:47:13.844Z",
       "type": "js"
     },
     {
       "path": "pages/search.js",
-      "sizeKB": 16,
-      "lines": 379,
-      "importCount": 10,
+      "sizeKB": 27,
+      "lines": 637,
+      "importCount": 13,
       "exportCount": 2,
-      "complexityScore": 389,
-      "lastModified": "2025-10-19T09:23:44.179Z",
+      "complexityScore": 650,
+      "lastModified": "2025-10-19T15:35:41.126Z",
       "type": "js"
     },
     {
@@ -17689,6 +17819,26 @@
       "complexityScore": 432,
       "lastModified": "2025-10-13T14:14:17.788Z",
       "type": "js"
+    },
+    {
+      "path": "pages/stations/[slug].tsx",
+      "sizeKB": 12,
+      "lines": 309,
+      "importCount": 16,
+      "exportCount": 3,
+      "complexityScore": 325,
+      "lastModified": "2025-10-19T15:35:41.145Z",
+      "type": "tsx"
+    },
+    {
+      "path": "pages/stations/index.tsx",
+      "sizeKB": 7,
+      "lines": 175,
+      "importCount": 13,
+      "exportCount": 2,
+      "complexityScore": 188,
+      "lastModified": "2025-10-19T15:50:12.738Z",
+      "type": "tsx"
     },
     {
       "path": "pages/terms.js",
@@ -28741,6 +28891,16 @@
       "type": "json"
     },
     {
+      "path": "reports/e2e_smoke_results.json",
+      "sizeKB": 2,
+      "lines": 95,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 95,
+      "lastModified": "2025-10-19T16:20:21.396Z",
+      "type": "json"
+    },
+    {
       "path": "reports/expansion-pipeline-1760657722216.json",
       "sizeKB": 1,
       "lines": 38,
@@ -28748,6 +28908,16 @@
       "exportCount": 0,
       "complexityScore": 38,
       "lastModified": "2025-10-16T23:35:22.217Z",
+      "type": "json"
+    },
+    {
+      "path": "reports/fact_checks.json",
+      "sizeKB": 5,
+      "lines": 207,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 207,
+      "lastModified": "2025-10-19T16:19:14.969Z",
       "type": "json"
     },
     {
@@ -28762,12 +28932,12 @@
     },
     {
       "path": "reports/files_audit.json",
-      "sizeKB": 1048,
-      "lines": 33897,
+      "sizeKB": 1054,
+      "lines": 34143,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 33897,
-      "lastModified": "2025-10-19T12:49:19.666Z",
+      "complexityScore": 34143,
+      "lastModified": "2025-10-19T16:20:34.928Z",
       "type": "json"
     },
     {
@@ -28827,7 +28997,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 436,
-      "lastModified": "2025-10-19T12:49:19.667Z",
+      "lastModified": "2025-10-19T16:20:34.928Z",
       "type": "json"
     },
     {
@@ -28867,7 +29037,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 7,
-      "lastModified": "2025-10-19T12:49:20.375Z",
+      "lastModified": "2025-10-19T16:20:35.811Z",
       "type": "json"
     },
     {
@@ -28922,12 +29092,12 @@
     },
     {
       "path": "reports/post_deploy_verification.json",
-      "sizeKB": 8,
-      "lines": 232,
+      "sizeKB": 3,
+      "lines": 106,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 232,
-      "lastModified": "2025-10-19T12:55:32.856Z",
+      "complexityScore": 106,
+      "lastModified": "2025-10-19T13:38:07.733Z",
       "type": "json"
     },
     {
@@ -28987,7 +29157,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 1124,
-      "lastModified": "2025-10-19T12:49:20.047Z",
+      "lastModified": "2025-10-19T16:20:35.397Z",
       "type": "json"
     },
     {
@@ -29018,6 +29188,16 @@
       "exportCount": 0,
       "complexityScore": 53,
       "lastModified": "2025-10-18T14:31:24.991Z",
+      "type": "json"
+    },
+    {
+      "path": "reports/seo_audit.json",
+      "sizeKB": 7,
+      "lines": 178,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 178,
+      "lastModified": "2025-10-19T13:04:55.114Z",
       "type": "json"
     },
     {
@@ -29211,6 +29391,16 @@
       "type": "json"
     },
     {
+      "path": "reports/vercel_deploy_log.json",
+      "sizeKB": 1,
+      "lines": 15,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 15,
+      "lastModified": "2025-10-19T13:38:03.815Z",
+      "type": "json"
+    },
+    {
       "path": "reports/visual_consistency_rules.json",
       "sizeKB": 1,
       "lines": 46,
@@ -29303,11 +29493,11 @@
     {
       "path": "scripts/auditAndFixImages.ts",
       "sizeKB": 11,
-      "lines": 365,
+      "lines": 366,
       "importCount": 4,
       "exportCount": 0,
-      "complexityScore": 369,
-      "lastModified": "2025-10-19T10:17:36.447Z",
+      "complexityScore": 370,
+      "lastModified": "2025-10-19T14:47:13.843Z",
       "type": "ts"
     },
     {
@@ -29321,13 +29511,23 @@
       "type": "js"
     },
     {
+      "path": "scripts/auditDietary.ts",
+      "sizeKB": 4,
+      "lines": 123,
+      "importCount": 3,
+      "exportCount": 0,
+      "complexityScore": 126,
+      "lastModified": "2025-10-19T16:03:23.752Z",
+      "type": "ts"
+    },
+    {
       "path": "scripts/auditFiles.ts",
       "sizeKB": 12,
       "lines": 406,
       "importCount": 4,
       "exportCount": 1,
       "complexityScore": 410,
-      "lastModified": "2025-10-19T11:37:15.580Z",
+      "lastModified": "2025-10-19T14:47:13.844Z",
       "type": "ts"
     },
     {
@@ -29367,7 +29567,7 @@
       "importCount": 3,
       "exportCount": 0,
       "complexityScore": 267,
-      "lastModified": "2025-10-19T13:04:32.654Z",
+      "lastModified": "2025-10-19T13:09:48.225Z",
       "type": "ts"
     },
     {
@@ -29437,7 +29637,7 @@
       "importCount": 2,
       "exportCount": 0,
       "complexityScore": 197,
-      "lastModified": "2025-10-19T11:08:23.302Z",
+      "lastModified": "2025-10-19T14:47:13.844Z",
       "type": "ts"
     },
     {
@@ -29587,7 +29787,7 @@
       "importCount": 2,
       "exportCount": 0,
       "complexityScore": 289,
-      "lastModified": "2025-10-19T11:37:15.580Z",
+      "lastModified": "2025-10-19T14:47:13.844Z",
       "type": "ts"
     },
     {
@@ -30102,12 +30302,12 @@
     },
     {
       "path": "scripts/generateHeroImages.ts",
-      "sizeKB": 4,
+      "sizeKB": 5,
       "lines": 129,
       "importCount": 2,
       "exportCount": 0,
       "complexityScore": 131,
-      "lastModified": "2025-10-19T12:47:03.876Z",
+      "lastModified": "2025-10-19T16:03:23.763Z",
       "type": "ts"
     },
     {
@@ -30991,6 +31191,16 @@
       "type": "js"
     },
     {
+      "path": "tsconfig.json",
+      "sizeKB": 0,
+      "lines": 29,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 29,
+      "lastModified": "2025-10-19T14:43:33.313Z",
+      "type": "json"
+    },
+    {
       "path": "utils/analytics.js",
       "sizeKB": 4,
       "lines": 164,
@@ -31243,7 +31453,10 @@
     "lib/imagePlaceholders.ts",
     "lib/logImageIssue.ts",
     "lib/resolveHeroImage.ts",
+    "lib/siteStats.ts",
     "lib/slugImagePath.ts",
+    "lib/venueLocation.ts",
+    "next-env.d.ts",
     "next.config.js",
     "pages/[cuisine].js",
     "pages/_app.js",
@@ -31279,6 +31492,8 @@
     "pages/restaurants-whitechapel.js",
     "pages/restaurants-wimbledon.js",
     "pages/seo-demo.js",
+    "pages/stations/[slug].tsx",
+    "pages/stations/index.tsx",
     "pages/terms.js",
     "pages/test-data.js",
     "postcss.config.js",
@@ -31293,6 +31508,7 @@
     "scripts/analyzePerformance.js",
     "scripts/auditAndFixImages.ts",
     "scripts/auditData.js",
+    "scripts/auditDietary.ts",
     "scripts/auditFiles.ts",
     "scripts/auditImages.js",
     "scripts/auditImagesComprehensive.js",
@@ -32881,6 +33097,7 @@
     "backups/venues-pre-image-intelligence-1760735474014.json",
     "backups/venues-pre-normalization-1760732782937.json",
     "backups/venues-pre-unique-images-1760735503748.json",
+    "components/AreaTile.tsx",
     "components/BILScore.js",
     "components/BackToHome.tsx",
     "components/Badges.js",
@@ -32890,6 +33107,7 @@
     "components/CookieConsent.js",
     "components/CuisineHero.js",
     "components/CuisinePageTemplate.js",
+    "components/CuisineTile.tsx",
     "components/DataAttribution.js",
     "components/DataSourceBadge.js",
     "components/DietaryTags.js",
@@ -32902,6 +33120,7 @@
     "components/Header.js",
     "components/HeroSection.js",
     "components/HeroTabs.js",
+    "components/IdentityTile.tsx",
     "components/ImageCredit.js",
     "components/ImageWithFallback.js",
     "components/Layout.js",
@@ -32915,6 +33134,7 @@
     "components/OptimizedImage.js",
     "components/OptimizedLazyImage.js",
     "components/PageHero.tsx",
+    "components/RadiusControl.tsx",
     "components/ReportIssue.js",
     "components/ReviewBadges.js",
     "components/SEOHead.js",
@@ -32923,6 +33143,8 @@
     "components/StandardizedCard.js",
     "components/StandardizedHeader.js",
     "components/home/Cuisines.tsx",
+    "components/home/ExploreByDiet.tsx",
+    "components/home/FeaturedNearYou.tsx",
     "components/home/FeaturedRestaurants.tsx",
     "components/home/LatestAdds.tsx",
     "components/home/PopularAreas.tsx",
@@ -33537,10 +33759,14 @@
     "data/venues-before-recategorization.json",
     "data/venues-wrapped.json",
     "lib/assertLocalImage.ts",
+    "lib/dietary.ts",
+    "lib/geo.ts",
     "lib/imagePlaceholders.ts",
     "lib/logImageIssue.ts",
     "lib/resolveHeroImage.ts",
+    "lib/siteStats.ts",
     "lib/slugImagePath.ts",
+    "lib/venueLocation.ts",
     "next.config.js",
     "package-lock.json",
     "package.json",
@@ -33607,6 +33833,8 @@
     "pages/restaurants.js",
     "pages/search.js",
     "pages/seo-demo.js",
+    "pages/stations/[slug].tsx",
+    "pages/stations/index.tsx",
     "pages/terms.js",
     "pages/test-data.js",
     "pages/thai-restaurants-london.js",
@@ -33633,7 +33861,9 @@
     "reports/deployment_plan.json",
     "reports/deployment_summary.json",
     "reports/duplicate_detection_summary.json",
+    "reports/e2e_smoke_results.json",
     "reports/expansion-pipeline-1760657722216.json",
+    "reports/fact_checks.json",
     "reports/fetch-places-report.json",
     "reports/files_audit.json",
     "reports/final_report_v6.json",
@@ -33657,6 +33887,7 @@
     "reports/safety_controls.json",
     "reports/schema_validation.json",
     "reports/seo-audit.json",
+    "reports/seo_audit.json",
     "reports/seo_optimizations.json",
     "reports/sitemap_updates.json",
     "reports/snapshots/snapshot-1760656075679.json",
@@ -33676,6 +33907,7 @@
     "reports/v5_proof_data.json",
     "reports/v5_repair_summary.json",
     "reports/validation.json",
+    "reports/vercel_deploy_log.json",
     "reports/visual_consistency_rules.json",
     "scripts/add-areas-to-home.js",
     "scripts/add-hero-images-batch.js",
@@ -33687,6 +33919,7 @@
     "scripts/analyzePerformance.js",
     "scripts/auditAndFixImages.ts",
     "scripts/auditData.js",
+    "scripts/auditDietary.ts",
     "scripts/auditFiles.ts",
     "scripts/auditImages.js",
     "scripts/auditImagesComprehensive.js",
@@ -33853,6 +34086,7 @@
     "scripts/wireImagesEverywhere.js",
     "tailwind.config.js",
     "test-imports.js",
+    "tsconfig.json",
     "utils/analytics.js",
     "utils/comingSoonTemplate.js",
     "utils/contentGeneration.js",

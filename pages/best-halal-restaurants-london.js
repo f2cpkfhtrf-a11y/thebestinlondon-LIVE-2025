@@ -11,6 +11,9 @@ import { resolveHeroImage } from '../lib/resolveHeroImage';
 import { theme } from '../utils/theme';
 import { enhanceVenueData, filterByDietary, sortVenues } from '../utils/venueData';
 import { isHalalVenue } from '../utils/halalStations';
+import { halalOnly, dietaryFlags } from '../lib/dietary';
+import { getLiveStats } from '../lib/siteStats';
+import { generateFAQData } from '../utils/seoOptimization';
 // Pagination utility function
 const paginateData = (data, page = 1, limit = 20) => {
   const startIndex = (page - 1) * limit;
@@ -41,30 +44,35 @@ export async function getStaticProps() {
     const venuesData = JSON.parse(fileContent);
     const allVenues = Array.isArray(venuesData) ? venuesData : (venuesData.venues || []);
     
-    // Filter halal restaurants using improved filtering
-    const halalVenues = allVenues
+    // Filter halal restaurants using the new dietary system
+    const halalVenues = halalOnly(allVenues)
       .map(enhanceVenueData)
-      .filter(v => {
-        if (!v) return false;
-        const { isHalal } = isHalalVenue(v);
-        return isHalal;
-      })
       .sort((a, b) => (b.rating || 0) - (a.rating || 0));
+    
+    // Get live stats for the hero
+    const stats = getLiveStats();
     
     return { 
       props: { 
         venues: halalVenues,
+        stats,
         lastUpdated: (typeof venuesData === 'object' && !Array.isArray(venuesData) && venuesData.lastUpdated) ? venuesData.lastUpdated : new Date().toISOString()
       },
       revalidate: 86400
     };
   } catch (error) {
     console.error('Error loading venues:', error);
-    return { props: { venues: [], lastUpdated: new Date().toISOString() } };
+    return { 
+      props: { 
+        venues: [], 
+        stats: { total: 0, cuisines: 0, areas: 0, halal: 0 },
+        lastUpdated: new Date().toISOString() 
+      } 
+    };
   }
 }
 
-export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
+export default function BestHalalRestaurantsLondon({ venues, stats, lastUpdated }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [sortBy, setSortBy] = useState('rating');
   const [filterArea, setFilterArea] = useState('all');
@@ -141,8 +149,8 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
   return (
     <>
       <Head>
-        <title>Best Halal Restaurants in London 2025 — {venues.length}+ Verified Venues | The Best in London</title>
-        <meta name="description" content={`Discover ${venues.length}+ best halal restaurants in London. Verified halal options with detailed reviews, FSA ratings, and authentic cuisine across all areas.`} />
+        <title>Best Halal Restaurants in London 2025 — {stats?.halal || venues.length}+ Verified Venues | The Best in London</title>
+        <meta name="description" content={`Discover ${stats?.halal || venues.length}+ best halal restaurants in London. Verified halal options with detailed reviews, FSA ratings, and authentic cuisine across all areas.`} />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/best-halal-restaurants-london" />
         <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
@@ -151,12 +159,12 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
           "@context": "https://schema.org",
           "@type": "CollectionPage",
           "name": "Best Halal Restaurants in London",
-          "description": `Directory of ${venues.length} verified halal restaurants in London`,
+          "description": `Directory of ${stats?.halal || venues.length} verified halal restaurants in London`,
           "url": "https://www.thebestinlondon.co.uk/best-halal-restaurants-london",
           "image": `https://www.thebestinlondon.co.uk${hero.src}`,
           "mainEntity": {
             "@type": "ItemList",
-            "numberOfItems": venues.length,
+            "numberOfItems": stats?.halal || venues.length,
             "itemListElement": venues.slice(0, 20).map((venue, index) => ({
               "@type": "ListItem",
               "position": index + 1,
@@ -169,6 +177,26 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
             }))
           }
         }) }} />
+        
+        {/* FAQ Schema */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(generateFAQData([
+          {
+            question: "What makes a restaurant halal verified on this site?",
+            answer: "Our halal restaurants are verified through multiple sources including direct confirmation from restaurant owners, halal certification bodies, and verified customer reviews. We maintain strict standards to ensure all listed venues serve authentic halal cuisine."
+          },
+          {
+            question: "How many halal restaurants are in London?",
+            answer: `We currently feature ${stats?.halal || venues.length}+ verified halal restaurants across London, covering all major areas and cuisines from Middle Eastern to South Asian and modern halal dining options.`
+          },
+          {
+            question: "Do you show FSA ratings for halal restaurants?",
+            answer: "Yes, we display Food Standards Agency (FSA) ratings for all restaurants where available, helping you make informed dining choices based on food hygiene standards."
+          },
+          {
+            question: "Can I search halal restaurants by area in London?",
+            answer: "Absolutely! Use our area filter to find halal restaurants in specific neighborhoods, from Central London to outer boroughs. Each area is clearly marked with the number of halal options available."
+          }
+        ])) }} />
       </Head>
 
       <div className="min-h-screen bg-charcoal">
@@ -179,51 +207,51 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
           {/* Page Hero */}
           <PageHero 
             title="Best Halal Restaurants in London"
-            subtitle={`Discover ${venues.length}+ verified halal restaurants across London. From authentic Middle Eastern cuisine to modern halal dining experiences.`}
+            subtitle={`Discover ${stats?.halal || venues.length}+ verified halal restaurants across London. From authentic Middle Eastern cuisine to modern halal dining experiences.`}
             stats={[
-              { label: "Halal Restaurants", value: venues.length },
-              { label: "Areas Covered", value: areas.length - 1 },
+              { label: "Halal Restaurants", value: stats?.halal || venues.length, testId: "stats-halal" },
+              { label: "Areas Covered", value: stats?.areas || (areas.length - 1) },
               { label: "Verified", value: "100%" }
             ]}
             image={hero}
             center={true}
           />
 
-          {/* Filter Bar */}
+        {/* Filter Bar */}
           <section className="py-8 bg-charcoal-light border-b border-grey-dark sticky top-16 z-40">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <input 
-                  type="text"
+              <input 
+                type="text"
                   placeholder="Search halal restaurants..."
-                  value={searchTerm}
+                value={searchTerm}
                   onChange={(e) => handleSearchChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite placeholder-grey focus:border-gold focus:outline-none transition-colors duration-300"
-                />
-                <select 
-                  value={filterArea} 
+              />
+              <select 
+                value={filterArea} 
                   onChange={(e) => handleFilterChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite focus:border-gold focus:outline-none transition-colors duration-300"
                 >
-                  <option value="all">All Areas</option>
+                <option value="all">All Areas</option>
                   {areas.filter(a => a !== 'all').map(area => (
                     <option key={area} value={area}>{area}</option>
                   ))}
-                </select>
-                <select 
-                  value={sortBy} 
+              </select>
+              <select 
+                value={sortBy} 
                   onChange={(e) => handleSortChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite focus:border-gold focus:outline-none transition-colors duration-300"
                 >
-                  <option value="rating">⭐ Highest Rated</option>
-                  <option value="reviews">💬 Most Reviews</option>
-                  <option value="fsa">🏥 FSA Rating</option>
-                </select>
-              </div>
+                <option value="rating">⭐ Highest Rated</option>
+                <option value="reviews">💬 Most Reviews</option>
+                <option value="fsa">🏥 FSA Rating</option>
+              </select>
             </div>
+          </div>
           </section>
 
-          {/* Results Count */}
+        {/* Results Count */}
           <section className="py-6 bg-charcoal">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <p className="text-grey">
@@ -231,11 +259,11 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                 {paginatedData.pagination.totalPages > 1 && (
                   <span className="ml-2">(Page {currentPage} of {paginatedData.pagination.totalPages})</span>
                 )}
-              </p>
-            </div>
+          </p>
+        </div>
           </section>
 
-          {/* Restaurant Grid */}
+        {/* Restaurant Grid */}
           <section className="py-16">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -258,34 +286,34 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                         )}
                         
                         <div className="absolute top-4 right-4">
-                          <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
-                        </div>
+                    <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
+                  </div>
 
                         <div className="absolute top-4 left-4">
                           <BestOfLondonBadge venue={venue} size="small" showTooltip={false} showExplanation={false} />
                         </div>
 
-                        {venue.area && (
+                  {venue.area && (
                           <div className="absolute bottom-4 left-4 bg-black/80 backdrop-blur-sm text-warmWhite px-3 py-1 rounded text-sm font-medium">
-                            {venue.area}
-                          </div>
-                        )}
-                      </div>
-                      
+                      {venue.area}
+                    </div>
+                  )}
+                </div>
+
                       <div className="p-6">
                         <div className="flex items-center gap-2 mb-3">
                           <span className="text-green-400 text-sm font-medium">☪️ Halal Verified</span>
                         </div>
                         
                         <h3 className="font-serif font-semibold text-warmWhite text-xl mb-2 group-hover:text-gold transition-colors duration-300">
-                          {venue.name}
-                        </h3>
-                        
+                    {venue.name}
+                  </h3>
+
                         <div className="flex items-center justify-between text-sm text-grey mb-3">
-                          <span>{venue.cuisines?.[0] || 'Restaurant'}</span>
-                          <span>{venue.price_level ? '£'.repeat(venue.price_level) : '££'}</span>
-                        </div>
-                        
+                    <span>{venue.cuisines?.[0] || 'Restaurant'}</span>
+                    <span>{venue.price_level ? '£'.repeat(venue.price_level) : '££'}</span>
+                  </div>
+
                         <div className="flex items-center justify-between pt-4 border-t border-grey-dark">
                           <div className="flex items-center gap-1">
                             <span className="text-gold">★</span>
@@ -350,12 +378,12 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                   </button>
                 </div>
               )}
-            </div>
+          </div>
           </section>
         </TabContainer>
         </main>
 
-        <Footer />
+        <Footer stats={stats} />
       </div>
     </>
   );

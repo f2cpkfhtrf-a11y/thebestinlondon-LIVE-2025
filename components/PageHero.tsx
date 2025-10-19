@@ -6,7 +6,7 @@ import { getBlurAndColor, getBlurDataUrl } from '../lib/imagePlaceholders';
 interface PageHeroProps {
   title: string;
   subtitle?: string;
-  stats?: Array<{ label: string; value: string | number }>;
+  stats?: Array<{ label: string; value: string | number; testId?: string }>;
   image: { src: string; alt: string; srcMd?: string; srcLg?: string };
   priority?: boolean;
   center?: boolean;
@@ -75,8 +75,8 @@ export default function PageHero({
           {...(generateSrcSet() && { srcSet: generateSrcSet() })}
         />
         
-        {/* Gradient overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/30 to-black/70" />
+        {/* Gradient overlay - enhanced for better readability */}
+        <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/80" />
         
         {/* Content */}
         <div className={`absolute inset-0 flex flex-col justify-center px-4 sm:px-6 lg:px-8 ${center ? 'items-center text-center' : 'items-start'}`}>
@@ -96,7 +96,10 @@ export default function PageHero({
               <div className="flex flex-wrap gap-6 sm:gap-8">
                 {stats.map((stat, index) => (
                   <div key={index} className="flex flex-col">
-                    <span className="text-3xl sm:text-4xl font-serif font-bold text-gold">
+                    <span 
+                      className="text-3xl sm:text-4xl font-serif font-bold text-gold"
+                      data-testid={stat.testId}
+                    >
                       {stat.value}
                     </span>
                     <span className="text-sm sm:text-base text-white/80 uppercase tracking-wider">

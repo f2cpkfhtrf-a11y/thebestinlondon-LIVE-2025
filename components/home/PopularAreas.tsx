@@ -1,6 +1,5 @@
 import React from 'react';
-import ImageTile from '../tiles/ImageTile';
-import { resolveAreaImage } from '../../lib/resolveHeroImage';
+import AreaTile from '../AreaTile';
 
 interface PopularAreasProps {
   venues: any[];
@@ -21,7 +20,7 @@ export default function PopularAreas({ venues, stats }: PopularAreasProps) {
 
   const popularAreas = Object.entries(areaCounts)
     .sort(([,a], [,b]) => (b as number) - (a as number))
-    .slice(0, 8)
+    .slice(0, 5) // Limit to top 5 as requested
     .map(([area, count]) => ({ area, count: count as number }));
 
   const getAreaSlug = (areaName: string) => {
@@ -30,10 +29,7 @@ export default function PopularAreas({ venues, stats }: PopularAreasProps) {
       .replace(/[^a-z0-9-]/g, '');
   };
 
-  const getAreaImageUrl = (areaName: string) => {
-    const slug = getAreaSlug(areaName);
-    return resolveAreaImage(slug);
-  };
+  // Remove the getAreaImageUrl function as AreaTile handles image resolution
 
   return (
     <section className="py-12 md:py-16">
@@ -47,19 +43,16 @@ export default function PopularAreas({ venues, stats }: PopularAreasProps) {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6">
           {popularAreas.map(({ area, count }) => {
-            const imageUrl = getAreaImageUrl(area);
             const slug = getAreaSlug(area);
             
             return (
-              <ImageTile
+              <AreaTile
                 key={area}
-                title={area}
-                subtitle={`${count} restaurants`}
-                href={`/restaurants-${slug}`}
-                src={imageUrl}
-                alt={`Popular restaurants in ${area}`}
+                slug={slug}
+                name={area}
+                count={count}
               />
             );
           })}

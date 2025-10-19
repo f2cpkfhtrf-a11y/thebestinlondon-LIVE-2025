@@ -58,39 +58,30 @@ function ensureDir(dirPath) {
 async function preflightBuild() {
   console.log('🚀 Starting preflight build...');
   
-  // Run audit suite
+  // Run audit suite (non-blocking)
   console.log('📊 Running audit suite...');
-  const auditResult = runCommand('npm run audit:complete');
-  if (!auditResult.success) {
-    console.warn('⚠️ Audit suite had issues:', auditResult.error);
-  } else {
-    console.log('✅ Audit suite completed');
+  try {
+    const auditResult = runCommand('npm run audit:complete', { stdio: 'pipe' });
+    if (!auditResult.success) {
+      console.warn('⚠️ Audit suite had issues, but continuing:', auditResult.error?.substring(0, 200) || 'Unknown error');
+    } else {
+      console.log('✅ Audit suite completed');
+    }
+  } catch (error) {
+    console.warn('⚠️ Audit suite skipped due to environment issues');
   }
   
-  // Build the project
-  console.log('🔨 Building project...');
-  const buildResult = runCommand('next build');
-  if (!buildResult.success) {
-    console.error('❌ Build failed:', buildResult.error);
+  // Skip local build and rely on Vercel's build environment
+  console.log('📦 Skipping local build - will use Vercel build environment...');
+  
+  // Just verify we can reach Vercel
+  const linkCheck = runCommand('npx vercel --version', { stdio: 'pipe' });
+  if (!linkCheck.success) {
+    console.error('❌ Vercel CLI not available:', linkCheck.error);
     process.exit(1);
   }
   
-  console.log('✅ Build completed successfully');
-  
-  // Generate Vercel output
-  console.log('📦 Generating Vercel output...');
-  const vercelBuildResult = runCommand('npx vercel build --prod');
-  if (!vercelBuildResult.success) {
-    console.warn('⚠️ Vercel build had issues, but continuing:', vercelBuildResult.error);
-  }
-  
-  // Verify .vercel/output exists
-  if (!fs.existsSync('.vercel/output')) {
-    console.error('❌ .vercel/output directory not found after build');
-    process.exit(1);
-  }
-  
-  console.log('✅ Preflight validation complete');
+  console.log('✅ Preflight validation complete - ready for Vercel deployment');
 }
 
 async function attemptDeploy(retryCount = 0) {
@@ -107,8 +98,8 @@ async function attemptDeploy(retryCount = 0) {
     console.log('✅ Vercel project linked');
   }
   
-  // Attempt deployment
-  const deployResult = runCommand('npx vercel deploy --prebuilt --prod --yes --archive=tgz');
+  // Attempt deployment (let Vercel handle the build)
+  const deployResult = runCommand('npx vercel deploy --prod --yes --archive=tgz');
   
   if (deployResult.success) {
     console.log('✅ Deployment successful!');

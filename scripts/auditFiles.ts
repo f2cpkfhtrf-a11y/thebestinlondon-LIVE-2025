@@ -173,7 +173,7 @@ function findDuplicatedFiles(files: FileInfo[]): Array<{files: string[], hash: s
     }
   }
   
-  for (const [hash, fileList] of hashMap.entries()) {
+  for (const [hash, fileList] of Array.from(hashMap.entries())) {
     if (fileList.length > 1) {
       const firstFile = files.find(f => f.path === fileList[0]);
       duplicates.push({

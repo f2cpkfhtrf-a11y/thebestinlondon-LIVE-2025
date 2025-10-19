@@ -2,13 +2,16 @@ import React, { useState, useEffect } from 'react';
 import ImageWithFallback from './ImageWithFallback';
 import { assertLocalImage } from '../lib/assertLocalImage';
 import { getBlurAndColor } from '../lib/imagePlaceholders';
+import { dietaryFlags } from '../lib/dietary';
 
 const StandardizedCard = ({ 
   venue, 
   className = '',
   showBadges = true,
   showRating = true,
-  showLocation = true
+  showLocation = true,
+  showDistance = false,
+  distance = null
 }) => {
   const {
     name,
@@ -27,6 +30,9 @@ const StandardizedCard = ({
     fsa_rating,
     dietary_tags
   } = venue;
+  
+  // Get dietary flags using the centralized function
+  const flags = dietaryFlags(venue);
   
   // Get the best available image using the same resolver chain as PageHero
   const getImageUrl = () => {
@@ -72,6 +78,14 @@ const StandardizedCard = ({
     // Fallback if getBlurAndColor fails
     blurAndColor = { color: '#1E1B18' };
   }
+  
+  // Format distance for display
+  const formatDistance = (distance) => {
+    if (distance < 1) {
+      return `${Math.round(distance * 1000)}m`;
+    }
+    return `${distance.toFixed(1)} km`;
+  };
   
   return (
     <div className={`relative overflow-hidden rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 group ${className}`}>
@@ -136,14 +150,14 @@ const StandardizedCard = ({
         )}
         
         {/* Standardized dark-to-transparent overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-transparent"></div>
         
         {/* Badges positioned consistently */}
         {showBadges && (
           <div className="absolute top-3 left-3 flex flex-wrap gap-2">
-            {halal_certified && (
-              <span className="bg-gold text-black text-xs font-semibold px-2 py-1 rounded">
-                🕌 Halal
+            {flags.halal && (
+              <span className="bg-gold text-black text-xs font-semibold px-2 py-1 rounded" aria-label="Halal verified">
+                🕌 Halal Verified
               </span>
             )}
             {fsa_rating && (
@@ -199,6 +213,18 @@ const StandardizedCard = ({
         {showLocation && location && (
           <p className="text-sm text-warmWhite/90 mb-2">
             📍 {location}
+            {showDistance && distance !== null && (
+              <span className="ml-2 text-gold font-medium">
+                • {formatDistance(distance)} away
+              </span>
+            )}
+          </p>
+        )}
+        
+        {/* Distance only (if no location shown) */}
+        {showDistance && distance !== null && !showLocation && (
+          <p className="text-sm text-gold font-medium mb-2">
+            📍 {formatDistance(distance)} away
           </p>
         )}
         

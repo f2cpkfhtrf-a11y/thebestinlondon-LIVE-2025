@@ -67,11 +67,11 @@ async function generateHeroImages() {
   const venuesData = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
   const venues = Array.isArray(venuesData) ? venuesData : (venuesData.venues || []);
   
-  const cuisines = new Set();
+  const cuisines = new Set<string>();
   venues.forEach(venue => {
     if (venue.cuisines && Array.isArray(venue.cuisines)) {
       venue.cuisines.forEach(cuisine => {
-        if (cuisine) {
+        if (cuisine && typeof cuisine === 'string') {
           cuisines.add(cuisine.toLowerCase().trim().replace(/\s+/g, '-'));
         }
       });

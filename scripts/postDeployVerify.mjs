@@ -213,4 +213,6 @@ async function runVerification() {
   // process.exit(0);
 }
 
+// Note: For comprehensive fact checking including nav order, dietary consistency, etc.
+// Run: npm run prod:facts (which calls factChecks.mjs)
 runVerification().catch(console.error);

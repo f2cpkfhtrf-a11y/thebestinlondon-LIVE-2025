@@ -5,10 +5,13 @@ import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
 import FeaturedRestaurants from '../components/home/FeaturedRestaurants';
+import FeaturedNearYou from '../components/home/FeaturedNearYou';
 import PopularAreas from '../components/home/PopularAreas';
 import Cuisines from '../components/home/Cuisines';
 import LatestAdds from '../components/home/LatestAdds';
+import ExploreByDiet from '../components/home/ExploreByDiet';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
+import { getLiveStats } from '../lib/siteStats';
 import Link from 'next/link';
 import { useEffect } from 'react';
 
@@ -39,12 +42,13 @@ export async function getStaticProps() {
       })
       .slice(0, 6);
     
-    // Calculate stats
+    // Get live stats from centralized function
+    const liveStats = getLiveStats();
     const stats = {
-      totalVenues: venues.length,
-      areas: new Set(venues.map(v => v.borough).filter(Boolean)).size,
-      cuisines: new Set(venues.flatMap(v => v.cuisines || []).filter(Boolean)).size,
-      halalVenues: venues.filter(v => v.dietary_tags?.halal).length
+      totalVenues: liveStats.total,
+      areas: liveStats.areas,
+      cuisines: liveStats.cuisines,
+      halalVenues: liveStats.halal
     };
     
     // Get popular cuisines
@@ -66,6 +70,7 @@ export async function getStaticProps() {
     return {
       props: {
         topVenues,
+        allVenues: venues, // Add all venues for FeaturedNearYou
         stats,
         popularCuisines
       },
@@ -76,6 +81,7 @@ export async function getStaticProps() {
     return {
       props: {
         topVenues: [],
+        allVenues: [],
         stats: { totalVenues: 0, areas: 0, cuisines: 0, halalVenues: 0 },
         popularCuisines: []
       }
@@ -83,10 +89,10 @@ export async function getStaticProps() {
   }
 }
 
-export default function Home({ topVenues, stats, popularCuisines }) {
+export default function Home({ topVenues, allVenues, stats, popularCuisines }) {
   // Get hero image for homepage
   const hero = resolveHeroImage({ type: "home" });
-  
+
   useEffect(() => {
     // Optimize font loading
     if (typeof window !== 'undefined') {
@@ -130,13 +136,13 @@ export default function Home({ topVenues, stats, popularCuisines }) {
     <>
       <Head>
         <title>The Best in London | Premium Dining Guide</title>
-        <meta name="description" content="Discover London's finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas. From street food to fine dining." />
+        <meta name="description" content={`Discover London's finest restaurants with our premium dining guide. ${stats.totalVenues}+ verified restaurants across ${stats.areas}+ areas. From street food to fine dining.`} />
         <meta name="keywords" content="London restaurants, best restaurants London, dining guide, halal restaurants, fine dining London" />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk" />
         
         {/* Open Graph */}
         <meta property="og:title" content="The Best in London | Premium Dining Guide" />
-        <meta property="og:description" content="Discover London's finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas." />
+        <meta property="og:description" content={`Discover London's finest restaurants with our premium dining guide. ${stats.totalVenues}+ verified restaurants across ${stats.areas}+ areas.`} />
         <meta property="og:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp" />
         <meta property="og:url" content="https://www.thebestinlondon.co.uk" />
         <meta property="og:type" content="website" />
@@ -144,7 +150,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="The Best in London | Premium Dining Guide" />
-        <meta name="twitter:description" content="Discover London's finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas." />
+        <meta name="twitter:description" content={`Discover London's finest restaurants with our premium dining guide. ${stats.totalVenues}+ verified restaurants across ${stats.areas}+ areas.`} />
         <meta name="twitter:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp" />
         
         {/* JSON-LD */}
@@ -155,7 +161,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
           "@context": "https://schema.org",
           "@type": "WebSite",
           "name": "The Best in London",
-              "description": "London's premier dining guide featuring 760+ verified restaurants",
+              "description": `London's premier dining guide featuring ${stats.totalVenues}+ verified restaurants`,
               "url": "https://www.thebestinlondon.co.uk",
           "potentialAction": {
             "@type": "SearchAction",
@@ -176,9 +182,9 @@ export default function Home({ topVenues, stats, popularCuisines }) {
               title="Discover London's Finest"
               subtitle="Curated Excellence in London"
               stats={[
-                { label: "Restaurants", value: "760+" },
-                { label: "Areas", value: "50+" },
-                { label: "Cuisines", value: "25+" },
+                { label: "Restaurants", value: `${stats.totalVenues}+`, testId: "stats-restaurants" },
+                { label: "Areas", value: `${stats.areas}+`, testId: "stats-areas" },
+                { label: "Cuisines", value: `${stats.cuisines}+`, testId: "stats-cuisines" },
                 { label: "Verified", value: "100%" }
               ]}
               image={hero}
@@ -186,16 +192,18 @@ export default function Home({ topVenues, stats, popularCuisines }) {
               center
             />
           </div>
-        
+
           {/* Main Content */}
           <main className="container mx-auto px-4 md:px-6 lg:px-8 space-y-12 md:space-y-16">
             <FeaturedRestaurants venues={topVenues} />
+            <FeaturedNearYou venues={allVenues} />
             <PopularAreas venues={topVenues} stats={stats} />
             <Cuisines popularCuisines={popularCuisines} />
-            <LatestAdds venues={topVenues} />
+            <ExploreByDiet venues={allVenues} />
+            <LatestAdds venues={allVenues} />
           </main>
         </TabContainer>
-        <Footer />
+        <Footer stats={stats} />
       </div>
     </>
   );

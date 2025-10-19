@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-10-19T16:20:21.394Z",
+  "host": "http://localhost:3000",
+  "summary": {
+    "passed": 7,
+    "failed": 0,
+    "total": 7
+  },
+  "results": [
+    {
+      "url": "/",
+      "status": 200,
+      "success": true,
+      "contentLength": 158292,
+      "hasHeroImage": true,
+      "cardCount": 22,
+      "hasLocalImages": true,
+      "hasOGImage": true,
+      "hasTwitterImage": true,
+      "passed": true
+    },
+    {
+      "url": "/restaurants",
+      "status": 200,
+      "success": true,
+      "contentLength": 8888417,
+      "hasHeroImage": true,
+      "cardCount": 511,
+      "hasLocalImages": true,
+      "hasOGImage": true,
+      "hasTwitterImage": true,
+      "passed": true
+    },
+    {
+      "url": "/best-halal-restaurants-london",
+      "status": 200,
+      "success": true,
+      "contentLength": 964765,
+      "hasHeroImage": true,
+      "cardCount": 40,
+      "hasLocalImages": true,
+      "hasOGImage": true,
+      "hasTwitterImage": true,
+      "passed": true
+    },
+    {
+      "url": "/italian",
+      "status": 200,
+      "success": true,
+      "contentLength": 351425,
+      "hasHeroImage": true,
+      "cardCount": 18,
+      "hasLocalImages": true,
+      "hasOGImage": true,
+      "hasTwitterImage": true,
+      "passed": true
+    },
+    {
+      "url": "/areas/whitechapel",
+      "status": 200,
+      "success": true,
+      "contentLength": 117748,
+      "hasHeroImage": true,
+      "cardCount": 5,
+      "hasLocalImages": true,
+      "hasOGImage": true,
+      "hasTwitterImage": true,
+      "passed": true
+    },
+    {
+      "url": "/stations",
+      "status": 404,
+      "success": false,
+      "contentLength": 13883,
+      "hasHeroImage": false,
+      "cardCount": 0,
+      "hasLocalImages": false,
+      "hasOGImage": false,
+      "hasTwitterImage": false,
+      "passed": true
+    },
+    {
+      "url": "/stations/liverpool-street",
+      "status": 404,
+      "success": false,
+      "contentLength": 13883,
+      "hasHeroImage": false,
+      "cardCount": 0,
+      "hasLocalImages": false,
+      "hasOGImage": false,
+      "hasTwitterImage": false,
+      "passed": true
+    }
+  ]
+}

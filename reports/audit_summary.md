@@ -1,6 +1,6 @@
 # Comprehensive Audit Summary
 
-Generated: 2025-10-19T13:04:58.627Z
+Generated: 2025-10-19T16:22:50.947Z
 
 ## Overview
 
@@ -8,9 +8,9 @@ This report summarizes the findings from the comprehensive audit of the The Best
 
 ## File System Analysis
 
-- **Total files scanned**: 3123
-- **Potentially unused files**: 250
-- **High complexity files**: 1013
+- **Total files scanned**: 3144
+- **Potentially unused files**: 256
+- **High complexity files**: 1031
 - **Large static assets**: 26
 
 ### Top 10 Largest Files
@@ -41,15 +41,15 @@ This report summarizes the findings from the comprehensive audit of the The Best
 - `lib/imagePlaceholders.ts`
 - `lib/logImageIssue.ts`
 - `lib/resolveHeroImage.ts`
+- `lib/siteStats.ts`
 - `lib/slugImagePath.ts`
+- `lib/venueLocation.ts`
+- `next-env.d.ts`
 - `next.config.js`
 - `pages/[cuisine].js`
 - `pages/_app.js`
 - `pages/_document.js`
 - `pages/areas/[slug].js`
-- `pages/bars.js`
-- `pages/best-halal-restaurants-london-old.js`
-- `pages/cafes.js`
 
 ## Image Analysis
 

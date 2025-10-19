@@ -6,6 +6,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
 import { resolveCuisineImage } from '../lib/resolveHeroImage';
+import { getLiveStats } from '../lib/siteStats';
 import ImageTile from '../components/tiles/ImageTile';
 
 export async function getStaticProps() {
@@ -38,10 +39,12 @@ export async function getStaticProps() {
       }))
       .sort((a, b) => b.count - a.count);
     
+    const liveStats = getLiveStats();
+    
     return {
       props: {
         cuisines,
-        totalVenues: venues.length
+        stats: liveStats
       },
       revalidate: 3600
     };
@@ -50,13 +53,13 @@ export async function getStaticProps() {
     return {
       props: {
         cuisines: [],
-        totalVenues: 0
+        stats: { total: 0, areas: 0, cuisines: 0, halal: 0 }
       }
     };
   }
 }
 
-export default function Cuisines({ cuisines, totalVenues }) {
+export default function Cuisines({ cuisines, stats }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredCuisines, setFilteredCuisines] = useState(cuisines);
 
@@ -162,15 +165,15 @@ export default function Cuisines({ cuisines, totalVenues }) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
               <div>
-                <div className="text-4xl font-serif font-bold text-gold mb-2">{cuisines.length}</div>
+                <div className="text-4xl font-serif font-bold text-gold mb-2">{stats.cuisines}</div>
                 <div className="text-grey font-nav uppercase tracking-wider">Cuisines</div>
               </div>
               <div>
-                <div className="text-4xl font-serif font-bold text-gold mb-2">{totalVenues}</div>
+                <div className="text-4xl font-serif font-bold text-gold mb-2">{stats.total}</div>
                 <div className="text-grey font-nav uppercase tracking-wider">Restaurants</div>
               </div>
               <div>
-                <div className="text-4xl font-serif font-bold text-gold mb-2">50+</div>
+                <div className="text-4xl font-serif font-bold text-gold mb-2">{stats.areas}+</div>
                 <div className="text-grey font-nav uppercase tracking-wider">Areas</div>
               </div>
             </div>
@@ -179,7 +182,7 @@ export default function Cuisines({ cuisines, totalVenues }) {
       </TabContainer>
       </main>
 
-      <Footer />
+      <Footer stats={stats} />
     </>
   );
 }
