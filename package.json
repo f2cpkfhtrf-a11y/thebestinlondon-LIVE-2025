@@ -19,7 +19,8 @@
     "images:validate": "node scripts/validateImages.js",
     "images:list-missing": "node scripts/listMissing.js",
     "images:scan-code": "node scripts/scanCode.js",
-    "images:report": "node scripts/generateReport.js"
+    "images:report": "node scripts/generateReport.js",
+    "audit:images": "! rg 'https?://(?!www\\.thebestinlondon\\.co\\.uk|localhost)' pages/ components/ lib/ --type js --type ts --type tsx || exit 1"
   },
   "dependencies": {
     "axios": "^1.12.2",

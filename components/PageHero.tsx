@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import { assertLocalImage } from '../lib/assertLocalImage';
 
 interface PageHeroProps {
   title: string;
@@ -20,6 +21,11 @@ export default function PageHero({
 }: PageHeroProps) {
   const [imageError, setImageError] = React.useState(false);
   const [fallbackSrc, setFallbackSrc] = React.useState('/images/heroes/site/default-list-hero.webp');
+
+  // Assert local-only in development
+  React.useEffect(() => {
+    assertLocalImage(image.src);
+  }, [image.src]);
 
   const handleImageError = () => {
     if (!imageError && image.src !== fallbackSrc) {

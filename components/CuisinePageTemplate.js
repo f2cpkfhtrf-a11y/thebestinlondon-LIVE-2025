@@ -2,7 +2,8 @@ import { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import StandardizedCard from '../components/StandardizedCard';
-import StandardizedHeader from '../components/StandardizedHeader';
+import PageHero from '../components/PageHero';
+import { resolveHeroImage } from '../lib/resolveHeroImage';
 
 export default function CuisineRestaurants({ venues = [], cuisine, cuisineImages }) {
   const [filterArea, setFilterArea] = useState('all');
@@ -26,7 +27,9 @@ export default function CuisineRestaurants({ venues = [], cuisine, cuisineImages
   });
 
   const cuisineTitle = cuisine.charAt(0).toUpperCase() + cuisine.slice(1);
-  const headerImage = cuisineImages[cuisine] || cuisineImages['british'];
+  
+  // Get hero image using resolveHeroImage
+  const hero = resolveHeroImage({ type: "list-cuisine", cuisineSlug: cuisine });
 
   return (
     <>
@@ -34,21 +37,30 @@ export default function CuisineRestaurants({ venues = [], cuisine, cuisineImages
         <title>Best {cuisineTitle} Restaurants in London 2025 | The Best in London</title>
         <meta name="description" content={`Discover ${venues.length} top-rated ${cuisineTitle} restaurants in London. From fine dining to authentic local favorites.`} />
         <link rel="canonical" href={`https://thebestinlondon.co.uk/${cuisine}-restaurants-london`} />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "CollectionPage",
           "name": `${cuisineTitle} Restaurants in London`,
           "description": `Discover ${venues.length} top-rated ${cuisineTitle} restaurants in London`,
-          "url": `https://thebestinlondon.co.uk/${cuisine}-restaurants-london`
+          "url": `https://thebestinlondon.co.uk/${cuisine}-restaurants-london`,
+          "image": `https://www.thebestinlondon.co.uk${hero.src}`
         }) }} />
       </Head>
 
       <div className="min-h-screen bg-black">
-        {/* Standardized Header */}
-        <StandardizedHeader 
+        {/* Page Hero */}
+        <PageHero 
           title={`Best ${cuisineTitle} Restaurants in London`}
           subtitle={`Discover ${venues.length} top-rated ${cuisineTitle} restaurants in London. From fine dining to authentic local favorites.`}
-          backgroundImage={headerImage}
+          stats={[
+            { label: "Restaurants", value: venues.length },
+            { label: "Areas", value: new Set(venues.map(v => v.area || v.borough).filter(Boolean)).size },
+            { label: "Verified", value: "100%" }
+          ]}
+          image={hero}
+          center={true}
         />
 
         {/* Filter Controls */}

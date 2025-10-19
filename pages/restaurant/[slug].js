@@ -7,6 +7,8 @@ import { generateSEOTitle, generateSEODescription, generateStructuredData, gener
 import FSABadge from '../../components/FSABadge';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import { TabContainer } from '../../components/HeroTabs';
+import PageHero from '../../components/PageHero';
+import { resolveHeroImage } from '../../lib/resolveHeroImage';
 import ImageWithFallback from '../../components/ImageWithFallback';
 
 export async function getStaticPaths() {
@@ -70,12 +72,15 @@ export default function VenueDetailPage({ venue }) {
     </div>;
   }
   
+  // Get hero image for venue detail page
+  const hero = resolveHeroImage({ type: "venue", venue });
+  
   // JSON-LD structured data
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Restaurant",
     "name": venue.name,
-    "image": venue.image_hero_path || venue.image_url || venue.photos?.[0]?.url || '',
+    "image": venue.image_hero_path?.replace('/public', '') ? `https://www.thebestinlondon.co.uk${venue.image_hero_path.replace('/public', '')}` : `https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp`,
     "address": venue.address ? {
       "@type": "PostalAddress",
       "streetAddress": venue.address.formatted,
@@ -112,7 +117,7 @@ export default function VenueDetailPage({ venue }) {
         <meta property="og:description" content={generateSEODescription('restaurant', venue)} />
         <meta property="og:type" content="restaurant" />
         <meta property="og:url" content={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
-        <meta property="og:image" content={venue.image_hero_path || venue.image_url || venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
+        <meta property="og:image" content={venue.image_hero_path?.replace('/public', '') ? `https://www.thebestinlondon.co.uk${venue.image_hero_path.replace('/public', '')}` : 'https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp'} />
         <meta property="og:image:alt" content={venue.image_alt || `${venue.name} restaurant in ${venue.borough || 'London'}`} />
         <meta property="og:site_name" content="The Best in London" />
         
@@ -120,7 +125,7 @@ export default function VenueDetailPage({ venue }) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={generateSEOTitle('restaurant', venue)} />
         <meta name="twitter:description" content={generateSEODescription('restaurant', venue)} />
-        <meta name="twitter:image" content={venue.image_hero_path || venue.image_url || venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
+        <meta name="twitter:image" content={venue.image_hero_path?.replace('/public', '') ? `https://www.thebestinlondon.co.uk${venue.image_hero_path.replace('/public', '')}` : 'https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp'} />
         <meta name="twitter:image:alt" content={venue.image_alt || `${venue.name} restaurant in ${venue.borough || 'London'}`} />
         
         {/* Additional SEO Meta Tags */}
@@ -170,81 +175,24 @@ export default function VenueDetailPage({ venue }) {
         </nav>
 
         <TabContainer currentPath={`/restaurant/${venue.slug}`} pageType="restaurant" venue={venue}>
-        <main>
-        {/* Hero Image */}
-        <div style={{ 
-          position: 'relative', 
-          height: 'clamp(300px, 50vh, 500px)', 
-          background: 'linear-gradient(135deg, rgba(11,11,11,0.8) 0%, rgba(11,11,11,0.4) 100%)'
-        }}>
-          {venue.image_hero_path || venue.image_url || (venue.photos && venue.photos[0] && (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887') ? (
-            <ImageWithFallback 
-              src={venue.image_hero_path || venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
-              alt={venue.image_alt || `${venue.name} restaurant in London`}
-              fill
-              style={{ 
-                objectFit: 'cover',
-                filter: 'brightness(0.9)'
-              }}
-            />
-          ) : (
-            <div style={{ 
-              width: '100%', 
-              height: '100%', 
-              display: 'flex', 
-              flexDirection: 'column',
-              alignItems: 'center', 
-              justifyContent: 'center', 
-              gap: '16px',
-              color: '#9AA0A6',
-              background: 'linear-gradient(135deg, rgba(212,175,55,0.1) 0%, rgba(11,11,11,0.9) 100%)'
-            }}>
-              <div style={{ fontSize: '64px', opacity: 0.6 }}>🍽️</div>
-              <p style={{ fontSize: '18px', opacity: 0.8 }}>{venue.cuisines?.[0] || 'Restaurant'}</p>
-            </div>
-          )}
-          
-          {/* Overlay with restaurant name */}
-          <div style={{
-            position: 'absolute',
-            bottom: 0,
-            left: 0,
-            right: 0,
-            background: 'linear-gradient(transparent, rgba(11,11,11,0.9))',
-            padding: '40px 20px 20px',
-            color: '#FAFAFA'
-          }}>
-            <h1 style={{
-              fontFamily: 'Playfair Display, serif',
-              fontSize: 'clamp(32px, 5vw, 48px)',
-              fontWeight: 700,
-              letterSpacing: '-0.02em',
-              margin: 0,
-              textShadow: '0 2px 4px rgba(0,0,0,0.5)'
-            }}>
-              {venue.name}
-            </h1>
-            <div style={{ 
-              display: 'flex', 
-              gap: '16px', 
-              fontSize: '16px', 
-              color: '#D4AF37', 
-              marginTop: '8px',
-              flexWrap: 'wrap'
-            }}>
-              {venue.cuisines?.[0] && <span style={{ textTransform: 'capitalize' }}>{venue.cuisines[0]}</span>}
-              {venue.price_level && <span>{'£'.repeat(venue.price_level)}</span>}
-              {venue.dietary_tags?.halal && <span>☪️ Halal</span>}
-            </div>
-          </div>
-          
-          {/* FSA Badge */}
-          {venue.fsa_rating && (
-            <div style={{ position: 'absolute', top: '24px', right: '24px' }}>
-              <FSABadge rating={venue.fsa_rating} size="hero" variant="card" />
-            </div>
-          )}
+        
+        {/* Page Hero */}
+        <div className="container mx-auto px-4 md:px-6 lg:px-8">
+          <PageHero 
+            title={venue.name}
+            subtitle={`${venue.cuisines?.[0] || 'Restaurant'} ${venue.price_level ? '• ' + '£'.repeat(venue.price_level) : ''} ${venue.dietary_tags?.halal ? '• Halal' : ''}`}
+            stats={[
+              venue.rating && { label: "Rating", value: venue.rating.toFixed(1) },
+              venue.user_ratings_total && { label: "Reviews", value: venue.user_ratings_total.toLocaleString() },
+              venue.fsa_rating && { label: "FSA Rating", value: `${venue.fsa_rating}/5` }
+            ].filter(Boolean)}
+            image={hero}
+            priority
+            center={false}
+          />
         </div>
+        
+        <main>
 
         {/* Main Content */}
         <div style={{ maxWidth: '1200px', margin: '0 auto', padding: 'clamp(24px, 5vw, 48px) clamp(16px, 3vw, 20px)' }}>

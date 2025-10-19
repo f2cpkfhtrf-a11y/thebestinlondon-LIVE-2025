@@ -1,3 +1,5 @@
+import { assertLocalImage } from './assertLocalImage';
+
 export function resolveHeroImage(ctx: {
   type: "home" | "list-cuisine" | "list-area" | "list-all" | "list-halal" | "search" | "venue";
   cuisineSlug?: string;
@@ -6,45 +8,51 @@ export function resolveHeroImage(ctx: {
 }): { src: string; alt: string } {
   const { type, cuisineSlug, areaSlug, venue } = ctx;
 
+  let imageSrc: string;
+
   // Home page hero
   if (type === "home") {
-    return {
-      src: "/images/heroes/site/home-hero.webp",
-      alt: "London's finest restaurants and dining scene"
-    };
+    imageSrc = "/images/heroes/site/home-hero.webp";
   }
-
   // Venue-specific hero
-  if (type === "venue" && venue) {
+  else if (type === "venue" && venue) {
     const venueName = venue.name || "Restaurant";
     const cuisine = venue.cuisines?.[0] || "restaurant";
     const area = venue.area || venue.borough || "London";
     
+    // Prioritize local hero path, fallback to local default
+    imageSrc = venue.image_hero_path?.replace('/public', '') || "/images/heroes/site/default-list-hero.webp";
+    
     return {
-      src: venue.image_hero_path || venue.image_url || "/images/heroes/site/default-list-hero.webp",
+      src: imageSrc,
       alt: `${venueName} — ${cuisine} restaurant in ${area}, London`
     };
   }
-
   // Cuisine page hero
-  if (type === "list-cuisine" && cuisineSlug) {
-    return {
-      src: `/images/heroes/cuisines/${cuisineSlug}.webp`,
-      alt: `${cuisineSlug} restaurants in London`
-    };
+  else if (type === "list-cuisine" && cuisineSlug) {
+    imageSrc = `/images/heroes/cuisines/${cuisineSlug}.webp`;
   }
-
   // Area page hero
-  if (type === "list-area" && areaSlug) {
-    return {
-      src: `/images/heroes/areas/${areaSlug}.webp`,
-      alt: `Restaurants in ${areaSlug}, London`
-    };
+  else if (type === "list-area" && areaSlug) {
+    imageSrc = `/images/heroes/areas/${areaSlug}.webp`;
+  }
+  // List pages (all restaurants, halal, search)
+  else if (type === "list-all" || type === "list-halal" || type === "search") {
+    imageSrc = "/images/heroes/site/default-list-hero.webp";
+  }
+  // Default fallback
+  else {
+    imageSrc = "/images/heroes/site/default-list-hero.webp";
   }
 
-  // Default fallback for any list page
+  // Assert local-only for development
+  assertLocalImage(imageSrc);
+
   return {
-    src: "/images/heroes/site/default-list-hero.webp",
-    alt: "London restaurants and dining guide"
+    src: imageSrc,
+    alt: type === "home" ? "London's finest restaurants and dining scene" :
+         type === "list-cuisine" ? `${cuisineSlug} restaurants in London` :
+         type === "list-area" ? `Restaurants in ${areaSlug}, London` :
+         "London restaurants and dining guide"
   };
 }

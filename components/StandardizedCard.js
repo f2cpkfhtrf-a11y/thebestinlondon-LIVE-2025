@@ -1,5 +1,6 @@
 import React from 'react';
 import ImageWithFallback from './ImageWithFallback';
+import { assertLocalImage } from '../lib/assertLocalImage';
 
 const StandardizedCard = ({ 
   venue, 
@@ -26,17 +27,23 @@ const StandardizedCard = ({
     dietary_tags
   } = venue;
   
-  // Get the best available image - prioritize working images
+  // Get the best available image - prioritize local paths
   const getImageUrl = () => {
-    // Use photos array first (has real Google Places API URLs)
-    if (photos && photos[0] && photos[0].url) return photos[0].url;
-    // Check if local image exists and is not a placeholder
+    // Prioritize local image path first
     if (image_card_path && !image_card_path.includes('placeholder')) {
-      return image_card_path;
+      const localPath = image_card_path.replace('/public', '');
+      assertLocalImage(localPath);
+      return localPath;
     }
-    // Fall back to original image URL if it exists
-    if (image_url && !image_url.includes('PLACEHOLDER')) {
-      return image_url;
+    // Use photos array if available (but these are external Google Places URLs)
+    if (photos && photos[0] && photos[0].url) {
+      // Only use if no local path available - though ideally should be replaced
+      return photos[0].url;
+    }
+    // Fall back to original image URL if it exists and is local
+    if (image_url && !image_url.includes('PLACEHOLDER') && !image_url.startsWith('http')) {
+      assertLocalImage(image_url);
+      return image_url.replace('/public', '');
     }
     return null;
   };
@@ -52,12 +59,9 @@ const StandardizedCard = ({
           <img
             src={imageUrl}
             alt={`${name} - ${cuisines?.join(', ')} restaurant in ${location || 'London'}`}
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            className="w-full h-full object-cover group-hover:scale-105 transition-opacity duration-300"
             loading="lazy"
             decoding="async"
-            onLoad={(e) => {
-              e.target.style.opacity = '1';
-            }}
             onError={(e) => {
               e.target.style.display = 'none';
               const fallbackDiv = document.createElement('div');
@@ -70,7 +74,6 @@ const StandardizedCard = ({
               `;
               e.target.parentElement.appendChild(fallbackDiv);
             }}
-            style={{ opacity: 0 }}
           />
         ) : (
           <div className="w-full h-full bg-gradient-to-br from-gold/20 to-black flex items-center justify-center">
