@@ -206,6 +206,9 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center space-x-6">
+            <Link href="/" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+              Home
+            </Link>
             <Link href="/restaurants" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
               Restaurants
             </Link>
@@ -217,6 +220,9 @@ export default function Header() {
             </Link>
             <Link href="/best-halal-restaurants-london" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
               Halal
+            </Link>
+            <Link href="/near-me" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+              Near Me
             </Link>
             
             {/* Search Input */}
@@ -365,6 +371,13 @@ export default function Header() {
               </div>
 
               <Link 
+                href="/" 
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Home
+              </Link>
+              <Link 
                 href="/restaurants" 
                 className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
@@ -379,7 +392,7 @@ export default function Header() {
                 Areas
               </Link>
               <Link 
-                href="/indian-restaurants-london" 
+                href="/cuisines" 
                 className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
@@ -390,7 +403,28 @@ export default function Header() {
                 className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Halal Options
+                Halal
+              </Link>
+              <Link 
+                href="/near-me" 
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Near Me
+              </Link>
+              <Link 
+                href="/about" 
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                About
+              </Link>
+              <Link 
+                href="/contact" 
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Contact
               </Link>
               
               {/* Mobile CTA */}

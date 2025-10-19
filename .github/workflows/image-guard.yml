@@ -27,8 +27,11 @@ jobs:
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             npm run audit:images:fix -- --check-only
             npm run audit:tiles
+            npm run audit:routes
+            npm run audit:links
           else
             npm run audit:all
+            npm run audit:complete
           fi
       - name: Block external URLs in source code
         run: |

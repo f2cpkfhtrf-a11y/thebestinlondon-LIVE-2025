@@ -3,10 +3,15 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { generateCuisineEditorial } from '../utils/contentGeneration';
 import { theme } from '../utils/theme';
+import { resolveHeroImage } from '../lib/resolveHeroImage';
+import { TabContainer } from '../components/HeroTabs';
+import PageHero from '../components/PageHero';
 import FSABadge from '../components/FSABadge';
 import BestOfLondonBadge from '../components/BestOfLondonBadge';
 import FilterBar from '../components/FilterBar';
-import CuisineHero from '../components/CuisineHero';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
+import Breadcrumbs from '../components/Breadcrumbs';
 import fs from 'fs';
 import path from 'path';
 
@@ -15,6 +20,10 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
   const [hoveredCard, setHoveredCard] = useState(null);
   
   const cuisineTitle = cuisine.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  const cuisineSlug = cuisine.toLowerCase().replace(/[^a-z0-9]/g, '-');
+  
+  // Get hero image for cuisine page
+  const hero = resolveHeroImage({ type: "list-cuisine", cuisineSlug });
   
   // Calculate stats
   const avgRating = venues.length > 0 ? (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1) : '0.0';
@@ -54,27 +63,54 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
         <title>{cuisineTitle} Restaurants in London | The Best in London</title>
         <meta name="description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
         <link rel="canonical" href={`https://thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`} />
+        
+        {/* Open Graph Tags */}
+        <meta property="og:title" content={`${cuisineTitle} Restaurants in London | The Best in London`} />
+        <meta property="og:description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        <meta property="og:url" content={`https://www.thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`} />
+        <meta property="og:type" content="website" />
+        
+        {/* Twitter Card Tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={`${cuisineTitle} Restaurants in London | The Best in London`} />
+        <meta name="twitter:description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "CollectionPage",
           "name": `${cuisineTitle} Restaurants in London`,
           "description": `Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London with real reviews and FSA ratings`,
-          "url": `https://thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`
+          "url": `https://thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`,
+          "image": `https://www.thebestinlondon.co.uk${hero.src}`,
         }) }} />
-        
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
-      {/* Hero Section */}
-      <CuisineHero
-        title={`${cuisineTitle} Restaurants`}
-        subtitle="London's Finest Selection"
-        description={getCuisineDescription(cuisine)}
-        venueCount={totalVenues}
-        cuisine={cuisine}
-      />
+      <Header />
+      
+      <main className="min-h-screen bg-black text-warmWhite">
+        <TabContainer currentPath={`/${cuisineSlug}`} pageType="list-cuisine">
+          {/* Breadcrumbs */}
+          <div className="pt-20 pb-4">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+              <Breadcrumbs />
+            </div>
+          </div>
+          
+          {/* Page Hero */}
+          <PageHero 
+            title={`${cuisineTitle} Restaurants`}
+            subtitle="London's Finest Selection"
+            description={getCuisineDescription(cuisine)}
+            stats={[
+              { label: "Restaurants", value: totalVenues },
+              { label: "Avg Rating", value: avgRating },
+              { label: "FSA Verified", value: fsaVerified },
+            ]}
+            image={hero}
+            center={true}
+          />
 
       {/* Editorial Content */}
       {editorial && (
@@ -85,7 +121,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
                 {editorial.title}
               </h2>
               <div className="w-24 h-1 bg-gold mx-auto rounded-full"></div>
-            </div>
+                </div>
             <div className="prose prose-lg max-w-none">
               <p className="text-lg text-grey leading-relaxed text-center">
                 {editorial.content}
@@ -106,9 +142,8 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
         showRatingFilter={true}
       />
 
-      {/* Main Content */}
-      <main style={{ backgroundColor: theme.colors.bg.primary, minHeight: '100vh' }}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          {/* Main Content */}
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           
           {/* Stats Section */}
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
@@ -123,7 +158,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
             <div className="bg-black-light rounded-lg p-6 text-center">
               <div className="text-2xl font-bold text-gold mb-2">{fsaVerified}</div>
               <div className="text-sm text-grey">FSA Verified</div>
-            </div>
+                </div>
             <div className="bg-black-light rounded-lg p-6 text-center">
               <div className="text-2xl font-bold text-gold mb-2">100%</div>
               <div className="text-sm text-grey">Verified</div>
@@ -138,7 +173,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
             <div className="text-sm text-grey">
               Showing {filteredVenues.length} of {totalVenues} restaurants
             </div>
-          </div>
+            </div>
 
           {/* Restaurant Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -152,7 +187,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
                   {/* Image */}
                   <div className="relative h-48 overflow-hidden">
                     <img
-                      src={venue.photos?.[0]?.url || 'https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=85'}
+                      src={venue.image_card_path?.replace('/public', '') || '/images/heroes/site/default-card.webp'}
                       alt={venue.name}
                       className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                     />
@@ -160,43 +195,43 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
                     {/* Overlay Badges */}
                     <div className="absolute top-3 right-3">
                       <BestOfLondonBadge venue={venue} size="small" showTooltip={false} showExplanation={false} />
-                    </div>
+                          </div>
                     <div className="absolute top-3 left-3">
                       <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
-                    </div>
-                  </div>
+                          </div>
+                      </div>
 
                   {/* Content */}
                   <div className="p-6">
                     <h3 className="text-xl font-serif font-bold text-warmWhite mb-2 group-hover:text-gold transition-colors duration-300">
-                      {venue.name}
-                    </h3>
-                    
+                          {venue.name}
+                        </h3>
+
                     <div className="flex items-center space-x-2 mb-3">
                       <span className="text-gold text-lg">★</span>
                       <span className="text-warmWhite font-semibold">{venue.rating?.toFixed(1) || 'N/A'}</span>
                       <span className="text-grey text-sm">({venue.review_count || 0} reviews)</span>
-                    </div>
+                        </div>
 
                     <div className="text-grey text-sm mb-3">
                       {venue.borough && <span>{venue.borough}</span>}
                       {venue.cuisines && venue.cuisines.length > 0 && (
                         <span className="ml-2">• {venue.cuisines[0]}</span>
-                      )}
-                    </div>
+                          )}
+                        </div>
 
                     <div className="flex items-center justify-between">
                       <div className="text-sm text-grey">
                         {venue.price_level && '£'.repeat(venue.price_level)}
-                      </div>
+                          </div>
                       <div className="text-sm text-gold font-medium group-hover:text-gold/80 transition-colors duration-300">
                         View Details →
                       </div>
                     </div>
-                  </div>
-                </article>
-              </Link>
-            ))}
+                      </div>
+                    </article>
+                  </Link>
+                ))}
           </div>
 
           {/* Empty State */}
@@ -209,10 +244,12 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
               >
                 Clear Filters
               </button>
-            </div>
-          )}
+          </div>
+        )}
         </div>
+        </TabContainer>
       </main>
+      <Footer />
     </>
   );
 }
