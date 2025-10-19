@@ -1,0 +1,466 @@
+Timestamp,Venue,Cuisine,Photo_Ref,Bytes,Cost
+"2025-10-18T14:48:39.618Z","Kricket Soho","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.619Z","Maharaja of India","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.619Z","Aladin Brick Lane","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.619Z","Dishoom Kensington","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.619Z","Brigadiers","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.619Z","Cinnamon Bazaar","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.619Z","Pravaas - South Kensington","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.620Z","Circolo Popolare","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Grasso","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Gloria","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Bocca di Lupo","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Padella","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Bancone Covent Garden","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Doppo","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","manteca","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Giulia Restaurant","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Amor Gastronomia","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.620Z","Zuma London","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.620Z","OITA Soho","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.621Z","Maru London","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.621Z","SUSHINOEN","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.621Z","RAI Restaurant London","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.621Z","INKO NITO - Soho","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.621Z","YiQi","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.621Z","Hutong","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.621Z","House of Ming","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.621Z","Peacock London","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.622Z","Noble Palace","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.622Z","The Sichuan Restaurant","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.622Z","Min Jiang","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.622Z","Ma La Sichuan","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.622Z","Golden Dragon (Chinatown)","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.622Z","Speedboat Bar","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.622Z","Kolae","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.622Z","Nua","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.622Z","AngloThai","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.622Z","Plaza Khao Gaeng","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.622Z","Patara Knightsbridge","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.622Z","Champor-Champor","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.622Z","Kin + Deum","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.622Z","Chet's","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.622Z","Patara Oxford Circus","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.623Z","ANA Turkish Restaurant and Bar","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.623Z","Efes Premium","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.623Z","The Mantl","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.623Z","Cirrik 19 Numara Bos","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.623Z","Liman Restaurant","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.623Z","Antalya","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.623Z","Fes Restaurant","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.623Z","Bouchon Racine","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.623Z","Le Relais de Venise L'Entrecote | Marylebone","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.623Z","L'Escargot Restaurant","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.623Z","Galvin La Chapelle","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.624Z","Chez Bruce","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.624Z","Maison François","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.624Z","Casse-Croûte","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.624Z","Clos Maggiore","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.624Z","Pavyllon London","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.624Z","La Trompette","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.624Z","El Pirata Of Mayfair - Tapas Bar Español","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.624Z","Copita Fitzrovia Tapas Bar","spanish","google_places_spanish",250000,0.007
+"2025-10-18T14:48:39.624Z","La Gamba - Spanish Tapas Bar & Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.624Z","Salt Yard","spanish","google_places_spanish",250000,0.007
+"2025-10-18T14:48:39.624Z","Koko Grill Korean BBQ Restaurant","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.624Z","Arang Restaurant","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.624Z","Soju Korean Restaurant","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.624Z","Jang Restaurant","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.624Z","Korean Dinner Party","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.625Z","YORI Piccadilly Circus Korean BBQ","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.625Z","Bibimbap Soho","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.625Z","Daebak","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.625Z","Cu4tro Restaurant & Tequila Bar","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.625Z","Mestizo Mexican Restaurant & Tequila Bar","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.625Z","Wahaca Covent Garden","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.625Z","Santo Remedio - Asador, London Bridge","spanish","google_places_spanish",250000,0.007
+"2025-10-18T14:48:39.625Z","El Pastor Soho","spanish","google_places_spanish",250000,0.007
+"2025-10-18T14:48:39.625Z","Los Mochis London City","spanish","google_places_spanish",250000,0.007
+"2025-10-18T14:48:39.625Z","Mestizo Chelsea: Mexican Restaurant & Margarita Bar","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.625Z","Mexican Seoul","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.625Z","El Cenote","spanish","google_places_spanish",250000,0.007
+"2025-10-18T14:48:39.625Z","Cavita","spanish","google_places_spanish",250000,0.007
+"2025-10-18T14:48:39.625Z","Yucca London","spanish","google_places_spanish",250000,0.007
+"2025-10-18T14:48:39.626Z","Taste of Lahore","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.626Z","The Banc","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.626Z","Shahs Halal Food Soho","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.626Z","Steak and Company - Covent Garden","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.626Z","Colonel Saab","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.626Z","Naroon Fitzrovia","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.626Z","Mildreds Victoria","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.626Z","Vegan Yes","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.626Z","Tendril - A (mostly) Vegan Kitchen & Bar","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.626Z","Gauthier Soho","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.626Z","Studio Gauthier","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.626Z","Unity Diner","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.627Z","Holy Carrot","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.627Z","KIN Cafe & Restaurant","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.627Z","Mildreds Kings Cross","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.627Z","Vegan Planet","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.627Z","The Ledbury","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.627Z","Ekstedt at The Yard","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.627Z","Restaurant St. Barts","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.627Z","Kitchen Table","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.627Z","Hélène Darroze at The Connaught","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.627Z","Restaurant 1890 by Gordon Ramsay","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.627Z","The Ninth","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.627Z","HIDE","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.627Z","Frog by Adam Handling Restaurant Covent Garden","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.627Z","Scully","french","google_places_french",250000,0.007
+"2025-10-18T14:48:39.627Z","L'ETO Soho","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.627Z","London Night Cafe","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Old Queen Street Cafe","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","E Pellicci","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Dulce Coffee London","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","EL&N London Park Lane","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Monmouth Coffee Company","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Kiss the Hippo Coffee","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Kaffeine","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Rosslyn Coffee London Wall","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Chill House Coffee Shop","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Batch Baby","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Attendant Coffee Roasters | Fitzrovia","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Coffee Island","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Arôme Bakery - Mercer Street","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","E5 Bakehouse","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Aux pains de papy","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.628Z","Chestnut Bakery, Covent Garden","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","COMMON BREADS","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","Miel Bakery","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","TOAD Bakery","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","GAIL's Bakery Soho","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","Brother Marcus Borough","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.629Z","Sunday in Brooklyn - Modern American Restaurant Marylebone","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","Eggbreak","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","Brother Marcus South Kensington","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.629Z","Duck & Waffle","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","Milk Beach Soho","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","The Breakfast Club Soho","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","The Table Café","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","The Breakfast Club Seven Dials","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","Brother Marcus Covent Garden","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.629Z","The Little Scarlet Door","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","Amazing Grace London Bridge","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.629Z","Florattica Rooftop London","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","STEREO Covent Garden","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","Disrepute - Cocktail Bar in Soho","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","Pulse Bar London","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","SOMA Soho","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","Lyaness","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","Bussey Rooftop Bar","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","Wagtail","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","London Bridge Rooftop Bar","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","Mercer Roof Terrace","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.630Z","Miradora Rooftop Restaurant Tequileria","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.631Z","Aviary","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.631Z","JOIA Restaurant, Bar & Rooftop","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.631Z","Pergola on the Wharf","mediterranean","google_places_mediterranean",250000,0.007
+"2025-10-18T14:48:39.631Z","Blacklock Soho","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","Señor Ceviche Peruvian Restaurant Soho","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","Kricket Shoreditch - Kafé, Restaurant & Bar","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.631Z","Blacklock Shoreditch","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","Popolo Shoreditch","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","SMOKESTAK","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","Camino Shoreditch","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","34 Mayfair","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","Gaia Mayfair","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","Corrigan's Mayfair","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","Hakkasan","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.631Z","Bluebird Chelsea","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","The Chelsea Corner","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","No. Fifty Cheyne","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","Granger & Co. Chelsea","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","The Cadogan Arms","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","Baba Restaurant Chelsea","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","Blacklock Covent Garden","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","Da Mario Covent Garden","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.632Z","Inamo Covent Garden","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","Cora Pearl","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","Osteria Napoletana","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.632Z","Granger and Co. Notting Hill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","Gold","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","LUSH & HUSH","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","The Barbary Notting Hill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.632Z","Taqueria - Notting Hill","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.633Z","The Blues Kitchen Camden","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Daphne Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","La Patagonia","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Jamon Jamon","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Purezza Camden","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Frida Camden","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.633Z","Band of Burgers, Camden","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Made in Brasil","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Brother Marcus Canary Wharf","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Barbarella","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Gaucho Canary Wharf","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Blacklock Canary Wharf","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.633Z","Brera Lounge","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Dishoom Canary Wharf","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.634Z","Six by Nico Canary Wharf","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Amerigo Vespucci","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Efes Restaurant (Whitechapel)","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.634Z","Hotto Potto","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Bocca In Cielo","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Rasoi Ghar","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Lahore Kebab House","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Du'aa Diner","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Tayyabs","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Dilpasand Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.634Z","Babel Grill House","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Janna Cafe","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Halal Restaurant","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.635Z","Grounded London","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Hichki Indian Restaurant","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.635Z","Sylhet Nights","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Dragon's Den Oriental Kitchen","chinese","google_places_chinese",250000,0.007
+"2025-10-18T14:48:39.635Z","Naan Staap®","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Baristas Lounge","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Madina Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Shahs Halal Food Shadwell","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.635Z","Zaiqa London","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Shahs Halal Food Whitechapel","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.635Z","Baraka Eatery London","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Maedah Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Grill Guys","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Madison Steak & Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.635Z","Haweli Restaurant ® Ilford","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.636Z","Royal Nawaab Ilford","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.636Z","Hyderabad Darbar","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.636Z","Punjab Grill Lounge","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.636Z","Tawa Grill","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.636Z","The Connaught","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.636Z","Nosh","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.636Z","Meat Street","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.636Z","restaurant favorit","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.636Z","Manjaros Restaurant Ilford","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.637Z","Jilani Curry & Grill Restaurant","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.637Z","Shah's Halal Food Ilford","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.637Z","Naan Staap®","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.637Z","Spice Khazana","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.637Z","Sultan","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.637Z","Colony Restaurant","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.637Z","Franzos Ilford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.637Z","Naan Staap","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.637Z","Grill House","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Paradise Romford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Neyzen Restaurant and Pods","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Turtle Bay Romford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Ciao Bella","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Braza Churrascaria Rodizio","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Blue Orchid","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Ivy Tree","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","COSMO World Buffet Romford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Roosters Piri Piri","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Minoa Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Veyso's Romford Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Sunrise Lutong Bahay","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.638Z","Tilaw","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","wagamama romford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","CREM Kitchen","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","Flippin Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","Kervan Kitchen Gidea Park","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.639Z","Shahs Halal Food Romford Road","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.639Z","Lara Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","Bekash Restaurant & Take Away","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","Stack & Sizzle","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","Kervan Saray","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.639Z","Chef Asia","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","Yebaba Levantine Kitchen","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","Nasi Isda® Romford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.639Z","Ottomans","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.639Z","Kasiba Lounge and Restaurant","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.639Z","Bread Street Kitchen, Bar & Rooftop - Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Kokin Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","HERA","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","FIGO Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Bamboo-Mat Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Union Social","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Lokma Westfield","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.640Z","Elondi Restaurant, Bar and Terrace","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","STK Steakhouse – Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Darkhorse Restaurant Bar","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Mezban stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Big Easy Bar.B.Q & Crabshack - Westfield, Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","ZUZU BISTRO BAR","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Busaba Westfield Stratford","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.640Z","XIX Nineteen","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Kitchen E20","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","Wahaca Stratford","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.640Z","Santi","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.640Z","The Grill Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","THE FAT CRAB STRATFORD","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","Master Bao - Westfield Stratford City","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.641Z","Aroma Authentic Dum Biriyani","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.641Z","Indi-go Rasoi Westfield Stratford","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.641Z","Cafe Rasa Malaysia","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","Al zayt Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","FAT CHEF (Authentic Indian Kitchen) Halal","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.641Z","HS & Co","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","Steakout Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","BABABOOM","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","The Westbridge Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","STAX Burgers - Westfield Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","Tanjia Restaurant","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.641Z","Cabana","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","Tripti's Thai Pie Stratford","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.641Z","The Solo Kitchen & Bar","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.641Z","Fatto a Mano Bethnal Green","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.641Z","Maple Brunch Cafe","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Palmers Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Arepa & Co Venezuelan Restaurant - Bethnal Green","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Restaurant Elis","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","OMBRA","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Desi Lounge","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Da Terra Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Brawn","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Mum Likes Thai Food (Bethnal Green)","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.642Z","Cav","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Afghan Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Princelyn (Nigerian Restaurant & Groceries)","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","The Star of Bethnal Green","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","BRIQ","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Chaskaas","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.642Z","Halal Street Kitchen","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.643Z","Purpleish","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.643Z","Shah's Halal Food Cambridge Heath Hackney","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.643Z","Andy's Burgers Mile End","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.643Z","Thai n Pie Stepney","thai","google_places_thai",250000,0.007
+"2025-10-18T14:48:39.643Z","Gansu Bethnal Green","chinese","google_places_chinese",250000,0.007
+"2025-10-18T14:48:39.643Z","Get Stuffed Stepney","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.643Z","Papi Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.643Z","DALLA","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.644Z","Morito","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.644Z","Rogues.","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.644Z","Cafe Cecilia","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.644Z","Angelina","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.644Z","LARDO","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.644Z","Shankeys","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","Narrow Kitchen","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","Casa Fofó","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.645Z","Mama Restaurant London","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","Big Night Bar & Restaurant Hackney","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","Planque","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","Rao's Bar & Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","Mare Street Market","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","The Alchemist Canary Wharf","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","Big Easy Bar.B.Q & Crabshack - Canary Wharf","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.645Z","Caravan Canary Wharf Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.646Z","Oysteria","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.646Z","Eggslut Canary Wharf","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.646Z","Wahaca Canary Wharf","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.646Z","Yolk","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.646Z","Smoke End Steakhouse","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.646Z","Darling's Eatery","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.646Z","The Bourbon","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.646Z","Dead Pedro's - Mexican Kitchen at The Bow Bells","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.646Z","Momlette","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.646Z","Bibimbop Bow","korean","google_places_korean",250000,0.007
+"2025-10-18T14:48:39.646Z","The Angel of Bow Public House","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.647Z","Bow Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.647Z","Smoke & Pepper (Bow)","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.647Z","Morgan Arms","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.647Z","MILAGROS BOW","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.647Z","Far East Kitchen","chinese","google_places_chinese",250000,0.007
+"2025-10-18T14:48:39.647Z","Bun & Sum","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.647Z","Meat Up","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.647Z","Buon Appetito","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.647Z","The Coborn","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.648Z","Rusty Bike Pub Mile End","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.648Z","Afrikana Restaurant Mile End","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.648Z","The Victoria","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.648Z","Tacosmash Mile End","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.648Z","Ariana Restaurant LONDON","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.648Z","Mile End Sandwich Bar","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.648Z","Simply Smashed - Quality Smash Burgers","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.648Z","WNGZ Mile End (Chicken Wings, Burgers, Cheesy chips)","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","The Coffee Room - Mile End","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","Nando's Mile End","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","Damal","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","Rose Peri Peri Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","Suite 85 Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","Las Iguanas - London - Stratford Westfield","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","Shoryu Westfield Stratford City","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.649Z","BBQ Express - Stratford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","Hardies Peri Peri","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.649Z","SMASH","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Slice of Meat","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Sultan Sofrasi","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.650Z","Tanjia Garden","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.650Z","Kolapata","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Olives and Oregano London","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.650Z","Needoo Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Sotto Cucina & Bar","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Feast and Mishti","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Makkah Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Spice Hut","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","The Munch","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Liverpool Street Chop House & Tavern","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.650Z","Polo Bar - 24 Hour Great British Cafe","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","Eggslut Liverpool Street","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","Lucky Cat by Gordon Ramsay - Bishopsgate","chinese","google_places_chinese",250000,0.007
+"2025-10-18T14:48:39.651Z","Yauatcha City","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.651Z","The Drift","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","The Ivy City Garden","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","Luca Dsq.","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.651Z","Eataly London","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","Dirty Martini - Cocktail Bar in Bishopsgate","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","Piccolino Exchange Square","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","Canto Corvino","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","Gaucho Broadgate","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.651Z","McDonald's","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.652Z","Devonshire Terrace","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.652Z","Miyako","japanese","google_places_japanese",250000,0.007
+"2025-10-18T14:48:39.652Z","Mi Casa Burrito London Liverpool Street","mexican","google_places_mexican",250000,0.007
+"2025-10-18T14:48:39.652Z","Faroz Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.652Z","Salamis Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.652Z","Shezan GCD","chinese","google_places_chinese",250000,0.007
+"2025-10-18T14:48:39.652Z","Crave Station","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.652Z","Wazir Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","Smoke & Pepper (Gants Hill)","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","The Urban Chocolatier","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","Zu's Ilford","chinese","google_places_chinese",250000,0.007
+"2025-10-18T14:48:39.653Z","Famz Peri Peri","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","Taj Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","Gallio","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","Scarpetta","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","Capeesh","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","Bethnal Green Tavern","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.653Z","Italina385","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.654Z","The Common E2","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.654Z","Perfetto Pizza ( Bethnal Green )","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.654Z","Phat For Life","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.654Z","The Full Monty","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.654Z","Arches Cafe","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.654Z","Nando's Bethnal Green","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.654Z","Al-Safa Grill","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.654Z","Sweet Café - Stepney","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.654Z","La Bella napoli","italian","google_places_italian",250000,0.007
+"2025-10-18T14:48:39.654Z","Shah's Halal Food Walthamstow","turkish","google_places_turkish",250000,0.007
+"2025-10-18T14:48:39.654Z","De Cafe Lounge & De biryani Lounge","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.654Z","PAR LONDON - PAK AL REYAN RESTAURANT","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Salash Kitchen - South Woodford","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Shahs Halal Food - Leytonstone High Road","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.655Z","Asado Steakhouse","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","E3 Vegan","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","The Hogless Roast","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Sen Viet Vegan Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Siddhi Pure Veg Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Bubala Spitalfields","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Essential Vegan Cafe","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Sangeetha Veg Restaurant Indian","indian","google_places_indian",250000,0.007
+"2025-10-18T14:48:39.655Z","Facing Heaven","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Taste of India Pure Vegetarian LTD","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","PlantXology","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.655Z","Vegan Biosphere (Vegan Buffet)","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.656Z","Adyar Ananda Bhavan - A2B Veg Restaurant","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.656Z","Dauns","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.656Z","Shinde's Pure Veg","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.656Z","THE COVEN of WICHES","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.656Z","The Spread Eagle","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.656Z","WAVE","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.656Z","Tofu vegan Spitalfields","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.656Z","iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food","caribbean","google_places_caribbean",250000,0.007
+"2025-10-18T14:48:39.656Z","Black Cat café","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.657Z","Mildreds Dalston","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.657Z","Fed By Plants","british","google_places_british",250000,0.007
+"2025-10-18T14:48:39.657Z","Baba's Village Restaurant","indian","google_places_indian",250000,0.007

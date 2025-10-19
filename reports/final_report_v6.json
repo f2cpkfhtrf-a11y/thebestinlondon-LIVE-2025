@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-10-18T23:51:19.293Z",
+  "duration": 24404969,
+  "totalVenues": 511,
+  "venuesProcessed": 0,
+  "venuesSkipped": 0,
+  "venuesFailed": 511,
+  "totalCalls": 811,
+  "totalCost": 8.676999999999971,
+  "callsByType": {
+    "details": 300,
+    "photos": 511
+  },
+  "batch1Size": 488,
+  "batch2Size": 23
+}

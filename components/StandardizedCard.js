@@ -10,6 +10,7 @@ const StandardizedCard = ({
 }) => {
   const {
     name,
+    image_card_path,
     image_url,
     photos,
     cuisines,
@@ -25,10 +26,18 @@ const StandardizedCard = ({
     dietary_tags
   } = venue;
   
-  // Get the best available image
+  // Get the best available image - prioritize working images
   const getImageUrl = () => {
-    if (image_url) return image_url;
+    // Use photos array first (has real Google Places API URLs)
     if (photos && photos[0] && photos[0].url) return photos[0].url;
+    // Check if local image exists and is not a placeholder
+    if (image_card_path && !image_card_path.includes('placeholder')) {
+      return image_card_path;
+    }
+    // Fall back to original image URL if it exists
+    if (image_url && !image_url.includes('PLACEHOLDER')) {
+      return image_url;
+    }
     return null;
   };
   
@@ -39,15 +48,29 @@ const StandardizedCard = ({
     <div className={`relative overflow-hidden rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 group ${className}`}>
       {/* Image with standardized overlay */}
       <div className="relative h-48 overflow-hidden">
-        {imageUrl ? (
+                {imageUrl ? (
           <img
             src={imageUrl}
-            alt={`${name} - ${cuisines?.join(', ')} restaurant`}
+            alt={`${name} - ${cuisines?.join(', ')} restaurant in ${location || 'London'}`}
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            loading="lazy"
+            decoding="async"
+            onLoad={(e) => {
+              e.target.style.opacity = '1';
+            }}
             onError={(e) => {
               e.target.style.display = 'none';
-              e.target.parentElement.style.background = 'linear-gradient(135deg, rgba(212,175,55,0.2) 0%, rgba(11,11,11,0.9) 100%)';
+              const fallbackDiv = document.createElement('div');
+              fallbackDiv.className = 'w-full h-full bg-gradient-to-br from-gold/20 to-black flex items-center justify-center';
+              fallbackDiv.innerHTML = `
+                <div class="text-center text-gold/60">
+                  <div class="text-4xl mb-2">🍽️</div>
+                  <div class="text-sm">${cuisines?.[0] || 'Restaurant'}</div>
+                </div>
+              `;
+              e.target.parentElement.appendChild(fallbackDiv);
             }}
+            style={{ opacity: 0 }}
           />
         ) : (
           <div className="w-full h-full bg-gradient-to-br from-gold/20 to-black flex items-center justify-center">
