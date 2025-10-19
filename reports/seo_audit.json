@@ -1,0 +1,178 @@
+{
+  "timestamp": "2025-10-19T13:04:55.113Z",
+  "summary": {
+    "totalPages": 8,
+    "pagesWithTitle": 4,
+    "pagesWithMetaDescription": 7,
+    "pagesWithCanonical": 6,
+    "pagesWithOgImage": 6,
+    "pagesWithTwitterImage": 6,
+    "pagesWithJsonLd": 5
+  },
+  "results": [
+    {
+      "url": "/",
+      "hasTitle": true,
+      "hasMetaDescription": true,
+      "hasCanonical": true,
+      "hasOgImage": true,
+      "hasTwitterImage": true,
+      "hasJsonLd": true,
+      "titleContent": "The Best in London | Premium Dining Guide",
+      "metaDescription": "Discover London&#x27;s finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas. From street food to fine dining.",
+      "canonicalUrl": "https://www.thebestinlondon.co.uk",
+      "ogImageUrl": "https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp",
+      "twitterImageUrl": "https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp",
+      "jsonLdTypes": [
+        "WebSite"
+      ],
+      "issues": []
+    },
+    {
+      "url": "/restaurants",
+      "hasTitle": true,
+      "hasMetaDescription": true,
+      "hasCanonical": false,
+      "hasOgImage": true,
+      "hasTwitterImage": true,
+      "hasJsonLd": true,
+      "titleContent": "Best Restaurants in London | The Best in London",
+      "metaDescription": "Discover the finest restaurants across London. From Michelin-starred dining to hidden gems, find your perfect meal in the capital.",
+      "canonicalUrl": "",
+      "ogImageUrl": "https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp",
+      "twitterImageUrl": "https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp",
+      "jsonLdTypes": [
+        "ItemList"
+      ],
+      "issues": [
+        "Missing canonical link"
+      ]
+    },
+    {
+      "url": "/areas",
+      "hasTitle": false,
+      "hasMetaDescription": true,
+      "hasCanonical": true,
+      "hasOgImage": true,
+      "hasTwitterImage": true,
+      "hasJsonLd": false,
+      "titleContent": "",
+      "metaDescription": "Explore 10+ areas across London with our comprehensive restaurant guide. From Soho to Shoreditch, discover the best dining in every neighborhood.",
+      "canonicalUrl": "https://www.thebestinlondon.co.uk/areas",
+      "ogImageUrl": "https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp",
+      "twitterImageUrl": "https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp",
+      "jsonLdTypes": [],
+      "issues": [
+        "Missing title tag",
+        "Missing JSON-LD schema"
+      ]
+    },
+    {
+      "url": "/areas/whitechapel",
+      "hasTitle": false,
+      "hasMetaDescription": false,
+      "hasCanonical": false,
+      "hasOgImage": false,
+      "hasTwitterImage": false,
+      "hasJsonLd": false,
+      "titleContent": "",
+      "metaDescription": "",
+      "canonicalUrl": "",
+      "ogImageUrl": "",
+      "twitterImageUrl": "",
+      "jsonLdTypes": [],
+      "issues": [
+        "Missing title tag",
+        "Missing meta description",
+        "Missing canonical link",
+        "Missing og:image",
+        "Missing twitter:image",
+        "Missing JSON-LD schema"
+      ]
+    },
+    {
+      "url": "/cuisines",
+      "hasTitle": true,
+      "hasMetaDescription": true,
+      "hasCanonical": true,
+      "hasOgImage": false,
+      "hasTwitterImage": false,
+      "hasJsonLd": false,
+      "titleContent": "Cuisines | The Best in London",
+      "metaDescription": "Explore 14 different cuisines across London. From Indian to Italian, discover the best restaurants for every taste.",
+      "canonicalUrl": "https://www.thebestinlondon.co.uk/cuisines",
+      "ogImageUrl": "",
+      "twitterImageUrl": "",
+      "jsonLdTypes": [],
+      "issues": [
+        "Title too short: \"Cuisines | The Best in London\"",
+        "Meta description too short: \"Explore 14 different cuisines across London. From Indian to Italian, discover the best restaurants for every taste.\"",
+        "Missing og:image",
+        "Missing twitter:image",
+        "Missing JSON-LD schema"
+      ]
+    },
+    {
+      "url": "/italian",
+      "hasTitle": false,
+      "hasMetaDescription": true,
+      "hasCanonical": true,
+      "hasOgImage": true,
+      "hasTwitterImage": true,
+      "hasJsonLd": true,
+      "titleContent": "",
+      "metaDescription": "Discover 18 exceptional italian restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.",
+      "canonicalUrl": "https://thebestinlondon.co.uk/italian",
+      "ogImageUrl": "https://www.thebestinlondon.co.uk/images/heroes/cuisines/italian.webp",
+      "twitterImageUrl": "https://www.thebestinlondon.co.uk/images/heroes/cuisines/italian.webp",
+      "jsonLdTypes": [
+        "CollectionPage",
+        "BreadcrumbList"
+      ],
+      "issues": [
+        "Missing title tag"
+      ]
+    },
+    {
+      "url": "/best-halal-restaurants-london",
+      "hasTitle": false,
+      "hasMetaDescription": true,
+      "hasCanonical": true,
+      "hasOgImage": true,
+      "hasTwitterImage": true,
+      "hasJsonLd": true,
+      "titleContent": "",
+      "metaDescription": "Discover 54+ best halal restaurants in London. Verified halal options with detailed reviews, FSA ratings, and authentic cuisine across all areas.",
+      "canonicalUrl": "https://www.thebestinlondon.co.uk/best-halal-restaurants-london",
+      "ogImageUrl": "https://www.thebestinlondon.co.uk/images/halal/halal-default-hero.webp",
+      "twitterImageUrl": "https://www.thebestinlondon.co.uk/images/halal/halal-default-hero.webp",
+      "jsonLdTypes": [
+        "CollectionPage"
+      ],
+      "issues": [
+        "Missing title tag"
+      ]
+    },
+    {
+      "url": "/restaurant/dishoom-covent-garden-OZ6OHOJw",
+      "hasTitle": true,
+      "hasMetaDescription": true,
+      "hasCanonical": true,
+      "hasOgImage": true,
+      "hasTwitterImage": true,
+      "hasJsonLd": true,
+      "titleContent": "Dishoom Covent Garden | indian in Central London | The...",
+      "metaDescription": "Discover Dishoom Covent Garden, a 4. 7-star indian restaurant in Central London....",
+      "canonicalUrl": "https://thebestinlondon.co.uk/restaurant/dishoom-covent-garden-OZ6OHOJw",
+      "ogImageUrl": "https://www.thebestinlondon.co.uk/images/restaurants/dishoom-covent-garden-OZ6OHOJw/indian-dishoom-covent-garden-OZ6OHOJw-hero-1c686259.webp",
+      "twitterImageUrl": "https://www.thebestinlondon.co.uk/images/restaurants/dishoom-covent-garden-OZ6OHOJw/indian-dishoom-covent-garden-OZ6OHOJw-hero-1c686259.webp",
+      "jsonLdTypes": [
+        "Restaurant",
+        "BreadcrumbList"
+      ],
+      "issues": [
+        "Meta description too short: \"Discover Dishoom Covent Garden, a 4. 7-star indian restaurant in Central London....\""
+      ]
+    }
+  ]
+}

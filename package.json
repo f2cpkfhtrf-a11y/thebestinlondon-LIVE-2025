@@ -29,8 +29,11 @@
     "audit:links": "tsx scripts/checkLinks.ts",
     "audit:summary": "tsx scripts/generateAuditSummary.ts",
     "audit:complete": "npm run audit:files && npm run audit:routes && npm run audit:links && npm run audit:images && npm run audit:summary",
+    "audit:seo": "node scripts/auditSEO.ts",
     "images:lqip": "tsx scripts/generateLqip.ts",
+    "analyze": "ANALYZE=true next build",
     "post:verify": "node scripts/postDeployVerify.mjs",
+    "verify:preprod": "node scripts/postDeployVerify.mjs",
     "postbuild": "echo 'Post-build completed'"
   },
   "dependencies": {

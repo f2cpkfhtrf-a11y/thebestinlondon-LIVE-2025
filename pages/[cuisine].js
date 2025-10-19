@@ -63,7 +63,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
       <Head>
         <title>{cuisineTitle} Restaurants in London | The Best in London</title>
         <meta name="description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
-        <link rel="canonical" href={`https://thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`} />
+        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`} />
         
         {/* Open Graph Tags */}
         <meta property="og:title" content={`${cuisineTitle} Restaurants in London | The Best in London`} />

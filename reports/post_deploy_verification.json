@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-19T11:50:05.788Z",
+  "timestamp": "2025-10-19T12:55:32.854Z",
   "productionUrl": "https://www.thebestinlondon.co.uk",
   "urlTests": [
     {
@@ -7,21 +7,18 @@
       "fullUrl": "https://www.thebestinlondon.co.uk/",
       "status": 200,
       "headers": {
-        "accept-ranges": "bytes",
-        "access-control-allow-origin": "*",
-        "age": "0",
+        "age": "101",
         "cache-control": "public, max-age=0, must-revalidate",
-        "content-disposition": "inline",
-        "content-length": "159206",
+        "content-length": "158996",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:02 GMT",
-        "etag": "\"bbfbbb847ffa507503ce63c4f38f2ba4\"",
+        "date": "Sun, 19 Oct 2025 12:53:50 GMT",
+        "etag": "\"qejcpg36uc3e50\"",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
-        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url",
         "x-matched-path": "/",
-        "x-vercel-cache": "PRERENDER",
-        "x-vercel-id": "lhr1::g8qgx-1760874601794-9c11e3725982"
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "lhr1::iad1::btgqt-1760878532305-e63f205b2472"
       },
       "success": true
     },
@@ -30,21 +27,18 @@
       "fullUrl": "https://www.thebestinlondon.co.uk/restaurants",
       "status": 200,
       "headers": {
-        "accept-ranges": "bytes",
-        "access-control-allow-origin": "*",
-        "age": "0",
+        "age": "99",
         "cache-control": "public, max-age=0, must-revalidate",
-        "content-disposition": "inline",
-        "content-length": "8968709",
+        "content-length": "8968529",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:02 GMT",
-        "etag": "\"a7245eeecb3c87067a01275b9b027edf\"",
+        "date": "Sun, 19 Oct 2025 12:53:51 GMT",
+        "etag": "\"hnushyqovo5agm5\"",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
-        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url",
         "x-matched-path": "/restaurants",
-        "x-vercel-cache": "PRERENDER",
-        "x-vercel-id": "lhr1::bntc9-1760874602090-e3929e862e99"
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "lhr1::iad1::fvdbd-1760878532334-2aadf4fd2b20"
       },
       "success": true
     },
@@ -55,19 +49,19 @@
       "headers": {
         "accept-ranges": "bytes",
         "access-control-allow-origin": "*",
-        "age": "0",
+        "age": "3929",
         "cache-control": "public, max-age=0, must-revalidate",
         "content-disposition": "inline",
         "content-length": "973639",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:03 GMT",
+        "date": "Sun, 19 Oct 2025 12:55:32 GMT",
         "etag": "\"4fd120309810ed8d8709223a9e284492\"",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
         "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url",
         "x-matched-path": "/best-halal-restaurants-london",
-        "x-vercel-cache": "PRERENDER",
-        "x-vercel-id": "lhr1::bdcm5-1760874602919-18b502a6316e"
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "lhr1::4g4rd-1760878532483-626764214a82"
       },
       "success": true
     },
@@ -76,21 +70,18 @@
       "fullUrl": "https://www.thebestinlondon.co.uk/areas",
       "status": 200,
       "headers": {
-        "accept-ranges": "bytes",
-        "access-control-allow-origin": "*",
-        "age": "0",
+        "age": "102",
         "cache-control": "public, max-age=0, must-revalidate",
-        "content-disposition": "inline",
-        "content-length": "44415",
+        "content-length": "44220",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:03 GMT",
-        "etag": "\"0bd0c38231ea61712ce8f4c86b3ee778\"",
+        "date": "Sun, 19 Oct 2025 12:53:50 GMT",
+        "etag": "\"16xnmeulcjpy3b\"",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
-        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url",
         "x-matched-path": "/areas",
-        "x-vercel-cache": "PRERENDER",
-        "x-vercel-id": "lhr1::kkdpt-1760874603533-3b5fed1b67b8"
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "lhr1::iad1::5h98j-1760878532515-170e9d7e11fa"
       },
       "success": true
     },
@@ -99,21 +90,18 @@
       "fullUrl": "https://www.thebestinlondon.co.uk/cuisines",
       "status": 200,
       "headers": {
-        "accept-ranges": "bytes",
-        "access-control-allow-origin": "*",
-        "age": "0",
+        "age": "602",
         "cache-control": "public, max-age=0, must-revalidate",
-        "content-disposition": "inline",
-        "content-length": "50164",
+        "content-length": "49984",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:04 GMT",
-        "etag": "\"8b7c89a41e359e4c83a4acac77358ddc\"",
+        "date": "Sun, 19 Oct 2025 12:45:29 GMT",
+        "etag": "\"k3liitoalr12jf\"",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
-        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url",
         "x-matched-path": "/cuisines",
-        "x-vercel-cache": "PRERENDER",
-        "x-vercel-id": "lhr1::7r868-1760874603842-1ee5237a1351"
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "lhr1::iad1::fkmn2-1760878532672-9948bd5992f6"
       },
       "success": true
     },
@@ -124,44 +112,41 @@
       "headers": {
         "accept-ranges": "bytes",
         "access-control-allow-origin": "*",
-        "age": "0",
+        "age": "3928",
         "cache-control": "public, max-age=0, must-revalidate",
         "content-disposition": "inline; filename=\"404\"",
         "content-length": "9697",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:04 GMT",
+        "date": "Sun, 19 Oct 2025 12:55:32 GMT",
         "etag": "\"95082cab038c43c6f18cf0a49f1e31f8\"",
         "last-modified": "Sun, 19 Oct 2025 11:50:04 GMT",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
         "x-matched-path": "/404",
         "x-vercel-cache": "HIT",
-        "x-vercel-id": "lhr1::n2qqj-1760874604123-24594cf2ae4e"
+        "x-vercel-id": "lhr1::266c4-1760878532703-f8b53ed91cc3"
       },
       "success": false
     },
     {
-      "url": "/cuisines/italian",
-      "fullUrl": "https://www.thebestinlondon.co.uk/cuisines/italian",
-      "status": 404,
+      "url": "/italian",
+      "fullUrl": "https://www.thebestinlondon.co.uk/italian",
+      "status": 200,
       "headers": {
-        "accept-ranges": "bytes",
-        "access-control-allow-origin": "*",
-        "age": "0",
+        "age": "101",
         "cache-control": "public, max-age=0, must-revalidate",
-        "content-disposition": "inline; filename=\"404\"",
-        "content-length": "9697",
+        "content-length": "354621",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:04 GMT",
-        "etag": "\"95082cab038c43c6f18cf0a49f1e31f8\"",
-        "last-modified": "Sun, 19 Oct 2025 11:50:04 GMT",
+        "date": "Sun, 19 Oct 2025 12:53:51 GMT",
+        "etag": "\"11xo5e4pjpi7j5t\"",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
-        "x-matched-path": "/404",
+        "x-matched-path": "/italian",
+        "x-powered-by": "Next.js",
         "x-vercel-cache": "HIT",
-        "x-vercel-id": "lhr1::24fc9-1760874604263-f73751d6fb8d"
+        "x-vercel-id": "lhr1::iad1::lr6tk-1760878532733-575a63168f39"
       },
-      "success": false
+      "success": true
     },
     {
       "url": "/restaurant/dishoom-covent-garden-OZ6OHOJw",
@@ -170,41 +155,44 @@
       "headers": {
         "accept-ranges": "bytes",
         "access-control-allow-origin": "*",
-        "age": "0",
+        "age": "3928",
         "cache-control": "public, max-age=0, must-revalidate",
         "content-disposition": "inline",
         "content-length": "72170",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:04 GMT",
+        "date": "Sun, 19 Oct 2025 12:55:32 GMT",
         "etag": "\"e8f57610346185f0f3b0f75f58f4fb22\"",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
         "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url",
         "x-matched-path": "/restaurant/dishoom-covent-garden-OZ6OHOJw",
-        "x-vercel-cache": "PRERENDER",
-        "x-vercel-id": "lhr1::7r868-1760874604295-f25194eace18"
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "lhr1::j5464-1760878532767-68cfee9147f6"
       },
       "success": true
     },
     {
-      "url": "/restaurant/halal-street-kitchen",
-      "fullUrl": "https://www.thebestinlondon.co.uk/restaurant/halal-street-kitchen",
-      "status": 404,
+      "url": "/restaurant/halal-street-kitchen-5e3zUyL0",
+      "fullUrl": "https://www.thebestinlondon.co.uk/restaurant/halal-street-kitchen-5e3zUyL0",
+      "status": 200,
       "headers": {
-        "age": "0",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "101",
         "cache-control": "public, max-age=0, must-revalidate",
-        "content-length": "9697",
+        "content-disposition": "inline",
+        "content-length": "75670",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 19 Oct 2025 11:50:05 GMT",
-        "etag": "\"zxbkx1rn0q7g3\"",
+        "date": "Sun, 19 Oct 2025 12:55:32 GMT",
+        "etag": "\"aae59bf35b8b367be86ed3b0e5e86e89\"",
         "server": "Vercel",
         "strict-transport-security": "max-age=63072000",
-        "x-matched-path": "/restaurant/[slug]",
-        "x-powered-by": "Next.js",
-        "x-vercel-cache": "MISS",
-        "x-vercel-id": "lhr1::iad1::gwxdx-1760874604611-538b11b3caaa"
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url",
+        "x-matched-path": "/restaurant/halal-street-kitchen-5e3zUyL0",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "lhr1::fc8gz-1760878532798-e6d7679bf611"
       },
-      "success": false
+      "success": true
     }
   ],
   "contentChecks": [
@@ -214,7 +202,7 @@
       "hasLocalImages": false,
       "hasOGImage": true,
       "hasBreadcrumbs": false,
-      "contentLength": 158502
+      "contentLength": 158292
     },
     {
       "url": "/areas/whitechapel",
@@ -235,8 +223,8 @@
   ],
   "summary": {
     "totalUrls": 9,
-    "successfulUrls": 6,
-    "failedUrls": 3,
+    "successfulUrls": 8,
+    "failedUrls": 1,
     "pagesWithLocalImages": 0,
     "pagesWithSEOImages": 1,
     "pagesWithBreadcrumbs": 0

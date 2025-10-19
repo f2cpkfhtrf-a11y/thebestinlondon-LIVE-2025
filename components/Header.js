@@ -206,23 +206,85 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center space-x-6">
-            <Link href="/" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link 
+              href="/" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname === '/' 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
               Home
             </Link>
-            <Link href="/restaurants" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link 
+              href="/restaurants" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname.startsWith('/restaurants') 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
               Restaurants
             </Link>
-            <Link href="/areas" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link 
+              href="/areas" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname.startsWith('/areas') 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
               Areas
             </Link>
-            <Link href="/cuisines" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link 
+              href="/cuisines" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname.startsWith('/cuisines') 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
               Cuisines
             </Link>
-            <Link href="/best-halal-restaurants-london" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link 
+              href="/best-halal-restaurants-london" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname.includes('halal') 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
               Halal
             </Link>
-            <Link href="/near-me" className="text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300">
+            <Link 
+              href="/near-me" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname.startsWith('/near-me') || router.pathname.startsWith('/nearby')
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
               Near Me
+            </Link>
+            <Link 
+              href="/about" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname === '/about' 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
+              About
+            </Link>
+            <Link 
+              href="/contact" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname === '/contact' 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
+              Contact
             </Link>
             
             {/* Search Input */}

@@ -28762,12 +28762,12 @@
     },
     {
       "path": "reports/files_audit.json",
-      "sizeKB": 1034,
-      "lines": 33349,
+      "sizeKB": 1048,
+      "lines": 33897,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 33349,
-      "lastModified": "2025-10-19T12:33:01.322Z",
+      "complexityScore": 33897,
+      "lastModified": "2025-10-19T12:49:19.666Z",
       "type": "json"
     },
     {
@@ -28822,12 +28822,12 @@
     },
     {
       "path": "reports/image_reference_audit.json",
-      "sizeKB": 38,
-      "lines": 385,
+      "sizeKB": 40,
+      "lines": 436,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 385,
-      "lastModified": "2025-10-19T12:33:01.323Z",
+      "complexityScore": 436,
+      "lastModified": "2025-10-19T12:49:19.667Z",
       "type": "json"
     },
     {
@@ -28867,7 +28867,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 7,
-      "lastModified": "2025-10-19T11:30:36.645Z",
+      "lastModified": "2025-10-19T12:49:20.375Z",
       "type": "json"
     },
     {
@@ -28922,12 +28922,12 @@
     },
     {
       "path": "reports/post_deploy_verification.json",
-      "sizeKB": 9,
-      "lines": 244,
+      "sizeKB": 8,
+      "lines": 232,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 244,
-      "lastModified": "2025-10-19T11:50:05.791Z",
+      "complexityScore": 232,
+      "lastModified": "2025-10-19T12:55:32.856Z",
       "type": "json"
     },
     {
@@ -28987,7 +28987,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 1124,
-      "lastModified": "2025-10-19T12:41:08.780Z",
+      "lastModified": "2025-10-19T12:49:20.047Z",
       "type": "json"
     },
     {
@@ -29358,6 +29358,16 @@
       "exportCount": 0,
       "complexityScore": 315,
       "lastModified": "2025-10-19T11:38:36.903Z",
+      "type": "ts"
+    },
+    {
+      "path": "scripts/auditSEO.ts",
+      "sizeKB": 8,
+      "lines": 264,
+      "importCount": 3,
+      "exportCount": 0,
+      "complexityScore": 267,
+      "lastModified": "2025-10-19T13:04:32.654Z",
       "type": "ts"
     },
     {
@@ -31287,6 +31297,7 @@
     "scripts/auditImages.js",
     "scripts/auditImagesComprehensive.js",
     "scripts/auditRoutes.ts",
+    "scripts/auditSEO.ts",
     "scripts/auditTiles.ts",
     "scripts/auto-fsa-repair.js",
     "scripts/auto-refresh-pipeline.js",
@@ -33680,6 +33691,7 @@
     "scripts/auditImages.js",
     "scripts/auditImagesComprehensive.js",
     "scripts/auditRoutes.ts",
+    "scripts/auditSEO.ts",
     "scripts/auditTiles.ts",
     "scripts/auto-fsa-repair.js",
     "scripts/auto-refresh-pipeline.js",
