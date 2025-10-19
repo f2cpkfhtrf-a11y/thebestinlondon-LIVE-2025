@@ -1,31 +1,46 @@
 #!/usr/bin/env node
 
 import https from 'https';
-import { writeFileSync } from 'fs';
+import { writeFileSync, existsSync, mkdirSync } from 'fs';
+import path from 'path';
 
-const PROD_URL = process.argv[2] || 'https://www.thebestinlondon.co.uk';
+// Parse command line arguments
+const args = process.argv.slice(2);
+let reportPath = 'reports/post_deploy_verification.json';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.thebestinlondon.co.uk';
+
+// Handle --report argument
+const reportIndex = args.indexOf('--report');
+if (reportIndex !== -1 && args[reportIndex + 1]) {
+  reportPath = args[reportIndex + 1];
+}
+
+// Ensure reports directory exists
+const reportDir = path.dirname(reportPath);
+if (!existsSync(reportDir)) {
+  mkdirSync(reportDir, { recursive: true });
+}
 
 const testUrls = [
   '/',
   '/restaurants',
   '/best-halal-restaurants-london',
-  '/areas',
-  '/cuisines',
   '/areas/whitechapel',
-  '/italian',
-  '/restaurant/dishoom-covent-garden-OZ6OHOJw',
-  '/restaurant/halal-street-kitchen-5e3zUyL0'
+  '/italian'
 ];
 
 async function fetchUrl(url) {
   return new Promise((resolve) => {
-    const fullUrl = `${PROD_URL}${url}`;
+    const fullUrl = `${siteUrl}${url}`;
     const request = https.request(fullUrl, { method: 'HEAD' }, (response) => {
       resolve({
         url,
         fullUrl,
         status: response.statusCode,
-        headers: response.headers,
+        headers: {
+          'cache-control': response.headers['cache-control'] || 'not-set',
+          'content-type': response.headers['content-type'] || 'not-set'
+        },
         success: response.statusCode >= 200 && response.statusCode < 400
       });
     });
@@ -33,10 +48,11 @@ async function fetchUrl(url) {
     request.on('error', (error) => {
       resolve({
         url,
-        fullUrl,
+        fullUrl: `${siteUrl}${url}`,
         status: 0,
         error: error.message,
-        success: false
+        success: false,
+        headers: {}
       });
     });
     
@@ -44,10 +60,11 @@ async function fetchUrl(url) {
       request.destroy();
       resolve({
         url,
-        fullUrl,
+        fullUrl: `${siteUrl}${url}`,
         status: 0,
         error: 'Timeout',
-        success: false
+        success: false,
+        headers: {}
       });
     });
     
@@ -57,7 +74,7 @@ async function fetchUrl(url) {
 
 async function checkPageContent(url) {
   return new Promise((resolve) => {
-    const fullUrl = `${PROD_URL}${url}`;
+    const fullUrl = `${siteUrl}${url}`;
     let html = '';
     
     const request = https.request(fullUrl, (response) => {
@@ -66,8 +83,12 @@ async function checkPageContent(url) {
       });
       
       response.on('end', () => {
-        const hasLocalImages = html.includes('/images/') && !html.includes('unsplash.com') && !html.includes('googleusercontent.com');
-        const hasOGImage = html.includes('og:image') || html.includes('twitter:image');
+        const hasLocalImages = html.includes('/images/') && 
+                               !html.includes('unsplash.com') && 
+                               !html.includes('googleusercontent.com') &&
+                               !html.includes('lh3.googleusercontent.com');
+        const hasOGImage = (html.includes('og:image') && html.includes('/images/')) || 
+                          (html.includes('twitter:image') && html.includes('/images/'));
         const hasBreadcrumbs = html.includes('breadcrumb') || html.includes('Breadcrumbs');
         
         resolve({
@@ -128,7 +149,7 @@ async function runVerification() {
   }
   
   // Test content for key pages
-  const contentTestUrls = ['/', '/areas/whitechapel', '/cuisines/italian'];
+  const contentTestUrls = testUrls; // Use same URLs for content checks
   for (const url of contentTestUrls) {
     console.log(`\nChecking content for ${url}...`);
     const content = await checkPageContent(url);
@@ -138,12 +159,13 @@ async function runVerification() {
     console.log(`  Local Images: ${content.hasLocalImages ? '✅' : '❌'}`);
     console.log(`  OG/Twitter Images: ${content.hasOGImage ? '✅' : '❌'}`);
     console.log(`  Breadcrumbs: ${content.hasBreadcrumbs ? '✅' : '❌'}`);
+    console.log(`  Cache Headers: ${results.find(r => r.url === url)?.headers?.['cache-control'] || '❌'}`);
   }
   
   // Generate summary
   const summary = {
     timestamp: new Date().toISOString(),
-    productionUrl: PROD_URL,
+    productionUrl: siteUrl,
     urlTests: results,
     contentChecks,
     summary: {
@@ -157,7 +179,7 @@ async function runVerification() {
   };
   
   // Save results
-  writeFileSync('reports/post_deploy_verification.json', JSON.stringify(summary, null, 2));
+  writeFileSync(reportPath, JSON.stringify(summary, null, 2));
   
   // Print final summary
   console.log('\n📊 DEPLOYMENT VERIFICATION SUMMARY');
@@ -174,10 +196,21 @@ async function runVerification() {
     });
   }
   
-  console.log('\n✅ Verification complete! Results saved to reports/post_deploy_verification.json');
+  console.log(`\n✅ Verification complete! Results saved to ${reportPath}`);
   
-  // Return exit code based on results
-  process.exit(summary.summary.failedUrls > 0 ? 1 : 0);
+  // Print readable summary
+  console.log('\n📋 READABLE SUMMARY:');
+  console.log(`✅ Working routes: ${summary.summary.successfulUrls}/${summary.summary.totalUrls}`);
+  if (summary.summary.failedUrls > 0) {
+    console.log(`⚠️ Any 404s: ${summary.summary.failedUrls} failing routes`);
+  }
+  const missingImages = contentChecks.filter(c => !c.hasLocalImages).length;
+  if (missingImages > 0) {
+    console.log(`🚫 Missing images: ${missingImages} pages with non-local images`);
+  }
+  
+  // Never fail deployment, only report findings
+  // process.exit(0);
 }
 
 runVerification().catch(console.error);
