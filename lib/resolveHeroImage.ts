@@ -161,12 +161,12 @@ interface Venue {
   name?: string;
 }
 
-export async function resolveCardImage(opts: { 
+export function resolveCardImageSync(opts: { 
   venue?: Venue; 
   cuisineSlug?: string; 
   areaSlug?: string;
   type?: "tile-area" | "tile-cuisine";
-}): Promise<string> {
+}): string {
   const { venue, type, areaSlug, cuisineSlug } = opts;
   
   // Handle tile types using the maps
@@ -219,6 +219,15 @@ export async function resolveCardImage(opts: {
   return defaultCardPath;
 }
 
+export async function resolveCardImage(opts: { 
+  venue?: Venue; 
+  cuisineSlug?: string; 
+  areaSlug?: string;
+  type?: "tile-area" | "tile-cuisine";
+}): Promise<string> {
+  return resolveCardImageSync(opts);
+}
+
 // Helper functions for area and cuisine images
 export function resolveAreaImage(areaSlug: string): string {
   const path = areaImageMap[areaSlug] || "/images/heroes/site/default-area.webp";
@@ -227,7 +236,13 @@ export function resolveAreaImage(areaSlug: string): string {
 }
 
 export function resolveCuisineImage(cuisineSlug: string): string {
-  const path = cuisineImageMap[cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
+  // Fallback chain for cuisine tiles: cuisine-specific → cuisine hero → site default
+  const path = cuisineImageMap[cuisineSlug] || 
+               safe(`/images/cuisines/${cuisineSlug}-tile.webp`) ||
+               safe(`/images/heroes/cuisines/${cuisineSlug}.webp`) ||
+               safe(`/images/cuisines/${cuisineSlug}-hero.webp`) ||
+               fallbacks.cuisines ||
+               "/images/heroes/site/default-cuisine.webp";
   assertLocalImage(path);
   return path;
 }

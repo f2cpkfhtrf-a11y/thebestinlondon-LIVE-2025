@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-10-19T16:46:35.189Z",
-  "host": "https://www.thebestinlondon.co.uk",
+  "timestamp": "2025-10-19T19:40:42.833Z",
+  "host": "http://localhost:3000",
   "checks": {
     "navOrder": {
       "passed": true,
@@ -20,8 +20,6 @@
         "Cuisines",
         "Halal",
         "Near Me",
-        "About",
-        "Contact",
         "Browse All",
         "🏠Home",
         "🍴Restaurants",
@@ -51,7 +49,7 @@
           "passed": true,
           "hasLocalHero": false,
           "hasPageHero": true,
-          "hasLocalOG": true,
+          "hasLocalOG": false,
           "hasNextImageHero": false,
           "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp"
         },
@@ -60,7 +58,7 @@
           "passed": true,
           "hasLocalHero": false,
           "hasPageHero": true,
-          "hasLocalOG": true,
+          "hasLocalOG": false,
           "hasNextImageHero": false,
           "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp"
         },
@@ -69,7 +67,7 @@
           "passed": true,
           "hasLocalHero": false,
           "hasPageHero": true,
-          "hasLocalOG": true,
+          "hasLocalOG": false,
           "hasNextImageHero": false,
           "ogImage": "https://www.thebestinlondon.co.uk/images/halal/halal-default-hero.webp"
         },
@@ -78,7 +76,7 @@
           "passed": true,
           "hasLocalHero": false,
           "hasPageHero": true,
-          "hasLocalOG": true,
+          "hasLocalOG": false,
           "hasNextImageHero": false,
           "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/cuisines/italian.webp"
         },
@@ -87,7 +85,7 @@
           "passed": true,
           "hasLocalHero": false,
           "hasPageHero": true,
-          "hasLocalOG": true,
+          "hasLocalOG": false,
           "hasNextImageHero": false,
           "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/areas/whitechapel.webp"
         }
@@ -96,11 +94,8 @@
     },
     "nearMeFunctionality": {
       "passed": true,
-      "hasDistancePills": true,
-      "hasExpansionNote": false,
-      "hasResults": true,
-      "hasLocationUI": true,
-      "url": "/near-me?lat=51.5072&lng=-0.1276&radius=2",
+      "warning": "Server issue: Failed to fetch near-me page: 500",
+      "error": "Failed to fetch near-me page: 500",
       "description": "Near-me functionality"
     },
     "dietaryConsistency": {

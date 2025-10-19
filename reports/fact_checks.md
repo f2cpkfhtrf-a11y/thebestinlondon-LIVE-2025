@@ -1,7 +1,7 @@
 # Fact Check Report
 
-**Generated:** 10/19/2025, 5:46:35 PM
-**Host:** https://www.thebestinlondon.co.uk
+**Generated:** 10/19/2025, 8:40:42 PM
+**Host:** http://localhost:3000
 **Status:** ✅ All Passed
 
 ## Summary
@@ -21,11 +21,11 @@
 **Result:** Passed
 
 **Details:**
-- {"url":"/","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":true,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp"}
-- {"url":"/restaurants","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":true,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp"}
-- {"url":"/best-halal-restaurants-london","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":true,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/halal/halal-default-hero.webp"}
-- {"url":"/italian","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":true,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/heroes/cuisines/italian.webp"}
-- {"url":"/areas/whitechapel","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":true,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/heroes/areas/whitechapel.webp"}
+- {"url":"/","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":false,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp"}
+- {"url":"/restaurants","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":false,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp"}
+- {"url":"/best-halal-restaurants-london","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":false,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/halal/halal-default-hero.webp"}
+- {"url":"/italian","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":false,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/heroes/cuisines/italian.webp"}
+- {"url":"/areas/whitechapel","passed":true,"hasLocalHero":false,"hasPageHero":true,"hasLocalOG":false,"hasNextImageHero":false,"ogImage":"https://www.thebestinlondon.co.uk/images/heroes/areas/whitechapel.webp"}
 
 ### ✅ Near-me functionality
 

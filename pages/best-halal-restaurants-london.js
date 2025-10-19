@@ -7,7 +7,7 @@ import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
 import ImageWithFallback from '../components/ImageWithFallback';
-import { resolveHeroImage } from '../lib/resolveHeroImage';
+import { resolveHeroImage, resolveCardImageSync } from '../lib/resolveHeroImage';
 import { theme } from '../utils/theme';
 import { enhanceVenueData, filterByDietary, sortVenues } from '../utils/venueData';
 import { isHalalVenue } from '../utils/halalStations';
@@ -80,7 +80,7 @@ export default function BestHalalRestaurantsLondon({ venues, stats, lastUpdated 
   const [itemsPerPage] = useState(20); // Limit items per page for better performance
   
   // Get hero image for halal restaurants page
-  const hero = resolveHeroImage({ type: "halal", scope: "list" });
+  const hero = resolveHeroImage({ type: "list-halal" });
 
   const filtered = useMemo(() => {
     let result = venues;
@@ -267,23 +267,19 @@ export default function BestHalalRestaurantsLondon({ venues, stats, lastUpdated 
           <section className="py-16">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {paginatedData.data.map((venue) => (
+                {paginatedData.data.map((venue) => {
+                  const venueCardImage = resolveCardImageSync({ venue });
+                  return (
                   <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                     <div className="card overflow-hidden h-full group-hover:border-gold transition-all duration-300">
                       <div className="relative h-48">
-                        {venue.image_card_path || venue.image_url || (venue.photos && venue.photos[0]) ? (
-                          <ImageWithFallback
-                            src={venue.image_card_path || venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
-                            alt={venue.image_alt || `${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
-                            fill
-                            className="object-cover group-hover:scale-105 transition-transform duration-300"
-                            priority={paginatedData.data.indexOf(venue) < 6} // Priority for first 6 images
-                          />
-                        ) : (
-                          <div className="w-full h-full bg-grey-dark flex items-center justify-center">
-                            <span className="text-grey text-sm">No Image</span>
-                          </div>
-                        )}
+                        <ImageWithFallback
+                          src={venueCardImage}
+                          alt={venue.image_alt || `${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-300"
+                          priority={paginatedData.data.indexOf(venue) < 6} // Priority for first 6 images
+                        />
                         
                         <div className="absolute top-4 right-4">
                     <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
@@ -332,7 +328,8 @@ export default function BestHalalRestaurantsLondon({ venues, stats, lastUpdated 
                       </div>
                     </div>
                   </Link>
-                ))}
+                  );
+                })}
               </div>
               
               {/* Pagination Controls */}

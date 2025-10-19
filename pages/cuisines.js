@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
-import { resolveCuisineImage } from '../lib/resolveHeroImage';
+import { resolveCuisineImage, resolveHeroImage } from '../lib/resolveHeroImage';
 import { getLiveStats } from '../lib/siteStats';
 import ImageTile from '../components/tiles/ImageTile';
 
@@ -62,6 +62,9 @@ export async function getStaticProps() {
 export default function Cuisines({ cuisines, stats }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredCuisines, setFilteredCuisines] = useState(cuisines);
+  
+  // Get hero image for cuisines page
+  const hero = resolveHeroImage({ type: "list-all" });
 
   useEffect(() => {
     if (searchQuery.trim()) {
@@ -87,11 +90,13 @@ export default function Cuisines({ cuisines, stats }) {
         <meta property="og:description" content={`Explore ${cuisines.length} different cuisines across London. From Indian to Italian, discover the best restaurants for every taste.`} />
         <meta property="og:url" content="https://www.thebestinlondon.co.uk/cuisines" />
         <meta property="og:type" content="website" />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Cuisines | The Best in London" />
         <meta name="twitter:description" content={`Explore ${cuisines.length} different cuisines across London. From Indian to Italian, discover the best restaurants for every taste.`} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
       </Head>
 
       <Header />
