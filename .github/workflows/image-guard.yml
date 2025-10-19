@@ -1,0 +1,15 @@
+name: image-guard
+on: [pull_request]
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Block external/Unsplash URLs
+        run: |
+          ! grep -R -E 'images\.unsplash\.com|http(s)?://(?!www\.thebestinlondon\.co\.uk|localhost)' public/venues.json || \
+          (echo "❌ External/Unsplash URLs detected" && exit 1)
+      - name: Check small images
+        run: |
+          find public/images/restaurants -type f -name '*.webp' -size -50k -print -quit | \
+          (! read) || (echo "❌ Found .webp under 50KB" && exit 1)

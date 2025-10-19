@@ -1,0 +1,42 @@
+name: nightly-image-refresh
+on:
+  schedule:
+    - cron: "30 1 * * 0"  # Sundays 01:30 UTC
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+      PIPELINE_BUDGET_USD: "6.00"
+      PIPELINE_CONCURRENCY: "4"
+      PIPELINE_MAX_CALLS_PER_MIN: "40"
+      PIPELINE_MIN_FILE_KB: "50"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with: 
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - name: Validate existing images
+        run: npm run images:validate
+      - name: List missing/stale images
+        run: npm run images:list-missing || true
+      - name: Fetch only what's needed (budget-capped)
+        run: npm run images:fix-failed
+      - name: Revalidate + report
+        run: |
+          npm run images:validate
+          npm run images:report
+      - name: Commit updates if any
+        run: |
+          git config user.name "bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/images public/venues.json reports || true
+          git diff --cached --quiet || git commit -m "Nightly image refresh"
+      - name: Push changes
+        run: git push || true
