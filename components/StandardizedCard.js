@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import ImageWithFallback from './ImageWithFallback';
 import { assertLocalImage } from '../lib/assertLocalImage';
 
@@ -27,25 +27,37 @@ const StandardizedCard = ({
     dietary_tags
   } = venue;
   
-  // Get the best available image - prioritize local paths
+  // Get the best available image using the same resolver chain as PageHero
   const getImageUrl = () => {
-    // Prioritize local image path first
+    // Primary: Use provided venue card path if available
     if (image_card_path && !image_card_path.includes('placeholder')) {
       const localPath = image_card_path.replace('/public', '');
       assertLocalImage(localPath);
       return localPath;
     }
-    // Use photos array if available (but these are external Google Places URLs)
-    if (photos && photos[0] && photos[0].url) {
-      // Only use if no local path available - though ideally should be replaced
-      return photos[0].url;
+    
+    // Secondary: Try venue-specific card (this would be resolved at build time ideally)
+    const venueSlug = venue.slug || venue.name?.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    if (venueSlug) {
+      const venueCardPath = `/images/restaurants/${venueSlug}/${venueSlug}-card.webp`;
+      // Note: We can't check file existence client-side, but this path will work if the file exists
+      return venueCardPath;
     }
-    // Fall back to original image URL if it exists and is local
-    if (image_url && !image_url.includes('PLACEHOLDER') && !image_url.startsWith('http')) {
-      assertLocalImage(image_url);
-      return image_url.replace('/public', '');
+    
+    // Tertiary: Try cuisine-based card/hero fallback
+    if (cuisines && cuisines[0]) {
+      const cuisineSlug = cuisines[0].toLowerCase().replace(/[^a-z0-9]/g, '-');
+      return `/images/cuisines/${cuisineSlug}-card.webp`;
     }
-    return null;
+    
+    // Quaternary: Try area-based fallback
+    if (area || borough) {
+      const areaSlug = (area || borough).toLowerCase().replace(/[^a-z0-9]/g, '-');
+      return `/images/areas/${areaSlug}-card.webp`;
+    }
+    
+    // Fallback to default card
+    return "/images/heroes/site/default-card.webp";
   };
   
   const imageUrl = getImageUrl();
@@ -63,16 +75,42 @@ const StandardizedCard = ({
             loading="lazy"
             decoding="async"
             onError={(e) => {
-              e.target.style.display = 'none';
-              const fallbackDiv = document.createElement('div');
-              fallbackDiv.className = 'w-full h-full bg-gradient-to-br from-gold/20 to-black flex items-center justify-center';
-              fallbackDiv.innerHTML = `
-                <div class="text-center text-gold/60">
-                  <div class="text-4xl mb-2">🍽️</div>
-                  <div class="text-sm">${cuisines?.[0] || 'Restaurant'}</div>
-                </div>
-              `;
-              e.target.parentElement.appendChild(fallbackDiv);
+              // Try fallback chain: cuisine default → site default
+              const currentSrc = e.target.src;
+              const fallbacks = [];
+              
+              // Try cuisine fallback
+              if (cuisines && cuisines[0]) {
+                const cuisineSlug = cuisines[0].toLowerCase().replace(/[^a-z0-9]/g, '-');
+                fallbacks.push(`/images/heroes/cuisines/${cuisineSlug}.webp`);
+              }
+              
+              // Try area fallback
+              if (area || borough) {
+                const areaSlug = (area || borough).toLowerCase().replace(/[^a-z0-9]/g, '-');
+                fallbacks.push(`/images/heroes/areas/${areaSlug}.webp`);
+              }
+              
+              // Final fallback
+              fallbacks.push('/images/heroes/site/default-list-hero.webp');
+              
+              const nextFallback = fallbacks.find(fallback => !currentSrc.includes(fallback.split('/').pop()));
+              
+              if (nextFallback && nextFallback !== currentSrc) {
+                e.target.src = nextFallback;
+              } else {
+                // Show cuisine icon fallback
+                e.target.style.display = 'none';
+                const fallbackDiv = document.createElement('div');
+                fallbackDiv.className = 'w-full h-full bg-gradient-to-br from-gold/20 to-black flex items-center justify-center';
+                fallbackDiv.innerHTML = `
+                  <div class="text-center text-gold/60">
+                    <div class="text-4xl mb-2">🍽️</div>
+                    <div class="text-sm">${cuisines?.[0] || 'Restaurant'}</div>
+                  </div>
+                `;
+                e.target.parentElement.appendChild(fallbackDiv);
+              }
             }}
           />
         ) : (

@@ -78,3 +78,60 @@ export function resolveHeroImage(ctx: {
     alt: `Hero image for ${ctx.cuisineSlug || ctx.areaSlug || ctx.venue?.name || "The Best in London"}`,
   };
 }
+
+interface Venue {
+  image_card_path?: string;
+  cuisines?: string[];
+  area?: string;
+  borough?: string;
+  slug?: string;
+  name?: string;
+}
+
+export async function resolveCardImage(opts: { 
+  venue?: Venue; 
+  cuisineSlug?: string; 
+  areaSlug?: string; 
+}): Promise<string> {
+  const { venue } = opts;
+  
+  // Mirror the PageHero chain for card images (client-side safe)
+  if (venue) {
+    // Primary: Use provided venue card path if available
+    if (venue.image_card_path && !venue.image_card_path.includes('placeholder')) {
+      const cardPath = venue.image_card_path.replace('/public', '');
+      assertLocalImage(cardPath);
+      return cardPath;
+    }
+    
+    // Secondary: Try venue-specific card
+    const venueSlug = venue.slug || venue.name?.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    if (venueSlug) {
+      const venueCardPath = `/images/restaurants/${venueSlug}/${venueSlug}-card.webp`;
+      assertLocalImage(venueCardPath);
+      return venueCardPath;
+    }
+    
+    // Tertiary: Try cuisine-based card/hero fallback
+    if (venue.cuisines && venue.cuisines[0]) {
+      const cuisineSlug = venue.cuisines[0].toLowerCase().replace(/[^a-z0-9]/g, '-');
+      const cuisineCardPath = `/images/cuisines/${cuisineSlug}-card.webp`;
+      // Note: We don't check existence client-side, but this will fallback gracefully
+      assertLocalImage(cuisineCardPath);
+      return cuisineCardPath;
+    }
+    
+    // Quaternary: Try area-based fallback
+    if (venue.area || venue.borough) {
+      const areaSlug = (venue.area || venue.borough).toLowerCase().replace(/[^a-z0-9]/g, '-');
+      const areaCardPath = `/images/areas/${areaSlug}-card.webp`;
+      assertLocalImage(areaCardPath);
+      return areaCardPath;
+    }
+  }
+  
+  // Final fallbacks
+  const defaultCardPath = "/images/heroes/site/default-card.webp";
+  assertLocalImage(defaultCardPath);
+  return defaultCardPath;
+}
