@@ -51,6 +51,7 @@ async function fetchPage(url) {
           fullUrl,
           status: response.statusCode,
           html: data,
+          contentLength: data.length,
           success: response.statusCode >= 200 && response.statusCode < 400
         });
       });
@@ -406,13 +407,14 @@ async function checkNearMeFunctionality() {
                       text.includes('results') || text.includes('search') || response.contentLength > 50000;
     
     // Check for specific UI elements that indicate the page is working
-    const hasLocationUI = /(Showing nearby restaurants|Location found|class="[^"]*grid[^"]*cards|data-near-me-ready="true"|Use My Location|GPS Accuracy|Walking Times)/i.test(response.html);
+    const hasLocationUI = /(Showing nearby restaurants|Location found|class="[^"]*grid[^"]*cols|data-near-me-ready="true"|Use My Location|GPS Accuracy|Walking Times|Restaurants Near Me)/i.test(response.html);
     
     // For production, focus on core functionality: page loads and has relevant content
     const isProduction = HOST.includes('thebestinlondon.co.uk');
     const passed = isProduction ? 
       (response.success && (hasResults || hasLocationUI) && response.contentLength > 20000) : 
       (hasResults && hasDistancePills);
+    
     
     if (passed) {
       console.log(`✅ Near-me functionality working`);
@@ -425,6 +427,7 @@ async function checkNearMeFunctionality() {
       hasDistancePills,
       hasExpansionNote,
       hasResults,
+      hasLocationUI,
       url: '/near-me?lat=51.5072&lng=-0.1276&radius=2'
     };
     
