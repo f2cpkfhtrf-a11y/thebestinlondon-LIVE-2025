@@ -10,6 +10,7 @@ import { TabContainer } from '../../components/HeroTabs';
 import PageHero from '../../components/PageHero';
 import { resolveHeroImage } from '../../lib/resolveHeroImage';
 import ImageWithFallback from '../../components/ImageWithFallback';
+import { isHalalVenue } from '../../utils/halalStations';
 
 export async function getStaticPaths() {
   const fs = require('fs');
@@ -73,7 +74,16 @@ export default function VenueDetailPage({ venue }) {
   }
   
   // Get hero image for venue detail page
-  const hero = resolveHeroImage({ type: "venue", venue });
+  // Check if venue is halal and use appropriate hero
+  const { isHalal } = isHalalVenue(venue);
+  const hero = isHalal && (!venue.image_hero_path || venue.image_hero_path.includes('placeholder')) 
+    ? resolveHeroImage({ 
+        type: "halal", 
+        scope: "venue", 
+        cuisineSlug: venue.cuisines?.[0]?.toLowerCase().replace(/[^a-z0-9]/g, '-'),
+        areaSlug: (venue.area || venue.borough)?.toLowerCase().replace(/[^a-z0-9]/g, '-')
+      })
+    : resolveHeroImage({ type: "venue", venue });
   
   // JSON-LD structured data
   const jsonLd = {

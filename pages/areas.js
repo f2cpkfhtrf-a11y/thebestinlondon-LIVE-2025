@@ -6,7 +6,8 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
-import { resolveHeroImage } from '../lib/resolveHeroImage';
+import { resolveHeroImage, resolveAreaImage } from '../lib/resolveHeroImage';
+import ImageTile from '../components/tiles/ImageTile';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -140,22 +141,19 @@ export default function Areas({ areas, totalVenues }) {
             </div>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {filteredAreas.map((area) => (
-                <Link 
-                  key={area.slug} 
-                  href={`/restaurants-${area.slug}`}
-                  className="group"
-                >
-                  <div className="card p-6 text-center hover:border-gold transition-all duration-300 h-full">
-                    <h3 className="font-serif font-semibold text-white text-lg mb-2 group-hover:text-gold transition-colors duration-300">
-                      {area.name}
-                    </h3>
-                    <p className="text-grey text-sm">
-                      {area.count} restaurants
-                    </p>
-                  </div>
-                </Link>
-              ))}
+              {filteredAreas.map((area) => {
+                const imageSrc = resolveAreaImage(area.slug);
+                return (
+                  <ImageTile
+                    key={area.slug}
+                    title={area.name}
+                    subtitle={`${area.count} restaurants`}
+                    href={`/restaurants-${area.slug}`}
+                    src={imageSrc}
+                    alt={`Popular restaurants in ${area.name}`}
+                  />
+                );
+              })}
             </div>
           </div>
         </section>

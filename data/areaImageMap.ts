@@ -1,0 +1,33 @@
+const areaImageMap: Record<string, string> = {
+  "central-london": "/images/areas/central-london-hero.webp",
+  "tower-hamlets": "/images/areas/tower-hamlets-hero.webp",
+  "westminster": "/images/areas/westminster-hero.webp",
+  "camden": "/images/areas/camden-hero.webp",
+  "hackney": "/images/areas/hackney-hero.webp",
+  "islington": "/images/areas/islington-hero.webp",
+  "kensington-and-chelsea": "/images/areas/kensington-and-chelsea-hero.webp",
+  "lambeth": "/images/areas/lambeth-hero.webp",
+  "southwark": "/images/areas/southwark-hero.webp",
+  "soho": "/images/areas/soho-hero.webp",
+  "shoreditch": "/images/areas/shoreditch-hero.webp",
+  "covent-garden": "/images/areas/covent-garden-hero.webp",
+  "mayfair": "/images/areas/mayfair-hero.webp",
+  "marylebone": "/images/areas/marylebone-hero.webp",
+  "fitzrovia": "/images/areas/fitzrovia-hero.webp",
+  "holborn": "/images/areas/holborn-hero.webp",
+  "clerkenwell": "/images/areas/clerkenwell-hero.webp",
+  "whitechapel": "/images/areas/whitechapel-hero.webp",
+  "spitalfields": "/images/areas/spitalfields-hero.webp",
+  "brick-lane": "/images/areas/brick-lane-hero.webp",
+  "borough": "/images/areas/borough-hero.webp",
+  "london-bridge": "/images/areas/london-bridge-hero.webp",
+  "canary-wharf": "/images/areas/canary-wharf-hero.webp",
+  "greenwich": "/images/areas/greenwich-hero.webp",
+  "richmond": "/images/areas/richmond-hero.webp",
+  "wimbledon": "/images/areas/wimbledon-hero.webp",
+  "clapham": "/images/areas/clapham-hero.webp",
+  "brixton": "/images/areas/brixton-hero.webp",
+  "stratford": "/images/areas/stratford-hero.webp"
+};
+
+export default areaImageMap;

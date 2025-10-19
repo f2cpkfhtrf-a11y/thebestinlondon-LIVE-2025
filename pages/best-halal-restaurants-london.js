@@ -72,7 +72,7 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
   const [itemsPerPage] = useState(20); // Limit items per page for better performance
   
   // Get hero image for halal restaurants page
-  const hero = resolveHeroImage({ type: "list-halal" });
+  const hero = resolveHeroImage({ type: "halal", scope: "list" });
 
   const filtered = useMemo(() => {
     let result = venues;
