@@ -1,10 +1,13 @@
 import { assertLocalImage } from './assertLocalImage';
+import areaImageMap from '../data/areaImageMap';
+import cuisineImageMap from '../data/cuisineImageMap';
 
 export function resolveHeroImage(ctx: {
-  type: "home" | "list-cuisine" | "list-area" | "list-all" | "list-halal" | "search" | "venue";
+  type: "home" | "list-cuisine" | "list-area" | "list-all" | "list-halal" | "search" | "venue" | "tile-area" | "tile-cuisine" | "halal";
   cuisineSlug?: string;
   areaSlug?: string;
   venue?: any;
+  scope?: "list" | "venue" | "guideSection";
 }): { src: string; alt: string } {
   // Define known good image paths in order of preference
   // This avoids fs operations during client-side rendering
@@ -61,6 +64,28 @@ export function resolveHeroImage(ctx: {
   else if (ctx.type === "list-halal") {
     imageSrc = "/images/heroes/site/default-list-hero.webp";
   }
+  // Tile for areas
+  else if (ctx.type === "tile-area" && ctx.areaSlug) {
+    imageSrc = areaImageMap[ctx.areaSlug] || "/images/heroes/site/default-area.webp";
+  }
+  // Tile for cuisines
+  else if (ctx.type === "tile-cuisine" && ctx.cuisineSlug) {
+    imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
+  }
+  // Halal specific logic
+  else if (ctx.type === "halal") {
+    if (ctx.scope === "list") {
+      if (ctx.cuisineSlug) {
+        imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/halal/halal-default-hero.webp";
+      } else {
+        imageSrc = "/images/halal/halal-default-hero.webp";
+      }
+    } else if (ctx.scope === "venue" && ctx.cuisineSlug) {
+      imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/halal/halal-default-hero.webp";
+    } else {
+      imageSrc = "/images/halal/halal-default-hero.webp";
+    }
+  }
   // List pages (all restaurants, search)
   else if (ctx.type === "list-all" || ctx.type === "search") {
     imageSrc = "/images/heroes/site/default-list-hero.webp";
@@ -91,9 +116,18 @@ interface Venue {
 export async function resolveCardImage(opts: { 
   venue?: Venue; 
   cuisineSlug?: string; 
-  areaSlug?: string; 
+  areaSlug?: string;
+  type?: "tile-area" | "tile-cuisine";
 }): Promise<string> {
-  const { venue } = opts;
+  const { venue, type, areaSlug, cuisineSlug } = opts;
+  
+  // Handle tile types using the maps
+  if (type === "tile-area" && areaSlug) {
+    return resolveAreaImage(areaSlug);
+  }
+  if (type === "tile-cuisine" && cuisineSlug) {
+    return resolveCuisineImage(cuisineSlug);
+  }
   
   // Mirror the PageHero chain for card images (client-side safe)
   if (venue) {
@@ -134,4 +168,17 @@ export async function resolveCardImage(opts: {
   const defaultCardPath = "/images/heroes/site/default-card.webp";
   assertLocalImage(defaultCardPath);
   return defaultCardPath;
+}
+
+// Helper functions for area and cuisine images
+export function resolveAreaImage(areaSlug: string): string {
+  const path = areaImageMap[areaSlug] || "/images/heroes/site/default-area.webp";
+  assertLocalImage(path);
+  return path;
+}
+
+export function resolveCuisineImage(cuisineSlug: string): string {
+  const path = cuisineImageMap[cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
+  assertLocalImage(path);
+  return path;
 }

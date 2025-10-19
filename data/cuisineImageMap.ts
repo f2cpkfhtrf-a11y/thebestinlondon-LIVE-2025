@@ -1,0 +1,33 @@
+const cuisineImageMap: Record<string, string> = {
+  "british": "/images/cuisines/british-hero.webp",
+  "mediterranean": "/images/cuisines/mediterranean-hero.webp",
+  "modern-european": "/images/cuisines/modern-european-hero.webp",
+  "indian": "/images/cuisines/indian-hero.webp",
+  "turkish": "/images/cuisines/turkish-hero.webp",
+  "japanese": "/images/cuisines/japanese-hero.webp",
+  "italian": "/images/cuisines/italian-hero.webp",
+  "french": "/images/cuisines/french-hero.webp",
+  "thai": "/images/cuisines/thai-hero.webp",
+  "mexican": "/images/cuisines/mexican-hero.webp",
+  "korean": "/images/cuisines/korean-hero.webp",
+  "spanish": "/images/cuisines/spanish-hero.webp",
+  "chinese": "/images/cuisines/chinese-hero.webp",
+  "lebanese": "/images/cuisines/lebanese-hero.webp",
+  "pakistani": "/images/cuisines/pakistani-hero.webp",
+  "bangladeshi": "/images/cuisines/bangladeshi-hero.webp",
+  "iranian": "/images/cuisines/iranian-hero.webp",
+  "afghan": "/images/cuisines/afghan-hero.webp",
+  "middle-eastern": "/images/cuisines/middle-eastern-hero.webp",
+  "vegan": "/images/cuisines/vegan-hero.webp",
+  "vegetarian": "/images/cuisines/vegetarian-hero.webp",
+  "halal": "/images/cuisines/halal-hero.webp",
+  "steakhouse": "/images/cuisines/steakhouse-hero.webp",
+  "seafood": "/images/cuisines/seafood-hero.webp",
+  "pizza": "/images/cuisines/pizza-hero.webp",
+  "burgers": "/images/cuisines/burgers-hero.webp",
+  "cafe": "/images/cuisines/cafe-hero.webp",
+  "bakery": "/images/cuisines/bakery-hero.webp",
+  "desserts": "/images/cuisines/desserts-hero.webp"
+};
+
+export default cuisineImageMap;

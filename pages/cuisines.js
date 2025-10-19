@@ -5,6 +5,8 @@ import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
+import { resolveCuisineImage } from '../lib/resolveHeroImage';
+import ImageTile from '../components/tiles/ImageTile';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -131,39 +133,20 @@ export default function Cuisines({ cuisines, totalVenues }) {
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {filteredCuisines.map((cuisine) => (
-                <Link key={cuisine.slug} href={`/${cuisine.slug}`} className="group">
-                  <div className="card p-6 text-center group-hover:border-gold transition-all duration-300 h-full">
-                    <div className="mb-4">
-                      <div className="w-16 h-16 mx-auto bg-gradient-to-br from-gold to-gold-light rounded-full flex items-center justify-center mb-4">
-                        <span className="text-2xl">
-                          {cuisine.name === 'Indian' ? '🍛' :
-                           cuisine.name === 'Italian' ? '🍝' :
-                           cuisine.name === 'Chinese' ? '🥢' :
-                           cuisine.name === 'Japanese' ? '🍣' :
-                           cuisine.name === 'Thai' ? '🌶️' :
-                           cuisine.name === 'Turkish' ? '🥙' :
-                           cuisine.name === 'French' ? '🥐' :
-                           cuisine.name === 'Spanish' ? '🥘' :
-                           cuisine.name === 'Korean' ? '🍜' :
-                           cuisine.name === 'Mexican' ? '🌮' :
-                           cuisine.name === 'British' ? '🍽️' :
-                           cuisine.name === 'Mediterranean' ? '🫒' :
-                           cuisine.name === 'Vietnamese' ? '🍲' :
-                           cuisine.name === 'Caribbean' ? '🥥' :
-                           '🍴'}
-                        </span>
-                      </div>
-                    </div>
-                    <h3 className="text-xl font-serif font-semibold text-warmWhite mb-2 group-hover:text-gold transition-colors duration-300">
-                      {cuisine.name}
-                    </h3>
-                    <p className="text-grey text-sm">
-                      {cuisine.count} restaurant{cuisine.count !== 1 ? 's' : ''}
-                    </p>
-                  </div>
-                </Link>
-              ))}
+              {filteredCuisines.map((cuisine) => {
+                const cuisineSlug = cuisine.slug.replace('-restaurants-london', '');
+                const imageSrc = resolveCuisineImage(cuisineSlug);
+                return (
+                  <ImageTile
+                    key={cuisine.slug}
+                    title={cuisine.name}
+                    subtitle={`${cuisine.count} restaurant${cuisine.count !== 1 ? 's' : ''}`}
+                    href={`/${cuisine.slug}`}
+                    src={imageSrc}
+                    alt={`${cuisine.name} cuisine in London`}
+                  />
+                );
+              })}
             </div>
 
             {filteredCuisines.length === 0 && (

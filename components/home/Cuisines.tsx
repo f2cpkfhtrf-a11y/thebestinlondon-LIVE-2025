@@ -1,6 +1,6 @@
 import React from 'react';
-import Link from 'next/link';
-import Image from 'next/image';
+import ImageTile from '../tiles/ImageTile';
+import { resolveCuisineImage } from '../../lib/resolveHeroImage';
 
 interface CuisinesProps {
   popularCuisines: Array<{ cuisine: string; count: number }>;
@@ -9,7 +9,7 @@ interface CuisinesProps {
 export default function Cuisines({ popularCuisines }: CuisinesProps) {
   const getCuisineImageUrl = (cuisine: string) => {
     const slug = cuisine.toLowerCase().replace(/\s+/g, '-');
-    return `/images/heroes/cuisines/${slug}.webp`;
+    return resolveCuisineImage(slug);
   };
 
   const getCuisineSlug = (cuisine: string) => {
@@ -34,41 +34,14 @@ export default function Cuisines({ popularCuisines }: CuisinesProps) {
             const slug = getCuisineSlug(cuisine);
             
             return (
-              <Link 
+              <ImageTile
                 key={cuisine}
+                title={cuisine}
+                subtitle={`${count} restaurants`}
                 href={`/${slug}`}
-                className="group block"
-              >
-                <div className="relative overflow-hidden rounded-2xl shadow-lg border border-white/10 bg-neutral-900/70 backdrop-blur transition-all duration-300 group-hover:shadow-xl group-hover:border-gold/30">
-                  {/* Image */}
-                  <div className="relative aspect-[4/3] overflow-hidden">
-                    <Image
-                      src={imageUrl}
-                      alt={`${cuisine} restaurants in London`}
-                      fill
-                      className="object-cover transition-transform duration-500 group-hover:scale-105"
-                      loading="lazy"
-                      onError={(e) => {
-                        const target = e.target as HTMLImageElement;
-                        target.src = '/images/heroes/site/default-list-hero.webp';
-                      }}
-                    />
-                    
-                    {/* Gradient overlay */}
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
-                    
-                    {/* Content */}
-                    <div className="absolute inset-0 flex flex-col justify-end p-4">
-                      <h3 className="font-serif font-bold text-white text-lg mb-1 group-hover:text-gold transition-colors duration-300 capitalize">
-                        {cuisine}
-                      </h3>
-                      <p className="text-sm text-gray-300">
-                        {count} restaurants
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </Link>
+                src={imageUrl}
+                alt={`${cuisine} cuisine in London`}
+              />
             );
           })}
         </div>
