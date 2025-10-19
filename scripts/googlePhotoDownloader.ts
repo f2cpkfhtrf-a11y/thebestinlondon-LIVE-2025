@@ -7,6 +7,12 @@ import fetch from 'node-fetch';
 // Load environment variables
 require('dotenv').config();
 
+// Environment lockdown - prevent any external API calls
+if (process.env.IMAGE_PIPELINE_MODE === "local-only") {
+  console.log("🛑 Skipping external image fetch – local-only mode active.");
+  process.exit(0);
+}
+
 export function buildPhotoUrl(photoReference: string, apiKey: string, maxWidth = 1600): string {
   const params = new URLSearchParams({
     maxwidth: maxWidth.toString(),
