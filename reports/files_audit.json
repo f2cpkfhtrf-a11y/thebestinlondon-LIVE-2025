@@ -17113,11 +17113,11 @@
     {
       "path": "lib/resolveHeroImage.ts",
       "sizeKB": 9,
-      "lines": 246,
+      "lines": 248,
       "importCount": 4,
       "exportCount": 6,
-      "complexityScore": 250,
-      "lastModified": "2025-10-19T16:03:23.752Z",
+      "complexityScore": 252,
+      "lastModified": "2025-10-19T16:42:48.323Z",
       "type": "ts"
     },
     {
@@ -17183,11 +17183,11 @@
     {
       "path": "package.json",
       "sizeKB": 3,
-      "lines": 74,
+      "lines": 75,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 74,
-      "lastModified": "2025-10-19T16:21:04.452Z",
+      "complexityScore": 75,
+      "lastModified": "2025-10-19T16:43:48.491Z",
       "type": "json"
     },
     {
@@ -17493,11 +17493,11 @@
     {
       "path": "pages/restaurant/[slug].js",
       "sizeKB": 26,
-      "lines": 540,
+      "lines": 542,
       "importCount": 13,
       "exportCount": 3,
-      "complexityScore": 553,
-      "lastModified": "2025-10-19T10:43:51.493Z",
+      "complexityScore": 555,
+      "lastModified": "2025-10-19T16:43:25.530Z",
       "type": "js"
     },
     {
@@ -28917,7 +28917,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 207,
-      "lastModified": "2025-10-19T16:22:51.571Z",
+      "lastModified": "2025-10-19T16:44:13.802Z",
       "type": "json"
     },
     {
@@ -28937,7 +28937,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 34143,
-      "lastModified": "2025-10-19T16:22:49.323Z",
+      "lastModified": "2025-10-19T16:23:20.849Z",
       "type": "json"
     },
     {
@@ -28997,7 +28997,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 436,
-      "lastModified": "2025-10-19T16:22:49.324Z",
+      "lastModified": "2025-10-19T16:23:20.852Z",
       "type": "json"
     },
     {
@@ -29037,7 +29037,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 7,
-      "lastModified": "2025-10-19T16:22:50.065Z",
+      "lastModified": "2025-10-19T16:23:21.575Z",
       "type": "json"
     },
     {
@@ -29157,7 +29157,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 1124,
-      "lastModified": "2025-10-19T16:22:49.721Z",
+      "lastModified": "2025-10-19T16:23:21.235Z",
       "type": "json"
     },
     {
