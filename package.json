@@ -31,6 +31,7 @@
     "audit:complete": "npm run audit:files && npm run audit:routes && npm run audit:links && npm run audit:images && npm run audit:summary",
     "audit:seo": "tsx scripts/auditSEO.ts",
     "audit:dietary": "tsx scripts/auditDietary.ts",
+    "audit:halal:heroes": "node scripts/verifyHalalHeroes.mjs",
     "test:stats": "node scripts/testStatsConsistency.mjs",
     "test:seo": "tsx scripts/auditSEO.ts",
     "test:e2e": "node scripts/e2eSmoke.mjs",

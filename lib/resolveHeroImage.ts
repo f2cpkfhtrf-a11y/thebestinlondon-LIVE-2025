@@ -6,7 +6,7 @@ import { logImageFallback } from './logImageIssue';
 const base = "/images/heroes";
 const fallbacks = {
   default: `${base}/site-default.webp`,
-  halal: `${base}/halal-default.webp`,
+  halal: `${base}/halal/halal-hero.webp`,
   cuisines: `${base}/cuisines-default.webp`,
   areas: `${base}/areas-default.webp`,
   station: `${base}/station-default.webp`,
@@ -63,10 +63,12 @@ export function resolveHeroImage(ctx: HeroContext | {
     imageSrc = fallbacks.default;
   } else if (ctx.type === "venue") {
     const v = ctx.venue;
-    // Venue-specific → cuisine → area → site default
+    // Venue-specific → cuisine → area → halal (if applicable) → site default
+    const isHalalVenue = v?.halal_verified || v?.dietary_tags?.halal;
     imageSrc = safe(v.image_hero_path)
         || (v.cuisine_slug && safe(`${base}/cuisines/${v.cuisine_slug}.webp`))
         || (v.area_slug && safe(`${base}/areas/${v.area_slug}.webp`))
+        || (isHalalVenue && fallbacks.halal)
         || (v.cuisine_slug && fallbacks.cuisines)
         || (v.area_slug && fallbacks.areas)
         || fallbacks.default;

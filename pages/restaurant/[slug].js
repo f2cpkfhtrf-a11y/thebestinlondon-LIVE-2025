@@ -76,7 +76,8 @@ export default function VenueDetailPage({ venue }) {
   // Get hero image for venue detail page
   // Check if venue is halal and use appropriate hero
   const { isHalal } = isHalalVenue(venue);
-  const hero = isHalal && (!venue.image_hero_path || venue.image_hero_path.includes('placeholder')) 
+  const isHalalVenueCheck = !!(venue?.halal_verified || venue?.dietary_tags?.halal);
+  const hero = (isHalal || isHalalVenueCheck) && (!venue.image_hero_path || venue.image_hero_path.includes('placeholder')) 
     ? resolveHeroImage({ 
         type: "halal", 
         scope: "venue", 
@@ -105,6 +106,7 @@ export default function VenueDetailPage({ venue }) {
     "url": venue.website || `https://thebestinlondon.co.uk/restaurant/${venue.slug}`,
     "telephone": venue.phone || '',
     "servesCuisine": venue.cuisines?.[0] || '',
+    ...((venue?.halal_verified || venue?.dietary_tags?.halal) ? { "dietaryRestriction": "Halal" } : {}),
     "priceRange": '£'.repeat(venue.price_level || 2),
     "aggregateRating": venue.rating ? {
       "@type": "AggregateRating",
