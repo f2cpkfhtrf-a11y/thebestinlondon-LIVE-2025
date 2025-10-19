@@ -8,7 +8,7 @@ import FSABadge from '../../components/FSABadge';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import { TabContainer } from '../../components/HeroTabs';
 import PageHero from '../../components/PageHero';
-import { resolveHeroImage } from '../../lib/resolveHeroImage';
+import { resolveHeroImage, resolveVenueHero } from '../../lib/resolveHeroImage';
 import ImageWithFallback from '../../components/ImageWithFallback';
 import { isHalalVenue } from '../../utils/halalStations';
 
@@ -73,17 +73,21 @@ export default function VenueDetailPage({ venue }) {
     </div>;
   }
   
-  // Get hero image for venue detail page
-  // Check if venue is halal and use appropriate hero
-  const { isHalal } = isHalalVenue(venue);
-  const hero = isHalal && (!venue.image_hero_path || venue.image_hero_path.includes('placeholder')) 
-    ? resolveHeroImage({ 
-        type: "halal", 
-        scope: "venue", 
-        cuisineSlug: venue.cuisines?.[0]?.toLowerCase().replace(/[^a-z0-9]/g, '-'),
-        areaSlug: (venue.area || venue.borough)?.toLowerCase().replace(/[^a-z0-9]/g, '-')
-      })
-    : resolveHeroImage({ type: "venue", venue });
+  // Get hero image for venue detail page using the new venue hero resolver
+  const heroImageSrc = resolveVenueHero({ 
+    venue: {
+      ...venue,
+      cuisine: venue.cuisines?.[0]?.toLowerCase().replace(/[^a-z0-9]/g, '-'),
+      areaSlug: (venue.area || venue.borough)?.toLowerCase().replace(/[^a-z0-9]/g, '-')
+    }
+  });
+  
+  const hero = {
+    src: heroImageSrc,
+    alt: `Hero image for ${venue.name}`,
+    srcMd: heroImageSrc,
+    srcLg: heroImageSrc
+  };
   
   // JSON-LD structured data
   const jsonLd = {

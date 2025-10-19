@@ -1,24 +1,13 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { resolveCardImageSync } from '../../lib/resolveHeroImage';
 
 interface FeaturedRestaurantsProps {
   venues: any[];
 }
 
 export default function FeaturedRestaurants({ venues }: FeaturedRestaurantsProps) {
-  const getImageUrl = (venue: any) => {
-    // Use local card image path, with fallback chain
-    if (venue.image_card_path) return venue.image_card_path.replace('/public', '');
-    if (venue.image_url && !venue.image_url.includes('PLACEHOLDER')) return venue.image_url;
-    return '/images/heroes/site/default-list-hero.webp';
-  };
-
-  const getFallbackUrl = (venue: any) => {
-    const cuisine = venue.cuisines?.[0];
-    if (cuisine) return `/images/heroes/cuisines/${cuisine}.webp`;
-    return '/images/heroes/site/default-list-hero.webp';
-  };
 
   return (
     <section className="py-12 md:py-16">
@@ -34,8 +23,7 @@ export default function FeaturedRestaurants({ venues }: FeaturedRestaurantsProps
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {venues.map((venue) => {
-            const imageUrl = getImageUrl(venue);
-            const fallbackUrl = getFallbackUrl(venue);
+            const imageUrl = resolveCardImageSync({ venue });
             const location = venue.area || venue.borough || venue.vicinity || 'London';
             
             return (
@@ -53,10 +41,6 @@ export default function FeaturedRestaurants({ venues }: FeaturedRestaurantsProps
                       fill
                       className="object-cover transition-transform duration-500 group-hover:scale-105"
                       loading="lazy"
-                      onError={(e) => {
-                        const target = e.target as HTMLImageElement;
-                        target.src = fallbackUrl;
-                      }}
                     />
                     
                     {/* Rating badge */}

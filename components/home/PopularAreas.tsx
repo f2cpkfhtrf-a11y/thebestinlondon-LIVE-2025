@@ -1,6 +1,6 @@
 import React from 'react';
 import ImageTile from '../tiles/ImageTile';
-import { resolveAreaImage } from '../../lib/resolveHeroImage';
+import { resolveTileImage } from '../../lib/resolveHeroImage';
 
 interface PopularAreasProps {
   venues: any[];
@@ -32,7 +32,7 @@ export default function PopularAreas({ venues, stats }: PopularAreasProps) {
 
   const getAreaImageUrl = (areaName: string) => {
     const slug = getAreaSlug(areaName);
-    return resolveAreaImage(slug);
+    return resolveTileImage({ type: "area", slug });
   };
 
   return (

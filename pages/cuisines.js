@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
-import { resolveCuisineImage } from '../lib/resolveHeroImage';
+import { resolveTileImage } from '../lib/resolveHeroImage';
 import ImageTile from '../components/tiles/ImageTile';
 
 export async function getStaticProps() {
@@ -135,14 +135,13 @@ export default function Cuisines({ cuisines, totalVenues }) {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
               {filteredCuisines.map((cuisine) => {
                 const cuisineSlug = cuisine.slug.replace('-restaurants-london', '');
-                const imageSrc = resolveCuisineImage(cuisineSlug);
                 return (
                   <ImageTile
                     key={cuisine.slug}
                     title={cuisine.name}
                     subtitle={`${cuisine.count} restaurant${cuisine.count !== 1 ? 's' : ''}`}
                     href={`/${cuisine.slug}`}
-                    src={imageSrc}
+                    src={resolveTileImage({ type: "cuisine", slug: cuisineSlug })}
                     alt={`${cuisine.name} cuisine in London`}
                   />
                 );

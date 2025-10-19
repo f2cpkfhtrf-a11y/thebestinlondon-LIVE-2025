@@ -1,6 +1,6 @@
 import React from 'react';
 import ImageTile from '../tiles/ImageTile';
-import { resolveCuisineImage } from '../../lib/resolveHeroImage';
+import { resolveTileImage } from '../../lib/resolveHeroImage';
 
 interface CuisinesProps {
   popularCuisines: Array<{ cuisine: string; count: number }>;
@@ -9,7 +9,7 @@ interface CuisinesProps {
 export default function Cuisines({ popularCuisines }: CuisinesProps) {
   const getCuisineImageUrl = (cuisine: string) => {
     const slug = cuisine.toLowerCase().replace(/\s+/g, '-');
-    return resolveCuisineImage(slug);
+    return resolveTileImage({ type: "cuisine", slug });
   };
 
   const getCuisineSlug = (cuisine: string) => {
