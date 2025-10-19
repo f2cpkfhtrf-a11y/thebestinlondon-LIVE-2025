@@ -23,21 +23,24 @@ export async function getStaticProps() {
     
     const venues = Array.isArray(data) ? data : (data.venues || []);
     
-    // Get top venues for featured section - prioritize venues with real photos
+    // Get top venues for featured section - data-driven selection by BIL score then reviews
     const topVenues = venues
-      .filter(v => v.rating && v.rating >= 4.0) // Lower threshold to get more options
+      .filter(v => v.rating && v.rating >= 4.0) // Basic quality filter
       .sort((a, b) => {
-        // Prioritize venues with real photos
-        const aHasRealPhoto = a.photos?.[0]?.url && !a.photos[0].url.includes('photoreference=placeholder');
-        const bHasRealPhoto = b.photos?.[0]?.url && !b.photos[0].url.includes('photoreference=placeholder');
+        // Primary: BIL score (if available)
+        const aBilScore = a.bil_score || 0;
+        const bBilScore = b.bil_score || 0;
+        if (aBilScore !== bBilScore) return bBilScore - aBilScore;
         
-        if (aHasRealPhoto && !bHasRealPhoto) return -1;
-        if (!aHasRealPhoto && bHasRealPhoto) return 1;
+        // Secondary: Reviews count
+        const aReviews = a.reviews_count || a.user_ratings_total || 0;
+        const bReviews = b.reviews_count || b.user_ratings_total || 0;
+        if (aReviews !== bReviews) return bReviews - aReviews;
         
-        // If both have same photo status, sort by rating
+        // Tertiary: Rating
         return (b.rating || 0) - (a.rating || 0);
       })
-      .slice(0, 6);
+      .slice(0, 8); // Top 8 as specified
     
     // Calculate stats
     const stats = {

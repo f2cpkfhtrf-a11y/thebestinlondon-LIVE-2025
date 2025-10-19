@@ -75,13 +75,13 @@ export default function About() {
                 </div>
               </div>
               <div className="relative">
-                <div className="aspect-square bg-gradient-to-br from-gold/20 to-gold-light/20 rounded-2xl flex items-center justify-center">
+                <div className="rounded-xl bg-gradient-to-br from-black/30 via-black/10 to-black/40 p-8">
                   <Image
-                    src="/assets/logos/logo-primary.svg"
-                    alt="The Best in London Logo"
-                    width={200}
+                    src="/images/brand/logo-lockup.webp"
+                    alt="The Best in London"
+                    width={300}
                     height={120}
-                    className="w-48 h-28 opacity-80"
+                    className="mx-auto h-40 w-auto object-contain"
                   />
                 </div>
               </div>

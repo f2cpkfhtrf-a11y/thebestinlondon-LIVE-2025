@@ -41,8 +41,8 @@ export default function PageHero({
   };
 
   // Generate srcSet for responsive variants
-  const generateSrcSet = () => {
-    const srcSet = [];
+  const generateSrcSet = (): string | undefined => {
+    const srcSet: string[] = [];
     if (image.srcMd && image.srcMd !== image.src) {
       srcSet.push(`${image.srcMd} 768w`);
     }
@@ -79,7 +79,7 @@ export default function PageHero({
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/30 to-black/70" />
         
         {/* Content */}
-        <div className={`absolute inset-0 flex flex-col justify-center px-4 sm:px-6 lg:px-8 ${center ? 'items-center text-center' : 'items-start'}`}>
+        <div className={`absolute inset-0 flex flex-col justify-center px-4 sm:px-6 lg:px-8 pt-16 lg:pt-20 ${center ? 'items-center text-center' : 'items-start'}`}>
           <div className={`max-w-4xl ${center ? 'mx-auto' : ''}`}>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-serif font-bold text-white mb-4 leading-tight">
               {title}
