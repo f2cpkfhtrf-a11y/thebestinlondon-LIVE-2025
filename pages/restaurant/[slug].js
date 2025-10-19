@@ -75,7 +75,7 @@ export default function VenueDetailPage({ venue }) {
     "@context": "https://schema.org",
     "@type": "Restaurant",
     "name": venue.name,
-    "image": venue.image_url || venue.photos?.[0]?.url || '',
+    "image": venue.image_hero_path || venue.image_url || venue.photos?.[0]?.url || '',
     "address": venue.address ? {
       "@type": "PostalAddress",
       "streetAddress": venue.address.formatted,
@@ -112,7 +112,7 @@ export default function VenueDetailPage({ venue }) {
         <meta property="og:description" content={generateSEODescription('restaurant', venue)} />
         <meta property="og:type" content="restaurant" />
         <meta property="og:url" content={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
-        <meta property="og:image" content={venue.image_url || venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
+        <meta property="og:image" content={venue.image_hero_path || venue.image_url || venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
         <meta property="og:image:alt" content={venue.image_alt || `${venue.name} restaurant in ${venue.borough || 'London'}`} />
         <meta property="og:site_name" content="The Best in London" />
         
@@ -120,7 +120,7 @@ export default function VenueDetailPage({ venue }) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={generateSEOTitle('restaurant', venue)} />
         <meta name="twitter:description" content={generateSEODescription('restaurant', venue)} />
-        <meta name="twitter:image" content={venue.image_url || venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
+        <meta name="twitter:image" content={venue.image_hero_path || venue.image_url || venue.photos?.[0]?.url || 'https://thebestinlondon.co.uk/logo.svg'} />
         <meta name="twitter:image:alt" content={venue.image_alt || `${venue.name} restaurant in ${venue.borough || 'London'}`} />
         
         {/* Additional SEO Meta Tags */}
@@ -177,9 +177,9 @@ export default function VenueDetailPage({ venue }) {
           height: 'clamp(300px, 50vh, 500px)', 
           background: 'linear-gradient(135deg, rgba(11,11,11,0.8) 0%, rgba(11,11,11,0.4) 100%)'
         }}>
-          {venue.image_url || (venue.photos && venue.photos[0] && (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887') ? (
+          {venue.image_hero_path || venue.image_url || (venue.photos && venue.photos[0] && (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887') ? (
             <ImageWithFallback 
-              src={venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
+              src={venue.image_hero_path || venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
               alt={venue.image_alt || `${venue.name} restaurant in London`}
               fill
               style={{ 

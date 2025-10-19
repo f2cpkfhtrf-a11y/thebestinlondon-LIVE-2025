@@ -36,16 +36,17 @@ export async function getStaticProps() {
 }
 
 export default function IndianRestaurants({ venues }) {
+  // Use local cuisine-specific images or fallback to gradient
   const cuisineImages = {
-    'indian': 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=800&fit=crop&crop=center&q=85&auto=format',
-    'italian': 'https://images.unsplash.com/photo-1579725942050-c312f3b1f8d6?w=1600&h=800&fit=crop&crop=center&q=85&auto=format',
-    'japanese': 'https://images.unsplash.com/photo-1505253716362-af3e789f8724?w=1600&h=800&fit=crop&crop=center&q=85&auto=format',
-    'thai': 'https://images.unsplash.com/photo-1548940740-204726a115ae?w=1600&h=800&fit=crop&crop=center&q=85&auto=format',
-    'turkish': 'https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=1600&h=800&fit=crop&crop=center&q=85&auto=format',
-    'chinese': 'https://images.unsplash.com/photo-1582234371722-52744610f90e?w=1600&h=800&fit=crop&crop=center&q=85&auto=format',
-    'french': 'https://images.unsplash.com/photo-1519671482749-fd09be7c511a?w=1600&h=800&fit=crop&crop=center&q=85&auto=format',
-    'spanish': 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=1600&h=800&fit=crop&crop=center&q=85&auto=format',
-    'british': 'https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1600&h=800&fit=crop&crop=center&q=85&auto=format'
+    'indian': '/images/cuisines/indian-hero.webp',
+    'italian': '/images/cuisines/italian-hero.webp',
+    'japanese': '/images/cuisines/japanese-hero.webp',
+    'thai': '/images/cuisines/thai-hero.webp',
+    'turkish': '/images/cuisines/turkish-hero.webp',
+    'chinese': '/images/cuisines/chinese-hero.webp',
+    'french': '/images/cuisines/french-hero.webp',
+    'spanish': '/images/cuisines/spanish-hero.webp',
+    'british': '/images/cuisines/british-hero.webp'
   };
 
   return (

@@ -1,14 +1,15 @@
 import Head from 'next/head';
 import { generateSEOTitle, generateSEODescription, generateStructuredData } from '../utils/seoOptimization';
 import Header from '../components/Header';
-import HeroSection from '../components/HeroSection';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
-import ImageWithFallback from '../components/ImageWithFallback';
-import StandardizedCard from '../components/StandardizedCard';
-import StandardizedHeader from '../components/StandardizedHeader';
+import PageHero from '../components/PageHero';
+import FeaturedRestaurants from '../components/home/FeaturedRestaurants';
+import PopularAreas from '../components/home/PopularAreas';
+import Cuisines from '../components/home/Cuisines';
+import LatestAdds from '../components/home/LatestAdds';
+import { resolveHeroImage } from '../lib/resolveHeroImage';
 import Link from 'next/link';
-import Image from 'next/image';
 import { useEffect } from 'react';
 
 export async function getStaticProps() {
@@ -22,10 +23,20 @@ export async function getStaticProps() {
     
     const venues = Array.isArray(data) ? data : (data.venues || []);
     
-    // Get top venues for featured section
+    // Get top venues for featured section - prioritize venues with real photos
     const topVenues = venues
-      .filter(v => v.rating && v.rating >= 4.5)
-      .sort((a, b) => (b.rating || 0) - (a.rating || 0))
+      .filter(v => v.rating && v.rating >= 4.0) // Lower threshold to get more options
+      .sort((a, b) => {
+        // Prioritize venues with real photos
+        const aHasRealPhoto = a.photos?.[0]?.url && !a.photos[0].url.includes('photoreference=placeholder');
+        const bHasRealPhoto = b.photos?.[0]?.url && !b.photos[0].url.includes('photoreference=placeholder');
+        
+        if (aHasRealPhoto && !bHasRealPhoto) return -1;
+        if (!aHasRealPhoto && bHasRealPhoto) return 1;
+        
+        // If both have same photo status, sort by rating
+        return (b.rating || 0) - (a.rating || 0);
+      })
       .slice(0, 6);
     
     // Calculate stats
@@ -73,6 +84,9 @@ export async function getStaticProps() {
 }
 
 export default function Home({ topVenues, stats, popularCuisines }) {
+  // Get hero image for homepage
+  const hero = resolveHeroImage({ type: "home" });
+  
   useEffect(() => {
     // Optimize font loading
     if (typeof window !== 'undefined') {
@@ -94,10 +108,12 @@ export default function Home({ topVenues, stats, popularCuisines }) {
       });
       
       // Preload critical images
-      const criticalImages = topVenues.slice(0, 3).map(venue => ({
-        src: venue.image_url || venue.photos?.[0]?.url || '',
-        type: 'image/webp'
-      })).filter(img => img.src);
+      const criticalImages = [
+        hero.src,
+        ...topVenues.slice(0, 3).map(venue => 
+          venue.image_card_path?.replace('/public', '') || venue.image_url || venue.photos?.[0]?.url || ''
+        ).filter(src => src && !src.includes('PLACEHOLDER'))
+      ].map(src => ({ src, type: 'image/webp' })).filter(img => img.src);
       
       criticalImages.forEach(image => {
         const link = document.createElement('link');
@@ -108,7 +124,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
         document.head.appendChild(link);
       });
     }
-  }, [topVenues]);
+  }, [topVenues, hero.src]);
 
   return (
     <>
@@ -121,7 +137,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
         {/* Open Graph */}
         <meta property="og:title" content="The Best in London | Premium Dining Guide" />
         <meta property="og:description" content="Discover London's finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas." />
-        <meta property="og:image" content="https://www.thebestinlondon.co.uk/logo.svg" />
+        <meta property="og:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp" />
         <meta property="og:url" content="https://www.thebestinlondon.co.uk" />
         <meta property="og:type" content="website" />
         
@@ -129,7 +145,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="The Best in London | Premium Dining Guide" />
         <meta name="twitter:description" content="Discover London's finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas." />
-        <meta name="twitter:image" content="https://www.thebestinlondon.co.uk/logo.svg" />
+        <meta name="twitter:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp" />
         
         {/* JSON-LD */}
         <script
@@ -154,123 +170,30 @@ export default function Home({ topVenues, stats, popularCuisines }) {
       <div className="min-h-screen bg-black">
         <Header />
         <TabContainer currentPath="/" pageType="home">
-          <HeroSection />
+          {/* Page Hero */}
+          <div className="container mx-auto px-4 md:px-6 lg:px-8">
+            <PageHero 
+              title="Discover London's Finest"
+              subtitle="Curated Excellence in London"
+              stats={[
+                { label: "Restaurants", value: "760+" },
+                { label: "Areas", value: "50+" },
+                { label: "Cuisines", value: "25+" },
+                { label: "Verified", value: "100%" }
+              ]}
+              image={hero}
+              priority
+              center
+            />
+          </div>
         
-        {/* Featured Restaurants */}
-        <section className="py-20 bg-black-light">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-16">
-              <h2 className="text-3xl lg:text-4xl font-serif font-bold text-white mb-4">
-                Featured Restaurants
-              </h2>
-              <p className="text-lg text-grey max-w-2xl mx-auto">
-                Handpicked establishments that define London's culinary excellence
-              </p>
-            </div>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {topVenues.map((venue) => (
-                <Link key={venue.place_id} href={`/restaurant/${venue.slug}`}>
-                  <StandardizedCard 
-                    venue={venue}
-                    className="h-full"
-                    showBadges={true}
-                    showRating={true}
-                    showLocation={true}
-                  />
-                </Link>
-              ))}
-            </div>
-            
-            <div className="text-center mt-12">
-              <Link href="/restaurants" className="btn-primary text-lg px-8 py-4">
-                View All Restaurants
-                </Link>
-            </div>
-          </div>
-        </section>
-
-        {/* Popular Cuisines */}
-        <section className="py-20 bg-black">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-16">
-              <h2 className="text-3xl lg:text-4xl font-serif font-bold text-white mb-4">
-                Popular Cuisines
-            </h2>
-              <p className="text-lg text-grey max-w-2xl mx-auto">
-                Explore London's diverse culinary landscape
-              </p>
-            </div>
-            
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-              {popularCuisines.map(({ cuisine, count }) => (
-                <Link 
-                  key={cuisine} 
-                  href={`/${cuisine}-restaurants-london`}
-                  className="group"
-                >
-                  <div className="card p-6 text-center hover:border-gold transition-all duration-300">
-                    <h3 className="font-serif font-semibold text-white text-lg mb-2 group-hover:text-gold transition-colors duration-300 capitalize">
-                      {cuisine}
-                    </h3>
-                    <p className="text-grey text-sm">
-                      {count} restaurants
-                    </p>
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* Stats Section */}
-        <section className="py-20 bg-gradient-to-r from-gold/10 to-gold-light/10">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-16">
-              <h2 className="text-3xl lg:text-4xl font-serif font-bold text-white mb-4">
-                London's Dining Scene
-            </h2>
-              <p className="text-lg text-grey max-w-2xl mx-auto">
-                Comprehensive coverage of the capital's culinary landscape
-              </p>
-            </div>
-            
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-              <div className="text-center">
-                <div className="text-4xl lg:text-5xl font-serif font-bold text-gold mb-2">
-                  {stats.totalVenues}+
-                  </div>
-                <div className="text-grey font-nav uppercase tracking-wider text-sm">
-                  Restaurants
-                </div>
-              </div>
-              <div className="text-center">
-                <div className="text-4xl lg:text-5xl font-serif font-bold text-gold mb-2">
-                  {stats.areas}+
-                      </div>
-                <div className="text-grey font-nav uppercase tracking-wider text-sm">
-                  Areas
-                </div>
-              </div>
-              <div className="text-center">
-                <div className="text-4xl lg:text-5xl font-serif font-bold text-gold mb-2">
-                  {stats.cuisines}+
-                </div>
-                <div className="text-grey font-nav uppercase tracking-wider text-sm">
-                  Cuisines
-                </div>
-              </div>
-              <div className="text-center">
-                <div className="text-4xl lg:text-5xl font-serif font-bold text-gold mb-2">
-                  {stats.halalVenues}+
-                </div>
-                <div className="text-grey font-nav uppercase tracking-wider text-sm">
-                  Halal Options
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+          {/* Main Content */}
+          <main className="container mx-auto px-4 md:px-6 lg:px-8 space-y-12 md:space-y-16">
+            <FeaturedRestaurants venues={topVenues} />
+            <PopularAreas venues={topVenues} stats={stats} />
+            <Cuisines popularCuisines={popularCuisines} />
+            <LatestAdds venues={topVenues} />
+          </main>
         </TabContainer>
         <Footer />
       </div>

@@ -71,7 +71,7 @@ export default function NearMePage({ venues }) {
       <div className="relative h-96 lg:h-[500px] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1551218808-94e220e084d2?w=1800&h=1200&q=85&fit=crop"
+            src="/images/cuisines/london-hero.webp"
             alt="London restaurants near you"
             className="w-full h-full object-cover"
           />
@@ -187,7 +187,7 @@ export default function NearMePage({ venues }) {
                     {/* Image */}
                     <div className="relative h-48 overflow-hidden">
                       <img
-                        src={venue.photos?.[0]?.url || 'https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=85'}
+                        src={venue.image_card_path || venue.photos?.[0]?.url || '/images/cuisines/london-hero.webp'}
                         alt={venue.name}
                         className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                       />

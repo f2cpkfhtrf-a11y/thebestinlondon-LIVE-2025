@@ -75,7 +75,7 @@ export default function JapaneseRestaurants({ venues }) {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          background: `linear-gradient(to bottom, rgba(11,11,11,0.5), rgba(11,11,11,0.75)), url('https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=2400&q=90')`,
+          background: `linear-gradient(to bottom, rgba(11,11,11,0.5), rgba(11,11,11,0.75)), url('/images/cuisines/japanese-hero.webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed',

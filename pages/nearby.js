@@ -179,9 +179,9 @@ export default function Nearby({ topVenues, totalVenues }) {
                   <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                     <div className="card overflow-hidden h-full">
                       <div className="relative h-48">
-                        {venue.image_url ? (
+                        {venue.image_card_path || venue.image_url ? (
                           <Image
-                            src={venue.image_url}
+                            src={venue.image_card_path || venue.image_url}
                             alt={venue.image_alt || `${venue.name} restaurant`}
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -239,9 +239,9 @@ export default function Nearby({ topVenues, totalVenues }) {
                   <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                     <div className="card overflow-hidden h-full">
                       <div className="relative h-48">
-                        {venue.image_url ? (
+                        {venue.image_card_path || venue.image_url ? (
                           <Image
-                            src={venue.image_url}
+                            src={venue.image_card_path || venue.image_url}
                             alt={venue.image_alt || `${venue.name} restaurant`}
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-300"
