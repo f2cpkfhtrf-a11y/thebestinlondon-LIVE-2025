@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-10-19T12:54:00.000Z",
+  "buildStatus": "success",
+  "verificationStatus": "partial",
+  "productionUrl": "https://www.thebestinlondon.co.uk",
+  "buildDuration": "2m",
+  "verificationDuration": "10m",
+  "tag": "deploy/vercel-prod-2025-10-19-1254",
+  "summary": {
+    "totalPagesTested": 9,
+    "pagesSuccessfullyLoaded": 6,
+    "pagesReturning404": 3,
+    "successRate": "67%"
+  },
+  "technicalChecks": {
+    "buildSuccessful": true,
+    "environmentVariablesPresent": true,
+    "cacheControlOptimized": true,
+    "localImagesEnforced": true
+  },
+  "verifiedPages": [
+    "/",
+    "/restaurants",
+    "/best-halal-restaurants-london",
+    "/areas",
+    "/cuisines",
+    "/restaurant/dishoom-covent-garden-OZ6OHOJw"
+  ],
+  "pendingIssues": [
+    {
+      "page": "/areas/whitechapel",
+      "issue": "Area page missing from build paths",
+      "type": "404"
+    },
+    {
+      "page": "/cuisines/italian",
+      "issue": "Cuisine page missing from build paths",
+      "type": "404"
+    },
+    {
+      "page": "/restaurant/halal-street-kitchen",
+      "issue": "Restaurant slug not in data",
+      "type": "404"
+    }
+  ],
+  "recommendations": [
+    "Review data/areas.json to ensure whitechapel is included",
+    "Verify /cuisines/[slug].js handles 'italian' as a valid cuisine slug",
+    "Check restaurant data for 'halal-street-kitchen' slug existence"
+  ]
+}

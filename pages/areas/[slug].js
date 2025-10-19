@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
+import BackToHome from '../../components/BackToHome';
 import { TabContainer } from '../../components/HeroTabs';
 import PageHero from '../../components/PageHero';
 import { resolveHeroImage } from '../../lib/resolveHeroImage';
@@ -24,7 +25,7 @@ export async function getStaticPaths() {
         paths: areas.map(area => ({
           params: { slug: area.slug }
         })),
-        fallback: false
+        fallback: "blocking"
       };
     }
     
@@ -51,13 +52,13 @@ export async function getStaticPaths() {
       paths: Object.keys(areaMap).map(slug => ({
         params: { slug }
       })),
-      fallback: false
+      fallback: "blocking"
     };
   } catch (error) {
     console.error('Error generating paths:', error);
     return {
       paths: [],
-      fallback: false
+      fallback: "blocking"
     };
   }
 }
@@ -82,8 +83,22 @@ export async function getStaticProps({ params }) {
     // Filter venues for this area
     const venues = allVenues.filter(venue => {
       const venueArea = venue.borough || venue.address?.borough || '';
-      return venueArea.toLowerCase().includes(areaName.toLowerCase()) ||
-             venueArea.toLowerCase().includes(areaSlug.replace('-', ' '));
+      const venueAddress = venue.address?.formatted || venue.vicinity || '';
+      const venueName = venue.name || '';
+      
+      // Direct match with borough
+      if (venueArea.toLowerCase().includes(areaName.toLowerCase()) ||
+          venueArea.toLowerCase().includes(areaSlug.replace('-', ' '))) {
+        return true;
+      }
+      
+      // Special handling for whitechapel - check address for whitechapel references
+      if (areaSlug === 'whitechapel') {
+        const searchText = (venueAddress + ' ' + venueName).toLowerCase();
+        return searchText.includes('whitechapel');
+      }
+      
+      return false;
     });
     
     if (venues.length === 0) {
@@ -334,6 +349,7 @@ export default function AreaPage({ areaName, areaSlug, venues, stats, topCuisine
       </main>
 
       <Footer />
+      <BackToHome />
     </>
   );
 }

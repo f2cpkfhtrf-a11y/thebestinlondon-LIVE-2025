@@ -11,6 +11,7 @@ import BestOfLondonBadge from '../components/BestOfLondonBadge';
 import FilterBar from '../components/FilterBar';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import BackToHome from '../components/BackToHome';
 import Breadcrumbs from '../components/Breadcrumbs';
 import fs from 'fs';
 import path from 'path';
@@ -250,6 +251,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
         </TabContainer>
       </main>
       <Footer />
+      <BackToHome />
     </>
   );
 }
