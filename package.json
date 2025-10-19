@@ -23,7 +23,9 @@
     "audit:images": "tsx scripts/validateLocalImages.ts",
     "audit:images:fix": "tsx scripts/auditAndFixImages.ts",
     "audit:tiles": "tsx scripts/auditTiles.ts",
-    "audit:all": "npm run audit:images && npm run audit:tiles"
+    "audit:all": "npm run audit:images && npm run audit:tiles",
+    "images:lqip": "tsx scripts/generateLqip.ts",
+    "postbuild": "tsx scripts/buildImageSitemap.ts"
   },
   "dependencies": {
     "axios": "^1.12.2",

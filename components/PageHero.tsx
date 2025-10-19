@@ -1,12 +1,13 @@
 import React from 'react';
 import Image from 'next/image';
 import { assertLocalImage } from '../lib/assertLocalImage';
+import { getBlurAndColor, getBlurDataUrl } from '../lib/imagePlaceholders';
 
 interface PageHeroProps {
   title: string;
   subtitle?: string;
   stats?: Array<{ label: string; value: string | number }>;
-  image: { src: string; alt: string };
+  image: { src: string; alt: string; srcMd?: string; srcLg?: string };
   priority?: boolean;
   center?: boolean;
 }
@@ -27,6 +28,11 @@ export default function PageHero({
     assertLocalImage(image.src);
   }, [image.src]);
 
+  // Get blur and dominant color for the current image
+  const currentSrc = imageError ? fallbackSrc : image.src;
+  const { blurSrc, color } = getBlurAndColor(currentSrc);
+  const blurDataUrl = blurSrc ? getBlurDataUrl(blurSrc) : undefined;
+
   const handleImageError = () => {
     if (!imageError && image.src !== fallbackSrc) {
       setImageError(true);
@@ -34,20 +40,39 @@ export default function PageHero({
     }
   };
 
-  const currentSrc = imageError ? fallbackSrc : image.src;
+  // Generate srcSet for responsive variants
+  const generateSrcSet = () => {
+    const srcSet = [];
+    if (image.srcMd && image.srcMd !== image.src) {
+      srcSet.push(`${image.srcMd} 768w`);
+    }
+    if (image.srcLg && image.srcLg !== image.src) {
+      srcSet.push(`${image.srcLg} 1280w`);
+    }
+    if (image.src) {
+      srcSet.push(`${currentSrc} 0w`);
+    }
+    return srcSet.length > 1 ? srcSet.join(', ') : undefined;
+  };
 
   return (
     <div className="relative w-full overflow-hidden rounded-none lg:rounded-2xl">
       {/* Image */}
-      <div className="relative h-[60vh] min-h-[400px] max-h-[600px]">
+      <div 
+        className="relative h-[60vh] min-h-[400px] max-h-[600px]"
+        style={{ backgroundColor: color }}
+      >
         <Image
           src={currentSrc}
           alt={image.alt}
           fill
-          sizes="100vw"
+          sizes="(min-width: 1280px) 1280px, 100vw"
           className="object-cover transition-opacity duration-300"
           priority={priority}
           onError={handleImageError}
+          placeholder={blurDataUrl ? "blur" : "empty"}
+          blurDataURL={blurDataUrl}
+          {...(generateSrcSet() && { srcSet: generateSrcSet() })}
         />
         
         {/* Gradient overlay */}

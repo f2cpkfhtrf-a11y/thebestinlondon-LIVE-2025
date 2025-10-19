@@ -2,6 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { assertLocalImage } from '../../lib/assertLocalImage';
+import { getBlurAndColor, getBlurDataUrl } from '../../lib/imagePlaceholders';
 
 interface ImageTileProps {
   title: string;
@@ -22,24 +23,33 @@ const ImageTile: React.FC<ImageTileProps> = ({
 }) => {
   // Assert local-only image in development
   assertLocalImage(src);
+  
+  // Get blur and dominant color
+  const { blurSrc, color } = getBlurAndColor(src);
+  const blurDataUrl = blurSrc ? getBlurDataUrl(blurSrc) : undefined;
 
   return (
     <Link href={href} className={`group block ${className}`}>
-      <div className="relative h-[180px] sm:h-[220px] rounded-2xl overflow-hidden bg-black shadow-lg border border-grey-dark hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
+      <div 
+        className="relative h-[180px] sm:h-[220px] rounded-2xl overflow-hidden shadow-lg border border-grey-dark hover:shadow-xl transition-all duration-300 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-gold focus-within:ring-offset-2 focus-within:ring-offset-black"
+        style={{ backgroundColor: color }}
+      >
         {/* Background Image */}
         <Image
           src={src}
           alt={alt}
           fill
-          className="object-cover transition-transform duration-300 group-hover:scale-105"
+          className="object-cover transition-transform duration-300 group-hover:scale-105 group-hover:bg-[position:50%_45%]"
           sizes="(min-width: 1024px) 33vw, 90vw"
           loading="lazy"
           decoding="async"
           fetchPriority="low"
+          placeholder={blurDataUrl ? "blur" : "empty"}
+          blurDataURL={blurDataUrl}
         />
         
-        {/* Dark gradient overlay (top to bottom 0.6→0.9 opacity) */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/90"></div>
+        {/* Enhanced dark gradient overlay with hover effect */}
+        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/90 group-hover:from-black/65 group-hover:via-black/50 group-hover:to-black/95 transition-all duration-300"></div>
         
         {/* Content - bottom left */}
         <div className="absolute bottom-4 left-4 right-4">

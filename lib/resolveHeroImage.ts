@@ -1,6 +1,7 @@
 import { assertLocalImage } from './assertLocalImage';
 import areaImageMap from '../data/areaImageMap';
 import cuisineImageMap from '../data/cuisineImageMap';
+import { logImageFallback } from './logImageIssue';
 
 export function resolveHeroImage(ctx: {
   type: "home" | "list-cuisine" | "list-area" | "list-all" | "list-halal" | "search" | "venue" | "tile-area" | "tile-cuisine" | "halal";
@@ -8,7 +9,7 @@ export function resolveHeroImage(ctx: {
   areaSlug?: string;
   venue?: any;
   scope?: "list" | "venue" | "guideSection";
-}): { src: string; alt: string } {
+}): { src: string; alt: string; srcMd?: string; srcLg?: string } {
   // Define known good image paths in order of preference
   // This avoids fs operations during client-side rendering
   
@@ -67,10 +68,24 @@ export function resolveHeroImage(ctx: {
   // Tile for areas
   else if (ctx.type === "tile-area" && ctx.areaSlug) {
     imageSrc = areaImageMap[ctx.areaSlug] || "/images/heroes/site/default-area.webp";
+    if (!areaImageMap[ctx.areaSlug]) {
+      logImageFallback('area-tile', 3, {
+        originalPath: `/images/areas/${ctx.areaSlug}-hero.webp`,
+        fallbackPath: imageSrc,
+        reason: 'Area not found in areaImageMap'
+      });
+    }
   }
   // Tile for cuisines
   else if (ctx.type === "tile-cuisine" && ctx.cuisineSlug) {
     imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
+    if (!cuisineImageMap[ctx.cuisineSlug]) {
+      logImageFallback('cuisine-tile', 3, {
+        originalPath: `/images/cuisines/${ctx.cuisineSlug}-hero.webp`,
+        fallbackPath: imageSrc,
+        reason: 'Cuisine not found in cuisineImageMap'
+      });
+    }
   }
   // Halal specific logic
   else if (ctx.type === "halal") {
@@ -98,10 +113,25 @@ export function resolveHeroImage(ctx: {
   // Assert local-only for development
   assertLocalImage(imageSrc);
 
-  return {
+  // Generate responsive variants if they exist (don't create files, just check naming pattern)
+  const basePath = imageSrc.replace(/\.webp$/, '');
+  const srcMd = imageSrc; // For now, just use the main src as md variant
+  const srcLg = basePath.includes('-hero') ? imageSrc.replace('-hero.webp', '-hero-xl.webp') : imageSrc;
+
+  const result: { src: string; alt: string; srcMd?: string; srcLg?: string } = {
     src: imageSrc,
     alt: `Hero image for ${ctx.cuisineSlug || ctx.areaSlug || ctx.venue?.name || "The Best in London"}`,
   };
+
+  // Only include variants if they differ from src (client-side safe)
+  if (srcMd !== imageSrc) {
+    result.srcMd = srcMd;
+  }
+  if (srcLg !== imageSrc && srcLg !== srcMd) {
+    result.srcLg = srcLg;
+  }
+
+  return result;
 }
 
 interface Venue {
