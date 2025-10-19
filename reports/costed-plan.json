@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-10-18T16:59:47.179Z",
+  "totalVenues": 511,
+  "venuesNeedingImages": 511,
+  "venuesWithPlaceId": 511,
+  "venuesWithoutPlaceId": 0,
+  "apiCalls": {
+    "placesDetails": 511,
+    "placesPhotos": 1022,
+    "total": 1533
+  },
+  "costs": {
+    "placesDetails": 8.687000000000001,
+    "placesPhotos": 7.154,
+    "total": 15.841000000000001
+  },
+  "pricing": {
+    "placesDetailsPerCall": 0.017,
+    "placesPhotosPerCall": 0.007
+  },
+  "estimatedTime": {
+    "minutes": 154,
+    "hours": 3
+  },
+  "sampleVenues": [
+    {
+      "name": "Dishoom Covent Garden",
+      "place_id": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+      "slug": "dishoom-covent-garden-OZ6OHOJw",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "Gymkhana",
+      "place_id": "ChIJtwn55ikFdkgRAvOuPIWeLM0",
+      "slug": "gymkhana-uPIWeLM0",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "Kricket Soho",
+      "place_id": "ChIJXWnxCtQEdkgRcG32UcQZFVQ",
+      "slug": "kricket-soho-2UcQZFVQ",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "Maharaja of India",
+      "place_id": "ChIJS_aY-s0EdkgRbxbEVrlil9k",
+      "slug": "maharaja-of-india-EVrlil9k",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "Aladin Brick Lane",
+      "place_id": "ChIJ_YxXC7YcdkgR7WdFQXF-uoc",
+      "slug": "aladin-brick-lane-FQXF-uoc",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "Dishoom Kensington",
+      "place_id": "ChIJv_uo9_YPdkgRq2K1F6d_5-g",
+      "slug": "dishoom-kensington-1F6d_5-g",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "Brigadiers",
+      "place_id": "ChIJU1e3CVUDdkgRbWhGVEiDv0Y",
+      "slug": "brigadiers-GVEiDv0Y",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "Cinnamon Bazaar",
+      "place_id": "ChIJMyKwDswEdkgRlLsZAjZBRu4",
+      "slug": "cinnamon-bazaar-ZAjZBRu4",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "Pravaas - South Kensington",
+      "place_id": "ChIJ__9DAWgFdkgRj0UKhMpiz4I",
+      "slug": "pravaas-south-kensington-KhMpiz4I",
+      "cuisines": [
+        "indian"
+      ]
+    },
+    {
+      "name": "The India - City Road",
+      "place_id": "ChIJVYzv03EddkgR73xEvFfZ5AI",
+      "slug": "the-india-city-road-EvFfZ5AI",
+      "cuisines": [
+        "modern-european"
+      ]
+    }
+  ]
+}

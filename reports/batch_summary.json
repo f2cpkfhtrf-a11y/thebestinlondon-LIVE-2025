@@ -1,0 +1,13 @@
+{
+  "batch": "Batch 2 (Remaining)",
+  "timestamp": "2025-10-18T23:51:19.252Z",
+  "venuesProcessed": 0,
+  "venuesSkipped": 0,
+  "venuesFailed": 511,
+  "totalCalls": 811,
+  "totalCost": 8.676999999999971,
+  "callsByType": {
+    "details": 300,
+    "photos": 511
+  }
+}
