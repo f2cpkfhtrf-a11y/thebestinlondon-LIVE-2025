@@ -10441,6 +10441,16 @@
       "type": "js"
     },
     {
+      "path": "components/BackToHome.tsx",
+      "sizeKB": 1,
+      "lines": 41,
+      "importCount": 3,
+      "exportCount": 1,
+      "complexityScore": 44,
+      "lastModified": "2025-10-19T12:47:03.876Z",
+      "type": "tsx"
+    },
+    {
       "path": "components/Badges.js",
       "sizeKB": 0,
       "lines": 14,
@@ -10467,7 +10477,7 @@
       "importCount": 2,
       "exportCount": 1,
       "complexityScore": 144,
-      "lastModified": "2025-10-19T11:25:45.933Z",
+      "lastModified": "2025-10-19T11:37:15.604Z",
       "type": "js"
     },
     {
@@ -10607,7 +10617,7 @@
       "importCount": 4,
       "exportCount": 1,
       "complexityScore": 450,
-      "lastModified": "2025-10-19T11:25:26.250Z",
+      "lastModified": "2025-10-19T11:37:15.604Z",
       "type": "js"
     },
     {
@@ -10893,11 +10903,11 @@
     {
       "path": "data/areas.json",
       "sizeKB": 1,
-      "lines": 62,
+      "lines": 68,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 62,
-      "lastModified": "2025-10-19T11:23:31.741Z",
+      "complexityScore": 68,
+      "lastModified": "2025-10-19T12:25:04.319Z",
       "type": "json"
     },
     {
@@ -17003,11 +17013,11 @@
     {
       "path": "lib/resolveHeroImage.ts",
       "sizeKB": 8,
-      "lines": 229,
+      "lines": 238,
       "importCount": 4,
       "exportCount": 5,
-      "complexityScore": 233,
-      "lastModified": "2025-10-19T11:23:25.341Z",
+      "complexityScore": 242,
+      "lastModified": "2025-10-19T12:47:03.879Z",
       "type": "ts"
     },
     {
@@ -17037,17 +17047,17 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 7216,
-      "lastModified": "2025-10-18T23:59:37.728Z",
+      "lastModified": "2025-10-19T12:45:09.675Z",
       "type": "json"
     },
     {
       "path": "package.json",
       "sizeKB": 2,
-      "lines": 54,
+      "lines": 55,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 54,
-      "lastModified": "2025-10-19T11:22:39.694Z",
+      "complexityScore": 55,
+      "lastModified": "2025-10-19T12:49:05.675Z",
       "type": "json"
     },
     {
@@ -17063,21 +17073,21 @@
     {
       "path": "pages/[cuisine].js",
       "sizeKB": 16,
-      "lines": 334,
-      "importCount": 16,
+      "lines": 335,
+      "importCount": 17,
       "exportCount": 3,
-      "complexityScore": 350,
-      "lastModified": "2025-10-19T11:27:12.495Z",
+      "complexityScore": 352,
+      "lastModified": "2025-10-19T12:47:03.886Z",
       "type": "js"
     },
     {
       "path": "pages/_app.js",
-      "sizeKB": 0,
-      "lines": 23,
+      "sizeKB": 1,
+      "lines": 48,
       "importCount": 1,
       "exportCount": 1,
-      "complexityScore": 24,
-      "lastModified": "2025-10-18T14:31:24.917Z",
+      "complexityScore": 49,
+      "lastModified": "2025-10-19T12:47:03.896Z",
       "type": "js"
     },
     {
@@ -17102,12 +17112,12 @@
     },
     {
       "path": "pages/areas/[slug].js",
-      "sizeKB": 13,
-      "lines": 340,
-      "importCount": 12,
+      "sizeKB": 14,
+      "lines": 356,
+      "importCount": 13,
       "exportCount": 3,
-      "complexityScore": 352,
-      "lastModified": "2025-10-19T11:24:47.131Z",
+      "complexityScore": 369,
+      "lastModified": "2025-10-19T12:47:03.876Z",
       "type": "js"
     },
     {
@@ -17117,7 +17127,7 @@
       "importCount": 10,
       "exportCount": 2,
       "complexityScore": 209,
-      "lastModified": "2025-10-19T10:45:46.182Z",
+      "lastModified": "2025-10-19T11:37:15.613Z",
       "type": "js"
     },
     {
@@ -17759,6 +17769,506 @@
       "complexityScore": 107,
       "lastModified": "2025-10-18T14:31:24.931Z",
       "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/camden.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.976Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/camden.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:06.496Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/central-london.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.974Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/central-london.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:06.481Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/hackney.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.977Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/hackney.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:06.500Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/havering.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.975Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/havering.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:23.058Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/kensington-and-chelsea.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.978Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/kensington-and-chelsea.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:06.511Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/newham.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.976Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/newham.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:23.062Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/redbridge.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.975Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/redbridge.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:23.067Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/southwark.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.977Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/southwark.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:06.503Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/tower-hamlets.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.975Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/tower-hamlets.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:06.487Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/westminster.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.977Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/westminster.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:06.507Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/areas/whitechapel.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.978Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/areas/whitechapel.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:06.491Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/british.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.979Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/british.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:15.091Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/caribbean.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.982Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/caribbean.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:28.356Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/chinese.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.981Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/chinese.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:15.108Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/french.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.980Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/french.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:15.102Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/indian.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.978Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/indian.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:15.077Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/italian.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.979Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/italian.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:15.081Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/japanese.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.979Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/japanese.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:15.087Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/korean.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.981Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/korean.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:28.341Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/mediterranean.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.981Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/mediterranean.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:28.349Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/mexican.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.981Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/mexican.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:28.345Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/modern-european.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.979Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/modern-european.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:28.360Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/spanish.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.980Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/spanish.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:28.352Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/thai.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.980Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/thai.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:15.094Z",
+      "type": "webp"
+    },
+    {
+      "path": "public/images/heroes/cuisines/turkish.json",
+      "sizeKB": 0,
+      "lines": 9,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 9,
+      "lastModified": "2025-10-19T12:41:57.980Z",
+      "type": "json"
+    },
+    {
+      "path": "public/images/heroes/cuisines/turkish.webp",
+      "sizeKB": 482,
+      "lines": 0,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 0,
+      "lastModified": "2025-10-19T12:42:15.098Z",
+      "type": "webp"
     },
     {
       "path": "public/images/heroes/site/default-list-hero.webp",
@@ -28211,6 +28721,16 @@
       "type": "json"
     },
     {
+      "path": "reports/deployment_summary.json",
+      "sizeKB": 1,
+      "lines": 52,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 52,
+      "lastModified": "2025-10-19T11:54:23.123Z",
+      "type": "json"
+    },
+    {
       "path": "reports/duplicate_detection_summary.json",
       "sizeKB": 1924,
       "lines": 25498,
@@ -28242,12 +28762,12 @@
     },
     {
       "path": "reports/files_audit.json",
-      "sizeKB": 1032,
-      "lines": 33283,
+      "sizeKB": 1034,
+      "lines": 33349,
       "importCount": 0,
       "exportCount": 0,
-      "complexityScore": 33283,
-      "lastModified": "2025-10-19T11:27:39.926Z",
+      "complexityScore": 33349,
+      "lastModified": "2025-10-19T12:33:01.322Z",
       "type": "json"
     },
     {
@@ -28307,7 +28827,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 385,
-      "lastModified": "2025-10-19T11:27:39.926Z",
+      "lastModified": "2025-10-19T12:33:01.323Z",
       "type": "json"
     },
     {
@@ -28338,6 +28858,16 @@
       "exportCount": 0,
       "complexityScore": 12,
       "lastModified": "2025-10-18T14:31:24.979Z",
+      "type": "json"
+    },
+    {
+      "path": "reports/link_audit.json",
+      "sizeKB": 0,
+      "lines": 7,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 7,
+      "lastModified": "2025-10-19T11:30:36.645Z",
       "type": "json"
     },
     {
@@ -28388,6 +28918,16 @@
       "exportCount": 0,
       "complexityScore": 14847,
       "lastModified": "2025-10-18T16:59:05.624Z",
+      "type": "json"
+    },
+    {
+      "path": "reports/post_deploy_verification.json",
+      "sizeKB": 9,
+      "lines": 244,
+      "importCount": 0,
+      "exportCount": 0,
+      "complexityScore": 244,
+      "lastModified": "2025-10-19T11:50:05.791Z",
       "type": "json"
     },
     {
@@ -28447,7 +28987,7 @@
       "importCount": 0,
       "exportCount": 0,
       "complexityScore": 1124,
-      "lastModified": "2025-10-19T11:27:55.458Z",
+      "lastModified": "2025-10-19T12:41:08.780Z",
       "type": "json"
     },
     {
@@ -28787,7 +29327,7 @@
       "importCount": 4,
       "exportCount": 1,
       "complexityScore": 410,
-      "lastModified": "2025-10-19T11:20:34.521Z",
+      "lastModified": "2025-10-19T11:37:15.580Z",
       "type": "ts"
     },
     {
@@ -28817,7 +29357,7 @@
       "importCount": 2,
       "exportCount": 0,
       "complexityScore": 315,
-      "lastModified": "2025-10-19T11:21:11.433Z",
+      "lastModified": "2025-10-19T11:38:36.903Z",
       "type": "ts"
     },
     {
@@ -29037,7 +29577,7 @@
       "importCount": 2,
       "exportCount": 0,
       "complexityScore": 289,
-      "lastModified": "2025-10-19T11:21:45.769Z",
+      "lastModified": "2025-10-19T11:37:15.580Z",
       "type": "ts"
     },
     {
@@ -29527,7 +30067,7 @@
       "importCount": 2,
       "exportCount": 0,
       "complexityScore": 229,
-      "lastModified": "2025-10-19T11:22:22.462Z",
+      "lastModified": "2025-10-19T11:37:15.583Z",
       "type": "ts"
     },
     {
@@ -29549,6 +30089,16 @@
       "complexityScore": 502,
       "lastModified": "2025-10-18T14:31:25.015Z",
       "type": "js"
+    },
+    {
+      "path": "scripts/generateHeroImages.ts",
+      "sizeKB": 4,
+      "lines": 129,
+      "importCount": 2,
+      "exportCount": 0,
+      "complexityScore": 131,
+      "lastModified": "2025-10-19T12:47:03.876Z",
+      "type": "ts"
     },
     {
       "path": "scripts/generateLocationPages.js",
@@ -30810,6 +31360,7 @@
     "scripts/generateAuditSummary.ts",
     "scripts/generateComprehensiveSitemaps.js",
     "scripts/generateExecutiveReview.js",
+    "scripts/generateHeroImages.ts",
     "scripts/generateLocationPages.js",
     "scripts/generateLqip.ts",
     "scripts/generatePages.js",
@@ -30940,6 +31491,31 @@
     },
     {
       "files": [
+        "public/images/heroes/areas/camden.webp",
+        "public/images/heroes/areas/central-london.webp",
+        "public/images/heroes/areas/hackney.webp",
+        "public/images/heroes/areas/havering.webp",
+        "public/images/heroes/areas/kensington-and-chelsea.webp",
+        "public/images/heroes/areas/newham.webp",
+        "public/images/heroes/areas/redbridge.webp",
+        "public/images/heroes/areas/southwark.webp",
+        "public/images/heroes/areas/tower-hamlets.webp",
+        "public/images/heroes/areas/westminster.webp",
+        "public/images/heroes/areas/whitechapel.webp",
+        "public/images/heroes/cuisines/british.webp",
+        "public/images/heroes/cuisines/caribbean.webp",
+        "public/images/heroes/cuisines/chinese.webp",
+        "public/images/heroes/cuisines/french.webp",
+        "public/images/heroes/cuisines/indian.webp",
+        "public/images/heroes/cuisines/italian.webp",
+        "public/images/heroes/cuisines/japanese.webp",
+        "public/images/heroes/cuisines/korean.webp",
+        "public/images/heroes/cuisines/mediterranean.webp",
+        "public/images/heroes/cuisines/mexican.webp",
+        "public/images/heroes/cuisines/modern-european.webp",
+        "public/images/heroes/cuisines/spanish.webp",
+        "public/images/heroes/cuisines/thai.webp",
+        "public/images/heroes/cuisines/turkish.webp",
         "public/images/heroes/site/default-list-hero.webp",
         "public/images/heroes/site/home-hero.webp",
         "public/images/restaurants/mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY/mexican-mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY-hero-8a9f175b.webp"
@@ -32295,6 +32871,7 @@
     "backups/venues-pre-normalization-1760732782937.json",
     "backups/venues-pre-unique-images-1760735503748.json",
     "components/BILScore.js",
+    "components/BackToHome.tsx",
     "components/Badges.js",
     "components/BestOfLondonBadge.js",
     "components/Breadcrumbs.js",
@@ -33043,6 +33620,7 @@
     "reports/cuisine_mapping.json",
     "reports/data-audit.json",
     "reports/deployment_plan.json",
+    "reports/deployment_summary.json",
     "reports/duplicate_detection_summary.json",
     "reports/expansion-pipeline-1760657722216.json",
     "reports/fetch-places-report.json",
@@ -33058,6 +33636,7 @@
     "reports/meta_updates.json",
     "reports/performance_metrics.json",
     "reports/pipeline-baseline.json",
+    "reports/post_deploy_verification.json",
     "reports/preview_grid.json",
     "reports/qa_results.json",
     "reports/quota_status.json",
@@ -33174,6 +33753,7 @@
     "scripts/generateAuditSummary.ts",
     "scripts/generateComprehensiveSitemaps.js",
     "scripts/generateExecutiveReview.js",
+    "scripts/generateHeroImages.ts",
     "scripts/generateLocationPages.js",
     "scripts/generateLqip.ts",
     "scripts/generatePages.js",

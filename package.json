@@ -25,11 +25,12 @@
     "audit:tiles": "tsx scripts/auditTiles.ts",
     "audit:all": "npm run audit:images && npm run audit:tiles",
     "audit:files": "tsx scripts/auditFiles.ts",
-    "audit:routes": "tsx scripts/auditRoutes.ts", 
+    "audit:routes": "tsx scripts/auditRoutes.ts",
     "audit:links": "tsx scripts/checkLinks.ts",
     "audit:summary": "tsx scripts/generateAuditSummary.ts",
-    "audit:complete": "npm run audit:files && npm run audit:routes && npm run audit:links && npm run audit:summary",
+    "audit:complete": "npm run audit:files && npm run audit:routes && npm run audit:links && npm run audit:images && npm run audit:summary",
     "images:lqip": "tsx scripts/generateLqip.ts",
+    "post:verify": "node scripts/postDeployVerify.mjs",
     "postbuild": "echo 'Post-build completed'"
   },
   "dependencies": {
@@ -47,7 +48,7 @@
     "eslint-config-next": "13.5.6",
     "postcss": "^8",
     "sharp": "^0.34.4",
-    "tailwindcss": "^3.3.0",
+    "tailwindcss": "^3.4.18",
     "tsx": "^4.20.6"
   }
 }

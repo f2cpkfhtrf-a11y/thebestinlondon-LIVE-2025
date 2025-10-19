@@ -56,10 +56,18 @@ export function resolveHeroImage(ctx: {
   // Cuisine page hero
   else if (ctx.type === "list-cuisine" && ctx.cuisineSlug) {
     imageSrc = `/images/heroes/cuisines/${ctx.cuisineSlug}.webp`;
+    // Fallback chain: specific cuisine -> default list hero
+    if (!imageSrc || imageSrc.includes('undefined')) {
+      imageSrc = "/images/heroes/site/default-list-hero.webp";
+    }
   }
   // Area page hero
   else if (ctx.type === "list-area" && ctx.areaSlug) {
     imageSrc = `/images/heroes/areas/${ctx.areaSlug}.webp`;
+    // Fallback chain: specific area -> default list hero
+    if (!imageSrc || imageSrc.includes('undefined')) {
+      imageSrc = "/images/heroes/site/default-list-hero.webp";
+    }
   }
   // Halal restaurants page
   else if (ctx.type === "list-halal") {
