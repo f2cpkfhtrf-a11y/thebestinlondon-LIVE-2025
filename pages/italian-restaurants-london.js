@@ -75,7 +75,7 @@ export default function ItalianRestaurants({ venues }) {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          background: `linear-gradient(to bottom, rgba(11,11,11,0.5), rgba(11,11,11,0.75)), url('https://images.unsplash.com/photo-1595295333158-4742f28fbd85?w=2400&q=90')`,
+          background: `linear-gradient(to bottom, rgba(11,11,11,0.5), rgba(11,11,11,0.75)), url('/images/cuisines/italian-hero.webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed',

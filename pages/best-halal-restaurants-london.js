@@ -257,9 +257,9 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                   <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                     <div className="card overflow-hidden h-full group-hover:border-gold transition-all duration-300">
                       <div className="relative h-48">
-                        {venue.image_url || (venue.photos && venue.photos[0]) ? (
+                        {venue.image_card_path || venue.image_url || (venue.photos && venue.photos[0]) ? (
                           <ImageWithFallback
-                            src={venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
+                            src={venue.image_card_path || venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
                             alt={venue.image_alt || `${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-300"

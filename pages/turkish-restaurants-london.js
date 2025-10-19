@@ -68,7 +68,7 @@ export default function TurkishRestaurants({ venues }) {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          background: `linear-gradient(to bottom, rgba(11,11,11,0.5), rgba(11,11,11,0.75)), url('https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=2400&q=90')`,
+          background: `linear-gradient(to bottom, rgba(11,11,11,0.5), rgba(11,11,11,0.75)), url('/images/cuisines/turkish-hero.webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed',

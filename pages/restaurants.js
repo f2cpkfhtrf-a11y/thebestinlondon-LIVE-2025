@@ -41,7 +41,6 @@ export default function Restaurants({ venues, stats }) {
   const [filter, setFilter] = useState('all');
   const [sortBy, setSortBy] = useState('rating');
   const [scrolled, setScrolled] = useState(false);
-  const [filteredVenues, setFilteredVenues] = useState(venues);
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 50);
@@ -55,14 +54,14 @@ export default function Restaurants({ venues, stats }) {
   const availableDietaryTags = getDietaryTags(venues);
 
   // Filter venues by cuisine OR dietary tag
-  let filtered = filteredVenues;
+  let filtered = venues;
   if (filter !== 'all') {
     // Check if it's a dietary filter
     if (availableDietaryTags.includes(filter)) {
-      filtered = filterVenuesByDietary(filteredVenues, filter);
+      filtered = filterVenuesByDietary(venues, filter);
     } else {
       // Filter by cuisine
-      filtered = filterVenuesByCuisine(filteredVenues, filter);
+      filtered = filterVenuesByCuisine(venues, filter);
     }
   }
 
@@ -155,7 +154,7 @@ export default function Restaurants({ venues, stats }) {
                         : 'bg-warmWhite/10 text-warmWhite hover:bg-warmWhite/20'
                     }`}
                   >
-                    {cuisine} ({filteredVenues.filter(v => v.cuisines?.includes(cuisine)).length})
+                    {cuisine} ({venues.filter(v => v.cuisines?.includes(cuisine)).length})
                   </button>
                 ))}
               </div>

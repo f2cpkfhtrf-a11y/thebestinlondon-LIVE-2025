@@ -96,12 +96,12 @@ export function getDietaryTags(venues) {
 // Calculate venue statistics
 export function calculateVenueStats(venues) {
   const stats = {
-    total: venues.length,
+    totalVenues: venues.length,
     averageRating: 0,
     totalReviews: 0,
-    cuisineCount: 0,
-    areaCount: 0,
-    dietaryCount: 0
+    cuisines: 0,
+    areas: 0,
+    halalVenues: 0
   };
   
   if (venues.length === 0) return stats;
@@ -116,7 +116,7 @@ export function calculateVenueStats(venues) {
   // Count unique values
   const cuisines = new Set();
   const areas = new Set();
-  const dietaryTags = new Set();
+  let halalCount = 0;
   
   venues.forEach(venue => {
     if (venue.cuisines) {
@@ -125,14 +125,14 @@ export function calculateVenueStats(venues) {
     if (venue.borough) {
       areas.add(venue.borough);
     }
-    if (venue.dietary_tags) {
-      Object.keys(venue.dietary_tags).forEach(tag => dietaryTags.add(tag));
+    if (venue.halal_certified) {
+      halalCount++;
     }
   });
   
-  stats.cuisineCount = cuisines.size;
-  stats.areaCount = areas.size;
-  stats.dietaryCount = dietaryTags.size;
+  stats.cuisines = cuisines.size;
+  stats.areas = areas.size;
+  stats.halalVenues = halalCount;
   
   return stats;
 }
