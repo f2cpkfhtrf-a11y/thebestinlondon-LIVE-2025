@@ -1,0 +1,92 @@
+{
+  "routes": {
+    "/": {
+      "status": 200,
+      "total": 21,
+      "versioned": 11,
+      "bad": [
+        {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760991623474",
+          "ok": false,
+          "sc": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302
+        },
+        {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760991623474",
+          "ok": false,
+          "sc": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302
+        }
+      ]
+    },
+    "/cuisines": {
+      "status": 200,
+      "total": 16,
+      "versioned": 14,
+      "bad": [
+        {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985889165",
+          "ok": false,
+          "sc": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302
+        },
+        {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985889165",
+          "ok": false,
+          "sc": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302
+        },
+        {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760985889165",
+          "ok": false,
+          "sc": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302
+        }
+      ]
+    },
+    "/areas": {
+      "status": 200,
+      "total": 13,
+      "versioned": 11,
+      "bad": [
+        {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760985889312",
+          "ok": false,
+          "sc": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302
+        },
+        {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760985889312",
+          "ok": false,
+          "sc": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302
+        },
+        {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760985889312",
+          "ok": false,
+          "sc": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302
+        }
+      ]
+    },
+    "/best-halal-restaurants-london": {
+      "status": 200,
+      "total": 23,
+      "versioned": 1,
+      "bad": []
+    }
+  },
+  "summary": {
+    "all200": true,
+    "noBad": false,
+    "versioningOK": false
+  }
+}
