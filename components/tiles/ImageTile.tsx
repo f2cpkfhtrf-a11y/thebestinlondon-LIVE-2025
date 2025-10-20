@@ -20,7 +20,6 @@ const ImageTile: React.FC<ImageTileProps> = ({
 }) => {
   // Ensure we have a valid src
   if (!src) {
-    console.error('ImageTile: No src provided for', title);
     return null;
   }
 
