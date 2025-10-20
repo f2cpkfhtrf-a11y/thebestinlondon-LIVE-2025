@@ -39,10 +39,7 @@
     "deploy:auto": "node scripts/vercelAutoRetry.mjs",
     "deploy:verify": "node scripts/postDeployVerify.mjs --report reports/post_deploy_verification.json",
     "fix:tiles": "node scripts/fixMissingTileImages.mjs",
-    "postbuild": "echo 'Post-build completed'",
-    "images:luxury": "node scripts/generateLuxuryTiles.mjs",
-    "images:verify": "node scripts/verifyLuxuryImages.mjs",
-    "images:fix+verify": "npm run images:luxury && npm run images:verify"
+    "postbuild": "echo 'Post-build completed'"
   },
   "dependencies": {
     "axios": "^1.12.2",
