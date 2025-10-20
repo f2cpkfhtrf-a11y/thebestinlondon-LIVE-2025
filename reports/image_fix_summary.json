@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-10-20T18:40:18.977Z",
+  "scanned": {
+    "files": 56,
+    "directories": 4
+  },
+  "problems": {
+    "missing": 11,
+    "tooSmall": 3,
+    "placeholder": 3
+  },
+  "fixed": {
+    "created": 0,
+    "replaced": 0
+  },
+  "errors": [
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/italian.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/mexican.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/modern-european.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/seafood.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/tower-hamlets.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/newham.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/camden.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/soho.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/spitalfields.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/canary-wharf.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/stations/waterloo.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/restaurants/gymkhana-uPIWeLM0/hero.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/restaurants/kricket-soho-2UcQZFVQ/hero.webp: No suitable fallback found",
+    "/Users/htanweer/Desktop/thebestinlondon/public/images/restaurants/brigadiers-GVEiDv0Y/hero.webp: No suitable fallback found"
+  ]
+}
