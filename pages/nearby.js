@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
+import { resolveCardImageSync } from '../lib/resolveHeroImage';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -179,18 +180,15 @@ export default function Nearby({ topVenues, totalVenues }) {
                   <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                     <div className="card overflow-hidden h-full">
                       <div className="relative h-48">
-                        {venue.image_card_path || venue.image_url ? (
-                          <Image
-                            src={venue.image_card_path || venue.image_url}
-                            alt={venue.image_alt || `${venue.name} restaurant`}
-                            fill
-                            className="object-cover group-hover:scale-105 transition-transform duration-300"
-                          />
-                        ) : (
-                          <div className="w-full h-full bg-grey-dark flex items-center justify-center">
-                            <span className="text-grey text-sm">No Image</span>
-                          </div>
-                        )}
+                        <Image
+                          src={`${resolveCardImageSync({ venue })}?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`}
+                          alt={`${venue.name} - ${venue.cuisines?.join(', ') || 'restaurant'}`}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-300"
+                          onError={(e) => {
+                            e.target.src = `/images/heroes/site/default-card.webp?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`;
+                          }}
+                        />
                         <div className="absolute top-4 right-4">
                           <div className="bg-gold text-black px-2 py-1 rounded-lg text-sm font-semibold">
                             ⭐ {venue.rating?.toFixed(1)}
@@ -239,18 +237,15 @@ export default function Nearby({ topVenues, totalVenues }) {
                   <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                     <div className="card overflow-hidden h-full">
                       <div className="relative h-48">
-                        {venue.image_card_path || venue.image_url ? (
-                          <Image
-                            src={venue.image_card_path || venue.image_url}
-                            alt={venue.image_alt || `${venue.name} restaurant`}
-                            fill
-                            className="object-cover group-hover:scale-105 transition-transform duration-300"
-                          />
-                        ) : (
-                          <div className="w-full h-full bg-grey-dark flex items-center justify-center">
-                            <span className="text-grey text-sm">No Image</span>
-                          </div>
-                        )}
+                        <Image
+                          src={`${resolveCardImageSync({ venue })}?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`}
+                          alt={`${venue.name} - ${venue.cuisines?.join(', ') || 'restaurant'}`}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-300"
+                          onError={(e) => {
+                            e.target.src = `/images/heroes/site/default-card.webp?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`;
+                          }}
+                        />
                         <div className="absolute top-4 right-4">
                           <div className="bg-gold text-black px-2 py-1 rounded-lg text-sm font-semibold">
                             ⭐ {venue.rating?.toFixed(1)}

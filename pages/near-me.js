@@ -5,6 +5,7 @@ import { theme } from '../utils/theme';
 import FSABadge from '../components/FSABadge';
 import BestOfLondonBadge from '../components/BestOfLondonBadge';
 import NearMeFeature from '../components/NearMeFeature';
+import { resolveCardImageSync } from '../lib/resolveHeroImage';
 import fs from 'fs';
 import path from 'path';
 
@@ -181,15 +182,20 @@ export default function NearMePage({ venues }) {
                 walkingTime = getWalkingTime(distance);
               }
 
+              const imageUrl = resolveCardImageSync({ venue });
+
               return (
-                <Link key={venue.id || index} href={`/restaurant/${venue.slug}`}>
+                <Link key={venue.place_id || index} href={`/restaurant/${venue.slug}`}>
                   <article className="group bg-black-light rounded-xl overflow-hidden hover:bg-black-light/80 transition-all duration-300 hover:scale-105 hover:shadow-xl">
                     {/* Image */}
                     <div className="relative h-48 overflow-hidden">
                       <img
-                        src={venue.image_card_path || venue.photos?.[0]?.url || '/images/cuisines/london-hero.webp'}
-                        alt={venue.name}
+                        src={`${imageUrl}?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`}
+                        alt={`${venue.name} - ${venue.cuisines?.join(', ') || 'restaurant'}`}
                         className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                        onError={(e) => {
+                          e.target.src = `/images/heroes/site/default-card.webp?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`;
+                        }}
                       />
                       
                       {/* Overlay Badges */}

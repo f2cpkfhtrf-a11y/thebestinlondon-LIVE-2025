@@ -8,6 +8,7 @@ import FeaturedRestaurants from '../components/home/FeaturedRestaurants';
 import PopularAreas from '../components/home/PopularAreas';
 import Cuisines from '../components/home/Cuisines';
 import LatestAdds from '../components/home/LatestAdds';
+import LatestBlog from '../components/home/LatestBlog';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
 import Link from 'next/link';
 import { useEffect } from 'react';
@@ -66,11 +67,29 @@ export async function getStaticProps() {
       .slice(0, 8)
       .map(([cuisine, count]) => ({ cuisine, count }));
     
+    // Load blog data
+    let blogs = [];
+    try {
+      const contentDir = path.join(process.cwd(), 'content');
+      const blogDir = path.join(contentDir, 'blog');
+      
+      if (fs.existsSync(blogDir)) {
+        const blogFiles = fs.readdirSync(blogDir).filter(file => file.endsWith('.json'));
+        blogs = blogFiles.map(file => {
+          const content = fs.readFileSync(path.join(blogDir, file), 'utf8');
+          return JSON.parse(content);
+        }).sort((a, b) => new Date(b.publishedAtISO) - new Date(a.publishedAtISO));
+      }
+    } catch (error) {
+      console.log('No blog content found:', error.message);
+    }
+    
     return {
       props: {
         topVenues,
         stats,
-        popularCuisines
+        popularCuisines,
+        blogs
       },
       revalidate: 3600
     };
@@ -80,13 +99,14 @@ export async function getStaticProps() {
       props: {
         topVenues: [],
         stats: { totalVenues: 0, areas: 0, cuisines: 0, halalVenues: 0 },
-        popularCuisines: []
+        popularCuisines: [],
+        blogs: []
       }
     };
   }
 }
 
-export default function Home({ topVenues, stats, popularCuisines }) {
+export default function Home({ topVenues, stats, popularCuisines, blogs }) {
   // Get hero image for homepage
   const hero = resolveHeroImage({ type: "home" });
   
@@ -196,6 +216,7 @@ export default function Home({ topVenues, stats, popularCuisines }) {
             <PopularAreas venues={topVenues} stats={stats} />
             <Cuisines popularCuisines={popularCuisines} />
             <LatestAdds venues={topVenues} />
+            <LatestBlog blogs={blogs || []} />
           </main>
         </TabContainer>
         <Footer />
