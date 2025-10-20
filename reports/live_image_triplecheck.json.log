@@ -1,0 +1,28 @@
+
+📊 LIVE IMAGE TRIPLE-CHECK SUMMARY
+Aliases: ✅ PASS
+Routes: ✅ PASS
+Images (200 + type + ≥50KB): ❌ FAIL
+Versioned URLs (?v=): ❌ FAIL
+External image policy: ✅ PASS
+Cuisine tiles coverage: ✅ PASS (missing 16)
+Area tiles coverage: ❌ FAIL (missing 21)
+Restaurant heroes: ❌ FAIL
+
+First bad image samples:
+- 200 image/svg+xml 774B https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg
+- 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985884975
+- 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985884975
+- 200 image/svg+xml 519B https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg
+- 200 image/svg+xml 774B https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg
+- 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985889165
+- 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985889165
+- 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760985889165
+- 200 image/svg+xml 519B https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg
+- 200 image/svg+xml 774B https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg
+- 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760985889312
+- 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760985889312
+- 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760985889312
+- 200 image/svg+xml 519B https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg
+- 200 image/svg+xml 774B https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg
+- 200 image/svg+xml 519B https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg
