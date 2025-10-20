@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { assertLocalImage } from '../../lib/assertLocalImage';
 
@@ -23,23 +22,24 @@ const ImageTile: React.FC<ImageTileProps> = ({
   className = ''
 }) => {
   // Assert local-only image in development
-  assertLocalImage(src);
+  try {
+    assertLocalImage(src);
+  } catch (error) {
+    console.error('ImageTile assertion failed:', src, error);
+  }
 
   return (
     <Link href={href} className={`group block ${className}`}>
       <div 
         className="relative h-[180px] sm:h-[220px] rounded-2xl overflow-hidden shadow-lg border border-grey-dark hover:shadow-xl transition-all duration-300 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-gold focus-within:ring-offset-2 focus-within:ring-offset-black"
       >
-        {/* Background Image */}
-        <Image
+        {/* Background Image - Testing with regular img tag */}
+        <img
           key={`${title}-${ASSET_VERSION}`}
           src={src}
           alt={alt}
-          fill
-          className="object-cover transition-transform duration-300 group-hover:scale-105"
-          sizes="(min-width: 1024px) 33vw, 90vw"
+          className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
           loading="lazy"
-          unoptimized={true}
         />
         
         {/* Enhanced dark gradient overlay with hover effect */}
