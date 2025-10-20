@@ -1,0 +1,65 @@
+name: Weekly Content Refresh
+
+on:
+  schedule:
+    - cron: '0 2 * * 1' # Every Monday at 2 AM UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  content-refresh:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Generate content
+        run: npm run content:gen
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      
+      - name: Verify content
+        run: npm run content:verify
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet content/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/
+          git commit -m "🤖 Weekly content refresh: Update blogs and FAQs"
+          git push
+      
+      - name: Build and verify
+        if: steps.changes.outputs.changed == 'true'
+        run: npm run build
+      
+      - name: Report status
+        if: always()
+        run: |
+          if [ "${{ steps.changes.outputs.changed }}" == "true" ]; then
+            echo "✅ Content refreshed successfully"
+          else
+            echo "ℹ️ No content changes needed"
+          fi
