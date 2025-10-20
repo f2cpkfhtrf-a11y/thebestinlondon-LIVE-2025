@@ -61,7 +61,7 @@ export default function Areas({ areas, totalVenues }) {
   const [filteredAreas, setFilteredAreas] = useState(areas);
   
   // Get hero image for areas page
-  const hero = resolveHeroImage({ type: "list-all" });
+  const hero = resolveHeroImage({ type: "list-areas" });
 
   useEffect(() => {
     if (searchTerm) {
