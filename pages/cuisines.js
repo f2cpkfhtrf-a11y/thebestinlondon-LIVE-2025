@@ -136,6 +136,7 @@ export default function Cuisines({ cuisines, totalVenues }) {
               {filteredCuisines.map((cuisine) => {
                 const cuisineSlug = cuisine.slug.replace('-restaurants-london', '');
                 const imagePath = resolveTileImage({ type: "cuisine", slug: cuisineSlug });
+                console.log(`Cuisine: ${cuisine.name}, Slug: ${cuisineSlug}, Path: ${imagePath}`);
                 return (
                   <ImageTile
                     key={cuisine.slug}

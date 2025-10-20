@@ -3,8 +3,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { assertLocalImage } from '../../lib/assertLocalImage';
 
-const ASSET_VERSION = process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1';
-
 interface ImageTileProps {
   title: string;
   subtitle?: string;
@@ -13,6 +11,8 @@ interface ImageTileProps {
   alt: string;
   className?: string;
 }
+
+const ASSET_VERSION = process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1';
 
 const ImageTile: React.FC<ImageTileProps> = ({
   title,
@@ -25,9 +25,6 @@ const ImageTile: React.FC<ImageTileProps> = ({
   // Assert local-only image in development
   assertLocalImage(src);
 
-  // Create a unique key similar to the working halal page pattern
-  const imageKey = `tile-${title.replace(/[^a-zA-Z0-9]/g, '-')}-${ASSET_VERSION}`;
-
   return (
     <Link href={href} className={`group block ${className}`}>
       <div 
@@ -35,13 +32,14 @@ const ImageTile: React.FC<ImageTileProps> = ({
       >
         {/* Background Image */}
         <Image
-          key={imageKey}
+          key={`${title}-${ASSET_VERSION}`}
           src={src}
           alt={alt}
           fill
           className="object-cover transition-transform duration-300 group-hover:scale-105"
           sizes="(min-width: 1024px) 33vw, 90vw"
           loading="lazy"
+          unoptimized={true}
         />
         
         {/* Enhanced dark gradient overlay with hover effect */}
