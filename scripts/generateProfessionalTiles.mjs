@@ -11,107 +11,107 @@ const __dirname = path.dirname(__filename);
 // Define the base directory
 const baseDir = path.join(__dirname, '..', 'public', 'images', 'tiles');
 
-// Professional, high-quality image mappings for cuisine tiles
+// Professional, high-quality image mappings for cuisine tiles with hyperspecific search terms
 const cuisineImageMappings = {
   'british': {
     url: 'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=1600&h=900&fit=crop',
-    prompt: 'Professional British food photography: fish and chips with golden crispy batter, roast dinner with yorkshire pudding, traditional English pub food'
+    prompt: 'British fish and chips traditional english breakfast roast dinner yorkshire pudding'
   },
   'indian': {
     url: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&h=900&fit=crop',
-    prompt: 'Professional Indian cuisine photography: aromatic curry dishes with naan bread, colorful spices'
+    prompt: 'Chicken tikka masala curry indian restaurant naan bread indian spices'
   },
   'italian': {
     url: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=900&fit=crop',
-    prompt: 'Professional Italian food photography: fresh pasta dishes, authentic pizza'
+    prompt: 'Spaghetti carbonara margherita pizza authentic italian pasta italian restaurant'
   },
   'japanese': {
     url: 'https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&h=900&fit=crop',
-    prompt: 'Professional Japanese cuisine photography: fresh sushi rolls, ramen bowls'
+    prompt: 'Nigiri sushi sashimi ramen noodles japanese cuisine izakaya'
   },
   'turkish': {
     url: 'https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=1600&h=900&fit=crop',
-    prompt: 'Professional Turkish cuisine photography: kebabs, mezze platters'
+    prompt: 'Doner kebab shish turkish grill mezze turkish restaurant'
   },
   'thai': {
     url: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=1600&h=900&fit=crop',
-    prompt: 'Professional Thai cuisine photography: pad thai, green curry'
+    prompt: 'Pad thai noodles green curry thai restaurant thai cuisine'
   },
   'mexican': {
     url: 'https://images.unsplash.com/photo-1565299585323-38174c4a87d8?w=1600&h=900&fit=crop',
-    prompt: 'Professional Mexican cuisine photography: tacos, burritos, fresh ingredients'
+    prompt: 'Beef tacos authentic mexican restaurant mexican cuisine burritos'
   },
   'korean': {
     url: 'https://images.unsplash.com/photo-1591814468924-caf88d1232e1?w=1600&h=900&fit=crop',
-    prompt: 'Professional Korean cuisine photography: bibimbap, Korean BBQ'
+    prompt: 'Korean bbq bulgogi kimchi side dishes korean restaurant'
   },
   'french': {
     url: 'https://images.unsplash.com/photo-1551218808-94e220e084d2?w=1600&h=900&fit=crop',
-    prompt: 'Professional French cuisine photography: classic French dishes, fine dining'
+    prompt: 'Croissant french pastry paris cafe french cuisine bistro'
   },
   'chinese': {
     url: 'https://images.unsplash.com/photo-1563379091339-03246963d51a?w=1600&h=900&fit=crop',
-    prompt: 'Professional Chinese cuisine photography: dumplings, stir-fry dishes'
+    prompt: 'Dim sum dumplings chinese noodles chinese restaurant stir fry'
   },
   'spanish': {
     url: 'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1600&h=900&fit=crop',
-    prompt: 'Professional Spanish cuisine photography: paella, tapas'
+    prompt: 'Seafood paella spanish tapas spanish cuisine sangria'
   },
   'caribbean': {
     url: 'https://images.unsplash.com/photo-1546554137-f86b9593a222?w=1600&h=900&fit=crop',
-    prompt: 'Professional Caribbean cuisine photography: jerk chicken, tropical flavors'
+    prompt: 'Jerk chicken rice peas caribbean cuisine caribbean restaurant'
   },
   'mediterranean': {
     url: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1600&h=900&fit=crop',
-    prompt: 'Professional Mediterranean cuisine photography: fresh seafood, olive oil'
+    prompt: 'Greek salad mediterranean seafood mezze mediterranean restaurant'
   },
   'modern-european': {
     url: 'https://images.unsplash.com/photo-1553521041-d168efeecd30?w=1600&h=900&fit=crop',
-    prompt: 'Professional fine dining photography: modern European cuisine, elegant plating'
+    prompt: 'Fine dining plated dish michelin star modern european restaurant'
   },
   'lebanese': {
     url: 'https://images.unsplash.com/photo-1581287053822-fd7bf4f4bfec?w=1600&h=900&fit=crop',
-    prompt: 'Professional Lebanese cuisine photography: mezze platters'
+    prompt: 'Lebanese mezze platters hummus falafel lebanese restaurant'
   },
   'vegan': {
     url: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1600&h=900&fit=crop',
-    prompt: 'Professional vegan cuisine photography: fresh plant-based dishes'
+    prompt: 'Vegan cuisine plant based dishes fresh vegetables healthy'
   },
   'vegetarian': {
     url: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?w=1600&h=900&fit=crop',
-    prompt: 'Professional vegetarian cuisine photography: fresh vegetables'
+    prompt: 'Vegetarian dishes fresh vegetables plant based cuisine'
   },
   'halal': {
     url: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1600&h=900&fit=crop',
-    prompt: 'Professional halal cuisine photography: traditional halal food'
+    prompt: 'Halal restaurant middle eastern food halal cuisine london'
   },
   'bakery': {
     url: 'https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=1600&h=900&fit=crop',
-    prompt: 'Professional bakery photography: fresh bread, pastries'
+    prompt: 'Fresh bread artisan bakery pastries cakes bakery display'
   },
   'burgers': {
     url: 'https://images.unsplash.com/photo-1571091655789-405eb7a3a3a8?w=1600&h=900&fit=crop',
-    prompt: 'Professional burger photography: gourmet burgers'
+    prompt: 'Gourmet burgers gourmet burger restaurant premium beef patty'
   },
   'cafe': {
     url: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1600&h=900&fit=crop',
-    prompt: 'Professional coffee photography: specialty coffee, latte art'
+    prompt: 'Specialty coffee latte art cafe interior coffee shop'
   },
   'desserts': {
     url: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=1600&h=900&fit=crop',
-    prompt: 'Professional dessert photography: high-end desserts'
+    prompt: 'High end desserts pastries sweet treats dessert platter'
   },
   'pizza': {
     url: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=900&fit=crop',
-    prompt: 'Professional pizza photography: traditional pizza'
+    prompt: 'Traditional pizza wood fired oven fresh mozzarella pizza restaurant'
   },
   'seafood': {
     url: 'https://images.unsplash.com/photo-1553909489-cd47e0ef937f?w=1600&h=900&fit=crop',
-    prompt: 'Professional seafood photography: fresh fish, shellfish'
+    prompt: 'Fresh fish shellfish seafood restaurant ocean to table'
   },
   'steakhouse': {
     url: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=1600&h=900&fit=crop',
-    prompt: 'Professional steak photography: premium cuts'
+    prompt: 'Premium cuts steakhouse grilled to perfection fine dining steak'
   }
 };
 
@@ -123,15 +123,15 @@ const areaImageMappings = {
   },
   'tower-hamlets': {
     url: 'https://images.unsplash.com/photo-1539650116574-75c0c6d73c6e?w=1600&h=900&fit=crop&crop=center',
-    prompt: 'Professional Canary Wharf photography: modern skyscrapers, financial district, contemporary London architecture'
+    prompt: 'Canary wharf towers london docklands tower hamlets london financial district'
   },
   'camden': {
     url: 'https://images.unsplash.com/photo-1544919980-2a84fe0ee0af?w=1600&h=900&fit=crop&crop=center',
-    prompt: 'Professional Camden photography: Camden Market, vibrant street scenes, alternative London culture'
+    prompt: 'Camden lock market london stalls camden market london street scene'
   },
   'hackney': {
     url: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&h=900&fit=crop&crop=center',
-    prompt: 'Professional Shoreditch photography: street art, trendy cafes, hipster culture, creative district'
+    prompt: 'Dalston london hackney street market hackney london neighborhood'
   },
   'southwark': {
     url: 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1600&h=900&fit=crop&crop=center',
@@ -151,11 +151,15 @@ const areaImageMappings = {
   },
   'redbridge': {
     url: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&h=900&fit=crop&crop=center',
-    prompt: 'Professional suburban London photography: residential areas, parks, local community'
+    prompt: 'Ilford high street london redbridge redbridge london neighborhood street'
   },
   'havering': {
     url: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&h=900&fit=crop&crop=center',
-    prompt: 'Professional outer London photography: suburban areas, green spaces, residential neighborhoods'
+    prompt: 'Romford market london havering havering borough london street'
+  },
+  'hackney': {
+    url: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&h=900&fit=crop&crop=center',
+    prompt: 'Dalston london hackney street market hackney london neighborhood'
   },
   'shoreditch': {
     url: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&h=900&fit=crop&crop=center',
@@ -215,8 +219,28 @@ const areaImageMappings = {
   }
 };
 
+// Page hero image mappings for main pages
+const heroImageMappings = {
+  'restaurants-hero': {
+    url: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1920&h=1080&fit=crop',
+    prompt: 'London restaurant interior fine dining elegant restaurant dining room'
+  },
+  'areas-hero': {
+    url: 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1920&h=1080&fit=crop',
+    prompt: 'London neighborhoods map aerial city london skyline overview'
+  },
+  'cuisines-hero': {
+    url: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1920&h=1080&fit=crop',
+    prompt: 'International food variety multicultural cuisine diverse restaurant foods'
+  },
+  'halal-hero': {
+    url: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1920&h=1080&fit=crop',
+    prompt: 'Halal restaurant london middle eastern food halal cuisine london'
+  }
+};
+
 // Function to download and process image
-async function downloadAndProcessImage(url, outputPath, prompt) {
+async function downloadAndProcessImage(url, outputPath, prompt, isHero = false) {
   try {
     console.log(`📥 Downloading: ${outputPath.split('/').pop()}`);
     console.log(`   Prompt: ${prompt}`);
@@ -229,9 +253,13 @@ async function downloadAndProcessImage(url, outputPath, prompt) {
     
     const buffer = await response.arrayBuffer();
     
+    // Set dimensions based on whether it's a hero image or tile
+    const width = isHero ? 1920 : 1600;
+    const height = isHero ? 1080 : 900;
+    
     // Process with Sharp to ensure proper format and size
     await sharp(Buffer.from(buffer))
-      .resize(1600, 900, { fit: 'cover', position: 'center' })
+      .resize(width, height, { fit: 'cover', position: 'center' })
       .webp({ quality: 85, effort: 6 })
       .toFile(outputPath);
     
@@ -254,6 +282,35 @@ function ensureDir(dirPath) {
   if (!fs.existsSync(dirPath)) {
     fs.mkdirSync(dirPath, { recursive: true });
   }
+}
+
+// Function to generate page hero images
+async function generatePageHeroes() {
+  console.log('\n🖼️  Generating Page Hero Images...');
+  
+  // Ensure heroes directory exists
+  const heroesDir = path.join(__dirname, '..', 'public', 'images', 'heroes', 'pages');
+  ensureDir(heroesDir);
+  
+  let heroSuccessCount = 0;
+  let heroErrorCount = 0;
+  
+  for (const [slug, config] of Object.entries(heroImageMappings)) {
+    try {
+      const outputPath = path.join(heroesDir, `${slug}.webp`);
+      await downloadAndProcessImage(config.url, outputPath, config.prompt, true); // isHero = true
+      heroSuccessCount++;
+    } catch (error) {
+      console.error(`Failed to generate hero ${slug}:`, error.message);
+      heroErrorCount++;
+    }
+  }
+  
+  console.log(`\n📊 Hero Generation Complete:`);
+  console.log(`   ✅ Successfully generated: ${heroSuccessCount} hero images`);
+  console.log(`   ❌ Failed: ${heroErrorCount} hero images`);
+  
+  return { heroSuccessCount, heroErrorCount };
 }
 
 // Main execution
@@ -293,15 +350,20 @@ async function generateProfessionalTiles() {
     }
   }
   
-  console.log(`\n📊 Generation Complete:`);
-  console.log(`   ✅ Successfully generated: ${successCount} images`);
-  console.log(`   ❌ Failed: ${errorCount} images`);
+  // Generate page heroes
+  const { heroSuccessCount, heroErrorCount } = await generatePageHeroes();
   
-  if (errorCount === 0) {
-    console.log('\n🎉 All professional tile images generated successfully!');
+  console.log(`\n📊 Generation Complete:`);
+  console.log(`   ✅ Tiles: ${successCount} images`);
+  console.log(`   ✅ Heroes: ${heroSuccessCount} images`);
+  console.log(`   ❌ Failed tiles: ${errorCount} images`);
+  console.log(`   ❌ Failed heroes: ${heroErrorCount} images`);
+  
+  if (errorCount === 0 && heroErrorCount === 0) {
+    console.log('\n🎉 All professional images generated successfully!');
     console.log('   Ready for commit and deployment.');
   } else {
-    console.log(`\n⚠️  ${errorCount} images failed to generate. Please check the errors above.`);
+    console.log(`\n⚠️  ${errorCount + heroErrorCount} images failed to generate. Please check the errors above.`);
   }
 }
 
