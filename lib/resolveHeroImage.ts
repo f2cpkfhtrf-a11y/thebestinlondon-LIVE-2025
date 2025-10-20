@@ -64,7 +64,8 @@ export function resolveTileImage(opts: { type: "cuisine"|"area"|"station"; slug:
   // Last resort (still local)
   const finalPath = candidate || DEFAULTS.site;
   assertLocalImage(finalPath);
-  return appendVersionQuery(finalPath);
+  // Return clean path without query parameters for Next.js Image compatibility
+  return finalPath;
 }
 
 // --- Venue hero: prefer venue hero > first gallery > cuisine tile > area tile > site default
@@ -305,14 +306,14 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   if (!venue) {
     const defaultCardPath = "/images/heroes/site/default-card.webp";
     assertLocalImage(defaultCardPath);
-    return appendVersionQuery(defaultCardPath);
+    return defaultCardPath;
   }
   
   // Primary: Use provided venue card path if available
   if (venue.image_card_path && !venue.image_card_path.includes('placeholder')) {
     const cardPath = venue.image_card_path.replace('/public', '');
     assertLocalImage(cardPath);
-    return appendVersionQuery(cardPath);
+    return cardPath;
   }
   
   // Secondary: Try venue-specific card
@@ -320,7 +321,7 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   if (venueSlug) {
     const venueCardPath = `/images/restaurants/${venueSlug}/${venueSlug}-card.webp`;
     assertLocalImage(venueCardPath);
-    return appendVersionQuery(venueCardPath);
+    return venueCardPath;
   }
   
   // Tertiary: Try cuisine-based fallback using new tile resolver
@@ -339,7 +340,7 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   // Final fallback
   const defaultCardPath = "/images/heroes/site/default-card.webp";
   assertLocalImage(defaultCardPath);
-  return appendVersionQuery(defaultCardPath);
+  return defaultCardPath;
 }
 
 // Helper functions for area and cuisine images

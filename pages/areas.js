@@ -142,13 +142,14 @@ export default function Areas({ areas, totalVenues }) {
             
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
               {filteredAreas.map((area) => {
+                const imagePath = resolveTileImage({ type: "area", slug: area.slug });
                 return (
                   <ImageTile
                     key={area.slug}
                     title={area.name}
                     subtitle={`${area.count} restaurants`}
                     href={`/areas/${area.slug}`}
-                    src={resolveTileImage({ type: "area", slug: area.slug })}
+                    src={imagePath}
                     alt={`Popular restaurants in ${area.name}`}
                   />
                 );

@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { assertLocalImage } from '../../lib/assertLocalImage';
 import { getBlurAndColor, getBlurDataUrl } from '../../lib/imagePlaceholders';
 
+const ASSET_VERSION = process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1';
+
 interface ImageTileProps {
   title: string;
   subtitle?: string;
@@ -28,6 +30,9 @@ const ImageTile: React.FC<ImageTileProps> = ({
   const { blurSrc, color } = getBlurAndColor(src);
   const blurDataUrl = blurSrc ? getBlurDataUrl(blurSrc) : undefined;
 
+  // Create a unique key that includes the asset version for cache-busting
+  const imageKey = `${src.replace(/[^a-zA-Z0-9]/g, '-')}-${ASSET_VERSION}`;
+
   return (
     <Link href={href} className={`group block ${className}`}>
       <div 
@@ -36,6 +41,7 @@ const ImageTile: React.FC<ImageTileProps> = ({
       >
         {/* Background Image */}
         <Image
+          key={imageKey}
           src={src}
           alt={alt}
           fill
