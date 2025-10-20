@@ -1,19 +1,25 @@
 {
-  "aliases": {
-    "www": {
-      "status": 200
-    },
-    "apex": {
-      "status": 307,
-      "location": "https://www.thebestinlondon.co.uk/"
-    }
-  },
   "routes": {
     "/": {
       "status": 200,
       "localCount": 21,
-      "externalCount": 0,
       "versionedCount": 11,
+      "bad": [
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985884975"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985884975"
+        }
+      ],
       "probes": [
         {
           "ok": true,
@@ -167,8 +173,30 @@
     "/cuisines": {
       "status": 200,
       "localCount": 16,
-      "externalCount": 0,
       "versionedCount": 14,
+      "bad": [
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985889165"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985889165"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760985889165"
+        }
+      ],
       "probes": [
         {
           "ok": true,
@@ -287,8 +315,30 @@
     "/areas": {
       "status": 200,
       "localCount": 13,
-      "externalCount": 0,
       "versionedCount": 11,
+      "bad": [
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760985889312"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760985889312"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760985889312"
+        }
+      ],
       "probes": [
         {
           "ok": true,
@@ -386,8 +436,8 @@
     "/best-halal-restaurants-london": {
       "status": 200,
       "localCount": 23,
-      "externalCount": 0,
       "versionedCount": 1,
+      "bad": [],
       "probes": [
         {
           "ok": true,
@@ -553,344 +603,15 @@
       ]
     }
   },
-  "tiles": {
-    "cuisines": {
-      "foundCount": 14,
-      "missingCount": 16,
-      "missing": [
-        "lebanese",
-        "pakistani",
-        "bangladeshi",
-        "iranian",
-        "afghan",
-        "middle-eastern",
-        "vegan",
-        "vegetarian",
-        "halal",
-        "steakhouse",
-        "seafood",
-        "pizza",
-        "burgers",
-        "cafe",
-        "bakery",
-        "desserts"
-      ]
-    },
-    "areas": {
-      "foundCount": 10,
-      "missingCount": 21,
-      "missing": [
-        "islington",
-        "lambeth",
-        "soho",
-        "shoreditch",
-        "covent-garden",
-        "mayfair",
-        "marylebone",
-        "fitzrovia",
-        "holborn",
-        "clerkenwell",
-        "whitechapel",
-        "spitalfields",
-        "brick-lane",
-        "borough",
-        "london-bridge",
-        "canary-wharf",
-        "greenwich",
-        "wimbledon",
-        "clapham",
-        "brixton",
-        "stratford"
-      ]
-    }
-  },
-  "restaurantSamples": [
-    {
-      "slug": "saffron-street-_CaG7g_o",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 0
-    },
-    {
-      "slug": "granger-and-co-notting-hill-jZA3l7-w",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "anglothai-a6lDN5es",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "cirrik-19-numara-bos-aBzE5bwY",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "oita-soho-xrSS0hZo",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "peacock-london-zg_TLvpA",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "house-of-ming-bmTrCQPc",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "gloria-fPFxdplY",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 0
-    },
-    {
-      "slug": "taste-of-lahore-JVquuZ94",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "band-of-burgers-camden-hSECPqTc",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "florattica-rooftop-london-tyhGZkk4",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "gkyz-green-lanes-y26cz5pA",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 0
-    },
-    {
-      "slug": "maple-brunch-cafe--18grF3o",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "maru-london-yQBXwWAI",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "xix-nineteen-72oCuJLc",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "la-gamba-spanish-tapas-bar-restaurant-7T6hRrh8",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "the-pizza-room-mile-end-sUb1kfR0",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 0
-    },
-    {
-      "slug": "mexican-seoul-G3LgXTqI",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 0
-    },
-    {
-      "slug": "canto-corvino-w6jbS4UY",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    },
-    {
-      "slug": "liverpool-street-chop-house-tavern-cD3Bf3gs",
-      "status": 200,
-      "totalLocalImgs": 1,
-      "versionedLocalImgs": 1,
-      "heroCandidates": 1,
-      "okImageCount": 1
-    }
-  ],
-  "policy": {
-    "externalImages": []
-  },
   "summary": {
     "aliases_ok": true,
     "routes_ok": true,
     "images_ok": false,
-    "versioning_ok": false,
-    "external_policy_ok": true,
-    "cuisines_tiles_ok": true,
-    "areas_tiles_ok": false,
-    "restaurants_ok": false,
-    "bad_images": [
-      {
-        "ok": true,
-        "status": 200,
-        "ct": "image/svg+xml",
-        "cl": 774,
-        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
-      },
-      {
-        "ok": false,
-        "status": 404,
-        "ct": "text/html; charset=utf-8",
-        "cl": 3302,
-        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985884975"
-      },
-      {
-        "ok": false,
-        "status": 404,
-        "ct": "text/html; charset=utf-8",
-        "cl": 3302,
-        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985884975"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "ct": "image/svg+xml",
-        "cl": 519,
-        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "ct": "image/svg+xml",
-        "cl": 774,
-        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
-      },
-      {
-        "ok": false,
-        "status": 404,
-        "ct": "text/html; charset=utf-8",
-        "cl": 3302,
-        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985889165"
-      },
-      {
-        "ok": false,
-        "status": 404,
-        "ct": "text/html; charset=utf-8",
-        "cl": 3302,
-        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985889165"
-      },
-      {
-        "ok": false,
-        "status": 404,
-        "ct": "text/html; charset=utf-8",
-        "cl": 3302,
-        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760985889165"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "ct": "image/svg+xml",
-        "cl": 519,
-        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "ct": "image/svg+xml",
-        "cl": 774,
-        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
-      },
-      {
-        "ok": false,
-        "status": 404,
-        "ct": "text/html; charset=utf-8",
-        "cl": 3302,
-        "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760985889312"
-      },
-      {
-        "ok": false,
-        "status": 404,
-        "ct": "text/html; charset=utf-8",
-        "cl": 3302,
-        "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760985889312"
-      },
-      {
-        "ok": false,
-        "status": 404,
-        "ct": "text/html; charset=utf-8",
-        "cl": 3302,
-        "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760985889312"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "ct": "image/svg+xml",
-        "cl": 519,
-        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "ct": "image/svg+xml",
-        "cl": 774,
-        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "ct": "image/svg+xml",
-        "cl": 519,
-        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
-      }
-    ]
+    "versioning_ok": false
+  },
+  "aliases": {
+    "www": 200,
+    "apex": 307,
+    "apexLoc": "https://www.thebestinlondon.co.uk/"
   }
 }
