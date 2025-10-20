@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-10-20T22:49:04.205Z",
+  "checks": {
+    "navigation": {
+      "routes": [
+        {
+          "path": "/",
+          "expected": true
+        },
+        {
+          "path": "/cuisines",
+          "expected": true
+        },
+        {
+          "path": "/areas",
+          "expected": true
+        },
+        {
+          "path": "/blog",
+          "expected": true
+        },
+        {
+          "path": "/faq",
+          "expected": true
+        },
+        {
+          "path": "/best-halal-restaurants-london",
+          "expected": true
+        },
+        {
+          "path": "/restaurants",
+          "expected": true
+        }
+      ],
+      "status": "checked"
+    },
+    "heroImages": {
+      "localOnly": true,
+      "versioned": true,
+      "status": "pass"
+    },
+    "nearMe": {
+      "pageExists": true,
+      "status": "pass"
+    },
+    "halalStats": {
+      "totalVenues": 511,
+      "halalVenues": 11,
+      "percentage": "2.2",
+      "status": "checked"
+    },
+    "criticalRoutes": {
+      "expected": 6,
+      "found": 6,
+      "missing": [],
+      "status": "pass"
+    },
+    "imageAssets": {
+      "tilesDir": true,
+      "heroesDir": true,
+      "status": "pass"
+    },
+    "cacheBusting": {
+      "configured": true,
+      "status": "pass"
+    },
+    "externalImages": {
+      "hasExternalUrls": false,
+      "status": "pass"
+    }
+  }
+}
