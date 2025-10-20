@@ -1,0 +1,127 @@
+[
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/british.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mediterranean.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/indian.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/turkish.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/japanese.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/french.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/thai.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/korean.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/spanish.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/chinese.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/caribbean.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/central-london.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/redbridge.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/havering.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/hackney.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/southwark.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/westminster.webp?v=v1",
+    "status": 200,
+    "ok": true
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/kensington-and-chelsea.webp?v=v1",
+    "status": 404,
+    "ok": false
+  },
+  {
+    "url": "https://www.thebestinlondon.co.uk/images/heroes/site-default.webp?v=v1",
+    "status": 404,
+    "ok": false
+  }
+]

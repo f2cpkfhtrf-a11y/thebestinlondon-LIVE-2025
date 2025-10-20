@@ -1,4 +1,11 @@
 import { assertLocalImage } from './assertLocalImage';
+
+const ASSET_VERSION = process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1';
+function appendVersionQuery(src: string): string {
+  if (!src || typeof src !== 'string') return src;
+  return src.includes('?') ? src + '&v=' + ASSET_VERSION : src + '?v=' + ASSET_VERSION;
+}
+
 import areaImageMap from '../data/areaImageMap';
 import cuisineImageMap from '../data/cuisineImageMap';
 import { logImageFallback } from './logImageIssue';
@@ -57,7 +64,7 @@ export function resolveTileImage(opts: { type: "cuisine"|"area"|"station"; slug:
   // Last resort (still local)
   const finalPath = candidate || DEFAULTS.site;
   assertLocalImage(finalPath);
-  return finalPath;
+  return appendVersionQuery(finalPath);
 }
 
 // --- Venue hero: prefer venue hero > first gallery > cuisine tile > area tile > site default
@@ -68,13 +75,13 @@ export function resolveVenueHero(opts: {
   
   if (v.hero) {
     assertLocalImage(v.hero);
-    return v.hero;
+    return appendVersionQuery(v.hero);
   }
   
   if (Array.isArray(v.images) && v.images.length) {
     const imageUrl = v.images[0]!;
     assertLocalImage(imageUrl);
-    return imageUrl;
+    return appendVersionQuery(imageUrl);
   }
   
   if (v.cuisine) return resolveTileImage({ type: "cuisine", slug: v.cuisine });
@@ -82,7 +89,7 @@ export function resolveVenueHero(opts: {
   
   const defaultPath = DEFAULTS.site;
   assertLocalImage(defaultPath);
-  return defaultPath;
+  return appendVersionQuery(defaultPath);
 }
 
 export function resolveHeroImage(ctx: {
@@ -209,7 +216,7 @@ export function resolveHeroImage(ctx: {
   const srcLg = basePath.includes('-hero') ? imageSrc.replace('-hero.webp', '-hero-xl.webp') : imageSrc;
 
   const result: { src: string; alt: string; srcMd?: string; srcLg?: string } = {
-    src: imageSrc,
+    src: appendVersionQuery(imageSrc),
     alt: `Hero image for ${ctx.cuisineSlug || ctx.areaSlug || ctx.venue?.name || "The Best in London"}`,
   };
 
@@ -255,7 +262,7 @@ export async function resolveCardImage(opts: {
     if (venue.image_card_path && !venue.image_card_path.includes('placeholder')) {
       const cardPath = venue.image_card_path.replace('/public', '');
       assertLocalImage(cardPath);
-      return cardPath;
+      return appendVersionQuery(cardPath);
     }
     
     // Secondary: Try venue-specific card
@@ -263,7 +270,7 @@ export async function resolveCardImage(opts: {
     if (venueSlug) {
       const venueCardPath = `/images/restaurants/${venueSlug}/${venueSlug}-card.webp`;
       assertLocalImage(venueCardPath);
-      return venueCardPath;
+      return appendVersionQuery(venueCardPath);
     }
     
     // Tertiary: Try cuisine-based card/hero fallback
@@ -288,7 +295,7 @@ export async function resolveCardImage(opts: {
   // Final fallbacks
   const defaultCardPath = "/images/heroes/site/default-card.webp";
   assertLocalImage(defaultCardPath);
-  return defaultCardPath;
+  return appendVersionQuery(defaultCardPath);
 }
 
 // Synchronous version of resolveCardImage for use in components
@@ -298,14 +305,14 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   if (!venue) {
     const defaultCardPath = "/images/heroes/site/default-card.webp";
     assertLocalImage(defaultCardPath);
-    return defaultCardPath;
+    return appendVersionQuery(defaultCardPath);
   }
   
   // Primary: Use provided venue card path if available
   if (venue.image_card_path && !venue.image_card_path.includes('placeholder')) {
     const cardPath = venue.image_card_path.replace('/public', '');
     assertLocalImage(cardPath);
-    return cardPath;
+    return appendVersionQuery(cardPath);
   }
   
   // Secondary: Try venue-specific card
@@ -313,7 +320,7 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   if (venueSlug) {
     const venueCardPath = `/images/restaurants/${venueSlug}/${venueSlug}-card.webp`;
     assertLocalImage(venueCardPath);
-    return venueCardPath;
+    return appendVersionQuery(venueCardPath);
   }
   
   // Tertiary: Try cuisine-based fallback using new tile resolver
@@ -332,20 +339,20 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   // Final fallback
   const defaultCardPath = "/images/heroes/site/default-card.webp";
   assertLocalImage(defaultCardPath);
-  return defaultCardPath;
+  return appendVersionQuery(defaultCardPath);
 }
 
 // Helper functions for area and cuisine images
 export function resolveAreaImage(areaSlug: string): string {
   const path = areaImageMap[areaSlug] || "/images/heroes/site/default-area.webp";
   assertLocalImage(path);
-  return path;
+  return appendVersionQuery(path);
 }
 
 export function resolveCuisineImage(cuisineSlug: string): string {
   const path = cuisineImageMap[cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
   assertLocalImage(path);
-  return path;
+  return appendVersionQuery(path);
 }
 
 export function resolveAreaHero(slug: string): string {
