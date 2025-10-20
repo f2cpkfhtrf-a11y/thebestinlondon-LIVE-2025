@@ -1,0 +1,896 @@
+{
+  "aliases": {
+    "www": {
+      "status": 200
+    },
+    "apex": {
+      "status": 307,
+      "location": "https://www.thebestinlondon.co.uk/"
+    }
+  },
+  "routes": {
+    "/": {
+      "status": 200,
+      "localCount": 21,
+      "externalCount": 0,
+      "versionedCount": 11,
+      "probes": [
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/svg+xml",
+          "cl": 774,
+          "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 493963,
+          "url": "https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp?v=20251020155343"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 2092825,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/circolo-popolare-kqYLufoE/italian-circolo-popolare-kqYLufoE-card-0e38a225.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 289565,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/dishoom-covent-garden-OZ6OHOJw/indian-dishoom-covent-garden-OZ6OHOJw-card-81e9d334.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 321033,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/gloria-fPFxdplY/italian-gloria-fPFxdplY-card-9d110a4a.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 277505,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/royal-nawaab-ilford-NPoY41cY/indian-royal-nawaab-ilford-NPoY41cY-card-fb4fcd67.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 267090,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/dishoom-kensington-1F6d_5-g/indian-dishoom-kensington-1F6d_5-g-card-3fc1a7b1.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 190659,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/duck-waffle-SjiwV5LM/mediterranean-duck-waffle-SjiwV5LM-card-56d3c022.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 109892,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/maharaja-of-india-EVrlil9k/indian-maharaja-of-india-EVrlil9k-card-67fdc92c.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 398117,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/sushisamba-london-Ec6MJUBA/modern-european-sushisamba-london-Ec6MJUBA-card-1df525e9.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 341572,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/central-london.webp?v=1760985884974"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 77320,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/redbridge.webp?v=1760985884974"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 120598,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/british.webp?v=1760985884975"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 203456,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mediterranean.webp?v=1760985884975"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985884975"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 213586,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/indian.webp?v=1760985884975"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 58218,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/turkish.webp?v=1760985884975"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 345708,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/japanese.webp?v=1760985884975"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985884975"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 292306,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/french.webp?v=1760985884975"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/svg+xml",
+          "cl": 519,
+          "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
+        }
+      ]
+    },
+    "/cuisines": {
+      "status": 200,
+      "localCount": 16,
+      "externalCount": 0,
+      "versionedCount": 14,
+      "probes": [
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/svg+xml",
+          "cl": 774,
+          "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 120598,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/british.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 203456,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mediterranean.webp?v=1760985889165"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 213586,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/indian.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 58218,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/turkish.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 345708,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/japanese.webp?v=1760985889165"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 292306,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/french.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 119420,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/thai.webp?v=1760985889165"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 125616,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/korean.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 242096,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/spanish.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 145292,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/chinese.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 159018,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/caribbean.webp?v=1760985889165"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/svg+xml",
+          "cl": 519,
+          "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
+        }
+      ]
+    },
+    "/areas": {
+      "status": 200,
+      "localCount": 13,
+      "externalCount": 0,
+      "versionedCount": 11,
+      "probes": [
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/svg+xml",
+          "cl": 774,
+          "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 539604,
+          "url": "https://www.thebestinlondon.co.uk/images/heroes/pages/areas-hero.webp?v=20251020155343"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 341572,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/central-london.webp?v=1760985889312"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760985889312"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 77320,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/redbridge.webp?v=1760985889312"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 77320,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/havering.webp?v=1760985889312"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760985889312"
+        },
+        {
+          "ok": false,
+          "status": 404,
+          "ct": "text/html; charset=utf-8",
+          "cl": 3302,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760985889312"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 77320,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/hackney.webp?v=1760985889312"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 341572,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/southwark.webp?v=1760985889312"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 341572,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/westminster.webp?v=1760985889312"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 199268,
+          "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/kensington-and-chelsea.webp?v=1760985889312"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/svg+xml",
+          "cl": 519,
+          "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
+        }
+      ]
+    },
+    "/best-halal-restaurants-london": {
+      "status": 200,
+      "localCount": 23,
+      "externalCount": 0,
+      "versionedCount": 1,
+      "probes": [
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/svg+xml",
+          "cl": 774,
+          "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 453500,
+          "url": "https://www.thebestinlondon.co.uk/images/heroes/pages/halal-hero.webp?v=20251020155343"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 287623,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/halal-street-kitchen-5e3zUyL0/turkish-halal-street-kitchen-5e3zUyL0-card-b5c15dac.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 218087,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/pravaas-south-kensington-KhMpiz4I/indian-pravaas-south-kensington-KhMpiz4I-card-eadb1466.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 419412,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/fat-chef-authentic-indian-kitchen-halal-0LfhvXy8/indian-fat-chef-authentic-indian-kitchen-halal-0LfhvXy8-card-67bc130b.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 272995,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/bibimbop-bow-StMWnhyE/korean-bibimbop-bow-StMWnhyE-card-f877dc9b.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 138848,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/shezan-gcd-gM3zlYf0/chinese-shezan-gcd-gM3zlYf0-card-96973a46.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 191321,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/ivisecrets-vegan-fine-dining-lounge-iveganit-caribbean-asian-fusion-food-XNO5wWF0/caribbean-ivisecrets-vegan-fine-dining-lounge-iveganit-caribbean-asian-fusion-food-XNO5wWF0-card-a9941751.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 61752,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/aladin-brick-lane-FQXF-uoc/indian-aladin-brick-lane-FQXF-uoc-card-9c4bc379.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 1275529,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/patara-knightsbridge-XqlUbgWk/thai-patara-knightsbridge-XqlUbgWk-card-1851fd23.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 353315,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/efes-premium-kWL5j4TM/turkish-efes-premium-kWL5j4TM-card-fb3b741e.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 289078,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/fes-restaurant-3kGU0KS4/turkish-fes-restaurant-3kGU0KS4-card-7809f45c.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 340585,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/soju-korean-restaurant-4eZHjn3Q/korean-soju-korean-restaurant-4eZHjn3Q-card-b6077934.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 277505,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/royal-nawaab-ilford-NPoY41cY/indian-royal-nawaab-ilford-NPoY41cY-card-fb4fcd67.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 109892,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/maharaja-of-india-EVrlil9k/indian-maharaja-of-india-EVrlil9k-card-67fdc92c.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 239204,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/anglothai-a6lDN5es/thai-anglothai-a6lDN5es-card-23e84048.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 349368,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/koko-grill-korean-bbq-restaurant-TiSvAj5c/korean-koko-grill-korean-bbq-restaurant-TiSvAj5c-card-d3360a61.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 264098,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/jang-restaurant-A2kpdsBc/korean-jang-restaurant-A2kpdsBc-card-ca179657.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 522240,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/shahs-halal-food-walthamstow-e0towDVA/turkish-shahs-halal-food-walthamstow-e0towDVA-card-b0313725.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 372674,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/kricket-soho-2UcQZFVQ/indian-kricket-soho-2UcQZFVQ-card-ccd20c8f.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 281484,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/kolae-nf-sKA8g/thai-kolae-nf-sKA8g-card-b4a56f46.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/webp",
+          "cl": 335603,
+          "url": "https://www.thebestinlondon.co.uk/images/restaurants/daebak-dtHO4Ztg/korean-daebak-dtHO4Ztg-card-53d079c3.webp"
+        },
+        {
+          "ok": true,
+          "status": 200,
+          "ct": "image/svg+xml",
+          "cl": 519,
+          "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
+        }
+      ]
+    }
+  },
+  "tiles": {
+    "cuisines": {
+      "foundCount": 14,
+      "missingCount": 16,
+      "missing": [
+        "lebanese",
+        "pakistani",
+        "bangladeshi",
+        "iranian",
+        "afghan",
+        "middle-eastern",
+        "vegan",
+        "vegetarian",
+        "halal",
+        "steakhouse",
+        "seafood",
+        "pizza",
+        "burgers",
+        "cafe",
+        "bakery",
+        "desserts"
+      ]
+    },
+    "areas": {
+      "foundCount": 10,
+      "missingCount": 21,
+      "missing": [
+        "islington",
+        "lambeth",
+        "soho",
+        "shoreditch",
+        "covent-garden",
+        "mayfair",
+        "marylebone",
+        "fitzrovia",
+        "holborn",
+        "clerkenwell",
+        "whitechapel",
+        "spitalfields",
+        "brick-lane",
+        "borough",
+        "london-bridge",
+        "canary-wharf",
+        "greenwich",
+        "wimbledon",
+        "clapham",
+        "brixton",
+        "stratford"
+      ]
+    }
+  },
+  "restaurantSamples": [
+    {
+      "slug": "saffron-street-_CaG7g_o",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 0
+    },
+    {
+      "slug": "granger-and-co-notting-hill-jZA3l7-w",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "anglothai-a6lDN5es",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "cirrik-19-numara-bos-aBzE5bwY",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "oita-soho-xrSS0hZo",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "peacock-london-zg_TLvpA",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "house-of-ming-bmTrCQPc",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "gloria-fPFxdplY",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 0
+    },
+    {
+      "slug": "taste-of-lahore-JVquuZ94",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "band-of-burgers-camden-hSECPqTc",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "florattica-rooftop-london-tyhGZkk4",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "gkyz-green-lanes-y26cz5pA",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 0
+    },
+    {
+      "slug": "maple-brunch-cafe--18grF3o",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "maru-london-yQBXwWAI",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "xix-nineteen-72oCuJLc",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "la-gamba-spanish-tapas-bar-restaurant-7T6hRrh8",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "the-pizza-room-mile-end-sUb1kfR0",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 0
+    },
+    {
+      "slug": "mexican-seoul-G3LgXTqI",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 0
+    },
+    {
+      "slug": "canto-corvino-w6jbS4UY",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    },
+    {
+      "slug": "liverpool-street-chop-house-tavern-cD3Bf3gs",
+      "status": 200,
+      "totalLocalImgs": 1,
+      "versionedLocalImgs": 1,
+      "heroCandidates": 1,
+      "okImageCount": 1
+    }
+  ],
+  "policy": {
+    "externalImages": []
+  },
+  "summary": {
+    "aliases_ok": true,
+    "routes_ok": true,
+    "images_ok": false,
+    "versioning_ok": false,
+    "external_policy_ok": true,
+    "cuisines_tiles_ok": true,
+    "areas_tiles_ok": false,
+    "restaurants_ok": false,
+    "bad_images": [
+      {
+        "ok": true,
+        "status": 200,
+        "ct": "image/svg+xml",
+        "cl": 774,
+        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
+      },
+      {
+        "ok": false,
+        "status": 404,
+        "ct": "text/html; charset=utf-8",
+        "cl": 3302,
+        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985884975"
+      },
+      {
+        "ok": false,
+        "status": 404,
+        "ct": "text/html; charset=utf-8",
+        "cl": 3302,
+        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985884975"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "ct": "image/svg+xml",
+        "cl": 519,
+        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "ct": "image/svg+xml",
+        "cl": 774,
+        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
+      },
+      {
+        "ok": false,
+        "status": 404,
+        "ct": "text/html; charset=utf-8",
+        "cl": 3302,
+        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985889165"
+      },
+      {
+        "ok": false,
+        "status": 404,
+        "ct": "text/html; charset=utf-8",
+        "cl": 3302,
+        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985889165"
+      },
+      {
+        "ok": false,
+        "status": 404,
+        "ct": "text/html; charset=utf-8",
+        "cl": 3302,
+        "url": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760985889165"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "ct": "image/svg+xml",
+        "cl": 519,
+        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "ct": "image/svg+xml",
+        "cl": 774,
+        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
+      },
+      {
+        "ok": false,
+        "status": 404,
+        "ct": "text/html; charset=utf-8",
+        "cl": 3302,
+        "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760985889312"
+      },
+      {
+        "ok": false,
+        "status": 404,
+        "ct": "text/html; charset=utf-8",
+        "cl": 3302,
+        "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760985889312"
+      },
+      {
+        "ok": false,
+        "status": 404,
+        "ct": "text/html; charset=utf-8",
+        "cl": 3302,
+        "url": "https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760985889312"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "ct": "image/svg+xml",
+        "cl": 519,
+        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "ct": "image/svg+xml",
+        "cl": 774,
+        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-compact.svg"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "ct": "image/svg+xml",
+        "cl": 519,
+        "url": "https://www.thebestinlondon.co.uk/assets/logos/logo-monochrome.svg"
+      }
+    ]
+  }
+}
