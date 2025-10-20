@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "createdCuisineTiles": 0,
+    "createdAreaTiles": 0,
+    "createdStationTiles": 0,
+    "heroCopiedFromCard": 0,
+    "heroFromCuisineTile": 0,
+    "heroFromAreaTile": 0,
+    "heroLuxuryGenerated": 60,
+    "minBytes": 50000,
+    "size": {
+      "width": 1600,
+      "height": 900
+    }
+  },
+  "notes": [
+    "No external images fetched. All assets created locally.",
+    "Venue hero priority: card.webp → cuisine tile → area tile → generated luxury."
+  ],
+  "timestamp": "2025-10-20T09:05:14.280Z"
+}
