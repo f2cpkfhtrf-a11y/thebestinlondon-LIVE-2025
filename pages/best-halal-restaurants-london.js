@@ -7,7 +7,9 @@ import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
 import ImageWithFallback from '../components/ImageWithFallback';
-import { resolveHeroImage } from '../lib/resolveHeroImage';
+import { resolveHeroImage, resolveCardImageSync } from '../lib/resolveHeroImage';
+
+const ASSET_VERSION = process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1';
 import { theme } from '../utils/theme';
 import { enhanceVenueData, filterByDietary, sortVenues } from '../utils/venueData';
 import { isHalalVenue } from '../utils/halalStations';
@@ -189,41 +191,41 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
             center={true}
           />
 
-          {/* Filter Bar */}
+        {/* Filter Bar */}
           <section className="py-8 bg-charcoal-light border-b border-grey-dark sticky top-16 z-40">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <input 
-                  type="text"
+              <input 
+                type="text"
                   placeholder="Search halal restaurants..."
-                  value={searchTerm}
+                value={searchTerm}
                   onChange={(e) => handleSearchChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite placeholder-grey focus:border-gold focus:outline-none transition-colors duration-300"
-                />
-                <select 
-                  value={filterArea} 
+              />
+              <select 
+                value={filterArea} 
                   onChange={(e) => handleFilterChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite focus:border-gold focus:outline-none transition-colors duration-300"
                 >
-                  <option value="all">All Areas</option>
+                <option value="all">All Areas</option>
                   {areas.filter(a => a !== 'all').map(area => (
                     <option key={area} value={area}>{area}</option>
                   ))}
-                </select>
-                <select 
-                  value={sortBy} 
+              </select>
+              <select 
+                value={sortBy} 
                   onChange={(e) => handleSortChange(e.target.value)}
                   className="bg-charcoal border border-grey-dark rounded-lg px-4 py-3 text-warmWhite focus:border-gold focus:outline-none transition-colors duration-300"
                 >
-                  <option value="rating">⭐ Highest Rated</option>
-                  <option value="reviews">💬 Most Reviews</option>
-                  <option value="fsa">🏥 FSA Rating</option>
-                </select>
-              </div>
+                <option value="rating">⭐ Highest Rated</option>
+                <option value="reviews">💬 Most Reviews</option>
+                <option value="fsa">🏥 FSA Rating</option>
+              </select>
             </div>
+          </div>
           </section>
 
-          {/* Results Count */}
+        {/* Results Count */}
           <section className="py-6 bg-charcoal">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <p className="text-grey">
@@ -231,11 +233,11 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                 {paginatedData.pagination.totalPages > 1 && (
                   <span className="ml-2">(Page {currentPage} of {paginatedData.pagination.totalPages})</span>
                 )}
-              </p>
-            </div>
+          </p>
+        </div>
           </section>
 
-          {/* Restaurant Grid */}
+        {/* Restaurant Grid */}
           <section className="py-16">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -243,49 +245,45 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                   <Link key={venue.place_id} href={`/restaurant/${venue.slug}`} className="group">
                     <div className="card overflow-hidden h-full group-hover:border-gold transition-all duration-300">
                       <div className="relative h-48">
-                        {venue.image_card_path || venue.image_url || (venue.photos && venue.photos[0]) ? (
-                          <ImageWithFallback
-                            src={venue.image_card_path || venue.image_url || (venue.image_url || venue.photos[0]?.url) + (venue.image_url?.includes('?') ? '&' : '?') + 'v=1760780596887'}
-                            alt={venue.image_alt || `${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
-                            fill
-                            className="object-cover group-hover:scale-105 transition-transform duration-300"
-                            priority={paginatedData.data.indexOf(venue) < 6} // Priority for first 6 images
-                          />
-                        ) : (
-                          <div className="w-full h-full bg-grey-dark flex items-center justify-center">
-                            <span className="text-grey text-sm">No Image</span>
-                          </div>
-                        )}
+                        <Image
+                          key={`venue-${venue.place_id}-${ASSET_VERSION}`}
+                          src={resolveCardImageSync({ venue })}
+                          alt={venue.image_alt || `${venue.name} - Halal restaurant in ${venue.area || 'London'}`}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-300"
+                          sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+                          loading={paginatedData.data.indexOf(venue) < 6 ? "eager" : "lazy"}
+                        />
                         
                         <div className="absolute top-4 right-4">
-                          <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
-                        </div>
+                    <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
+                  </div>
 
                         <div className="absolute top-4 left-4">
                           <BestOfLondonBadge venue={venue} size="small" showTooltip={false} showExplanation={false} />
                         </div>
 
-                        {venue.area && (
+                  {venue.area && (
                           <div className="absolute bottom-4 left-4 bg-black/80 backdrop-blur-sm text-warmWhite px-3 py-1 rounded text-sm font-medium">
-                            {venue.area}
-                          </div>
-                        )}
-                      </div>
-                      
+                      {venue.area}
+                    </div>
+                  )}
+                </div>
+
                       <div className="p-6">
                         <div className="flex items-center gap-2 mb-3">
                           <span className="text-green-400 text-sm font-medium">☪️ Halal Verified</span>
                         </div>
                         
                         <h3 className="font-serif font-semibold text-warmWhite text-xl mb-2 group-hover:text-gold transition-colors duration-300">
-                          {venue.name}
-                        </h3>
-                        
+                    {venue.name}
+                  </h3>
+
                         <div className="flex items-center justify-between text-sm text-grey mb-3">
-                          <span>{venue.cuisines?.[0] || 'Restaurant'}</span>
-                          <span>{venue.price_level ? '£'.repeat(venue.price_level) : '££'}</span>
-                        </div>
-                        
+                    <span>{venue.cuisines?.[0] || 'Restaurant'}</span>
+                    <span>{venue.price_level ? '£'.repeat(venue.price_level) : '££'}</span>
+                  </div>
+
                         <div className="flex items-center justify-between pt-4 border-t border-grey-dark">
                           <div className="flex items-center gap-1">
                             <span className="text-gold">★</span>
@@ -350,7 +348,7 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
                   </button>
                 </div>
               )}
-            </div>
+          </div>
           </section>
         </TabContainer>
         </main>

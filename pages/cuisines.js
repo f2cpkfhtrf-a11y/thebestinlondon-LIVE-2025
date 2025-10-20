@@ -135,13 +135,14 @@ export default function Cuisines({ cuisines, totalVenues }) {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
               {filteredCuisines.map((cuisine) => {
                 const cuisineSlug = cuisine.slug.replace('-restaurants-london', '');
+                const imagePath = resolveTileImage({ type: "cuisine", slug: cuisineSlug });
                 return (
                   <ImageTile
                     key={cuisine.slug}
                     title={cuisine.name}
                     subtitle={`${cuisine.count} restaurant${cuisine.count !== 1 ? 's' : ''}`}
                     href={`/${cuisine.slug}`}
-                    src={resolveTileImage({ type: "cuisine", slug: cuisineSlug })}
+                    src={imagePath}
                     alt={`${cuisine.name} cuisine in London`}
                   />
                 );
