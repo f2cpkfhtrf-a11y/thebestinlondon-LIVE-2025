@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-10-20T23:22:44.238Z",
+  "live": false,
+  "status": "fail",
+  "checks": [
+    {
+      "check": "blog-index-loads",
+      "status": "fail",
+      "details": {
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "faq-index-loads",
+      "status": "fail",
+      "details": {
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "blog-post-best-british-restaurants-in-london",
+      "status": "fail",
+      "details": {
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "blog-post-best-indian-in-redbridge",
+      "status": "fail",
+      "details": {
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "blog-post-best-indian-restaurants-in-london",
+      "status": "fail",
+      "details": {
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "blog-posts-valid",
+      "status": "fail",
+      "details": {
+        "totalChecked": 0,
+        "expected": 3
+      }
+    },
+    {
+      "check": "faq-entry-are-there-family-friendly-restaurants-in-london",
+      "status": "fail",
+      "details": {
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "faq-entry-are-there-kid-friendly-restaurants-with-playgrounds-or-activities",
+      "status": "fail",
+      "details": {
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "faq-entry-are-there-late-night-dining-options-in-london",
+      "status": "fail",
+      "details": {
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "faq-entries-valid",
+      "status": "fail",
+      "details": {
+        "totalChecked": 0,
+        "expected": 3
+      }
+    },
+    {
+      "check": "critical-route-blog",
+      "status": "fail",
+      "details": {
+        "route": "/blog",
+        "error": "fetch failed"
+      }
+    },
+    {
+      "check": "critical-route-faq",
+      "status": "fail",
+      "details": {
+        "route": "/faq",
+        "error": "fetch failed"
+      }
+    }
+  ]
+}

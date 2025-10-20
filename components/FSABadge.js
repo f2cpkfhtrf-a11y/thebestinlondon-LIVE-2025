@@ -1,6 +1,6 @@
 import { Shield } from 'lucide-react';
 
-export default function FSABadge({ rating, variant = 'default', size = 'default' }) {
+export default function FSABadge({ rating, variant = 'default', size = 'default', showTooltip = false }) {
   if (!rating) return null;
 
   // Luxurious green with gold accents
@@ -78,6 +78,62 @@ export default function FSABadge({ rating, variant = 'default', size = 'default'
               fontSize: '16px',
               fontWeight: '700',
               lineHeight: '1'
+            }}>
+              / 5
+            </span>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Hero variant for venue page overlay
+  if (variant === 'hero') {
+    return (
+      <div 
+        style={{
+          background: colors.bg,
+          border: colors.border,
+          borderRadius: '12px',
+          padding: '12px 16px',
+          display: 'flex',
+          alignItems: 'center',
+          gap: '12px',
+          boxShadow: colors.shadow,
+          transition: 'all 0.3s ease'
+        }}
+        title={showTooltip ? "Official Food Standards Agency hygiene rating." : undefined}
+      >
+        <Shield 
+          size={28} 
+          color={colors.text}
+          strokeWidth={2.5}
+          fill="rgba(255, 255, 255, 0.2)"
+        />
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
+          <span style={{
+            color: colors.text,
+            fontSize: '11px',
+            fontWeight: '700',
+            textTransform: 'uppercase',
+            letterSpacing: '0.8px',
+            lineHeight: '1'
+          }}>
+            FSA Rating
+          </span>
+          <div style={{ display: 'flex', alignItems: 'baseline', gap: '6px', marginTop: '4px' }}>
+            <span style={{
+              color: colors.ratingText,
+              fontSize: '32px',
+              fontWeight: '800',
+              lineHeight: '1'
+            }}>
+              {rating}
+            </span>
+            <span style={{
+              color: colors.text,
+              fontSize: '18px',
+              fontWeight: '700'
             }}>
               / 5
             </span>

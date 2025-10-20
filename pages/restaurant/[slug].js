@@ -192,18 +192,56 @@ export default function VenueDetailPage({ venue }) {
         
         {/* Page Hero */}
         <div className="container mx-auto px-4 md:px-6 lg:px-8">
-          <PageHero 
-            title={venue.name}
-            subtitle={`${venue.cuisines?.[0] || 'Restaurant'} ${venue.price_level ? '• ' + '£'.repeat(venue.price_level) : ''} ${venue.dietary_tags?.halal ? '• Halal' : ''}`}
-            stats={[
-              venue.rating && { label: "Rating", value: venue.rating.toFixed(1) },
-              venue.user_ratings_total && { label: "Reviews", value: venue.user_ratings_total.toLocaleString() },
-              venue.fsa_rating && { label: "FSA Rating", value: `${venue.fsa_rating}/5` }
-            ].filter(Boolean)}
-            image={hero}
-            priority
-            center={false}
-          />
+          <div className="relative">
+            <PageHero 
+              title={venue.name}
+              subtitle={`${venue.cuisines?.[0] || 'Restaurant'} ${venue.price_level ? '• ' + '£'.repeat(venue.price_level) : ''} ${venue.dietary_tags?.halal ? '• Halal' : ''}`}
+              stats={[
+                venue.rating && { label: "Rating", value: venue.rating.toFixed(1) },
+                venue.user_ratings_total && { label: "Reviews", value: venue.user_ratings_total.toLocaleString() },
+                venue.fsa_rating && { label: "FSA Rating", value: `${venue.fsa_rating}/5` }
+              ].filter(Boolean)}
+              image={hero}
+              priority
+              center={false}
+            />
+            
+            {/* FSA Badge Overlay on Hero */}
+            {venue.fsa_rating && (
+              <div className="absolute top-4 right-4 z-20">
+                <FSABadge 
+                  rating={venue.fsa_rating} 
+                  variant="hero" 
+                  size="default"
+                  showTooltip={true}
+                />
+              </div>
+            )}
+          </div>
+          
+          {/* Buttons Row Under Hero */}
+          <div className="flex flex-wrap gap-4 mt-6 px-4">
+            {venue.google_place_url && (
+              <a
+                href={venue.google_place_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center px-6 py-3 bg-yellow-600 hover:bg-yellow-500 text-white font-semibold rounded-lg transition-colors"
+              >
+                View Google Reviews
+              </a>
+            )}
+            {venue.fsa_report_url && (
+              <a
+                href={venue.fsa_report_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center px-6 py-3 bg-gray-700 hover:bg-gray-600 text-white font-semibold rounded-lg transition-colors"
+              >
+                View FSA Report
+              </a>
+            )}
+          </div>
         </div>
         
         <main>
