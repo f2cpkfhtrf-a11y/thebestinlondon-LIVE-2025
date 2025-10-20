@@ -1,0 +1,495 @@
+{
+  "timestamp": "2025-10-20T22:18:12.481Z",
+  "verified": 97,
+  "lowQuality": 0,
+  "missing": 0,
+  "verifiedImages": [
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/afghan.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/afghan.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/bakery.webp",
+      "sizeKB": 152,
+      "relativePath": "public/images/tiles/cuisines/bakery.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/bangladeshi.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/bangladeshi.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/british.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/british.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/burgers.webp",
+      "sizeKB": 128,
+      "relativePath": "public/images/tiles/cuisines/burgers.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/cafe.webp",
+      "sizeKB": 88,
+      "relativePath": "public/images/tiles/cuisines/cafe.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/caribbean.webp",
+      "sizeKB": 155,
+      "relativePath": "public/images/tiles/cuisines/caribbean.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/chinese.webp",
+      "sizeKB": 142,
+      "relativePath": "public/images/tiles/cuisines/chinese.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/desserts.webp",
+      "sizeKB": 155,
+      "relativePath": "public/images/tiles/cuisines/desserts.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/french.webp",
+      "sizeKB": 285,
+      "relativePath": "public/images/tiles/cuisines/french.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/halal.webp",
+      "sizeKB": 312,
+      "relativePath": "public/images/tiles/cuisines/halal.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/indian.webp",
+      "sizeKB": 209,
+      "relativePath": "public/images/tiles/cuisines/indian.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/iranian.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/iranian.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/italian.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/italian.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/japanese.webp",
+      "sizeKB": 338,
+      "relativePath": "public/images/tiles/cuisines/japanese.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/korean.webp",
+      "sizeKB": 123,
+      "relativePath": "public/images/tiles/cuisines/korean.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/lebanese.webp",
+      "sizeKB": 86,
+      "relativePath": "public/images/tiles/cuisines/lebanese.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/mediterranean.webp",
+      "sizeKB": 199,
+      "relativePath": "public/images/tiles/cuisines/mediterranean.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/mexican.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/mexican.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/middle-eastern.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/middle-eastern.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/modern-european.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/modern-european.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/pakistani.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/pakistani.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/pizza.webp",
+      "sizeKB": 204,
+      "relativePath": "public/images/tiles/cuisines/pizza.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/seafood.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/cuisines/seafood.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/spanish.webp",
+      "sizeKB": 236,
+      "relativePath": "public/images/tiles/cuisines/spanish.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/steakhouse.webp",
+      "sizeKB": 178,
+      "relativePath": "public/images/tiles/cuisines/steakhouse.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/thai.webp",
+      "sizeKB": 117,
+      "relativePath": "public/images/tiles/cuisines/thai.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/turkish.webp",
+      "sizeKB": 57,
+      "relativePath": "public/images/tiles/cuisines/turkish.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/vegan.webp",
+      "sizeKB": 199,
+      "relativePath": "public/images/tiles/cuisines/vegan.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/cuisines/vegetarian.webp",
+      "sizeKB": 236,
+      "relativePath": "public/images/tiles/cuisines/vegetarian.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/borough.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/borough.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/brick-lane.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/brick-lane.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/brixton.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/brixton.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/camden.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/camden.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/canary-wharf.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/canary-wharf.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/central-london.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/central-london.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/clapham.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/clapham.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/clerkenwell.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/clerkenwell.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/covent-garden.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/covent-garden.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/fitzrovia.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/fitzrovia.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/greenwich.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/greenwich.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/hackney.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/hackney.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/havering.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/havering.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/holborn.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/holborn.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/islington.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/islington.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/kensington-and-chelsea.webp",
+      "sizeKB": 195,
+      "relativePath": "public/images/tiles/areas/kensington-and-chelsea.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/lambeth.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/lambeth.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/london-bridge.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/london-bridge.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/marylebone.webp",
+      "sizeKB": 195,
+      "relativePath": "public/images/tiles/areas/marylebone.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/mayfair.webp",
+      "sizeKB": 195,
+      "relativePath": "public/images/tiles/areas/mayfair.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/newham.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/newham.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/redbridge.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/redbridge.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/shoreditch.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/shoreditch.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/soho.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/soho.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/southwark.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/southwark.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/spitalfields.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/spitalfields.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/stratford.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/stratford.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/tower-hamlets.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/tower-hamlets.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/westminster.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/westminster.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/whitechapel.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/areas/whitechapel.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/areas/wimbledon.webp",
+      "sizeKB": 334,
+      "relativePath": "public/images/tiles/areas/wimbledon.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/stations/kings-cross.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/stations/kings-cross.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/stations/liverpool-street.webp",
+      "sizeKB": 77,
+      "relativePath": "public/images/tiles/stations/liverpool-street.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/stations/london-bridge.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/stations/london-bridge.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/stations/oxford-circus.webp",
+      "sizeKB": 76,
+      "relativePath": "public/images/tiles/stations/oxford-circus.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/tiles/stations/waterloo.webp",
+      "sizeKB": 118,
+      "relativePath": "public/images/tiles/stations/waterloo.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/site/default-list-hero.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/site/default-list-hero.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/site/home-hero.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/site/home-hero.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/pages/areas-hero.webp",
+      "sizeKB": 527,
+      "relativePath": "public/images/heroes/pages/areas-hero.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/pages/cuisines-hero.webp",
+      "sizeKB": 443,
+      "relativePath": "public/images/heroes/pages/cuisines-hero.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/pages/halal-hero.webp",
+      "sizeKB": 443,
+      "relativePath": "public/images/heroes/pages/halal-hero.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/pages/restaurants-hero.webp",
+      "sizeKB": 327,
+      "relativePath": "public/images/heroes/pages/restaurants-hero.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/british.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/british.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/caribbean.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/caribbean.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/chinese.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/chinese.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/french.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/french.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/indian.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/indian.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/italian.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/italian.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/japanese.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/japanese.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/korean.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/korean.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/mediterranean.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/mediterranean.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/mexican.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/mexican.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/modern-european.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/modern-european.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/spanish.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/spanish.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/thai.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/thai.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/cuisines/turkish.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/cuisines/turkish.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/camden.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/camden.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/central-london.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/central-london.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/hackney.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/hackney.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/havering.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/havering.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/kensington-and-chelsea.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/kensington-and-chelsea.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/newham.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/newham.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/redbridge.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/redbridge.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/southwark.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/southwark.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/tower-hamlets.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/tower-hamlets.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/westminster.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/westminster.webp"
+    },
+    {
+      "path": "/Users/htanweer/Desktop/thebestinlondon/public/images/heroes/areas/whitechapel.webp",
+      "sizeKB": 482,
+      "relativePath": "public/images/heroes/areas/whitechapel.webp"
+    }
+  ],
+  "lowQualityImages": [],
+  "missingImages": []
+}
