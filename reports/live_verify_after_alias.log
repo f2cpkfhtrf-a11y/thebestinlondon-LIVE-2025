@@ -1,0 +1,11 @@
+📊 LIVE SUMMARY: { all200: true, noBad: false, versioningOK: false }
+Samples of bad assets:
+- / 404 text/html; charset=utf-8 3302 https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760991623474
+- / 0  0 https://www.thebestinlondon.co.uk/images/tiles/cuisines/indian.webp?v=1760991623474
+- / 404 text/html; charset=utf-8 3302 https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760991623474
+- /cuisines 404 text/html; charset=utf-8 3302 https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760994877470
+- /cuisines 404 text/html; charset=utf-8 3302 https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760994877470
+- /cuisines 404 text/html; charset=utf-8 3302 https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760994877470
+- /areas 404 text/html; charset=utf-8 3302 https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760994878078
+- /areas 0  0 https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760994878078
+- /areas 404 text/html; charset=utf-8 3302 https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760994878078

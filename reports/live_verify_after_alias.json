@@ -13,6 +13,14 @@
           "cl": 3302
         },
         {
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/indian.webp?v=1760991623474",
+          "ok": false,
+          "sc": 0,
+          "ct": "",
+          "cl": 0,
+          "err": "TypeError: fetch failed"
+        },
+        {
           "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760991623474",
           "ok": false,
           "sc": 404,
@@ -27,21 +35,21 @@
       "versioned": 14,
       "bad": [
         {
-          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985889165",
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760994877470",
           "ok": false,
           "sc": 404,
           "ct": "text/html; charset=utf-8",
           "cl": 3302
         },
         {
-          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985889165",
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760994877470",
           "ok": false,
           "sc": 404,
           "ct": "text/html; charset=utf-8",
           "cl": 3302
         },
         {
-          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760985889165",
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760994877470",
           "ok": false,
           "sc": 404,
           "ct": "text/html; charset=utf-8",
@@ -55,21 +63,22 @@
       "versioned": 11,
       "bad": [
         {
-          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760985889312",
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760994878078",
           "ok": false,
           "sc": 404,
           "ct": "text/html; charset=utf-8",
           "cl": 3302
         },
         {
-          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760985889312",
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760994878078",
           "ok": false,
-          "sc": 404,
-          "ct": "text/html; charset=utf-8",
-          "cl": 3302
+          "sc": 0,
+          "ct": "",
+          "cl": 0,
+          "err": "TypeError: fetch failed"
         },
         {
-          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760985889312",
+          "u": "https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760994878078",
           "ok": false,
           "sc": 404,
           "ct": "text/html; charset=utf-8",
