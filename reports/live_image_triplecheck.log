@@ -1,0 +1,22 @@
+🔍 Starting live image triple-check...
+Checking route: /
+Checking route: /cuisines
+Checking route: /areas
+Checking route: /best-halal-restaurants-london
+
+📊 LIVE IMAGE TRIPLE-CHECK SUMMARY
+======================================
+Aliases: ✅ PASS
+Routes: ✅ PASS
+Images (200 + type + ≥50KB): ❌ FAIL
+Versioned URLs (?v=): ❌ FAIL
+
+First bad samples:
+- /: 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985884975
+- /: 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985884975
+- /cuisines: 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/modern-european.webp?v=1760985889165
+- /cuisines: 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/italian.webp?v=1760985889165
+- /cuisines: 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/cuisines/mexican.webp?v=1760985889165
+- /areas: 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/areas/tower-hamlets.webp?v=1760985889312
+- /areas: 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/areas/newham.webp?v=1760985889312
+- /areas: 404 text/html; charset=utf-8 3302B https://www.thebestinlondon.co.uk/images/tiles/areas/camden.webp?v=1760985889312

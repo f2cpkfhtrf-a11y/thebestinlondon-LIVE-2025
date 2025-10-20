@@ -1,0 +1,12 @@
+{
+  "cuisines": [
+    "british","indian","italian","japanese","thai","turkish","french","chinese","spanish","korean","mexican",
+    "lebanese","pakistani","bangladeshi","iranian","afghan","middle-eastern","vegan","vegetarian","halal",
+    "steakhouse","seafood","pizza","burgers","cafe","bakery","desserts","mediterranean","modern-european","caribbean"
+  ],
+  "areas": [
+    "central-london","tower-hamlets","westminster","camden","hackney","islington","kensington-and-chelsea","lambeth","southwark",
+    "soho","shoreditch","covent-garden","mayfair","marylebone","fitzrovia","holborn","clerkenwell","whitechapel","spitalfields",
+    "brick-lane","borough","london-bridge","canary-wharf","greenwich","redbridge","havering","newham","wimbledon","clapham","brixton","stratford"
+  ]
+}
