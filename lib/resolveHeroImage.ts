@@ -64,8 +64,8 @@ export function resolveTileImage(opts: { type: "cuisine"|"area"|"station"; slug:
   // Last resort (still local)
   const finalPath = candidate || DEFAULTS.site;
   assertLocalImage(finalPath);
-  // Return clean path without query parameters for Next.js Image compatibility
-  return finalPath;
+  const cacheBust = `?v=${Date.now()}`;
+  return finalPath + cacheBust;
 }
 
 // --- Venue hero: prefer venue hero > first gallery > cuisine tile > area tile > site default

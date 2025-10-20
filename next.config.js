@@ -5,7 +5,8 @@ const nextConfig = {
   
   // Image optimization
   images: {
-    domains: ['images.unsplash.com', 'maps.googleapis.com'],
+    unoptimized: true,
+    domains: ['thebestinlondon.co.uk', 'www.thebestinlondon.co.uk', 'lh3.googleusercontent.com', 'maps.googleapis.com'],
     formats: ['image/webp', 'image/avif'],
   },
   async headers() {
