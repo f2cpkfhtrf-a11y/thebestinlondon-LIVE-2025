@@ -38,6 +38,7 @@
     "deploy:prebuilt": "npx vercel deploy --prebuilt --prod --yes --archive=tgz",
     "deploy:auto": "node scripts/vercelAutoRetry.mjs",
     "deploy:verify": "node scripts/postDeployVerify.mjs --report reports/post_deploy_verification.json",
+    "fix:tiles": "node scripts/fixMissingTileImages.mjs",
     "postbuild": "echo 'Post-build completed'"
   },
   "dependencies": {
