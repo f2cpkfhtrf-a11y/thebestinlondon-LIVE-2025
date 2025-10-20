@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-10-20T23:30:01.823Z",
+  "live": true,
+  "status": "pass",
+  "checks": [
+    {
+      "check": "blog-index-loads",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasJsonLd": true,
+        "hasCanonical": true,
+        "hasBlogContent": true
+      }
+    },
+    {
+      "check": "faq-index-loads",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasJsonLd": true,
+        "hasCanonical": true,
+        "hasFaqContent": true
+      }
+    },
+    {
+      "check": "blog-post-best-british-restaurants-in-london",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasBlogPostingSchema": true,
+        "hasHero": true,
+        "hasInternalLinks": true,
+        "hasVersionParam": true
+      }
+    },
+    {
+      "check": "blog-post-best-indian-in-redbridge",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasBlogPostingSchema": true,
+        "hasHero": true,
+        "hasInternalLinks": true,
+        "hasVersionParam": true
+      }
+    },
+    {
+      "check": "blog-post-best-indian-restaurants-in-london",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasBlogPostingSchema": true,
+        "hasHero": true,
+        "hasInternalLinks": true,
+        "hasVersionParam": true
+      }
+    },
+    {
+      "check": "blog-posts-valid",
+      "status": "pass",
+      "details": {
+        "totalChecked": 3,
+        "expected": 3
+      }
+    },
+    {
+      "check": "faq-entry-are-there-family-friendly-restaurants-in-london",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasFaqPageSchema": true,
+        "hasQuestionAnswer": true,
+        "hasInternalLinks": false
+      }
+    },
+    {
+      "check": "faq-entry-are-there-kid-friendly-restaurants-with-playgrounds-or-activities",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasFaqPageSchema": true,
+        "hasQuestionAnswer": true,
+        "hasInternalLinks": false
+      }
+    },
+    {
+      "check": "faq-entry-are-there-late-night-dining-options-in-london",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasFaqPageSchema": true,
+        "hasQuestionAnswer": true,
+        "hasInternalLinks": false
+      }
+    },
+    {
+      "check": "faq-entries-valid",
+      "status": "pass",
+      "details": {
+        "totalChecked": 3,
+        "expected": 3
+      }
+    },
+    {
+      "check": "venue-page-enhancements",
+      "status": "pass",
+      "details": {
+        "status": 200,
+        "hasFsaBadge": true,
+        "hasGoogleReviewsButton": true,
+        "hasLocalImages": true,
+        "hasVersionParam": true,
+        "hasStructuredData": true
+      }
+    },
+    {
+      "check": "critical-route-blog",
+      "status": "pass",
+      "details": {
+        "route": "/blog",
+        "status": 200
+      }
+    },
+    {
+      "check": "critical-route-faq",
+      "status": "pass",
+      "details": {
+        "route": "/faq",
+        "status": 200
+      }
+    }
+  ]
+}
