@@ -1,6 +1,5 @@
 import React from 'react';
 import Link from 'next/link';
-import { assertLocalImage } from '../../lib/assertLocalImage';
 
 interface ImageTileProps {
   title: string;
@@ -11,8 +10,6 @@ interface ImageTileProps {
   className?: string;
 }
 
-const ASSET_VERSION = process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1';
-
 const ImageTile: React.FC<ImageTileProps> = ({
   title,
   subtitle,
@@ -21,25 +18,28 @@ const ImageTile: React.FC<ImageTileProps> = ({
   alt,
   className = ''
 }) => {
-  // Assert local-only image in development
-  try {
-    assertLocalImage(src);
-  } catch (error) {
-    console.error('ImageTile assertion failed:', src, error);
+  // Ensure we have a valid src
+  if (!src) {
+    console.error('ImageTile: No src provided for', title);
+    return null;
   }
 
   return (
     <Link href={href} className={`group block ${className}`}>
       <div 
         className="relative h-[180px] sm:h-[220px] rounded-2xl overflow-hidden shadow-lg border border-grey-dark hover:shadow-xl transition-all duration-300 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-gold focus-within:ring-offset-2 focus-within:ring-offset-black"
+        style={{
+          backgroundImage: `url(${src})`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundRepeat: 'no-repeat'
+        }}
       >
-        {/* Background Image - Testing with regular img tag */}
+        {/* Hidden img for accessibility */}
         <img
-          key={`${title}-${ASSET_VERSION}`}
           src={src}
           alt={alt}
-          className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
-          loading="lazy"
+          className="sr-only"
         />
         
         {/* Enhanced dark gradient overlay with hover effect */}
