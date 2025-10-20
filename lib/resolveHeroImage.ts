@@ -94,7 +94,7 @@ export function resolveVenueHero(opts: {
 }
 
 export function resolveHeroImage(ctx: {
-  type: "home" | "list-cuisine" | "list-area" | "list-all" | "list-halal" | "search" | "venue" | "tile-area" | "tile-cuisine" | "halal";
+  type: "home" | "list-cuisine" | "list-area" | "list-areas" | "list-cuisines" | "list-all" | "list-halal" | "search" | "venue" | "tile-area" | "tile-cuisine" | "halal";
   cuisineSlug?: string;
   areaSlug?: string;
   venue?: any;
@@ -161,7 +161,7 @@ export function resolveHeroImage(ctx: {
   }
   // Halal restaurants page
   else if (ctx.type === "list-halal") {
-    imageSrc = "/images/heroes/site/default-list-hero.webp";
+    imageSrc = "/images/heroes/pages/halal-hero.webp";
   }
   // Tile for areas
   else if (ctx.type === "tile-area" && ctx.areaSlug) {
@@ -188,20 +188,28 @@ export function resolveHeroImage(ctx: {
   // Halal specific logic
   else if (ctx.type === "halal") {
     if (ctx.scope === "list") {
-      if (ctx.cuisineSlug) {
-        imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/halal/halal-default-hero.webp";
-      } else {
-        imageSrc = "/images/halal/halal-default-hero.webp";
-      }
+      imageSrc = "/images/heroes/pages/halal-hero.webp";
     } else if (ctx.scope === "venue" && ctx.cuisineSlug) {
-      imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/halal/halal-default-hero.webp";
+      imageSrc = cuisineImageMap[ctx.cuisineSlug] || "/images/heroes/pages/halal-hero.webp";
     } else {
-      imageSrc = "/images/halal/halal-default-hero.webp";
+      imageSrc = "/images/heroes/pages/halal-hero.webp";
     }
   }
-  // List pages (all restaurants, search)
-  else if (ctx.type === "list-all" || ctx.type === "search") {
-    imageSrc = "/images/heroes/site/default-list-hero.webp";
+  // Main page heroes - restaurants page
+  else if (ctx.type === "list-all") {
+    imageSrc = "/images/heroes/pages/restaurants-hero.webp";
+  }
+  // Areas page hero
+  else if (ctx.type === "list-areas") {
+    imageSrc = "/images/heroes/pages/areas-hero.webp";
+  }
+  // Cuisines page hero  
+  else if (ctx.type === "list-cuisines") {
+    imageSrc = "/images/heroes/pages/cuisines-hero.webp";
+  }
+  // Search results
+  else if (ctx.type === "search") {
+    imageSrc = "/images/heroes/pages/restaurants-hero.webp";
   }
   // Default fallback
   else {
