@@ -9,7 +9,8 @@ const GlobalTabs = ({ currentPath, className = '' }) => {
     { name: 'Cuisines', path: '/cuisines', icon: '🥘' },
     { name: 'Areas', path: '/areas', icon: '📍' },
     { name: 'Halal', path: '/best-halal-restaurants-london', icon: '🕌' },
-    { name: 'Near Me', path: '/nearby', icon: '📍' },
+    { name: 'Near Me', path: '/near-me', icon: '📍' },
+    { name: 'Blog', path: '/blog', icon: '📝' },
     { name: 'About', path: '/about', icon: 'ℹ️' },
     { name: 'Contact', path: '/contact', icon: '📞' }
   ];
@@ -158,7 +159,8 @@ const TabContainer = ({ children, currentPath, pageType, venue, cuisine, area, c
     { name: 'Cuisines', path: '/cuisines', icon: '🥘' },
     { name: 'Areas', path: '/areas', icon: '📍' },
     { name: 'Halal', path: '/best-halal-restaurants-london', icon: '🕌' },
-    { name: 'Near Me', path: '/nearby', icon: '📍' },
+    { name: 'Near Me', path: '/near-me', icon: '📍' },
+    { name: 'Blog', path: '/blog', icon: '📝' },
     { name: 'About', path: '/about', icon: 'ℹ️' },
     { name: 'Contact', path: '/contact', icon: '📞' }
   ];
