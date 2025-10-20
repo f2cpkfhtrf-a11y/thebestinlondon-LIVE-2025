@@ -52,6 +52,54 @@ export async function getStaticProps({ params }) {
 }
 
 export default function FAQPost({ faq, heroImage }) {
+  // Generate JSON-LD FAQPage schema
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": {
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answerMarkdown.replace(/[#*\[\]]/g, '')
+      }
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Best in London",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.thebestinlondon.co.uk/logo.svg"
+      }
+    }
+  };
+
+  // BreadcrumbList JSON-LD
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.thebestinlondon.co.uk"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "FAQ",
+        "item": "https://www.thebestinlondon.co.uk/faq"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": faq.question,
+        "item": `https://www.thebestinlondon.co.uk/faq/${faq.slug}`
+      }
+    ]
+  };
+
   return (
     <Layout>
       <Head>
@@ -60,8 +108,25 @@ export default function FAQPost({ faq, heroImage }) {
         <meta property="og:title" content={faq.question} />
         <meta property="og:description" content={faq.seo.description} />
         <meta property="og:image" content={`https://www.thebestinlondon.co.uk${heroImage.src}`} />
-        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/faq/${faq.slug}`} />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={faq.seo.canonical} />
+        <link rel="canonical" href={faq.seo.canonical} />
         <meta name="keywords" content={faq.seo.keywords.join(', ')} />
+        
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content={faq.question} />
+        <meta name="twitter:description" content={faq.seo.description} />
+        
+        {/* JSON-LD Schema */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        />
       </Head>
 
       {/* Breadcrumbs */}

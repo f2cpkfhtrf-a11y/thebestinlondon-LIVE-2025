@@ -93,7 +93,7 @@ rm -rf .next .vercel/output || true
 NODE_OPTIONS="--max_old_space_size=4096" npm run build
 
 # Verify build output
-if [ ! -f ".next/static/chunks/pages/_app-"*.js" ]; then
+if [ ! -d ".next/static/chunks/pages" ]; then
   fail "Build output appears incomplete"
 fi
 say "• Build completed successfully"
@@ -202,6 +202,7 @@ function get(p) {
         r({
           path: p,
           ok: res.statusCode === 200,
+          statusCode: res.statusCode,
           hasLocal: /\/images\//.test(b),
           hasHero: /hero/i.test(b),
           tilesOK: /(tiles\/cuisines|tiles\/areas)/.test(b),
@@ -219,7 +220,7 @@ function get(p) {
   for (const p of pages) {
     const result = await get(p);
     results.push(result);
-    console.log(`${result.ok ? '✅' : '❌'} ${p} (${res.statusCode || 'N/A'})`);
+    console.log(`${result.ok ? '✅' : '❌'} ${p} (${result.statusCode || 'N/A'})`);
   }
   
   const failed = results.filter(x => !x.ok);

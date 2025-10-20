@@ -52,6 +52,64 @@ export async function getStaticProps({ params }) {
 }
 
 export default function BlogPost({ blog, heroImage }) {
+  // Generate JSON-LD BlogPosting schema
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": blog.title,
+    "description": blog.dek,
+    "image": `https://www.thebestinlondon.co.uk${blog.coverImage}`,
+    "author": {
+      "@type": "Person",
+      "name": blog.author.name,
+      "jobTitle": blog.author.title,
+      "image": `https://www.thebestinlondon.co.uk${blog.author.avatar}`
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Best in London",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.thebestinlondon.co.uk/logo.svg"
+      }
+    },
+    "datePublished": blog.publishedAtISO,
+    "dateModified": blog.updatedAtISO,
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.thebestinlondon.co.uk/blog/${blog.slug}`
+    },
+    "keywords": blog.seo.keywords.join(', '),
+    "articleSection": "Food & Dining",
+    "wordCount": blog.bodyMarkdown ? blog.bodyMarkdown.split(' ').length : 0
+  };
+
+  // BreadcrumbList JSON-LD
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.thebestinlondon.co.uk"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.thebestinlondon.co.uk/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": blog.title,
+        "item": `https://www.thebestinlondon.co.uk/blog/${blog.slug}`
+      }
+    ]
+  };
+
   return (
     <Layout>
       <Head>
@@ -61,14 +119,31 @@ export default function BlogPost({ blog, heroImage }) {
         <meta property="og:description" content={blog.dek} />
         <meta property="og:image" content={`https://www.thebestinlondon.co.uk${blog.coverImage}`} />
         <meta property="og:type" content="article" />
+        <meta property="og:url" content={blog.seo.canonical} />
         <meta property="article:author" content={blog.author.name} />
         <meta property="article:published_time" content={blog.publishedAtISO} />
         <meta property="article:modified_time" content={blog.updatedAtISO} />
-        {blog.tags.map(tag => (
+        {blog.tags && blog.tags.map(tag => (
           <meta key={tag} property="article:tag" content={tag} />
         ))}
-        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/blog/${blog.slug}`} />
+        <link rel="canonical" href={blog.seo.canonical} />
         <meta name="keywords" content={blog.seo.keywords.join(', ')} />
+        
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={blog.title} />
+        <meta name="twitter:description" content={blog.dek} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${blog.coverImage}`} />
+        
+        {/* JSON-LD Schema */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        />
       </Head>
 
       {/* Breadcrumbs */}
@@ -128,6 +203,12 @@ export default function BlogPost({ blog, heroImage }) {
                 month: 'long',
                 day: 'numeric'
               })}
+              {blog.readingTime && (
+                <>
+                  <span className="mx-2">•</span>
+                  {blog.readingTime}
+                </>
+              )}
             </div>
           </div>
 
