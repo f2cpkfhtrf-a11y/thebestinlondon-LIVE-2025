@@ -240,3 +240,4 @@ export function resolveBlogTile(slug: string): { src: string; reason: string } {
     reason: 'blog-specific'
   };
 }// Image fix deployed Tue Oct 21 22:28:31 BST 2025
+// Force deployment Tue Oct 21 22:49:40 BST 2025
