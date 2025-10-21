@@ -1,0 +1,126 @@
+name: Quality CI
+
+on:
+  push:
+    branches: [ main, fix/images-safe-promote ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build-and-audit:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Build project
+      run: npm run build:prod
+      
+    - name: Start server
+      run: |
+        npm run start &
+        sleep 10
+      env:
+        BASE_URL: http://localhost:3000
+        
+    - name: Run audits
+      run: |
+        npm run audit:links
+        npm run audit:images
+        npm run audit:seo
+        npm run audit:tiles
+        npm run audit:venues
+        npm run test:e2e:ci
+        npm run audit:lh
+        npm run audit:quality
+      env:
+        BASE_URL: http://localhost:3000
+        
+    - name: Upload reports
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: quality-reports
+        path: |
+          reports/
+          artifacts/
+        retention-days: 30
+        
+    - name: Check quality rollup
+      run: |
+        if [ -f reports/quality_rollup.json ]; then
+          STATUS=$(node -e "console.log(JSON.parse(require('fs').readFileSync('reports/quality_rollup.json')).overallStatus)")
+          if [ "$STATUS" = "RED" ]; then
+            echo "❌ Quality audit failed with RED status"
+            exit 1
+          elif [ "$STATUS" = "YELLOW" ]; then
+            echo "⚠️ Quality audit has warnings (YELLOW status)"
+          else
+            echo "✅ Quality audit passed (GREEN status)"
+          fi
+        else
+          echo "❌ Quality rollup report not found"
+          exit 1
+        fi
+
+  lighthouse-only:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+    
+    strategy:
+      matrix:
+        url: 
+          - "/"
+          - "/restaurants"
+          - "/cuisines"
+          - "/areas"
+          - "/best-halal-restaurants-london"
+          - "/blog"
+          - "/faq"
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Build project
+      run: npm run build:prod
+      
+    - name: Start server
+      run: |
+        npm run start &
+        sleep 10
+      env:
+        BASE_URL: http://localhost:3000
+        
+    - name: Run Lighthouse audit
+      run: npm run audit:lh
+      env:
+        BASE_URL: http://localhost:3000
+        
+    - name: Upload Lighthouse report
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: lighthouse-${{ matrix.url }}
+        path: reports/lh_summary.*
+        retention-days: 30

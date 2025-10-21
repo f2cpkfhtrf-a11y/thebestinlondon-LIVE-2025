@@ -1,0 +1,88 @@
+name: Quality Nightly
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Daily at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  nightly-audit:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Build project
+      run: npm run build:prod
+      
+    - name: Start server
+      run: |
+        npm run start &
+        sleep 10
+      env:
+        BASE_URL: http://localhost:3000
+        
+    - name: Run comprehensive audits
+      run: |
+        npm run audit:links
+        npm run audit:images
+        npm run audit:seo
+        npm run audit:tiles
+        npm run audit:venues
+        npm run test:e2e:ci
+        npm run audit:lh
+        npm run audit:quality
+      env:
+        BASE_URL: http://localhost:3000
+      continue-on-error: true
+        
+    - name: Upload reports
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: nightly-quality-reports-${{ github.run_number }}
+        path: |
+          reports/
+          artifacts/
+        retention-days: 7
+        
+    - name: Generate summary
+      run: |
+        echo "## Nightly Quality Audit Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f reports/quality_rollup.json ]; then
+          STATUS=$(node -e "console.log(JSON.parse(require('fs').readFileSync('reports/quality_rollup.json')).overallStatus)")
+          TOTAL=$(node -e "console.log(JSON.parse(require('fs').readFileSync('reports/quality_rollup.json')).totalAudits)")
+          COMPLETED=$(node -e "console.log(JSON.parse(require('fs').readFileSync('reports/quality_rollup.json')).completedAudits)")
+          ISSUES=$(node -e "console.log(JSON.parse(require('fs').readFileSync('reports/quality_rollup.json')).totalIssues)")
+          
+          echo "- **Status:** $STATUS" >> $GITHUB_STEP_SUMMARY
+          echo "- **Audits Completed:** $COMPLETED/$TOTAL" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total Issues:** $ISSUES" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "$STATUS" = "GREEN" ]; then
+            echo "✅ All quality checks passed" >> $GITHUB_STEP_SUMMARY
+          elif [ "$STATUS" = "YELLOW" ]; then
+            echo "⚠️ Some issues found - review recommended" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ Critical issues found - immediate attention required" >> $GITHUB_STEP_SUMMARY
+          fi
+        else
+          echo "❌ Quality rollup report not found" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "📊 Detailed reports available in artifacts" >> $GITHUB_STEP_SUMMARY
+      if: always()

@@ -1,0 +1,7492 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - img "Hero image for The Best in London" [ref=e8]
+      - generic [ref=e11]:
+        - heading "Best Restaurants in London" [level=1] [ref=e12]
+        - paragraph [ref=e13]: Discover the finest restaurants across London. From Michelin-starred dining to hidden gems, find your perfect meal in the capital.
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - generic [ref=e16]: "593"
+            - generic [ref=e17]: Restaurants
+          - generic [ref=e18]:
+            - generic [ref=e19]: "15"
+            - generic [ref=e20]: Areas
+          - generic [ref=e21]:
+            - generic [ref=e22]: "37"
+            - generic [ref=e23]: Cuisines
+          - generic [ref=e24]:
+            - generic [ref=e25]: "0"
+            - generic [ref=e26]: Halal Options
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - button "All (593)" [ref=e31] [cursor=pointer]
+        - button "afghan (1)" [ref=e32] [cursor=pointer]
+        - button "african (1)" [ref=e33] [cursor=pointer]
+        - button "bangladeshi (3)" [ref=e34] [cursor=pointer]
+        - button "bengali (3)" [ref=e35] [cursor=pointer]
+        - button "british (263)" [ref=e36] [cursor=pointer]
+        - button "caribbean (1)" [ref=e37] [cursor=pointer]
+        - button "chinese (10)" [ref=e38] [cursor=pointer]
+        - button "curry (2)" [ref=e39] [cursor=pointer]
+        - button "ethiopian (1)" [ref=e40] [cursor=pointer]
+        - button "fish-and-chips (1)" [ref=e41] [cursor=pointer]
+      - generic [ref=e42]:
+        - generic [ref=e43]: "Sort by:"
+        - combobox [ref=e44]:
+          - option "Rating" [selected]
+          - option "Reviews"
+          - option "Name"
+    - generic [ref=e46]:
+      - link "Sylhet Nights - british restaurant in Central London 🏆 FSA 5/5 ⭐ 5.0 Sylhet Nights british 📍 Central London 💰 ££ 24 reviews" [ref=e47] [cursor=pointer]:
+        - /url: /restaurant/sylhet-nights-V44T35iM
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - img "Sylhet Nights - british restaurant in Central London" [ref=e50]
+            - generic [ref=e53]: 🏆 FSA 5/5
+            - generic [ref=e55]: ⭐ 5.0
+          - generic [ref=e56]:
+            - heading "Sylhet Nights" [level=3] [ref=e57]
+            - generic [ref=e59]: british
+            - paragraph [ref=e60]: 📍 Central London
+            - paragraph [ref=e61]: 💰 ££
+            - paragraph [ref=e62]: 24 reviews
+      - link "Grill Guys - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 5.0 Grill Guys british 📍 Tower Hamlets 💰 ££ 4 reviews" [ref=e63] [cursor=pointer]:
+        - /url: /restaurant/grill-guys-Rl-Vl4Jg
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - img "Grill Guys - british restaurant in Tower Hamlets" [ref=e66]
+            - generic [ref=e69]: 🏆 FSA 5/5
+            - generic [ref=e71]: ⭐ 5.0
+          - generic [ref=e72]:
+            - heading "Grill Guys" [level=3] [ref=e73]
+            - generic [ref=e75]: british
+            - paragraph [ref=e76]: 📍 Tower Hamlets
+            - paragraph [ref=e77]: 💰 ££
+            - paragraph [ref=e78]: 4 reviews
+      - link "Halal Street Kitchen - turkish restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 5.0 Halal Street Kitchen turkish 📍 Tower Hamlets 💰 ££ 36 reviews" [ref=e79] [cursor=pointer]:
+        - /url: /restaurant/halal-street-kitchen-5e3zUyL0
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - img "Halal Street Kitchen - turkish restaurant in Tower Hamlets" [ref=e82]
+            - generic [ref=e85]: 🏆 FSA 5/5
+            - generic [ref=e87]: ⭐ 5.0
+          - generic [ref=e88]:
+            - heading "Halal Street Kitchen" [level=3] [ref=e89]
+            - generic [ref=e91]: turkish
+            - paragraph [ref=e92]: 📍 Tower Hamlets
+            - paragraph [ref=e93]: 💰 ££
+            - paragraph [ref=e94]: 36 reviews
+      - link "Shankeys - british restaurant in Central London 🏆 FSA 5/5 ⭐ 5.0 Shankeys british 📍 Central London 💰 ££ 410 reviews" [ref=e95] [cursor=pointer]:
+        - /url: /restaurant/shankeys-j2iOAS1o
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - img "Shankeys - british restaurant in Central London" [ref=e98]
+            - generic [ref=e101]: 🏆 FSA 5/5
+            - generic [ref=e103]: ⭐ 5.0
+          - generic [ref=e104]:
+            - heading "Shankeys" [level=3] [ref=e105]
+            - generic [ref=e107]: british
+            - paragraph [ref=e108]: 📍 Central London
+            - paragraph [ref=e109]: 💰 ££
+            - paragraph [ref=e110]: 410 reviews
+      - link "The Bourbon - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 5.0 The Bourbon british 📍 Tower Hamlets 💰 ££ 141 reviews" [ref=e111] [cursor=pointer]:
+        - /url: /restaurant/the-bourbon-80zdKHX4
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - img "The Bourbon - british restaurant in Tower Hamlets" [ref=e114]
+            - generic [ref=e117]: 🏆 FSA 5/5
+            - generic [ref=e119]: ⭐ 5.0
+          - generic [ref=e120]:
+            - heading "The Bourbon" [level=3] [ref=e121]
+            - generic [ref=e123]: british
+            - paragraph [ref=e124]: 📍 Tower Hamlets
+            - paragraph [ref=e125]: 💰 ££
+            - paragraph [ref=e126]: 141 reviews
+      - link "Mile End Pizza and Kebab - modern-european restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 5.0 Mile End Pizza and Kebab modern-european 📍 Tower Hamlets 💰 ££ 12 reviews" [ref=e127] [cursor=pointer]:
+        - /url: /restaurant/mile-end-pizza-and-kebab-ONNSjL_0
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - img "Mile End Pizza and Kebab - modern-european restaurant in Tower Hamlets" [ref=e130]
+            - generic [ref=e133]: 🏆 FSA 5/5
+            - generic [ref=e135]: ⭐ 5.0
+          - generic [ref=e136]:
+            - heading "Mile End Pizza and Kebab" [level=3] [ref=e137]
+            - generic [ref=e139]: modern-european
+            - paragraph [ref=e140]: 📍 Tower Hamlets
+            - paragraph [ref=e141]: 💰 ££
+            - paragraph [ref=e142]: 12 reviews
+      - link "Liverpool Street Chop House & Tavern - british restaurant in Central London 🏆 FSA 5/5 ⭐ 5.0 Liverpool Street Chop House & Tavern british 📍 Central London 💰 ££ 59 reviews" [ref=e143] [cursor=pointer]:
+        - /url: /restaurant/liverpool-street-chop-house-tavern-cD3Bf3gs
+        - generic [ref=e144]:
+          - generic [ref=e145]:
+            - img "Liverpool Street Chop House & Tavern - british restaurant in Central London" [ref=e146]
+            - generic [ref=e149]: 🏆 FSA 5/5
+            - generic [ref=e151]: ⭐ 5.0
+          - generic [ref=e152]:
+            - heading "Liverpool Street Chop House & Tavern" [level=3] [ref=e153]
+            - generic [ref=e155]: british
+            - paragraph [ref=e156]: 📍 Central London
+            - paragraph [ref=e157]: 💰 ££
+            - paragraph [ref=e158]: 59 reviews
+      - link "Essential Vegan Cafe - british restaurant in Central London 🏆 FSA 5/5 🌱 Vegan ⭐ 5.0 Essential Vegan Cafe british 📍 Central London 💰 ££ 22 reviews" [ref=e159] [cursor=pointer]:
+        - /url: /restaurant/essential-vegan-cafe-zH-PpF1M
+        - generic [ref=e160]:
+          - generic [ref=e161]:
+            - img "Essential Vegan Cafe - british restaurant in Central London" [ref=e162]
+            - generic [ref=e164]:
+              - generic [ref=e165]: 🏆 FSA 5/5
+              - generic [ref=e166]: 🌱 Vegan
+            - generic [ref=e168]: ⭐ 5.0
+          - generic [ref=e169]:
+            - heading "Essential Vegan Cafe" [level=3] [ref=e170]
+            - generic [ref=e172]: british
+            - paragraph [ref=e173]: 📍 Central London
+            - paragraph [ref=e174]: 💰 ££
+            - paragraph [ref=e175]: 22 reviews
+      - link "PlantXology - british restaurant in Central London 🏆 FSA 5/5 ⭐ 5.0 PlantXology british 📍 Central London 💰 ££ 122 reviews" [ref=e176] [cursor=pointer]:
+        - /url: /restaurant/plantxology-hU6WCqZc
+        - generic [ref=e177]:
+          - generic [ref=e178]:
+            - img "PlantXology - british restaurant in Central London" [ref=e179]
+            - generic [ref=e182]: 🏆 FSA 5/5
+            - generic [ref=e184]: ⭐ 5.0
+          - generic [ref=e185]:
+            - heading "PlantXology" [level=3] [ref=e186]
+            - generic [ref=e188]: british
+            - paragraph [ref=e189]: 📍 Central London
+            - paragraph [ref=e190]: 💰 ££
+            - paragraph [ref=e191]: 122 reviews
+      - link "Vegan Biosphere (Vegan Buffet) - british restaurant in Central London 🏆 FSA 5/5 🌱 Vegan ⭐ 5.0 Vegan Biosphere (Vegan Buffet) british 📍 Central London 💰 ££ 11 reviews" [ref=e192] [cursor=pointer]:
+        - /url: /restaurant/vegan-biosphere-vegan-buffet-C3fjuxS8
+        - generic [ref=e193]:
+          - generic [ref=e194]:
+            - img "Vegan Biosphere (Vegan Buffet) - british restaurant in Central London" [ref=e195]
+            - generic [ref=e197]:
+              - generic [ref=e198]: 🏆 FSA 5/5
+              - generic [ref=e199]: 🌱 Vegan
+            - generic [ref=e201]: ⭐ 5.0
+          - generic [ref=e202]:
+            - heading "Vegan Biosphere (Vegan Buffet)" [level=3] [ref=e203]
+            - generic [ref=e205]: british
+            - paragraph [ref=e206]: 📍 Central London
+            - paragraph [ref=e207]: 💰 ££
+            - paragraph [ref=e208]: 11 reviews
+      - link "Pravaas - South Kensington - indian restaurant in PRAVAAS, 3 Glendower Pl, London 🏆 FSA 5/5 ⭐ 4.9 Pravaas - South Kensington indian 📍 PRAVAAS, 3 Glendower Pl, London 💰 ££ 363 reviews" [ref=e209] [cursor=pointer]:
+        - /url: /restaurant/pravaas-south-kensington-KhMpiz4I
+        - generic [ref=e210]:
+          - generic [ref=e211]:
+            - img "Pravaas - South Kensington - indian restaurant in PRAVAAS, 3 Glendower Pl, London" [ref=e212]
+            - generic [ref=e215]: 🏆 FSA 5/5
+            - generic [ref=e217]: ⭐ 4.9
+          - generic [ref=e218]:
+            - heading "Pravaas - South Kensington" [level=3] [ref=e219]
+            - generic [ref=e221]: indian
+            - paragraph [ref=e222]: 📍 PRAVAAS, 3 Glendower Pl, London
+            - paragraph [ref=e223]: 💰 ££
+            - paragraph [ref=e224]: 363 reviews
+      - link "Giulia Restaurant - italian restaurant in 77 Askew Rd, London 🏆 FSA 5/5 ⭐ 4.9 Giulia Restaurant italian 📍 77 Askew Rd, London 💰 ££ 298 reviews" [ref=e225] [cursor=pointer]:
+        - /url: /restaurant/giulia-restaurant-EkK4r0z4
+        - generic [ref=e226]:
+          - generic [ref=e227]:
+            - img "Giulia Restaurant - italian restaurant in 77 Askew Rd, London" [ref=e228]
+            - generic [ref=e231]: 🏆 FSA 5/5
+            - generic [ref=e233]: ⭐ 4.9
+          - generic [ref=e234]:
+            - heading "Giulia Restaurant" [level=3] [ref=e235]
+            - generic [ref=e237]: italian
+            - paragraph [ref=e238]: 📍 77 Askew Rd, London
+            - paragraph [ref=e239]: 💰 ££
+            - paragraph [ref=e240]: 298 reviews
+      - link "Amor Gastronomia - italian restaurant in Victoria Mansions, 139 Holloway Rd, London 🏆 FSA 5/5 ⭐ 4.9 Amor Gastronomia italian 📍 Victoria Mansions, 139 Holloway Rd, London 💰 ££ 1,356 reviews" [ref=e241] [cursor=pointer]:
+        - /url: /restaurant/amor-gastronomia-9fVApnuo
+        - generic [ref=e242]:
+          - generic [ref=e243]:
+            - img "Amor Gastronomia - italian restaurant in Victoria Mansions, 139 Holloway Rd, London" [ref=e244]
+            - generic [ref=e247]: 🏆 FSA 5/5
+            - generic [ref=e249]: ⭐ 4.9
+          - generic [ref=e250]:
+            - heading "Amor Gastronomia" [level=3] [ref=e251]
+            - generic [ref=e253]: italian
+            - paragraph [ref=e254]: 📍 Victoria Mansions, 139 Holloway Rd, London
+            - paragraph [ref=e255]: 💰 ££
+            - paragraph [ref=e256]: 1,356 reviews
+      - link "YiQi - japanese restaurant in 14 Lisle St, London 🏆 FSA 2/5 ⭐ 4.9 YiQi japanese 📍 14 Lisle St, London 💰 ££ 2,539 reviews" [ref=e257] [cursor=pointer]:
+        - /url: /restaurant/yiqi-cDLJ0Z8k
+        - generic [ref=e258]:
+          - generic [ref=e259]:
+            - img "YiQi - japanese restaurant in 14 Lisle St, London" [ref=e260]
+            - generic [ref=e263]: 🏆 FSA 2/5
+            - generic [ref=e265]: ⭐ 4.9
+          - generic [ref=e266]:
+            - heading "YiQi" [level=3] [ref=e267]
+            - generic [ref=e269]: japanese
+            - paragraph [ref=e270]: 📍 14 Lisle St, London
+            - paragraph [ref=e271]: 💰 ££
+            - paragraph [ref=e272]: 2,539 reviews
+      - link "ANA Turkish Restaurant and Bar - british restaurant in 263 Old Brompton Rd, London 🏆 FSA 5/5 ⭐ 4.9 ANA Turkish Restaurant and Bar british 📍 263 Old Brompton Rd, London 💰 ££ 392 reviews" [ref=e273] [cursor=pointer]:
+        - /url: /restaurant/ana-turkish-restaurant-and-bar-eHZ3zxSU
+        - generic [ref=e274]:
+          - generic [ref=e275]:
+            - img "ANA Turkish Restaurant and Bar - british restaurant in 263 Old Brompton Rd, London" [ref=e276]
+            - generic [ref=e279]: 🏆 FSA 5/5
+            - generic [ref=e281]: ⭐ 4.9
+          - generic [ref=e282]:
+            - heading "ANA Turkish Restaurant and Bar" [level=3] [ref=e283]
+            - generic [ref=e285]: british
+            - paragraph [ref=e286]: 📍 263 Old Brompton Rd, London
+            - paragraph [ref=e287]: 💰 ££
+            - paragraph [ref=e288]: 392 reviews
+      - link "Cu4tro Restaurant & Tequila Bar - mexican restaurant in 21 Great Windmill St, London 🏆 FSA 5/5 ⭐ 4.9 Cu4tro Restaurant & Tequila Bar mexican 📍 21 Great Windmill St, London 💰 ££ 559 reviews" [ref=e289] [cursor=pointer]:
+        - /url: /restaurant/cu4tro-restaurant-tequila-bar-uoYbq2FI
+        - generic [ref=e290]:
+          - generic [ref=e291]:
+            - img "Cu4tro Restaurant & Tequila Bar - mexican restaurant in 21 Great Windmill St, London" [ref=e292]
+            - generic [ref=e295]: 🏆 FSA 5/5
+            - generic [ref=e297]: ⭐ 4.9
+          - generic [ref=e298]:
+            - heading "Cu4tro Restaurant & Tequila Bar" [level=3] [ref=e299]
+            - generic [ref=e301]: mexican
+            - paragraph [ref=e302]: 📍 21 Great Windmill St, London
+            - paragraph [ref=e303]: 💰 ££
+            - paragraph [ref=e304]: 559 reviews
+      - link "Mildreds Victoria - british restaurant in 128 Wilton Rd, London 🏆 FSA 5/5 ⭐ 4.9 Mildreds Victoria british 📍 128 Wilton Rd, London 💰 ££ 1,973 reviews" [ref=e305] [cursor=pointer]:
+        - /url: /restaurant/mildreds-victoria-tLwXeLTY
+        - generic [ref=e306]:
+          - generic [ref=e307]:
+            - img "Mildreds Victoria - british restaurant in 128 Wilton Rd, London" [ref=e308]
+            - generic [ref=e311]: 🏆 FSA 5/5
+            - generic [ref=e313]: ⭐ 4.9
+          - generic [ref=e314]:
+            - heading "Mildreds Victoria" [level=3] [ref=e315]
+            - generic [ref=e317]: british
+            - paragraph [ref=e318]: 📍 128 Wilton Rd, London
+            - paragraph [ref=e319]: 💰 ££
+            - paragraph [ref=e320]: 1,973 reviews
+      - link "London Night Cafe - mediterranean restaurant in 56 Middlesex St, London 🏆 FSA 5/5 ⭐ 4.9 London Night Cafe mediterranean 📍 56 Middlesex St, London 💰 ££ 123 reviews" [ref=e321] [cursor=pointer]:
+        - /url: /restaurant/london-night-cafe-1dGMkucY
+        - generic [ref=e322]:
+          - generic [ref=e323]:
+            - img "London Night Cafe - mediterranean restaurant in 56 Middlesex St, London" [ref=e324]
+            - generic [ref=e327]: 🏆 FSA 5/5
+            - generic [ref=e329]: ⭐ 4.9
+          - generic [ref=e330]:
+            - heading "London Night Cafe" [level=3] [ref=e331]
+            - generic [ref=e333]: mediterranean
+            - paragraph [ref=e334]: 📍 56 Middlesex St, London
+            - paragraph [ref=e335]: 💰 ££
+            - paragraph [ref=e336]: 123 reviews
+      - link "COMMON BREADS - mediterranean restaurant in 110 Buckingham Palace Rd, London 🏆 FSA 5/5 ⭐ 4.9 COMMON BREADS mediterranean 📍 110 Buckingham Palace Rd, London 💰 ££ 571 reviews" [ref=e337] [cursor=pointer]:
+        - /url: /restaurant/common-breads-tuvgyCWI
+        - generic [ref=e338]:
+          - generic [ref=e339]:
+            - img "COMMON BREADS - mediterranean restaurant in 110 Buckingham Palace Rd, London" [ref=e340]
+            - generic [ref=e343]: 🏆 FSA 5/5
+            - generic [ref=e345]: ⭐ 4.9
+          - generic [ref=e346]:
+            - heading "COMMON BREADS" [level=3] [ref=e347]
+            - generic [ref=e349]: mediterranean
+            - paragraph [ref=e350]: 📍 110 Buckingham Palace Rd, London
+            - paragraph [ref=e351]: 💰 ££
+            - paragraph [ref=e352]: 571 reviews
+      - link "Brother Marcus Covent Garden - british restaurant in 23 Slingsby Pl, London 🏆 FSA 5/5 ⭐ 4.9 Brother Marcus Covent Garden british 📍 23 Slingsby Pl, London 💰 ££ 3,726 reviews" [ref=e353] [cursor=pointer]:
+        - /url: /restaurant/brother-marcus-covent-garden-nrbLsyto
+        - generic [ref=e354]:
+          - generic [ref=e355]:
+            - img "Brother Marcus Covent Garden - british restaurant in 23 Slingsby Pl, London" [ref=e356]
+            - generic [ref=e359]: 🏆 FSA 5/5
+            - generic [ref=e361]: ⭐ 4.9
+          - generic [ref=e362]:
+            - heading "Brother Marcus Covent Garden" [level=3] [ref=e363]
+            - generic [ref=e365]: british
+            - paragraph [ref=e366]: 📍 23 Slingsby Pl, London
+            - paragraph [ref=e367]: 💰 ££
+            - paragraph [ref=e368]: 3,726 reviews
+      - link "Pulse Bar London - mediterranean restaurant in 18 New Globe Walk, London 🏆 FSA 5/5 ⭐ 4.9 Pulse Bar London mediterranean 📍 18 New Globe Walk, London 💰 ££ 350 reviews" [ref=e369] [cursor=pointer]:
+        - /url: /restaurant/pulse-bar-london-AhX30B_M
+        - generic [ref=e370]:
+          - generic [ref=e371]:
+            - img "Pulse Bar London - mediterranean restaurant in 18 New Globe Walk, London" [ref=e372]
+            - generic [ref=e375]: 🏆 FSA 5/5
+            - generic [ref=e377]: ⭐ 4.9
+          - generic [ref=e378]:
+            - heading "Pulse Bar London" [level=3] [ref=e379]
+            - generic [ref=e381]: mediterranean
+            - paragraph [ref=e382]: 📍 18 New Globe Walk, London
+            - paragraph [ref=e383]: 💰 ££
+            - paragraph [ref=e384]: 350 reviews
+      - link "Kricket Shoreditch - Kafé, Restaurant & Bar - indian restaurant in 35-42 Charlotte Rd, London 🏆 FSA 5/5 ⭐ 4.9 Kricket Shoreditch - Kafé, Restaurant & Bar indian 📍 35-42 Charlotte Rd, London 💰 ££ 1,072 reviews" [ref=e385] [cursor=pointer]:
+        - /url: /restaurant/kricket-shoreditch-kaf-restaurant-bar-T-b-BK14
+        - generic [ref=e386]:
+          - generic [ref=e387]:
+            - img "Kricket Shoreditch - Kafé, Restaurant & Bar - indian restaurant in 35-42 Charlotte Rd, London" [ref=e388]
+            - generic [ref=e391]: 🏆 FSA 5/5
+            - generic [ref=e393]: ⭐ 4.9
+          - generic [ref=e394]:
+            - heading "Kricket Shoreditch - Kafé, Restaurant & Bar" [level=3] [ref=e395]
+            - generic [ref=e397]: indian
+            - paragraph [ref=e398]: 📍 35-42 Charlotte Rd, London
+            - paragraph [ref=e399]: 💰 ££
+            - paragraph [ref=e400]: 1,072 reviews
+      - link "Brother Marcus Canary Wharf - british restaurant in Reuters Plaza, YY Building, London 🏆 FSA 5/5 ⭐ 4.9 Brother Marcus Canary Wharf british 📍 Reuters Plaza, YY Building, London 💰 ££ 1,755 reviews" [ref=e401] [cursor=pointer]:
+        - /url: /restaurant/brother-marcus-canary-wharf-z5EcBO3I
+        - generic [ref=e402]:
+          - generic [ref=e403]:
+            - img "Brother Marcus Canary Wharf - british restaurant in Reuters Plaza, YY Building, London" [ref=e404]
+            - generic [ref=e407]: 🏆 FSA 5/5
+            - generic [ref=e409]: ⭐ 4.9
+          - generic [ref=e410]:
+            - heading "Brother Marcus Canary Wharf" [level=3] [ref=e411]
+            - generic [ref=e413]: british
+            - paragraph [ref=e414]: 📍 Reuters Plaza, YY Building, London
+            - paragraph [ref=e415]: 💰 ££
+            - paragraph [ref=e416]: 1,755 reviews
+      - link "Barbarella - british restaurant in Mackenzie Walk Unit 3 YY, London 🏆 FSA 5/5 ⭐ 4.9 Barbarella british 📍 Mackenzie Walk Unit 3 YY, London 💰 ££ 2,189 reviews" [ref=e417] [cursor=pointer]:
+        - /url: /restaurant/barbarella-gNnBy_aM
+        - generic [ref=e418]:
+          - generic [ref=e419]:
+            - img "Barbarella - british restaurant in Mackenzie Walk Unit 3 YY, London" [ref=e420]
+            - generic [ref=e423]: 🏆 FSA 5/5
+            - generic [ref=e425]: ⭐ 4.9
+          - generic [ref=e426]:
+            - heading "Barbarella" [level=3] [ref=e427]
+            - generic [ref=e429]: british
+            - paragraph [ref=e430]: 📍 Mackenzie Walk Unit 3 YY, London
+            - paragraph [ref=e431]: 💰 ££
+            - paragraph [ref=e432]: 2,189 reviews
+      - link "Yebaba Levantine Kitchen - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.9 Yebaba Levantine Kitchen british 📍 Havering 💰 ££ 148 reviews" [ref=e433] [cursor=pointer]:
+        - /url: /restaurant/yebaba-levantine-kitchen-7epphCFw
+        - generic [ref=e434]:
+          - generic [ref=e435]:
+            - img "Yebaba Levantine Kitchen - british restaurant in Havering" [ref=e436]
+            - generic [ref=e439]: 🏆 FSA 4/5
+            - generic [ref=e441]: ⭐ 4.9
+          - generic [ref=e442]:
+            - heading "Yebaba Levantine Kitchen" [level=3] [ref=e443]
+            - generic [ref=e445]: british
+            - paragraph [ref=e446]: 📍 Havering
+            - paragraph [ref=e447]: 💰 ££
+            - paragraph [ref=e448]: 148 reviews
+      - link "FAT CHEF (Authentic Indian Kitchen) Halal - indian restaurant in Central London 🏆 FSA 5/5 ⭐ 4.9 FAT CHEF (Authentic Indian Kitchen) Halal indian 📍 Central London 💰 ££ 41 reviews" [ref=e449] [cursor=pointer]:
+        - /url: /restaurant/fat-chef-authentic-indian-kitchen-halal-0LfhvXy8
+        - generic [ref=e450]:
+          - generic [ref=e451]:
+            - img "FAT CHEF (Authentic Indian Kitchen) Halal - indian restaurant in Central London" [ref=e452]
+            - generic [ref=e455]: 🏆 FSA 5/5
+            - generic [ref=e457]: ⭐ 4.9
+          - generic [ref=e458]:
+            - heading "FAT CHEF (Authentic Indian Kitchen) Halal" [level=3] [ref=e459]
+            - generic [ref=e461]: indian
+            - paragraph [ref=e462]: 📍 Central London
+            - paragraph [ref=e463]: 💰 ££
+            - paragraph [ref=e464]: 41 reviews
+      - link "Cav - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.9 Cav british 📍 Central London 💰 ££ 36 reviews" [ref=e465] [cursor=pointer]:
+        - /url: /restaurant/cav-9qn1-Oqk
+        - generic [ref=e466]:
+          - generic [ref=e467]:
+            - img "Cav - british restaurant in Central London" [ref=e468]
+            - generic [ref=e471]: 🏆 FSA 5/5
+            - generic [ref=e473]: ⭐ 4.9
+          - generic [ref=e474]:
+            - heading "Cav" [level=3] [ref=e475]
+            - generic [ref=e477]: british
+            - paragraph [ref=e478]: 📍 Central London
+            - paragraph [ref=e479]: 💰 ££
+            - paragraph [ref=e480]: 36 reviews
+      - link "Princelyn (Nigerian Restaurant & Groceries) - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.9 Princelyn (Nigerian Restaurant & Groceries) british 📍 Central London 💰 ££ 1,187 reviews" [ref=e481] [cursor=pointer]:
+        - /url: /restaurant/princelyn-nigerian-restaurant-groceries-s8oVWbvY
+        - generic [ref=e482]:
+          - generic [ref=e483]:
+            - img "Princelyn (Nigerian Restaurant & Groceries) - british restaurant in Central London" [ref=e484]
+            - generic [ref=e487]: 🏆 FSA 5/5
+            - generic [ref=e489]: ⭐ 4.9
+          - generic [ref=e490]:
+            - heading "Princelyn (Nigerian Restaurant & Groceries)" [level=3] [ref=e491]
+            - generic [ref=e493]: british
+            - paragraph [ref=e494]: 📍 Central London
+            - paragraph [ref=e495]: 💰 ££
+            - paragraph [ref=e496]: 1,187 reviews
+      - link "BRIQ - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.9 BRIQ british 📍 Central London 💰 ££ 302 reviews" [ref=e497] [cursor=pointer]:
+        - /url: /restaurant/briq-xKmN-xPk
+        - generic [ref=e498]:
+          - generic [ref=e499]:
+            - img "BRIQ - british restaurant in Central London" [ref=e500]
+            - generic [ref=e503]: 🏆 FSA 3/5
+            - generic [ref=e505]: ⭐ 4.9
+          - generic [ref=e506]:
+            - heading "BRIQ" [level=3] [ref=e507]
+            - generic [ref=e509]: british
+            - paragraph [ref=e510]: 📍 Central London
+            - paragraph [ref=e511]: 💰 ££
+            - paragraph [ref=e512]: 302 reviews
+      - link "Rogues. - british restaurant in Hackney 🏆 FSA 5/5 ⭐ 4.9 Rogues. british 📍 Hackney 💰 ££ 700 reviews" [ref=e513] [cursor=pointer]:
+        - /url: /restaurant/rogues-oRpC_c3U
+        - generic [ref=e514]:
+          - generic [ref=e515]:
+            - img "Rogues. - british restaurant in Hackney" [ref=e516]
+            - generic [ref=e519]: 🏆 FSA 5/5
+            - generic [ref=e521]: ⭐ 4.9
+          - generic [ref=e522]:
+            - heading "Rogues." [level=3] [ref=e523]
+            - generic [ref=e525]: british
+            - paragraph [ref=e526]: 📍 Hackney
+            - paragraph [ref=e527]: 💰 ££
+            - paragraph [ref=e528]: 700 reviews
+      - link "Bibimbop Bow - korean restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.9 Bibimbop Bow korean 📍 Tower Hamlets 💰 ££ 187 reviews" [ref=e529] [cursor=pointer]:
+        - /url: /restaurant/bibimbop-bow-StMWnhyE
+        - generic [ref=e530]:
+          - generic [ref=e531]:
+            - img "Bibimbop Bow - korean restaurant in Tower Hamlets" [ref=e532]
+            - generic [ref=e535]: 🏆 FSA 5/5
+            - generic [ref=e537]: ⭐ 4.9
+          - generic [ref=e538]:
+            - heading "Bibimbop Bow" [level=3] [ref=e539]
+            - generic [ref=e541]: korean
+            - paragraph [ref=e542]: 📍 Tower Hamlets
+            - paragraph [ref=e543]: 💰 ££
+            - paragraph [ref=e544]: 187 reviews
+      - link "Simply Smashed - Quality Smash Burgers - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.9 Simply Smashed - Quality Smash Burgers british 📍 Tower Hamlets 💰 ££ 3,173 reviews" [ref=e545] [cursor=pointer]:
+        - /url: /restaurant/simply-smashed-quality-smash-burgers-U7M7EqnA
+        - generic [ref=e546]:
+          - generic [ref=e547]:
+            - img "Simply Smashed - Quality Smash Burgers - british restaurant in Tower Hamlets" [ref=e548]
+            - generic [ref=e551]: 🏆 FSA 5/5
+            - generic [ref=e553]: ⭐ 4.9
+          - generic [ref=e554]:
+            - heading "Simply Smashed - Quality Smash Burgers" [level=3] [ref=e555]
+            - generic [ref=e557]: british
+            - paragraph [ref=e558]: 📍 Tower Hamlets
+            - paragraph [ref=e559]: 💰 ££
+            - paragraph [ref=e560]: 3,173 reviews
+      - link "Shezan GCD - chinese restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.9 Shezan GCD chinese 📍 Redbridge 💰 ££ 17 reviews" [ref=e561] [cursor=pointer]:
+        - /url: /restaurant/shezan-gcd-gM3zlYf0
+        - generic [ref=e562]:
+          - generic [ref=e563]:
+            - img "Shezan GCD - chinese restaurant in Redbridge" [ref=e564]
+            - generic [ref=e567]: 🏆 FSA 5/5
+            - generic [ref=e569]: ⭐ 4.9
+          - generic [ref=e570]:
+            - heading "Shezan GCD" [level=3] [ref=e571]
+            - generic [ref=e573]: chinese
+            - paragraph [ref=e574]: 📍 Redbridge
+            - paragraph [ref=e575]: 💰 ££
+            - paragraph [ref=e576]: 17 reviews
+      - link "Arches Cafe - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.9 Arches Cafe british 📍 Tower Hamlets 💰 £ 343 reviews" [ref=e577] [cursor=pointer]:
+        - /url: /restaurant/arches-cafe-2ymhxrWw
+        - generic [ref=e578]:
+          - generic [ref=e579]:
+            - img "Arches Cafe - british restaurant in Tower Hamlets" [ref=e580]
+            - generic [ref=e583]: 🏆 FSA 5/5
+            - generic [ref=e585]: ⭐ 4.9
+          - generic [ref=e586]:
+            - heading "Arches Cafe" [level=3] [ref=e587]
+            - generic [ref=e589]: british
+            - paragraph [ref=e590]: 📍 Tower Hamlets
+            - paragraph [ref=e591]: 💰 £
+            - paragraph [ref=e592]: 343 reviews
+      - link "E3 Vegan - british restaurant in Tower Hamlets 🏆 FSA 5/5 🌱 Vegan ⭐ 4.9 E3 Vegan british 📍 Tower Hamlets 💰 ££ 301 reviews" [ref=e593] [cursor=pointer]:
+        - /url: /restaurant/e3-vegan-lgF6HGJ8
+        - generic [ref=e594]:
+          - generic [ref=e595]:
+            - img "E3 Vegan - british restaurant in Tower Hamlets" [ref=e596]
+            - generic [ref=e598]:
+              - generic [ref=e599]: 🏆 FSA 5/5
+              - generic [ref=e600]: 🌱 Vegan
+            - generic [ref=e602]: ⭐ 4.9
+          - generic [ref=e603]:
+            - heading "E3 Vegan" [level=3] [ref=e604]
+            - generic [ref=e606]: british
+            - paragraph [ref=e607]: 📍 Tower Hamlets
+            - paragraph [ref=e608]: 💰 ££
+            - paragraph [ref=e609]: 301 reviews
+      - link "Dauns - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.9 Dauns british 📍 Central London 💰 ££ 743 reviews" [ref=e610] [cursor=pointer]:
+        - /url: /restaurant/dauns-5TEuh-Xo
+        - generic [ref=e611]:
+          - generic [ref=e612]:
+            - img "Dauns - british restaurant in Central London" [ref=e613]
+            - generic [ref=e616]: 🏆 FSA 5/5
+            - generic [ref=e618]: ⭐ 4.9
+          - generic [ref=e619]:
+            - heading "Dauns" [level=3] [ref=e620]
+            - generic [ref=e622]: british
+            - paragraph [ref=e623]: 📍 Central London
+            - paragraph [ref=e624]: 💰 ££
+            - paragraph [ref=e625]: 743 reviews
+      - link "THE COVEN of WICHES - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.9 THE COVEN of WICHES british 📍 Central London 💰 ££ 114 reviews" [ref=e626] [cursor=pointer]:
+        - /url: /restaurant/the-coven-of-wiches-c6922o7M
+        - generic [ref=e627]:
+          - generic [ref=e628]:
+            - img "THE COVEN of WICHES - british restaurant in Central London" [ref=e629]
+            - generic [ref=e632]: 🏆 FSA 5/5
+            - generic [ref=e634]: ⭐ 4.9
+          - generic [ref=e635]:
+            - heading "THE COVEN of WICHES" [level=3] [ref=e636]
+            - generic [ref=e638]: british
+            - paragraph [ref=e639]: 📍 Central London
+            - paragraph [ref=e640]: 💰 ££
+            - paragraph [ref=e641]: 114 reviews
+      - link "iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food - caribbean restaurant in Central London 🏆 FSA 5/5 🌱 Vegan ⭐ 4.9 iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food caribbean 📍 Central London 💰 ££ 46 reviews" [ref=e642] [cursor=pointer]:
+        - /url: /restaurant/ivisecrets-vegan-fine-dining-lounge-iveganit-caribbean-asian-fusion-food-XNO5wWF0
+        - generic [ref=e643]:
+          - generic [ref=e644]:
+            - img "iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food - caribbean restaurant in Central London" [ref=e645]
+            - generic [ref=e647]:
+              - generic [ref=e648]: 🏆 FSA 5/5
+              - generic [ref=e649]: 🌱 Vegan
+            - generic [ref=e651]: ⭐ 4.9
+          - generic [ref=e652]:
+            - heading "iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food" [level=3] [ref=e653]
+            - generic [ref=e655]: caribbean
+            - paragraph [ref=e656]: 📍 Central London
+            - paragraph [ref=e657]: 💰 ££
+            - paragraph [ref=e658]: 46 reviews
+      - link "Aladin Brick Lane - indian restaurant in 132 Brick Ln, London 🏆 FSA 5/5 ⭐ 4.8 Aladin Brick Lane indian 📍 132 Brick Ln, London 💰 ££ 9,944 reviews" [ref=e659] [cursor=pointer]:
+        - /url: /restaurant/aladin-brick-lane-FQXF-uoc
+        - generic [ref=e660]:
+          - generic [ref=e661]:
+            - img "Aladin Brick Lane - indian restaurant in 132 Brick Ln, London" [ref=e662]
+            - generic [ref=e665]: 🏆 FSA 5/5
+            - generic [ref=e667]: ⭐ 4.8
+          - generic [ref=e668]:
+            - heading "Aladin Brick Lane" [level=3] [ref=e669]
+            - generic [ref=e671]: indian
+            - paragraph [ref=e672]: 📍 132 Brick Ln, London
+            - paragraph [ref=e673]: 💰 ££
+            - paragraph [ref=e674]: 9,944 reviews
+      - link "Dishoom Kensington - indian restaurant in Barkers Shopping Arcade, 4 Derry St, London 🏆 FSA 5/5 ⭐ 4.8 Dishoom Kensington indian 📍 Barkers Shopping Arcade, 4 Derry St, London 💰 ££ 16,167 reviews" [ref=e675] [cursor=pointer]:
+        - /url: /restaurant/dishoom-kensington-1F6d_5-g
+        - generic [ref=e676]:
+          - generic [ref=e677]:
+            - img "Dishoom Kensington - indian restaurant in Barkers Shopping Arcade, 4 Derry St, London" [ref=e678]
+            - generic [ref=e681]: 🏆 FSA 5/5
+            - generic [ref=e683]: ⭐ 4.8
+          - generic [ref=e684]:
+            - heading "Dishoom Kensington" [level=3] [ref=e685]
+            - generic [ref=e687]: indian
+            - paragraph [ref=e688]: 📍 Barkers Shopping Arcade, 4 Derry St, London
+            - paragraph [ref=e689]: 💰 ££
+            - paragraph [ref=e690]: 16,167 reviews
+      - link "Circolo Popolare - italian restaurant in 40-41 Rathbone Pl, London 🏆 FSA 5/5 ⭐ 4.8 Circolo Popolare italian 📍 40-41 Rathbone Pl, London 💰 £££ 32,974 reviews" [ref=e691] [cursor=pointer]:
+        - /url: /restaurant/circolo-popolare-kqYLufoE
+        - generic [ref=e692]:
+          - generic [ref=e693]:
+            - img "Circolo Popolare - italian restaurant in 40-41 Rathbone Pl, London" [ref=e694]
+            - generic [ref=e697]: 🏆 FSA 5/5
+            - generic [ref=e699]: ⭐ 4.8
+          - generic [ref=e700]:
+            - heading "Circolo Popolare" [level=3] [ref=e701]
+            - generic [ref=e703]: italian
+            - paragraph [ref=e704]: 📍 40-41 Rathbone Pl, London
+            - paragraph [ref=e705]: 💰 £££
+            - paragraph [ref=e706]: 32,974 reviews
+      - link "Grasso - italian restaurant in 81 Dean St, London 🏆 FSA 4/5 ⭐ 4.8 Grasso italian 📍 81 Dean St, London 💰 ££ 3,330 reviews" [ref=e707] [cursor=pointer]:
+        - /url: /restaurant/grasso-VxepVY0I
+        - generic [ref=e708]:
+          - generic [ref=e709]:
+            - img "Grasso - italian restaurant in 81 Dean St, London" [ref=e710]
+            - generic [ref=e713]: 🏆 FSA 4/5
+            - generic [ref=e715]: ⭐ 4.8
+          - generic [ref=e716]:
+            - heading "Grasso" [level=3] [ref=e717]
+            - generic [ref=e719]: italian
+            - paragraph [ref=e720]: 📍 81 Dean St, London
+            - paragraph [ref=e721]: 💰 ££
+            - paragraph [ref=e722]: 3,330 reviews
+      - link "Gloria - italian restaurant in 54-56 Great Eastern St, London 🏆 FSA 5/5 ⭐ 4.8 Gloria italian 📍 54-56 Great Eastern St, London 💰 ££ 20,227 reviews" [ref=e723] [cursor=pointer]:
+        - /url: /restaurant/gloria-fPFxdplY
+        - generic [ref=e724]:
+          - generic [ref=e725]:
+            - img "Gloria - italian restaurant in 54-56 Great Eastern St, London" [ref=e726]
+            - generic [ref=e729]: 🏆 FSA 5/5
+            - generic [ref=e731]: ⭐ 4.8
+          - generic [ref=e732]:
+            - heading "Gloria" [level=3] [ref=e733]
+            - generic [ref=e735]: italian
+            - paragraph [ref=e736]: 📍 54-56 Great Eastern St, London
+            - paragraph [ref=e737]: 💰 ££
+            - paragraph [ref=e738]: 20,227 reviews
+      - link "Doppo - italian restaurant in 33 Dean St, London 🏆 FSA 4/5 ⭐ 4.8 Doppo italian 📍 33 Dean St, London 💰 ££ 681 reviews" [ref=e739] [cursor=pointer]:
+        - /url: /restaurant/doppo-MCqb9oIE
+        - generic [ref=e740]:
+          - generic [ref=e741]:
+            - img "Doppo - italian restaurant in 33 Dean St, London" [ref=e742]
+            - generic [ref=e745]: 🏆 FSA 4/5
+            - generic [ref=e747]: ⭐ 4.8
+          - generic [ref=e748]:
+            - heading "Doppo" [level=3] [ref=e749]
+            - generic [ref=e751]: italian
+            - paragraph [ref=e752]: 📍 33 Dean St, London
+            - paragraph [ref=e753]: 💰 ££
+            - paragraph [ref=e754]: 681 reviews
+      - link "Maru London - japanese restaurant in 18 Shepherd Market, London 🏆 FSA 5/5 ⭐ 4.8 Maru London japanese 📍 18 Shepherd Market, London 💰 ££ 201 reviews" [ref=e755] [cursor=pointer]:
+        - /url: /restaurant/maru-london-yQBXwWAI
+        - generic [ref=e756]:
+          - generic [ref=e757]:
+            - img "Maru London - japanese restaurant in 18 Shepherd Market, London" [ref=e758]
+            - generic [ref=e761]: 🏆 FSA 5/5
+            - generic [ref=e763]: ⭐ 4.8
+          - generic [ref=e764]:
+            - heading "Maru London" [level=3] [ref=e765]
+            - generic [ref=e767]: japanese
+            - paragraph [ref=e768]: 📍 18 Shepherd Market, London
+            - paragraph [ref=e769]: 💰 ££
+            - paragraph [ref=e770]: 201 reviews
+      - link "Noble Palace - japanese restaurant in Brewer's Grn, London 🏆 FSA 5/5 ⭐ 4.8 Noble Palace japanese 📍 Brewer's Grn, London 💰 ££ 226 reviews" [ref=e771] [cursor=pointer]:
+        - /url: /restaurant/noble-palace-6iVOz8Kc
+        - generic [ref=e772]:
+          - generic [ref=e773]:
+            - img "Noble Palace - japanese restaurant in Brewer's Grn, London" [ref=e774]
+            - generic [ref=e777]: 🏆 FSA 5/5
+            - generic [ref=e779]: ⭐ 4.8
+          - generic [ref=e780]:
+            - heading "Noble Palace" [level=3] [ref=e781]
+            - generic [ref=e783]: japanese
+            - paragraph [ref=e784]: 📍 Brewer's Grn, London
+            - paragraph [ref=e785]: 💰 ££
+            - paragraph [ref=e786]: 226 reviews
+      - link "Patara Knightsbridge - thai restaurant in 9 Beauchamp Pl, London 🏆 FSA 5/5 ⭐ 4.8 Patara Knightsbridge thai 📍 9 Beauchamp Pl, London 💰 £££ 2,286 reviews" [ref=e787] [cursor=pointer]:
+        - /url: /restaurant/patara-knightsbridge-XqlUbgWk
+        - generic [ref=e788]:
+          - generic [ref=e789]:
+            - img "Patara Knightsbridge - thai restaurant in 9 Beauchamp Pl, London" [ref=e790]
+            - generic [ref=e793]: 🏆 FSA 5/5
+            - generic [ref=e795]: ⭐ 4.8
+          - generic [ref=e796]:
+            - heading "Patara Knightsbridge" [level=3] [ref=e797]
+            - generic [ref=e799]: thai
+            - paragraph [ref=e800]: 📍 9 Beauchamp Pl, London
+            - paragraph [ref=e801]: 💰 £££
+            - paragraph [ref=e802]: 2,286 reviews
+      - link "MASA TURKISH RESTAURANT - modern-european restaurant in One Fine Deli, 617 Fulham Rd., London 🏆 FSA 5/5 ⭐ 4.8 MASA TURKISH RESTAURANT modern-european 📍 One Fine Deli, 617 Fulham Rd., London 💰 ££ 126 reviews" [ref=e803] [cursor=pointer]:
+        - /url: /restaurant/masa-turkish-restaurant-KJX5TS38
+        - generic [ref=e804]:
+          - generic [ref=e805]:
+            - img "MASA TURKISH RESTAURANT - modern-european restaurant in One Fine Deli, 617 Fulham Rd., London" [ref=e806]
+            - generic [ref=e809]: 🏆 FSA 5/5
+            - generic [ref=e811]: ⭐ 4.8
+          - generic [ref=e812]:
+            - heading "MASA TURKISH RESTAURANT" [level=3] [ref=e813]
+            - generic [ref=e815]: modern-european
+            - paragraph [ref=e816]: 📍 One Fine Deli, 617 Fulham Rd., London
+            - paragraph [ref=e817]: 💰 ££
+            - paragraph [ref=e818]: 126 reviews
+      - link "Efes Premium - turkish restaurant in 39A Hartfield Rd, London 🏆 FSA 5/5 ⭐ 4.8 Efes Premium turkish 📍 39A Hartfield Rd, London 💰 ££ 921 reviews" [ref=e819] [cursor=pointer]:
+        - /url: /restaurant/efes-premium-kWL5j4TM
+        - generic [ref=e820]:
+          - generic [ref=e821]:
+            - img "Efes Premium - turkish restaurant in 39A Hartfield Rd, London" [ref=e822]
+            - generic [ref=e825]: 🏆 FSA 5/5
+            - generic [ref=e827]: ⭐ 4.8
+          - generic [ref=e828]:
+            - heading "Efes Premium" [level=3] [ref=e829]
+            - generic [ref=e831]: turkish
+            - paragraph [ref=e832]: 📍 39A Hartfield Rd, London
+            - paragraph [ref=e833]: 💰 ££
+            - paragraph [ref=e834]: 921 reviews
+      - link "Cirrik 19 Numara Bos - turkish restaurant in 34 Stoke Newington Rd, London 🏆 FSA 2/5 ⭐ 4.8 Cirrik 19 Numara Bos turkish 📍 34 Stoke Newington Rd, London 💰 £ 1,613 reviews" [ref=e835] [cursor=pointer]:
+        - /url: /restaurant/cirrik-19-numara-bos-aBzE5bwY
+        - generic [ref=e836]:
+          - generic [ref=e837]:
+            - img "Cirrik 19 Numara Bos - turkish restaurant in 34 Stoke Newington Rd, London" [ref=e838]
+            - generic [ref=e841]: 🏆 FSA 2/5
+            - generic [ref=e843]: ⭐ 4.8
+          - generic [ref=e844]:
+            - heading "Cirrik 19 Numara Bos" [level=3] [ref=e845]
+            - generic [ref=e847]: turkish
+            - paragraph [ref=e848]: 📍 34 Stoke Newington Rd, London
+            - paragraph [ref=e849]: 💰 £
+            - paragraph [ref=e850]: 1,613 reviews
+      - link "Dem Restaurant (Traditional Turkish Restaurant, Meze Grill) - modern-european restaurant in 11 Central Hill, London 🏆 FSA 5/5 ⭐ 4.8 Dem Restaurant (Traditional Turkish Restaurant, Meze Grill) modern-european 📍 11 Central Hill, London 💰 ££ 2,483 reviews" [ref=e851] [cursor=pointer]:
+        - /url: /restaurant/dem-restaurant-traditional-turkish-restaurant-meze-grill-AY1XXrlM
+        - generic [ref=e852]:
+          - generic [ref=e853]:
+            - img "Dem Restaurant (Traditional Turkish Restaurant, Meze Grill) - modern-european restaurant in 11 Central Hill, London" [ref=e854]
+            - generic [ref=e857]: 🏆 FSA 5/5
+            - generic [ref=e859]: ⭐ 4.8
+          - generic [ref=e860]:
+            - heading "Dem Restaurant (Traditional Turkish Restaurant, Meze Grill)" [level=3] [ref=e861]
+            - generic [ref=e863]: modern-european
+            - paragraph [ref=e864]: 📍 11 Central Hill, London
+            - paragraph [ref=e865]: 💰 ££
+            - paragraph [ref=e866]: 2,483 reviews
+      - link "Fes Restaurant - turkish restaurant in 210 Walworth Rd, London 🏆 FSA 5/5 ⭐ 4.8 Fes Restaurant turkish 📍 210 Walworth Rd, London 💰 ££ 749 reviews" [ref=e867] [cursor=pointer]:
+        - /url: /restaurant/fes-restaurant-3kGU0KS4
+        - generic [ref=e868]:
+          - generic [ref=e869]:
+            - img "Fes Restaurant - turkish restaurant in 210 Walworth Rd, London" [ref=e870]
+            - generic [ref=e873]: 🏆 FSA 5/5
+            - generic [ref=e875]: ⭐ 4.8
+          - generic [ref=e876]:
+            - heading "Fes Restaurant" [level=3] [ref=e877]
+            - generic [ref=e879]: turkish
+            - paragraph [ref=e880]: 📍 210 Walworth Rd, London
+            - paragraph [ref=e881]: 💰 ££
+            - paragraph [ref=e882]: 749 reviews
+      - link "Bouchon Racine - french restaurant in Upstairs, 66 Cowcross St, London 🏆 FSA 3/5 ⭐ 4.8 Bouchon Racine french 📍 Upstairs, 66 Cowcross St, London 💰 ££ 940 reviews" [ref=e883] [cursor=pointer]:
+        - /url: /restaurant/bouchon-racine-GC0DA5VM
+        - generic [ref=e884]:
+          - generic [ref=e885]:
+            - img "Bouchon Racine - french restaurant in Upstairs, 66 Cowcross St, London" [ref=e886]
+            - generic [ref=e889]: 🏆 FSA 3/5
+            - generic [ref=e891]: ⭐ 4.8
+          - generic [ref=e892]:
+            - heading "Bouchon Racine" [level=3] [ref=e893]
+            - generic [ref=e895]: french
+            - paragraph [ref=e896]: 📍 Upstairs, 66 Cowcross St, London
+            - paragraph [ref=e897]: 💰 ££
+            - paragraph [ref=e898]: 940 reviews
+      - link "Chez Bruce - french restaurant in 2 Bellevue Rd, London 🏆 FSA 5/5 ⭐ 4.8 Chez Bruce french 📍 2 Bellevue Rd, London 💰 £££ 1,234 reviews" [ref=e899] [cursor=pointer]:
+        - /url: /restaurant/chez-bruce-gOPPr5VY
+        - generic [ref=e900]:
+          - generic [ref=e901]:
+            - img "Chez Bruce - french restaurant in 2 Bellevue Rd, London" [ref=e902]
+            - generic [ref=e905]: 🏆 FSA 5/5
+            - generic [ref=e907]: ⭐ 4.8
+          - generic [ref=e908]:
+            - heading "Chez Bruce" [level=3] [ref=e909]
+            - generic [ref=e911]: french
+            - paragraph [ref=e912]: 📍 2 Bellevue Rd, London
+            - paragraph [ref=e913]: 💰 £££
+            - paragraph [ref=e914]: 1,234 reviews
+      - link "Soju Korean Restaurant - korean restaurant in 282 Cambridge Heath Rd, London 🏆 FSA 5/5 ⭐ 4.8 Soju Korean Restaurant korean 📍 282 Cambridge Heath Rd, London 💰 ££ 18 reviews" [ref=e915] [cursor=pointer]:
+        - /url: /restaurant/soju-korean-restaurant-4eZHjn3Q
+        - generic [ref=e916]:
+          - generic [ref=e917]:
+            - img "Soju Korean Restaurant - korean restaurant in 282 Cambridge Heath Rd, London" [ref=e918]
+            - generic [ref=e921]: 🏆 FSA 5/5
+            - generic [ref=e923]: ⭐ 4.8
+          - generic [ref=e924]:
+            - heading "Soju Korean Restaurant" [level=3] [ref=e925]
+            - generic [ref=e927]: korean
+            - paragraph [ref=e928]: 📍 282 Cambridge Heath Rd, London
+            - paragraph [ref=e929]: 💰 ££
+            - paragraph [ref=e930]: 18 reviews
+      - link "Mexican Seoul - mexican restaurant in Bow Wharf, 221 Grove Rd., London 🏆 FSA 5/5 ⭐ 4.8 Mexican Seoul mexican 📍 Bow Wharf, 221 Grove Rd., London 💰 ££ 685 reviews" [ref=e931] [cursor=pointer]:
+        - /url: /restaurant/mexican-seoul-G3LgXTqI
+        - generic [ref=e932]:
+          - generic [ref=e933]:
+            - img "Mexican Seoul - mexican restaurant in Bow Wharf, 221 Grove Rd., London" [ref=e934]
+            - generic [ref=e937]: 🏆 FSA 5/5
+            - generic [ref=e939]: ⭐ 4.8
+          - generic [ref=e940]:
+            - heading "Mexican Seoul" [level=3] [ref=e941]
+            - generic [ref=e943]: mexican
+            - paragraph [ref=e944]: 📍 Bow Wharf, 221 Grove Rd., London
+            - paragraph [ref=e945]: 💰 ££
+            - paragraph [ref=e946]: 685 reviews
+      - link "Colonel Saab - indian restaurant in 193-197 High Holborn, London 🏆 FSA 1/5 ⭐ 4.8 Colonel Saab indian 📍 193-197 High Holborn, London 💰 ££ 5,448 reviews" [ref=e947] [cursor=pointer]:
+        - /url: /restaurant/colonel-saab-D55weEBY
+        - generic [ref=e948]:
+          - generic [ref=e949]:
+            - img "Colonel Saab - indian restaurant in 193-197 High Holborn, London" [ref=e950]
+            - generic [ref=e953]: 🏆 FSA 1/5
+            - generic [ref=e955]: ⭐ 4.8
+          - generic [ref=e956]:
+            - heading "Colonel Saab" [level=3] [ref=e957]
+            - generic [ref=e959]: indian
+            - paragraph [ref=e960]: 📍 193-197 High Holborn, London
+            - paragraph [ref=e961]: 💰 ££
+            - paragraph [ref=e962]: 5,448 reviews
+      - link "Naroon Fitzrovia - british restaurant in Bengal City, 65 Great Titchfield St., London 🏆 FSA 5/5 ⭐ 4.8 Naroon Fitzrovia british 📍 Bengal City, 65 Great Titchfield St., London 💰 ££ 3,790 reviews" [ref=e963] [cursor=pointer]:
+        - /url: /restaurant/naroon-fitzrovia-hadciq8w
+        - generic [ref=e964]:
+          - generic [ref=e965]:
+            - img "Naroon Fitzrovia - british restaurant in Bengal City, 65 Great Titchfield St., London" [ref=e966]
+            - generic [ref=e969]: 🏆 FSA 5/5
+            - generic [ref=e971]: ⭐ 4.8
+          - generic [ref=e972]:
+            - heading "Naroon Fitzrovia" [level=3] [ref=e973]
+            - generic [ref=e975]: british
+            - paragraph [ref=e976]: 📍 Bengal City, 65 Great Titchfield St., London
+            - paragraph [ref=e977]: 💰 ££
+            - paragraph [ref=e978]: 3,790 reviews
+      - link "Vegan Yes - korean restaurant in 64 Brick Ln, London 🏆 FSA 5/5 🌱 Vegan ⭐ 4.8 Vegan Yes korean 📍 64 Brick Ln, London 💰 ££ 2,221 reviews" [ref=e979] [cursor=pointer]:
+        - /url: /restaurant/vegan-yes-dwrPTj8I
+        - generic [ref=e980]:
+          - generic [ref=e981]:
+            - img "Vegan Yes - korean restaurant in 64 Brick Ln, London" [ref=e982]
+            - generic [ref=e984]:
+              - generic [ref=e985]: 🏆 FSA 5/5
+              - generic [ref=e986]: 🌱 Vegan
+            - generic [ref=e988]: ⭐ 4.8
+          - generic [ref=e989]:
+            - heading "Vegan Yes" [level=3] [ref=e990]
+            - generic [ref=e992]: korean
+            - paragraph [ref=e993]: 📍 64 Brick Ln, London
+            - paragraph [ref=e994]: 💰 ££
+            - paragraph [ref=e995]: 2,221 reviews
+      - link "KIN Cafe & Restaurant - mediterranean restaurant in 22 Foley St, London 🏆 FSA 5/5 🌱 Vegan ⭐ 4.8 KIN Cafe & Restaurant mediterranean 📍 22 Foley St, London 💰 ££ 3,360 reviews" [ref=e996] [cursor=pointer]:
+        - /url: /restaurant/kin-cafe-restaurant-sMYzvisk
+        - generic [ref=e997]:
+          - generic [ref=e998]:
+            - img "KIN Cafe & Restaurant - mediterranean restaurant in 22 Foley St, London" [ref=e999]
+            - generic [ref=e1001]:
+              - generic [ref=e1002]: 🏆 FSA 5/5
+              - generic [ref=e1003]: 🌱 Vegan
+            - generic [ref=e1005]: ⭐ 4.8
+          - generic [ref=e1006]:
+            - heading "KIN Cafe & Restaurant" [level=3] [ref=e1007]
+            - generic [ref=e1009]: mediterranean
+            - paragraph [ref=e1010]: 📍 22 Foley St, London
+            - paragraph [ref=e1011]: 💰 ££
+            - paragraph [ref=e1012]: 3,360 reviews
+      - link "Ekstedt at The Yard - mediterranean restaurant in 3-5 Great Scotland Yard, London 🏆 FSA 5/5 ⭐ 4.8 Ekstedt at The Yard mediterranean 📍 3-5 Great Scotland Yard, London 💰 ££ 706 reviews" [ref=e1013] [cursor=pointer]:
+        - /url: /restaurant/ekstedt-at-the-yard-wI_8ELLQ
+        - generic [ref=e1014]:
+          - generic [ref=e1015]:
+            - img "Ekstedt at The Yard - mediterranean restaurant in 3-5 Great Scotland Yard, London" [ref=e1016]
+            - generic [ref=e1019]: 🏆 FSA 5/5
+            - generic [ref=e1021]: ⭐ 4.8
+          - generic [ref=e1022]:
+            - heading "Ekstedt at The Yard" [level=3] [ref=e1023]
+            - generic [ref=e1025]: mediterranean
+            - paragraph [ref=e1026]: 📍 3-5 Great Scotland Yard, London
+            - paragraph [ref=e1027]: 💰 ££
+            - paragraph [ref=e1028]: 706 reviews
+      - link "Restaurant St. Barts - mediterranean restaurant in Queen Elizabeth II Wing, 63 Bartholomew Cl, London 🏆 FSA 2/5 ⭐ 4.8 Restaurant St. Barts mediterranean 📍 Queen Elizabeth II Wing, 63 Bartholomew Cl, London 💰 ££ 410 reviews" [ref=e1029] [cursor=pointer]:
+        - /url: /restaurant/restaurant-st-barts-0KJsqCRk
+        - generic [ref=e1030]:
+          - generic [ref=e1031]:
+            - img "Restaurant St. Barts - mediterranean restaurant in Queen Elizabeth II Wing, 63 Bartholomew Cl, London" [ref=e1032]
+            - generic [ref=e1035]: 🏆 FSA 2/5
+            - generic [ref=e1037]: ⭐ 4.8
+          - generic [ref=e1038]:
+            - heading "Restaurant St. Barts" [level=3] [ref=e1039]
+            - generic [ref=e1041]: mediterranean
+            - paragraph [ref=e1042]: 📍 Queen Elizabeth II Wing, 63 Bartholomew Cl, London
+            - paragraph [ref=e1043]: 💰 ££
+            - paragraph [ref=e1044]: 410 reviews
+      - link "Kitchen Table - mediterranean restaurant in 70 Charlotte St., London 🏆 FSA 5/5 ⭐ 4.8 Kitchen Table mediterranean 📍 70 Charlotte St., London 💰 ££££ 546 reviews" [ref=e1045] [cursor=pointer]:
+        - /url: /restaurant/kitchen-table-PUQzy0hI
+        - generic [ref=e1046]:
+          - generic [ref=e1047]:
+            - img "Kitchen Table - mediterranean restaurant in 70 Charlotte St., London" [ref=e1048]
+            - generic [ref=e1051]: 🏆 FSA 5/5
+            - generic [ref=e1053]: ⭐ 4.8
+          - generic [ref=e1054]:
+            - heading "Kitchen Table" [level=3] [ref=e1055]
+            - generic [ref=e1057]: mediterranean
+            - paragraph [ref=e1058]: 📍 70 Charlotte St., London
+            - paragraph [ref=e1059]: 💰 ££££
+            - paragraph [ref=e1060]: 546 reviews
+      - link "Scully - french restaurant in Rex House, 4 St James's Market, London 🏆 FSA 5/5 ⭐ 4.8 Scully french 📍 Rex House, 4 St James's Market, London 💰 ££ 1,350 reviews" [ref=e1061] [cursor=pointer]:
+        - /url: /restaurant/scully-jo-eEEl4
+        - generic [ref=e1062]:
+          - generic [ref=e1063]:
+            - img "Scully - french restaurant in Rex House, 4 St James's Market, London" [ref=e1064]
+            - generic [ref=e1067]: 🏆 FSA 5/5
+            - generic [ref=e1069]: ⭐ 4.8
+          - generic [ref=e1070]:
+            - heading "Scully" [level=3] [ref=e1071]
+            - generic [ref=e1073]: french
+            - paragraph [ref=e1074]: 📍 Rex House, 4 St James's Market, London
+            - paragraph [ref=e1075]: 💰 ££
+            - paragraph [ref=e1076]: 1,350 reviews
+      - link "E Pellicci - mediterranean restaurant in 332 Bethnal Grn Rd, London 🏆 FSA 5/5 ⭐ 4.8 E Pellicci mediterranean 📍 332 Bethnal Grn Rd, London 💰 £ 2,781 reviews" [ref=e1077] [cursor=pointer]:
+        - /url: /restaurant/e-pellicci-Ri5OAXZ4
+        - generic [ref=e1078]:
+          - generic [ref=e1079]:
+            - img "E Pellicci - mediterranean restaurant in 332 Bethnal Grn Rd, London" [ref=e1080]
+            - generic [ref=e1083]: 🏆 FSA 5/5
+            - generic [ref=e1085]: ⭐ 4.8
+          - generic [ref=e1086]:
+            - heading "E Pellicci" [level=3] [ref=e1087]
+            - generic [ref=e1089]: mediterranean
+            - paragraph [ref=e1090]: 📍 332 Bethnal Grn Rd, London
+            - paragraph [ref=e1091]: 💰 £
+            - paragraph [ref=e1092]: 2,781 reviews
+      - link "Rosslyn Coffee London Wall - mediterranean restaurant in FOX Building, 118 London Wall, London 🏆 FSA 5/5 ⭐ 4.8 Rosslyn Coffee London Wall mediterranean 📍 FOX Building, 118 London Wall, London 💰 ££ 375 reviews" [ref=e1093] [cursor=pointer]:
+        - /url: /restaurant/rosslyn-coffee-london-wall-7lphil6E
+        - generic [ref=e1094]:
+          - generic [ref=e1095]:
+            - img "Rosslyn Coffee London Wall - mediterranean restaurant in FOX Building, 118 London Wall, London" [ref=e1096]
+            - generic [ref=e1099]: 🏆 FSA 5/5
+            - generic [ref=e1101]: ⭐ 4.8
+          - generic [ref=e1102]:
+            - heading "Rosslyn Coffee London Wall" [level=3] [ref=e1103]
+            - generic [ref=e1105]: mediterranean
+            - paragraph [ref=e1106]: 📍 FOX Building, 118 London Wall, London
+            - paragraph [ref=e1107]: 💰 ££
+            - paragraph [ref=e1108]: 375 reviews
+      - link "Chill House Coffee Shop - mediterranean restaurant in 10 Shepherd St, London 🏆 FSA 5/5 ⭐ 4.8 Chill House Coffee Shop mediterranean 📍 10 Shepherd St, London 💰 ££ 408 reviews" [ref=e1109] [cursor=pointer]:
+        - /url: /restaurant/chill-house-coffee-shop--M-c4fvk
+        - generic [ref=e1110]:
+          - generic [ref=e1111]:
+            - img "Chill House Coffee Shop - mediterranean restaurant in 10 Shepherd St, London" [ref=e1112]
+            - generic [ref=e1115]: 🏆 FSA 5/5
+            - generic [ref=e1117]: ⭐ 4.8
+          - generic [ref=e1118]:
+            - heading "Chill House Coffee Shop" [level=3] [ref=e1119]
+            - generic [ref=e1121]: mediterranean
+            - paragraph [ref=e1122]: 📍 10 Shepherd St, London
+            - paragraph [ref=e1123]: 💰 ££
+            - paragraph [ref=e1124]: 408 reviews
+      - link "TOAD Bakery - mediterranean restaurant in 44 Peckham Rd, London 🏆 FSA 5/5 ⭐ 4.8 TOAD Bakery mediterranean 📍 44 Peckham Rd, London 💰 ££ 653 reviews" [ref=e1125] [cursor=pointer]:
+        - /url: /restaurant/toad-bakery-ikvURs_0
+        - generic [ref=e1126]:
+          - generic [ref=e1127]:
+            - img "TOAD Bakery - mediterranean restaurant in 44 Peckham Rd, London" [ref=e1128]
+            - generic [ref=e1131]: 🏆 FSA 5/5
+            - generic [ref=e1133]: ⭐ 4.8
+          - generic [ref=e1134]:
+            - heading "TOAD Bakery" [level=3] [ref=e1135]
+            - generic [ref=e1137]: mediterranean
+            - paragraph [ref=e1138]: 📍 44 Peckham Rd, London
+            - paragraph [ref=e1139]: 💰 ££
+            - paragraph [ref=e1140]: 653 reviews
+      - link "Brother Marcus Borough - british restaurant in Thames House, 1 Dirty Ln, London 🏆 FSA 5/5 ⭐ 4.8 Brother Marcus Borough british 📍 Thames House, 1 Dirty Ln, London 💰 ££ 5,020 reviews" [ref=e1141] [cursor=pointer]:
+        - /url: /restaurant/brother-marcus-borough-ZQizAacI
+        - generic [ref=e1142]:
+          - generic [ref=e1143]:
+            - img "Brother Marcus Borough - british restaurant in Thames House, 1 Dirty Ln, London" [ref=e1144]
+            - generic [ref=e1147]: 🏆 FSA 5/5
+            - generic [ref=e1149]: ⭐ 4.8
+          - generic [ref=e1150]:
+            - heading "Brother Marcus Borough" [level=3] [ref=e1151]
+            - generic [ref=e1153]: british
+            - paragraph [ref=e1154]: 📍 Thames House, 1 Dirty Ln, London
+            - paragraph [ref=e1155]: 💰 ££
+            - paragraph [ref=e1156]: 5,020 reviews
+      - link "Baba Restaurant Chelsea - british restaurant in 212 Fulham Rd., London 🏆 FSA 5/5 ⭐ 4.8 Baba Restaurant Chelsea british 📍 212 Fulham Rd., London 💰 ££ 265 reviews" [ref=e1157] [cursor=pointer]:
+        - /url: /restaurant/baba-restaurant-chelsea-wKVHz5WU
+        - generic [ref=e1158]:
+          - generic [ref=e1159]:
+            - img "Baba Restaurant Chelsea - british restaurant in 212 Fulham Rd., London" [ref=e1160]
+            - generic [ref=e1163]: 🏆 FSA 5/5
+            - generic [ref=e1165]: ⭐ 4.8
+          - generic [ref=e1166]:
+            - heading "Baba Restaurant Chelsea" [level=3] [ref=e1167]
+            - generic [ref=e1169]: british
+            - paragraph [ref=e1170]: 📍 212 Fulham Rd., London
+            - paragraph [ref=e1171]: 💰 ££
+            - paragraph [ref=e1172]: 265 reviews
+      - link "Osteria Napoletana - italian restaurant in 186 Kensington Park Rd, Notting Hill, ES 🏆 FSA 5/5 ⭐ 4.8 Osteria Napoletana italian 📍 186 Kensington Park Rd, Notting Hill, ES 💰 ££ 3,425 reviews" [ref=e1173] [cursor=pointer]:
+        - /url: /restaurant/osteria-napoletana-JmjibnCw
+        - generic [ref=e1174]:
+          - generic [ref=e1175]:
+            - img "Osteria Napoletana - italian restaurant in 186 Kensington Park Rd, Notting Hill, ES" [ref=e1176]
+            - generic [ref=e1179]: 🏆 FSA 5/5
+            - generic [ref=e1181]: ⭐ 4.8
+          - generic [ref=e1182]:
+            - heading "Osteria Napoletana" [level=3] [ref=e1183]
+            - generic [ref=e1185]: italian
+            - paragraph [ref=e1186]: 📍 186 Kensington Park Rd, Notting Hill, ES
+            - paragraph [ref=e1187]: 💰 ££
+            - paragraph [ref=e1188]: 3,425 reviews
+      - link "LUSH & HUSH - british restaurant in 101 Notting Hill Gate, London 🏆 FSA 5/5 ⭐ 4.8 LUSH & HUSH british 📍 101 Notting Hill Gate, London 💰 ££ 38 reviews" [ref=e1189] [cursor=pointer]:
+        - /url: /restaurant/lush-hush-YfxjzA_Y
+        - generic [ref=e1190]:
+          - generic [ref=e1191]:
+            - img "LUSH & HUSH - british restaurant in 101 Notting Hill Gate, London" [ref=e1192]
+            - generic [ref=e1195]: 🏆 FSA 5/5
+            - generic [ref=e1197]: ⭐ 4.8
+          - generic [ref=e1198]:
+            - heading "LUSH & HUSH" [level=3] [ref=e1199]
+            - generic [ref=e1201]: british
+            - paragraph [ref=e1202]: 📍 101 Notting Hill Gate, London
+            - paragraph [ref=e1203]: 💰 ££
+            - paragraph [ref=e1204]: 38 reviews
+      - link "Daphne Restaurant - british restaurant in 83 Bayham St, Greater, London 🏆 FSA 4/5 ⭐ 4.8 Daphne Restaurant british 📍 83 Bayham St, Greater, London 💰 ££ 634 reviews" [ref=e1205] [cursor=pointer]:
+        - /url: /restaurant/daphne-restaurant-AQ6244NE
+        - generic [ref=e1206]:
+          - generic [ref=e1207]:
+            - img "Daphne Restaurant - british restaurant in 83 Bayham St, Greater, London" [ref=e1208]
+            - generic [ref=e1211]: 🏆 FSA 4/5
+            - generic [ref=e1213]: ⭐ 4.8
+          - generic [ref=e1214]:
+            - heading "Daphne Restaurant" [level=3] [ref=e1215]
+            - generic [ref=e1217]: british
+            - paragraph [ref=e1218]: 📍 83 Bayham St, Greater, London
+            - paragraph [ref=e1219]: 💰 ££
+            - paragraph [ref=e1220]: 634 reviews
+      - link "Purezza Camden - british restaurant in 45-47 Parkway, London 🏆 FSA 5/5 🌱 Vegan ⭐ 4.8 Purezza Camden british 📍 45-47 Parkway, London 💰 ££ 6,952 reviews" [ref=e1221] [cursor=pointer]:
+        - /url: /restaurant/purezza-camden-njsJLiQk
+        - generic [ref=e1222]:
+          - generic [ref=e1223]:
+            - img "Purezza Camden - british restaurant in 45-47 Parkway, London" [ref=e1224]
+            - generic [ref=e1226]:
+              - generic [ref=e1227]: 🏆 FSA 5/5
+              - generic [ref=e1228]: 🌱 Vegan
+            - generic [ref=e1230]: ⭐ 4.8
+          - generic [ref=e1231]:
+            - heading "Purezza Camden" [level=3] [ref=e1232]
+            - generic [ref=e1234]: british
+            - paragraph [ref=e1235]: 📍 45-47 Parkway, London
+            - paragraph [ref=e1236]: 💰 ££
+            - paragraph [ref=e1237]: 6,952 reviews
+      - link "Dishoom Canary Wharf - indian restaurant in 13 Water St, London 🏆 FSA 5/5 ⭐ 4.8 Dishoom Canary Wharf indian 📍 13 Water St, London 💰 ££ 8,349 reviews" [ref=e1238] [cursor=pointer]:
+        - /url: /restaurant/dishoom-canary-wharf-BKRQW0f0
+        - generic [ref=e1239]:
+          - generic [ref=e1240]:
+            - img "Dishoom Canary Wharf - indian restaurant in 13 Water St, London" [ref=e1241]
+            - generic [ref=e1244]: 🏆 FSA 5/5
+            - generic [ref=e1246]: ⭐ 4.8
+          - generic [ref=e1247]:
+            - heading "Dishoom Canary Wharf" [level=3] [ref=e1248]
+            - generic [ref=e1250]: indian
+            - paragraph [ref=e1251]: 📍 13 Water St, London
+            - paragraph [ref=e1252]: 💰 ££
+            - paragraph [ref=e1253]: 8,349 reviews
+      - link "Hotto Potto - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 Hotto Potto british 📍 Central London 💰 ££ 5,568 reviews" [ref=e1254] [cursor=pointer]:
+        - /url: /restaurant/hotto-potto-5DeFa9E8
+        - generic [ref=e1255]:
+          - generic [ref=e1256]:
+            - img "Hotto Potto - british restaurant in Central London" [ref=e1257]
+            - generic [ref=e1260]: 🏆 FSA 5/5
+            - generic [ref=e1262]: ⭐ 4.8
+          - generic [ref=e1263]:
+            - heading "Hotto Potto" [level=3] [ref=e1264]
+            - generic [ref=e1266]: british
+            - paragraph [ref=e1267]: 📍 Central London
+            - paragraph [ref=e1268]: 💰 ££
+            - paragraph [ref=e1269]: 5,568 reviews
+      - link "DanDan Aldgate East - modern-european restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 DanDan Aldgate East modern-european 📍 Central London 💰 ££ 4,099 reviews" [ref=e1270] [cursor=pointer]:
+        - /url: /restaurant/dandan-aldgate-east-vvkJd6oQ
+        - generic [ref=e1271]:
+          - generic [ref=e1272]:
+            - img "DanDan Aldgate East - modern-european restaurant in Central London" [ref=e1273]
+            - generic [ref=e1276]: 🏆 FSA 5/5
+            - generic [ref=e1278]: ⭐ 4.8
+          - generic [ref=e1279]:
+            - heading "DanDan Aldgate East" [level=3] [ref=e1280]
+            - generic [ref=e1282]: modern-european
+            - paragraph [ref=e1283]: 📍 Central London
+            - paragraph [ref=e1284]: 💰 ££
+            - paragraph [ref=e1285]: 4,099 reviews
+      - link "Baristas Lounge - british restaurant in Tower Hamlets 🏆 FSA 3/5 ⭐ 4.8 Baristas Lounge british 📍 Tower Hamlets 💰 ££ 1,280 reviews" [ref=e1286] [cursor=pointer]:
+        - /url: /restaurant/baristas-lounge-MenAVNxk
+        - generic [ref=e1287]:
+          - generic [ref=e1288]:
+            - img "Baristas Lounge - british restaurant in Tower Hamlets" [ref=e1289]
+            - generic [ref=e1292]: 🏆 FSA 3/5
+            - generic [ref=e1294]: ⭐ 4.8
+          - generic [ref=e1295]:
+            - heading "Baristas Lounge" [level=3] [ref=e1296]
+            - generic [ref=e1298]: british
+            - paragraph [ref=e1299]: 📍 Tower Hamlets
+            - paragraph [ref=e1300]: 💰 ££
+            - paragraph [ref=e1301]: 1,280 reviews
+      - link "Royal Nawaab Ilford - indian restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.8 Royal Nawaab Ilford indian 📍 Redbridge 💰 ££ 17,767 reviews" [ref=e1302] [cursor=pointer]:
+        - /url: /restaurant/royal-nawaab-ilford-NPoY41cY
+        - generic [ref=e1303]:
+          - generic [ref=e1304]:
+            - img "Royal Nawaab Ilford - indian restaurant in Redbridge" [ref=e1305]
+            - generic [ref=e1308]: 🏆 FSA 5/5
+            - generic [ref=e1310]: ⭐ 4.8
+          - generic [ref=e1311]:
+            - heading "Royal Nawaab Ilford" [level=3] [ref=e1312]
+            - generic [ref=e1314]: indian
+            - paragraph [ref=e1315]: 📍 Redbridge
+            - paragraph [ref=e1316]: 💰 ££
+            - paragraph [ref=e1317]: 17,767 reviews
+      - link "Meat Street - british restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.8 Meat Street british 📍 Redbridge 💰 ££ 141 reviews" [ref=e1318] [cursor=pointer]:
+        - /url: /restaurant/meat-street-q-m6QK-M
+        - generic [ref=e1319]:
+          - generic [ref=e1320]:
+            - img "Meat Street - british restaurant in Redbridge" [ref=e1321]
+            - generic [ref=e1324]: 🏆 FSA 5/5
+            - generic [ref=e1326]: ⭐ 4.8
+          - generic [ref=e1327]:
+            - heading "Meat Street" [level=3] [ref=e1328]
+            - generic [ref=e1330]: british
+            - paragraph [ref=e1331]: 📍 Redbridge
+            - paragraph [ref=e1332]: 💰 ££
+            - paragraph [ref=e1333]: 141 reviews
+      - link "Turtle Bay Romford - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.8 Turtle Bay Romford british 📍 Havering 💰 ££ 5,799 reviews" [ref=e1334] [cursor=pointer]:
+        - /url: /restaurant/turtle-bay-romford-Okk25Jhk
+        - generic [ref=e1335]:
+          - generic [ref=e1336]:
+            - img "Turtle Bay Romford - british restaurant in Havering" [ref=e1337]
+            - generic [ref=e1340]: 🏆 FSA 5/5
+            - generic [ref=e1342]: ⭐ 4.8
+          - generic [ref=e1343]:
+            - heading "Turtle Bay Romford" [level=3] [ref=e1344]
+            - generic [ref=e1346]: british
+            - paragraph [ref=e1347]: 📍 Havering
+            - paragraph [ref=e1348]: 💰 ££
+            - paragraph [ref=e1349]: 5,799 reviews
+      - link "Kokin Restaurant - british restaurant in Newham 🏆 FSA 5/5 ⭐ 4.8 Kokin Restaurant british 📍 Newham 💰 ££ 85 reviews" [ref=e1350] [cursor=pointer]:
+        - /url: /restaurant/kokin-restaurant-RMG7xwxA
+        - generic [ref=e1351]:
+          - generic [ref=e1352]:
+            - img "Kokin Restaurant - british restaurant in Newham" [ref=e1353]
+            - generic [ref=e1356]: 🏆 FSA 5/5
+            - generic [ref=e1358]: ⭐ 4.8
+          - generic [ref=e1359]:
+            - heading "Kokin Restaurant" [level=3] [ref=e1360]
+            - generic [ref=e1362]: british
+            - paragraph [ref=e1363]: 📍 Newham
+            - paragraph [ref=e1364]: 💰 ££
+            - paragraph [ref=e1365]: 85 reviews
+      - link "Bamboo-Mat Stratford - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 Bamboo-Mat Stratford british 📍 Central London 💰 ££ 647 reviews" [ref=e1366] [cursor=pointer]:
+        - /url: /restaurant/bamboo-mat-stratford-YCnTkgp8
+        - generic [ref=e1367]:
+          - generic [ref=e1368]:
+            - img "Bamboo-Mat Stratford - british restaurant in Central London" [ref=e1369]
+            - generic [ref=e1372]: 🏆 FSA 5/5
+            - generic [ref=e1374]: ⭐ 4.8
+          - generic [ref=e1375]:
+            - heading "Bamboo-Mat Stratford" [level=3] [ref=e1376]
+            - generic [ref=e1378]: british
+            - paragraph [ref=e1379]: 📍 Central London
+            - paragraph [ref=e1380]: 💰 ££
+            - paragraph [ref=e1381]: 647 reviews
+      - link "Fatto a Mano Bethnal Green - italian restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 Fatto a Mano Bethnal Green italian 📍 Central London 💰 ££ 507 reviews" [ref=e1382] [cursor=pointer]:
+        - /url: /restaurant/fatto-a-mano-bethnal-green-iftn5UJA
+        - generic [ref=e1383]:
+          - generic [ref=e1384]:
+            - img "Fatto a Mano Bethnal Green - italian restaurant in Central London" [ref=e1385]
+            - generic [ref=e1388]: 🏆 FSA 5/5
+            - generic [ref=e1390]: ⭐ 4.8
+          - generic [ref=e1391]:
+            - heading "Fatto a Mano Bethnal Green" [level=3] [ref=e1392]
+            - generic [ref=e1394]: italian
+            - paragraph [ref=e1395]: 📍 Central London
+            - paragraph [ref=e1396]: 💰 ££
+            - paragraph [ref=e1397]: 507 reviews
+      - link "Da Terra Restaurant - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.8 Da Terra Restaurant british 📍 Central London 💰 ££££ 476 reviews" [ref=e1398] [cursor=pointer]:
+        - /url: /restaurant/da-terra-restaurant-5bVEiEfQ
+        - generic [ref=e1399]:
+          - generic [ref=e1400]:
+            - img "Da Terra Restaurant - british restaurant in Central London" [ref=e1401]
+            - generic [ref=e1404]: 🏆 FSA 3/5
+            - generic [ref=e1406]: ⭐ 4.8
+          - generic [ref=e1407]:
+            - heading "Da Terra Restaurant" [level=3] [ref=e1408]
+            - generic [ref=e1410]: british
+            - paragraph [ref=e1411]: 📍 Central London
+            - paragraph [ref=e1412]: 💰 ££££
+            - paragraph [ref=e1413]: 476 reviews
+      - link "Angelina - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 Angelina british 📍 Central London 💰 ££ 1,803 reviews" [ref=e1414] [cursor=pointer]:
+        - /url: /restaurant/angelina-99ah47qk
+        - generic [ref=e1415]:
+          - generic [ref=e1416]:
+            - img "Angelina - british restaurant in Central London" [ref=e1417]
+            - generic [ref=e1420]: 🏆 FSA 5/5
+            - generic [ref=e1422]: ⭐ 4.8
+          - generic [ref=e1423]:
+            - heading "Angelina" [level=3] [ref=e1424]
+            - generic [ref=e1426]: british
+            - paragraph [ref=e1427]: 📍 Central London
+            - paragraph [ref=e1428]: 💰 ££
+            - paragraph [ref=e1429]: 1,803 reviews
+      - link "Big Night Bar & Restaurant Hackney - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 Big Night Bar & Restaurant Hackney british 📍 Central London 💰 ££ 128 reviews" [ref=e1430] [cursor=pointer]:
+        - /url: /restaurant/big-night-bar-restaurant-hackney-gke6CJBA
+        - generic [ref=e1431]:
+          - generic [ref=e1432]:
+            - img "Big Night Bar & Restaurant Hackney - british restaurant in Central London" [ref=e1433]
+            - generic [ref=e1436]: 🏆 FSA 5/5
+            - generic [ref=e1438]: ⭐ 4.8
+          - generic [ref=e1439]:
+            - heading "Big Night Bar & Restaurant Hackney" [level=3] [ref=e1440]
+            - generic [ref=e1442]: british
+            - paragraph [ref=e1443]: 📍 Central London
+            - paragraph [ref=e1444]: 💰 ££
+            - paragraph [ref=e1445]: 128 reviews
+      - link "Rao's Bar & Restaurant - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 Rao's Bar & Restaurant british 📍 Central London 💰 ££ 369 reviews" [ref=e1446] [cursor=pointer]:
+        - /url: /restaurant/raos-bar-restaurant-Ibjtu6so
+        - generic [ref=e1447]:
+          - generic [ref=e1448]:
+            - img "Rao's Bar & Restaurant - british restaurant in Central London" [ref=e1449]
+            - generic [ref=e1452]: 🏆 FSA 5/5
+            - generic [ref=e1454]: ⭐ 4.8
+          - generic [ref=e1455]:
+            - heading "Rao's Bar & Restaurant" [level=3] [ref=e1456]
+            - generic [ref=e1458]: british
+            - paragraph [ref=e1459]: 📍 Central London
+            - paragraph [ref=e1460]: 💰 ££
+            - paragraph [ref=e1461]: 369 reviews
+      - link "Eggslut Canary Wharf - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 Eggslut Canary Wharf british 📍 Central London 💰 ££ 577 reviews" [ref=e1462] [cursor=pointer]:
+        - /url: /restaurant/eggslut-canary-wharf-q-Up2-EA
+        - generic [ref=e1463]:
+          - generic [ref=e1464]:
+            - img "Eggslut Canary Wharf - british restaurant in Central London" [ref=e1465]
+            - generic [ref=e1468]: 🏆 FSA 5/5
+            - generic [ref=e1470]: ⭐ 4.8
+          - generic [ref=e1471]:
+            - heading "Eggslut Canary Wharf" [level=3] [ref=e1472]
+            - generic [ref=e1474]: british
+            - paragraph [ref=e1475]: 📍 Central London
+            - paragraph [ref=e1476]: 💰 ££
+            - paragraph [ref=e1477]: 577 reviews
+      - link "Smoke End Steakhouse - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.8 Smoke End Steakhouse british 📍 Tower Hamlets 💰 ££ 1,562 reviews" [ref=e1478] [cursor=pointer]:
+        - /url: /restaurant/smoke-end-steakhouse-KoYklxQ0
+        - generic [ref=e1479]:
+          - generic [ref=e1480]:
+            - img "Smoke End Steakhouse - british restaurant in Tower Hamlets" [ref=e1481]
+            - generic [ref=e1484]: 🏆 FSA 5/5
+            - generic [ref=e1486]: ⭐ 4.8
+          - generic [ref=e1487]:
+            - heading "Smoke End Steakhouse" [level=3] [ref=e1488]
+            - generic [ref=e1490]: british
+            - paragraph [ref=e1491]: 📍 Tower Hamlets
+            - paragraph [ref=e1492]: 💰 ££
+            - paragraph [ref=e1493]: 1,562 reviews
+      - link "Dead Pedro's - Mexican Kitchen at The Bow Bells - mexican restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.8 Dead Pedro's - Mexican Kitchen at The Bow Bells mexican 📍 Tower Hamlets 💰 ££ 37 reviews" [ref=e1494] [cursor=pointer]:
+        - /url: /restaurant/dead-pedros-mexican-kitchen-at-the-bow-bells-6QR1_8V8
+        - generic [ref=e1495]:
+          - generic [ref=e1496]:
+            - img "Dead Pedro's - Mexican Kitchen at The Bow Bells - mexican restaurant in Tower Hamlets" [ref=e1497]
+            - generic [ref=e1500]: 🏆 FSA 5/5
+            - generic [ref=e1502]: ⭐ 4.8
+          - generic [ref=e1503]:
+            - heading "Dead Pedro's - Mexican Kitchen at The Bow Bells" [level=3] [ref=e1504]
+            - generic [ref=e1506]: mexican
+            - paragraph [ref=e1507]: 📍 Tower Hamlets
+            - paragraph [ref=e1508]: 💰 ££
+            - paragraph [ref=e1509]: 37 reviews
+      - link "Meat Up - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.8 Meat Up british 📍 Tower Hamlets 💰 ££ 1,400 reviews" [ref=e1510] [cursor=pointer]:
+        - /url: /restaurant/meat-up-gTdr34u4
+        - generic [ref=e1511]:
+          - generic [ref=e1512]:
+            - img "Meat Up - british restaurant in Tower Hamlets" [ref=e1513]
+            - generic [ref=e1516]: 🏆 FSA 5/5
+            - generic [ref=e1518]: ⭐ 4.8
+          - generic [ref=e1519]:
+            - heading "Meat Up" [level=3] [ref=e1520]
+            - generic [ref=e1522]: british
+            - paragraph [ref=e1523]: 📍 Tower Hamlets
+            - paragraph [ref=e1524]: 💰 ££
+            - paragraph [ref=e1525]: 1,400 reviews
+      - link "Eggslut Liverpool Street - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 Eggslut Liverpool Street british 📍 Central London 💰 ££ 184 reviews" [ref=e1526] [cursor=pointer]:
+        - /url: /restaurant/eggslut-liverpool-street-ZkJ7bxtY
+        - generic [ref=e1527]:
+          - generic [ref=e1528]:
+            - img "Eggslut Liverpool Street - british restaurant in Central London" [ref=e1529]
+            - generic [ref=e1532]: 🏆 FSA 5/5
+            - generic [ref=e1534]: ⭐ 4.8
+          - generic [ref=e1535]:
+            - heading "Eggslut Liverpool Street" [level=3] [ref=e1536]
+            - generic [ref=e1538]: british
+            - paragraph [ref=e1539]: 📍 Central London
+            - paragraph [ref=e1540]: 💰 ££
+            - paragraph [ref=e1541]: 184 reviews
+      - link "PAR LONDON - PAK AL REYAN RESTAURANT - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.8 PAR LONDON - PAK AL REYAN RESTAURANT british 📍 Central London 💰 ££ 109 reviews" [ref=e1542] [cursor=pointer]:
+        - /url: /restaurant/par-london-pak-al-reyan-restaurant-Tdf3cvhU
+        - generic [ref=e1543]:
+          - generic [ref=e1544]:
+            - img "PAR LONDON - PAK AL REYAN RESTAURANT - british restaurant in Central London" [ref=e1545]
+            - generic [ref=e1548]: 🏆 FSA 5/5
+            - generic [ref=e1550]: ⭐ 4.8
+          - generic [ref=e1551]:
+            - heading "PAR LONDON - PAK AL REYAN RESTAURANT" [level=3] [ref=e1552]
+            - generic [ref=e1554]: british
+            - paragraph [ref=e1555]: 📍 Central London
+            - paragraph [ref=e1556]: 💰 ££
+            - paragraph [ref=e1557]: 109 reviews
+      - link "Sen Viet Vegan Restaurant - british restaurant in Central London 🏆 FSA 5/5 🌱 Vegan ⭐ 4.8 Sen Viet Vegan Restaurant british 📍 Central London 💰 ££ 820 reviews" [ref=e1558] [cursor=pointer]:
+        - /url: /restaurant/sen-viet-vegan-restaurant-MQANJaDQ
+        - generic [ref=e1559]:
+          - generic [ref=e1560]:
+            - img "Sen Viet Vegan Restaurant - british restaurant in Central London" [ref=e1561]
+            - generic [ref=e1563]:
+              - generic [ref=e1564]: 🏆 FSA 5/5
+              - generic [ref=e1565]: 🌱 Vegan
+            - generic [ref=e1567]: ⭐ 4.8
+          - generic [ref=e1568]:
+            - heading "Sen Viet Vegan Restaurant" [level=3] [ref=e1569]
+            - generic [ref=e1571]: british
+            - paragraph [ref=e1572]: 📍 Central London
+            - paragraph [ref=e1573]: 💰 ££
+            - paragraph [ref=e1574]: 820 reviews
+      - link "Dishoom Covent Garden - indian restaurant in 12 Upper St Martin's Ln, London 🏆 FSA 5/5 ⭐ 4.7 Dishoom Covent Garden indian 📍 12 Upper St Martin's Ln, London 💰 ££ 27,585 reviews" [ref=e1575] [cursor=pointer]:
+        - /url: /restaurant/dishoom-covent-garden-OZ6OHOJw
+        - generic [ref=e1576]:
+          - generic [ref=e1577]:
+            - img "Dishoom Covent Garden - indian restaurant in 12 Upper St Martin's Ln, London" [ref=e1578]
+            - generic [ref=e1581]: 🏆 FSA 5/5
+            - generic [ref=e1583]: ⭐ 4.7
+          - generic [ref=e1584]:
+            - heading "Dishoom Covent Garden" [level=3] [ref=e1585]
+            - generic [ref=e1587]: indian
+            - paragraph [ref=e1588]: 📍 12 Upper St Martin's Ln, London
+            - paragraph [ref=e1589]: 💰 ££
+            - paragraph [ref=e1590]: 27,585 reviews
+      - link "Maharaja of India - indian restaurant in 19A Charing Cross Rd, London 🏆 FSA 3/5 ⭐ 4.7 Maharaja of India indian 📍 19A Charing Cross Rd, London 💰 ££ 13,404 reviews" [ref=e1591] [cursor=pointer]:
+        - /url: /restaurant/maharaja-of-india-EVrlil9k
+        - generic [ref=e1592]:
+          - generic [ref=e1593]:
+            - img "Maharaja of India - indian restaurant in 19A Charing Cross Rd, London" [ref=e1594]
+            - generic [ref=e1597]: 🏆 FSA 3/5
+            - generic [ref=e1599]: ⭐ 4.7
+          - generic [ref=e1600]:
+            - heading "Maharaja of India" [level=3] [ref=e1601]
+            - generic [ref=e1603]: indian
+            - paragraph [ref=e1604]: 📍 19A Charing Cross Rd, London
+            - paragraph [ref=e1605]: 💰 ££
+            - paragraph [ref=e1606]: 13,404 reviews
+      - link "The India - City Road - modern-european restaurant in 20 City Rd, London 🏆 FSA 5/5 ⭐ 4.7 The India - City Road modern-european 📍 20 City Rd, London 💰 ££ 3,033 reviews" [ref=e1607] [cursor=pointer]:
+        - /url: /restaurant/the-india-city-road-EvFfZ5AI
+        - generic [ref=e1608]:
+          - generic [ref=e1609]:
+            - img "The India - City Road - modern-european restaurant in 20 City Rd, London" [ref=e1610]
+            - generic [ref=e1613]: 🏆 FSA 5/5
+            - generic [ref=e1615]: ⭐ 4.7
+          - generic [ref=e1616]:
+            - heading "The India - City Road" [level=3] [ref=e1617]
+            - generic [ref=e1619]: modern-european
+            - paragraph [ref=e1620]: 📍 20 City Rd, London
+            - paragraph [ref=e1621]: 💰 ££
+            - paragraph [ref=e1622]: 3,033 reviews
+      - link "OITA Soho - japanese restaurant in 47 Gerrard St, London 🏆 FSA 4/5 ⭐ 4.7 OITA Soho japanese 📍 47 Gerrard St, London 💰 ££ 2,717 reviews" [ref=e1623] [cursor=pointer]:
+        - /url: /restaurant/oita-soho-xrSS0hZo
+        - generic [ref=e1624]:
+          - generic [ref=e1625]:
+            - img "OITA Soho - japanese restaurant in 47 Gerrard St, London" [ref=e1626]
+            - generic [ref=e1629]: 🏆 FSA 4/5
+            - generic [ref=e1631]: ⭐ 4.7
+          - generic [ref=e1632]:
+            - heading "OITA Soho" [level=3] [ref=e1633]
+            - generic [ref=e1635]: japanese
+            - paragraph [ref=e1636]: 📍 47 Gerrard St, London
+            - paragraph [ref=e1637]: 💰 ££
+            - paragraph [ref=e1638]: 2,717 reviews
+      - link "SUSHINOEN - british restaurant in 2 White Church Ln, London 🏆 FSA 5/5 ⭐ 4.7 SUSHINOEN british 📍 2 White Church Ln, London 💰 ££ 3,120 reviews" [ref=e1639] [cursor=pointer]:
+        - /url: /restaurant/sushinoen-myiHS2BQ
+        - generic [ref=e1640]:
+          - generic [ref=e1641]:
+            - img "SUSHINOEN - british restaurant in 2 White Church Ln, London" [ref=e1642]
+            - generic [ref=e1645]: 🏆 FSA 5/5
+            - generic [ref=e1647]: ⭐ 4.7
+          - generic [ref=e1648]:
+            - heading "SUSHINOEN" [level=3] [ref=e1649]
+            - generic [ref=e1651]: british
+            - paragraph [ref=e1652]: 📍 2 White Church Ln, London
+            - paragraph [ref=e1653]: 💰 ££
+            - paragraph [ref=e1654]: 3,120 reviews
+      - link "RAI Restaurant London - japanese restaurant in 11, RAI, 13 Bayley St, London 🏆 FSA 5/5 ⭐ 4.7 RAI Restaurant London japanese 📍 11, RAI, 13 Bayley St, London 💰 ££ 1,339 reviews" [ref=e1655] [cursor=pointer]:
+        - /url: /restaurant/rai-restaurant-london-5PZAMF6Q
+        - generic [ref=e1656]:
+          - generic [ref=e1657]:
+            - img "RAI Restaurant London - japanese restaurant in 11, RAI, 13 Bayley St, London" [ref=e1658]
+            - generic [ref=e1661]: 🏆 FSA 5/5
+            - generic [ref=e1663]: ⭐ 4.7
+          - generic [ref=e1664]:
+            - heading "RAI Restaurant London" [level=3] [ref=e1665]
+            - generic [ref=e1667]: japanese
+            - paragraph [ref=e1668]: 📍 11, RAI, 13 Bayley St, London
+            - paragraph [ref=e1669]: 💰 ££
+            - paragraph [ref=e1670]: 1,339 reviews
+      - link "Speedboat Bar - japanese restaurant in 30 Rupert St, London 🏆 FSA 5/5 ⭐ 4.7 Speedboat Bar japanese 📍 30 Rupert St, London 💰 ££ 4,320 reviews" [ref=e1671] [cursor=pointer]:
+        - /url: /restaurant/speedboat-bar-FDICmOhQ
+        - generic [ref=e1672]:
+          - generic [ref=e1673]:
+            - img "Speedboat Bar - japanese restaurant in 30 Rupert St, London" [ref=e1674]
+            - generic [ref=e1677]: 🏆 FSA 5/5
+            - generic [ref=e1679]: ⭐ 4.7
+          - generic [ref=e1680]:
+            - heading "Speedboat Bar" [level=3] [ref=e1681]
+            - generic [ref=e1683]: japanese
+            - paragraph [ref=e1684]: 📍 30 Rupert St, London
+            - paragraph [ref=e1685]: 💰 ££
+            - paragraph [ref=e1686]: 4,320 reviews
+      - link "Nua - thai restaurant in 55 Cleveland St, London 🏆 FSA 5/5 ⭐ 4.7 Nua thai 📍 55 Cleveland St, London 💰 ££ 238 reviews" [ref=e1687] [cursor=pointer]:
+        - /url: /restaurant/nua-y2wrCPy4
+        - generic [ref=e1688]:
+          - generic [ref=e1689]:
+            - img "Nua - thai restaurant in 55 Cleveland St, London" [ref=e1690]
+            - generic [ref=e1693]: 🏆 FSA 5/5
+            - generic [ref=e1695]: ⭐ 4.7
+          - generic [ref=e1696]:
+            - heading "Nua" [level=3] [ref=e1697]
+            - generic [ref=e1699]: thai
+            - paragraph [ref=e1700]: 📍 55 Cleveland St, London
+            - paragraph [ref=e1701]: 💰 ££
+            - paragraph [ref=e1702]: 238 reviews
+      - link "AngloThai - thai restaurant in 22-24 Seymour Pl, London 🏆 FSA 5/5 ⭐ 4.7 AngloThai thai 📍 22-24 Seymour Pl, London 💰 ££ 241 reviews" [ref=e1703] [cursor=pointer]:
+        - /url: /restaurant/anglothai-a6lDN5es
+        - generic [ref=e1704]:
+          - generic [ref=e1705]:
+            - img "AngloThai - thai restaurant in 22-24 Seymour Pl, London" [ref=e1706]
+            - generic [ref=e1709]: 🏆 FSA 5/5
+            - generic [ref=e1711]: ⭐ 4.7
+          - generic [ref=e1712]:
+            - heading "AngloThai" [level=3] [ref=e1713]
+            - generic [ref=e1715]: thai
+            - paragraph [ref=e1716]: 📍 22-24 Seymour Pl, London
+            - paragraph [ref=e1717]: 💰 ££
+            - paragraph [ref=e1718]: 241 reviews
+      - link "Plaza Khao Gaeng - thai restaurant in 103-105 New Oxford St, London 🏆 FSA 5/5 ⭐ 4.7 Plaza Khao Gaeng thai 📍 103-105 New Oxford St, London 💰 ££ 3,201 reviews" [ref=e1719] [cursor=pointer]:
+        - /url: /restaurant/plaza-khao-gaeng-uZGcbIvY
+        - generic [ref=e1720]:
+          - generic [ref=e1721]:
+            - img "Plaza Khao Gaeng - thai restaurant in 103-105 New Oxford St, London" [ref=e1722]
+            - generic [ref=e1725]: 🏆 FSA 5/5
+            - generic [ref=e1727]: ⭐ 4.7
+          - generic [ref=e1728]:
+            - heading "Plaza Khao Gaeng" [level=3] [ref=e1729]
+            - generic [ref=e1731]: thai
+            - paragraph [ref=e1732]: 📍 103-105 New Oxford St, London
+            - paragraph [ref=e1733]: 💰 ££
+            - paragraph [ref=e1734]: 3,201 reviews
+      - link "The Mantl - turkish restaurant in 142 Brompton Rd, London 🏆 FSA 5/5 ⭐ 4.7 The Mantl turkish 📍 142 Brompton Rd, London 💰 ££ 2,168 reviews" [ref=e1735] [cursor=pointer]:
+        - /url: /restaurant/the-mantl-GzBtMI-k
+        - generic [ref=e1736]:
+          - generic [ref=e1737]:
+            - img "The Mantl - turkish restaurant in 142 Brompton Rd, London" [ref=e1738]
+            - generic [ref=e1741]: 🏆 FSA 5/5
+            - generic [ref=e1743]: ⭐ 4.7
+          - generic [ref=e1744]:
+            - heading "The Mantl" [level=3] [ref=e1745]
+            - generic [ref=e1747]: turkish
+            - paragraph [ref=e1748]: 📍 142 Brompton Rd, London
+            - paragraph [ref=e1749]: 💰 ££
+            - paragraph [ref=e1750]: 2,168 reviews
+      - link "Liman Restaurant - turkish restaurant in 60 Penton St, London 🏆 FSA 5/5 ⭐ 4.7 Liman Restaurant turkish 📍 60 Penton St, London 💰 ££ 1,689 reviews" [ref=e1751] [cursor=pointer]:
+        - /url: /restaurant/liman-restaurant-GtZA40HM
+        - generic [ref=e1752]:
+          - generic [ref=e1753]:
+            - img "Liman Restaurant - turkish restaurant in 60 Penton St, London" [ref=e1754]
+            - generic [ref=e1757]: 🏆 FSA 5/5
+            - generic [ref=e1759]: ⭐ 4.7
+          - generic [ref=e1760]:
+            - heading "Liman Restaurant" [level=3] [ref=e1761]
+            - generic [ref=e1763]: turkish
+            - paragraph [ref=e1764]: 📍 60 Penton St, London
+            - paragraph [ref=e1765]: 💰 ££
+            - paragraph [ref=e1766]: 1,689 reviews
+      - link "Alanya turkish with fusion - modern-european restaurant in 510A Roman Rd, London 🏆 FSA 5/5 ⭐ 4.7 Alanya turkish with fusion modern-european 📍 510A Roman Rd, London 💰 ££ 637 reviews" [ref=e1767] [cursor=pointer]:
+        - /url: /restaurant/alanya-turkish-with-fusion-kallxaYU
+        - generic [ref=e1768]:
+          - generic [ref=e1769]:
+            - img "Alanya turkish with fusion - modern-european restaurant in 510A Roman Rd, London" [ref=e1770]
+            - generic [ref=e1773]: 🏆 FSA 5/5
+            - generic [ref=e1775]: ⭐ 4.7
+          - generic [ref=e1776]:
+            - heading "Alanya turkish with fusion" [level=3] [ref=e1777]
+            - generic [ref=e1779]: modern-european
+            - paragraph [ref=e1780]: 📍 510A Roman Rd, London
+            - paragraph [ref=e1781]: 💰 ££
+            - paragraph [ref=e1782]: 637 reviews
+      - link "Casse-Croûte - french restaurant in 109 Bermondsey St, London 🏆 FSA 5/5 ⭐ 4.7 Casse-Croûte french 📍 109 Bermondsey St, London 💰 ££ 1,226 reviews" [ref=e1783] [cursor=pointer]:
+        - /url: /restaurant/casse-crote-C9yowifE
+        - generic [ref=e1784]:
+          - generic [ref=e1785]:
+            - img "Casse-Croûte - french restaurant in 109 Bermondsey St, London" [ref=e1786]
+            - generic [ref=e1789]: 🏆 FSA 5/5
+            - generic [ref=e1791]: ⭐ 4.7
+          - generic [ref=e1792]:
+            - heading "Casse-Croûte" [level=3] [ref=e1793]
+            - generic [ref=e1795]: french
+            - paragraph [ref=e1796]: 📍 109 Bermondsey St, London
+            - paragraph [ref=e1797]: 💰 ££
+            - paragraph [ref=e1798]: 1,226 reviews
+      - link "Pavyllon London - french restaurant in Hamilton Pl, London 🏆 FSA 5/5 ⭐ 4.7 Pavyllon London french 📍 Hamilton Pl, London 💰 ££ 536 reviews" [ref=e1799] [cursor=pointer]:
+        - /url: /restaurant/pavyllon-london-nD9nfpA0
+        - generic [ref=e1800]:
+          - generic [ref=e1801]:
+            - img "Pavyllon London - french restaurant in Hamilton Pl, London" [ref=e1802]
+            - generic [ref=e1805]: 🏆 FSA 5/5
+            - generic [ref=e1807]: ⭐ 4.7
+          - generic [ref=e1808]:
+            - heading "Pavyllon London" [level=3] [ref=e1809]
+            - generic [ref=e1811]: french
+            - paragraph [ref=e1812]: 📍 Hamilton Pl, London
+            - paragraph [ref=e1813]: 💰 ££
+            - paragraph [ref=e1814]: 536 reviews
+      - link "La Trompette - french restaurant in 3-7 Devonshire Rd, London 🏆 FSA 5/5 ⭐ 4.7 La Trompette french 📍 3-7 Devonshire Rd, London 💰 ££££ 992 reviews" [ref=e1815] [cursor=pointer]:
+        - /url: /restaurant/la-trompette-MzysCr2Y
+        - generic [ref=e1816]:
+          - generic [ref=e1817]:
+            - img "La Trompette - french restaurant in 3-7 Devonshire Rd, London" [ref=e1818]
+            - generic [ref=e1821]: 🏆 FSA 5/5
+            - generic [ref=e1823]: ⭐ 4.7
+          - generic [ref=e1824]:
+            - heading "La Trompette" [level=3] [ref=e1825]
+            - generic [ref=e1827]: french
+            - paragraph [ref=e1828]: 📍 3-7 Devonshire Rd, London
+            - paragraph [ref=e1829]: 💰 ££££
+            - paragraph [ref=e1830]: 992 reviews
+      - link "Koko Grill Korean BBQ Restaurant - korean restaurant in 173 Tower Bridge Rd, London 🏆 FSA 5/5 ⭐ 4.7 Koko Grill Korean BBQ Restaurant korean 📍 173 Tower Bridge Rd, London 💰 ££ 148 reviews" [ref=e1831] [cursor=pointer]:
+        - /url: /restaurant/koko-grill-korean-bbq-restaurant-TiSvAj5c
+        - generic [ref=e1832]:
+          - generic [ref=e1833]:
+            - img "Koko Grill Korean BBQ Restaurant - korean restaurant in 173 Tower Bridge Rd, London" [ref=e1834]
+            - generic [ref=e1837]: 🏆 FSA 5/5
+            - generic [ref=e1839]: ⭐ 4.7
+          - generic [ref=e1840]:
+            - heading "Koko Grill Korean BBQ Restaurant" [level=3] [ref=e1841]
+            - generic [ref=e1843]: korean
+            - paragraph [ref=e1844]: 📍 173 Tower Bridge Rd, London
+            - paragraph [ref=e1845]: 💰 ££
+            - paragraph [ref=e1846]: 148 reviews
+      - link "Jang Restaurant - korean restaurant in The Mezzanine, First Floor, Royal Exchange, London 🏆 FSA 5/5 ⭐ 4.7 Jang Restaurant korean 📍 The Mezzanine, First Floor, Royal Exchange, London 💰 ££ 203 reviews" [ref=e1847] [cursor=pointer]:
+        - /url: /restaurant/jang-restaurant-A2kpdsBc
+        - generic [ref=e1848]:
+          - generic [ref=e1849]:
+            - img "Jang Restaurant - korean restaurant in The Mezzanine, First Floor, Royal Exchange, London" [ref=e1850]
+            - generic [ref=e1853]: 🏆 FSA 5/5
+            - generic [ref=e1855]: ⭐ 4.7
+          - generic [ref=e1856]:
+            - heading "Jang Restaurant" [level=3] [ref=e1857]
+            - generic [ref=e1859]: korean
+            - paragraph [ref=e1860]: 📍 The Mezzanine, First Floor, Royal Exchange, London
+            - paragraph [ref=e1861]: 💰 ££
+            - paragraph [ref=e1862]: 203 reviews
+      - 'link "Mestizo Chelsea: Mexican Restaurant & Margarita Bar - mexican restaurant in 392 King''s Rd, London 🏆 FSA 5/5 ⭐ 4.7 Mestizo Chelsea: Mexican Restaurant & Margarita Bar mexican 📍 392 King''s Rd, London 💰 ££ 2,052 reviews" [ref=e1863] [cursor=pointer]':
+        - /url: /restaurant/mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY
+        - generic [ref=e1864]:
+          - generic [ref=e1865]:
+            - 'img "Mestizo Chelsea: Mexican Restaurant & Margarita Bar - mexican restaurant in 392 King''s Rd, London" [ref=e1866]'
+            - generic [ref=e1869]: 🏆 FSA 5/5
+            - generic [ref=e1871]: ⭐ 4.7
+          - generic [ref=e1872]:
+            - 'heading "Mestizo Chelsea: Mexican Restaurant & Margarita Bar" [level=3] [ref=e1873]'
+            - generic [ref=e1875]: mexican
+            - paragraph [ref=e1876]: 📍 392 King's Rd, London
+            - paragraph [ref=e1877]: 💰 ££
+            - paragraph [ref=e1878]: 2,052 reviews
+      - link "El Cenote - spanish restaurant in 2 Inverness St, London 🏆 FSA 3/5 ⭐ 4.7 El Cenote spanish 📍 2 Inverness St, London 💰 ££ 420 reviews" [ref=e1879] [cursor=pointer]:
+        - /url: /restaurant/el-cenote-i5Opd7dI
+        - generic [ref=e1880]:
+          - generic [ref=e1881]:
+            - img "El Cenote - spanish restaurant in 2 Inverness St, London" [ref=e1882]
+            - generic [ref=e1885]: 🏆 FSA 3/5
+            - generic [ref=e1887]: ⭐ 4.7
+          - generic [ref=e1888]:
+            - heading "El Cenote" [level=3] [ref=e1889]
+            - generic [ref=e1891]: spanish
+            - paragraph [ref=e1892]: 📍 2 Inverness St, London
+            - paragraph [ref=e1893]: 💰 ££
+            - paragraph [ref=e1894]: 420 reviews
+      - link "Yucca London - spanish restaurant in 496 Fulham Rd., London 🏆 FSA 5/5 ⭐ 4.7 Yucca London spanish 📍 496 Fulham Rd., London 💰 ££ 1,198 reviews" [ref=e1895] [cursor=pointer]:
+        - /url: /restaurant/yucca-london-39NTBPjA
+        - generic [ref=e1896]:
+          - generic [ref=e1897]:
+            - img "Yucca London - spanish restaurant in 496 Fulham Rd., London" [ref=e1898]
+            - generic [ref=e1901]: 🏆 FSA 5/5
+            - generic [ref=e1903]: ⭐ 4.7
+          - generic [ref=e1904]:
+            - heading "Yucca London" [level=3] [ref=e1905]
+            - generic [ref=e1907]: spanish
+            - paragraph [ref=e1908]: 📍 496 Fulham Rd., London
+            - paragraph [ref=e1909]: 💰 ££
+            - paragraph [ref=e1910]: 1,198 reviews
+      - link "Taste of Lahore - indian restaurant in Tigress House, 256 Edgware Rd, London 🏆 FSA 5/5 ⭐ 4.7 Taste of Lahore indian 📍 Tigress House, 256 Edgware Rd, London 💰 ££ 4,317 reviews" [ref=e1911] [cursor=pointer]:
+        - /url: /restaurant/taste-of-lahore-JVquuZ94
+        - generic [ref=e1912]:
+          - generic [ref=e1913]:
+            - img "Taste of Lahore - indian restaurant in Tigress House, 256 Edgware Rd, London" [ref=e1914]
+            - generic [ref=e1917]: 🏆 FSA 5/5
+            - generic [ref=e1919]: ⭐ 4.7
+          - generic [ref=e1920]:
+            - heading "Taste of Lahore" [level=3] [ref=e1921]
+            - generic [ref=e1923]: indian
+            - paragraph [ref=e1924]: 📍 Tigress House, 256 Edgware Rd, London
+            - paragraph [ref=e1925]: 💰 ££
+            - paragraph [ref=e1926]: 4,317 reviews
+      - link "Gauthier Soho - french restaurant in 21 Romilly St, London 🏆 FSA 5/5 ⭐ 4.7 Gauthier Soho french 📍 21 Romilly St, London 💰 £££ 1,560 reviews" [ref=e1927] [cursor=pointer]:
+        - /url: /restaurant/gauthier-soho-tOMmCKDg
+        - generic [ref=e1928]:
+          - generic [ref=e1929]:
+            - img "Gauthier Soho - french restaurant in 21 Romilly St, London" [ref=e1930]
+            - generic [ref=e1933]: 🏆 FSA 5/5
+            - generic [ref=e1935]: ⭐ 4.7
+          - generic [ref=e1936]:
+            - heading "Gauthier Soho" [level=3] [ref=e1937]
+            - generic [ref=e1939]: french
+            - paragraph [ref=e1940]: 📍 21 Romilly St, London
+            - paragraph [ref=e1941]: 💰 £££
+            - paragraph [ref=e1942]: 1,560 reviews
+      - link "Studio Gauthier - french restaurant in BFI Building, 21 Stephen St, London 🏆 FSA 5/5 ⭐ 4.7 Studio Gauthier french 📍 BFI Building, 21 Stephen St, London 💰 ££ 874 reviews" [ref=e1943] [cursor=pointer]:
+        - /url: /restaurant/studio-gauthier-LR6425Jo
+        - generic [ref=e1944]:
+          - generic [ref=e1945]:
+            - img "Studio Gauthier - french restaurant in BFI Building, 21 Stephen St, London" [ref=e1946]
+            - generic [ref=e1949]: 🏆 FSA 5/5
+            - generic [ref=e1951]: ⭐ 4.7
+          - generic [ref=e1952]:
+            - heading "Studio Gauthier" [level=3] [ref=e1953]
+            - generic [ref=e1955]: french
+            - paragraph [ref=e1956]: 📍 BFI Building, 21 Stephen St, London
+            - paragraph [ref=e1957]: 💰 ££
+            - paragraph [ref=e1958]: 874 reviews
+      - link "The Ledbury - french restaurant in 127 Ledbury Rd, London 🏆 FSA 5/5 ⭐ 4.7 The Ledbury french 📍 127 Ledbury Rd, London 💰 ££££ 1,614 reviews" [ref=e1959] [cursor=pointer]:
+        - /url: /restaurant/the-ledbury-x_0-jdo4
+        - generic [ref=e1960]:
+          - generic [ref=e1961]:
+            - img "The Ledbury - french restaurant in 127 Ledbury Rd, London" [ref=e1962]
+            - generic [ref=e1965]: 🏆 FSA 5/5
+            - generic [ref=e1967]: ⭐ 4.7
+          - generic [ref=e1968]:
+            - heading "The Ledbury" [level=3] [ref=e1969]
+            - generic [ref=e1971]: french
+            - paragraph [ref=e1972]: 📍 127 Ledbury Rd, London
+            - paragraph [ref=e1973]: 💰 ££££
+            - paragraph [ref=e1974]: 1,614 reviews
+      - link "Batch Baby - mediterranean restaurant in Rose Lipman Building, 43 De Beauvoir Rd, London 🏆 FSA 3/5 ⭐ 4.7 Batch Baby mediterranean 📍 Rose Lipman Building, 43 De Beauvoir Rd, London 💰 ££ 353 reviews" [ref=e1975] [cursor=pointer]:
+        - /url: /restaurant/batch-baby-ViOmOjTY
+        - generic [ref=e1976]:
+          - generic [ref=e1977]:
+            - img "Batch Baby - mediterranean restaurant in Rose Lipman Building, 43 De Beauvoir Rd, London" [ref=e1978]
+            - generic [ref=e1981]: 🏆 FSA 3/5
+            - generic [ref=e1983]: ⭐ 4.7
+          - generic [ref=e1984]:
+            - heading "Batch Baby" [level=3] [ref=e1985]
+            - generic [ref=e1987]: mediterranean
+            - paragraph [ref=e1988]: 📍 Rose Lipman Building, 43 De Beauvoir Rd, London
+            - paragraph [ref=e1989]: 💰 ££
+            - paragraph [ref=e1990]: 353 reviews
+      - link "Attendant Coffee Roasters | Fitzrovia - mediterranean restaurant in 27A Foley St, London 🏆 FSA 5/5 ⭐ 4.7 Attendant Coffee Roasters | Fitzrovia mediterranean 📍 27A Foley St, London 💰 ££ 1,615 reviews" [ref=e1991] [cursor=pointer]:
+        - /url: /restaurant/attendant-coffee-roasters-fitzrovia-QbI2yp5w
+        - generic [ref=e1992]:
+          - generic [ref=e1993]:
+            - img "Attendant Coffee Roasters | Fitzrovia - mediterranean restaurant in 27A Foley St, London" [ref=e1994]
+            - generic [ref=e1997]: 🏆 FSA 5/5
+            - generic [ref=e1999]: ⭐ 4.7
+          - generic [ref=e2000]:
+            - heading "Attendant Coffee Roasters | Fitzrovia" [level=3] [ref=e2001]
+            - generic [ref=e2003]: mediterranean
+            - paragraph [ref=e2004]: 📍 27A Foley St, London
+            - paragraph [ref=e2005]: 💰 ££
+            - paragraph [ref=e2006]: 1,615 reviews
+      - link "Aux pains de papy - mediterranean restaurant in 279 Grays Inn Rd, London 🏆 FSA 4/5 ⭐ 4.7 Aux pains de papy mediterranean 📍 279 Grays Inn Rd, London 💰 £ 1,038 reviews" [ref=e2007] [cursor=pointer]:
+        - /url: /restaurant/aux-pains-de-papy-fhybVN1U
+        - generic [ref=e2008]:
+          - generic [ref=e2009]:
+            - img "Aux pains de papy - mediterranean restaurant in 279 Grays Inn Rd, London" [ref=e2010]
+            - generic [ref=e2013]: 🏆 FSA 4/5
+            - generic [ref=e2015]: ⭐ 4.7
+          - generic [ref=e2016]:
+            - heading "Aux pains de papy" [level=3] [ref=e2017]
+            - generic [ref=e2019]: mediterranean
+            - paragraph [ref=e2020]: 📍 279 Grays Inn Rd, London
+            - paragraph [ref=e2021]: 💰 £
+            - paragraph [ref=e2022]: 1,038 reviews
+      - link "Brother Marcus South Kensington - british restaurant in SOUTH KENSINGTON STATION ARCADE, 1-3 Pelham St, London 🏆 FSA 5/5 ⭐ 4.7 Brother Marcus South Kensington british 📍 SOUTH KENSINGTON STATION ARCADE, 1-3 Pelham St, London 💰 ££ 2,594 reviews" [ref=e2023] [cursor=pointer]:
+        - /url: /restaurant/brother-marcus-south-kensington-RtkLRGTI
+        - generic [ref=e2024]:
+          - generic [ref=e2025]:
+            - img "Brother Marcus South Kensington - british restaurant in SOUTH KENSINGTON STATION ARCADE, 1-3 Pelham St, London" [ref=e2026]
+            - generic [ref=e2029]: 🏆 FSA 5/5
+            - generic [ref=e2031]: ⭐ 4.7
+          - generic [ref=e2032]:
+            - heading "Brother Marcus South Kensington" [level=3] [ref=e2033]
+            - generic [ref=e2035]: british
+            - paragraph [ref=e2036]: 📍 SOUTH KENSINGTON STATION ARCADE, 1-3 Pelham St, London
+            - paragraph [ref=e2037]: 💰 ££
+            - paragraph [ref=e2038]: 2,594 reviews
+      - link "The Breakfast Club Seven Dials - mediterranean restaurant in 55 Neal St, London 🏆 FSA 5/5 ⭐ 4.7 The Breakfast Club Seven Dials mediterranean 📍 55 Neal St, London 💰 ££ 747 reviews" [ref=e2039] [cursor=pointer]:
+        - /url: /restaurant/the-breakfast-club-seven-dials-JQwXiRII
+        - generic [ref=e2040]:
+          - generic [ref=e2041]:
+            - img "The Breakfast Club Seven Dials - mediterranean restaurant in 55 Neal St, London" [ref=e2042]
+            - generic [ref=e2045]: 🏆 FSA 5/5
+            - generic [ref=e2047]: ⭐ 4.7
+          - generic [ref=e2048]:
+            - heading "The Breakfast Club Seven Dials" [level=3] [ref=e2049]
+            - generic [ref=e2051]: mediterranean
+            - paragraph [ref=e2052]: 📍 55 Neal St, London
+            - paragraph [ref=e2053]: 💰 ££
+            - paragraph [ref=e2054]: 747 reviews
+      - link "SOMA Soho - mediterranean restaurant in 14 Denman St, London 🏆 FSA 5/5 ⭐ 4.7 SOMA Soho mediterranean 📍 14 Denman St, London 💰 ££ 916 reviews" [ref=e2055] [cursor=pointer]:
+        - /url: /restaurant/soma-soho-IlFZ8FNU
+        - generic [ref=e2056]:
+          - generic [ref=e2057]:
+            - img "SOMA Soho - mediterranean restaurant in 14 Denman St, London" [ref=e2058]
+            - generic [ref=e2061]: 🏆 FSA 5/5
+            - generic [ref=e2063]: ⭐ 4.7
+          - generic [ref=e2064]:
+            - heading "SOMA Soho" [level=3] [ref=e2065]
+            - generic [ref=e2067]: mediterranean
+            - paragraph [ref=e2068]: 📍 14 Denman St, London
+            - paragraph [ref=e2069]: 💰 ££
+            - paragraph [ref=e2070]: 916 reviews
+      - link "Blacklock Soho - british restaurant in Duke Of Argyll, 24 Great Windmill St, London 🏆 FSA 5/5 ⭐ 4.7 Blacklock Soho british 📍 Duke Of Argyll, 24 Great Windmill St, London 💰 ££ 4,626 reviews" [ref=e2071] [cursor=pointer]:
+        - /url: /restaurant/blacklock-soho-C_mZR0UM
+        - generic [ref=e2072]:
+          - generic [ref=e2073]:
+            - img "Blacklock Soho - british restaurant in Duke Of Argyll, 24 Great Windmill St, London" [ref=e2074]
+            - generic [ref=e2077]: 🏆 FSA 5/5
+            - generic [ref=e2079]: ⭐ 4.7
+          - generic [ref=e2080]:
+            - heading "Blacklock Soho" [level=3] [ref=e2081]
+            - generic [ref=e2083]: british
+            - paragraph [ref=e2084]: 📍 Duke Of Argyll, 24 Great Windmill St, London
+            - paragraph [ref=e2085]: 💰 ££
+            - paragraph [ref=e2086]: 4,626 reviews
+      - link "Blacklock Shoreditch - british restaurant in 28-30 Rivington St, London 🏆 FSA 5/5 ⭐ 4.7 Blacklock Shoreditch british 📍 28-30 Rivington St, London 💰 ££ 2,915 reviews" [ref=e2087] [cursor=pointer]:
+        - /url: /restaurant/blacklock-shoreditch-KatX_eGY
+        - generic [ref=e2088]:
+          - generic [ref=e2089]:
+            - img "Blacklock Shoreditch - british restaurant in 28-30 Rivington St, London" [ref=e2090]
+            - generic [ref=e2093]: 🏆 FSA 5/5
+            - generic [ref=e2095]: ⭐ 4.7
+          - generic [ref=e2096]:
+            - heading "Blacklock Shoreditch" [level=3] [ref=e2097]
+            - generic [ref=e2099]: british
+            - paragraph [ref=e2100]: 📍 28-30 Rivington St, London
+            - paragraph [ref=e2101]: 💰 ££
+            - paragraph [ref=e2102]: 2,915 reviews
+      - link "The Chelsea Corner - british restaurant in 451 Fulham Rd., London 🏆 FSA 5/5 ⭐ 4.7 The Chelsea Corner british 📍 451 Fulham Rd., London 💰 ££ 827 reviews" [ref=e2103] [cursor=pointer]:
+        - /url: /restaurant/the-chelsea-corner-DHQTBC8Q
+        - generic [ref=e2104]:
+          - generic [ref=e2105]:
+            - img "The Chelsea Corner - british restaurant in 451 Fulham Rd., London" [ref=e2106]
+            - generic [ref=e2109]: 🏆 FSA 5/5
+            - generic [ref=e2111]: ⭐ 4.7
+          - generic [ref=e2112]:
+            - heading "The Chelsea Corner" [level=3] [ref=e2113]
+            - generic [ref=e2115]: british
+            - paragraph [ref=e2116]: 📍 451 Fulham Rd., London
+            - paragraph [ref=e2117]: 💰 ££
+            - paragraph [ref=e2118]: 827 reviews
+      - link "Andy’s Greek Taverna - modern-european restaurant in 23 Pratt St., London 🏆 FSA 5/5 ⭐ 4.7 Andy’s Greek Taverna modern-european 📍 23 Pratt St., London 💰 ££ 3,436 reviews" [ref=e2119] [cursor=pointer]:
+        - /url: /restaurant/andys-greek-taverna-XhUaj5gk
+        - generic [ref=e2120]:
+          - generic [ref=e2121]:
+            - img "Andy’s Greek Taverna - modern-european restaurant in 23 Pratt St., London" [ref=e2122]
+            - generic [ref=e2125]: 🏆 FSA 5/5
+            - generic [ref=e2127]: ⭐ 4.7
+          - generic [ref=e2128]:
+            - heading "Andy’s Greek Taverna" [level=3] [ref=e2129]
+            - generic [ref=e2131]: modern-european
+            - paragraph [ref=e2132]: 📍 23 Pratt St., London
+            - paragraph [ref=e2133]: 💰 ££
+            - paragraph [ref=e2134]: 3,436 reviews
+      - link "Blacklock Canary Wharf - british restaurant in Cabot Square, 5 Frobisher Psge, London 🏆 FSA 5/5 ⭐ 4.7 Blacklock Canary Wharf british 📍 Cabot Square, 5 Frobisher Psge, London 💰 ££ 1,247 reviews" [ref=e2135] [cursor=pointer]:
+        - /url: /restaurant/blacklock-canary-wharf-zumysaSM
+        - generic [ref=e2136]:
+          - generic [ref=e2137]:
+            - img "Blacklock Canary Wharf - british restaurant in Cabot Square, 5 Frobisher Psge, London" [ref=e2138]
+            - generic [ref=e2141]: 🏆 FSA 5/5
+            - generic [ref=e2143]: ⭐ 4.7
+          - generic [ref=e2144]:
+            - heading "Blacklock Canary Wharf" [level=3] [ref=e2145]
+            - generic [ref=e2147]: british
+            - paragraph [ref=e2148]: 📍 Cabot Square, 5 Frobisher Psge, London
+            - paragraph [ref=e2149]: 💰 ££
+            - paragraph [ref=e2150]: 1,247 reviews
+      - link "Rasoi Ghar - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.7 Rasoi Ghar british 📍 Central London 💰 ££ 1,484 reviews" [ref=e2151] [cursor=pointer]:
+        - /url: /restaurant/rasoi-ghar-PUD8uhPI
+        - generic [ref=e2152]:
+          - generic [ref=e2153]:
+            - img "Rasoi Ghar - british restaurant in Central London" [ref=e2154]
+            - generic [ref=e2157]: 🏆 FSA 5/5
+            - generic [ref=e2159]: ⭐ 4.7
+          - generic [ref=e2160]:
+            - heading "Rasoi Ghar" [level=3] [ref=e2161]
+            - generic [ref=e2163]: british
+            - paragraph [ref=e2164]: 📍 Central London
+            - paragraph [ref=e2165]: 💰 ££
+            - paragraph [ref=e2166]: 1,484 reviews
+      - link "Babel Grill House - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.7 Babel Grill House british 📍 Central London 💰 ££ 1,403 reviews" [ref=e2167] [cursor=pointer]:
+        - /url: /restaurant/babel-grill-house-gzgPUtqI
+        - generic [ref=e2168]:
+          - generic [ref=e2169]:
+            - img "Babel Grill House - british restaurant in Central London" [ref=e2170]
+            - generic [ref=e2173]: 🏆 FSA 4/5
+            - generic [ref=e2175]: ⭐ 4.7
+          - generic [ref=e2176]:
+            - heading "Babel Grill House" [level=3] [ref=e2177]
+            - generic [ref=e2179]: british
+            - paragraph [ref=e2180]: 📍 Central London
+            - paragraph [ref=e2181]: 💰 ££
+            - paragraph [ref=e2182]: 1,403 reviews
+      - link "Haweli Restaurant ® Ilford - indian restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.7 Haweli Restaurant ® Ilford indian 📍 Redbridge 💰 ££ 11,403 reviews" [ref=e2183] [cursor=pointer]:
+        - /url: /restaurant/haweli-restaurant-ilford-ri6bPzDE
+        - generic [ref=e2184]:
+          - generic [ref=e2185]:
+            - img "Haweli Restaurant ® Ilford - indian restaurant in Redbridge" [ref=e2186]
+            - generic [ref=e2189]: 🏆 FSA 5/5
+            - generic [ref=e2191]: ⭐ 4.7
+          - generic [ref=e2192]:
+            - heading "Haweli Restaurant ® Ilford" [level=3] [ref=e2193]
+            - generic [ref=e2195]: indian
+            - paragraph [ref=e2196]: 📍 Redbridge
+            - paragraph [ref=e2197]: 💰 ££
+            - paragraph [ref=e2198]: 11,403 reviews
+      - link "Hyderabad Darbar - indian restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.7 Hyderabad Darbar indian 📍 Redbridge 💰 ££ 1,963 reviews" [ref=e2199] [cursor=pointer]:
+        - /url: /restaurant/hyderabad-darbar-JEwiueAM
+        - generic [ref=e2200]:
+          - generic [ref=e2201]:
+            - img "Hyderabad Darbar - indian restaurant in Redbridge" [ref=e2202]
+            - generic [ref=e2205]: 🏆 FSA 5/5
+            - generic [ref=e2207]: ⭐ 4.7
+          - generic [ref=e2208]:
+            - heading "Hyderabad Darbar" [level=3] [ref=e2209]
+            - generic [ref=e2211]: indian
+            - paragraph [ref=e2212]: 📍 Redbridge
+            - paragraph [ref=e2213]: 💰 ££
+            - paragraph [ref=e2214]: 1,963 reviews
+      - link "Singam Bay - modern-european restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.7 Singam Bay modern-european 📍 Redbridge 💰 ££ 505 reviews" [ref=e2215] [cursor=pointer]:
+        - /url: /restaurant/singam-bay-KovaHRxQ
+        - generic [ref=e2216]:
+          - generic [ref=e2217]:
+            - img "Singam Bay - modern-european restaurant in Redbridge" [ref=e2218]
+            - generic [ref=e2221]: 🏆 FSA 4/5
+            - generic [ref=e2223]: ⭐ 4.7
+          - generic [ref=e2224]:
+            - heading "Singam Bay" [level=3] [ref=e2225]
+            - generic [ref=e2227]: modern-european
+            - paragraph [ref=e2228]: 📍 Redbridge
+            - paragraph [ref=e2229]: 💰 ££
+            - paragraph [ref=e2230]: 505 reviews
+      - link "Shish LEGENDS Fusion Turkish Meze - modern-european restaurant in Havering 🏆 FSA 5/5 ⭐ 4.7 Shish LEGENDS Fusion Turkish Meze modern-european 📍 Havering 💰 ££ 1,105 reviews" [ref=e2231] [cursor=pointer]:
+        - /url: /restaurant/shish-legends-fusion-turkish-meze-wxIq_mkY
+        - generic [ref=e2232]:
+          - generic [ref=e2233]:
+            - img "Shish LEGENDS Fusion Turkish Meze - modern-european restaurant in Havering" [ref=e2234]
+            - generic [ref=e2237]: 🏆 FSA 5/5
+            - generic [ref=e2239]: ⭐ 4.7
+          - generic [ref=e2240]:
+            - heading "Shish LEGENDS Fusion Turkish Meze" [level=3] [ref=e2241]
+            - generic [ref=e2243]: modern-european
+            - paragraph [ref=e2244]: 📍 Havering
+            - paragraph [ref=e2245]: 💰 ££
+            - paragraph [ref=e2246]: 1,105 reviews
+      - link "HERA - british restaurant in Newham 🏆 FSA 5/5 ⭐ 4.7 HERA british 📍 Newham 💰 ££ 741 reviews" [ref=e2247] [cursor=pointer]:
+        - /url: /restaurant/hera-PqKpal58
+        - generic [ref=e2248]:
+          - generic [ref=e2249]:
+            - img "HERA - british restaurant in Newham" [ref=e2250]
+            - generic [ref=e2253]: 🏆 FSA 5/5
+            - generic [ref=e2255]: ⭐ 4.7
+          - generic [ref=e2256]:
+            - heading "HERA" [level=3] [ref=e2257]
+            - generic [ref=e2259]: british
+            - paragraph [ref=e2260]: 📍 Newham
+            - paragraph [ref=e2261]: 💰 ££
+            - paragraph [ref=e2262]: 741 reviews
+      - link "FIGO Stratford - british restaurant in Newham 🏆 FSA 5/5 ⭐ 4.7 FIGO Stratford british 📍 Newham 💰 ££ 5,799 reviews" [ref=e2263] [cursor=pointer]:
+        - /url: /restaurant/figo-stratford-dt-M-pSc
+        - generic [ref=e2264]:
+          - generic [ref=e2265]:
+            - img "FIGO Stratford - british restaurant in Newham" [ref=e2266]
+            - generic [ref=e2269]: 🏆 FSA 5/5
+            - generic [ref=e2271]: ⭐ 4.7
+          - generic [ref=e2272]:
+            - heading "FIGO Stratford" [level=3] [ref=e2273]
+            - generic [ref=e2275]: british
+            - paragraph [ref=e2276]: 📍 Newham
+            - paragraph [ref=e2277]: 💰 ££
+            - paragraph [ref=e2278]: 5,799 reviews
+      - link "Elondi Restaurant, Bar and Terrace - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.7 Elondi Restaurant, Bar and Terrace british 📍 Central London 💰 ££ 279 reviews" [ref=e2279] [cursor=pointer]:
+        - /url: /restaurant/elondi-restaurant-bar-and-terrace-NMfwfdVM
+        - generic [ref=e2280]:
+          - generic [ref=e2281]:
+            - img "Elondi Restaurant, Bar and Terrace - british restaurant in Central London" [ref=e2282]
+            - generic [ref=e2285]: 🏆 FSA 5/5
+            - generic [ref=e2287]: ⭐ 4.7
+          - generic [ref=e2288]:
+            - heading "Elondi Restaurant, Bar and Terrace" [level=3] [ref=e2289]
+            - generic [ref=e2291]: british
+            - paragraph [ref=e2292]: 📍 Central London
+            - paragraph [ref=e2293]: 💰 ££
+            - paragraph [ref=e2294]: 279 reviews
+      - link "Maple Brunch Cafe - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.7 Maple Brunch Cafe british 📍 Central London 💰 ££ 786 reviews" [ref=e2295] [cursor=pointer]:
+        - /url: /restaurant/maple-brunch-cafe--18grF3o
+        - generic [ref=e2296]:
+          - generic [ref=e2297]:
+            - img "Maple Brunch Cafe - british restaurant in Central London" [ref=e2298]
+            - generic [ref=e2301]: 🏆 FSA 5/5
+            - generic [ref=e2303]: ⭐ 4.7
+          - generic [ref=e2304]:
+            - heading "Maple Brunch Cafe" [level=3] [ref=e2305]
+            - generic [ref=e2307]: british
+            - paragraph [ref=e2308]: 📍 Central London
+            - paragraph [ref=e2309]: 💰 ££
+            - paragraph [ref=e2310]: 786 reviews
+      - link "Palmers Restaurant - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.7 Palmers Restaurant british 📍 Tower Hamlets 💰 ££ 426 reviews" [ref=e2311] [cursor=pointer]:
+        - /url: /restaurant/palmers-restaurant-1Pg__mJI
+        - generic [ref=e2312]:
+          - generic [ref=e2313]:
+            - img "Palmers Restaurant - british restaurant in Tower Hamlets" [ref=e2314]
+            - generic [ref=e2317]: 🏆 FSA 5/5
+            - generic [ref=e2319]: ⭐ 4.7
+          - generic [ref=e2320]:
+            - heading "Palmers Restaurant" [level=3] [ref=e2321]
+            - generic [ref=e2323]: british
+            - paragraph [ref=e2324]: 📍 Tower Hamlets
+            - paragraph [ref=e2325]: 💰 ££
+            - paragraph [ref=e2326]: 426 reviews
+      - link "Restaurant Elis - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.7 Restaurant Elis british 📍 Central London 💰 ££ 114 reviews" [ref=e2327] [cursor=pointer]:
+        - /url: /restaurant/restaurant-elis-fn1v8I8s
+        - generic [ref=e2328]:
+          - generic [ref=e2329]:
+            - img "Restaurant Elis - british restaurant in Central London" [ref=e2330]
+            - generic [ref=e2333]: 🏆 FSA 5/5
+            - generic [ref=e2335]: ⭐ 4.7
+          - generic [ref=e2336]:
+            - heading "Restaurant Elis" [level=3] [ref=e2337]
+            - generic [ref=e2339]: british
+            - paragraph [ref=e2340]: 📍 Central London
+            - paragraph [ref=e2341]: 💰 ££
+            - paragraph [ref=e2342]: 114 reviews
+      - link "Casa Fofó - italian restaurant in Central London 🏆 FSA 5/5 ⭐ 4.7 Casa Fofó italian 📍 Central London 💰 ££ 618 reviews" [ref=e2343] [cursor=pointer]:
+        - /url: /restaurant/casa-fof-9XapQArk
+        - generic [ref=e2344]:
+          - generic [ref=e2345]:
+            - img "Casa Fofó - italian restaurant in Central London" [ref=e2346]
+            - generic [ref=e2349]: 🏆 FSA 5/5
+            - generic [ref=e2351]: ⭐ 4.7
+          - generic [ref=e2352]:
+            - heading "Casa Fofó" [level=3] [ref=e2353]
+            - generic [ref=e2355]: italian
+            - paragraph [ref=e2356]: 📍 Central London
+            - paragraph [ref=e2357]: 💰 ££
+            - paragraph [ref=e2358]: 618 reviews
+      - link "Oysteria - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.7 Oysteria british 📍 Central London 💰 ££ 1,595 reviews" [ref=e2359] [cursor=pointer]:
+        - /url: /restaurant/oysteria-kKdBxxT8
+        - generic [ref=e2360]:
+          - generic [ref=e2361]:
+            - img "Oysteria - british restaurant in Central London" [ref=e2362]
+            - generic [ref=e2365]: 🏆 FSA 3/5
+            - generic [ref=e2367]: ⭐ 4.7
+          - generic [ref=e2368]:
+            - heading "Oysteria" [level=3] [ref=e2369]
+            - generic [ref=e2371]: british
+            - paragraph [ref=e2372]: 📍 Central London
+            - paragraph [ref=e2373]: 💰 ££
+            - paragraph [ref=e2374]: 1,595 reviews
+      - link "Momlette - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.7 Momlette british 📍 Tower Hamlets 💰 ££ 405 reviews" [ref=e2375] [cursor=pointer]:
+        - /url: /restaurant/momlette-rIiPcwm4
+        - generic [ref=e2376]:
+          - generic [ref=e2377]:
+            - img "Momlette - british restaurant in Tower Hamlets" [ref=e2378]
+            - generic [ref=e2381]: 🏆 FSA 5/5
+            - generic [ref=e2383]: ⭐ 4.7
+          - generic [ref=e2384]:
+            - heading "Momlette" [level=3] [ref=e2385]
+            - generic [ref=e2387]: british
+            - paragraph [ref=e2388]: 📍 Tower Hamlets
+            - paragraph [ref=e2389]: 💰 ££
+            - paragraph [ref=e2390]: 405 reviews
+      - link "MILAGROS BOW - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.7 MILAGROS BOW british 📍 Tower Hamlets 💰 ££ 79 reviews" [ref=e2391] [cursor=pointer]:
+        - /url: /restaurant/milagros-bow-0cc8M7cg
+        - generic [ref=e2392]:
+          - generic [ref=e2393]:
+            - img "MILAGROS BOW - british restaurant in Tower Hamlets" [ref=e2394]
+            - generic [ref=e2397]: 🏆 FSA 5/5
+            - generic [ref=e2399]: ⭐ 4.7
+          - generic [ref=e2400]:
+            - heading "MILAGROS BOW" [level=3] [ref=e2401]
+            - generic [ref=e2403]: british
+            - paragraph [ref=e2404]: 📍 Tower Hamlets
+            - paragraph [ref=e2405]: 💰 ££
+            - paragraph [ref=e2406]: 79 reviews
+      - link "Slice of Meat - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.7 Slice of Meat british 📍 Central London 💰 ££ 785 reviews" [ref=e2407] [cursor=pointer]:
+        - /url: /restaurant/slice-of-meat-z2F5wvbo
+        - generic [ref=e2408]:
+          - generic [ref=e2409]:
+            - img "Slice of Meat - british restaurant in Central London" [ref=e2410]
+            - generic [ref=e2413]: 🏆 FSA 5/5
+            - generic [ref=e2415]: ⭐ 4.7
+          - generic [ref=e2416]:
+            - heading "Slice of Meat" [level=3] [ref=e2417]
+            - generic [ref=e2419]: british
+            - paragraph [ref=e2420]: 📍 Central London
+            - paragraph [ref=e2421]: 💰 ££
+            - paragraph [ref=e2422]: 785 reviews
+      - link "Kolapata - british restaurant in Tower Hamlets 🏆 FSA 3/5 ⭐ 4.7 Kolapata british 📍 Tower Hamlets 💰 ££ 4,503 reviews" [ref=e2423] [cursor=pointer]:
+        - /url: /restaurant/kolapata-etAjUw6o
+        - generic [ref=e2424]:
+          - generic [ref=e2425]:
+            - img "Kolapata - british restaurant in Tower Hamlets" [ref=e2426]
+            - generic [ref=e2429]: 🏆 FSA 3/5
+            - generic [ref=e2431]: ⭐ 4.7
+          - generic [ref=e2432]:
+            - heading "Kolapata" [level=3] [ref=e2433]
+            - generic [ref=e2435]: british
+            - paragraph [ref=e2436]: 📍 Tower Hamlets
+            - paragraph [ref=e2437]: 💰 ££
+            - paragraph [ref=e2438]: 4,503 reviews
+      - link "The Munch - british restaurant in Hackney 🏆 FSA 4/5 ⭐ 4.7 The Munch british 📍 Hackney 💰 ££ 1,832 reviews" [ref=e2439] [cursor=pointer]:
+        - /url: /restaurant/the-munch-Hcu410pg
+        - generic [ref=e2440]:
+          - generic [ref=e2441]:
+            - img "The Munch - british restaurant in Hackney" [ref=e2442]
+            - generic [ref=e2445]: 🏆 FSA 4/5
+            - generic [ref=e2447]: ⭐ 4.7
+          - generic [ref=e2448]:
+            - heading "The Munch" [level=3] [ref=e2449]
+            - generic [ref=e2451]: british
+            - paragraph [ref=e2452]: 📍 Hackney
+            - paragraph [ref=e2453]: 💰 ££
+            - paragraph [ref=e2454]: 1,832 reviews
+      - link "Yokoso Restaurant - Japanese & Italian Cuisine - modern-european restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.7 Yokoso Restaurant - Japanese & Italian Cuisine modern-european 📍 Redbridge 💰 ££ 207 reviews" [ref=e2455] [cursor=pointer]:
+        - /url: /restaurant/yokoso-restaurant-japanese-italian-cuisine-FUc4Nt_o
+        - generic [ref=e2456]:
+          - generic [ref=e2457]:
+            - img "Yokoso Restaurant - Japanese & Italian Cuisine - modern-european restaurant in Redbridge" [ref=e2458]
+            - generic [ref=e2461]: 🏆 FSA 5/5
+            - generic [ref=e2463]: ⭐ 4.7
+          - generic [ref=e2464]:
+            - heading "Yokoso Restaurant - Japanese & Italian Cuisine" [level=3] [ref=e2465]
+            - generic [ref=e2467]: modern-european
+            - paragraph [ref=e2468]: 📍 Redbridge
+            - paragraph [ref=e2469]: 💰 ££
+            - paragraph [ref=e2470]: 207 reviews
+      - link "Gallio - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.7 Gallio british 📍 Central London 💰 ££ 2,070 reviews" [ref=e2471] [cursor=pointer]:
+        - /url: /restaurant/gallio-Bp5E-YqU
+        - generic [ref=e2472]:
+          - generic [ref=e2473]:
+            - img "Gallio - british restaurant in Central London" [ref=e2474]
+            - generic [ref=e2477]: 🏆 FSA 5/5
+            - generic [ref=e2479]: ⭐ 4.7
+          - generic [ref=e2480]:
+            - heading "Gallio" [level=3] [ref=e2481]
+            - generic [ref=e2483]: british
+            - paragraph [ref=e2484]: 📍 Central London
+            - paragraph [ref=e2485]: 💰 ££
+            - paragraph [ref=e2486]: 2,070 reviews
+      - link "Shah's Halal Food Walthamstow - turkish restaurant in Central London 🏆 FSA 4/5 ⭐ 4.7 Shah's Halal Food Walthamstow turkish 📍 Central London 💰 ££ 108 reviews" [ref=e2487] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-walthamstow-e0towDVA
+        - generic [ref=e2488]:
+          - generic [ref=e2489]:
+            - img "Shah's Halal Food Walthamstow - turkish restaurant in Central London" [ref=e2490]
+            - generic [ref=e2493]: 🏆 FSA 4/5
+            - generic [ref=e2495]: ⭐ 4.7
+          - generic [ref=e2496]:
+            - heading "Shah's Halal Food Walthamstow" [level=3] [ref=e2497]
+            - generic [ref=e2499]: turkish
+            - paragraph [ref=e2500]: 📍 Central London
+            - paragraph [ref=e2501]: 💰 ££
+            - paragraph [ref=e2502]: 108 reviews
+      - link "The Hogless Roast - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.7 The Hogless Roast british 📍 Central London 💰 ££ 190 reviews" [ref=e2503] [cursor=pointer]:
+        - /url: /restaurant/the-hogless-roast-LZMXCjwE
+        - generic [ref=e2504]:
+          - generic [ref=e2505]:
+            - img "The Hogless Roast - british restaurant in Central London" [ref=e2506]
+            - generic [ref=e2509]: 🏆 FSA 4/5
+            - generic [ref=e2511]: ⭐ 4.7
+          - generic [ref=e2512]:
+            - heading "The Hogless Roast" [level=3] [ref=e2513]
+            - generic [ref=e2515]: british
+            - paragraph [ref=e2516]: 📍 Central London
+            - paragraph [ref=e2517]: 💰 ££
+            - paragraph [ref=e2518]: 190 reviews
+      - link "Tofu vegan Spitalfields - british restaurant in Central London 🏆 FSA 5/5 🌱 Vegan ⭐ 4.7 Tofu vegan Spitalfields british 📍 Central London 💰 ££ 688 reviews" [ref=e2519] [cursor=pointer]:
+        - /url: /restaurant/tofu-vegan-spitalfields-_BJjz45Q
+        - generic [ref=e2520]:
+          - generic [ref=e2521]:
+            - img "Tofu vegan Spitalfields - british restaurant in Central London" [ref=e2522]
+            - generic [ref=e2524]:
+              - generic [ref=e2525]: 🏆 FSA 5/5
+              - generic [ref=e2526]: 🌱 Vegan
+            - generic [ref=e2528]: ⭐ 4.7
+          - generic [ref=e2529]:
+            - heading "Tofu vegan Spitalfields" [level=3] [ref=e2530]
+            - generic [ref=e2532]: british
+            - paragraph [ref=e2533]: 📍 Central London
+            - paragraph [ref=e2534]: 💰 ££
+            - paragraph [ref=e2535]: 688 reviews
+      - link "Black Cat café - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.7 Black Cat café british 📍 Central London 💰 £ 905 reviews" [ref=e2536] [cursor=pointer]:
+        - /url: /restaurant/black-cat-caf-HtKX5K9Q
+        - generic [ref=e2537]:
+          - generic [ref=e2538]:
+            - img "Black Cat café - british restaurant in Central London" [ref=e2539]
+            - generic [ref=e2542]: 🏆 FSA 5/5
+            - generic [ref=e2544]: ⭐ 4.7
+          - generic [ref=e2545]:
+            - heading "Black Cat café" [level=3] [ref=e2546]
+            - generic [ref=e2548]: british
+            - paragraph [ref=e2549]: 📍 Central London
+            - paragraph [ref=e2550]: 💰 £
+            - paragraph [ref=e2551]: 905 reviews
+      - link "Fed By Plants - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.7 Fed By Plants british 📍 Central London 💰 ££ 511 reviews" [ref=e2552] [cursor=pointer]:
+        - /url: /restaurant/fed-by-plants-pPB54tsM
+        - generic [ref=e2553]:
+          - generic [ref=e2554]:
+            - img "Fed By Plants - british restaurant in Central London" [ref=e2555]
+            - generic [ref=e2558]: 🏆 FSA 3/5
+            - generic [ref=e2560]: ⭐ 4.7
+          - generic [ref=e2561]:
+            - heading "Fed By Plants" [level=3] [ref=e2562]
+            - generic [ref=e2564]: british
+            - paragraph [ref=e2565]: 📍 Central London
+            - paragraph [ref=e2566]: 💰 ££
+            - paragraph [ref=e2567]: 511 reviews
+      - link "Kricket Soho - indian restaurant in 12 Denman St, London 🏆 FSA 5/5 ⭐ 4.6 Kricket Soho indian 📍 12 Denman St, London 💰 ££ 2,552 reviews" [ref=e2568] [cursor=pointer]:
+        - /url: /restaurant/kricket-soho-2UcQZFVQ
+        - generic [ref=e2569]:
+          - generic [ref=e2570]:
+            - img "Kricket Soho - indian restaurant in 12 Denman St, London" [ref=e2571]
+            - generic [ref=e2574]: 🏆 FSA 5/5
+            - generic [ref=e2576]: ⭐ 4.6
+          - generic [ref=e2577]:
+            - heading "Kricket Soho" [level=3] [ref=e2578]
+            - generic [ref=e2580]: indian
+            - paragraph [ref=e2581]: 📍 12 Denman St, London
+            - paragraph [ref=e2582]: 💰 ££
+            - paragraph [ref=e2583]: 2,552 reviews
+      - link "Cinnamon Bazaar - indian restaurant in 28 Maiden Ln, London 🏆 FSA 5/5 ⭐ 4.6 Cinnamon Bazaar indian 📍 28 Maiden Ln, London 💰 ££ 3,397 reviews" [ref=e2584] [cursor=pointer]:
+        - /url: /restaurant/cinnamon-bazaar-ZAjZBRu4
+        - generic [ref=e2585]:
+          - generic [ref=e2586]:
+            - img "Cinnamon Bazaar - indian restaurant in 28 Maiden Ln, London" [ref=e2587]
+            - generic [ref=e2590]: 🏆 FSA 5/5
+            - generic [ref=e2592]: ⭐ 4.6
+          - generic [ref=e2593]:
+            - heading "Cinnamon Bazaar" [level=3] [ref=e2594]
+            - generic [ref=e2596]: indian
+            - paragraph [ref=e2597]: 📍 28 Maiden Ln, London
+            - paragraph [ref=e2598]: 💰 ££
+            - paragraph [ref=e2599]: 3,397 reviews
+      - link "Bocca di Lupo - italian restaurant in 12 Archer St, London 🏆 FSA 5/5 ⭐ 4.6 Bocca di Lupo italian 📍 12 Archer St, London 💰 £££ 3,376 reviews" [ref=e2600] [cursor=pointer]:
+        - /url: /restaurant/bocca-di-lupo-P7Z6jOko
+        - generic [ref=e2601]:
+          - generic [ref=e2602]:
+            - img "Bocca di Lupo - italian restaurant in 12 Archer St, London" [ref=e2603]
+            - generic [ref=e2606]: 🏆 FSA 5/5
+            - generic [ref=e2608]: ⭐ 4.6
+          - generic [ref=e2609]:
+            - heading "Bocca di Lupo" [level=3] [ref=e2610]
+            - generic [ref=e2612]: italian
+            - paragraph [ref=e2613]: 📍 12 Archer St, London
+            - paragraph [ref=e2614]: 💰 £££
+            - paragraph [ref=e2615]: 3,376 reviews
+      - link "Padella - italian restaurant in Borough Market, Padella, 6 Southwark St, London 🏆 FSA 5/5 ⭐ 4.6 Padella italian 📍 Borough Market, Padella, 6 Southwark St, London 💰 £ 8,228 reviews" [ref=e2616] [cursor=pointer]:
+        - /url: /restaurant/padella-HPngIeq8
+        - generic [ref=e2617]:
+          - generic [ref=e2618]:
+            - img "Padella - italian restaurant in Borough Market, Padella, 6 Southwark St, London" [ref=e2619]
+            - generic [ref=e2622]: 🏆 FSA 5/5
+            - generic [ref=e2624]: ⭐ 4.6
+          - generic [ref=e2625]:
+            - heading "Padella" [level=3] [ref=e2626]
+            - generic [ref=e2628]: italian
+            - paragraph [ref=e2629]: 📍 Borough Market, Padella, 6 Southwark St, London
+            - paragraph [ref=e2630]: 💰 £
+            - paragraph [ref=e2631]: 8,228 reviews
+      - link "Ma La Sichuan - japanese restaurant in Pelham House, 37 Monck St, London 🏆 FSA 5/5 ⭐ 4.6 Ma La Sichuan japanese 📍 Pelham House, 37 Monck St, London 💰 ££ 1,629 reviews" [ref=e2632] [cursor=pointer]:
+        - /url: /restaurant/ma-la-sichuan-oHK7UfPw
+        - generic [ref=e2633]:
+          - generic [ref=e2634]:
+            - img "Ma La Sichuan - japanese restaurant in Pelham House, 37 Monck St, London" [ref=e2635]
+            - generic [ref=e2638]: 🏆 FSA 5/5
+            - generic [ref=e2640]: ⭐ 4.6
+          - generic [ref=e2641]:
+            - heading "Ma La Sichuan" [level=3] [ref=e2642]
+            - generic [ref=e2644]: japanese
+            - paragraph [ref=e2645]: 📍 Pelham House, 37 Monck St, London
+            - paragraph [ref=e2646]: 💰 ££
+            - paragraph [ref=e2647]: 1,629 reviews
+      - link "Kolae - thai restaurant in 6 Park St, London 🏆 FSA 5/5 ⭐ 4.6 Kolae thai 📍 6 Park St, London 💰 ££ 893 reviews" [ref=e2648] [cursor=pointer]:
+        - /url: /restaurant/kolae-nf-sKA8g
+        - generic [ref=e2649]:
+          - generic [ref=e2650]:
+            - img "Kolae - thai restaurant in 6 Park St, London" [ref=e2651]
+            - generic [ref=e2654]: 🏆 FSA 5/5
+            - generic [ref=e2656]: ⭐ 4.6
+          - generic [ref=e2657]:
+            - heading "Kolae" [level=3] [ref=e2658]
+            - generic [ref=e2660]: thai
+            - paragraph [ref=e2661]: 📍 6 Park St, London
+            - paragraph [ref=e2662]: 💰 ££
+            - paragraph [ref=e2663]: 893 reviews
+      - link "Patara Oxford Circus - thai restaurant in 7 Maddox St, London 🏆 FSA 5/5 ⭐ 4.6 Patara Oxford Circus thai 📍 7 Maddox St, London 💰 £££ 1,870 reviews" [ref=e2664] [cursor=pointer]:
+        - /url: /restaurant/patara-oxford-circus-WjgPtZQI
+        - generic [ref=e2665]:
+          - generic [ref=e2666]:
+            - img "Patara Oxford Circus - thai restaurant in 7 Maddox St, London" [ref=e2667]
+            - generic [ref=e2670]: 🏆 FSA 5/5
+            - generic [ref=e2672]: ⭐ 4.6
+          - generic [ref=e2673]:
+            - heading "Patara Oxford Circus" [level=3] [ref=e2674]
+            - generic [ref=e2676]: thai
+            - paragraph [ref=e2677]: 📍 7 Maddox St, London
+            - paragraph [ref=e2678]: 💰 £££
+            - paragraph [ref=e2679]: 1,870 reviews
+      - link "Galvin La Chapelle - french restaurant in 35 Spital Square, London 🏆 FSA 5/5 ⭐ 4.6 Galvin La Chapelle french 📍 35 Spital Square, London 💰 ££££ 2,900 reviews" [ref=e2680] [cursor=pointer]:
+        - /url: /restaurant/galvin-la-chapelle-RDHmB8RA
+        - generic [ref=e2681]:
+          - generic [ref=e2682]:
+            - img "Galvin La Chapelle - french restaurant in 35 Spital Square, London" [ref=e2683]
+            - generic [ref=e2686]: 🏆 FSA 5/5
+            - generic [ref=e2688]: ⭐ 4.6
+          - generic [ref=e2689]:
+            - heading "Galvin La Chapelle" [level=3] [ref=e2690]
+            - generic [ref=e2692]: french
+            - paragraph [ref=e2693]: 📍 35 Spital Square, London
+            - paragraph [ref=e2694]: 💰 ££££
+            - paragraph [ref=e2695]: 2,900 reviews
+      - link "Copita Fitzrovia Tapas Bar - spanish restaurant in Dental Surgery, 62 Goodge St, London 🏆 FSA 5/5 ⭐ 4.6 Copita Fitzrovia Tapas Bar spanish 📍 Dental Surgery, 62 Goodge St, London 💰 ££ 1,192 reviews" [ref=e2696] [cursor=pointer]:
+        - /url: /restaurant/copita-fitzrovia-tapas-bar-fK_Wb6Ms
+        - generic [ref=e2697]:
+          - generic [ref=e2698]:
+            - img "Copita Fitzrovia Tapas Bar - spanish restaurant in Dental Surgery, 62 Goodge St, London" [ref=e2699]
+            - generic [ref=e2702]: 🏆 FSA 5/5
+            - generic [ref=e2704]: ⭐ 4.6
+          - generic [ref=e2705]:
+            - heading "Copita Fitzrovia Tapas Bar" [level=3] [ref=e2706]
+            - generic [ref=e2708]: spanish
+            - paragraph [ref=e2709]: 📍 Dental Surgery, 62 Goodge St, London
+            - paragraph [ref=e2710]: 💰 ££
+            - paragraph [ref=e2711]: 1,192 reviews
+      - link "Salt Yard - spanish restaurant in 54 Goodge St, London 🏆 FSA 5/5 ⭐ 4.6 Salt Yard spanish 📍 54 Goodge St, London 💰 ££ 1,571 reviews" [ref=e2712] [cursor=pointer]:
+        - /url: /restaurant/salt-yard-0mnwGaVU
+        - generic [ref=e2713]:
+          - generic [ref=e2714]:
+            - img "Salt Yard - spanish restaurant in 54 Goodge St, London" [ref=e2715]
+            - generic [ref=e2718]: 🏆 FSA 5/5
+            - generic [ref=e2720]: ⭐ 4.6
+          - generic [ref=e2721]:
+            - heading "Salt Yard" [level=3] [ref=e2722]
+            - generic [ref=e2724]: spanish
+            - paragraph [ref=e2725]: 📍 54 Goodge St, London
+            - paragraph [ref=e2726]: 💰 ££
+            - paragraph [ref=e2727]: 1,571 reviews
+      - link "Daebak - korean restaurant in 316-318 Kennington Ln, London 🏆 FSA 3/5 ⭐ 4.6 Daebak korean 📍 316-318 Kennington Ln, London 💰 ££ 1,205 reviews" [ref=e2728] [cursor=pointer]:
+        - /url: /restaurant/daebak-dtHO4Ztg
+        - generic [ref=e2729]:
+          - generic [ref=e2730]:
+            - img "Daebak - korean restaurant in 316-318 Kennington Ln, London" [ref=e2731]
+            - generic [ref=e2734]: 🏆 FSA 3/5
+            - generic [ref=e2736]: ⭐ 4.6
+          - generic [ref=e2737]:
+            - heading "Daebak" [level=3] [ref=e2738]
+            - generic [ref=e2740]: korean
+            - paragraph [ref=e2741]: 📍 316-318 Kennington Ln, London
+            - paragraph [ref=e2742]: 💰 ££
+            - paragraph [ref=e2743]: 1,205 reviews
+      - link "Shahs Halal Food Soho - indian restaurant in 9 St Anne's Ct, London 🏆 FSA 5/5 ⭐ 4.6 Shahs Halal Food Soho indian 📍 9 St Anne's Ct, London 💰 ££ 628 reviews" [ref=e2744] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-soho--CkRGRto
+        - generic [ref=e2745]:
+          - generic [ref=e2746]:
+            - img "Shahs Halal Food Soho - indian restaurant in 9 St Anne's Ct, London" [ref=e2747]
+            - generic [ref=e2750]: 🏆 FSA 5/5
+            - generic [ref=e2752]: ⭐ 4.6
+          - generic [ref=e2753]:
+            - heading "Shahs Halal Food Soho" [level=3] [ref=e2754]
+            - generic [ref=e2756]: indian
+            - paragraph [ref=e2757]: 📍 9 St Anne's Ct, London
+            - paragraph [ref=e2758]: 💰 ££
+            - paragraph [ref=e2759]: 628 reviews
+      - link "Meet Bros (by Me’nate x Jibby&co.) - modern-european restaurant in 29-31 Craven Rd, London 🏆 FSA 5/5 ⭐ 4.6 Meet Bros (by Me’nate x Jibby&co.) modern-european 📍 29-31 Craven Rd, London 💰 ££ 2,700 reviews" [ref=e2760] [cursor=pointer]:
+        - /url: /restaurant/meet-bros-by-menate-x-jibbyco-1Z89Bclk
+        - generic [ref=e2761]:
+          - generic [ref=e2762]:
+            - img "Meet Bros (by Me’nate x Jibby&co.) - modern-european restaurant in 29-31 Craven Rd, London" [ref=e2763]
+            - generic [ref=e2766]: 🏆 FSA 5/5
+            - generic [ref=e2768]: ⭐ 4.6
+          - generic [ref=e2769]:
+            - heading "Meet Bros (by Me’nate x Jibby&co.)" [level=3] [ref=e2770]
+            - generic [ref=e2772]: modern-european
+            - paragraph [ref=e2773]: 📍 29-31 Craven Rd, London
+            - paragraph [ref=e2774]: 💰 ££
+            - paragraph [ref=e2775]: 2,700 reviews
+      - link "Tendril - A (mostly) Vegan Kitchen & Bar - mediterranean restaurant in 5 Princes St, London 🏆 FSA 4/5 🌱 Vegan 🥗 Vegetarian ⭐ 4.6 Tendril - A (mostly) Vegan Kitchen & Bar mediterranean 📍 5 Princes St, London 💰 ££ 876 reviews" [ref=e2776] [cursor=pointer]:
+        - /url: /restaurant/tendril-a-mostly-vegan-kitchen-bar-L-GGjPDo
+        - generic [ref=e2777]:
+          - generic [ref=e2778]:
+            - img "Tendril - A (mostly) Vegan Kitchen & Bar - mediterranean restaurant in 5 Princes St, London" [ref=e2779]
+            - generic [ref=e2781]:
+              - generic [ref=e2782]: 🏆 FSA 4/5
+              - generic [ref=e2783]: 🌱 Vegan
+              - generic [ref=e2784]: 🥗 Vegetarian
+            - generic [ref=e2786]: ⭐ 4.6
+          - generic [ref=e2787]:
+            - heading "Tendril - A (mostly) Vegan Kitchen & Bar" [level=3] [ref=e2788]
+            - generic [ref=e2790]: mediterranean
+            - paragraph [ref=e2791]: 📍 5 Princes St, London
+            - paragraph [ref=e2792]: 💰 ££
+            - paragraph [ref=e2793]: 876 reviews
+      - link "Unity Diner - mediterranean restaurant in 60 Wentworth St, London 🏆 FSA 5/5 ⭐ 4.6 Unity Diner mediterranean 📍 60 Wentworth St, London 💰 ££ 2,337 reviews" [ref=e2794] [cursor=pointer]:
+        - /url: /restaurant/unity-diner-dt_iqx7M
+        - generic [ref=e2795]:
+          - generic [ref=e2796]:
+            - img "Unity Diner - mediterranean restaurant in 60 Wentworth St, London" [ref=e2797]
+            - generic [ref=e2800]: 🏆 FSA 5/5
+            - generic [ref=e2802]: ⭐ 4.6
+          - generic [ref=e2803]:
+            - heading "Unity Diner" [level=3] [ref=e2804]
+            - generic [ref=e2806]: mediterranean
+            - paragraph [ref=e2807]: 📍 60 Wentworth St, London
+            - paragraph [ref=e2808]: 💰 ££
+            - paragraph [ref=e2809]: 2,337 reviews
+      - link "Holy Carrot - mediterranean restaurant in 156 Portobello Rd, London 🏆 FSA 5/5 ⭐ 4.6 Holy Carrot mediterranean 📍 156 Portobello Rd, London 💰 ££ 551 reviews" [ref=e2810] [cursor=pointer]:
+        - /url: /restaurant/holy-carrot-HULzIPbI
+        - generic [ref=e2811]:
+          - generic [ref=e2812]:
+            - img "Holy Carrot - mediterranean restaurant in 156 Portobello Rd, London" [ref=e2813]
+            - generic [ref=e2816]: 🏆 FSA 5/5
+            - generic [ref=e2818]: ⭐ 4.6
+          - generic [ref=e2819]:
+            - heading "Holy Carrot" [level=3] [ref=e2820]
+            - generic [ref=e2822]: mediterranean
+            - paragraph [ref=e2823]: 📍 156 Portobello Rd, London
+            - paragraph [ref=e2824]: 💰 ££
+            - paragraph [ref=e2825]: 551 reviews
+      - link "Mildreds Kings Cross - british restaurant in Fulcrum House, 200 Pentonville Rd, London 🏆 FSA 5/5 ⭐ 4.6 Mildreds Kings Cross british 📍 Fulcrum House, 200 Pentonville Rd, London 💰 ££ 3,527 reviews" [ref=e2826] [cursor=pointer]:
+        - /url: /restaurant/mildreds-kings-cross-NK2JhzA0
+        - generic [ref=e2827]:
+          - generic [ref=e2828]:
+            - img "Mildreds Kings Cross - british restaurant in Fulcrum House, 200 Pentonville Rd, London" [ref=e2829]
+            - generic [ref=e2832]: 🏆 FSA 5/5
+            - generic [ref=e2834]: ⭐ 4.6
+          - generic [ref=e2835]:
+            - heading "Mildreds Kings Cross" [level=3] [ref=e2836]
+            - generic [ref=e2838]: british
+            - paragraph [ref=e2839]: 📍 Fulcrum House, 200 Pentonville Rd, London
+            - paragraph [ref=e2840]: 💰 ££
+            - paragraph [ref=e2841]: 3,527 reviews
+      - link "Vegan Planet - mediterranean restaurant in 11 Parkway, London 🏆 FSA 4/5 🌱 Vegan ⭐ 4.6 Vegan Planet mediterranean 📍 11 Parkway, London 💰 ££ 649 reviews" [ref=e2842] [cursor=pointer]:
+        - /url: /restaurant/vegan-planet-1buWIzYE
+        - generic [ref=e2843]:
+          - generic [ref=e2844]:
+            - img "Vegan Planet - mediterranean restaurant in 11 Parkway, London" [ref=e2845]
+            - generic [ref=e2847]:
+              - generic [ref=e2848]: 🏆 FSA 4/5
+              - generic [ref=e2849]: 🌱 Vegan
+            - generic [ref=e2851]: ⭐ 4.6
+          - generic [ref=e2852]:
+            - heading "Vegan Planet" [level=3] [ref=e2853]
+            - generic [ref=e2855]: mediterranean
+            - paragraph [ref=e2856]: 📍 11 Parkway, London
+            - paragraph [ref=e2857]: 💰 ££
+            - paragraph [ref=e2858]: 649 reviews
+      - link "Restaurant 1890 by Gordon Ramsay - french restaurant in Savoy Hotel, Strand, London 🏆 FSA 5/5 ⭐ 4.6 Restaurant 1890 by Gordon Ramsay french 📍 Savoy Hotel, Strand, London 💰 ££ 129 reviews" [ref=e2859] [cursor=pointer]:
+        - /url: /restaurant/restaurant-1890-by-gordon-ramsay-fIfSrTas
+        - generic [ref=e2860]:
+          - generic [ref=e2861]:
+            - img "Restaurant 1890 by Gordon Ramsay - french restaurant in Savoy Hotel, Strand, London" [ref=e2862]
+            - generic [ref=e2865]: 🏆 FSA 5/5
+            - generic [ref=e2867]: ⭐ 4.6
+          - generic [ref=e2868]:
+            - heading "Restaurant 1890 by Gordon Ramsay" [level=3] [ref=e2869]
+            - generic [ref=e2871]: french
+            - paragraph [ref=e2872]: 📍 Savoy Hotel, Strand, London
+            - paragraph [ref=e2873]: 💰 ££
+            - paragraph [ref=e2874]: 129 reviews
+      - link "The Ninth - french restaurant in 22 Charlotte St., London 🏆 FSA 5/5 ⭐ 4.6 The Ninth french 📍 22 Charlotte St., London 💰 £££ 1,335 reviews" [ref=e2875] [cursor=pointer]:
+        - /url: /restaurant/the-ninth-hBGIYGmU
+        - generic [ref=e2876]:
+          - generic [ref=e2877]:
+            - img "The Ninth - french restaurant in 22 Charlotte St., London" [ref=e2878]
+            - generic [ref=e2881]: 🏆 FSA 5/5
+            - generic [ref=e2883]: ⭐ 4.6
+          - generic [ref=e2884]:
+            - heading "The Ninth" [level=3] [ref=e2885]
+            - generic [ref=e2887]: french
+            - paragraph [ref=e2888]: 📍 22 Charlotte St., London
+            - paragraph [ref=e2889]: 💰 £££
+            - paragraph [ref=e2890]: 1,335 reviews
+      - link "Frog by Adam Handling Restaurant Covent Garden - french restaurant in 34-35 Southampton St, London 🏆 FSA 5/5 ⭐ 4.6 Frog by Adam Handling Restaurant Covent Garden french 📍 34-35 Southampton St, London 💰 ££££ 997 reviews" [ref=e2891] [cursor=pointer]:
+        - /url: /restaurant/frog-by-adam-handling-restaurant-covent-garden-hkcsnvBY
+        - generic [ref=e2892]:
+          - generic [ref=e2893]:
+            - img "Frog by Adam Handling Restaurant Covent Garden - french restaurant in 34-35 Southampton St, London" [ref=e2894]
+            - generic [ref=e2897]: 🏆 FSA 5/5
+            - generic [ref=e2899]: ⭐ 4.6
+          - generic [ref=e2900]:
+            - heading "Frog by Adam Handling Restaurant Covent Garden" [level=3] [ref=e2901]
+            - generic [ref=e2903]: french
+            - paragraph [ref=e2904]: 📍 34-35 Southampton St, London
+            - paragraph [ref=e2905]: 💰 ££££
+            - paragraph [ref=e2906]: 997 reviews
+      - link "Dulce Coffee London - mediterranean restaurant in 86 Whitechapel High St, London 🏆 FSA 5/5 ⭐ 4.6 Dulce Coffee London mediterranean 📍 86 Whitechapel High St, London 💰 £ 1,550 reviews" [ref=e2907] [cursor=pointer]:
+        - /url: /restaurant/dulce-coffee-london-cO94iwvs
+        - generic [ref=e2908]:
+          - generic [ref=e2909]:
+            - img "Dulce Coffee London - mediterranean restaurant in 86 Whitechapel High St, London" [ref=e2910]
+            - generic [ref=e2913]: 🏆 FSA 5/5
+            - generic [ref=e2915]: ⭐ 4.6
+          - generic [ref=e2916]:
+            - heading "Dulce Coffee London" [level=3] [ref=e2917]
+            - generic [ref=e2919]: mediterranean
+            - paragraph [ref=e2920]: 📍 86 Whitechapel High St, London
+            - paragraph [ref=e2921]: 💰 £
+            - paragraph [ref=e2922]: 1,550 reviews
+      - link "Kaffeine - mediterranean restaurant in 66 Great Titchfield St., London 🏆 FSA 5/5 ⭐ 4.6 Kaffeine mediterranean 📍 66 Great Titchfield St., London 💰 ££ 2,171 reviews" [ref=e2923] [cursor=pointer]:
+        - /url: /restaurant/kaffeine-z_ZJTXgM
+        - generic [ref=e2924]:
+          - generic [ref=e2925]:
+            - img "Kaffeine - mediterranean restaurant in 66 Great Titchfield St., London" [ref=e2926]
+            - generic [ref=e2929]: 🏆 FSA 5/5
+            - generic [ref=e2931]: ⭐ 4.6
+          - generic [ref=e2932]:
+            - heading "Kaffeine" [level=3] [ref=e2933]
+            - generic [ref=e2935]: mediterranean
+            - paragraph [ref=e2936]: 📍 66 Great Titchfield St., London
+            - paragraph [ref=e2937]: 💰 ££
+            - paragraph [ref=e2938]: 2,171 reviews
+      - link "Arôme Bakery - Mercer Street - mediterranean restaurant in 9 Mercer St, London 🏆 FSA 5/5 ⭐ 4.6 Arôme Bakery - Mercer Street mediterranean 📍 9 Mercer St, London 💰 ££ 2,164 reviews" [ref=e2939] [cursor=pointer]:
+        - /url: /restaurant/arme-bakery-mercer-street-ODgfGHew
+        - generic [ref=e2940]:
+          - generic [ref=e2941]:
+            - img "Arôme Bakery - Mercer Street - mediterranean restaurant in 9 Mercer St, London" [ref=e2942]
+            - generic [ref=e2945]: 🏆 FSA 5/5
+            - generic [ref=e2947]: ⭐ 4.6
+          - generic [ref=e2948]:
+            - heading "Arôme Bakery - Mercer Street" [level=3] [ref=e2949]
+            - generic [ref=e2951]: mediterranean
+            - paragraph [ref=e2952]: 📍 9 Mercer St, London
+            - paragraph [ref=e2953]: 💰 ££
+            - paragraph [ref=e2954]: 2,164 reviews
+      - link "Sunday in Brooklyn - Modern American Restaurant Marylebone - mediterranean restaurant in 10-12 James St, London 🏆 FSA 5/5 ⭐ 4.6 Sunday in Brooklyn - Modern American Restaurant Marylebone mediterranean 📍 10-12 James St, London 💰 ££ 1,343 reviews" [ref=e2955] [cursor=pointer]:
+        - /url: /restaurant/sunday-in-brooklyn-modern-american-restaurant-marylebone-UF_nmBAY
+        - generic [ref=e2956]:
+          - generic [ref=e2957]:
+            - img "Sunday in Brooklyn - Modern American Restaurant Marylebone - mediterranean restaurant in 10-12 James St, London" [ref=e2958]
+            - generic [ref=e2961]: 🏆 FSA 5/5
+            - generic [ref=e2963]: ⭐ 4.6
+          - generic [ref=e2964]:
+            - heading "Sunday in Brooklyn - Modern American Restaurant Marylebone" [level=3] [ref=e2965]
+            - generic [ref=e2967]: mediterranean
+            - paragraph [ref=e2968]: 📍 10-12 James St, London
+            - paragraph [ref=e2969]: 💰 ££
+            - paragraph [ref=e2970]: 1,343 reviews
+      - link "Eggbreak - mediterranean restaurant in 30 Uxbridge St, London 🏆 FSA 5/5 ⭐ 4.6 Eggbreak mediterranean 📍 30 Uxbridge St, London 💰 ££ 9,439 reviews" [ref=e2971] [cursor=pointer]:
+        - /url: /restaurant/eggbreak-S_g-oHLs
+        - generic [ref=e2972]:
+          - generic [ref=e2973]:
+            - img "Eggbreak - mediterranean restaurant in 30 Uxbridge St, London" [ref=e2974]
+            - generic [ref=e2977]: 🏆 FSA 5/5
+            - generic [ref=e2979]: ⭐ 4.6
+          - generic [ref=e2980]:
+            - heading "Eggbreak" [level=3] [ref=e2981]
+            - generic [ref=e2983]: mediterranean
+            - paragraph [ref=e2984]: 📍 30 Uxbridge St, London
+            - paragraph [ref=e2985]: 💰 ££
+            - paragraph [ref=e2986]: 9,439 reviews
+      - link "Milk Beach Soho - mediterranean restaurant in 14 Greek St, James Court, London 🏆 FSA 5/5 ⭐ 4.6 Milk Beach Soho mediterranean 📍 14 Greek St, James Court, London 💰 ££ 1,032 reviews" [ref=e2987] [cursor=pointer]:
+        - /url: /restaurant/milk-beach-soho-0FCf6358
+        - generic [ref=e2988]:
+          - generic [ref=e2989]:
+            - img "Milk Beach Soho - mediterranean restaurant in 14 Greek St, James Court, London" [ref=e2990]
+            - generic [ref=e2993]: 🏆 FSA 5/5
+            - generic [ref=e2995]: ⭐ 4.6
+          - generic [ref=e2996]:
+            - heading "Milk Beach Soho" [level=3] [ref=e2997]
+            - generic [ref=e2999]: mediterranean
+            - paragraph [ref=e3000]: 📍 14 Greek St, James Court, London
+            - paragraph [ref=e3001]: 💰 ££
+            - paragraph [ref=e3002]: 1,032 reviews
+      - link "Lyaness - mediterranean restaurant in Sea Containers House, 20 Upper Ground, London 🏆 FSA 5/5 ⭐ 4.6 Lyaness mediterranean 📍 Sea Containers House, 20 Upper Ground, London 💰 £££ 2,142 reviews" [ref=e3003] [cursor=pointer]:
+        - /url: /restaurant/lyaness-ij-alVfA
+        - generic [ref=e3004]:
+          - generic [ref=e3005]:
+            - img "Lyaness - mediterranean restaurant in Sea Containers House, 20 Upper Ground, London" [ref=e3006]
+            - generic [ref=e3009]: 🏆 FSA 5/5
+            - generic [ref=e3011]: ⭐ 4.6
+          - generic [ref=e3012]:
+            - heading "Lyaness" [level=3] [ref=e3013]
+            - generic [ref=e3015]: mediterranean
+            - paragraph [ref=e3016]: 📍 Sea Containers House, 20 Upper Ground, London
+            - paragraph [ref=e3017]: 💰 £££
+            - paragraph [ref=e3018]: 2,142 reviews
+      - link "Corrigan's Mayfair - british restaurant in 28 Upper Grosvenor St, London 🏆 FSA 5/5 ⭐ 4.6 Corrigan's Mayfair british 📍 28 Upper Grosvenor St, London 💰 £££ 686 reviews" [ref=e3019] [cursor=pointer]:
+        - /url: /restaurant/corrigans-mayfair-pgfnYIM8
+        - generic [ref=e3020]:
+          - generic [ref=e3021]:
+            - img "Corrigan's Mayfair - british restaurant in 28 Upper Grosvenor St, London" [ref=e3022]
+            - generic [ref=e3025]: 🏆 FSA 5/5
+            - generic [ref=e3027]: ⭐ 4.6
+          - generic [ref=e3028]:
+            - heading "Corrigan's Mayfair" [level=3] [ref=e3029]
+            - generic [ref=e3031]: british
+            - paragraph [ref=e3032]: 📍 28 Upper Grosvenor St, London
+            - paragraph [ref=e3033]: 💰 £££
+            - paragraph [ref=e3034]: 686 reviews
+      - link "No. Fifty Cheyne - british restaurant in Our Most Holy Redeemer, 50 Cheyne Walk, London 🏆 FSA 5/5 ⭐ 4.6 No. Fifty Cheyne british 📍 Our Most Holy Redeemer, 50 Cheyne Walk, London 💰 ££££ 691 reviews" [ref=e3035] [cursor=pointer]:
+        - /url: /restaurant/no-fifty-cheyne-8z0NcBrs
+        - generic [ref=e3036]:
+          - generic [ref=e3037]:
+            - img "No. Fifty Cheyne - british restaurant in Our Most Holy Redeemer, 50 Cheyne Walk, London" [ref=e3038]
+            - generic [ref=e3041]: 🏆 FSA 5/5
+            - generic [ref=e3043]: ⭐ 4.6
+          - generic [ref=e3044]:
+            - heading "No. Fifty Cheyne" [level=3] [ref=e3045]
+            - generic [ref=e3047]: british
+            - paragraph [ref=e3048]: 📍 Our Most Holy Redeemer, 50 Cheyne Walk, London
+            - paragraph [ref=e3049]: 💰 ££££
+            - paragraph [ref=e3050]: 691 reviews
+      - link "The Cadogan Arms - british restaurant in Cadogan Arms, 298 King's Rd, London 🏆 FSA 5/5 ⭐ 4.6 The Cadogan Arms british 📍 Cadogan Arms, 298 King's Rd, London 💰 ££ 1,704 reviews" [ref=e3051] [cursor=pointer]:
+        - /url: /restaurant/the-cadogan-arms-sa8akEZc
+        - generic [ref=e3052]:
+          - generic [ref=e3053]:
+            - img "The Cadogan Arms - british restaurant in Cadogan Arms, 298 King's Rd, London" [ref=e3054]
+            - generic [ref=e3057]: 🏆 FSA 5/5
+            - generic [ref=e3059]: ⭐ 4.6
+          - generic [ref=e3060]:
+            - heading "The Cadogan Arms" [level=3] [ref=e3061]
+            - generic [ref=e3063]: british
+            - paragraph [ref=e3064]: 📍 Cadogan Arms, 298 King's Rd, London
+            - paragraph [ref=e3065]: 💰 ££
+            - paragraph [ref=e3066]: 1,704 reviews
+      - link "Blacklock Covent Garden - british restaurant in 16a Bedford St, London 🏆 FSA 5/5 ⭐ 4.6 Blacklock Covent Garden british 📍 16a Bedford St, London 💰 ££ 2,169 reviews" [ref=e3067] [cursor=pointer]:
+        - /url: /restaurant/blacklock-covent-garden-wS8ne0fQ
+        - generic [ref=e3068]:
+          - generic [ref=e3069]:
+            - img "Blacklock Covent Garden - british restaurant in 16a Bedford St, London" [ref=e3070]
+            - generic [ref=e3073]: 🏆 FSA 5/5
+            - generic [ref=e3075]: ⭐ 4.6
+          - generic [ref=e3076]:
+            - heading "Blacklock Covent Garden" [level=3] [ref=e3077]
+            - generic [ref=e3079]: british
+            - paragraph [ref=e3080]: 📍 16a Bedford St, London
+            - paragraph [ref=e3081]: 💰 ££
+            - paragraph [ref=e3082]: 2,169 reviews
+      - link "Cora Pearl - british restaurant in 30 Henrietta St, London 🏆 FSA 4/5 ⭐ 4.6 Cora Pearl british 📍 30 Henrietta St, London 💰 ££ 798 reviews" [ref=e3083] [cursor=pointer]:
+        - /url: /restaurant/cora-pearl-eKXdNHEQ
+        - generic [ref=e3084]:
+          - generic [ref=e3085]:
+            - img "Cora Pearl - british restaurant in 30 Henrietta St, London" [ref=e3086]
+            - generic [ref=e3089]: 🏆 FSA 4/5
+            - generic [ref=e3091]: ⭐ 4.6
+          - generic [ref=e3092]:
+            - heading "Cora Pearl" [level=3] [ref=e3093]
+            - generic [ref=e3095]: british
+            - paragraph [ref=e3096]: 📍 30 Henrietta St, London
+            - paragraph [ref=e3097]: 💰 ££
+            - paragraph [ref=e3098]: 798 reviews
+      - link "La Patagonia - british restaurant in 31 Camden High St, London 🏆 FSA 4/5 ⭐ 4.6 La Patagonia british 📍 31 Camden High St, London 💰 ££ 1,568 reviews" [ref=e3099] [cursor=pointer]:
+        - /url: /restaurant/la-patagonia-m68uICC0
+        - generic [ref=e3100]:
+          - generic [ref=e3101]:
+            - img "La Patagonia - british restaurant in 31 Camden High St, London" [ref=e3102]
+            - generic [ref=e3105]: 🏆 FSA 4/5
+            - generic [ref=e3107]: ⭐ 4.6
+          - generic [ref=e3108]:
+            - heading "La Patagonia" [level=3] [ref=e3109]
+            - generic [ref=e3111]: british
+            - paragraph [ref=e3112]: 📍 31 Camden High St, London
+            - paragraph [ref=e3113]: 💰 ££
+            - paragraph [ref=e3114]: 1,568 reviews
+      - link "Amerigo Vespucci - british restaurant in Cabot Square, 25 Mackenzie Walk, London 🏆 FSA 5/5 ⭐ 4.6 Amerigo Vespucci british 📍 Cabot Square, 25 Mackenzie Walk, London 💰 ££ 884 reviews" [ref=e3115] [cursor=pointer]:
+        - /url: /restaurant/amerigo-vespucci-0OaP4dNU
+        - generic [ref=e3116]:
+          - generic [ref=e3117]:
+            - img "Amerigo Vespucci - british restaurant in Cabot Square, 25 Mackenzie Walk, London" [ref=e3118]
+            - generic [ref=e3121]: 🏆 FSA 5/5
+            - generic [ref=e3123]: ⭐ 4.6
+          - generic [ref=e3124]:
+            - heading "Amerigo Vespucci" [level=3] [ref=e3125]
+            - generic [ref=e3127]: british
+            - paragraph [ref=e3128]: 📍 Cabot Square, 25 Mackenzie Walk, London
+            - paragraph [ref=e3129]: 💰 ££
+            - paragraph [ref=e3130]: 884 reviews
+      - link "Bocca In Cielo - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 Bocca In Cielo british 📍 Tower Hamlets 💰 ££ 11 reviews" [ref=e3131] [cursor=pointer]:
+        - /url: /restaurant/bocca-in-cielo-UoEI-7ps
+        - generic [ref=e3132]:
+          - generic [ref=e3133]:
+            - img "Bocca In Cielo - british restaurant in Tower Hamlets" [ref=e3134]
+            - generic [ref=e3137]: 🏆 FSA 5/5
+            - generic [ref=e3139]: ⭐ 4.6
+          - generic [ref=e3140]:
+            - heading "Bocca In Cielo" [level=3] [ref=e3141]
+            - generic [ref=e3143]: british
+            - paragraph [ref=e3144]: 📍 Tower Hamlets
+            - paragraph [ref=e3145]: 💰 ££
+            - paragraph [ref=e3146]: 11 reviews
+      - link "Dilpasand Restaurant - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.6 Dilpasand Restaurant british 📍 Central London 💰 ££ 6,237 reviews" [ref=e3147] [cursor=pointer]:
+        - /url: /restaurant/dilpasand-restaurant-8Id1ryLc
+        - generic [ref=e3148]:
+          - generic [ref=e3149]:
+            - img "Dilpasand Restaurant - british restaurant in Central London" [ref=e3150]
+            - generic [ref=e3153]: 🏆 FSA 4/5
+            - generic [ref=e3155]: ⭐ 4.6
+          - generic [ref=e3156]:
+            - heading "Dilpasand Restaurant" [level=3] [ref=e3157]
+            - generic [ref=e3159]: british
+            - paragraph [ref=e3160]: 📍 Central London
+            - paragraph [ref=e3161]: 💰 ££
+            - paragraph [ref=e3162]: 6,237 reviews
+      - link "Janna Cafe - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.6 Janna Cafe british 📍 Central London 💰 ££ 1,241 reviews" [ref=e3163] [cursor=pointer]:
+        - /url: /restaurant/janna-cafe-nMggj_hY
+        - generic [ref=e3164]:
+          - generic [ref=e3165]:
+            - img "Janna Cafe - british restaurant in Central London" [ref=e3166]
+            - generic [ref=e3169]: 🏆 FSA 4/5
+            - generic [ref=e3171]: ⭐ 4.6
+          - generic [ref=e3172]:
+            - heading "Janna Cafe" [level=3] [ref=e3173]
+            - generic [ref=e3175]: british
+            - paragraph [ref=e3176]: 📍 Central London
+            - paragraph [ref=e3177]: 💰 ££
+            - paragraph [ref=e3178]: 1,241 reviews
+      - link "Jilani Curry & Grill Restaurant - indian restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.6 Jilani Curry & Grill Restaurant indian 📍 Redbridge 💰 ££ 34 reviews" [ref=e3179] [cursor=pointer]:
+        - /url: /restaurant/jilani-curry-grill-restaurant-ZPb0l-As
+        - generic [ref=e3180]:
+          - generic [ref=e3181]:
+            - img "Jilani Curry & Grill Restaurant - indian restaurant in Redbridge" [ref=e3182]
+            - generic [ref=e3185]: 🏆 FSA 5/5
+            - generic [ref=e3187]: ⭐ 4.6
+          - generic [ref=e3188]:
+            - heading "Jilani Curry & Grill Restaurant" [level=3] [ref=e3189]
+            - generic [ref=e3191]: indian
+            - paragraph [ref=e3192]: 📍 Redbridge
+            - paragraph [ref=e3193]: 💰 ££
+            - paragraph [ref=e3194]: 34 reviews
+      - link "PHAT BITE Ilford - modern-european restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.6 PHAT BITE Ilford modern-european 📍 Redbridge 💰 ££ 448 reviews" [ref=e3195] [cursor=pointer]:
+        - /url: /restaurant/phat-bite-ilford-WjKbnCMk
+        - generic [ref=e3196]:
+          - generic [ref=e3197]:
+            - img "PHAT BITE Ilford - modern-european restaurant in Redbridge" [ref=e3198]
+            - generic [ref=e3201]: 🏆 FSA 5/5
+            - generic [ref=e3203]: ⭐ 4.6
+          - generic [ref=e3204]:
+            - heading "PHAT BITE Ilford" [level=3] [ref=e3205]
+            - generic [ref=e3207]: modern-european
+            - paragraph [ref=e3208]: 📍 Redbridge
+            - paragraph [ref=e3209]: 💰 ££
+            - paragraph [ref=e3210]: 448 reviews
+      - link "Blue Orchid - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.6 Blue Orchid british 📍 Havering 💰 ££ 512 reviews" [ref=e3211] [cursor=pointer]:
+        - /url: /restaurant/blue-orchid-2gY3jas4
+        - generic [ref=e3212]:
+          - generic [ref=e3213]:
+            - img "Blue Orchid - british restaurant in Havering" [ref=e3214]
+            - generic [ref=e3217]: 🏆 FSA 5/5
+            - generic [ref=e3219]: ⭐ 4.6
+          - generic [ref=e3220]:
+            - heading "Blue Orchid" [level=3] [ref=e3221]
+            - generic [ref=e3223]: british
+            - paragraph [ref=e3224]: 📍 Havering
+            - paragraph [ref=e3225]: 💰 ££
+            - paragraph [ref=e3226]: 512 reviews
+      - link "Roosters Piri Piri - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.6 Roosters Piri Piri british 📍 Havering 💰 £ 526 reviews" [ref=e3227] [cursor=pointer]:
+        - /url: /restaurant/roosters-piri-piri-0V8aXWps
+        - generic [ref=e3228]:
+          - generic [ref=e3229]:
+            - img "Roosters Piri Piri - british restaurant in Havering" [ref=e3230]
+            - generic [ref=e3233]: 🏆 FSA 4/5
+            - generic [ref=e3235]: ⭐ 4.6
+          - generic [ref=e3236]:
+            - heading "Roosters Piri Piri" [level=3] [ref=e3237]
+            - generic [ref=e3239]: british
+            - paragraph [ref=e3240]: 📍 Havering
+            - paragraph [ref=e3241]: 💰 £
+            - paragraph [ref=e3242]: 526 reviews
+      - link "Nasi Isda® Romford - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.6 Nasi Isda® Romford british 📍 Havering 💰 ££ 221 reviews" [ref=e3243] [cursor=pointer]:
+        - /url: /restaurant/nasi-isda-romford-7U8QoQEc
+        - generic [ref=e3244]:
+          - generic [ref=e3245]:
+            - img "Nasi Isda® Romford - british restaurant in Havering" [ref=e3246]
+            - generic [ref=e3249]: 🏆 FSA 5/5
+            - generic [ref=e3251]: ⭐ 4.6
+          - generic [ref=e3252]:
+            - heading "Nasi Isda® Romford" [level=3] [ref=e3253]
+            - generic [ref=e3255]: british
+            - paragraph [ref=e3256]: 📍 Havering
+            - paragraph [ref=e3257]: 💰 ££
+            - paragraph [ref=e3258]: 221 reviews
+      - link "Kasiba Lounge and Restaurant - turkish restaurant in Havering 🏆 FSA 5/5 ⭐ 4.6 Kasiba Lounge and Restaurant turkish 📍 Havering 💰 ££ 205 reviews" [ref=e3259] [cursor=pointer]:
+        - /url: /restaurant/kasiba-lounge-and-restaurant-Z9p4CWg8
+        - generic [ref=e3260]:
+          - generic [ref=e3261]:
+            - img "Kasiba Lounge and Restaurant - turkish restaurant in Havering" [ref=e3262]
+            - generic [ref=e3265]: 🏆 FSA 5/5
+            - generic [ref=e3267]: ⭐ 4.6
+          - generic [ref=e3268]:
+            - heading "Kasiba Lounge and Restaurant" [level=3] [ref=e3269]
+            - generic [ref=e3271]: turkish
+            - paragraph [ref=e3272]: 📍 Havering
+            - paragraph [ref=e3273]: 💰 ££
+            - paragraph [ref=e3274]: 205 reviews
+      - link "Bread Street Kitchen, Bar & Rooftop - Stratford - british restaurant in Newham 🏆 FSA 5/5 ⭐ 4.6 Bread Street Kitchen, Bar & Rooftop - Stratford british 📍 Newham 💰 ££ 1,141 reviews" [ref=e3275] [cursor=pointer]:
+        - /url: /restaurant/bread-street-kitchen-bar-rooftop-stratford-i8i0FI7w
+        - generic [ref=e3276]:
+          - generic [ref=e3277]:
+            - img "Bread Street Kitchen, Bar & Rooftop - Stratford - british restaurant in Newham" [ref=e3278]
+            - generic [ref=e3281]: 🏆 FSA 5/5
+            - generic [ref=e3283]: ⭐ 4.6
+          - generic [ref=e3284]:
+            - heading "Bread Street Kitchen, Bar & Rooftop - Stratford" [level=3] [ref=e3285]
+            - generic [ref=e3287]: british
+            - paragraph [ref=e3288]: 📍 Newham
+            - paragraph [ref=e3289]: 💰 ££
+            - paragraph [ref=e3290]: 1,141 reviews
+      - link "STK Steakhouse – Stratford - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 STK Steakhouse – Stratford british 📍 Central London 💰 ££ 1,767 reviews" [ref=e3291] [cursor=pointer]:
+        - /url: /restaurant/stk-steakhouse-stratford-WR7wIL1g
+        - generic [ref=e3292]:
+          - generic [ref=e3293]:
+            - img "STK Steakhouse – Stratford - british restaurant in Central London" [ref=e3294]
+            - generic [ref=e3297]: 🏆 FSA 5/5
+            - generic [ref=e3299]: ⭐ 4.6
+          - generic [ref=e3300]:
+            - heading "STK Steakhouse – Stratford" [level=3] [ref=e3301]
+            - generic [ref=e3303]: british
+            - paragraph [ref=e3304]: 📍 Central London
+            - paragraph [ref=e3305]: 💰 ££
+            - paragraph [ref=e3306]: 1,767 reviews
+      - link "ZUZU BISTRO BAR - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 ZUZU BISTRO BAR british 📍 Central London 💰 ££ 420 reviews" [ref=e3307] [cursor=pointer]:
+        - /url: /restaurant/zuzu-bistro-bar-ByHcG6iI
+        - generic [ref=e3308]:
+          - generic [ref=e3309]:
+            - img "ZUZU BISTRO BAR - british restaurant in Central London" [ref=e3310]
+            - generic [ref=e3313]: 🏆 FSA 5/5
+            - generic [ref=e3315]: ⭐ 4.6
+          - generic [ref=e3316]:
+            - heading "ZUZU BISTRO BAR" [level=3] [ref=e3317]
+            - generic [ref=e3319]: british
+            - paragraph [ref=e3320]: 📍 Central London
+            - paragraph [ref=e3321]: 💰 ££
+            - paragraph [ref=e3322]: 420 reviews
+      - link "The Grill Stratford - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.6 The Grill Stratford british 📍 Havering 💰 ££ 3,332 reviews" [ref=e3323] [cursor=pointer]:
+        - /url: /restaurant/the-grill-stratford-H2aKzH50
+        - generic [ref=e3324]:
+          - generic [ref=e3325]:
+            - img "The Grill Stratford - british restaurant in Havering" [ref=e3326]
+            - generic [ref=e3329]: 🏆 FSA 5/5
+            - generic [ref=e3331]: ⭐ 4.6
+          - generic [ref=e3332]:
+            - heading "The Grill Stratford" [level=3] [ref=e3333]
+            - generic [ref=e3335]: british
+            - paragraph [ref=e3336]: 📍 Havering
+            - paragraph [ref=e3337]: 💰 ££
+            - paragraph [ref=e3338]: 3,332 reviews
+      - link "Al zayt Restaurant - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Al zayt Restaurant british 📍 Central London 💰 ££ 1,289 reviews" [ref=e3339] [cursor=pointer]:
+        - /url: /restaurant/al-zayt-restaurant-uETIeuwY
+        - generic [ref=e3340]:
+          - generic [ref=e3341]:
+            - img "Al zayt Restaurant - british restaurant in Central London" [ref=e3342]
+            - generic [ref=e3345]: 🏆 FSA 5/5
+            - generic [ref=e3347]: ⭐ 4.6
+          - generic [ref=e3348]:
+            - heading "Al zayt Restaurant" [level=3] [ref=e3349]
+            - generic [ref=e3351]: british
+            - paragraph [ref=e3352]: 📍 Central London
+            - paragraph [ref=e3353]: 💰 ££
+            - paragraph [ref=e3354]: 1,289 reviews
+      - link "The Westbridge Restaurant - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 The Westbridge Restaurant british 📍 Central London 💰 ££ 8 reviews" [ref=e3355] [cursor=pointer]:
+        - /url: /restaurant/the-westbridge-restaurant-g_1FR1iQ
+        - generic [ref=e3356]:
+          - generic [ref=e3357]:
+            - img "The Westbridge Restaurant - british restaurant in Central London" [ref=e3358]
+            - generic [ref=e3361]: 🏆 FSA 5/5
+            - generic [ref=e3363]: ⭐ 4.6
+          - generic [ref=e3364]:
+            - heading "The Westbridge Restaurant" [level=3] [ref=e3365]
+            - generic [ref=e3367]: british
+            - paragraph [ref=e3368]: 📍 Central London
+            - paragraph [ref=e3369]: 💰 ££
+            - paragraph [ref=e3370]: 8 reviews
+      - link "Tanjia Restaurant - turkish restaurant in Central London 🏆 FSA 3/5 ⭐ 4.6 Tanjia Restaurant turkish 📍 Central London 💰 ££ 48 reviews" [ref=e3371] [cursor=pointer]:
+        - /url: /restaurant/tanjia-restaurant-z4mIP1sY
+        - generic [ref=e3372]:
+          - generic [ref=e3373]:
+            - img "Tanjia Restaurant - turkish restaurant in Central London" [ref=e3374]
+            - generic [ref=e3377]: 🏆 FSA 3/5
+            - generic [ref=e3379]: ⭐ 4.6
+          - generic [ref=e3380]:
+            - heading "Tanjia Restaurant" [level=3] [ref=e3381]
+            - generic [ref=e3383]: turkish
+            - paragraph [ref=e3384]: 📍 Central London
+            - paragraph [ref=e3385]: 💰 ££
+            - paragraph [ref=e3386]: 48 reviews
+      - link "Tripti's Thai Pie Stratford - thai restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Tripti's Thai Pie Stratford thai 📍 Central London 💰 ££ 1,430 reviews" [ref=e3387] [cursor=pointer]:
+        - /url: /restaurant/triptis-thai-pie-stratford-wo92TeFg
+        - generic [ref=e3388]:
+          - generic [ref=e3389]:
+            - img "Tripti's Thai Pie Stratford - thai restaurant in Central London" [ref=e3390]
+            - generic [ref=e3393]: 🏆 FSA 5/5
+            - generic [ref=e3395]: ⭐ 4.6
+          - generic [ref=e3396]:
+            - heading "Tripti's Thai Pie Stratford" [level=3] [ref=e3397]
+            - generic [ref=e3399]: thai
+            - paragraph [ref=e3400]: 📍 Central London
+            - paragraph [ref=e3401]: 💰 ££
+            - paragraph [ref=e3402]: 1,430 reviews
+      - link "BISTROTHEQUE - modern-european restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 BISTROTHEQUE modern-european 📍 Central London 💰 ££ 1,113 reviews" [ref=e3403] [cursor=pointer]:
+        - /url: /restaurant/bistrotheque-MTg_Ozmw
+        - generic [ref=e3404]:
+          - generic [ref=e3405]:
+            - img "BISTROTHEQUE - modern-european restaurant in Central London" [ref=e3406]
+            - generic [ref=e3409]: 🏆 FSA 5/5
+            - generic [ref=e3411]: ⭐ 4.6
+          - generic [ref=e3412]:
+            - heading "BISTROTHEQUE" [level=3] [ref=e3413]
+            - generic [ref=e3415]: modern-european
+            - paragraph [ref=e3416]: 📍 Central London
+            - paragraph [ref=e3417]: 💰 ££
+            - paragraph [ref=e3418]: 1,113 reviews
+      - link "Desi Lounge - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.6 Desi Lounge british 📍 Central London 💰 ££ 613 reviews" [ref=e3419] [cursor=pointer]:
+        - /url: /restaurant/desi-lounge-hgioaWtM
+        - generic [ref=e3420]:
+          - generic [ref=e3421]:
+            - img "Desi Lounge - british restaurant in Central London" [ref=e3422]
+            - generic [ref=e3425]: 🏆 FSA 3/5
+            - generic [ref=e3427]: ⭐ 4.6
+          - generic [ref=e3428]:
+            - heading "Desi Lounge" [level=3] [ref=e3429]
+            - generic [ref=e3431]: british
+            - paragraph [ref=e3432]: 📍 Central London
+            - paragraph [ref=e3433]: 💰 ££
+            - paragraph [ref=e3434]: 613 reviews
+      - link "Brawn - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Brawn british 📍 Central London 💰 ££ 1,095 reviews" [ref=e3435] [cursor=pointer]:
+        - /url: /restaurant/brawn-jTnwBuUs
+        - generic [ref=e3436]:
+          - generic [ref=e3437]:
+            - img "Brawn - british restaurant in Central London" [ref=e3438]
+            - generic [ref=e3441]: 🏆 FSA 5/5
+            - generic [ref=e3443]: ⭐ 4.6
+          - generic [ref=e3444]:
+            - heading "Brawn" [level=3] [ref=e3445]
+            - generic [ref=e3447]: british
+            - paragraph [ref=e3448]: 📍 Central London
+            - paragraph [ref=e3449]: 💰 ££
+            - paragraph [ref=e3450]: 1,095 reviews
+      - link "Chaskaas - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.6 Chaskaas british 📍 Central London 💰 ££ 372 reviews" [ref=e3451] [cursor=pointer]:
+        - /url: /restaurant/chaskaas-CRgrwcek
+        - generic [ref=e3452]:
+          - generic [ref=e3453]:
+            - img "Chaskaas - british restaurant in Central London" [ref=e3454]
+            - generic [ref=e3457]: 🏆 FSA 4/5
+            - generic [ref=e3459]: ⭐ 4.6
+          - generic [ref=e3460]:
+            - heading "Chaskaas" [level=3] [ref=e3461]
+            - generic [ref=e3463]: british
+            - paragraph [ref=e3464]: 📍 Central London
+            - paragraph [ref=e3465]: 💰 ££
+            - paragraph [ref=e3466]: 372 reviews
+      - link "DALLA - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 DALLA british 📍 Central London 💰 ££ 261 reviews" [ref=e3467] [cursor=pointer]:
+        - /url: /restaurant/dalla-VYqgqle4
+        - generic [ref=e3468]:
+          - generic [ref=e3469]:
+            - img "DALLA - british restaurant in Central London" [ref=e3470]
+            - generic [ref=e3473]: 🏆 FSA 5/5
+            - generic [ref=e3475]: ⭐ 4.6
+          - generic [ref=e3476]:
+            - heading "DALLA" [level=3] [ref=e3477]
+            - generic [ref=e3479]: british
+            - paragraph [ref=e3480]: 📍 Central London
+            - paragraph [ref=e3481]: 💰 ££
+            - paragraph [ref=e3482]: 261 reviews
+      - link "Narrow Kitchen - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Narrow Kitchen british 📍 Central London 💰 ££ 109 reviews" [ref=e3483] [cursor=pointer]:
+        - /url: /restaurant/narrow-kitchen-RGMiNeeo
+        - generic [ref=e3484]:
+          - generic [ref=e3485]:
+            - img "Narrow Kitchen - british restaurant in Central London" [ref=e3486]
+            - generic [ref=e3489]: 🏆 FSA 5/5
+            - generic [ref=e3491]: ⭐ 4.6
+          - generic [ref=e3492]:
+            - heading "Narrow Kitchen" [level=3] [ref=e3493]
+            - generic [ref=e3495]: british
+            - paragraph [ref=e3496]: 📍 Central London
+            - paragraph [ref=e3497]: 💰 ££
+            - paragraph [ref=e3498]: 109 reviews
+      - link "Darling's Eatery - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Darling's Eatery british 📍 Central London 💰 ££ 179 reviews" [ref=e3499] [cursor=pointer]:
+        - /url: /restaurant/darlings-eatery-LZUGQdIc
+        - generic [ref=e3500]:
+          - generic [ref=e3501]:
+            - img "Darling's Eatery - british restaurant in Central London" [ref=e3502]
+            - generic [ref=e3505]: 🏆 FSA 5/5
+            - generic [ref=e3507]: ⭐ 4.6
+          - generic [ref=e3508]:
+            - heading "Darling's Eatery" [level=3] [ref=e3509]
+            - generic [ref=e3511]: british
+            - paragraph [ref=e3512]: 📍 Central London
+            - paragraph [ref=e3513]: 💰 ££
+            - paragraph [ref=e3514]: 179 reviews
+      - link "The Angel of Bow Public House - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 The Angel of Bow Public House british 📍 Tower Hamlets 💰 ££ 679 reviews" [ref=e3515] [cursor=pointer]:
+        - /url: /restaurant/the-angel-of-bow-public-house-LCiVVXTM
+        - generic [ref=e3516]:
+          - generic [ref=e3517]:
+            - img "The Angel of Bow Public House - british restaurant in Tower Hamlets" [ref=e3518]
+            - generic [ref=e3521]: 🏆 FSA 5/5
+            - generic [ref=e3523]: ⭐ 4.6
+          - generic [ref=e3524]:
+            - heading "The Angel of Bow Public House" [level=3] [ref=e3525]
+            - generic [ref=e3527]: british
+            - paragraph [ref=e3528]: 📍 Tower Hamlets
+            - paragraph [ref=e3529]: 💰 ££
+            - paragraph [ref=e3530]: 679 reviews
+      - link "Bow Grill - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.6 Bow Grill british 📍 Tower Hamlets 💰 ££ 134 reviews" [ref=e3531] [cursor=pointer]:
+        - /url: /restaurant/bow-grill-eXbomnX4
+        - generic [ref=e3532]:
+          - generic [ref=e3533]:
+            - img "Bow Grill - british restaurant in Tower Hamlets" [ref=e3534]
+            - generic [ref=e3537]: 🏆 FSA 4/5
+            - generic [ref=e3539]: ⭐ 4.6
+          - generic [ref=e3540]:
+            - heading "Bow Grill" [level=3] [ref=e3541]
+            - generic [ref=e3543]: british
+            - paragraph [ref=e3544]: 📍 Tower Hamlets
+            - paragraph [ref=e3545]: 💰 ££
+            - paragraph [ref=e3546]: 134 reviews
+      - link "Far East Kitchen - chinese restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 Far East Kitchen chinese 📍 Tower Hamlets 💰 ££ 206 reviews" [ref=e3547] [cursor=pointer]:
+        - /url: /restaurant/far-east-kitchen-jNq5Bxyw
+        - generic [ref=e3548]:
+          - generic [ref=e3549]:
+            - img "Far East Kitchen - chinese restaurant in Tower Hamlets" [ref=e3550]
+            - generic [ref=e3553]: 🏆 FSA 5/5
+            - generic [ref=e3555]: ⭐ 4.6
+          - generic [ref=e3556]:
+            - heading "Far East Kitchen" [level=3] [ref=e3557]
+            - generic [ref=e3559]: chinese
+            - paragraph [ref=e3560]: 📍 Tower Hamlets
+            - paragraph [ref=e3561]: 💰 ££
+            - paragraph [ref=e3562]: 206 reviews
+      - link "Buon Appetito - italian restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 Buon Appetito italian 📍 Tower Hamlets 💰 ££ 66 reviews" [ref=e3563] [cursor=pointer]:
+        - /url: /restaurant/buon-appetito-kE4g6r_s
+        - generic [ref=e3564]:
+          - generic [ref=e3565]:
+            - img "Buon Appetito - italian restaurant in Tower Hamlets" [ref=e3566]
+            - generic [ref=e3569]: 🏆 FSA 5/5
+            - generic [ref=e3571]: ⭐ 4.6
+          - generic [ref=e3572]:
+            - heading "Buon Appetito" [level=3] [ref=e3573]
+            - generic [ref=e3575]: italian
+            - paragraph [ref=e3576]: 📍 Tower Hamlets
+            - paragraph [ref=e3577]: 💰 ££
+            - paragraph [ref=e3578]: 66 reviews
+      - link "Afrikana Restaurant Mile End - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 Afrikana Restaurant Mile End british 📍 Tower Hamlets 💰 ££ 2,314 reviews" [ref=e3579] [cursor=pointer]:
+        - /url: /restaurant/afrikana-restaurant-mile-end-74Fpx7Yg
+        - generic [ref=e3580]:
+          - generic [ref=e3581]:
+            - img "Afrikana Restaurant Mile End - british restaurant in Tower Hamlets" [ref=e3582]
+            - generic [ref=e3585]: 🏆 FSA 5/5
+            - generic [ref=e3587]: ⭐ 4.6
+          - generic [ref=e3588]:
+            - heading "Afrikana Restaurant Mile End" [level=3] [ref=e3589]
+            - generic [ref=e3591]: british
+            - paragraph [ref=e3592]: 📍 Tower Hamlets
+            - paragraph [ref=e3593]: 💰 ££
+            - paragraph [ref=e3594]: 2,314 reviews
+      - link "WNGZ Mile End (Chicken Wings, Burgers, Cheesy chips) - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 WNGZ Mile End (Chicken Wings, Burgers, Cheesy chips) british 📍 Tower Hamlets 💰 ££ 800 reviews" [ref=e3595] [cursor=pointer]:
+        - /url: /restaurant/wngz-mile-end-chicken-wings-burgers-cheesy-chips-brDERBFk
+        - generic [ref=e3596]:
+          - generic [ref=e3597]:
+            - img "WNGZ Mile End (Chicken Wings, Burgers, Cheesy chips) - british restaurant in Tower Hamlets" [ref=e3598]
+            - generic [ref=e3601]: 🏆 FSA 5/5
+            - generic [ref=e3603]: ⭐ 4.6
+          - generic [ref=e3604]:
+            - heading "WNGZ Mile End (Chicken Wings, Burgers, Cheesy chips)" [level=3] [ref=e3605]
+            - generic [ref=e3607]: british
+            - paragraph [ref=e3608]: 📍 Tower Hamlets
+            - paragraph [ref=e3609]: 💰 ££
+            - paragraph [ref=e3610]: 800 reviews
+      - link "The Coffee Room - Mile End - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 The Coffee Room - Mile End british 📍 Tower Hamlets 💰 ££ 922 reviews" [ref=e3611] [cursor=pointer]:
+        - /url: /restaurant/the-coffee-room-mile-end-_CmAl6ac
+        - generic [ref=e3612]:
+          - generic [ref=e3613]:
+            - img "The Coffee Room - Mile End - british restaurant in Tower Hamlets" [ref=e3614]
+            - generic [ref=e3617]: 🏆 FSA 5/5
+            - generic [ref=e3619]: ⭐ 4.6
+          - generic [ref=e3620]:
+            - heading "The Coffee Room - Mile End" [level=3] [ref=e3621]
+            - generic [ref=e3623]: british
+            - paragraph [ref=e3624]: 📍 Tower Hamlets
+            - paragraph [ref=e3625]: 💰 ££
+            - paragraph [ref=e3626]: 922 reviews
+      - link "FoodComa - modern-european restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 FoodComa modern-european 📍 Tower Hamlets 💰 ££ 311 reviews" [ref=e3627] [cursor=pointer]:
+        - /url: /restaurant/foodcoma-T-0DJCTM
+        - generic [ref=e3628]:
+          - generic [ref=e3629]:
+            - img "FoodComa - modern-european restaurant in Tower Hamlets" [ref=e3630]
+            - generic [ref=e3633]: 🏆 FSA 5/5
+            - generic [ref=e3635]: ⭐ 4.6
+          - generic [ref=e3636]:
+            - heading "FoodComa" [level=3] [ref=e3637]
+            - generic [ref=e3639]: modern-european
+            - paragraph [ref=e3640]: 📍 Tower Hamlets
+            - paragraph [ref=e3641]: 💰 ££
+            - paragraph [ref=e3642]: 311 reviews
+      - link "King’s Flavour Mile End - modern-european restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 King’s Flavour Mile End modern-european 📍 Tower Hamlets 💰 ££ 10 reviews" [ref=e3643] [cursor=pointer]:
+        - /url: /restaurant/kings-flavour-mile-end-9RYs3TTI
+        - generic [ref=e3644]:
+          - generic [ref=e3645]:
+            - img "King’s Flavour Mile End - modern-european restaurant in Tower Hamlets" [ref=e3646]
+            - generic [ref=e3649]: 🏆 FSA 5/5
+            - generic [ref=e3651]: ⭐ 4.6
+          - generic [ref=e3652]:
+            - heading "King’s Flavour Mile End" [level=3] [ref=e3653]
+            - generic [ref=e3655]: modern-european
+            - paragraph [ref=e3656]: 📍 Tower Hamlets
+            - paragraph [ref=e3657]: 💰 ££
+            - paragraph [ref=e3658]: 10 reviews
+      - link "Lucky Cat by Gordon Ramsay - Bishopsgate - chinese restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Lucky Cat by Gordon Ramsay - Bishopsgate chinese 📍 Central London 💰 ££ 1,164 reviews" [ref=e3659] [cursor=pointer]:
+        - /url: /restaurant/lucky-cat-by-gordon-ramsay-bishopsgate-zN4O2yCQ
+        - generic [ref=e3660]:
+          - generic [ref=e3661]:
+            - img "Lucky Cat by Gordon Ramsay - Bishopsgate - chinese restaurant in Central London" [ref=e3662]
+            - generic [ref=e3665]: 🏆 FSA 5/5
+            - generic [ref=e3667]: ⭐ 4.6
+          - generic [ref=e3668]:
+            - heading "Lucky Cat by Gordon Ramsay - Bishopsgate" [level=3] [ref=e3669]
+            - generic [ref=e3671]: chinese
+            - paragraph [ref=e3672]: 📍 Central London
+            - paragraph [ref=e3673]: 💰 ££
+            - paragraph [ref=e3674]: 1,164 reviews
+      - link "Gaucho Broadgate - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Gaucho Broadgate british 📍 Central London 💰 £££ 1,538 reviews" [ref=e3675] [cursor=pointer]:
+        - /url: /restaurant/gaucho-broadgate-KxMbRsaE
+        - generic [ref=e3676]:
+          - generic [ref=e3677]:
+            - img "Gaucho Broadgate - british restaurant in Central London" [ref=e3678]
+            - generic [ref=e3681]: 🏆 FSA 5/5
+            - generic [ref=e3683]: ⭐ 4.6
+          - generic [ref=e3684]:
+            - heading "Gaucho Broadgate" [level=3] [ref=e3685]
+            - generic [ref=e3687]: british
+            - paragraph [ref=e3688]: 📍 Central London
+            - paragraph [ref=e3689]: 💰 £££
+            - paragraph [ref=e3690]: 1,538 reviews
+      - link "Mi Casa Burrito London Liverpool Street - mexican restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Mi Casa Burrito London Liverpool Street mexican 📍 Central London 💰 ££ 542 reviews" [ref=e3691] [cursor=pointer]:
+        - /url: /restaurant/mi-casa-burrito-london-liverpool-street-1ab1-uhw
+        - generic [ref=e3692]:
+          - generic [ref=e3693]:
+            - img "Mi Casa Burrito London Liverpool Street - mexican restaurant in Central London" [ref=e3694]
+            - generic [ref=e3697]: 🏆 FSA 5/5
+            - generic [ref=e3699]: ⭐ 4.6
+          - generic [ref=e3700]:
+            - heading "Mi Casa Burrito London Liverpool Street" [level=3] [ref=e3701]
+            - generic [ref=e3703]: mexican
+            - paragraph [ref=e3704]: 📍 Central London
+            - paragraph [ref=e3705]: 💰 ££
+            - paragraph [ref=e3706]: 542 reviews
+      - link "The Urban Chocolatier - british restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.6 The Urban Chocolatier british 📍 Redbridge 💰 ££ 4,649 reviews" [ref=e3707] [cursor=pointer]:
+        - /url: /restaurant/the-urban-chocolatier-8NDWyEac
+        - generic [ref=e3708]:
+          - generic [ref=e3709]:
+            - img "The Urban Chocolatier - british restaurant in Redbridge" [ref=e3710]
+            - generic [ref=e3713]: 🏆 FSA 5/5
+            - generic [ref=e3715]: ⭐ 4.6
+          - generic [ref=e3716]:
+            - heading "The Urban Chocolatier" [level=3] [ref=e3717]
+            - generic [ref=e3719]: british
+            - paragraph [ref=e3720]: 📍 Redbridge
+            - paragraph [ref=e3721]: 💰 ££
+            - paragraph [ref=e3722]: 4,649 reviews
+      - link "The Common E2 - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 The Common E2 british 📍 Tower Hamlets 💰 ££ 591 reviews" [ref=e3723] [cursor=pointer]:
+        - /url: /restaurant/the-common-e2-x75i-NWk
+        - generic [ref=e3724]:
+          - generic [ref=e3725]:
+            - img "The Common E2 - british restaurant in Tower Hamlets" [ref=e3726]
+            - generic [ref=e3729]: 🏆 FSA 5/5
+            - generic [ref=e3731]: ⭐ 4.6
+          - generic [ref=e3732]:
+            - heading "The Common E2" [level=3] [ref=e3733]
+            - generic [ref=e3735]: british
+            - paragraph [ref=e3736]: 📍 Tower Hamlets
+            - paragraph [ref=e3737]: 💰 ££
+            - paragraph [ref=e3738]: 591 reviews
+      - link "La Bella napoli - italian restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.6 La Bella napoli italian 📍 Tower Hamlets 💰 ££ 252 reviews" [ref=e3739] [cursor=pointer]:
+        - /url: /restaurant/la-bella-napoli-C3MBjGos
+        - generic [ref=e3740]:
+          - generic [ref=e3741]:
+            - img "La Bella napoli - italian restaurant in Tower Hamlets" [ref=e3742]
+            - generic [ref=e3745]: 🏆 FSA 5/5
+            - generic [ref=e3747]: ⭐ 4.6
+          - generic [ref=e3748]:
+            - heading "La Bella napoli" [level=3] [ref=e3749]
+            - generic [ref=e3751]: italian
+            - paragraph [ref=e3752]: 📍 Tower Hamlets
+            - paragraph [ref=e3753]: 💰 ££
+            - paragraph [ref=e3754]: 252 reviews
+      - link "Asado Steakhouse - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Asado Steakhouse british 📍 Central London 💰 ££ 659 reviews" [ref=e3755] [cursor=pointer]:
+        - /url: /restaurant/asado-steakhouse-vseln3eY
+        - generic [ref=e3756]:
+          - generic [ref=e3757]:
+            - img "Asado Steakhouse - british restaurant in Central London" [ref=e3758]
+            - generic [ref=e3761]: 🏆 FSA 5/5
+            - generic [ref=e3763]: ⭐ 4.6
+          - generic [ref=e3764]:
+            - heading "Asado Steakhouse" [level=3] [ref=e3765]
+            - generic [ref=e3767]: british
+            - paragraph [ref=e3768]: 📍 Central London
+            - paragraph [ref=e3769]: 💰 ££
+            - paragraph [ref=e3770]: 659 reviews
+      - link "Adyar Ananda Bhavan - A2B Veg Restaurant - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Adyar Ananda Bhavan - A2B Veg Restaurant british 📍 Central London 💰 ££ 4,828 reviews" [ref=e3771] [cursor=pointer]:
+        - /url: /restaurant/adyar-ananda-bhavan-a2b-veg-restaurant-yTbu__aU
+        - generic [ref=e3772]:
+          - generic [ref=e3773]:
+            - img "Adyar Ananda Bhavan - A2B Veg Restaurant - british restaurant in Central London" [ref=e3774]
+            - generic [ref=e3777]: 🏆 FSA 5/5
+            - generic [ref=e3779]: ⭐ 4.6
+          - generic [ref=e3780]:
+            - heading "Adyar Ananda Bhavan - A2B Veg Restaurant" [level=3] [ref=e3781]
+            - generic [ref=e3783]: british
+            - paragraph [ref=e3784]: 📍 Central London
+            - paragraph [ref=e3785]: 💰 ££
+            - paragraph [ref=e3786]: 4,828 reviews
+      - link "WAVE - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 WAVE british 📍 Central London 💰 ££ 585 reviews" [ref=e3787] [cursor=pointer]:
+        - /url: /restaurant/wave-ex8ywClg
+        - generic [ref=e3788]:
+          - generic [ref=e3789]:
+            - img "WAVE - british restaurant in Central London" [ref=e3790]
+            - generic [ref=e3793]: 🏆 FSA 5/5
+            - generic [ref=e3795]: ⭐ 4.6
+          - generic [ref=e3796]:
+            - heading "WAVE" [level=3] [ref=e3797]
+            - generic [ref=e3799]: british
+            - paragraph [ref=e3800]: 📍 Central London
+            - paragraph [ref=e3801]: 💰 ££
+            - paragraph [ref=e3802]: 585 reviews
+      - link "Mildreds Dalston - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.6 Mildreds Dalston british 📍 Central London 💰 ££ 1,398 reviews" [ref=e3803] [cursor=pointer]:
+        - /url: /restaurant/mildreds-dalston-694cpGNI
+        - generic [ref=e3804]:
+          - generic [ref=e3805]:
+            - img "Mildreds Dalston - british restaurant in Central London" [ref=e3806]
+            - generic [ref=e3809]: 🏆 FSA 5/5
+            - generic [ref=e3811]: ⭐ 4.6
+          - generic [ref=e3812]:
+            - heading "Mildreds Dalston" [level=3] [ref=e3813]
+            - generic [ref=e3815]: british
+            - paragraph [ref=e3816]: 📍 Central London
+            - paragraph [ref=e3817]: 💰 ££
+            - paragraph [ref=e3818]: 1,398 reviews
+      - link "Gymkhana - indian restaurant in 42 Albemarle St, London 🏆 FSA 5/5 ⭐ 4.5 Gymkhana indian 📍 42 Albemarle St, London 💰 ££££ 2,930 reviews" [ref=e3819] [cursor=pointer]:
+        - /url: /restaurant/gymkhana-uPIWeLM0
+        - generic [ref=e3820]:
+          - generic [ref=e3821]:
+            - img "Gymkhana - indian restaurant in 42 Albemarle St, London" [ref=e3822]
+            - generic [ref=e3825]: 🏆 FSA 5/5
+            - generic [ref=e3827]: ⭐ 4.5
+          - generic [ref=e3828]:
+            - heading "Gymkhana" [level=3] [ref=e3829]
+            - generic [ref=e3831]: indian
+            - paragraph [ref=e3832]: 📍 42 Albemarle St, London
+            - paragraph [ref=e3833]: 💰 ££££
+            - paragraph [ref=e3834]: 2,930 reviews
+      - link "Brigadiers - indian restaurant in 1-5 Bloomberg Arcade, London 🏆 FSA 5/5 ⭐ 4.5 Brigadiers indian 📍 1-5 Bloomberg Arcade, London 💰 £££ 2,796 reviews" [ref=e3835] [cursor=pointer]:
+        - /url: /restaurant/brigadiers-GVEiDv0Y
+        - generic [ref=e3836]:
+          - generic [ref=e3837]:
+            - img "Brigadiers - indian restaurant in 1-5 Bloomberg Arcade, London" [ref=e3838]
+            - generic [ref=e3841]: 🏆 FSA 5/5
+            - generic [ref=e3843]: ⭐ 4.5
+          - generic [ref=e3844]:
+            - heading "Brigadiers" [level=3] [ref=e3845]
+            - generic [ref=e3847]: indian
+            - paragraph [ref=e3848]: 📍 1-5 Bloomberg Arcade, London
+            - paragraph [ref=e3849]: 💰 £££
+            - paragraph [ref=e3850]: 2,796 reviews
+      - link "Zuma London - japanese restaurant in 5 Raphael St, London 🏆 FSA 5/5 ⭐ 4.5 Zuma London japanese 📍 5 Raphael St, London 💰 ££££ 2,748 reviews" [ref=e3851] [cursor=pointer]:
+        - /url: /restaurant/zuma-london-3z813cBw
+        - generic [ref=e3852]:
+          - generic [ref=e3853]:
+            - img "Zuma London - japanese restaurant in 5 Raphael St, London" [ref=e3854]
+            - generic [ref=e3857]: 🏆 FSA 5/5
+            - generic [ref=e3859]: ⭐ 4.5
+          - generic [ref=e3860]:
+            - heading "Zuma London" [level=3] [ref=e3861]
+            - generic [ref=e3863]: japanese
+            - paragraph [ref=e3864]: 📍 5 Raphael St, London
+            - paragraph [ref=e3865]: 💰 ££££
+            - paragraph [ref=e3866]: 2,748 reviews
+      - link "SUSHISAMBA London - modern-european restaurant in Heron Tower, London 🏆 FSA 5/5 ⭐ 4.5 SUSHISAMBA London modern-european 📍 Heron Tower, London 💰 ££££ 12,172 reviews" [ref=e3867] [cursor=pointer]:
+        - /url: /restaurant/sushisamba-london-Ec6MJUBA
+        - generic [ref=e3868]:
+          - generic [ref=e3869]:
+            - img "SUSHISAMBA London - modern-european restaurant in Heron Tower, London" [ref=e3870]
+            - generic [ref=e3873]: 🏆 FSA 5/5
+            - generic [ref=e3875]: ⭐ 4.5
+          - generic [ref=e3876]:
+            - heading "SUSHISAMBA London" [level=3] [ref=e3877]
+            - generic [ref=e3879]: modern-european
+            - paragraph [ref=e3880]: 📍 Heron Tower, London
+            - paragraph [ref=e3881]: 💰 ££££
+            - paragraph [ref=e3882]: 12,172 reviews
+      - link "House of Ming - japanese restaurant in 54 Buckingham Gate, London 🏆 FSA 5/5 ⭐ 4.5 House of Ming japanese 📍 54 Buckingham Gate, London 💰 ££ 255 reviews" [ref=e3883] [cursor=pointer]:
+        - /url: /restaurant/house-of-ming-bmTrCQPc
+        - generic [ref=e3884]:
+          - generic [ref=e3885]:
+            - img "House of Ming - japanese restaurant in 54 Buckingham Gate, London" [ref=e3886]
+            - generic [ref=e3889]: 🏆 FSA 5/5
+            - generic [ref=e3891]: ⭐ 4.5
+          - generic [ref=e3892]:
+            - heading "House of Ming" [level=3] [ref=e3893]
+            - generic [ref=e3895]: japanese
+            - paragraph [ref=e3896]: 📍 54 Buckingham Gate, London
+            - paragraph [ref=e3897]: 💰 ££
+            - paragraph [ref=e3898]: 255 reviews
+      - link "Peacock London - japanese restaurant in County Hall, Westminster Bridge Rd, The Queen's Walk, London 🏆 FSA 5/5 ⭐ 4.5 Peacock London japanese 📍 County Hall, Westminster Bridge Rd, The Queen's Walk, London 💰 ££ 551 reviews" [ref=e3899] [cursor=pointer]:
+        - /url: /restaurant/peacock-london-zg_TLvpA
+        - generic [ref=e3900]:
+          - generic [ref=e3901]:
+            - img "Peacock London - japanese restaurant in County Hall, Westminster Bridge Rd, The Queen's Walk, London" [ref=e3902]
+            - generic [ref=e3905]: 🏆 FSA 5/5
+            - generic [ref=e3907]: ⭐ 4.5
+          - generic [ref=e3908]:
+            - heading "Peacock London" [level=3] [ref=e3909]
+            - generic [ref=e3911]: japanese
+            - paragraph [ref=e3912]: 📍 County Hall, Westminster Bridge Rd, The Queen's Walk, London
+            - paragraph [ref=e3913]: 💰 ££
+            - paragraph [ref=e3914]: 551 reviews
+      - link "The Sichuan Restaurant - japanese restaurant in 14 City Rd, London 🏆 FSA 2/5 ⭐ 4.5 The Sichuan Restaurant japanese 📍 14 City Rd, London 💰 ££ 1,399 reviews" [ref=e3915] [cursor=pointer]:
+        - /url: /restaurant/the-sichuan-restaurant-939Y8L8U
+        - generic [ref=e3916]:
+          - generic [ref=e3917]:
+            - img "The Sichuan Restaurant - japanese restaurant in 14 City Rd, London" [ref=e3918]
+            - generic [ref=e3921]: 🏆 FSA 2/5
+            - generic [ref=e3923]: ⭐ 4.5
+          - generic [ref=e3924]:
+            - heading "The Sichuan Restaurant" [level=3] [ref=e3925]
+            - generic [ref=e3927]: japanese
+            - paragraph [ref=e3928]: 📍 14 City Rd, London
+            - paragraph [ref=e3929]: 💰 ££
+            - paragraph [ref=e3930]: 1,399 reviews
+      - link "Champor-Champor - thai restaurant in 62-64 Weston St, London 🏆 FSA 5/5 ⭐ 4.5 Champor-Champor thai 📍 62-64 Weston St, London 💰 ££ 1,281 reviews" [ref=e3931] [cursor=pointer]:
+        - /url: /restaurant/champor-champor-R9lL4z-M
+        - generic [ref=e3932]:
+          - generic [ref=e3933]:
+            - img "Champor-Champor - thai restaurant in 62-64 Weston St, London" [ref=e3934]
+            - generic [ref=e3937]: 🏆 FSA 5/5
+            - generic [ref=e3939]: ⭐ 4.5
+          - generic [ref=e3940]:
+            - heading "Champor-Champor" [level=3] [ref=e3941]
+            - generic [ref=e3943]: thai
+            - paragraph [ref=e3944]: 📍 62-64 Weston St, London
+            - paragraph [ref=e3945]: 💰 ££
+            - paragraph [ref=e3946]: 1,281 reviews
+      - link "Kin + Deum - thai restaurant in 2 Crucifix Ln, London 🏆 FSA 4/5 ⭐ 4.5 Kin + Deum thai 📍 2 Crucifix Ln, London 💰 ££ 2,543 reviews" [ref=e3947] [cursor=pointer]:
+        - /url: /restaurant/kin-deum-F7uvePWU
+        - generic [ref=e3948]:
+          - generic [ref=e3949]:
+            - img "Kin + Deum - thai restaurant in 2 Crucifix Ln, London" [ref=e3950]
+            - generic [ref=e3953]: 🏆 FSA 4/5
+            - generic [ref=e3955]: ⭐ 4.5
+          - generic [ref=e3956]:
+            - heading "Kin + Deum" [level=3] [ref=e3957]
+            - generic [ref=e3959]: thai
+            - paragraph [ref=e3960]: 📍 2 Crucifix Ln, London
+            - paragraph [ref=e3961]: 💰 ££
+            - paragraph [ref=e3962]: 2,543 reviews
+      - link "Gökyüzü Green Lanes - modern-european restaurant in 26-28 Grand Parade, Green Lanes, London 🏆 FSA 5/5 ⭐ 4.5 Gökyüzü Green Lanes modern-european 📍 26-28 Grand Parade, Green Lanes, London 💰 ££ 6,234 reviews" [ref=e3963] [cursor=pointer]:
+        - /url: /restaurant/gkyz-green-lanes-y26cz5pA
+        - generic [ref=e3964]:
+          - generic [ref=e3965]:
+            - img "Gökyüzü Green Lanes - modern-european restaurant in 26-28 Grand Parade, Green Lanes, London" [ref=e3966]
+            - generic [ref=e3969]: 🏆 FSA 5/5
+            - generic [ref=e3971]: ⭐ 4.5
+          - generic [ref=e3972]:
+            - heading "Gökyüzü Green Lanes" [level=3] [ref=e3973]
+            - generic [ref=e3975]: modern-european
+            - paragraph [ref=e3976]: 📍 26-28 Grand Parade, Green Lanes, London
+            - paragraph [ref=e3977]: 💰 ££
+            - paragraph [ref=e3978]: 6,234 reviews
+      - link "Antalya - turkish restaurant in 103-105 Southampton Row, London 🏆 FSA 5/5 ⭐ 4.5 Antalya turkish 📍 103-105 Southampton Row, London 💰 ££ 2,725 reviews" [ref=e3979] [cursor=pointer]:
+        - /url: /restaurant/antalya-bGIr-qxs
+        - generic [ref=e3980]:
+          - generic [ref=e3981]:
+            - img "Antalya - turkish restaurant in 103-105 Southampton Row, London" [ref=e3982]
+            - generic [ref=e3985]: 🏆 FSA 5/5
+            - generic [ref=e3987]: ⭐ 4.5
+          - generic [ref=e3988]:
+            - heading "Antalya" [level=3] [ref=e3989]
+            - generic [ref=e3991]: turkish
+            - paragraph [ref=e3992]: 📍 103-105 Southampton Row, London
+            - paragraph [ref=e3993]: 💰 ££
+            - paragraph [ref=e3994]: 2,725 reviews
+      - link "Brasserie Zedel - modern-european restaurant in Twenty Air Street, 20 Sherwood St, London 🏆 FSA 5/5 ⭐ 4.5 Brasserie Zedel modern-european 📍 Twenty Air Street, 20 Sherwood St, London 💰 ££ 9,472 reviews" [ref=e3995] [cursor=pointer]:
+        - /url: /restaurant/brasserie-zedel-Qt3pySRI
+        - generic [ref=e3996]:
+          - generic [ref=e3997]:
+            - img "Brasserie Zedel - modern-european restaurant in Twenty Air Street, 20 Sherwood St, London" [ref=e3998]
+            - generic [ref=e4001]: 🏆 FSA 5/5
+            - generic [ref=e4003]: ⭐ 4.5
+          - generic [ref=e4004]:
+            - heading "Brasserie Zedel" [level=3] [ref=e4005]
+            - generic [ref=e4007]: modern-european
+            - paragraph [ref=e4008]: 📍 Twenty Air Street, 20 Sherwood St, London
+            - paragraph [ref=e4009]: 💰 ££
+            - paragraph [ref=e4010]: 9,472 reviews
+      - link "L'Escargot Restaurant - french restaurant in 48 Greek St, London 🏆 FSA 5/5 ⭐ 4.5 L'Escargot Restaurant french 📍 48 Greek St, London 💰 £££ 1,115 reviews" [ref=e4011] [cursor=pointer]:
+        - /url: /restaurant/lescargot-restaurant-DRcOlpog
+        - generic [ref=e4012]:
+          - generic [ref=e4013]:
+            - img "L'Escargot Restaurant - french restaurant in 48 Greek St, London" [ref=e4014]
+            - generic [ref=e4017]: 🏆 FSA 5/5
+            - generic [ref=e4019]: ⭐ 4.5
+          - generic [ref=e4020]:
+            - heading "L'Escargot Restaurant" [level=3] [ref=e4021]
+            - generic [ref=e4023]: french
+            - paragraph [ref=e4024]: 📍 48 Greek St, London
+            - paragraph [ref=e4025]: 💰 £££
+            - paragraph [ref=e4026]: 1,115 reviews
+      - link "Maison François - french restaurant in 34 Duke Street St James's, London 🏆 FSA 5/5 ⭐ 4.5 Maison François french 📍 34 Duke Street St James's, London 💰 ££ 1,084 reviews" [ref=e4027] [cursor=pointer]:
+        - /url: /restaurant/maison-franois-E2yC1YJY
+        - generic [ref=e4028]:
+          - generic [ref=e4029]:
+            - img "Maison François - french restaurant in 34 Duke Street St James's, London" [ref=e4030]
+            - generic [ref=e4033]: 🏆 FSA 5/5
+            - generic [ref=e4035]: ⭐ 4.5
+          - generic [ref=e4036]:
+            - heading "Maison François" [level=3] [ref=e4037]
+            - generic [ref=e4039]: french
+            - paragraph [ref=e4040]: 📍 34 Duke Street St James's, London
+            - paragraph [ref=e4041]: 💰 ££
+            - paragraph [ref=e4042]: 1,084 reviews
+      - link "Clos Maggiore - french restaurant in 33 King St, London 🏆 FSA 4/5 ⭐ 4.5 Clos Maggiore french 📍 33 King St, London 💰 £££ 2,719 reviews" [ref=e4043] [cursor=pointer]:
+        - /url: /restaurant/clos-maggiore-KheUNnC4
+        - generic [ref=e4044]:
+          - generic [ref=e4045]:
+            - img "Clos Maggiore - french restaurant in 33 King St, London" [ref=e4046]
+            - generic [ref=e4049]: 🏆 FSA 4/5
+            - generic [ref=e4051]: ⭐ 4.5
+          - generic [ref=e4052]:
+            - heading "Clos Maggiore" [level=3] [ref=e4053]
+            - generic [ref=e4055]: french
+            - paragraph [ref=e4056]: 📍 33 King St, London
+            - paragraph [ref=e4057]: 💰 £££
+            - paragraph [ref=e4058]: 2,719 reviews
+      - link "La Gamba - Spanish Tapas Bar & Restaurant - british restaurant in Unit 3, Royal Festival Hall, Southbank Centre, Waterloo Campus, London 🏆 FSA 5/5 ⭐ 4.5 La Gamba - Spanish Tapas Bar & Restaurant british 📍 Unit 3, Royal Festival Hall, Southbank Centre, Waterloo Campus, London 💰 ££ 1,208 reviews" [ref=e4059] [cursor=pointer]:
+        - /url: /restaurant/la-gamba-spanish-tapas-bar-restaurant-7T6hRrh8
+        - generic [ref=e4060]:
+          - generic [ref=e4061]:
+            - img "La Gamba - Spanish Tapas Bar & Restaurant - british restaurant in Unit 3, Royal Festival Hall, Southbank Centre, Waterloo Campus, London" [ref=e4062]
+            - generic [ref=e4065]: 🏆 FSA 5/5
+            - generic [ref=e4067]: ⭐ 4.5
+          - generic [ref=e4068]:
+            - heading "La Gamba - Spanish Tapas Bar & Restaurant" [level=3] [ref=e4069]
+            - generic [ref=e4071]: british
+            - paragraph [ref=e4072]: 📍 Unit 3, Royal Festival Hall, Southbank Centre, Waterloo Campus, London
+            - paragraph [ref=e4073]: 💰 ££
+            - paragraph [ref=e4074]: 1,208 reviews
+      - link "Arang Restaurant - korean restaurant in 9 Golden Square, London 🏆 FSA 3/5 ⭐ 4.5 Arang Restaurant korean 📍 9 Golden Square, London 💰 ££ 2,354 reviews" [ref=e4075] [cursor=pointer]:
+        - /url: /restaurant/arang-restaurant-zi1Jg4Ec
+        - generic [ref=e4076]:
+          - generic [ref=e4077]:
+            - img "Arang Restaurant - korean restaurant in 9 Golden Square, London" [ref=e4078]
+            - generic [ref=e4081]: 🏆 FSA 3/5
+            - generic [ref=e4083]: ⭐ 4.5
+          - generic [ref=e4084]:
+            - heading "Arang Restaurant" [level=3] [ref=e4085]
+            - generic [ref=e4087]: korean
+            - paragraph [ref=e4088]: 📍 9 Golden Square, London
+            - paragraph [ref=e4089]: 💰 ££
+            - paragraph [ref=e4090]: 2,354 reviews
+      - link "Korean Dinner Party - korean restaurant in Top Floor, Kingly Ct, London 🏆 FSA 4/5 ⭐ 4.5 Korean Dinner Party korean 📍 Top Floor, Kingly Ct, London 💰 ££ 1,723 reviews" [ref=e4091] [cursor=pointer]:
+        - /url: /restaurant/korean-dinner-party-ymMXVjzE
+        - generic [ref=e4092]:
+          - generic [ref=e4093]:
+            - img "Korean Dinner Party - korean restaurant in Top Floor, Kingly Ct, London" [ref=e4094]
+            - generic [ref=e4097]: 🏆 FSA 4/5
+            - generic [ref=e4099]: ⭐ 4.5
+          - generic [ref=e4100]:
+            - heading "Korean Dinner Party" [level=3] [ref=e4101]
+            - generic [ref=e4103]: korean
+            - paragraph [ref=e4104]: 📍 Top Floor, Kingly Ct, London
+            - paragraph [ref=e4105]: 💰 ££
+            - paragraph [ref=e4106]: 1,723 reviews
+      - link "YORI Piccadilly Circus Korean BBQ - korean restaurant in 6 Panton St, London 🏆 FSA 5/5 ⭐ 4.5 YORI Piccadilly Circus Korean BBQ korean 📍 6 Panton St, London 💰 ££ 5,304 reviews" [ref=e4107] [cursor=pointer]:
+        - /url: /restaurant/yori-piccadilly-circus-korean-bbq-Hpzadwok
+        - generic [ref=e4108]:
+          - generic [ref=e4109]:
+            - img "YORI Piccadilly Circus Korean BBQ - korean restaurant in 6 Panton St, London" [ref=e4110]
+            - generic [ref=e4113]: 🏆 FSA 5/5
+            - generic [ref=e4115]: ⭐ 4.5
+          - generic [ref=e4116]:
+            - heading "YORI Piccadilly Circus Korean BBQ" [level=3] [ref=e4117]
+            - generic [ref=e4119]: korean
+            - paragraph [ref=e4120]: 📍 6 Panton St, London
+            - paragraph [ref=e4121]: 💰 ££
+            - paragraph [ref=e4122]: 5,304 reviews
+      - link "Mestizo Mexican Restaurant & Tequila Bar - mexican restaurant in 103 Hampstead Rd, London 🏆 FSA 5/5 ⭐ 4.5 Mestizo Mexican Restaurant & Tequila Bar mexican 📍 103 Hampstead Rd, London 💰 ££ 6,574 reviews" [ref=e4123] [cursor=pointer]:
+        - /url: /restaurant/mestizo-mexican-restaurant-tequila-bar-QZ7xnYy8
+        - generic [ref=e4124]:
+          - generic [ref=e4125]:
+            - img "Mestizo Mexican Restaurant & Tequila Bar - mexican restaurant in 103 Hampstead Rd, London" [ref=e4126]
+            - generic [ref=e4129]: 🏆 FSA 5/5
+            - generic [ref=e4131]: ⭐ 4.5
+          - generic [ref=e4132]:
+            - heading "Mestizo Mexican Restaurant & Tequila Bar" [level=3] [ref=e4133]
+            - generic [ref=e4135]: mexican
+            - paragraph [ref=e4136]: 📍 103 Hampstead Rd, London
+            - paragraph [ref=e4137]: 💰 ££
+            - paragraph [ref=e4138]: 6,574 reviews
+      - link "Wahaca Covent Garden - mexican restaurant in 66 Chandos Pl, London 🏆 FSA 5/5 ⭐ 4.5 Wahaca Covent Garden mexican 📍 66 Chandos Pl, London 💰 ££ 6,349 reviews" [ref=e4139] [cursor=pointer]:
+        - /url: /restaurant/wahaca-covent-garden-WBJ_l_cY
+        - generic [ref=e4140]:
+          - generic [ref=e4141]:
+            - img "Wahaca Covent Garden - mexican restaurant in 66 Chandos Pl, London" [ref=e4142]
+            - generic [ref=e4145]: 🏆 FSA 5/5
+            - generic [ref=e4147]: ⭐ 4.5
+          - generic [ref=e4148]:
+            - heading "Wahaca Covent Garden" [level=3] [ref=e4149]
+            - generic [ref=e4151]: mexican
+            - paragraph [ref=e4152]: 📍 66 Chandos Pl, London
+            - paragraph [ref=e4153]: 💰 ££
+            - paragraph [ref=e4154]: 6,349 reviews
+      - link "Los Mochis London City - spanish restaurant in Liverpool Street Station, 100 Liverpool St, London 🏆 FSA 5/5 ⭐ 4.5 Los Mochis London City spanish 📍 Liverpool Street Station, 100 Liverpool St, London 💰 ££ 2,353 reviews" [ref=e4155] [cursor=pointer]:
+        - /url: /restaurant/los-mochis-london-city-lFrOzbg8
+        - generic [ref=e4156]:
+          - generic [ref=e4157]:
+            - img "Los Mochis London City - spanish restaurant in Liverpool Street Station, 100 Liverpool St, London" [ref=e4158]
+            - generic [ref=e4161]: 🏆 FSA 5/5
+            - generic [ref=e4163]: ⭐ 4.5
+          - generic [ref=e4164]:
+            - heading "Los Mochis London City" [level=3] [ref=e4165]
+            - generic [ref=e4167]: spanish
+            - paragraph [ref=e4168]: 📍 Liverpool Street Station, 100 Liverpool St, London
+            - paragraph [ref=e4169]: 💰 ££
+            - paragraph [ref=e4170]: 2,353 reviews
+      - link "The Banc - british restaurant in 261-263 W Green Rd, London 🏆 FSA 5/5 ⭐ 4.5 The Banc british 📍 261-263 W Green Rd, London 💰 ££ 5,228 reviews" [ref=e4171] [cursor=pointer]:
+        - /url: /restaurant/the-banc-utGnHGsQ
+        - generic [ref=e4172]:
+          - generic [ref=e4173]:
+            - img "The Banc - british restaurant in 261-263 W Green Rd, London" [ref=e4174]
+            - generic [ref=e4177]: 🏆 FSA 5/5
+            - generic [ref=e4179]: ⭐ 4.5
+          - generic [ref=e4180]:
+            - heading "The Banc" [level=3] [ref=e4181]
+            - generic [ref=e4183]: british
+            - paragraph [ref=e4184]: 📍 261-263 W Green Rd, London
+            - paragraph [ref=e4185]: 💰 ££
+            - paragraph [ref=e4186]: 5,228 reviews
+      - link "Steak and Company - Covent Garden - british restaurant in 4-6 Garrick St, London 🏆 FSA 5/5 ⭐ 4.5 Steak and Company - Covent Garden british 📍 4-6 Garrick St, London 💰 ££ 3,374 reviews" [ref=e4187] [cursor=pointer]:
+        - /url: /restaurant/steak-and-company-covent-garden-w3R08uas
+        - generic [ref=e4188]:
+          - generic [ref=e4189]:
+            - img "Steak and Company - Covent Garden - british restaurant in 4-6 Garrick St, London" [ref=e4190]
+            - generic [ref=e4193]: 🏆 FSA 5/5
+            - generic [ref=e4195]: ⭐ 4.5
+          - generic [ref=e4196]:
+            - heading "Steak and Company - Covent Garden" [level=3] [ref=e4197]
+            - generic [ref=e4199]: british
+            - paragraph [ref=e4200]: 📍 4-6 Garrick St, London
+            - paragraph [ref=e4201]: 💰 ££
+            - paragraph [ref=e4202]: 3,374 reviews
+      - link "Hélène Darroze at The Connaught - british restaurant in The Connaught, Carlos Pl, London 🏆 FSA 5/5 ⭐ 4.5 Hélène Darroze at The Connaught british 📍 The Connaught, Carlos Pl, London 💰 ££££ 841 reviews" [ref=e4203] [cursor=pointer]:
+        - /url: /restaurant/hlne-darroze-at-the-connaught-iqGlL6Ek
+        - generic [ref=e4204]:
+          - generic [ref=e4205]:
+            - img "Hélène Darroze at The Connaught - british restaurant in The Connaught, Carlos Pl, London" [ref=e4206]
+            - generic [ref=e4209]: 🏆 FSA 5/5
+            - generic [ref=e4211]: ⭐ 4.5
+          - generic [ref=e4212]:
+            - heading "Hélène Darroze at The Connaught" [level=3] [ref=e4213]
+            - generic [ref=e4215]: british
+            - paragraph [ref=e4216]: 📍 The Connaught, Carlos Pl, London
+            - paragraph [ref=e4217]: 💰 ££££
+            - paragraph [ref=e4218]: 841 reviews
+      - link "HIDE - french restaurant in 85 Piccadilly, London 🏆 FSA 5/5 ⭐ 4.5 HIDE french 📍 85 Piccadilly, London 💰 ££££ 4,270 reviews" [ref=e4219] [cursor=pointer]:
+        - /url: /restaurant/hide-Yk4IWd64
+        - generic [ref=e4220]:
+          - generic [ref=e4221]:
+            - img "HIDE - french restaurant in 85 Piccadilly, London" [ref=e4222]
+            - generic [ref=e4225]: 🏆 FSA 5/5
+            - generic [ref=e4227]: ⭐ 4.5
+          - generic [ref=e4228]:
+            - heading "HIDE" [level=3] [ref=e4229]
+            - generic [ref=e4231]: french
+            - paragraph [ref=e4232]: 📍 85 Piccadilly, London
+            - paragraph [ref=e4233]: 💰 ££££
+            - paragraph [ref=e4234]: 4,270 reviews
+      - link "Old Queen Street Cafe - mediterranean restaurant in 6 Old Queen St, London 🏆 FSA 5/5 ⭐ 4.5 Old Queen Street Cafe mediterranean 📍 6 Old Queen St, London 💰 ££ 623 reviews" [ref=e4235] [cursor=pointer]:
+        - /url: /restaurant/old-queen-street-cafe-jLo7iASU
+        - generic [ref=e4236]:
+          - generic [ref=e4237]:
+            - img "Old Queen Street Cafe - mediterranean restaurant in 6 Old Queen St, London" [ref=e4238]
+            - generic [ref=e4241]: 🏆 FSA 5/5
+            - generic [ref=e4243]: ⭐ 4.5
+          - generic [ref=e4244]:
+            - heading "Old Queen Street Cafe" [level=3] [ref=e4245]
+            - generic [ref=e4247]: mediterranean
+            - paragraph [ref=e4248]: 📍 6 Old Queen St, London
+            - paragraph [ref=e4249]: 💰 ££
+            - paragraph [ref=e4250]: 623 reviews
+      - link "Monmouth Coffee Company - mediterranean restaurant in The Riverside Bldg, 27 Monmouth St, London 🏆 FSA 5/5 ⭐ 4.5 Monmouth Coffee Company mediterranean 📍 The Riverside Bldg, 27 Monmouth St, London 💰 ££ 3,508 reviews" [ref=e4251] [cursor=pointer]:
+        - /url: /restaurant/monmouth-coffee-company-r9wFYz4g
+        - generic [ref=e4252]:
+          - generic [ref=e4253]:
+            - img "Monmouth Coffee Company - mediterranean restaurant in The Riverside Bldg, 27 Monmouth St, London" [ref=e4254]
+            - generic [ref=e4257]: 🏆 FSA 5/5
+            - generic [ref=e4259]: ⭐ 4.5
+          - generic [ref=e4260]:
+            - heading "Monmouth Coffee Company" [level=3] [ref=e4261]
+            - generic [ref=e4263]: mediterranean
+            - paragraph [ref=e4264]: 📍 The Riverside Bldg, 27 Monmouth St, London
+            - paragraph [ref=e4265]: 💰 ££
+            - paragraph [ref=e4266]: 3,508 reviews
+      - link "The Little Scarlet Door - mediterranean restaurant in 12-13 Greek St, London 🏆 FSA 4/5 ⭐ 4.5 The Little Scarlet Door mediterranean 📍 12-13 Greek St, London 💰 ££ 1,767 reviews" [ref=e4267] [cursor=pointer]:
+        - /url: /restaurant/the-little-scarlet-door-tCxbuFiY
+        - generic [ref=e4268]:
+          - generic [ref=e4269]:
+            - img "The Little Scarlet Door - mediterranean restaurant in 12-13 Greek St, London" [ref=e4270]
+            - generic [ref=e4273]: 🏆 FSA 4/5
+            - generic [ref=e4275]: ⭐ 4.5
+          - generic [ref=e4276]:
+            - heading "The Little Scarlet Door" [level=3] [ref=e4277]
+            - generic [ref=e4279]: mediterranean
+            - paragraph [ref=e4280]: 📍 12-13 Greek St, London
+            - paragraph [ref=e4281]: 💰 ££
+            - paragraph [ref=e4282]: 1,767 reviews
+      - link "Wagtail - mediterranean restaurant in HOUSE OF FRASER, Underground Ltd, 68 King William St, London 🏆 FSA 5/5 ⭐ 4.5 Wagtail mediterranean 📍 HOUSE OF FRASER, Underground Ltd, 68 King William St, London 💰 ££ 1,269 reviews" [ref=e4283] [cursor=pointer]:
+        - /url: /restaurant/wagtail-Y-XRbe7Q
+        - generic [ref=e4284]:
+          - generic [ref=e4285]:
+            - img "Wagtail - mediterranean restaurant in HOUSE OF FRASER, Underground Ltd, 68 King William St, London" [ref=e4286]
+            - generic [ref=e4289]: 🏆 FSA 5/5
+            - generic [ref=e4291]: ⭐ 4.5
+          - generic [ref=e4292]:
+            - heading "Wagtail" [level=3] [ref=e4293]
+            - generic [ref=e4295]: mediterranean
+            - paragraph [ref=e4296]: 📍 HOUSE OF FRASER, Underground Ltd, 68 King William St, London
+            - paragraph [ref=e4297]: 💰 ££
+            - paragraph [ref=e4298]: 1,269 reviews
+      - link "Señor Ceviche Peruvian Restaurant Soho - british restaurant in Kingly Court, London 🏆 FSA 5/5 ⭐ 4.5 Señor Ceviche Peruvian Restaurant Soho british 📍 Kingly Court, London 💰 ££ 2,694 reviews" [ref=e4299] [cursor=pointer]:
+        - /url: /restaurant/seor-ceviche-peruvian-restaurant-soho-_jxtt_WE
+        - generic [ref=e4300]:
+          - generic [ref=e4301]:
+            - img "Señor Ceviche Peruvian Restaurant Soho - british restaurant in Kingly Court, London" [ref=e4302]
+            - generic [ref=e4305]: 🏆 FSA 5/5
+            - generic [ref=e4307]: ⭐ 4.5
+          - generic [ref=e4308]:
+            - heading "Señor Ceviche Peruvian Restaurant Soho" [level=3] [ref=e4309]
+            - generic [ref=e4311]: british
+            - paragraph [ref=e4312]: 📍 Kingly Court, London
+            - paragraph [ref=e4313]: 💰 ££
+            - paragraph [ref=e4314]: 2,694 reviews
+      - link "SMOKESTAK - british restaurant in 35 Sclater St, London 🏆 FSA 5/5 ⭐ 4.5 SMOKESTAK british 📍 35 Sclater St, London 💰 ££ 4,863 reviews" [ref=e4315] [cursor=pointer]:
+        - /url: /restaurant/smokestak-yhTLOh_I
+        - generic [ref=e4316]:
+          - generic [ref=e4317]:
+            - img "SMOKESTAK - british restaurant in 35 Sclater St, London" [ref=e4318]
+            - generic [ref=e4321]: 🏆 FSA 5/5
+            - generic [ref=e4323]: ⭐ 4.5
+          - generic [ref=e4324]:
+            - heading "SMOKESTAK" [level=3] [ref=e4325]
+            - generic [ref=e4327]: british
+            - paragraph [ref=e4328]: 📍 35 Sclater St, London
+            - paragraph [ref=e4329]: 💰 ££
+            - paragraph [ref=e4330]: 4,863 reviews
+      - link "Da Mario Covent Garden - italian restaurant in Latchfords Yard, 63 Endell St, London 🏆 FSA 5/5 ⭐ 4.5 Da Mario Covent Garden italian 📍 Latchfords Yard, 63 Endell St, London 💰 ££ 1,168 reviews" [ref=e4331] [cursor=pointer]:
+        - /url: /restaurant/da-mario-covent-garden-q8BVXFeg
+        - generic [ref=e4332]:
+          - generic [ref=e4333]:
+            - img "Da Mario Covent Garden - italian restaurant in Latchfords Yard, 63 Endell St, London" [ref=e4334]
+            - generic [ref=e4337]: 🏆 FSA 5/5
+            - generic [ref=e4339]: ⭐ 4.5
+          - generic [ref=e4340]:
+            - heading "Da Mario Covent Garden" [level=3] [ref=e4341]
+            - generic [ref=e4343]: italian
+            - paragraph [ref=e4344]: 📍 Latchfords Yard, 63 Endell St, London
+            - paragraph [ref=e4345]: 💰 ££
+            - paragraph [ref=e4346]: 1,168 reviews
+      - link "Gold - british restaurant in 95-97 Portobello Rd, London 🏆 FSA 5/5 ⭐ 4.5 Gold british 📍 95-97 Portobello Rd, London 💰 ££ 2,194 reviews" [ref=e4347] [cursor=pointer]:
+        - /url: /restaurant/gold-HB07QwLA
+        - generic [ref=e4348]:
+          - generic [ref=e4349]:
+            - img "Gold - british restaurant in 95-97 Portobello Rd, London" [ref=e4350]
+            - generic [ref=e4353]: 🏆 FSA 5/5
+            - generic [ref=e4355]: ⭐ 4.5
+          - generic [ref=e4356]:
+            - heading "Gold" [level=3] [ref=e4357]
+            - generic [ref=e4359]: british
+            - paragraph [ref=e4360]: 📍 95-97 Portobello Rd, London
+            - paragraph [ref=e4361]: 💰 ££
+            - paragraph [ref=e4362]: 2,194 reviews
+      - link "Brera Lounge - british restaurant in Cabot Square, 15 Cabot Sq, London 🏆 FSA 5/5 ⭐ 4.5 Brera Lounge british 📍 Cabot Square, 15 Cabot Sq, London 💰 ££ 1,096 reviews" [ref=e4363] [cursor=pointer]:
+        - /url: /restaurant/brera-lounge-X1welfDY
+        - generic [ref=e4364]:
+          - generic [ref=e4365]:
+            - img "Brera Lounge - british restaurant in Cabot Square, 15 Cabot Sq, London" [ref=e4366]
+            - generic [ref=e4369]: 🏆 FSA 5/5
+            - generic [ref=e4371]: ⭐ 4.5
+          - generic [ref=e4372]:
+            - heading "Brera Lounge" [level=3] [ref=e4373]
+            - generic [ref=e4375]: british
+            - paragraph [ref=e4376]: 📍 Cabot Square, 15 Cabot Sq, London
+            - paragraph [ref=e4377]: 💰 ££
+            - paragraph [ref=e4378]: 1,096 reviews
+      - link "Grounded London - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.5 Grounded London british 📍 Tower Hamlets 💰 ££ 3,782 reviews" [ref=e4379] [cursor=pointer]:
+        - /url: /restaurant/grounded-london-3eKI7-vM
+        - generic [ref=e4380]:
+          - generic [ref=e4381]:
+            - img "Grounded London - british restaurant in Tower Hamlets" [ref=e4382]
+            - generic [ref=e4385]: 🏆 FSA 5/5
+            - generic [ref=e4387]: ⭐ 4.5
+          - generic [ref=e4388]:
+            - heading "Grounded London" [level=3] [ref=e4389]
+            - generic [ref=e4391]: british
+            - paragraph [ref=e4392]: 📍 Tower Hamlets
+            - paragraph [ref=e4393]: 💰 ££
+            - paragraph [ref=e4394]: 3,782 reviews
+      - link "Enigma Pan Asian - modern-european restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.5 Enigma Pan Asian modern-european 📍 Redbridge 💰 ££ 1,343 reviews" [ref=e4395] [cursor=pointer]:
+        - /url: /restaurant/enigma-pan-asian-KJ5nzgXM
+        - generic [ref=e4396]:
+          - generic [ref=e4397]:
+            - img "Enigma Pan Asian - modern-european restaurant in Redbridge" [ref=e4398]
+            - generic [ref=e4401]: 🏆 FSA 5/5
+            - generic [ref=e4403]: ⭐ 4.5
+          - generic [ref=e4404]:
+            - heading "Enigma Pan Asian" [level=3] [ref=e4405]
+            - generic [ref=e4407]: modern-european
+            - paragraph [ref=e4408]: 📍 Redbridge
+            - paragraph [ref=e4409]: 💰 ££
+            - paragraph [ref=e4410]: 1,343 reviews
+      - link "The Connaught - british restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.5 The Connaught british 📍 Redbridge 💰 ££ 1,163 reviews" [ref=e4411] [cursor=pointer]:
+        - /url: /restaurant/the-connaught-PQ9x2fZo
+        - generic [ref=e4412]:
+          - generic [ref=e4413]:
+            - img "The Connaught - british restaurant in Redbridge" [ref=e4414]
+            - generic [ref=e4417]: 🏆 FSA 4/5
+            - generic [ref=e4419]: ⭐ 4.5
+          - generic [ref=e4420]:
+            - heading "The Connaught" [level=3] [ref=e4421]
+            - generic [ref=e4423]: british
+            - paragraph [ref=e4424]: 📍 Redbridge
+            - paragraph [ref=e4425]: 💰 ££
+            - paragraph [ref=e4426]: 1,163 reviews
+      - link "restaurant favorit - british restaurant in Redbridge 🏆 FSA 1/5 ⭐ 4.5 restaurant favorit british 📍 Redbridge 💰 ££ 120 reviews" [ref=e4427] [cursor=pointer]:
+        - /url: /restaurant/restaurant-favorit-QhO1f3cs
+        - generic [ref=e4428]:
+          - generic [ref=e4429]:
+            - img "restaurant favorit - british restaurant in Redbridge" [ref=e4430]
+            - generic [ref=e4433]: 🏆 FSA 1/5
+            - generic [ref=e4435]: ⭐ 4.5
+          - generic [ref=e4436]:
+            - heading "restaurant favorit" [level=3] [ref=e4437]
+            - generic [ref=e4439]: british
+            - paragraph [ref=e4440]: 📍 Redbridge
+            - paragraph [ref=e4441]: 💰 ££
+            - paragraph [ref=e4442]: 120 reviews
+      - link "Franzos Ilford - british restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.5 Franzos Ilford british 📍 Redbridge 💰 £ 5,440 reviews" [ref=e4443] [cursor=pointer]:
+        - /url: /restaurant/franzos-ilford-oL4KwUss
+        - generic [ref=e4444]:
+          - generic [ref=e4445]:
+            - img "Franzos Ilford - british restaurant in Redbridge" [ref=e4446]
+            - generic [ref=e4449]: 🏆 FSA 5/5
+            - generic [ref=e4451]: ⭐ 4.5
+          - generic [ref=e4452]:
+            - heading "Franzos Ilford" [level=3] [ref=e4453]
+            - generic [ref=e4455]: british
+            - paragraph [ref=e4456]: 📍 Redbridge
+            - paragraph [ref=e4457]: 💰 £
+            - paragraph [ref=e4458]: 5,440 reviews
+      - link "Naan Staap - british restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.5 Naan Staap british 📍 Redbridge 💰 £ 714 reviews" [ref=e4459] [cursor=pointer]:
+        - /url: /restaurant/naan-staap-X_MVkgQI
+        - generic [ref=e4460]:
+          - generic [ref=e4461]:
+            - img "Naan Staap - british restaurant in Redbridge" [ref=e4462]
+            - generic [ref=e4465]: 🏆 FSA 5/5
+            - generic [ref=e4467]: ⭐ 4.5
+          - generic [ref=e4468]:
+            - heading "Naan Staap" [level=3] [ref=e4469]
+            - generic [ref=e4471]: british
+            - paragraph [ref=e4472]: 📍 Redbridge
+            - paragraph [ref=e4473]: 💰 £
+            - paragraph [ref=e4474]: 714 reviews
+      - link "Braza Churrascaria Rodizio - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.5 Braza Churrascaria Rodizio british 📍 Havering 💰 ££ 2,313 reviews" [ref=e4475] [cursor=pointer]:
+        - /url: /restaurant/braza-churrascaria-rodizio-OXjEO9OI
+        - generic [ref=e4476]:
+          - generic [ref=e4477]:
+            - img "Braza Churrascaria Rodizio - british restaurant in Havering" [ref=e4478]
+            - generic [ref=e4481]: 🏆 FSA 5/5
+            - generic [ref=e4483]: ⭐ 4.5
+          - generic [ref=e4484]:
+            - heading "Braza Churrascaria Rodizio" [level=3] [ref=e4485]
+            - generic [ref=e4487]: british
+            - paragraph [ref=e4488]: 📍 Havering
+            - paragraph [ref=e4489]: 💰 ££
+            - paragraph [ref=e4490]: 2,313 reviews
+      - link "Mangal Meze Restaurant - modern-european restaurant in Havering 🏆 FSA 5/5 ⭐ 4.5 Mangal Meze Restaurant modern-european 📍 Havering 💰 £ 1,729 reviews" [ref=e4491] [cursor=pointer]:
+        - /url: /restaurant/mangal-meze-restaurant-GM8O0cdQ
+        - generic [ref=e4492]:
+          - generic [ref=e4493]:
+            - img "Mangal Meze Restaurant - modern-european restaurant in Havering" [ref=e4494]
+            - generic [ref=e4497]: 🏆 FSA 5/5
+            - generic [ref=e4499]: ⭐ 4.5
+          - generic [ref=e4500]:
+            - heading "Mangal Meze Restaurant" [level=3] [ref=e4501]
+            - generic [ref=e4503]: modern-european
+            - paragraph [ref=e4504]: 📍 Havering
+            - paragraph [ref=e4505]: 💰 £
+            - paragraph [ref=e4506]: 1,729 reviews
+      - link "Meteor Meze & Grill Restaurant - modern-european restaurant in Havering 🏆 FSA 5/5 ⭐ 4.5 Meteor Meze & Grill Restaurant modern-european 📍 Havering 💰 ££ 60 reviews" [ref=e4507] [cursor=pointer]:
+        - /url: /restaurant/meteor-meze-grill-restaurant-Ex6mdNjY
+        - generic [ref=e4508]:
+          - generic [ref=e4509]:
+            - img "Meteor Meze & Grill Restaurant - modern-european restaurant in Havering" [ref=e4510]
+            - generic [ref=e4513]: 🏆 FSA 5/5
+            - generic [ref=e4515]: ⭐ 4.5
+          - generic [ref=e4516]:
+            - heading "Meteor Meze & Grill Restaurant" [level=3] [ref=e4517]
+            - generic [ref=e4519]: modern-european
+            - paragraph [ref=e4520]: 📍 Havering
+            - paragraph [ref=e4521]: 💰 ££
+            - paragraph [ref=e4522]: 60 reviews
+      - link "Sunrise Lutong Bahay - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.5 Sunrise Lutong Bahay british 📍 Havering 💰 ££ 243 reviews" [ref=e4523] [cursor=pointer]:
+        - /url: /restaurant/sunrise-lutong-bahay-8tqLbvro
+        - generic [ref=e4524]:
+          - generic [ref=e4525]:
+            - img "Sunrise Lutong Bahay - british restaurant in Havering" [ref=e4526]
+            - generic [ref=e4529]: 🏆 FSA 5/5
+            - generic [ref=e4531]: ⭐ 4.5
+          - generic [ref=e4532]:
+            - heading "Sunrise Lutong Bahay" [level=3] [ref=e4533]
+            - generic [ref=e4535]: british
+            - paragraph [ref=e4536]: 📍 Havering
+            - paragraph [ref=e4537]: 💰 ££
+            - paragraph [ref=e4538]: 243 reviews
+      - link "The Yummy Greek - modern-european restaurant in Havering 🏆 FSA 3/5 ⭐ 4.5 The Yummy Greek modern-european 📍 Havering 💰 ££ 485 reviews" [ref=e4539] [cursor=pointer]:
+        - /url: /restaurant/the-yummy-greek-qTwkSrCU
+        - generic [ref=e4540]:
+          - generic [ref=e4541]:
+            - img "The Yummy Greek - modern-european restaurant in Havering" [ref=e4542]
+            - generic [ref=e4545]: 🏆 FSA 3/5
+            - generic [ref=e4547]: ⭐ 4.5
+          - generic [ref=e4548]:
+            - heading "The Yummy Greek" [level=3] [ref=e4549]
+            - generic [ref=e4551]: modern-european
+            - paragraph [ref=e4552]: 📍 Havering
+            - paragraph [ref=e4553]: 💰 ££
+            - paragraph [ref=e4554]: 485 reviews
+      - link "Tilaw - british restaurant in Havering 🏆 FSA 3/5 ⭐ 4.5 Tilaw british 📍 Havering 💰 ££ 219 reviews" [ref=e4555] [cursor=pointer]:
+        - /url: /restaurant/tilaw-sRBt34g4
+        - generic [ref=e4556]:
+          - generic [ref=e4557]:
+            - img "Tilaw - british restaurant in Havering" [ref=e4558]
+            - generic [ref=e4561]: 🏆 FSA 3/5
+            - generic [ref=e4563]: ⭐ 4.5
+          - generic [ref=e4564]:
+            - heading "Tilaw" [level=3] [ref=e4565]
+            - generic [ref=e4567]: british
+            - paragraph [ref=e4568]: 📍 Havering
+            - paragraph [ref=e4569]: 💰 ££
+            - paragraph [ref=e4570]: 219 reviews
+      - link "CREM Kitchen - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.5 CREM Kitchen british 📍 Havering 💰 ££ 366 reviews" [ref=e4571] [cursor=pointer]:
+        - /url: /restaurant/crem-kitchen-he5G487o
+        - generic [ref=e4572]:
+          - generic [ref=e4573]:
+            - img "CREM Kitchen - british restaurant in Havering" [ref=e4574]
+            - generic [ref=e4577]: 🏆 FSA 5/5
+            - generic [ref=e4579]: ⭐ 4.5
+          - generic [ref=e4580]:
+            - heading "CREM Kitchen" [level=3] [ref=e4581]
+            - generic [ref=e4583]: british
+            - paragraph [ref=e4584]: 📍 Havering
+            - paragraph [ref=e4585]: 💰 ££
+            - paragraph [ref=e4586]: 366 reviews
+      - link "Kervan Kitchen Gidea Park - turkish restaurant in Havering 🏆 FSA 5/5 ⭐ 4.5 Kervan Kitchen Gidea Park turkish 📍 Havering 💰 ££ 1,053 reviews" [ref=e4587] [cursor=pointer]:
+        - /url: /restaurant/kervan-kitchen-gidea-park-I5ckoST0
+        - generic [ref=e4588]:
+          - generic [ref=e4589]:
+            - img "Kervan Kitchen Gidea Park - turkish restaurant in Havering" [ref=e4590]
+            - generic [ref=e4593]: 🏆 FSA 5/5
+            - generic [ref=e4595]: ⭐ 4.5
+          - generic [ref=e4596]:
+            - heading "Kervan Kitchen Gidea Park" [level=3] [ref=e4597]
+            - generic [ref=e4599]: turkish
+            - paragraph [ref=e4600]: 📍 Havering
+            - paragraph [ref=e4601]: 💰 ££
+            - paragraph [ref=e4602]: 1,053 reviews
+      - link "Lara Grill - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Lara Grill british 📍 Central London 💰 £ 2,416 reviews" [ref=e4603] [cursor=pointer]:
+        - /url: /restaurant/lara-grill-2iwrfdBs
+        - generic [ref=e4604]:
+          - generic [ref=e4605]:
+            - img "Lara Grill - british restaurant in Central London" [ref=e4606]
+            - generic [ref=e4609]: 🏆 FSA 5/5
+            - generic [ref=e4611]: ⭐ 4.5
+          - generic [ref=e4612]:
+            - heading "Lara Grill" [level=3] [ref=e4613]
+            - generic [ref=e4615]: british
+            - paragraph [ref=e4616]: 📍 Central London
+            - paragraph [ref=e4617]: 💰 £
+            - paragraph [ref=e4618]: 2,416 reviews
+      - link "Stack & Sizzle - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.5 Stack & Sizzle british 📍 Havering 💰 ££ 39 reviews" [ref=e4619] [cursor=pointer]:
+        - /url: /restaurant/stack-sizzle-2oeVuv3A
+        - generic [ref=e4620]:
+          - generic [ref=e4621]:
+            - img "Stack & Sizzle - british restaurant in Havering" [ref=e4622]
+            - generic [ref=e4625]: 🏆 FSA 5/5
+            - generic [ref=e4627]: ⭐ 4.5
+          - generic [ref=e4628]:
+            - heading "Stack & Sizzle" [level=3] [ref=e4629]
+            - generic [ref=e4631]: british
+            - paragraph [ref=e4632]: 📍 Havering
+            - paragraph [ref=e4633]: 💰 ££
+            - paragraph [ref=e4634]: 39 reviews
+      - link "Union Social - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Union Social british 📍 Central London 💰 ££ 79 reviews" [ref=e4635] [cursor=pointer]:
+        - /url: /restaurant/union-social-ZgpCUCxg
+        - generic [ref=e4636]:
+          - generic [ref=e4637]:
+            - img "Union Social - british restaurant in Central London" [ref=e4638]
+            - generic [ref=e4641]: 🏆 FSA 5/5
+            - generic [ref=e4643]: ⭐ 4.5
+          - generic [ref=e4644]:
+            - heading "Union Social" [level=3] [ref=e4645]
+            - generic [ref=e4647]: british
+            - paragraph [ref=e4648]: 📍 Central London
+            - paragraph [ref=e4649]: 💰 ££
+            - paragraph [ref=e4650]: 79 reviews
+      - link "Darkhorse Restaurant Bar - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Darkhorse Restaurant Bar british 📍 Central London 💰 £££ 582 reviews" [ref=e4651] [cursor=pointer]:
+        - /url: /restaurant/darkhorse-restaurant-bar-EhOdyaxc
+        - generic [ref=e4652]:
+          - generic [ref=e4653]:
+            - img "Darkhorse Restaurant Bar - british restaurant in Central London" [ref=e4654]
+            - generic [ref=e4657]: 🏆 FSA 5/5
+            - generic [ref=e4659]: ⭐ 4.5
+          - generic [ref=e4660]:
+            - heading "Darkhorse Restaurant Bar" [level=3] [ref=e4661]
+            - generic [ref=e4663]: british
+            - paragraph [ref=e4664]: 📍 Central London
+            - paragraph [ref=e4665]: 💰 £££
+            - paragraph [ref=e4666]: 582 reviews
+      - link "Aroma Authentic Dum Biriyani - indian restaurant in Newham 🏆 FSA 5/5 ⭐ 4.5 Aroma Authentic Dum Biriyani indian 📍 Newham 💰 ££ 571 reviews" [ref=e4667] [cursor=pointer]:
+        - /url: /restaurant/aroma-authentic-dum-biriyani-C7bdTQXo
+        - generic [ref=e4668]:
+          - generic [ref=e4669]:
+            - img "Aroma Authentic Dum Biriyani - indian restaurant in Newham" [ref=e4670]
+            - generic [ref=e4673]: 🏆 FSA 5/5
+            - generic [ref=e4675]: ⭐ 4.5
+          - generic [ref=e4676]:
+            - heading "Aroma Authentic Dum Biriyani" [level=3] [ref=e4677]
+            - generic [ref=e4679]: indian
+            - paragraph [ref=e4680]: 📍 Newham
+            - paragraph [ref=e4681]: 💰 ££
+            - paragraph [ref=e4682]: 571 reviews
+      - link "STAX Burgers - Westfield Stratford - british restaurant in Newham 🏆 FSA 5/5 ⭐ 4.5 STAX Burgers - Westfield Stratford british 📍 Newham 💰 ££ 304 reviews" [ref=e4683] [cursor=pointer]:
+        - /url: /restaurant/stax-burgers-westfield-stratford-cuIAjYpU
+        - generic [ref=e4684]:
+          - generic [ref=e4685]:
+            - img "STAX Burgers - Westfield Stratford - british restaurant in Newham" [ref=e4686]
+            - generic [ref=e4689]: 🏆 FSA 5/5
+            - generic [ref=e4691]: ⭐ 4.5
+          - generic [ref=e4692]:
+            - heading "STAX Burgers - Westfield Stratford" [level=3] [ref=e4693]
+            - generic [ref=e4695]: british
+            - paragraph [ref=e4696]: 📍 Newham
+            - paragraph [ref=e4697]: 💰 ££
+            - paragraph [ref=e4698]: 304 reviews
+      - link "The Solo Kitchen & Bar - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.5 The Solo Kitchen & Bar british 📍 Tower Hamlets 💰 ££ 213 reviews" [ref=e4699] [cursor=pointer]:
+        - /url: /restaurant/the-solo-kitchen-bar-KMNbeyTo
+        - generic [ref=e4700]:
+          - generic [ref=e4701]:
+            - img "The Solo Kitchen & Bar - british restaurant in Tower Hamlets" [ref=e4702]
+            - generic [ref=e4705]: 🏆 FSA 5/5
+            - generic [ref=e4707]: ⭐ 4.5
+          - generic [ref=e4708]:
+            - heading "The Solo Kitchen & Bar" [level=3] [ref=e4709]
+            - generic [ref=e4711]: british
+            - paragraph [ref=e4712]: 📍 Tower Hamlets
+            - paragraph [ref=e4713]: 💰 ££
+            - paragraph [ref=e4714]: 213 reviews
+      - link "Mum Likes Thai Food (Bethnal Green) - thai restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.5 Mum Likes Thai Food (Bethnal Green) thai 📍 Tower Hamlets 💰 ££ 550 reviews" [ref=e4715] [cursor=pointer]:
+        - /url: /restaurant/mum-likes-thai-food-bethnal-green-03cHZv5c
+        - generic [ref=e4716]:
+          - generic [ref=e4717]:
+            - img "Mum Likes Thai Food (Bethnal Green) - thai restaurant in Tower Hamlets" [ref=e4718]
+            - generic [ref=e4721]: 🏆 FSA 5/5
+            - generic [ref=e4723]: ⭐ 4.5
+          - generic [ref=e4724]:
+            - heading "Mum Likes Thai Food (Bethnal Green)" [level=3] [ref=e4725]
+            - generic [ref=e4727]: thai
+            - paragraph [ref=e4728]: 📍 Tower Hamlets
+            - paragraph [ref=e4729]: 💰 ££
+            - paragraph [ref=e4730]: 550 reviews
+      - link "Taş Fırın Turkish Restaurant - Shoreditch - modern-european restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Taş Fırın Turkish Restaurant - Shoreditch modern-european 📍 Central London 💰 £ 913 reviews" [ref=e4731] [cursor=pointer]:
+        - /url: /restaurant/ta-frn-turkish-restaurant-shoreditch-B4_6zAWY
+        - generic [ref=e4732]:
+          - generic [ref=e4733]:
+            - img "Taş Fırın Turkish Restaurant - Shoreditch - modern-european restaurant in Central London" [ref=e4734]
+            - generic [ref=e4737]: 🏆 FSA 5/5
+            - generic [ref=e4739]: ⭐ 4.5
+          - generic [ref=e4740]:
+            - heading "Taş Fırın Turkish Restaurant - Shoreditch" [level=3] [ref=e4741]
+            - generic [ref=e4743]: modern-european
+            - paragraph [ref=e4744]: 📍 Central London
+            - paragraph [ref=e4745]: 💰 £
+            - paragraph [ref=e4746]: 913 reviews
+      - link "Gansu Bethnal Green - chinese restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Gansu Bethnal Green chinese 📍 Central London 💰 ££ 137 reviews" [ref=e4747] [cursor=pointer]:
+        - /url: /restaurant/gansu-bethnal-green-LhsNVaH0
+        - generic [ref=e4748]:
+          - generic [ref=e4749]:
+            - img "Gansu Bethnal Green - chinese restaurant in Central London" [ref=e4750]
+            - generic [ref=e4753]: 🏆 FSA 5/5
+            - generic [ref=e4755]: ⭐ 4.5
+          - generic [ref=e4756]:
+            - heading "Gansu Bethnal Green" [level=3] [ref=e4757]
+            - generic [ref=e4759]: chinese
+            - paragraph [ref=e4760]: 📍 Central London
+            - paragraph [ref=e4761]: 💰 ££
+            - paragraph [ref=e4762]: 137 reviews
+      - link "Get Stuffed Stepney - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Get Stuffed Stepney british 📍 Central London 💰 ££ 384 reviews" [ref=e4763] [cursor=pointer]:
+        - /url: /restaurant/get-stuffed-stepney-dYeGJbmM
+        - generic [ref=e4764]:
+          - generic [ref=e4765]:
+            - img "Get Stuffed Stepney - british restaurant in Central London" [ref=e4766]
+            - generic [ref=e4769]: 🏆 FSA 5/5
+            - generic [ref=e4771]: ⭐ 4.5
+          - generic [ref=e4772]:
+            - heading "Get Stuffed Stepney" [level=3] [ref=e4773]
+            - generic [ref=e4775]: british
+            - paragraph [ref=e4776]: 📍 Central London
+            - paragraph [ref=e4777]: 💰 ££
+            - paragraph [ref=e4778]: 384 reviews
+      - link "Cafe Cecilia - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Cafe Cecilia british 📍 Central London 💰 ££ 479 reviews" [ref=e4779] [cursor=pointer]:
+        - /url: /restaurant/cafe-cecilia-ZRDamZIY
+        - generic [ref=e4780]:
+          - generic [ref=e4781]:
+            - img "Cafe Cecilia - british restaurant in Central London" [ref=e4782]
+            - generic [ref=e4785]: 🏆 FSA 5/5
+            - generic [ref=e4787]: ⭐ 4.5
+          - generic [ref=e4788]:
+            - heading "Cafe Cecilia" [level=3] [ref=e4789]
+            - generic [ref=e4791]: british
+            - paragraph [ref=e4792]: 📍 Central London
+            - paragraph [ref=e4793]: 💰 ££
+            - paragraph [ref=e4794]: 479 reviews
+      - link "Planque - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Planque british 📍 Central London 💰 ££ 380 reviews" [ref=e4795] [cursor=pointer]:
+        - /url: /restaurant/planque-Pb_kbtnA
+        - generic [ref=e4796]:
+          - generic [ref=e4797]:
+            - img "Planque - british restaurant in Central London" [ref=e4798]
+            - generic [ref=e4801]: 🏆 FSA 5/5
+            - generic [ref=e4803]: ⭐ 4.5
+          - generic [ref=e4804]:
+            - heading "Planque" [level=3] [ref=e4805]
+            - generic [ref=e4807]: british
+            - paragraph [ref=e4808]: 📍 Central London
+            - paragraph [ref=e4809]: 💰 ££
+            - paragraph [ref=e4810]: 380 reviews
+      - link "Caravan Canary Wharf Restaurant - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.5 Caravan Canary Wharf Restaurant british 📍 Central London 💰 ££ 1,728 reviews" [ref=e4811] [cursor=pointer]:
+        - /url: /restaurant/caravan-canary-wharf-restaurant--iKFPZYU
+        - generic [ref=e4812]:
+          - generic [ref=e4813]:
+            - img "Caravan Canary Wharf Restaurant - british restaurant in Central London" [ref=e4814]
+            - generic [ref=e4817]: 🏆 FSA 4/5
+            - generic [ref=e4819]: ⭐ 4.5
+          - generic [ref=e4820]:
+            - heading "Caravan Canary Wharf Restaurant" [level=3] [ref=e4821]
+            - generic [ref=e4823]: british
+            - paragraph [ref=e4824]: 📍 Central London
+            - paragraph [ref=e4825]: 💰 ££
+            - paragraph [ref=e4826]: 1,728 reviews
+      - link "Wahaca Canary Wharf - mexican restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Wahaca Canary Wharf mexican 📍 Central London 💰 ££ 2,723 reviews" [ref=e4827] [cursor=pointer]:
+        - /url: /restaurant/wahaca-canary-wharf-ZYtNLRvc
+        - generic [ref=e4828]:
+          - generic [ref=e4829]:
+            - img "Wahaca Canary Wharf - mexican restaurant in Central London" [ref=e4830]
+            - generic [ref=e4833]: 🏆 FSA 5/5
+            - generic [ref=e4835]: ⭐ 4.5
+          - generic [ref=e4836]:
+            - heading "Wahaca Canary Wharf" [level=3] [ref=e4837]
+            - generic [ref=e4839]: mexican
+            - paragraph [ref=e4840]: 📍 Central London
+            - paragraph [ref=e4841]: 💰 ££
+            - paragraph [ref=e4842]: 2,723 reviews
+      - link "Yolk - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Yolk british 📍 Central London 💰 ££ 489 reviews" [ref=e4843] [cursor=pointer]:
+        - /url: /restaurant/yolk-VYSjB2j8
+        - generic [ref=e4844]:
+          - generic [ref=e4845]:
+            - img "Yolk - british restaurant in Central London" [ref=e4846]
+            - generic [ref=e4849]: 🏆 FSA 5/5
+            - generic [ref=e4851]: ⭐ 4.5
+          - generic [ref=e4852]:
+            - heading "Yolk" [level=3] [ref=e4853]
+            - generic [ref=e4855]: british
+            - paragraph [ref=e4856]: 📍 Central London
+            - paragraph [ref=e4857]: 💰 ££
+            - paragraph [ref=e4858]: 489 reviews
+      - link "The Pizza Room - Mile End - modern-european restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.5 The Pizza Room - Mile End modern-european 📍 Tower Hamlets 💰 ££ 1,193 reviews" [ref=e4859] [cursor=pointer]:
+        - /url: /restaurant/the-pizza-room-mile-end-sUb1kfR0
+        - generic [ref=e4860]:
+          - generic [ref=e4861]:
+            - img "The Pizza Room - Mile End - modern-european restaurant in Tower Hamlets" [ref=e4862]
+            - generic [ref=e4865]: 🏆 FSA 5/5
+            - generic [ref=e4867]: ⭐ 4.5
+          - generic [ref=e4868]:
+            - heading "The Pizza Room - Mile End" [level=3] [ref=e4869]
+            - generic [ref=e4871]: modern-european
+            - paragraph [ref=e4872]: 📍 Tower Hamlets
+            - paragraph [ref=e4873]: 💰 ££
+            - paragraph [ref=e4874]: 1,193 reviews
+      - link "Shoryu Westfield Stratford City - japanese restaurant in Newham 🏆 FSA 5/5 ⭐ 4.5 Shoryu Westfield Stratford City japanese 📍 Newham 💰 ££ 334 reviews" [ref=e4875] [cursor=pointer]:
+        - /url: /restaurant/shoryu-westfield-stratford-city-hFh03C8M
+        - generic [ref=e4876]:
+          - generic [ref=e4877]:
+            - img "Shoryu Westfield Stratford City - japanese restaurant in Newham" [ref=e4878]
+            - generic [ref=e4881]: 🏆 FSA 5/5
+            - generic [ref=e4883]: ⭐ 4.5
+          - generic [ref=e4884]:
+            - heading "Shoryu Westfield Stratford City" [level=3] [ref=e4885]
+            - generic [ref=e4887]: japanese
+            - paragraph [ref=e4888]: 📍 Newham
+            - paragraph [ref=e4889]: 💰 ££
+            - paragraph [ref=e4890]: 334 reviews
+      - link "SMASH - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 SMASH british 📍 Central London 💰 ££ 1,041 reviews" [ref=e4891] [cursor=pointer]:
+        - /url: /restaurant/smash-Uskbw6-c
+        - generic [ref=e4892]:
+          - generic [ref=e4893]:
+            - img "SMASH - british restaurant in Central London" [ref=e4894]
+            - generic [ref=e4897]: 🏆 FSA 5/5
+            - generic [ref=e4899]: ⭐ 4.5
+          - generic [ref=e4900]:
+            - heading "SMASH" [level=3] [ref=e4901]
+            - generic [ref=e4903]: british
+            - paragraph [ref=e4904]: 📍 Central London
+            - paragraph [ref=e4905]: 💰 ££
+            - paragraph [ref=e4906]: 1,041 reviews
+      - link "Olives and Oregano London - turkish restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Olives and Oregano London turkish 📍 Central London 💰 ££ 432 reviews" [ref=e4907] [cursor=pointer]:
+        - /url: /restaurant/olives-and-oregano-london-caETxpsM
+        - generic [ref=e4908]:
+          - generic [ref=e4909]:
+            - img "Olives and Oregano London - turkish restaurant in Central London" [ref=e4910]
+            - generic [ref=e4913]: 🏆 FSA 5/5
+            - generic [ref=e4915]: ⭐ 4.5
+          - generic [ref=e4916]:
+            - heading "Olives and Oregano London" [level=3] [ref=e4917]
+            - generic [ref=e4919]: turkish
+            - paragraph [ref=e4920]: 📍 Central London
+            - paragraph [ref=e4921]: 💰 ££
+            - paragraph [ref=e4922]: 432 reviews
+      - link "Piccolino Exchange Square - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Piccolino Exchange Square british 📍 Central London 💰 ££ 987 reviews" [ref=e4923] [cursor=pointer]:
+        - /url: /restaurant/piccolino-exchange-square-yiZInZ2k
+        - generic [ref=e4924]:
+          - generic [ref=e4925]:
+            - img "Piccolino Exchange Square - british restaurant in Central London" [ref=e4926]
+            - generic [ref=e4929]: 🏆 FSA 5/5
+            - generic [ref=e4931]: ⭐ 4.5
+          - generic [ref=e4932]:
+            - heading "Piccolino Exchange Square" [level=3] [ref=e4933]
+            - generic [ref=e4935]: british
+            - paragraph [ref=e4936]: 📍 Central London
+            - paragraph [ref=e4937]: 💰 ££
+            - paragraph [ref=e4938]: 987 reviews
+      - link "Italina385 - italian restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.5 Italina385 italian 📍 Tower Hamlets 💰 ££ 555 reviews" [ref=e4939] [cursor=pointer]:
+        - /url: /restaurant/italina385-ilgWDFJo
+        - generic [ref=e4940]:
+          - generic [ref=e4941]:
+            - img "Italina385 - italian restaurant in Tower Hamlets" [ref=e4942]
+            - generic [ref=e4945]: 🏆 FSA 5/5
+            - generic [ref=e4947]: ⭐ 4.5
+          - generic [ref=e4948]:
+            - heading "Italina385" [level=3] [ref=e4949]
+            - generic [ref=e4951]: italian
+            - paragraph [ref=e4952]: 📍 Tower Hamlets
+            - paragraph [ref=e4953]: 💰 ££
+            - paragraph [ref=e4954]: 555 reviews
+      - link "Perfetto Pizza ( Bethnal Green ) - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Perfetto Pizza ( Bethnal Green ) british 📍 Central London 💰 ££ 134 reviews" [ref=e4955] [cursor=pointer]:
+        - /url: /restaurant/perfetto-pizza-bethnal-green-0xkICPcI
+        - generic [ref=e4956]:
+          - generic [ref=e4957]:
+            - img "Perfetto Pizza ( Bethnal Green ) - british restaurant in Central London" [ref=e4958]
+            - generic [ref=e4961]: 🏆 FSA 5/5
+            - generic [ref=e4963]: ⭐ 4.5
+          - generic [ref=e4964]:
+            - heading "Perfetto Pizza ( Bethnal Green )" [level=3] [ref=e4965]
+            - generic [ref=e4967]: british
+            - paragraph [ref=e4968]: 📍 Central London
+            - paragraph [ref=e4969]: 💰 ££
+            - paragraph [ref=e4970]: 134 reviews
+      - link "The Full Monty - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.5 The Full Monty british 📍 Tower Hamlets 💰 ££ 403 reviews" [ref=e4971] [cursor=pointer]:
+        - /url: /restaurant/the-full-monty-JhitfSOo
+        - generic [ref=e4972]:
+          - generic [ref=e4973]:
+            - img "The Full Monty - british restaurant in Tower Hamlets" [ref=e4974]
+            - generic [ref=e4977]: 🏆 FSA 5/5
+            - generic [ref=e4979]: ⭐ 4.5
+          - generic [ref=e4980]:
+            - heading "The Full Monty" [level=3] [ref=e4981]
+            - generic [ref=e4983]: british
+            - paragraph [ref=e4984]: 📍 Tower Hamlets
+            - paragraph [ref=e4985]: 💰 ££
+            - paragraph [ref=e4986]: 403 reviews
+      - link "Salash Kitchen - South Woodford - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Salash Kitchen - South Woodford british 📍 Central London 💰 ££ 714 reviews" [ref=e4987] [cursor=pointer]:
+        - /url: /restaurant/salash-kitchen-south-woodford-a7Mx1xek
+        - generic [ref=e4988]:
+          - generic [ref=e4989]:
+            - img "Salash Kitchen - South Woodford - british restaurant in Central London" [ref=e4990]
+            - generic [ref=e4993]: 🏆 FSA 5/5
+            - generic [ref=e4995]: ⭐ 4.5
+          - generic [ref=e4996]:
+            - heading "Salash Kitchen - South Woodford" [level=3] [ref=e4997]
+            - generic [ref=e4999]: british
+            - paragraph [ref=e5000]: 📍 Central London
+            - paragraph [ref=e5001]: 💰 ££
+            - paragraph [ref=e5002]: 714 reviews
+      - link "Bubala Spitalfields - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 Bubala Spitalfields british 📍 Central London 💰 ££ 1,097 reviews" [ref=e5003] [cursor=pointer]:
+        - /url: /restaurant/bubala-spitalfields-a4U9jcnU
+        - generic [ref=e5004]:
+          - generic [ref=e5005]:
+            - img "Bubala Spitalfields - british restaurant in Central London" [ref=e5006]
+            - generic [ref=e5009]: 🏆 FSA 5/5
+            - generic [ref=e5011]: ⭐ 4.5
+          - generic [ref=e5012]:
+            - heading "Bubala Spitalfields" [level=3] [ref=e5013]
+            - generic [ref=e5015]: british
+            - paragraph [ref=e5016]: 📍 Central London
+            - paragraph [ref=e5017]: 💰 ££
+            - paragraph [ref=e5018]: 1,097 reviews
+      - link "The Spread Eagle - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.5 The Spread Eagle british 📍 Central London 💰 ££ 1,578 reviews" [ref=e5019] [cursor=pointer]:
+        - /url: /restaurant/the-spread-eagle-qglOkPso
+        - generic [ref=e5020]:
+          - generic [ref=e5021]:
+            - img "The Spread Eagle - british restaurant in Central London" [ref=e5022]
+            - generic [ref=e5025]: 🏆 FSA 5/5
+            - generic [ref=e5027]: ⭐ 4.5
+          - generic [ref=e5028]:
+            - heading "The Spread Eagle" [level=3] [ref=e5029]
+            - generic [ref=e5031]: british
+            - paragraph [ref=e5032]: 📍 Central London
+            - paragraph [ref=e5033]: 💰 ££
+            - paragraph [ref=e5034]: 1,578 reviews
+      - link "Bancone Covent Garden - italian restaurant in 39 William IV St, London 🏆 FSA 4/5 ⭐ 4.4 Bancone Covent Garden italian 📍 39 William IV St, London 💰 ££ 3,500 reviews" [ref=e5035] [cursor=pointer]:
+        - /url: /restaurant/bancone-covent-garden-WUsAHugI
+        - generic [ref=e5036]:
+          - generic [ref=e5037]:
+            - img "Bancone Covent Garden - italian restaurant in 39 William IV St, London" [ref=e5038]
+            - generic [ref=e5041]: 🏆 FSA 4/5
+            - generic [ref=e5043]: ⭐ 4.4
+          - generic [ref=e5044]:
+            - heading "Bancone Covent Garden" [level=3] [ref=e5045]
+            - generic [ref=e5047]: italian
+            - paragraph [ref=e5048]: 📍 39 William IV St, London
+            - paragraph [ref=e5049]: 💰 ££
+            - paragraph [ref=e5050]: 3,500 reviews
+      - link "manteca - italian restaurant in 49-51 Curtain Rd, London 🏆 FSA 5/5 ⭐ 4.4 manteca italian 📍 49-51 Curtain Rd, London 💰 £££ 2,929 reviews" [ref=e5051] [cursor=pointer]:
+        - /url: /restaurant/manteca-5-ErLMaI
+        - generic [ref=e5052]:
+          - generic [ref=e5053]:
+            - img "manteca - italian restaurant in 49-51 Curtain Rd, London" [ref=e5054]
+            - generic [ref=e5057]: 🏆 FSA 5/5
+            - generic [ref=e5059]: ⭐ 4.4
+          - generic [ref=e5060]:
+            - heading "manteca" [level=3] [ref=e5061]
+            - generic [ref=e5063]: italian
+            - paragraph [ref=e5064]: 📍 49-51 Curtain Rd, London
+            - paragraph [ref=e5065]: 💰 £££
+            - paragraph [ref=e5066]: 2,929 reviews
+      - link "INKO NITO - Soho - japanese restaurant in 55 Broadwick St, London 🏆 FSA 4/5 ⭐ 4.4 INKO NITO - Soho japanese 📍 55 Broadwick St, London 💰 £££ 1,441 reviews" [ref=e5067] [cursor=pointer]:
+        - /url: /restaurant/inko-nito-soho-dhJJKNHQ
+        - generic [ref=e5068]:
+          - generic [ref=e5069]:
+            - img "INKO NITO - Soho - japanese restaurant in 55 Broadwick St, London" [ref=e5070]
+            - generic [ref=e5073]: 🏆 FSA 4/5
+            - generic [ref=e5075]: ⭐ 4.4
+          - generic [ref=e5076]:
+            - heading "INKO NITO - Soho" [level=3] [ref=e5077]
+            - generic [ref=e5079]: japanese
+            - paragraph [ref=e5080]: 📍 55 Broadwick St, London
+            - paragraph [ref=e5081]: 💰 £££
+            - paragraph [ref=e5082]: 1,441 reviews
+      - link "Min Jiang - japanese restaurant in 2, Royal Garden Hotel, 24 Kensington High St, London 🏆 FSA 4/5 ⭐ 4.4 Min Jiang japanese 📍 2, Royal Garden Hotel, 24 Kensington High St, London 💰 ££££ 983 reviews" [ref=e5083] [cursor=pointer]:
+        - /url: /restaurant/min-jiang-K96aOVBM
+        - generic [ref=e5084]:
+          - generic [ref=e5085]:
+            - img "Min Jiang - japanese restaurant in 2, Royal Garden Hotel, 24 Kensington High St, London" [ref=e5086]
+            - generic [ref=e5089]: 🏆 FSA 4/5
+            - generic [ref=e5091]: ⭐ 4.4
+          - generic [ref=e5092]:
+            - heading "Min Jiang" [level=3] [ref=e5093]
+            - generic [ref=e5095]: japanese
+            - paragraph [ref=e5096]: 📍 2, Royal Garden Hotel, 24 Kensington High St, London
+            - paragraph [ref=e5097]: 💰 ££££
+            - paragraph [ref=e5098]: 983 reviews
+      - link "Chet's - thai restaurant in Union House Shepherds Bush Green, 65 Shepherd's Bush Grn, London 🏆 FSA 4/5 ⭐ 4.4 Chet's thai 📍 Union House Shepherds Bush Green, 65 Shepherd's Bush Grn, London 💰 ££ 561 reviews" [ref=e5099] [cursor=pointer]:
+        - /url: /restaurant/chets-Ll5SHDcE
+        - generic [ref=e5100]:
+          - generic [ref=e5101]:
+            - img "Chet's - thai restaurant in Union House Shepherds Bush Green, 65 Shepherd's Bush Grn, London" [ref=e5102]
+            - generic [ref=e5105]: 🏆 FSA 4/5
+            - generic [ref=e5107]: ⭐ 4.4
+          - generic [ref=e5108]:
+            - heading "Chet's" [level=3] [ref=e5109]
+            - generic [ref=e5111]: thai
+            - paragraph [ref=e5112]: 📍 Union House Shepherds Bush Green, 65 Shepherd's Bush Grn, London
+            - paragraph [ref=e5113]: 💰 ££
+            - paragraph [ref=e5114]: 561 reviews
+      - link "El Pirata Of Mayfair - Tapas Bar Español - british restaurant in 5 - 6 Down St, London 🏆 FSA 4/5 ⭐ 4.4 El Pirata Of Mayfair - Tapas Bar Español british 📍 5 - 6 Down St, London 💰 ££ 1,674 reviews" [ref=e5115] [cursor=pointer]:
+        - /url: /restaurant/el-pirata-of-mayfair-tapas-bar-espaol-AE3sr-lc
+        - generic [ref=e5116]:
+          - generic [ref=e5117]:
+            - img "El Pirata Of Mayfair - Tapas Bar Español - british restaurant in 5 - 6 Down St, London" [ref=e5118]
+            - generic [ref=e5121]: 🏆 FSA 4/5
+            - generic [ref=e5123]: ⭐ 4.4
+          - generic [ref=e5124]:
+            - heading "El Pirata Of Mayfair - Tapas Bar Español" [level=3] [ref=e5125]
+            - generic [ref=e5127]: british
+            - paragraph [ref=e5128]: 📍 5 - 6 Down St, London
+            - paragraph [ref=e5129]: 💰 ££
+            - paragraph [ref=e5130]: 1,674 reviews
+      - link "Santo Remedio - Asador, London Bridge - spanish restaurant in 152 Tooley St, London 🏆 FSA 4/5 ⭐ 4.4 Santo Remedio - Asador, London Bridge spanish 📍 152 Tooley St, London 💰 ££ 2,408 reviews" [ref=e5131] [cursor=pointer]:
+        - /url: /restaurant/santo-remedio-asador-london-bridge-am6bOw94
+        - generic [ref=e5132]:
+          - generic [ref=e5133]:
+            - img "Santo Remedio - Asador, London Bridge - spanish restaurant in 152 Tooley St, London" [ref=e5134]
+            - generic [ref=e5137]: 🏆 FSA 4/5
+            - generic [ref=e5139]: ⭐ 4.4
+          - generic [ref=e5140]:
+            - heading "Santo Remedio - Asador, London Bridge" [level=3] [ref=e5141]
+            - generic [ref=e5143]: spanish
+            - paragraph [ref=e5144]: 📍 152 Tooley St, London
+            - paragraph [ref=e5145]: 💰 ££
+            - paragraph [ref=e5146]: 2,408 reviews
+      - link "L'ETO Soho - mediterranean restaurant in 155 Wardour St, London 🏆 FSA 4/5 ⭐ 4.4 L'ETO Soho mediterranean 📍 155 Wardour St, London 💰 ££ 8,585 reviews" [ref=e5147] [cursor=pointer]:
+        - /url: /restaurant/leto-soho-baR_vkeA
+        - generic [ref=e5148]:
+          - generic [ref=e5149]:
+            - img "L'ETO Soho - mediterranean restaurant in 155 Wardour St, London" [ref=e5150]
+            - generic [ref=e5153]: 🏆 FSA 4/5
+            - generic [ref=e5155]: ⭐ 4.4
+          - generic [ref=e5156]:
+            - heading "L'ETO Soho" [level=3] [ref=e5157]
+            - generic [ref=e5159]: mediterranean
+            - paragraph [ref=e5160]: 📍 155 Wardour St, London
+            - paragraph [ref=e5161]: 💰 ££
+            - paragraph [ref=e5162]: 8,585 reviews
+      - link "Kiss the Hippo Coffee - mediterranean restaurant in Station Arcade, 51 Margaret St, London 🏆 FSA 4/5 ⭐ 4.4 Kiss the Hippo Coffee mediterranean 📍 Station Arcade, 51 Margaret St, London 💰 ££ 1,073 reviews" [ref=e5163] [cursor=pointer]:
+        - /url: /restaurant/kiss-the-hippo-coffee-gCSWnwCY
+        - generic [ref=e5164]:
+          - generic [ref=e5165]:
+            - img "Kiss the Hippo Coffee - mediterranean restaurant in Station Arcade, 51 Margaret St, London" [ref=e5166]
+            - generic [ref=e5169]: 🏆 FSA 4/5
+            - generic [ref=e5171]: ⭐ 4.4
+          - generic [ref=e5172]:
+            - heading "Kiss the Hippo Coffee" [level=3] [ref=e5173]
+            - generic [ref=e5175]: mediterranean
+            - paragraph [ref=e5176]: 📍 Station Arcade, 51 Margaret St, London
+            - paragraph [ref=e5177]: 💰 ££
+            - paragraph [ref=e5178]: 1,073 reviews
+      - link "Coffee Island - mediterranean restaurant in Orion House, 4b Upper St Martin's Ln, London 🏆 FSA 4/5 ⭐ 4.4 Coffee Island mediterranean 📍 Orion House, 4b Upper St Martin's Ln, London 💰 ££ 1,882 reviews" [ref=e5179] [cursor=pointer]:
+        - /url: /restaurant/coffee-island-VVdRiiv0
+        - generic [ref=e5180]:
+          - generic [ref=e5181]:
+            - img "Coffee Island - mediterranean restaurant in Orion House, 4b Upper St Martin's Ln, London" [ref=e5182]
+            - generic [ref=e5185]: 🏆 FSA 4/5
+            - generic [ref=e5187]: ⭐ 4.4
+          - generic [ref=e5188]:
+            - heading "Coffee Island" [level=3] [ref=e5189]
+            - generic [ref=e5191]: mediterranean
+            - paragraph [ref=e5192]: 📍 Orion House, 4b Upper St Martin's Ln, London
+            - paragraph [ref=e5193]: 💰 ££
+            - paragraph [ref=e5194]: 1,882 reviews
+      - link "E5 Bakehouse - mediterranean restaurant in 396 Mentmore Terrace, London 🏆 FSA 5/5 ⭐ 4.4 E5 Bakehouse mediterranean 📍 396 Mentmore Terrace, London 💰 ££ 1,578 reviews" [ref=e5195] [cursor=pointer]:
+        - /url: /restaurant/e5-bakehouse-vLKMG934
+        - generic [ref=e5196]:
+          - generic [ref=e5197]:
+            - img "E5 Bakehouse - mediterranean restaurant in 396 Mentmore Terrace, London" [ref=e5198]
+            - generic [ref=e5201]: 🏆 FSA 5/5
+            - generic [ref=e5203]: ⭐ 4.4
+          - generic [ref=e5204]:
+            - heading "E5 Bakehouse" [level=3] [ref=e5205]
+            - generic [ref=e5207]: mediterranean
+            - paragraph [ref=e5208]: 📍 396 Mentmore Terrace, London
+            - paragraph [ref=e5209]: 💰 ££
+            - paragraph [ref=e5210]: 1,578 reviews
+      - link "Chestnut Bakery, Covent Garden - mediterranean restaurant in 24 Floral St, London 🏆 FSA 4/5 ⭐ 4.4 Chestnut Bakery, Covent Garden mediterranean 📍 24 Floral St, London 💰 ££ 2,282 reviews" [ref=e5211] [cursor=pointer]:
+        - /url: /restaurant/chestnut-bakery-covent-garden-HRRvE2PM
+        - generic [ref=e5212]:
+          - generic [ref=e5213]:
+            - img "Chestnut Bakery, Covent Garden - mediterranean restaurant in 24 Floral St, London" [ref=e5214]
+            - generic [ref=e5217]: 🏆 FSA 4/5
+            - generic [ref=e5219]: ⭐ 4.4
+          - generic [ref=e5220]:
+            - heading "Chestnut Bakery, Covent Garden" [level=3] [ref=e5221]
+            - generic [ref=e5223]: mediterranean
+            - paragraph [ref=e5224]: 📍 24 Floral St, London
+            - paragraph [ref=e5225]: 💰 ££
+            - paragraph [ref=e5226]: 2,282 reviews
+      - link "Miel Bakery - mediterranean restaurant in 60-61 Warren St, London 🏆 FSA 5/5 ⭐ 4.4 Miel Bakery mediterranean 📍 60-61 Warren St, London 💰 ££ 1,064 reviews" [ref=e5227] [cursor=pointer]:
+        - /url: /restaurant/miel-bakery-iBlmtIW4
+        - generic [ref=e5228]:
+          - generic [ref=e5229]:
+            - img "Miel Bakery - mediterranean restaurant in 60-61 Warren St, London" [ref=e5230]
+            - generic [ref=e5233]: 🏆 FSA 5/5
+            - generic [ref=e5235]: ⭐ 4.4
+          - generic [ref=e5236]:
+            - heading "Miel Bakery" [level=3] [ref=e5237]
+            - generic [ref=e5239]: mediterranean
+            - paragraph [ref=e5240]: 📍 60-61 Warren St, London
+            - paragraph [ref=e5241]: 💰 ££
+            - paragraph [ref=e5242]: 1,064 reviews
+      - link "Duck & Waffle - mediterranean restaurant in Heron Tower, 110 Bishopsgate, London 🏆 FSA 5/5 ⭐ 4.4 Duck & Waffle mediterranean 📍 Heron Tower, 110 Bishopsgate, London 💰 £££ 15,165 reviews" [ref=e5243] [cursor=pointer]:
+        - /url: /restaurant/duck-waffle-SjiwV5LM
+        - generic [ref=e5244]:
+          - generic [ref=e5245]:
+            - img "Duck & Waffle - mediterranean restaurant in Heron Tower, 110 Bishopsgate, London" [ref=e5246]
+            - generic [ref=e5249]: 🏆 FSA 5/5
+            - generic [ref=e5251]: ⭐ 4.4
+          - generic [ref=e5252]:
+            - heading "Duck & Waffle" [level=3] [ref=e5253]
+            - generic [ref=e5255]: mediterranean
+            - paragraph [ref=e5256]: 📍 Heron Tower, 110 Bishopsgate, London
+            - paragraph [ref=e5257]: 💰 £££
+            - paragraph [ref=e5258]: 15,165 reviews
+      - link "The Table Café - mediterranean restaurant in 83 Southwark St, London 🏆 FSA 4/5 ⭐ 4.4 The Table Café mediterranean 📍 83 Southwark St, London 💰 ££ 2,523 reviews" [ref=e5259] [cursor=pointer]:
+        - /url: /restaurant/the-table-caf-GtGhKWLc
+        - generic [ref=e5260]:
+          - generic [ref=e5261]:
+            - img "The Table Café - mediterranean restaurant in 83 Southwark St, London" [ref=e5262]
+            - generic [ref=e5265]: 🏆 FSA 4/5
+            - generic [ref=e5267]: ⭐ 4.4
+          - generic [ref=e5268]:
+            - heading "The Table Café" [level=3] [ref=e5269]
+            - generic [ref=e5271]: mediterranean
+            - paragraph [ref=e5272]: 📍 83 Southwark St, London
+            - paragraph [ref=e5273]: 💰 ££
+            - paragraph [ref=e5274]: 2,523 reviews
+      - link "Amazing Grace London Bridge - mediterranean restaurant in C Q G International Ltd, 9a St Thomas St, London 🏆 FSA 4/5 ⭐ 4.4 Amazing Grace London Bridge mediterranean 📍 C Q G International Ltd, 9a St Thomas St, London 💰 ££ 1,245 reviews" [ref=e5275] [cursor=pointer]:
+        - /url: /restaurant/amazing-grace-london-bridge-6JaFRLAo
+        - generic [ref=e5276]:
+          - generic [ref=e5277]:
+            - img "Amazing Grace London Bridge - mediterranean restaurant in C Q G International Ltd, 9a St Thomas St, London" [ref=e5278]
+            - generic [ref=e5281]: 🏆 FSA 4/5
+            - generic [ref=e5283]: ⭐ 4.4
+          - generic [ref=e5284]:
+            - heading "Amazing Grace London Bridge" [level=3] [ref=e5285]
+            - generic [ref=e5287]: mediterranean
+            - paragraph [ref=e5288]: 📍 C Q G International Ltd, 9a St Thomas St, London
+            - paragraph [ref=e5289]: 💰 ££
+            - paragraph [ref=e5290]: 1,245 reviews
+      - link "Disrepute - Cocktail Bar in Soho - mediterranean restaurant in 4 Kingly Ct, London 🏆 FSA 4/5 ⭐ 4.4 Disrepute - Cocktail Bar in Soho mediterranean 📍 4 Kingly Ct, London 💰 £££ 1,119 reviews" [ref=e5291] [cursor=pointer]:
+        - /url: /restaurant/disrepute-cocktail-bar-in-soho-NfE64VXk
+        - generic [ref=e5292]:
+          - generic [ref=e5293]:
+            - img "Disrepute - Cocktail Bar in Soho - mediterranean restaurant in 4 Kingly Ct, London" [ref=e5294]
+            - generic [ref=e5297]: 🏆 FSA 4/5
+            - generic [ref=e5299]: ⭐ 4.4
+          - generic [ref=e5300]:
+            - heading "Disrepute - Cocktail Bar in Soho" [level=3] [ref=e5301]
+            - generic [ref=e5303]: mediterranean
+            - paragraph [ref=e5304]: 📍 4 Kingly Ct, London
+            - paragraph [ref=e5305]: 💰 £££
+            - paragraph [ref=e5306]: 1,119 reviews
+      - link "Bussey Rooftop Bar - mediterranean restaurant in Roof B, Bussey Building, 133 Rye Ln, London 🏆 FSA 4/5 ⭐ 4.4 Bussey Rooftop Bar mediterranean 📍 Roof B, Bussey Building, 133 Rye Ln, London 💰 ££ 875 reviews" [ref=e5307] [cursor=pointer]:
+        - /url: /restaurant/bussey-rooftop-bar-wuxTmHHo
+        - generic [ref=e5308]:
+          - generic [ref=e5309]:
+            - img "Bussey Rooftop Bar - mediterranean restaurant in Roof B, Bussey Building, 133 Rye Ln, London" [ref=e5310]
+            - generic [ref=e5313]: 🏆 FSA 4/5
+            - generic [ref=e5315]: ⭐ 4.4
+          - generic [ref=e5316]:
+            - heading "Bussey Rooftop Bar" [level=3] [ref=e5317]
+            - generic [ref=e5319]: mediterranean
+            - paragraph [ref=e5320]: 📍 Roof B, Bussey Building, 133 Rye Ln, London
+            - paragraph [ref=e5321]: 💰 ££
+            - paragraph [ref=e5322]: 875 reviews
+      - link "Mercer Roof Terrace - mediterranean restaurant in 20 Garlick Hill, London 🏆 FSA 4/5 ⭐ 4.4 Mercer Roof Terrace mediterranean 📍 20 Garlick Hill, London 💰 ££ 475 reviews" [ref=e5323] [cursor=pointer]:
+        - /url: /restaurant/mercer-roof-terrace-gUPeDdjI
+        - generic [ref=e5324]:
+          - generic [ref=e5325]:
+            - img "Mercer Roof Terrace - mediterranean restaurant in 20 Garlick Hill, London" [ref=e5326]
+            - generic [ref=e5329]: 🏆 FSA 4/5
+            - generic [ref=e5331]: ⭐ 4.4
+          - generic [ref=e5332]:
+            - heading "Mercer Roof Terrace" [level=3] [ref=e5333]
+            - generic [ref=e5335]: mediterranean
+            - paragraph [ref=e5336]: 📍 20 Garlick Hill, London
+            - paragraph [ref=e5337]: 💰 ££
+            - paragraph [ref=e5338]: 475 reviews
+      - link "JOIA Restaurant, Bar & Rooftop - mediterranean restaurant in 15th Floor, Electric Boulevard, 1 Electric Blvd, London 🏆 FSA 4/5 ⭐ 4.4 JOIA Restaurant, Bar & Rooftop mediterranean 📍 15th Floor, Electric Boulevard, 1 Electric Blvd, London 💰 ££ 767 reviews" [ref=e5339] [cursor=pointer]:
+        - /url: /restaurant/joia-restaurant-bar-rooftop-NclUbmGs
+        - generic [ref=e5340]:
+          - generic [ref=e5341]:
+            - img "JOIA Restaurant, Bar & Rooftop - mediterranean restaurant in 15th Floor, Electric Boulevard, 1 Electric Blvd, London" [ref=e5342]
+            - generic [ref=e5345]: 🏆 FSA 4/5
+            - generic [ref=e5347]: ⭐ 4.4
+          - generic [ref=e5348]:
+            - heading "JOIA Restaurant, Bar & Rooftop" [level=3] [ref=e5349]
+            - generic [ref=e5351]: mediterranean
+            - paragraph [ref=e5352]: 📍 15th Floor, Electric Boulevard, 1 Electric Blvd, London
+            - paragraph [ref=e5353]: 💰 ££
+            - paragraph [ref=e5354]: 767 reviews
+      - link "Popolo Shoreditch - british restaurant in 26 Rivington St, London 🏆 FSA 4/5 ⭐ 4.4 Popolo Shoreditch british 📍 26 Rivington St, London 💰 ££ 776 reviews" [ref=e5355] [cursor=pointer]:
+        - /url: /restaurant/popolo-shoreditch-h8E9Pcsc
+        - generic [ref=e5356]:
+          - generic [ref=e5357]:
+            - img "Popolo Shoreditch - british restaurant in 26 Rivington St, London" [ref=e5358]
+            - generic [ref=e5361]: 🏆 FSA 4/5
+            - generic [ref=e5363]: ⭐ 4.4
+          - generic [ref=e5364]:
+            - heading "Popolo Shoreditch" [level=3] [ref=e5365]
+            - generic [ref=e5367]: british
+            - paragraph [ref=e5368]: 📍 26 Rivington St, London
+            - paragraph [ref=e5369]: 💰 ££
+            - paragraph [ref=e5370]: 776 reviews
+      - link "Camino Shoreditch - british restaurant in 2 Curtain Rd, London 🏆 FSA 5/5 ⭐ 4.4 Camino Shoreditch british 📍 2 Curtain Rd, London 💰 ££ 1,243 reviews" [ref=e5371] [cursor=pointer]:
+        - /url: /restaurant/camino-shoreditch-9f8J_6aU
+        - generic [ref=e5372]:
+          - generic [ref=e5373]:
+            - img "Camino Shoreditch - british restaurant in 2 Curtain Rd, London" [ref=e5374]
+            - generic [ref=e5377]: 🏆 FSA 5/5
+            - generic [ref=e5379]: ⭐ 4.4
+          - generic [ref=e5380]:
+            - heading "Camino Shoreditch" [level=3] [ref=e5381]
+            - generic [ref=e5383]: british
+            - paragraph [ref=e5384]: 📍 2 Curtain Rd, London
+            - paragraph [ref=e5385]: 💰 ££
+            - paragraph [ref=e5386]: 1,243 reviews
+      - link "Granger and Co. Notting Hill - british restaurant in 175 Westbourne Grove, London 🏆 FSA 4/5 ⭐ 4.4 Granger and Co. Notting Hill british 📍 175 Westbourne Grove, London 💰 ££ 3,284 reviews" [ref=e5387] [cursor=pointer]:
+        - /url: /restaurant/granger-and-co-notting-hill-jZA3l7-w
+        - generic [ref=e5388]:
+          - generic [ref=e5389]:
+            - img "Granger and Co. Notting Hill - british restaurant in 175 Westbourne Grove, London" [ref=e5390]
+            - generic [ref=e5393]: 🏆 FSA 4/5
+            - generic [ref=e5395]: ⭐ 4.4
+          - generic [ref=e5396]:
+            - heading "Granger and Co. Notting Hill" [level=3] [ref=e5397]
+            - generic [ref=e5399]: british
+            - paragraph [ref=e5400]: 📍 175 Westbourne Grove, London
+            - paragraph [ref=e5401]: 💰 ££
+            - paragraph [ref=e5402]: 3,284 reviews
+      - link "The Barbary Notting Hill - british restaurant in 112 Westbourne Grove, London 🏆 FSA 5/5 ⭐ 4.4 The Barbary Notting Hill british 📍 112 Westbourne Grove, London 💰 ££ 176 reviews" [ref=e5403] [cursor=pointer]:
+        - /url: /restaurant/the-barbary-notting-hill-eI6iXAhs
+        - generic [ref=e5404]:
+          - generic [ref=e5405]:
+            - img "The Barbary Notting Hill - british restaurant in 112 Westbourne Grove, London" [ref=e5406]
+            - generic [ref=e5409]: 🏆 FSA 5/5
+            - generic [ref=e5411]: ⭐ 4.4
+          - generic [ref=e5412]:
+            - heading "The Barbary Notting Hill" [level=3] [ref=e5413]
+            - generic [ref=e5415]: british
+            - paragraph [ref=e5416]: 📍 112 Westbourne Grove, London
+            - paragraph [ref=e5417]: 💰 ££
+            - paragraph [ref=e5418]: 176 reviews
+      - link "The Blues Kitchen Camden - british restaurant in 111-113 Camden High St, London 🏆 FSA 4/5 ⭐ 4.4 The Blues Kitchen Camden british 📍 111-113 Camden High St, London 💰 ££ 7,236 reviews" [ref=e5419] [cursor=pointer]:
+        - /url: /restaurant/the-blues-kitchen-camden-9TW4YKyQ
+        - generic [ref=e5420]:
+          - generic [ref=e5421]:
+            - img "The Blues Kitchen Camden - british restaurant in 111-113 Camden High St, London" [ref=e5422]
+            - generic [ref=e5425]: 🏆 FSA 4/5
+            - generic [ref=e5427]: ⭐ 4.4
+          - generic [ref=e5428]:
+            - heading "The Blues Kitchen Camden" [level=3] [ref=e5429]
+            - generic [ref=e5431]: british
+            - paragraph [ref=e5432]: 📍 111-113 Camden High St, London
+            - paragraph [ref=e5433]: 💰 ££
+            - paragraph [ref=e5434]: 7,236 reviews
+      - link "Frida Camden - mexican restaurant in 40 Camden High St, London 🏆 FSA 5/5 ⭐ 4.4 Frida Camden mexican 📍 40 Camden High St, London 💰 £ 947 reviews" [ref=e5435] [cursor=pointer]:
+        - /url: /restaurant/frida-camden-76VT1JVI
+        - generic [ref=e5436]:
+          - generic [ref=e5437]:
+            - img "Frida Camden - mexican restaurant in 40 Camden High St, London" [ref=e5438]
+            - generic [ref=e5441]: 🏆 FSA 5/5
+            - generic [ref=e5443]: ⭐ 4.4
+          - generic [ref=e5444]:
+            - heading "Frida Camden" [level=3] [ref=e5445]
+            - generic [ref=e5447]: mexican
+            - paragraph [ref=e5448]: 📍 40 Camden High St, London
+            - paragraph [ref=e5449]: 💰 £
+            - paragraph [ref=e5450]: 947 reviews
+      - link "Gaucho Canary Wharf - british restaurant in Cabot Square, 29 Westferry Circus, London 🏆 FSA 4/5 ⭐ 4.4 Gaucho Canary Wharf british 📍 Cabot Square, 29 Westferry Circus, London 💰 £££ 1,981 reviews" [ref=e5451] [cursor=pointer]:
+        - /url: /restaurant/gaucho-canary-wharf-iRQ1zBsM
+        - generic [ref=e5452]:
+          - generic [ref=e5453]:
+            - img "Gaucho Canary Wharf - british restaurant in Cabot Square, 29 Westferry Circus, London" [ref=e5454]
+            - generic [ref=e5457]: 🏆 FSA 4/5
+            - generic [ref=e5459]: ⭐ 4.4
+          - generic [ref=e5460]:
+            - heading "Gaucho Canary Wharf" [level=3] [ref=e5461]
+            - generic [ref=e5463]: british
+            - paragraph [ref=e5464]: 📍 Cabot Square, 29 Westferry Circus, London
+            - paragraph [ref=e5465]: 💰 £££
+            - paragraph [ref=e5466]: 1,981 reviews
+      - link "Dragon's Den Oriental Kitchen - chinese restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Dragon's Den Oriental Kitchen chinese 📍 Central London 💰 ££ 328 reviews" [ref=e5467] [cursor=pointer]:
+        - /url: /restaurant/dragons-den-oriental-kitchen-sjUpIGyA
+        - generic [ref=e5468]:
+          - generic [ref=e5469]:
+            - img "Dragon's Den Oriental Kitchen - chinese restaurant in Central London" [ref=e5470]
+            - generic [ref=e5473]: 🏆 FSA 4/5
+            - generic [ref=e5475]: ⭐ 4.4
+          - generic [ref=e5476]:
+            - heading "Dragon's Den Oriental Kitchen" [level=3] [ref=e5477]
+            - generic [ref=e5479]: chinese
+            - paragraph [ref=e5480]: 📍 Central London
+            - paragraph [ref=e5481]: 💰 ££
+            - paragraph [ref=e5482]: 328 reviews
+      - link "Naan Staap® - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.4 Naan Staap® british 📍 Central London 💰 ££ 1,046 reviews" [ref=e5483] [cursor=pointer]:
+        - /url: /restaurant/naan-staap-RhuQi_HE
+        - generic [ref=e5484]:
+          - generic [ref=e5485]:
+            - img "Naan Staap® - british restaurant in Central London" [ref=e5486]
+            - generic [ref=e5489]: 🏆 FSA 5/5
+            - generic [ref=e5491]: ⭐ 4.4
+          - generic [ref=e5492]:
+            - heading "Naan Staap®" [level=3] [ref=e5493]
+            - generic [ref=e5495]: british
+            - paragraph [ref=e5496]: 📍 Central London
+            - paragraph [ref=e5497]: 💰 ££
+            - paragraph [ref=e5498]: 1,046 reviews
+      - link "Madina Grill - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.4 Madina Grill british 📍 Central London 💰 ££ 1,005 reviews" [ref=e5499] [cursor=pointer]:
+        - /url: /restaurant/madina-grill-QHpwcjyU
+        - generic [ref=e5500]:
+          - generic [ref=e5501]:
+            - img "Madina Grill - british restaurant in Central London" [ref=e5502]
+            - generic [ref=e5505]: 🏆 FSA 5/5
+            - generic [ref=e5507]: ⭐ 4.4
+          - generic [ref=e5508]:
+            - heading "Madina Grill" [level=3] [ref=e5509]
+            - generic [ref=e5511]: british
+            - paragraph [ref=e5512]: 📍 Central London
+            - paragraph [ref=e5513]: 💰 ££
+            - paragraph [ref=e5514]: 1,005 reviews
+      - link "Zaiqa London - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.4 Zaiqa London british 📍 Tower Hamlets 💰 ££ 809 reviews" [ref=e5515] [cursor=pointer]:
+        - /url: /restaurant/zaiqa-london-tWxWQYfA
+        - generic [ref=e5516]:
+          - generic [ref=e5517]:
+            - img "Zaiqa London - british restaurant in Tower Hamlets" [ref=e5518]
+            - generic [ref=e5521]: 🏆 FSA 4/5
+            - generic [ref=e5523]: ⭐ 4.4
+          - generic [ref=e5524]:
+            - heading "Zaiqa London" [level=3] [ref=e5525]
+            - generic [ref=e5527]: british
+            - paragraph [ref=e5528]: 📍 Tower Hamlets
+            - paragraph [ref=e5529]: 💰 ££
+            - paragraph [ref=e5530]: 809 reviews
+      - link "Shahs Halal Food Whitechapel - indian restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Shahs Halal Food Whitechapel indian 📍 Central London 💰 ££ 46 reviews" [ref=e5531] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-whitechapel-BgYXLick
+        - generic [ref=e5532]:
+          - generic [ref=e5533]:
+            - img "Shahs Halal Food Whitechapel - indian restaurant in Central London" [ref=e5534]
+            - generic [ref=e5537]: 🏆 FSA 4/5
+            - generic [ref=e5539]: ⭐ 4.4
+          - generic [ref=e5540]:
+            - heading "Shahs Halal Food Whitechapel" [level=3] [ref=e5541]
+            - generic [ref=e5543]: indian
+            - paragraph [ref=e5544]: 📍 Central London
+            - paragraph [ref=e5545]: 💰 ££
+            - paragraph [ref=e5546]: 46 reviews
+      - link "Monal Restaurant London - modern-european restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.4 Monal Restaurant London modern-european 📍 Redbridge 💰 ££ 377 reviews" [ref=e5547] [cursor=pointer]:
+        - /url: /restaurant/monal-restaurant-london-GtNbVZcY
+        - generic [ref=e5548]:
+          - generic [ref=e5549]:
+            - img "Monal Restaurant London - modern-european restaurant in Redbridge" [ref=e5550]
+            - generic [ref=e5553]: 🏆 FSA 4/5
+            - generic [ref=e5555]: ⭐ 4.4
+          - generic [ref=e5556]:
+            - heading "Monal Restaurant London" [level=3] [ref=e5557]
+            - generic [ref=e5559]: modern-european
+            - paragraph [ref=e5560]: 📍 Redbridge
+            - paragraph [ref=e5561]: 💰 ££
+            - paragraph [ref=e5562]: 377 reviews
+      - link "Punjab Grill Lounge - indian restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.4 Punjab Grill Lounge indian 📍 Redbridge 💰 ££ 213 reviews" [ref=e5563] [cursor=pointer]:
+        - /url: /restaurant/punjab-grill-lounge-0mW3asiA
+        - generic [ref=e5564]:
+          - generic [ref=e5565]:
+            - img "Punjab Grill Lounge - indian restaurant in Redbridge" [ref=e5566]
+            - generic [ref=e5569]: 🏆 FSA 4/5
+            - generic [ref=e5571]: ⭐ 4.4
+          - generic [ref=e5572]:
+            - heading "Punjab Grill Lounge" [level=3] [ref=e5573]
+            - generic [ref=e5575]: indian
+            - paragraph [ref=e5576]: 📍 Redbridge
+            - paragraph [ref=e5577]: 💰 ££
+            - paragraph [ref=e5578]: 213 reviews
+      - link "Banana Leaf - modern-european restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.4 Banana Leaf modern-european 📍 Redbridge 💰 ££ 490 reviews" [ref=e5579] [cursor=pointer]:
+        - /url: /restaurant/banana-leaf-P-efP54I
+        - generic [ref=e5580]:
+          - generic [ref=e5581]:
+            - img "Banana Leaf - modern-european restaurant in Redbridge" [ref=e5582]
+            - generic [ref=e5585]: 🏆 FSA 5/5
+            - generic [ref=e5587]: ⭐ 4.4
+          - generic [ref=e5588]:
+            - heading "Banana Leaf" [level=3] [ref=e5589]
+            - generic [ref=e5591]: modern-european
+            - paragraph [ref=e5592]: 📍 Redbridge
+            - paragraph [ref=e5593]: 💰 ££
+            - paragraph [ref=e5594]: 490 reviews
+      - link "Kahani - modern-european restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.4 Kahani modern-european 📍 Redbridge 💰 ££ 540 reviews" [ref=e5595] [cursor=pointer]:
+        - /url: /restaurant/kahani-qIIK4pec
+        - generic [ref=e5596]:
+          - generic [ref=e5597]:
+            - img "Kahani - modern-european restaurant in Redbridge" [ref=e5598]
+            - generic [ref=e5601]: 🏆 FSA 4/5
+            - generic [ref=e5603]: ⭐ 4.4
+          - generic [ref=e5604]:
+            - heading "Kahani" [level=3] [ref=e5605]
+            - generic [ref=e5607]: modern-european
+            - paragraph [ref=e5608]: 📍 Redbridge
+            - paragraph [ref=e5609]: 💰 ££
+            - paragraph [ref=e5610]: 540 reviews
+      - link "Grill House - british restaurant in Redbridge 🏆 FSA 3/5 ⭐ 4.4 Grill House british 📍 Redbridge 💰 ££ 93 reviews" [ref=e5611] [cursor=pointer]:
+        - /url: /restaurant/grill-house-63U7YUG8
+        - generic [ref=e5612]:
+          - generic [ref=e5613]:
+            - img "Grill House - british restaurant in Redbridge" [ref=e5614]
+            - generic [ref=e5617]: 🏆 FSA 3/5
+            - generic [ref=e5619]: ⭐ 4.4
+          - generic [ref=e5620]:
+            - heading "Grill House" [level=3] [ref=e5621]
+            - generic [ref=e5623]: british
+            - paragraph [ref=e5624]: 📍 Redbridge
+            - paragraph [ref=e5625]: 💰 ££
+            - paragraph [ref=e5626]: 93 reviews
+      - link "Neyzen Restaurant and Pods - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.4 Neyzen Restaurant and Pods british 📍 Havering 💰 ££ 397 reviews" [ref=e5627] [cursor=pointer]:
+        - /url: /restaurant/neyzen-restaurant-and-pods-654FzkBE
+        - generic [ref=e5628]:
+          - generic [ref=e5629]:
+            - img "Neyzen Restaurant and Pods - british restaurant in Havering" [ref=e5630]
+            - generic [ref=e5633]: 🏆 FSA 4/5
+            - generic [ref=e5635]: ⭐ 4.4
+          - generic [ref=e5636]:
+            - heading "Neyzen Restaurant and Pods" [level=3] [ref=e5637]
+            - generic [ref=e5639]: british
+            - paragraph [ref=e5640]: 📍 Havering
+            - paragraph [ref=e5641]: 💰 ££
+            - paragraph [ref=e5642]: 397 reviews
+      - link "Ciao Bella - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.4 Ciao Bella british 📍 Havering 💰 ££ 1,032 reviews" [ref=e5643] [cursor=pointer]:
+        - /url: /restaurant/ciao-bella-d-nVDUK8
+        - generic [ref=e5644]:
+          - generic [ref=e5645]:
+            - img "Ciao Bella - british restaurant in Havering" [ref=e5646]
+            - generic [ref=e5649]: 🏆 FSA 4/5
+            - generic [ref=e5651]: ⭐ 4.4
+          - generic [ref=e5652]:
+            - heading "Ciao Bella" [level=3] [ref=e5653]
+            - generic [ref=e5655]: british
+            - paragraph [ref=e5656]: 📍 Havering
+            - paragraph [ref=e5657]: 💰 ££
+            - paragraph [ref=e5658]: 1,032 reviews
+      - link "Veyso's Romford Restaurant - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.4 Veyso's Romford Restaurant british 📍 Havering 💰 ££ 664 reviews" [ref=e5659] [cursor=pointer]:
+        - /url: /restaurant/veysos-romford-restaurant-_hxDBo0c
+        - generic [ref=e5660]:
+          - generic [ref=e5661]:
+            - img "Veyso's Romford Restaurant - british restaurant in Havering" [ref=e5662]
+            - generic [ref=e5665]: 🏆 FSA 4/5
+            - generic [ref=e5667]: ⭐ 4.4
+          - generic [ref=e5668]:
+            - heading "Veyso's Romford Restaurant" [level=3] [ref=e5669]
+            - generic [ref=e5671]: british
+            - paragraph [ref=e5672]: 📍 Havering
+            - paragraph [ref=e5673]: 💰 ££
+            - paragraph [ref=e5674]: 664 reviews
+      - link "Flippin Grill - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.4 Flippin Grill british 📍 Havering 💰 ££ 133 reviews" [ref=e5675] [cursor=pointer]:
+        - /url: /restaurant/flippin-grill-6vzYaNJo
+        - generic [ref=e5676]:
+          - generic [ref=e5677]:
+            - img "Flippin Grill - british restaurant in Havering" [ref=e5678]
+            - generic [ref=e5681]: 🏆 FSA 4/5
+            - generic [ref=e5683]: ⭐ 4.4
+          - generic [ref=e5684]:
+            - heading "Flippin Grill" [level=3] [ref=e5685]
+            - generic [ref=e5687]: british
+            - paragraph [ref=e5688]: 📍 Havering
+            - paragraph [ref=e5689]: 💰 ££
+            - paragraph [ref=e5690]: 133 reviews
+      - link "Bekash Restaurant & Take Away - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.4 Bekash Restaurant & Take Away british 📍 Havering 💰 ££ 366 reviews" [ref=e5691] [cursor=pointer]:
+        - /url: /restaurant/bekash-restaurant-take-away-SQyczPnM
+        - generic [ref=e5692]:
+          - generic [ref=e5693]:
+            - img "Bekash Restaurant & Take Away - british restaurant in Havering" [ref=e5694]
+            - generic [ref=e5697]: 🏆 FSA 4/5
+            - generic [ref=e5699]: ⭐ 4.4
+          - generic [ref=e5700]:
+            - heading "Bekash Restaurant & Take Away" [level=3] [ref=e5701]
+            - generic [ref=e5703]: british
+            - paragraph [ref=e5704]: 📍 Havering
+            - paragraph [ref=e5705]: 💰 ££
+            - paragraph [ref=e5706]: 366 reviews
+      - link "Lokma Westfield - turkish restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Lokma Westfield turkish 📍 Central London 💰 ££ 1,801 reviews" [ref=e5707] [cursor=pointer]:
+        - /url: /restaurant/lokma-westfield-VMXmovgc
+        - generic [ref=e5708]:
+          - generic [ref=e5709]:
+            - img "Lokma Westfield - turkish restaurant in Central London" [ref=e5710]
+            - generic [ref=e5713]: 🏆 FSA 4/5
+            - generic [ref=e5715]: ⭐ 4.4
+          - generic [ref=e5716]:
+            - heading "Lokma Westfield" [level=3] [ref=e5717]
+            - generic [ref=e5719]: turkish
+            - paragraph [ref=e5720]: 📍 Central London
+            - paragraph [ref=e5721]: 💰 ££
+            - paragraph [ref=e5722]: 1,801 reviews
+      - link "XIX Nineteen - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.4 XIX Nineteen british 📍 Central London 💰 £ 1,081 reviews" [ref=e5723] [cursor=pointer]:
+        - /url: /restaurant/xix-nineteen-72oCuJLc
+        - generic [ref=e5724]:
+          - generic [ref=e5725]:
+            - img "XIX Nineteen - british restaurant in Central London" [ref=e5726]
+            - generic [ref=e5729]: 🏆 FSA 3/5
+            - generic [ref=e5731]: ⭐ 4.4
+          - generic [ref=e5732]:
+            - heading "XIX Nineteen" [level=3] [ref=e5733]
+            - generic [ref=e5735]: british
+            - paragraph [ref=e5736]: 📍 Central London
+            - paragraph [ref=e5737]: 💰 £
+            - paragraph [ref=e5738]: 1,081 reviews
+      - link "Wahaca Stratford - mexican restaurant in Newham 🏆 FSA 4/5 ⭐ 4.4 Wahaca Stratford mexican 📍 Newham 💰 ££ 2,729 reviews" [ref=e5739] [cursor=pointer]:
+        - /url: /restaurant/wahaca-stratford-o9kIymhI
+        - generic [ref=e5740]:
+          - generic [ref=e5741]:
+            - img "Wahaca Stratford - mexican restaurant in Newham" [ref=e5742]
+            - generic [ref=e5745]: 🏆 FSA 4/5
+            - generic [ref=e5747]: ⭐ 4.4
+          - generic [ref=e5748]:
+            - heading "Wahaca Stratford" [level=3] [ref=e5749]
+            - generic [ref=e5751]: mexican
+            - paragraph [ref=e5752]: 📍 Newham
+            - paragraph [ref=e5753]: 💰 ££
+            - paragraph [ref=e5754]: 2,729 reviews
+      - link "Cafe Rasa Malaysia - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Cafe Rasa Malaysia british 📍 Central London 💰 ££ 1,940 reviews" [ref=e5755] [cursor=pointer]:
+        - /url: /restaurant/cafe-rasa-malaysia-ISDe9AFI
+        - generic [ref=e5756]:
+          - generic [ref=e5757]:
+            - img "Cafe Rasa Malaysia - british restaurant in Central London" [ref=e5758]
+            - generic [ref=e5761]: 🏆 FSA 4/5
+            - generic [ref=e5763]: ⭐ 4.4
+          - generic [ref=e5764]:
+            - heading "Cafe Rasa Malaysia" [level=3] [ref=e5765]
+            - generic [ref=e5767]: british
+            - paragraph [ref=e5768]: 📍 Central London
+            - paragraph [ref=e5769]: 💰 ££
+            - paragraph [ref=e5770]: 1,940 reviews
+      - link "Arepa & Co Venezuelan Restaurant - Bethnal Green - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Arepa & Co Venezuelan Restaurant - Bethnal Green british 📍 Central London 💰 ££ 1,637 reviews" [ref=e5771] [cursor=pointer]:
+        - /url: /restaurant/arepa-co-venezuelan-restaurant-bethnal-green-ny7vkwew
+        - generic [ref=e5772]:
+          - generic [ref=e5773]:
+            - img "Arepa & Co Venezuelan Restaurant - Bethnal Green - british restaurant in Central London" [ref=e5774]
+            - generic [ref=e5777]: 🏆 FSA 4/5
+            - generic [ref=e5779]: ⭐ 4.4
+          - generic [ref=e5780]:
+            - heading "Arepa & Co Venezuelan Restaurant - Bethnal Green" [level=3] [ref=e5781]
+            - generic [ref=e5783]: british
+            - paragraph [ref=e5784]: 📍 Central London
+            - paragraph [ref=e5785]: 💰 ££
+            - paragraph [ref=e5786]: 1,637 reviews
+      - link "Shah's Halal Food Cambridge Heath Hackney - turkish restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Shah's Halal Food Cambridge Heath Hackney turkish 📍 Central London 💰 ££ 94 reviews" [ref=e5787] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-cambridge-heath-hackney-pNIM5aFQ
+        - generic [ref=e5788]:
+          - generic [ref=e5789]:
+            - img "Shah's Halal Food Cambridge Heath Hackney - turkish restaurant in Central London" [ref=e5790]
+            - generic [ref=e5793]: 🏆 FSA 4/5
+            - generic [ref=e5795]: ⭐ 4.4
+          - generic [ref=e5796]:
+            - heading "Shah's Halal Food Cambridge Heath Hackney" [level=3] [ref=e5797]
+            - generic [ref=e5799]: turkish
+            - paragraph [ref=e5800]: 📍 Central London
+            - paragraph [ref=e5801]: 💰 ££
+            - paragraph [ref=e5802]: 94 reviews
+      - link "Andy's Burgers Mile End - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.4 Andy's Burgers Mile End british 📍 Tower Hamlets 💰 ££ 1,672 reviews" [ref=e5803] [cursor=pointer]:
+        - /url: /restaurant/andys-burgers-mile-end-TW8bh4kU
+        - generic [ref=e5804]:
+          - generic [ref=e5805]:
+            - img "Andy's Burgers Mile End - british restaurant in Tower Hamlets" [ref=e5806]
+            - generic [ref=e5809]: 🏆 FSA 4/5
+            - generic [ref=e5811]: ⭐ 4.4
+          - generic [ref=e5812]:
+            - heading "Andy's Burgers Mile End" [level=3] [ref=e5813]
+            - generic [ref=e5815]: british
+            - paragraph [ref=e5816]: 📍 Tower Hamlets
+            - paragraph [ref=e5817]: 💰 ££
+            - paragraph [ref=e5818]: 1,672 reviews
+      - link "Mr Wong’s Wok & Box ️ - modern-european restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.4 Mr Wong’s Wok & Box ️ modern-european 📍 Tower Hamlets 💰 ££ 859 reviews" [ref=e5819] [cursor=pointer]:
+        - /url: /restaurant/mr-wongs-wok-box-JF___OGk
+        - generic [ref=e5820]:
+          - generic [ref=e5821]:
+            - img "Mr Wong’s Wok & Box ️ - modern-european restaurant in Tower Hamlets" [ref=e5822]
+            - generic [ref=e5825]: 🏆 FSA 5/5
+            - generic [ref=e5827]: ⭐ 4.4
+          - generic [ref=e5828]:
+            - heading "Mr Wong’s Wok & Box ️" [level=3] [ref=e5829]
+            - generic [ref=e5831]: modern-european
+            - paragraph [ref=e5832]: 📍 Tower Hamlets
+            - paragraph [ref=e5833]: 💰 ££
+            - paragraph [ref=e5834]: 859 reviews
+      - link "Thai n Pie Stepney - thai restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.4 Thai n Pie Stepney thai 📍 Tower Hamlets 💰 ££ 1,506 reviews" [ref=e5835] [cursor=pointer]:
+        - /url: /restaurant/thai-n-pie-stepney-6znY8yug
+        - generic [ref=e5836]:
+          - generic [ref=e5837]:
+            - img "Thai n Pie Stepney - thai restaurant in Tower Hamlets" [ref=e5838]
+            - generic [ref=e5841]: 🏆 FSA 4/5
+            - generic [ref=e5843]: ⭐ 4.4
+          - generic [ref=e5844]:
+            - heading "Thai n Pie Stepney" [level=3] [ref=e5845]
+            - generic [ref=e5847]: thai
+            - paragraph [ref=e5848]: 📍 Tower Hamlets
+            - paragraph [ref=e5849]: 💰 ££
+            - paragraph [ref=e5850]: 1,506 reviews
+      - link "Elliot’s - South Hackney - modern-european restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Elliot’s - South Hackney modern-european 📍 Central London 💰 ££ 442 reviews" [ref=e5851] [cursor=pointer]:
+        - /url: /restaurant/elliots-south-hackney-Nq_DqqTc
+        - generic [ref=e5852]:
+          - generic [ref=e5853]:
+            - img "Elliot’s - South Hackney - modern-european restaurant in Central London" [ref=e5854]
+            - generic [ref=e5857]: 🏆 FSA 4/5
+            - generic [ref=e5859]: ⭐ 4.4
+          - generic [ref=e5860]:
+            - heading "Elliot’s - South Hackney" [level=3] [ref=e5861]
+            - generic [ref=e5863]: modern-european
+            - paragraph [ref=e5864]: 📍 Central London
+            - paragraph [ref=e5865]: 💰 ££
+            - paragraph [ref=e5866]: 442 reviews
+      - link "Smoke & Pepper (Bow) - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.4 Smoke & Pepper (Bow) british 📍 Tower Hamlets 💰 ££ 267 reviews" [ref=e5867] [cursor=pointer]:
+        - /url: /restaurant/smoke-pepper-bow-afJtvXNU
+        - generic [ref=e5868]:
+          - generic [ref=e5869]:
+            - img "Smoke & Pepper (Bow) - british restaurant in Tower Hamlets" [ref=e5870]
+            - generic [ref=e5873]: 🏆 FSA 4/5
+            - generic [ref=e5875]: ⭐ 4.4
+          - generic [ref=e5876]:
+            - heading "Smoke & Pepper (Bow)" [level=3] [ref=e5877]
+            - generic [ref=e5879]: british
+            - paragraph [ref=e5880]: 📍 Tower Hamlets
+            - paragraph [ref=e5881]: 💰 ££
+            - paragraph [ref=e5882]: 267 reviews
+      - link "Morgan Arms - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.4 Morgan Arms british 📍 Tower Hamlets 💰 ££ 1,229 reviews" [ref=e5883] [cursor=pointer]:
+        - /url: /restaurant/morgan-arms-bNumTxgU
+        - generic [ref=e5884]:
+          - generic [ref=e5885]:
+            - img "Morgan Arms - british restaurant in Tower Hamlets" [ref=e5886]
+            - generic [ref=e5889]: 🏆 FSA 5/5
+            - generic [ref=e5891]: ⭐ 4.4
+          - generic [ref=e5892]:
+            - heading "Morgan Arms" [level=3] [ref=e5893]
+            - generic [ref=e5895]: british
+            - paragraph [ref=e5896]: 📍 Tower Hamlets
+            - paragraph [ref=e5897]: 💰 ££
+            - paragraph [ref=e5898]: 1,229 reviews
+      - link "The Coborn - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.4 The Coborn british 📍 Tower Hamlets 💰 ££ 1,190 reviews" [ref=e5899] [cursor=pointer]:
+        - /url: /restaurant/the-coborn-XH3DZKJU
+        - generic [ref=e5900]:
+          - generic [ref=e5901]:
+            - img "The Coborn - british restaurant in Tower Hamlets" [ref=e5902]
+            - generic [ref=e5905]: 🏆 FSA 5/5
+            - generic [ref=e5907]: ⭐ 4.4
+          - generic [ref=e5908]:
+            - heading "The Coborn" [level=3] [ref=e5909]
+            - generic [ref=e5911]: british
+            - paragraph [ref=e5912]: 📍 Tower Hamlets
+            - paragraph [ref=e5913]: 💰 ££
+            - paragraph [ref=e5914]: 1,190 reviews
+      - link "Rusty Bike Pub Mile End - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.4 Rusty Bike Pub Mile End british 📍 Tower Hamlets 💰 ££ 1,731 reviews" [ref=e5915] [cursor=pointer]:
+        - /url: /restaurant/rusty-bike-pub-mile-end-bOmvIFdQ
+        - generic [ref=e5916]:
+          - generic [ref=e5917]:
+            - img "Rusty Bike Pub Mile End - british restaurant in Tower Hamlets" [ref=e5918]
+            - generic [ref=e5921]: 🏆 FSA 4/5
+            - generic [ref=e5923]: ⭐ 4.4
+          - generic [ref=e5924]:
+            - heading "Rusty Bike Pub Mile End" [level=3] [ref=e5925]
+            - generic [ref=e5927]: british
+            - paragraph [ref=e5928]: 📍 Tower Hamlets
+            - paragraph [ref=e5929]: 💰 ££
+            - paragraph [ref=e5930]: 1,731 reviews
+      - link "The Victoria - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.4 The Victoria british 📍 Tower Hamlets 💰 ££ 1,112 reviews" [ref=e5931] [cursor=pointer]:
+        - /url: /restaurant/the-victoria-kub67BuU
+        - generic [ref=e5932]:
+          - generic [ref=e5933]:
+            - img "The Victoria - british restaurant in Tower Hamlets" [ref=e5934]
+            - generic [ref=e5937]: 🏆 FSA 5/5
+            - generic [ref=e5939]: ⭐ 4.4
+          - generic [ref=e5940]:
+            - heading "The Victoria" [level=3] [ref=e5941]
+            - generic [ref=e5943]: british
+            - paragraph [ref=e5944]: 📍 Tower Hamlets
+            - paragraph [ref=e5945]: 💰 ££
+            - paragraph [ref=e5946]: 1,112 reviews
+      - link "Sultan Sofrasi - indian restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.4 Sultan Sofrasi indian 📍 Tower Hamlets 💰 £ 1,159 reviews" [ref=e5947] [cursor=pointer]:
+        - /url: /restaurant/sultan-sofrasi-lU11pmVo
+        - generic [ref=e5948]:
+          - generic [ref=e5949]:
+            - img "Sultan Sofrasi - indian restaurant in Tower Hamlets" [ref=e5950]
+            - generic [ref=e5953]: 🏆 FSA 5/5
+            - generic [ref=e5955]: ⭐ 4.4
+          - generic [ref=e5956]:
+            - heading "Sultan Sofrasi" [level=3] [ref=e5957]
+            - generic [ref=e5959]: indian
+            - paragraph [ref=e5960]: 📍 Tower Hamlets
+            - paragraph [ref=e5961]: 💰 £
+            - paragraph [ref=e5962]: 1,159 reviews
+      - link "Polo Bar - 24 Hour Great British Cafe - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Polo Bar - 24 Hour Great British Cafe british 📍 Central London 💰 ££ 5,165 reviews" [ref=e5963] [cursor=pointer]:
+        - /url: /restaurant/polo-bar-24-hour-great-british-cafe-vciwgIWY
+        - generic [ref=e5964]:
+          - generic [ref=e5965]:
+            - img "Polo Bar - 24 Hour Great British Cafe - british restaurant in Central London" [ref=e5966]
+            - generic [ref=e5969]: 🏆 FSA 4/5
+            - generic [ref=e5971]: ⭐ 4.4
+          - generic [ref=e5972]:
+            - heading "Polo Bar - 24 Hour Great British Cafe" [level=3] [ref=e5973]
+            - generic [ref=e5975]: british
+            - paragraph [ref=e5976]: 📍 Central London
+            - paragraph [ref=e5977]: 💰 ££
+            - paragraph [ref=e5978]: 5,165 reviews
+      - link "The Drift - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.4 The Drift british 📍 Central London 💰 ££ 1,992 reviews" [ref=e5979] [cursor=pointer]:
+        - /url: /restaurant/the-drift-N0-1tHoo
+        - generic [ref=e5980]:
+          - generic [ref=e5981]:
+            - img "The Drift - british restaurant in Central London" [ref=e5982]
+            - generic [ref=e5985]: 🏆 FSA 5/5
+            - generic [ref=e5987]: ⭐ 4.4
+          - generic [ref=e5988]:
+            - heading "The Drift" [level=3] [ref=e5989]
+            - generic [ref=e5991]: british
+            - paragraph [ref=e5992]: 📍 Central London
+            - paragraph [ref=e5993]: 💰 ££
+            - paragraph [ref=e5994]: 1,992 reviews
+      - link "The Ivy City Garden - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.4 The Ivy City Garden british 📍 Central London 💰 £££ 3,952 reviews" [ref=e5995] [cursor=pointer]:
+        - /url: /restaurant/the-ivy-city-garden-B1_nIObE
+        - generic [ref=e5996]:
+          - generic [ref=e5997]:
+            - img "The Ivy City Garden - british restaurant in Central London" [ref=e5998]
+            - generic [ref=e6001]: 🏆 FSA 5/5
+            - generic [ref=e6003]: ⭐ 4.4
+          - generic [ref=e6004]:
+            - heading "The Ivy City Garden" [level=3] [ref=e6005]
+            - generic [ref=e6007]: british
+            - paragraph [ref=e6008]: 📍 Central London
+            - paragraph [ref=e6009]: 💰 £££
+            - paragraph [ref=e6010]: 3,952 reviews
+      - link "Canto Corvino - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.4 Canto Corvino british 📍 Central London 💰 £££ 671 reviews" [ref=e6011] [cursor=pointer]:
+        - /url: /restaurant/canto-corvino-w6jbS4UY
+        - generic [ref=e6012]:
+          - generic [ref=e6013]:
+            - img "Canto Corvino - british restaurant in Central London" [ref=e6014]
+            - generic [ref=e6017]: 🏆 FSA 5/5
+            - generic [ref=e6019]: ⭐ 4.4
+          - generic [ref=e6020]:
+            - heading "Canto Corvino" [level=3] [ref=e6021]
+            - generic [ref=e6023]: british
+            - paragraph [ref=e6024]: 📍 Central London
+            - paragraph [ref=e6025]: 💰 £££
+            - paragraph [ref=e6026]: 671 reviews
+      - link "Bethnal Green Tavern - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.4 Bethnal Green Tavern british 📍 Central London 💰 ££ 707 reviews" [ref=e6027] [cursor=pointer]:
+        - /url: /restaurant/bethnal-green-tavern-uuzDpEjU
+        - generic [ref=e6028]:
+          - generic [ref=e6029]:
+            - img "Bethnal Green Tavern - british restaurant in Central London" [ref=e6030]
+            - generic [ref=e6033]: 🏆 FSA 5/5
+            - generic [ref=e6035]: ⭐ 4.4
+          - generic [ref=e6036]:
+            - heading "Bethnal Green Tavern" [level=3] [ref=e6037]
+            - generic [ref=e6039]: british
+            - paragraph [ref=e6040]: 📍 Central London
+            - paragraph [ref=e6041]: 💰 ££
+            - paragraph [ref=e6042]: 707 reviews
+      - link "Phat For Life - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.4 Phat For Life british 📍 Central London 💰 ££ 743 reviews" [ref=e6043] [cursor=pointer]:
+        - /url: /restaurant/phat-for-life-X5YYw1os
+        - generic [ref=e6044]:
+          - generic [ref=e6045]:
+            - img "Phat For Life - british restaurant in Central London" [ref=e6046]
+            - generic [ref=e6049]: 🏆 FSA 5/5
+            - generic [ref=e6051]: ⭐ 4.4
+          - generic [ref=e6052]:
+            - heading "Phat For Life" [level=3] [ref=e6053]
+            - generic [ref=e6055]: british
+            - paragraph [ref=e6056]: 📍 Central London
+            - paragraph [ref=e6057]: 💰 ££
+            - paragraph [ref=e6058]: 743 reviews
+      - link "Siddhi Pure Veg Restaurant - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Siddhi Pure Veg Restaurant british 📍 Central London 💰 ££ 792 reviews" [ref=e6059] [cursor=pointer]:
+        - /url: /restaurant/siddhi-pure-veg-restaurant-GzaXcD9E
+        - generic [ref=e6060]:
+          - generic [ref=e6061]:
+            - img "Siddhi Pure Veg Restaurant - british restaurant in Central London" [ref=e6062]
+            - generic [ref=e6065]: 🏆 FSA 4/5
+            - generic [ref=e6067]: ⭐ 4.4
+          - generic [ref=e6068]:
+            - heading "Siddhi Pure Veg Restaurant" [level=3] [ref=e6069]
+            - generic [ref=e6071]: british
+            - paragraph [ref=e6072]: 📍 Central London
+            - paragraph [ref=e6073]: 💰 ££
+            - paragraph [ref=e6074]: 792 reviews
+      - link "Sangeetha Veg Restaurant Indian - indian restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Sangeetha Veg Restaurant Indian indian 📍 Central London 💰 ££ 490 reviews" [ref=e6075] [cursor=pointer]:
+        - /url: /restaurant/sangeetha-veg-restaurant-indian-92CwApEU
+        - generic [ref=e6076]:
+          - generic [ref=e6077]:
+            - img "Sangeetha Veg Restaurant Indian - indian restaurant in Central London" [ref=e6078]
+            - generic [ref=e6081]: 🏆 FSA 4/5
+            - generic [ref=e6083]: ⭐ 4.4
+          - generic [ref=e6084]:
+            - heading "Sangeetha Veg Restaurant Indian" [level=3] [ref=e6085]
+            - generic [ref=e6087]: indian
+            - paragraph [ref=e6088]: 📍 Central London
+            - paragraph [ref=e6089]: 💰 ££
+            - paragraph [ref=e6090]: 490 reviews
+      - link "Facing Heaven - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.4 Facing Heaven british 📍 Central London 💰 ££ 234 reviews" [ref=e6091] [cursor=pointer]:
+        - /url: /restaurant/facing-heaven-zNu7a9ZU
+        - generic [ref=e6092]:
+          - generic [ref=e6093]:
+            - img "Facing Heaven - british restaurant in Central London" [ref=e6094]
+            - generic [ref=e6097]: 🏆 FSA 5/5
+            - generic [ref=e6099]: ⭐ 4.4
+          - generic [ref=e6100]:
+            - heading "Facing Heaven" [level=3] [ref=e6101]
+            - generic [ref=e6103]: british
+            - paragraph [ref=e6104]: 📍 Central London
+            - paragraph [ref=e6105]: 💰 ££
+            - paragraph [ref=e6106]: 234 reviews
+      - link "Baba's Village Restaurant - indian restaurant in Central London 🏆 FSA 4/5 ⭐ 4.4 Baba's Village Restaurant indian 📍 Central London 💰 ££ 190 reviews" [ref=e6107] [cursor=pointer]:
+        - /url: /restaurant/babas-village-restaurant-8v-UNYn8
+        - generic [ref=e6108]:
+          - generic [ref=e6109]:
+            - img "Baba's Village Restaurant - indian restaurant in Central London" [ref=e6110]
+            - generic [ref=e6113]: 🏆 FSA 4/5
+            - generic [ref=e6115]: ⭐ 4.4
+          - generic [ref=e6116]:
+            - heading "Baba's Village Restaurant" [level=3] [ref=e6117]
+            - generic [ref=e6119]: indian
+            - paragraph [ref=e6120]: 📍 Central London
+            - paragraph [ref=e6121]: 💰 ££
+            - paragraph [ref=e6122]: 190 reviews
+      - link "Imperial Treasure Fine Chinese Cuisine - modern-european restaurant in 9 Waterloo Pl, London 🏆 FSA 4/5 ⭐ 4.3 Imperial Treasure Fine Chinese Cuisine modern-european 📍 9 Waterloo Pl, London 💰 ££££ 859 reviews" [ref=e6123] [cursor=pointer]:
+        - /url: /restaurant/imperial-treasure-fine-chinese-cuisine-geXXfXro
+        - generic [ref=e6124]:
+          - generic [ref=e6125]:
+            - img "Imperial Treasure Fine Chinese Cuisine - modern-european restaurant in 9 Waterloo Pl, London" [ref=e6126]
+            - generic [ref=e6129]: 🏆 FSA 4/5
+            - generic [ref=e6131]: ⭐ 4.3
+          - generic [ref=e6132]:
+            - heading "Imperial Treasure Fine Chinese Cuisine" [level=3] [ref=e6133]
+            - generic [ref=e6135]: modern-european
+            - paragraph [ref=e6136]: 📍 9 Waterloo Pl, London
+            - paragraph [ref=e6137]: 💰 ££££
+            - paragraph [ref=e6138]: 859 reviews
+      - link "Le Relais de Venise L'Entrecote | Marylebone - french restaurant in 120 Marylebone Ln, London 🏆 FSA 4/5 ⭐ 4.3 Le Relais de Venise L'Entrecote | Marylebone french 📍 120 Marylebone Ln, London 💰 ££ 3,509 reviews" [ref=e6139] [cursor=pointer]:
+        - /url: /restaurant/le-relais-de-venise-lentrecote-marylebone-qxBm5ddA
+        - generic [ref=e6140]:
+          - generic [ref=e6141]:
+            - img "Le Relais de Venise L'Entrecote | Marylebone - french restaurant in 120 Marylebone Ln, London" [ref=e6142]
+            - generic [ref=e6145]: 🏆 FSA 4/5
+            - generic [ref=e6147]: ⭐ 4.3
+          - generic [ref=e6148]:
+            - heading "Le Relais de Venise L'Entrecote | Marylebone" [level=3] [ref=e6149]
+            - generic [ref=e6151]: french
+            - paragraph [ref=e6152]: 📍 120 Marylebone Ln, London
+            - paragraph [ref=e6153]: 💰 ££
+            - paragraph [ref=e6154]: 3,509 reviews
+      - link "Bibimbap Soho - korean restaurant in 11 Greek St, London 🏆 FSA 4/5 ⭐ 4.3 Bibimbap Soho korean 📍 11 Greek St, London 💰 £ 2,141 reviews" [ref=e6155] [cursor=pointer]:
+        - /url: /restaurant/bibimbap-soho-VayvElt8
+        - generic [ref=e6156]:
+          - generic [ref=e6157]:
+            - img "Bibimbap Soho - korean restaurant in 11 Greek St, London" [ref=e6158]
+            - generic [ref=e6161]: 🏆 FSA 4/5
+            - generic [ref=e6163]: ⭐ 4.3
+          - generic [ref=e6164]:
+            - heading "Bibimbap Soho" [level=3] [ref=e6165]
+            - generic [ref=e6167]: korean
+            - paragraph [ref=e6168]: 📍 11 Greek St, London
+            - paragraph [ref=e6169]: 💰 £
+            - paragraph [ref=e6170]: 2,141 reviews
+      - link "El Pastor Soho - spanish restaurant in The Crown, 66-70 Brewer St, London 🏆 FSA 5/5 ⭐ 4.3 El Pastor Soho spanish 📍 The Crown, 66-70 Brewer St, London 💰 ££ 911 reviews" [ref=e6171] [cursor=pointer]:
+        - /url: /restaurant/el-pastor-soho-vXIanGWc
+        - generic [ref=e6172]:
+          - generic [ref=e6173]:
+            - img "El Pastor Soho - spanish restaurant in The Crown, 66-70 Brewer St, London" [ref=e6174]
+            - generic [ref=e6177]: 🏆 FSA 5/5
+            - generic [ref=e6179]: ⭐ 4.3
+          - generic [ref=e6180]:
+            - heading "El Pastor Soho" [level=3] [ref=e6181]
+            - generic [ref=e6183]: spanish
+            - paragraph [ref=e6184]: 📍 The Crown, 66-70 Brewer St, London
+            - paragraph [ref=e6185]: 💰 ££
+            - paragraph [ref=e6186]: 911 reviews
+      - link "Cavita - spanish restaurant in 56-60 Wigmore St, London 🏆 FSA 2/5 ⭐ 4.3 Cavita spanish 📍 56-60 Wigmore St, London 💰 ££ 788 reviews" [ref=e6187] [cursor=pointer]:
+        - /url: /restaurant/cavita-Z6EHwE_c
+        - generic [ref=e6188]:
+          - generic [ref=e6189]:
+            - img "Cavita - spanish restaurant in 56-60 Wigmore St, London" [ref=e6190]
+            - generic [ref=e6193]: 🏆 FSA 2/5
+            - generic [ref=e6195]: ⭐ 4.3
+          - generic [ref=e6196]:
+            - heading "Cavita" [level=3] [ref=e6197]
+            - generic [ref=e6199]: spanish
+            - paragraph [ref=e6200]: 📍 56-60 Wigmore St, London
+            - paragraph [ref=e6201]: 💰 ££
+            - paragraph [ref=e6202]: 788 reviews
+      - link "The Breakfast Club Soho - mediterranean restaurant in 33 D'Arblay St, London 🏆 FSA 4/5 ⭐ 4.3 The Breakfast Club Soho mediterranean 📍 33 D'Arblay St, London 💰 ££ 4,037 reviews" [ref=e6203] [cursor=pointer]:
+        - /url: /restaurant/the-breakfast-club-soho-AEYl2RYc
+        - generic [ref=e6204]:
+          - generic [ref=e6205]:
+            - img "The Breakfast Club Soho - mediterranean restaurant in 33 D'Arblay St, London" [ref=e6206]
+            - generic [ref=e6209]: 🏆 FSA 4/5
+            - generic [ref=e6211]: ⭐ 4.3
+          - generic [ref=e6212]:
+            - heading "The Breakfast Club Soho" [level=3] [ref=e6213]
+            - generic [ref=e6215]: mediterranean
+            - paragraph [ref=e6216]: 📍 33 D'Arblay St, London
+            - paragraph [ref=e6217]: 💰 ££
+            - paragraph [ref=e6218]: 4,037 reviews
+      - link "Florattica Rooftop London - mediterranean restaurant in 11-15 Minories, London 🏆 FSA 4/5 ⭐ 4.3 Florattica Rooftop London mediterranean 📍 11-15 Minories, London 💰 ££ 1,126 reviews" [ref=e6219] [cursor=pointer]:
+        - /url: /restaurant/florattica-rooftop-london-tyhGZkk4
+        - generic [ref=e6220]:
+          - generic [ref=e6221]:
+            - img "Florattica Rooftop London - mediterranean restaurant in 11-15 Minories, London" [ref=e6222]
+            - generic [ref=e6225]: 🏆 FSA 4/5
+            - generic [ref=e6227]: ⭐ 4.3
+          - generic [ref=e6228]:
+            - heading "Florattica Rooftop London" [level=3] [ref=e6229]
+            - generic [ref=e6231]: mediterranean
+            - paragraph [ref=e6232]: 📍 11-15 Minories, London
+            - paragraph [ref=e6233]: 💰 ££
+            - paragraph [ref=e6234]: 1,126 reviews
+      - link "Pergola on the Wharf - mediterranean restaurant in Cabot Square, Crossrail Pl, London 🏆 FSA 4/5 ⭐ 4.3 Pergola on the Wharf mediterranean 📍 Cabot Square, Crossrail Pl, London 💰 ££ 3,134 reviews" [ref=e6235] [cursor=pointer]:
+        - /url: /restaurant/pergola-on-the-wharf-45r0lcTs
+        - generic [ref=e6236]:
+          - generic [ref=e6237]:
+            - img "Pergola on the Wharf - mediterranean restaurant in Cabot Square, Crossrail Pl, London" [ref=e6238]
+            - generic [ref=e6241]: 🏆 FSA 4/5
+            - generic [ref=e6243]: ⭐ 4.3
+          - generic [ref=e6244]:
+            - heading "Pergola on the Wharf" [level=3] [ref=e6245]
+            - generic [ref=e6247]: mediterranean
+            - paragraph [ref=e6248]: 📍 Cabot Square, Crossrail Pl, London
+            - paragraph [ref=e6249]: 💰 ££
+            - paragraph [ref=e6250]: 3,134 reviews
+      - link "34 Mayfair - british restaurant in 34 Grosvenor Sq, S Audley St, London 🏆 FSA 4/5 ⭐ 4.3 34 Mayfair british 📍 34 Grosvenor Sq, S Audley St, London 💰 ££££ 1,985 reviews" [ref=e6251] [cursor=pointer]:
+        - /url: /restaurant/34-mayfair-BpNd0i98
+        - generic [ref=e6252]:
+          - generic [ref=e6253]:
+            - img "34 Mayfair - british restaurant in 34 Grosvenor Sq, S Audley St, London" [ref=e6254]
+            - generic [ref=e6257]: 🏆 FSA 4/5
+            - generic [ref=e6259]: ⭐ 4.3
+          - generic [ref=e6260]:
+            - heading "34 Mayfair" [level=3] [ref=e6261]
+            - generic [ref=e6263]: british
+            - paragraph [ref=e6264]: 📍 34 Grosvenor Sq, S Audley St, London
+            - paragraph [ref=e6265]: 💰 ££££
+            - paragraph [ref=e6266]: 1,985 reviews
+      - link "Gaia Mayfair - british restaurant in 50 Dover St, London 🏆 FSA 4/5 ⭐ 4.3 Gaia Mayfair british 📍 50 Dover St, London 💰 ££ 708 reviews" [ref=e6267] [cursor=pointer]:
+        - /url: /restaurant/gaia-mayfair-vbqjY1fI
+        - generic [ref=e6268]:
+          - generic [ref=e6269]:
+            - img "Gaia Mayfair - british restaurant in 50 Dover St, London" [ref=e6270]
+            - generic [ref=e6273]: 🏆 FSA 4/5
+            - generic [ref=e6275]: ⭐ 4.3
+          - generic [ref=e6276]:
+            - heading "Gaia Mayfair" [level=3] [ref=e6277]
+            - generic [ref=e6279]: british
+            - paragraph [ref=e6280]: 📍 50 Dover St, London
+            - paragraph [ref=e6281]: 💰 ££
+            - paragraph [ref=e6282]: 708 reviews
+      - link "Hakkasan - british restaurant in 17 Bruton St, London 🏆 FSA 5/5 ⭐ 4.3 Hakkasan british 📍 17 Bruton St, London 💰 ££££ 4,250 reviews" [ref=e6283] [cursor=pointer]:
+        - /url: /restaurant/hakkasan-HmCM_92o
+        - generic [ref=e6284]:
+          - generic [ref=e6285]:
+            - img "Hakkasan - british restaurant in 17 Bruton St, London" [ref=e6286]
+            - generic [ref=e6289]: 🏆 FSA 5/5
+            - generic [ref=e6291]: ⭐ 4.3
+          - generic [ref=e6292]:
+            - heading "Hakkasan" [level=3] [ref=e6293]
+            - generic [ref=e6295]: british
+            - paragraph [ref=e6296]: 📍 17 Bruton St, London
+            - paragraph [ref=e6297]: 💰 ££££
+            - paragraph [ref=e6298]: 4,250 reviews
+      - link "Bluebird Chelsea - british restaurant in 350 King's Rd, London 🏆 FSA 5/5 ⭐ 4.3 Bluebird Chelsea british 📍 350 King's Rd, London 💰 £££ 4,674 reviews" [ref=e6299] [cursor=pointer]:
+        - /url: /restaurant/bluebird-chelsea-vqbTS508
+        - generic [ref=e6300]:
+          - generic [ref=e6301]:
+            - img "Bluebird Chelsea - british restaurant in 350 King's Rd, London" [ref=e6302]
+            - generic [ref=e6305]: 🏆 FSA 5/5
+            - generic [ref=e6307]: ⭐ 4.3
+          - generic [ref=e6308]:
+            - heading "Bluebird Chelsea" [level=3] [ref=e6309]
+            - generic [ref=e6311]: british
+            - paragraph [ref=e6312]: 📍 350 King's Rd, London
+            - paragraph [ref=e6313]: 💰 £££
+            - paragraph [ref=e6314]: 4,674 reviews
+      - link "Band of Burgers, Camden - british restaurant in 23 Camden High St, London 🏆 FSA 4/5 ⭐ 4.3 Band of Burgers, Camden british 📍 23 Camden High St, London 💰 ££ 1,490 reviews" [ref=e6315] [cursor=pointer]:
+        - /url: /restaurant/band-of-burgers-camden-hSECPqTc
+        - generic [ref=e6316]:
+          - generic [ref=e6317]:
+            - img "Band of Burgers, Camden - british restaurant in 23 Camden High St, London" [ref=e6318]
+            - generic [ref=e6321]: 🏆 FSA 4/5
+            - generic [ref=e6323]: ⭐ 4.3
+          - generic [ref=e6324]:
+            - heading "Band of Burgers, Camden" [level=3] [ref=e6325]
+            - generic [ref=e6327]: british
+            - paragraph [ref=e6328]: 📍 23 Camden High St, London
+            - paragraph [ref=e6329]: 💰 ££
+            - paragraph [ref=e6330]: 1,490 reviews
+      - link "Made in Brasil - british restaurant in 12 Inverness St, London 🏆 FSA 4/5 ⭐ 4.3 Made in Brasil british 📍 12 Inverness St, London 💰 ££ 2,071 reviews" [ref=e6331] [cursor=pointer]:
+        - /url: /restaurant/made-in-brasil-ksQdQ3X4
+        - generic [ref=e6332]:
+          - generic [ref=e6333]:
+            - img "Made in Brasil - british restaurant in 12 Inverness St, London" [ref=e6334]
+            - generic [ref=e6337]: 🏆 FSA 4/5
+            - generic [ref=e6339]: ⭐ 4.3
+          - generic [ref=e6340]:
+            - heading "Made in Brasil" [level=3] [ref=e6341]
+            - generic [ref=e6343]: british
+            - paragraph [ref=e6344]: 📍 12 Inverness St, London
+            - paragraph [ref=e6345]: 💰 ££
+            - paragraph [ref=e6346]: 2,071 reviews
+      - link "Halal Restaurant - turkish restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Halal Restaurant turkish 📍 Central London 💰 ££ 902 reviews" [ref=e6347] [cursor=pointer]:
+        - /url: /restaurant/halal-restaurant-518Nf8fE
+        - generic [ref=e6348]:
+          - generic [ref=e6349]:
+            - img "Halal Restaurant - turkish restaurant in Central London" [ref=e6350]
+            - generic [ref=e6353]: 🏆 FSA 4/5
+            - generic [ref=e6355]: ⭐ 4.3
+          - generic [ref=e6356]:
+            - heading "Halal Restaurant" [level=3] [ref=e6357]
+            - generic [ref=e6359]: turkish
+            - paragraph [ref=e6360]: 📍 Central London
+            - paragraph [ref=e6361]: 💰 ££
+            - paragraph [ref=e6362]: 902 reviews
+      - link "Hichki Indian Restaurant - indian restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.3 Hichki Indian Restaurant indian 📍 Tower Hamlets 💰 ££ 1,372 reviews" [ref=e6363] [cursor=pointer]:
+        - /url: /restaurant/hichki-indian-restaurant--qOdDlq0
+        - generic [ref=e6364]:
+          - generic [ref=e6365]:
+            - img "Hichki Indian Restaurant - indian restaurant in Tower Hamlets" [ref=e6366]
+            - generic [ref=e6369]: 🏆 FSA 4/5
+            - generic [ref=e6371]: ⭐ 4.3
+          - generic [ref=e6372]:
+            - heading "Hichki Indian Restaurant" [level=3] [ref=e6373]
+            - generic [ref=e6375]: indian
+            - paragraph [ref=e6376]: 📍 Tower Hamlets
+            - paragraph [ref=e6377]: 💰 ££
+            - paragraph [ref=e6378]: 1,372 reviews
+      - link "Sahara Grill - modern-european restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.3 Sahara Grill modern-european 📍 Redbridge 💰 £££ 2,098 reviews" [ref=e6379] [cursor=pointer]:
+        - /url: /restaurant/sahara-grill-Wifvn5yc
+        - generic [ref=e6380]:
+          - generic [ref=e6381]:
+            - img "Sahara Grill - modern-european restaurant in Redbridge" [ref=e6382]
+            - generic [ref=e6385]: 🏆 FSA 5/5
+            - generic [ref=e6387]: ⭐ 4.3
+          - generic [ref=e6388]:
+            - heading "Sahara Grill" [level=3] [ref=e6389]
+            - generic [ref=e6391]: modern-european
+            - paragraph [ref=e6392]: 📍 Redbridge
+            - paragraph [ref=e6393]: 💰 £££
+            - paragraph [ref=e6394]: 2,098 reviews
+      - link "Sultan - indian restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.3 Sultan indian 📍 Redbridge 💰 ££ 3,290 reviews" [ref=e6395] [cursor=pointer]:
+        - /url: /restaurant/sultan-PjGBi2fw
+        - generic [ref=e6396]:
+          - generic [ref=e6397]:
+            - img "Sultan - indian restaurant in Redbridge" [ref=e6398]
+            - generic [ref=e6401]: 🏆 FSA 5/5
+            - generic [ref=e6403]: ⭐ 4.3
+          - generic [ref=e6404]:
+            - heading "Sultan" [level=3] [ref=e6405]
+            - generic [ref=e6407]: indian
+            - paragraph [ref=e6408]: 📍 Redbridge
+            - paragraph [ref=e6409]: 💰 ££
+            - paragraph [ref=e6410]: 3,290 reviews
+      - link "Paradise Romford - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.3 Paradise Romford british 📍 Havering 💰 ££ 263 reviews" [ref=e6411] [cursor=pointer]:
+        - /url: /restaurant/paradise-romford-Ln3Crj1I
+        - generic [ref=e6412]:
+          - generic [ref=e6413]:
+            - img "Paradise Romford - british restaurant in Havering" [ref=e6414]
+            - generic [ref=e6417]: 🏆 FSA 4/5
+            - generic [ref=e6419]: ⭐ 4.3
+          - generic [ref=e6420]:
+            - heading "Paradise Romford" [level=3] [ref=e6421]
+            - generic [ref=e6423]: british
+            - paragraph [ref=e6424]: 📍 Havering
+            - paragraph [ref=e6425]: 💰 ££
+            - paragraph [ref=e6426]: 263 reviews
+      - link "Mezban stratford - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Mezban stratford british 📍 Central London 💰 ££ 63 reviews" [ref=e6427] [cursor=pointer]:
+        - /url: /restaurant/mezban-stratford-Lcb11Um0
+        - generic [ref=e6428]:
+          - generic [ref=e6429]:
+            - img "Mezban stratford - british restaurant in Central London" [ref=e6430]
+            - generic [ref=e6433]: 🏆 FSA 4/5
+            - generic [ref=e6435]: ⭐ 4.3
+          - generic [ref=e6436]:
+            - heading "Mezban stratford" [level=3] [ref=e6437]
+            - generic [ref=e6439]: british
+            - paragraph [ref=e6440]: 📍 Central London
+            - paragraph [ref=e6441]: 💰 ££
+            - paragraph [ref=e6442]: 63 reviews
+      - link "Big Easy Bar.B.Q & Crabshack - Westfield, Stratford - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Big Easy Bar.B.Q & Crabshack - Westfield, Stratford british 📍 Central London 💰 ££ 4,426 reviews" [ref=e6443] [cursor=pointer]:
+        - /url: /restaurant/big-easy-barbq-crabshack-westfield-stratford-fxLdYg8I
+        - generic [ref=e6444]:
+          - generic [ref=e6445]:
+            - img "Big Easy Bar.B.Q & Crabshack - Westfield, Stratford - british restaurant in Central London" [ref=e6446]
+            - generic [ref=e6449]: 🏆 FSA 4/5
+            - generic [ref=e6451]: ⭐ 4.3
+          - generic [ref=e6452]:
+            - heading "Big Easy Bar.B.Q & Crabshack - Westfield, Stratford" [level=3] [ref=e6453]
+            - generic [ref=e6455]: british
+            - paragraph [ref=e6456]: 📍 Central London
+            - paragraph [ref=e6457]: 💰 ££
+            - paragraph [ref=e6458]: 4,426 reviews
+      - link "Santi - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Santi british 📍 Central London 💰 ££ 980 reviews" [ref=e6459] [cursor=pointer]:
+        - /url: /restaurant/santi-3nWXx1jE
+        - generic [ref=e6460]:
+          - generic [ref=e6461]:
+            - img "Santi - british restaurant in Central London" [ref=e6462]
+            - generic [ref=e6465]: 🏆 FSA 4/5
+            - generic [ref=e6467]: ⭐ 4.3
+          - generic [ref=e6468]:
+            - heading "Santi" [level=3] [ref=e6469]
+            - generic [ref=e6471]: british
+            - paragraph [ref=e6472]: 📍 Central London
+            - paragraph [ref=e6473]: 💰 ££
+            - paragraph [ref=e6474]: 980 reviews
+      - link "Master Bao - Westfield Stratford City - japanese restaurant in Newham 🏆 FSA 4/5 ⭐ 4.3 Master Bao - Westfield Stratford City japanese 📍 Newham 💰 ££ 229 reviews" [ref=e6475] [cursor=pointer]:
+        - /url: /restaurant/master-bao-westfield-stratford-city-qpeJ69Ok
+        - generic [ref=e6476]:
+          - generic [ref=e6477]:
+            - img "Master Bao - Westfield Stratford City - japanese restaurant in Newham" [ref=e6478]
+            - generic [ref=e6481]: 🏆 FSA 4/5
+            - generic [ref=e6483]: ⭐ 4.3
+          - generic [ref=e6484]:
+            - heading "Master Bao - Westfield Stratford City" [level=3] [ref=e6485]
+            - generic [ref=e6487]: japanese
+            - paragraph [ref=e6488]: 📍 Newham
+            - paragraph [ref=e6489]: 💰 ££
+            - paragraph [ref=e6490]: 229 reviews
+      - link "Steakout Stratford - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.3 Steakout Stratford british 📍 Central London 💰 ££ 2,733 reviews" [ref=e6491] [cursor=pointer]:
+        - /url: /restaurant/steakout-stratford-7Grgxx_o
+        - generic [ref=e6492]:
+          - generic [ref=e6493]:
+            - img "Steakout Stratford - british restaurant in Central London" [ref=e6494]
+            - generic [ref=e6497]: 🏆 FSA 5/5
+            - generic [ref=e6499]: ⭐ 4.3
+          - generic [ref=e6500]:
+            - heading "Steakout Stratford" [level=3] [ref=e6501]
+            - generic [ref=e6503]: british
+            - paragraph [ref=e6504]: 📍 Central London
+            - paragraph [ref=e6505]: 💰 ££
+            - paragraph [ref=e6506]: 2,733 reviews
+      - link "BABABOOM - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 BABABOOM british 📍 Central London 💰 ££ 567 reviews" [ref=e6507] [cursor=pointer]:
+        - /url: /restaurant/bababoom-0glc6m20
+        - generic [ref=e6508]:
+          - generic [ref=e6509]:
+            - img "BABABOOM - british restaurant in Central London" [ref=e6510]
+            - generic [ref=e6513]: 🏆 FSA 4/5
+            - generic [ref=e6515]: ⭐ 4.3
+          - generic [ref=e6516]:
+            - heading "BABABOOM" [level=3] [ref=e6517]
+            - generic [ref=e6519]: british
+            - paragraph [ref=e6520]: 📍 Central London
+            - paragraph [ref=e6521]: 💰 ££
+            - paragraph [ref=e6522]: 567 reviews
+      - link "Afghan Grill - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.3 Afghan Grill british 📍 Central London 💰 ££ 633 reviews" [ref=e6523] [cursor=pointer]:
+        - /url: /restaurant/afghan-grill-dT6nJDE8
+        - generic [ref=e6524]:
+          - generic [ref=e6525]:
+            - img "Afghan Grill - british restaurant in Central London" [ref=e6526]
+            - generic [ref=e6529]: 🏆 FSA 5/5
+            - generic [ref=e6531]: ⭐ 4.3
+          - generic [ref=e6532]:
+            - heading "Afghan Grill" [level=3] [ref=e6533]
+            - generic [ref=e6535]: british
+            - paragraph [ref=e6536]: 📍 Central London
+            - paragraph [ref=e6537]: 💰 ££
+            - paragraph [ref=e6538]: 633 reviews
+      - link "Papi Restaurant - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Papi Restaurant british 📍 Central London 💰 ££ 208 reviews" [ref=e6539] [cursor=pointer]:
+        - /url: /restaurant/papi-restaurant-NkdI8A4E
+        - generic [ref=e6540]:
+          - generic [ref=e6541]:
+            - img "Papi Restaurant - british restaurant in Central London" [ref=e6542]
+            - generic [ref=e6545]: 🏆 FSA 4/5
+            - generic [ref=e6547]: ⭐ 4.3
+          - generic [ref=e6548]:
+            - heading "Papi Restaurant" [level=3] [ref=e6549]
+            - generic [ref=e6551]: british
+            - paragraph [ref=e6552]: 📍 Central London
+            - paragraph [ref=e6553]: 💰 ££
+            - paragraph [ref=e6554]: 208 reviews
+      - link "Morito - british restaurant in Hackney 🏆 FSA 5/5 ⭐ 4.3 Morito british 📍 Hackney 💰 ££ 1,301 reviews" [ref=e6555] [cursor=pointer]:
+        - /url: /restaurant/morito-FDrxvRIg
+        - generic [ref=e6556]:
+          - generic [ref=e6557]:
+            - img "Morito - british restaurant in Hackney" [ref=e6558]
+            - generic [ref=e6561]: 🏆 FSA 5/5
+            - generic [ref=e6563]: ⭐ 4.3
+          - generic [ref=e6564]:
+            - heading "Morito" [level=3] [ref=e6565]
+            - generic [ref=e6567]: british
+            - paragraph [ref=e6568]: 📍 Hackney
+            - paragraph [ref=e6569]: 💰 ££
+            - paragraph [ref=e6570]: 1,301 reviews
+      - link "LARDO - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.3 LARDO british 📍 Central London 💰 ££ 1,307 reviews" [ref=e6571] [cursor=pointer]:
+        - /url: /restaurant/lardo-H0Dc5OrU
+        - generic [ref=e6572]:
+          - generic [ref=e6573]:
+            - img "LARDO - british restaurant in Central London" [ref=e6574]
+            - generic [ref=e6577]: 🏆 FSA 5/5
+            - generic [ref=e6579]: ⭐ 4.3
+          - generic [ref=e6580]:
+            - heading "LARDO" [level=3] [ref=e6581]
+            - generic [ref=e6583]: british
+            - paragraph [ref=e6584]: 📍 Central London
+            - paragraph [ref=e6585]: 💰 ££
+            - paragraph [ref=e6586]: 1,307 reviews
+      - link "Mama Restaurant London - british restaurant in Hackney 🏆 FSA 4/5 ⭐ 4.3 Mama Restaurant London british 📍 Hackney 💰 ££ 149 reviews" [ref=e6587] [cursor=pointer]:
+        - /url: /restaurant/mama-restaurant-london-e6EX_1ZU
+        - generic [ref=e6588]:
+          - generic [ref=e6589]:
+            - img "Mama Restaurant London - british restaurant in Hackney" [ref=e6590]
+            - generic [ref=e6593]: 🏆 FSA 4/5
+            - generic [ref=e6595]: ⭐ 4.3
+          - generic [ref=e6596]:
+            - heading "Mama Restaurant London" [level=3] [ref=e6597]
+            - generic [ref=e6599]: british
+            - paragraph [ref=e6600]: 📍 Hackney
+            - paragraph [ref=e6601]: 💰 ££
+            - paragraph [ref=e6602]: 149 reviews
+      - link "Mare Street Market - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.3 Mare Street Market british 📍 Central London 💰 ££ 2,011 reviews" [ref=e6603] [cursor=pointer]:
+        - /url: /restaurant/mare-street-market-1N4GamLg
+        - generic [ref=e6604]:
+          - generic [ref=e6605]:
+            - img "Mare Street Market - british restaurant in Central London" [ref=e6606]
+            - generic [ref=e6609]: 🏆 FSA 5/5
+            - generic [ref=e6611]: ⭐ 4.3
+          - generic [ref=e6612]:
+            - heading "Mare Street Market" [level=3] [ref=e6613]
+            - generic [ref=e6615]: british
+            - paragraph [ref=e6616]: 📍 Central London
+            - paragraph [ref=e6617]: 💰 ££
+            - paragraph [ref=e6618]: 2,011 reviews
+      - link "Mile End Sandwich Bar - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.3 Mile End Sandwich Bar british 📍 Tower Hamlets 💰 ££ 116 reviews" [ref=e6619] [cursor=pointer]:
+        - /url: /restaurant/mile-end-sandwich-bar-3KeWfRqU
+        - generic [ref=e6620]:
+          - generic [ref=e6621]:
+            - img "Mile End Sandwich Bar - british restaurant in Tower Hamlets" [ref=e6622]
+            - generic [ref=e6625]: 🏆 FSA 5/5
+            - generic [ref=e6627]: ⭐ 4.3
+          - generic [ref=e6628]:
+            - heading "Mile End Sandwich Bar" [level=3] [ref=e6629]
+            - generic [ref=e6631]: british
+            - paragraph [ref=e6632]: 📍 Tower Hamlets
+            - paragraph [ref=e6633]: 💰 ££
+            - paragraph [ref=e6634]: 116 reviews
+      - link "Suite 85 Grill - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Suite 85 Grill british 📍 Central London 💰 ££ 24 reviews" [ref=e6635] [cursor=pointer]:
+        - /url: /restaurant/suite-85-grill-CUCup5CY
+        - generic [ref=e6636]:
+          - generic [ref=e6637]:
+            - img "Suite 85 Grill - british restaurant in Central London" [ref=e6638]
+            - generic [ref=e6641]: 🏆 FSA 4/5
+            - generic [ref=e6643]: ⭐ 4.3
+          - generic [ref=e6644]:
+            - heading "Suite 85 Grill" [level=3] [ref=e6645]
+            - generic [ref=e6647]: british
+            - paragraph [ref=e6648]: 📍 Central London
+            - paragraph [ref=e6649]: 💰 ££
+            - paragraph [ref=e6650]: 24 reviews
+      - link "Las Iguanas - London - Stratford Westfield - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Las Iguanas - London - Stratford Westfield british 📍 Central London 💰 ££ 5,372 reviews" [ref=e6651] [cursor=pointer]:
+        - /url: /restaurant/las-iguanas-london-stratford-westfield-p0AuOil0
+        - generic [ref=e6652]:
+          - generic [ref=e6653]:
+            - img "Las Iguanas - London - Stratford Westfield - british restaurant in Central London" [ref=e6654]
+            - generic [ref=e6657]: 🏆 FSA 4/5
+            - generic [ref=e6659]: ⭐ 4.3
+          - generic [ref=e6660]:
+            - heading "Las Iguanas - London - Stratford Westfield" [level=3] [ref=e6661]
+            - generic [ref=e6663]: british
+            - paragraph [ref=e6664]: 📍 Central London
+            - paragraph [ref=e6665]: 💰 ££
+            - paragraph [ref=e6666]: 5,372 reviews
+      - link "Yauatcha City - japanese restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Yauatcha City japanese 📍 Central London 💰 £££ 1,643 reviews" [ref=e6667] [cursor=pointer]:
+        - /url: /restaurant/yauatcha-city-8qOE5f-k
+        - generic [ref=e6668]:
+          - generic [ref=e6669]:
+            - img "Yauatcha City - japanese restaurant in Central London" [ref=e6670]
+            - generic [ref=e6673]: 🏆 FSA 4/5
+            - generic [ref=e6675]: ⭐ 4.3
+          - generic [ref=e6676]:
+            - heading "Yauatcha City" [level=3] [ref=e6677]
+            - generic [ref=e6679]: japanese
+            - paragraph [ref=e6680]: 📍 Central London
+            - paragraph [ref=e6681]: 💰 £££
+            - paragraph [ref=e6682]: 1,643 reviews
+      - link "Luca Dsq. - italian restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Luca Dsq. italian 📍 Central London 💰 ££ 370 reviews" [ref=e6683] [cursor=pointer]:
+        - /url: /restaurant/luca-dsq-28IO_Lr8
+        - generic [ref=e6684]:
+          - generic [ref=e6685]:
+            - img "Luca Dsq. - italian restaurant in Central London" [ref=e6686]
+            - generic [ref=e6689]: 🏆 FSA 4/5
+            - generic [ref=e6691]: ⭐ 4.3
+          - generic [ref=e6692]:
+            - heading "Luca Dsq." [level=3] [ref=e6693]
+            - generic [ref=e6695]: italian
+            - paragraph [ref=e6696]: 📍 Central London
+            - paragraph [ref=e6697]: 💰 ££
+            - paragraph [ref=e6698]: 370 reviews
+      - link "Smoke & Pepper (Gants Hill) - british restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.3 Smoke & Pepper (Gants Hill) british 📍 Redbridge 💰 ££ 189 reviews" [ref=e6699] [cursor=pointer]:
+        - /url: /restaurant/smoke-pepper-gants-hill-wwnvHNHc
+        - generic [ref=e6700]:
+          - generic [ref=e6701]:
+            - img "Smoke & Pepper (Gants Hill) - british restaurant in Redbridge" [ref=e6702]
+            - generic [ref=e6705]: 🏆 FSA 4/5
+            - generic [ref=e6707]: ⭐ 4.3
+          - generic [ref=e6708]:
+            - heading "Smoke & Pepper (Gants Hill)" [level=3] [ref=e6709]
+            - generic [ref=e6711]: british
+            - paragraph [ref=e6712]: 📍 Redbridge
+            - paragraph [ref=e6713]: 💰 ££
+            - paragraph [ref=e6714]: 189 reviews
+      - link "Famz Peri Peri - british restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.3 Famz Peri Peri british 📍 Redbridge 💰 ££ 835 reviews" [ref=e6715] [cursor=pointer]:
+        - /url: /restaurant/famz-peri-peri-VP9cAyrk
+        - generic [ref=e6716]:
+          - generic [ref=e6717]:
+            - img "Famz Peri Peri - british restaurant in Redbridge" [ref=e6718]
+            - generic [ref=e6721]: 🏆 FSA 4/5
+            - generic [ref=e6723]: ⭐ 4.3
+          - generic [ref=e6724]:
+            - heading "Famz Peri Peri" [level=3] [ref=e6725]
+            - generic [ref=e6727]: british
+            - paragraph [ref=e6728]: 📍 Redbridge
+            - paragraph [ref=e6729]: 💰 ££
+            - paragraph [ref=e6730]: 835 reviews
+      - link "Capeesh - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.3 Capeesh british 📍 Central London 💰 ££ 2,541 reviews" [ref=e6731] [cursor=pointer]:
+        - /url: /restaurant/capeesh-3QllZwKU
+        - generic [ref=e6732]:
+          - generic [ref=e6733]:
+            - img "Capeesh - british restaurant in Central London" [ref=e6734]
+            - generic [ref=e6737]: 🏆 FSA 5/5
+            - generic [ref=e6739]: ⭐ 4.3
+          - generic [ref=e6740]:
+            - heading "Capeesh" [level=3] [ref=e6741]
+            - generic [ref=e6743]: british
+            - paragraph [ref=e6744]: 📍 Central London
+            - paragraph [ref=e6745]: 💰 ££
+            - paragraph [ref=e6746]: 2,541 reviews
+      - link "Sweet Café - Stepney - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.3 Sweet Café - Stepney british 📍 Tower Hamlets 💰 ££ 1,773 reviews" [ref=e6747] [cursor=pointer]:
+        - /url: /restaurant/sweet-caf-stepney-mWfdJ9Ik
+        - generic [ref=e6748]:
+          - generic [ref=e6749]:
+            - img "Sweet Café - Stepney - british restaurant in Tower Hamlets" [ref=e6750]
+            - generic [ref=e6753]: 🏆 FSA 4/5
+            - generic [ref=e6755]: ⭐ 4.3
+          - generic [ref=e6756]:
+            - heading "Sweet Café - Stepney" [level=3] [ref=e6757]
+            - generic [ref=e6759]: british
+            - paragraph [ref=e6760]: 📍 Tower Hamlets
+            - paragraph [ref=e6761]: 💰 ££
+            - paragraph [ref=e6762]: 1,773 reviews
+      - link "Shahs Halal Food - Leytonstone High Road - indian restaurant in Central London 🏆 FSA 4/5 ⭐ 4.3 Shahs Halal Food - Leytonstone High Road indian 📍 Central London 💰 ££ 56 reviews" [ref=e6763] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-leytonstone-high-road--LG_dncA
+        - generic [ref=e6764]:
+          - generic [ref=e6765]:
+            - img "Shahs Halal Food - Leytonstone High Road - indian restaurant in Central London" [ref=e6766]
+            - generic [ref=e6769]: 🏆 FSA 4/5
+            - generic [ref=e6771]: ⭐ 4.3
+          - generic [ref=e6772]:
+            - heading "Shahs Halal Food - Leytonstone High Road" [level=3] [ref=e6773]
+            - generic [ref=e6775]: indian
+            - paragraph [ref=e6776]: 📍 Central London
+            - paragraph [ref=e6777]: 💰 ££
+            - paragraph [ref=e6778]: 56 reviews
+      - link "Hutong - japanese restaurant in lvl 33, 31 St Thomas St, London 🏆 FSA 5/5 ⭐ 4.2 Hutong japanese 📍 lvl 33, 31 St Thomas St, London 💰 ££££ 6,986 reviews" [ref=e6779] [cursor=pointer]:
+        - /url: /restaurant/hutong-Q49MtNE4
+        - generic [ref=e6780]:
+          - generic [ref=e6781]:
+            - img "Hutong - japanese restaurant in lvl 33, 31 St Thomas St, London" [ref=e6782]
+            - generic [ref=e6785]: 🏆 FSA 5/5
+            - generic [ref=e6787]: ⭐ 4.2
+          - generic [ref=e6788]:
+            - heading "Hutong" [level=3] [ref=e6789]
+            - generic [ref=e6791]: japanese
+            - paragraph [ref=e6792]: 📍 lvl 33, 31 St Thomas St, London
+            - paragraph [ref=e6793]: 💰 ££££
+            - paragraph [ref=e6794]: 6,986 reviews
+      - link "GAIL's Bakery Soho - mediterranean restaurant in 128 Wardour St, London 🏆 FSA 4/5 ⭐ 4.2 GAIL's Bakery Soho mediterranean 📍 128 Wardour St, London 💰 ££ 978 reviews" [ref=e6795] [cursor=pointer]:
+        - /url: /restaurant/gails-bakery-soho-hT1Hvx9k
+        - generic [ref=e6796]:
+          - generic [ref=e6797]:
+            - img "GAIL's Bakery Soho - mediterranean restaurant in 128 Wardour St, London" [ref=e6798]
+            - generic [ref=e6801]: 🏆 FSA 4/5
+            - generic [ref=e6803]: ⭐ 4.2
+          - generic [ref=e6804]:
+            - heading "GAIL's Bakery Soho" [level=3] [ref=e6805]
+            - generic [ref=e6807]: mediterranean
+            - paragraph [ref=e6808]: 📍 128 Wardour St, London
+            - paragraph [ref=e6809]: 💰 ££
+            - paragraph [ref=e6810]: 978 reviews
+      - link "London Bridge Rooftop Bar - mediterranean restaurant in Colechurch House, Bridge Walk, London 🏆 FSA 4/5 ⭐ 4.2 London Bridge Rooftop Bar mediterranean 📍 Colechurch House, Bridge Walk, London 💰 ££ 2,688 reviews" [ref=e6811] [cursor=pointer]:
+        - /url: /restaurant/london-bridge-rooftop-bar-FjKk2OHo
+        - generic [ref=e6812]:
+          - generic [ref=e6813]:
+            - img "London Bridge Rooftop Bar - mediterranean restaurant in Colechurch House, Bridge Walk, London" [ref=e6814]
+            - generic [ref=e6817]: 🏆 FSA 4/5
+            - generic [ref=e6819]: ⭐ 4.2
+          - generic [ref=e6820]:
+            - heading "London Bridge Rooftop Bar" [level=3] [ref=e6821]
+            - generic [ref=e6823]: mediterranean
+            - paragraph [ref=e6824]: 📍 Colechurch House, Bridge Walk, London
+            - paragraph [ref=e6825]: 💰 ££
+            - paragraph [ref=e6826]: 2,688 reviews
+      - link "Aviary - mediterranean restaurant in Royal London House, 22-25 Finsbury Square, London 🏆 FSA 4/5 ⭐ 4.2 Aviary mediterranean 📍 Royal London House, 22-25 Finsbury Square, London 💰 £££ 2,872 reviews" [ref=e6827] [cursor=pointer]:
+        - /url: /restaurant/aviary-KWOwoSgs
+        - generic [ref=e6828]:
+          - generic [ref=e6829]:
+            - img "Aviary - mediterranean restaurant in Royal London House, 22-25 Finsbury Square, London" [ref=e6830]
+            - generic [ref=e6833]: 🏆 FSA 4/5
+            - generic [ref=e6835]: ⭐ 4.2
+          - generic [ref=e6836]:
+            - heading "Aviary" [level=3] [ref=e6837]
+            - generic [ref=e6839]: mediterranean
+            - paragraph [ref=e6840]: 📍 Royal London House, 22-25 Finsbury Square, London
+            - paragraph [ref=e6841]: 💰 £££
+            - paragraph [ref=e6842]: 2,872 reviews
+      - link "Granger & Co. Chelsea - british restaurant in 237-239 Pavilion Rd, London 🏆 FSA 4/5 ⭐ 4.2 Granger & Co. Chelsea british 📍 237-239 Pavilion Rd, London 💰 ££ 2,308 reviews" [ref=e6843] [cursor=pointer]:
+        - /url: /restaurant/granger-co-chelsea-HwWGWYYA
+        - generic [ref=e6844]:
+          - generic [ref=e6845]:
+            - img "Granger & Co. Chelsea - british restaurant in 237-239 Pavilion Rd, London" [ref=e6846]
+            - generic [ref=e6849]: 🏆 FSA 4/5
+            - generic [ref=e6851]: ⭐ 4.2
+          - generic [ref=e6852]:
+            - heading "Granger & Co. Chelsea" [level=3] [ref=e6853]
+            - generic [ref=e6855]: british
+            - paragraph [ref=e6856]: 📍 237-239 Pavilion Rd, London
+            - paragraph [ref=e6857]: 💰 ££
+            - paragraph [ref=e6858]: 2,308 reviews
+      - link "Inamo Covent Garden - british restaurant in 11-14 Hanover Pl, London 🏆 FSA 4/5 ⭐ 4.2 Inamo Covent Garden british 📍 11-14 Hanover Pl, London 💰 ££ 10,272 reviews" [ref=e6859] [cursor=pointer]:
+        - /url: /restaurant/inamo-covent-garden-FVW5YtUs
+        - generic [ref=e6860]:
+          - generic [ref=e6861]:
+            - img "Inamo Covent Garden - british restaurant in 11-14 Hanover Pl, London" [ref=e6862]
+            - generic [ref=e6865]: 🏆 FSA 4/5
+            - generic [ref=e6867]: ⭐ 4.2
+          - generic [ref=e6868]:
+            - heading "Inamo Covent Garden" [level=3] [ref=e6869]
+            - generic [ref=e6871]: british
+            - paragraph [ref=e6872]: 📍 11-14 Hanover Pl, London
+            - paragraph [ref=e6873]: 💰 ££
+            - paragraph [ref=e6874]: 10,272 reviews
+      - link "Six by Nico Canary Wharf - british restaurant in Cabot Square, Chancellor Passage, London 🏆 FSA 5/5 ⭐ 4.2 Six by Nico Canary Wharf british 📍 Cabot Square, Chancellor Passage, London 💰 ££ 1,336 reviews" [ref=e6875] [cursor=pointer]:
+        - /url: /restaurant/six-by-nico-canary-wharf-83ClsbOQ
+        - generic [ref=e6876]:
+          - generic [ref=e6877]:
+            - img "Six by Nico Canary Wharf - british restaurant in Cabot Square, Chancellor Passage, London" [ref=e6878]
+            - generic [ref=e6881]: 🏆 FSA 5/5
+            - generic [ref=e6883]: ⭐ 4.2
+          - generic [ref=e6884]:
+            - heading "Six by Nico Canary Wharf" [level=3] [ref=e6885]
+            - generic [ref=e6887]: british
+            - paragraph [ref=e6888]: 📍 Cabot Square, Chancellor Passage, London
+            - paragraph [ref=e6889]: 💰 ££
+            - paragraph [ref=e6890]: 1,336 reviews
+      - link "Efes Restaurant (Whitechapel) - turkish restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.2 Efes Restaurant (Whitechapel) turkish 📍 Tower Hamlets 💰 ££ 3,830 reviews" [ref=e6891] [cursor=pointer]:
+        - /url: /restaurant/efes-restaurant-whitechapel-XQYLbLIY
+        - generic [ref=e6892]:
+          - generic [ref=e6893]:
+            - img "Efes Restaurant (Whitechapel) - turkish restaurant in Tower Hamlets" [ref=e6894]
+            - generic [ref=e6897]: 🏆 FSA 4/5
+            - generic [ref=e6899]: ⭐ 4.2
+          - generic [ref=e6900]:
+            - heading "Efes Restaurant (Whitechapel)" [level=3] [ref=e6901]
+            - generic [ref=e6903]: turkish
+            - paragraph [ref=e6904]: 📍 Tower Hamlets
+            - paragraph [ref=e6905]: 💰 ££
+            - paragraph [ref=e6906]: 3,830 reviews
+      - link "Sahara Grill Whitechapel - modern-european restaurant in Central London 🏆 FSA 4/5 ⭐ 4.2 Sahara Grill Whitechapel modern-european 📍 Central London 💰 ££ 2,044 reviews" [ref=e6907] [cursor=pointer]:
+        - /url: /restaurant/sahara-grill-whitechapel-5W_MyEe4
+        - generic [ref=e6908]:
+          - generic [ref=e6909]:
+            - img "Sahara Grill Whitechapel - modern-european restaurant in Central London" [ref=e6910]
+            - generic [ref=e6913]: 🏆 FSA 4/5
+            - generic [ref=e6915]: ⭐ 4.2
+          - generic [ref=e6916]:
+            - heading "Sahara Grill Whitechapel" [level=3] [ref=e6917]
+            - generic [ref=e6919]: modern-european
+            - paragraph [ref=e6920]: 📍 Central London
+            - paragraph [ref=e6921]: 💰 ££
+            - paragraph [ref=e6922]: 2,044 reviews
+      - link "Ivy Tree - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.2 Ivy Tree british 📍 Havering 💰 £ 1,128 reviews" [ref=e6923] [cursor=pointer]:
+        - /url: /restaurant/ivy-tree-2V15z_bY
+        - generic [ref=e6924]:
+          - generic [ref=e6925]:
+            - img "Ivy Tree - british restaurant in Havering" [ref=e6926]
+            - generic [ref=e6929]: 🏆 FSA 5/5
+            - generic [ref=e6931]: ⭐ 4.2
+          - generic [ref=e6932]:
+            - heading "Ivy Tree" [level=3] [ref=e6933]
+            - generic [ref=e6935]: british
+            - paragraph [ref=e6936]: 📍 Havering
+            - paragraph [ref=e6937]: 💰 £
+            - paragraph [ref=e6938]: 1,128 reviews
+      - link "COSMO World Buffet Romford - british restaurant in Havering 🏆 FSA 4/5 ⭐ 4.2 COSMO World Buffet Romford british 📍 Havering 💰 ££ 5,276 reviews" [ref=e6939] [cursor=pointer]:
+        - /url: /restaurant/cosmo-world-buffet-romford-GAZf8uiE
+        - generic [ref=e6940]:
+          - generic [ref=e6941]:
+            - img "COSMO World Buffet Romford - british restaurant in Havering" [ref=e6942]
+            - generic [ref=e6945]: 🏆 FSA 4/5
+            - generic [ref=e6947]: ⭐ 4.2
+          - generic [ref=e6948]:
+            - heading "COSMO World Buffet Romford" [level=3] [ref=e6949]
+            - generic [ref=e6951]: british
+            - paragraph [ref=e6952]: 📍 Havering
+            - paragraph [ref=e6953]: 💰 ££
+            - paragraph [ref=e6954]: 5,276 reviews
+      - link "Minoa Restaurant - british restaurant in Havering 🏆 FSA 5/5 ⭐ 4.2 Minoa Restaurant british 📍 Havering 💰 ££ 168 reviews" [ref=e6955] [cursor=pointer]:
+        - /url: /restaurant/minoa-restaurant-es_5l_dM
+        - generic [ref=e6956]:
+          - generic [ref=e6957]:
+            - img "Minoa Restaurant - british restaurant in Havering" [ref=e6958]
+            - generic [ref=e6961]: 🏆 FSA 5/5
+            - generic [ref=e6963]: ⭐ 4.2
+          - generic [ref=e6964]:
+            - heading "Minoa Restaurant" [level=3] [ref=e6965]
+            - generic [ref=e6967]: british
+            - paragraph [ref=e6968]: 📍 Havering
+            - paragraph [ref=e6969]: 💰 ££
+            - paragraph [ref=e6970]: 168 reviews
+      - link "Kervan Saray - turkish restaurant in Havering 🏆 FSA 4/5 ⭐ 4.2 Kervan Saray turkish 📍 Havering 💰 ££ 540 reviews" [ref=e6971] [cursor=pointer]:
+        - /url: /restaurant/kervan-saray-DdfAxuX4
+        - generic [ref=e6972]:
+          - generic [ref=e6973]:
+            - img "Kervan Saray - turkish restaurant in Havering" [ref=e6974]
+            - generic [ref=e6977]: 🏆 FSA 4/5
+            - generic [ref=e6979]: ⭐ 4.2
+          - generic [ref=e6980]:
+            - heading "Kervan Saray" [level=3] [ref=e6981]
+            - generic [ref=e6983]: turkish
+            - paragraph [ref=e6984]: 📍 Havering
+            - paragraph [ref=e6985]: 💰 ££
+            - paragraph [ref=e6986]: 540 reviews
+      - link "Busaba Westfield Stratford - thai restaurant in Central London 🏆 FSA 4/5 ⭐ 4.2 Busaba Westfield Stratford thai 📍 Central London 💰 ££ 3,298 reviews" [ref=e6987] [cursor=pointer]:
+        - /url: /restaurant/busaba-westfield-stratford-SckQUHlc
+        - generic [ref=e6988]:
+          - generic [ref=e6989]:
+            - img "Busaba Westfield Stratford - thai restaurant in Central London" [ref=e6990]
+            - generic [ref=e6993]: 🏆 FSA 4/5
+            - generic [ref=e6995]: ⭐ 4.2
+          - generic [ref=e6996]:
+            - heading "Busaba Westfield Stratford" [level=3] [ref=e6997]
+            - generic [ref=e6999]: thai
+            - paragraph [ref=e7000]: 📍 Central London
+            - paragraph [ref=e7001]: 💰 ££
+            - paragraph [ref=e7002]: 3,298 reviews
+      - link "THE FAT CRAB STRATFORD - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.2 THE FAT CRAB STRATFORD british 📍 Central London 💰 ££ 128 reviews" [ref=e7003] [cursor=pointer]:
+        - /url: /restaurant/the-fat-crab-stratford-ve7KTSaU
+        - generic [ref=e7004]:
+          - generic [ref=e7005]:
+            - img "THE FAT CRAB STRATFORD - british restaurant in Central London" [ref=e7006]
+            - generic [ref=e7009]: 🏆 FSA 4/5
+            - generic [ref=e7011]: ⭐ 4.2
+          - generic [ref=e7012]:
+            - heading "THE FAT CRAB STRATFORD" [level=3] [ref=e7013]
+            - generic [ref=e7015]: british
+            - paragraph [ref=e7016]: 📍 Central London
+            - paragraph [ref=e7017]: 💰 ££
+            - paragraph [ref=e7018]: 128 reviews
+      - link "OMBRA - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.2 OMBRA british 📍 Tower Hamlets 💰 ££ 746 reviews" [ref=e7019] [cursor=pointer]:
+        - /url: /restaurant/ombra--VkjMYcE
+        - generic [ref=e7020]:
+          - generic [ref=e7021]:
+            - img "OMBRA - british restaurant in Tower Hamlets" [ref=e7022]
+            - generic [ref=e7025]: 🏆 FSA 4/5
+            - generic [ref=e7027]: ⭐ 4.2
+          - generic [ref=e7028]:
+            - heading "OMBRA" [level=3] [ref=e7029]
+            - generic [ref=e7031]: british
+            - paragraph [ref=e7032]: 📍 Tower Hamlets
+            - paragraph [ref=e7033]: 💰 ££
+            - paragraph [ref=e7034]: 746 reviews
+      - link "The Star of Bethnal Green - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.2 The Star of Bethnal Green british 📍 Central London 💰 ££ 929 reviews" [ref=e7035] [cursor=pointer]:
+        - /url: /restaurant/the-star-of-bethnal-green-wtJ1nuC4
+        - generic [ref=e7036]:
+          - generic [ref=e7037]:
+            - img "The Star of Bethnal Green - british restaurant in Central London" [ref=e7038]
+            - generic [ref=e7041]: 🏆 FSA 5/5
+            - generic [ref=e7043]: ⭐ 4.2
+          - generic [ref=e7044]:
+            - heading "The Star of Bethnal Green" [level=3] [ref=e7045]
+            - generic [ref=e7047]: british
+            - paragraph [ref=e7048]: 📍 Central London
+            - paragraph [ref=e7049]: 💰 ££
+            - paragraph [ref=e7050]: 929 reviews
+      - link "Purpleish - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.2 Purpleish british 📍 Tower Hamlets 💰 ££ 125 reviews" [ref=e7051] [cursor=pointer]:
+        - /url: /restaurant/purpleish-AtfsZfTg
+        - generic [ref=e7052]:
+          - generic [ref=e7053]:
+            - img "Purpleish - british restaurant in Tower Hamlets" [ref=e7054]
+            - generic [ref=e7057]: 🏆 FSA 4/5
+            - generic [ref=e7059]: ⭐ 4.2
+          - generic [ref=e7060]:
+            - heading "Purpleish" [level=3] [ref=e7061]
+            - generic [ref=e7063]: british
+            - paragraph [ref=e7064]: 📍 Tower Hamlets
+            - paragraph [ref=e7065]: 💰 ££
+            - paragraph [ref=e7066]: 125 reviews
+      - link "The Alchemist Canary Wharf - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.2 The Alchemist Canary Wharf british 📍 Tower Hamlets 💰 £££ 1,956 reviews" [ref=e7067] [cursor=pointer]:
+        - /url: /restaurant/the-alchemist-canary-wharf-CTAcePMM
+        - generic [ref=e7068]:
+          - generic [ref=e7069]:
+            - img "The Alchemist Canary Wharf - british restaurant in Tower Hamlets" [ref=e7070]
+            - generic [ref=e7073]: 🏆 FSA 4/5
+            - generic [ref=e7075]: ⭐ 4.2
+          - generic [ref=e7076]:
+            - heading "The Alchemist Canary Wharf" [level=3] [ref=e7077]
+            - generic [ref=e7079]: british
+            - paragraph [ref=e7080]: 📍 Tower Hamlets
+            - paragraph [ref=e7081]: 💰 £££
+            - paragraph [ref=e7082]: 1,956 reviews
+      - link "Big Easy Bar.B.Q & Crabshack - Canary Wharf - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.2 Big Easy Bar.B.Q & Crabshack - Canary Wharf british 📍 Central London 💰 ££ 10,968 reviews" [ref=e7083] [cursor=pointer]:
+        - /url: /restaurant/big-easy-barbq-crabshack-canary-wharf-cD-FJ2Zo
+        - generic [ref=e7084]:
+          - generic [ref=e7085]:
+            - img "Big Easy Bar.B.Q & Crabshack - Canary Wharf - british restaurant in Central London" [ref=e7086]
+            - generic [ref=e7089]: 🏆 FSA 4/5
+            - generic [ref=e7091]: ⭐ 4.2
+          - generic [ref=e7092]:
+            - heading "Big Easy Bar.B.Q & Crabshack - Canary Wharf" [level=3] [ref=e7093]
+            - generic [ref=e7095]: british
+            - paragraph [ref=e7096]: 📍 Central London
+            - paragraph [ref=e7097]: 💰 ££
+            - paragraph [ref=e7098]: 10,968 reviews
+      - link "The Orange Room Lebanese Restaurant Mile End - modern-european restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.2 The Orange Room Lebanese Restaurant Mile End modern-european 📍 Tower Hamlets 💰 £ 378 reviews" [ref=e7099] [cursor=pointer]:
+        - /url: /restaurant/the-orange-room-lebanese-restaurant-mile-end-w7rCkCes
+        - generic [ref=e7100]:
+          - generic [ref=e7101]:
+            - img "The Orange Room Lebanese Restaurant Mile End - modern-european restaurant in Tower Hamlets" [ref=e7102]
+            - generic [ref=e7105]: 🏆 FSA 4/5
+            - generic [ref=e7107]: ⭐ 4.2
+          - generic [ref=e7108]:
+            - heading "The Orange Room Lebanese Restaurant Mile End" [level=3] [ref=e7109]
+            - generic [ref=e7111]: modern-european
+            - paragraph [ref=e7112]: 📍 Tower Hamlets
+            - paragraph [ref=e7113]: 💰 £
+            - paragraph [ref=e7114]: 378 reviews
+      - link "Tacosmash Mile End - mexican restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.2 Tacosmash Mile End mexican 📍 Tower Hamlets 💰 ££ 336 reviews" [ref=e7115] [cursor=pointer]:
+        - /url: /restaurant/tacosmash-mile-end-bcv0P7JQ
+        - generic [ref=e7116]:
+          - generic [ref=e7117]:
+            - img "Tacosmash Mile End - mexican restaurant in Tower Hamlets" [ref=e7118]
+            - generic [ref=e7121]: 🏆 FSA 4/5
+            - generic [ref=e7123]: ⭐ 4.2
+          - generic [ref=e7124]:
+            - heading "Tacosmash Mile End" [level=3] [ref=e7125]
+            - generic [ref=e7127]: mexican
+            - paragraph [ref=e7128]: 📍 Tower Hamlets
+            - paragraph [ref=e7129]: 💰 ££
+            - paragraph [ref=e7130]: 336 reviews
+      - link "Damal - british restaurant in Tower Hamlets 🏆 FSA 2/5 ⭐ 4.2 Damal british 📍 Tower Hamlets 💰 ££ 973 reviews" [ref=e7131] [cursor=pointer]:
+        - /url: /restaurant/damal-Ce1G_Zlo
+        - generic [ref=e7132]:
+          - generic [ref=e7133]:
+            - img "Damal - british restaurant in Tower Hamlets" [ref=e7134]
+            - generic [ref=e7137]: 🏆 FSA 2/5
+            - generic [ref=e7139]: ⭐ 4.2
+          - generic [ref=e7140]:
+            - heading "Damal" [level=3] [ref=e7141]
+            - generic [ref=e7143]: british
+            - paragraph [ref=e7144]: 📍 Tower Hamlets
+            - paragraph [ref=e7145]: 💰 ££
+            - paragraph [ref=e7146]: 973 reviews
+      - link "Eastway Brasserie - modern-european restaurant in Central London 🏆 FSA 5/5 ⭐ 4.2 Eastway Brasserie modern-european 📍 Central London 💰 ££ 415 reviews" [ref=e7147] [cursor=pointer]:
+        - /url: /restaurant/eastway-brasserie-l0Fsqm6U
+        - generic [ref=e7148]:
+          - generic [ref=e7149]:
+            - img "Eastway Brasserie - modern-european restaurant in Central London" [ref=e7150]
+            - generic [ref=e7153]: 🏆 FSA 5/5
+            - generic [ref=e7155]: ⭐ 4.2
+          - generic [ref=e7156]:
+            - heading "Eastway Brasserie" [level=3] [ref=e7157]
+            - generic [ref=e7159]: modern-european
+            - paragraph [ref=e7160]: 📍 Central London
+            - paragraph [ref=e7161]: 💰 ££
+            - paragraph [ref=e7162]: 415 reviews
+      - link "Miyako - japanese restaurant in Central London 🏆 FSA 5/5 ⭐ 4.2 Miyako japanese 📍 Central London 💰 ££ 310 reviews" [ref=e7163] [cursor=pointer]:
+        - /url: /restaurant/miyako-Wp0c4NaQ
+        - generic [ref=e7164]:
+          - generic [ref=e7165]:
+            - img "Miyako - japanese restaurant in Central London" [ref=e7166]
+            - generic [ref=e7169]: 🏆 FSA 5/5
+            - generic [ref=e7171]: ⭐ 4.2
+          - generic [ref=e7172]:
+            - heading "Miyako" [level=3] [ref=e7173]
+            - generic [ref=e7175]: japanese
+            - paragraph [ref=e7176]: 📍 Central London
+            - paragraph [ref=e7177]: 💰 ££
+            - paragraph [ref=e7178]: 310 reviews
+      - link "Faroz Restaurant - british restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.2 Faroz Restaurant british 📍 Redbridge 💰 ££ 699 reviews" [ref=e7179] [cursor=pointer]:
+        - /url: /restaurant/faroz-restaurant-TrvUgvCw
+        - generic [ref=e7180]:
+          - generic [ref=e7181]:
+            - img "Faroz Restaurant - british restaurant in Redbridge" [ref=e7182]
+            - generic [ref=e7185]: 🏆 FSA 5/5
+            - generic [ref=e7187]: ⭐ 4.2
+          - generic [ref=e7188]:
+            - heading "Faroz Restaurant" [level=3] [ref=e7189]
+            - generic [ref=e7191]: british
+            - paragraph [ref=e7192]: 📍 Redbridge
+            - paragraph [ref=e7193]: 💰 ££
+            - paragraph [ref=e7194]: 699 reviews
+      - link "De Cafe Lounge & De biryani Lounge - indian restaurant in Central London 🏆 FSA 4/5 ⭐ 4.2 De Cafe Lounge & De biryani Lounge indian 📍 Central London 💰 ££ 445 reviews" [ref=e7195] [cursor=pointer]:
+        - /url: /restaurant/de-cafe-lounge-de-biryani-lounge-wLKQwFrc
+        - generic [ref=e7196]:
+          - generic [ref=e7197]:
+            - img "De Cafe Lounge & De biryani Lounge - indian restaurant in Central London" [ref=e7198]
+            - generic [ref=e7201]: 🏆 FSA 4/5
+            - generic [ref=e7203]: ⭐ 4.2
+          - generic [ref=e7204]:
+            - heading "De Cafe Lounge & De biryani Lounge" [level=3] [ref=e7205]
+            - generic [ref=e7207]: indian
+            - paragraph [ref=e7208]: 📍 Central London
+            - paragraph [ref=e7209]: 💰 ££
+            - paragraph [ref=e7210]: 445 reviews
+      - link "Taste of India Pure Vegetarian LTD - british restaurant in Central London 🏆 FSA 5/5 🥗 Vegetarian ⭐ 4.2 Taste of India Pure Vegetarian LTD british 📍 Central London 💰 ££ 3,693 reviews" [ref=e7211] [cursor=pointer]:
+        - /url: /restaurant/taste-of-india-pure-vegetarian-ltd-oUYKnOTo
+        - generic [ref=e7212]:
+          - generic [ref=e7213]:
+            - img "Taste of India Pure Vegetarian LTD - british restaurant in Central London" [ref=e7214]
+            - generic [ref=e7216]:
+              - generic [ref=e7217]: 🏆 FSA 5/5
+              - generic [ref=e7218]: 🥗 Vegetarian
+            - generic [ref=e7220]: ⭐ 4.2
+          - generic [ref=e7221]:
+            - heading "Taste of India Pure Vegetarian LTD" [level=3] [ref=e7222]
+            - generic [ref=e7224]: british
+            - paragraph [ref=e7225]: 📍 Central London
+            - paragraph [ref=e7226]: 💰 ££
+            - paragraph [ref=e7227]: 3,693 reviews
+      - link "Miradora Rooftop Restaurant Tequileria - mediterranean restaurant in above Assembly Hotel, Alhambra House, 31 Charing Cross Rd, London 🏆 FSA 4/5 ⭐ 4.1 Miradora Rooftop Restaurant Tequileria mediterranean 📍 above Assembly Hotel, Alhambra House, 31 Charing Cross Rd, London 💰 ££ 1,112 reviews" [ref=e7228] [cursor=pointer]:
+        - /url: /restaurant/miradora-rooftop-restaurant-tequileria-ioXxkC5Q
+        - generic [ref=e7229]:
+          - generic [ref=e7230]:
+            - img "Miradora Rooftop Restaurant Tequileria - mediterranean restaurant in above Assembly Hotel, Alhambra House, 31 Charing Cross Rd, London" [ref=e7231]
+            - generic [ref=e7234]: 🏆 FSA 4/5
+            - generic [ref=e7236]: ⭐ 4.1
+          - generic [ref=e7237]:
+            - heading "Miradora Rooftop Restaurant Tequileria" [level=3] [ref=e7238]
+            - generic [ref=e7240]: mediterranean
+            - paragraph [ref=e7241]: 📍 above Assembly Hotel, Alhambra House, 31 Charing Cross Rd, London
+            - paragraph [ref=e7242]: 💰 ££
+            - paragraph [ref=e7243]: 1,112 reviews
+      - link "Jamon Jamon - british restaurant in 38 Parkway, London 🏆 FSA 3/5 ⭐ 4.1 Jamon Jamon british 📍 38 Parkway, London 💰 ££ 1,136 reviews" [ref=e7244] [cursor=pointer]:
+        - /url: /restaurant/jamon-jamon-u6AtJIpM
+        - generic [ref=e7245]:
+          - generic [ref=e7246]:
+            - img "Jamon Jamon - british restaurant in 38 Parkway, London" [ref=e7247]
+            - generic [ref=e7250]: 🏆 FSA 3/5
+            - generic [ref=e7252]: ⭐ 4.1
+          - generic [ref=e7253]:
+            - heading "Jamon Jamon" [level=3] [ref=e7254]
+            - generic [ref=e7256]: british
+            - paragraph [ref=e7257]: 📍 38 Parkway, London
+            - paragraph [ref=e7258]: 💰 ££
+            - paragraph [ref=e7259]: 1,136 reviews
+      - link "Du'aa Diner - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 4.1 Du'aa Diner british 📍 Tower Hamlets 💰 ££ 647 reviews" [ref=e7260] [cursor=pointer]:
+        - /url: /restaurant/duaa-diner-XUMwX5QY
+        - generic [ref=e7261]:
+          - generic [ref=e7262]:
+            - img "Du'aa Diner - british restaurant in Tower Hamlets" [ref=e7263]
+            - generic [ref=e7266]: 🏆 FSA 5/5
+            - generic [ref=e7268]: ⭐ 4.1
+          - generic [ref=e7269]:
+            - heading "Du'aa Diner" [level=3] [ref=e7270]
+            - generic [ref=e7272]: british
+            - paragraph [ref=e7273]: 📍 Tower Hamlets
+            - paragraph [ref=e7274]: 💰 ££
+            - paragraph [ref=e7275]: 647 reviews
+      - link "Nosh - british restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.1 Nosh british 📍 Redbridge 💰 ££ 300 reviews" [ref=e7276] [cursor=pointer]:
+        - /url: /restaurant/nosh-ZWYbW3Qg
+        - generic [ref=e7277]:
+          - generic [ref=e7278]:
+            - img "Nosh - british restaurant in Redbridge" [ref=e7279]
+            - generic [ref=e7282]: 🏆 FSA 4/5
+            - generic [ref=e7284]: ⭐ 4.1
+          - generic [ref=e7285]:
+            - heading "Nosh" [level=3] [ref=e7286]
+            - generic [ref=e7288]: british
+            - paragraph [ref=e7289]: 📍 Redbridge
+            - paragraph [ref=e7290]: 💰 ££
+            - paragraph [ref=e7291]: 300 reviews
+      - link "Zamana - modern-european restaurant in Redbridge 🏆 FSA 3/5 ⭐ 4.1 Zamana modern-european 📍 Redbridge 💰 ££ 672 reviews" [ref=e7292] [cursor=pointer]:
+        - /url: /restaurant/zamana-T5is-Wp8
+        - generic [ref=e7293]:
+          - generic [ref=e7294]:
+            - img "Zamana - modern-european restaurant in Redbridge" [ref=e7295]
+            - generic [ref=e7298]: 🏆 FSA 3/5
+            - generic [ref=e7300]: ⭐ 4.1
+          - generic [ref=e7301]:
+            - heading "Zamana" [level=3] [ref=e7302]
+            - generic [ref=e7304]: modern-european
+            - paragraph [ref=e7305]: 📍 Redbridge
+            - paragraph [ref=e7306]: 💰 ££
+            - paragraph [ref=e7307]: 672 reviews
+      - link "Spice Khazana - indian restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.1 Spice Khazana indian 📍 Redbridge 💰 ££ 2,232 reviews" [ref=e7308] [cursor=pointer]:
+        - /url: /restaurant/spice-khazana-i2E480qg
+        - generic [ref=e7309]:
+          - generic [ref=e7310]:
+            - img "Spice Khazana - indian restaurant in Redbridge" [ref=e7311]
+            - generic [ref=e7314]: 🏆 FSA 4/5
+            - generic [ref=e7316]: ⭐ 4.1
+          - generic [ref=e7317]:
+            - heading "Spice Khazana" [level=3] [ref=e7318]
+            - generic [ref=e7320]: indian
+            - paragraph [ref=e7321]: 📍 Redbridge
+            - paragraph [ref=e7322]: 💰 ££
+            - paragraph [ref=e7323]: 2,232 reviews
+      - link "Colony Restaurant - indian restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.1 Colony Restaurant indian 📍 Redbridge 💰 ££ 2,153 reviews" [ref=e7324] [cursor=pointer]:
+        - /url: /restaurant/colony-restaurant-WUoM_CQI
+        - generic [ref=e7325]:
+          - generic [ref=e7326]:
+            - img "Colony Restaurant - indian restaurant in Redbridge" [ref=e7327]
+            - generic [ref=e7330]: 🏆 FSA 5/5
+            - generic [ref=e7332]: ⭐ 4.1
+          - generic [ref=e7333]:
+            - heading "Colony Restaurant" [level=3] [ref=e7334]
+            - generic [ref=e7336]: indian
+            - paragraph [ref=e7337]: 📍 Redbridge
+            - paragraph [ref=e7338]: 💰 ££
+            - paragraph [ref=e7339]: 2,153 reviews
+      - link "Array Brasserie & Grill - modern-european restaurant in Havering 🏆 FSA 5/5 ⭐ 4.1 Array Brasserie & Grill modern-european 📍 Havering 💰 ££ 1,111 reviews" [ref=e7340] [cursor=pointer]:
+        - /url: /restaurant/array-brasserie-grill-5v_DPqz0
+        - generic [ref=e7341]:
+          - generic [ref=e7342]:
+            - img "Array Brasserie & Grill - modern-european restaurant in Havering" [ref=e7343]
+            - generic [ref=e7346]: 🏆 FSA 5/5
+            - generic [ref=e7348]: ⭐ 4.1
+          - generic [ref=e7349]:
+            - heading "Array Brasserie & Grill" [level=3] [ref=e7350]
+            - generic [ref=e7352]: modern-european
+            - paragraph [ref=e7353]: 📍 Havering
+            - paragraph [ref=e7354]: 💰 ££
+            - paragraph [ref=e7355]: 1,111 reviews
+      - link "Kitchen E20 - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.1 Kitchen E20 british 📍 Central London 💰 ££ 496 reviews" [ref=e7356] [cursor=pointer]:
+        - /url: /restaurant/kitchen-e20-1dDNpzJQ
+        - generic [ref=e7357]:
+          - generic [ref=e7358]:
+            - img "Kitchen E20 - british restaurant in Central London" [ref=e7359]
+            - generic [ref=e7362]: 🏆 FSA 4/5
+            - generic [ref=e7364]: ⭐ 4.1
+          - generic [ref=e7365]:
+            - heading "Kitchen E20" [level=3] [ref=e7366]
+            - generic [ref=e7368]: british
+            - paragraph [ref=e7369]: 📍 Central London
+            - paragraph [ref=e7370]: 💰 ££
+            - paragraph [ref=e7371]: 496 reviews
+      - link "Koya Japanese Restaurant Hackney - modern-european restaurant in Central London 🏆 FSA 4/5 ⭐ 4.1 Koya Japanese Restaurant Hackney modern-european 📍 Central London 💰 ££ 375 reviews" [ref=e7372] [cursor=pointer]:
+        - /url: /restaurant/koya-japanese-restaurant-hackney-YnmkTOsI
+        - generic [ref=e7373]:
+          - generic [ref=e7374]:
+            - img "Koya Japanese Restaurant Hackney - modern-european restaurant in Central London" [ref=e7375]
+            - generic [ref=e7378]: 🏆 FSA 4/5
+            - generic [ref=e7380]: ⭐ 4.1
+          - generic [ref=e7381]:
+            - heading "Koya Japanese Restaurant Hackney" [level=3] [ref=e7382]
+            - generic [ref=e7384]: modern-european
+            - paragraph [ref=e7385]: 📍 Central London
+            - paragraph [ref=e7386]: 💰 ££
+            - paragraph [ref=e7387]: 375 reviews
+      - link "Nando's Mile End - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.1 Nando's Mile End british 📍 Tower Hamlets 💰 ££ 1,838 reviews" [ref=e7388] [cursor=pointer]:
+        - /url: /restaurant/nandos-mile-end-76KCg7rA
+        - generic [ref=e7389]:
+          - generic [ref=e7390]:
+            - img "Nando's Mile End - british restaurant in Tower Hamlets" [ref=e7391]
+            - generic [ref=e7394]: 🏆 FSA 4/5
+            - generic [ref=e7396]: ⭐ 4.1
+          - generic [ref=e7397]:
+            - heading "Nando's Mile End" [level=3] [ref=e7398]
+            - generic [ref=e7400]: british
+            - paragraph [ref=e7401]: 📍 Tower Hamlets
+            - paragraph [ref=e7402]: 💰 ££
+            - paragraph [ref=e7403]: 1,838 reviews
+      - link "Rose Peri Peri Grill - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.1 Rose Peri Peri Grill british 📍 Tower Hamlets 💰 ££ 201 reviews" [ref=e7404] [cursor=pointer]:
+        - /url: /restaurant/rose-peri-peri-grill-Zsniu804
+        - generic [ref=e7405]:
+          - generic [ref=e7406]:
+            - img "Rose Peri Peri Grill - british restaurant in Tower Hamlets" [ref=e7407]
+            - generic [ref=e7410]: 🏆 FSA 4/5
+            - generic [ref=e7412]: ⭐ 4.1
+          - generic [ref=e7413]:
+            - heading "Rose Peri Peri Grill" [level=3] [ref=e7414]
+            - generic [ref=e7416]: british
+            - paragraph [ref=e7417]: 📍 Tower Hamlets
+            - paragraph [ref=e7418]: 💰 ££
+            - paragraph [ref=e7419]: 201 reviews
+      - link "Sotto Cucina & Bar - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.1 Sotto Cucina & Bar british 📍 Tower Hamlets 💰 ££ 97 reviews" [ref=e7420] [cursor=pointer]:
+        - /url: /restaurant/sotto-cucina-bar-PIJ3USz8
+        - generic [ref=e7421]:
+          - generic [ref=e7422]:
+            - img "Sotto Cucina & Bar - british restaurant in Tower Hamlets" [ref=e7423]
+            - generic [ref=e7426]: 🏆 FSA 4/5
+            - generic [ref=e7428]: ⭐ 4.1
+          - generic [ref=e7429]:
+            - heading "Sotto Cucina & Bar" [level=3] [ref=e7430]
+            - generic [ref=e7432]: british
+            - paragraph [ref=e7433]: 📍 Tower Hamlets
+            - paragraph [ref=e7434]: 💰 ££
+            - paragraph [ref=e7435]: 97 reviews
+      - link "Eataly London - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.1 Eataly London british 📍 Central London 💰 ££ 5,970 reviews" [ref=e7436] [cursor=pointer]:
+        - /url: /restaurant/eataly-london-Tva-SGR4
+        - generic [ref=e7437]:
+          - generic [ref=e7438]:
+            - img "Eataly London - british restaurant in Central London" [ref=e7439]
+            - generic [ref=e7442]: 🏆 FSA 4/5
+            - generic [ref=e7444]: ⭐ 4.1
+          - generic [ref=e7445]:
+            - heading "Eataly London" [level=3] [ref=e7446]
+            - generic [ref=e7448]: british
+            - paragraph [ref=e7449]: 📍 Central London
+            - paragraph [ref=e7450]: 💰 ££
+            - paragraph [ref=e7451]: 5,970 reviews
+      - link "Devonshire Terrace - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.1 Devonshire Terrace british 📍 Central London 💰 ££ 723 reviews" [ref=e7452] [cursor=pointer]:
+        - /url: /restaurant/devonshire-terrace-j1d_BxwI
+        - generic [ref=e7453]:
+          - generic [ref=e7454]:
+            - img "Devonshire Terrace - british restaurant in Central London" [ref=e7455]
+            - generic [ref=e7458]: 🏆 FSA 5/5
+            - generic [ref=e7460]: ⭐ 4.1
+          - generic [ref=e7461]:
+            - heading "Devonshire Terrace" [level=3] [ref=e7462]
+            - generic [ref=e7464]: british
+            - paragraph [ref=e7465]: 📍 Central London
+            - paragraph [ref=e7466]: 💰 ££
+            - paragraph [ref=e7467]: 723 reviews
+      - link "Crave Station - british restaurant in Redbridge 🏆 FSA 3/5 ⭐ 4.1 Crave Station british 📍 Redbridge 💰 ££ 56 reviews" [ref=e7468] [cursor=pointer]:
+        - /url: /restaurant/crave-station-iu5WiigE
+        - generic [ref=e7469]:
+          - generic [ref=e7470]:
+            - img "Crave Station - british restaurant in Redbridge" [ref=e7471]
+            - generic [ref=e7474]: 🏆 FSA 3/5
+            - generic [ref=e7476]: ⭐ 4.1
+          - generic [ref=e7477]:
+            - heading "Crave Station" [level=3] [ref=e7478]
+            - generic [ref=e7480]: british
+            - paragraph [ref=e7481]: 📍 Redbridge
+            - paragraph [ref=e7482]: 💰 ££
+            - paragraph [ref=e7483]: 56 reviews
+      - link "Zu's Ilford - chinese restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.1 Zu's Ilford chinese 📍 Redbridge 💰 £ 574 reviews" [ref=e7484] [cursor=pointer]:
+        - /url: /restaurant/zus-ilford-YYJJ7uZE
+        - generic [ref=e7485]:
+          - generic [ref=e7486]:
+            - img "Zu's Ilford - chinese restaurant in Redbridge" [ref=e7487]
+            - generic [ref=e7490]: 🏆 FSA 4/5
+            - generic [ref=e7492]: ⭐ 4.1
+          - generic [ref=e7493]:
+            - heading "Zu's Ilford" [level=3] [ref=e7494]
+            - generic [ref=e7496]: chinese
+            - paragraph [ref=e7497]: 📍 Redbridge
+            - paragraph [ref=e7498]: 💰 £
+            - paragraph [ref=e7499]: 574 reviews
+      - link "Taj Grill - british restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.1 Taj Grill british 📍 Redbridge 💰 ££ 1,694 reviews" [ref=e7500] [cursor=pointer]:
+        - /url: /restaurant/taj-grill-Xd8tVjAk
+        - generic [ref=e7501]:
+          - generic [ref=e7502]:
+            - img "Taj Grill - british restaurant in Redbridge" [ref=e7503]
+            - generic [ref=e7506]: 🏆 FSA 5/5
+            - generic [ref=e7508]: ⭐ 4.1
+          - generic [ref=e7509]:
+            - heading "Taj Grill" [level=3] [ref=e7510]
+            - generic [ref=e7512]: british
+            - paragraph [ref=e7513]: 📍 Redbridge
+            - paragraph [ref=e7514]: 💰 ££
+            - paragraph [ref=e7515]: 1,694 reviews
+      - link "Shinde's Pure Veg - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.1 Shinde's Pure Veg british 📍 Central London 💰 ££ 1,471 reviews" [ref=e7516] [cursor=pointer]:
+        - /url: /restaurant/shindes-pure-veg-FPa68pQQ
+        - generic [ref=e7517]:
+          - generic [ref=e7518]:
+            - img "Shinde's Pure Veg - british restaurant in Central London" [ref=e7519]
+            - generic [ref=e7522]: 🏆 FSA 3/5
+            - generic [ref=e7524]: ⭐ 4.1
+          - generic [ref=e7525]:
+            - heading "Shinde's Pure Veg" [level=3] [ref=e7526]
+            - generic [ref=e7528]: british
+            - paragraph [ref=e7529]: 📍 Central London
+            - paragraph [ref=e7530]: 💰 ££
+            - paragraph [ref=e7531]: 1,471 reviews
+      - link "EL&N London Park Lane - mediterranean restaurant in 48 Park Ln, London 🏆 FSA 4/5 ⭐ 4.0 EL&N London Park Lane mediterranean 📍 48 Park Ln, London 💰 £££ 3,062 reviews" [ref=e7532] [cursor=pointer]:
+        - /url: /restaurant/eln-london-park-lane-ZGres00k
+        - generic [ref=e7533]:
+          - generic [ref=e7534]:
+            - img "EL&N London Park Lane - mediterranean restaurant in 48 Park Ln, London" [ref=e7535]
+            - generic [ref=e7538]: 🏆 FSA 4/5
+            - generic [ref=e7540]: ⭐ 4.0
+          - generic [ref=e7541]:
+            - heading "EL&N London Park Lane" [level=3] [ref=e7542]
+            - generic [ref=e7544]: mediterranean
+            - paragraph [ref=e7545]: 📍 48 Park Ln, London
+            - paragraph [ref=e7546]: 💰 £££
+            - paragraph [ref=e7547]: 3,062 reviews
+      - link "STEREO Covent Garden - mediterranean restaurant in Jubilee Market Hall, 35 The Piazza, London 🏆 FSA 4/5 ⭐ 4.0 STEREO Covent Garden mediterranean 📍 Jubilee Market Hall, 35 The Piazza, London 💰 ££ 692 reviews" [ref=e7548] [cursor=pointer]:
+        - /url: /restaurant/stereo-covent-garden-zLW-kJRw
+        - generic [ref=e7549]:
+          - generic [ref=e7550]:
+            - img "STEREO Covent Garden - mediterranean restaurant in Jubilee Market Hall, 35 The Piazza, London" [ref=e7551]
+            - generic [ref=e7554]: 🏆 FSA 4/5
+            - generic [ref=e7556]: ⭐ 4.0
+          - generic [ref=e7557]:
+            - heading "STEREO Covent Garden" [level=3] [ref=e7558]
+            - generic [ref=e7560]: mediterranean
+            - paragraph [ref=e7561]: 📍 Jubilee Market Hall, 35 The Piazza, London
+            - paragraph [ref=e7562]: 💰 ££
+            - paragraph [ref=e7563]: 692 reviews
+      - link "Mr. White’s English Chophouse London Whitechapel - modern-european restaurant in Central London 🏆 FSA 4/5 ⭐ 4.0 Mr. White’s English Chophouse London Whitechapel modern-european 📍 Central London 💰 ££ 862 reviews" [ref=e7564] [cursor=pointer]:
+        - /url: /restaurant/mr-whites-english-chophouse-london-whitechapel-UTcYuWmE
+        - generic [ref=e7565]:
+          - generic [ref=e7566]:
+            - img "Mr. White’s English Chophouse London Whitechapel - modern-european restaurant in Central London" [ref=e7567]
+            - generic [ref=e7570]: 🏆 FSA 4/5
+            - generic [ref=e7572]: ⭐ 4.0
+          - generic [ref=e7573]:
+            - heading "Mr. White’s English Chophouse London Whitechapel" [level=3] [ref=e7574]
+            - generic [ref=e7576]: modern-european
+            - paragraph [ref=e7577]: 📍 Central London
+            - paragraph [ref=e7578]: 💰 ££
+            - paragraph [ref=e7579]: 862 reviews
+      - link "Lahore Kebab House - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.0 Lahore Kebab House british 📍 Central London 💰 £ 4,444 reviews" [ref=e7580] [cursor=pointer]:
+        - /url: /restaurant/lahore-kebab-house-WfQvnb3M
+        - generic [ref=e7581]:
+          - generic [ref=e7582]:
+            - img "Lahore Kebab House - british restaurant in Central London" [ref=e7583]
+            - generic [ref=e7586]: 🏆 FSA 4/5
+            - generic [ref=e7588]: ⭐ 4.0
+          - generic [ref=e7589]:
+            - heading "Lahore Kebab House" [level=3] [ref=e7590]
+            - generic [ref=e7592]: british
+            - paragraph [ref=e7593]: 📍 Central London
+            - paragraph [ref=e7594]: 💰 £
+            - paragraph [ref=e7595]: 4,444 reviews
+      - link "Shahs Halal Food Shadwell - indian restaurant in Central London 🏆 FSA 4/5 ⭐ 4.0 Shahs Halal Food Shadwell indian 📍 Central London 💰 ££ 136 reviews" [ref=e7596] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-shadwell-ZkjggI9Y
+        - generic [ref=e7597]:
+          - generic [ref=e7598]:
+            - img "Shahs Halal Food Shadwell - indian restaurant in Central London" [ref=e7599]
+            - generic [ref=e7602]: 🏆 FSA 4/5
+            - generic [ref=e7604]: ⭐ 4.0
+          - generic [ref=e7605]:
+            - heading "Shahs Halal Food Shadwell" [level=3] [ref=e7606]
+            - generic [ref=e7608]: indian
+            - paragraph [ref=e7609]: 📍 Central London
+            - paragraph [ref=e7610]: 💰 ££
+            - paragraph [ref=e7611]: 136 reviews
+      - link "Wah Bey - modern-european restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.0 Wah Bey modern-european 📍 Redbridge 💰 ££ 1,121 reviews" [ref=e7612] [cursor=pointer]:
+        - /url: /restaurant/wah-bey-571Yc9CI
+        - generic [ref=e7613]:
+          - generic [ref=e7614]:
+            - img "Wah Bey - modern-european restaurant in Redbridge" [ref=e7615]
+            - generic [ref=e7618]: 🏆 FSA 4/5
+            - generic [ref=e7620]: ⭐ 4.0
+          - generic [ref=e7621]:
+            - heading "Wah Bey" [level=3] [ref=e7622]
+            - generic [ref=e7624]: modern-european
+            - paragraph [ref=e7625]: 📍 Redbridge
+            - paragraph [ref=e7626]: 💰 ££
+            - paragraph [ref=e7627]: 1,121 reviews
+      - link "Tawa Grill - indian restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.0 Tawa Grill indian 📍 Redbridge 💰 ££ 513 reviews" [ref=e7628] [cursor=pointer]:
+        - /url: /restaurant/tawa-grill-hkLBpEYY
+        - generic [ref=e7629]:
+          - generic [ref=e7630]:
+            - img "Tawa Grill - indian restaurant in Redbridge" [ref=e7631]
+            - generic [ref=e7634]: 🏆 FSA 4/5
+            - generic [ref=e7636]: ⭐ 4.0
+          - generic [ref=e7637]:
+            - heading "Tawa Grill" [level=3] [ref=e7638]
+            - generic [ref=e7640]: indian
+            - paragraph [ref=e7641]: 📍 Redbridge
+            - paragraph [ref=e7642]: 💰 ££
+            - paragraph [ref=e7643]: 513 reviews
+      - link "Manjaros Restaurant Ilford - indian restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.0 Manjaros Restaurant Ilford indian 📍 Redbridge 💰 ££ 4,030 reviews" [ref=e7644] [cursor=pointer]:
+        - /url: /restaurant/manjaros-restaurant-ilford-AGf0NQ8s
+        - generic [ref=e7645]:
+          - generic [ref=e7646]:
+            - img "Manjaros Restaurant Ilford - indian restaurant in Redbridge" [ref=e7647]
+            - generic [ref=e7650]: 🏆 FSA 4/5
+            - generic [ref=e7652]: ⭐ 4.0
+          - generic [ref=e7653]:
+            - heading "Manjaros Restaurant Ilford" [level=3] [ref=e7654]
+            - generic [ref=e7656]: indian
+            - paragraph [ref=e7657]: 📍 Redbridge
+            - paragraph [ref=e7658]: 💰 ££
+            - paragraph [ref=e7659]: 4,030 reviews
+      - link "Zahra Grill Restaurant - modern-european restaurant in Redbridge 🏆 FSA 1/5 ⭐ 4.0 Zahra Grill Restaurant modern-european 📍 Redbridge 💰 ££ 317 reviews" [ref=e7660] [cursor=pointer]:
+        - /url: /restaurant/zahra-grill-restaurant-Qkvxi3ds
+        - generic [ref=e7661]:
+          - generic [ref=e7662]:
+            - img "Zahra Grill Restaurant - modern-european restaurant in Redbridge" [ref=e7663]
+            - generic [ref=e7666]: 🏆 FSA 1/5
+            - generic [ref=e7668]: ⭐ 4.0
+          - generic [ref=e7669]:
+            - heading "Zahra Grill Restaurant" [level=3] [ref=e7670]
+            - generic [ref=e7672]: modern-european
+            - paragraph [ref=e7673]: 📍 Redbridge
+            - paragraph [ref=e7674]: 💰 ££
+            - paragraph [ref=e7675]: 317 reviews
+      - link "Saffron Street - modern-european restaurant in Redbridge 🏆 FSA 5/5 ⭐ 4.0 Saffron Street modern-european 📍 Redbridge 💰 ££ 2,249 reviews" [ref=e7676] [cursor=pointer]:
+        - /url: /restaurant/saffron-street-_CaG7g_o
+        - generic [ref=e7677]:
+          - generic [ref=e7678]:
+            - img "Saffron Street - modern-european restaurant in Redbridge" [ref=e7679]
+            - generic [ref=e7682]: 🏆 FSA 5/5
+            - generic [ref=e7684]: ⭐ 4.0
+          - generic [ref=e7685]:
+            - heading "Saffron Street" [level=3] [ref=e7686]
+            - generic [ref=e7688]: modern-european
+            - paragraph [ref=e7689]: 📍 Redbridge
+            - paragraph [ref=e7690]: 💰 ££
+            - paragraph [ref=e7691]: 2,249 reviews
+      - link "Shah's Halal Food Ilford - turkish restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.0 Shah's Halal Food Ilford turkish 📍 Redbridge 💰 ££ 138 reviews" [ref=e7692] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-ilford-OnmvPApw
+        - generic [ref=e7693]:
+          - generic [ref=e7694]:
+            - img "Shah's Halal Food Ilford - turkish restaurant in Redbridge" [ref=e7695]
+            - generic [ref=e7698]: 🏆 FSA 4/5
+            - generic [ref=e7700]: ⭐ 4.0
+          - generic [ref=e7701]:
+            - heading "Shah's Halal Food Ilford" [level=3] [ref=e7702]
+            - generic [ref=e7704]: turkish
+            - paragraph [ref=e7705]: 📍 Redbridge
+            - paragraph [ref=e7706]: 💰 ££
+            - paragraph [ref=e7707]: 138 reviews
+      - link "Watan - Afghan & Pakistani Restaurant Ilford - modern-european restaurant in Redbridge 🏆 FSA 4/5 ⭐ 4.0 Watan - Afghan & Pakistani Restaurant Ilford modern-european 📍 Redbridge 💰 ££ 2,261 reviews" [ref=e7708] [cursor=pointer]:
+        - /url: /restaurant/watan-afghan-pakistani-restaurant-ilford-mGwfNE7w
+        - generic [ref=e7709]:
+          - generic [ref=e7710]:
+            - img "Watan - Afghan & Pakistani Restaurant Ilford - modern-european restaurant in Redbridge" [ref=e7711]
+            - generic [ref=e7714]: 🏆 FSA 4/5
+            - generic [ref=e7716]: ⭐ 4.0
+          - generic [ref=e7717]:
+            - heading "Watan - Afghan & Pakistani Restaurant Ilford" [level=3] [ref=e7718]
+            - generic [ref=e7720]: modern-european
+            - paragraph [ref=e7721]: 📍 Redbridge
+            - paragraph [ref=e7722]: 💰 ££
+            - paragraph [ref=e7723]: 2,261 reviews
+      - link "wagamama romford - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.0 wagamama romford british 📍 Central London 💰 ££ 392 reviews" [ref=e7724] [cursor=pointer]:
+        - /url: /restaurant/wagamama-romford-bb8JzkQ4
+        - generic [ref=e7725]:
+          - generic [ref=e7726]:
+            - img "wagamama romford - british restaurant in Central London" [ref=e7727]
+            - generic [ref=e7730]: 🏆 FSA 4/5
+            - generic [ref=e7732]: ⭐ 4.0
+          - generic [ref=e7733]:
+            - heading "wagamama romford" [level=3] [ref=e7734]
+            - generic [ref=e7736]: british
+            - paragraph [ref=e7737]: 📍 Central London
+            - paragraph [ref=e7738]: 💰 ££
+            - paragraph [ref=e7739]: 392 reviews
+      - link "MyShish Romford - modern-european restaurant in Havering 🏆 FSA 4/5 ⭐ 4.0 MyShish Romford modern-european 📍 Havering 💰 ££ 182 reviews" [ref=e7740] [cursor=pointer]:
+        - /url: /restaurant/myshish-romford-f91J-XQc
+        - generic [ref=e7741]:
+          - generic [ref=e7742]:
+            - img "MyShish Romford - modern-european restaurant in Havering" [ref=e7743]
+            - generic [ref=e7746]: 🏆 FSA 4/5
+            - generic [ref=e7748]: ⭐ 4.0
+          - generic [ref=e7749]:
+            - heading "MyShish Romford" [level=3] [ref=e7750]
+            - generic [ref=e7752]: modern-european
+            - paragraph [ref=e7753]: 📍 Havering
+            - paragraph [ref=e7754]: 💰 ££
+            - paragraph [ref=e7755]: 182 reviews
+      - link "Shahs Halal Food Romford Road - indian restaurant in Havering 🏆 FSA 5/5 ⭐ 4.0 Shahs Halal Food Romford Road indian 📍 Havering 💰 ££ 127 reviews" [ref=e7756] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-romford-road-5O4e5xUw
+        - generic [ref=e7757]:
+          - generic [ref=e7758]:
+            - img "Shahs Halal Food Romford Road - indian restaurant in Havering" [ref=e7759]
+            - generic [ref=e7762]: 🏆 FSA 5/5
+            - generic [ref=e7764]: ⭐ 4.0
+          - generic [ref=e7765]:
+            - heading "Shahs Halal Food Romford Road" [level=3] [ref=e7766]
+            - generic [ref=e7768]: indian
+            - paragraph [ref=e7769]: 📍 Havering
+            - paragraph [ref=e7770]: 💰 ££
+            - paragraph [ref=e7771]: 127 reviews
+      - link "Ottomans - turkish restaurant in Havering 🏆 FSA 4/5 ⭐ 4.0 Ottomans turkish 📍 Havering 💰 ££ 246 reviews" [ref=e7772] [cursor=pointer]:
+        - /url: /restaurant/ottomans-0UMSagt4
+        - generic [ref=e7773]:
+          - generic [ref=e7774]:
+            - img "Ottomans - turkish restaurant in Havering" [ref=e7775]
+            - generic [ref=e7778]: 🏆 FSA 4/5
+            - generic [ref=e7780]: ⭐ 4.0
+          - generic [ref=e7781]:
+            - heading "Ottomans" [level=3] [ref=e7782]
+            - generic [ref=e7784]: turkish
+            - paragraph [ref=e7785]: 📍 Havering
+            - paragraph [ref=e7786]: 💰 ££
+            - paragraph [ref=e7787]: 246 reviews
+      - link "HS & Co - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.0 HS & Co british 📍 Central London 💰 ££ 1,151 reviews" [ref=e7788] [cursor=pointer]:
+        - /url: /restaurant/hs-co-TKraGy80
+        - generic [ref=e7789]:
+          - generic [ref=e7790]:
+            - img "HS & Co - british restaurant in Central London" [ref=e7791]
+            - generic [ref=e7794]: 🏆 FSA 3/5
+            - generic [ref=e7796]: ⭐ 4.0
+          - generic [ref=e7797]:
+            - heading "HS & Co" [level=3] [ref=e7798]
+            - generic [ref=e7800]: british
+            - paragraph [ref=e7801]: 📍 Central London
+            - paragraph [ref=e7802]: 💰 ££
+            - paragraph [ref=e7803]: 1,151 reviews
+      - link "Cabana - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.0 Cabana british 📍 Central London 💰 ££ 1,962 reviews" [ref=e7804] [cursor=pointer]:
+        - /url: /restaurant/cabana-d40874vQ
+        - generic [ref=e7805]:
+          - generic [ref=e7806]:
+            - img "Cabana - british restaurant in Central London" [ref=e7807]
+            - generic [ref=e7810]: 🏆 FSA 4/5
+            - generic [ref=e7812]: ⭐ 4.0
+          - generic [ref=e7813]:
+            - heading "Cabana" [level=3] [ref=e7814]
+            - generic [ref=e7816]: british
+            - paragraph [ref=e7817]: 📍 Central London
+            - paragraph [ref=e7818]: 💰 ££
+            - paragraph [ref=e7819]: 1,962 reviews
+      - link "Ariana Restaurant LONDON - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 4.0 Ariana Restaurant LONDON british 📍 Tower Hamlets 💰 ££ 852 reviews" [ref=e7820] [cursor=pointer]:
+        - /url: /restaurant/ariana-restaurant-london-_1cTkcEw
+        - generic [ref=e7821]:
+          - generic [ref=e7822]:
+            - img "Ariana Restaurant LONDON - british restaurant in Tower Hamlets" [ref=e7823]
+            - generic [ref=e7826]: 🏆 FSA 4/5
+            - generic [ref=e7828]: ⭐ 4.0
+          - generic [ref=e7829]:
+            - heading "Ariana Restaurant LONDON" [level=3] [ref=e7830]
+            - generic [ref=e7832]: british
+            - paragraph [ref=e7833]: 📍 Tower Hamlets
+            - paragraph [ref=e7834]: 💰 ££
+            - paragraph [ref=e7835]: 852 reviews
+      - link "Needoo Grill - british restaurant in Central London 🏆 FSA 3/5 ⭐ 4.0 Needoo Grill british 📍 Central London 💰 £ 2,634 reviews" [ref=e7836] [cursor=pointer]:
+        - /url: /restaurant/needoo-grill-SBTv-wvE
+        - generic [ref=e7837]:
+          - generic [ref=e7838]:
+            - img "Needoo Grill - british restaurant in Central London" [ref=e7839]
+            - generic [ref=e7842]: 🏆 FSA 3/5
+            - generic [ref=e7844]: ⭐ 4.0
+          - generic [ref=e7845]:
+            - heading "Needoo Grill" [level=3] [ref=e7846]
+            - generic [ref=e7848]: british
+            - paragraph [ref=e7849]: 📍 Central London
+            - paragraph [ref=e7850]: 💰 £
+            - paragraph [ref=e7851]: 2,634 reviews
+      - link "Dirty Martini - Cocktail Bar in Bishopsgate - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.0 Dirty Martini - Cocktail Bar in Bishopsgate british 📍 Central London 💰 ££ 2,372 reviews" [ref=e7852] [cursor=pointer]:
+        - /url: /restaurant/dirty-martini-cocktail-bar-in-bishopsgate-hbVDh9hg
+        - generic [ref=e7853]:
+          - generic [ref=e7854]:
+            - img "Dirty Martini - Cocktail Bar in Bishopsgate - british restaurant in Central London" [ref=e7855]
+            - generic [ref=e7858]: 🏆 FSA 4/5
+            - generic [ref=e7860]: ⭐ 4.0
+          - generic [ref=e7861]:
+            - heading "Dirty Martini - Cocktail Bar in Bishopsgate" [level=3] [ref=e7862]
+            - generic [ref=e7864]: british
+            - paragraph [ref=e7865]: 📍 Central London
+            - paragraph [ref=e7866]: 💰 ££
+            - paragraph [ref=e7867]: 2,372 reviews
+      - link "Scarpetta - british restaurant in Central London 🏆 FSA 5/5 ⭐ 4.0 Scarpetta british 📍 Central London 💰 ££ 978 reviews" [ref=e7868] [cursor=pointer]:
+        - /url: /restaurant/scarpetta-8x5Ng0Kw
+        - generic [ref=e7869]:
+          - generic [ref=e7870]:
+            - img "Scarpetta - british restaurant in Central London" [ref=e7871]
+            - generic [ref=e7874]: 🏆 FSA 5/5
+            - generic [ref=e7876]: ⭐ 4.0
+          - generic [ref=e7877]:
+            - heading "Scarpetta" [level=3] [ref=e7878]
+            - generic [ref=e7880]: british
+            - paragraph [ref=e7881]: 📍 Central London
+            - paragraph [ref=e7882]: 💰 ££
+            - paragraph [ref=e7883]: 978 reviews
+      - link "Nando's Bethnal Green - british restaurant in Central London 🏆 FSA 4/5 ⭐ 4.0 Nando's Bethnal Green british 📍 Central London 💰 ££ 1,184 reviews" [ref=e7884] [cursor=pointer]:
+        - /url: /restaurant/nandos-bethnal-green-cSOFPALY
+        - generic [ref=e7885]:
+          - generic [ref=e7886]:
+            - img "Nando's Bethnal Green - british restaurant in Central London" [ref=e7887]
+            - generic [ref=e7890]: 🏆 FSA 4/5
+            - generic [ref=e7892]: ⭐ 4.0
+          - generic [ref=e7893]:
+            - heading "Nando's Bethnal Green" [level=3] [ref=e7894]
+            - generic [ref=e7896]: british
+            - paragraph [ref=e7897]: 📍 Central London
+            - paragraph [ref=e7898]: 💰 ££
+            - paragraph [ref=e7899]: 1,184 reviews
+      - link "Lala’s Grill & Restaurant - modern-european restaurant in Central London 🏆 FSA 4/5 ⭐ 4.0 Lala’s Grill & Restaurant modern-european 📍 Central London 💰 ££ 387 reviews" [ref=e7900] [cursor=pointer]:
+        - /url: /restaurant/lalas-grill-restaurant-0-mhwiO8
+        - generic [ref=e7901]:
+          - generic [ref=e7902]:
+            - img "Lala’s Grill & Restaurant - modern-european restaurant in Central London" [ref=e7903]
+            - generic [ref=e7906]: 🏆 FSA 4/5
+            - generic [ref=e7908]: ⭐ 4.0
+          - generic [ref=e7909]:
+            - heading "Lala’s Grill & Restaurant" [level=3] [ref=e7910]
+            - generic [ref=e7912]: modern-european
+            - paragraph [ref=e7913]: 📍 Central London
+            - paragraph [ref=e7914]: 💰 ££
+            - paragraph [ref=e7915]: 387 reviews
+      - link "Taqueria - Notting Hill - mexican restaurant in 141-145 Westbourne Grove, London 🏆 FSA 3/5 ⭐ 3.9 Taqueria - Notting Hill mexican 📍 141-145 Westbourne Grove, London 💰 ££ 2,059 reviews" [ref=e7916] [cursor=pointer]:
+        - /url: /restaurant/taqueria-notting-hill-7eGiCZeI
+        - generic [ref=e7917]:
+          - generic [ref=e7918]:
+            - img "Taqueria - Notting Hill - mexican restaurant in 141-145 Westbourne Grove, London" [ref=e7919]
+            - generic [ref=e7922]: 🏆 FSA 3/5
+            - generic [ref=e7924]: ⭐ 3.9
+          - generic [ref=e7925]:
+            - heading "Taqueria - Notting Hill" [level=3] [ref=e7926]
+            - generic [ref=e7928]: mexican
+            - paragraph [ref=e7929]: 📍 141-145 Westbourne Grove, London
+            - paragraph [ref=e7930]: 💰 ££
+            - paragraph [ref=e7931]: 2,059 reviews
+      - link "Tayyabs - british restaurant in Central London 🏆 FSA 2/5 ⭐ 3.9 Tayyabs british 📍 Central London 💰 ££ 9,158 reviews" [ref=e7932] [cursor=pointer]:
+        - /url: /restaurant/tayyabs-l8CSRexg
+        - generic [ref=e7933]:
+          - generic [ref=e7934]:
+            - img "Tayyabs - british restaurant in Central London" [ref=e7935]
+            - generic [ref=e7938]: 🏆 FSA 2/5
+            - generic [ref=e7940]: ⭐ 3.9
+          - generic [ref=e7941]:
+            - heading "Tayyabs" [level=3] [ref=e7942]
+            - generic [ref=e7944]: british
+            - paragraph [ref=e7945]: 📍 Central London
+            - paragraph [ref=e7946]: 💰 ££
+            - paragraph [ref=e7947]: 9,158 reviews
+      - link "Tanjia Garden - turkish restaurant in Central London 🏆 FSA 3/5 ⭐ 3.9 Tanjia Garden turkish 📍 Central London 💰 ££ 885 reviews" [ref=e7948] [cursor=pointer]:
+        - /url: /restaurant/tanjia-garden-j00ots9k
+        - generic [ref=e7949]:
+          - generic [ref=e7950]:
+            - img "Tanjia Garden - turkish restaurant in Central London" [ref=e7951]
+            - generic [ref=e7954]: 🏆 FSA 3/5
+            - generic [ref=e7956]: ⭐ 3.9
+          - generic [ref=e7957]:
+            - heading "Tanjia Garden" [level=3] [ref=e7958]
+            - generic [ref=e7960]: turkish
+            - paragraph [ref=e7961]: 📍 Central London
+            - paragraph [ref=e7962]: 💰 ££
+            - paragraph [ref=e7963]: 885 reviews
+      - link "Golden Dragon (Chinatown) - japanese restaurant in 28-29 Gerrard St, London 🏆 FSA 3/5 ⭐ 3.8 Golden Dragon (Chinatown) japanese 📍 28-29 Gerrard St, London 💰 ££ 3,992 reviews" [ref=e7964] [cursor=pointer]:
+        - /url: /restaurant/golden-dragon-chinatown-H_WaE2es
+        - generic [ref=e7965]:
+          - generic [ref=e7966]:
+            - img "Golden Dragon (Chinatown) - japanese restaurant in 28-29 Gerrard St, London" [ref=e7967]
+            - generic [ref=e7970]: 🏆 FSA 3/5
+            - generic [ref=e7972]: ⭐ 3.8
+          - generic [ref=e7973]:
+            - heading "Golden Dragon (Chinatown)" [level=3] [ref=e7974]
+            - generic [ref=e7976]: japanese
+            - paragraph [ref=e7977]: 📍 28-29 Gerrard St, London
+            - paragraph [ref=e7978]: 💰 ££
+            - paragraph [ref=e7979]: 3,992 reviews
+      - link "Bun & Sum - british restaurant in Tower Hamlets 🏆 FSA 5/5 ⭐ 3.8 Bun & Sum british 📍 Tower Hamlets 💰 ££ 1,294 reviews" [ref=e7980] [cursor=pointer]:
+        - /url: /restaurant/bun-sum-QBXzgVJ0
+        - generic [ref=e7981]:
+          - generic [ref=e7982]:
+            - img "Bun & Sum - british restaurant in Tower Hamlets" [ref=e7983]
+            - generic [ref=e7986]: 🏆 FSA 5/5
+            - generic [ref=e7988]: ⭐ 3.8
+          - generic [ref=e7989]:
+            - heading "Bun & Sum" [level=3] [ref=e7990]
+            - generic [ref=e7992]: british
+            - paragraph [ref=e7993]: 📍 Tower Hamlets
+            - paragraph [ref=e7994]: 💰 ££
+            - paragraph [ref=e7995]: 1,294 reviews
+      - link "Wazir Restaurant - british restaurant in Central London 🏆 FSA 4/5 ⭐ 3.8 Wazir Restaurant british 📍 Central London 💰 ££ 3,022 reviews" [ref=e7996] [cursor=pointer]:
+        - /url: /restaurant/wazir-restaurant-a0mLYSSA
+        - generic [ref=e7997]:
+          - generic [ref=e7998]:
+            - img "Wazir Restaurant - british restaurant in Central London" [ref=e7999]
+            - generic [ref=e8002]: 🏆 FSA 4/5
+            - generic [ref=e8004]: ⭐ 3.8
+          - generic [ref=e8005]:
+            - heading "Wazir Restaurant" [level=3] [ref=e8006]
+            - generic [ref=e8008]: british
+            - paragraph [ref=e8009]: 📍 Central London
+            - paragraph [ref=e8010]: 💰 ££
+            - paragraph [ref=e8011]: 3,022 reviews
+      - link "MyShish - modern-european restaurant in Central London 🏆 FSA 5/5 ⭐ 3.8 MyShish modern-european 📍 Central London 💰 ££ 1,117 reviews" [ref=e8012] [cursor=pointer]:
+        - /url: /restaurant/myshish-KVMQTqBI
+        - generic [ref=e8013]:
+          - generic [ref=e8014]:
+            - img "MyShish - modern-european restaurant in Central London" [ref=e8015]
+            - generic [ref=e8018]: 🏆 FSA 5/5
+            - generic [ref=e8020]: ⭐ 3.8
+          - generic [ref=e8021]:
+            - heading "MyShish" [level=3] [ref=e8022]
+            - generic [ref=e8024]: modern-european
+            - paragraph [ref=e8025]: 📍 Central London
+            - paragraph [ref=e8026]: 💰 ££
+            - paragraph [ref=e8027]: 1,117 reviews
+      - link "Maedah Grill - british restaurant in Central London 🏆 FSA 4/5 ⭐ 3.6 Maedah Grill british 📍 Central London 💰 ££ 1,818 reviews" [ref=e8028] [cursor=pointer]:
+        - /url: /restaurant/maedah-grill-sjGwSDMo
+        - generic [ref=e8029]:
+          - generic [ref=e8030]:
+            - img "Maedah Grill - british restaurant in Central London" [ref=e8031]
+            - generic [ref=e8034]: 🏆 FSA 4/5
+            - generic [ref=e8036]: ⭐ 3.6
+          - generic [ref=e8037]:
+            - heading "Maedah Grill" [level=3] [ref=e8038]
+            - generic [ref=e8040]: british
+            - paragraph [ref=e8041]: 📍 Central London
+            - paragraph [ref=e8042]: 💰 ££
+            - paragraph [ref=e8043]: 1,818 reviews
+      - link "Chef Asia - british restaurant in Havering 🏆 FSA 3/5 ⭐ 3.6 Chef Asia british 📍 Havering 💰 ££ 222 reviews" [ref=e8044] [cursor=pointer]:
+        - /url: /restaurant/chef-asia-fuWenQ_I
+        - generic [ref=e8045]:
+          - generic [ref=e8046]:
+            - img "Chef Asia - british restaurant in Havering" [ref=e8047]
+            - generic [ref=e8050]: 🏆 FSA 3/5
+            - generic [ref=e8052]: ⭐ 3.6
+          - generic [ref=e8053]:
+            - heading "Chef Asia" [level=3] [ref=e8054]
+            - generic [ref=e8056]: british
+            - paragraph [ref=e8057]: 📍 Havering
+            - paragraph [ref=e8058]: 💰 ££
+            - paragraph [ref=e8059]: 222 reviews
+      - link "Indi-go Rasoi Westfield Stratford - indian restaurant in Newham 🏆 FSA 3/5 ⭐ 3.6 Indi-go Rasoi Westfield Stratford indian 📍 Newham 💰 ££ 997 reviews" [ref=e8060] [cursor=pointer]:
+        - /url: /restaurant/indi-go-rasoi-westfield-stratford-jfsJ-zHQ
+        - generic [ref=e8061]:
+          - generic [ref=e8062]:
+            - img "Indi-go Rasoi Westfield Stratford - indian restaurant in Newham" [ref=e8063]
+            - generic [ref=e8066]: 🏆 FSA 3/5
+            - generic [ref=e8068]: ⭐ 3.6
+          - generic [ref=e8069]:
+            - heading "Indi-go Rasoi Westfield Stratford" [level=3] [ref=e8070]
+            - generic [ref=e8072]: indian
+            - paragraph [ref=e8073]: 📍 Newham
+            - paragraph [ref=e8074]: 💰 ££
+            - paragraph [ref=e8075]: 997 reviews
+      - link "BBQ Express - Stratford - british restaurant in Central London 🏆 FSA 3/5 ⭐ 3.6 BBQ Express - Stratford british 📍 Central London 💰 ££ 505 reviews" [ref=e8076] [cursor=pointer]:
+        - /url: /restaurant/bbq-express-stratford-xjNAKtoI
+        - generic [ref=e8077]:
+          - generic [ref=e8078]:
+            - img "BBQ Express - Stratford - british restaurant in Central London" [ref=e8079]
+            - generic [ref=e8082]: 🏆 FSA 3/5
+            - generic [ref=e8084]: ⭐ 3.6
+          - generic [ref=e8085]:
+            - heading "BBQ Express - Stratford" [level=3] [ref=e8086]
+            - generic [ref=e8088]: british
+            - paragraph [ref=e8089]: 📍 Central London
+            - paragraph [ref=e8090]: 💰 ££
+            - paragraph [ref=e8091]: 505 reviews
+      - link "Feast and Mishti - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 3.6 Feast and Mishti british 📍 Tower Hamlets 💰 £ 1,403 reviews" [ref=e8092] [cursor=pointer]:
+        - /url: /restaurant/feast-and-mishti-LSZP8lfE
+        - generic [ref=e8093]:
+          - generic [ref=e8094]:
+            - img "Feast and Mishti - british restaurant in Tower Hamlets" [ref=e8095]
+            - generic [ref=e8098]: 🏆 FSA 4/5
+            - generic [ref=e8100]: ⭐ 3.6
+          - generic [ref=e8101]:
+            - heading "Feast and Mishti" [level=3] [ref=e8102]
+            - generic [ref=e8104]: british
+            - paragraph [ref=e8105]: 📍 Tower Hamlets
+            - paragraph [ref=e8106]: 💰 £
+            - paragraph [ref=e8107]: 1,403 reviews
+      - link "Makkah Grill - british restaurant in Tower Hamlets 🏆 FSA 3/5 ⭐ 3.6 Makkah Grill british 📍 Tower Hamlets 💰 ££ 395 reviews" [ref=e8108] [cursor=pointer]:
+        - /url: /restaurant/makkah-grill-_FeBBhqw
+        - generic [ref=e8109]:
+          - generic [ref=e8110]:
+            - img "Makkah Grill - british restaurant in Tower Hamlets" [ref=e8111]
+            - generic [ref=e8114]: 🏆 FSA 3/5
+            - generic [ref=e8116]: ⭐ 3.6
+          - generic [ref=e8117]:
+            - heading "Makkah Grill" [level=3] [ref=e8118]
+            - generic [ref=e8120]: british
+            - paragraph [ref=e8121]: 📍 Tower Hamlets
+            - paragraph [ref=e8122]: 💰 ££
+            - paragraph [ref=e8123]: 395 reviews
+      - link "McDonald's - british restaurant in Central London 🏆 FSA 5/5 ⭐ 3.6 McDonald's british 📍 Central London 💰 £ 8,179 reviews" [ref=e8124] [cursor=pointer]:
+        - /url: /restaurant/mcdonalds-d-S661TM
+        - generic [ref=e8125]:
+          - generic [ref=e8126]:
+            - img "McDonald's - british restaurant in Central London" [ref=e8127]
+            - generic [ref=e8130]: 🏆 FSA 5/5
+            - generic [ref=e8132]: ⭐ 3.6
+          - generic [ref=e8133]:
+            - heading "McDonald's" [level=3] [ref=e8134]
+            - generic [ref=e8136]: british
+            - paragraph [ref=e8137]: 📍 Central London
+            - paragraph [ref=e8138]: 💰 £
+            - paragraph [ref=e8139]: 8,179 reviews
+      - link "Al-Safa Grill - british restaurant in Tower Hamlets 🏆 FSA 3/5 ⭐ 3.6 Al-Safa Grill british 📍 Tower Hamlets 💰 £ 336 reviews" [ref=e8140] [cursor=pointer]:
+        - /url: /restaurant/al-safa-grill-rN0PRk2U
+        - generic [ref=e8141]:
+          - generic [ref=e8142]:
+            - img "Al-Safa Grill - british restaurant in Tower Hamlets" [ref=e8143]
+            - generic [ref=e8146]: 🏆 FSA 3/5
+            - generic [ref=e8148]: ⭐ 3.6
+          - generic [ref=e8149]:
+            - heading "Al-Safa Grill" [level=3] [ref=e8150]
+            - generic [ref=e8152]: british
+            - paragraph [ref=e8153]: 📍 Tower Hamlets
+            - paragraph [ref=e8154]: 💰 £
+            - paragraph [ref=e8155]: 336 reviews
+      - link "Baraka Eatery London - british restaurant in Tower Hamlets 🏆 FSA 2/5 ⭐ 3.4 Baraka Eatery London british 📍 Tower Hamlets 💰 ££ 599 reviews" [ref=e8156] [cursor=pointer]:
+        - /url: /restaurant/baraka-eatery-london-1mBEkyTU
+        - generic [ref=e8157]:
+          - generic [ref=e8158]:
+            - img "Baraka Eatery London - british restaurant in Tower Hamlets" [ref=e8159]
+            - generic [ref=e8162]: 🏆 FSA 2/5
+            - generic [ref=e8164]: ⭐ 3.4
+          - generic [ref=e8165]:
+            - heading "Baraka Eatery London" [level=3] [ref=e8166]
+            - generic [ref=e8168]: british
+            - paragraph [ref=e8169]: 📍 Tower Hamlets
+            - paragraph [ref=e8170]: 💰 ££
+            - paragraph [ref=e8171]: 599 reviews
+      - link "Madison Steak & Grill - british restaurant in Central London 🏆 FSA 1/5 ⭐ 3.4 Madison Steak & Grill british 📍 Central London 💰 ££ 1,266 reviews" [ref=e8172] [cursor=pointer]:
+        - /url: /restaurant/madison-steak-grill-Ygkz0qFk
+        - generic [ref=e8173]:
+          - generic [ref=e8174]:
+            - img "Madison Steak & Grill - british restaurant in Central London" [ref=e8175]
+            - generic [ref=e8178]: 🏆 FSA 1/5
+            - generic [ref=e8180]: ⭐ 3.4
+          - generic [ref=e8181]:
+            - heading "Madison Steak & Grill" [level=3] [ref=e8182]
+            - generic [ref=e8184]: british
+            - paragraph [ref=e8185]: 📍 Central London
+            - paragraph [ref=e8186]: 💰 ££
+            - paragraph [ref=e8187]: 1,266 reviews
+      - link "Spice Hut - british restaurant in Tower Hamlets 🏆 FSA 4/5 ⭐ 3.4 Spice Hut british 📍 Tower Hamlets 💰 £ 1,228 reviews" [ref=e8188] [cursor=pointer]:
+        - /url: /restaurant/spice-hut-SCpfv3a4
+        - generic [ref=e8189]:
+          - generic [ref=e8190]:
+            - img "Spice Hut - british restaurant in Tower Hamlets" [ref=e8191]
+            - generic [ref=e8194]: 🏆 FSA 4/5
+            - generic [ref=e8196]: ⭐ 3.4
+          - generic [ref=e8197]:
+            - heading "Spice Hut" [level=3] [ref=e8198]
+            - generic [ref=e8200]: british
+            - paragraph [ref=e8201]: 📍 Tower Hamlets
+            - paragraph [ref=e8202]: 💰 £
+            - paragraph [ref=e8203]: 1,228 reviews
+      - link "Salamis Restaurant - british restaurant in Redbridge 🏆 FSA 5/5 ⭐ 3.3 Salamis Restaurant british 📍 Redbridge 💰 ££ 968 reviews" [ref=e8204] [cursor=pointer]:
+        - /url: /restaurant/salamis-restaurant-8MQnac-Q
+        - generic [ref=e8205]:
+          - generic [ref=e8206]:
+            - img "Salamis Restaurant - british restaurant in Redbridge" [ref=e8207]
+            - generic [ref=e8210]: 🏆 FSA 5/5
+            - generic [ref=e8212]: ⭐ 3.3
+          - generic [ref=e8213]:
+            - heading "Salamis Restaurant" [level=3] [ref=e8214]
+            - generic [ref=e8216]: british
+            - paragraph [ref=e8217]: 📍 Redbridge
+            - paragraph [ref=e8218]: 💰 ££
+            - paragraph [ref=e8219]: 968 reviews
+      - link "Hardies Peri Peri - british restaurant in Newham 🏆 FSA 5/5 ⭐ 3.1 Hardies Peri Peri british 📍 Newham 💰 ££ 81 reviews" [ref=e8220] [cursor=pointer]:
+        - /url: /restaurant/hardies-peri-peri-HFFXUSTc
+        - generic [ref=e8221]:
+          - generic [ref=e8222]:
+            - img "Hardies Peri Peri - british restaurant in Newham" [ref=e8223]
+            - generic [ref=e8226]: 🏆 FSA 5/5
+            - generic [ref=e8228]: ⭐ 3.1
+          - generic [ref=e8229]:
+            - heading "Hardies Peri Peri" [level=3] [ref=e8230]
+            - generic [ref=e8232]: british
+            - paragraph [ref=e8233]: 📍 Newham
+            - paragraph [ref=e8234]: 💰 ££
+            - paragraph [ref=e8235]: 81 reviews
+      - link "Nobu London - japanese restaurant in 19 Old Park Lane, Mayfair Nobu London japanese 📍 19 Old Park Lane, Mayfair" [ref=e8236] [cursor=pointer]:
+        - /url: /restaurant/nobu-london-1XA1719C
+        - generic [ref=e8237]:
+          - img "Nobu London - japanese restaurant in 19 Old Park Lane, Mayfair" [ref=e8239]
+          - generic [ref=e8241]:
+            - heading "Nobu London" [level=3] [ref=e8242]
+            - generic [ref=e8244]: japanese
+            - paragraph [ref=e8245]: 📍 19 Old Park Lane, Mayfair
+      - link "Restaurant Gordon Ramsay - british, french restaurant in 68 Royal Hospital Road, Chelsea Restaurant Gordon Ramsay british french 📍 68 Royal Hospital Road, Chelsea" [ref=e8246] [cursor=pointer]:
+        - /url: /restaurant/restaurant-gordon-ramsay-902IUH1A
+        - generic [ref=e8247]:
+          - img "Restaurant Gordon Ramsay - british, french restaurant in 68 Royal Hospital Road, Chelsea" [ref=e8249]
+          - generic [ref=e8251]:
+            - heading "Restaurant Gordon Ramsay" [level=3] [ref=e8252]
+            - generic [ref=e8253]:
+              - generic [ref=e8254]: british
+              - generic [ref=e8255]: french
+            - paragraph [ref=e8256]: 📍 68 Royal Hospital Road, Chelsea
+      - link "Sketch London - modern-european, french restaurant in 9 Conduit Street, Mayfair Sketch London modern-european french 📍 9 Conduit Street, Mayfair" [ref=e8257] [cursor=pointer]:
+        - /url: /restaurant/sketch-london-FS6WRB5C
+        - generic [ref=e8258]:
+          - img "Sketch London - modern-european, french restaurant in 9 Conduit Street, Mayfair" [ref=e8260]
+          - generic [ref=e8262]:
+            - heading "Sketch London" [level=3] [ref=e8263]
+            - generic [ref=e8264]:
+              - generic [ref=e8265]: modern-european
+              - generic [ref=e8266]: french
+            - paragraph [ref=e8267]: 📍 9 Conduit Street, Mayfair
+      - link "The Wolseley - british, modern-european restaurant in 160 Piccadilly, St. James's The Wolseley british modern-european 📍 160 Piccadilly, St. James's" [ref=e8268] [cursor=pointer]:
+        - /url: /restaurant/the-wolseley-V4MB6LOH
+        - generic [ref=e8269]:
+          - img "The Wolseley - british, modern-european restaurant in 160 Piccadilly, St. James's" [ref=e8271]
+          - generic [ref=e8273]:
+            - heading "The Wolseley" [level=3] [ref=e8274]
+            - generic [ref=e8275]:
+              - generic [ref=e8276]: british
+              - generic [ref=e8277]: modern-european
+            - paragraph [ref=e8278]: 📍 160 Piccadilly, St. James's
+      - link "Claridge's Restaurant - modern-european, british restaurant in 49 Brook Street, Mayfair Claridge's Restaurant modern-european british 📍 49 Brook Street, Mayfair" [ref=e8279] [cursor=pointer]:
+        - /url: /restaurant/claridges-restaurant-J7H4IWBJ
+        - generic [ref=e8280]:
+          - img "Claridge's Restaurant - modern-european, british restaurant in 49 Brook Street, Mayfair" [ref=e8282]
+          - generic [ref=e8284]:
+            - heading "Claridge's Restaurant" [level=3] [ref=e8285]
+            - generic [ref=e8286]:
+              - generic [ref=e8287]: modern-european
+              - generic [ref=e8288]: british
+            - paragraph [ref=e8289]: 📍 49 Brook Street, Mayfair
+      - link "The River Café - italian restaurant in Thames Wharf, Rainville Road, Hammersmith The River Café italian 📍 Thames Wharf, Rainville Road, Hammersmith" [ref=e8290] [cursor=pointer]:
+        - /url: /restaurant/the-river-caf-OPX1QMDT
+        - generic [ref=e8291]:
+          - img "The River Café - italian restaurant in Thames Wharf, Rainville Road, Hammersmith" [ref=e8293]
+          - generic [ref=e8295]:
+            - heading "The River Café" [level=3] [ref=e8296]
+            - generic [ref=e8298]: italian
+            - paragraph [ref=e8299]: 📍 Thames Wharf, Rainville Road, Hammersmith
+      - link "Barrafina Drury Lane - spanish restaurant in 43 Drury Lane, Covent Garden Barrafina Drury Lane spanish 📍 43 Drury Lane, Covent Garden" [ref=e8300] [cursor=pointer]:
+        - /url: /restaurant/barrafina-drury-lane-R9GMAK6C
+        - generic [ref=e8301]:
+          - img "Barrafina Drury Lane - spanish restaurant in 43 Drury Lane, Covent Garden" [ref=e8303]
+          - generic [ref=e8305]:
+            - heading "Barrafina Drury Lane" [level=3] [ref=e8306]
+            - generic [ref=e8308]: spanish
+            - paragraph [ref=e8309]: 📍 43 Drury Lane, Covent Garden
+      - link "Davies and Brook - modern-european, french restaurant in Claridge's, 49 Brook Street, Mayfair Davies and Brook modern-european french 📍 Claridge's, 49 Brook Street, Mayfair" [ref=e8310] [cursor=pointer]:
+        - /url: /restaurant/davies-and-brook-VXR0C7KK
+        - generic [ref=e8311]:
+          - img "Davies and Brook - modern-european, french restaurant in Claridge's, 49 Brook Street, Mayfair" [ref=e8313]
+          - generic [ref=e8315]:
+            - heading "Davies and Brook" [level=3] [ref=e8316]
+            - generic [ref=e8317]:
+              - generic [ref=e8318]: modern-european
+              - generic [ref=e8319]: french
+            - paragraph [ref=e8320]: 📍 Claridge's, 49 Brook Street, Mayfair
+      - link "Petersham Nurseries Café - british, modern-european restaurant in 31 King Street, Covent Garden Petersham Nurseries Café british modern-european 📍 31 King Street, Covent Garden" [ref=e8321] [cursor=pointer]:
+        - /url: /restaurant/petersham-nurseries-caf-VTB00VQ8
+        - generic [ref=e8322]:
+          - img "Petersham Nurseries Café - british, modern-european restaurant in 31 King Street, Covent Garden" [ref=e8324]
+          - generic [ref=e8326]:
+            - heading "Petersham Nurseries Café" [level=3] [ref=e8327]
+            - generic [ref=e8328]:
+              - generic [ref=e8329]: british
+              - generic [ref=e8330]: modern-european
+            - paragraph [ref=e8331]: 📍 31 King Street, Covent Garden
+      - link "Core by Clare Smyth - british, modern-european restaurant in 92 Kensington Park Road, Notting Hill Core by Clare Smyth british modern-european 📍 92 Kensington Park Road, Notting Hill" [ref=e8332] [cursor=pointer]:
+        - /url: /restaurant/core-by-clare-smyth-HVRYF8AE
+        - generic [ref=e8333]:
+          - img "Core by Clare Smyth - british, modern-european restaurant in 92 Kensington Park Road, Notting Hill" [ref=e8335]
+          - generic [ref=e8337]:
+            - heading "Core by Clare Smyth" [level=3] [ref=e8338]
+            - generic [ref=e8339]:
+              - generic [ref=e8340]: british
+              - generic [ref=e8341]: modern-european
+            - paragraph [ref=e8342]: 📍 92 Kensington Park Road, Notting Hill
+      - link "The Ritz Restaurant - french, british restaurant in 150 Piccadilly, St. James's The Ritz Restaurant french british 📍 150 Piccadilly, St. James's" [ref=e8343] [cursor=pointer]:
+        - /url: /restaurant/the-ritz-restaurant-W9WJRPOM
+        - generic [ref=e8344]:
+          - img "The Ritz Restaurant - french, british restaurant in 150 Piccadilly, St. James's" [ref=e8346]
+          - generic [ref=e8348]:
+            - heading "The Ritz Restaurant" [level=3] [ref=e8349]
+            - generic [ref=e8350]:
+              - generic [ref=e8351]: french
+              - generic [ref=e8352]: british
+            - paragraph [ref=e8353]: 📍 150 Piccadilly, St. James's
+      - link "Alain Ducasse at The Dorchester - french restaurant in 53 Park Lane, Mayfair Alain Ducasse at The Dorchester french 📍 53 Park Lane, Mayfair" [ref=e8354] [cursor=pointer]:
+        - /url: /restaurant/alain-ducasse-at-the-dorchester-A90UL8WG
+        - generic [ref=e8355]:
+          - img "Alain Ducasse at The Dorchester - french restaurant in 53 Park Lane, Mayfair" [ref=e8357]
+          - generic [ref=e8359]:
+            - heading "Alain Ducasse at The Dorchester" [level=3] [ref=e8360]
+            - generic [ref=e8362]: french
+            - paragraph [ref=e8363]: 📍 53 Park Lane, Mayfair
+      - link "La Dame de Pic London - french restaurant in Four Seasons Hotel, 10 Trinity Square, Tower Hill La Dame de Pic London french 📍 Four Seasons Hotel, 10 Trinity Square, Tower Hill" [ref=e8364] [cursor=pointer]:
+        - /url: /restaurant/la-dame-de-pic-london-XJVOE607
+        - generic [ref=e8365]:
+          - img "La Dame de Pic London - french restaurant in Four Seasons Hotel, 10 Trinity Square, Tower Hill" [ref=e8367]
+          - generic [ref=e8369]:
+            - heading "La Dame de Pic London" [level=3] [ref=e8370]
+            - generic [ref=e8372]: french
+            - paragraph [ref=e8373]: 📍 Four Seasons Hotel, 10 Trinity Square, Tower Hill
+      - link "Ikoyi - african, modern-european restaurant in 1 St. James's Market, St. James's Ikoyi african modern-european 📍 1 St. James's Market, St. James's" [ref=e8374] [cursor=pointer]:
+        - /url: /restaurant/ikoyi-CIXJIH1C
+        - generic [ref=e8375]:
+          - img "Ikoyi - african, modern-european restaurant in 1 St. James's Market, St. James's" [ref=e8377]
+          - generic [ref=e8379]:
+            - heading "Ikoyi" [level=3] [ref=e8380]
+            - generic [ref=e8381]:
+              - generic [ref=e8382]: african
+              - generic [ref=e8383]: modern-european
+            - paragraph [ref=e8384]: 📍 1 St. James's Market, St. James's
+      - link "Sabor - spanish restaurant in 35-37 Heddon Street, Mayfair Sabor spanish 📍 35-37 Heddon Street, Mayfair" [ref=e8385] [cursor=pointer]:
+        - /url: /restaurant/sabor-CUQLE2CM
+        - generic [ref=e8386]:
+          - img "Sabor - spanish restaurant in 35-37 Heddon Street, Mayfair" [ref=e8388]
+          - generic [ref=e8390]:
+            - heading "Sabor" [level=3] [ref=e8391]
+            - generic [ref=e8393]: spanish
+            - paragraph [ref=e8394]: 📍 35-37 Heddon Street, Mayfair
+      - link "The London Edition - modern-european, british restaurant in 10 Berners Street, Fitzrovia The London Edition modern-european british 📍 10 Berners Street, Fitzrovia" [ref=e8395] [cursor=pointer]:
+        - /url: /restaurant/the-london-edition-15FYFG7D
+        - generic [ref=e8396]:
+          - img "The London Edition - modern-european, british restaurant in 10 Berners Street, Fitzrovia" [ref=e8398]
+          - generic [ref=e8400]:
+            - heading "The London Edition" [level=3] [ref=e8401]
+            - generic [ref=e8402]:
+              - generic [ref=e8403]: modern-european
+              - generic [ref=e8404]: british
+            - paragraph [ref=e8405]: 📍 10 Berners Street, Fitzrovia
+      - link "Céleste at The Lanesborough - french restaurant in 1 Lanesborough Place, Hyde Park Corner Céleste at The Lanesborough french 📍 1 Lanesborough Place, Hyde Park Corner" [ref=e8406] [cursor=pointer]:
+        - /url: /restaurant/cleste-at-the-lanesborough-1JMPT7KK
+        - generic [ref=e8407]:
+          - img "Céleste at The Lanesborough - french restaurant in 1 Lanesborough Place, Hyde Park Corner" [ref=e8409]
+          - generic [ref=e8411]:
+            - heading "Céleste at The Lanesborough" [level=3] [ref=e8412]
+            - generic [ref=e8414]: french
+            - paragraph [ref=e8415]: 📍 1 Lanesborough Place, Hyde Park Corner
+      - link "Wiltons - seafood, british restaurant in 55 Jermyn Street, St. James's Wiltons seafood british 📍 55 Jermyn Street, St. James's" [ref=e8416] [cursor=pointer]:
+        - /url: /restaurant/wiltons-HFSCEG3C
+        - generic [ref=e8417]:
+          - img "Wiltons - seafood, british restaurant in 55 Jermyn Street, St. James's" [ref=e8419]
+          - generic [ref=e8421]:
+            - heading "Wiltons" [level=3] [ref=e8422]
+            - generic [ref=e8423]:
+              - generic [ref=e8424]: seafood
+              - generic [ref=e8425]: british
+            - paragraph [ref=e8426]: 📍 55 Jermyn Street, St. James's
+      - link "Fera at Claridge's - modern-european, british restaurant in 49 Brook Street, Mayfair Fera at Claridge's modern-european british 📍 49 Brook Street, Mayfair" [ref=e8427] [cursor=pointer]:
+        - /url: /restaurant/fera-at-claridges-72TDCBGN
+        - generic [ref=e8428]:
+          - img "Fera at Claridge's - modern-european, british restaurant in 49 Brook Street, Mayfair" [ref=e8430]
+          - generic [ref=e8432]:
+            - heading "Fera at Claridge's" [level=3] [ref=e8433]
+            - generic [ref=e8434]:
+              - generic [ref=e8435]: modern-european
+              - generic [ref=e8436]: british
+            - paragraph [ref=e8437]: 📍 49 Brook Street, Mayfair
+      - link "Hakkasan Hanway Place - chinese restaurant in 8 Hanway Place, Fitzrovia Hakkasan Hanway Place chinese 📍 8 Hanway Place, Fitzrovia" [ref=e8438] [cursor=pointer]:
+        - /url: /restaurant/hakkasan-hanway-place-W55RC36O
+        - generic [ref=e8439]:
+          - img "Hakkasan Hanway Place - chinese restaurant in 8 Hanway Place, Fitzrovia" [ref=e8441]
+          - generic [ref=e8443]:
+            - heading "Hakkasan Hanway Place" [level=3] [ref=e8444]
+            - generic [ref=e8446]: chinese
+            - paragraph [ref=e8447]: 📍 8 Hanway Place, Fitzrovia
+      - link "Yauatcha - chinese restaurant in 15-17 Broadwick Street, Soho Yauatcha chinese 📍 15-17 Broadwick Street, Soho" [ref=e8448] [cursor=pointer]:
+        - /url: /restaurant/yauatcha-9S83EN0A
+        - generic [ref=e8449]:
+          - img "Yauatcha - chinese restaurant in 15-17 Broadwick Street, Soho" [ref=e8451]
+          - generic [ref=e8453]:
+            - heading "Yauatcha" [level=3] [ref=e8454]
+            - generic [ref=e8456]: chinese
+            - paragraph [ref=e8457]: 📍 15-17 Broadwick Street, Soho
+      - link "Din Tai Fung - chinese, taiwanese restaurant in 5 Henrietta Street, Covent Garden Din Tai Fung chinese taiwanese 📍 5 Henrietta Street, Covent Garden" [ref=e8458] [cursor=pointer]:
+        - /url: /restaurant/din-tai-fung-XQAR872W
+        - generic [ref=e8459]:
+          - img "Din Tai Fung - chinese, taiwanese restaurant in 5 Henrietta Street, Covent Garden" [ref=e8461]
+          - generic [ref=e8463]:
+            - heading "Din Tai Fung" [level=3] [ref=e8464]
+            - generic [ref=e8465]:
+              - generic [ref=e8466]: chinese
+              - generic [ref=e8467]: taiwanese
+            - paragraph [ref=e8468]: 📍 5 Henrietta Street, Covent Garden
+      - link "Dishoom King's Cross - indian restaurant in 5 Stable Street, King's Cross Dishoom King's Cross indian 📍 5 Stable Street, King's Cross" [ref=e8469] [cursor=pointer]:
+        - /url: /restaurant/dishoom-kings-cross-Q7X0ZTTJ
+        - generic [ref=e8470]:
+          - img "Dishoom King's Cross - indian restaurant in 5 Stable Street, King's Cross" [ref=e8472]
+          - generic [ref=e8474]:
+            - heading "Dishoom King's Cross" [level=3] [ref=e8475]
+            - generic [ref=e8477]: indian
+            - paragraph [ref=e8478]: 📍 5 Stable Street, King's Cross
+      - link "The Palomar - middle-eastern, israeli restaurant in 34 Rupert Street, Soho The Palomar middle-eastern israeli 📍 34 Rupert Street, Soho" [ref=e8479] [cursor=pointer]:
+        - /url: /restaurant/the-palomar-3DTHDW1K
+        - generic [ref=e8480]:
+          - img "The Palomar - middle-eastern, israeli restaurant in 34 Rupert Street, Soho" [ref=e8482]
+          - generic [ref=e8484]:
+            - heading "The Palomar" [level=3] [ref=e8485]
+            - generic [ref=e8486]:
+              - generic [ref=e8487]: middle-eastern
+              - generic [ref=e8488]: israeli
+            - paragraph [ref=e8489]: 📍 34 Rupert Street, Soho
+      - link "Barrafina Frith Street - spanish restaurant in 26-27 Frith Street, Soho Barrafina Frith Street spanish 📍 26-27 Frith Street, Soho" [ref=e8490] [cursor=pointer]:
+        - /url: /restaurant/barrafina-frith-street-0ZGVBN2S
+        - generic [ref=e8491]:
+          - img "Barrafina Frith Street - spanish restaurant in 26-27 Frith Street, Soho" [ref=e8493]
+          - generic [ref=e8495]:
+            - heading "Barrafina Frith Street" [level=3] [ref=e8496]
+            - generic [ref=e8498]: spanish
+            - paragraph [ref=e8499]: 📍 26-27 Frith Street, Soho
+      - link "Manjaros Restaurant Ilford - indian, bengali restaurant in 135 High Road, Ilford Manjaros Restaurant Ilford indian bengali 📍 135 High Road, Ilford" [ref=e8500] [cursor=pointer]:
+        - /url: /restaurant/manjaros-restaurant-ilford-ZY0BLDXP
+        - generic [ref=e8501]:
+          - img "Manjaros Restaurant Ilford - indian, bengali restaurant in 135 High Road, Ilford" [ref=e8503]
+          - generic [ref=e8505]:
+            - heading "Manjaros Restaurant Ilford" [level=3] [ref=e8506]
+            - generic [ref=e8507]:
+              - generic [ref=e8508]: indian
+              - generic [ref=e8509]: bengali
+            - paragraph [ref=e8510]: 📍 135 High Road, Ilford
+      - link "Sahara Grill Ilford - turkish, mediterranean restaurant in 88 High Road, Ilford Sahara Grill Ilford turkish mediterranean 📍 88 High Road, Ilford" [ref=e8511] [cursor=pointer]:
+        - /url: /restaurant/sahara-grill-ilford-UAZ2Y5DG
+        - generic [ref=e8512]:
+          - img "Sahara Grill Ilford - turkish, mediterranean restaurant in 88 High Road, Ilford" [ref=e8514]
+          - generic [ref=e8516]:
+            - heading "Sahara Grill Ilford" [level=3] [ref=e8517]
+            - generic [ref=e8518]:
+              - generic [ref=e8519]: turkish
+              - generic [ref=e8520]: mediterranean
+            - paragraph [ref=e8521]: 📍 88 High Road, Ilford
+      - link "Shah's Halal Food Ilford - turkish, pizza restaurant in 45 High Road, Ilford Shah's Halal Food Ilford turkish pizza 📍 45 High Road, Ilford" [ref=e8522] [cursor=pointer]:
+        - /url: /restaurant/shahs-halal-food-ilford-BZVQBE1X
+        - generic [ref=e8523]:
+          - img "Shah's Halal Food Ilford - turkish, pizza restaurant in 45 High Road, Ilford" [ref=e8525]
+          - generic [ref=e8527]:
+            - heading "Shah's Halal Food Ilford" [level=3] [ref=e8528]
+            - generic [ref=e8529]:
+              - generic [ref=e8530]: turkish
+              - generic [ref=e8531]: pizza
+            - paragraph [ref=e8532]: 📍 45 High Road, Ilford
+      - link "The Lahore Kebab House - pakistani restaurant in 10 Umberston Street, Whitechapel The Lahore Kebab House pakistani 📍 10 Umberston Street, Whitechapel" [ref=e8533] [cursor=pointer]:
+        - /url: /restaurant/the-lahore-kebab-house-DFV903Y8
+        - generic [ref=e8534]:
+          - img "The Lahore Kebab House - pakistani restaurant in 10 Umberston Street, Whitechapel" [ref=e8536]
+          - generic [ref=e8538]:
+            - heading "The Lahore Kebab House" [level=3] [ref=e8539]
+            - generic [ref=e8541]: pakistani
+            - paragraph [ref=e8542]: 📍 10 Umberston Street, Whitechapel
+      - link "Aladin - indian restaurant in 132 Brick Lane, Shoreditch Aladin indian 📍 132 Brick Lane, Shoreditch" [ref=e8543] [cursor=pointer]:
+        - /url: /restaurant/aladin-57N2QU3L
+        - generic [ref=e8544]:
+          - img "Aladin - indian restaurant in 132 Brick Lane, Shoreditch" [ref=e8546]
+          - generic [ref=e8548]:
+            - heading "Aladin" [level=3] [ref=e8549]
+            - generic [ref=e8551]: indian
+            - paragraph [ref=e8552]: 📍 132 Brick Lane, Shoreditch
+      - link "Cafe Spice Namasté - indian restaurant in 16 Prescot Street, Whitechapel Cafe Spice Namasté indian 📍 16 Prescot Street, Whitechapel" [ref=e8553] [cursor=pointer]:
+        - /url: /restaurant/cafe-spice-namast-JOAHELME
+        - generic [ref=e8554]:
+          - img "Cafe Spice Namasté - indian restaurant in 16 Prescot Street, Whitechapel" [ref=e8556]
+          - generic [ref=e8558]:
+            - heading "Cafe Spice Namasté" [level=3] [ref=e8559]
+            - generic [ref=e8561]: indian
+            - paragraph [ref=e8562]: 📍 16 Prescot Street, Whitechapel
+      - link "Gunpowder - indian restaurant in 11 White's Row, Spitalfields Gunpowder indian 📍 11 White's Row, Spitalfields" [ref=e8563] [cursor=pointer]:
+        - /url: /restaurant/gunpowder-F7Q214GS
+        - generic [ref=e8564]:
+          - img "Gunpowder - indian restaurant in 11 White's Row, Spitalfields" [ref=e8566]
+          - generic [ref=e8568]:
+            - heading "Gunpowder" [level=3] [ref=e8569]
+            - generic [ref=e8571]: indian
+            - paragraph [ref=e8572]: 📍 11 White's Row, Spitalfields
+      - link "Dumplings' Legend - chinese restaurant in 15-16 Gerrard Street, Chinatown Dumplings' Legend chinese 📍 15-16 Gerrard Street, Chinatown" [ref=e8573] [cursor=pointer]:
+        - /url: /restaurant/dumplings-legend-7GKDS4QE
+        - generic [ref=e8574]:
+          - img "Dumplings' Legend - chinese restaurant in 15-16 Gerrard Street, Chinatown" [ref=e8576]
+          - generic [ref=e8578]:
+            - heading "Dumplings' Legend" [level=3] [ref=e8579]
+            - generic [ref=e8581]: chinese
+            - paragraph [ref=e8582]: 📍 15-16 Gerrard Street, Chinatown
+      - link "Cinnamon Kitchen - indian restaurant in 9 Devonshire Square, City of London Cinnamon Kitchen indian 📍 9 Devonshire Square, City of London" [ref=e8583] [cursor=pointer]:
+        - /url: /restaurant/cinnamon-kitchen-7WHTNL8J
+        - generic [ref=e8584]:
+          - img "Cinnamon Kitchen - indian restaurant in 9 Devonshire Square, City of London" [ref=e8586]
+          - generic [ref=e8588]:
+            - heading "Cinnamon Kitchen" [level=3] [ref=e8589]
+            - generic [ref=e8591]: indian
+            - paragraph [ref=e8592]: 📍 9 Devonshire Square, City of London
+      - link "Imli Street - indian restaurant in 167-169 Wardour Street, Soho Imli Street indian 📍 167-169 Wardour Street, Soho" [ref=e8593] [cursor=pointer]:
+        - /url: /restaurant/imli-street-83BA2X5K
+        - generic [ref=e8594]:
+          - img "Imli Street - indian restaurant in 167-169 Wardour Street, Soho" [ref=e8596]
+          - generic [ref=e8598]:
+            - heading "Imli Street" [level=3] [ref=e8599]
+            - generic [ref=e8601]: indian
+            - paragraph [ref=e8602]: 📍 167-169 Wardour Street, Soho
+      - link "Dishoom - indian restaurant in 7 Boundary Street, Shoreditch Dishoom indian 📍 7 Boundary Street, Shoreditch" [ref=e8603] [cursor=pointer]:
+        - /url: /restaurant/dishoom-3GYFTXGC
+        - generic [ref=e8604]:
+          - img "Dishoom - indian restaurant in 7 Boundary Street, Shoreditch" [ref=e8606]
+          - generic [ref=e8608]:
+            - heading "Dishoom" [level=3] [ref=e8609]
+            - generic [ref=e8611]: indian
+            - paragraph [ref=e8612]: 📍 7 Boundary Street, Shoreditch
+      - link "Berber & Q - middle-eastern, mediterranean restaurant in 338 Acton Mews, Hackney Berber & Q middle-eastern mediterranean 📍 338 Acton Mews, Hackney" [ref=e8613] [cursor=pointer]:
+        - /url: /restaurant/berber-q-KBZUAMTQ
+        - generic [ref=e8614]:
+          - img "Berber & Q - middle-eastern, mediterranean restaurant in 338 Acton Mews, Hackney" [ref=e8616]
+          - generic [ref=e8618]:
+            - heading "Berber & Q" [level=3] [ref=e8619]
+            - generic [ref=e8620]:
+              - generic [ref=e8621]: middle-eastern
+              - generic [ref=e8622]: mediterranean
+            - paragraph [ref=e8623]: 📍 338 Acton Mews, Hackney
+      - link "Mangal 2 - turkish restaurant in 4 Stoke Newington Road, Hackney Mangal 2 turkish 📍 4 Stoke Newington Road, Hackney" [ref=e8624] [cursor=pointer]:
+        - /url: /restaurant/mangal-2-019PVJT6
+        - generic [ref=e8625]:
+          - img "Mangal 2 - turkish restaurant in 4 Stoke Newington Road, Hackney" [ref=e8627]
+          - generic [ref=e8629]:
+            - heading "Mangal 2" [level=3] [ref=e8630]
+            - generic [ref=e8632]: turkish
+            - paragraph [ref=e8633]: 📍 4 Stoke Newington Road, Hackney
+      - link "Som Saa - thai restaurant in 43A Commercial Street, Spitalfields Som Saa thai 📍 43A Commercial Street, Spitalfields" [ref=e8634] [cursor=pointer]:
+        - /url: /restaurant/som-saa-ECODOJLF
+        - generic [ref=e8635]:
+          - img "Som Saa - thai restaurant in 43A Commercial Street, Spitalfields" [ref=e8637]
+          - generic [ref=e8639]:
+            - heading "Som Saa" [level=3] [ref=e8640]
+            - generic [ref=e8642]: thai
+            - paragraph [ref=e8643]: 📍 43A Commercial Street, Spitalfields
+      - link "Zeret Kitchen - ethiopian restaurant in 216-218 Camberwell Road, Camberwell Zeret Kitchen ethiopian 📍 216-218 Camberwell Road, Camberwell" [ref=e8644] [cursor=pointer]:
+        - /url: /restaurant/zeret-kitchen-9M6ABO1U
+        - generic [ref=e8645]:
+          - img "Zeret Kitchen - ethiopian restaurant in 216-218 Camberwell Road, Camberwell" [ref=e8647]
+          - generic [ref=e8649]:
+            - heading "Zeret Kitchen" [level=3] [ref=e8650]
+            - generic [ref=e8652]: ethiopian
+            - paragraph [ref=e8653]: 📍 216-218 Camberwell Road, Camberwell
+      - link "Pride of Asia - bangladeshi restaurant in 100 Green Street, Upton Park Pride of Asia bangladeshi 📍 100 Green Street, Upton Park" [ref=e8654] [cursor=pointer]:
+        - /url: /restaurant/pride-of-asia-NSD3JSUP
+        - generic [ref=e8655]:
+          - img "Pride of Asia - bangladeshi restaurant in 100 Green Street, Upton Park" [ref=e8657]
+          - generic [ref=e8659]:
+            - heading "Pride of Asia" [level=3] [ref=e8660]
+            - generic [ref=e8662]: bangladeshi
+            - paragraph [ref=e8663]: 📍 100 Green Street, Upton Park
+      - link "The Golden Hind - seafood, fish-and-chips restaurant in 73 Marylebone Lane, Marylebone The Golden Hind seafood fish-and-chips 📍 73 Marylebone Lane, Marylebone" [ref=e8664] [cursor=pointer]:
+        - /url: /restaurant/the-golden-hind-JJKSE97R
+        - generic [ref=e8665]:
+          - img "The Golden Hind - seafood, fish-and-chips restaurant in 73 Marylebone Lane, Marylebone" [ref=e8667]
+          - generic [ref=e8669]:
+            - heading "The Golden Hind" [level=3] [ref=e8670]
+            - generic [ref=e8671]:
+              - generic [ref=e8672]: seafood
+              - generic [ref=e8673]: fish-and-chips
+            - paragraph [ref=e8674]: 📍 73 Marylebone Lane, Marylebone
+      - link "Cay Tre - vietnamese restaurant in 42-43 Dean Street, Soho Cay Tre vietnamese 📍 42-43 Dean Street, Soho" [ref=e8675] [cursor=pointer]:
+        - /url: /restaurant/cay-tre-FT0RPJ09
+        - generic [ref=e8676]:
+          - img "Cay Tre - vietnamese restaurant in 42-43 Dean Street, Soho" [ref=e8678]
+          - generic [ref=e8680]:
+            - heading "Cay Tre" [level=3] [ref=e8681]
+            - generic [ref=e8683]: vietnamese
+            - paragraph [ref=e8684]: 📍 42-43 Dean Street, Soho
+      - link "Song Que Cafe - vietnamese restaurant in 134 Kingsland Road, Hackney Song Que Cafe vietnamese 📍 134 Kingsland Road, Hackney" [ref=e8685] [cursor=pointer]:
+        - /url: /restaurant/song-que-cafe-95TCMDZB
+        - generic [ref=e8686]:
+          - img "Song Que Cafe - vietnamese restaurant in 134 Kingsland Road, Hackney" [ref=e8688]
+          - generic [ref=e8690]:
+            - heading "Song Que Cafe" [level=3] [ref=e8691]
+            - generic [ref=e8693]: vietnamese
+            - paragraph [ref=e8694]: 📍 134 Kingsland Road, Hackney
+      - link "Rowley's - british restaurant in 113 Jermyn Street, St. James's Rowley's british 📍 113 Jermyn Street, St. James's" [ref=e8695] [cursor=pointer]:
+        - /url: /restaurant/rowleys-UMO2ZMHV
+        - generic [ref=e8696]:
+          - img "Rowley's - british restaurant in 113 Jermyn Street, St. James's" [ref=e8698]
+          - generic [ref=e8700]:
+            - heading "Rowley's" [level=3] [ref=e8701]
+            - generic [ref=e8703]: british
+            - paragraph [ref=e8704]: 📍 113 Jermyn Street, St. James's
+      - link "The Waterway - british, modern-european restaurant in 54 Formosa Street, Little Venice The Waterway british modern-european 📍 54 Formosa Street, Little Venice" [ref=e8705] [cursor=pointer]:
+        - /url: /restaurant/the-waterway-KBYZ6DGJ
+        - generic [ref=e8706]:
+          - img "The Waterway - british, modern-european restaurant in 54 Formosa Street, Little Venice" [ref=e8708]
+          - generic [ref=e8710]:
+            - heading "The Waterway" [level=3] [ref=e8711]
+            - generic [ref=e8712]:
+              - generic [ref=e8713]: british
+              - generic [ref=e8714]: modern-european
+            - paragraph [ref=e8715]: 📍 54 Formosa Street, Little Venice
+      - link "Shish Restaurant - lebanese, middle-eastern restaurant in 136 Essex Road, Islington Shish Restaurant lebanese middle-eastern 📍 136 Essex Road, Islington" [ref=e8716] [cursor=pointer]:
+        - /url: /restaurant/shish-restaurant-P2J5K4FE
+        - generic [ref=e8717]:
+          - img "Shish Restaurant - lebanese, middle-eastern restaurant in 136 Essex Road, Islington" [ref=e8719]
+          - generic [ref=e8721]:
+            - heading "Shish Restaurant" [level=3] [ref=e8722]
+            - generic [ref=e8723]:
+              - generic [ref=e8724]: lebanese
+              - generic [ref=e8725]: middle-eastern
+            - paragraph [ref=e8726]: 📍 136 Essex Road, Islington
+      - link "Ranoush - lebanese, middle-eastern restaurant in 43 Edgware Road, Marylebone Ranoush lebanese middle-eastern 📍 43 Edgware Road, Marylebone" [ref=e8727] [cursor=pointer]:
+        - /url: /restaurant/ranoush-D99BTD3C
+        - generic [ref=e8728]:
+          - img "Ranoush - lebanese, middle-eastern restaurant in 43 Edgware Road, Marylebone" [ref=e8730]
+          - generic [ref=e8732]:
+            - heading "Ranoush" [level=3] [ref=e8733]
+            - generic [ref=e8734]:
+              - generic [ref=e8735]: lebanese
+              - generic [ref=e8736]: middle-eastern
+            - paragraph [ref=e8737]: 📍 43 Edgware Road, Marylebone
+      - link "Maroush - lebanese restaurant in 21 Edgware Road, Marylebone Maroush lebanese 📍 21 Edgware Road, Marylebone" [ref=e8738] [cursor=pointer]:
+        - /url: /restaurant/maroush-BOI5CN4U
+        - generic [ref=e8739]:
+          - img "Maroush - lebanese restaurant in 21 Edgware Road, Marylebone" [ref=e8741]
+          - generic [ref=e8743]:
+            - heading "Maroush" [level=3] [ref=e8744]
+            - generic [ref=e8746]: lebanese
+            - paragraph [ref=e8747]: 📍 21 Edgware Road, Marylebone
+      - link "The Lahore - pakistani restaurant in 2 Umberston Street, Whitechapel The Lahore pakistani 📍 2 Umberston Street, Whitechapel" [ref=e8748] [cursor=pointer]:
+        - /url: /restaurant/the-lahore-4IQ1TIF9
+        - generic [ref=e8749]:
+          - img "The Lahore - pakistani restaurant in 2 Umberston Street, Whitechapel" [ref=e8751]
+          - generic [ref=e8753]:
+            - heading "The Lahore" [level=3] [ref=e8754]
+            - generic [ref=e8756]: pakistani
+            - paragraph [ref=e8757]: 📍 2 Umberston Street, Whitechapel
+      - link "Brick Lane Brasserie - indian, bangladeshi restaurant in 70 Brick Lane, Shoreditch Brick Lane Brasserie indian bangladeshi 📍 70 Brick Lane, Shoreditch" [ref=e8758] [cursor=pointer]:
+        - /url: /restaurant/brick-lane-brasserie-3JYVBASW
+        - generic [ref=e8759]:
+          - img "Brick Lane Brasserie - indian, bangladeshi restaurant in 70 Brick Lane, Shoreditch" [ref=e8761]
+          - generic [ref=e8763]:
+            - heading "Brick Lane Brasserie" [level=3] [ref=e8764]
+            - generic [ref=e8765]:
+              - generic [ref=e8766]: indian
+              - generic [ref=e8767]: bangladeshi
+            - paragraph [ref=e8768]: 📍 70 Brick Lane, Shoreditch
+      - link "Café Spice Namasté - indian restaurant in 16 Prescot Street, Whitechapel Café Spice Namasté indian 📍 16 Prescot Street, Whitechapel" [ref=e8769] [cursor=pointer]:
+        - /url: /restaurant/caf-spice-namast-R92SE062
+        - generic [ref=e8770]:
+          - img "Café Spice Namasté - indian restaurant in 16 Prescot Street, Whitechapel" [ref=e8772]
+          - generic [ref=e8774]:
+            - heading "Café Spice Namasté" [level=3] [ref=e8775]
+            - generic [ref=e8777]: indian
+            - paragraph [ref=e8778]: 📍 16 Prescot Street, Whitechapel
+      - link "Rajdhani Restaurant - indian, vegetarian restaurant in 131-133 High Street, Southall 🥗 Vegetarian Rajdhani Restaurant indian vegetarian 📍 131-133 High Street, Southall" [ref=e8779] [cursor=pointer]:
+        - /url: /restaurant/rajdhani-restaurant-8V127PKO
+        - generic [ref=e8780]:
+          - generic [ref=e8781]:
+            - img "Rajdhani Restaurant - indian, vegetarian restaurant in 131-133 High Street, Southall" [ref=e8782]
+            - generic [ref=e8785]: 🥗 Vegetarian
+          - generic [ref=e8786]:
+            - heading "Rajdhani Restaurant" [level=3] [ref=e8787]
+            - generic [ref=e8788]:
+              - generic [ref=e8789]: indian
+              - generic [ref=e8790]: vegetarian
+            - paragraph [ref=e8791]: 📍 131-133 High Street, Southall
+      - link "Viraswami - south-indian restaurant in Southall Broadway, Southall 🥗 Vegetarian Viraswami south-indian 📍 Southall Broadway, Southall" [ref=e8792] [cursor=pointer]:
+        - /url: /restaurant/viraswami-N3WHGCEK
+        - generic [ref=e8793]:
+          - generic [ref=e8794]:
+            - img "Viraswami - south-indian restaurant in Southall Broadway, Southall" [ref=e8795]
+            - generic [ref=e8798]: 🥗 Vegetarian
+          - generic [ref=e8799]:
+            - heading "Viraswami" [level=3] [ref=e8800]
+            - generic [ref=e8802]: south-indian
+            - paragraph [ref=e8803]: 📍 Southall Broadway, Southall
+      - link "Guru's - indian, punjabi restaurant in 14-16 High Street, Southall Guru's indian punjabi 📍 14-16 High Street, Southall" [ref=e8804] [cursor=pointer]:
+        - /url: /restaurant/gurus-O3JI3MO3
+        - generic [ref=e8805]:
+          - img "Guru's - indian, punjabi restaurant in 14-16 High Street, Southall" [ref=e8807]
+          - generic [ref=e8809]:
+            - heading "Guru's" [level=3] [ref=e8810]
+            - generic [ref=e8811]:
+              - generic [ref=e8812]: indian
+              - generic [ref=e8813]: punjabi
+            - paragraph [ref=e8814]: 📍 14-16 High Street, Southall
+      - link "Birmingham Sweet Centre - indian, sweets restaurant in 89 High Street, Southall 🥗 Vegetarian Birmingham Sweet Centre indian sweets 📍 89 High Street, Southall" [ref=e8815] [cursor=pointer]:
+        - /url: /restaurant/birmingham-sweet-centre-BU0B0ONU
+        - generic [ref=e8816]:
+          - generic [ref=e8817]:
+            - img "Birmingham Sweet Centre - indian, sweets restaurant in 89 High Street, Southall" [ref=e8818]
+            - generic [ref=e8821]: 🥗 Vegetarian
+          - generic [ref=e8822]:
+            - heading "Birmingham Sweet Centre" [level=3] [ref=e8823]
+            - generic [ref=e8824]:
+              - generic [ref=e8825]: indian
+              - generic [ref=e8826]: sweets
+            - paragraph [ref=e8827]: 📍 89 High Street, Southall
+      - link "Shivalli - south-indian, vegetarian restaurant in 77 The Broadway, Southall 🥗 Vegetarian Shivalli south-indian vegetarian 📍 77 The Broadway, Southall" [ref=e8828] [cursor=pointer]:
+        - /url: /restaurant/shivalli-E4RY5MAS
+        - generic [ref=e8829]:
+          - generic [ref=e8830]:
+            - img "Shivalli - south-indian, vegetarian restaurant in 77 The Broadway, Southall" [ref=e8831]
+            - generic [ref=e8834]: 🥗 Vegetarian
+          - generic [ref=e8835]:
+            - heading "Shivalli" [level=3] [ref=e8836]
+            - generic [ref=e8837]:
+              - generic [ref=e8838]: south-indian
+              - generic [ref=e8839]: vegetarian
+            - paragraph [ref=e8840]: 📍 77 The Broadway, Southall
+      - link "Saravanaa Bhavan - south-indian, vegetarian restaurant in 19 The Broadway, Southall 🥗 Vegetarian Saravanaa Bhavan south-indian vegetarian 📍 19 The Broadway, Southall" [ref=e8841] [cursor=pointer]:
+        - /url: /restaurant/saravanaa-bhavan-VBJ2SVRN
+        - generic [ref=e8842]:
+          - generic [ref=e8843]:
+            - img "Saravanaa Bhavan - south-indian, vegetarian restaurant in 19 The Broadway, Southall" [ref=e8844]
+            - generic [ref=e8847]: 🥗 Vegetarian
+          - generic [ref=e8848]:
+            - heading "Saravanaa Bhavan" [level=3] [ref=e8849]
+            - generic [ref=e8850]:
+              - generic [ref=e8851]: south-indian
+              - generic [ref=e8852]: vegetarian
+            - paragraph [ref=e8853]: 📍 19 The Broadway, Southall
+      - link "Maruthi - indian, punjabi restaurant in 49-51 High Street, Southall Maruthi indian punjabi 📍 49-51 High Street, Southall" [ref=e8854] [cursor=pointer]:
+        - /url: /restaurant/maruthi-9UHM5WD1
+        - generic [ref=e8855]:
+          - img "Maruthi - indian, punjabi restaurant in 49-51 High Street, Southall" [ref=e8857]
+          - generic [ref=e8859]:
+            - heading "Maruthi" [level=3] [ref=e8860]
+            - generic [ref=e8861]:
+              - generic [ref=e8862]: indian
+              - generic [ref=e8863]: punjabi
+            - paragraph [ref=e8864]: 📍 49-51 High Street, Southall
+      - link "Ashoka Restaurant - indian, curry restaurant in 16 The Broadway, Southall Ashoka Restaurant indian curry 📍 16 The Broadway, Southall" [ref=e8865] [cursor=pointer]:
+        - /url: /restaurant/ashoka-restaurant-QWMRHHCB
+        - generic [ref=e8866]:
+          - img "Ashoka Restaurant - indian, curry restaurant in 16 The Broadway, Southall" [ref=e8868]
+          - generic [ref=e8870]:
+            - heading "Ashoka Restaurant" [level=3] [ref=e8871]
+            - generic [ref=e8872]:
+              - generic [ref=e8873]: indian
+              - generic [ref=e8874]: curry
+            - paragraph [ref=e8875]: 📍 16 The Broadway, Southall
+      - link "Sagar - south-indian, vegetarian restaurant in 157-159 High Street, Southall 🥗 Vegetarian Sagar south-indian vegetarian 📍 157-159 High Street, Southall" [ref=e8876] [cursor=pointer]:
+        - /url: /restaurant/sagar-SPOPJSV5
+        - generic [ref=e8877]:
+          - generic [ref=e8878]:
+            - img "Sagar - south-indian, vegetarian restaurant in 157-159 High Street, Southall" [ref=e8879]
+            - generic [ref=e8882]: 🥗 Vegetarian
+          - generic [ref=e8883]:
+            - heading "Sagar" [level=3] [ref=e8884]
+            - generic [ref=e8885]:
+              - generic [ref=e8886]: south-indian
+              - generic [ref=e8887]: vegetarian
+            - paragraph [ref=e8888]: 📍 157-159 High Street, Southall
+      - link "Madhu's - indian, punjabi restaurant in 13-14 The Broadway, Southall Madhu's indian punjabi 📍 13-14 The Broadway, Southall" [ref=e8889] [cursor=pointer]:
+        - /url: /restaurant/madhus-47VAP04D
+        - generic [ref=e8890]:
+          - img "Madhu's - indian, punjabi restaurant in 13-14 The Broadway, Southall" [ref=e8892]
+          - generic [ref=e8894]:
+            - heading "Madhu's" [level=3] [ref=e8895]
+            - generic [ref=e8896]:
+              - generic [ref=e8897]: indian
+              - generic [ref=e8898]: punjabi
+            - paragraph [ref=e8899]: 📍 13-14 The Broadway, Southall
+      - link "Sheesh Mahal - indian, pakistani restaurant in High Street, Southall Sheesh Mahal indian pakistani 📍 High Street, Southall" [ref=e8900] [cursor=pointer]:
+        - /url: /restaurant/sheesh-mahal-X1QCK7E9
+        - generic [ref=e8901]:
+          - img "Sheesh Mahal - indian, pakistani restaurant in High Street, Southall" [ref=e8903]
+          - generic [ref=e8905]:
+            - heading "Sheesh Mahal" [level=3] [ref=e8906]
+            - generic [ref=e8907]:
+              - generic [ref=e8908]: indian
+              - generic [ref=e8909]: pakistani
+            - paragraph [ref=e8910]: 📍 High Street, Southall
+      - link "Gifto - indian, sweets restaurant in The Broadway, Southall 🥗 Vegetarian Gifto indian sweets 📍 The Broadway, Southall" [ref=e8911] [cursor=pointer]:
+        - /url: /restaurant/gifto-VPVM93L6
+        - generic [ref=e8912]:
+          - generic [ref=e8913]:
+            - img "Gifto - indian, sweets restaurant in The Broadway, Southall" [ref=e8914]
+            - generic [ref=e8917]: 🥗 Vegetarian
+          - generic [ref=e8918]:
+            - heading "Gifto" [level=3] [ref=e8919]
+            - generic [ref=e8920]:
+              - generic [ref=e8921]: indian
+              - generic [ref=e8922]: sweets
+            - paragraph [ref=e8923]: 📍 The Broadway, Southall
+      - link "Khyber Pass - afghan restaurant in 14 High Street, Slough Khyber Pass afghan 📍 14 High Street, Slough" [ref=e8924] [cursor=pointer]:
+        - /url: /restaurant/khyber-pass-05WBI52H
+        - generic [ref=e8925]:
+          - img "Khyber Pass - afghan restaurant in 14 High Street, Slough" [ref=e8927]
+          - generic [ref=e8929]:
+            - heading "Khyber Pass" [level=3] [ref=e8930]
+            - generic [ref=e8932]: afghan
+            - paragraph [ref=e8933]: 📍 14 High Street, Slough
+      - link "Spice Village - indian, pakistani restaurant in 28-30 High Street, Slough Spice Village indian pakistani 📍 28-30 High Street, Slough" [ref=e8934] [cursor=pointer]:
+        - /url: /restaurant/spice-village-FR2CTLTM
+        - generic [ref=e8935]:
+          - img "Spice Village - indian, pakistani restaurant in 28-30 High Street, Slough" [ref=e8937]
+          - generic [ref=e8939]:
+            - heading "Spice Village" [level=3] [ref=e8940]
+            - generic [ref=e8941]:
+              - generic [ref=e8942]: indian
+              - generic [ref=e8943]: pakistani
+            - paragraph [ref=e8944]: 📍 28-30 High Street, Slough
+      - link "Kingsbury Palace - indian, bengali restaurant in High Street, Slough Kingsbury Palace indian bengali 📍 High Street, Slough" [ref=e8945] [cursor=pointer]:
+        - /url: /restaurant/kingsbury-palace-DJYDHLKB
+        - generic [ref=e8946]:
+          - img "Kingsbury Palace - indian, bengali restaurant in High Street, Slough" [ref=e8948]
+          - generic [ref=e8950]:
+            - heading "Kingsbury Palace" [level=3] [ref=e8951]
+            - generic [ref=e8952]:
+              - generic [ref=e8953]: indian
+              - generic [ref=e8954]: bengali
+            - paragraph [ref=e8955]: 📍 High Street, Slough
+      - link "Spice Garden - indian, curry restaurant in 124-126 High Street, Slough Spice Garden indian curry 📍 124-126 High Street, Slough" [ref=e8956] [cursor=pointer]:
+        - /url: /restaurant/spice-garden-22SZN4XK
+        - generic [ref=e8957]:
+          - img "Spice Garden - indian, curry restaurant in 124-126 High Street, Slough" [ref=e8959]
+          - generic [ref=e8961]:
+            - heading "Spice Garden" [level=3] [ref=e8962]
+            - generic [ref=e8963]:
+              - generic [ref=e8964]: indian
+              - generic [ref=e8965]: curry
+            - paragraph [ref=e8966]: 📍 124-126 High Street, Slough
+      - link "Masala Zone - indian restaurant in High Street, Slough Masala Zone indian 📍 High Street, Slough" [ref=e8967] [cursor=pointer]:
+        - /url: /restaurant/masala-zone-1511OMX3
+        - generic [ref=e8968]:
+          - img "Masala Zone - indian restaurant in High Street, Slough" [ref=e8970]
+          - generic [ref=e8972]:
+            - heading "Masala Zone" [level=3] [ref=e8973]
+            - generic [ref=e8975]: indian
+            - paragraph [ref=e8976]: 📍 High Street, Slough
+      - link "The Clay Oven - indian, nepalese restaurant in The Broadway, Slough The Clay Oven indian nepalese 📍 The Broadway, Slough" [ref=e8977] [cursor=pointer]:
+        - /url: /restaurant/the-clay-oven-HKWPSEDO
+        - generic [ref=e8978]:
+          - img "The Clay Oven - indian, nepalese restaurant in The Broadway, Slough" [ref=e8980]
+          - generic [ref=e8982]:
+            - heading "The Clay Oven" [level=3] [ref=e8983]
+            - generic [ref=e8984]:
+              - generic [ref=e8985]: indian
+              - generic [ref=e8986]: nepalese
+            - paragraph [ref=e8987]: 📍 The Broadway, Slough
+      - link "Zaika - indian, pakistani restaurant in High Street, Slough Zaika indian pakistani 📍 High Street, Slough" [ref=e8988] [cursor=pointer]:
+        - /url: /restaurant/zaika-7IO6HYDQ
+        - generic [ref=e8989]:
+          - img "Zaika - indian, pakistani restaurant in High Street, Slough" [ref=e8991]
+          - generic [ref=e8993]:
+            - heading "Zaika" [level=3] [ref=e8994]
+            - generic [ref=e8995]:
+              - generic [ref=e8996]: indian
+              - generic [ref=e8997]: pakistani
+            - paragraph [ref=e8998]: 📍 High Street, Slough
+      - link "Tayyabs Slough - pakistani restaurant in 110 High Street, Slough Tayyabs Slough pakistani 📍 110 High Street, Slough" [ref=e8999] [cursor=pointer]:
+        - /url: /restaurant/tayyabs-slough-774TD53F
+        - generic [ref=e9000]:
+          - img "Tayyabs Slough - pakistani restaurant in 110 High Street, Slough" [ref=e9002]
+          - generic [ref=e9004]:
+            - heading "Tayyabs Slough" [level=3] [ref=e9005]
+            - generic [ref=e9007]: pakistani
+            - paragraph [ref=e9008]: 📍 110 High Street, Slough
+      - link "Spice Lounge - indian, bangladeshi restaurant in 200 High Street, Slough Spice Lounge indian bangladeshi 📍 200 High Street, Slough" [ref=e9009] [cursor=pointer]:
+        - /url: /restaurant/spice-lounge-3BSQ02NM
+        - generic [ref=e9010]:
+          - img "Spice Lounge - indian, bangladeshi restaurant in 200 High Street, Slough" [ref=e9012]
+          - generic [ref=e9014]:
+            - heading "Spice Lounge" [level=3] [ref=e9015]
+            - generic [ref=e9016]:
+              - generic [ref=e9017]: indian
+              - generic [ref=e9018]: bangladeshi
+            - paragraph [ref=e9019]: 📍 200 High Street, Slough
+      - link "Rajputana - indian, rajasthani restaurant in High Street, Slough Rajputana indian rajasthani 📍 High Street, Slough" [ref=e9020] [cursor=pointer]:
+        - /url: /restaurant/rajputana-X53CRL8I
+        - generic [ref=e9021]:
+          - img "Rajputana - indian, rajasthani restaurant in High Street, Slough" [ref=e9023]
+          - generic [ref=e9025]:
+            - heading "Rajputana" [level=3] [ref=e9026]
+            - generic [ref=e9027]:
+              - generic [ref=e9028]: indian
+              - generic [ref=e9029]: rajasthani
+            - paragraph [ref=e9030]: 📍 High Street, Slough
+      - link "Bombay Palace - indian, gujarati restaurant in The Parade, Slough Bombay Palace indian gujarati 📍 The Parade, Slough" [ref=e9031] [cursor=pointer]:
+        - /url: /restaurant/bombay-palace-4X59UN0O
+        - generic [ref=e9032]:
+          - img "Bombay Palace - indian, gujarati restaurant in The Parade, Slough" [ref=e9034]
+          - generic [ref=e9036]:
+            - heading "Bombay Palace" [level=3] [ref=e9037]
+            - generic [ref=e9038]:
+              - generic [ref=e9039]: indian
+              - generic [ref=e9040]: gujarati
+            - paragraph [ref=e9041]: 📍 The Parade, Slough
+      - link "Saffron - indian, mediterranean restaurant in High Street, Slough Saffron indian mediterranean 📍 High Street, Slough" [ref=e9042] [cursor=pointer]:
+        - /url: /restaurant/saffron-464XLDAV
+        - generic [ref=e9043]:
+          - img "Saffron - indian, mediterranean restaurant in High Street, Slough" [ref=e9045]
+          - generic [ref=e9047]:
+            - heading "Saffron" [level=3] [ref=e9048]
+            - generic [ref=e9049]:
+              - generic [ref=e9050]: indian
+              - generic [ref=e9051]: mediterranean
+            - paragraph [ref=e9052]: 📍 High Street, Slough
+      - link "Dawat - indian, punjabi restaurant in Slough High Street Dawat indian punjabi 📍 Slough High Street" [ref=e9053] [cursor=pointer]:
+        - /url: /restaurant/dawat-2U1S7A5F
+        - generic [ref=e9054]:
+          - img "Dawat - indian, punjabi restaurant in Slough High Street" [ref=e9056]
+          - generic [ref=e9058]:
+            - heading "Dawat" [level=3] [ref=e9059]
+            - generic [ref=e9060]:
+              - generic [ref=e9061]: indian
+              - generic [ref=e9062]: punjabi
+            - paragraph [ref=e9063]: 📍 Slough High Street
+      - link "Gate of India - indian restaurant in High Street, Slough Gate of India indian 📍 High Street, Slough" [ref=e9064] [cursor=pointer]:
+        - /url: /restaurant/gate-of-india-YMYMLHM9
+        - generic [ref=e9065]:
+          - img "Gate of India - indian restaurant in High Street, Slough" [ref=e9067]
+          - generic [ref=e9069]:
+            - heading "Gate of India" [level=3] [ref=e9070]
+            - generic [ref=e9072]: indian
+            - paragraph [ref=e9073]: 📍 High Street, Slough
+      - link "Himalaya - nepalese, indian restaurant in 50 High Street, Slough Himalaya nepalese indian 📍 50 High Street, Slough" [ref=e9074] [cursor=pointer]:
+        - /url: /restaurant/himalaya-6TFF2QAT
+        - generic [ref=e9075]:
+          - img "Himalaya - nepalese, indian restaurant in 50 High Street, Slough" [ref=e9077]
+          - generic [ref=e9079]:
+            - heading "Himalaya" [level=3] [ref=e9080]
+            - generic [ref=e9081]:
+              - generic [ref=e9082]: nepalese
+              - generic [ref=e9083]: indian
+            - paragraph [ref=e9084]: 📍 50 High Street, Slough
+      - link "Kashmir Spice - indian, kashmiri restaurant in High Street, Slough Kashmir Spice indian kashmiri 📍 High Street, Slough" [ref=e9085] [cursor=pointer]:
+        - /url: /restaurant/kashmir-spice-0IFXMZYV
+        - generic [ref=e9086]:
+          - img "Kashmir Spice - indian, kashmiri restaurant in High Street, Slough" [ref=e9088]
+          - generic [ref=e9090]:
+            - heading "Kashmir Spice" [level=3] [ref=e9091]
+            - generic [ref=e9092]:
+              - generic [ref=e9093]: indian
+              - generic [ref=e9094]: kashmiri
+            - paragraph [ref=e9095]: 📍 High Street, Slough
+      - link "Bengal Kitchen - indian, bengali restaurant in Slough High Street Bengal Kitchen indian bengali 📍 Slough High Street" [ref=e9096] [cursor=pointer]:
+        - /url: /restaurant/bengal-kitchen-GUYGQFYG
+        - generic [ref=e9097]:
+          - img "Bengal Kitchen - indian, bengali restaurant in Slough High Street" [ref=e9099]
+          - generic [ref=e9101]:
+            - heading "Bengal Kitchen" [level=3] [ref=e9102]
+            - generic [ref=e9103]:
+              - generic [ref=e9104]: indian
+              - generic [ref=e9105]: bengali
+            - paragraph [ref=e9106]: 📍 Slough High Street
+      - link "Spice Island - indian, thai restaurant in High Street, Slough Spice Island indian thai 📍 High Street, Slough" [ref=e9107] [cursor=pointer]:
+        - /url: /restaurant/spice-island-MFO0J3GG
+        - generic [ref=e9108]:
+          - img "Spice Island - indian, thai restaurant in High Street, Slough" [ref=e9110]
+          - generic [ref=e9112]:
+            - heading "Spice Island" [level=3] [ref=e9113]
+            - generic [ref=e9114]:
+              - generic [ref=e9115]: indian
+              - generic [ref=e9116]: thai
+            - paragraph [ref=e9117]: 📍 High Street, Slough
+    - generic [ref=e9120]:
+      - generic [ref=e9121]:
+        - generic [ref=e9122]: "593"
+        - generic [ref=e9123]: Restaurants
+      - generic [ref=e9124]:
+        - generic [ref=e9125]: "15"
+        - generic [ref=e9126]: Areas
+      - generic [ref=e9127]:
+        - generic [ref=e9128]: "37"
+        - generic [ref=e9129]: Cuisines
+      - generic [ref=e9130]:
+        - generic [ref=e9131]: "0"
+        - generic [ref=e9132]: Halal Options
+  - alert [ref=e9133]
+```

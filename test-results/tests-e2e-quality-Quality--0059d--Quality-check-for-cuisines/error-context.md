@@ -1,0 +1,419 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - link "The Best in London The Best in London Premium Dining Guide" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "The Best in London" [ref=e9]
+          - generic [ref=e10]:
+            - heading "The Best in London" [level=1] [ref=e11]
+            - paragraph [ref=e12]: Premium Dining Guide
+        - navigation [ref=e13]:
+          - link "Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+          - link "Restaurants" [ref=e15] [cursor=pointer]:
+            - /url: /restaurants
+          - link "Areas" [ref=e16] [cursor=pointer]:
+            - /url: /areas
+          - link "Cuisines" [ref=e17] [cursor=pointer]:
+            - /url: /cuisines
+          - link "Halal" [ref=e18] [cursor=pointer]:
+            - /url: /best-halal-restaurants-london
+          - link "Near Me" [ref=e19] [cursor=pointer]:
+            - /url: /near-me
+          - link "Blog" [ref=e20] [cursor=pointer]:
+            - /url: /blog
+          - link "FAQ" [ref=e21] [cursor=pointer]:
+            - /url: /faq
+          - link "About" [ref=e22] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e23] [cursor=pointer]:
+            - /url: /contact
+          - generic [ref=e25]:
+            - textbox "Search restaurants..." [ref=e26]
+            - button [ref=e27] [cursor=pointer]:
+              - img [ref=e28]
+          - link "Browse All" [ref=e30] [cursor=pointer]:
+            - /url: /search
+    - main [ref=e31]:
+      - generic [ref=e32]:
+        - navigation [ref=e34]:
+          - generic [ref=e36]:
+            - link "🏠 Home" [ref=e37] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e38]: 🏠
+              - generic [ref=e39]: Home
+            - link "🍴 Restaurants" [ref=e40] [cursor=pointer]:
+              - /url: /restaurants
+              - generic [ref=e41]: 🍴
+              - generic [ref=e42]: Restaurants
+            - link "🥘 Cuisines" [ref=e43] [cursor=pointer]:
+              - /url: /cuisines
+              - generic [ref=e44]: 🥘
+              - generic [ref=e45]: Cuisines
+            - link "📍 Areas" [ref=e46] [cursor=pointer]:
+              - /url: /areas
+              - generic [ref=e47]: 📍
+              - generic [ref=e48]: Areas
+            - link "🕌 Halal" [ref=e49] [cursor=pointer]:
+              - /url: /best-halal-restaurants-london
+              - generic [ref=e50]: 🕌
+              - generic [ref=e51]: Halal
+            - link "📍 Near Me" [ref=e52] [cursor=pointer]:
+              - /url: /near-me
+              - generic [ref=e53]: 📍
+              - generic [ref=e54]: Near Me
+            - link "📝 Blog" [ref=e55] [cursor=pointer]:
+              - /url: /blog
+              - generic [ref=e56]: 📝
+              - generic [ref=e57]: Blog
+            - link "ℹ️ About" [ref=e58] [cursor=pointer]:
+              - /url: /about
+              - generic [ref=e59]: ℹ️
+              - generic [ref=e60]: About
+            - link "📞 Contact" [ref=e61] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e62]: 📞
+              - generic [ref=e63]: Contact
+        - generic [ref=e64]:
+          - generic [ref=e67]:
+            - heading "Explore Cuisines" [level=1] [ref=e68]
+            - paragraph [ref=e69]: Discover London's diverse culinary landscape. From traditional British fare to exotic international flavors, find the perfect cuisine for your next dining adventure.
+            - textbox "Search cuisines..." [ref=e71]
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - heading "37 Cuisines Available" [level=2] [ref=e75]
+              - paragraph [ref=e76]: Each cuisine page features the best restaurants, ratings, and reviews
+            - generic [ref=e77]:
+              - link "British cuisine in London British 263 restaurants" [ref=e78] [cursor=pointer]:
+                - /url: /british
+                - generic [ref=e79]:
+                  - img "British cuisine in London" [ref=e80]
+                  - generic [ref=e82]:
+                    - heading "British" [level=3] [ref=e83]
+                    - generic [ref=e85]: 263 restaurants
+              - link "Indian cuisine in London Indian 70 restaurants" [ref=e87] [cursor=pointer]:
+                - /url: /indian
+                - generic [ref=e88]:
+                  - img "Indian cuisine in London" [ref=e89]
+                  - generic [ref=e91]:
+                    - heading "Indian" [level=3] [ref=e92]
+                    - generic [ref=e94]: 70 restaurants
+              - link "Mediterranean cuisine in London Mediterranean 56 restaurants" [ref=e96] [cursor=pointer]:
+                - /url: /mediterranean
+                - generic [ref=e97]:
+                  - img "Mediterranean cuisine in London" [ref=e98]
+                  - generic [ref=e100]:
+                    - heading "Mediterranean" [level=3] [ref=e101]
+                    - generic [ref=e103]: 56 restaurants
+              - link "Modern European cuisine in London Modern European 55 restaurants" [ref=e105] [cursor=pointer]:
+                - /url: /modern-european
+                - generic [ref=e106]:
+                  - img "Modern European cuisine in London" [ref=e107]
+                  - generic [ref=e109]:
+                    - heading "Modern European" [level=3] [ref=e110]
+                    - generic [ref=e112]: 55 restaurants
+              - link "French cuisine in London French 25 restaurants" [ref=e114] [cursor=pointer]:
+                - /url: /french
+                - generic [ref=e115]:
+                  - img "French cuisine in London" [ref=e116]
+                  - generic [ref=e118]:
+                    - heading "French" [level=3] [ref=e119]
+                    - generic [ref=e121]: 25 restaurants
+              - link "Turkish cuisine in London Turkish 23 restaurants" [ref=e123] [cursor=pointer]:
+                - /url: /turkish
+                - generic [ref=e124]:
+                  - img "Turkish cuisine in London" [ref=e125]
+                  - generic [ref=e127]:
+                    - heading "Turkish" [level=3] [ref=e128]
+                    - generic [ref=e130]: 23 restaurants
+              - link "Japanese cuisine in London Japanese 20 restaurants" [ref=e132] [cursor=pointer]:
+                - /url: /japanese
+                - generic [ref=e133]:
+                  - img "Japanese cuisine in London" [ref=e134]
+                  - generic [ref=e136]:
+                    - heading "Japanese" [level=3] [ref=e137]
+                    - generic [ref=e139]: 20 restaurants
+              - link "Italian cuisine in London Italian 19 restaurants" [ref=e141] [cursor=pointer]:
+                - /url: /italian
+                - generic [ref=e142]:
+                  - img "Italian cuisine in London" [ref=e143]
+                  - generic [ref=e145]:
+                    - heading "Italian" [level=3] [ref=e146]
+                    - generic [ref=e148]: 19 restaurants
+              - link "Thai cuisine in London Thai 15 restaurants" [ref=e150] [cursor=pointer]:
+                - /url: /thai
+                - generic [ref=e151]:
+                  - img "Thai cuisine in London" [ref=e152]
+                  - generic [ref=e154]:
+                    - heading "Thai" [level=3] [ref=e155]
+                    - generic [ref=e157]: 15 restaurants
+              - link "Mexican cuisine in London Mexican 12 restaurants" [ref=e159] [cursor=pointer]:
+                - /url: /mexican
+                - generic [ref=e160]:
+                  - img "Mexican cuisine in London" [ref=e161]
+                  - generic [ref=e163]:
+                    - heading "Mexican" [level=3] [ref=e164]
+                    - generic [ref=e166]: 12 restaurants
+              - link "Spanish cuisine in London Spanish 11 restaurants" [ref=e168] [cursor=pointer]:
+                - /url: /spanish
+                - generic [ref=e169]:
+                  - img "Spanish cuisine in London" [ref=e170]
+                  - generic [ref=e172]:
+                    - heading "Spanish" [level=3] [ref=e173]
+                    - generic [ref=e175]: 11 restaurants
+              - link "Korean cuisine in London Korean 10 restaurants" [ref=e177] [cursor=pointer]:
+                - /url: /korean
+                - generic [ref=e178]:
+                  - img "Korean cuisine in London" [ref=e179]
+                  - generic [ref=e181]:
+                    - heading "Korean" [level=3] [ref=e182]
+                    - generic [ref=e184]: 10 restaurants
+              - link "Chinese cuisine in London Chinese 10 restaurants" [ref=e186] [cursor=pointer]:
+                - /url: /chinese
+                - generic [ref=e187]:
+                  - img "Chinese cuisine in London" [ref=e188]
+                  - generic [ref=e190]:
+                    - heading "Chinese" [level=3] [ref=e191]
+                    - generic [ref=e193]: 10 restaurants
+              - link "Pakistani cuisine in London Pakistani 6 restaurants" [ref=e195] [cursor=pointer]:
+                - /url: /pakistani
+                - generic [ref=e196]:
+                  - img "Pakistani cuisine in London" [ref=e197]
+                  - generic [ref=e199]:
+                    - heading "Pakistani" [level=3] [ref=e200]
+                    - generic [ref=e202]: 6 restaurants
+              - link "Middle Eastern cuisine in London Middle Eastern 4 restaurants" [ref=e204] [cursor=pointer]:
+                - /url: /middle-eastern
+                - generic [ref=e205]:
+                  - img "Middle Eastern cuisine in London" [ref=e206]
+                  - generic [ref=e208]:
+                    - heading "Middle Eastern" [level=3] [ref=e209]
+                    - generic [ref=e211]: 4 restaurants
+              - link "Vegetarian cuisine in London Vegetarian 4 restaurants" [ref=e213] [cursor=pointer]:
+                - /url: /vegetarian
+                - generic [ref=e214]:
+                  - img "Vegetarian cuisine in London" [ref=e215]
+                  - generic [ref=e217]:
+                    - heading "Vegetarian" [level=3] [ref=e218]
+                    - generic [ref=e220]: 4 restaurants
+              - link "South Indian cuisine in London South Indian 4 restaurants" [ref=e222] [cursor=pointer]:
+                - /url: /south-indian
+                - generic [ref=e223]:
+                  - img "South Indian cuisine in London" [ref=e224]
+                  - generic [ref=e226]:
+                    - heading "South Indian" [level=3] [ref=e227]
+                    - generic [ref=e229]: 4 restaurants
+              - link "Punjabi cuisine in London Punjabi 4 restaurants" [ref=e231] [cursor=pointer]:
+                - /url: /punjabi
+                - generic [ref=e232]:
+                  - img "Punjabi cuisine in London" [ref=e233]
+                  - generic [ref=e235]:
+                    - heading "Punjabi" [level=3] [ref=e236]
+                    - generic [ref=e238]: 4 restaurants
+              - link "Bengali cuisine in London Bengali 3 restaurants" [ref=e240] [cursor=pointer]:
+                - /url: /bengali
+                - generic [ref=e241]:
+                  - img "Bengali cuisine in London" [ref=e242]
+                  - generic [ref=e244]:
+                    - heading "Bengali" [level=3] [ref=e245]
+                    - generic [ref=e247]: 3 restaurants
+              - link "Bangladeshi cuisine in London Bangladeshi 3 restaurants" [ref=e249] [cursor=pointer]:
+                - /url: /bangladeshi
+                - generic [ref=e250]:
+                  - img "Bangladeshi cuisine in London" [ref=e251]
+                  - generic [ref=e253]:
+                    - heading "Bangladeshi" [level=3] [ref=e254]
+                    - generic [ref=e256]: 3 restaurants
+              - link "Lebanese cuisine in London Lebanese 3 restaurants" [ref=e258] [cursor=pointer]:
+                - /url: /lebanese
+                - generic [ref=e259]:
+                  - img "Lebanese cuisine in London" [ref=e260]
+                  - generic [ref=e262]:
+                    - heading "Lebanese" [level=3] [ref=e263]
+                    - generic [ref=e265]: 3 restaurants
+              - link "Seafood cuisine in London Seafood 2 restaurants" [ref=e267] [cursor=pointer]:
+                - /url: /seafood
+                - generic [ref=e268]:
+                  - img "Seafood cuisine in London" [ref=e269]
+                  - generic [ref=e271]:
+                    - heading "Seafood" [level=3] [ref=e272]
+                    - generic [ref=e274]: 2 restaurants
+              - link "Vietnamese cuisine in London Vietnamese 2 restaurants" [ref=e276] [cursor=pointer]:
+                - /url: /vietnamese
+                - generic [ref=e277]:
+                  - img "Vietnamese cuisine in London" [ref=e278]
+                  - generic [ref=e280]:
+                    - heading "Vietnamese" [level=3] [ref=e281]
+                    - generic [ref=e283]: 2 restaurants
+              - link "Sweets cuisine in London Sweets 2 restaurants" [ref=e285] [cursor=pointer]:
+                - /url: /sweets
+                - generic [ref=e286]:
+                  - img "Sweets cuisine in London" [ref=e287]
+                  - generic [ref=e289]:
+                    - heading "Sweets" [level=3] [ref=e290]
+                    - generic [ref=e292]: 2 restaurants
+              - link "Curry cuisine in London Curry 2 restaurants" [ref=e294] [cursor=pointer]:
+                - /url: /curry
+                - generic [ref=e295]:
+                  - img "Curry cuisine in London" [ref=e296]
+                  - generic [ref=e298]:
+                    - heading "Curry" [level=3] [ref=e299]
+                    - generic [ref=e301]: 2 restaurants
+              - link "Nepalese cuisine in London Nepalese 2 restaurants" [ref=e303] [cursor=pointer]:
+                - /url: /nepalese
+                - generic [ref=e304]:
+                  - img "Nepalese cuisine in London" [ref=e305]
+                  - generic [ref=e307]:
+                    - heading "Nepalese" [level=3] [ref=e308]
+                    - generic [ref=e310]: 2 restaurants
+              - link "Caribbean cuisine in London Caribbean 1 restaurant" [ref=e312] [cursor=pointer]:
+                - /url: /caribbean
+                - generic [ref=e313]:
+                  - img "Caribbean cuisine in London" [ref=e314]
+                  - generic [ref=e316]:
+                    - heading "Caribbean" [level=3] [ref=e317]
+                    - generic [ref=e319]: 1 restaurant
+              - link "African cuisine in London African 1 restaurant" [ref=e321] [cursor=pointer]:
+                - /url: /african
+                - generic [ref=e322]:
+                  - img "African cuisine in London" [ref=e323]
+                  - generic [ref=e325]:
+                    - heading "African" [level=3] [ref=e326]
+                    - generic [ref=e328]: 1 restaurant
+              - link "Taiwanese cuisine in London Taiwanese 1 restaurant" [ref=e330] [cursor=pointer]:
+                - /url: /taiwanese
+                - generic [ref=e331]:
+                  - img "Taiwanese cuisine in London" [ref=e332]
+                  - generic [ref=e334]:
+                    - heading "Taiwanese" [level=3] [ref=e335]
+                    - generic [ref=e337]: 1 restaurant
+              - link "Israeli cuisine in London Israeli 1 restaurant" [ref=e339] [cursor=pointer]:
+                - /url: /israeli
+                - generic [ref=e340]:
+                  - img "Israeli cuisine in London" [ref=e341]
+                  - generic [ref=e343]:
+                    - heading "Israeli" [level=3] [ref=e344]
+                    - generic [ref=e346]: 1 restaurant
+              - link "Pizza cuisine in London Pizza 1 restaurant" [ref=e348] [cursor=pointer]:
+                - /url: /pizza
+                - generic [ref=e349]:
+                  - img "Pizza cuisine in London" [ref=e350]
+                  - generic [ref=e352]:
+                    - heading "Pizza" [level=3] [ref=e353]
+                    - generic [ref=e355]: 1 restaurant
+              - link "Ethiopian cuisine in London Ethiopian 1 restaurant" [ref=e357] [cursor=pointer]:
+                - /url: /ethiopian
+                - generic [ref=e358]:
+                  - img "Ethiopian cuisine in London" [ref=e359]
+                  - generic [ref=e361]:
+                    - heading "Ethiopian" [level=3] [ref=e362]
+                    - generic [ref=e364]: 1 restaurant
+              - link "Fish And Chips cuisine in London Fish And Chips 1 restaurant" [ref=e366] [cursor=pointer]:
+                - /url: /fish-and-chips
+                - generic [ref=e367]:
+                  - img "Fish And Chips cuisine in London" [ref=e368]
+                  - generic [ref=e370]:
+                    - heading "Fish And Chips" [level=3] [ref=e371]
+                    - generic [ref=e373]: 1 restaurant
+              - link "Afghan cuisine in London Afghan 1 restaurant" [ref=e375] [cursor=pointer]:
+                - /url: /afghan
+                - generic [ref=e376]:
+                  - img "Afghan cuisine in London" [ref=e377]
+                  - generic [ref=e379]:
+                    - heading "Afghan" [level=3] [ref=e380]
+                    - generic [ref=e382]: 1 restaurant
+              - link "Rajasthani cuisine in London Rajasthani 1 restaurant" [ref=e384] [cursor=pointer]:
+                - /url: /rajasthani
+                - generic [ref=e385]:
+                  - img "Rajasthani cuisine in London" [ref=e386]
+                  - generic [ref=e388]:
+                    - heading "Rajasthani" [level=3] [ref=e389]
+                    - generic [ref=e391]: 1 restaurant
+              - link "Gujarati cuisine in London Gujarati 1 restaurant" [ref=e393] [cursor=pointer]:
+                - /url: /gujarati
+                - generic [ref=e394]:
+                  - img "Gujarati cuisine in London" [ref=e395]
+                  - generic [ref=e397]:
+                    - heading "Gujarati" [level=3] [ref=e398]
+                    - generic [ref=e400]: 1 restaurant
+              - link "Kashmiri cuisine in London Kashmiri 1 restaurant" [ref=e402] [cursor=pointer]:
+                - /url: /kashmiri
+                - generic [ref=e403]:
+                  - img "Kashmiri cuisine in London" [ref=e404]
+                  - generic [ref=e406]:
+                    - heading "Kashmiri" [level=3] [ref=e407]
+                    - generic [ref=e409]: 1 restaurant
+          - generic [ref=e413]:
+            - generic [ref=e414]:
+              - generic [ref=e415]: "37"
+              - generic [ref=e416]: Cuisines
+            - generic [ref=e417]:
+              - generic [ref=e418]: "593"
+              - generic [ref=e419]: Restaurants
+            - generic [ref=e420]:
+              - generic [ref=e421]: 50+
+              - generic [ref=e422]: Areas
+    - contentinfo [ref=e423]:
+      - generic [ref=e424]:
+        - generic [ref=e425]:
+          - generic [ref=e426]:
+            - generic [ref=e428]:
+              - img "The Best in London" [ref=e429]
+              - heading "The Best in London" [level=3] [ref=e430]
+            - paragraph [ref=e431]: London's premier dining guide featuring 760+ verified restaurants across 50+ areas. From street food to fine dining, discover your next favorite meal.
+            - generic [ref=e432]:
+              - link "Twitter" [ref=e433] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e434]: Twitter
+                - img [ref=e435]
+              - link "Instagram" [ref=e437] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e438]: Instagram
+                - img [ref=e439]
+          - generic [ref=e441]:
+            - heading "Quick Links" [level=4] [ref=e442]
+            - list [ref=e443]:
+              - listitem [ref=e444]:
+                - link "All Restaurants" [ref=e445] [cursor=pointer]:
+                  - /url: /restaurants
+              - listitem [ref=e446]:
+                - link "Halal Restaurants" [ref=e447] [cursor=pointer]:
+                  - /url: /best-halal-restaurants-london
+              - listitem [ref=e448]:
+                - link "Vegan Options" [ref=e449] [cursor=pointer]:
+                  - /url: /vegan-restaurants-london
+              - listitem [ref=e450]:
+                - link "Blog" [ref=e451] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e452]:
+                - link "FAQ" [ref=e453] [cursor=pointer]:
+                  - /url: /faq
+          - generic [ref=e454]:
+            - heading "Legal" [level=4] [ref=e455]
+            - list [ref=e456]:
+              - listitem [ref=e457]:
+                - link "Privacy Policy" [ref=e458] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e459]:
+                - link "Terms of Service" [ref=e460] [cursor=pointer]:
+                  - /url: /terms
+              - listitem [ref=e461]:
+                - link "Cookie Policy" [ref=e462] [cursor=pointer]:
+                  - /url: /cookies
+              - listitem [ref=e463]:
+                - link "About Us" [ref=e464] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e465]:
+                - link "Contact" [ref=e466] [cursor=pointer]:
+                  - /url: /terms
+        - generic [ref=e468]:
+          - paragraph [ref=e469]: © 2025 The Best in London. All rights reserved.
+          - generic [ref=e470]:
+            - generic [ref=e471]: Powered by
+            - generic [ref=e474]: Premium Data
+  - alert [ref=e475]
+```

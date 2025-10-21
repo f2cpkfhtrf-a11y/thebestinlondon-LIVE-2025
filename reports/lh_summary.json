@@ -1,0 +1,139 @@
+{
+  "total": 10,
+  "performancePass": 10,
+  "seoPass": 6,
+  "accessibilityPass": 0,
+  "bestPracticesPass": 10,
+  "averagePerformance": 78,
+  "averageSeo": 88.5,
+  "averageAccessibility": 80,
+  "averageBestPractices": 90,
+  "results": [
+    {
+      "url": "http://localhost:3000/",
+      "performance": 70,
+      "seo": 100,
+      "accessibility": 80,
+      "bestPractices": 100,
+      "issues": [
+        "Too many images on page",
+        "External resources detected",
+        "34 images missing alt text"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/restaurants",
+      "performance": 70,
+      "seo": 90,
+      "accessibility": 80,
+      "bestPractices": 80,
+      "issues": [
+        "Too many images on page",
+        "External resources detected",
+        "Missing canonical URL",
+        "594 images missing alt text",
+        "Mixed content (HTTP resources)"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/cuisines",
+      "performance": 70,
+      "seo": 85,
+      "accessibility": 80,
+      "bestPractices": 100,
+      "issues": [
+        "Too many images on page",
+        "External resources detected",
+        "Missing og:image",
+        "40 images missing alt text"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/areas",
+      "performance": 70,
+      "seo": 100,
+      "accessibility": 80,
+      "bestPractices": 100,
+      "issues": [
+        "Too many images on page",
+        "External resources detected",
+        "33 images missing alt text"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/best-halal-restaurants-london",
+      "performance": 70,
+      "seo": 100,
+      "accessibility": 80,
+      "bestPractices": 80,
+      "issues": [
+        "Too many images on page",
+        "External resources detected",
+        "24 images missing alt text",
+        "Mixed content (HTTP resources)"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/blog",
+      "performance": 70,
+      "seo": 100,
+      "accessibility": 80,
+      "bestPractices": 100,
+      "issues": [
+        "Too many images on page",
+        "External resources detected",
+        "29 images missing alt text"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/faq",
+      "performance": 90,
+      "seo": 100,
+      "accessibility": 80,
+      "bestPractices": 100,
+      "issues": [
+        "External resources detected",
+        "1 images missing alt text"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/restaurant/casse-crote-C9yowifE",
+      "performance": 90,
+      "seo": 70,
+      "accessibility": 80,
+      "bestPractices": 80,
+      "issues": [
+        "External resources detected",
+        "Missing title tag",
+        "5 images missing alt text",
+        "Mixed content (HTTP resources)"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/restaurant/yolk-VYSjB2j8",
+      "performance": 90,
+      "seo": 70,
+      "accessibility": 80,
+      "bestPractices": 80,
+      "issues": [
+        "External resources detected",
+        "Missing title tag",
+        "5 images missing alt text",
+        "Mixed content (HTTP resources)"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/restaurant/dishoom-covent-garden-OZ6OHOJw",
+      "performance": 90,
+      "seo": 70,
+      "accessibility": 80,
+      "bestPractices": 80,
+      "issues": [
+        "External resources detected",
+        "Missing title tag",
+        "5 images missing alt text",
+        "Mixed content (HTTP resources)"
+      ]
+    }
+  ]
+}

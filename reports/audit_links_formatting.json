@@ -1,0 +1,224 @@
+{
+  "total": 25,
+  "pass": 0,
+  "fail": 25,
+  "results": [
+    {
+      "url": "http://localhost:3000/",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found"
+      ],
+      "localImages": 41
+    },
+    {
+      "url": "http://localhost:3000/restaurants",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found"
+      ],
+      "localImages": 594
+    },
+    {
+      "url": "http://localhost:3000/cuisines",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found"
+      ],
+      "localImages": 74
+    },
+    {
+      "url": "http://localhost:3000/areas",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 59
+    },
+    {
+      "url": "http://localhost:3000/best-halal-restaurants-london",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 21
+    },
+    {
+      "url": "http://localhost:3000/blog",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found"
+      ],
+      "localImages": 29
+    },
+    {
+      "url": "http://localhost:3000/faq",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "No Q/A pairs found on FAQ page"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/areas/soho",
+      "status": "FAIL",
+      "issues": [
+        "HTTP 404 - Page not accessible"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/areas/southall",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 13
+    },
+    {
+      "url": "http://localhost:3000/areas/ilford",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 4
+    },
+    {
+      "url": "http://localhost:3000/areas/romford",
+      "status": "FAIL",
+      "issues": [
+        "HTTP 404 - Page not accessible"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/italian",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 20
+    },
+    {
+      "url": "http://localhost:3000/indian",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 71
+    },
+    {
+      "url": "http://localhost:3000/pakistani",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 7
+    },
+    {
+      "url": "http://localhost:3000/afghan",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 2
+    },
+    {
+      "url": "http://localhost:3000/restaurant/peacock-london-zg_TLvpA",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/mildreds-dalston-694cpGNI",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/copita-fitzrovia-tapas-bar-fK_Wb6Ms",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/made-in-brasil-ksQdQ3X4",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/los-mochis-london-city-lFrOzbg8",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/the-barbary-notting-hill-eI6iXAhs",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/amerigo-vespucci-0OaP4dNU",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/alanya-turkish-with-fusion-kallxaYU",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/masa-turkish-restaurant-KJX5TS38",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    },
+    {
+      "url": "http://localhost:3000/restaurant/naroon-fitzrovia-hadciq8w",
+      "status": "FAIL",
+      "issues": [
+        "PageHero component not found",
+        "Meta title not found"
+      ],
+      "localImages": 1
+    }
+  ]
+}

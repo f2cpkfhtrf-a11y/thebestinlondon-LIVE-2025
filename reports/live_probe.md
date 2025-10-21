@@ -1,6 +1,6 @@
 # Live Site Probe Report
 
-**Timestamp:** 2025-10-21T17:13:59.851Z
+**Timestamp:** 2025-10-21T17:23:12.453Z
 **Base URL:** https://www.thebestinlondon.co.uk
 
 ## Summary

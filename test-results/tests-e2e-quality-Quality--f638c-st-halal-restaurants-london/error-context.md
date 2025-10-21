@@ -1,0 +1,847 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - link "The Best in London The Best in London Premium Dining Guide" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "The Best in London" [ref=e10]
+          - generic [ref=e11]:
+            - heading "The Best in London" [level=1] [ref=e12]
+            - paragraph [ref=e13]: Premium Dining Guide
+        - navigation [ref=e14]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+          - link "Restaurants" [ref=e16] [cursor=pointer]:
+            - /url: /restaurants
+          - link "Areas" [ref=e17] [cursor=pointer]:
+            - /url: /areas
+          - link "Cuisines" [ref=e18] [cursor=pointer]:
+            - /url: /cuisines
+          - link "Halal" [ref=e19] [cursor=pointer]:
+            - /url: /best-halal-restaurants-london
+          - link "Near Me" [ref=e20] [cursor=pointer]:
+            - /url: /near-me
+          - link "Blog" [ref=e21] [cursor=pointer]:
+            - /url: /blog
+          - link "FAQ" [ref=e22] [cursor=pointer]:
+            - /url: /faq
+          - link "About" [ref=e23] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e24] [cursor=pointer]:
+            - /url: /contact
+          - generic [ref=e26]:
+            - textbox "Search restaurants..." [ref=e27]
+            - button [ref=e28] [cursor=pointer]:
+              - img [ref=e29]
+          - link "Browse All" [ref=e31] [cursor=pointer]:
+            - /url: /search
+    - main [ref=e32]:
+      - generic [ref=e33]:
+        - navigation [ref=e35]:
+          - generic [ref=e37]:
+            - link "🏠 Home" [ref=e38] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e39]: 🏠
+              - generic [ref=e40]: Home
+            - link "🍴 Restaurants" [ref=e41] [cursor=pointer]:
+              - /url: /restaurants
+              - generic [ref=e42]: 🍴
+              - generic [ref=e43]: Restaurants
+            - link "🥘 Cuisines" [ref=e44] [cursor=pointer]:
+              - /url: /cuisines
+              - generic [ref=e45]: 🥘
+              - generic [ref=e46]: Cuisines
+            - link "📍 Areas" [ref=e47] [cursor=pointer]:
+              - /url: /areas
+              - generic [ref=e48]: 📍
+              - generic [ref=e49]: Areas
+            - link "🕌 Halal" [ref=e50] [cursor=pointer]:
+              - /url: /best-halal-restaurants-london
+              - generic [ref=e51]: 🕌
+              - generic [ref=e52]: Halal
+            - link "📍 Near Me" [ref=e53] [cursor=pointer]:
+              - /url: /near-me
+              - generic [ref=e54]: 📍
+              - generic [ref=e55]: Near Me
+            - link "📝 Blog" [ref=e56] [cursor=pointer]:
+              - /url: /blog
+              - generic [ref=e57]: 📝
+              - generic [ref=e58]: Blog
+            - link "ℹ️ About" [ref=e59] [cursor=pointer]:
+              - /url: /about
+              - generic [ref=e60]: ℹ️
+              - generic [ref=e61]: About
+            - link "📞 Contact" [ref=e62] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e63]: 📞
+              - generic [ref=e64]: Contact
+        - navigation [ref=e65]:
+          - generic [ref=e67]:
+            - link "All" [ref=e68] [cursor=pointer]:
+              - /url: /best-halal-restaurants-london
+            - link "By Area" [ref=e69] [cursor=pointer]:
+              - /url: /best-halal-restaurants-london/by-area
+            - link "By Cuisine" [ref=e70] [cursor=pointer]:
+              - /url: /best-halal-restaurants-london/by-cuisine
+            - link "Map" [ref=e71] [cursor=pointer]:
+              - /url: /best-halal-restaurants-london/map
+        - generic [ref=e72]:
+          - generic [ref=e74]:
+            - img "Hero image for The Best in London" [ref=e75]
+            - generic [ref=e78]:
+              - heading "Best Halal Restaurants in London" [level=1] [ref=e79]
+              - paragraph [ref=e80]: Discover 109+ verified halal restaurants across London. From authentic Middle Eastern cuisine to modern halal dining experiences.
+              - generic [ref=e81]:
+                - generic [ref=e82]:
+                  - generic [ref=e83]: "109"
+                  - generic [ref=e84]: Halal Restaurants
+                - generic [ref=e85]:
+                  - generic [ref=e86]: "19"
+                  - generic [ref=e87]: Areas Covered
+                - generic [ref=e88]:
+                  - generic [ref=e89]: 100%
+                  - generic [ref=e90]: Verified
+          - generic [ref=e93]:
+            - textbox "Search halal restaurants..." [ref=e94]
+            - combobox [ref=e95]:
+              - option "All Areas" [selected]
+              - option "Tower Hamlets"
+              - option "Central London"
+              - option "Redbridge"
+              - option "Havering"
+              - option "fitzrovia"
+              - option "central-london"
+              - option "king's-cross"
+              - option "ilford"
+              - option "whitechapel"
+              - option "shoreditch"
+              - option "spitalfields"
+              - option "chinatown"
+              - option "city-of-london"
+              - option "hackney"
+              - option "upton-park"
+              - option "islington"
+              - option "marylebone"
+              - option "southall"
+              - option "slough"
+            - combobox [ref=e96]:
+              - option "⭐ Highest Rated" [selected]
+              - option "💬 Most Reviews"
+              - option "🏥 FSA Rating"
+          - paragraph [ref=e99]:
+            - text: Showing 20 of 109 halal-certified restaurants
+            - generic [ref=e100]: (Page 1 of 6)
+          - generic [ref=e102]:
+            - generic [ref=e103]:
+              - 'link "Halal Street Kitchen — Turkish FSA Hygiene Rating 5/5 8.0 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Halal Street Kitchen turkish ££ ★ 5 36 reviews View Details →" [ref=e104] [cursor=pointer]':
+                - /url: /restaurant/halal-street-kitchen-5e3zUyL0
+                - generic [ref=e105]:
+                  - generic [ref=e106]:
+                    - img "Halal Street Kitchen — Turkish" [ref=e107]
+                    - generic [ref=e109]:
+                      - img [ref=e110]
+                      - generic [ref=e112]:
+                        - generic [ref=e113]: FSA Hygiene Rating
+                        - generic [ref=e114]: 5/5
+                    - generic [ref=e116]:
+                      - generic [ref=e117]:
+                        - generic [ref=e120]:
+                          - generic [ref=e121]: "8.0"
+                          - generic [ref=e122]: BIL Score
+                        - generic [ref=e123]: ✓ Verified
+                      - generic [ref=e125]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e126]:
+                    - generic [ref=e128]: ☪️ Halal Verified
+                    - heading "Halal Street Kitchen" [level=3] [ref=e129]
+                    - generic [ref=e130]:
+                      - generic [ref=e131]: turkish
+                      - generic [ref=e132]: ££
+                    - generic [ref=e133]:
+                      - generic [ref=e134]:
+                        - generic [ref=e135]: ★
+                        - generic [ref=e136]: "5"
+                      - generic [ref=e137]: 36 reviews
+                    - generic [ref=e138]: View Details →
+              - 'link "Pravaas - South Kensington — Indian FSA Hygiene Rating 5/5 8.6 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Pravaas - South Kensington indian ££ ★ 4.9 363 reviews View Details →" [ref=e139] [cursor=pointer]':
+                - /url: /restaurant/pravaas-south-kensington-KhMpiz4I
+                - generic [ref=e140]:
+                  - generic [ref=e141]:
+                    - img "Pravaas - South Kensington — Indian" [ref=e142]
+                    - generic [ref=e144]:
+                      - img [ref=e145]
+                      - generic [ref=e147]:
+                        - generic [ref=e148]: FSA Hygiene Rating
+                        - generic [ref=e149]: 5/5
+                    - generic [ref=e151]:
+                      - generic [ref=e152]:
+                        - generic [ref=e155]:
+                          - generic [ref=e156]: "8.6"
+                          - generic [ref=e157]: BIL Score
+                        - generic [ref=e158]: ✓ Verified
+                      - generic [ref=e160]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e161]:
+                    - generic [ref=e163]: ☪️ Halal Verified
+                    - heading "Pravaas - South Kensington" [level=3] [ref=e164]
+                    - generic [ref=e165]:
+                      - generic [ref=e166]: indian
+                      - generic [ref=e167]: ££
+                    - generic [ref=e168]:
+                      - generic [ref=e169]:
+                        - generic [ref=e170]: ★
+                        - generic [ref=e171]: "4.9"
+                      - generic [ref=e172]: 363 reviews
+                    - generic [ref=e173]: View Details →
+              - 'link "FAT CHEF (Authentic Indian Kitchen) Halal — Indian FSA Hygiene Rating 5/5 8.0 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified FAT CHEF (Authentic Indian Kitchen) Halal indian ££ ★ 4.9 41 reviews View Details →" [ref=e174] [cursor=pointer]':
+                - /url: /restaurant/fat-chef-authentic-indian-kitchen-halal-0LfhvXy8
+                - generic [ref=e175]:
+                  - generic [ref=e176]:
+                    - img "FAT CHEF (Authentic Indian Kitchen) Halal — Indian" [ref=e177]
+                    - generic [ref=e179]:
+                      - img [ref=e180]
+                      - generic [ref=e182]:
+                        - generic [ref=e183]: FSA Hygiene Rating
+                        - generic [ref=e184]: 5/5
+                    - generic [ref=e186]:
+                      - generic [ref=e187]:
+                        - generic [ref=e190]:
+                          - generic [ref=e191]: "8.0"
+                          - generic [ref=e192]: BIL Score
+                        - generic [ref=e193]: ✓ Verified
+                      - generic [ref=e195]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e196]:
+                    - generic [ref=e198]: ☪️ Halal Verified
+                    - heading "FAT CHEF (Authentic Indian Kitchen) Halal" [level=3] [ref=e199]
+                    - generic [ref=e200]:
+                      - generic [ref=e201]: indian
+                      - generic [ref=e202]: ££
+                    - generic [ref=e203]:
+                      - generic [ref=e204]:
+                        - generic [ref=e205]: ★
+                        - generic [ref=e206]: "4.9"
+                      - generic [ref=e207]: 41 reviews
+                    - generic [ref=e208]: View Details →
+              - 'link "Bibimbop Bow — Korean FSA Hygiene Rating 5/5 8.2 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Bibimbop Bow korean ££ ★ 4.9 187 reviews View Details →" [ref=e209] [cursor=pointer]':
+                - /url: /restaurant/bibimbop-bow-StMWnhyE
+                - generic [ref=e210]:
+                  - generic [ref=e211]:
+                    - img "Bibimbop Bow — Korean" [ref=e212]
+                    - generic [ref=e214]:
+                      - img [ref=e215]
+                      - generic [ref=e217]:
+                        - generic [ref=e218]: FSA Hygiene Rating
+                        - generic [ref=e219]: 5/5
+                    - generic [ref=e221]:
+                      - generic [ref=e222]:
+                        - generic [ref=e225]:
+                          - generic [ref=e226]: "8.2"
+                          - generic [ref=e227]: BIL Score
+                        - generic [ref=e228]: ✓ Verified
+                      - generic [ref=e230]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e231]:
+                    - generic [ref=e233]: ☪️ Halal Verified
+                    - heading "Bibimbop Bow" [level=3] [ref=e234]
+                    - generic [ref=e235]:
+                      - generic [ref=e236]: korean
+                      - generic [ref=e237]: ££
+                    - generic [ref=e238]:
+                      - generic [ref=e239]:
+                        - generic [ref=e240]: ★
+                        - generic [ref=e241]: "4.9"
+                      - generic [ref=e242]: 187 reviews
+                    - generic [ref=e243]: View Details →
+              - 'link "Shezan GCD — Chinese FSA Hygiene Rating 5/5 8.0 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Shezan GCD chinese ££ ★ 4.9 17 reviews View Details →" [ref=e244] [cursor=pointer]':
+                - /url: /restaurant/shezan-gcd-gM3zlYf0
+                - generic [ref=e245]:
+                  - generic [ref=e246]:
+                    - img "Shezan GCD — Chinese" [ref=e247]
+                    - generic [ref=e249]:
+                      - img [ref=e250]
+                      - generic [ref=e252]:
+                        - generic [ref=e253]: FSA Hygiene Rating
+                        - generic [ref=e254]: 5/5
+                    - generic [ref=e256]:
+                      - generic [ref=e257]:
+                        - generic [ref=e260]:
+                          - generic [ref=e261]: "8.0"
+                          - generic [ref=e262]: BIL Score
+                        - generic [ref=e263]: ✓ Verified
+                      - generic [ref=e265]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e266]:
+                    - generic [ref=e268]: ☪️ Halal Verified
+                    - heading "Shezan GCD" [level=3] [ref=e269]
+                    - generic [ref=e270]:
+                      - generic [ref=e271]: chinese
+                      - generic [ref=e272]: ££
+                    - generic [ref=e273]:
+                      - generic [ref=e274]:
+                        - generic [ref=e275]: ★
+                        - generic [ref=e276]: "4.9"
+                      - generic [ref=e277]: 17 reviews
+                    - generic [ref=e278]: View Details →
+              - 'link "iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food — Caribbean FSA Hygiene Rating 5/5 8.0 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food caribbean ££ ★ 4.9 46 reviews View Details →" [ref=e279] [cursor=pointer]':
+                - /url: /restaurant/ivisecrets-vegan-fine-dining-lounge-iveganit-caribbean-asian-fusion-food-XNO5wWF0
+                - generic [ref=e280]:
+                  - generic [ref=e281]:
+                    - img "iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food — Caribbean" [ref=e282]
+                    - generic [ref=e284]:
+                      - img [ref=e285]
+                      - generic [ref=e287]:
+                        - generic [ref=e288]: FSA Hygiene Rating
+                        - generic [ref=e289]: 5/5
+                    - generic [ref=e291]:
+                      - generic [ref=e292]:
+                        - generic [ref=e295]:
+                          - generic [ref=e296]: "8.0"
+                          - generic [ref=e297]: BIL Score
+                        - generic [ref=e298]: ✓ Verified
+                      - generic [ref=e300]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e301]:
+                    - generic [ref=e303]: ☪️ Halal Verified
+                    - heading "iViSecrets Vegan Fine Dining Lounge (iVeganiT) - Caribbean Asian Fusion Food" [level=3] [ref=e304]
+                    - generic [ref=e305]:
+                      - generic [ref=e306]: caribbean
+                      - generic [ref=e307]: ££
+                    - generic [ref=e308]:
+                      - generic [ref=e309]:
+                        - generic [ref=e310]: ★
+                        - generic [ref=e311]: "4.9"
+                      - generic [ref=e312]: 46 reviews
+                    - generic [ref=e313]: View Details →
+              - 'link "Aladin Brick Lane — Indian FSA Hygiene Rating 5/5 9.8 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Aladin Brick Lane indian ££ ★ 4.8 9,944 reviews View Details →" [ref=e314] [cursor=pointer]':
+                - /url: /restaurant/aladin-brick-lane-FQXF-uoc
+                - generic [ref=e315]:
+                  - generic [ref=e316]:
+                    - img "Aladin Brick Lane — Indian" [ref=e317]
+                    - generic [ref=e319]:
+                      - img [ref=e320]
+                      - generic [ref=e322]:
+                        - generic [ref=e323]: FSA Hygiene Rating
+                        - generic [ref=e324]: 5/5
+                    - generic [ref=e326]:
+                      - generic [ref=e327]:
+                        - generic [ref=e330]:
+                          - generic [ref=e331]: "9.8"
+                          - generic [ref=e332]: BIL Score
+                        - generic [ref=e333]: ✓ Verified
+                      - generic [ref=e335]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e336]:
+                    - generic [ref=e338]: ☪️ Halal Verified
+                    - heading "Aladin Brick Lane" [level=3] [ref=e339]
+                    - generic [ref=e340]:
+                      - generic [ref=e341]: indian
+                      - generic [ref=e342]: ££
+                    - generic [ref=e343]:
+                      - generic [ref=e344]:
+                        - generic [ref=e345]: ★
+                        - generic [ref=e346]: "4.8"
+                      - generic [ref=e347]: 9,944 reviews
+                    - generic [ref=e348]: View Details →
+              - 'link "Patara Knightsbridge — Thai FSA Hygiene Rating 5/5 9.8 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Patara Knightsbridge thai £££ ★ 4.8 2,286 reviews View Details →" [ref=e349] [cursor=pointer]':
+                - /url: /restaurant/patara-knightsbridge-XqlUbgWk
+                - generic [ref=e350]:
+                  - generic [ref=e351]:
+                    - img "Patara Knightsbridge — Thai" [ref=e352]
+                    - generic [ref=e354]:
+                      - img [ref=e355]
+                      - generic [ref=e357]:
+                        - generic [ref=e358]: FSA Hygiene Rating
+                        - generic [ref=e359]: 5/5
+                    - generic [ref=e361]:
+                      - generic [ref=e362]:
+                        - generic [ref=e365]:
+                          - generic [ref=e366]: "9.8"
+                          - generic [ref=e367]: BIL Score
+                        - generic [ref=e368]: ✓ Verified
+                      - generic [ref=e370]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e371]:
+                    - generic [ref=e373]: ☪️ Halal Verified
+                    - heading "Patara Knightsbridge" [level=3] [ref=e374]
+                    - generic [ref=e375]:
+                      - generic [ref=e376]: thai
+                      - generic [ref=e377]: £££
+                    - generic [ref=e378]:
+                      - generic [ref=e379]:
+                        - generic [ref=e380]: ★
+                        - generic [ref=e381]: "4.8"
+                      - generic [ref=e382]: 2,286 reviews
+                    - generic [ref=e383]: View Details →
+              - 'link "Efes Premium — Turkish FSA Hygiene Rating 5/5 9.6 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Efes Premium turkish ££ ★ 4.8 921 reviews View Details →" [ref=e384] [cursor=pointer]':
+                - /url: /restaurant/efes-premium-kWL5j4TM
+                - generic [ref=e385]:
+                  - generic [ref=e386]:
+                    - img "Efes Premium — Turkish" [ref=e387]
+                    - generic [ref=e389]:
+                      - img [ref=e390]
+                      - generic [ref=e392]:
+                        - generic [ref=e393]: FSA Hygiene Rating
+                        - generic [ref=e394]: 5/5
+                    - generic [ref=e396]:
+                      - generic [ref=e397]:
+                        - generic [ref=e400]:
+                          - generic [ref=e401]: "9.6"
+                          - generic [ref=e402]: BIL Score
+                        - generic [ref=e403]: ✓ Verified
+                      - generic [ref=e405]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e406]:
+                    - generic [ref=e408]: ☪️ Halal Verified
+                    - heading "Efes Premium" [level=3] [ref=e409]
+                    - generic [ref=e410]:
+                      - generic [ref=e411]: turkish
+                      - generic [ref=e412]: ££
+                    - generic [ref=e413]:
+                      - generic [ref=e414]:
+                        - generic [ref=e415]: ★
+                        - generic [ref=e416]: "4.8"
+                      - generic [ref=e417]: 921 reviews
+                    - generic [ref=e418]: View Details →
+              - 'link "Fes Restaurant — Turkish FSA Hygiene Rating 5/5 9.2 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Fes Restaurant turkish ££ ★ 4.8 749 reviews View Details →" [ref=e419] [cursor=pointer]':
+                - /url: /restaurant/fes-restaurant-3kGU0KS4
+                - generic [ref=e420]:
+                  - generic [ref=e421]:
+                    - img "Fes Restaurant — Turkish" [ref=e422]
+                    - generic [ref=e424]:
+                      - img [ref=e425]
+                      - generic [ref=e427]:
+                        - generic [ref=e428]: FSA Hygiene Rating
+                        - generic [ref=e429]: 5/5
+                    - generic [ref=e431]:
+                      - generic [ref=e432]:
+                        - generic [ref=e435]:
+                          - generic [ref=e436]: "9.2"
+                          - generic [ref=e437]: BIL Score
+                        - generic [ref=e438]: ✓ Verified
+                      - generic [ref=e440]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e441]:
+                    - generic [ref=e443]: ☪️ Halal Verified
+                    - heading "Fes Restaurant" [level=3] [ref=e444]
+                    - generic [ref=e445]:
+                      - generic [ref=e446]: turkish
+                      - generic [ref=e447]: ££
+                    - generic [ref=e448]:
+                      - generic [ref=e449]:
+                        - generic [ref=e450]: ★
+                        - generic [ref=e451]: "4.8"
+                      - generic [ref=e452]: 749 reviews
+                    - generic [ref=e453]: View Details →
+              - 'link "Soju Korean Restaurant — Korean FSA Hygiene Rating 5/5 7.8 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Soju Korean Restaurant korean ££ ★ 4.8 18 reviews View Details →" [ref=e454] [cursor=pointer]':
+                - /url: /restaurant/soju-korean-restaurant-4eZHjn3Q
+                - generic [ref=e455]:
+                  - generic [ref=e456]:
+                    - img "Soju Korean Restaurant — Korean" [ref=e457]
+                    - generic [ref=e459]:
+                      - img [ref=e460]
+                      - generic [ref=e462]:
+                        - generic [ref=e463]: FSA Hygiene Rating
+                        - generic [ref=e464]: 5/5
+                    - generic [ref=e466]:
+                      - generic [ref=e467]:
+                        - generic [ref=e470]:
+                          - generic [ref=e471]: "7.8"
+                          - generic [ref=e472]: BIL Score
+                        - generic [ref=e473]: ✓ Verified
+                      - generic [ref=e475]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e476]:
+                    - generic [ref=e478]: ☪️ Halal Verified
+                    - heading "Soju Korean Restaurant" [level=3] [ref=e479]
+                    - generic [ref=e480]:
+                      - generic [ref=e481]: korean
+                      - generic [ref=e482]: ££
+                    - generic [ref=e483]:
+                      - generic [ref=e484]:
+                        - generic [ref=e485]: ★
+                        - generic [ref=e486]: "4.8"
+                      - generic [ref=e487]: 18 reviews
+                    - generic [ref=e488]: View Details →
+              - 'link "Royal Nawaab Ilford — Indian FSA Hygiene Rating 5/5 9.8 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Royal Nawaab Ilford indian ££ ★ 4.8 17,767 reviews View Details →" [ref=e489] [cursor=pointer]':
+                - /url: /restaurant/royal-nawaab-ilford-NPoY41cY
+                - generic [ref=e490]:
+                  - generic [ref=e491]:
+                    - img "Royal Nawaab Ilford — Indian" [ref=e492]
+                    - generic [ref=e494]:
+                      - img [ref=e495]
+                      - generic [ref=e497]:
+                        - generic [ref=e498]: FSA Hygiene Rating
+                        - generic [ref=e499]: 5/5
+                    - generic [ref=e501]:
+                      - generic [ref=e502]:
+                        - generic [ref=e505]:
+                          - generic [ref=e506]: "9.8"
+                          - generic [ref=e507]: BIL Score
+                        - generic [ref=e508]: ✓ Verified
+                      - generic [ref=e510]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e511]:
+                    - generic [ref=e513]: ☪️ Halal Verified
+                    - heading "Royal Nawaab Ilford" [level=3] [ref=e514]
+                    - generic [ref=e515]:
+                      - generic [ref=e516]: indian
+                      - generic [ref=e517]: ££
+                    - generic [ref=e518]:
+                      - generic [ref=e519]:
+                        - generic [ref=e520]: ★
+                        - generic [ref=e521]: "4.8"
+                      - generic [ref=e522]: 17,767 reviews
+                    - generic [ref=e523]: View Details →
+              - 'link "Maharaja of India — Indian FSA Hygiene Rating 3/5 8.8 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Maharaja of India indian ££ ★ 4.7 13,404 reviews View Details →" [ref=e524] [cursor=pointer]':
+                - /url: /restaurant/maharaja-of-india-EVrlil9k
+                - generic [ref=e525]:
+                  - generic [ref=e526]:
+                    - img "Maharaja of India — Indian" [ref=e527]
+                    - generic [ref=e529]:
+                      - img [ref=e530]
+                      - generic [ref=e532]:
+                        - generic [ref=e533]: FSA Hygiene Rating
+                        - generic [ref=e534]: 3/5
+                    - generic [ref=e536]:
+                      - generic [ref=e537]:
+                        - generic [ref=e540]:
+                          - generic [ref=e541]: "8.8"
+                          - generic [ref=e542]: BIL Score
+                        - generic [ref=e543]: ✓ Verified
+                      - generic [ref=e545]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e546]:
+                    - generic [ref=e548]: ☪️ Halal Verified
+                    - heading "Maharaja of India" [level=3] [ref=e549]
+                    - generic [ref=e550]:
+                      - generic [ref=e551]: indian
+                      - generic [ref=e552]: ££
+                    - generic [ref=e553]:
+                      - generic [ref=e554]:
+                        - generic [ref=e555]: ★
+                        - generic [ref=e556]: "4.7"
+                      - generic [ref=e557]: 13,404 reviews
+                    - generic [ref=e558]: View Details →
+              - 'link "AngloThai — Thai FSA Hygiene Rating 5/5 8.2 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified AngloThai thai ££ ★ 4.7 241 reviews View Details →" [ref=e559] [cursor=pointer]':
+                - /url: /restaurant/anglothai-a6lDN5es
+                - generic [ref=e560]:
+                  - generic [ref=e561]:
+                    - img "AngloThai — Thai" [ref=e562]
+                    - generic [ref=e564]:
+                      - img [ref=e565]
+                      - generic [ref=e567]:
+                        - generic [ref=e568]: FSA Hygiene Rating
+                        - generic [ref=e569]: 5/5
+                    - generic [ref=e571]:
+                      - generic [ref=e572]:
+                        - generic [ref=e575]:
+                          - generic [ref=e576]: "8.2"
+                          - generic [ref=e577]: BIL Score
+                        - generic [ref=e578]: ✓ Verified
+                      - generic [ref=e580]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e581]:
+                    - generic [ref=e583]: ☪️ Halal Verified
+                    - heading "AngloThai" [level=3] [ref=e584]
+                    - generic [ref=e585]:
+                      - generic [ref=e586]: thai
+                      - generic [ref=e587]: ££
+                    - generic [ref=e588]:
+                      - generic [ref=e589]:
+                        - generic [ref=e590]: ★
+                        - generic [ref=e591]: "4.7"
+                      - generic [ref=e592]: 241 reviews
+                    - generic [ref=e593]: View Details →
+              - 'link "Koko Grill Korean BBQ Restaurant — Korean FSA Hygiene Rating 5/5 8.0 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Koko Grill Korean BBQ Restaurant korean ££ ★ 4.7 148 reviews View Details →" [ref=e594] [cursor=pointer]':
+                - /url: /restaurant/koko-grill-korean-bbq-restaurant-TiSvAj5c
+                - generic [ref=e595]:
+                  - generic [ref=e596]:
+                    - img "Koko Grill Korean BBQ Restaurant — Korean" [ref=e597]
+                    - generic [ref=e599]:
+                      - img [ref=e600]
+                      - generic [ref=e602]:
+                        - generic [ref=e603]: FSA Hygiene Rating
+                        - generic [ref=e604]: 5/5
+                    - generic [ref=e606]:
+                      - generic [ref=e607]:
+                        - generic [ref=e610]:
+                          - generic [ref=e611]: "8.0"
+                          - generic [ref=e612]: BIL Score
+                        - generic [ref=e613]: ✓ Verified
+                      - generic [ref=e615]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e616]:
+                    - generic [ref=e618]: ☪️ Halal Verified
+                    - heading "Koko Grill Korean BBQ Restaurant" [level=3] [ref=e619]
+                    - generic [ref=e620]:
+                      - generic [ref=e621]: korean
+                      - generic [ref=e622]: ££
+                    - generic [ref=e623]:
+                      - generic [ref=e624]:
+                        - generic [ref=e625]: ★
+                        - generic [ref=e626]: "4.7"
+                      - generic [ref=e627]: 148 reviews
+                    - generic [ref=e628]: View Details →
+              - 'link "Jang Restaurant — Korean FSA Hygiene Rating 5/5 8.0 BIL Score ✓ Verified Outstanding Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Jang Restaurant korean ££ ★ 4.7 203 reviews View Details →" [ref=e629] [cursor=pointer]':
+                - /url: /restaurant/jang-restaurant-A2kpdsBc
+                - generic [ref=e630]:
+                  - generic [ref=e631]:
+                    - img "Jang Restaurant — Korean" [ref=e632]
+                    - generic [ref=e634]:
+                      - img [ref=e635]
+                      - generic [ref=e637]:
+                        - generic [ref=e638]: FSA Hygiene Rating
+                        - generic [ref=e639]: 5/5
+                    - generic [ref=e641]:
+                      - generic [ref=e642]:
+                        - generic [ref=e645]:
+                          - generic [ref=e646]: "8.0"
+                          - generic [ref=e647]: BIL Score
+                        - generic [ref=e648]: ✓ Verified
+                      - generic [ref=e650]: Outstanding
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e651]:
+                    - generic [ref=e653]: ☪️ Halal Verified
+                    - heading "Jang Restaurant" [level=3] [ref=e654]
+                    - generic [ref=e655]:
+                      - generic [ref=e656]: korean
+                      - generic [ref=e657]: ££
+                    - generic [ref=e658]:
+                      - generic [ref=e659]:
+                        - generic [ref=e660]: ★
+                        - generic [ref=e661]: "4.7"
+                      - generic [ref=e662]: 203 reviews
+                    - generic [ref=e663]: View Details →
+              - 'link "Shah''s Halal Food Walthamstow — Turkish FSA Hygiene Rating 4/5 7.4 BIL Score ✓ Verified Excellent Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Shah''s Halal Food Walthamstow turkish ££ ★ 4.7 108 reviews View Details →" [ref=e664] [cursor=pointer]':
+                - /url: /restaurant/shahs-halal-food-walthamstow-e0towDVA
+                - generic [ref=e665]:
+                  - generic [ref=e666]:
+                    - img "Shah's Halal Food Walthamstow — Turkish" [ref=e667]
+                    - generic [ref=e669]:
+                      - img [ref=e670]
+                      - generic [ref=e672]:
+                        - generic [ref=e673]: FSA Hygiene Rating
+                        - generic [ref=e674]: 4/5
+                    - generic [ref=e676]:
+                      - generic [ref=e677]:
+                        - generic [ref=e680]:
+                          - generic [ref=e681]: "7.4"
+                          - generic [ref=e682]: BIL Score
+                        - generic [ref=e683]: ✓ Verified
+                      - generic [ref=e685]: Excellent
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e686]:
+                    - generic [ref=e688]: ☪️ Halal Verified
+                    - heading "Shah's Halal Food Walthamstow" [level=3] [ref=e689]
+                    - generic [ref=e690]:
+                      - generic [ref=e691]: turkish
+                      - generic [ref=e692]: ££
+                    - generic [ref=e693]:
+                      - generic [ref=e694]:
+                        - generic [ref=e695]: ★
+                        - generic [ref=e696]: "4.7"
+                      - generic [ref=e697]: 108 reviews
+                    - generic [ref=e698]: View Details →
+              - 'link "Kricket Soho — Indian FSA Hygiene Rating 5/5 9.6 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Kricket Soho indian ££ ★ 4.6 2,552 reviews View Details →" [ref=e699] [cursor=pointer]':
+                - /url: /restaurant/kricket-soho-2UcQZFVQ
+                - generic [ref=e700]:
+                  - generic [ref=e701]:
+                    - img "Kricket Soho — Indian" [ref=e702]
+                    - generic [ref=e704]:
+                      - img [ref=e705]
+                      - generic [ref=e707]:
+                        - generic [ref=e708]: FSA Hygiene Rating
+                        - generic [ref=e709]: 5/5
+                    - generic [ref=e711]:
+                      - generic [ref=e712]:
+                        - generic [ref=e715]:
+                          - generic [ref=e716]: "9.6"
+                          - generic [ref=e717]: BIL Score
+                        - generic [ref=e718]: ✓ Verified
+                      - generic [ref=e720]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e721]:
+                    - generic [ref=e723]: ☪️ Halal Verified
+                    - heading "Kricket Soho" [level=3] [ref=e724]
+                    - generic [ref=e725]:
+                      - generic [ref=e726]: indian
+                      - generic [ref=e727]: ££
+                    - generic [ref=e728]:
+                      - generic [ref=e729]:
+                        - generic [ref=e730]: ★
+                        - generic [ref=e731]: "4.6"
+                      - generic [ref=e732]: 2,552 reviews
+                    - generic [ref=e733]: View Details →
+              - 'link "Kolae — Thai FSA Hygiene Rating 5/5 9.4 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Kolae thai ££ ★ 4.6 893 reviews View Details →" [ref=e734] [cursor=pointer]':
+                - /url: /restaurant/kolae-nf-sKA8g
+                - generic [ref=e735]:
+                  - generic [ref=e736]:
+                    - img "Kolae — Thai" [ref=e737]
+                    - generic [ref=e739]:
+                      - img [ref=e740]
+                      - generic [ref=e742]:
+                        - generic [ref=e743]: FSA Hygiene Rating
+                        - generic [ref=e744]: 5/5
+                    - generic [ref=e746]:
+                      - generic [ref=e747]:
+                        - generic [ref=e750]:
+                          - generic [ref=e751]: "9.4"
+                          - generic [ref=e752]: BIL Score
+                        - generic [ref=e753]: ✓ Verified
+                      - generic [ref=e755]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e756]:
+                    - generic [ref=e758]: ☪️ Halal Verified
+                    - heading "Kolae" [level=3] [ref=e759]
+                    - generic [ref=e760]:
+                      - generic [ref=e761]: thai
+                      - generic [ref=e762]: ££
+                    - generic [ref=e763]:
+                      - generic [ref=e764]:
+                        - generic [ref=e765]: ★
+                        - generic [ref=e766]: "4.6"
+                      - generic [ref=e767]: 893 reviews
+                    - generic [ref=e768]: View Details →
+              - 'link "Daebak — Korean FSA Hygiene Rating 3/5 8.8 BIL Score ✓ Verified Exceptional Best in London Score Google: 60% • Reviews: 20% • FSA: 20% ☪️ Halal Verified Daebak korean ££ ★ 4.6 1,205 reviews View Details →" [ref=e769] [cursor=pointer]':
+                - /url: /restaurant/daebak-dtHO4Ztg
+                - generic [ref=e770]:
+                  - generic [ref=e771]:
+                    - img "Daebak — Korean" [ref=e772]
+                    - generic [ref=e774]:
+                      - img [ref=e775]
+                      - generic [ref=e777]:
+                        - generic [ref=e778]: FSA Hygiene Rating
+                        - generic [ref=e779]: 3/5
+                    - generic [ref=e781]:
+                      - generic [ref=e782]:
+                        - generic [ref=e785]:
+                          - generic [ref=e786]: "8.8"
+                          - generic [ref=e787]: BIL Score
+                        - generic [ref=e788]: ✓ Verified
+                      - generic [ref=e790]: Exceptional
+                      - generic:
+                        - generic: Best in London Score
+                        - generic: "Google: 60% • Reviews: 20% • FSA: 20%"
+                  - generic [ref=e791]:
+                    - generic [ref=e793]: ☪️ Halal Verified
+                    - heading "Daebak" [level=3] [ref=e794]
+                    - generic [ref=e795]:
+                      - generic [ref=e796]: korean
+                      - generic [ref=e797]: ££
+                    - generic [ref=e798]:
+                      - generic [ref=e799]:
+                        - generic [ref=e800]: ★
+                        - generic [ref=e801]: "4.6"
+                      - generic [ref=e802]: 1,205 reviews
+                    - generic [ref=e803]: View Details →
+            - generic [ref=e804]:
+              - button "Previous" [disabled] [ref=e805]
+              - generic [ref=e806]:
+                - button "1" [ref=e807] [cursor=pointer]
+                - button "2" [ref=e808] [cursor=pointer]
+                - button "3" [ref=e809] [cursor=pointer]
+                - button "4" [ref=e810] [cursor=pointer]
+                - button "5" [ref=e811] [cursor=pointer]
+              - button "Next" [ref=e812] [cursor=pointer]
+    - contentinfo [ref=e813]:
+      - generic [ref=e814]:
+        - generic [ref=e815]:
+          - generic [ref=e816]:
+            - generic [ref=e818]:
+              - img "The Best in London" [ref=e819]
+              - heading "The Best in London" [level=3] [ref=e820]
+            - paragraph [ref=e821]: London's premier dining guide featuring 760+ verified restaurants across 50+ areas. From street food to fine dining, discover your next favorite meal.
+            - generic [ref=e822]:
+              - link "Twitter" [ref=e823] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e824]: Twitter
+                - img [ref=e825]
+              - link "Instagram" [ref=e827] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e828]: Instagram
+                - img [ref=e829]
+          - generic [ref=e831]:
+            - heading "Quick Links" [level=4] [ref=e832]
+            - list [ref=e833]:
+              - listitem [ref=e834]:
+                - link "All Restaurants" [ref=e835] [cursor=pointer]:
+                  - /url: /restaurants
+              - listitem [ref=e836]:
+                - link "Halal Restaurants" [ref=e837] [cursor=pointer]:
+                  - /url: /best-halal-restaurants-london
+              - listitem [ref=e838]:
+                - link "Vegan Options" [ref=e839] [cursor=pointer]:
+                  - /url: /vegan-restaurants-london
+              - listitem [ref=e840]:
+                - link "Blog" [ref=e841] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e842]:
+                - link "FAQ" [ref=e843] [cursor=pointer]:
+                  - /url: /faq
+          - generic [ref=e844]:
+            - heading "Legal" [level=4] [ref=e845]
+            - list [ref=e846]:
+              - listitem [ref=e847]:
+                - link "Privacy Policy" [ref=e848] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e849]:
+                - link "Terms of Service" [ref=e850] [cursor=pointer]:
+                  - /url: /terms
+              - listitem [ref=e851]:
+                - link "Cookie Policy" [ref=e852] [cursor=pointer]:
+                  - /url: /cookies
+              - listitem [ref=e853]:
+                - link "About Us" [ref=e854] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e855]:
+                - link "Contact" [ref=e856] [cursor=pointer]:
+                  - /url: /terms
+        - generic [ref=e858]:
+          - paragraph [ref=e859]: © 2025 The Best in London. All rights reserved.
+          - generic [ref=e860]:
+            - generic [ref=e861]: Powered by
+            - generic [ref=e864]: Premium Data
+  - alert [ref=e865]
+```

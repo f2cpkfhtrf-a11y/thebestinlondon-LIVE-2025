@@ -1,0 +1,306 @@
+{
+  "total": 3,
+  "pass": 1,
+  "fail": 2,
+  "totalImages": 161,
+  "totalDuplicates": 26,
+  "results": [
+    {
+      "url": "/blog",
+      "type": "blog",
+      "status": "PASS",
+      "images": [
+        "/images/heroes/pages/areas-hero.webp?v=1761068514?v=1761068514",
+        "/images/blog/late-night-meals-london.webp?v=1761068514",
+        "/images/blog/coffee-near-liverpool-street.webp?v=1761068514",
+        "/images/blog/michelin-london-shortlist.webp?v=1761068514",
+        "/images/blog/family-friendly-central-london.webp?v=1761068514",
+        "/images/blog/kebab-shoreditch-guide.webp?v=1761068514",
+        "/images/blog/best-modern-european-restaurants-in-london.webp?v=1761068514",
+        "/images/blog/halal-street-food-london.webp?v=1761068514",
+        "/images/blog/brunch-soho-2025.webp?v=1761068514",
+        "/images/blog/winter-warmers-curry-edit.webp?v=1761068514",
+        "/images/blog/ramen-hunt-london.webp?v=1761068514",
+        "/images/blog/vegan-date-night.webp?v=1761068514",
+        "/images/blog/top-restaurants-in-tower-hamlets.webp?v=1761068514",
+        "/images/blog/best-indian-in-redbridge.webp?v=1761068514",
+        "/images/blog/pizza-east-london.webp?v=1761068514",
+        "/images/blog/best-japanese-restaurants-in-london.webp?v=1761068514",
+        "/images/blog/steak-london-under-30.webp?v=1761068514",
+        "/images/blog/borough-market-eats.webp?v=1761068514",
+        "/images/blog/seafood-by-the-river.webp?v=1761068514",
+        "/images/blog/top-restaurants-in-central-london.webp?v=1761068514",
+        "/images/blog/top-restaurants-in-westminster.webp?v=1761068514",
+        "/images/blog/best-british-restaurants-in-london.webp?v=1761068514",
+        "/images/blog/top-restaurants-in-kensington-and-chelsea.webp?v=1761068514",
+        "/images/blog/hidden-gem-restaurants-in-london.webp?v=1761068514",
+        "/images/blog/romantic-date-night-restaurants-in-london.webp?v=1761068514",
+        "/images/blog/best-italian-restaurants-in-london.webp?v=1761068514",
+        "/images/blog/top-restaurants-in-southwark.webp?v=1761068514",
+        "/images/blog/best-indian-restaurants-in-london.webp?v=1761068514",
+        "/images/blog/budget-friendly-restaurants-in-london.webp?v=1761068514"
+      ],
+      "duplicates": [],
+      "uniqueCount": 29,
+      "totalCount": 29
+    },
+    {
+      "url": "/cuisines",
+      "type": "cuisines",
+      "status": "FAIL",
+      "images": [
+        "/images/tiles/cuisines/british.webp?v=1761068514",
+        "/images/tiles/cuisines/indian.webp?v=1761068514",
+        "/images/tiles/cuisines/mediterranean.webp?v=1761068514",
+        "/images/tiles/cuisines/modern-european.webp?v=1761068514",
+        "/images/tiles/cuisines/french.webp?v=1761068514",
+        "/images/tiles/cuisines/turkish.webp?v=1761068514",
+        "/images/tiles/cuisines/japanese.webp?v=1761068514",
+        "/images/tiles/cuisines/italian.webp?v=1761068514",
+        "/images/tiles/cuisines/thai.webp?v=1761068514",
+        "/images/tiles/cuisines/mexican.webp?v=1761068514",
+        "/images/tiles/cuisines/spanish.webp?v=1761068514",
+        "/images/tiles/cuisines/korean.webp?v=1761068514",
+        "/images/tiles/cuisines/chinese.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/caribbean.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/british.webp?v=1761068514",
+        "/images/tiles/cuisines/indian.webp?v=1761068514",
+        "/images/tiles/cuisines/mediterranean.webp?v=1761068514",
+        "/images/tiles/cuisines/modern-european.webp?v=1761068514",
+        "/images/tiles/cuisines/french.webp?v=1761068514",
+        "/images/tiles/cuisines/turkish.webp?v=1761068514",
+        "/images/tiles/cuisines/japanese.webp?v=1761068514",
+        "/images/tiles/cuisines/italian.webp?v=1761068514",
+        "/images/tiles/cuisines/thai.webp?v=1761068514",
+        "/images/tiles/cuisines/mexican.webp?v=1761068514",
+        "/images/tiles/cuisines/spanish.webp?v=1761068514",
+        "/images/tiles/cuisines/korean.webp?v=1761068514",
+        "/images/tiles/cuisines/chinese.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/caribbean.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514",
+        "/images/tiles/cuisines/default.webp?v=1761068514"
+      ],
+      "duplicates": [
+        {
+          "image": "/images/tiles/cuisines/british.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/indian.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/mediterranean.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/modern-european.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/french.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/turkish.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/japanese.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/italian.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/thai.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/mexican.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/spanish.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/korean.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/chinese.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/cuisines/default.webp?v=1761068514",
+          "count": 46
+        },
+        {
+          "image": "/images/tiles/cuisines/caribbean.webp?v=1761068514",
+          "count": 2
+        }
+      ],
+      "uniqueCount": 15,
+      "totalCount": 74
+    },
+    {
+      "url": "/areas",
+      "type": "areas",
+      "status": "FAIL",
+      "images": [
+        "/images/tiles/areas/central-london.webp?v=1761068514",
+        "/images/tiles/areas/tower-hamlets.webp?v=1761068514",
+        "/images/tiles/areas/redbridge.webp?v=1761068514",
+        "/images/tiles/areas/havering.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/newham.webp?v=1761068514",
+        "/images/tiles/areas/hackney.webp?v=1761068514",
+        "/images/tiles/areas/camden.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/southwark.webp?v=1761068514",
+        "/images/tiles/areas/westminster.webp?v=1761068514",
+        "/images/tiles/areas/kensington-and-chelsea.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/central-london.webp?v=1761068514",
+        "/images/tiles/areas/tower-hamlets.webp?v=1761068514",
+        "/images/tiles/areas/redbridge.webp?v=1761068514",
+        "/images/tiles/areas/havering.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/newham.webp?v=1761068514",
+        "/images/tiles/areas/hackney.webp?v=1761068514",
+        "/images/tiles/areas/camden.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/southwark.webp?v=1761068514",
+        "/images/tiles/areas/westminster.webp?v=1761068514",
+        "/images/tiles/areas/kensington-and-chelsea.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514",
+        "/images/tiles/areas/default.webp?v=1761068514"
+      ],
+      "duplicates": [
+        {
+          "image": "/images/tiles/areas/central-london.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/tower-hamlets.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/redbridge.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/havering.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/default.webp?v=1761068514",
+          "count": 38
+        },
+        {
+          "image": "/images/tiles/areas/newham.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/hackney.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/camden.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/southwark.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/westminster.webp?v=1761068514",
+          "count": 2
+        },
+        {
+          "image": "/images/tiles/areas/kensington-and-chelsea.webp?v=1761068514",
+          "count": 2
+        }
+      ],
+      "uniqueCount": 11,
+      "totalCount": 58
+    }
+  ]
+}

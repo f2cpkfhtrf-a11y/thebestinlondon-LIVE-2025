@@ -1,0 +1,474 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - link "The Best in London The Best in London Premium Dining Guide" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "The Best in London" [ref=e10]
+          - generic [ref=e11]:
+            - heading "The Best in London" [level=1] [ref=e12]
+            - paragraph [ref=e13]: Premium Dining Guide
+        - navigation [ref=e14]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+          - link "Restaurants" [ref=e16] [cursor=pointer]:
+            - /url: /restaurants
+          - link "Areas" [ref=e17] [cursor=pointer]:
+            - /url: /areas
+          - link "Cuisines" [ref=e18] [cursor=pointer]:
+            - /url: /cuisines
+          - link "Halal" [ref=e19] [cursor=pointer]:
+            - /url: /best-halal-restaurants-london
+          - link "Near Me" [ref=e20] [cursor=pointer]:
+            - /url: /near-me
+          - link "Blog" [ref=e21] [cursor=pointer]:
+            - /url: /blog
+          - link "FAQ" [ref=e22] [cursor=pointer]:
+            - /url: /faq
+          - link "About" [ref=e23] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e24] [cursor=pointer]:
+            - /url: /contact
+          - generic [ref=e26]:
+            - textbox "Search restaurants..." [ref=e27]
+            - button [ref=e28] [cursor=pointer]:
+              - img [ref=e29]
+          - link "Browse All" [ref=e31] [cursor=pointer]:
+            - /url: /search
+    - generic [ref=e32]:
+      - navigation [ref=e34]:
+        - generic [ref=e36]:
+          - link "🏠 Home" [ref=e37] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e38]: 🏠
+            - generic [ref=e39]: Home
+          - link "🍴 Restaurants" [ref=e40] [cursor=pointer]:
+            - /url: /restaurants
+            - generic [ref=e41]: 🍴
+            - generic [ref=e42]: Restaurants
+          - link "🥘 Cuisines" [ref=e43] [cursor=pointer]:
+            - /url: /cuisines
+            - generic [ref=e44]: 🥘
+            - generic [ref=e45]: Cuisines
+          - link "📍 Areas" [ref=e46] [cursor=pointer]:
+            - /url: /areas
+            - generic [ref=e47]: 📍
+            - generic [ref=e48]: Areas
+          - link "🕌 Halal" [ref=e49] [cursor=pointer]:
+            - /url: /best-halal-restaurants-london
+            - generic [ref=e50]: 🕌
+            - generic [ref=e51]: Halal
+          - link "📍 Near Me" [ref=e52] [cursor=pointer]:
+            - /url: /near-me
+            - generic [ref=e53]: 📍
+            - generic [ref=e54]: Near Me
+          - link "📝 Blog" [ref=e55] [cursor=pointer]:
+            - /url: /blog
+            - generic [ref=e56]: 📝
+            - generic [ref=e57]: Blog
+          - link "ℹ️ About" [ref=e58] [cursor=pointer]:
+            - /url: /about
+            - generic [ref=e59]: ℹ️
+            - generic [ref=e60]: About
+          - link "📞 Contact" [ref=e61] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e62]: 📞
+            - generic [ref=e63]: Contact
+      - generic [ref=e64]:
+        - generic [ref=e67]:
+          - img "Hero image for The Best in London" [ref=e68]
+          - generic [ref=e71]:
+            - heading "Discover London's Finest" [level=1] [ref=e72]
+            - paragraph [ref=e73]: Curated Excellence in London
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - generic [ref=e76]: 760+
+                - generic [ref=e77]: Restaurants
+              - generic [ref=e78]:
+                - generic [ref=e79]: 50+
+                - generic [ref=e80]: Areas
+              - generic [ref=e81]:
+                - generic [ref=e82]: 25+
+                - generic [ref=e83]: Cuisines
+              - generic [ref=e84]:
+                - generic [ref=e85]: 100%
+                - generic [ref=e86]: Verified
+        - main [ref=e87]:
+          - generic [ref=e89]:
+            - generic [ref=e90]:
+              - heading "Featured Restaurants" [level=2] [ref=e91]
+              - paragraph [ref=e92]: Handpicked establishments that define London's culinary excellence
+            - generic [ref=e93]:
+              - link "Circolo Popolare - italian in Central London ⭐ 4.8 Circolo Popolare italian 📍 Central London 32,974 reviews" [ref=e94] [cursor=pointer]:
+                - /url: /restaurant/circolo-popolare-kqYLufoE
+                - generic [ref=e95]:
+                  - generic [ref=e96]:
+                    - img "Circolo Popolare - italian in Central London" [ref=e97]
+                    - generic [ref=e99]: ⭐ 4.8
+                  - generic [ref=e101]:
+                    - heading "Circolo Popolare" [level=3] [ref=e102]
+                    - generic [ref=e104]: italian
+                    - paragraph [ref=e105]: 📍 Central London
+                    - paragraph [ref=e106]: 32,974 reviews
+              - link "Dishoom Covent Garden - indian in Central London ⭐ 4.7 Dishoom Covent Garden indian 📍 Central London 27,585 reviews" [ref=e107] [cursor=pointer]:
+                - /url: /restaurant/dishoom-covent-garden-OZ6OHOJw
+                - generic [ref=e108]:
+                  - generic [ref=e109]:
+                    - img "Dishoom Covent Garden - indian in Central London" [ref=e110]
+                    - generic [ref=e112]: ⭐ 4.7
+                  - generic [ref=e114]:
+                    - heading "Dishoom Covent Garden" [level=3] [ref=e115]
+                    - generic [ref=e117]: indian
+                    - paragraph [ref=e118]: 📍 Central London
+                    - paragraph [ref=e119]: 27,585 reviews
+              - link "Gloria - italian in Central London ⭐ 4.8 Gloria italian 📍 Central London 20,227 reviews" [ref=e120] [cursor=pointer]:
+                - /url: /restaurant/gloria-fPFxdplY
+                - generic [ref=e121]:
+                  - generic [ref=e122]:
+                    - img "Gloria - italian in Central London" [ref=e123]
+                    - generic [ref=e125]: ⭐ 4.8
+                  - generic [ref=e127]:
+                    - heading "Gloria" [level=3] [ref=e128]
+                    - generic [ref=e130]: italian
+                    - paragraph [ref=e131]: 📍 Central London
+                    - paragraph [ref=e132]: 20,227 reviews
+              - link "Royal Nawaab Ilford - indian in Redbridge ⭐ 4.8 Royal Nawaab Ilford indian 📍 Redbridge 17,767 reviews" [ref=e133] [cursor=pointer]:
+                - /url: /restaurant/royal-nawaab-ilford-NPoY41cY
+                - generic [ref=e134]:
+                  - generic [ref=e135]:
+                    - img "Royal Nawaab Ilford - indian in Redbridge" [ref=e136]
+                    - generic [ref=e138]: ⭐ 4.8
+                  - generic [ref=e140]:
+                    - heading "Royal Nawaab Ilford" [level=3] [ref=e141]
+                    - generic [ref=e143]: indian
+                    - paragraph [ref=e144]: 📍 Redbridge
+                    - paragraph [ref=e145]: 17,767 reviews
+              - link "Dishoom Kensington - indian in Central London ⭐ 4.8 Dishoom Kensington indian 📍 Central London 16,167 reviews" [ref=e146] [cursor=pointer]:
+                - /url: /restaurant/dishoom-kensington-1F6d_5-g
+                - generic [ref=e147]:
+                  - generic [ref=e148]:
+                    - img "Dishoom Kensington - indian in Central London" [ref=e149]
+                    - generic [ref=e151]: ⭐ 4.8
+                  - generic [ref=e153]:
+                    - heading "Dishoom Kensington" [level=3] [ref=e154]
+                    - generic [ref=e156]: indian
+                    - paragraph [ref=e157]: 📍 Central London
+                    - paragraph [ref=e158]: 16,167 reviews
+              - link "Duck & Waffle - mediterranean in Central London ⭐ 4.4 Duck & Waffle mediterranean 📍 Central London 15,165 reviews" [ref=e159] [cursor=pointer]:
+                - /url: /restaurant/duck-waffle-SjiwV5LM
+                - generic [ref=e160]:
+                  - generic [ref=e161]:
+                    - img "Duck & Waffle - mediterranean in Central London" [ref=e162]
+                    - generic [ref=e164]: ⭐ 4.4
+                  - generic [ref=e166]:
+                    - heading "Duck & Waffle" [level=3] [ref=e167]
+                    - generic [ref=e169]: mediterranean
+                    - paragraph [ref=e170]: 📍 Central London
+                    - paragraph [ref=e171]: 15,165 reviews
+              - link "Maharaja of India - indian in Central London ⭐ 4.7 Maharaja of India indian 📍 Central London 13,404 reviews" [ref=e172] [cursor=pointer]:
+                - /url: /restaurant/maharaja-of-india-EVrlil9k
+                - generic [ref=e173]:
+                  - generic [ref=e174]:
+                    - img "Maharaja of India - indian in Central London" [ref=e175]
+                    - generic [ref=e177]: ⭐ 4.7
+                  - generic [ref=e179]:
+                    - heading "Maharaja of India" [level=3] [ref=e180]
+                    - generic [ref=e182]: indian
+                    - paragraph [ref=e183]: 📍 Central London
+                    - paragraph [ref=e184]: 13,404 reviews
+              - link "SUSHISAMBA London - modern-european in Central London ⭐ 4.5 SUSHISAMBA London modern-european 📍 Central London 12,172 reviews" [ref=e185] [cursor=pointer]:
+                - /url: /restaurant/sushisamba-london-Ec6MJUBA
+                - generic [ref=e186]:
+                  - generic [ref=e187]:
+                    - img "SUSHISAMBA London - modern-european in Central London" [ref=e188]
+                    - generic [ref=e190]: ⭐ 4.5
+                  - generic [ref=e192]:
+                    - heading "SUSHISAMBA London" [level=3] [ref=e193]
+                    - generic [ref=e195]: modern-european
+                    - paragraph [ref=e196]: 📍 Central London
+                    - paragraph [ref=e197]: 12,172 reviews
+            - link "View All Restaurants" [ref=e199] [cursor=pointer]:
+              - /url: /restaurants
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - heading "Popular Areas" [level=2] [ref=e203]
+              - paragraph [ref=e204]: Discover London's most vibrant dining neighborhoods
+            - generic [ref=e205]:
+              - link "Popular restaurants in Central London Central London 7 restaurants" [ref=e206] [cursor=pointer]:
+                - /url: /restaurants-central-london
+                - generic [ref=e207]:
+                  - img "Popular restaurants in Central London" [ref=e208]
+                  - generic [ref=e210]:
+                    - heading "Central London" [level=3] [ref=e211]
+                    - generic [ref=e213]: 7 restaurants
+              - link "Popular restaurants in Redbridge Redbridge 1 restaurants" [ref=e215] [cursor=pointer]:
+                - /url: /restaurants-redbridge
+                - generic [ref=e216]:
+                  - img "Popular restaurants in Redbridge" [ref=e217]
+                  - generic [ref=e219]:
+                    - heading "Redbridge" [level=3] [ref=e220]
+                    - generic [ref=e222]: 1 restaurants
+          - generic [ref=e225]:
+            - generic [ref=e226]:
+              - heading "Popular Cuisines" [level=2] [ref=e227]
+              - paragraph [ref=e228]: Explore London's diverse culinary landscape
+            - generic [ref=e229]:
+              - link "british cuisine in London british 263 restaurants" [ref=e230] [cursor=pointer]:
+                - /url: /british-restaurants-london
+                - generic [ref=e231]:
+                  - img "british cuisine in London" [ref=e232]
+                  - generic [ref=e234]:
+                    - heading "british" [level=3] [ref=e235]
+                    - generic [ref=e237]: 263 restaurants
+              - link "indian cuisine in London indian 70 restaurants" [ref=e239] [cursor=pointer]:
+                - /url: /indian-restaurants-london
+                - generic [ref=e240]:
+                  - img "indian cuisine in London" [ref=e241]
+                  - generic [ref=e243]:
+                    - heading "indian" [level=3] [ref=e244]
+                    - generic [ref=e246]: 70 restaurants
+              - link "mediterranean cuisine in London mediterranean 56 restaurants" [ref=e248] [cursor=pointer]:
+                - /url: /mediterranean-restaurants-london
+                - generic [ref=e249]:
+                  - img "mediterranean cuisine in London" [ref=e250]
+                  - generic [ref=e252]:
+                    - heading "mediterranean" [level=3] [ref=e253]
+                    - generic [ref=e255]: 56 restaurants
+              - link "modern-european cuisine in London modern-european 55 restaurants" [ref=e257] [cursor=pointer]:
+                - /url: /modern-european-restaurants-london
+                - generic [ref=e258]:
+                  - img "modern-european cuisine in London" [ref=e259]
+                  - generic [ref=e261]:
+                    - heading "modern-european" [level=3] [ref=e262]
+                    - generic [ref=e264]: 55 restaurants
+              - link "french cuisine in London french 25 restaurants" [ref=e266] [cursor=pointer]:
+                - /url: /french-restaurants-london
+                - generic [ref=e267]:
+                  - img "french cuisine in London" [ref=e268]
+                  - generic [ref=e270]:
+                    - heading "french" [level=3] [ref=e271]
+                    - generic [ref=e273]: 25 restaurants
+              - link "turkish cuisine in London turkish 23 restaurants" [ref=e275] [cursor=pointer]:
+                - /url: /turkish-restaurants-london
+                - generic [ref=e276]:
+                  - img "turkish cuisine in London" [ref=e277]
+                  - generic [ref=e279]:
+                    - heading "turkish" [level=3] [ref=e280]
+                    - generic [ref=e282]: 23 restaurants
+              - link "japanese cuisine in London japanese 20 restaurants" [ref=e284] [cursor=pointer]:
+                - /url: /japanese-restaurants-london
+                - generic [ref=e285]:
+                  - img "japanese cuisine in London" [ref=e286]
+                  - generic [ref=e288]:
+                    - heading "japanese" [level=3] [ref=e289]
+                    - generic [ref=e291]: 20 restaurants
+              - link "italian cuisine in London italian 19 restaurants" [ref=e293] [cursor=pointer]:
+                - /url: /italian-restaurants-london
+                - generic [ref=e294]:
+                  - img "italian cuisine in London" [ref=e295]
+                  - generic [ref=e297]:
+                    - heading "italian" [level=3] [ref=e298]
+                    - generic [ref=e300]: 19 restaurants
+          - generic [ref=e303]:
+            - generic [ref=e304]:
+              - heading "Latest Additions" [level=2] [ref=e305]
+              - paragraph [ref=e306]: Recently added gems to London's dining scene
+            - generic [ref=e307]:
+              - link "SUSHISAMBA London - modern-european SUSHISAMBA London modern-european 📍 Central London ⭐ 4.5 (12,172)" [ref=e308] [cursor=pointer]:
+                - /url: /restaurant/sushisamba-london-Ec6MJUBA
+                - generic [ref=e309]:
+                  - img "SUSHISAMBA London - modern-european" [ref=e311]
+                  - generic [ref=e312]:
+                    - heading "SUSHISAMBA London" [level=3] [ref=e313]
+                    - generic [ref=e314]:
+                      - paragraph [ref=e315]: modern-european
+                      - paragraph [ref=e316]: 📍 Central London
+                    - generic [ref=e317]:
+                      - generic [ref=e318]: ⭐ 4.5
+                      - generic [ref=e319]: (12,172)
+              - link "Maharaja of India - indian Maharaja of India indian 📍 Central London ⭐ 4.7 (13,404)" [ref=e320] [cursor=pointer]:
+                - /url: /restaurant/maharaja-of-india-EVrlil9k
+                - generic [ref=e321]:
+                  - img "Maharaja of India - indian" [ref=e323]
+                  - generic [ref=e324]:
+                    - heading "Maharaja of India" [level=3] [ref=e325]
+                    - generic [ref=e326]:
+                      - paragraph [ref=e327]: indian
+                      - paragraph [ref=e328]: 📍 Central London
+                    - generic [ref=e329]:
+                      - generic [ref=e330]: ⭐ 4.7
+                      - generic [ref=e331]: (13,404)
+              - link "Duck & Waffle - mediterranean Duck & Waffle mediterranean 📍 Central London ⭐ 4.4 (15,165)" [ref=e332] [cursor=pointer]:
+                - /url: /restaurant/duck-waffle-SjiwV5LM
+                - generic [ref=e333]:
+                  - img "Duck & Waffle - mediterranean" [ref=e335]
+                  - generic [ref=e336]:
+                    - heading "Duck & Waffle" [level=3] [ref=e337]
+                    - generic [ref=e338]:
+                      - paragraph [ref=e339]: mediterranean
+                      - paragraph [ref=e340]: 📍 Central London
+                    - generic [ref=e341]:
+                      - generic [ref=e342]: ⭐ 4.4
+                      - generic [ref=e343]: (15,165)
+              - link "Dishoom Kensington - indian Dishoom Kensington indian 📍 Central London ⭐ 4.8 (16,167)" [ref=e344] [cursor=pointer]:
+                - /url: /restaurant/dishoom-kensington-1F6d_5-g
+                - generic [ref=e345]:
+                  - img "Dishoom Kensington - indian" [ref=e347]
+                  - generic [ref=e348]:
+                    - heading "Dishoom Kensington" [level=3] [ref=e349]
+                    - generic [ref=e350]:
+                      - paragraph [ref=e351]: indian
+                      - paragraph [ref=e352]: 📍 Central London
+                    - generic [ref=e353]:
+                      - generic [ref=e354]: ⭐ 4.8
+                      - generic [ref=e355]: (16,167)
+              - link "Royal Nawaab Ilford - indian Royal Nawaab Ilford indian 📍 Redbridge ⭐ 4.8 (17,767)" [ref=e356] [cursor=pointer]:
+                - /url: /restaurant/royal-nawaab-ilford-NPoY41cY
+                - generic [ref=e357]:
+                  - img "Royal Nawaab Ilford - indian" [ref=e359]
+                  - generic [ref=e360]:
+                    - heading "Royal Nawaab Ilford" [level=3] [ref=e361]
+                    - generic [ref=e362]:
+                      - paragraph [ref=e363]: indian
+                      - paragraph [ref=e364]: 📍 Redbridge
+                    - generic [ref=e365]:
+                      - generic [ref=e366]: ⭐ 4.8
+                      - generic [ref=e367]: (17,767)
+              - link "Gloria - italian Gloria italian 📍 Central London ⭐ 4.8 (20,227)" [ref=e368] [cursor=pointer]:
+                - /url: /restaurant/gloria-fPFxdplY
+                - generic [ref=e369]:
+                  - img "Gloria - italian" [ref=e371]
+                  - generic [ref=e372]:
+                    - heading "Gloria" [level=3] [ref=e373]
+                    - generic [ref=e374]:
+                      - paragraph [ref=e375]: italian
+                      - paragraph [ref=e376]: 📍 Central London
+                    - generic [ref=e377]:
+                      - generic [ref=e378]: ⭐ 4.8
+                      - generic [ref=e379]: (20,227)
+          - generic [ref=e381]:
+            - generic [ref=e382]:
+              - heading "Latest Blog Posts" [level=2] [ref=e383]
+              - paragraph [ref=e384]: Discover the latest insights and guides from our food experts
+              - link "View All Posts" [ref=e385] [cursor=pointer]:
+                - /url: /blog
+                - text: View All Posts
+                - img [ref=e386]
+            - generic [ref=e388]:
+              - link [ref=e389] [cursor=pointer]:
+                - /url: /blog/late-night-meals-london
+                - article [ref=e390]:
+                  - generic [ref=e391]:
+                    - 'img "Late Night Eats in London: Where to Dine After Dark" [ref=e392]'
+                    - generic [ref=e395]:
+                      - generic [ref=e396]: late-night
+                      - generic [ref=e397]: dining
+                  - generic [ref=e398]:
+                    - 'heading "Late Night Eats in London: Where to Dine After Dark" [level=3] [ref=e399]'
+                    - paragraph [ref=e400]: Discover London's best late-night dining spots, from 24-hour curry houses to midnight ramen bars keeping the city fed around the clock.
+                    - generic [ref=e401]:
+                      - generic [ref=e402]:
+                        - img "Ava Beckett" [ref=e403]
+                        - generic [ref=e404]:
+                          - generic [ref=e405]: Ava Beckett
+                          - generic [ref=e406]: Food & City Editor
+                      - generic [ref=e407]: 19 Oct•5 min read
+              - link [ref=e408] [cursor=pointer]:
+                - /url: /blog/coffee-near-liverpool-street
+                - article [ref=e409]:
+                  - generic [ref=e410]:
+                    - 'img "Best Coffee Near Liverpool Street: Artisanal Roasts in the City" [ref=e411]'
+                    - generic [ref=e414]:
+                      - generic [ref=e415]: coffee
+                      - generic [ref=e416]: liverpool-street
+                  - generic [ref=e417]:
+                    - 'heading "Best Coffee Near Liverpool Street: Artisanal Roasts in the City" [level=3] [ref=e418]'
+                    - paragraph [ref=e419]: Fuel your City break with the best coffee shops around Liverpool Street, from third-wave roasters to traditional Italian espresso bars.
+                    - generic [ref=e420]:
+                      - generic [ref=e421]:
+                        - img "Ava Beckett" [ref=e422]
+                        - generic [ref=e423]:
+                          - generic [ref=e424]: Ava Beckett
+                          - generic [ref=e425]: Food & City Editor
+                      - generic [ref=e426]: 16 Oct•5 min read
+              - link [ref=e427] [cursor=pointer]:
+                - /url: /blog/michelin-london-shortlist
+                - article [ref=e428]:
+                  - generic [ref=e429]:
+                    - 'img "London''s Michelin-Starred Restaurants: The Complete Guide for 2025" [ref=e430]'
+                    - generic [ref=e433]:
+                      - generic [ref=e434]: michelin
+                      - generic [ref=e435]: fine-dining
+                  - generic [ref=e436]:
+                    - 'heading "London''s Michelin-Starred Restaurants: The Complete Guide for 2025" [level=3] [ref=e437]'
+                    - paragraph [ref=e438]: Discover London's culinary crown jewels with our comprehensive guide to Michelin-starred dining, from fresh additions to established legends.
+                    - generic [ref=e439]:
+                      - generic [ref=e440]:
+                        - img "Ava Beckett" [ref=e441]
+                        - generic [ref=e442]:
+                          - generic [ref=e443]: Ava Beckett
+                          - generic [ref=e444]: Food & City Editor
+                      - generic [ref=e445]: 11 Oct•6 min read
+    - contentinfo [ref=e446]:
+      - generic [ref=e447]:
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - generic [ref=e451]:
+              - img "The Best in London" [ref=e452]
+              - heading "The Best in London" [level=3] [ref=e453]
+            - paragraph [ref=e454]: London's premier dining guide featuring 760+ verified restaurants across 50+ areas. From street food to fine dining, discover your next favorite meal.
+            - generic [ref=e455]:
+              - link "Twitter" [ref=e456] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e457]: Twitter
+                - img [ref=e458]
+              - link "Instagram" [ref=e460] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e461]: Instagram
+                - img [ref=e462]
+          - generic [ref=e464]:
+            - heading "Quick Links" [level=4] [ref=e465]
+            - list [ref=e466]:
+              - listitem [ref=e467]:
+                - link "All Restaurants" [ref=e468] [cursor=pointer]:
+                  - /url: /restaurants
+              - listitem [ref=e469]:
+                - link "Halal Restaurants" [ref=e470] [cursor=pointer]:
+                  - /url: /best-halal-restaurants-london
+              - listitem [ref=e471]:
+                - link "Vegan Options" [ref=e472] [cursor=pointer]:
+                  - /url: /vegan-restaurants-london
+              - listitem [ref=e473]:
+                - link "Blog" [ref=e474] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e475]:
+                - link "FAQ" [ref=e476] [cursor=pointer]:
+                  - /url: /faq
+          - generic [ref=e477]:
+            - heading "Legal" [level=4] [ref=e478]
+            - list [ref=e479]:
+              - listitem [ref=e480]:
+                - link "Privacy Policy" [ref=e481] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e482]:
+                - link "Terms of Service" [ref=e483] [cursor=pointer]:
+                  - /url: /terms
+              - listitem [ref=e484]:
+                - link "Cookie Policy" [ref=e485] [cursor=pointer]:
+                  - /url: /cookies
+              - listitem [ref=e486]:
+                - link "About Us" [ref=e487] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e488]:
+                - link "Contact" [ref=e489] [cursor=pointer]:
+                  - /url: /terms
+        - generic [ref=e491]:
+          - paragraph [ref=e492]: © 2025 The Best in London. All rights reserved.
+          - generic [ref=e493]:
+            - generic [ref=e494]: Powered by
+            - generic [ref=e497]: Premium Data
+  - alert [ref=e498]
+```

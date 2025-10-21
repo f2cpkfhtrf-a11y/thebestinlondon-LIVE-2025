@@ -1,0 +1,1032 @@
+{
+  "total": 30,
+  "pass": 0,
+  "fail": 30,
+  "heroSources": {
+    "unknown": 30
+  },
+  "tabIssues": 0,
+  "fsaIssues": 0,
+  "results": [
+    {
+      "url": "http://localhost:3000/restaurant/naan-staap-X_MVkgQI",
+      "venue": "naan-staap-X_MVkgQI",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/desi-lounge-hgioaWtM",
+      "venue": "desi-lounge-hgioaWtM",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "3/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/dishoom-kensington-1F6d_5-g",
+      "venue": "dishoom-kensington-1F6d_5-g",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/cinnamon-bazaar-ZAjZBRu4",
+      "venue": "cinnamon-bazaar-ZAjZBRu4",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/anglothai-a6lDN5es",
+      "venue": "anglothai-a6lDN5es",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/cavita-Z6EHwE_c",
+      "venue": "cavita-Z6EHwE_c",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "2/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/maharaja-of-india-EVrlil9k",
+      "venue": "maharaja-of-india-EVrlil9k",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "3/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/leto-soho-baR_vkeA",
+      "venue": "leto-soho-baR_vkeA",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "4/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/manteca-5-ErLMaI",
+      "venue": "manteca-5-ErLMaI",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/antalya-bGIr-qxs",
+      "venue": "antalya-bGIr-qxs",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/rai-restaurant-london-5PZAMF6Q",
+      "venue": "rai-restaurant-london-5PZAMF6Q",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/scully-jo-eEEl4",
+      "venue": "scully-jo-eEEl4",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/pravaas-south-kensington-KhMpiz4I",
+      "venue": "pravaas-south-kensington-KhMpiz4I",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/monmouth-coffee-company-r9wFYz4g",
+      "venue": "monmouth-coffee-company-r9wFYz4g",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/brother-marcus-covent-garden-nrbLsyto",
+      "venue": "brother-marcus-covent-garden-nrbLsyto",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/colonel-saab-D55weEBY",
+      "venue": "colonel-saab-D55weEBY",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "1/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/frog-by-adam-handling-restaurant-covent-garden-hkcsnvBY",
+      "venue": "frog-by-adam-handling-restaurant-covent-garden-hkcsnvBY",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/speedboat-bar-FDICmOhQ",
+      "venue": "speedboat-bar-FDICmOhQ",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/attendant-coffee-roasters-fitzrovia-QbI2yp5w",
+      "venue": "attendant-coffee-roasters-fitzrovia-QbI2yp5w",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/meet-bros-by-menate-x-jibbyco-1Z89Bclk",
+      "venue": "meet-bros-by-menate-x-jibbyco-1Z89Bclk",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/liman-restaurant-GtZA40HM",
+      "venue": "liman-restaurant-GtZA40HM",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/soju-korean-restaurant-4eZHjn3Q",
+      "venue": "soju-korean-restaurant-4eZHjn3Q",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/zuma-london-3z813cBw",
+      "venue": "zuma-london-3z813cBw",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/the-sichuan-restaurant-939Y8L8U",
+      "venue": "the-sichuan-restaurant-939Y8L8U",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "2/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/gaia-mayfair-vbqjY1fI",
+      "venue": "gaia-mayfair-vbqjY1fI",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "4/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/alanya-turkish-with-fusion-kallxaYU",
+      "venue": "alanya-turkish-with-fusion-kallxaYU",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/purezza-camden-njsJLiQk",
+      "venue": "purezza-camden-njsJLiQk",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/babel-grill-house-gzgPUtqI",
+      "venue": "babel-grill-house-gzgPUtqI",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "4/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY",
+      "venue": "mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": true,
+        "ratingPresent": false,
+        "badgeValue": "5/5",
+        "ratingValue": null,
+        "isValid": true
+      }
+    },
+    {
+      "url": "http://localhost:3000/restaurant/shivalli-E4RY5MAS",
+      "venue": "shivalli-E4RY5MAS",
+      "status": "FAIL",
+      "issues": [
+        "Hero image not found",
+        "Tab navigation component not found"
+      ],
+      "hero": {
+        "present": false,
+        "src": null,
+        "isWhite": false,
+        "isBlank": false,
+        "source": "unknown"
+      },
+      "tabs": {
+        "anchorsPresent": [
+          "overview",
+          "menu",
+          "reviews",
+          "location",
+          "similar"
+        ],
+        "anchorsMissing": [],
+        "tabLinksPresent": false
+      },
+      "fsa": {
+        "badgePresent": false,
+        "ratingPresent": false,
+        "badgeValue": null,
+        "ratingValue": null,
+        "isValid": true
+      }
+    }
+  ]
+}

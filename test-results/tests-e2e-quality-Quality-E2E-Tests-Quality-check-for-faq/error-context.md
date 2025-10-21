@@ -1,0 +1,505 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - link "The Best in London" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - heading "The Best in London" [level=1] [ref=e9]
+        - navigation [ref=e10]:
+          - link "Home" [ref=e11] [cursor=pointer]:
+            - /url: /
+          - link "Restaurants" [ref=e12] [cursor=pointer]:
+            - /url: /restaurants
+          - link "Cafés" [ref=e13] [cursor=pointer]:
+            - /url: /cafes
+          - link "Bars" [ref=e14] [cursor=pointer]:
+            - /url: /bars
+    - main [ref=e15]:
+      - generic [ref=e16]:
+        - img "Hero image for The Best in London" [ref=e17]
+        - generic [ref=e20]:
+          - heading "FAQ" [level=1] [ref=e21]
+          - paragraph [ref=e22]: Common questions about London dining
+      - generic [ref=e24]:
+        - textbox "Search frequently asked questions..." [ref=e25]
+        - paragraph [ref=e26]: Showing 29 of 29 questions
+      - generic [ref=e28]:
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - heading "How do I find halal restaurants in London?" [level=3] [ref=e32]:
+              - link "How do I find halal restaurants in London?" [ref=e33] [cursor=pointer]:
+                - /url: /faq/how-do-i-find-halal-restaurants-in-london
+            - generic [ref=e35]:
+              - paragraph [ref=e36]: "Finding halal restaurants in London is straightforward:"
+              - list [ref=e37]:
+                - listitem [ref=e38]:
+                  - strong [ref=e39]: Use our halal filter
+                  - text: ": Visit our"
+                  - link "halal restaurants page" [ref=e40] [cursor=pointer]:
+                    - /url: /best-halal-restaurants-london
+                  - text: for verified halal establishments
+                - listitem [ref=e41]: "**Check ne..."
+          - link "Read More" [ref=e42] [cursor=pointer]:
+            - /url: /faq/how-do-i-find-halal-restaurants-in-london
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - heading "How expensive are restaurants in London?" [level=3] [ref=e46]:
+              - link "How expensive are restaurants in London?" [ref=e47] [cursor=pointer]:
+                - /url: /faq/how-expensive-are-restaurants-in-london
+            - generic [ref=e49]:
+              - paragraph [ref=e50]: "London restaurant prices vary significantly:"
+              - list [ref=e51]:
+                - listitem [ref=e52]:
+                  - strong [ref=e53]: Budget-friendly
+                  - text: ": £10-20 per person for casual dining"
+                - listitem [ref=e54]:
+                  - strong [ref=e55]: Mid-range
+                  - text: ": £25-50 per person for quality restaurants"
+                - listitem [ref=e56]:
+                  - strong [ref=e57]: Fine dining
+                  - text: ": £75+ per person..."
+          - link "Read More" [ref=e58] [cursor=pointer]:
+            - /url: /faq/how-expensive-are-restaurants-in-london
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - heading "What cuisines are most popular in London?" [level=3] [ref=e62]:
+              - link "What cuisines are most popular in London?" [ref=e63] [cursor=pointer]:
+                - /url: /faq/what-cuisines-are-most-popular-in-london
+            - generic [ref=e65]:
+              - paragraph [ref=e66]: "London's diverse population makes it a global culinary capital. The most popular cuisines include:"
+              - list [ref=e67]:
+                - listitem [ref=e68]:
+                  - strong [ref=e69]: Indian
+                  - text: ": Outstanding curry houses and modern Indian cuisine"
+                - listitem [ref=e70]:
+                  - strong [ref=e71]: Italian
+                  - text: ": Authentic trattorias..."
+            - generic [ref=e72]:
+              - link "indian" [ref=e73] [cursor=pointer]:
+                - /url: /cuisines/indian
+              - link "italian" [ref=e74] [cursor=pointer]:
+                - /url: /cuisines/italian
+              - link "chinese" [ref=e75] [cursor=pointer]:
+                - /url: /cuisines/chinese
+              - link "modern-european" [ref=e76] [cursor=pointer]:
+                - /url: /cuisines/modern-european
+              - link "turkish" [ref=e77] [cursor=pointer]:
+                - /url: /cuisines/turkish
+          - link "Read More" [ref=e78] [cursor=pointer]:
+            - /url: /faq/what-cuisines-are-most-popular-in-london
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - heading "What are the best restaurants in Central London?" [level=3] [ref=e82]:
+              - link "What are the best restaurants in Central London?" [ref=e83] [cursor=pointer]:
+                - /url: /faq/what-are-the-best-restaurants-in-central-london
+            - generic [ref=e85]:
+              - paragraph [ref=e86]: "Central London offers an incredible variety of dining options. Some standout areas include:"
+              - list [ref=e87]:
+                - listitem [ref=e88]:
+                  - strong [ref=e89]: Covent Garden
+                  - text: ": Home to iconic restaurants like Dishoom and The Ivy"
+                - listitem [ref=e90]:
+                  - strong [ref=e91]: Soho
+                  - text: ": Diverse cuisine and la..."
+            - link "central london" [ref=e93] [cursor=pointer]:
+              - /url: /areas/central-london
+          - link "Read More" [ref=e94] [cursor=pointer]:
+            - /url: /faq/what-are-the-best-restaurants-in-central-london
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - heading "Are there kid-friendly restaurants with playgrounds or activities?" [level=3] [ref=e98]:
+              - link "Are there kid-friendly restaurants with playgrounds or activities?" [ref=e99] [cursor=pointer]:
+                - /url: /faq/are-there-kid-friendly-restaurants-with-playgrounds-or-activities
+            - generic [ref=e101]:
+              - paragraph [ref=e102]: London is very family-friendly when it comes to dining! Many restaurants cater specifically to families with children.
+              - paragraph [ref=e103]:
+                - strong [ref=e104]: "Family-Friendly Features:"
+              - list [ref=e105]:
+                - listitem [ref=e106]:
+                  - strong [ref=e107]: Children's menus
+                  - text: ": Available at most chain re..."
+          - link "Read More" [ref=e108] [cursor=pointer]:
+            - /url: /faq/are-there-kid-friendly-restaurants-with-playgrounds-or-activities
+        - generic [ref=e110]:
+          - generic [ref=e111]:
+            - heading "Are there family-friendly restaurants in London?" [level=3] [ref=e112]:
+              - link "Are there family-friendly restaurants in London?" [ref=e113] [cursor=pointer]:
+                - /url: /faq/are-there-family-friendly-restaurants-in-london
+            - generic [ref=e115]:
+              - paragraph [ref=e116]: London is very family-friendly when it comes to dining! Many restaurants cater specifically to families with children.
+              - paragraph [ref=e117]:
+                - strong [ref=e118]: "Family-Friendly Features:"
+              - list [ref=e119]:
+                - listitem [ref=e120]:
+                  - strong [ref=e121]: Children's menus
+                  - text: ": Available at most chain re..."
+          - link "Read More" [ref=e122] [cursor=pointer]:
+            - /url: /faq/are-there-family-friendly-restaurants-in-london
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - heading "How does the 'Near Me' feature work?" [level=3] [ref=e126]:
+              - link "How does the 'Near Me' feature work?" [ref=e127] [cursor=pointer]:
+                - /url: /faq/how-does-the-near-me-feature-work
+            - generic [ref=e129]:
+              - paragraph [ref=e130]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e131]:
+                - strong [ref=e132]: "Getting Current Information:"
+              - list [ref=e133]:
+                - listitem [ref=e134]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e135]: Call dir...
+          - link "Read More" [ref=e136] [cursor=pointer]:
+            - /url: /faq/how-does-the-near-me-feature-work
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - heading "Do I need to make reservations at London restaurants?" [level=3] [ref=e140]:
+              - link "Do I need to make reservations at London restaurants?" [ref=e141] [cursor=pointer]:
+                - /url: /faq/do-i-need-to-make-reservations-at-london-restaurants
+            - generic [ref=e143]:
+              - paragraph [ref=e144]: "Reservation requirements vary by restaurant type and time:"
+              - paragraph [ref=e145]:
+                - strong [ref=e146]: "Booking is Recommended For:"
+              - list [ref=e147]:
+                - listitem [ref=e148]: Fine dining establishments and Michelin-starred restaurants
+                - listitem [ref=e149]: Popular weekend spots and trendy venues
+                - listitem [ref=e150]: Gr...
+          - link "Read More" [ref=e151] [cursor=pointer]:
+            - /url: /faq/do-i-need-to-make-reservations-at-london-restaurants
+        - generic [ref=e153]:
+          - generic [ref=e154]:
+            - heading "What's included in the restaurant reviews and ratings?" [level=3] [ref=e155]:
+              - link "What's included in the restaurant reviews and ratings?" [ref=e156] [cursor=pointer]:
+                - /url: /faq/whats-included-in-the-restaurant-reviews-and-ratings
+            - generic [ref=e158]:
+              - paragraph [ref=e159]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e160]:
+                - strong [ref=e161]: "Getting Current Information:"
+              - list [ref=e162]:
+                - listitem [ref=e163]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e164]: Call dir...
+          - link "Read More" [ref=e165] [cursor=pointer]:
+            - /url: /faq/whats-included-in-the-restaurant-reviews-and-ratings
+        - generic [ref=e167]:
+          - generic [ref=e168]:
+            - heading "Do restaurants offer takeaway or delivery options?" [level=3] [ref=e169]:
+              - link "Do restaurants offer takeaway or delivery options?" [ref=e170] [cursor=pointer]:
+                - /url: /faq/do-restaurants-offer-takeaway-or-delivery-options
+            - generic [ref=e172]:
+              - paragraph [ref=e173]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e174]:
+                - strong [ref=e175]: "Getting Current Information:"
+              - list [ref=e176]:
+                - listitem [ref=e177]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e178]: Call dir...
+          - link "Read More" [ref=e179] [cursor=pointer]:
+            - /url: /faq/do-restaurants-offer-takeaway-or-delivery-options
+        - generic [ref=e181]:
+          - generic [ref=e182]:
+            - heading "How do I get directions to a specific restaurant?" [level=3] [ref=e183]:
+              - link "How do I get directions to a specific restaurant?" [ref=e184] [cursor=pointer]:
+                - /url: /faq/how-do-i-get-directions-to-a-specific-restaurant
+            - generic [ref=e186]:
+              - paragraph [ref=e187]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e188]:
+                - strong [ref=e189]: "Getting Current Information:"
+              - list [ref=e190]:
+                - listitem [ref=e191]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e192]: Call dir...
+          - link "Read More" [ref=e193] [cursor=pointer]:
+            - /url: /faq/how-do-i-get-directions-to-a-specific-restaurant
+        - generic [ref=e195]:
+          - generic [ref=e196]:
+            - heading "Can I suggest a restaurant to be added to the site?" [level=3] [ref=e197]:
+              - link "Can I suggest a restaurant to be added to the site?" [ref=e198] [cursor=pointer]:
+                - /url: /faq/can-i-suggest-a-restaurant-to-be-added-to-the-site
+            - generic [ref=e200]:
+              - paragraph [ref=e201]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e202]:
+                - strong [ref=e203]: "Getting Current Information:"
+              - list [ref=e204]:
+                - listitem [ref=e205]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e206]: Call dir...
+          - link "Read More" [ref=e207] [cursor=pointer]:
+            - /url: /faq/can-i-suggest-a-restaurant-to-be-added-to-the-site
+        - generic [ref=e209]:
+          - generic [ref=e210]:
+            - heading "Is parking available at London restaurants?" [level=3] [ref=e211]:
+              - link "Is parking available at London restaurants?" [ref=e212] [cursor=pointer]:
+                - /url: /faq/is-parking-available-at-london-restaurants
+            - generic [ref=e214]:
+              - paragraph [ref=e215]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e216]:
+                - strong [ref=e217]: "Getting Current Information:"
+              - list [ref=e218]:
+                - listitem [ref=e219]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e220]: Call dir...
+          - link "Read More" [ref=e221] [cursor=pointer]:
+            - /url: /faq/is-parking-available-at-london-restaurants
+        - generic [ref=e223]:
+          - generic [ref=e224]:
+            - heading "How often is restaurant information updated?" [level=3] [ref=e225]:
+              - link "How often is restaurant information updated?" [ref=e226] [cursor=pointer]:
+                - /url: /faq/how-often-is-restaurant-information-updated
+            - generic [ref=e228]:
+              - paragraph [ref=e229]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e230]:
+                - strong [ref=e231]: "Getting Current Information:"
+              - list [ref=e232]:
+                - listitem [ref=e233]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e234]: Call dir...
+          - link "Read More" [ref=e235] [cursor=pointer]:
+            - /url: /faq/how-often-is-restaurant-information-updated
+        - generic [ref=e237]:
+          - generic [ref=e238]:
+            - heading "What is the dress code for London restaurants?" [level=3] [ref=e239]:
+              - link "What is the dress code for London restaurants?" [ref=e240] [cursor=pointer]:
+                - /url: /faq/what-is-the-dress-code-for-london-restaurants
+            - generic [ref=e242]:
+              - paragraph [ref=e243]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e244]:
+                - strong [ref=e245]: "Getting Current Information:"
+              - list [ref=e246]:
+                - listitem [ref=e247]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e248]: Call dir...
+          - link "Read More" [ref=e249] [cursor=pointer]:
+            - /url: /faq/what-is-the-dress-code-for-london-restaurants
+        - generic [ref=e251]:
+          - generic [ref=e252]:
+            - heading "What's the difference between area and borough on your site?" [level=3] [ref=e253]:
+              - link "What's the difference between area and borough on your site?" [ref=e254] [cursor=pointer]:
+                - /url: /faq/whats-the-difference-between-area-and-borough-on-your-site
+            - generic [ref=e256]:
+              - paragraph [ref=e257]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e258]:
+                - strong [ref=e259]: "Getting Current Information:"
+              - list [ref=e260]:
+                - listitem [ref=e261]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e262]: Call dir...
+          - link "Read More" [ref=e263] [cursor=pointer]:
+            - /url: /faq/whats-the-difference-between-area-and-borough-on-your-site
+        - generic [ref=e265]:
+          - generic [ref=e266]:
+            - heading "How do I contact a restaurant directly from your site?" [level=3] [ref=e267]:
+              - link "How do I contact a restaurant directly from your site?" [ref=e268] [cursor=pointer]:
+                - /url: /faq/how-do-i-contact-a-restaurant-directly-from-your-site
+            - generic [ref=e270]:
+              - paragraph [ref=e271]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e272]:
+                - strong [ref=e273]: "Getting Current Information:"
+              - list [ref=e274]:
+                - listitem [ref=e275]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e276]: Call dir...
+          - link "Read More" [ref=e277] [cursor=pointer]:
+            - /url: /faq/how-do-i-contact-a-restaurant-directly-from-your-site
+        - generic [ref=e279]:
+          - generic [ref=e280]:
+            - heading "Do you have vegetarian and vegan restaurant options?" [level=3] [ref=e281]:
+              - link "Do you have vegetarian and vegan restaurant options?" [ref=e282] [cursor=pointer]:
+                - /url: /faq/do-you-have-vegetarian-and-vegan-restaurant-options
+            - generic [ref=e284]:
+              - paragraph [ref=e285]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e286]:
+                - strong [ref=e287]: "Getting Current Information:"
+              - list [ref=e288]:
+                - listitem [ref=e289]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e290]: Call dir...
+            - generic [ref=e291]:
+              - link "vegetarian" [ref=e292] [cursor=pointer]:
+                - /url: /cuisines/vegetarian
+              - link "vegan" [ref=e293] [cursor=pointer]:
+                - /url: /cuisines/vegan
+          - link "Read More" [ref=e294] [cursor=pointer]:
+            - /url: /faq/do-you-have-vegetarian-and-vegan-restaurant-options
+        - generic [ref=e296]:
+          - generic [ref=e297]:
+            - heading "Can I find restaurants that accommodate large groups?" [level=3] [ref=e298]:
+              - link "Can I find restaurants that accommodate large groups?" [ref=e299] [cursor=pointer]:
+                - /url: /faq/can-i-find-restaurants-that-accommodate-large-groups
+            - generic [ref=e301]:
+              - paragraph [ref=e302]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e303]:
+                - strong [ref=e304]: "Getting Current Information:"
+              - list [ref=e305]:
+                - listitem [ref=e306]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e307]: Call dir...
+          - link "Read More" [ref=e308] [cursor=pointer]:
+            - /url: /faq/can-i-find-restaurants-that-accommodate-large-groups
+        - generic [ref=e310]:
+          - generic [ref=e311]:
+            - heading "What's the tipping culture in London restaurants?" [level=3] [ref=e312]:
+              - link "What's the tipping culture in London restaurants?" [ref=e313] [cursor=pointer]:
+                - /url: /faq/whats-the-tipping-culture-in-london-restaurants
+            - generic [ref=e315]:
+              - paragraph [ref=e316]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e317]:
+                - strong [ref=e318]: "Getting Current Information:"
+              - list [ref=e319]:
+                - listitem [ref=e320]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e321]: Call dir...
+          - link "Read More" [ref=e322] [cursor=pointer]:
+            - /url: /faq/whats-the-tipping-culture-in-london-restaurants
+        - generic [ref=e324]:
+          - generic [ref=e325]:
+            - heading "What constitutes a 'hidden gem' restaurant?" [level=3] [ref=e326]:
+              - link "What constitutes a 'hidden gem' restaurant?" [ref=e327] [cursor=pointer]:
+                - /url: /faq/what-constitutes-a-hidden-gem-restaurant
+            - generic [ref=e329]:
+              - paragraph [ref=e330]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e331]:
+                - strong [ref=e332]: "Getting Current Information:"
+              - list [ref=e333]:
+                - listitem [ref=e334]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e335]: Call dir...
+          - link "Read More" [ref=e336] [cursor=pointer]:
+            - /url: /faq/what-constitutes-a-hidden-gem-restaurant
+        - generic [ref=e338]:
+          - generic [ref=e339]:
+            - heading "Do London restaurants offer gluten-free options?" [level=3] [ref=e340]:
+              - link "Do London restaurants offer gluten-free options?" [ref=e341] [cursor=pointer]:
+                - /url: /faq/do-london-restaurants-offer-gluten-free-options
+            - generic [ref=e343]:
+              - paragraph [ref=e344]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e345]:
+                - strong [ref=e346]: "Getting Current Information:"
+              - list [ref=e347]:
+                - listitem [ref=e348]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e349]: Call dir...
+          - link "Read More" [ref=e350] [cursor=pointer]:
+            - /url: /faq/do-london-restaurants-offer-gluten-free-options
+        - generic [ref=e352]:
+          - generic [ref=e353]:
+            - heading "Are there late-night dining options in London?" [level=3] [ref=e354]:
+              - link "Are there late-night dining options in London?" [ref=e355] [cursor=pointer]:
+                - /url: /faq/are-there-late-night-dining-options-in-london
+            - generic [ref=e357]:
+              - paragraph [ref=e358]: "Restaurant opening hours in London vary by establishment type and location:"
+              - paragraph [ref=e359]:
+                - strong [ref=e360]: "Typical Hours:"
+              - list [ref=e361]:
+                - listitem [ref=e362]:
+                  - strong [ref=e363]: Lunch
+                  - text: ": 12:00 PM - 3:00 PM (some restaurants close between lunch and dinner)"
+                - listitem [ref=e364]:
+                  - strong [ref=e365]: Dinner
+                  - text: ": 6:00 PM ..."
+          - link "Read More" [ref=e366] [cursor=pointer]:
+            - /url: /faq/are-there-late-night-dining-options-in-london
+        - generic [ref=e368]:
+          - generic [ref=e369]:
+            - heading "Can I find budget-friendly restaurants in expensive areas like Mayfair?" [level=3] [ref=e370]:
+              - link "Can I find budget-friendly restaurants in expensive areas like Mayfair?" [ref=e371] [cursor=pointer]:
+                - /url: /faq/can-i-find-budget-friendly-restaurants-in-expensive-areas-like-mayfair
+            - generic [ref=e373]:
+              - paragraph [ref=e374]: "London restaurant prices vary significantly depending on location, cuisine type, and dining style:"
+              - paragraph [ref=e375]:
+                - strong [ref=e376]: "Price Ranges:"
+              - list [ref=e377]:
+                - listitem [ref=e378]:
+                  - strong [ref=e379]: Budget-friendly
+                  - text: ": £10-20 per person for casual dining, street food, and local..."
+            - link "mayfair" [ref=e381] [cursor=pointer]:
+              - /url: /areas/mayfair
+          - link "Read More" [ref=e382] [cursor=pointer]:
+            - /url: /faq/can-i-find-budget-friendly-restaurants-in-expensive-areas-like-mayfair
+        - generic [ref=e384]:
+          - generic [ref=e385]:
+            - heading "Are there restaurants with outdoor seating in London?" [level=3] [ref=e386]:
+              - link "Are there restaurants with outdoor seating in London?" [ref=e387] [cursor=pointer]:
+                - /url: /faq/are-there-restaurants-with-outdoor-seating-in-london
+            - generic [ref=e389]:
+              - paragraph [ref=e390]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e391]:
+                - strong [ref=e392]: "Getting Current Information:"
+              - list [ref=e393]:
+                - listitem [ref=e394]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e395]: Call dir...
+          - link "Read More" [ref=e396] [cursor=pointer]:
+            - /url: /faq/are-there-restaurants-with-outdoor-seating-in-london
+        - generic [ref=e398]:
+          - generic [ref=e399]:
+            - heading "What are the opening hours for restaurants in London?" [level=3] [ref=e400]:
+              - link "What are the opening hours for restaurants in London?" [ref=e401] [cursor=pointer]:
+                - /url: /faq/what-are-the-opening-hours-for-restaurants-in-london
+            - generic [ref=e403]:
+              - paragraph [ref=e404]: "Restaurant opening hours in London vary by establishment type and location:"
+              - paragraph [ref=e405]:
+                - strong [ref=e406]: "Typical Hours:"
+              - list [ref=e407]:
+                - listitem [ref=e408]:
+                  - strong [ref=e409]: Lunch
+                  - text: ": 12:00 PM - 3:00 PM (some restaurants close between lunch and dinner)"
+                - listitem [ref=e410]:
+                  - strong [ref=e411]: Dinner
+                  - text: ": 6:00 PM ..."
+          - link "Read More" [ref=e412] [cursor=pointer]:
+            - /url: /faq/what-are-the-opening-hours-for-restaurants-in-london
+        - generic [ref=e414]:
+          - generic [ref=e415]:
+            - heading "What makes a restaurant 'verified' on your platform?" [level=3] [ref=e416]:
+              - link "What makes a restaurant 'verified' on your platform?" [ref=e417] [cursor=pointer]:
+                - /url: /faq/what-makes-a-restaurant-verified-on-your-platform
+            - generic [ref=e419]:
+              - paragraph [ref=e420]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e421]:
+                - strong [ref=e422]: "Getting Current Information:"
+              - list [ref=e423]:
+                - listitem [ref=e424]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e425]: Call dir...
+          - link "Read More" [ref=e426] [cursor=pointer]:
+            - /url: /faq/what-makes-a-restaurant-verified-on-your-platform
+        - generic [ref=e428]:
+          - generic [ref=e429]:
+            - heading "How accurate is the restaurant data on The Best in London?" [level=3] [ref=e430]:
+              - link "How accurate is the restaurant data on The Best in London?" [ref=e431] [cursor=pointer]:
+                - /url: /faq/how-accurate-is-the-restaurant-data-on-the-best-in-london
+            - generic [ref=e433]:
+              - paragraph [ref=e434]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e435]:
+                - strong [ref=e436]: "Getting Current Information:"
+              - list [ref=e437]:
+                - listitem [ref=e438]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e439]: Call dir...
+          - link "Read More" [ref=e440] [cursor=pointer]:
+            - /url: /faq/how-accurate-is-the-restaurant-data-on-the-best-in-london
+        - generic [ref=e442]:
+          - generic [ref=e443]:
+            - heading "What does the FSA hygiene rating mean?" [level=3] [ref=e444]:
+              - link "What does the FSA hygiene rating mean?" [ref=e445] [cursor=pointer]:
+                - /url: /faq/what-does-the-fsa-hygiene-rating-mean
+            - generic [ref=e447]:
+              - paragraph [ref=e448]: "Great question! For the most accurate and up-to-date information, we recommend:"
+              - paragraph [ref=e449]:
+                - strong [ref=e450]: "Getting Current Information:"
+              - list [ref=e451]:
+                - listitem [ref=e452]: Check the individual restaurant's official website for the latest details
+                - listitem [ref=e453]: Call dir...
+          - link "Read More" [ref=e454] [cursor=pointer]:
+            - /url: /faq/what-does-the-fsa-hygiene-rating-mean
+    - contentinfo [ref=e455]:
+      - generic [ref=e456]:
+        - generic [ref=e457]:
+          - generic [ref=e458]:
+            - heading "The Best in London" [level=3] [ref=e459]
+            - paragraph [ref=e460]: Discover London's finest dining experiences, from Michelin-starred restaurants to hidden gems.
+          - generic [ref=e461]:
+            - heading "Quick Links" [level=4] [ref=e462]
+            - list [ref=e463]:
+              - listitem [ref=e464]:
+                - link "Restaurants" [ref=e465] [cursor=pointer]:
+                  - /url: /restaurants
+              - listitem [ref=e466]:
+                - link "Cafés" [ref=e467] [cursor=pointer]:
+                  - /url: /cafes
+              - listitem [ref=e468]:
+                - link "Bars" [ref=e469] [cursor=pointer]:
+                  - /url: /bars
+          - generic [ref=e470]:
+            - heading "Contact" [level=4] [ref=e471]
+            - paragraph [ref=e472]:
+              - text: London, United Kingdom
+              - text: hello@thebestinlondon.com
+        - paragraph [ref=e474]: © 2024 The Best in London. All rights reserved.
+  - alert [ref=e475]
+```

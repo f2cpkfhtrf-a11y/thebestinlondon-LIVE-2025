@@ -1,0 +1,381 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - link "The Best in London The Best in London Premium Dining Guide" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "The Best in London" [ref=e9]
+          - generic [ref=e10]:
+            - heading "The Best in London" [level=1] [ref=e11]
+            - paragraph [ref=e12]: Premium Dining Guide
+        - navigation [ref=e13]:
+          - link "Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+          - link "Restaurants" [ref=e15] [cursor=pointer]:
+            - /url: /restaurants
+          - link "Areas" [ref=e16] [cursor=pointer]:
+            - /url: /areas
+          - link "Cuisines" [ref=e17] [cursor=pointer]:
+            - /url: /cuisines
+          - link "Halal" [ref=e18] [cursor=pointer]:
+            - /url: /best-halal-restaurants-london
+          - link "Near Me" [ref=e19] [cursor=pointer]:
+            - /url: /near-me
+          - link "Blog" [ref=e20] [cursor=pointer]:
+            - /url: /blog
+          - link "FAQ" [ref=e21] [cursor=pointer]:
+            - /url: /faq
+          - link "About" [ref=e22] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e23] [cursor=pointer]:
+            - /url: /contact
+          - generic [ref=e25]:
+            - textbox "Search restaurants..." [ref=e26]
+            - button [ref=e27] [cursor=pointer]:
+              - img [ref=e28]
+          - link "Browse All" [ref=e30] [cursor=pointer]:
+            - /url: /search
+    - main [ref=e31]:
+      - generic [ref=e32]:
+        - navigation [ref=e34]:
+          - generic [ref=e36]:
+            - link "🏠 Home" [ref=e37] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e38]: 🏠
+              - generic [ref=e39]: Home
+            - link "🍴 Restaurants" [ref=e40] [cursor=pointer]:
+              - /url: /restaurants
+              - generic [ref=e41]: 🍴
+              - generic [ref=e42]: Restaurants
+            - link "🥘 Cuisines" [ref=e43] [cursor=pointer]:
+              - /url: /cuisines
+              - generic [ref=e44]: 🥘
+              - generic [ref=e45]: Cuisines
+            - link "📍 Areas" [ref=e46] [cursor=pointer]:
+              - /url: /areas
+              - generic [ref=e47]: 📍
+              - generic [ref=e48]: Areas
+            - link "🕌 Halal" [ref=e49] [cursor=pointer]:
+              - /url: /best-halal-restaurants-london
+              - generic [ref=e50]: 🕌
+              - generic [ref=e51]: Halal
+            - link "📍 Near Me" [ref=e52] [cursor=pointer]:
+              - /url: /near-me
+              - generic [ref=e53]: 📍
+              - generic [ref=e54]: Near Me
+            - link "📝 Blog" [ref=e55] [cursor=pointer]:
+              - /url: /blog
+              - generic [ref=e56]: 📝
+              - generic [ref=e57]: Blog
+            - link "ℹ️ About" [ref=e58] [cursor=pointer]:
+              - /url: /about
+              - generic [ref=e59]: ℹ️
+              - generic [ref=e60]: About
+            - link "📞 Contact" [ref=e61] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e62]: 📞
+              - generic [ref=e63]: Contact
+        - generic [ref=e64]:
+          - generic [ref=e66]:
+            - img "Hero image for The Best in London" [ref=e67]
+            - generic [ref=e70]:
+              - heading "Explore Areas" [level=1] [ref=e71]
+              - paragraph [ref=e72]: From the bustling streets of Soho to the trendy vibes of Shoreditch, explore London's diverse areas and their culinary treasures.
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - generic [ref=e75]: "29"
+                  - generic [ref=e76]: Areas
+                - generic [ref=e77]:
+                  - generic [ref=e78]: "593"
+                  - generic [ref=e79]: Restaurants
+                - generic [ref=e80]:
+                  - generic [ref=e81]: 50+
+                  - generic [ref=e82]: Boroughs
+                - generic [ref=e83]:
+                  - generic [ref=e84]: 100%
+                  - generic [ref=e85]: Coverage
+          - textbox "Search areas..." [ref=e89]
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - heading "All Areas (29)" [level=2] [ref=e93]
+              - paragraph [ref=e94]: Browse restaurants by area across London
+            - generic [ref=e95]:
+              - link "Popular restaurants in Central London Central London 372 restaurants" [ref=e96] [cursor=pointer]:
+                - /url: /areas/central-london
+                - generic [ref=e97]:
+                  - img "Popular restaurants in Central London" [ref=e98]
+                  - generic [ref=e100]:
+                    - heading "Central London" [level=3] [ref=e101]
+                    - generic [ref=e103]: 372 restaurants
+              - link "Popular restaurants in Tower Hamlets Tower Hamlets 66 restaurants" [ref=e105] [cursor=pointer]:
+                - /url: /areas/tower-hamlets
+                - generic [ref=e106]:
+                  - img "Popular restaurants in Tower Hamlets" [ref=e107]
+                  - generic [ref=e109]:
+                    - heading "Tower Hamlets" [level=3] [ref=e110]
+                    - generic [ref=e112]: 66 restaurants
+              - link "Popular restaurants in Redbridge Redbridge 40 restaurants" [ref=e114] [cursor=pointer]:
+                - /url: /areas/redbridge
+                - generic [ref=e115]:
+                  - img "Popular restaurants in Redbridge" [ref=e116]
+                  - generic [ref=e118]:
+                    - heading "Redbridge" [level=3] [ref=e119]
+                    - generic [ref=e121]: 40 restaurants
+              - link "Popular restaurants in Havering Havering 32 restaurants" [ref=e123] [cursor=pointer]:
+                - /url: /areas/havering
+                - generic [ref=e124]:
+                  - img "Popular restaurants in Havering" [ref=e125]
+                  - generic [ref=e127]:
+                    - heading "Havering" [level=3] [ref=e128]
+                    - generic [ref=e130]: 32 restaurants
+              - link "Popular restaurants in Slough Slough 18 restaurants" [ref=e132] [cursor=pointer]:
+                - /url: /areas/slough
+                - generic [ref=e133]:
+                  - img "Popular restaurants in Slough" [ref=e134]
+                  - generic [ref=e136]:
+                    - heading "Slough" [level=3] [ref=e137]
+                    - generic [ref=e139]: 18 restaurants
+              - link "Popular restaurants in Southall Southall 12 restaurants" [ref=e141] [cursor=pointer]:
+                - /url: /areas/southall
+                - generic [ref=e142]:
+                  - img "Popular restaurants in Southall" [ref=e143]
+                  - generic [ref=e145]:
+                    - heading "Southall" [level=3] [ref=e146]
+                    - generic [ref=e148]: 12 restaurants
+              - link "Popular restaurants in Newham Newham 11 restaurants" [ref=e150] [cursor=pointer]:
+                - /url: /areas/newham
+                - generic [ref=e151]:
+                  - img "Popular restaurants in Newham" [ref=e152]
+                  - generic [ref=e154]:
+                    - heading "Newham" [level=3] [ref=e155]
+                    - generic [ref=e157]: 11 restaurants
+              - link "Popular restaurants in Hackney Hackney 7 restaurants" [ref=e159] [cursor=pointer]:
+                - /url: /areas/hackney
+                - generic [ref=e160]:
+                  - img "Popular restaurants in Hackney" [ref=e161]
+                  - generic [ref=e163]:
+                    - heading "Hackney" [level=3] [ref=e164]
+                    - generic [ref=e166]: 7 restaurants
+              - link "Popular restaurants in Camden Camden 4 restaurants" [ref=e168] [cursor=pointer]:
+                - /url: /areas/camden
+                - generic [ref=e169]:
+                  - img "Popular restaurants in Camden" [ref=e170]
+                  - generic [ref=e172]:
+                    - heading "Camden" [level=3] [ref=e173]
+                    - generic [ref=e175]: 4 restaurants
+              - link "Popular restaurants in Whitechapel Whitechapel 4 restaurants" [ref=e177] [cursor=pointer]:
+                - /url: /areas/whitechapel
+                - generic [ref=e178]:
+                  - img "Popular restaurants in Whitechapel" [ref=e179]
+                  - generic [ref=e181]:
+                    - heading "Whitechapel" [level=3] [ref=e182]
+                    - generic [ref=e184]: 4 restaurants
+              - link "Popular restaurants in Ilford Ilford 3 restaurants" [ref=e186] [cursor=pointer]:
+                - /url: /areas/ilford
+                - generic [ref=e187]:
+                  - img "Popular restaurants in Ilford" [ref=e188]
+                  - generic [ref=e190]:
+                    - heading "Ilford" [level=3] [ref=e191]
+                    - generic [ref=e193]: 3 restaurants
+              - link "Popular restaurants in Shoreditch Shoreditch 3 restaurants" [ref=e195] [cursor=pointer]:
+                - /url: /areas/shoreditch
+                - generic [ref=e196]:
+                  - img "Popular restaurants in Shoreditch" [ref=e197]
+                  - generic [ref=e199]:
+                    - heading "Shoreditch" [level=3] [ref=e200]
+                    - generic [ref=e202]: 3 restaurants
+              - link "Popular restaurants in Marylebone Marylebone 3 restaurants" [ref=e204] [cursor=pointer]:
+                - /url: /areas/marylebone
+                - generic [ref=e205]:
+                  - img "Popular restaurants in Marylebone" [ref=e206]
+                  - generic [ref=e208]:
+                    - heading "Marylebone" [level=3] [ref=e209]
+                    - generic [ref=e211]: 3 restaurants
+              - link "Popular restaurants in Fitzrovia Fitzrovia 2 restaurants" [ref=e213] [cursor=pointer]:
+                - /url: /areas/fitzrovia
+                - generic [ref=e214]:
+                  - img "Popular restaurants in Fitzrovia" [ref=e215]
+                  - generic [ref=e217]:
+                    - heading "Fitzrovia" [level=3] [ref=e218]
+                    - generic [ref=e220]: 2 restaurants
+              - link "Popular restaurants in Spitalfields Spitalfields 2 restaurants" [ref=e222] [cursor=pointer]:
+                - /url: /areas/spitalfields
+                - generic [ref=e223]:
+                  - img "Popular restaurants in Spitalfields" [ref=e224]
+                  - generic [ref=e226]:
+                    - heading "Spitalfields" [level=3] [ref=e227]
+                    - generic [ref=e229]: 2 restaurants
+              - link "Popular restaurants in Southwark Southwark 1 restaurants" [ref=e231] [cursor=pointer]:
+                - /url: /areas/southwark
+                - generic [ref=e232]:
+                  - img "Popular restaurants in Southwark" [ref=e233]
+                  - generic [ref=e235]:
+                    - heading "Southwark" [level=3] [ref=e236]
+                    - generic [ref=e238]: 1 restaurants
+              - link "Popular restaurants in Westminster Westminster 1 restaurants" [ref=e240] [cursor=pointer]:
+                - /url: /areas/westminster
+                - generic [ref=e241]:
+                  - img "Popular restaurants in Westminster" [ref=e242]
+                  - generic [ref=e244]:
+                    - heading "Westminster" [level=3] [ref=e245]
+                    - generic [ref=e247]: 1 restaurants
+              - link "Popular restaurants in Kensington And Chelsea Kensington And Chelsea 1 restaurants" [ref=e249] [cursor=pointer]:
+                - /url: /areas/kensington-and-chelsea
+                - generic [ref=e250]:
+                  - img "Popular restaurants in Kensington And Chelsea" [ref=e251]
+                  - generic [ref=e253]:
+                    - heading "Kensington And Chelsea" [level=3] [ref=e254]
+                    - generic [ref=e256]: 1 restaurants
+              - link "Popular restaurants in Hammersmith Hammersmith 1 restaurants" [ref=e258] [cursor=pointer]:
+                - /url: /areas/hammersmith
+                - generic [ref=e259]:
+                  - img "Popular restaurants in Hammersmith" [ref=e260]
+                  - generic [ref=e262]:
+                    - heading "Hammersmith" [level=3] [ref=e263]
+                    - generic [ref=e265]: 1 restaurants
+              - link "Popular restaurants in Notting Hill Notting Hill 1 restaurants" [ref=e267] [cursor=pointer]:
+                - /url: /areas/notting-hill
+                - generic [ref=e268]:
+                  - img "Popular restaurants in Notting Hill" [ref=e269]
+                  - generic [ref=e271]:
+                    - heading "Notting Hill" [level=3] [ref=e272]
+                    - generic [ref=e274]: 1 restaurants
+              - link "Popular restaurants in Tower Hill Tower Hill 1 restaurants" [ref=e276] [cursor=pointer]:
+                - /url: /areas/tower-hill
+                - generic [ref=e277]:
+                  - img "Popular restaurants in Tower Hill" [ref=e278]
+                  - generic [ref=e280]:
+                    - heading "Tower Hill" [level=3] [ref=e281]
+                    - generic [ref=e283]: 1 restaurants
+              - link "Popular restaurants in Hyde Park Corner Hyde Park Corner 1 restaurants" [ref=e285] [cursor=pointer]:
+                - /url: /areas/hyde-park-corner
+                - generic [ref=e286]:
+                  - img "Popular restaurants in Hyde Park Corner" [ref=e287]
+                  - generic [ref=e289]:
+                    - heading "Hyde Park Corner" [level=3] [ref=e290]
+                    - generic [ref=e292]: 1 restaurants
+              - link "Popular restaurants in King's Cross King's Cross 1 restaurants" [ref=e294] [cursor=pointer]:
+                - /url: /areas/king's-cross
+                - generic [ref=e295]:
+                  - img "Popular restaurants in King's Cross" [ref=e296]
+                  - generic [ref=e298]:
+                    - heading "King's Cross" [level=3] [ref=e299]
+                    - generic [ref=e301]: 1 restaurants
+              - link "Popular restaurants in Chinatown Chinatown 1 restaurants" [ref=e303] [cursor=pointer]:
+                - /url: /areas/chinatown
+                - generic [ref=e304]:
+                  - img "Popular restaurants in Chinatown" [ref=e305]
+                  - generic [ref=e307]:
+                    - heading "Chinatown" [level=3] [ref=e308]
+                    - generic [ref=e310]: 1 restaurants
+              - link "Popular restaurants in City Of London City Of London 1 restaurants" [ref=e312] [cursor=pointer]:
+                - /url: /areas/city-of-london
+                - generic [ref=e313]:
+                  - img "Popular restaurants in City Of London" [ref=e314]
+                  - generic [ref=e316]:
+                    - heading "City Of London" [level=3] [ref=e317]
+                    - generic [ref=e319]: 1 restaurants
+              - link "Popular restaurants in Camberwell Camberwell 1 restaurants" [ref=e321] [cursor=pointer]:
+                - /url: /areas/camberwell
+                - generic [ref=e322]:
+                  - img "Popular restaurants in Camberwell" [ref=e323]
+                  - generic [ref=e325]:
+                    - heading "Camberwell" [level=3] [ref=e326]
+                    - generic [ref=e328]: 1 restaurants
+              - link "Popular restaurants in Upton Park Upton Park 1 restaurants" [ref=e330] [cursor=pointer]:
+                - /url: /areas/upton-park
+                - generic [ref=e331]:
+                  - img "Popular restaurants in Upton Park" [ref=e332]
+                  - generic [ref=e334]:
+                    - heading "Upton Park" [level=3] [ref=e335]
+                    - generic [ref=e337]: 1 restaurants
+              - link "Popular restaurants in Little Venice Little Venice 1 restaurants" [ref=e339] [cursor=pointer]:
+                - /url: /areas/little-venice
+                - generic [ref=e340]:
+                  - img "Popular restaurants in Little Venice" [ref=e341]
+                  - generic [ref=e343]:
+                    - heading "Little Venice" [level=3] [ref=e344]
+                    - generic [ref=e346]: 1 restaurants
+              - link "Popular restaurants in Islington Islington 1 restaurants" [ref=e348] [cursor=pointer]:
+                - /url: /areas/islington
+                - generic [ref=e349]:
+                  - img "Popular restaurants in Islington" [ref=e350]
+                  - generic [ref=e352]:
+                    - heading "Islington" [level=3] [ref=e353]
+                    - generic [ref=e355]: 1 restaurants
+          - generic [ref=e359]:
+            - generic [ref=e360]:
+              - generic [ref=e361]: 593+
+              - generic [ref=e362]: Restaurants
+            - generic [ref=e363]:
+              - generic [ref=e364]: 29+
+              - generic [ref=e365]: Areas
+            - generic [ref=e366]:
+              - generic [ref=e367]: 50+
+              - generic [ref=e368]: Boroughs
+            - generic [ref=e369]:
+              - generic [ref=e370]: 100%
+              - generic [ref=e371]: Coverage
+    - contentinfo [ref=e372]:
+      - generic [ref=e373]:
+        - generic [ref=e374]:
+          - generic [ref=e375]:
+            - generic [ref=e377]:
+              - img "The Best in London" [ref=e378]
+              - heading "The Best in London" [level=3] [ref=e379]
+            - paragraph [ref=e380]: London's premier dining guide featuring 760+ verified restaurants across 50+ areas. From street food to fine dining, discover your next favorite meal.
+            - generic [ref=e381]:
+              - link "Twitter" [ref=e382] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e383]: Twitter
+                - img [ref=e384]
+              - link "Instagram" [ref=e386] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e387]: Instagram
+                - img [ref=e388]
+          - generic [ref=e390]:
+            - heading "Quick Links" [level=4] [ref=e391]
+            - list [ref=e392]:
+              - listitem [ref=e393]:
+                - link "All Restaurants" [ref=e394] [cursor=pointer]:
+                  - /url: /restaurants
+              - listitem [ref=e395]:
+                - link "Halal Restaurants" [ref=e396] [cursor=pointer]:
+                  - /url: /best-halal-restaurants-london
+              - listitem [ref=e397]:
+                - link "Vegan Options" [ref=e398] [cursor=pointer]:
+                  - /url: /vegan-restaurants-london
+              - listitem [ref=e399]:
+                - link "Blog" [ref=e400] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e401]:
+                - link "FAQ" [ref=e402] [cursor=pointer]:
+                  - /url: /faq
+          - generic [ref=e403]:
+            - heading "Legal" [level=4] [ref=e404]
+            - list [ref=e405]:
+              - listitem [ref=e406]:
+                - link "Privacy Policy" [ref=e407] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e408]:
+                - link "Terms of Service" [ref=e409] [cursor=pointer]:
+                  - /url: /terms
+              - listitem [ref=e410]:
+                - link "Cookie Policy" [ref=e411] [cursor=pointer]:
+                  - /url: /cookies
+              - listitem [ref=e412]:
+                - link "About Us" [ref=e413] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e414]:
+                - link "Contact" [ref=e415] [cursor=pointer]:
+                  - /url: /terms
+        - generic [ref=e417]:
+          - paragraph [ref=e418]: © 2025 The Best in London. All rights reserved.
+          - generic [ref=e419]:
+            - generic [ref=e420]: Powered by
+            - generic [ref=e423]: Premium Data
+  - alert [ref=e424]
+```

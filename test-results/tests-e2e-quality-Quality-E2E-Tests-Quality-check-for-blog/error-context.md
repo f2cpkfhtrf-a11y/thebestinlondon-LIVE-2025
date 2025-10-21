@@ -1,0 +1,509 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - link "The Best in London" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - heading "The Best in London" [level=1] [ref=e9]
+        - navigation [ref=e10]:
+          - link "Home" [ref=e11] [cursor=pointer]:
+            - /url: /
+          - link "Restaurants" [ref=e12] [cursor=pointer]:
+            - /url: /restaurants
+          - link "Cafés" [ref=e13] [cursor=pointer]:
+            - /url: /cafes
+          - link "Bars" [ref=e14] [cursor=pointer]:
+            - /url: /bars
+    - main [ref=e15]:
+      - generic [ref=e16]:
+        - img "Hero image for The Best in London" [ref=e17]
+        - generic [ref=e20]:
+          - heading "Restaurant Blog" [level=1] [ref=e21]
+          - paragraph [ref=e22]: Discover London's culinary stories and dining insights
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - textbox "Search blog posts..." [ref=e27]
+          - combobox [ref=e28]:
+            - option "All Tags" [selected]
+            - option "late-night"
+            - option "dining"
+            - option "london"
+            - option "24-hour"
+            - option "coffee"
+            - option "liverpool-street"
+            - option "city"
+            - option "specialty"
+            - option "michelin"
+            - option "fine-dining"
+            - option "restaurants"
+            - option "family-friendly"
+            - option "central-london"
+            - option "kids-menu"
+            - option "kebab"
+            - option "shoreditch"
+            - option "street-food"
+            - option "modern-european"
+            - option "halal"
+            - option "authentic"
+            - option "brunch"
+            - option "soho"
+            - option "weekend"
+            - option "winter"
+            - option "curry"
+            - option "comfort-food"
+            - option "spicy"
+            - option "ramen"
+            - option "japanese"
+            - option "noodles"
+            - option "vegan"
+            - option "date-night"
+            - option "romantic"
+            - option "plant-based"
+            - option "tower-hamlets"
+            - option "indian"
+            - option "redbridge"
+            - option "family-dining"
+            - option "pizza"
+            - option "east-london"
+            - option "italian"
+            - option "wood-fired"
+            - option "steak"
+            - option "affordable"
+            - option "value"
+            - option "beef"
+            - option "borough-market"
+            - option "market"
+            - option "southwark"
+            - option "seafood"
+            - option "river"
+            - option "thames"
+            - option "views"
+            - option "westminster"
+            - option "british"
+            - option "kensington-and-chelsea"
+            - option "hidden-gems"
+            - option "local"
+            - option "budget"
+        - paragraph [ref=e29]: Showing 28 of 28 posts
+      - generic [ref=e31]:
+        - article [ref=e32]:
+          - 'link "Late Night Eats in London: Where to Dine After Dark late-night dining london Late Night Eats in London: Where to Dine After Dark Discover London''s best late-night dining spots, from 24-hour curry houses to midnight ramen bars keeping the city fed around the clock. 10/19/2025 By Ava Beckett" [ref=e33] [cursor=pointer]':
+            - /url: /blog/late-night-meals-london
+            - 'img "Late Night Eats in London: Where to Dine After Dark" [ref=e35]'
+            - generic [ref=e36]:
+              - generic [ref=e37]:
+                - generic [ref=e38]: late-night
+                - generic [ref=e39]: dining
+                - generic [ref=e40]: london
+              - 'heading "Late Night Eats in London: Where to Dine After Dark" [level=2] [ref=e41]'
+              - paragraph [ref=e42]: Discover London's best late-night dining spots, from 24-hour curry houses to midnight ramen bars keeping the city fed around the clock.
+              - generic [ref=e43]:
+                - generic [ref=e44]: 10/19/2025
+                - generic [ref=e45]: By Ava Beckett
+        - article [ref=e46]:
+          - 'link "Best Coffee Near Liverpool Street: Artisanal Roasts in the City coffee liverpool-street city Best Coffee Near Liverpool Street: Artisanal Roasts in the City Fuel your City break with the best coffee shops around Liverpool Street, from third-wave roasters to traditional Italian espresso bars. 10/16/2025 By Ava Beckett" [ref=e47] [cursor=pointer]':
+            - /url: /blog/coffee-near-liverpool-street
+            - 'img "Best Coffee Near Liverpool Street: Artisanal Roasts in the City" [ref=e49]'
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - generic [ref=e52]: coffee
+                - generic [ref=e53]: liverpool-street
+                - generic [ref=e54]: city
+              - 'heading "Best Coffee Near Liverpool Street: Artisanal Roasts in the City" [level=2] [ref=e55]'
+              - paragraph [ref=e56]: Fuel your City break with the best coffee shops around Liverpool Street, from third-wave roasters to traditional Italian espresso bars.
+              - generic [ref=e57]:
+                - generic [ref=e58]: 10/16/2025
+                - generic [ref=e59]: By Ava Beckett
+        - article [ref=e60]:
+          - 'link "London''s Michelin-Starred Restaurants: The Complete Guide for 2025 michelin fine-dining london London''s Michelin-Starred Restaurants: The Complete Guide for 2025 Discover London''s culinary crown jewels with our comprehensive guide to Michelin-starred dining, from fresh additions to established legends. 10/11/2025 By Ava Beckett" [ref=e61] [cursor=pointer]':
+            - /url: /blog/michelin-london-shortlist
+            - 'img "London''s Michelin-Starred Restaurants: The Complete Guide for 2025" [ref=e63]'
+            - generic [ref=e64]:
+              - generic [ref=e65]:
+                - generic [ref=e66]: michelin
+                - generic [ref=e67]: fine-dining
+                - generic [ref=e68]: london
+              - 'heading "London''s Michelin-Starred Restaurants: The Complete Guide for 2025" [level=2] [ref=e69]'
+              - paragraph [ref=e70]: Discover London's culinary crown jewels with our comprehensive guide to Michelin-starred dining, from fresh additions to established legends.
+              - generic [ref=e71]:
+                - generic [ref=e72]: 10/11/2025
+                - generic [ref=e73]: By Ava Beckett
+        - article [ref=e74]:
+          - 'link "Family-Friendly Restaurants in Central London: Where Kids and Adults Both Win family-friendly central-london kids-menu Family-Friendly Restaurants in Central London: Where Kids and Adults Both Win Discover Central London''s best family dining spots where children''s menus meet gourmet cuisine, ensuring memorable meals for all ages. 10/8/2025 By Ava Beckett" [ref=e75] [cursor=pointer]':
+            - /url: /blog/family-friendly-central-london
+            - 'img "Family-Friendly Restaurants in Central London: Where Kids and Adults Both Win" [ref=e77]'
+            - generic [ref=e78]:
+              - generic [ref=e79]:
+                - generic [ref=e80]: family-friendly
+                - generic [ref=e81]: central-london
+                - generic [ref=e82]: kids-menu
+              - 'heading "Family-Friendly Restaurants in Central London: Where Kids and Adults Both Win" [level=2] [ref=e83]'
+              - paragraph [ref=e84]: Discover Central London's best family dining spots where children's menus meet gourmet cuisine, ensuring memorable meals for all ages.
+              - generic [ref=e85]:
+                - generic [ref=e86]: 10/8/2025
+                - generic [ref=e87]: By Ava Beckett
+        - article [ref=e88]:
+          - 'link "The Ultimate Kebab Guide to Shoreditch: From Late-Night Classics to Gourmet Takes kebab shoreditch street-food The Ultimate Kebab Guide to Shoreditch: From Late-Night Classics to Gourmet Takes Discover the best kebabs in Shoreditch, from traditional doner to modern fusion creations that define London''s most creative dining scene. 10/7/2025 By Ava Beckett" [ref=e89] [cursor=pointer]':
+            - /url: /blog/kebab-shoreditch-guide
+            - 'img "The Ultimate Kebab Guide to Shoreditch: From Late-Night Classics to Gourmet Takes" [ref=e91]'
+            - generic [ref=e92]:
+              - generic [ref=e93]:
+                - generic [ref=e94]: kebab
+                - generic [ref=e95]: shoreditch
+                - generic [ref=e96]: street-food
+              - 'heading "The Ultimate Kebab Guide to Shoreditch: From Late-Night Classics to Gourmet Takes" [level=2] [ref=e97]'
+              - paragraph [ref=e98]: Discover the best kebabs in Shoreditch, from traditional doner to modern fusion creations that define London's most creative dining scene.
+              - generic [ref=e99]:
+                - generic [ref=e100]: 10/7/2025
+                - generic [ref=e101]: By Ava Beckett
+        - article [ref=e102]:
+          - link "Best Modern-european Restaurants in London modern-european restaurants london Best Modern-european Restaurants in London Discover London's finest modern-european dining experiences, from hidden gems to established favorites that define the city's culinary landscape. 10/4/2025 By Eleanor Hart" [ref=e103] [cursor=pointer]:
+            - /url: /blog/best-modern-european-restaurants-in-london
+            - img "Best Modern-european Restaurants in London" [ref=e105]
+            - generic [ref=e106]:
+              - generic [ref=e107]:
+                - generic [ref=e108]: modern-european
+                - generic [ref=e109]: restaurants
+                - generic [ref=e110]: london
+              - heading "Best Modern-european Restaurants in London" [level=2] [ref=e111]
+              - paragraph [ref=e112]: Discover London's finest modern-european dining experiences, from hidden gems to established favorites that define the city's culinary landscape.
+              - generic [ref=e113]:
+                - generic [ref=e114]: 10/4/2025
+                - generic [ref=e115]: By Eleanor Hart
+        - article [ref=e116]:
+          - 'link "London''s Best Halal Street Food: From Borough Market to Canary Wharf halal street-food london London''s Best Halal Street Food: From Borough Market to Canary Wharf Explore London''s thriving halal street food scene, featuring authentic flavors, innovative fusion, and convenient locations across the capital. 10/4/2025 By Ava Beckett" [ref=e117] [cursor=pointer]':
+            - /url: /blog/halal-street-food-london
+            - 'img "London''s Best Halal Street Food: From Borough Market to Canary Wharf" [ref=e119]'
+            - generic [ref=e120]:
+              - generic [ref=e121]:
+                - generic [ref=e122]: halal
+                - generic [ref=e123]: street-food
+                - generic [ref=e124]: london
+              - 'heading "London''s Best Halal Street Food: From Borough Market to Canary Wharf" [level=2] [ref=e125]'
+              - paragraph [ref=e126]: Explore London's thriving halal street food scene, featuring authentic flavors, innovative fusion, and convenient locations across the capital.
+              - generic [ref=e127]:
+                - generic [ref=e128]: 10/4/2025
+                - generic [ref=e129]: By Ava Beckett
+        - article [ref=e130]:
+          - 'link "Soho Brunch Guide 2025: The Hottest Spots for Weekend Mornings brunch soho weekend Soho Brunch Guide 2025: The Hottest Spots for Weekend Mornings Your definitive guide to the best brunch spots in Soho, from bottomless prosecco to artisanal coffee and Instagram-worthy pancakes. 10/4/2025 By Ava Beckett" [ref=e131] [cursor=pointer]':
+            - /url: /blog/brunch-soho-2025
+            - 'img "Soho Brunch Guide 2025: The Hottest Spots for Weekend Mornings" [ref=e133]'
+            - generic [ref=e134]:
+              - generic [ref=e135]:
+                - generic [ref=e136]: brunch
+                - generic [ref=e137]: soho
+                - generic [ref=e138]: weekend
+              - 'heading "Soho Brunch Guide 2025: The Hottest Spots for Weekend Mornings" [level=2] [ref=e139]'
+              - paragraph [ref=e140]: Your definitive guide to the best brunch spots in Soho, from bottomless prosecco to artisanal coffee and Instagram-worthy pancakes.
+              - generic [ref=e141]:
+                - generic [ref=e142]: 10/4/2025
+                - generic [ref=e143]: By Ava Beckett
+        - article [ref=e144]:
+          - 'link "Winter Warmers: London''s Best Curry Houses for Cold Weather Comfort winter curry comfort-food Winter Warmers: London''s Best Curry Houses for Cold Weather Comfort Warm up this winter with London''s most comforting curry houses, featuring rich spices, hearty portions, and cozy atmospheres perfect for cold nights. 10/4/2025 By Ava Beckett" [ref=e145] [cursor=pointer]':
+            - /url: /blog/winter-warmers-curry-edit
+            - 'img "Winter Warmers: London''s Best Curry Houses for Cold Weather Comfort" [ref=e147]'
+            - generic [ref=e148]:
+              - generic [ref=e149]:
+                - generic [ref=e150]: winter
+                - generic [ref=e151]: curry
+                - generic [ref=e152]: comfort-food
+              - 'heading "Winter Warmers: London''s Best Curry Houses for Cold Weather Comfort" [level=2] [ref=e153]'
+              - paragraph [ref=e154]: Warm up this winter with London's most comforting curry houses, featuring rich spices, hearty portions, and cozy atmospheres perfect for cold nights.
+              - generic [ref=e155]:
+                - generic [ref=e156]: 10/4/2025
+                - generic [ref=e157]: By Ava Beckett
+        - article [ref=e158]:
+          - 'link "The London Ramen Hunt: Finding the Perfect Bowl in the Capital ramen japanese noodles The London Ramen Hunt: Finding the Perfect Bowl in the Capital From traditional tonkotsu to modern fusion bowls, discover London''s best ramen spots that rival anything found in Tokyo''s noodle alleys. 10/2/2025 By Ava Beckett" [ref=e159] [cursor=pointer]':
+            - /url: /blog/ramen-hunt-london
+            - 'img "The London Ramen Hunt: Finding the Perfect Bowl in the Capital" [ref=e161]'
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - generic [ref=e164]: ramen
+                - generic [ref=e165]: japanese
+                - generic [ref=e166]: noodles
+              - 'heading "The London Ramen Hunt: Finding the Perfect Bowl in the Capital" [level=2] [ref=e167]'
+              - paragraph [ref=e168]: From traditional tonkotsu to modern fusion bowls, discover London's best ramen spots that rival anything found in Tokyo's noodle alleys.
+              - generic [ref=e169]:
+                - generic [ref=e170]: 10/2/2025
+                - generic [ref=e171]: By Ava Beckett
+        - article [ref=e172]:
+          - 'link "Vegan Date Night Restaurants in London: Romantic Plant-Based Dining vegan date-night romantic Vegan Date Night Restaurants in London: Romantic Plant-Based Dining Elevate your date night with London''s finest vegan restaurants, where plant-based cuisine meets intimate atmospheres and exceptional service. 9/28/2025 By Ava Beckett" [ref=e173] [cursor=pointer]':
+            - /url: /blog/vegan-date-night
+            - 'img "Vegan Date Night Restaurants in London: Romantic Plant-Based Dining" [ref=e175]'
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - generic [ref=e178]: vegan
+                - generic [ref=e179]: date-night
+                - generic [ref=e180]: romantic
+              - 'heading "Vegan Date Night Restaurants in London: Romantic Plant-Based Dining" [level=2] [ref=e181]'
+              - paragraph [ref=e182]: Elevate your date night with London's finest vegan restaurants, where plant-based cuisine meets intimate atmospheres and exceptional service.
+              - generic [ref=e183]:
+                - generic [ref=e184]: 9/28/2025
+                - generic [ref=e185]: By Ava Beckett
+        - article [ref=e186]:
+          - link "Top Restaurants in Tower Hamlets tower-hamlets restaurants london Top Restaurants in Tower Hamlets Explore the best dining destinations in Tower Hamlets, where culinary excellence meets local character. 9/27/2025 By Eleanor Hart" [ref=e187] [cursor=pointer]:
+            - /url: /blog/top-restaurants-in-tower-hamlets
+            - img "Top Restaurants in Tower Hamlets" [ref=e189]
+            - generic [ref=e190]:
+              - generic [ref=e191]:
+                - generic [ref=e192]: tower-hamlets
+                - generic [ref=e193]: restaurants
+                - generic [ref=e194]: london
+              - heading "Top Restaurants in Tower Hamlets" [level=2] [ref=e195]
+              - paragraph [ref=e196]: Explore the best dining destinations in Tower Hamlets, where culinary excellence meets local character.
+              - generic [ref=e197]:
+                - generic [ref=e198]: 9/27/2025
+                - generic [ref=e199]: By Eleanor Hart
+        - article [ref=e200]:
+          - 'link "Best Indian Restaurants in Redbridge: Curries, Karahis & Community Favorites indian redbridge curry Best Indian Restaurants in Redbridge: Curries, Karahis & Community Favorites From family-run curry houses to contemporary Indian cuisine, discover Redbridge''s most beloved Indian restaurants serving authentic flavors and warm hospitality. 9/20/2025 By Ava Beckett" [ref=e201] [cursor=pointer]':
+            - /url: /blog/best-indian-in-redbridge
+            - 'img "Best Indian Restaurants in Redbridge: Curries, Karahis & Community Favorites" [ref=e203]'
+            - generic [ref=e204]:
+              - generic [ref=e205]:
+                - generic [ref=e206]: indian
+                - generic [ref=e207]: redbridge
+                - generic [ref=e208]: curry
+              - 'heading "Best Indian Restaurants in Redbridge: Curries, Karahis & Community Favorites" [level=2] [ref=e209]'
+              - paragraph [ref=e210]: From family-run curry houses to contemporary Indian cuisine, discover Redbridge's most beloved Indian restaurants serving authentic flavors and warm hospitality.
+              - generic [ref=e211]:
+                - generic [ref=e212]: 9/20/2025
+                - generic [ref=e213]: By Ava Beckett
+        - article [ref=e214]:
+          - 'link "Best Pizza in East London: From Traditional Neapolitan to Creative Toppings pizza east-london italian Best Pizza in East London: From Traditional Neapolitan to Creative Toppings East London''s pizza scene has never been stronger. Discover the best pizzerias from Dalston to Canary Wharf, serving everything from classic Margherita to innovative local flavors. 9/18/2025 By Ava Beckett" [ref=e215] [cursor=pointer]':
+            - /url: /blog/pizza-east-london
+            - 'img "Best Pizza in East London: From Traditional Neapolitan to Creative Toppings" [ref=e217]'
+            - generic [ref=e218]:
+              - generic [ref=e219]:
+                - generic [ref=e220]: pizza
+                - generic [ref=e221]: east-london
+                - generic [ref=e222]: italian
+              - 'heading "Best Pizza in East London: From Traditional Neapolitan to Creative Toppings" [level=2] [ref=e223]'
+              - paragraph [ref=e224]: East London's pizza scene has never been stronger. Discover the best pizzerias from Dalston to Canary Wharf, serving everything from classic Margherita to innovative local flavors.
+              - generic [ref=e225]:
+                - generic [ref=e226]: 9/18/2025
+                - generic [ref=e227]: By Ava Beckett
+        - article [ref=e228]:
+          - link "Best Japanese Restaurants in London japanese restaurants london Best Japanese Restaurants in London Discover London's finest japanese dining experiences, from hidden gems to established favorites that define the city's culinary landscape. 9/13/2025 By Eleanor Hart" [ref=e229] [cursor=pointer]:
+            - /url: /blog/best-japanese-restaurants-in-london
+            - img "Best Japanese Restaurants in London" [ref=e231]
+            - generic [ref=e232]:
+              - generic [ref=e233]:
+                - generic [ref=e234]: japanese
+                - generic [ref=e235]: restaurants
+                - generic [ref=e236]: london
+              - heading "Best Japanese Restaurants in London" [level=2] [ref=e237]
+              - paragraph [ref=e238]: Discover London's finest japanese dining experiences, from hidden gems to established favorites that define the city's culinary landscape.
+              - generic [ref=e239]:
+                - generic [ref=e240]: 9/13/2025
+                - generic [ref=e241]: By Eleanor Hart
+        - article [ref=e242]:
+          - 'link "Best Steaks in London Under £30: Quality Cuts Without Breaking the Bank steak affordable value Best Steaks in London Under £30: Quality Cuts Without Breaking the Bank Discover London''s best value steakhouses where quality meets affordability, proving that exceptional steak doesn''t always come with premium prices. 9/13/2025 By Ava Beckett" [ref=e243] [cursor=pointer]':
+            - /url: /blog/steak-london-under-30
+            - 'img "Best Steaks in London Under £30: Quality Cuts Without Breaking the Bank" [ref=e245]'
+            - generic [ref=e246]:
+              - generic [ref=e247]:
+                - generic [ref=e248]: steak
+                - generic [ref=e249]: affordable
+                - generic [ref=e250]: value
+              - 'heading "Best Steaks in London Under £30: Quality Cuts Without Breaking the Bank" [level=2] [ref=e251]'
+              - paragraph [ref=e252]: Discover London's best value steakhouses where quality meets affordability, proving that exceptional steak doesn't always come with premium prices.
+              - generic [ref=e253]:
+                - generic [ref=e254]: 9/13/2025
+                - generic [ref=e255]: By Ava Beckett
+        - article [ref=e256]:
+          - 'link "Borough Market Eats: The Ultimate Guide to London''s Iconic Food Market borough-market street-food market Borough Market Eats: The Ultimate Guide to London''s Iconic Food Market Navigate Borough Market like a local with our guide to the best stalls, restaurants, and hidden gems within London''s most famous food destination. 9/11/2025 By Ava Beckett" [ref=e257] [cursor=pointer]':
+            - /url: /blog/borough-market-eats
+            - 'img "Borough Market Eats: The Ultimate Guide to London''s Iconic Food Market" [ref=e259]'
+            - generic [ref=e260]:
+              - generic [ref=e261]:
+                - generic [ref=e262]: borough-market
+                - generic [ref=e263]: street-food
+                - generic [ref=e264]: market
+              - 'heading "Borough Market Eats: The Ultimate Guide to London''s Iconic Food Market" [level=2] [ref=e265]'
+              - paragraph [ref=e266]: Navigate Borough Market like a local with our guide to the best stalls, restaurants, and hidden gems within London's most famous food destination.
+              - generic [ref=e267]:
+                - generic [ref=e268]: 9/11/2025
+                - generic [ref=e269]: By Ava Beckett
+        - article [ref=e270]:
+          - 'link "Best Seafood Restaurants by the River: Thames Views & Fresh Catches seafood river thames Best Seafood Restaurants by the River: Thames Views & Fresh Catches Dine with a view at London''s finest seafood restaurants along the Thames, where fresh catches meet spectacular riverside locations. 9/9/2025 By Ava Beckett" [ref=e271] [cursor=pointer]':
+            - /url: /blog/seafood-by-the-river
+            - 'img "Best Seafood Restaurants by the River: Thames Views & Fresh Catches" [ref=e273]'
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - generic [ref=e276]: seafood
+                - generic [ref=e277]: river
+                - generic [ref=e278]: thames
+              - 'heading "Best Seafood Restaurants by the River: Thames Views & Fresh Catches" [level=2] [ref=e279]'
+              - paragraph [ref=e280]: Dine with a view at London's finest seafood restaurants along the Thames, where fresh catches meet spectacular riverside locations.
+              - generic [ref=e281]:
+                - generic [ref=e282]: 9/9/2025
+                - generic [ref=e283]: By Ava Beckett
+        - article [ref=e284]:
+          - link "Top Restaurants in Central London central-london restaurants london Top Restaurants in Central London Explore the best dining destinations in Central London, where culinary excellence meets local character. 9/8/2025 By Eleanor Hart" [ref=e285] [cursor=pointer]:
+            - /url: /blog/top-restaurants-in-central-london
+            - img "Top Restaurants in Central London" [ref=e287]
+            - generic [ref=e288]:
+              - generic [ref=e289]:
+                - generic [ref=e290]: central-london
+                - generic [ref=e291]: restaurants
+                - generic [ref=e292]: london
+              - heading "Top Restaurants in Central London" [level=2] [ref=e293]
+              - paragraph [ref=e294]: Explore the best dining destinations in Central London, where culinary excellence meets local character.
+              - generic [ref=e295]:
+                - generic [ref=e296]: 9/8/2025
+                - generic [ref=e297]: By Eleanor Hart
+        - article [ref=e298]:
+          - link "Top Restaurants in Westminster westminster restaurants london Top Restaurants in Westminster Explore the best dining destinations in Westminster, where culinary excellence meets local character. 9/7/2025 By Eleanor Hart" [ref=e299] [cursor=pointer]:
+            - /url: /blog/top-restaurants-in-westminster
+            - img "Top Restaurants in Westminster" [ref=e301]
+            - generic [ref=e302]:
+              - generic [ref=e303]:
+                - generic [ref=e304]: westminster
+                - generic [ref=e305]: restaurants
+                - generic [ref=e306]: london
+              - heading "Top Restaurants in Westminster" [level=2] [ref=e307]
+              - paragraph [ref=e308]: Explore the best dining destinations in Westminster, where culinary excellence meets local character.
+              - generic [ref=e309]:
+                - generic [ref=e310]: 9/7/2025
+                - generic [ref=e311]: By Eleanor Hart
+        - article [ref=e312]:
+          - link "Best British Restaurants in London british restaurants london Best British Restaurants in London Discover London's finest british dining experiences, from hidden gems to established favorites that define the city's culinary landscape. 9/6/2025 By Eleanor Hart" [ref=e313] [cursor=pointer]:
+            - /url: /blog/best-british-restaurants-in-london
+            - img "Best British Restaurants in London" [ref=e315]
+            - generic [ref=e316]:
+              - generic [ref=e317]:
+                - generic [ref=e318]: british
+                - generic [ref=e319]: restaurants
+                - generic [ref=e320]: london
+              - heading "Best British Restaurants in London" [level=2] [ref=e321]
+              - paragraph [ref=e322]: Discover London's finest british dining experiences, from hidden gems to established favorites that define the city's culinary landscape.
+              - generic [ref=e323]:
+                - generic [ref=e324]: 9/6/2025
+                - generic [ref=e325]: By Eleanor Hart
+        - article [ref=e326]:
+          - link "Top Restaurants in Kensington and Chelsea kensington-and-chelsea restaurants london Top Restaurants in Kensington and Chelsea Explore the best dining destinations in Kensington and Chelsea, where culinary excellence meets local character. 9/3/2025 By Eleanor Hart" [ref=e327] [cursor=pointer]:
+            - /url: /blog/top-restaurants-in-kensington-and-chelsea
+            - img "Top Restaurants in Kensington and Chelsea" [ref=e329]
+            - generic [ref=e330]:
+              - generic [ref=e331]:
+                - generic [ref=e332]: kensington-and-chelsea
+                - generic [ref=e333]: restaurants
+                - generic [ref=e334]: london
+              - heading "Top Restaurants in Kensington and Chelsea" [level=2] [ref=e335]
+              - paragraph [ref=e336]: Explore the best dining destinations in Kensington and Chelsea, where culinary excellence meets local character.
+              - generic [ref=e337]:
+                - generic [ref=e338]: 9/3/2025
+                - generic [ref=e339]: By Eleanor Hart
+        - article [ref=e340]:
+          - link "Hidden Gem Restaurants in London hidden-gems local restaurants Hidden Gem Restaurants in London Discover London's best-kept culinary secrets, from family-run establishments to chef-driven hidden treasures. 8/30/2025 By Eleanor Hart" [ref=e341] [cursor=pointer]:
+            - /url: /blog/hidden-gem-restaurants-in-london
+            - img "Hidden Gem Restaurants in London" [ref=e343]
+            - generic [ref=e344]:
+              - generic [ref=e345]:
+                - generic [ref=e346]: hidden-gems
+                - generic [ref=e347]: local
+                - generic [ref=e348]: restaurants
+              - heading "Hidden Gem Restaurants in London" [level=2] [ref=e349]
+              - paragraph [ref=e350]: Discover London's best-kept culinary secrets, from family-run establishments to chef-driven hidden treasures.
+              - generic [ref=e351]:
+                - generic [ref=e352]: 8/30/2025
+                - generic [ref=e353]: By Eleanor Hart
+        - article [ref=e354]:
+          - link "Romantic Date Night Restaurants in London date-night romantic restaurants Romantic Date Night Restaurants in London Perfect spots for intimate dining experiences across London, from cozy neighborhood gems to elegant fine dining establishments. 8/29/2025 By Eleanor Hart" [ref=e355] [cursor=pointer]:
+            - /url: /blog/romantic-date-night-restaurants-in-london
+            - img "Romantic Date Night Restaurants in London" [ref=e357]
+            - generic [ref=e358]:
+              - generic [ref=e359]:
+                - generic [ref=e360]: date-night
+                - generic [ref=e361]: romantic
+                - generic [ref=e362]: restaurants
+              - heading "Romantic Date Night Restaurants in London" [level=2] [ref=e363]
+              - paragraph [ref=e364]: Perfect spots for intimate dining experiences across London, from cozy neighborhood gems to elegant fine dining establishments.
+              - generic [ref=e365]:
+                - generic [ref=e366]: 8/29/2025
+                - generic [ref=e367]: By Eleanor Hart
+        - article [ref=e368]:
+          - link "Best Italian Restaurants in London italian restaurants london Best Italian Restaurants in London Discover London's finest italian dining experiences, from hidden gems to established favorites that define the city's culinary landscape. 8/14/2025 By Eleanor Hart" [ref=e369] [cursor=pointer]:
+            - /url: /blog/best-italian-restaurants-in-london
+            - img "Best Italian Restaurants in London" [ref=e371]
+            - generic [ref=e372]:
+              - generic [ref=e373]:
+                - generic [ref=e374]: italian
+                - generic [ref=e375]: restaurants
+                - generic [ref=e376]: london
+              - heading "Best Italian Restaurants in London" [level=2] [ref=e377]
+              - paragraph [ref=e378]: Discover London's finest italian dining experiences, from hidden gems to established favorites that define the city's culinary landscape.
+              - generic [ref=e379]:
+                - generic [ref=e380]: 8/14/2025
+                - generic [ref=e381]: By Eleanor Hart
+        - article [ref=e382]:
+          - link "Top Restaurants in Southwark southwark restaurants london Top Restaurants in Southwark Explore the best dining destinations in Southwark, where culinary excellence meets local character. 8/12/2025 By Eleanor Hart" [ref=e383] [cursor=pointer]:
+            - /url: /blog/top-restaurants-in-southwark
+            - img "Top Restaurants in Southwark" [ref=e385]
+            - generic [ref=e386]:
+              - generic [ref=e387]:
+                - generic [ref=e388]: southwark
+                - generic [ref=e389]: restaurants
+                - generic [ref=e390]: london
+              - heading "Top Restaurants in Southwark" [level=2] [ref=e391]
+              - paragraph [ref=e392]: Explore the best dining destinations in Southwark, where culinary excellence meets local character.
+              - generic [ref=e393]:
+                - generic [ref=e394]: 8/12/2025
+                - generic [ref=e395]: By Eleanor Hart
+        - article [ref=e396]:
+          - link "Best Indian Restaurants in London indian restaurants london Best Indian Restaurants in London Discover London's finest indian dining experiences, from hidden gems to established favorites that define the city's culinary landscape. 8/5/2025 By Eleanor Hart" [ref=e397] [cursor=pointer]:
+            - /url: /blog/best-indian-restaurants-in-london
+            - img "Best Indian Restaurants in London" [ref=e399]
+            - generic [ref=e400]:
+              - generic [ref=e401]:
+                - generic [ref=e402]: indian
+                - generic [ref=e403]: restaurants
+                - generic [ref=e404]: london
+              - heading "Best Indian Restaurants in London" [level=2] [ref=e405]
+              - paragraph [ref=e406]: Discover London's finest indian dining experiences, from hidden gems to established favorites that define the city's culinary landscape.
+              - generic [ref=e407]:
+                - generic [ref=e408]: 8/5/2025
+                - generic [ref=e409]: By Eleanor Hart
+        - article [ref=e410]:
+          - link "Budget-Friendly Restaurants in London budget affordable restaurants Budget-Friendly Restaurants in London Exceptional dining experiences that won't break the bank, proving great food and value can go hand in hand. 7/23/2025 By Eleanor Hart" [ref=e411] [cursor=pointer]:
+            - /url: /blog/budget-friendly-restaurants-in-london
+            - img "Budget-Friendly Restaurants in London" [ref=e413]
+            - generic [ref=e414]:
+              - generic [ref=e415]:
+                - generic [ref=e416]: budget
+                - generic [ref=e417]: affordable
+                - generic [ref=e418]: restaurants
+              - heading "Budget-Friendly Restaurants in London" [level=2] [ref=e419]
+              - paragraph [ref=e420]: Exceptional dining experiences that won't break the bank, proving great food and value can go hand in hand.
+              - generic [ref=e421]:
+                - generic [ref=e422]: 7/23/2025
+                - generic [ref=e423]: By Eleanor Hart
+    - contentinfo [ref=e424]:
+      - generic [ref=e425]:
+        - generic [ref=e426]:
+          - generic [ref=e427]:
+            - heading "The Best in London" [level=3] [ref=e428]
+            - paragraph [ref=e429]: Discover London's finest dining experiences, from Michelin-starred restaurants to hidden gems.
+          - generic [ref=e430]:
+            - heading "Quick Links" [level=4] [ref=e431]
+            - list [ref=e432]:
+              - listitem [ref=e433]:
+                - link "Restaurants" [ref=e434] [cursor=pointer]:
+                  - /url: /restaurants
+              - listitem [ref=e435]:
+                - link "Cafés" [ref=e436] [cursor=pointer]:
+                  - /url: /cafes
+              - listitem [ref=e437]:
+                - link "Bars" [ref=e438] [cursor=pointer]:
+                  - /url: /bars
+          - generic [ref=e439]:
+            - heading "Contact" [level=4] [ref=e440]
+            - paragraph [ref=e441]:
+              - text: London, United Kingdom
+              - text: hello@thebestinlondon.com
+        - paragraph [ref=e443]: © 2024 The Best in London. All rights reserved.
+  - alert [ref=e444]
+```
