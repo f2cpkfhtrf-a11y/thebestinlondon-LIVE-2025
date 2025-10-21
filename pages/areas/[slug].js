@@ -11,46 +11,15 @@ import { resolveHeroImage } from '../../lib/resolveHeroImage';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import FSABadge from '../../components/FSABadge';
 import StandardizedCard from '../../components/StandardizedCard';
+const { areaList, normaliseArea } = require('../../lib/areas');
 
 export async function getStaticPaths() {
-  const fs = require('fs');
-  const path = require('path');
-  
   try {
-    // Use areas.json for consistent paths if it exists
-    const areasPath = path.join(process.cwd(), 'data/areas.json');
-    if (fs.existsSync(areasPath)) {
-      const areas = JSON.parse(fs.readFileSync(areasPath, 'utf8'));
-      return {
-        paths: areas.map(area => ({
-          params: { slug: area.slug }
-        })),
-        fallback: "blocking"
-      };
-    }
-    
-    // Fallback to venues.json
-    const filePath = path.join(process.cwd(), 'public/venues.json');
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    let data = JSON.parse(fileContent);
-    
-    const venues = Array.isArray(data) ? data : (data.venues || []);
-    
-    // Get unique areas with better normalization
-    const areaMap = {};
-    venues.forEach(venue => {
-      const areas = [venue.area, venue.borough, venue.address?.borough].filter(Boolean);
-      areas.forEach(area => {
-        const slug = area.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-        if (slug && !areaMap[slug]) {
-          areaMap[slug] = true;
-        }
-      });
-    });
-    
+    // Use our normalized area list
+    const areas = areaList();
     return {
-      paths: Object.keys(areaMap).map(slug => ({
-        params: { slug }
+      paths: areas.map(area => ({
+        params: { slug: area.slug }
       })),
       fallback: "blocking"
     };
@@ -76,29 +45,17 @@ export async function getStaticProps({ params }) {
     
     // Find area by slug
     const areaSlug = params.slug;
-    const areaName = areaSlug.split('-').map(word => 
+    const areas = areaList();
+    const areaData = areas.find(a => a.slug === areaSlug);
+    const areaName = areaData ? areaData.name : areaSlug.split('-').map(word => 
       word.charAt(0).toUpperCase() + word.slice(1)
     ).join(' ');
     
-    // Filter venues for this area
+    // Filter venues for this area using normalized matching
     const venues = allVenues.filter(venue => {
-      const venueArea = venue.borough || venue.address?.borough || '';
-      const venueAddress = venue.address?.formatted || venue.vicinity || '';
-      const venueName = venue.name || '';
-      
-      // Direct match with borough
-      if (venueArea.toLowerCase().includes(areaName.toLowerCase()) ||
-          venueArea.toLowerCase().includes(areaSlug.replace('-', ' '))) {
-        return true;
-      }
-      
-      // Special handling for whitechapel - check address for whitechapel references
-      if (areaSlug === 'whitechapel') {
-        const searchText = (venueAddress + ' ' + venueName).toLowerCase();
-        return searchText.includes('whitechapel');
-      }
-      
-      return false;
+      const venueArea = venue.borough || venue.area || venue.address?.borough || '';
+      const normalizedVenueArea = normaliseArea(venueArea);
+      return normalizedVenueArea === areaSlug || normaliseArea(venue.area) === areaSlug;
     });
     
     if (venues.length === 0) {

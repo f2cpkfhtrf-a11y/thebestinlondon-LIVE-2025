@@ -1,68 +1,23 @@
-[
-  {
-    "name": "Central London",
-    "slug": "central-london",
-    "count": 351,
-    "heroImage": "/images/areas/central-london-hero.webp"
-  },
-  {
-    "name": "Tower Hamlets",
-    "slug": "tower-hamlets",
-    "count": 66,
-    "heroImage": "/images/areas/tower-hamlets-hero.webp"
-  },
-  {
-    "name": "Redbridge",
-    "slug": "redbridge",
-    "count": 40,
-    "heroImage": "/images/areas/redbridge-hero.webp"
-  },
-  {
-    "name": "Havering",
-    "slug": "havering",
-    "count": 32,
-    "heroImage": "/images/areas/havering-hero.webp"
-  },
-  {
-    "name": "Newham",
-    "slug": "newham",
-    "count": 11,
-    "heroImage": "/images/areas/newham-hero.webp"
-  },
-  {
-    "name": "Camden",
-    "slug": "camden",
-    "count": 4,
-    "heroImage": "/images/areas/camden-hero.webp"
-  },
-  {
-    "name": "Hackney",
-    "slug": "hackney",
-    "count": 4,
-    "heroImage": "/images/areas/hackney-hero.webp"
-  },
-  {
-    "name": "Southwark",
-    "slug": "southwark",
-    "count": 1,
-    "heroImage": "/images/areas/southwark-hero.webp"
-  },
-  {
-    "name": "Westminster",
-    "slug": "westminster",
-    "count": 1,
-    "heroImage": "/images/areas/westminster-hero.webp"
-  },
-  {
-    "name": "Kensington and Chelsea",
-    "slug": "kensington-and-chelsea",
-    "count": 1,
-    "heroImage": "/images/areas/kensington-and-chelsea-hero.webp"
-  },
-  {
-    "name": "Whitechapel",
-    "slug": "whitechapel",
-    "count": 98,
-    "heroImage": "/images/areas/whitechapel-hero.webp"
-  }
-]
+{
+  "areas": [
+    { "slug": "central-london", "name": "Central London", "aliases": ["central", "west end"] },
+    { "slug": "tower-hamlets", "name": "Tower Hamlets", "aliases": ["bethnal green","whitechapel","mile end","bow","brick lane"] },
+    { "slug": "redbridge", "name": "Redbridge", "aliases": ["ilford","gants hill","seven kings"] },
+    { "slug": "havering", "name": "Havering", "aliases": ["romford","hornchurch","upminster"] },
+    { "slug": "newham", "name": "Newham", "aliases": ["stratford","canning town","forest gate","plaistow"] },
+    { "slug": "hackney", "name": "Hackney", "aliases": ["shoreditch","dalston","hoxton","haggerston","stoke newington"] },
+    { "slug": "camden", "name": "Camden", "aliases": ["camden town","kentish town"] },
+    { "slug": "westminster", "name": "Westminster", "aliases": ["soho","mayfair","covent garden","st james"] },
+    { "slug": "kensington-and-chelsea", "name": "Kensington & Chelsea", "aliases": ["kensington","chelsea","south kensington"] },
+    { "slug": "southwark", "name": "Southwark", "aliases": ["london bridge","borough","bankside"] },
+    { "slug": "islington", "name": "Islington", "aliases": ["angel","upper street","highbury"] },
+
+    { "slug": "slough", "name": "Slough", "aliases": [] },
+    { "slug": "southall", "name": "Southall", "aliases": [] },
+    { "slug": "ilford", "name": "Ilford", "aliases": [] },
+    { "slug": "romford", "name": "Romford", "aliases": [] },
+    { "slug": "whitechapel", "name": "Whitechapel", "aliases": [] },
+    { "slug": "shoreditch", "name": "Shoreditch", "aliases": [] },
+    { "slug": "spitalfields", "name": "Spitalfields", "aliases": [] }
+  ]
+}
