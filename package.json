@@ -50,6 +50,16 @@
     "external:verify": "node scripts/verifyExternalFreeze.mjs",
     "external:refresh": "npm run external:fetch && npm run external:verify",
     "images:fix+verify": "npm run images:validate && node scripts/verifyLocalImages.mjs",
+    "venues:seed": "node scripts/venues/seedNewVenues.mjs",
+    "venues:pakaf": "node scripts/venues/tagPakAfList.mjs",
+    "images:grade": "node scripts/images/gradeImages.mjs",
+    "images:curate": "node scripts/images/curatePremium.mjs",
+    "data:enrich": "node scripts/data/enrichVenues.mjs",
+    "content:witty": "node scripts/content/wittyBios.mjs",
+    "qa:verify": "node scripts/qa/verifyCompleteness.mjs",
+    "assets:bump": "node scripts/release/bumpAssetVersion.mjs",
+    "deploy:promote": "node scripts/release/vercelPromoteAndProbe.mjs",
+    "run:overnight": "npm run venues:seed && npm run venues:pakaf && npm run images:grade && npm run images:curate && npm run images:grade && npm run data:enrich && npm run content:witty && npm run qa:verify && npm run assets:bump && npm run build && npm run deploy:promote",
     "postbuild": "echo 'Post-build completed'"
   },
   "dependencies": {

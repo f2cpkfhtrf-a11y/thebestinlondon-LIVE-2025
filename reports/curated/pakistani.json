@@ -1,0 +1,95 @@
+[
+  {
+    "name": "The Lahore Kebab House",
+    "slug": "the-lahore-kebab-house-DFV903Y8",
+    "address": "10 Umberston Street, Whitechapel",
+    "area": "whitechapel",
+    "cuisines": [
+      "pakistani"
+    ],
+    "halal_verified": true,
+    "needs_review": false,
+    "website": "",
+    "phone": "+44 20 7481 9737",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "The Lahore",
+    "slug": "the-lahore-4IQ1TIF9",
+    "address": "2 Umberston Street, Whitechapel",
+    "area": "whitechapel",
+    "cuisines": [
+      "pakistani"
+    ],
+    "halal_verified": true,
+    "needs_review": false,
+    "website": "",
+    "phone": "+44 20 7481 9737",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Sheesh Mahal",
+    "slug": "sheesh-mahal-X1QCK7E9",
+    "address": "High Street, Southall",
+    "area": "southall",
+    "cuisines": [
+      "indian",
+      "pakistani"
+    ],
+    "halal_verified": true,
+    "needs_review": false,
+    "website": "",
+    "phone": "+44 20 8574 2200",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Spice Village",
+    "slug": "spice-village-FR2CTLTM",
+    "address": "28-30 High Street, Slough",
+    "area": "slough",
+    "cuisines": [
+      "indian",
+      "pakistani"
+    ],
+    "halal_verified": true,
+    "needs_review": false,
+    "website": "https://spicevillageslough.co.uk/",
+    "phone": "+44 1753 550002",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Zaika",
+    "slug": "zaika-7IO6HYDQ",
+    "address": "High Street, Slough",
+    "area": "slough",
+    "cuisines": [
+      "indian",
+      "pakistani"
+    ],
+    "halal_verified": true,
+    "needs_review": false,
+    "website": "",
+    "phone": "+44 1753 555555",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Tayyabs Slough",
+    "slug": "tayyabs-slough-774TD53F",
+    "address": "110 High Street, Slough",
+    "area": "slough",
+    "cuisines": [
+      "pakistani"
+    ],
+    "halal_verified": true,
+    "needs_review": false,
+    "website": "",
+    "phone": "+44 1753 545678",
+    "rating": null,
+    "user_ratings_total": null
+  }
+]
