@@ -1,0 +1,130 @@
+{
+  "tiles": [
+    {
+      "slug": "central-london",
+      "ok": true,
+      "path": "/images/tiles/areas/central-london.webp"
+    },
+    {
+      "slug": "tower-hamlets",
+      "ok": true,
+      "path": "/images/tiles/areas/tower-hamlets.webp"
+    },
+    {
+      "slug": "redbridge",
+      "ok": true,
+      "path": "/images/tiles/areas/redbridge.webp"
+    },
+    {
+      "slug": "havering",
+      "ok": true,
+      "path": "/images/tiles/areas/havering.webp"
+    },
+    {
+      "slug": "newham",
+      "ok": true,
+      "path": "/images/tiles/areas/newham.webp"
+    },
+    {
+      "slug": "hackney",
+      "ok": true,
+      "path": "/images/tiles/areas/hackney.webp"
+    },
+    {
+      "slug": "camden",
+      "ok": true,
+      "path": "/images/tiles/areas/camden.webp"
+    },
+    {
+      "slug": "westminster",
+      "ok": true,
+      "path": "/images/tiles/areas/westminster.webp"
+    },
+    {
+      "slug": "kensington-and-chelsea",
+      "ok": true,
+      "path": "/images/tiles/areas/kensington-and-chelsea.webp"
+    },
+    {
+      "slug": "southwark",
+      "ok": true,
+      "path": "/images/tiles/areas/southwark.webp"
+    },
+    {
+      "slug": "islington",
+      "ok": true,
+      "path": "/images/tiles/areas/islington.webp"
+    },
+    {
+      "slug": "slough",
+      "ok": true,
+      "path": "/images/tiles/areas/slough.webp"
+    },
+    {
+      "slug": "southall",
+      "ok": true,
+      "path": "/images/tiles/areas/southall.webp"
+    },
+    {
+      "slug": "ilford",
+      "ok": true,
+      "path": "/images/tiles/areas/ilford.webp"
+    },
+    {
+      "slug": "romford",
+      "ok": true,
+      "path": "/images/tiles/areas/romford.webp"
+    },
+    {
+      "slug": "whitechapel",
+      "ok": true,
+      "path": "/images/tiles/areas/whitechapel.webp"
+    },
+    {
+      "slug": "shoreditch",
+      "ok": true,
+      "path": "/images/tiles/areas/shoreditch.webp"
+    },
+    {
+      "slug": "spitalfields",
+      "ok": true,
+      "path": "/images/tiles/areas/spitalfields.webp"
+    }
+  ],
+  "missingRoutes": [],
+  "notes": [],
+  "duplicateSuspects": [
+    {
+      "bytes": 77320,
+      "slugs": [
+        "redbridge",
+        "havering",
+        "hackney",
+        "whitechapel",
+        "shoreditch"
+      ]
+    },
+    {
+      "bytes": 341572,
+      "slugs": [
+        "central-london",
+        "tower-hamlets",
+        "newham",
+        "camden",
+        "westminster",
+        "southwark",
+        "islington",
+        "spitalfields"
+      ]
+    },
+    {
+      "bytes": 493963,
+      "slugs": [
+        "slough",
+        "southall",
+        "ilford",
+        "romford"
+      ]
+    }
+  ]
+}

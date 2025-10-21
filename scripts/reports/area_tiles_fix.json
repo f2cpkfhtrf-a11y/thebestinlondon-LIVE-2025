@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "central-london",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "tower-hamlets",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "redbridge",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "havering",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "newham",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "hackney",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "camden",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "westminster",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "kensington-and-chelsea",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "southwark",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "islington",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "slough",
+    "created": true,
+    "source": "site-default"
+  },
+  {
+    "slug": "southall",
+    "created": true,
+    "source": "site-default"
+  },
+  {
+    "slug": "ilford",
+    "created": true,
+    "source": "site-default"
+  },
+  {
+    "slug": "romford",
+    "created": true,
+    "source": "site-default"
+  },
+  {
+    "slug": "whitechapel",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "shoreditch",
+    "created": false,
+    "source": "existing"
+  },
+  {
+    "slug": "spitalfields",
+    "created": false,
+    "source": "existing"
+  }
+]
