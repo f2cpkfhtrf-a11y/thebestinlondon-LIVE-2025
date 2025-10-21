@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-21T16:57:58.095Z",
+  "timestamp": "2025-10-29T23:01:02.416Z",
   "internalLinks": [
     {
       "file": "components/BackToHome.tsx",
@@ -410,6 +410,10 @@
       "link": "/cuisines"
     },
     {
+      "file": "pages/[cuisineSlug].js",
+      "link": "/cuisines"
+    },
+    {
       "file": "pages/_app.js",
       "link": "/logo.svg"
     },
@@ -438,8 +442,36 @@
       "link": "/contact"
     },
     {
-      "file": "pages/bars.js",
-      "link": "/"
+      "file": "pages/areas/[slug].js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/areas/[slug].js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/areas.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/areas.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/areas.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/areas.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/areas.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/areas.js",
+      "link": "/best-halal-restaurants-london"
     },
     {
       "file": "pages/bars.js",
@@ -447,26 +479,6 @@
     },
     {
       "file": "pages/bars.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/bars.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/best-cafes-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/best-cafes-london.js",
-      "link": "/#cuisines"
-    },
-    {
-      "file": "pages/best-cafes-london.js",
-      "link": "/#areas"
-    },
-    {
-      "file": "pages/best-cafes-london.js",
       "link": "/"
     },
     {
@@ -483,22 +495,6 @@
     },
     {
       "file": "pages/best-cafes-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/best-cafes-london.js",
-      "link": "/#cuisines"
-    },
-    {
-      "file": "pages/best-cafes-london.js",
-      "link": "/#areas"
-    },
-    {
-      "file": "pages/best-cafes-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/best-cafes-london.js",
       "link": "/indian-restaurants-london"
     },
     {
@@ -510,12 +506,164 @@
       "link": "/vegan-restaurants-london"
     },
     {
-      "file": "pages/best-coffee-shops-london.js",
+      "file": "pages/best-chinese-in-central-london-2025.js",
       "link": "/"
     },
     {
-      "file": "pages/best-coffee-shops-london.js",
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurant/lucky-cat-by-gordon-ramsay-bishopsgate-zN4O2yCQ"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurant/lucky-cat-by-gordon-ramsay-bishopsgate-zN4O2yCQ"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurant/gansu-bethnal-green-LhsNVaH0"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurant/gansu-bethnal-green-LhsNVaH0"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurant/dragons-den-oriental-kitchen-sjUpIGyA"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurant/dragons-den-oriental-kitchen-sjUpIGyA"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
       "link": "/"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/restaurant/far-east-kitchen-jNq5Bxyw"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/restaurant/far-east-kitchen-jNq5Bxyw"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
     },
     {
       "file": "pages/best-coffee-shops-london.js",
@@ -531,14 +679,6 @@
     },
     {
       "file": "pages/best-coffee-shops-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/best-coffee-shops-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/best-coffee-shops-london.js",
       "link": "/best-cafes-london"
     },
     {
@@ -550,76 +690,1380 @@
       "link": "/restaurants-shoreditch"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
+      "file": "pages/best-indian-in-central-london-2025.js",
       "link": "/"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/#cuisines"
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/cuisines"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/#areas"
-    },
-    {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/best-halal-restaurants-london-old.js",
+      "file": "pages/best-indian-in-central-london-2025.js",
       "link": "/indian-restaurants-london"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/turkish-restaurants-london"
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/areas"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/vegan-restaurants-london"
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/"
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/pravaas-south-kensington-KhMpiz4I"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/#cuisines"
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/pravaas-south-kensington-KhMpiz4I"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/#areas"
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/kricket-shoreditch-kaf-restaurant-bar-T-b-BK14"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/"
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/kricket-shoreditch-kaf-restaurant-bar-T-b-BK14"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/fat-chef-authentic-indian-kitchen-halal-0LfhvXy8"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/fat-chef-authentic-indian-kitchen-halal-0LfhvXy8"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/aladin-brick-lane-FQXF-uoc"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/aladin-brick-lane-FQXF-uoc"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/dishoom-kensington-1F6d_5-g"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/dishoom-kensington-1F6d_5-g"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/colonel-saab-D55weEBY"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/colonel-saab-D55weEBY"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/dishoom-canary-wharf-BKRQW0f0"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/dishoom-canary-wharf-BKRQW0f0"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/dishoom-covent-garden-OZ6OHOJw"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/dishoom-covent-garden-OZ6OHOJw"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/maharaja-of-india-EVrlil9k"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/maharaja-of-india-EVrlil9k"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/taste-of-lahore-JVquuZ94"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurant/taste-of-lahore-JVquuZ94"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
       "link": "/indian-restaurants-london"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/sultan-sofrasi-lU11pmVo"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/sultan-sofrasi-lU11pmVo"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/hichki-indian-restaurant--qOdDlq0"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/hichki-indian-restaurant--qOdDlq0"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/giulia-restaurant-EkK4r0z4"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/giulia-restaurant-EkK4r0z4"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/amor-gastronomia-9fVApnuo"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/amor-gastronomia-9fVApnuo"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/circolo-popolare-kqYLufoE"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/circolo-popolare-kqYLufoE"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/grasso-VxepVY0I"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/grasso-VxepVY0I"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/gloria-fPFxdplY"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/gloria-fPFxdplY"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/doppo-MCqb9oIE"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/doppo-MCqb9oIE"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/osteria-napoletana-JmjibnCw"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/osteria-napoletana-JmjibnCw"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/fatto-a-mano-bethnal-green-iftn5UJA"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/fatto-a-mano-bethnal-green-iftn5UJA"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/casa-fof-9XapQArk"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/casa-fof-9XapQArk"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/bocca-di-lupo-P7Z6jOko"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurant/bocca-di-lupo-P7Z6jOko"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/restaurants-southwark"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/restaurant/padella-HPngIeq8"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/restaurant/padella-HPngIeq8"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/restaurants-southwark"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/restaurants-southwark"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "/restaurants-southwark"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/buon-appetito-kE4g6r_s"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/buon-appetito-kE4g6r_s"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/la-bella-napoli-C3MBjGos"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/la-bella-napoli-C3MBjGos"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/italina385-ilgWDFJo"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurant/italina385-ilgWDFJo"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/italian-restaurants-london"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/japanese-restaurants-london"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/yiqi-cDLJ0Z8k"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/yiqi-cDLJ0Z8k"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/maru-london-yQBXwWAI"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/maru-london-yQBXwWAI"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/noble-palace-6iVOz8Kc"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/noble-palace-6iVOz8Kc"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/oita-soho-xrSS0hZo"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/oita-soho-xrSS0hZo"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/rai-restaurant-london-5PZAMF6Q"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/rai-restaurant-london-5PZAMF6Q"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/speedboat-bar-FDICmOhQ"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/speedboat-bar-FDICmOhQ"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/ma-la-sichuan-oHK7UfPw"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/ma-la-sichuan-oHK7UfPw"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/zuma-london-3z813cBw"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/zuma-london-3z813cBw"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/house-of-ming-bmTrCQPc"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/house-of-ming-bmTrCQPc"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/the-sichuan-restaurant-939Y8L8U"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurant/the-sichuan-restaurant-939Y8L8U"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/japanese-restaurants-london"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/japanese-restaurants-london"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/japanese-restaurants-london"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/restaurants-westminster"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/restaurant/peacock-london-zg_TLvpA"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/restaurant/peacock-london-zg_TLvpA"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/restaurants-westminster"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/japanese-restaurants-london"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/japanese-restaurants-london"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/restaurants-westminster"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/japanese-restaurants-london"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "/restaurants-westminster"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/korean-restaurants-london"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/soju-korean-restaurant-4eZHjn3Q"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/soju-korean-restaurant-4eZHjn3Q"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/vegan-yes-dwrPTj8I"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/vegan-yes-dwrPTj8I"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/koko-grill-korean-bbq-restaurant-TiSvAj5c"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/koko-grill-korean-bbq-restaurant-TiSvAj5c"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/jang-restaurant-A2kpdsBc"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/jang-restaurant-A2kpdsBc"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/daebak-dtHO4Ztg"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/daebak-dtHO4Ztg"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/arang-restaurant-zi1Jg4Ec"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/arang-restaurant-zi1Jg4Ec"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/korean-dinner-party-ymMXVjzE"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/korean-dinner-party-ymMXVjzE"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/yori-piccadilly-circus-korean-bbq-Hpzadwok"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/yori-piccadilly-circus-korean-bbq-Hpzadwok"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/bibimbap-soho-VayvElt8"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurant/bibimbap-soho-VayvElt8"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/korean-restaurants-london"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/korean-restaurants-london"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/korean-restaurants-london"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/korean-restaurants-london"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/restaurant/bibimbop-bow-StMWnhyE"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/restaurant/bibimbop-bow-StMWnhyE"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/korean-restaurants-london"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/korean-restaurants-london"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/korean-restaurants-london"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/mediterranean-restaurants-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/london-night-cafe-1dGMkucY"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/london-night-cafe-1dGMkucY"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/common-breads-tuvgyCWI"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/common-breads-tuvgyCWI"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/pulse-bar-london-AhX30B_M"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/pulse-bar-london-AhX30B_M"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/kin-cafe-restaurant-sMYzvisk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/kin-cafe-restaurant-sMYzvisk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/ekstedt-at-the-yard-wI_8ELLQ"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/ekstedt-at-the-yard-wI_8ELLQ"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/restaurant-st-barts-0KJsqCRk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/restaurant-st-barts-0KJsqCRk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/kitchen-table-PUQzy0hI"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/kitchen-table-PUQzy0hI"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/e-pellicci-Ri5OAXZ4"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/e-pellicci-Ri5OAXZ4"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/rosslyn-coffee-london-wall-7lphil6E"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/rosslyn-coffee-london-wall-7lphil6E"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/chill-house-coffee-shop--M-c4fvk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurant/chill-house-coffee-shop--M-c4fvk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/mediterranean-restaurants-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/mediterranean-restaurants-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/mediterranean-restaurants-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/restaurant/dulce-coffee-london-cO94iwvs"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/restaurant/dulce-coffee-london-cO94iwvs"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/mediterranean-restaurants-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/mediterranean-restaurants-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/mediterranean-restaurants-london"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
       "link": "/turkish-restaurants-london"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "/vegan-restaurants-london"
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/areas"
     },
     {
-      "file": "pages/blog/[slug].js",
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/efes-premium-kWL5j4TM"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/efes-premium-kWL5j4TM"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/cirrik-19-numara-bos-aBzE5bwY"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/cirrik-19-numara-bos-aBzE5bwY"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/fes-restaurant-3kGU0KS4"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/fes-restaurant-3kGU0KS4"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/the-mantl-GzBtMI-k"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/the-mantl-GzBtMI-k"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/liman-restaurant-GtZA40HM"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/liman-restaurant-GtZA40HM"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/shahs-halal-food-walthamstow-e0towDVA"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/shahs-halal-food-walthamstow-e0towDVA"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/tanjia-restaurant-z4mIP1sY"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/tanjia-restaurant-z4mIP1sY"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/antalya-bGIr-qxs"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/antalya-bGIr-qxs"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/olives-and-oregano-london-caETxpsM"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/olives-and-oregano-london-caETxpsM"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/lokma-westfield-VMXmovgc"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurant/lokma-westfield-VMXmovgc"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
       "link": "/"
     },
     {
-      "file": "pages/blog/[slug].js",
-      "link": "/blog"
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/cuisines"
     },
     {
-      "file": "pages/blog/[slug].js",
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "/restaurants-central-london"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
       "link": "/"
     },
     {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/restaurant/halal-street-kitchen-5e3zUyL0"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/restaurant/halal-street-kitchen-5e3zUyL0"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/restaurant/efes-restaurant-whitechapel-XQYLbLIY"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/restaurant/efes-restaurant-whitechapel-XQYLbLIY"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "/restaurants-tower-hamlets"
+    },
+    {
       "file": "pages/blog/[slug].js",
-      "link": "/blog"
+      "link": "/blog/halal-restaurants-ilford-lane"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/blog/romantic-restaurants-london"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/blog/late-night-restaurants-london"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/blog/halal-restaurants-ilford-lane"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/blog/romantic-restaurants-london"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/blog/late-night-restaurants-london"
     },
     {
       "file": "pages/cafes.js",
@@ -627,42 +2071,6 @@
     },
     {
       "file": "pages/cafes.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/cafes.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/cafes.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/cookies.js",
       "link": "/"
     },
     {
@@ -672,10 +2080,6 @@
     {
       "file": "pages/cookies.js",
       "link": "/terms"
-    },
-    {
-      "file": "pages/cookies.js",
-      "link": "/"
     },
     {
       "file": "pages/cookies.js",
@@ -771,27 +2175,11 @@
     },
     {
       "file": "pages/halal/near-stations/[stationSlug].js",
-      "link": "/"
-    },
-    {
-      "file": "pages/halal/near-stations/[stationSlug].js",
-      "link": "/halal/near-stations"
-    },
-    {
-      "file": "pages/halal/near-stations/[stationSlug].js",
       "link": "/halal/near-stations"
     },
     {
       "file": "pages/halal/near-stations/[stationSlug].js",
       "link": "/"
-    },
-    {
-      "file": "pages/halal/near-stations/[stationSlug].js",
-      "link": "/"
-    },
-    {
-      "file": "pages/halal/near-stations/[stationSlug].js",
-      "link": "/halal/near-stations"
     },
     {
       "file": "pages/halal/near-stations/[stationSlug].js",
@@ -838,102 +2226,6 @@
       "link": "/"
     },
     {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
       "file": "pages/privacy.js",
       "link": "/"
     },
@@ -964,192 +2256,12 @@
     {
       "file": "pages/privacy.js",
       "link": "/terms"
-    },
-    {
-      "file": "pages/restaurant/[slug].js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurant/[slug].js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/restaurant/[slug].js",
-      "link": "/bars"
-    },
-    {
-      "file": "pages/restaurant/[slug].js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurant/[slug].js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/restaurant/[slug].js",
-      "link": "/bars"
-    },
-    {
-      "file": "pages/restaurants-bethnal-green.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-bethnal-green.js",
-      "link": "/east-london"
-    },
-    {
-      "file": "pages/restaurants-bethnal-green.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-bethnal-green.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-bethnal-green.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-canary-wharf.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-canary-wharf.js",
-      "link": "/east-london"
-    },
-    {
-      "file": "pages/restaurants-canary-wharf.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-canary-wharf.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-canary-wharf.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-hackney.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-hackney.js",
-      "link": "/east-london"
-    },
-    {
-      "file": "pages/restaurants-hackney.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-hackney.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-hackney.js",
-      "link": "/"
     },
     {
       "file": "pages/restaurants-near-london-eye.js",
       "link": "/"
     },
     {
-      "file": "pages/restaurants-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-old.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/restaurants-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-old.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-old.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/restaurants-shoreditch.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-shoreditch.js",
-      "link": "/east-london"
-    },
-    {
-      "file": "pages/restaurants-shoreditch.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-shoreditch.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-shoreditch.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-shoreditch.js",
-      "link": "/east-london"
-    },
-    {
-      "file": "pages/restaurants-shoreditch.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-shoreditch.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-spitalfields.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-spitalfields.js",
-      "link": "/east-london"
-    },
-    {
-      "file": "pages/restaurants-spitalfields.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-spitalfields.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-spitalfields.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-stratford.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-stratford.js",
-      "link": "/east-london"
-    },
-    {
-      "file": "pages/restaurants-stratford.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-stratford.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/restaurants-stratford.js",
-      "link": "/"
-    },
-    {
       "file": "pages/restaurants-whitechapel.js",
       "link": "/"
     },
@@ -1230,14 +2342,6 @@
       "link": "/vegan-restaurants-london"
     },
     {
-      "file": "pages/seo-demo.js",
-      "link": "/vegan-restaurants-london"
-    },
-    {
-      "file": "pages/terms.js",
-      "link": "/"
-    },
-    {
       "file": "pages/terms.js",
       "link": "/privacy"
     },
@@ -1247,117 +2351,21 @@
     },
     {
       "file": "pages/terms.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/terms.js",
       "link": "/privacy"
     },
     {
       "file": "pages/terms.js",
       "link": "/cookies"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "/restaurants"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "/"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "/restaurants"
     }
   ],
   "externalLinks": [
     {
-      "file": "components/ImageCredit.js",
-      "link": "https://unsplash.com/?utm_source=thebestinlondon&utm_medium=referral"
+      "file": "components/InteractiveMap.js",
+      "link": "https://www.google.com/maps?q=${venue.lat},${venue.lng}&hl=en"
+    },
+    {
+      "file": "components/InteractiveMap.js",
+      "link": "https://www.google.com/maps?q=${venue.lat},${venue.lng}&hl=en"
     },
     {
       "file": "components/Layout.js",
@@ -1382,10 +2390,6 @@
     {
       "file": "components/SEOHead.js",
       "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "components/SEOHead.js",
-      "link": "https://images.unsplash.com"
     },
     {
       "file": "components/SEOHead.js",
@@ -1456,6 +2460,14 @@
       "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
     },
     {
+      "file": "pages/best-chinese-in-central-london-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-chinese-in-central-london-2025"
+    },
+    {
+      "file": "pages/best-chinese-in-tower-hamlets-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-chinese-in-tower-hamlets-2025"
+    },
+    {
       "file": "pages/best-coffee-shops-london.js",
       "link": "https://thebestinlondon.co.uk/best-coffee-shops-london"
     },
@@ -1468,24 +2480,280 @@
       "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
     },
     {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "https://thebestinlondon.co.uk/best-halal-restaurants-london"
-    },
-    {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/best-halal-restaurants-london-old.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-    },
-    {
       "file": "pages/best-halal-restaurants-london.js",
       "link": "https://www.thebestinlondon.co.uk/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-indian-in-central-london-2025"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ__9DAWgFdkgRj0UKhMpiz4I"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJAQxeaAAddkgRkKAT-b-BK14"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ_YxXC7YcdkgR7WdFQXF-uoc"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJv_uo9_YPdkgRq2K1F6d_5-g"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJnVf83AIbdkgR054D55weEBY"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJe0JmmEUDdkgRhyBBKRQW0f0"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJxZXYx7cEdkgRdgAOZ6OHOJw"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJS_aY-s0EdkgRbxbEVrlil9k"
+    },
+    {
+      "file": "pages/best-indian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJvV1d8TIbdkgRfvsJVquuZ94"
+    },
+    {
+      "file": "pages/best-indian-in-tower-hamlets-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-indian-in-tower-hamlets-2025"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-italian-in-central-london-2025"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJU9GMeq0PdkgRD7sEkK4r0z4"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJFcdH1QobdkgRDhK9fVApnuo"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJK4j9CagbdkgRluwkqYLufoE"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJRcG-rBEbdkgR9SUVxepVY0I"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJj99O4ScddkgRNnDfPFxdplY"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJpatnEFEFdkgRAZyMCqb9oIE"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJNWlwNBgRdkgRj-WJmjibnCw"
+    },
+    {
+      "file": "pages/best-italian-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJfcEFmtMEdkgR9pwP7Z6jOko"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-italian-in-southwark-2025"
+    },
+    {
+      "file": "pages/best-italian-in-southwark-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJdZ6paFcDdkgRpPUHPngIeq8"
+    },
+    {
+      "file": "pages/best-italian-in-tower-hamlets-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-italian-in-tower-hamlets-2025"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-japanese-in-central-london-2025"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJy23uOwAFdkgRii6cDLJ0Z8k"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJgUkU7K0FdkgRfVvyQBXwWAI"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJlyw-LBMFdkgR0Wc6iVOz8Kc"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJxSy5AXIFdkgRCSYxrSS0hZo"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ3Xz1VkQbdkgRUgW5PZAMF6Q"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJbX_Fhx8FdkgRbTfFDICmOhQ"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJZRnZ4dwEdkgRy-CoHK7UfPw"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJZdN_kTgFdkgR0NR3z813cBw"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJZzYAdkkFdkgRrt9bmTrCQPc"
+    },
+    {
+      "file": "pages/best-japanese-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJT9FOxa4cdkgRc54939Y8L8U"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-japanese-in-westminster-2025"
+    },
+    {
+      "file": "pages/best-japanese-in-westminster-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJB-cY1hgFdkgRJ8lzg_TLvpA"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-korean-in-central-london-2025"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJdUnNJjgddkgRWd94eZHjn3Q"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJaxWqk7UcdkgRjr3dwrPTj8I"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJk-I180QDdkgR53ATiSvAj5c"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ1wxyhyQDdkgRt_HA2kpdsBc"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJr-ua5-wEdkgR45FdtHO4Ztg"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJo5eYZ9QEdkgR7vezi1Jg4Ec"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJtRKMndwFdkgRkv4ymMXVjzE"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJneH7htEEdkgR-hGHpzadwok"
+    },
+    {
+      "file": "pages/best-korean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJY3boyNIEdkgRNE2VayvElt8"
+    },
+    {
+      "file": "pages/best-korean-in-tower-hamlets-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-korean-in-tower-hamlets-2025"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-mediterranean-in-central-london-2025"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ2RrGUY0ddkgRRY_1dGMkucY"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-xBcaZEFdkgRZ6htuvgyCWI"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ46R2PhMFdkgR1BjAhX30B_M"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJXymuDyobdkgRaLhsMYzvisk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJL-HmB88EdkgRfH-wI_8ELLQ"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ921POt8bdkgRwx80KJsqCRk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ3aa-YCkbdkgRo5LPUQzy0hI"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJPezp68UcdkgR7-XRi5OAXZ4"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ1fRYjo4ddkgRRZq7lphil6E"
+    },
+    {
+      "file": "pages/best-mediterranean-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ_XJOLvYFdkgR1oW-M-c4fvk"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-mediterranean-in-tower-hamlets-2025"
+    },
+    {
+      "file": "pages/best-mediterranean-in-tower-hamlets-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJWzWzp8ocdkgR5RIcO94iwvs"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-turkish-in-central-london-2025"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJnzfL2mYJdkgRGYdkWL5j4TM"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJxdO_dIwcdkgRjJxaBzE5bwY"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJC3tJlEAFdkgRD9S3kGU0KS4"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ53D3yEAFdkgRVnlGzBtMI-k"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJDeqCLEIbdkgRrcQGtZA40HM"
+    },
+    {
+      "file": "pages/best-turkish-in-central-london-2025.js",
+      "link": "https://www.google.com/maps/place/?q=place_id:ChIJ1StDTDEbdkgRIdqbGIr-qxs"
+    },
+    {
+      "file": "pages/best-turkish-in-tower-hamlets-2025.js",
+      "link": "https://www.thebestinlondon.co.uk/best-turkish-in-tower-hamlets-2025"
     },
     {
       "file": "pages/blog.js",
@@ -1494,22 +2762,6 @@
     {
       "file": "pages/cafes.js",
       "link": "https://thebestinlondon.co.uk/cafes"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "https://thebestinlondon.co.uk/chinese-restaurants-london"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/chinese-restaurants-london.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
     },
     {
       "file": "pages/contact.js",
@@ -1536,72 +2788,8 @@
       "link": "https://thebestinlondon.co.uk/halal/near-stations"
     },
     {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "https://thebestinlondon.co.uk/halal-restaurants-london"
-    },
-    {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/halal-restaurants-london.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-    },
-    {
       "file": "pages/index.js",
       "link": "https://www.thebestinlondon.co.uk"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "https://thebestinlondon.co.uk/indian-restaurants-london"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/indian-restaurants-london-old.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "https://thebestinlondon.co.uk/italian-restaurants-london"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/italian-restaurants-london.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "https://thebestinlondon.co.uk/japanese-restaurants-london"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/japanese-restaurants-london.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
     },
     {
       "file": "pages/near-me.js",
@@ -1656,22 +2844,6 @@
       "link": "https://thebestinlondon.co.uk/restaurants-near-london-eye"
     },
     {
-      "file": "pages/restaurants-old.js",
-      "link": "https://thebestinlondon.co.uk/restaurants"
-    },
-    {
-      "file": "pages/restaurants-old.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/restaurants-old.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/restaurants-old.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-    },
-    {
       "file": "pages/restaurants-shoreditch.js",
       "link": "https://thebestinlondon.co.uk/restaurants-shoreditch"
     },
@@ -1694,76 +2866,12 @@
     {
       "file": "pages/terms.js",
       "link": "https://thebestinlondon.co.uk/terms"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "https://thebestinlondon.co.uk/thai-restaurants-london"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/thai-restaurants-london.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "https://thebestinlondon.co.uk/turkish-restaurants-london"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/turkish-restaurants-london.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "https://thebestinlondon.co.uk/vegan-restaurants-london"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/vegan-restaurants-london.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "https://thebestinlondon.co.uk/vegetarian-restaurants-london"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "https://fonts.googleapis.com"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "https://fonts.gstatic.com"
-    },
-    {
-      "file": "pages/vegetarian-restaurants-london.js",
-      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
     }
   ],
   "issues": [],
   "summary": {
-    "totalInternalLinks": 338,
-    "totalExternalLinks": 101,
+    "totalInternalLinks": 589,
+    "totalExternalLinks": 127,
     "issuesFound": 0
   }
 }

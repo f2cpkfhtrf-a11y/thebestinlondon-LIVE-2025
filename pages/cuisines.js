@@ -4,16 +4,19 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import BackToHome from '../components/BackToHome';
+import Breadcrumbs from '../components/Breadcrumbs';
 import { TabContainer } from '../components/HeroTabs';
 import { resolveTileImage } from '../lib/resolveHeroImage';
 import ImageTile from '../components/tiles/ImageTile';
+import { asCollectionPage } from '../lib/factory/pageFactory';
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const fs = require('fs');
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let data = JSON.parse(fileContent);
     
@@ -42,8 +45,7 @@ export async function getStaticProps() {
       props: {
         cuisines,
         totalVenues: venues.length
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error loading cuisines:', error);
@@ -79,6 +81,14 @@ export default function Cuisines({ cuisines, totalVenues }) {
         <meta name="keywords" content="London cuisines, restaurants by cuisine, Indian restaurants, Italian restaurants, Chinese restaurants London" />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/cuisines" />
         
+        {/* JSON-LD */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(asCollectionPage({
+          name: 'Restaurant Cuisines in London',
+          url: 'https://www.thebestinlondon.co.uk/cuisines',
+          itemCount: cuisines.length,
+          items: cuisines.map(cuisine => ({ name: cuisine.name, slug: cuisine.slug }))
+        })) }} />
+        
         {/* Open Graph */}
         <meta property="og:title" content="Cuisines | The Best in London" />
         <meta property="og:description" content={`Explore ${cuisines.length} different cuisines across London. From Indian to Italian, discover the best restaurants for every taste.`} />
@@ -95,6 +105,11 @@ export default function Cuisines({ cuisines, totalVenues }) {
       
       <main className="min-h-screen bg-black">
         <TabContainer currentPath="/cuisines" pageType="cuisines">
+        {/* Breadcrumbs */}
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+          <Breadcrumbs />
+        </div>
+        
         {/* Hero Section */}
         <section className="relative py-20 lg:py-32">
           <div className="absolute inset-0 bg-gradient-to-br from-charcoal via-black to-charcoal opacity-90"></div>
@@ -135,13 +150,15 @@ export default function Cuisines({ cuisines, totalVenues }) {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
               {filteredCuisines.map((cuisine) => {
                 const cuisineSlug = cuisine.slug.replace('-restaurants-london', '');
+                // Use the clean slug for the href (the dynamic route handles both formats)
+                const hrefSlug = cuisineSlug;
                 const imagePath = resolveTileImage({ type: "cuisine", slug: cuisineSlug });
                 return (
                   <ImageTile
                     key={cuisine.slug}
                     title={cuisine.name}
                     subtitle={`${cuisine.count} restaurant${cuisine.count !== 1 ? 's' : ''}`}
-                    href={`/${cuisine.slug}`}
+                    href={`/${hrefSlug}`}
                     src={imagePath}
                     alt={`${cuisine.name} cuisine in London`}
                   />
@@ -180,6 +197,7 @@ export default function Cuisines({ cuisines, totalVenues }) {
       </main>
 
       <Footer />
+      <BackToHome />
     </>
   );
 }

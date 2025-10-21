@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { generateSEOTitle, generateSEODescription, generateStructuredData } from '../utils/seoOptimization';
+import { withSEOPage, asWebSite, asOrganization } from '../lib/factory/pageFactory';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
@@ -9,16 +10,17 @@ import PopularAreas from '../components/home/PopularAreas';
 import Cuisines from '../components/home/Cuisines';
 import LatestAdds from '../components/home/LatestAdds';
 import LatestBlog from '../components/home/LatestBlog';
+import NewsletterSignup from '../components/NewsletterSignup';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
 import Link from 'next/link';
 import { useEffect } from 'react';
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const fs = require('fs');
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let data = JSON.parse(fileContent);
     
@@ -90,8 +92,7 @@ export async function getStaticProps() {
         stats,
         popularCuisines,
         blogs
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error loading venues:', error);
@@ -152,22 +153,30 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
   return (
     <>
       <Head>
-        <title>The Best in London | Premium Dining Guide</title>
-        <meta name="description" content="Discover London's finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas. From street food to fine dining." />
-        <meta name="keywords" content="London restaurants, best restaurants London, dining guide, halal restaurants, fine dining London" />
+        <title>Best Restaurants London 2025 | Top Rated London Restaurants | The Best in London</title>
+        <meta name="description" content="Discover the best restaurants in London 2025. Find top-rated London restaurants, halal restaurants, vegan restaurants, and fine dining. 760+ verified restaurants with real reviews. Your complete London dining guide." />
+        <meta name="keywords" content="best restaurants London, London restaurants, best restaurants in London, top restaurants London, halal restaurants London, vegan restaurants London, fine dining London, Indian restaurants London, Italian restaurants London, Japanese restaurants London, restaurant guide London, where to eat London, best food London" />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk" />
         
+        {/* Additional SEO meta tags */}
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+        <meta name="googlebot" content="index, follow" />
+        <meta name="author" content="The Best in London" />
+        <link rel="alternate" hrefLang="en-GB" href="https://www.thebestinlondon.co.uk" />
+        <link rel="alternate" hrefLang="en" href="https://www.thebestinlondon.co.uk" />
+        <link rel="alternate" hrefLang="x-default" href="https://www.thebestinlondon.co.uk" />
+        
         {/* Open Graph */}
-        <meta property="og:title" content="The Best in London | Premium Dining Guide" />
-        <meta property="og:description" content="Discover London's finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas." />
+        <meta property="og:title" content="Best Restaurants London 2025 | Top Rated London Restaurants" />
+        <meta property="og:description" content="Discover the best restaurants in London 2025. 760+ verified restaurants with real reviews. Find halal restaurants, vegan restaurants, fine dining and more." />
         <meta property="og:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp" />
         <meta property="og:url" content="https://www.thebestinlondon.co.uk" />
         <meta property="og:type" content="website" />
         
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="The Best in London | Premium Dining Guide" />
-        <meta name="twitter:description" content="Discover London's finest restaurants with our premium dining guide. 760+ verified restaurants across 50+ areas." />
+        <meta name="twitter:title" content="Best Restaurants London 2025 | Top Rated London Restaurants" />
+        <meta name="twitter:description" content="Discover the best restaurants in London 2025. 760+ verified restaurants with real reviews. Find halal restaurants, vegan restaurants, fine dining and more." />
         <meta name="twitter:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp" />
         
         {/* JSON-LD */}
@@ -196,8 +205,8 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
           {/* Page Hero */}
           <div className="container mx-auto px-4 md:px-6 lg:px-8">
             <PageHero 
-              title="Discover London's Finest"
-              subtitle="Curated Excellence in London"
+              title="Best Restaurants in London 2025"
+              subtitle="Discover Top-Rated London Restaurants with Real Reviews | Halal, Vegan & Fine Dining"
               stats={[
                 { label: "Restaurants", value: "760+" },
                 { label: "Areas", value: "50+" },
@@ -212,11 +221,66 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
         
           {/* Main Content */}
           <main className="container mx-auto px-4 md:px-6 lg:px-8 space-y-12 md:space-y-16">
+            {/* SEO Content Block - Keyword Rich Introduction */}
+            <section className="max-w-4xl mx-auto text-center py-8">
+              <h2 className="text-3xl md:text-4xl font-serif font-bold text-warmWhite mb-6">
+                Find the Best Restaurants in London 2025
+              </h2>
+              <p className="text-lg md:text-xl text-grey leading-relaxed mb-4">
+                Discover over <strong className="text-gold">760+ verified restaurants</strong> across London. Whether you're looking for 
+                <strong className="text-gold"> halal restaurants London</strong>, 
+                <strong className="text-gold"> vegan restaurants London</strong>, or 
+                <strong className="text-gold"> fine dining London</strong>, we've curated the top-rated establishments with real reviews and ratings. 
+                Find <strong className="text-gold">restaurants near me</strong>, browse by cuisine or area, and discover <strong className="text-gold">where to eat in London</strong>.
+              </p>
+              <p className="text-base md:text-lg text-grey mb-6">
+                From <strong className="text-gold">Indian restaurants London</strong> to 
+                <strong className="text-gold"> Italian restaurants London</strong>, 
+                <strong className="text-gold"> Japanese restaurants London</strong>, 
+                <strong className="text-gold"> Turkish restaurants London</strong>, and more - explore London's diverse culinary scene. 
+                Our comprehensive <strong className="text-gold">London restaurant guide</strong> helps you find 
+                <strong className="text-gold"> the best restaurants in London</strong> for every occasion, budget, and dietary requirement.
+              </p>
+            </section>
+            
             <FeaturedRestaurants venues={topVenues} />
             <PopularAreas venues={topVenues} stats={stats} />
             <Cuisines popularCuisines={popularCuisines} />
             <LatestAdds venues={topVenues} />
             <LatestBlog blogs={blogs || []} />
+            
+            {/* SEO Content Block - Additional Keywords */}
+            <section className="max-w-4xl mx-auto py-8">
+              <h2 className="text-2xl md:text-3xl font-serif font-bold text-warmWhite mb-4">
+                Why Choose The Best in London Restaurant Guide?
+              </h2>
+              <div className="grid md:grid-cols-2 gap-6 text-grey">
+                <div>
+                  <h3 className="text-xl font-semibold text-gold mb-2">Verified Restaurant Reviews</h3>
+                  <p>All <strong>London restaurants</strong> featured on our site have verified Google reviews and ratings, ensuring you get accurate information about dining experiences.</p>
+                </div>
+                <div>
+                  <h3 className="text-xl font-semibold text-gold mb-2">Comprehensive Coverage</h3>
+                  <p>Browse <strong>restaurants near me</strong> or explore by cuisine type, area, or dietary requirements. Find everything from budget-friendly to Michelin-starred dining.</p>
+                </div>
+                <div>
+                  <h3 className="text-xl font-semibold text-gold mb-2">Specialized Guides</h3>
+                  <p>Looking for <strong>halal restaurants London</strong> or <strong>vegan restaurants London</strong>? We have dedicated guides for every dietary need and preference.</p>
+                </div>
+                <div>
+                  <h3 className="text-xl font-semibold text-gold mb-2">Up-to-Date Information</h3>
+                  <p>Our <strong>best restaurants London</strong> guide is regularly updated with new openings, menu changes, and the latest reviews to help you find <strong>where to eat in London</strong>.</p>
+                </div>
+              </div>
+            </section>
+            
+            {/* Newsletter Signup */}
+            <NewsletterSignup 
+              location="homepage"
+              title="Get Weekly Restaurant Recommendations"
+              description="Discover London's newest openings, hidden gems, and weekly dining guides delivered to your inbox."
+              variant="inline"
+            />
           </main>
         </TabContainer>
         <Footer />

@@ -1,0 +1,379 @@
+{
+  "timestamp": "2025-10-21T23:04:59.116Z",
+  "summary": {
+    "totalPages": 73,
+    "pagesWithSchema": 5,
+    "pagesWithoutSchema": 68,
+    "schemaTypes": {
+      "Dynamic": 5
+    }
+  },
+  "pages": [
+    {
+      "file": "pages/404.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/[cuisine].js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/_app.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/_document.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/about.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/areas/[slug].js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/areas.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/bars.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/best-halal-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "hasSchema": true,
+      "schemaCount": 1
+    },
+    {
+      "file": "pages/blog.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/cafes.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/contact.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/cookies.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/cuisines.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/east-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/faq/[slug].js",
+      "hasSchema": true,
+      "schemaCount": 1
+    },
+    {
+      "file": "pages/faq.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/guides.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/index.js",
+      "hasSchema": true,
+      "schemaCount": 1
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/indian-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/near-me.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/nearby.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/privacy.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "hasSchema": true,
+      "schemaCount": 1
+    },
+    {
+      "file": "pages/restaurants-bethnal-green.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-bloomsbury.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-borough.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-brixton.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-camden.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-canary-wharf.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-chelsea.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-clapham.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-clerkenwell.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-covent-garden.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-fitzrovia.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-greenwich.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-hackney.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-islington.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-kensington.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-kings-cross.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-marylebone.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-mayfair.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-near-london-eye.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-new.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-notting-hill.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "hasSchema": true,
+      "schemaCount": 1
+    },
+    {
+      "file": "pages/restaurants-richmond.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-soho.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-spitalfields.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-stratford.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants-wimbledon.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/restaurants.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/search.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/seo-demo.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/terms.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/test-data.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "hasSchema": false,
+      "schemaCount": 0
+    }
+  ],
+  "warnings": []
+}

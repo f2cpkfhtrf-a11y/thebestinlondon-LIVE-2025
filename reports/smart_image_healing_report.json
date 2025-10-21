@@ -1,0 +1,1324 @@
+{
+  "timestamp": "2025-10-21T20:34:44.344Z",
+  "summary": {
+    "totalVenues": 593,
+    "healedImages": 1,
+    "fetchedFromExternal": 0,
+    "skippedImages": 96,
+    "errors": 511
+  },
+  "details": [
+    {
+      "slug": "nobu-london-1XA1719C",
+      "name": "Nobu London",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/japanese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/japanese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "restaurant-gordon-ramsay-902IUH1A",
+      "name": "Restaurant Gordon Ramsay",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "sketch-london-FS6WRB5C",
+      "name": "Sketch London",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-wolseley-V4MB6LOH",
+      "name": "The Wolseley",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "claridges-restaurant-J7H4IWBJ",
+      "name": "Claridge's Restaurant",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-river-caf-OPX1QMDT",
+      "name": "The River Café",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/italian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/italian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "barrafina-drury-lane-R9GMAK6C",
+      "name": "Barrafina Drury Lane",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/spanish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/spanish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "davies-and-brook-VXR0C7KK",
+      "name": "Davies and Brook",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "petersham-nurseries-caf-VTB00VQ8",
+      "name": "Petersham Nurseries Café",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "core-by-clare-smyth-HVRYF8AE",
+      "name": "Core by Clare Smyth",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-ritz-restaurant-W9WJRPOM",
+      "name": "The Ritz Restaurant",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/french.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/french.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "alain-ducasse-at-the-dorchester-A90UL8WG",
+      "name": "Alain Ducasse at The Dorchester",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/french.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/french.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "la-dame-de-pic-london-XJVOE607",
+      "name": "La Dame de Pic London",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/french.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/french.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "ikoyi-CIXJIH1C",
+      "name": "Ikoyi",
+      "results": [
+        {
+          "path": "/images/tiles/areas/central-london.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/areas/central-london.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "sabor-CUQLE2CM",
+      "name": "Sabor",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/spanish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/spanish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-london-edition-15FYFG7D",
+      "name": "The London Edition",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "cleste-at-the-lanesborough-1JMPT7KK",
+      "name": "Céleste at The Lanesborough",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/french.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/french.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "wiltons-HFSCEG3C",
+      "name": "Wiltons",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/seafood.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/seafood.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "fera-at-claridges-72TDCBGN",
+      "name": "Fera at Claridge's",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/modern-european.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "hakkasan-hanway-place-W55RC36O",
+      "name": "Hakkasan Hanway Place",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/chinese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/chinese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "yauatcha-9S83EN0A",
+      "name": "Yauatcha",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/chinese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/chinese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "din-tai-fung-XQAR872W",
+      "name": "Din Tai Fung",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/chinese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/chinese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "dishoom-kings-cross-Q7X0ZTTJ",
+      "name": "Dishoom King's Cross",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-palomar-3DTHDW1K",
+      "name": "The Palomar",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/middle-eastern.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/middle-eastern.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "barrafina-frith-street-0ZGVBN2S",
+      "name": "Barrafina Frith Street",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/spanish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/spanish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "manjaros-restaurant-ilford-ZY0BLDXP",
+      "name": "Manjaros Restaurant Ilford",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "sahara-grill-ilford-UAZ2Y5DG",
+      "name": "Sahara Grill Ilford",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/turkish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/turkish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "shahs-halal-food-ilford-BZVQBE1X",
+      "name": "Shah's Halal Food Ilford",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/turkish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/turkish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-lahore-kebab-house-DFV903Y8",
+      "name": "The Lahore Kebab House",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/pakistani.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/pakistani.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "aladin-57N2QU3L",
+      "name": "Aladin",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "cafe-spice-namast-JOAHELME",
+      "name": "Cafe Spice Namasté",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "gunpowder-F7Q214GS",
+      "name": "Gunpowder",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "dumplings-legend-7GKDS4QE",
+      "name": "Dumplings' Legend",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/chinese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/chinese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "cinnamon-kitchen-7WHTNL8J",
+      "name": "Cinnamon Kitchen",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "imli-street-83BA2X5K",
+      "name": "Imli Street",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "dishoom-3GYFTXGC",
+      "name": "Dishoom",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "berber-q-KBZUAMTQ",
+      "name": "Berber & Q",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/middle-eastern.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/middle-eastern.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "mangal-2-019PVJT6",
+      "name": "Mangal 2",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/turkish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/turkish.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "som-saa-ECODOJLF",
+      "name": "Som Saa",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/thai.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/thai.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "zeret-kitchen-9M6ABO1U",
+      "name": "Zeret Kitchen",
+      "results": [
+        {
+          "path": "/images/heroes/site-default.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/heroes/site-default.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "pride-of-asia-NSD3JSUP",
+      "name": "Pride of Asia",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/bangladeshi.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/bangladeshi.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-golden-hind-JJKSE97R",
+      "name": "The Golden Hind",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/seafood.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/seafood.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "cay-tre-FT0RPJ09",
+      "name": "Cay Tre",
+      "results": [
+        {
+          "path": "/images/tiles/areas/central-london.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/areas/central-london.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "song-que-cafe-95TCMDZB",
+      "name": "Song Que Cafe",
+      "results": [
+        {
+          "path": "/images/tiles/areas/hackney.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/areas/hackney.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "rowleys-UMO2ZMHV",
+      "name": "Rowley's",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-waterway-KBYZ6DGJ",
+      "name": "The Waterway",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/british.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "shish-restaurant-P2J5K4FE",
+      "name": "Shish Restaurant",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/lebanese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/lebanese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "ranoush-D99BTD3C",
+      "name": "Ranoush",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/lebanese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/lebanese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "maroush-BOI5CN4U",
+      "name": "Maroush",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/lebanese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/lebanese.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-lahore-4IQ1TIF9",
+      "name": "The Lahore",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/pakistani.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/pakistani.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "brick-lane-brasserie-3JYVBASW",
+      "name": "Brick Lane Brasserie",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "caf-spice-namast-R92SE062",
+      "name": "Café Spice Namasté",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "rajdhani-restaurant-8V127PKO",
+      "name": "Rajdhani Restaurant",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "viraswami-N3WHGCEK",
+      "name": "Viraswami",
+      "results": [
+        {
+          "path": "/images/tiles/areas/southall.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/areas/southall.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "gurus-O3JI3MO3",
+      "name": "Guru's",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "birmingham-sweet-centre-BU0B0ONU",
+      "name": "Birmingham Sweet Centre",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "shivalli-E4RY5MAS",
+      "name": "Shivalli",
+      "results": [
+        {
+          "path": "/images/tiles/areas/southall.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/areas/southall.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "saravanaa-bhavan-VBJ2SVRN",
+      "name": "Saravanaa Bhavan",
+      "results": [
+        {
+          "path": "/images/tiles/areas/southall.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/areas/southall.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "maruthi-9UHM5WD1",
+      "name": "Maruthi",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "ashoka-restaurant-QWMRHHCB",
+      "name": "Ashoka Restaurant",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "sagar-SPOPJSV5",
+      "name": "Sagar",
+      "results": [
+        {
+          "path": "/images/tiles/areas/southall.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/areas/southall.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "madhus-47VAP04D",
+      "name": "Madhu's",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "sheesh-mahal-X1QCK7E9",
+      "name": "Sheesh Mahal",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "gifto-VPVM93L6",
+      "name": "Gifto",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "khyber-pass-05WBI52H",
+      "name": "Khyber Pass",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/afghan.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/afghan.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "spice-village-FR2CTLTM",
+      "name": "Spice Village",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "kingsbury-palace-DJYDHLKB",
+      "name": "Kingsbury Palace",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "spice-garden-22SZN4XK",
+      "name": "Spice Garden",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "masala-zone-1511OMX3",
+      "name": "Masala Zone",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "the-clay-oven-HKWPSEDO",
+      "name": "The Clay Oven",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "zaika-7IO6HYDQ",
+      "name": "Zaika",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "tayyabs-slough-774TD53F",
+      "name": "Tayyabs Slough",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/pakistani.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/pakistani.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "spice-lounge-3BSQ02NM",
+      "name": "Spice Lounge",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "rajputana-X53CRL8I",
+      "name": "Rajputana",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "bombay-palace-4X59UN0O",
+      "name": "Bombay Palace",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "saffron-464XLDAV",
+      "name": "Saffron",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "dawat-2U1S7A5F",
+      "name": "Dawat",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "gate-of-india-YMYMLHM9",
+      "name": "Gate of India",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "himalaya-6TFF2QAT",
+      "name": "Himalaya",
+      "results": [
+        {
+          "path": "/images/tiles/areas/slough.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/areas/slough.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "kashmir-spice-0IFXMZYV",
+      "name": "Kashmir Spice",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "bengal-kitchen-GUYGQFYG",
+      "name": "Bengal Kitchen",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    },
+    {
+      "slug": "spice-island-MFO0J3GG",
+      "name": "Spice Island",
+      "results": [
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        },
+        {
+          "path": "/images/tiles/cuisines/indian.webp",
+          "action": "no_action_needed",
+          "reason": "valid_image"
+        }
+      ]
+    }
+  ]
+}

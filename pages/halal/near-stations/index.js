@@ -25,7 +25,7 @@ export async function getStaticProps() {
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     const venuesData = JSON.parse(fileContent);
     const allVenues = Array.isArray(venuesData) ? venuesData : (venuesData.venues || []);
@@ -49,8 +49,7 @@ export async function getStaticProps() {
         stations: stationsWithCounts,
         totalVenues,
         lastUpdated: (typeof venuesData === 'object' && !Array.isArray(venuesData) && venuesData.lastUpdated) ? venuesData.lastUpdated : new Date().toISOString()
-      },
-      revalidate: 86400
+      }
     };
   } catch (error) {
     console.error('Error loading venues data:', error);
@@ -59,8 +58,7 @@ export async function getStaticProps() {
         stations: LONDON_STATIONS.map(s => ({ ...s, count: 0 })),
         totalVenues: 0,
         lastUpdated: new Date().toISOString()
-      },
-      revalidate: 86400
+      }
     };
   }
 }

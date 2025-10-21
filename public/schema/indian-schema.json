@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Indian Restaurants in London",
+  "description": "Explore the best Indian restaurants in London featuring authentic curries, tandoori, and regional specialties.",
+  "url": "https://www.thebestinlondon.co.uk/indian",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Best Indian Restaurants in London",
+    "description": "Explore the best Indian restaurants in London featuring authentic curries, tandoori, and regional specialties.",
+    "numberOfItems": "20+",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Top Indian Restaurants"
+      }
+    ]
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.thebestinlondon.co.uk/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Cuisines",
+        "item": "https://www.thebestinlondon.co.uk/cuisines"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Indian Restaurants in London",
+        "item": "https://www.thebestinlondon.co.uk/indian"
+      }
+    ]
+  },
+  "keywords": "Indian restaurants London, curry London, tandoori London, Indian cuisine London",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Best in London",
+    "url": "https://www.thebestinlondon.co.uk",
+    "logo": "https://www.thebestinlondon.co.uk/logo.png"
+  }
+}

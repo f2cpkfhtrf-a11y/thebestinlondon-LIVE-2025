@@ -5,8 +5,8 @@ function getVenueImage(venue, idx) {
   if (venue.photos && venue.photos[0] && venue.photos[0].photo_reference) {
     return `https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=${venue.photos[0].photo_reference}&key=${process.env.NEXT_PUBLIC_GOOGLE_PLACES_KEY}`;
   }
-  const unsplashIds = ['fdlZBWIP0aM', 'MqT0asuoIcU', 'N_Y88TWmGwA', 'jpkfc5_d-DI', 'bpPTlXWTOvg'];
-  return `https://images.unsplash.com/photo-${unsplashIds[idx % unsplashIds.length]}?w=800&q=80`;
+  // Use local default image instead of Unsplash
+  return '/images/heroes/site/default-card.webp';
 }
 
 export async function getStaticProps() {
@@ -14,7 +14,7 @@ export async function getStaticProps() {
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     const allVenues = JSON.parse(fileContent);
     

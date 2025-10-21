@@ -24,7 +24,7 @@ export default function OptimizedImage({
   };
 
   // Fallback image for errors
-  const fallbackSrc = 'https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&q=85';
+  const fallbackSrc = '/images/heroes/site/default-card.webp';
 
   return (
     <div className={`relative overflow-hidden ${className}`}>

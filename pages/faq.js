@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import Head from 'next/head';
-import Layout from '../components/Layout';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import RichMarkdown from '../components/content/RichMarkdown';
 import Link from 'next/link';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
@@ -28,8 +29,7 @@ export async function getStaticProps() {
     props: {
       faqs,
       heroImage
-    },
-    revalidate: 3600
+    }
   };
 }
 
@@ -50,7 +50,7 @@ export default function FAQPage({ faqs, heroImage }) {
   }, [searchTerm, faqs]);
 
   return (
-    <Layout>
+    <>
       <Head>
         <title>Frequently Asked Questions | The Best in London</title>
         <meta name="description" content="Find answers to common questions about London restaurants, dining guides, and our recommendations. Get expert advice on the best places to eat in the capital." />
@@ -58,10 +58,19 @@ export default function FAQPage({ faqs, heroImage }) {
         <meta property="og:description" content="Find answers to common questions about London restaurants and dining guides." />
         <meta property="og:image" content={heroImage.src} />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/faq" />
+        
+        {/* Additional SEO meta tags */}
+        <meta name="robots" content="index, follow, max-snippet:-1" />
+        <meta name="googlebot" content="index, follow" />
+        <link rel="alternate" hrefLang="en-GB" href="https://www.thebestinlondon.co.uk/faq" />
+        <link rel="alternate" hrefLang="en" href="https://www.thebestinlondon.co.uk/faq" />
       </Head>
 
-      {/* Hero Section */}
-      <div className="relative h-64 md:h-96 bg-gray-900 overflow-hidden">
+      <div className="min-h-screen bg-black">
+        <Header />
+
+        {/* Hero Section */}
+        <div className="relative h-64 md:h-96 bg-gray-900 overflow-hidden">
         <img
           src={`${heroImage.src}?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`}
           alt={heroImage.alt}
@@ -172,6 +181,9 @@ export default function FAQPage({ faqs, heroImage }) {
           })
         }}
       />
-    </Layout>
+        
+        <Footer />
+      </div>
+    </>
   );
 }

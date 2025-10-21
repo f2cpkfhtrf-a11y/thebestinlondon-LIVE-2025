@@ -361,7 +361,7 @@ const SearchResults = ({ query, venues, onFilterChange }) => {
               {/* Image */}
               <div className="aspect-w-16 aspect-h-9 bg-grey-light">
                 <img
-                  src={venue.image_url || 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85'}
+                  src={venue.image_url || '/images/heroes/site/default-card.webp'}
                   alt={venue.image_alt || `${venue.name} — ${venue.cuisines?.[0] || 'Restaurant'}, ${venue.area || venue.borough || 'London'}, London`}
                   className="w-full h-48 object-cover"
                 />

@@ -9,13 +9,15 @@ const FilterBar = ({
   showAreaFilter = true,
   showCuisineFilter = true,
   showDietaryFilter = true,
-  showRatingFilter = true
+  showRatingFilter = true,
+  showOpenNowFilter = true
 }) => {
   const [filters, setFilters] = useState({
     area: area || '',
-    cuisine: cuisine || '',
+    cuisine: showCuisineFilter ? (cuisine || '') : '', // Only set if cuisine filter is enabled
     dietary: '',
     rating: '',
+    openNow: false,
     sortBy: 'rating'
   });
 
@@ -33,9 +35,20 @@ const FilterBar = ({
       filtered = filtered.filter(v => v.borough === filters.area);
     }
 
-    // Cuisine filter
-    if (filters.cuisine) {
-      filtered = filtered.filter(v => v.cuisines && v.cuisines.includes(filters.cuisine));
+    // Cuisine filter - only apply if filter is enabled and a value is set
+    if (showCuisineFilter && filters.cuisine) {
+      // Use flexible matching for cuisine filter (not just exact match)
+      filtered = filtered.filter(v => {
+        if (!v.cuisines || !Array.isArray(v.cuisines)) return false;
+        const filterCuisineLower = filters.cuisine.toLowerCase().trim();
+        return v.cuisines.some(c => {
+          if (!c) return false;
+          const cLower = c.toLowerCase().trim();
+          return cLower === filterCuisineLower || 
+                 cLower.includes(filterCuisineLower) || 
+                 filterCuisineLower.includes(cLower);
+        });
+      });
     }
 
     // Dietary filter
@@ -47,6 +60,39 @@ const FilterBar = ({
     if (filters.rating) {
       const minRating = parseFloat(filters.rating);
       filtered = filtered.filter(v => v.rating && v.rating >= minRating);
+    }
+
+    // Open Now filter
+    if (filters.openNow) {
+      const now = new Date();
+      const currentDay = now.getDay(); // 0 = Sunday, 1 = Monday, etc.
+      const currentTime = now.getHours() * 100 + now.getMinutes(); // e.g., 1430 for 14:30
+      
+      filtered = filtered.filter(v => {
+        if (!v.opening_hours || !v.opening_hours.periods) return false;
+        
+        const periods = v.opening_hours.periods || [];
+        return periods.some(period => {
+          const openDay = period.open?.day;
+          const closeDay = period.close?.day;
+          const openTime = period.open?.time ? parseInt(period.open.time) : null;
+          const closeTime = period.close?.time ? parseInt(period.close.time) : null;
+          
+          if (openTime === null || closeTime === null) return false;
+          
+          // Handle same-day openings
+          if (openDay === currentDay && closeDay === currentDay) {
+            return currentTime >= openTime && currentTime < closeTime;
+          }
+          
+          // Handle overnight openings (e.g., close on next day)
+          if (openDay === currentDay && closeDay === (currentDay + 1) % 7) {
+            return currentTime >= openTime || currentTime < closeTime;
+          }
+          
+          return false;
+        });
+      });
     }
 
     // Sort
@@ -82,6 +128,7 @@ const FilterBar = ({
       cuisine: cuisine || '',
       dietary: '',
       rating: '',
+      openNow: false,
       sortBy: 'rating'
     });
   };
@@ -172,6 +219,21 @@ const FilterBar = ({
                 <option value="3.5">3.5+ Stars</option>
                 <option value="3.0">3.0+ Stars</option>
               </select>
+            </div>
+          )}
+
+          {/* Open Now Filter */}
+          {showOpenNowFilter && (
+            <div className="flex items-center space-x-2">
+              <label className="flex items-center space-x-2 cursor-pointer">
+                <input
+                  type="checkbox"
+                  checked={filters.openNow}
+                  onChange={(e) => handleFilterChange('openNow', e.target.checked)}
+                  className="w-4 h-4 bg-black-light border border-grey-dark rounded text-gold focus:ring-gold focus:ring-2"
+                />
+                <span className="text-sm font-medium text-grey">Open Now</span>
+              </label>
             </div>
           )}
 

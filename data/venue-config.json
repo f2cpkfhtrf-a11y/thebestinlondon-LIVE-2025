@@ -1,0 +1,19 @@
+{
+  "venueData": {
+    "source": "data/venues.json",
+    "description": "Single source of truth for all venue data",
+    "lastUpdated": "2025-10-22T17:13:03.234Z",
+    "totalVenues": 511,
+    "notes": [
+      "This is the ONLY file that should be used for venue data",
+      "All pages must reference data/venues.json",
+      "Do not create new venue files without updating this config",
+      "Old venue files are backed up in backups/venue-files/"
+    ]
+  },
+  "safeguards": {
+    "checkOnBuild": true,
+    "validateVenueCount": true,
+    "preventMultipleSources": true
+  }
+}

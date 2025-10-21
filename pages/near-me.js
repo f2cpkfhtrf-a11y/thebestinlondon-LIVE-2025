@@ -1,13 +1,28 @@
 import { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import dynamic from 'next/dynamic';
 import { theme } from '../utils/theme';
 import FSABadge from '../components/FSABadge';
 import BestOfLondonBadge from '../components/BestOfLondonBadge';
-import NearMeFeature from '../components/NearMeFeature';
 import { resolveCardImageSync } from '../lib/resolveHeroImage';
 import fs from 'fs';
 import path from 'path';
+
+// Dynamically import NearMeFeature to reduce initial bundle size
+const NearMeFeature = dynamic(() => import('../components/NearMeFeature'), {
+  loading: () => (
+    <div className="bg-charcoal/95 backdrop-blur-md border-b border-grey-dark sticky top-16 z-40">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <div className="flex items-center space-x-3">
+          <div className="w-8 h-8 bg-gold/20 rounded-full flex items-center justify-center animate-pulse"></div>
+          <h3 className="text-lg font-serif font-semibold text-warmWhite">Loading location features...</h3>
+        </div>
+      </div>
+    </div>
+  ),
+  ssr: false
+});
 
 export default function NearMePage({ venues }) {
   const [filteredVenues, setFilteredVenues] = useState(venues);
@@ -55,6 +70,15 @@ export default function NearMePage({ venues }) {
         <title>Restaurants Near Me | The Best in London</title>
         <meta name="description" content="Find the best restaurants near your location in London. Discover top-rated dining options within walking distance with real reviews and FSA ratings." />
         <link rel="canonical" href="https://thebestinlondon.co.uk/near-me" />
+        
+        {/* Additional SEO meta tags */}
+        <meta name="robots" content="index, follow, max-image-preview:large" />
+        <meta name="googlebot" content="index, follow" />
+        <meta name="geo.region" content="GB-ENG" />
+        <meta name="geo.placename" content="London" />
+        <link rel="alternate" hrefLang="en-GB" href="https://www.thebestinlondon.co.uk/near-me" />
+        <link rel="alternate" hrefLang="en" href="https://www.thebestinlondon.co.uk/near-me" />
+        
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "WebPage",
@@ -172,12 +196,12 @@ export default function NearMePage({ venues }) {
               let distance = null;
               let walkingTime = null;
               
-              if (userLocation && venue.latitude && venue.longitude) {
+              if (userLocation && venue.lat && venue.lng) {
                 distance = calculateDistance(
                   userLocation.lat,
                   userLocation.lng,
-                  venue.latitude,
-                  venue.longitude
+                  venue.lat,
+                  venue.lng
                 );
                 walkingTime = getWalkingTime(distance);
               }
@@ -228,7 +252,7 @@ export default function NearMePage({ venues }) {
                       <div className="flex items-center space-x-2 mb-3">
                         <span className="text-gold text-lg">★</span>
                         <span className="text-warmWhite font-semibold">{venue.rating?.toFixed(1) || 'N/A'}</span>
-                        <span className="text-grey text-sm">({venue.review_count || 0} reviews)</span>
+                        <span className="text-grey text-sm">({venue.user_ratings_total || venue.review_count || 0} reviews)</span>
                       </div>
 
                       <div className="text-grey text-sm mb-3">
@@ -287,7 +311,7 @@ export default function NearMePage({ venues }) {
 
 export async function getStaticProps() {
   try {
-    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
+    const venuesPath = path.join(process.cwd(), 'data', 'venues.json');
     
     if (!fs.existsSync(venuesPath)) {
       return { notFound: true };
@@ -298,14 +322,13 @@ export async function getStaticProps() {
 
     // Filter venues that have location data
     const venuesWithLocation = venues.filter(venue => 
-      venue.latitude && venue.longitude
+      venue.lat && venue.lng
     );
 
     return {
       props: {
         venues: venuesWithLocation
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error in getStaticProps:', error);

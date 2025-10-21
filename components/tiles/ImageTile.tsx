@@ -35,36 +35,53 @@ const ImageTile: React.FC<ImageTileProps> = ({
     setImageLoaded(true);
   };
 
+  // Preload the image to ensure it loads
+  React.useEffect(() => {
+    const img = new Image();
+    img.onload = handleImageLoad;
+    img.onerror = handleImageError;
+    img.src = src;
+  }, [src]);
+
   return (
     <Link href={href} className={`group block ${className}`}>
       <div 
         className="relative h-[180px] sm:h-[220px] rounded-2xl overflow-hidden shadow-lg border border-grey-dark hover:shadow-xl transition-all duration-300 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-gold focus-within:ring-offset-2 focus-within:ring-offset-black"
-        style={{
-          backgroundImage: `url(${src})`,
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          backgroundRepeat: 'no-repeat',
-          backgroundColor: '#1A1A1A' // Fallback background color
-        }}
       >
-        {/* Image for loading detection and accessibility */}
-        <img
-          src={src}
-          alt={alt}
-          className="sr-only"
-          onLoad={handleImageLoad}
-          onError={handleImageError}
-        />
-        
-        {/* Loading state */}
-        {!imageLoaded && (
-          <div className="absolute inset-0 bg-charcoal-light animate-pulse flex items-center justify-center">
-            <div className="w-8 h-8 border-2 border-gold border-t-transparent rounded-full animate-spin"></div>
-          </div>
+        {/* Image layer - using img tag for better error handling */}
+        {src && (
+          <>
+            <img
+              src={src}
+              alt={alt}
+              className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-300 ${
+                imageLoaded && !imageError ? 'opacity-100' : 'opacity-0'
+              }`}
+              onLoad={handleImageLoad}
+              onError={handleImageError}
+            />
+            
+            {/* Loading state */}
+            {!imageLoaded && !imageError && (
+              <div className="absolute inset-0 bg-charcoal-light animate-pulse flex items-center justify-center">
+                <div className="w-8 h-8 border-2 border-gold border-t-transparent rounded-full animate-spin"></div>
+              </div>
+            )}
+            
+            {/* Error state - show placeholder */}
+            {imageError && (
+              <div className="absolute inset-0 bg-gradient-to-br from-charcoal-light to-charcoal flex items-center justify-center">
+                <div className="text-center text-gold">
+                  <div className="text-2xl mb-2">🍽️</div>
+                  <div className="text-sm font-medium">{title}</div>
+                </div>
+              </div>
+            )}
+          </>
         )}
         
-        {/* Error state */}
-        {imageError && (
+        {/* Fallback if no src */}
+        {!src && (
           <div className="absolute inset-0 bg-gradient-to-br from-charcoal-light to-charcoal flex items-center justify-center">
             <div className="text-center text-gold">
               <div className="text-2xl mb-2">🍽️</div>

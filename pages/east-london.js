@@ -9,7 +9,7 @@ export async function getStaticProps() {
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let data = JSON.parse(fileContent);
     
@@ -92,8 +92,7 @@ export async function getStaticProps() {
         },
         areas,
         lastUpdated: (typeof data === 'object' && !Array.isArray(data) && data.lastUpdated) ? data.lastUpdated : new Date().toISOString()
-      },
-      revalidate: 86400
+      }
     };
   } catch (error) {
     console.error('Error loading venues:', error);
@@ -136,8 +135,7 @@ export default function EastLondon({ venues, stats, areas, lastUpdated }) {
     { id: 'halal', label: 'Halal', count: stats.halalCount, emoji: '☪️' },
     { id: 'vegan', label: 'Vegan', count: stats.veganCount, emoji: '🌱' },
     { id: 'vegetarian', label: 'Vegetarian', count: stats.vegetarianCount, emoji: '🥗' },
-    { id: 'top-rated', label: 'Top Rated', count: venues.filter(v => v.rating >= 4.5).length, emoji: '⭐' },
-  ];
+    { id: 'top-rated', label: 'Top Rated', count: venues.filter(v => v.rating >= 4.5).length, emoji: '⭐' }];
 
   return (<>
     <Head>
@@ -178,8 +176,7 @@ export default function EastLondon({ venues, stats, areas, lastUpdated }) {
         background: 'rgba(11,11,11,0.95)',
         backdropFilter: 'blur(12px)',
         borderBottom: `1px solid ${theme.colors.border.subtle}`,
-        padding: '16px 0',
-      }}>
+        padding: '16px 0'}}>
         <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
             <Link href="/" style={{ textDecoration: 'none' }}>
@@ -203,10 +200,9 @@ export default function EastLondon({ venues, stats, areas, lastUpdated }) {
         alignItems: 'center',
         justifyContent: 'center',
         overflow: 'hidden',
-        background: `linear-gradient(to bottom, rgba(11,11,11,0.4), rgba(11,11,11,0.8)), url('https://images.unsplash.com/photo-1513267048331-5611cad62662?w=2400&q=90')`,
+        background: `linear-gradient(to bottom, rgba(11,11,11,0.4), rgba(11,11,11,0.8)), url('/images/heroes/site/default-list-hero.webp')`,
         backgroundSize: 'cover',
-        backgroundPosition: 'center',
-      }}>
+        backgroundPosition: 'center'}}>
         <div style={{ position: 'relative', zIndex: 2, textAlign: 'center', maxWidth: '800px', padding: '0 20px' }}>
           <h1 style={{
             fontFamily: theme.typography.serif,
@@ -230,8 +226,7 @@ export default function EastLondon({ venues, stats, areas, lastUpdated }) {
             {[
               { label: `${stats.halalCount}+ Halal`, emoji: '☪️' },
               { label: `${stats.veganCount}+ Vegan`, emoji: '🌱' },
-              { label: `⭐ ${stats.avgRating} Avg Rating`, emoji: '⭐' },
-            ].map((stat, idx) => (
+              { label: `⭐ ${stats.avgRating} Avg Rating`, emoji: '⭐' }].map((stat, idx) => (
               <div key={idx} style={{
                 padding: `${theme.spacing.sm} ${theme.spacing.lg}`,
                 background: 'rgba(255,255,255,0.1)',
@@ -256,8 +251,7 @@ export default function EastLondon({ venues, stats, areas, lastUpdated }) {
         background: 'rgba(17,17,17,0.95)',
         backdropFilter: 'blur(12px)',
         borderBottom: `1px solid ${theme.colors.border.subtle}`,
-        padding: '20px 0',
-      }}>
+        padding: '20px 0'}}>
         <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
           <div style={{ fontSize: '11px', textTransform: 'uppercase', letterSpacing: '0.1em', color: theme.colors.text.secondary, marginBottom: '12px', fontWeight: 600 }}>
             Filter by Dietary Preference
@@ -383,7 +377,7 @@ export default function EastLondon({ venues, stats, areas, lastUpdated }) {
                   <div style={{ position: 'relative', height: '240px', overflow: 'hidden' }}>
                     {venue.photos && venue.photos[0] ? (
                       <img 
-                        src={venue.photos[0].url || `https://images.unsplash.com/photo-${['fdlZBWIP0aM', 'MqT0asuoIcU', 'N_Y88TWmGwA'][idx % 3]}?w=800&q=85`}
+                        src={venue.photos[0].url || '/images/heroes/site/default-card.webp'}
                         alt={venue.name}
                         style={{ 
                           width: '100%', 

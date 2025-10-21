@@ -1,0 +1,1100 @@
+{
+  "summary": {
+    "total_british": 274,
+    "mis_tagged": 10,
+    "likely_british": 7,
+    "needs_review": 257
+  },
+  "mis_tagged": [
+    {
+      "name": "The Banc",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "Airy, modern restaurant for steaks, burgers & more, plus a 2-storey shisha lounge."
+    },
+    {
+      "name": "Sunday in Brooklyn - Modern American Restaurant Marylebone",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Señor Ceviche Peruvian Restaurant Soho",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "Peruvian BBQ, ceviche and pisco cocktails served in a bright environment, reminiscent of urban Lima."
+    },
+    {
+      "name": "Band of Burgers, Camden",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "Local chain grilling burgers on charcoal and serving them with cocktails, fresh juices and shakes."
+    },
+    {
+      "name": "STAX Burgers - Westfield Stratford",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Princelyn (Nigerian Restaurant & Groceries)",
+      "current_tag": "british",
+      "should_be": "african",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Andy's Burgers Mile End",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Simply Smashed - Quality Smash Burgers",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "WNGZ Mile End (Chicken Wings, Burgers, Cheesy chips)",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "BBQ Express - Stratford",
+      "current_tag": "british",
+      "should_be": "american",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    }
+  ],
+  "needs_review": [
+    {
+      "name": "Plaza Khao Gaeng",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Kin + Deum",
+      "description": "Contemporary cooking of Bangkok with cocktails in a stylishly spare, dog-friendly dining room."
+    },
+    {
+      "name": "Chet's",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Meet Bros (by Me’nate x Jibby&co.)",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Steak and Company - Covent Garden",
+      "description": "Contemporary venue specialising in chargrilled beef, ribs and comfort food with a pre-theatre menu."
+    },
+    {
+      "name": "Naroon Fitzrovia",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mildreds Victoria",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mildreds Kings Cross",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Hélène Darroze at The Connaught",
+      "description": "Famous chef's haute cuisine in an elegant hotel dining room with wood panels and colourful fabrics."
+    },
+    {
+      "name": "E5 Bakehouse",
+      "description": "Artisan bakery & cafe with a community focus serving sourdough bread, organic lunches & cakes."
+    },
+    {
+      "name": "Brother Marcus Borough",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Brother Marcus South Kensington",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Duck & Waffle",
+      "description": "British & European cuisine 24/7 in a modern 40th-floor space that has floor-to-ceiling windows."
+    },
+    {
+      "name": "Brother Marcus Covent Garden",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Blacklock Soho",
+      "description": "Atmospheric basement restaurant and bar for seared meat chops, plus cocktails from trolley carts."
+    },
+    {
+      "name": "Blacklock Shoreditch",
+      "description": "Set in a renovated furniture factory with mid-century, industrial interiors & modern, British menu."
+    },
+    {
+      "name": "Popolo Shoreditch",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "SMOKESTAK",
+      "description": "A smoker and grill take centre stage at this stylishly rustic barbecue joint with a bar and terrace."
+    },
+    {
+      "name": "Gaia Mayfair",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Corrigan's Mayfair",
+      "description": "Modern gourmet cuisine in a high-end destination highlighting thoughtfully sourced ingredients."
+    },
+    {
+      "name": "Bluebird Chelsea",
+      "description": "European food and cocktails in smart spot with monochrome floor tiles, feature lighting and terrace."
+    },
+    {
+      "name": "Granger & Co. Chelsea",
+      "description": "Eclectic fare with an Australian flair served in a simple setting with a sophisticated vibe."
+    },
+    {
+      "name": "Baba Restaurant Chelsea",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Blacklock Covent Garden",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Inamo Covent Garden",
+      "description": "High-tech tables & menus in a cool Pan-Asian restaurant that has a games room."
+    },
+    {
+      "name": "Cora Pearl",
+      "description": "Hearty comfort food & handcraft cocktails served in a historic, chic Covent Garden townhouse."
+    },
+    {
+      "name": "Granger and Co. Notting Hill",
+      "description": "International dining with an Aussie accent in airy, no-reservations dining room with large windows."
+    },
+    {
+      "name": "Gold",
+      "description": "Seasonal, thoughtfully sourced plates are served in this cool eatery that has a bar & a terrace."
+    },
+    {
+      "name": "LUSH & HUSH",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Barbary Notting Hill",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Blues Kitchen Camden",
+      "description": "Dedicated blues bar serving hickory-smoked comfort food, plus regular live music & DJs."
+    },
+    {
+      "name": "La Patagonia",
+      "description": "Exposed-brick, barrio-style setting featuring hearty homestyle Argentinian cuisine."
+    },
+    {
+      "name": "Made in Brasil",
+      "description": "Brazilian and Latino cuisine in colourful beach shack-style restaurant and bar with live music."
+    },
+    {
+      "name": "Brother Marcus Canary Wharf",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Barbarella",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Gaucho Canary Wharf",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Blacklock Canary Wharf",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Brera Lounge",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Six by Nico Canary Wharf",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Sahara Grill Whitechapel",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Hotto Potto",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Bocca In Cielo",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Rasoi Ghar",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Du'aa Diner",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Tayyabs",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Dilpasand Restaurant",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Babel Grill House",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "DanDan Aldgate East",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Janna Cafe",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Halal Restaurant",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Grounded London",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Sylhet Nights",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Dragon's Den Oriental Kitchen",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Naan Staap®",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Baristas Lounge",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Madina Grill",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Zaiqa London",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Baraka Eatery London",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Maedah Grill",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Grill Guys",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Madison Steak & Grill",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Enigma Pan Asian",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Wah Bey",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Monal Restaurant London",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Connaught",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Nosh",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Banana Leaf",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Zamana",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Meat Street",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "restaurant favorit",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Singam Bay",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Zahra Grill Restaurant",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Kahani",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Saffron Street",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Sahara Grill",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Shah's Halal Food Ilford",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "PHAT BITE Ilford",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Spice Khazana",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Franzos Ilford",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Naan Staap",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Grill House",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Paradise Romford",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Neyzen Restaurant and Pods",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Turtle Bay Romford",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Ciao Bella",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Braza Churrascaria Rodizio",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mangal Meze Restaurant",
+      "description": "From Istanbul's spice markets to London's tables - authentic flavors with modern flair. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Blue Orchid",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Ivy Tree",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "COSMO World Buffet Romford",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Roosters Piri Piri",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Minoa Restaurant",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Veyso's Romford Restaurant",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Sunrise Lutong Bahay",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Tilaw",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "wagamama romford",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "CREM Kitchen",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Flippin Grill",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "MyShish Romford",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Lara Grill",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Bekash Restaurant & Take Away",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Stack & Sizzle",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Chef Asia",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Yebaba Levantine Kitchen",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Nasi Isda® Romford",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Bread Street Kitchen, Bar & Rooftop - Stratford",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Kokin Restaurant",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "HERA",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "FIGO Stratford",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Bamboo-Mat Stratford",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Union Social",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Elondi Restaurant, Bar and Terrace",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "STK Steakhouse – Stratford",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Darkhorse Restaurant Bar",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mezban stratford",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Big Easy Bar.B.Q & Crabshack - Westfield, Stratford",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "XIX Nineteen",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Kitchen E20",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Santi",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Grill Stratford",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "THE FAT CRAB STRATFORD",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Master Bao - Westfield Stratford City",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Aroma Authentic Dum Biriyani",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Indi-go Rasoi Westfield Stratford",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Cafe Rasa Malaysia",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Al zayt Restaurant",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "HS & Co",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Steakout Stratford",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "BABABOOM",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Westbridge Restaurant",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Cabana",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Solo Kitchen & Bar",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Maple Brunch Cafe",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Palmers Restaurant",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Arepa & Co Venezuelan Restaurant - Bethnal Green",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Restaurant Elis",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "OMBRA",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Desi Lounge",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Da Terra Restaurant",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Brawn",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Cav",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Star of Bethnal Green",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "BRIQ",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Chaskaas",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Purpleish",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Shah's Halal Food Cambridge Heath Hackney",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mr Wong’s Wok & Box ️",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Gansu Bethnal Green",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Get Stuffed Stepney",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Papi Restaurant",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "DALLA",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Morito",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the trendy surroundings of Hackney, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Rogues.",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the trendy surroundings of Hackney, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Elliot’s - South Hackney",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Cafe Cecilia",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Angelina",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "LARDO",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Shankeys",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Narrow Kitchen",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mama Restaurant London",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the trendy surroundings of Hackney, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Big Night Bar & Restaurant Hackney",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Planque",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Rao's Bar & Restaurant",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mare Street Market",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Alchemist Canary Wharf",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Big Easy Bar.B.Q & Crabshack - Canary Wharf",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Caravan Canary Wharf Restaurant",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Oysteria",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Eggslut Canary Wharf",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Yolk",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Smoke End Steakhouse",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Darling's Eatery",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Bourbon",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Momlette",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Bow Grill",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Smoke & Pepper (Bow)",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Morgan Arms",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "MILAGROS BOW",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Bun & Sum",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Meat Up",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Coborn",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Afrikana Restaurant Mile End",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Victoria",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Ariana Restaurant LONDON",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mile End Sandwich Bar",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Coffee Room - Mile End",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Nando's Mile End",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Damal",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "FoodComa",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "King’s Flavour Mile End",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Rose Peri Peri Grill",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Suite 85 Grill",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Las Iguanas - London - Stratford Westfield",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Hardies Peri Peri",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "SMASH",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Slice of Meat",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Kolapata",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Needoo Grill",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Sotto Cucina & Bar",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Feast and Mishti",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Makkah Grill",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Spice Hut",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Munch",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the trendy surroundings of Hackney, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Eggslut Liverpool Street",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Drift",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Ivy City Garden",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Luca Dsq.",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Eataly London",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Dirty Martini - Cocktail Bar in Bishopsgate",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Piccolino Exchange Square",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Canto Corvino",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Gaucho Broadgate",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "McDonald's",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Devonshire Terrace",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Faroz Restaurant",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Salamis Restaurant",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Crave Station",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Wazir Restaurant",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Smoke & Pepper (Gants Hill)",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Urban Chocolatier",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Famz Peri Peri",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Taj Grill",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Gallio",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Scarpetta",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Capeesh",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Italina385",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Common E2",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Phat For Life",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Full Monty",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Arches Cafe",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Nando's Bethnal Green",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Al-Safa Grill",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Sweet Café - Stepney",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Shah's Halal Food Walthamstow",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "PAR LONDON - PAK AL REYAN RESTAURANT",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Lala’s Grill & Restaurant",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "MyShish",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Salash Kitchen - South Woodford",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Asado Steakhouse",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "E3 Vegan",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Siddhi Pure Veg Restaurant",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Bubala Spitalfields",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Essential Vegan Cafe",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Facing Heaven",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Taste of India Pure Vegetarian LTD",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "PlantXology",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Vegan Biosphere (Vegan Buffet)",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Adyar Ananda Bhavan - A2B Veg Restaurant",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Dauns",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Shinde's Pure Veg",
+      "description": "A sophisticated escape from the ordinary, where every dish tells a story of culinary craftsmanship. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "THE COVEN of WICHES",
+      "description": "Where innovation meets tradition - expect the unexpected in every beautifully plated creation. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "The Spread Eagle",
+      "description": "Contemporary cuisine that's as Instagram-worthy as it is palate-pleasing. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "WAVE",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Tofu vegan Spitalfields",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Black Cat café",
+      "description": "Where contemporary London meets European flair - think Michelin-starred techniques with a side of British charm. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Mildreds Dalston",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    },
+    {
+      "name": "Fed By Plants",
+      "description": "Modern European dining that doesn't take itself too seriously, but takes your taste buds very seriously indeed. Located in the heart of London, this is where London's food scene comes alive."
+    }
+  ]
+}

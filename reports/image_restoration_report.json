@@ -1,0 +1,3592 @@
+{
+  "timestamp": "2025-10-21T20:02:38.670Z",
+  "total_backup_venues": 512,
+  "total_current_venues": 593,
+  "restored": 511,
+  "skipped": 0,
+  "not_found": 1,
+  "details": [
+    {
+      "slug": "dishoom-covent-garden-OZ6OHOJw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dishoom-covent-garden-OZ6OHOJw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gymkhana-uPIWeLM0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gymkhana-uPIWeLM0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kricket-soho-2UcQZFVQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kricket-soho-2UcQZFVQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "maharaja-of-india-EVrlil9k",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/maharaja-of-india-EVrlil9k/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "aladin-brick-lane-FQXF-uoc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/aladin-brick-lane-FQXF-uoc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dishoom-kensington-1F6d_5-g",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dishoom-kensington-1F6d_5-g/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "brigadiers-GVEiDv0Y",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/brigadiers-GVEiDv0Y/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cinnamon-bazaar-ZAjZBRu4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cinnamon-bazaar-ZAjZBRu4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "pravaas-south-kensington-KhMpiz4I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/pravaas-south-kensington-KhMpiz4I/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-india-city-road-EvFfZ5AI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-india-city-road-EvFfZ5AI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "circolo-popolare-kqYLufoE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/circolo-popolare-kqYLufoE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "grasso-VxepVY0I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/grasso-VxepVY0I/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gloria-fPFxdplY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gloria-fPFxdplY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bocca-di-lupo-P7Z6jOko",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bocca-di-lupo-P7Z6jOko/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "padella-HPngIeq8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/padella-HPngIeq8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bancone-covent-garden-WUsAHugI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bancone-covent-garden-WUsAHugI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "doppo-MCqb9oIE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/doppo-MCqb9oIE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "manteca-5-ErLMaI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/manteca-5-ErLMaI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "giulia-restaurant-EkK4r0z4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/giulia-restaurant-EkK4r0z4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "amor-gastronomia-9fVApnuo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/amor-gastronomia-9fVApnuo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "zuma-london-3z813cBw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/zuma-london-3z813cBw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "oita-soho-xrSS0hZo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/oita-soho-xrSS0hZo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sushisamba-london-Ec6MJUBA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sushisamba-london-Ec6MJUBA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "maru-london-yQBXwWAI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/maru-london-yQBXwWAI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sushinoen-myiHS2BQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sushinoen-myiHS2BQ/british-sushinoen-myiHS2BQ-card-78bbfbc7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "rai-restaurant-london-5PZAMF6Q",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/rai-restaurant-london-5PZAMF6Q/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "inko-nito-soho-dhJJKNHQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/inko-nito-soho-dhJJKNHQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "yiqi-cDLJ0Z8k",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/yiqi-cDLJ0Z8k/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "imperial-treasure-fine-chinese-cuisine-geXXfXro",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/imperial-treasure-fine-chinese-cuisine-geXXfXro/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hutong-Q49MtNE4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hutong-Q49MtNE4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "house-of-ming-bmTrCQPc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/house-of-ming-bmTrCQPc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "peacock-london-zg_TLvpA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/peacock-london-zg_TLvpA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "noble-palace-6iVOz8Kc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/noble-palace-6iVOz8Kc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-sichuan-restaurant-939Y8L8U",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-sichuan-restaurant-939Y8L8U/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "min-jiang-K96aOVBM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/min-jiang-K96aOVBM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ma-la-sichuan-oHK7UfPw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ma-la-sichuan-oHK7UfPw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "golden-dragon-chinatown-H_WaE2es",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/golden-dragon-chinatown-H_WaE2es/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "speedboat-bar-FDICmOhQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/speedboat-bar-FDICmOhQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kolae-nf-sKA8g",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kolae-nf-sKA8g/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "nua-y2wrCPy4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/nua-y2wrCPy4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "anglothai-a6lDN5es",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/anglothai-a6lDN5es/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "plaza-khao-gaeng-uZGcbIvY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/plaza-khao-gaeng-uZGcbIvY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "patara-knightsbridge-XqlUbgWk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/patara-knightsbridge-XqlUbgWk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "champor-champor-R9lL4z-M",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/champor-champor-R9lL4z-M/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kin-deum-F7uvePWU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kin-deum-F7uvePWU/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "chets-Ll5SHDcE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/chets-Ll5SHDcE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "patara-oxford-circus-WjgPtZQI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/patara-oxford-circus-WjgPtZQI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "masa-turkish-restaurant-KJX5TS38",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/masa-turkish-restaurant-KJX5TS38/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ana-turkish-restaurant-and-bar-eHZ3zxSU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ana-turkish-restaurant-and-bar-eHZ3zxSU/british-ana-turkish-restaurant-and-bar-eHZ3zxSU-card-b6e3be78.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gkyz-green-lanes-y26cz5pA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gkyz-green-lanes-y26cz5pA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "efes-premium-kWL5j4TM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/efes-premium-kWL5j4TM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-mantl-GzBtMI-k",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-mantl-GzBtMI-k/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cirrik-19-numara-bos-aBzE5bwY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cirrik-19-numara-bos-aBzE5bwY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "liman-restaurant-GtZA40HM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/liman-restaurant-GtZA40HM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "antalya-bGIr-qxs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/antalya-bGIr-qxs/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dem-restaurant-traditional-turkish-restaurant-meze-grill-AY1XXrlM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dem-restaurant-traditional-turkish-restaurant-meze-grill-AY1XXrlM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "alanya-turkish-with-fusion-kallxaYU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/alanya-turkish-with-fusion-kallxaYU/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "fes-restaurant-3kGU0KS4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/fes-restaurant-3kGU0KS4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "brasserie-zedel-Qt3pySRI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/brasserie-zedel-Qt3pySRI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bouchon-racine-GC0DA5VM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bouchon-racine-GC0DA5VM/french-bouchon-racine-GC0DA5VM-card-be7ff7a1.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "le-relais-de-venise-lentrecote-marylebone-qxBm5ddA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/le-relais-de-venise-lentrecote-marylebone-qxBm5ddA/french-le-relais-de-venise-lentrecote-marylebone-qxBm5ddA-card-1ef361c4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lescargot-restaurant-DRcOlpog",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lescargot-restaurant-DRcOlpog/french-lescargot-restaurant-DRcOlpog-card-22ad5b02.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "galvin-la-chapelle-RDHmB8RA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/galvin-la-chapelle-RDHmB8RA/french-galvin-la-chapelle-RDHmB8RA-card-722d0df9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "chez-bruce-gOPPr5VY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/chez-bruce-gOPPr5VY/french-chez-bruce-gOPPr5VY-card-bdf66a72.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "maison-franois-E2yC1YJY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/maison-franois-E2yC1YJY/french-maison-franois-E2yC1YJY-card-5593200b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "casse-crote-C9yowifE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/casse-crote-C9yowifE/french-casse-crote-C9yowifE-card-ba3ddccc.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "clos-maggiore-KheUNnC4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/clos-maggiore-KheUNnC4/french-clos-maggiore-KheUNnC4-card-60776fc5.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "pavyllon-london-nD9nfpA0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/pavyllon-london-nD9nfpA0/french-pavyllon-london-nD9nfpA0-card-f229accf.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "la-trompette-MzysCr2Y",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/la-trompette-MzysCr2Y/french-la-trompette-MzysCr2Y-card-5f950c29.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "el-pirata-of-mayfair-tapas-bar-espaol-AE3sr-lc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/el-pirata-of-mayfair-tapas-bar-espaol-AE3sr-lc/british-el-pirata-of-mayfair-tapas-bar-espaol-AE3sr-lc-card-a4aac2af.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "copita-fitzrovia-tapas-bar-fK_Wb6Ms",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/copita-fitzrovia-tapas-bar-fK_Wb6Ms/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "la-gamba-spanish-tapas-bar-restaurant-7T6hRrh8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/la-gamba-spanish-tapas-bar-restaurant-7T6hRrh8/british-la-gamba-spanish-tapas-bar-restaurant-7T6hRrh8-card-9faecffb.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "salt-yard-0mnwGaVU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/salt-yard-0mnwGaVU/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "koko-grill-korean-bbq-restaurant-TiSvAj5c",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/koko-grill-korean-bbq-restaurant-TiSvAj5c/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "arang-restaurant-zi1Jg4Ec",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/arang-restaurant-zi1Jg4Ec/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "soju-korean-restaurant-4eZHjn3Q",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/soju-korean-restaurant-4eZHjn3Q/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "jang-restaurant-A2kpdsBc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/jang-restaurant-A2kpdsBc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "korean-dinner-party-ymMXVjzE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/korean-dinner-party-ymMXVjzE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "yori-piccadilly-circus-korean-bbq-Hpzadwok",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/yori-piccadilly-circus-korean-bbq-Hpzadwok/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bibimbap-soho-VayvElt8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bibimbap-soho-VayvElt8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "daebak-dtHO4Ztg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/daebak-dtHO4Ztg/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cu4tro-restaurant-tequila-bar-uoYbq2FI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cu4tro-restaurant-tequila-bar-uoYbq2FI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mestizo-mexican-restaurant-tequila-bar-QZ7xnYy8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mestizo-mexican-restaurant-tequila-bar-QZ7xnYy8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wahaca-covent-garden-WBJ_l_cY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wahaca-covent-garden-WBJ_l_cY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "santo-remedio-asador-london-bridge-am6bOw94",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/santo-remedio-asador-london-bridge-am6bOw94/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "el-pastor-soho-vXIanGWc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/el-pastor-soho-vXIanGWc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "los-mochis-london-city-lFrOzbg8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/los-mochis-london-city-lFrOzbg8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mexican-seoul-G3LgXTqI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mexican-seoul-G3LgXTqI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "el-cenote-i5Opd7dI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/el-cenote-i5Opd7dI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cavita-Z6EHwE_c",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cavita-Z6EHwE_c/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "yucca-london-39NTBPjA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/yucca-london-39NTBPjA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "taste-of-lahore-JVquuZ94",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/taste-of-lahore-JVquuZ94/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-banc-utGnHGsQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-banc-utGnHGsQ/british-the-banc-utGnHGsQ-card-437c7cf5.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shahs-halal-food-soho--CkRGRto",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shahs-halal-food-soho--CkRGRto/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "meet-bros-by-menate-x-jibbyco-1Z89Bclk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/meet-bros-by-menate-x-jibbyco-1Z89Bclk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "steak-and-company-covent-garden-w3R08uas",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/steak-and-company-covent-garden-w3R08uas/british-steak-and-company-covent-garden-w3R08uas-card-234b35b1.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "colonel-saab-D55weEBY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/colonel-saab-D55weEBY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "naroon-fitzrovia-hadciq8w",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/naroon-fitzrovia-hadciq8w/british-naroon-fitzrovia-hadciq8w-card-2f8be7a2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mildreds-victoria-tLwXeLTY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mildreds-victoria-tLwXeLTY/british-mildreds-victoria-tLwXeLTY-card-c4b6f69f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "vegan-yes-dwrPTj8I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/vegan-yes-dwrPTj8I/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "tendril-a-mostly-vegan-kitchen-bar-L-GGjPDo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/tendril-a-mostly-vegan-kitchen-bar-L-GGjPDo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gauthier-soho-tOMmCKDg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gauthier-soho-tOMmCKDg/french-gauthier-soho-tOMmCKDg-card-7fb90974.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "studio-gauthier-LR6425Jo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/studio-gauthier-LR6425Jo/french-studio-gauthier-LR6425Jo-card-8e43f34b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "unity-diner-dt_iqx7M",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/unity-diner-dt_iqx7M/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "holy-carrot-HULzIPbI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/holy-carrot-HULzIPbI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kin-cafe-restaurant-sMYzvisk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kin-cafe-restaurant-sMYzvisk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mildreds-kings-cross-NK2JhzA0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mildreds-kings-cross-NK2JhzA0/british-mildreds-kings-cross-NK2JhzA0-card-638b1080.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "vegan-planet-1buWIzYE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/vegan-planet-1buWIzYE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-ledbury-x_0-jdo4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-ledbury-x_0-jdo4/french-the-ledbury-x_0-jdo4-card-872328da.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ekstedt-at-the-yard-wI_8ELLQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ekstedt-at-the-yard-wI_8ELLQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "restaurant-st-barts-0KJsqCRk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/restaurant-st-barts-0KJsqCRk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kitchen-table-PUQzy0hI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kitchen-table-PUQzy0hI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hlne-darroze-at-the-connaught-iqGlL6Ek",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hlne-darroze-at-the-connaught-iqGlL6Ek/british-hlne-darroze-at-the-connaught-iqGlL6Ek-card-2540f4f4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "restaurant-1890-by-gordon-ramsay-fIfSrTas",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/restaurant-1890-by-gordon-ramsay-fIfSrTas/french-restaurant-1890-by-gordon-ramsay-fIfSrTas-card-48cf2bb4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-ninth-hBGIYGmU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-ninth-hBGIYGmU/french-the-ninth-hBGIYGmU-card-7343f6cb.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hide-Yk4IWd64",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hide-Yk4IWd64/french-hide-Yk4IWd64-card-a07817ad.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "frog-by-adam-handling-restaurant-covent-garden-hkcsnvBY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/frog-by-adam-handling-restaurant-covent-garden-hkcsnvBY/french-frog-by-adam-handling-restaurant-covent-garden-hkcsnvBY-card-6605396d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "scully-jo-eEEl4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/scully-jo-eEEl4/french-scully-jo-eEEl4-card-c35097a4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "leto-soho-baR_vkeA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/leto-soho-baR_vkeA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "london-night-cafe-1dGMkucY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/london-night-cafe-1dGMkucY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "old-queen-street-cafe-jLo7iASU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/old-queen-street-cafe-jLo7iASU/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "e-pellicci-Ri5OAXZ4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/e-pellicci-Ri5OAXZ4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dulce-coffee-london-cO94iwvs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dulce-coffee-london-cO94iwvs/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "eln-london-park-lane-ZGres00k",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/eln-london-park-lane-ZGres00k/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "monmouth-coffee-company-r9wFYz4g",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/monmouth-coffee-company-r9wFYz4g/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kiss-the-hippo-coffee-gCSWnwCY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kiss-the-hippo-coffee-gCSWnwCY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kaffeine-z_ZJTXgM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kaffeine-z_ZJTXgM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "rosslyn-coffee-london-wall-7lphil6E",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/rosslyn-coffee-london-wall-7lphil6E/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "chill-house-coffee-shop--M-c4fvk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/chill-house-coffee-shop--M-c4fvk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "batch-baby-ViOmOjTY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/batch-baby-ViOmOjTY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "attendant-coffee-roasters-fitzrovia-QbI2yp5w",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/attendant-coffee-roasters-fitzrovia-QbI2yp5w/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "coffee-island-VVdRiiv0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/coffee-island-VVdRiiv0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "arme-bakery-mercer-street-ODgfGHew",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/arme-bakery-mercer-street-ODgfGHew/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "e5-bakehouse-vLKMG934",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/e5-bakehouse-vLKMG934/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "aux-pains-de-papy-fhybVN1U",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/aux-pains-de-papy-fhybVN1U/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "chestnut-bakery-covent-garden-HRRvE2PM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/chestnut-bakery-covent-garden-HRRvE2PM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "common-breads-tuvgyCWI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/common-breads-tuvgyCWI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "miel-bakery-iBlmtIW4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/miel-bakery-iBlmtIW4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "toad-bakery-ikvURs_0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/toad-bakery-ikvURs_0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gails-bakery-soho-hT1Hvx9k",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gails-bakery-soho-hT1Hvx9k/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "brother-marcus-borough-ZQizAacI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/brother-marcus-borough-ZQizAacI/british-brother-marcus-borough-ZQizAacI-card-e947b354.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sunday-in-brooklyn-modern-american-restaurant-marylebone-UF_nmBAY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sunday-in-brooklyn-modern-american-restaurant-marylebone-UF_nmBAY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "eggbreak-S_g-oHLs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/eggbreak-S_g-oHLs/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "brother-marcus-south-kensington-RtkLRGTI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/brother-marcus-south-kensington-RtkLRGTI/british-brother-marcus-south-kensington-RtkLRGTI-card-ea8c00cb.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "duck-waffle-SjiwV5LM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/duck-waffle-SjiwV5LM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "milk-beach-soho-0FCf6358",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/milk-beach-soho-0FCf6358/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-breakfast-club-soho-AEYl2RYc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-breakfast-club-soho-AEYl2RYc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-table-caf-GtGhKWLc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-table-caf-GtGhKWLc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-breakfast-club-seven-dials-JQwXiRII",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-breakfast-club-seven-dials-JQwXiRII/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "brother-marcus-covent-garden-nrbLsyto",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/brother-marcus-covent-garden-nrbLsyto/british-brother-marcus-covent-garden-nrbLsyto-card-b4fb00a2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-little-scarlet-door-tCxbuFiY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-little-scarlet-door-tCxbuFiY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "amazing-grace-london-bridge-6JaFRLAo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/amazing-grace-london-bridge-6JaFRLAo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "florattica-rooftop-london-tyhGZkk4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/florattica-rooftop-london-tyhGZkk4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "stereo-covent-garden-zLW-kJRw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/stereo-covent-garden-zLW-kJRw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "disrepute-cocktail-bar-in-soho-NfE64VXk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/disrepute-cocktail-bar-in-soho-NfE64VXk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "pulse-bar-london-AhX30B_M",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/pulse-bar-london-AhX30B_M/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "soma-soho-IlFZ8FNU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/soma-soho-IlFZ8FNU/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lyaness-ij-alVfA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lyaness-ij-alVfA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bussey-rooftop-bar-wuxTmHHo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bussey-rooftop-bar-wuxTmHHo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wagtail-Y-XRbe7Q",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wagtail-Y-XRbe7Q/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "london-bridge-rooftop-bar-FjKk2OHo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/london-bridge-rooftop-bar-FjKk2OHo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mercer-roof-terrace-gUPeDdjI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mercer-roof-terrace-gUPeDdjI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "miradora-rooftop-restaurant-tequileria-ioXxkC5Q",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/miradora-rooftop-restaurant-tequileria-ioXxkC5Q/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "aviary-KWOwoSgs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/aviary-KWOwoSgs/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "joia-restaurant-bar-rooftop-NclUbmGs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/joia-restaurant-bar-rooftop-NclUbmGs/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "pergola-on-the-wharf-45r0lcTs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/pergola-on-the-wharf-45r0lcTs/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "blacklock-soho-C_mZR0UM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/blacklock-soho-C_mZR0UM/british-blacklock-soho-C_mZR0UM-card-c41ddd78.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "seor-ceviche-peruvian-restaurant-soho-_jxtt_WE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/seor-ceviche-peruvian-restaurant-soho-_jxtt_WE/british-seor-ceviche-peruvian-restaurant-soho-_jxtt_WE-card-b54f7135.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kricket-shoreditch-kaf-restaurant-bar-T-b-BK14",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kricket-shoreditch-kaf-restaurant-bar-T-b-BK14/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "blacklock-shoreditch-KatX_eGY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/blacklock-shoreditch-KatX_eGY/british-blacklock-shoreditch-KatX_eGY-card-c1565bb6.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "popolo-shoreditch-h8E9Pcsc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/popolo-shoreditch-h8E9Pcsc/british-popolo-shoreditch-h8E9Pcsc-card-0595d537.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "smokestak-yhTLOh_I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/smokestak-yhTLOh_I/british-smokestak-yhTLOh_I-card-cb923f26.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "camino-shoreditch-9f8J_6aU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/camino-shoreditch-9f8J_6aU/british-camino-shoreditch-9f8J_6aU-card-343f2004.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "34-mayfair-BpNd0i98",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/34-mayfair-BpNd0i98/british-34-mayfair-BpNd0i98-card-c0cd4d45.blur.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gaia-mayfair-vbqjY1fI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gaia-mayfair-vbqjY1fI/british-gaia-mayfair-vbqjY1fI-card-ad50f571.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "corrigans-mayfair-pgfnYIM8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/corrigans-mayfair-pgfnYIM8/british-corrigans-mayfair-pgfnYIM8-card-a64253b9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hakkasan-HmCM_92o",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hakkasan-HmCM_92o/british-hakkasan-HmCM_92o-card-8bc9565d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bluebird-chelsea-vqbTS508",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bluebird-chelsea-vqbTS508/british-bluebird-chelsea-vqbTS508-card-60d77b1f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-chelsea-corner-DHQTBC8Q",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-chelsea-corner-DHQTBC8Q/british-the-chelsea-corner-DHQTBC8Q-card-ed40b6bd.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "no-fifty-cheyne-8z0NcBrs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/no-fifty-cheyne-8z0NcBrs/british-no-fifty-cheyne-8z0NcBrs-card-944b7e51.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "granger-co-chelsea-HwWGWYYA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/granger-co-chelsea-HwWGWYYA/british-granger-co-chelsea-HwWGWYYA-card-7dc623c4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-cadogan-arms-sa8akEZc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-cadogan-arms-sa8akEZc/british-the-cadogan-arms-sa8akEZc-card-7bc4998f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "baba-restaurant-chelsea-wKVHz5WU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/baba-restaurant-chelsea-wKVHz5WU/british-baba-restaurant-chelsea-wKVHz5WU-card-b3b2a5b1.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "blacklock-covent-garden-wS8ne0fQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/blacklock-covent-garden-wS8ne0fQ/british-blacklock-covent-garden-wS8ne0fQ-card-9df2d1f9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "da-mario-covent-garden-q8BVXFeg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/da-mario-covent-garden-q8BVXFeg/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "inamo-covent-garden-FVW5YtUs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/inamo-covent-garden-FVW5YtUs/british-inamo-covent-garden-FVW5YtUs-card-8b884b6b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cora-pearl-eKXdNHEQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cora-pearl-eKXdNHEQ/british-cora-pearl-eKXdNHEQ-card-d780e1e3.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "osteria-napoletana-JmjibnCw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/osteria-napoletana-JmjibnCw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "granger-and-co-notting-hill-jZA3l7-w",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/granger-and-co-notting-hill-jZA3l7-w/british-granger-and-co-notting-hill-jZA3l7-w-card-e8a66a5e.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gold-HB07QwLA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gold-HB07QwLA/british-gold-HB07QwLA-card-484a1cb5.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lush-hush-YfxjzA_Y",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lush-hush-YfxjzA_Y/british-lush-hush-YfxjzA_Y-card-3496f20f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-barbary-notting-hill-eI6iXAhs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-barbary-notting-hill-eI6iXAhs/british-the-barbary-notting-hill-eI6iXAhs-card-715b201b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "taqueria-notting-hill-7eGiCZeI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/taqueria-notting-hill-7eGiCZeI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "andys-greek-taverna-XhUaj5gk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/andys-greek-taverna-XhUaj5gk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-blues-kitchen-camden-9TW4YKyQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-blues-kitchen-camden-9TW4YKyQ/british-the-blues-kitchen-camden-9TW4YKyQ-card-d1474ef8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "daphne-restaurant-AQ6244NE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/daphne-restaurant-AQ6244NE/british-daphne-restaurant-AQ6244NE-card-8ae30cd6.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "la-patagonia-m68uICC0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/la-patagonia-m68uICC0/british-la-patagonia-m68uICC0-card-c9131a37.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "jamon-jamon-u6AtJIpM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/jamon-jamon-u6AtJIpM/british-jamon-jamon-u6AtJIpM-card-03f39844.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "purezza-camden-njsJLiQk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/purezza-camden-njsJLiQk/british-purezza-camden-njsJLiQk-card-b197db5b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "frida-camden-76VT1JVI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/frida-camden-76VT1JVI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "band-of-burgers-camden-hSECPqTc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/band-of-burgers-camden-hSECPqTc/british-band-of-burgers-camden-hSECPqTc-card-db31382d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "made-in-brasil-ksQdQ3X4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/made-in-brasil-ksQdQ3X4/british-made-in-brasil-ksQdQ3X4-card-970d126e.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "brother-marcus-canary-wharf-z5EcBO3I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/brother-marcus-canary-wharf-z5EcBO3I/british-brother-marcus-canary-wharf-z5EcBO3I-card-852c09c9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "barbarella-gNnBy_aM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/barbarella-gNnBy_aM/british-barbarella-gNnBy_aM-card-78053d5f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gaucho-canary-wharf-iRQ1zBsM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gaucho-canary-wharf-iRQ1zBsM/british-gaucho-canary-wharf-iRQ1zBsM-card-31b149eb.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "blacklock-canary-wharf-zumysaSM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/blacklock-canary-wharf-zumysaSM/british-blacklock-canary-wharf-zumysaSM-card-772887c4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "brera-lounge-X1welfDY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/brera-lounge-X1welfDY/british-brera-lounge-X1welfDY-card-7cd89e49.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dishoom-canary-wharf-BKRQW0f0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dishoom-canary-wharf-BKRQW0f0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "six-by-nico-canary-wharf-83ClsbOQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/six-by-nico-canary-wharf-83ClsbOQ/british-six-by-nico-canary-wharf-83ClsbOQ-card-06f78e27.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "amerigo-vespucci-0OaP4dNU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/amerigo-vespucci-0OaP4dNU/british-amerigo-vespucci-0OaP4dNU-card-797f7f45.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "efes-restaurant-whitechapel-XQYLbLIY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/efes-restaurant-whitechapel-XQYLbLIY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sahara-grill-whitechapel-5W_MyEe4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sahara-grill-whitechapel-5W_MyEe4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mr-whites-english-chophouse-london-whitechapel-UTcYuWmE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mr-whites-english-chophouse-london-whitechapel-UTcYuWmE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hotto-potto-5DeFa9E8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hotto-potto-5DeFa9E8/british-hotto-potto-5DeFa9E8-card-8ad22701.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bocca-in-cielo-UoEI-7ps",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bocca-in-cielo-UoEI-7ps/british-bocca-in-cielo-UoEI-7ps-card-394c0a5e.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "rasoi-ghar-PUD8uhPI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/rasoi-ghar-PUD8uhPI/british-rasoi-ghar-PUD8uhPI-card-00c5fe58.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lahore-kebab-house-WfQvnb3M",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lahore-kebab-house-WfQvnb3M/british-lahore-kebab-house-WfQvnb3M-card-220c433f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "duaa-diner-XUMwX5QY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/duaa-diner-XUMwX5QY/british-duaa-diner-XUMwX5QY-card-ae95cfbe.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "tayyabs-l8CSRexg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/tayyabs-l8CSRexg/british-tayyabs-l8CSRexg-card-64bfb4a0.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dilpasand-restaurant-8Id1ryLc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dilpasand-restaurant-8Id1ryLc/british-dilpasand-restaurant-8Id1ryLc-card-39d5bd82.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "babel-grill-house-gzgPUtqI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/babel-grill-house-gzgPUtqI/british-babel-grill-house-gzgPUtqI-card-762db221.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dandan-aldgate-east-vvkJd6oQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dandan-aldgate-east-vvkJd6oQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "janna-cafe-nMggj_hY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/janna-cafe-nMggj_hY/british-janna-cafe-nMggj_hY-card-80cfbed8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "halal-restaurant-518Nf8fE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/halal-restaurant-518Nf8fE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "grounded-london-3eKI7-vM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/grounded-london-3eKI7-vM/british-grounded-london-3eKI7-vM-card-2b095194.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hichki-indian-restaurant--qOdDlq0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hichki-indian-restaurant--qOdDlq0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sylhet-nights-V44T35iM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sylhet-nights-V44T35iM/british-sylhet-nights-V44T35iM-card-24eb2a21.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dragons-den-oriental-kitchen-sjUpIGyA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dragons-den-oriental-kitchen-sjUpIGyA/chinese-dragons-den-oriental-kitchen-sjUpIGyA-card-8d1f2033.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "naan-staap-RhuQi_HE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/naan-staap-RhuQi_HE/british-naan-staap-RhuQi_HE-card-b6169637.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "baristas-lounge-MenAVNxk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/baristas-lounge-MenAVNxk/british-baristas-lounge-MenAVNxk-card-e3247c37.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "madina-grill-QHpwcjyU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/madina-grill-QHpwcjyU/british-madina-grill-QHpwcjyU-card-d75d154b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shahs-halal-food-shadwell-ZkjggI9Y",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shahs-halal-food-shadwell-ZkjggI9Y/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "zaiqa-london-tWxWQYfA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/zaiqa-london-tWxWQYfA/british-zaiqa-london-tWxWQYfA-card-753ef4c3.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shahs-halal-food-whitechapel-BgYXLick",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shahs-halal-food-whitechapel-BgYXLick/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "baraka-eatery-london-1mBEkyTU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/baraka-eatery-london-1mBEkyTU/british-baraka-eatery-london-1mBEkyTU-card-a45a8801.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "maedah-grill-sjGwSDMo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/maedah-grill-sjGwSDMo/british-maedah-grill-sjGwSDMo-card-36342a16.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "grill-guys-Rl-Vl4Jg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/grill-guys-Rl-Vl4Jg/british-grill-guys-Rl-Vl4Jg-card-ba360a41.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "madison-steak-grill-Ygkz0qFk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/madison-steak-grill-Ygkz0qFk/british-madison-steak-grill-Ygkz0qFk-card-059a2b0a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "haweli-restaurant-ilford-ri6bPzDE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/haweli-restaurant-ilford-ri6bPzDE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "enigma-pan-asian-KJ5nzgXM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/enigma-pan-asian-KJ5nzgXM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wah-bey-571Yc9CI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wah-bey-571Yc9CI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "monal-restaurant-london-GtNbVZcY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/monal-restaurant-london-GtNbVZcY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "royal-nawaab-ilford-NPoY41cY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/royal-nawaab-ilford-NPoY41cY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hyderabad-darbar-JEwiueAM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hyderabad-darbar-JEwiueAM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "punjab-grill-lounge-0mW3asiA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/punjab-grill-lounge-0mW3asiA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "tawa-grill-hkLBpEYY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/tawa-grill-hkLBpEYY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-connaught-PQ9x2fZo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-connaught-PQ9x2fZo/british-the-connaught-PQ9x2fZo-card-59ffe2c5.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "nosh-ZWYbW3Qg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/nosh-ZWYbW3Qg/british-nosh-ZWYbW3Qg-card-29764b5c.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "banana-leaf-P-efP54I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/banana-leaf-P-efP54I/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "zamana-T5is-Wp8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/zamana-T5is-Wp8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "meat-street-q-m6QK-M",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/meat-street-q-m6QK-M/british-meat-street-q-m6QK-M-card-1b064f42.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "restaurant-favorit-QhO1f3cs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/restaurant-favorit-QhO1f3cs/british-restaurant-favorit-QhO1f3cs-card-5ad39f5f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "manjaros-restaurant-ilford-AGf0NQ8s",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/manjaros-restaurant-ilford-AGf0NQ8s/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "singam-bay-KovaHRxQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/singam-bay-KovaHRxQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "zahra-grill-restaurant-Qkvxi3ds",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/zahra-grill-restaurant-Qkvxi3ds/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kahani-qIIK4pec",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kahani-qIIK4pec/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "saffron-street-_CaG7g_o",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/saffron-street-_CaG7g_o/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "jilani-curry-grill-restaurant-ZPb0l-As",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/jilani-curry-grill-restaurant-ZPb0l-As/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sahara-grill-Wifvn5yc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sahara-grill-Wifvn5yc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shahs-halal-food-ilford-OnmvPApw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shahs-halal-food-ilford-OnmvPApw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "naan-staap-YiEhjGSs",
+      "status": "NOT_FOUND_IN_CURRENT",
+      "action": "skipped"
+    },
+    {
+      "slug": "phat-bite-ilford-WjKbnCMk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/phat-bite-ilford-WjKbnCMk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "watan-afghan-pakistani-restaurant-ilford-mGwfNE7w",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/watan-afghan-pakistani-restaurant-ilford-mGwfNE7w/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "spice-khazana-i2E480qg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/spice-khazana-i2E480qg/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sultan-PjGBi2fw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sultan-PjGBi2fw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "colony-restaurant-WUoM_CQI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/colony-restaurant-WUoM_CQI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "franzos-ilford-oL4KwUss",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/franzos-ilford-oL4KwUss/british-franzos-ilford-oL4KwUss-card-cca0b5be.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "naan-staap-X_MVkgQI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/naan-staap-X_MVkgQI/british-naan-staap-X_MVkgQI-card-a49db189.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "grill-house-63U7YUG8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/grill-house-63U7YUG8/british-grill-house-63U7YUG8-card-e6ae6793.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "paradise-romford-Ln3Crj1I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/paradise-romford-Ln3Crj1I/british-paradise-romford-Ln3Crj1I-card-21764c46.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "array-brasserie-grill-5v_DPqz0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/array-brasserie-grill-5v_DPqz0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "neyzen-restaurant-and-pods-654FzkBE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/neyzen-restaurant-and-pods-654FzkBE/british-neyzen-restaurant-and-pods-654FzkBE-card-1eb3bb2c.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "turtle-bay-romford-Okk25Jhk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/turtle-bay-romford-Okk25Jhk/british-turtle-bay-romford-Okk25Jhk-card-c734968f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ciao-bella-d-nVDUK8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ciao-bella-d-nVDUK8/british-ciao-bella-d-nVDUK8-card-b678a587.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "braza-churrascaria-rodizio-OXjEO9OI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/braza-churrascaria-rodizio-OXjEO9OI/british-braza-churrascaria-rodizio-OXjEO9OI-card-7d503a3e.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mangal-meze-restaurant-GM8O0cdQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mangal-meze-restaurant-GM8O0cdQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "blue-orchid-2gY3jas4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/blue-orchid-2gY3jas4/british-blue-orchid-2gY3jas4-card-ab3ca65d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ivy-tree-2V15z_bY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ivy-tree-2V15z_bY/british-ivy-tree-2V15z_bY-card-1a7d24d7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "meteor-meze-grill-restaurant-Ex6mdNjY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/meteor-meze-grill-restaurant-Ex6mdNjY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cosmo-world-buffet-romford-GAZf8uiE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cosmo-world-buffet-romford-GAZf8uiE/british-cosmo-world-buffet-romford-GAZf8uiE-card-b13865e7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "roosters-piri-piri-0V8aXWps",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/roosters-piri-piri-0V8aXWps/british-roosters-piri-piri-0V8aXWps-card-3d540cc2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "minoa-restaurant-es_5l_dM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/minoa-restaurant-es_5l_dM/british-minoa-restaurant-es_5l_dM-card-cbe29223.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "veysos-romford-restaurant-_hxDBo0c",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/veysos-romford-restaurant-_hxDBo0c/british-veysos-romford-restaurant-_hxDBo0c-card-768391ea.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sunrise-lutong-bahay-8tqLbvro",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sunrise-lutong-bahay-8tqLbvro/british-sunrise-lutong-bahay-8tqLbvro-card-3cf0ae53.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-yummy-greek-qTwkSrCU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-yummy-greek-qTwkSrCU/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "tilaw-sRBt34g4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/tilaw-sRBt34g4/british-tilaw-sRBt34g4-card-89684c83.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wagamama-romford-bb8JzkQ4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wagamama-romford-bb8JzkQ4/british-wagamama-romford-bb8JzkQ4-card-1fbab1a2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "crem-kitchen-he5G487o",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/crem-kitchen-he5G487o/british-crem-kitchen-he5G487o-card-3f8587b1.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shish-legends-fusion-turkish-meze-wxIq_mkY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shish-legends-fusion-turkish-meze-wxIq_mkY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "flippin-grill-6vzYaNJo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/flippin-grill-6vzYaNJo/british-flippin-grill-6vzYaNJo-card-8ed95d58.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kervan-kitchen-gidea-park-I5ckoST0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kervan-kitchen-gidea-park-I5ckoST0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "myshish-romford-f91J-XQc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/myshish-romford-f91J-XQc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shahs-halal-food-romford-road-5O4e5xUw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shahs-halal-food-romford-road-5O4e5xUw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lara-grill-2iwrfdBs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lara-grill-2iwrfdBs/british-lara-grill-2iwrfdBs-card-ad51167b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bekash-restaurant-take-away-SQyczPnM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bekash-restaurant-take-away-SQyczPnM/british-bekash-restaurant-take-away-SQyczPnM-card-b8cee0c6.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "stack-sizzle-2oeVuv3A",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/stack-sizzle-2oeVuv3A/british-stack-sizzle-2oeVuv3A-card-4285bf89.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kervan-saray-DdfAxuX4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kervan-saray-DdfAxuX4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "chef-asia-fuWenQ_I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/chef-asia-fuWenQ_I/british-chef-asia-fuWenQ_I-card-e910b2f5.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "yebaba-levantine-kitchen-7epphCFw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/yebaba-levantine-kitchen-7epphCFw/british-yebaba-levantine-kitchen-7epphCFw-card-9f6fc122.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "nasi-isda-romford-7U8QoQEc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/nasi-isda-romford-7U8QoQEc/british-nasi-isda-romford-7U8QoQEc-card-eb2ca8d8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ottomans-0UMSagt4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ottomans-0UMSagt4/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kasiba-lounge-and-restaurant-Z9p4CWg8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kasiba-lounge-and-restaurant-Z9p4CWg8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bread-street-kitchen-bar-rooftop-stratford-i8i0FI7w",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bread-street-kitchen-bar-rooftop-stratford-i8i0FI7w/british-bread-street-kitchen-bar-rooftop-stratford-i8i0FI7w-card-052bb6cf.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kokin-restaurant-RMG7xwxA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kokin-restaurant-RMG7xwxA/british-kokin-restaurant-RMG7xwxA-card-880168de.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hera-PqKpal58",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hera-PqKpal58/british-hera-PqKpal58-card-256a1892.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "figo-stratford-dt-M-pSc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/figo-stratford-dt-M-pSc/british-figo-stratford-dt-M-pSc-card-d52e0de0.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bamboo-mat-stratford-YCnTkgp8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bamboo-mat-stratford-YCnTkgp8/british-bamboo-mat-stratford-YCnTkgp8-card-e1658df8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "union-social-ZgpCUCxg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/union-social-ZgpCUCxg/british-union-social-ZgpCUCxg-card-d61340d2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lokma-westfield-VMXmovgc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lokma-westfield-VMXmovgc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "elondi-restaurant-bar-and-terrace-NMfwfdVM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/elondi-restaurant-bar-and-terrace-NMfwfdVM/british-elondi-restaurant-bar-and-terrace-NMfwfdVM-card-bec87539.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "stk-steakhouse-stratford-WR7wIL1g",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/stk-steakhouse-stratford-WR7wIL1g/british-stk-steakhouse-stratford-WR7wIL1g-card-2d501666.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "darkhorse-restaurant-bar-EhOdyaxc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/darkhorse-restaurant-bar-EhOdyaxc/british-darkhorse-restaurant-bar-EhOdyaxc-card-5600246c.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mezban-stratford-Lcb11Um0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mezban-stratford-Lcb11Um0/british-mezban-stratford-Lcb11Um0-card-ad62528d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "big-easy-barbq-crabshack-westfield-stratford-fxLdYg8I",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/big-easy-barbq-crabshack-westfield-stratford-fxLdYg8I/british-big-easy-barbq-crabshack-westfield-stratford-fxLdYg8I-card-70c4d26e.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "zuzu-bistro-bar-ByHcG6iI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/zuzu-bistro-bar-ByHcG6iI/british-zuzu-bistro-bar-ByHcG6iI-card-d6630197.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "busaba-westfield-stratford-SckQUHlc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/busaba-westfield-stratford-SckQUHlc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "xix-nineteen-72oCuJLc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/xix-nineteen-72oCuJLc/british-xix-nineteen-72oCuJLc-card-59472db2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kitchen-e20-1dDNpzJQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kitchen-e20-1dDNpzJQ/british-kitchen-e20-1dDNpzJQ-card-67bb4c43.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wahaca-stratford-o9kIymhI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wahaca-stratford-o9kIymhI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "santi-3nWXx1jE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/santi-3nWXx1jE/british-santi-3nWXx1jE-card-a9fa4145.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-grill-stratford-H2aKzH50",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-grill-stratford-H2aKzH50/british-the-grill-stratford-H2aKzH50-card-3bb77b4b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-fat-crab-stratford-ve7KTSaU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-fat-crab-stratford-ve7KTSaU/british-the-fat-crab-stratford-ve7KTSaU-card-0b59ca1e.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "master-bao-westfield-stratford-city-qpeJ69Ok",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/master-bao-westfield-stratford-city-qpeJ69Ok/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "aroma-authentic-dum-biriyani-C7bdTQXo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/aroma-authentic-dum-biriyani-C7bdTQXo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "indi-go-rasoi-westfield-stratford-jfsJ-zHQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/indi-go-rasoi-westfield-stratford-jfsJ-zHQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cafe-rasa-malaysia-ISDe9AFI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cafe-rasa-malaysia-ISDe9AFI/british-cafe-rasa-malaysia-ISDe9AFI-card-fc4815f8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "al-zayt-restaurant-uETIeuwY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/al-zayt-restaurant-uETIeuwY/british-al-zayt-restaurant-uETIeuwY-card-1ee4f22b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "fat-chef-authentic-indian-kitchen-halal-0LfhvXy8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/fat-chef-authentic-indian-kitchen-halal-0LfhvXy8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hs-co-TKraGy80",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hs-co-TKraGy80/british-hs-co-TKraGy80-card-f78dae63.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "steakout-stratford-7Grgxx_o",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/steakout-stratford-7Grgxx_o/british-steakout-stratford-7Grgxx_o-card-9bc07800.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bababoom-0glc6m20",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bababoom-0glc6m20/british-bababoom-0glc6m20-card-e0b06fd7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-westbridge-restaurant-g_1FR1iQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-westbridge-restaurant-g_1FR1iQ/british-the-westbridge-restaurant-g_1FR1iQ-card-b6ccf09b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "stax-burgers-westfield-stratford-cuIAjYpU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/stax-burgers-westfield-stratford-cuIAjYpU/british-stax-burgers-westfield-stratford-cuIAjYpU-card-69c4406b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "tanjia-restaurant-z4mIP1sY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/tanjia-restaurant-z4mIP1sY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cabana-d40874vQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cabana-d40874vQ/british-cabana-d40874vQ-card-38d01baa.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "triptis-thai-pie-stratford-wo92TeFg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/triptis-thai-pie-stratford-wo92TeFg/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-solo-kitchen-bar-KMNbeyTo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-solo-kitchen-bar-KMNbeyTo/british-the-solo-kitchen-bar-KMNbeyTo-card-2526caa7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "fatto-a-mano-bethnal-green-iftn5UJA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/fatto-a-mano-bethnal-green-iftn5UJA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "maple-brunch-cafe--18grF3o",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/maple-brunch-cafe--18grF3o/british-maple-brunch-cafe--18grF3o-card-b6fa5b03.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "palmers-restaurant-1Pg__mJI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/palmers-restaurant-1Pg__mJI/british-palmers-restaurant-1Pg__mJI-card-b63d86bd.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bistrotheque-MTg_Ozmw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bistrotheque-MTg_Ozmw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "arepa-co-venezuelan-restaurant-bethnal-green-ny7vkwew",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/arepa-co-venezuelan-restaurant-bethnal-green-ny7vkwew/british-arepa-co-venezuelan-restaurant-bethnal-green-ny7vkwew-card-02d21ca4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "restaurant-elis-fn1v8I8s",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/restaurant-elis-fn1v8I8s/british-restaurant-elis-fn1v8I8s-card-072db9e7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ombra--VkjMYcE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ombra--VkjMYcE/british-ombra--VkjMYcE-card-44a1a5e2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "desi-lounge-hgioaWtM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/desi-lounge-hgioaWtM/british-desi-lounge-hgioaWtM-card-e8c836b8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "da-terra-restaurant-5bVEiEfQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/da-terra-restaurant-5bVEiEfQ/british-da-terra-restaurant-5bVEiEfQ-card-67fb3c2a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "brawn-jTnwBuUs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/brawn-jTnwBuUs/british-brawn-jTnwBuUs-card-c56bcba2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mum-likes-thai-food-bethnal-green-03cHZv5c",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mum-likes-thai-food-bethnal-green-03cHZv5c/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cav-9qn1-Oqk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cav-9qn1-Oqk/british-cav-9qn1-Oqk-card-dc18aa2d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "afghan-grill-dT6nJDE8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/afghan-grill-dT6nJDE8/british-afghan-grill-dT6nJDE8-card-4e9f790f.blur.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ta-frn-turkish-restaurant-shoreditch-B4_6zAWY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ta-frn-turkish-restaurant-shoreditch-B4_6zAWY/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "princelyn-nigerian-restaurant-groceries-s8oVWbvY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/princelyn-nigerian-restaurant-groceries-s8oVWbvY/british-princelyn-nigerian-restaurant-groceries-s8oVWbvY-card-1f0c199f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-star-of-bethnal-green-wtJ1nuC4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-star-of-bethnal-green-wtJ1nuC4/british-the-star-of-bethnal-green-wtJ1nuC4-card-e8b604b1.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "briq-xKmN-xPk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/briq-xKmN-xPk/british-briq-xKmN-xPk-card-2aeecbf9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "chaskaas-CRgrwcek",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/chaskaas-CRgrwcek/british-chaskaas-CRgrwcek-card-0eee04b8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "halal-street-kitchen-5e3zUyL0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/halal-street-kitchen-5e3zUyL0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "purpleish-AtfsZfTg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/purpleish-AtfsZfTg/british-purpleish-AtfsZfTg-card-09bfc183.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shahs-halal-food-cambridge-heath-hackney-pNIM5aFQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shahs-halal-food-cambridge-heath-hackney-pNIM5aFQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "andys-burgers-mile-end-TW8bh4kU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/andys-burgers-mile-end-TW8bh4kU/british-andys-burgers-mile-end-TW8bh4kU-card-b154bd79.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mr-wongs-wok-box-JF___OGk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mr-wongs-wok-box-JF___OGk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "thai-n-pie-stepney-6znY8yug",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/thai-n-pie-stepney-6znY8yug/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gansu-bethnal-green-LhsNVaH0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gansu-bethnal-green-LhsNVaH0/chinese-gansu-bethnal-green-LhsNVaH0-card-4668f401.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "get-stuffed-stepney-dYeGJbmM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/get-stuffed-stepney-dYeGJbmM/british-get-stuffed-stepney-dYeGJbmM-card-8fa1404b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "papi-restaurant-NkdI8A4E",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/papi-restaurant-NkdI8A4E/british-papi-restaurant-NkdI8A4E-card-bafb7b11.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dalla-VYqgqle4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dalla-VYqgqle4/british-dalla-VYqgqle4-card-66da5c27.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "morito-FDrxvRIg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/morito-FDrxvRIg/british-morito-FDrxvRIg-card-95b26c9a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "rogues-oRpC_c3U",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/rogues-oRpC_c3U/british-rogues-oRpC_c3U-card-f09f9551.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "elliots-south-hackney-Nq_DqqTc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/elliots-south-hackney-Nq_DqqTc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "cafe-cecilia-ZRDamZIY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/cafe-cecilia-ZRDamZIY/british-cafe-cecilia-ZRDamZIY-card-dfb7659e.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "angelina-99ah47qk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/angelina-99ah47qk/british-angelina-99ah47qk-card-5b4572ed.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lardo-H0Dc5OrU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lardo-H0Dc5OrU/british-lardo-H0Dc5OrU-card-d3b73203.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shankeys-j2iOAS1o",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shankeys-j2iOAS1o/british-shankeys-j2iOAS1o-card-f0408211.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "narrow-kitchen-RGMiNeeo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/narrow-kitchen-RGMiNeeo/british-narrow-kitchen-RGMiNeeo-card-6aec7304.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "casa-fof-9XapQArk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/casa-fof-9XapQArk/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mama-restaurant-london-e6EX_1ZU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mama-restaurant-london-e6EX_1ZU/british-mama-restaurant-london-e6EX_1ZU-card-145c24ed.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "big-night-bar-restaurant-hackney-gke6CJBA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/big-night-bar-restaurant-hackney-gke6CJBA/british-big-night-bar-restaurant-hackney-gke6CJBA-card-5bbd43c9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "planque-Pb_kbtnA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/planque-Pb_kbtnA/british-planque-Pb_kbtnA-card-5b785c7a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "raos-bar-restaurant-Ibjtu6so",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/raos-bar-restaurant-Ibjtu6so/british-raos-bar-restaurant-Ibjtu6so-card-3847147d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mare-street-market-1N4GamLg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mare-street-market-1N4GamLg/british-mare-street-market-1N4GamLg-card-4197777c.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "koya-japanese-restaurant-hackney-YnmkTOsI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/koya-japanese-restaurant-hackney-YnmkTOsI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-alchemist-canary-wharf-CTAcePMM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-alchemist-canary-wharf-CTAcePMM/british-the-alchemist-canary-wharf-CTAcePMM-card-f7d44019.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "big-easy-barbq-crabshack-canary-wharf-cD-FJ2Zo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/big-easy-barbq-crabshack-canary-wharf-cD-FJ2Zo/british-big-easy-barbq-crabshack-canary-wharf-cD-FJ2Zo-card-915bfede.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "caravan-canary-wharf-restaurant--iKFPZYU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/caravan-canary-wharf-restaurant--iKFPZYU/british-caravan-canary-wharf-restaurant--iKFPZYU-card-2e3ae4e8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "oysteria-kKdBxxT8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/oysteria-kKdBxxT8/british-oysteria-kKdBxxT8-card-7279a15b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "eggslut-canary-wharf-q-Up2-EA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/eggslut-canary-wharf-q-Up2-EA/british-eggslut-canary-wharf-q-Up2-EA-card-07ad7ae6.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wahaca-canary-wharf-ZYtNLRvc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wahaca-canary-wharf-ZYtNLRvc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "yolk-VYSjB2j8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/yolk-VYSjB2j8/british-yolk-VYSjB2j8-card-2b938827.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "smoke-end-steakhouse-KoYklxQ0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/smoke-end-steakhouse-KoYklxQ0/british-smoke-end-steakhouse-KoYklxQ0-card-153c7d39.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "darlings-eatery-LZUGQdIc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/darlings-eatery-LZUGQdIc/british-darlings-eatery-LZUGQdIc-card-ddbdf3b2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-bourbon-80zdKHX4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-bourbon-80zdKHX4/british-the-bourbon-80zdKHX4-card-c450ae0a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dead-pedros-mexican-kitchen-at-the-bow-bells-6QR1_8V8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dead-pedros-mexican-kitchen-at-the-bow-bells-6QR1_8V8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "momlette-rIiPcwm4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/momlette-rIiPcwm4/british-momlette-rIiPcwm4-card-2914b944.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bibimbop-bow-StMWnhyE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bibimbop-bow-StMWnhyE/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-angel-of-bow-public-house-LCiVVXTM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-angel-of-bow-public-house-LCiVVXTM/british-the-angel-of-bow-public-house-LCiVVXTM-card-dadfaa98.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bow-grill-eXbomnX4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bow-grill-eXbomnX4/british-bow-grill-eXbomnX4-card-64fa9492.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "smoke-pepper-bow-afJtvXNU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/smoke-pepper-bow-afJtvXNU/british-smoke-pepper-bow-afJtvXNU-card-c6eed205.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "morgan-arms-bNumTxgU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/morgan-arms-bNumTxgU/british-morgan-arms-bNumTxgU-card-f83f8760.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "milagros-bow-0cc8M7cg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/milagros-bow-0cc8M7cg/british-milagros-bow-0cc8M7cg-card-3ffd560f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "far-east-kitchen-jNq5Bxyw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/far-east-kitchen-jNq5Bxyw/chinese-far-east-kitchen-jNq5Bxyw-card-41efbb07.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bun-sum-QBXzgVJ0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bun-sum-QBXzgVJ0/british-bun-sum-QBXzgVJ0-card-3d099e41.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "meat-up-gTdr34u4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/meat-up-gTdr34u4/british-meat-up-gTdr34u4-card-556636d0.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "buon-appetito-kE4g6r_s",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/buon-appetito-kE4g6r_s/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-coborn-XH3DZKJU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-coborn-XH3DZKJU/british-the-coborn-XH3DZKJU-card-0dbd7ca8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-pizza-room-mile-end-sUb1kfR0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-pizza-room-mile-end-sUb1kfR0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "rusty-bike-pub-mile-end-bOmvIFdQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/rusty-bike-pub-mile-end-bOmvIFdQ/british-rusty-bike-pub-mile-end-bOmvIFdQ-card-3395ed51.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-orange-room-lebanese-restaurant-mile-end-w7rCkCes",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-orange-room-lebanese-restaurant-mile-end-w7rCkCes/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "afrikana-restaurant-mile-end-74Fpx7Yg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/afrikana-restaurant-mile-end-74Fpx7Yg/british-afrikana-restaurant-mile-end-74Fpx7Yg-card-63eaa5de.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-victoria-kub67BuU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-victoria-kub67BuU/british-the-victoria-kub67BuU-card-27ceb582.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mile-end-pizza-and-kebab-ONNSjL_0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mile-end-pizza-and-kebab-ONNSjL_0/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "tacosmash-mile-end-bcv0P7JQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/tacosmash-mile-end-bcv0P7JQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ariana-restaurant-london-_1cTkcEw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ariana-restaurant-london-_1cTkcEw/british-ariana-restaurant-london-_1cTkcEw-card-03c62e27.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mile-end-sandwich-bar-3KeWfRqU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mile-end-sandwich-bar-3KeWfRqU/british-mile-end-sandwich-bar-3KeWfRqU-card-fc1e5d19.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "simply-smashed-quality-smash-burgers-U7M7EqnA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/simply-smashed-quality-smash-burgers-U7M7EqnA/british-simply-smashed-quality-smash-burgers-U7M7EqnA-card-90033390.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wngz-mile-end-chicken-wings-burgers-cheesy-chips-brDERBFk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wngz-mile-end-chicken-wings-burgers-cheesy-chips-brDERBFk/british-wngz-mile-end-chicken-wings-burgers-cheesy-chips-brDERBFk-card-0e5f452b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-coffee-room-mile-end-_CmAl6ac",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-coffee-room-mile-end-_CmAl6ac/british-the-coffee-room-mile-end-_CmAl6ac-card-8bdf8930.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "nandos-mile-end-76KCg7rA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/nandos-mile-end-76KCg7rA/british-nandos-mile-end-76KCg7rA-card-5637ff72.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "damal-Ce1G_Zlo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/damal-Ce1G_Zlo/british-damal-Ce1G_Zlo-card-232b331d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "foodcoma-T-0DJCTM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/foodcoma-T-0DJCTM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kings-flavour-mile-end-9RYs3TTI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kings-flavour-mile-end-9RYs3TTI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "rose-peri-peri-grill-Zsniu804",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/rose-peri-peri-grill-Zsniu804/british-rose-peri-peri-grill-Zsniu804-card-b8d0a181.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "suite-85-grill-CUCup5CY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/suite-85-grill-CUCup5CY/british-suite-85-grill-CUCup5CY-card-b6cacdc7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "las-iguanas-london-stratford-westfield-p0AuOil0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/las-iguanas-london-stratford-westfield-p0AuOil0/british-las-iguanas-london-stratford-westfield-p0AuOil0-card-07a19ca7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shoryu-westfield-stratford-city-hFh03C8M",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shoryu-westfield-stratford-city-hFh03C8M/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bbq-express-stratford-xjNAKtoI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bbq-express-stratford-xjNAKtoI/british-bbq-express-stratford-xjNAKtoI-card-a50ea8cf.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "hardies-peri-peri-HFFXUSTc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/hardies-peri-peri-HFFXUSTc/british-hardies-peri-peri-HFFXUSTc-card-3e92746b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "smash-Uskbw6-c",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/smash-Uskbw6-c/british-smash-Uskbw6-c-card-a0496224.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "slice-of-meat-z2F5wvbo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/slice-of-meat-z2F5wvbo/british-slice-of-meat-z2F5wvbo-card-85be4156.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sultan-sofrasi-lU11pmVo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sultan-sofrasi-lU11pmVo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "tanjia-garden-j00ots9k",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/tanjia-garden-j00ots9k/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "kolapata-etAjUw6o",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/kolapata-etAjUw6o/british-kolapata-etAjUw6o-card-652ec8ef.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "olives-and-oregano-london-caETxpsM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/olives-and-oregano-london-caETxpsM/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "needoo-grill-SBTv-wvE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/needoo-grill-SBTv-wvE/british-needoo-grill-SBTv-wvE-card-48ee94fe.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sotto-cucina-bar-PIJ3USz8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sotto-cucina-bar-PIJ3USz8/british-sotto-cucina-bar-PIJ3USz8-card-708e7cf4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "feast-and-mishti-LSZP8lfE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/feast-and-mishti-LSZP8lfE/british-feast-and-mishti-LSZP8lfE-card-908e08d8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "makkah-grill-_FeBBhqw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/makkah-grill-_FeBBhqw/british-makkah-grill-_FeBBhqw-card-55422843.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "spice-hut-SCpfv3a4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/spice-hut-SCpfv3a4/british-spice-hut-SCpfv3a4-card-ae220968.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-munch-Hcu410pg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-munch-Hcu410pg/british-the-munch-Hcu410pg-card-9de561f2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "liverpool-street-chop-house-tavern-cD3Bf3gs",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/liverpool-street-chop-house-tavern-cD3Bf3gs/british-liverpool-street-chop-house-tavern-cD3Bf3gs-card-6d47a28c.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "polo-bar-24-hour-great-british-cafe-vciwgIWY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/polo-bar-24-hour-great-british-cafe-vciwgIWY/british-polo-bar-24-hour-great-british-cafe-vciwgIWY-card-1f5ee8fe.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "eggslut-liverpool-street-ZkJ7bxtY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/eggslut-liverpool-street-ZkJ7bxtY/british-eggslut-liverpool-street-ZkJ7bxtY-card-08af3f38.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "eastway-brasserie-l0Fsqm6U",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/eastway-brasserie-l0Fsqm6U/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lucky-cat-by-gordon-ramsay-bishopsgate-zN4O2yCQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lucky-cat-by-gordon-ramsay-bishopsgate-zN4O2yCQ/chinese-lucky-cat-by-gordon-ramsay-bishopsgate-zN4O2yCQ-card-439ae4b9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "yauatcha-city-8qOE5f-k",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/yauatcha-city-8qOE5f-k/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-drift-N0-1tHoo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-drift-N0-1tHoo/british-the-drift-N0-1tHoo-card-0fb33eb0.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-ivy-city-garden-B1_nIObE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-ivy-city-garden-B1_nIObE/british-the-ivy-city-garden-B1_nIObE-card-c61459de.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "luca-dsq-28IO_Lr8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/luca-dsq-28IO_Lr8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "eataly-london-Tva-SGR4",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/eataly-london-Tva-SGR4/british-eataly-london-Tva-SGR4-card-d7cfa1b5.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dirty-martini-cocktail-bar-in-bishopsgate-hbVDh9hg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dirty-martini-cocktail-bar-in-bishopsgate-hbVDh9hg/british-dirty-martini-cocktail-bar-in-bishopsgate-hbVDh9hg-card-9090f636.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "piccolino-exchange-square-yiZInZ2k",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/piccolino-exchange-square-yiZInZ2k/british-piccolino-exchange-square-yiZInZ2k-card-34f84a2b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "canto-corvino-w6jbS4UY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/canto-corvino-w6jbS4UY/british-canto-corvino-w6jbS4UY-card-9682f6bd.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gaucho-broadgate-KxMbRsaE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gaucho-broadgate-KxMbRsaE/british-gaucho-broadgate-KxMbRsaE-card-d2a8a535.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mcdonalds-d-S661TM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mcdonalds-d-S661TM/british-mcdonalds-d-S661TM-card-906637de.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "devonshire-terrace-j1d_BxwI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/devonshire-terrace-j1d_BxwI/british-devonshire-terrace-j1d_BxwI-card-da92900b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "miyako-Wp0c4NaQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/miyako-Wp0c4NaQ/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mi-casa-burrito-london-liverpool-street-1ab1-uhw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mi-casa-burrito-london-liverpool-street-1ab1-uhw/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "faroz-restaurant-TrvUgvCw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/faroz-restaurant-TrvUgvCw/british-faroz-restaurant-TrvUgvCw-card-05d7156f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "yokoso-restaurant-japanese-italian-cuisine-FUc4Nt_o",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/yokoso-restaurant-japanese-italian-cuisine-FUc4Nt_o/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "salamis-restaurant-8MQnac-Q",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/salamis-restaurant-8MQnac-Q/british-salamis-restaurant-8MQnac-Q-card-28cd78dd.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shezan-gcd-gM3zlYf0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shezan-gcd-gM3zlYf0/chinese-shezan-gcd-gM3zlYf0-card-96973a46.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "crave-station-iu5WiigE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/crave-station-iu5WiigE/british-crave-station-iu5WiigE-card-7983194a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wazir-restaurant-a0mLYSSA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wazir-restaurant-a0mLYSSA/british-wazir-restaurant-a0mLYSSA-card-754e537b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "smoke-pepper-gants-hill-wwnvHNHc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/smoke-pepper-gants-hill-wwnvHNHc/british-smoke-pepper-gants-hill-wwnvHNHc-card-dd96ff5a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-urban-chocolatier-8NDWyEac",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-urban-chocolatier-8NDWyEac/british-the-urban-chocolatier-8NDWyEac-card-c2dc4fde.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "zus-ilford-YYJJ7uZE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/zus-ilford-YYJJ7uZE/chinese-zus-ilford-YYJJ7uZE-card-df515bf4.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "famz-peri-peri-VP9cAyrk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/famz-peri-peri-VP9cAyrk/british-famz-peri-peri-VP9cAyrk-card-d3c823c9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "taj-grill-Xd8tVjAk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/taj-grill-Xd8tVjAk/british-taj-grill-Xd8tVjAk-card-f1be96b0.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "gallio-Bp5E-YqU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/gallio-Bp5E-YqU/british-gallio-Bp5E-YqU-card-2a28b1b2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "scarpetta-8x5Ng0Kw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/scarpetta-8x5Ng0Kw/british-scarpetta-8x5Ng0Kw-card-4ea0d076.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "capeesh-3QllZwKU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/capeesh-3QllZwKU/british-capeesh-3QllZwKU-card-69c464a7.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bethnal-green-tavern-uuzDpEjU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bethnal-green-tavern-uuzDpEjU/british-bethnal-green-tavern-uuzDpEjU-card-8b4c75e6.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "italina385-ilgWDFJo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/italina385-ilgWDFJo/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-common-e2-x75i-NWk",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-common-e2-x75i-NWk/british-the-common-e2-x75i-NWk-card-e5ec04f8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "perfetto-pizza-bethnal-green-0xkICPcI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/perfetto-pizza-bethnal-green-0xkICPcI/british-perfetto-pizza-bethnal-green-0xkICPcI-card-313a178a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "phat-for-life-X5YYw1os",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/phat-for-life-X5YYw1os/british-phat-for-life-X5YYw1os-card-13db5ae9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-full-monty-JhitfSOo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-full-monty-JhitfSOo/british-the-full-monty-JhitfSOo-card-2f54ba3f.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "arches-cafe-2ymhxrWw",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/arches-cafe-2ymhxrWw/british-arches-cafe-2ymhxrWw-card-d3f1d819.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "nandos-bethnal-green-cSOFPALY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/nandos-bethnal-green-cSOFPALY/british-nandos-bethnal-green-cSOFPALY-card-daa77c67.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "al-safa-grill-rN0PRk2U",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/al-safa-grill-rN0PRk2U/british-al-safa-grill-rN0PRk2U-card-f0783e7a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sweet-caf-stepney-mWfdJ9Ik",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sweet-caf-stepney-mWfdJ9Ik/british-sweet-caf-stepney-mWfdJ9Ik-card-4059ee77.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "la-bella-napoli-C3MBjGos",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/la-bella-napoli-C3MBjGos/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shahs-halal-food-walthamstow-e0towDVA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shahs-halal-food-walthamstow-e0towDVA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "de-cafe-lounge-de-biryani-lounge-wLKQwFrc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/de-cafe-lounge-de-biryani-lounge-wLKQwFrc/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "par-london-pak-al-reyan-restaurant-Tdf3cvhU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/par-london-pak-al-reyan-restaurant-Tdf3cvhU/british-par-london-pak-al-reyan-restaurant-Tdf3cvhU-card-5671348a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "lalas-grill-restaurant-0-mhwiO8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/lalas-grill-restaurant-0-mhwiO8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "myshish-KVMQTqBI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/myshish-KVMQTqBI/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "salash-kitchen-south-woodford-a7Mx1xek",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/salash-kitchen-south-woodford-a7Mx1xek/british-salash-kitchen-south-woodford-a7Mx1xek-card-1001478a.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shahs-halal-food-leytonstone-high-road--LG_dncA",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shahs-halal-food-leytonstone-high-road--LG_dncA/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "asado-steakhouse-vseln3eY",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/asado-steakhouse-vseln3eY/british-asado-steakhouse-vseln3eY-card-f51ae7a2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "e3-vegan-lgF6HGJ8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/e3-vegan-lgF6HGJ8/british-e3-vegan-lgF6HGJ8-card-fb640d44.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-hogless-roast-LZMXCjwE",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-hogless-roast-LZMXCjwE/british-the-hogless-roast-LZMXCjwE-card-7d8f150e.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sen-viet-vegan-restaurant-MQANJaDQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sen-viet-vegan-restaurant-MQANJaDQ/british-sen-viet-vegan-restaurant-MQANJaDQ-card-1e020399.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "siddhi-pure-veg-restaurant-GzaXcD9E",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/siddhi-pure-veg-restaurant-GzaXcD9E/british-siddhi-pure-veg-restaurant-GzaXcD9E-card-1f1841d2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "bubala-spitalfields-a4U9jcnU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/bubala-spitalfields-a4U9jcnU/british-bubala-spitalfields-a4U9jcnU-card-b7eca7a2.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "essential-vegan-cafe-zH-PpF1M",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/essential-vegan-cafe-zH-PpF1M/british-essential-vegan-cafe-zH-PpF1M-card-80571c6d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "sangeetha-veg-restaurant-indian-92CwApEU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/sangeetha-veg-restaurant-indian-92CwApEU/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "facing-heaven-zNu7a9ZU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/facing-heaven-zNu7a9ZU/british-facing-heaven-zNu7a9ZU-card-47ea919d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "taste-of-india-pure-vegetarian-ltd-oUYKnOTo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/taste-of-india-pure-vegetarian-ltd-oUYKnOTo/british-taste-of-india-pure-vegetarian-ltd-oUYKnOTo-card-7e4e3ca1.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "plantxology-hU6WCqZc",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/plantxology-hU6WCqZc/british-plantxology-hU6WCqZc-card-233154a8.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "vegan-biosphere-vegan-buffet-C3fjuxS8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/vegan-biosphere-vegan-buffet-C3fjuxS8/british-vegan-biosphere-vegan-buffet-C3fjuxS8-card-fbb50d2d.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "adyar-ananda-bhavan-a2b-veg-restaurant-yTbu__aU",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/adyar-ananda-bhavan-a2b-veg-restaurant-yTbu__aU/british-adyar-ananda-bhavan-a2b-veg-restaurant-yTbu__aU-card-53bad424.blur.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "dauns-5TEuh-Xo",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/dauns-5TEuh-Xo/british-dauns-5TEuh-Xo-card-bd73606b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "shindes-pure-veg-FPa68pQQ",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/shindes-pure-veg-FPa68pQQ/british-shindes-pure-veg-FPa68pQQ-card-3de19798.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-coven-of-wiches-c6922o7M",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-coven-of-wiches-c6922o7M/british-the-coven-of-wiches-c6922o7M-card-9abb550b.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "the-spread-eagle-qglOkPso",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/the-spread-eagle-qglOkPso/british-the-spread-eagle-qglOkPso-card-f412be62.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "wave-ex8ywClg",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/wave-ex8ywClg/british-wave-ex8ywClg-card-836075c3.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "tofu-vegan-spitalfields-_BJjz45Q",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/tofu-vegan-spitalfields-_BJjz45Q/british-tofu-vegan-spitalfields-_BJjz45Q-card-27657d26.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "ivisecrets-vegan-fine-dining-lounge-iveganit-caribbean-asian-fusion-food-XNO5wWF0",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/ivisecrets-vegan-fine-dining-lounge-iveganit-caribbean-asian-fusion-food-XNO5wWF0/caribbean-ivisecrets-vegan-fine-dining-lounge-iveganit-caribbean-asian-fusion-food-XNO5wWF0-card-a9941751.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "black-cat-caf-HtKX5K9Q",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/black-cat-caf-HtKX5K9Q/british-black-cat-caf-HtKX5K9Q-card-03091717.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "mildreds-dalston-694cpGNI",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/mildreds-dalston-694cpGNI/british-mildreds-dalston-694cpGNI-card-f21c7ea9.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "fed-by-plants-pPB54tsM",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/fed-by-plants-pPB54tsM/british-fed-by-plants-pPB54tsM-card-fb276492.webp",
+      "local_exists": true,
+      "action": "restored"
+    },
+    {
+      "slug": "babas-village-restaurant-8v-UNYn8",
+      "status": "RESTORED_RESTAURANT_IMAGE",
+      "image_path": "/images/restaurants/babas-village-restaurant-8v-UNYn8/hero.webp",
+      "local_exists": true,
+      "action": "restored"
+    }
+  ]
+}

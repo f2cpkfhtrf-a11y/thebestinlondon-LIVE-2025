@@ -15,8 +15,7 @@ export async function getStaticProps() {
   return {
     props: {
       venues
-    },
-    revalidate: 3600
+    }
   };
 }
 

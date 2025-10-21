@@ -1,6 +1,6 @@
 # Comprehensive Audit Summary
 
-Generated: 2025-10-19T13:04:58.627Z
+Generated: 2025-10-29T23:01:03.152Z
 
 ## Overview
 
@@ -8,10 +8,10 @@ This report summarizes the findings from the comprehensive audit of the The Best
 
 ## File System Analysis
 
-- **Total files scanned**: 3123
-- **Potentially unused files**: 250
-- **High complexity files**: 1013
-- **Large static assets**: 26
+- **Total files scanned**: 8506
+- **Potentially unused files**: 386
+- **High complexity files**: 1260
+- **Large static assets**: 47
 
 ### Top 10 Largest Files
 
@@ -19,14 +19,14 @@ This report summarizes the findings from the comprehensive audit of the The Best
 |------|-----------|-------|------------|
 | `archive/old-data/venues-clean.json` | 38130 | 5001 | 5001 |
 | `archive/old-data/venues-sample.json` | 38130 | 5001 | 5001 |
-| `public/venues.json` | 9560 | 153691 | 153691 |
+| `reports/venues_backup_before_about.json` | 9998 | 163987 | 163987 |
+| `reports/venues_backup_bios_2025-10-21T00-34-15-069Z.json` | 9739 | 161023 | 161023 |
+| `reports/venues_backup_enrich_2025-10-21T00-34-11-909Z.json` | 9635 | 156469 | 156469 |
+| `reports/venues_backup_2025-10-21T00-34-05-009Z.json` | 9560 | 153691 | 153691 |
 | `backups/venues-pre-image-enhancement-1760732928959.json` | 9343 | 176525 | 176525 |
 | `backups/venues-pre-normalization-1760732782937.json` | 9321 | 175086 | 175086 |
 | `backups/venues-pre-content-enhancement-1760736556240.json` | 8660 | 168314 | 168314 |
 | `backups/venues-pre-unique-images-1760735503748.json` | 8618 | 167734 | 167734 |
-| `backups/venues-pre-image-intelligence-1760735474014.json` | 8598 | 167443 | 167443 |
-| `backups/venues-pre-bio-generation-1760733020152.json` | 8501 | 166949 | 166949 |
-| `backups/venues-20251018-175828.json` | 6642 | 138191 | 138191 |
 
 ### Potentially Unused Files
 
@@ -38,52 +38,39 @@ This report summarizes the findings from the comprehensive audit of the The Best
 - `data/areaImageMap.ts`
 - `data/cuisineImageMap.ts`
 - `lib/assertLocalImage.ts`
+- `lib/bookingUtils.js`
+- `lib/content/aboutGenerator.ts`
+- `lib/cuisineData.js`
+- `lib/factory/internalLinking.ts`
+- `lib/factory/pageFactory.js`
+- `lib/factory/pageFactory.ts`
+- `lib/fetchGooglePlacePhoto.ts`
+- `lib/getGooglePhotoUrl.ts`
+- `lib/heroFallback.js`
 - `lib/imagePlaceholders.ts`
-- `lib/logImageIssue.ts`
-- `lib/resolveHeroImage.ts`
-- `lib/slugImagePath.ts`
-- `next.config.js`
-- `pages/[cuisine].js`
-- `pages/_app.js`
-- `pages/_document.js`
-- `pages/areas/[slug].js`
-- `pages/bars.js`
-- `pages/best-halal-restaurants-london-old.js`
-- `pages/cafes.js`
+- `lib/images/hybridResolver.ts`
+- `lib/images/venueUtils.ts`
 
 ## Image Analysis
 
-- **Total images**: 1054
-- **Unused images**: 25
+- **Total images**: 1779
+- **Unused images**: 0
 - **Missing images**: 0
-- **Oversized images**: 401
+- **Oversized images**: 449
 - **Slug mismatches**: 0
-
-### Unused Images
-
-- `heroes/areas/camden.webp`
-- `heroes/areas/central-london.webp`
-- `heroes/areas/hackney.webp`
-- `heroes/areas/havering.webp`
-- `heroes/areas/kensington-and-chelsea.webp`
-- `heroes/areas/newham.webp`
-- `heroes/areas/redbridge.webp`
-- `heroes/areas/southwark.webp`
-- `heroes/areas/tower-hamlets.webp`
-- `heroes/areas/westminster.webp`
 
 ### Oversized Images (>400KB)
 
-- `heroes/areas/camden.webp`
-- `heroes/areas/central-london.webp`
-- `heroes/areas/hackney.webp`
-- `heroes/areas/havering.webp`
-- `heroes/areas/kensington-and-chelsea.webp`
-- `heroes/areas/newham.webp`
-- `heroes/areas/redbridge.webp`
-- `heroes/areas/southwark.webp`
-- `heroes/areas/tower-hamlets.webp`
-- `heroes/areas/westminster.webp`
+- `blog/best-british-restaurants-in-london.webp`
+- `blog/best-indian-restaurants-in-london.webp`
+- `blog/best-italian-restaurants-in-london.webp`
+- `blog/heroes/best-british-restaurants-in-london.webp`
+- `blog/heroes/best-indian-in-redbridge.webp`
+- `blog/heroes/best-indian-restaurants-in-london.webp`
+- `blog/heroes/best-italian-restaurants-in-london.webp`
+- `blog/heroes/best-japanese-restaurants-in-london.webp`
+- `blog/heroes/best-modern-european-restaurants-in-london.webp`
+- `blog/heroes/borough-market-eats.webp`
 
 ## Route Analysis
 

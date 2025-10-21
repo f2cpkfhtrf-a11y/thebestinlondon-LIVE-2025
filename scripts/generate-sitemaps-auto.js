@@ -116,11 +116,11 @@ async function generateSitemaps() {
   
   // Load venues data if exists
   let venues = [];
-  const venuesPath = path.join(publicDir, 'venues.json');
+  const venuesPath = path.join(__dirname, '../data/venues.json');
   
   if (fs.existsSync(venuesPath)) {
     const venuesData = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
-    venues = venuesData.venues || [];
+    venues = Array.isArray(venuesData) ? venuesData : (venuesData.venues || []);
     
     // Generate venues sitemap
     console.log('\n🍽️  Generating venues sitemap...');

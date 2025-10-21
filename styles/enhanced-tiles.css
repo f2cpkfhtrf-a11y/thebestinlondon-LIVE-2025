@@ -1,0 +1,41 @@
+/* Omar's Enhanced Tile Overlay */
+.tile-overlay::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.45), rgba(0,0,0,0.05));
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Enhanced tile styling */
+.enhanced-tile {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+}
+
+.enhanced-tile:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.enhanced-tile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.enhanced-tile:hover img {
+  transform: scale(1.05);
+}
+
+.tile-content {
+  position: relative;
+  z-index: 2;
+  padding: 1rem;
+  color: white;
+}

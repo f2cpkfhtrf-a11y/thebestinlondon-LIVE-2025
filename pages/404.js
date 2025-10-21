@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import Head from 'next/head';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
@@ -16,7 +18,9 @@ export default function Custom404() {
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/404" />
       </Head>
       
-      <TabContainer>
+      <div className="min-h-screen bg-black">
+        <Header />
+        <TabContainer>
         <PageHero
           title="Page Not Found"
           subtitle="The page you're looking for doesn't exist, but we have plenty of amazing restaurants to discover!"
@@ -73,7 +77,9 @@ export default function Custom404() {
             </div>
           </div>
         </main>
-      </TabContainer>
+        </TabContainer>
+        <Footer />
+      </div>
     </>
   );
 }

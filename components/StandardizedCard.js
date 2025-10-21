@@ -3,7 +3,8 @@ import ImageWithFallback from './ImageWithFallback';
 import { assertLocalImage } from '../lib/assertLocalImage';
 import { getBlurAndColor } from '../lib/imagePlaceholders';
 import { isValidFsaScore, getFsaDisplayValue } from '../lib/fsa';
-import { resolveVenueCard } from '../lib/images/resolve';
+import { resolveCardImageSync } from '../lib/resolveHeroImage';
+import { getVenueGooglePhotoUrl } from '../lib/getGooglePhotoUrl';
 
 const StandardizedCard = ({ 
   venue, 
@@ -15,6 +16,7 @@ const StandardizedCard = ({
   const {
     name,
     image_card_path,
+    image_hero_path,
     image_url,
     photos,
     cuisines,
@@ -28,13 +30,13 @@ const StandardizedCard = ({
     halal_certified,
     fsa_rating,
     dietary_tags
-  } = venue;
+  } = venue || {};
   
             // Get the best available image using the new resolver
             const getImageUrl = () => {
               try {
-                const resolved = resolveVenueCard(venue);
-                return resolved.src;
+                const resolved = resolveCardImageSync({ venue });
+                return resolved;
               } catch (error) {
                 console.warn(`Failed to resolve image for venue ${venue.slug || venue.name}:`, error);
                 // Fallback to old logic if resolver fails
@@ -59,55 +61,102 @@ const StandardizedCard = ({
   }
   
   return (
-    <div className={`relative overflow-hidden rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 group ${className}`}>
-      {/* Image with standardized overlay */}
+    <div className={`relative overflow-hidden rounded-xl shadow-lg hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 group cursor-pointer ${className}`}>
+      {/* Image with standardized overlay - larger and optimized */}
       <div 
-        className="relative h-48 overflow-hidden aspect-[16/10]"
+        className="relative h-64 overflow-hidden aspect-[16/10]"
         style={{ backgroundColor: blurAndColor.color }}
       >
                 {imageUrl ? (
           <img
             src={imageUrl}
             alt={`${name} - ${cuisines?.join(', ')} restaurant in ${location || 'London'}`}
-            className="w-full h-full object-cover group-hover:scale-105 transition-opacity duration-300"
+            className="w-full h-full object-cover group-hover:scale-110 transition-all duration-500 ease-out"
             loading="lazy"
             decoding="async"
+            style={{ 
+              filter: 'brightness(0.9) contrast(1.1)',
+              transition: 'transform 0.5s ease-out, filter 0.3s ease-out'
+            }}
             onError={(e) => {
-              // Try fallback chain: cuisine default → site default
-              const currentSrc = e.target.src;
-              const fallbacks = [];
+              // Prevent infinite loop
+              if (e.target.dataset.fallbackAttempted === 'true') {
+                // Already tried fallback - show gradient placeholder instead of black
+                e.target.style.display = 'none';
+                if (!e.target.parentElement.querySelector('.fallback-gradient')) {
+                  const fallbackDiv = document.createElement('div');
+                  fallbackDiv.className = 'fallback-gradient w-full h-full bg-gradient-to-br from-gold/20 via-gold/10 to-black flex items-center justify-center';
+                  fallbackDiv.innerHTML = `
+                    <div class="text-center text-gold/60">
+                      <div class="text-4xl mb-2">🍽️</div>
+                      <div class="text-sm">${cuisines?.[0] || 'Restaurant'}</div>
+                    </div>
+                  `;
+                  e.target.parentElement.appendChild(fallbackDiv);
+                }
+                return;
+              }
               
-              // Try cuisine fallback
+              e.target.dataset.fallbackAttempted = 'true';
+              const currentSrc = e.target.src.split('?')[0]; // Remove version params
+              
+              // First try: Google Places Photo API (REAL restaurant images!)
+              try {
+                const googlePhotoUrl = getVenueGooglePhotoUrl(venue, 800);
+                if (googlePhotoUrl && !currentSrc.includes('maps.googleapis.com')) {
+                  e.target.src = googlePhotoUrl;
+                  return;
+                }
+              } catch (err) {
+                // Continue to fallbacks if Google photo fails
+              }
+              
+              // Fallback chain: cuisine tile → area tile → default
+              let nextFallback = null;
+              
+              // Try cuisine tile first (most relevant)
               if (cuisines && cuisines[0]) {
                 const cuisineSlug = cuisines[0].toLowerCase().replace(/[^a-z0-9]/g, '-');
-                fallbacks.push(`/images/heroes/cuisines/${cuisineSlug}.webp`);
+                nextFallback = `/images/tiles/cuisines/${cuisineSlug}.webp?v=fallback`;
+                
+                // Try hero version too
+                if (!nextFallback || currentSrc.includes(cuisineSlug)) {
+                  nextFallback = `/images/heroes/cuisines/${cuisineSlug}.webp?v=fallback`;
+                }
               }
               
-              // Try area fallback
-              if (area || borough) {
+              // Try area tile
+              if (!nextFallback && (area || borough)) {
                 const areaSlug = (area || borough).toLowerCase().replace(/[^a-z0-9]/g, '-');
-                fallbacks.push(`/images/heroes/areas/${areaSlug}.webp`);
+                nextFallback = `/images/tiles/areas/${areaSlug}.webp?v=fallback`;
               }
               
-              // Final fallback
-              fallbacks.push('/images/heroes/site/default-list-hero.webp');
+              // Final fallback - always use cuisine default to avoid black tiles
+              if (!nextFallback || currentSrc === nextFallback.split('?')[0]) {
+                nextFallback = '/images/tiles/cuisines/default.webp?v=fallback';
+                // Last resort
+                if (currentSrc.includes('default')) {
+                  nextFallback = '/images/heroes/site/default-card.webp?v=fallback';
+                }
+              }
               
-              const nextFallback = fallbacks.find(fallback => !currentSrc.includes(fallback.split('/').pop()));
-              
-              if (nextFallback && nextFallback !== currentSrc) {
+              // Only try next fallback if it's different from current
+              if (nextFallback && !currentSrc.includes(nextFallback.split('/').pop().split('?')[0])) {
                 e.target.src = nextFallback;
               } else {
-                // Show cuisine icon fallback
+                // Already tried all fallbacks - show gradient
                 e.target.style.display = 'none';
-                const fallbackDiv = document.createElement('div');
-                fallbackDiv.className = 'w-full h-full bg-gradient-to-br from-gold/20 to-black flex items-center justify-center';
-                fallbackDiv.innerHTML = `
-                  <div class="text-center text-gold/60">
-                    <div class="text-4xl mb-2">🍽️</div>
-                    <div class="text-sm">${cuisines?.[0] || 'Restaurant'}</div>
-                  </div>
-                `;
-                e.target.parentElement.appendChild(fallbackDiv);
+                if (!e.target.parentElement.querySelector('.fallback-gradient')) {
+                  const fallbackDiv = document.createElement('div');
+                  fallbackDiv.className = 'fallback-gradient w-full h-full bg-gradient-to-br from-gold/20 via-gold/10 to-black flex items-center justify-center';
+                  fallbackDiv.innerHTML = `
+                    <div class="text-center text-gold/60">
+                      <div class="text-4xl mb-2">🍽️</div>
+                      <div class="text-sm">${cuisines?.[0] || 'Restaurant'}</div>
+                    </div>
+                  `;
+                  e.target.parentElement.appendChild(fallbackDiv);
+                }
               }
             }}
           />
@@ -120,8 +169,8 @@ const StandardizedCard = ({
           </div>
         )}
         
-        {/* Standardized dark-to-transparent overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-transparent"></div>
+        {/* Enhanced gradient overlay for better text readability */}
+        <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/30 to-transparent group-hover:from-black/60 group-hover:via-black/20 transition-all duration-500"></div>
         
         {/* Badges positioned consistently */}
         {showBadges && (

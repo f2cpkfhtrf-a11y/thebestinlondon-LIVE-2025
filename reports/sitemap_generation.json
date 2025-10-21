@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-10-24T21:23:33.263Z",
+  "sitemaps": {
+    "index": "sitemap.xml",
+    "pages": "sitemap-pages.xml",
+    "venues": "sitemap-venues.xml",
+    "cuisines": "sitemap-cuisines.xml",
+    "areas": "sitemap-areas.xml",
+    "blog": "sitemap-blog.xml",
+    "faq": "sitemap-faq.xml",
+    "collections": "sitemap-collections.xml"
+  },
+  "counts": {
+    "totalUrls": 629,
+    "restaurantUrls": 511,
+    "collectionPages": 15,
+    "staticPages": 6
+  }
+}

@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Layout from '../../components/Layout';
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
 import RichMarkdown from '../../components/content/RichMarkdown';
 import Link from 'next/link';
 import { resolveHeroImage } from '../../lib/resolveHeroImage';
@@ -46,8 +47,7 @@ export async function getStaticProps({ params }) {
     props: {
       faq,
       heroImage
-    },
-    revalidate: 3600
+    }
   };
 }
 
@@ -101,7 +101,7 @@ export default function FAQPost({ faq, heroImage }) {
   };
 
   return (
-    <Layout>
+    <>
       <Head>
         <title>{faq.seo.title}</title>
         <meta name="description" content={faq.seo.description} />
@@ -129,8 +129,11 @@ export default function FAQPost({ faq, heroImage }) {
         />
       </Head>
 
-      {/* Breadcrumbs */}
-      <div className="bg-gray-800 py-4">
+      <div className="min-h-screen bg-black">
+        <Header />
+
+        {/* Breadcrumbs */}
+        <div className="bg-gray-800 py-4">
         <div className="max-w-4xl mx-auto px-4">
           <nav className="text-sm">
             <Link href="/" className="text-gray-400 hover:text-white">Home</Link>
@@ -226,6 +229,9 @@ export default function FAQPost({ faq, heroImage }) {
           })
         }}
       />
-    </Layout>
+        
+        <Footer />
+      </div>
+    </>
   );
 }

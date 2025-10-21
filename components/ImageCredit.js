@@ -43,21 +43,7 @@ export default function ImageCredit({ credit, sourceUrl, licenseType, position =
       ) : (
         <span>{credit}</span>
       )}
-      {licenseType === 'unsplash' && (
-        <a
-          href="https://unsplash.com/?utm_source=thebestinlondon&utm_medium=referral"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            color: 'inherit',
-            textDecoration: 'none',
-            marginLeft: '2px'
-          }}
-          title="Photos from Unsplash"
-        >
-          via Unsplash
-        </a>
-      )}
+      {/* Unsplash attribution removed - now using local images only */}
     </div>
   );
 }

@@ -4,17 +4,19 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import BackToHome from '../components/BackToHome';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
 import { resolveHeroImage, resolveTileImage } from '../lib/resolveHeroImage';
 import ImageTile from '../components/tiles/ImageTile';
+import { asCollectionPage } from '../lib/factory/pageFactory';
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const fs = require('fs');
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let data = JSON.parse(fileContent);
     
@@ -37,13 +39,12 @@ export async function getStaticProps() {
         count
       }))
       .sort((a, b) => b.count - a.count);
-
+    
     return {
       props: {
         areas,
         totalVenues: venues.length
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error loading areas:', error);
@@ -81,6 +82,31 @@ export default function Areas({ areas, totalVenues }) {
         <meta name="description" content={`Explore ${areas.length}+ areas across London with our comprehensive restaurant guide. From Soho to Shoreditch, discover the best dining in every neighborhood.`} />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/areas" />
         
+        {/* JSON-LD */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          "name": "London Restaurant Areas",
+          "description": "Complete list of London areas with restaurants, cafés and dining establishments",
+          "url": "https://www.thebestinlondon.co.uk/areas",
+          "numberOfItems": areas.length,
+          "itemListElement": areas.map((area, index) => ({
+            "@type": "ListItem",
+            "position": index + 1,
+            "item": {
+              "@type": "Place",
+              "name": area.name,
+              "url": `https://www.thebestinlondon.co.uk/areas/${area.slug}`,
+              "description": `${area.count} restaurants in ${area.name}, London`,
+              "containedInPlace": {
+                "@type": "City",
+                "name": "London",
+                "addressCountry": "GB"
+              }
+            }
+          }))
+        }) }} />
+        
         {/* Open Graph */}
         <meta property="og:title" content="Restaurant Areas in London | The Best in London" />
         <meta property="og:description" content={`Explore ${areas.length}+ areas across London with our comprehensive restaurant guide.`} />
@@ -113,8 +139,35 @@ export default function Areas({ areas, totalVenues }) {
           center={true}
         />
 
+        {/* Content Introduction */}
+        <section className="py-16 bg-charcoal-light">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center">
+              <h2 className="text-3xl lg:text-4xl font-serif font-bold text-white mb-6">
+                Discover London's Culinary Neighborhoods
+              </h2>
+              <p className="text-lg text-grey leading-relaxed mb-8">
+                London's dining scene is as diverse as its neighborhoods. From the historic charm of Covent Garden's market restaurants to the vibrant street food culture of Ilford Lane, each area offers its own unique culinary identity. Whether you're seeking Michelin-starred fine dining in Mayfair, authentic halal cuisine in Whitechapel, or trendy brunch spots in Shoreditch, our comprehensive area guides help you discover the perfect dining experience for every occasion.
+              </p>
+              <div className="flex flex-wrap justify-center gap-4 text-sm">
+                <Link href="/cuisines" className="text-gold hover:text-white transition-colors">
+                  Browse by Cuisine →
+                </Link>
+                <span className="text-grey">•</span>
+                <Link href="/restaurants" className="text-gold hover:text-white transition-colors">
+                  All Restaurants →
+                </Link>
+                <span className="text-grey">•</span>
+                <Link href="/best-halal-restaurants-london" className="text-gold hover:text-white transition-colors">
+                  Halal Restaurants →
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* Search */}
-        <section className="py-8 bg-charcoal-light">
+        <section className="py-8 bg-black">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-md mx-auto">
               <input
@@ -189,10 +242,21 @@ export default function Areas({ areas, totalVenues }) {
             </div>
           </div>
         </section>
+        {/* Data Attribution */}
+        <section className="py-8 bg-black border-t border-grey-dark">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center">
+              <p className="text-sm text-grey">
+                The Best in London aggregates restaurant data from Google and the Food Standards Agency (FSA). All listings are verified and regularly updated.
+              </p>
+            </div>
+          </div>
+        </section>
         </TabContainer>
       </main>
 
       <Footer />
+      <BackToHome />
     </>
   );
 }

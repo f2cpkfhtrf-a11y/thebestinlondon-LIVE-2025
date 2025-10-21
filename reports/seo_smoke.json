@@ -1,0 +1,79 @@
+{
+  "timestamp": "2025-10-21T23:04:59.274Z",
+  "summary": {
+    "totalPages": 11,
+    "pagesWithJsonLd": 11,
+    "pagesWithoutJsonLd": 0,
+    "restaurantPagesWithCorrectSchema": 1,
+    "restaurantPagesWithoutCorrectSchema": 0
+  },
+  "pages": [
+    {
+      "page": "Home",
+      "path": "pages/index.js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "Areas Index",
+      "path": "pages/areas.js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "Area Detail",
+      "path": "pages/areas/[slug].js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "Cuisines Index",
+      "path": "pages/cuisines.js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "Cuisine Detail",
+      "path": "pages/[cuisine].js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "Restaurants Index",
+      "path": "pages/restaurants.js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "Restaurant Detail",
+      "path": "pages/restaurant/[slug].js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "Blog Index",
+      "path": "pages/blog.js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "Blog Post",
+      "path": "pages/blog/[slug].js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "FAQ Index",
+      "path": "pages/faq.js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    },
+    {
+      "page": "FAQ Detail",
+      "path": "pages/faq/[slug].js",
+      "hasJsonLd": true,
+      "status": "✅ PASS"
+    }
+  ],
+  "issues": []
+}

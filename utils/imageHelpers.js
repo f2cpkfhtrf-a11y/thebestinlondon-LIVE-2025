@@ -19,17 +19,11 @@ export function getGooglePlacePhotoUrl(photoReference, maxWidth = 800) {
  * DIRECT HIGH-QUALITY FOOD IMAGES
  * Simple array, no complex category logic
  */
+// Local food images instead of Unsplash
 const FOOD_IMAGES = [
-  'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80',
-  'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80',
-  'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&q=80',
-  'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80',
-  'https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80',
-  'https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=800&q=80',
-  'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80',
-  'https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=800&q=80',
-  'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=800&q=80',
-  'https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&q=80',
+  '/images/heroes/site/default-card.webp',
+  '/images/tiles/cuisines/default.webp',
+  '/images/heroes/site/default-list-hero.webp',
 ];
 
 /**

@@ -6,7 +6,7 @@ const OptimizedLazyImage = ({
   width, 
   height, 
   className = '', 
-  fallbackSrc = 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1600&h=1200&fit=crop&crop=center&q=85',
+  fallbackSrc = '/images/heroes/site/default-card.webp',
   priority = false,
   ...props 
 }) => {

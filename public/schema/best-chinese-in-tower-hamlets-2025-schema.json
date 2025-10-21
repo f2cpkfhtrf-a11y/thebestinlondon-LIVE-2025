@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Best Chinese Restaurants in Tower Hamlets",
+  "description": "Discover the top Chinese restaurants in Tower Hamlets, London. Expert recommendations and reviews.",
+  "url": "https://www.thebestinlondon.co.uk/best-chinese-in-tower-hamlets-2025",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Best Chinese Restaurants in Tower Hamlets",
+    "description": "Top-rated Chinese restaurants in Tower Hamlets, London",
+    "numberOfItems": "10+",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Top Chinese Restaurants in Tower Hamlets"
+      }
+    ]
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.thebestinlondon.co.uk/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Areas",
+        "item": "https://www.thebestinlondon.co.uk/areas"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Chinese in Tower Hamlets",
+        "item": "https://www.thebestinlondon.co.uk/best-chinese-in-tower-hamlets-2025"
+      }
+    ]
+  },
+  "keywords": "Chinese restaurants Tower Hamlets, best Chinese Tower Hamlets, Chinese cuisine Tower Hamlets",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Best in London",
+    "url": "https://www.thebestinlondon.co.uk",
+    "logo": "https://www.thebestinlondon.co.uk/logo.png"
+  }
+}

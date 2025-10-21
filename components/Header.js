@@ -3,6 +3,14 @@ import Image from 'next/image';
 import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/router';
 
+// Prefetch critical pages on component mount for instant navigation
+const prefetchPages = (router) => {
+  const criticalPages = ['/restaurants', '/best-halal-restaurants-london', '/near-me', '/blog'];
+  criticalPages.forEach(page => {
+    router.prefetch(page);
+  });
+};
+
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
@@ -168,12 +176,26 @@ export default function Header() {
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
+  
+  // Prefetch critical pages for instant navigation
+  useEffect(() => {
+    prefetchPages(router);
+  }, [router]);
 
   return (
-    <header className={`sticky top-0 z-50 transition-all duration-300 ${
-      isScrolled ? 'bg-charcoal/98 backdrop-blur-lg shadow-lg' : 'bg-charcoal/95 backdrop-blur-md'
-    } border-b border-grey-dark`}>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <>
+      {/* Skip to main content link for accessibility */}
+      <a 
+        href="#main-content" 
+        className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:top-4 focus:left-4 focus:bg-gold focus:text-black focus:px-4 focus:py-2 focus:rounded-lg focus:font-semibold"
+      >
+        Skip to main content
+      </a>
+      
+      <header className={`sticky top-0 z-50 transition-all duration-300 ${
+        isScrolled ? 'bg-charcoal/98 backdrop-blur-lg shadow-lg' : 'bg-charcoal/95 backdrop-blur-md'
+      } border-b border-grey-dark`} role="banner">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-20">
           
           {/* Logo - Premium Crown + Skyline */}
@@ -181,14 +203,16 @@ export default function Header() {
             <div className={`relative transition-all duration-300 ${
               isScrolled ? 'w-10 h-10' : 'w-12 h-12 lg:w-14 lg:h-14'
             }`}>
-              <Image
-                src="/assets/logos/logo-compact.svg"
-                alt="The Best in London"
-                width={isScrolled ? 40 : 56}
-                height={isScrolled ? 40 : 56}
-                className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
-                priority
-              />
+        <img
+          src="/assets/logos/logo-compact.svg"
+          alt="The Best in London"
+          width={isScrolled ? 40 : 56}
+          height={isScrolled ? 40 : 56}
+          className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
+          loading="eager"
+          decoding="async"
+          style={{ display: 'block' }}
+        />
             </div>
             <div className="hidden sm:block">
               <h1 className={`logo-text transition-all duration-300 ${
@@ -205,7 +229,7 @@ export default function Header() {
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center space-x-6">
+          <nav className="hidden lg:flex items-center space-x-6" role="navigation" aria-label="Main navigation">
             <Link 
               href="/" 
               className={`font-nav font-medium transition-colors duration-300 ${
@@ -390,7 +414,7 @@ export default function Header() {
         {/* Mobile Menu */}
         {isMenuOpen && (
           <div className="lg:hidden border-t border-grey-dark bg-charcoal/98 backdrop-blur-lg">
-            <nav className="py-4 space-y-2">
+            <nav className="py-4 space-y-2" role="navigation" aria-label="Mobile navigation">
               {/* Mobile Search */}
               <div className="px-4 pb-4">
                 <div className="relative" ref={searchRef}>
@@ -537,6 +561,7 @@ export default function Header() {
           </div>
         )}
       </div>
-    </header>
+      </header>
+    </>
   );
 }

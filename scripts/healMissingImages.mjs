@@ -58,7 +58,21 @@ async function fetchFromGooglePlaces(venue, dest) {
 async function main() {
   console.log('🧪 Starting image healing process...');
   fs.mkdirSync(CACHED, { recursive: true });
-  const venues = JSON.parse(fs.readFileSync(VENUES_FILE,'utf-8'));
+  
+  // Try public/venues.json first, fallback to data/venues.json
+  let venuesFilePath = VENUES_FILE;
+  if (!fs.existsSync(venuesFilePath)) {
+    const altPath = path.join(ROOT, 'data', 'venues.json');
+    if (fs.existsSync(altPath)) {
+      console.log('⚠️ public/venues.json not found, using data/venues.json');
+      venuesFilePath = altPath;
+    } else {
+      console.error('❌ Neither public/venues.json nor data/venues.json found');
+      process.exit(1);
+    }
+  }
+  
+  const venues = JSON.parse(fs.readFileSync(venuesFilePath,'utf-8'));
   let fetches = 0, healed = 0;
 
   for (const v of venues) {

@@ -19,7 +19,7 @@ const SEOHead = ({
   // Default values
   const defaultTitle = 'The Best in London - Discover London\'s Finest Restaurants';
   const defaultDescription = 'Find the best restaurants, cafes, and dining experiences in London. From Michelin-starred fine dining to hidden gems, discover London\'s culinary scene.';
-  const defaultImage = 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1200&h=630&fit=crop&crop=center&q=85';
+  const defaultImage = 'https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp';
   const defaultUrl = 'https://www.thebestinlondon.co.uk';
   
   const finalTitle = optimizedTitle || defaultTitle;
@@ -88,7 +88,6 @@ const SEOHead = ({
       {/* Preconnect to external domains */}
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-      <link rel="preconnect" href="https://images.unsplash.com" />
       <link rel="preconnect" href="https://maps.googleapis.com" />
       
       {/* Structured Data */}

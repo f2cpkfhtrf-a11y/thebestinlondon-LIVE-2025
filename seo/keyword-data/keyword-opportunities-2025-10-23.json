@@ -1,0 +1,1604 @@
+{
+  "analysis_date": "2025-10-23",
+  "total_keywords_analyzed": 55,
+  "filtering_criteria": {
+    "min_search_volume": 300,
+    "max_difficulty": 40,
+    "local_intent_required": true
+  },
+  "opportunities": {
+    "high_priority": [
+      {
+        "keyword": "halal restaurants london",
+        "search_volume": 4500,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best japanese restaurants london",
+        "search_volume": 4200,
+        "difficulty": 25,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_optimized",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best turkish restaurants london",
+        "search_volume": 3800,
+        "difficulty": 22,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_optimized",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "vegan restaurants london",
+        "search_volume": 3800,
+        "difficulty": 24,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "lunch restaurants london",
+        "search_volume": 3600,
+        "difficulty": 25,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best thai restaurants london",
+        "search_volume": 3200,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_needs_optimization",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near covent garden",
+        "search_volume": 3200,
+        "difficulty": 25,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "late night restaurants london",
+        "search_volume": 3200,
+        "difficulty": 22,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "vegetarian restaurants london",
+        "search_volume": 3200,
+        "difficulty": 22,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "family restaurants london",
+        "search_volume": 3200,
+        "difficulty": 24,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best korean restaurants london",
+        "search_volume": 2800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_needs_optimization",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near soho",
+        "search_volume": 2800,
+        "difficulty": 22,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal indian restaurants london",
+        "search_volume": 2800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_optimized",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "breakfast restaurants london",
+        "search_volume": 2800,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "healthy restaurants london",
+        "search_volume": 2800,
+        "difficulty": 21,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "business lunch restaurants london",
+        "search_volume": 2800,
+        "difficulty": 22,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best pakistani restaurants london",
+        "search_volume": 2400,
+        "difficulty": 15,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_needs_optimization",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near shoreditch",
+        "search_volume": 2400,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "brunch restaurants london",
+        "search_volume": 2400,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "gluten free restaurants london",
+        "search_volume": 2400,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "date night restaurants london",
+        "search_volume": 2400,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near canary wharf",
+        "search_volume": 2200,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal turkish restaurants london",
+        "search_volume": 2200,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_optimized",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best vietnamese restaurants london",
+        "search_volume": 2100,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near camden",
+        "search_volume": 2000,
+        "difficulty": 19,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "birthday restaurants london",
+        "search_volume": 2000,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      }
+    ],
+    "medium_priority": [
+      {
+        "keyword": "best mediterranean restaurants london",
+        "search_volume": 1900,
+        "difficulty": 19,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal pakistani restaurants london",
+        "search_volume": 1900,
+        "difficulty": 14,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_needs_optimization",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best mexican restaurants london",
+        "search_volume": 1800,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near king's cross",
+        "search_volume": 1800,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "24 hour restaurants london",
+        "search_volume": 1800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "keto restaurants london",
+        "search_volume": 1800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "group dining restaurants london",
+        "search_volume": 1800,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best spanish restaurants london",
+        "search_volume": 1600,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near liverpool street",
+        "search_volume": 1600,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal middle eastern restaurants london",
+        "search_volume": 1600,
+        "difficulty": 15,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "organic restaurants london",
+        "search_volume": 1600,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "anniversary restaurants london",
+        "search_volume": 1600,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best american restaurants london",
+        "search_volume": 1500,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near london bridge",
+        "search_volume": 1500,
+        "difficulty": 15,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants open late london",
+        "search_volume": 1500,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best british restaurants london",
+        "search_volume": 1400,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near oxford circus",
+        "search_volume": 1400,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal kebabs london",
+        "search_volume": 1400,
+        "difficulty": 12,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near leicester square",
+        "search_volume": 1300,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal curry london",
+        "search_volume": 1200,
+        "difficulty": 13,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "early morning restaurants london",
+        "search_volume": 1200,
+        "difficulty": 14,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "raw food restaurants london",
+        "search_volume": 1200,
+        "difficulty": 14,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal fine dining london",
+        "search_volume": 1000,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      }
+    ],
+    "low_priority": [],
+    "quick_wins": [
+      {
+        "keyword": "halal restaurants london",
+        "search_volume": 4500,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best thai restaurants london",
+        "search_volume": 3200,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_needs_optimization",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best korean restaurants london",
+        "search_volume": 2800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_needs_optimization",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal indian restaurants london",
+        "search_volume": 2800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_optimized",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "breakfast restaurants london",
+        "search_volume": 2800,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best pakistani restaurants london",
+        "search_volume": 2400,
+        "difficulty": 15,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_needs_optimization",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near shoreditch",
+        "search_volume": 2400,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "brunch restaurants london",
+        "search_volume": 2400,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "gluten free restaurants london",
+        "search_volume": 2400,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "date night restaurants london",
+        "search_volume": 2400,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near canary wharf",
+        "search_volume": 2200,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal turkish restaurants london",
+        "search_volume": 2200,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_optimized",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best vietnamese restaurants london",
+        "search_volume": 2100,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near camden",
+        "search_volume": 2000,
+        "difficulty": 19,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "birthday restaurants london",
+        "search_volume": 2000,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best mediterranean restaurants london",
+        "search_volume": 1900,
+        "difficulty": 19,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal pakistani restaurants london",
+        "search_volume": 1900,
+        "difficulty": 14,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "existing_page_needs_optimization",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best mexican restaurants london",
+        "search_volume": 1800,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near king's cross",
+        "search_volume": 1800,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "24 hour restaurants london",
+        "search_volume": 1800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "keto restaurants london",
+        "search_volume": 1800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "group dining restaurants london",
+        "search_volume": 1800,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best spanish restaurants london",
+        "search_volume": 1600,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near liverpool street",
+        "search_volume": 1600,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal middle eastern restaurants london",
+        "search_volume": 1600,
+        "difficulty": 15,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "organic restaurants london",
+        "search_volume": 1600,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "anniversary restaurants london",
+        "search_volume": 1600,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best american restaurants london",
+        "search_volume": 1500,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near london bridge",
+        "search_volume": 1500,
+        "difficulty": 15,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants open late london",
+        "search_volume": 1500,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best british restaurants london",
+        "search_volume": 1400,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near oxford circus",
+        "search_volume": 1400,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal kebabs london",
+        "search_volume": 1400,
+        "difficulty": 12,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants near leicester square",
+        "search_volume": 1300,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "area_page_exists",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal curry london",
+        "search_volume": 1200,
+        "difficulty": 13,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "early morning restaurants london",
+        "search_volume": 1200,
+        "difficulty": 14,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "raw food restaurants london",
+        "search_volume": 1200,
+        "difficulty": 14,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal fine dining london",
+        "search_volume": 1000,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      }
+    ],
+    "content_gaps": [
+      {
+        "keyword": "halal restaurants london",
+        "search_volume": 4500,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "dinner restaurants london",
+        "search_volume": 4200,
+        "difficulty": 28,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "romantic restaurants london",
+        "search_volume": 4200,
+        "difficulty": 26,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "vegan restaurants london",
+        "search_volume": 3800,
+        "difficulty": 24,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "lunch restaurants london",
+        "search_volume": 3600,
+        "difficulty": 25,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "late night restaurants london",
+        "search_volume": 3200,
+        "difficulty": 22,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "vegetarian restaurants london",
+        "search_volume": 3200,
+        "difficulty": 22,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "family restaurants london",
+        "search_volume": 3200,
+        "difficulty": 24,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "breakfast restaurants london",
+        "search_volume": 2800,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "healthy restaurants london",
+        "search_volume": 2800,
+        "difficulty": 21,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "business lunch restaurants london",
+        "search_volume": 2800,
+        "difficulty": 22,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "brunch restaurants london",
+        "search_volume": 2400,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "gluten free restaurants london",
+        "search_volume": 2400,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "date night restaurants london",
+        "search_volume": 2400,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best vietnamese restaurants london",
+        "search_volume": 2100,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "birthday restaurants london",
+        "search_volume": 2000,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best mediterranean restaurants london",
+        "search_volume": 1900,
+        "difficulty": 19,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best mexican restaurants london",
+        "search_volume": 1800,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "24 hour restaurants london",
+        "search_volume": 1800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "keto restaurants london",
+        "search_volume": 1800,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "group dining restaurants london",
+        "search_volume": 1800,
+        "difficulty": 17,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best spanish restaurants london",
+        "search_volume": 1600,
+        "difficulty": 20,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal middle eastern restaurants london",
+        "search_volume": 1600,
+        "difficulty": 15,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "organic restaurants london",
+        "search_volume": 1600,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "anniversary restaurants london",
+        "search_volume": 1600,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best american restaurants london",
+        "search_volume": 1500,
+        "difficulty": 18,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "restaurants open late london",
+        "search_volume": 1500,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "best british restaurants london",
+        "search_volume": 1400,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal kebabs london",
+        "search_volume": 1400,
+        "difficulty": 12,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal curry london",
+        "search_volume": 1200,
+        "difficulty": 13,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "early morning restaurants london",
+        "search_volume": 1200,
+        "difficulty": 14,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "raw food restaurants london",
+        "search_volume": 1200,
+        "difficulty": 14,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "no_coverage",
+        "recommended_action": "analyze_opportunity"
+      },
+      {
+        "keyword": "halal fine dining london",
+        "search_volume": 1000,
+        "difficulty": 16,
+        "local_intent": true,
+        "commercial_intent": "high",
+        "match_status": "partial_coverage",
+        "recommended_action": "analyze_opportunity"
+      }
+    ]
+  },
+  "all_keywords": [
+    {
+      "keyword": "best italian restaurants london",
+      "search_volume": 8900,
+      "difficulty": 35,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_optimized",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best indian restaurants london",
+      "search_volume": 7600,
+      "difficulty": 32,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_optimized",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best chinese restaurants london",
+      "search_volume": 5400,
+      "difficulty": 28,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_needs_optimization",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "halal restaurants london",
+      "search_volume": 4500,
+      "difficulty": 20,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "partial_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best japanese restaurants london",
+      "search_volume": 4200,
+      "difficulty": 25,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_optimized",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "dinner restaurants london",
+      "search_volume": 4200,
+      "difficulty": 28,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "romantic restaurants london",
+      "search_volume": 4200,
+      "difficulty": 26,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best turkish restaurants london",
+      "search_volume": 3800,
+      "difficulty": 22,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_optimized",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "vegan restaurants london",
+      "search_volume": 3800,
+      "difficulty": 24,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "partial_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best french restaurants london",
+      "search_volume": 3600,
+      "difficulty": 30,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_optimized",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "lunch restaurants london",
+      "search_volume": 3600,
+      "difficulty": 25,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best thai restaurants london",
+      "search_volume": 3200,
+      "difficulty": 20,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_needs_optimization",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near covent garden",
+      "search_volume": 3200,
+      "difficulty": 25,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "late night restaurants london",
+      "search_volume": 3200,
+      "difficulty": 22,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "vegetarian restaurants london",
+      "search_volume": 3200,
+      "difficulty": 22,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "partial_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "family restaurants london",
+      "search_volume": 3200,
+      "difficulty": 24,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best korean restaurants london",
+      "search_volume": 2800,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_needs_optimization",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near soho",
+      "search_volume": 2800,
+      "difficulty": 22,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "halal indian restaurants london",
+      "search_volume": 2800,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_optimized",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "breakfast restaurants london",
+      "search_volume": 2800,
+      "difficulty": 20,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "healthy restaurants london",
+      "search_volume": 2800,
+      "difficulty": 21,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "business lunch restaurants london",
+      "search_volume": 2800,
+      "difficulty": 22,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best pakistani restaurants london",
+      "search_volume": 2400,
+      "difficulty": 15,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_needs_optimization",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near shoreditch",
+      "search_volume": 2400,
+      "difficulty": 20,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "brunch restaurants london",
+      "search_volume": 2400,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "gluten free restaurants london",
+      "search_volume": 2400,
+      "difficulty": 20,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "date night restaurants london",
+      "search_volume": 2400,
+      "difficulty": 20,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near canary wharf",
+      "search_volume": 2200,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "halal turkish restaurants london",
+      "search_volume": 2200,
+      "difficulty": 16,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_optimized",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best vietnamese restaurants london",
+      "search_volume": 2100,
+      "difficulty": 16,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near camden",
+      "search_volume": 2000,
+      "difficulty": 19,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "birthday restaurants london",
+      "search_volume": 2000,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best mediterranean restaurants london",
+      "search_volume": 1900,
+      "difficulty": 19,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "halal pakistani restaurants london",
+      "search_volume": 1900,
+      "difficulty": 14,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "existing_page_needs_optimization",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best mexican restaurants london",
+      "search_volume": 1800,
+      "difficulty": 17,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near king's cross",
+      "search_volume": 1800,
+      "difficulty": 17,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "24 hour restaurants london",
+      "search_volume": 1800,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "keto restaurants london",
+      "search_volume": 1800,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "group dining restaurants london",
+      "search_volume": 1800,
+      "difficulty": 17,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best spanish restaurants london",
+      "search_volume": 1600,
+      "difficulty": 20,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near liverpool street",
+      "search_volume": 1600,
+      "difficulty": 16,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "halal middle eastern restaurants london",
+      "search_volume": 1600,
+      "difficulty": 15,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "partial_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "organic restaurants london",
+      "search_volume": 1600,
+      "difficulty": 16,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "anniversary restaurants london",
+      "search_volume": 1600,
+      "difficulty": 16,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best american restaurants london",
+      "search_volume": 1500,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near london bridge",
+      "search_volume": 1500,
+      "difficulty": 15,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants open late london",
+      "search_volume": 1500,
+      "difficulty": 16,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "best british restaurants london",
+      "search_volume": 1400,
+      "difficulty": 16,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near oxford circus",
+      "search_volume": 1400,
+      "difficulty": 18,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "halal kebabs london",
+      "search_volume": 1400,
+      "difficulty": 12,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "partial_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "restaurants near leicester square",
+      "search_volume": 1300,
+      "difficulty": 17,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "area_page_exists",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "halal curry london",
+      "search_volume": 1200,
+      "difficulty": 13,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "partial_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "early morning restaurants london",
+      "search_volume": 1200,
+      "difficulty": 14,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "raw food restaurants london",
+      "search_volume": 1200,
+      "difficulty": 14,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "no_coverage",
+      "recommended_action": "analyze_opportunity"
+    },
+    {
+      "keyword": "halal fine dining london",
+      "search_volume": 1000,
+      "difficulty": 16,
+      "local_intent": true,
+      "commercial_intent": "high",
+      "match_status": "partial_coverage",
+      "recommended_action": "analyze_opportunity"
+    }
+  ],
+  "summary": {
+    "high_priority_count": 26,
+    "medium_priority_count": 23,
+    "low_priority_count": 0,
+    "quick_wins_count": 38,
+    "content_gaps_count": 33
+  }
+}

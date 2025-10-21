@@ -1,0 +1,73 @@
+diff --git a/components/tiles/ImageTile.tsx b/components/tiles/ImageTile.tsx
+index b4a2d5a..26af5a3 100644
+--- a/components/tiles/ImageTile.tsx
++++ b/components/tiles/ImageTile.tsx
+@@ -1,4 +1,4 @@
+-import React from 'react';
++import React, { useState } from 'react';
+ import Link from 'next/link';
+ 
+ interface ImageTileProps {
+@@ -18,11 +18,23 @@ const ImageTile: React.FC<ImageTileProps> = ({
+   alt,
+   className = ''
+ }) => {
++  const [imageLoaded, setImageLoaded] = useState(false);
++  const [imageError, setImageError] = useState(false);
++
+   // Ensure we have a valid src
+   if (!src) {
+     return null;
+   }
+ 
++  const handleImageLoad = () => {
++    setImageLoaded(true);
++  };
++
++  const handleImageError = () => {
++    setImageError(true);
++    setImageLoaded(true);
++  };
++
+   return (
+     <Link href={href} className={`group block ${className}`}>
+       <div 
+@@ -31,16 +43,36 @@ const ImageTile: React.FC<ImageTileProps> = ({
+           backgroundImage: `url(${src})`,
+           backgroundSize: 'cover',
+           backgroundPosition: 'center',
+-          backgroundRepeat: 'no-repeat'
++          backgroundRepeat: 'no-repeat',
++          backgroundColor: '#1A1A1A' // Fallback background color
+         }}
+       >
+-        {/* Hidden img for accessibility */}
++        {/* Image for loading detection and accessibility */}
+         <img
+           src={src}
+           alt={alt}
+           className="sr-only"
++          onLoad={handleImageLoad}
++          onError={handleImageError}
+         />
+         
++        {/* Loading state */}
++        {!imageLoaded && (
++          <div className="absolute inset-0 bg-charcoal-light animate-pulse flex items-center justify-center">
++            <div className="w-8 h-8 border-2 border-gold border-t-transparent rounded-full animate-spin"></div>
++          </div>
++        )}
++        
++        {/* Error state */}
++        {imageError && (
++          <div className="absolute inset-0 bg-gradient-to-br from-charcoal-light to-charcoal flex items-center justify-center">
++            <div className="text-center text-gold">
++              <div className="text-2xl mb-2">🍽️</div>
++              <div className="text-sm font-medium">{title}</div>
++            </div>
++          </div>
++        )}
++        
+         {/* Enhanced dark gradient overlay with hover effect */}
+         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/90 group-hover:from-black/65 group-hover:via-black/50 group-hover:to-black/95 transition-all duration-300"></div>
+         

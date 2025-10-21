@@ -12,7 +12,7 @@ export async function getStaticProps() {
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let data = JSON.parse(fileContent);
     
@@ -28,8 +28,7 @@ export async function getStaticProps() {
       props: {
         topVenues,
         totalVenues: venues.length
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error loading venues:', error);

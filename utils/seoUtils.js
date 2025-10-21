@@ -43,11 +43,11 @@ export function generateCanonicalUrl(path, baseUrl = 'https://www.thebestinlondo
   return `${baseUrl}${path.startsWith('/') ? path : '/' + path}`;
 }
 
-export function generateOpenGraphImage(venue = null, defaultImage = 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=1200&h=630&fit=crop&crop=center&q=85') {
+export function generateOpenGraphImage(venue = null, defaultImage = 'https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp') {
   if (venue && venue.image_url) {
-    // Convert to Open Graph format (1200x630)
+    // Skip Unsplash URLs - use local images only
     if (venue.image_url.includes('unsplash.com')) {
-      return venue.image_url.replace(/w=d+&h=d+/, 'w=1200&h=630');
+      return defaultImage; // Use local default instead
     }
     return venue.image_url;
   }

@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import Breadcrumbs from '../components/Breadcrumbs';
 import { TabContainer } from '../components/HeroTabs';
 
 export default function Contact() {
@@ -29,6 +30,12 @@ export default function Contact() {
       
       <main className="min-h-screen bg-black">
         <TabContainer currentPath="/contact" pageType="contact">
+        
+        {/* Breadcrumbs */}
+        <div className="container mx-auto px-4 md:px-6 lg:px-8 pt-4">
+          <Breadcrumbs />
+        </div>
+        
         {/* Hero Section */}
         <section className="relative py-20 lg:py-32">
           <div className="absolute inset-0 bg-gradient-to-br from-charcoal via-black to-charcoal opacity-90"></div>

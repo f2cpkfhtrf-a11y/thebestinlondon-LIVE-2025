@@ -1,0 +1,130 @@
+{
+  "timestamp": "2025-10-22T09:59:38.054Z",
+  "summary": {
+    "totalPages": 21,
+    "pagesWithSchema": 19,
+    "pagesWithoutSchema": 2,
+    "schemaTypes": {
+      "Dynamic": 19
+    }
+  },
+  "pages": [
+    {
+      "page": "Home",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Restaurants",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Cuisines",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Areas",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Blog",
+      "hasSchema": false,
+      "status": "WARN (No JSON-LD detected)"
+    },
+    {
+      "page": "FAQ",
+      "hasSchema": false,
+      "status": "WARN (No JSON-LD detected)"
+    },
+    {
+      "page": "Best Chinese In Central London 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Chinese In Tower Hamlets 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Indian In Central London 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Indian In Tower Hamlets 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Italian In Central London 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Italian In Southwark 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Italian In Tower Hamlets 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Japanese In Central London 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Japanese In Westminster 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Korean In Central London 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Korean In Tower Hamlets 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Mediterranean In Central London 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Mediterranean In Tower Hamlets 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Turkish In Central London 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    },
+    {
+      "page": "Best Turkish In Tower Hamlets 2025",
+      "hasSchema": true,
+      "status": "PASS"
+    }
+  ],
+  "warnings": [
+    {
+      "page": "Blog",
+      "issue": "Missing JSON-LD schema",
+      "type": "Missing schema for important page"
+    },
+    {
+      "page": "FAQ",
+      "issue": "Missing JSON-LD schema",
+      "type": "Missing schema for important page"
+    }
+  ]
+}

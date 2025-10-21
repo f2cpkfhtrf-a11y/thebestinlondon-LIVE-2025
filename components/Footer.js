@@ -13,22 +13,26 @@ export default function Footer() {
           <div className="lg:col-span-2 relative">
             {/* Watermark Logo Background */}
             <div className="absolute top-0 right-0 opacity-5">
-              <Image
+              <img
                 src="/assets/logos/logo-monochrome.svg"
                 alt=""
                 width={120}
                 height={120}
-                className="w-24 h-24 lg:w-32 lg:h-32"
+                className="w-24 h-24 lg:w-32 lg:h-32 object-contain"
+                loading="lazy"
+                style={{ display: 'block' }}
               />
             </div>
             
             <div className="flex items-center space-x-3 mb-4 relative z-10">
-              <Image
+              <img
                 src="/assets/logos/logo-compact.svg"
                 alt="The Best in London"
                 width={40}
                 height={40}
-                className="w-10 h-10"
+                className="w-10 h-10 object-contain"
+                loading="eager"
+                style={{ display: 'block' }}
               />
               <h3 className="logo-text text-xl">The Best in London</h3>
             </div>

@@ -1,0 +1,87 @@
+{
+  "timestamp": "2025-10-29T18:36:22.377Z",
+  "checks": [
+    {
+      "file": "next.config.js",
+      "description": "Compression enabled",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "next.config.js",
+      "description": "SWC minification enabled",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "next.config.js",
+      "description": "Bundle splitting configured",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "next.config.js",
+      "description": "Image optimization enabled",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "description": "InteractiveMap lazy loaded",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "description": "SocialShareButtons lazy loaded",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "components/InteractiveMap.js",
+      "description": "Map uses IntersectionObserver",
+      "matches": false,
+      "status": "❌"
+    },
+    {
+      "file": "next.config.js",
+      "description": "WebP/AVIF formats enabled",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "next.config.js",
+      "description": "Device sizes configured",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "next.config.js",
+      "description": "Cache headers configured",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "next.config.js",
+      "description": "Long-term caching for images",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "next.config.js",
+      "description": "Console removal in production",
+      "matches": true,
+      "status": "✅"
+    },
+    {
+      "file": "next.config.js",
+      "description": "Webpack optimizations configured",
+      "matches": true,
+      "status": "✅"
+    }
+  ],
+  "issues": [
+    "Map uses IntersectionObserver: Pattern not found in components/InteractiveMap.js"
+  ],
+  "recommendations": []
+}

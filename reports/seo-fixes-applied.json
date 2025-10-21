@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-10-29T17:20:06.283Z",
+  "fixesApplied": [
+    {
+      "issue": "guides.js missing title",
+      "fix": "Added comprehensive Head section with title, meta description, OG tags, and canonical URL",
+      "status": "fixed"
+    },
+    {
+      "issue": "Duplicate blog-test.js page",
+      "fix": "Removed duplicate blog-test.js file",
+      "status": "fixed"
+    },
+    {
+      "issue": "Homepage keyword optimization",
+      "fix": "Enhanced meta description with target keywords",
+      "status": "fixed"
+    }
+  ],
+  "remainingIssues": [
+    {
+      "issue": "Image optimization disabled",
+      "fix": "Enable Next.js image optimization in next.config.js (currently unoptimized: true)",
+      "impact": "high",
+      "benefit": "Better Core Web Vitals scores, faster page loads"
+    },
+    {
+      "issue": "43 pages missing Open Graph tags",
+      "fix": "Add Open Graph tags to all pages for better social sharing",
+      "impact": "medium",
+      "benefit": "Better social media previews, higher click-through rates"
+    },
+    {
+      "issue": "21 pages missing structured data",
+      "fix": "Add JSON-LD structured data to all pages",
+      "impact": "medium",
+      "benefit": "Rich snippets in search results, better visibility"
+    },
+    {
+      "issue": "Sitemap has 26 URLs but 68 page files exist",
+      "fix": "Regenerate sitemap to include all pages (run sitemap generation script)",
+      "impact": "high",
+      "benefit": "All pages indexed by Google, better crawl coverage"
+    },
+    {
+      "issue": "Some images without alt tags",
+      "fix": "Add descriptive alt text to all images",
+      "impact": "medium",
+      "benefit": "Better accessibility and image search rankings"
+    }
+  ],
+  "seoOptimizationRecommendations": [
+    {
+      "priority": "high",
+      "recommendation": "Add more internal links between related pages",
+      "benefit": "Better page rank distribution, improved crawlability",
+      "action": "Add 3-5 internal links per page to related cuisine/area pages"
+    },
+    {
+      "priority": "high",
+      "recommendation": "Optimize homepage H1 with target keywords",
+      "benefit": "Better keyword relevance for \"best restaurants London\" searches",
+      "action": "Change H1 to include \"Best Restaurants in London\" keyword"
+    },
+    {
+      "priority": "medium",
+      "recommendation": "Add breadcrumb navigation with structured data",
+      "benefit": "Better site structure understanding for Google",
+      "action": "Ensure Breadcrumbs component includes BreadcrumbList schema"
+    },
+    {
+      "priority": "medium",
+      "recommendation": "Create FAQ schema for FAQ pages",
+      "benefit": "Featured snippets in search results",
+      "action": "Add FAQPage schema to FAQ pages"
+    },
+    {
+      "priority": "low",
+      "recommendation": "Add local business schema for restaurant pages",
+      "benefit": "Google Business Profile integration",
+      "action": "Enhance Restaurant schema with LocalBusiness properties"
+    },
+    {
+      "priority": "high",
+      "recommendation": "Improve meta descriptions length and keywords",
+      "benefit": "Higher click-through rates from search results",
+      "action": "Ensure all descriptions are 120-155 characters with target keywords"
+    },
+    {
+      "priority": "medium",
+      "recommendation": "Add \"lastmod\" dates to sitemap",
+      "benefit": "Faster re-indexing when content updates",
+      "action": "Update sitemap generation to include accurate lastmod dates"
+    }
+  ]
+}

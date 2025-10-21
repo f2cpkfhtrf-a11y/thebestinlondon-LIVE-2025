@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-10-29T17:41:58.291Z",
+  "redirectsAdded": 18,
+  "existingRedirects": 11,
+  "recommendations": [
+    "Monitor Google Search Console for specific 404 URLs",
+    "Add redirects for old URLs if site structure changed",
+    "Ensure all getServerSideProps return notFound: true for invalid routes",
+    "Verify venue slugs are URL-safe"
+  ]
+}

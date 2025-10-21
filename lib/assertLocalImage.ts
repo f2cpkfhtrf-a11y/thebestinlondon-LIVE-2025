@@ -29,9 +29,9 @@ export function assertLocalImage(url: string): void {
       throw new Error(`External image host detected: ${url}. Use local paths only.`);
     }
     
-    // Ensure all paths start with /images/
-    if (!url.startsWith('/images/') && !url.startsWith('data:')) {
-      throw new Error(`Non-local image path detected: ${url}. All images must use /images/ paths.`);
+    // Ensure all paths start with /images/ or /tiles_v2/
+    if (!url.startsWith('/images/') && !url.startsWith('/tiles_v2/') && !url.startsWith('data:')) {
+      throw new Error(`Non-local image path detected: ${url}. All images must use /images/ or /tiles_v2/ paths.`);
     }
   }
 }

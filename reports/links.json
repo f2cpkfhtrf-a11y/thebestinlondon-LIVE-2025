@@ -1,9 +1,25 @@
 {
-  "generated_at": "2025-10-17T22:52:27.857Z",
+  "generated_at": "2025-10-25T12:59:14.584Z",
   "summary": {
-    "total": 174,
-    "valid": 174,
-    "broken": 0
+    "total": 433,
+    "valid": 430,
+    "broken": 3
   },
-  "broken_links": []
+  "broken_links": [
+    {
+      "href": "/blog/halal-restaurants-ilford-lane",
+      "file": "pages/blog/[slug].js",
+      "line": 384
+    },
+    {
+      "href": "/blog/romantic-restaurants-london",
+      "file": "pages/blog/[slug].js",
+      "line": 402
+    },
+    {
+      "href": "/blog/late-night-restaurants-london",
+      "file": "pages/blog/[slug].js",
+      "line": 420
+    }
+  ]
 }

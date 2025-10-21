@@ -6,8 +6,11 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
   const [locationError, setLocationError] = useState(null);
   const [isLoadingLocation, setIsLoadingLocation] = useState(false);
   const [nearbyVenues, setNearbyVenues] = useState([]);
-  const [maxDistance, setMaxDistance] = useState(5); // km
+  const [maxDistance, setMaxDistance] = useState(10); // km - increased from 5
   const [showNearMe, setShowNearMe] = useState(false);
+  const [postcodeSearch, setPostcodeSearch] = useState('');
+  const [isSearchingPostcode, setIsSearchingPostcode] = useState(false);
+  const [postcodeError, setPostcodeError] = useState(null);
   const locationPermissionRef = useRef(false);
 
   // Haversine formula to calculate distance between two points
@@ -53,7 +56,8 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
             setLocationError('Location information unavailable.');
             break;
           case error.TIMEOUT:
-            setLocationError('Location request timed out.');
+            setLocationError('Location request timed out. You can search by postcode instead.');
+            // Show postcode search option on timeout
             break;
           default:
             setLocationError('An unknown error occurred.');
@@ -62,8 +66,8 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
       },
       {
         enableHighAccuracy: true,
-        timeout: 10000,
-        maximumAge: 300000 // 5 minutes
+        timeout: 15000, // Increased timeout to 15 seconds
+        maximumAge: 600000 // 10 minutes - cache location longer
       }
     );
   };
@@ -71,25 +75,40 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
   // Calculate venues within specified distance
   const calculateNearbyVenues = (userLat, userLng) => {
     const venuesWithDistance = venues
-      .filter(venue => venue.latitude && venue.longitude)
+      .filter(venue => venue.lat && venue.lng)
       .map(venue => {
         const distance = calculateDistance(
           userLat, 
           userLng, 
-          venue.latitude, 
-          venue.longitude
+          venue.lat, 
+          venue.lng
         );
         return { ...venue, distance };
       })
       .filter(venue => venue.distance <= maxDistance)
       .sort((a, b) => a.distance - b.distance);
 
-    setNearbyVenues(venuesWithDistance);
+    // If no venues found within distance, show all venues with distances
+    const finalVenues = venuesWithDistance.length > 0 ? venuesWithDistance : venues
+      .filter(venue => venue.lat && venue.lng)
+      .map(venue => {
+        const distance = calculateDistance(
+          userLat, 
+          userLng, 
+          venue.lat, 
+          venue.lng
+        );
+        return { ...venue, distance };
+      })
+      .sort((a, b) => a.distance - b.distance)
+      .slice(0, 20); // Show top 20 closest
+
+    setNearbyVenues(finalVenues);
     setShowNearMe(true);
     
     // Update parent component with nearby venues
     if (onFilteredVenues) {
-      onFilteredVenues(venuesWithDistance);
+      onFilteredVenues(finalVenues);
     }
   };
 
@@ -109,11 +128,50 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
     return `${distance.toFixed(1)}km`;
   };
 
+  // Search by postcode fallback
+  const searchByPostcode = async () => {
+    if (!postcodeSearch.trim()) {
+      setPostcodeError('Please enter a postcode');
+      return;
+    }
+    
+    setIsSearchingPostcode(true);
+    setPostcodeError(null);
+    
+    try {
+      // Use UK Postcodes API or OpenStreetMap Nominatim
+      const postcodeQuery = postcodeSearch.trim().toUpperCase().replace(/\s+/g, '');
+      const response = await fetch(`https://api.postcodes.io/postcodes/${encodeURIComponent(postcodeQuery)}`);
+      
+      if (!response.ok) {
+        throw new Error('Postcode not found');
+      }
+      
+      const data = await response.json();
+      
+      if (data.status === 200 && data.result) {
+        const { latitude, longitude } = data.result;
+        setUserLocation({ lat: latitude, lng: longitude });
+        calculateNearbyVenues(latitude, longitude);
+        setPostcodeSearch('');
+      } else {
+        throw new Error('Postcode not found');
+      }
+    } catch (error) {
+      setPostcodeError('Postcode not found. Please check and try again.');
+      console.error('Postcode search error:', error);
+    } finally {
+      setIsSearchingPostcode(false);
+    }
+  };
+  
   // Clear near me filter
   const clearNearMe = () => {
     setShowNearMe(false);
     setNearbyVenues([]);
     setUserLocation(null);
+    setPostcodeSearch('');
+    setPostcodeError(null);
     if (onFilteredVenues) {
       onFilteredVenues(venues);
     }
@@ -181,6 +239,48 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
               )}
             </button>
           )}
+          
+          {/* Postcode Search Fallback */}
+          {!showNearMe && (
+            <div className="flex items-center space-x-2">
+              <input
+                type="text"
+                placeholder="Or search by postcode (e.g., SW1A 1AA)"
+                value={postcodeSearch}
+                onChange={(e) => {
+                  setPostcodeSearch(e.target.value);
+                  setPostcodeError(null);
+                }}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter') {
+                    searchByPostcode();
+                  }
+                }}
+                className="bg-black-light border border-grey-dark rounded-lg px-3 py-2 text-warmWhite text-sm focus:border-gold focus:outline-none min-w-[200px]"
+                aria-label="Search by postcode"
+              />
+              <button
+                onClick={searchByPostcode}
+                disabled={isSearchingPostcode || !postcodeSearch.trim()}
+                className={`
+                  px-4 py-2 rounded-lg font-medium transition-all duration-300
+                  ${isSearchingPostcode || !postcodeSearch.trim()
+                    ? 'bg-grey-dark text-grey cursor-not-allowed' 
+                    : 'bg-warmWhite/10 text-warmWhite hover:bg-warmWhite/20'
+                  }
+                `}
+                aria-label="Search by postcode"
+              >
+                {isSearchingPostcode ? (
+                  <svg className="w-4 h-4 animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                  </svg>
+                ) : (
+                  'Search'
+                )}
+              </button>
+            </div>
+          )}
 
           {/* Distance Filter */}
           {showNearMe && (
@@ -219,6 +319,23 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
               <span className="text-sm text-red-300">{locationError}</span>
+            </div>
+            {!showNearMe && (
+              <div className="mt-2 text-xs text-red-200">
+                Tip: You can search by UK postcode above instead.
+              </div>
+            )}
+          </div>
+        )}
+        
+        {/* Postcode Error */}
+        {postcodeError && (
+          <div className="mt-3 p-3 bg-red-900/20 border border-red-500/30 rounded-lg">
+            <div className="flex items-center space-x-2">
+              <svg className="w-4 h-4 text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+              <span className="text-sm text-red-300">{postcodeError}</span>
             </div>
           </div>
         )}

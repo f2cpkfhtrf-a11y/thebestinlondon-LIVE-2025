@@ -5,87 +5,145 @@ import { useRouter } from 'next/router';
 import dynamic from 'next/dynamic';
 import { theme } from '../../utils/theme';
 import { generateSEOTitle, generateSEODescription, generateStructuredData, generateBreadcrumbData } from '../../utils/seoOptimization';
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
+import BackToHome from '../../components/BackToHome';
+import Breadcrumbs from '../../components/Breadcrumbs';
 import FSABadge from '../../components/FSABadge';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import { TabContainer } from '../../components/HeroTabs';
 import PageHero from '../../components/PageHero';
-import { resolveVenueHero } from '../../lib/images/resolve';
+import { generateAboutText } from '../../lib/content/aboutGenerator';
 import ImageWithFallback from '../../components/ImageWithFallback';
 import { isValidFsaScore, getFsaDisplayValue } from '../../lib/fsa';
+import { resolveVenueHero } from '../../lib/resolveHeroImage';
+// Lazy load image gallery (only loads when needed)
+const EnhancedImageGallery = dynamic(() => import('../../components/EnhancedImageGallery'), {
+  ssr: false
+});
+import BookingButton from '../../components/BookingButton';
+import ErrorBoundary from '../../components/ErrorBoundary';
 
-export async function getStaticPaths() {
-  const fs = require('fs');
-  const path = require('path');
-  
-  try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    let venues = JSON.parse(fileContent);
-    
-    // Handle both flat array and wrapped object
-    if (!Array.isArray(venues) && venues.venues) {
-      venues = venues.venues;
-    }
-    
-    const paths = venues.map(venue => ({
-      params: { slug: venue.slug }
-    }));
-    
-    return { paths, fallback: 'blocking' };
-  } catch (error) {
-    console.error('getStaticPaths error:', error);
-    return { paths: [], fallback: 'blocking' };
-  }
-}
+// Lazy load heavy components for better performance - with error boundaries
+const InteractiveMap = dynamic(() => import('../../components/InteractiveMap'), {
+  ssr: false,
+  loading: () => (
+    <div style={{
+      width: '100%',
+      height: '400px',
+      background: '#1A1A1A',
+      borderRadius: '12px',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      color: '#9AA0A6'
+    }}>
+      Loading map...
+    </div>
+  )
+});
 
-export async function getStaticProps({ params }) {
-  const fs = require('fs');
-  const path = require('path');
-  
+const SocialShareButtons = dynamic(() => import('../../components/SocialShareButtons'), {
+  ssr: false,
+  loading: () => null
+});
+
+export async function getServerSideProps({ params }) {
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    let venues = JSON.parse(fileContent);
+    const fs = require('fs');
+    const path = require('path');
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.thebestinlondon.co.uk';
     
-    // Handle both flat array and wrapped object
-    if (!Array.isArray(venues) && venues.venues) {
-      venues = venues.venues;
-    }
+    // Fetch the specific venue
+    const res = await fetch(`${baseUrl}/api/venues?slug=${params.slug}`);
     
-    const venue = venues.find(v => v.slug === params.slug);
-    
-    if (!venue) {
+    if (!res.ok) {
       return { notFound: true };
     }
     
-    return { props: { venue }, revalidate: 86400 };
+    const venues = await res.json();
+    
+    if (!venues || venues.length === 0) {
+      return { notFound: true };
+    }
+    
+    const venue = venues[0]; // API returns filtered results
+    
+    // Find nearby similar restaurants (same cuisine, within 5km)
+    let nearbyVenues = [];
+    if (venue.lat && venue.lng && venue.cuisines && venue.cuisines.length > 0) {
+      try {
+        const venuesPath = path.join(process.cwd(), 'data/venues.json');
+        const allVenuesData = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
+        const allVenues = Array.isArray(allVenuesData) ? allVenuesData : (allVenuesData.venues || []);
+        
+        // Calculate distance and find nearby restaurants
+        const calculateDistance = (lat1, lon1, lat2, lon2) => {
+          const R = 6371; // Earth's radius in km
+          const dLat = (lat2 - lat1) * Math.PI / 180;
+          const dLon = (lon2 - lon1) * Math.PI / 180;
+          const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                    Math.sin(dLon/2) * Math.sin(dLon/2);
+          const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+          return R * c;
+        };
+        
+        nearbyVenues = allVenues
+          .filter(v => 
+            v.slug !== venue.slug && 
+            v.lat && 
+            v.lng && 
+            v.cuisines && 
+            v.cuisines.some(c => venue.cuisines.includes(c))
+          )
+          .map(v => {
+            const distance = calculateDistance(venue.lat, venue.lng, v.lat, v.lng);
+            return { ...v, distance };
+          })
+          .filter(v => v.distance <= 5) // Within 5km
+          .sort((a, b) => a.distance - b.distance)
+          .slice(0, 5); // Top 5 nearby
+      } catch (error) {
+        console.warn('Error finding nearby venues:', error);
+      }
+    }
+    
+    return {
+      props: {
+        venue,
+        nearbyVenues
+      }
+    };
   } catch (error) {
-    console.error('getStaticProps error:', error);
+    console.error('getServerSideProps error:', error);
     return { notFound: true };
   }
 }
 
-export default function VenueDetailPage({ venue }) {
+export default function VenueDetailPage({ venue, nearbyVenues = [] }) {
   const router = useRouter();
   
-  if (router.isFallback) {
-    return <div style={{ padding: '100px', textAlign: 'center', background: '#0B0B0B', minHeight: '100vh' }}>
-      <p style={{ color: '#FAFAFA' }}>Loading...</p>
-    </div>;
+  // Safety check - if venue is missing critical data, show 404
+  if (!venue || !venue.slug || !venue.name) {
+    return null; // Will trigger Next.js 404
   }
   
-            // Get hero image for venue detail page using new resolver
+  // Get hero image for venue detail page using new resolver
             const heroImageSrc = (() => {
               try {
-                const resolved = resolveVenueHero(venue);
-                return resolved.src;
+                const resolved = resolveVenueHero({ venue });
+                return resolved;
               } catch (error) {
                 console.warn(`Failed to resolve hero image for venue ${venue.slug}:`, error);
-                // Fallback to old logic if resolver fails
-                if (venue.image_card_path) {
-                  return venue.image_card_path.replace('/public', '') + (venue.image_card_path.includes('?') ? '&' : '?') + 'v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || Date.now());
+                // Fallback chain
+                if (venue.image_hero_path && !venue.image_hero_path.includes('placeholder')) {
+                  return venue.image_hero_path.replace('/public', '') + (venue.image_hero_path.includes('?') ? '&' : '?') + 'v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || '1');
                 }
-                return '/images/heroes/site-default.webp?v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || '1');
+                if (venue.image_card_path && !venue.image_card_path.includes('placeholder')) {
+                  return venue.image_card_path.replace('/public', '') + (venue.image_card_path.includes('?') ? '&' : '?') + 'v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || '1');
+                }
+                return '/images/heroes/site/default-list-hero.webp?v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || '1');
               }
             })();
   
@@ -128,7 +186,7 @@ export default function VenueDetailPage({ venue }) {
   };
   
   return (
-    <>
+    <ErrorBoundary>
       <Head>
         <title>{generateSEOTitle('restaurant', venue)}</title>
         <meta name="description" content={venue?.about?.text?.slice(0,155) || generateSEODescription('restaurant', venue)} />
@@ -171,32 +229,23 @@ export default function VenueDetailPage({ venue }) {
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: '#0B0B0B', color: '#FAFAFA' }}>
-        
-        {/* Navigation */}
-        <nav style={{
-          position: 'sticky',
-          top: 0,
-          zIndex: 100,
-          background: 'rgba(17,17,17,0.95)',
-          backdropFilter: 'blur(12px)',
-          borderBottom: '1px solid #2A2A2A',
-          padding: '16px 0'
-        }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-              <Link href="/" style={{ textDecoration: 'none', fontFamily: 'Playfair Display, serif', fontSize: '20px', fontWeight: 700, color: '#FAFAFA' }}>
-                The Best in London
-              </Link>
-              <div style={{ display: 'flex', gap: '32px', fontSize: '14px', fontWeight: 500 }}>
-                <Link href="/restaurants" style={{ color: '#9AA0A6', textDecoration: 'none' }}>Restaurants</Link>
-                <Link href="/bars" style={{ color: '#9AA0A6', textDecoration: 'none' }}>Bars</Link>
-              </div>
-            </div>
-          </div>
-        </nav>
+      <div className="min-h-screen bg-black">
+        <Header />
 
         <TabContainer currentPath={`/restaurant/${venue.slug}`} pageType="restaurant" venue={venue}>
+        
+        {/* Breadcrumbs */}
+        <div className="container mx-auto px-4 md:px-6 lg:px-8 pt-4">
+          <Breadcrumbs items={[
+            { label: 'Home', href: '/' },
+            { label: 'Restaurants', href: '/restaurants' },
+            venue.cuisines?.[0] ? { 
+              label: `${venue.cuisines[0]} Restaurants`, 
+              href: `/${venue.cuisines[0].toLowerCase().replace(/\s+/g, '-')}-restaurants-london` 
+            } : null,
+            { label: venue.name, href: `/restaurant/${venue.slug}`, isLast: true }
+          ].filter(Boolean)} />
+        </div>
         
         {/* Page Hero */}
         <div className="container mx-auto px-4 md:px-6 lg:px-8">
@@ -205,9 +254,9 @@ export default function VenueDetailPage({ venue }) {
               title={venue.name}
               subtitle={`${venue.cuisines?.[0] || 'Restaurant'} ${venue.price_level ? '• ' + '£'.repeat(venue.price_level) : ''} ${venue.dietary_tags?.halal ? '• Halal' : ''}`}
               stats={[
-                venue.rating && { label: "Rating", value: venue.rating.toFixed(1) },
-                venue.user_ratings_total && { label: "Reviews", value: venue.user_ratings_total.toLocaleString() },
-                isValidFsaScore(venue.fsa_rating) && { label: "FSA Rating", value: getFsaDisplayValue(venue.fsa_rating) }
+                venue.rating && typeof venue.rating === 'number' ? { label: "Rating", value: venue.rating.toFixed(1) } : null,
+                venue.user_ratings_total && typeof venue.user_ratings_total === 'number' ? { label: "Reviews", value: venue.user_ratings_total.toLocaleString() } : null,
+                isValidFsaScore(venue.fsa_rating) ? { label: "FSA Rating", value: getFsaDisplayValue(venue.fsa_rating) } : null
               ].filter(Boolean)}
               image={hero}
               priority
@@ -227,27 +276,59 @@ export default function VenueDetailPage({ venue }) {
             )}
           </div>
           
-          {/* Buttons Row Under Hero */}
-          <div className="flex flex-wrap gap-4 mt-6 px-4">
-            {venue.google_place_url && (
-              <a
-                href={venue.google_place_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center px-6 py-3 bg-yellow-600 hover:bg-yellow-500 text-white font-semibold rounded-lg transition-colors"
-              >
-                View Google Reviews
-              </a>
-            )}
-            {venue.fsa_report_url && (
-              <a
-                href={venue.fsa_report_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center px-6 py-3 bg-gray-700 hover:bg-gray-600 text-white font-semibold rounded-lg transition-colors"
-              >
-                View FSA Report
-              </a>
+          {/* Navigation Tabs */}
+          <div className="flex flex-wrap gap-2 mt-6 px-4 border-b border-gray-800">
+            <a href="#overview" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Overview
+            </a>
+            <a href="#menu" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Menu
+            </a>
+            <a href="#reviews" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Reviews
+            </a>
+            <a href="#location" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Location
+            </a>
+            <a href="#similar" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Similar
+            </a>
+          </div>
+
+          {/* Social Share & Booking Row */}
+          <div className="flex flex-wrap gap-4 mt-6 px-4 items-center justify-between">
+            <div className="flex flex-wrap gap-4">
+              <BookingButton venue={venue} />
+              {venue.google_place_url && (
+                <a
+                  href={venue.google_place_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center px-6 py-3 bg-gray-700 hover:bg-gray-600 text-white font-semibold rounded-lg transition-colors"
+                >
+                  View Google Reviews
+                </a>
+              )}
+              {venue.fsa_report_url && (
+                <a
+                  href={venue.fsa_report_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center px-6 py-3 bg-gray-700 hover:bg-gray-600 text-white font-semibold rounded-lg transition-colors"
+                >
+                  View FSA Report
+                </a>
+              )}
+            </div>
+            {typeof window !== 'undefined' && (
+              <ErrorBoundary>
+                <SocialShareButtons 
+                  url={`https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`}
+                  title={`${venue.name || 'Restaurant'} - ${venue.cuisines?.[0] || 'Restaurant'} in ${venue.borough || 'London'}`}
+                  description={venue?.about?.text?.slice(0, 155) || `Check out ${venue.name || 'this restaurant'}, rated ${venue.rating || 'N/A'} stars with ${venue.user_ratings_total || 0} reviews.`}
+                  image={venue.image_hero_path?.replace('/public', '') ? `https://www.thebestinlondon.co.uk${venue.image_hero_path.replace('/public', '')}` : undefined}
+                />
+              </ErrorBoundary>
             )}
           </div>
         </div>
@@ -302,51 +383,40 @@ export default function VenueDetailPage({ venue }) {
                     </div>
                   )}
                   
-                  {/* Additional Photo Gallery */}
-                  {venue.photos && venue.photos.length > 1 && (
-                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(120px, 1fr))', gap: '8px', marginTop: '16px' }}>
-                      {venue.photos.slice(1, 5).map((photo, index) => (
-                        <img
-                          key={index}
-                          src={photo.url}
-                          alt={`${venue.name} interior ${index + 1}`}
-                          style={{
-                            width: '100%',
-                            height: '80px',
-                            objectFit: 'cover',
-                            borderRadius: '8px',
-                            cursor: 'pointer',
-                            transition: 'transform 0.2s'
-                          }}
-                          onMouseEnter={(e) => e.target.style.transform = 'scale(1.05)'}
-                          onMouseLeave={(e) => e.target.style.transform = 'scale(1)'}
+                  {/* Enhanced Photo Gallery */}
+                  {venue.gallery_images && venue.gallery_images.length > 0 && typeof window !== 'undefined' && (
+                    <div className="mt-6">
+                      <h3 className="text-lg font-semibold text-gray-900 mb-4">More Photos</h3>
+                      <ErrorBoundary>
+                        <EnhancedImageGallery 
+                          images={venue.gallery_images} 
+                          venueName={venue.name || 'Restaurant'}
+                          className="mt-4"
                         />
-                      ))}
+                      </ErrorBoundary>
                     </div>
                   )}
                 </div>
               </div>
 
               {/* About Section */}
-              {(venue?.about?.text || venue.description) && (
-                <div style={{ 
-                  background: '#1A1A1A', 
-                  padding: '32px', 
-                  borderRadius: '12px', 
-                  marginBottom: '32px',
-                  border: '1px solid #2A2A2A' 
+              <div style={{ 
+                background: '#1A1A1A', 
+                padding: '32px', 
+                borderRadius: '12px', 
+                marginBottom: '32px',
+                border: '1px solid #2A2A2A' 
+              }}>
+                <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '16px', fontFamily: 'Playfair Display, serif' }}>About</h2>
+                <p style={{ 
+                  fontSize: '16px', 
+                  lineHeight: 1.7, 
+                  color: '#9AA0A6',
+                  margin: 0 
                 }}>
-                  <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '16px', fontFamily: 'Playfair Display, serif' }}>About</h2>
-                  <p style={{ 
-                    fontSize: '16px', 
-                    lineHeight: 1.7, 
-                    color: '#9AA0A6',
-                    margin: 0 
-                  }}>
-                    {venue?.about?.text || venue.description}
-                  </p>
-                </div>
-              )}
+                  {generateAboutText(venue)}
+                </p>
+              </div>
 
               {/* Reviews Section */}
               <div id="reviews" style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
@@ -413,11 +483,40 @@ export default function VenueDetailPage({ venue }) {
               <div id="location" style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
                 <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '24px', fontFamily: 'Playfair Display, serif' }}>Location & Contact</h2>
                 
+                {/* Interactive Map */}
+                {venue.lat && venue.lng && typeof window !== 'undefined' && (
+                  <div style={{ marginBottom: '32px' }}>
+                    <ErrorBoundary>
+                      <InteractiveMap venue={venue} nearbyVenues={nearbyVenues || []} height="400px" />
+                    </ErrorBoundary>
+                  </div>
+                )}
+                
                 <div style={{ display: 'grid', gap: '20px' }}>
                   {venue.address && (
                     <div>
                       <div style={{ fontSize: '14px', color: '#9AA0A6', marginBottom: '4px', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 600 }}>Address</div>
                       <div style={{ fontSize: '16px' }}>{venue.address.formatted || venue.address}</div>
+                      {venue.lat && venue.lng && (
+                        <a
+                          href={`https://www.google.com/maps/dir/?api=1&destination=${venue.lat},${venue.lng}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style={{
+                            display: 'inline-block',
+                            marginTop: '8px',
+                            padding: '8px 16px',
+                            background: '#D4AF37',
+                            color: '#000',
+                            textDecoration: 'none',
+                            borderRadius: '6px',
+                            fontSize: '14px',
+                            fontWeight: 600
+                          }}
+                        >
+                          Get Directions →
+                        </a>
+                      )}
                     </div>
                   )}
                   
@@ -439,6 +538,44 @@ export default function VenueDetailPage({ venue }) {
                     </div>
                   )}
                 </div>
+                
+                {nearbyVenues.length > 0 && (
+                  <div style={{ marginTop: '24px', paddingTop: '24px', borderTop: '1px solid #2A2A2A' }}>
+                    <h3 style={{ fontSize: '16px', fontWeight: 600, marginBottom: '16px', fontFamily: 'Playfair Display, serif' }}>Nearby Similar Restaurants</h3>
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+                      {nearbyVenues.slice(0, 5).map((nearby) => (
+                        <a
+                          key={nearby.slug}
+                          href={`/restaurant/${nearby.slug}`}
+                          style={{
+                            display: 'flex',
+                            justifyContent: 'space-between',
+                            alignItems: 'center',
+                            padding: '12px',
+                            background: '#0B0B0B',
+                            borderRadius: '8px',
+                            textDecoration: 'none',
+                            transition: 'background 0.2s'
+                          }}
+                          onMouseOver={(e) => e.currentTarget.style.background = '#1A1A1A'}
+                          onMouseOut={(e) => e.currentTarget.style.background = '#0B0B0B'}
+                        >
+                          <div>
+                            <div style={{ fontSize: '15px', fontWeight: 600, color: '#fff', marginBottom: '4px' }}>{nearby.name}</div>
+                            <div style={{ fontSize: '13px', color: '#9AA0A6' }}>
+                              {nearby.distance ? `${nearby.distance.toFixed(1)} km away` : ''} • {nearby.cuisines?.[0] || 'Restaurant'}
+                            </div>
+                          </div>
+                          {nearby.rating && (
+                            <div style={{ fontSize: '14px', color: '#D4AF37', fontWeight: 600 }}>
+                              ★ {nearby.rating.toFixed(1)}
+                            </div>
+                          )}
+                        </a>
+                      ))}
+                    </div>
+                  </div>
+                )}
               </div>
 
               {/* Opening Hours */}
@@ -455,6 +592,51 @@ export default function VenueDetailPage({ venue }) {
                   </div>
                 </div>
               )}
+
+              {/* Price Per Head Section - ALWAYS SHOW */}
+              <div style={{ background: '#1A1A1A', padding: '24px', borderRadius: '12px', marginBottom: '24px', border: '1px solid #2A2A2A' }}>
+                <h3 style={{ fontSize: '18px', fontWeight: 600, marginBottom: '12px', fontFamily: 'Playfair Display, serif' }}>Price Per Person</h3>
+                <div style={{ display: 'flex', alignItems: 'baseline', gap: '12px', flexWrap: 'wrap' }}>
+                  <span style={{ fontSize: '24px', fontWeight: 700, color: '#D4AF37' }}>
+                    {(() => {
+                      // Use actual price_level if available, otherwise estimate based on cuisine/rating
+                      const priceLevel = venue.price_level || (() => {
+                        // Estimate based on rating and cuisine type
+                        const highEndCuisines = ['french', 'japanese', 'fine dining', 'modern european'];
+                        const cuisine = venue.cuisines?.[0]?.toLowerCase() || '';
+                        const isHighEnd = highEndCuisines.some(c => cuisine.includes(c));
+                        const hasHighRating = venue.rating >= 4.5;
+                        
+                        if (isHighEnd || hasHighRating) return 3; // Upscale
+                        if (venue.rating >= 4.0) return 2; // Moderate
+                        return 2; // Default to moderate
+                      })();
+                      
+                      const levels = {
+                        1: '£10 - £25',
+                        2: '£25 - £50',
+                        3: '£50 - £100',
+                        4: '£100 - £200'
+                      };
+                      return levels[priceLevel] || levels[2];
+                    })()}
+                  </span>
+                  <span style={{ color: '#9AA0A6', fontSize: '14px' }}>
+                    {(() => {
+                      const priceLevel = venue.price_level || 2;
+                      return priceLevel === 1 ? 'Budget-friendly' :
+                             priceLevel === 2 ? 'Moderate' :
+                             priceLevel === 3 ? 'Upscale' :
+                             priceLevel === 4 ? 'Fine Dining' : 'Moderate';
+                    })()}
+                  </span>
+                </div>
+                <p style={{ color: '#9AA0A6', fontSize: '14px', marginTop: '8px', fontStyle: 'italic' }}>
+                  {venue.price_level ? 
+                    'Estimated price per person for a typical meal including starter, main, and drink' :
+                    'Estimated price range based on restaurant type and location. Actual prices may vary.'}
+                </p>
+              </div>
 
               {/* Menu Section */}
               <div id="menu" style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
@@ -479,8 +661,40 @@ export default function VenueDetailPage({ venue }) {
                       View Menu →
                     </a>
                   </div>
+                ) : venue.website ? (
+                  <div>
+                    <p style={{ color: '#9AA0A6', marginBottom: '16px' }}>
+                      Menu information may be available on the restaurant's website. Visit their site to view current menus and pricing.
+                    </p>
+                    <a 
+                      href={venue.website} 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      style={{ 
+                        display: 'inline-block', 
+                        padding: '12px 24px', 
+                        background: '#D4AF37', 
+                        color: '#000', 
+                        textDecoration: 'none', 
+                        borderRadius: '8px', 
+                        fontWeight: 600 
+                      }}
+                    >
+                      Visit Restaurant Website →
+                    </a>
+                    <p style={{ color: '#9AA0A6', fontSize: '14px', marginTop: '12px', fontStyle: 'italic' }}>
+                      Tip: Many restaurants have menus available on their official website. For the most up-to-date menu and prices, please contact the restaurant directly.
+                    </p>
+                  </div>
                 ) : (
-                  <p style={{ color: '#9AA0A6', fontStyle: 'italic' }}>Menu information not available.</p>
+                  <div>
+                    <p style={{ color: '#9AA0A6', marginBottom: '16px' }}>Menu information not currently available online.</p>
+                    {venue.phone && (
+                      <p style={{ color: '#9AA0A6', fontSize: '14px' }}>
+                        For menu information, please contact: <a href={`tel:${venue.phone}`} style={{ color: '#D4AF37' }}>{venue.phone}</a>
+                      </p>
+                    )}
+                  </div>
                 )}
               </div>
 
@@ -616,15 +830,9 @@ export default function VenueDetailPage({ venue }) {
           </div>
         </div>
         </main>
-        
-        {/* Footer */}
-        <footer style={{ background: '#0B0B0B', padding: '48px 0 24px', borderTop: '1px solid #2A2A2A', marginTop: '80px' }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', textAlign: 'center', fontSize: '13px', color: '#666' }}>
-            <p style={{ margin: 0 }}>© 2025 The Best in London. All rights reserved.</p>
-          </div>
-        </footer>
         </TabContainer>
-
+        <Footer />
+        <BackToHome />
       </div>
 
       <style jsx global>{`
@@ -635,6 +843,6 @@ export default function VenueDetailPage({ venue }) {
           }
         }
       `}</style>
-    </>
+    </ErrorBoundary>
   );
 }

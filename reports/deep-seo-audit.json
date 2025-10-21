@@ -1,0 +1,103 @@
+{
+  "timestamp": "2025-10-29T17:18:41.989Z",
+  "summary": {
+    "totalPages": 68,
+    "criticalIssues": 1,
+    "warnings": 5,
+    "opportunities": 8
+  },
+  "issues": [
+    {
+      "type": "performance",
+      "issue": "Image optimization disabled - impacts page speed",
+      "fix": "Enable Next.js image optimization for better Core Web Vitals",
+      "impact": "high"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "seo",
+      "file": "guides.js",
+      "issue": "Missing title tag",
+      "fix": "Add <title> in Head component"
+    },
+    {
+      "type": "seo",
+      "issue": "2 pages may be missing H1 tags",
+      "fix": "Ensure each page has exactly one H1 tag with target keyword"
+    },
+    {
+      "type": "mobile-seo",
+      "issue": "Viewport meta tag may be missing from some pages",
+      "fix": "Ensure viewport meta tag is in _document.js for all pages"
+    },
+    {
+      "type": "duplicate",
+      "issue": "Duplicate title: \"London Restaurant Blog | The Best in London\" in blog.js and blog-test.js",
+      "fix": "Make titles unique for each page"
+    },
+    {
+      "type": "sitemap",
+      "issue": "Sitemap has 26 URLs but 68 page files exist",
+      "fix": "Update sitemap generation to include all pages"
+    }
+  ],
+  "seoOpportunities": [
+    {
+      "type": "keyword",
+      "keyword": "london restaurants",
+      "issue": "Keyword \"london restaurants\" appears 1 times - should appear 3-5 times",
+      "fix": "Naturally incorporate \"london restaurants\" in H1, first paragraph, and meta description"
+    },
+    {
+      "type": "keyword",
+      "keyword": "best restaurants london",
+      "issue": "Keyword \"best restaurants london\" appears 1 times - should appear 3-5 times",
+      "fix": "Naturally incorporate \"best restaurants london\" in H1, first paragraph, and meta description"
+    },
+    {
+      "type": "keyword",
+      "keyword": "restaurants near me",
+      "issue": "Keyword \"restaurants near me\" appears 0 times - should appear 3-5 times",
+      "fix": "Naturally incorporate \"restaurants near me\" in H1, first paragraph, and meta description"
+    },
+    {
+      "type": "keyword",
+      "keyword": "halal restaurants london",
+      "issue": "Keyword \"halal restaurants london\" appears 0 times - should appear 3-5 times",
+      "fix": "Naturally incorporate \"halal restaurants london\" in H1, first paragraph, and meta description"
+    },
+    {
+      "type": "keyword",
+      "keyword": "fine dining london",
+      "issue": "Keyword \"fine dining london\" appears 1 times - should appear 3-5 times",
+      "fix": "Naturally incorporate \"fine dining london\" in H1, first paragraph, and meta description"
+    },
+    {
+      "type": "keyword",
+      "keyword": "london dining guide",
+      "issue": "Keyword \"london dining guide\" appears 0 times - should appear 3-5 times",
+      "fix": "Naturally incorporate \"london dining guide\" in H1, first paragraph, and meta description"
+    },
+    {
+      "type": "internal-linking",
+      "issue": "Internal linking utility exists but may not be fully utilized",
+      "fix": "Ensure all pages have 3-5 internal links to related content"
+    },
+    {
+      "type": "performance",
+      "issue": "Lazy loading images below the fold",
+      "fix": "Implement lazy loading for non-critical images",
+      "impact": "medium"
+    }
+  ],
+  "statistics": {
+    "missingTitles": 1,
+    "missingDescriptions": 0,
+    "missingOG": 43,
+    "missingStructuredData": 21,
+    "imagesWithoutAlt": 0,
+    "pagesWithoutH1": 2,
+    "pagesWithoutCanonical": 0
+  }
+}

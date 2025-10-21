@@ -1,54 +1,36 @@
-# Comprehensive Audit Rollup
+# Audit Rollup Report
 
-**Timestamp:** 2025-10-21T16:57:59.470Z
+**Generated:** 2025-10-29T22:58:31.541Z
 
-## Executive Summary
-- **Total Audits:** 7
-- **Successful:** 7
-- **Failed:** 0
+## Overall Status: PASS
 
-## Key Metrics
-- **Pages:** 73
-- **Images:** 1832
-- **Venues:** 0
-- **Data Gaps:** 0
-- **Image Issues:** 331
-- **Route Issues:** 0
-- **Duplicate Issues:** 958
-- **SEO Issues:** 31
-- **UX Issues:** 0
+### Summary
+- **Total Issues:** 0
+- **Total Warnings:** 2
 
-## Action Items
+### Audit Results
+- **IMAGES**: PASS (0 issues, 0 warnings)
+- **LINKS**: PASS (0 issues, 0 warnings)
+- **SCHEMA**: PASS (0 issues, 2 warnings)
 
-### DO (Critical - Fix Now)
-- Resolve image quality and coverage issues
+### Recommendations
+✅ No recommendations - all audits passed
 
-### DEFER (Important - Schedule)
-- Address duplicate content and images
-- Improve SEO metadata and structured data
+### Detailed Results
+#### IMAGES
+- **Status**: Completed
+- **Issues**: 0
+- **Warnings**: 0
 
-### DISCUSS (Strategic - Review)
-- None
+#### LINKS
+- **Status**: Completed
+- **Issues**: 0
+- **Warnings**: 0
 
-## Audit Results
-### auditProject
-- **Status:** ✅ Success
+#### SCHEMA
+- **Status**: Completed
+- **Issues**: 0
+- **Warnings**: 2
 
-### auditDataUsage
-- **Status:** ✅ Success
-
-### auditImages
-- **Status:** ✅ Success
-
-### auditRoutesLinks
-- **Status:** ✅ Success
-
-### auditDuplicates
-- **Status:** ✅ Success
-
-### auditSEO
-- **Status:** ✅ Success
-
-### auditUX
-- **Status:** ✅ Success
-
+---
+*This audit is non-blocking and always exits with code 0.*

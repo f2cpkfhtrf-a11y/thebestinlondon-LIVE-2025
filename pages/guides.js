@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead, { structuredDataTemplates } from '../components/SEOHead';
 
 export default function Guides() {
@@ -10,7 +11,7 @@ export default function Guides() {
       title: "Top Halal Steakhouses in East London",
       description: "Discover the best halal steakhouses in East London, from traditional grills to contemporary dining experiences.",
       slug: "top-halal-steakhouses-east-london",
-      image: "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=85",
+      image: "/images/heroes/site/default-card.webp",
       readTime: "5 min read",
       category: "Halal Dining"
     },
@@ -18,7 +19,7 @@ export default function Guides() {
       title: "Best Indian Restaurants Near London Stations",
       description: "Your guide to authentic Indian cuisine within walking distance of major London transport hubs.",
       slug: "best-indian-restaurants-near-stations",
-      image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=85",
+      image: "/images/heroes/site/default-card.webp",
       readTime: "7 min read",
       category: "Cuisine Guide"
     },
@@ -26,7 +27,7 @@ export default function Guides() {
       title: "Vegan Fine Dining in Central London",
       description: "Explore London's most sophisticated vegan restaurants offering plant-based fine dining experiences.",
       slug: "vegan-fine-dining-central-london",
-      image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=85",
+      image: "/images/heroes/site/default-card.webp",
       readTime: "6 min read",
       category: "Vegan Dining"
     }
@@ -79,6 +80,11 @@ export default function Guides() {
 
       <div className="min-h-screen bg-black">
         <Header />
+        
+        {/* Breadcrumbs */}
+        <div className="container mx-auto px-4 md:px-6 lg:px-8 pt-4">
+          <Breadcrumbs />
+        </div>
         
         <main className="pt-16">
           {/* Hero Section */}

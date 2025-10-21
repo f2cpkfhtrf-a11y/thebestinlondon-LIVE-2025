@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-10-29T17:17:47.937Z",
+  "issues": [],
+  "warnings": [
+    {
+      "type": "sitemap",
+      "issue": "Sitemap has only 0 URLs - may be missing pages",
+      "fix": "Generate comprehensive sitemap with all pages"
+    },
+    {
+      "type": "performance",
+      "issue": "Image optimization is disabled",
+      "fix": "Enable Next.js image optimization for better performance"
+    }
+  ],
+  "suggestions": [
+    {
+      "type": "seo",
+      "suggestion": "Ensure target keywords appear in H1, first paragraph, and meta descriptions",
+      "benefit": "Better keyword relevance for search rankings"
+    },
+    {
+      "type": "performance",
+      "suggestion": "Implement lazy loading for images below the fold",
+      "benefit": "Faster initial page load, better Core Web Vitals"
+    },
+    {
+      "type": "performance",
+      "suggestion": "Add resource hints (preload, prefetch) for critical resources",
+      "benefit": "Faster page rendering"
+    },
+    {
+      "type": "mobile-seo",
+      "suggestion": "Test mobile responsiveness and ensure viewport meta tag is present",
+      "benefit": "Better mobile search rankings"
+    },
+    {
+      "type": "seo",
+      "suggestion": "Check for duplicate meta descriptions and titles",
+      "benefit": "Avoid duplicate content penalties"
+    }
+  ],
+  "summary": {
+    "critical": 0,
+    "warnings": 2,
+    "suggestions": 5
+  }
+}

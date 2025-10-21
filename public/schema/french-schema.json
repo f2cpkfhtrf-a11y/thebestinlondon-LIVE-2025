@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "French Restaurants in London",
+  "description": "Find the finest French restaurants in London offering elegant fine dining and classic bistro cuisine.",
+  "url": "https://www.thebestinlondon.co.uk/french",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Best French Restaurants in London",
+    "description": "Find the finest French restaurants in London offering elegant fine dining and classic bistro cuisine.",
+    "numberOfItems": "20+",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Top French Restaurants"
+      }
+    ]
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.thebestinlondon.co.uk/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Cuisines",
+        "item": "https://www.thebestinlondon.co.uk/cuisines"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "French Restaurants in London",
+        "item": "https://www.thebestinlondon.co.uk/french"
+      }
+    ]
+  },
+  "keywords": "French restaurants London, fine dining London, French cuisine London, bistro London",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Best in London",
+    "url": "https://www.thebestinlondon.co.uk",
+    "logo": "https://www.thebestinlondon.co.uk/logo.png"
+  }
+}
