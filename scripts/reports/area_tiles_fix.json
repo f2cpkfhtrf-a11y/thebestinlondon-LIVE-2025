@@ -56,23 +56,23 @@
   },
   {
     "slug": "slough",
-    "created": true,
-    "source": "site-default"
+    "created": false,
+    "source": "existing"
   },
   {
     "slug": "southall",
-    "created": true,
-    "source": "site-default"
+    "created": false,
+    "source": "existing"
   },
   {
     "slug": "ilford",
-    "created": true,
-    "source": "site-default"
+    "created": false,
+    "source": "existing"
   },
   {
     "slug": "romford",
-    "created": true,
-    "source": "site-default"
+    "created": false,
+    "source": "existing"
   },
   {
     "slug": "whitechapel",
