@@ -267,6 +267,26 @@ export default function Header() {
               Near Me
             </Link>
             <Link 
+              href="/blog" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname.startsWith('/blog') 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
+              Blog
+            </Link>
+            <Link 
+              href="/faq" 
+              className={`font-nav font-medium transition-colors duration-300 ${
+                router.pathname.startsWith('/faq') 
+                  ? 'text-gold border-b-2 border-gold pb-1' 
+                  : 'text-warmWhite hover:text-gold'
+              }`}
+            >
+              FAQ
+            </Link>
+            <Link 
               href="/about" 
               className={`font-nav font-medium transition-colors duration-300 ${
                 router.pathname === '/about' 
@@ -473,6 +493,20 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Near Me
+              </Link>
+              <Link 
+                href="/blog" 
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Blog
+              </Link>
+              <Link 
+                href="/faq" 
+                className="block px-4 py-2 text-warmWhite hover:text-gold font-nav font-medium transition-colors duration-300"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                FAQ
               </Link>
               <Link 
                 href="/about" 
