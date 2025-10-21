@@ -1,15 +1,15 @@
 {
   "total": 593,
   "processed": 593,
-  "fixed_hero": 593,
-  "used_cuisine_tile": 593,
+  "fixed_hero": 0,
+  "used_cuisine_tile": 0,
   "used_area_tile": 0,
   "fallback_used": 0,
   "coverage": {
-    "existing_hero": 0,
+    "existing_hero": 593,
     "existing_card": 0,
     "existing_image": 0,
-    "cuisine_tile": 593,
+    "cuisine_tile": 0,
     "area_tile": 0,
     "fallback_used": 0
   }
