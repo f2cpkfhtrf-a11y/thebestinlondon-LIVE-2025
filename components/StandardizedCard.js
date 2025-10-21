@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ImageWithFallback from './ImageWithFallback';
 import { assertLocalImage } from '../lib/assertLocalImage';
 import { getBlurAndColor } from '../lib/imagePlaceholders';
+import { isValidFsaScore, getFsaDisplayValue } from '../lib/fsa';
 
 const StandardizedCard = ({ 
   venue, 
@@ -146,9 +147,9 @@ const StandardizedCard = ({
                 🕌 Halal
               </span>
             )}
-            {fsa_rating && (
-              <span className="bg-gold text-black text-xs font-semibold px-2 py-1 rounded">
-                🏆 FSA {fsa_rating}
+            {isValidFsaScore(fsa_rating) && (
+              <span className="bg-gold text-black text-xs font-semibold px-2 py-1 rounded" data-fsa="visible">
+                🏆 FSA {getFsaDisplayValue(fsa_rating)}
               </span>
             )}
             {dietary_tags?.vegan && (

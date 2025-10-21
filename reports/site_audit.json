@@ -1,0 +1,760 @@
+{
+  "timestamp": "2025-10-21T14:33:09.326Z",
+  "baseUrl": "http://localhost:3000",
+  "pages": {
+    "/": {
+      "url": "http://localhost:3000/",
+      "status": 0,
+      "ok": false
+    },
+    "/cuisines": {
+      "url": "http://localhost:3000/cuisines",
+      "status": 0,
+      "ok": false
+    },
+    "/areas": {
+      "url": "http://localhost:3000/areas",
+      "status": 0,
+      "ok": false
+    },
+    "/blog": {
+      "url": "http://localhost:3000/blog",
+      "status": 0,
+      "ok": false
+    },
+    "/faq": {
+      "url": "http://localhost:3000/faq",
+      "status": 0,
+      "ok": false
+    },
+    "/best-halal-restaurants-london": {
+      "url": "http://localhost:3000/best-halal-restaurants-london",
+      "status": 0,
+      "ok": false
+    }
+  },
+  "blogTiles": {
+    "total": 28,
+    "unique": 28,
+    "duplicates": 0,
+    "duplicateImages": []
+  },
+  "venuePages": {
+    "dishoom-covent-garden-OZ6OHOJw": {
+      "url": "http://localhost:3000/restaurant/dishoom-covent-garden-OZ6OHOJw",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "gymkhana-uPIWeLM0": {
+      "url": "http://localhost:3000/restaurant/gymkhana-uPIWeLM0",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "kricket-soho-2UcQZFVQ": {
+      "url": "http://localhost:3000/restaurant/kricket-soho-2UcQZFVQ",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "maharaja-of-india-EVrlil9k": {
+      "url": "http://localhost:3000/restaurant/maharaja-of-india-EVrlil9k",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 3
+    },
+    "aladin-brick-lane-FQXF-uoc": {
+      "url": "http://localhost:3000/restaurant/aladin-brick-lane-FQXF-uoc",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "dishoom-kensington-1F6d_5-g": {
+      "url": "http://localhost:3000/restaurant/dishoom-kensington-1F6d_5-g",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "brigadiers-GVEiDv0Y": {
+      "url": "http://localhost:3000/restaurant/brigadiers-GVEiDv0Y",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "cinnamon-bazaar-ZAjZBRu4": {
+      "url": "http://localhost:3000/restaurant/cinnamon-bazaar-ZAjZBRu4",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "pravaas-south-kensington-KhMpiz4I": {
+      "url": "http://localhost:3000/restaurant/pravaas-south-kensington-KhMpiz4I",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "the-india-city-road-EvFfZ5AI": {
+      "url": "http://localhost:3000/restaurant/the-india-city-road-EvFfZ5AI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "circolo-popolare-kqYLufoE": {
+      "url": "http://localhost:3000/restaurant/circolo-popolare-kqYLufoE",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "grasso-VxepVY0I": {
+      "url": "http://localhost:3000/restaurant/grasso-VxepVY0I",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "gloria-fPFxdplY": {
+      "url": "http://localhost:3000/restaurant/gloria-fPFxdplY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "bocca-di-lupo-P7Z6jOko": {
+      "url": "http://localhost:3000/restaurant/bocca-di-lupo-P7Z6jOko",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "padella-HPngIeq8": {
+      "url": "http://localhost:3000/restaurant/padella-HPngIeq8",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "bancone-covent-garden-WUsAHugI": {
+      "url": "http://localhost:3000/restaurant/bancone-covent-garden-WUsAHugI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "doppo-MCqb9oIE": {
+      "url": "http://localhost:3000/restaurant/doppo-MCqb9oIE",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "manteca-5-ErLMaI": {
+      "url": "http://localhost:3000/restaurant/manteca-5-ErLMaI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "giulia-restaurant-EkK4r0z4": {
+      "url": "http://localhost:3000/restaurant/giulia-restaurant-EkK4r0z4",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "amor-gastronomia-9fVApnuo": {
+      "url": "http://localhost:3000/restaurant/amor-gastronomia-9fVApnuo",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "zuma-london-3z813cBw": {
+      "url": "http://localhost:3000/restaurant/zuma-london-3z813cBw",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "oita-soho-xrSS0hZo": {
+      "url": "http://localhost:3000/restaurant/oita-soho-xrSS0hZo",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "sushisamba-london-Ec6MJUBA": {
+      "url": "http://localhost:3000/restaurant/sushisamba-london-Ec6MJUBA",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "maru-london-yQBXwWAI": {
+      "url": "http://localhost:3000/restaurant/maru-london-yQBXwWAI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "sushinoen-myiHS2BQ": {
+      "url": "http://localhost:3000/restaurant/sushinoen-myiHS2BQ",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "rai-restaurant-london-5PZAMF6Q": {
+      "url": "http://localhost:3000/restaurant/rai-restaurant-london-5PZAMF6Q",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "inko-nito-soho-dhJJKNHQ": {
+      "url": "http://localhost:3000/restaurant/inko-nito-soho-dhJJKNHQ",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "yiqi-cDLJ0Z8k": {
+      "url": "http://localhost:3000/restaurant/yiqi-cDLJ0Z8k",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 2
+    },
+    "imperial-treasure-fine-chinese-cuisine-geXXfXro": {
+      "url": "http://localhost:3000/restaurant/imperial-treasure-fine-chinese-cuisine-geXXfXro",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "hutong-Q49MtNE4": {
+      "url": "http://localhost:3000/restaurant/hutong-Q49MtNE4",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "house-of-ming-bmTrCQPc": {
+      "url": "http://localhost:3000/restaurant/house-of-ming-bmTrCQPc",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "peacock-london-zg_TLvpA": {
+      "url": "http://localhost:3000/restaurant/peacock-london-zg_TLvpA",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "noble-palace-6iVOz8Kc": {
+      "url": "http://localhost:3000/restaurant/noble-palace-6iVOz8Kc",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "the-sichuan-restaurant-939Y8L8U": {
+      "url": "http://localhost:3000/restaurant/the-sichuan-restaurant-939Y8L8U",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 2
+    },
+    "min-jiang-K96aOVBM": {
+      "url": "http://localhost:3000/restaurant/min-jiang-K96aOVBM",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "ma-la-sichuan-oHK7UfPw": {
+      "url": "http://localhost:3000/restaurant/ma-la-sichuan-oHK7UfPw",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "golden-dragon-chinatown-H_WaE2es": {
+      "url": "http://localhost:3000/restaurant/golden-dragon-chinatown-H_WaE2es",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 3
+    },
+    "speedboat-bar-FDICmOhQ": {
+      "url": "http://localhost:3000/restaurant/speedboat-bar-FDICmOhQ",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "kolae-nf-sKA8g": {
+      "url": "http://localhost:3000/restaurant/kolae-nf-sKA8g",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "nua-y2wrCPy4": {
+      "url": "http://localhost:3000/restaurant/nua-y2wrCPy4",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "anglothai-a6lDN5es": {
+      "url": "http://localhost:3000/restaurant/anglothai-a6lDN5es",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "plaza-khao-gaeng-uZGcbIvY": {
+      "url": "http://localhost:3000/restaurant/plaza-khao-gaeng-uZGcbIvY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "patara-knightsbridge-XqlUbgWk": {
+      "url": "http://localhost:3000/restaurant/patara-knightsbridge-XqlUbgWk",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "champor-champor-R9lL4z-M": {
+      "url": "http://localhost:3000/restaurant/champor-champor-R9lL4z-M",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "kin-deum-F7uvePWU": {
+      "url": "http://localhost:3000/restaurant/kin-deum-F7uvePWU",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "chets-Ll5SHDcE": {
+      "url": "http://localhost:3000/restaurant/chets-Ll5SHDcE",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "patara-oxford-circus-WjgPtZQI": {
+      "url": "http://localhost:3000/restaurant/patara-oxford-circus-WjgPtZQI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "masa-turkish-restaurant-KJX5TS38": {
+      "url": "http://localhost:3000/restaurant/masa-turkish-restaurant-KJX5TS38",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "ana-turkish-restaurant-and-bar-eHZ3zxSU": {
+      "url": "http://localhost:3000/restaurant/ana-turkish-restaurant-and-bar-eHZ3zxSU",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "gkyz-green-lanes-y26cz5pA": {
+      "url": "http://localhost:3000/restaurant/gkyz-green-lanes-y26cz5pA",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "efes-premium-kWL5j4TM": {
+      "url": "http://localhost:3000/restaurant/efes-premium-kWL5j4TM",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "the-mantl-GzBtMI-k": {
+      "url": "http://localhost:3000/restaurant/the-mantl-GzBtMI-k",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "cirrik-19-numara-bos-aBzE5bwY": {
+      "url": "http://localhost:3000/restaurant/cirrik-19-numara-bos-aBzE5bwY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 2
+    },
+    "liman-restaurant-GtZA40HM": {
+      "url": "http://localhost:3000/restaurant/liman-restaurant-GtZA40HM",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "antalya-bGIr-qxs": {
+      "url": "http://localhost:3000/restaurant/antalya-bGIr-qxs",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "dem-restaurant-traditional-turkish-restaurant-meze-grill-AY1XXrlM": {
+      "url": "http://localhost:3000/restaurant/dem-restaurant-traditional-turkish-restaurant-meze-grill-AY1XXrlM",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "alanya-turkish-with-fusion-kallxaYU": {
+      "url": "http://localhost:3000/restaurant/alanya-turkish-with-fusion-kallxaYU",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "fes-restaurant-3kGU0KS4": {
+      "url": "http://localhost:3000/restaurant/fes-restaurant-3kGU0KS4",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "brasserie-zedel-Qt3pySRI": {
+      "url": "http://localhost:3000/restaurant/brasserie-zedel-Qt3pySRI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "bouchon-racine-GC0DA5VM": {
+      "url": "http://localhost:3000/restaurant/bouchon-racine-GC0DA5VM",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 3
+    },
+    "le-relais-de-venise-lentrecote-marylebone-qxBm5ddA": {
+      "url": "http://localhost:3000/restaurant/le-relais-de-venise-lentrecote-marylebone-qxBm5ddA",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "lescargot-restaurant-DRcOlpog": {
+      "url": "http://localhost:3000/restaurant/lescargot-restaurant-DRcOlpog",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "galvin-la-chapelle-RDHmB8RA": {
+      "url": "http://localhost:3000/restaurant/galvin-la-chapelle-RDHmB8RA",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "chez-bruce-gOPPr5VY": {
+      "url": "http://localhost:3000/restaurant/chez-bruce-gOPPr5VY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "maison-franois-E2yC1YJY": {
+      "url": "http://localhost:3000/restaurant/maison-franois-E2yC1YJY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "casse-crote-C9yowifE": {
+      "url": "http://localhost:3000/restaurant/casse-crote-C9yowifE",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "clos-maggiore-KheUNnC4": {
+      "url": "http://localhost:3000/restaurant/clos-maggiore-KheUNnC4",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "pavyllon-london-nD9nfpA0": {
+      "url": "http://localhost:3000/restaurant/pavyllon-london-nD9nfpA0",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "la-trompette-MzysCr2Y": {
+      "url": "http://localhost:3000/restaurant/la-trompette-MzysCr2Y",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "el-pirata-of-mayfair-tapas-bar-espaol-AE3sr-lc": {
+      "url": "http://localhost:3000/restaurant/el-pirata-of-mayfair-tapas-bar-espaol-AE3sr-lc",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "copita-fitzrovia-tapas-bar-fK_Wb6Ms": {
+      "url": "http://localhost:3000/restaurant/copita-fitzrovia-tapas-bar-fK_Wb6Ms",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "la-gamba-spanish-tapas-bar-restaurant-7T6hRrh8": {
+      "url": "http://localhost:3000/restaurant/la-gamba-spanish-tapas-bar-restaurant-7T6hRrh8",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "salt-yard-0mnwGaVU": {
+      "url": "http://localhost:3000/restaurant/salt-yard-0mnwGaVU",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "koko-grill-korean-bbq-restaurant-TiSvAj5c": {
+      "url": "http://localhost:3000/restaurant/koko-grill-korean-bbq-restaurant-TiSvAj5c",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "arang-restaurant-zi1Jg4Ec": {
+      "url": "http://localhost:3000/restaurant/arang-restaurant-zi1Jg4Ec",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 3
+    },
+    "soju-korean-restaurant-4eZHjn3Q": {
+      "url": "http://localhost:3000/restaurant/soju-korean-restaurant-4eZHjn3Q",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "jang-restaurant-A2kpdsBc": {
+      "url": "http://localhost:3000/restaurant/jang-restaurant-A2kpdsBc",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "korean-dinner-party-ymMXVjzE": {
+      "url": "http://localhost:3000/restaurant/korean-dinner-party-ymMXVjzE",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "yori-piccadilly-circus-korean-bbq-Hpzadwok": {
+      "url": "http://localhost:3000/restaurant/yori-piccadilly-circus-korean-bbq-Hpzadwok",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "bibimbap-soho-VayvElt8": {
+      "url": "http://localhost:3000/restaurant/bibimbap-soho-VayvElt8",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "daebak-dtHO4Ztg": {
+      "url": "http://localhost:3000/restaurant/daebak-dtHO4Ztg",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 3
+    },
+    "cu4tro-restaurant-tequila-bar-uoYbq2FI": {
+      "url": "http://localhost:3000/restaurant/cu4tro-restaurant-tequila-bar-uoYbq2FI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "mestizo-mexican-restaurant-tequila-bar-QZ7xnYy8": {
+      "url": "http://localhost:3000/restaurant/mestizo-mexican-restaurant-tequila-bar-QZ7xnYy8",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "wahaca-covent-garden-WBJ_l_cY": {
+      "url": "http://localhost:3000/restaurant/wahaca-covent-garden-WBJ_l_cY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "santo-remedio-asador-london-bridge-am6bOw94": {
+      "url": "http://localhost:3000/restaurant/santo-remedio-asador-london-bridge-am6bOw94",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 4
+    },
+    "el-pastor-soho-vXIanGWc": {
+      "url": "http://localhost:3000/restaurant/el-pastor-soho-vXIanGWc",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "los-mochis-london-city-lFrOzbg8": {
+      "url": "http://localhost:3000/restaurant/los-mochis-london-city-lFrOzbg8",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY": {
+      "url": "http://localhost:3000/restaurant/mestizo-chelsea-mexican-restaurant-margarita-bar-0ojpOcyY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "mexican-seoul-G3LgXTqI": {
+      "url": "http://localhost:3000/restaurant/mexican-seoul-G3LgXTqI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "el-cenote-i5Opd7dI": {
+      "url": "http://localhost:3000/restaurant/el-cenote-i5Opd7dI",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 3
+    },
+    "cavita-Z6EHwE_c": {
+      "url": "http://localhost:3000/restaurant/cavita-Z6EHwE_c",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 2
+    },
+    "yucca-london-39NTBPjA": {
+      "url": "http://localhost:3000/restaurant/yucca-london-39NTBPjA",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "taste-of-lahore-JVquuZ94": {
+      "url": "http://localhost:3000/restaurant/taste-of-lahore-JVquuZ94",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "the-banc-utGnHGsQ": {
+      "url": "http://localhost:3000/restaurant/the-banc-utGnHGsQ",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "shahs-halal-food-soho--CkRGRto": {
+      "url": "http://localhost:3000/restaurant/shahs-halal-food-soho--CkRGRto",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "meet-bros-by-menate-x-jibbyco-1Z89Bclk": {
+      "url": "http://localhost:3000/restaurant/meet-bros-by-menate-x-jibbyco-1Z89Bclk",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "steak-and-company-covent-garden-w3R08uas": {
+      "url": "http://localhost:3000/restaurant/steak-and-company-covent-garden-w3R08uas",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "colonel-saab-D55weEBY": {
+      "url": "http://localhost:3000/restaurant/colonel-saab-D55weEBY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 1
+    },
+    "naroon-fitzrovia-hadciq8w": {
+      "url": "http://localhost:3000/restaurant/naroon-fitzrovia-hadciq8w",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    },
+    "mildreds-victoria-tLwXeLTY": {
+      "url": "http://localhost:3000/restaurant/mildreds-victoria-tLwXeLTY",
+      "status": 0,
+      "hasHero": true,
+      "fsaValid": true,
+      "fsaValue": 5
+    }
+  },
+  "fsaDisplay": {
+    "total": 593,
+    "valid": 511,
+    "invalid": 0,
+    "issues": []
+  },
+  "tabs": {
+    "checked": 10,
+    "pass": 0,
+    "fail": 10
+  },
+  "summary": {
+    "pass": 2,
+    "fail": 116,
+    "warnings": 0
+  }
+}

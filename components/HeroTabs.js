@@ -75,15 +75,40 @@ const SubTabs = ({ tabs, currentPath, className = '' }) => {
 };
 
 const RestaurantDetailTabs = ({ venue, currentPath, className = '' }) => {
+  const handleTabClick = (e, anchorId) => {
+    e.preventDefault();
+    const element = document.getElementById(anchorId);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+
   const tabs = [
-    { name: 'Overview', path: `/restaurant/${venue.slug}`, icon: '📋' },
-    { name: 'Menu', path: `/restaurant/${venue.slug}/menu`, icon: '🍽️' },
-    { name: 'Reviews', path: `/restaurant/${venue.slug}/reviews`, icon: '⭐' },
-    { name: 'Location', path: `/restaurant/${venue.slug}/location`, icon: '📍' },
-    { name: 'Similar', path: `/restaurant/${venue.slug}/similar`, icon: '🔍' }
+    { name: 'Overview', anchor: 'overview', icon: '📋' },
+    { name: 'Menu', anchor: 'menu', icon: '🍽️' },
+    { name: 'Reviews', anchor: 'reviews', icon: '⭐' },
+    { name: 'Location', anchor: 'location', icon: '📍' },
+    { name: 'Similar', anchor: 'similar', icon: '🔍' }
   ];
 
-  return <SubTabs tabs={tabs} currentPath={currentPath} className={className} />;
+  return (
+    <nav className={`bg-gradient-to-r from-black-light/80 via-charcoal/90 to-black-light/80 border-b border-gold/10 sticky top-16 z-30 backdrop-blur-sm ${className}`}>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex space-x-6 overflow-x-auto">
+          {tabs.map(tab => (
+            <button
+              key={tab.anchor}
+              onClick={(e) => handleTabClick(e, tab.anchor)}
+              className="px-3 py-3 text-sm font-medium border-b-2 border-transparent text-warmWhite hover:text-gold hover:border-gold/50 transition-colors duration-200 whitespace-nowrap flex items-center space-x-2"
+            >
+              <span>{tab.icon}</span>
+              <span>{tab.name}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+    </nav>
+  );
 };
 
 const CuisinePageTabs = ({ cuisine, currentPath, className = '' }) => {
