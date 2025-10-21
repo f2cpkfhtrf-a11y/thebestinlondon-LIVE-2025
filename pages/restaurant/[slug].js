@@ -9,7 +9,7 @@ import FSABadge from '../../components/FSABadge';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import { TabContainer } from '../../components/HeroTabs';
 import PageHero from '../../components/PageHero';
-import { resolveVenueHero } from '../../lib/images/resolve';
+import { generateAboutText } from '../../lib/content/aboutGenerator';
 import ImageWithFallback from '../../components/ImageWithFallback';
 import { isValidFsaScore, getFsaDisplayValue } from '../../lib/fsa';
 
@@ -227,6 +227,25 @@ export default function VenueDetailPage({ venue }) {
             )}
           </div>
           
+          {/* Navigation Tabs */}
+          <div className="flex flex-wrap gap-2 mt-6 px-4 border-b border-gray-800">
+            <a href="#overview" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Overview
+            </a>
+            <a href="#menu" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Menu
+            </a>
+            <a href="#reviews" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Reviews
+            </a>
+            <a href="#location" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Location
+            </a>
+            <a href="#similar" className="px-4 py-2 text-sm font-medium text-gray-300 hover:text-white border-b-2 border-transparent hover:border-yellow-600 transition-colors">
+              Similar
+            </a>
+          </div>
+
           {/* Buttons Row Under Hero */}
           <div className="flex flex-wrap gap-4 mt-6 px-4">
             {venue.google_place_url && (
@@ -328,25 +347,23 @@ export default function VenueDetailPage({ venue }) {
               </div>
 
               {/* About Section */}
-              {(venue?.about?.text || venue.description) && (
-                <div style={{ 
-                  background: '#1A1A1A', 
-                  padding: '32px', 
-                  borderRadius: '12px', 
-                  marginBottom: '32px',
-                  border: '1px solid #2A2A2A' 
+              <div style={{ 
+                background: '#1A1A1A', 
+                padding: '32px', 
+                borderRadius: '12px', 
+                marginBottom: '32px',
+                border: '1px solid #2A2A2A' 
+              }}>
+                <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '16px', fontFamily: 'Playfair Display, serif' }}>About</h2>
+                <p style={{ 
+                  fontSize: '16px', 
+                  lineHeight: 1.7, 
+                  color: '#9AA0A6',
+                  margin: 0 
                 }}>
-                  <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '16px', fontFamily: 'Playfair Display, serif' }}>About</h2>
-                  <p style={{ 
-                    fontSize: '16px', 
-                    lineHeight: 1.7, 
-                    color: '#9AA0A6',
-                    margin: 0 
-                  }}>
-                    {venue?.about?.text || venue.description}
-                  </p>
-                </div>
-              )}
+                  {generateAboutText(venue)}
+                </p>
+              </div>
 
               {/* Reviews Section */}
               <div id="reviews" style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
