@@ -3,9 +3,13 @@ Allow: /
 
 # Sitemaps
 Sitemap: https://www.thebestinlondon.co.uk/sitemap.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-images.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-venues.xml
 Sitemap: https://www.thebestinlondon.co.uk/sitemap-pages.xml
+Sitemap: https://www.thebestinlondon.co.uk/sitemap-venues.xml
+Sitemap: https://www.thebestinlondon.co.uk/sitemap-cuisines.xml
+Sitemap: https://www.thebestinlondon.co.uk/sitemap-areas.xml
+Sitemap: https://www.thebestinlondon.co.uk/sitemap-blog.xml
+Sitemap: https://www.thebestinlondon.co.uk/sitemap-faq.xml
+Sitemap: https://www.thebestinlondon.co.uk/sitemap-collections.xml
 
 # Image optimization
 Allow: /images/
@@ -13,7 +17,8 @@ Allow: /*.webp
 Allow: /*.avif
 
 # Disallow admin and private areas
-Disallow: /admin/
+Disallow: /admin
+Disallow: /api/admin/
 Disallow: /private/
 Disallow: /reports/
 Disallow: /scripts/
