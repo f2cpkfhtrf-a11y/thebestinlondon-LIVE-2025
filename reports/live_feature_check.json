@@ -1,0 +1,62 @@
+[
+  {
+    "u": "/",
+    "code": 200,
+    "hero": true,
+    "local": true,
+    "jsonld": true,
+    "hasBlog": false,
+    "hasFAQ": false,
+    "hasTabs": false
+  },
+  {
+    "u": "/cuisines",
+    "code": 200,
+    "hero": false,
+    "local": true,
+    "jsonld": false,
+    "hasBlog": false,
+    "hasFAQ": false,
+    "hasTabs": false
+  },
+  {
+    "u": "/areas",
+    "code": 200,
+    "hero": true,
+    "local": true,
+    "jsonld": false,
+    "hasBlog": false,
+    "hasFAQ": false,
+    "hasTabs": false
+  },
+  {
+    "u": "/best-halal-restaurants-london",
+    "code": 200,
+    "hero": true,
+    "local": true,
+    "jsonld": true,
+    "hasBlog": false,
+    "hasFAQ": false,
+    "hasTabs": true
+  },
+  {
+    "u": "/blog",
+    "code": 200,
+    "hero": true,
+    "local": true,
+    "jsonld": true,
+    "hasBlog": false,
+    "hasFAQ": false,
+    "hasTabs": true
+  },
+  {
+    "u": "/faq",
+    "code": 200,
+    "hero": true,
+    "local": true,
+    "jsonld": true,
+    "hasBlog": false,
+    "hasFAQ": false,
+    "hasTabs": false
+  }
+]
