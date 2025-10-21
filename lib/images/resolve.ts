@@ -72,11 +72,11 @@ export function resolveVenueCard(venue: any): { src: string; reason: string } {
   const primaryCuisine = getPrimaryCuisine(venue);
   const normalizedArea = getNormalizedArea(venue);
 
-  // Build fallback chain
+  // Build fallback chain - prioritize actual venue-specific images
   const paths = [
-    // Direct paths from venue data
-    venue.image_card_path,
-    venue.image_hero_path,
+    // Venue-specific restaurant images (actual files that exist)
+    `/images/restaurants/${slug}/hero.webp`,
+    `/images/restaurants/${slug}/card.webp`,
     
     // Local photos array
     ...(venue.photos_local || []),
@@ -100,9 +100,13 @@ export function resolveVenueCard(venue: any): { src: string; reason: string } {
     `/images/google/${slug}/hero.webp`,
     `/images/google/${slug}/1.webp`,
     `/images/google/${slug}/2.webp`,
+    
+    // Only use venue data paths if they're NOT cuisine tiles (avoid corrupted data)
+    ...(venue.image_card_path && !venue.image_card_path.includes('/tiles/cuisines/') ? [venue.image_card_path] : []),
+    ...(venue.image_hero_path && !venue.image_hero_path.includes('/tiles/cuisines/') ? [venue.image_hero_path] : []),
   ];
 
-  // Add cuisine tile if available
+  // Add cuisine tile if available (but only as last resort)
   if (primaryCuisine) {
     paths.push(`/images/tiles/cuisines/${primaryCuisine}.webp`);
   }
@@ -148,11 +152,11 @@ export function resolveVenueHero(venue: any): { src: string; reason: string } {
   const primaryCuisine = getPrimaryCuisine(venue);
   const normalizedArea = getNormalizedArea(venue);
 
-  // Build fallback chain (prioritize hero over card)
+  // Build fallback chain (prioritize hero over card) - prioritize actual venue-specific images
   const paths = [
-    // Direct paths from venue data
-    venue.image_hero_path,
-    venue.image_card_path,
+    // Venue-specific restaurant images (actual files that exist)
+    `/images/restaurants/${slug}/hero.webp`,
+    `/images/restaurants/${slug}/card.webp`,
     
     // Local photos array
     ...(venue.photos_local || []),
@@ -176,9 +180,13 @@ export function resolveVenueHero(venue: any): { src: string; reason: string } {
     `/images/google/${slug}/card.webp`,
     `/images/google/${slug}/1.webp`,
     `/images/google/${slug}/2.webp`,
+    
+    // Only use venue data paths if they're NOT cuisine tiles (avoid corrupted data)
+    ...(venue.image_hero_path && !venue.image_hero_path.includes('/tiles/cuisines/') ? [venue.image_hero_path] : []),
+    ...(venue.image_card_path && !venue.image_card_path.includes('/tiles/cuisines/') ? [venue.image_card_path] : []),
   ];
 
-  // Add cuisine tile if available
+  // Add cuisine tile if available (but only as last resort)
   if (primaryCuisine) {
     paths.push(`/images/tiles/cuisines/${primaryCuisine}.webp`);
   }
