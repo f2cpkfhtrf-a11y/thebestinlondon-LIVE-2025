@@ -74,7 +74,7 @@ function tonePack(venue) {
   // Compose 120–170 words
   const bodyParts = [
     `${hook} ${trustStr}`.trim(),
-    `${venue?.name} delivers confident ${cuisine || "modern"} plates with a London edge. ${highlights ? `Highlights: ${highlights}.` : ""}`.trim(),
+    `${venue?.name} delivers confident ${cuisine || "modern"} plates with a London edge. ${highlights ? `Highlights: ${highlights}.` : `Expect quality ingredients, skilled preparation, and memorable flavors that reflect London's diverse dining scene.`}`.trim(),
     `${order} ${vibe} ${priceNote}`.trim(),
     halalLine
   ].filter(Boolean);
@@ -135,9 +135,10 @@ function saveVenues(newVenues, original) {
 
     for (let i=0;i<venues.length;i++){
       const v = venues[i];
-      // Skip if already has good about within last 30 days
+      // Skip if already has good about within last 30 days AND is sufficiently long
       const recent = v?.about?.updated_at && Date.now() - new Date(v.about.updated_at).getTime() < 1000*60*60*24*30;
-      if (recent && v?.about?.text && v.about.text.length > 60) { report.skipped++; continue; }
+      const wordCount = v?.about?.text ? v.about.text.split(/\s+/).length : 0;
+      if (recent && v?.about?.text && v.about.text.length > 60 && wordCount >= 40) { report.skipped++; continue; }
 
       const base = tonePack(v);
       const enriched = await maybeEnrichWithBrowseAI(v, base);
