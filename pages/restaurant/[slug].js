@@ -9,7 +9,7 @@ import FSABadge from '../../components/FSABadge';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import { TabContainer } from '../../components/HeroTabs';
 import PageHero from '../../components/PageHero';
-import { resolveHeroImage, resolveVenueHero } from '../../lib/resolveHeroImage';
+import { resolveVenueHero } from '../../lib/images/resolve';
 import ImageWithFallback from '../../components/ImageWithFallback';
 import { isValidFsaScore, getFsaDisplayValue } from '../../lib/fsa';
 
@@ -74,20 +74,20 @@ export default function VenueDetailPage({ venue }) {
     </div>;
   }
   
-  // Get hero image for venue detail page - prefer card image for hero
-  const { resolveCardImageSync } = require('../../lib/resolveHeroImage');
-  
-  // Hero fallback chain: card image -> first image -> venue hero -> cuisine tile -> area tile -> default
-  const heroImageSrc = venue.image_card_path ? 
-    venue.image_card_path.replace('/public', '') + (venue.image_card_path.includes('?') ? '&' : '?') + 'v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || Date.now()) :
-    resolveVenueHero({ 
-      venue: {
-        ...venue,
-        cuisine: venue.cuisines?.[0]?.toLowerCase().replace(/[^a-z0-9]/g, '-'),
-        areaSlug: venue.area ? venue.area.toLowerCase().replace(/[^a-z0-9]/g, '-') : 
-                  venue.borough ? venue.borough.toLowerCase().replace(/[^a-z0-9]/g, '-') : undefined
-      }
-    });
+            // Get hero image for venue detail page using new resolver
+            const heroImageSrc = (() => {
+              try {
+                const resolved = resolveVenueHero(venue);
+                return resolved.src;
+              } catch (error) {
+                console.warn(`Failed to resolve hero image for venue ${venue.slug}:`, error);
+                // Fallback to old logic if resolver fails
+                if (venue.image_card_path) {
+                  return venue.image_card_path.replace('/public', '') + (venue.image_card_path.includes('?') ? '&' : '?') + 'v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || Date.now());
+                }
+                return '/images/heroes/site-default.webp?v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || '1');
+              }
+            })();
   
   const hero = {
     src: heroImageSrc,

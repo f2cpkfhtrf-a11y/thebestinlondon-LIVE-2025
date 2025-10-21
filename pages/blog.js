@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Layout from '../components/Layout';
 import RichMarkdown from '../components/content/RichMarkdown';
 import Link from 'next/link';
-import { resolveHeroImage } from '../lib/resolveHeroImage';
+import { resolveBlogTile } from '../lib/images/resolve';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -22,7 +22,12 @@ export async function getStaticProps() {
     }).sort((a, b) => new Date(b.publishedAtISO) - new Date(a.publishedAtISO));
   }
 
-  const heroImage = resolveHeroImage({ type: "list-areas" });
+  // The hero image for the blog list page can still use the old resolver or be updated
+  // For now, keeping it as is, as the focus is on blog tiles.
+  const heroImage = {
+    src: '/images/heroes/blog-list-default.webp', // A default for the blog list page hero
+    alt: 'London Blog Posts'
+  };
   
   return {
     props: {
@@ -133,7 +138,15 @@ export default function BlogPage({ blogs, heroImage }) {
                 <Link href={`/blog/${blog.slug}`} className="block">
                   <div className="aspect-w-16 aspect-h-9 bg-gray-700">
                     <img
-                      src={`${blog.coverImage}?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`}
+                                src={(() => {
+                                  try {
+                                    const resolved = resolveBlogTile(blog.slug);
+                                    return resolved.src;
+                                  } catch (error) {
+                                    console.warn(`Failed to resolve blog tile for ${blog.slug}:`, error);
+                                    return `${blog.coverImage || '/images/blog/' + blog.slug + '.webp'}?v=${process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1'}`;
+                                  }
+                                })()}
                       alt={blog.title}
                       className="w-full h-48 object-cover"
                       onError={(e) => {

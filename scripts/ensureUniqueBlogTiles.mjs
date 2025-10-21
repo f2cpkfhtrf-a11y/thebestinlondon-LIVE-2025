@@ -1,240 +1,192 @@
-import fs from "fs";
-import path from "path";
-import sharp from "sharp";
+import fs from 'fs';
+import path from 'path';
 
 const ROOT = process.cwd();
-const BLOG_DIR = path.join(ROOT, "content/blog");
-const TILES_DIR = path.join(ROOT, "public/images/blog/tiles");
-const POOL_DIR = path.join(ROOT, "public/images/blog/pool");
-const MAPPING_FILE = path.join(ROOT, "data/blog-images.json");
-const REPORT_FILE = path.join(ROOT, "reports/blog_tile_uniqueness.json");
+const BLOG_IMAGES_PATH = path.join(ROOT, 'data/blog-images.json');
+const BLOG_POOL_DIR = path.join(ROOT, 'public/images/blog_pool');
+const BLOG_SPECIFIC_DIR = path.join(ROOT, 'public/images/blog');
+const CONTENT_BLOG_DIR = path.join(ROOT, 'content/blog');
+const REPORT_PATH = path.join(ROOT, 'reports/blog_tiles_uniqueness.json');
 
-const WIKIMEDIA_ENABLE = process.env.WIKIMEDIA_ENABLE === "1";
-const ASSET_VERSION = process.env.ASSET_VERSION || Date.now();
-
-function listBlogPosts() {
-  if (!fs.existsSync(BLOG_DIR)) return [];
-  return fs.readdirSync(BLOG_DIR)
-    .filter(f => f.endsWith(".json"))
-    .map(f => {
-      const filePath = path.join(BLOG_DIR, f);
-      const content = JSON.parse(fs.readFileSync(filePath, "utf8"));
-      return {
-        slug: content.slug || path.basename(f, ".json"),
-        title: content.title || "",
-        tags: content.tags || [],
-        currentImage: content.coverImage || content.image || "",
-        filePath
-      };
-    });
-}
-
-function getExistingTiles() {
-  const tiles = new Map();
-  if (fs.existsSync(TILES_DIR)) {
-    fs.readdirSync(TILES_DIR)
-      .filter(f => f.endsWith(".webp"))
-      .forEach(f => {
-        const filePath = path.join(TILES_DIR, f);
-        const stats = fs.statSync(filePath);
-        if (stats.size >= 51200) { // ≥50KB
-          tiles.set(path.basename(f, ".webp"), `/images/blog/tiles/${f}`);
-        }
-      });
-  }
-  return tiles;
-}
-
-function getPoolImages() {
-  const pool = [];
-  if (fs.existsSync(POOL_DIR)) {
-    fs.readdirSync(POOL_DIR)
-      .filter(f => f.endsWith(".webp"))
-      .forEach(f => {
-        const filePath = path.join(POOL_DIR, f);
-        const stats = fs.statSync(filePath);
-        if (stats.size >= 51200) {
-          pool.push({
-            path: `/images/blog/pool/${f}`,
-            filePath: filePath
-          });
-        }
-      });
-  }
-  return pool;
-}
-
-async function fetchWikimediaTile(query, outputPath) {
-  if (!WIKIMEDIA_ENABLE) return false;
-  
-  try {
-    const searchUrl = `https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(query)}&srnamespace=6&srlimit=5`;
-    const response = await fetch(searchUrl);
-    const data = await response.json();
-    
-    if (data.query?.search?.length > 0) {
-      const file = data.query.search[0].title;
-      const imageUrl = `https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=${encodeURIComponent(file)}&prop=imageinfo&iiprop=url|size&iiurlwidth=1600`;
-      
-      const imageResponse = await fetch(imageUrl);
-      const imageData = await imageResponse.json();
-      
-      const pages = Object.values(imageData.query.pages);
-      if (pages.length > 0 && pages[0].imageinfo) {
-        const imageInfo = pages[0].imageinfo[0];
-        const imageUrl = imageInfo.url;
-        
-        const imageResponse = await fetch(imageUrl);
-        const buffer = await imageResponse.arrayBuffer();
-        
-        const webpBuffer = await sharp(Buffer.from(buffer))
-          .resize(1600, 900, { fit: "cover" })
-          .webp({ quality: 88 })
-          .toBuffer();
-        
-        if (webpBuffer.length >= 51200) {
-          fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-          fs.writeFileSync(outputPath, webpBuffer);
-          return true;
-        }
-      }
-    }
-  } catch (error) {
-    console.log(`⚠️ Wikimedia fetch failed for ${query}:`, error.message);
-  }
-  
-  return false;
-}
-
-async function generatePlaceholderTile(slug, title, outputPath) {
-  try {
-    const width = 1600;
-    const height = 900;
-    
-    // Create a luxury gradient background
-    const gradient = Buffer.from(`<svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
-          <stop offset="50%" style="stop-color:#2a2a2a;stop-opacity:1" />
-          <stop offset="100%" style="stop-color:#1a1a1a;stop-opacity:1" />
-        </linearGradient>
-      </defs>
-      <rect width="100%" height="100%" fill="url(#grad)"/>
-      <text x="50%" y="45%" text-anchor="middle" fill="#D4AF37" font-family="serif" font-size="48" font-weight="bold">${title}</text>
-      <text x="50%" y="55%" text-anchor="middle" fill="#9AA0A6" font-family="sans-serif" font-size="24">The Best in London</text>
-    </svg>`);
-    
-    const webpBuffer = await sharp(gradient)
-      .webp({ quality: 88 })
-      .toBuffer();
-    
-    fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-    fs.writeFileSync(outputPath, webpBuffer);
-    return true;
-  } catch (error) {
-    console.log(`⚠️ Placeholder generation failed for ${slug}:`, error.message);
-    return false;
-  }
-}
-
+/**
+ * Ensure blog tile uniqueness without external calls
+ * Builds/refreshes data/blog-images.json with unique local images
+ */
 async function ensureUniqueBlogTiles() {
-  const posts = listBlogPosts();
-  const existingTiles = getExistingTiles();
-  const poolImages = getPoolImages();
-  const mapping = {};
-  const usedImages = new Set();
-  const report = {
-    total: posts.length,
-    unique: 0,
-    duplicates: 0,
-    wikimedia: 0,
-    pool: 0,
-    generated: 0,
-    needsImages: []
-  };
+  console.log('🔍 Ensuring blog tile uniqueness...');
   
-  fs.mkdirSync(TILES_DIR, { recursive: true });
-  fs.mkdirSync(path.dirname(MAPPING_FILE), { recursive: true });
-  fs.mkdirSync(path.dirname(REPORT_FILE), { recursive: true });
-  
-  for (const post of posts) {
-    let assignedImage = null;
+  try {
+    // Ensure directories exist
+    fs.mkdirSync(BLOG_POOL_DIR, { recursive: true });
+    fs.mkdirSync(path.dirname(BLOG_IMAGES_PATH), { recursive: true });
     
-    // Try current image if it's unique
-    if (post.currentImage && !usedImages.has(post.currentImage)) {
-      assignedImage = post.currentImage;
-    } else {
-      // Find unused image from existing tiles
-      for (const [slug, path] of existingTiles) {
-        if (!usedImages.has(path)) {
-          assignedImage = path;
-          break;
-        }
+    // Load existing blog images mapping
+    let blogImages = {};
+    if (fs.existsSync(BLOG_IMAGES_PATH)) {
+      try {
+        blogImages = JSON.parse(fs.readFileSync(BLOG_IMAGES_PATH, 'utf8'));
+      } catch (error) {
+        console.log('⚠️ Could not parse existing blog-images.json, starting fresh');
       }
     }
     
-    // Try pool images if no unique image found
-    if (!assignedImage) {
-      for (const poolImg of poolImages) {
-        if (!usedImages.has(poolImg.path)) {
-          // Copy from pool to tiles directory
-          const targetPath = path.join(TILES_DIR, `${post.slug}.webp`);
-          fs.copyFileSync(poolImg.filePath, targetPath);
-          assignedImage = `/images/blog/tiles/${post.slug}.webp`;
-          report.pool++;
-          break;
-        }
-      }
+    // Get all blog slugs from content directory
+    let blogSlugs = [];
+    if (fs.existsSync(CONTENT_BLOG_DIR)) {
+      const blogFiles = fs.readdirSync(CONTENT_BLOG_DIR).filter(f => f.endsWith('.json'));
+      blogSlugs = blogFiles.map(f => f.replace('.json', ''));
     }
     
-    // Try Wikimedia fetch if enabled
-    if (!assignedImage && WIKIMEDIA_ENABLE) {
-      const outputPath = path.join(TILES_DIR, `${post.slug}.webp`);
-      const success = await fetchWikimediaTile(`${post.title} London restaurant`, outputPath);
-      if (success) {
-        assignedImage = `/images/blog/tiles/${post.slug}.webp`;
-        report.wikimedia++;
-      }
+    console.log(`📝 Found ${blogSlugs.length} blog posts`);
+    
+    // Get available pool images
+    let poolImages = [];
+    if (fs.existsSync(BLOG_POOL_DIR)) {
+      poolImages = fs.readdirSync(BLOG_POOL_DIR)
+        .filter(f => f.endsWith('.webp'))
+        .map(f => `/images/blog_pool/${f}`);
     }
     
-    // Generate placeholder as last resort
-    if (!assignedImage) {
-      const outputPath = path.join(TILES_DIR, `${post.slug}.webp`);
-      const success = await generatePlaceholderTile(post.slug, post.title, outputPath);
-      if (success) {
-        assignedImage = `/images/blog/tiles/${post.slug}.webp`;
-        report.generated++;
+    console.log(`🖼️ Found ${poolImages.length} pool images`);
+    
+    // Get cuisine and area tiles for fallback
+    const cuisineTilesDir = path.join(ROOT, 'public/images/tiles/cuisines');
+    const areaTilesDir = path.join(ROOT, 'public/images/tiles/areas');
+    
+    let fallbackImages = [];
+    
+    if (fs.existsSync(cuisineTilesDir)) {
+      const cuisineTiles = fs.readdirSync(cuisineTilesDir)
+        .filter(f => f.endsWith('.webp'))
+        .map(f => `/images/tiles/cuisines/${f}`);
+      fallbackImages.push(...cuisineTiles);
+    }
+    
+    if (fs.existsSync(areaTilesDir)) {
+      const areaTiles = fs.readdirSync(areaTilesDir)
+        .filter(f => f.endsWith('.webp'))
+        .map(f => `/images/tiles/areas/${f}`);
+      fallbackImages.push(...areaTiles);
+    }
+    
+    console.log(`🎨 Found ${fallbackImages.length} fallback tiles`);
+    
+    // Track used images to avoid duplicates
+    const usedImages = new Set(Object.values(blogImages));
+    const availablePoolImages = poolImages.filter(img => !usedImages.has(img));
+    
+    // Shuffle fallback images to avoid patterns
+    const shuffledFallbacks = fallbackImages.sort(() => Math.random() - 0.5);
+    
+    const report = {
+      timestamp: new Date().toISOString(),
+      totalBlogs: blogSlugs.length,
+      poolImagesAvailable: poolImages.length,
+      fallbackImagesAvailable: fallbackImages.length,
+      assignments: [],
+      summary: {
+        blogSpecific: 0,
+        poolImages: 0,
+        fallbackTiles: 0,
+        siteDefault: 0
+      }
+    };
+    
+    // Process each blog slug
+    for (const slug of blogSlugs) {
+      let assignedImage = null;
+      let reason = '';
+      
+      // Check if already mapped
+      if (blogImages[slug]) {
+        assignedImage = blogImages[slug];
+        reason = 'already-mapped';
       } else {
-        report.needsImages.push(post.slug);
+        // Try blog-specific image first
+        const blogSpecificPath = `/images/blog/${slug}.webp`;
+        if (fs.existsSync(path.join(ROOT, 'public', blogSpecificPath.replace(/^\/+/, '')))) {
+          assignedImage = blogSpecificPath;
+          reason = 'blog-specific';
+          report.summary.blogSpecific++;
+        }
+        // Try available pool image
+        else if (availablePoolImages.length > 0) {
+          assignedImage = availablePoolImages.shift();
+          reason = 'pool-image';
+          report.summary.poolImages++;
+        }
+        // Try fallback tiles (shuffled)
+        else if (shuffledFallbacks.length > 0) {
+          assignedImage = shuffledFallbacks.shift();
+          reason = 'fallback-tile';
+          report.summary.fallbackTiles++;
+        }
+        // Ultimate fallback
+        else {
+          assignedImage = '/images/heroes/site-default.webp';
+          reason = 'site-default';
+          report.summary.siteDefault++;
+        }
+        
+        // Update mapping
+        blogImages[slug] = assignedImage;
+        usedImages.add(assignedImage);
       }
+      
+      report.assignments.push({
+        slug,
+        image: assignedImage,
+        reason
+      });
+      
+      console.log(`✅ ${slug}: ${assignedImage} (${reason})`);
     }
     
-    mapping[post.slug] = assignedImage;
-    usedImages.add(assignedImage);
+    // Save updated mapping
+    fs.writeFileSync(BLOG_IMAGES_PATH, JSON.stringify(blogImages, null, 2));
     
-    if (assignedImage !== post.currentImage) {
-      report.duplicates++;
+    // Save report
+    fs.writeFileSync(REPORT_PATH, JSON.stringify(report, null, 2));
+    
+    // Summary
+    console.log('\n📊 Blog Tile Uniqueness Summary:');
+    console.log(`✅ Total blogs processed: ${report.totalBlogs}`);
+    console.log(`🖼️ Blog-specific images: ${report.summary.blogSpecific}`);
+    console.log(`🎨 Pool images used: ${report.summary.poolImages}`);
+    console.log(`🏷️ Fallback tiles used: ${report.summary.fallbackTiles}`);
+    console.log(`🔧 Site default used: ${report.summary.siteDefault}`);
+    
+    // Check for duplicates
+    const imageCounts = {};
+    Object.values(blogImages).forEach(img => {
+      imageCounts[img] = (imageCounts[img] || 0) + 1;
+    });
+    
+    const duplicates = Object.entries(imageCounts).filter(([, count]) => count > 1);
+    if (duplicates.length > 0) {
+      console.log(`⚠️ Found ${duplicates.length} duplicate images:`);
+      duplicates.forEach(([img, count]) => {
+        console.log(`   - ${img}: used ${count} times`);
+      });
     } else {
-      report.unique++;
+      console.log('✅ All blog tiles are unique!');
     }
+    
+    console.log(`\n💾 Blog images mapping saved to: ${BLOG_IMAGES_PATH}`);
+    console.log(`📝 Report saved to: ${REPORT_PATH}`);
+    
+  } catch (error) {
+    console.error(`❌ Error ensuring blog tile uniqueness: ${error.message}`);
+    throw error;
   }
-  
-  // Save mapping
-  fs.writeFileSync(MAPPING_FILE, JSON.stringify(mapping, null, 2));
-  
-  // Save report
-  fs.writeFileSync(REPORT_FILE, JSON.stringify(report, null, 2));
-  
-  console.log("✅ Blog tiles uniqueness report:", report);
-  return report;
 }
 
-(async () => {
-  try {
-    await ensureUniqueBlogTiles();
-  } catch (error) {
-    console.error("❌ Blog tiles script failed:", error);
+// Run if called directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  ensureUniqueBlogTiles().catch(error => {
+    console.error('Failed to ensure blog tile uniqueness:', error);
     process.exit(1);
-  }
-})();
+  });
+}
+
+export { ensureUniqueBlogTiles };

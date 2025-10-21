@@ -1,7 +1,154 @@
 {
-  "total": 28,
-  "unique": 28,
-  "duplicates": 0,
-  "external": 0,
-  "needsImages": []
+  "timestamp": "2025-10-21T18:00:08.953Z",
+  "totalBlogs": 28,
+  "poolImagesAvailable": 0,
+  "fallbackImagesAvailable": 68,
+  "assignments": [
+    {
+      "slug": "best-british-restaurants-in-london",
+      "image": "/images/blog/best-british-restaurants-in-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "best-indian-in-redbridge",
+      "image": "/images/blog/best-indian-in-redbridge.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "best-indian-restaurants-in-london",
+      "image": "/images/blog/best-indian-restaurants-in-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "best-italian-restaurants-in-london",
+      "image": "/images/blog/best-italian-restaurants-in-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "best-japanese-restaurants-in-london",
+      "image": "/images/blog/best-japanese-restaurants-in-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "best-modern-european-restaurants-in-london",
+      "image": "/images/blog/best-modern-european-restaurants-in-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "borough-market-eats",
+      "image": "/images/blog/borough-market-eats.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "brunch-soho-2025",
+      "image": "/images/blog/brunch-soho-2025.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "budget-friendly-restaurants-in-london",
+      "image": "/images/blog/budget-friendly-restaurants-in-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "coffee-near-liverpool-street",
+      "image": "/images/blog/coffee-near-liverpool-street.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "family-friendly-central-london",
+      "image": "/images/blog/family-friendly-central-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "halal-street-food-london",
+      "image": "/images/blog/halal-street-food-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "hidden-gem-restaurants-in-london",
+      "image": "/images/blog/hidden-gem-restaurants-in-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "kebab-shoreditch-guide",
+      "image": "/images/blog/kebab-shoreditch-guide.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "late-night-meals-london",
+      "image": "/images/blog/late-night-meals-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "michelin-london-shortlist",
+      "image": "/images/blog/michelin-london-shortlist.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "pizza-east-london",
+      "image": "/images/blog/pizza-east-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "ramen-hunt-london",
+      "image": "/images/blog/ramen-hunt-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "romantic-date-night-restaurants-in-london",
+      "image": "/images/blog/romantic-date-night-restaurants-in-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "seafood-by-the-river",
+      "image": "/images/blog/seafood-by-the-river.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "steak-london-under-30",
+      "image": "/images/blog/steak-london-under-30.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "top-restaurants-in-central-london",
+      "image": "/images/blog/top-restaurants-in-central-london.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "top-restaurants-in-kensington-and-chelsea",
+      "image": "/images/blog/top-restaurants-in-kensington-and-chelsea.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "top-restaurants-in-southwark",
+      "image": "/images/blog/top-restaurants-in-southwark.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "top-restaurants-in-tower-hamlets",
+      "image": "/images/blog/top-restaurants-in-tower-hamlets.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "top-restaurants-in-westminster",
+      "image": "/images/blog/top-restaurants-in-westminster.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "vegan-date-night",
+      "image": "/images/blog/vegan-date-night.webp",
+      "reason": "already-mapped"
+    },
+    {
+      "slug": "winter-warmers-curry-edit",
+      "image": "/images/blog/winter-warmers-curry-edit.webp",
+      "reason": "already-mapped"
+    }
+  ],
+  "summary": {
+    "blogSpecific": 0,
+    "poolImages": 0,
+    "fallbackTiles": 0,
+    "siteDefault": 0
+  }
 }

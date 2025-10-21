@@ -3,7 +3,7 @@ import ImageWithFallback from './ImageWithFallback';
 import { assertLocalImage } from '../lib/assertLocalImage';
 import { getBlurAndColor } from '../lib/imagePlaceholders';
 import { isValidFsaScore, getFsaDisplayValue } from '../lib/fsa';
-import { appendVersion } from '../lib/resolveAssets';
+import { resolveVenueCard } from '../lib/images/resolve';
 
 const StandardizedCard = ({ 
   venue, 
@@ -30,40 +30,23 @@ const StandardizedCard = ({
     dietary_tags
   } = venue;
   
-  // Get the best available image using the same resolver chain as PageHero
-  const getImageUrl = () => {
-    // Primary: Use provided venue card path if available
-    if (image_card_path && !image_card_path.includes('placeholder')) {
-      const localPath = image_card_path.replace('/public', '');
-      assertLocalImage(localPath);
-      return localPath;
-    }
-    
-    // Secondary: Try venue-specific card (this would be resolved at build time ideally)
-    const venueSlug = venue.slug || venue.name?.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    if (venueSlug) {
-      const venueCardPath = `/images/restaurants/${venueSlug}/${venueSlug}-card.webp`;
-      // Note: We can't check file existence client-side, but this path will work if the file exists
-      return venueCardPath;
-    }
-    
-    // Tertiary: Try cuisine-based card/hero fallback
-    if (cuisines && cuisines[0]) {
-      const cuisineSlug = cuisines[0].toLowerCase().replace(/[^a-z0-9]/g, '-');
-      return `/images/cuisines/${cuisineSlug}-card.webp`;
-    }
-    
-    // Quaternary: Try area-based fallback
-    if (area || borough) {
-      const areaSlug = (area || borough).toLowerCase().replace(/[^a-z0-9]/g, '-');
-      return `/images/areas/${areaSlug}-card.webp`;
-    }
-    
-    // Fallback to default card
-    return "/images/heroes/site/default-card.webp";
-  };
+            // Get the best available image using the new resolver
+            const getImageUrl = () => {
+              try {
+                const resolved = resolveVenueCard(venue);
+                return resolved.src;
+              } catch (error) {
+                console.warn(`Failed to resolve image for venue ${venue.slug || venue.name}:`, error);
+                // Fallback to old logic if resolver fails
+                if (image_card_path && !image_card_path.includes('placeholder')) {
+                  const localPath = image_card_path.replace('/public', '');
+                  return localPath + (localPath.includes('?') ? '&' : '?') + 'v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || '1');
+                }
+                return '/images/heroes/site-default.webp?v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || '1');
+              }
+            };
   
-  const imageUrl = appendVersion(getImageUrl());
+  const imageUrl = getImageUrl();
   const location = vicinity || borough || area;
   
   // Get blur and dominant color for the image (with error handling for JS)
