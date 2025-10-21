@@ -3,6 +3,7 @@ import ImageWithFallback from './ImageWithFallback';
 import { assertLocalImage } from '../lib/assertLocalImage';
 import { getBlurAndColor } from '../lib/imagePlaceholders';
 import { isValidFsaScore, getFsaDisplayValue } from '../lib/fsa';
+import { appendVersion } from '../lib/resolveAssets';
 
 const StandardizedCard = ({ 
   venue, 
@@ -62,7 +63,7 @@ const StandardizedCard = ({
     return "/images/heroes/site/default-card.webp";
   };
   
-  const imageUrl = getImageUrl();
+  const imageUrl = appendVersion(getImageUrl());
   const location = vicinity || borough || area;
   
   // Get blur and dominant color for the image (with error handling for JS)

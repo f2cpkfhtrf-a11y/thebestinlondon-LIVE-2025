@@ -75,6 +75,29 @@ const SubTabs = ({ tabs, currentPath, className = '' }) => {
 };
 
 const RestaurantDetailTabs = ({ venue, currentPath, className = '' }) => {
+  const [activeTab, setActiveTab] = React.useState('overview');
+  
+  React.useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setActiveTab(entry.target.id);
+          }
+        });
+      },
+      { threshold: 0.5, rootMargin: '-100px 0px -50% 0px' }
+    );
+    
+    const sections = ['overview', 'menu', 'reviews', 'location', 'similar'];
+    sections.forEach(id => {
+      const element = document.getElementById(id);
+      if (element) observer.observe(element);
+    });
+    
+    return () => observer.disconnect();
+  }, []);
+
   const handleTabClick = (e, anchorId) => {
     e.preventDefault();
     const element = document.getElementById(anchorId);
@@ -99,7 +122,11 @@ const RestaurantDetailTabs = ({ venue, currentPath, className = '' }) => {
             <button
               key={tab.anchor}
               onClick={(e) => handleTabClick(e, tab.anchor)}
-              className="px-3 py-3 text-sm font-medium border-b-2 border-transparent text-warmWhite hover:text-gold hover:border-gold/50 transition-colors duration-200 whitespace-nowrap flex items-center space-x-2"
+              className={`px-3 py-3 text-sm font-medium border-b-2 transition-colors duration-200 whitespace-nowrap flex items-center space-x-2 ${
+                activeTab === tab.anchor
+                  ? 'border-gold text-gold'
+                  : 'border-transparent text-warmWhite hover:text-gold hover:border-gold/50'
+              }`}
             >
               <span>{tab.icon}</span>
               <span>{tab.name}</span>

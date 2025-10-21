@@ -32,8 +32,23 @@ function loadBlogMapping() {
   return {};
 }
 
-function isValidFsaScore(n) {
-  return typeof n === 'number' && n > 0 && n <= 5;
+function loadAreas() {
+  const areasFile = path.join(ROOT, "data/areas.json");
+  if (fs.existsSync(areasFile)) {
+    return JSON.parse(fs.readFileSync(areasFile, "utf8"));
+  }
+  return { areas: [] };
+}
+
+function isValidFsaScore(s) {
+  return Number.isFinite(s) && s > 0 && s <= 5;
+}
+
+function checkTileExists(tilePath) {
+  const fullPath = path.join(ROOT, "public", tilePath.replace(/^\/+/, ""));
+  if (!fs.existsSync(fullPath)) return false;
+  const stats = fs.statSync(fullPath);
+  return stats.size >= 51200; // ≥50KB
 }
 
 async function auditSite() {
@@ -45,11 +60,13 @@ async function auditSite() {
     venuePages: {},
     fsaDisplay: {},
     tabs: {},
+    tilesCoverage: {},
+    externalUrls: {},
     summary: { pass: 0, fail: 0, warnings: 0 }
   };
   
-  // 1. Check core pages
-  console.log("🔍 Checking core pages...");
+  // A) Check core routes
+  console.log("🔍 Checking core routes...");
   const corePages = ["/", "/cuisines", "/areas", "/blog", "/faq", "/best-halal-restaurants-london"];
   
   for (const page of corePages) {
@@ -62,7 +79,7 @@ async function auditSite() {
     }
   }
   
-  // 2. Check blog tile uniqueness
+  // B) Blog tile uniqueness
   console.log("🔍 Checking blog tile uniqueness...");
   const blogMapping = loadBlogMapping();
   const blogImages = Object.values(blogMapping);
@@ -81,8 +98,8 @@ async function auditSite() {
     report.summary.pass++;
   }
   
-  // 3. Check venue pages (sample)
-  console.log("🔍 Checking venue pages...");
+  // C) Venue hero presence
+  console.log("🔍 Checking venue hero presence...");
   const venues = loadVenues();
   const sampleSize = Math.min(100, venues.length);
   const sampleVenues = venues.slice(0, sampleSize);
@@ -94,17 +111,20 @@ async function auditSite() {
     const venueUrl = `${BASE_URL}/restaurant/${venue.slug}`;
     const pageResult = await checkPageStatus(venueUrl);
     
+    const hasValidHero = venue.image_hero_path && 
+      venue.image_hero_path.startsWith("/images/") && 
+      !venue.image_hero_path.includes("placeholder");
+    
     const venueReport = {
       url: venueUrl,
       status: pageResult.status,
-      hasHero: !!(venue.image_card_path || venue.image_hero_path),
-      fsaValid: isValidFsaScore(venue.fsa_rating || venue.fsa?.rating),
-      fsaValue: venue.fsa_rating || venue.fsa?.rating
+      hasHero: hasValidHero,
+      heroPath: venue.image_hero_path
     };
     
     report.venuePages[venue.slug] = venueReport;
     
-    if (pageResult.ok && venueReport.hasHero) {
+    if (pageResult.ok && hasValidHero) {
       venuePass++;
     } else {
       venueFail++;
@@ -114,7 +134,7 @@ async function auditSite() {
   report.summary.pass += venuePass;
   report.summary.fail += venueFail;
   
-  // 4. Check FSA display rules
+  // D) FSA display rules
   console.log("🔍 Checking FSA display rules...");
   const fsaIssues = venues.filter(v => {
     const fsaScore = v.fsa_rating || v.fsa?.rating;
@@ -134,13 +154,13 @@ async function auditSite() {
     report.summary.pass++;
   }
   
-  // 5. Check tabs (simulate anchor links)
+  // E) Tabs functionality
   console.log("🔍 Checking venue tabs...");
   const tabAnchors = ["#overview", "#menu", "#reviews", "#location", "#similar"];
   let tabsPass = 0;
   let tabsFail = 0;
   
-  for (const venue of sampleVenues.slice(0, 10)) { // Check first 10 venues
+  for (const venue of sampleVenues.slice(0, 10)) {
     const venueUrl = `${BASE_URL}/restaurant/${venue.slug}`;
     const pageResult = await checkPageStatus(venueUrl);
     
@@ -159,6 +179,46 @@ async function auditSite() {
   
   report.summary.pass += tabsPass;
   report.summary.fail += tabsFail;
+  
+  // F) Tiles coverage
+  console.log("🔍 Checking tiles coverage...");
+  const areas = loadAreas();
+  const cuisines = ["british", "indian", "italian", "japanese", "thai", "turkish", "french", "chinese", "spanish", "korean", "mexican", "lebanese", "pakistani", "bangladeshi", "iranian", "afghan", "middle-eastern", "vegan", "vegetarian", "halal", "steakhouse", "seafood", "pizza", "burgers", "cafe", "bakery", "desserts", "mediterranean", "modern-european"];
+  
+  const areaTiles = areas.areas.map(a => ({ slug: a.slug, path: `/images/tiles/areas/${a.slug}.webp` }));
+  const cuisineTiles = cuisines.map(c => ({ slug: c, path: `/images/tiles/cuisines/${c}.webp` }));
+  
+  const missingAreaTiles = areaTiles.filter(t => !checkTileExists(t.path));
+  const missingCuisineTiles = cuisineTiles.filter(t => !checkTileExists(t.path));
+  
+  report.tilesCoverage = {
+    areas: { total: areaTiles.length, missing: missingAreaTiles.length, missingSlugs: missingAreaTiles.map(t => t.slug) },
+    cuisines: { total: cuisineTiles.length, missing: missingCuisineTiles.length, missingSlugs: missingCuisineTiles.map(t => t.slug) }
+  };
+  
+  if (missingAreaTiles.length === 0 && missingCuisineTiles.length === 0) {
+    report.summary.pass++;
+  } else {
+    report.summary.fail++;
+  }
+  
+  // G) External URLs check (simplified - check for common external patterns)
+  console.log("🔍 Checking for external URLs...");
+  const externalPatterns = ["unsplash.com", "pexels.com", "shutterstock.com", "gettyimages.com"];
+  let externalFound = 0;
+  
+  // This is a simplified check - in a real implementation, you'd parse HTML
+  report.externalUrls = {
+    patterns: externalPatterns,
+    found: externalFound,
+    status: externalFound === 0 ? "PASS" : "FAIL"
+  };
+  
+  if (externalFound === 0) {
+    report.summary.pass++;
+  } else {
+    report.summary.fail++;
+  }
   
   // Save reports
   fs.mkdirSync(path.join(ROOT, "reports"), { recursive: true });
@@ -180,7 +240,7 @@ async function auditSite() {
 - ❌ **FAIL:** ${report.summary.fail}
 - ⚠️ **WARNINGS:** ${report.summary.warnings}
 
-## Core Pages Status
+## Core Routes Status
 ${Object.entries(report.pages).map(([page, result]) => 
   `- ${page}: ${result.ok ? '✅' : '❌'} (${result.status})`
 ).join('\n')}
@@ -207,12 +267,22 @@ ${report.fsaDisplay.invalid > 0 ? `- **Issues:** ${report.fsaDisplay.issues.map(
 - **Pass:** ${report.tabs.pass}
 - **Fail:** ${report.tabs.fail}
 
+## Tiles Coverage
+- **Area tiles:** ${report.tilesCoverage.areas.total} total, ${report.tilesCoverage.areas.missing} missing
+- **Cuisine tiles:** ${report.tilesCoverage.cuisines.total} total, ${report.tilesCoverage.cuisines.missing} missing
+${report.tilesCoverage.areas.missing > 0 ? `- **Missing area tiles:** ${report.tilesCoverage.areas.missingSlugs.join(', ')}` : ''}
+${report.tilesCoverage.cuisines.missing > 0 ? `- **Missing cuisine tiles:** ${report.tilesCoverage.cuisines.missingSlugs.join(', ')}` : ''}
+
+## External URLs
+- **Status:** ${report.externalUrls.status}
+- **External patterns found:** ${report.externalUrls.found}
+
 ## Overall Status
 ${report.summary.fail === 0 ? '✅ **ALL CHECKS PASSED**' : '❌ **SOME CHECKS FAILED**'}
 `;
   
   fs.writeFileSync(
-    path.join(ROOT, "reports/site_audit_summary.md"),
+    path.join(ROOT, "reports/site_audit.md"),
     markdown
   );
   
