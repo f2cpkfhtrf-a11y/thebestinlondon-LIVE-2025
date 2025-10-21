@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-10-21T16:57:57.427Z",
+  "images": {
+    "total": 1832,
+    "webp": 1749,
+    "validSize": 1625,
+    "solidColor": 0,
+    "byFolder": {
+      "images": 1832
+    },
+    "totalSize": 559736467
+  },
+  "tiles": {
+    "areas": {
+      "expected": 18,
+      "present": 18,
+      "missing": []
+    },
+    "cuisines": {
+      "expected": 29,
+      "present": 29,
+      "missing": []
+    },
+    "stations": {
+      "expected": 10,
+      "present": 5,
+      "missing": [
+        "victoria",
+        "paddington",
+        "euston",
+        "bank",
+        "canary-wharf"
+      ]
+    }
+  },
+  "blogTiles": {
+    "total": 28,
+    "unique": 28,
+    "duplicates": 0,
+    "duplicateImages": []
+  },
+  "issues": [],
+  "summary": {
+    "totalImages": 1832,
+    "totalSizeMB": 534,
+    "webpPercentage": 95,
+    "validSizePercentage": 89,
+    "tileCoverage": {
+      "areas": 100,
+      "cuisines": 100,
+      "stations": 50
+    },
+    "blogTileDuplicates": 0,
+    "issuesFound": 331
+  }
+}

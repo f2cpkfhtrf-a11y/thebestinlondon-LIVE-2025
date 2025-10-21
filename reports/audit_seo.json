@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-10-21T16:57:59.408Z",
+  "pages": {
+    "pages/index.js": {
+      "type": "home",
+      "seo": {
+        "title": "The Best in London | Premium Dining Guide",
+        "description": "Discover London",
+        "canonical": "https://www.thebestinlondon.co.uk",
+        "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp",
+        "twitterImage": "https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp",
+        "jsonLd": []
+      },
+      "issues": [
+        "Missing JSON-LD type: WebSite"
+      ]
+    },
+    "pages/restaurants.js": {
+      "type": "list",
+      "seo": {
+        "title": "Best Restaurants in London | The Best in London",
+        "description": "Discover the finest restaurants across London. From Michelin-starred dining to hidden gems, find your perfect meal in the capital.",
+        "canonical": null,
+        "ogImage": "https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp",
+        "twitterImage": "https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp",
+        "jsonLd": []
+      },
+      "issues": [
+        "Missing canonical URL",
+        "Missing JSON-LD type: CollectionPage",
+        "Missing JSON-LD type: ItemList"
+      ]
+    },
+    "pages/cuisines.js": {
+      "type": "list",
+      "seo": {
+        "title": "Cuisines | The Best in London",
+        "description": null,
+        "canonical": "https://www.thebestinlondon.co.uk/cuisines",
+        "ogImage": null,
+        "twitterImage": null,
+        "jsonLd": []
+      },
+      "issues": [
+        "Missing meta description",
+        "Missing og:image",
+        "Missing twitter:image",
+        "Missing JSON-LD type: CollectionPage",
+        "Missing JSON-LD type: ItemList"
+      ]
+    },
+    "pages/areas.js": {
+      "type": "list",
+      "seo": {
+        "title": "Restaurant Areas in London | {areas.length}+ Areas Covered | The Best in London",
+        "description": null,
+        "canonical": "https://www.thebestinlondon.co.uk/areas",
+        "ogImage": null,
+        "twitterImage": null,
+        "jsonLd": []
+      },
+      "issues": [
+        "Missing meta description",
+        "Missing og:image",
+        "Missing twitter:image",
+        "Missing JSON-LD type: CollectionPage",
+        "Missing JSON-LD type: ItemList"
+      ]
+    },
+    "pages/restaurant/[slug].js": {
+      "type": "venue",
+      "seo": {
+        "title": "{generateSEOTitle('restaurant', venue)}",
+        "description": null,
+        "canonical": null,
+        "ogImage": null,
+        "twitterImage": null,
+        "jsonLd": []
+      },
+      "issues": [
+        "Missing meta description",
+        "Missing canonical URL",
+        "Missing og:image",
+        "Missing twitter:image",
+        "Missing JSON-LD type: Restaurant"
+      ]
+    },
+    "pages/blog/[slug].js": {
+      "type": "blog_post",
+      "seo": {
+        "title": "{blog.seo.title}",
+        "description": null,
+        "canonical": null,
+        "ogImage": null,
+        "twitterImage": null,
+        "jsonLd": []
+      },
+      "issues": [
+        "Missing meta description",
+        "Missing canonical URL",
+        "Missing og:image",
+        "Missing twitter:image",
+        "Missing JSON-LD type: BlogPosting"
+      ]
+    },
+    "pages/faq/[slug].js": {
+      "type": "faq_item",
+      "seo": {
+        "title": "{faq.seo.title}",
+        "description": null,
+        "canonical": null,
+        "ogImage": null,
+        "twitterImage": null,
+        "jsonLd": []
+      },
+      "issues": [
+        "Missing meta description",
+        "Missing canonical URL",
+        "Missing og:image",
+        "Missing twitter:image",
+        "Missing JSON-LD type: FAQPage"
+      ]
+    }
+  },
+  "issues": [
+    "Missing page: pages/blog/index.js",
+    "Missing page: pages/faq/index.js"
+  ],
+  "summary": {
+    "pagesAnalyzed": 7,
+    "totalIssues": 31,
+    "pagesWithIssues": 7
+  }
+}
