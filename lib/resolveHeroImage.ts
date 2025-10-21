@@ -1,4 +1,5 @@
 import { assertLocalImage } from './assertLocalImage';
+import { appendVersion } from './resolveAssets';
 
 const ASSET_VERSION = process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1';
 function appendVersionQuery(src: string): string {
@@ -64,8 +65,7 @@ export function resolveTileImage(opts: { type: "cuisine"|"area"|"station"; slug:
   // Last resort (still local)
   const finalPath = candidate || DEFAULTS.site;
   assertLocalImage(finalPath);
-  const cacheBust = `?v=${Date.now()}`;
-  return finalPath + cacheBust;
+  return appendVersion(finalPath);
 }
 
 // --- Venue hero: prefer venue hero > first gallery > cuisine tile > area tile > site default
@@ -76,13 +76,13 @@ export function resolveVenueHero(opts: {
   
   if (v.hero) {
     assertLocalImage(v.hero);
-    return appendVersionQuery(v.hero);
+    return appendVersion(v.hero);
   }
   
   if (Array.isArray(v.images) && v.images.length) {
     const imageUrl = v.images[0]!;
     assertLocalImage(imageUrl);
-    return appendVersionQuery(imageUrl);
+    return appendVersion(imageUrl);
   }
   
   if (v.cuisine) return resolveTileImage({ type: "cuisine", slug: v.cuisine });
@@ -90,7 +90,7 @@ export function resolveVenueHero(opts: {
   
   const defaultPath = DEFAULTS.site;
   assertLocalImage(defaultPath);
-  return appendVersionQuery(defaultPath);
+  return appendVersion(defaultPath);
 }
 
 export function resolveHeroImage(ctx: {

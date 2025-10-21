@@ -1,6 +1,6 @@
-export const isValidFsaScore = (n?: number): boolean => {
-  return typeof n === 'number' && n > 0 && n <= 5;
-};
+export function isValidFsaScore(s?: number): boolean {
+  return Number.isFinite(s) && s! > 0 && s! <= 5;
+}
 
 export const getFsaDisplayValue = (fsaScore?: number): string | null => {
   if (!isValidFsaScore(fsaScore)) return null;

@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-10-21T15:39:24.911Z",
+  "baseUrl": "http://localhost:3000",
+  "tiles": [
+    {
+      "url": "http://localhost:3000/images/tiles/cuisines/british.webp",
+      "status": 0,
+      "contentType": null,
+      "contentLength": 0,
+      "ok": false
+    },
+    {
+      "url": "http://localhost:3000/images/tiles/cuisines/indian.webp",
+      "status": 0,
+      "contentType": null,
+      "contentLength": 0,
+      "ok": false
+    },
+    {
+      "url": "http://localhost:3000/images/tiles/areas/central-london.webp",
+      "status": 0,
+      "contentType": null,
+      "contentLength": 0,
+      "ok": false
+    },
+    {
+      "url": "http://localhost:3000/images/tiles/areas/tower-hamlets.webp",
+      "status": 0,
+      "contentType": null,
+      "contentLength": 0,
+      "ok": false
+    },
+    {
+      "url": "http://localhost:3000/images/blog/tiles/best-british-restaurants-in-london.webp",
+      "status": 0,
+      "contentType": null,
+      "contentLength": 0,
+      "ok": false
+    }
+  ],
+  "heroes": [
+    {
+      "url": "http://localhost:3000/images/heroes/site-default.webp",
+      "status": 0,
+      "contentType": null,
+      "contentLength": 0,
+      "ok": false
+    },
+    {
+      "url": "http://localhost:3000/images/heroes/faq.webp",
+      "status": 0,
+      "contentType": null,
+      "contentLength": 0,
+      "ok": false
+    }
+  ],
+  "summary": {
+    "total": 7,
+    "pass": 0,
+    "fail": 7
+  }
+}
