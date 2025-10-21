@@ -1,11 +1,5 @@
 import { assertLocalImage } from './assertLocalImage';
-import { appendVersion } from './resolveAssets';
-
-const ASSET_VERSION = process.env.NEXT_PUBLIC_ASSET_VERSION || 'v1';
-function appendVersionQuery(src: string): string {
-  if (!src || typeof src !== 'string') return src;
-  return src.includes('?') ? src + '&v=' + ASSET_VERSION : src + '?v=' + ASSET_VERSION;
-}
+import { withVersion } from './resolveAssets';
 
 import areaImageMap from '../data/areaImageMap';
 import cuisineImageMap from '../data/cuisineImageMap';
@@ -65,7 +59,7 @@ export function resolveTileImage(opts: { type: "cuisine"|"area"|"station"; slug:
   // Last resort (still local)
   const finalPath = candidate || DEFAULTS.site;
   assertLocalImage(finalPath);
-  return appendVersion(finalPath);
+  return withVersion(finalPath);
 }
 
 // --- Venue hero: prefer venue hero > first gallery > cuisine tile > area tile > site default
@@ -76,13 +70,13 @@ export function resolveVenueHero(opts: {
   
   if (v.hero) {
     assertLocalImage(v.hero);
-    return appendVersion(v.hero);
+    return withVersion(v.hero);
   }
   
   if (Array.isArray(v.images) && v.images.length) {
     const imageUrl = v.images[0]!;
     assertLocalImage(imageUrl);
-    return appendVersion(imageUrl);
+    return withVersion(imageUrl);
   }
   
   if (v.cuisine) return resolveTileImage({ type: "cuisine", slug: v.cuisine });
@@ -90,7 +84,7 @@ export function resolveVenueHero(opts: {
   
   const defaultPath = DEFAULTS.site;
   assertLocalImage(defaultPath);
-  return appendVersion(defaultPath);
+  return withVersion(defaultPath);
 }
 
 export function resolveHeroImage(ctx: {
@@ -225,7 +219,7 @@ export function resolveHeroImage(ctx: {
   const srcLg = basePath.includes('-hero') ? imageSrc.replace('-hero.webp', '-hero-xl.webp') : imageSrc;
 
   const result: { src: string; alt: string; srcMd?: string; srcLg?: string } = {
-    src: appendVersionQuery(imageSrc),
+    src: withVersion(imageSrc),
     alt: `Hero image for ${ctx.cuisineSlug || ctx.areaSlug || ctx.venue?.name || "The Best in London"}`,
   };
 
@@ -271,7 +265,7 @@ export async function resolveCardImage(opts: {
     if (venue.image_card_path && !venue.image_card_path.includes('placeholder')) {
       const cardPath = venue.image_card_path.replace('/public', '');
       assertLocalImage(cardPath);
-      return appendVersionQuery(cardPath);
+      return withVersion(cardPath);
     }
     
     // Secondary: Try venue-specific card
@@ -279,7 +273,7 @@ export async function resolveCardImage(opts: {
     if (venueSlug) {
       const venueCardPath = `/images/restaurants/${venueSlug}/${venueSlug}-card.webp`;
       assertLocalImage(venueCardPath);
-      return appendVersionQuery(venueCardPath);
+      return withVersion(venueCardPath);
     }
     
     // Tertiary: Try cuisine-based card/hero fallback
@@ -288,7 +282,7 @@ export async function resolveCardImage(opts: {
       const cuisineCardPath = `/images/cuisines/${cuisineSlug}-card.webp`;
       // Note: We don't check existence client-side, but this will fallback gracefully
       assertLocalImage(cuisineCardPath);
-      return cuisineCardPath;
+      return withVersion(cuisineCardPath);
     }
     
     // Quaternary: Try area-based fallback
@@ -297,14 +291,14 @@ export async function resolveCardImage(opts: {
       const areaSlug = areaName.toLowerCase().replace(/[^a-z0-9]/g, '-');
       const areaCardPath = `/images/areas/${areaSlug}-card.webp`;
       assertLocalImage(areaCardPath);
-      return areaCardPath;
+      return withVersion(areaCardPath);
     }
   }
   
   // Final fallbacks
   const defaultCardPath = "/images/heroes/site/default-card.webp";
   assertLocalImage(defaultCardPath);
-  return appendVersionQuery(defaultCardPath);
+  return withVersion(defaultCardPath);
 }
 
 // Synchronous version of resolveCardImage for use in components
@@ -314,14 +308,14 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   if (!venue) {
     const defaultCardPath = "/images/heroes/site/default-card.webp";
     assertLocalImage(defaultCardPath);
-    return defaultCardPath;
+    return withVersion(defaultCardPath);
   }
   
   // Primary: Use provided venue card path if available
   if (venue.image_card_path && !venue.image_card_path.includes('placeholder')) {
     const cardPath = venue.image_card_path.replace('/public', '');
     assertLocalImage(cardPath);
-    return cardPath;
+    return withVersion(cardPath);
   }
   
   // Secondary: Try venue-specific card
@@ -329,7 +323,7 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   if (venueSlug) {
     const venueCardPath = `/images/restaurants/${venueSlug}/${venueSlug}-card.webp`;
     assertLocalImage(venueCardPath);
-    return venueCardPath;
+    return withVersion(venueCardPath);
   }
   
   // Tertiary: Try cuisine-based fallback using new tile resolver
@@ -348,20 +342,20 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
   // Final fallback
   const defaultCardPath = "/images/heroes/site/default-card.webp";
   assertLocalImage(defaultCardPath);
-  return defaultCardPath;
+  return withVersion(defaultCardPath);
 }
 
 // Helper functions for area and cuisine images
 export function resolveAreaImage(areaSlug: string): string {
   const path = areaImageMap[areaSlug] || "/images/heroes/site/default-area.webp";
   assertLocalImage(path);
-  return appendVersionQuery(path);
+  return withVersion(path);
 }
 
 export function resolveCuisineImage(cuisineSlug: string): string {
   const path = cuisineImageMap[cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
   assertLocalImage(path);
-  return appendVersionQuery(path);
+  return withVersion(path);
 }
 
 export function resolveAreaHero(slug: string): string {
@@ -375,5 +369,5 @@ export function resolveAreaHero(slug: string): string {
   // but this provides the proper fallback chain
   const path = areaImageMap[slug] || areaHero || areaCard || cuisineDefault || siteDefault;
   assertLocalImage(path);
-  return path;
+  return withVersion(path);
 }
