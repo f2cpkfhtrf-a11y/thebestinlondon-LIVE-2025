@@ -59,6 +59,8 @@
     "qa:verify": "node scripts/qa/verifyCompleteness.mjs",
     "assets:bump": "node scripts/release/bumpAssetVersion.mjs",
     "deploy:promote": "node scripts/release/vercelPromoteAndProbe.mjs",
+    "about:enrich": "node scripts/enrichAbout.mjs",
+    "about:verify": "node scripts/verifyAbout.mjs",
     "run:overnight": "npm run venues:seed && npm run venues:pakaf && npm run images:grade && npm run images:curate && npm run images:grade && npm run data:enrich && npm run content:witty && npm run qa:verify && npm run assets:bump && npm run build && npm run deploy:promote",
     "postbuild": "echo 'Post-build completed'"
   },

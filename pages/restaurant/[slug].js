@@ -2,6 +2,7 @@ import { useState } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+import dynamic from 'next/dynamic';
 import { theme } from '../../utils/theme';
 import { generateSEOTitle, generateSEODescription, generateStructuredData, generateBreadcrumbData } from '../../utils/seoOptimization';
 import FSABadge from '../../components/FSABadge';
@@ -11,6 +12,7 @@ import PageHero from '../../components/PageHero';
 import { resolveHeroImage, resolveVenueHero } from '../../lib/resolveHeroImage';
 import ImageWithFallback from '../../components/ImageWithFallback';
 import { isHalalVenue } from '../../utils/halalStations';
+const AboutSection = dynamic(() => import('../../components/venue/AboutSection'), { ssr: true });
 
 export async function getStaticPaths() {
   const fs = require('fs');
@@ -98,6 +100,7 @@ export default function VenueDetailPage({ venue }) {
     "@type": "Restaurant",
     "name": venue.name,
     "image": venue.image_hero_path?.replace('/public', '') ? `https://www.thebestinlondon.co.uk${venue.image_hero_path.replace('/public', '')}` : `https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp`,
+    "description": (venue?.about?.text && venue.about.text.length > 60) ? venue.about.text : undefined,
     "address": venue.address ? {
       "@type": "PostalAddress",
       "streetAddress": venue.address.formatted,
@@ -126,7 +129,7 @@ export default function VenueDetailPage({ venue }) {
     <>
       <Head>
         <title>{generateSEOTitle('restaurant', venue)}</title>
-        <meta name="description" content={generateSEODescription('restaurant', venue)} />
+        <meta name="description" content={venue?.about?.text?.slice(0,155) || generateSEODescription('restaurant', venue)} />
         <link rel="canonical" href={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
         
         {/* Open Graph Tags */}
@@ -322,8 +325,8 @@ export default function VenueDetailPage({ venue }) {
                 </div>
               </div>
 
-              {/* Description */}
-              {venue.description && (
+              {/* About Section */}
+              {(venue?.about?.text || venue.description) && (
                 <div style={{ 
                   background: '#1A1A1A', 
                   padding: '32px', 
@@ -338,7 +341,7 @@ export default function VenueDetailPage({ venue }) {
                     color: '#9AA0A6',
                     margin: 0 
                   }}>
-                    {venue.description}
+                    {venue?.about?.text || venue.description}
                   </p>
                 </div>
               )}
