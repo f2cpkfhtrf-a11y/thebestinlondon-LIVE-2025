@@ -56,3 +56,5 @@ upload_*.py
 upload_*.sh
 *.bak
 *.bak2
+backups/*.zip
+backups/*.tar.gz
