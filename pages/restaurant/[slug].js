@@ -73,14 +73,17 @@ export default function VenueDetailPage({ venue }) {
     </div>;
   }
   
-  // Get hero image for venue detail page using the new venue hero resolver
-  const heroImageSrc = resolveVenueHero({ 
-    venue: {
-      ...venue,
-      cuisine: venue.cuisines?.[0]?.toLowerCase().replace(/[^a-z0-9]/g, '-'),
-      areaSlug: (venue.area || venue.borough)?.toLowerCase().replace(/[^a-z0-9]/g, '-')
-    }
-  });
+  // Get hero image for venue detail page - prefer card image for hero
+  const { resolveCardImageSync } = require('../../lib/resolveHeroImage');
+  const heroImageSrc = venue.image_card_path ? 
+    venue.image_card_path.replace('/public', '') + (venue.image_card_path.includes('?') ? '&' : '?') + 'v=' + (process.env.NEXT_PUBLIC_ASSET_VERSION || Date.now()) :
+    resolveVenueHero({ 
+      venue: {
+        ...venue,
+        cuisine: venue.cuisines?.[0]?.toLowerCase().replace(/[^a-z0-9]/g, '-'),
+        areaSlug: (venue.area || venue.borough)?.toLowerCase().replace(/[^a-z0-9]/g, '-')
+      }
+    });
   
   const hero = {
     src: heroImageSrc,

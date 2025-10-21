@@ -59,8 +59,8 @@ export default function Footer() {
               <li><Link href="/restaurants" className="text-grey hover:text-gold transition-colors duration-300 text-sm">All Restaurants</Link></li>
               <li><Link href="/best-halal-restaurants-london" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Halal Restaurants</Link></li>
               <li><Link href="/vegan-restaurants-london" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Vegan Options</Link></li>
-              <li><Link href="/restaurants-soho" className="text-grey hover:text-gold transition-colors duration-300 text-sm">By Area</Link></li>
-              <li><Link href="/indian-restaurants-london" className="text-grey hover:text-gold transition-colors duration-300 text-sm">By Cuisine</Link></li>
+              <li><Link href="/blog" className="text-grey hover:text-gold transition-colors duration-300 text-sm">Blog</Link></li>
+              <li><Link href="/faq" className="text-grey hover:text-gold transition-colors duration-300 text-sm">FAQ</Link></li>
             </ul>
           </div>
 
