@@ -72,15 +72,15 @@ export function resolveVenueCard(venue: any): { src: string; reason: string } {
   const primaryCuisine = getPrimaryCuisine(venue);
   const normalizedArea = getNormalizedArea(venue);
 
-  // Build fallback chain - PRIORITIZE REAL RESTAURANT IMAGES
+  // Build fallback chain - PRIORITIZE VENUE DATA PATHS (they have the real images)
   const paths = [
-    // FIRST: Try actual restaurant-specific images (these exist and are unique)
-    `/images/restaurants/${slug}/hero.webp`,
-    `/images/restaurants/${slug}/card.webp`,
-    
-    // SECOND: Use venue data paths ONLY if they're NOT cuisine tiles
+    // FIRST: Use venue data paths (these have the correct, unique images)
     ...(venue.image_card_path && !venue.image_card_path.includes('/tiles/cuisines/') ? [venue.image_card_path] : []),
     ...(venue.image_hero_path && !venue.image_hero_path.includes('/tiles/cuisines/') ? [venue.image_hero_path] : []),
+    
+    // SECOND: Try actual restaurant-specific images (but these might be placeholders)
+    `/images/restaurants/${slug}/hero.webp`,
+    `/images/restaurants/${slug}/card.webp`,
     
     // THIRD: Local photos array
     ...(venue.photos_local || []),
@@ -152,15 +152,15 @@ export function resolveVenueHero(venue: any): { src: string; reason: string } {
   const primaryCuisine = getPrimaryCuisine(venue);
   const normalizedArea = getNormalizedArea(venue);
 
-  // Build fallback chain - PRIORITIZE REAL RESTAURANT IMAGES
+  // Build fallback chain - PRIORITIZE VENUE DATA PATHS (they have the real images)
   const paths = [
-    // FIRST: Try actual restaurant-specific images (these exist and are unique)
-    `/images/restaurants/${slug}/hero.webp`,
-    `/images/restaurants/${slug}/card.webp`,
-    
-    // SECOND: Use venue data paths ONLY if they're NOT cuisine tiles
+    // FIRST: Use venue data paths (these have the correct, unique images)
     ...(venue.image_hero_path && !venue.image_hero_path.includes('/tiles/cuisines/') ? [venue.image_hero_path] : []),
     ...(venue.image_card_path && !venue.image_card_path.includes('/tiles/cuisines/') ? [venue.image_card_path] : []),
+    
+    // SECOND: Try actual restaurant-specific images (but these might be placeholders)
+    `/images/restaurants/${slug}/hero.webp`,
+    `/images/restaurants/${slug}/card.webp`,
     
     // THIRD: Local photos array
     ...(venue.photos_local || []),
