@@ -11,8 +11,7 @@ import { TabContainer } from '../../components/HeroTabs';
 import PageHero from '../../components/PageHero';
 import { resolveHeroImage, resolveVenueHero } from '../../lib/resolveHeroImage';
 import ImageWithFallback from '../../components/ImageWithFallback';
-import { isHalalVenue } from '../../utils/halalStations';
-const AboutSection = dynamic(() => import('../../components/venue/AboutSection'), { ssr: true });
+import { isValidFsaScore, getFsaDisplayValue } from '../../lib/fsa';
 
 export async function getStaticPaths() {
   const fs = require('fs');
@@ -208,7 +207,7 @@ export default function VenueDetailPage({ venue }) {
               stats={[
                 venue.rating && { label: "Rating", value: venue.rating.toFixed(1) },
                 venue.user_ratings_total && { label: "Reviews", value: venue.user_ratings_total.toLocaleString() },
-                venue.fsa_rating && { label: "FSA Rating", value: `${venue.fsa_rating}/5` }
+                isValidFsaScore(venue.fsa_rating) && { label: "FSA Rating", value: getFsaDisplayValue(venue.fsa_rating) }
               ].filter(Boolean)}
               image={hero}
               priority
@@ -216,7 +215,7 @@ export default function VenueDetailPage({ venue }) {
             />
             
             {/* FSA Badge Overlay on Hero */}
-            {venue.fsa_rating && (
+            {isValidFsaScore(venue.fsa_rating) && (
               <div className="absolute top-4 right-4 z-20">
                 <FSABadge 
                   rating={venue.fsa_rating} 
@@ -260,7 +259,7 @@ export default function VenueDetailPage({ venue }) {
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 300px), 1fr))', gap: 'clamp(24px, 5vw, 48px)' }}>
             
             {/* Left Column */}
-            <div>
+            <div id="overview">
               <div style={{ marginBottom: '32px' }}>
                 
                 {/* Dietary Tags */}
@@ -350,7 +349,7 @@ export default function VenueDetailPage({ venue }) {
               )}
 
               {/* Reviews Section */}
-              <div style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
+              <div id="reviews" style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
                 <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '24px', fontFamily: 'Playfair Display, serif' }}>What People Say</h2>
                 
                 <div style={{ display: 'grid', gap: '20px' }}>
@@ -411,7 +410,7 @@ export default function VenueDetailPage({ venue }) {
               </div>
 
               {/* Location & Contact */}
-              <div style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
+              <div id="location" style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
                 <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '24px', fontFamily: 'Playfair Display, serif' }}>Location & Contact</h2>
                 
                 <div style={{ display: 'grid', gap: '20px' }}>
@@ -456,6 +455,57 @@ export default function VenueDetailPage({ venue }) {
                   </div>
                 </div>
               )}
+
+              {/* Menu Section */}
+              <div id="menu" style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
+                <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '24px', fontFamily: 'Playfair Display, serif' }}>Menu</h2>
+                {venue.menu_url ? (
+                  <div>
+                    <p style={{ color: '#9AA0A6', marginBottom: '16px' }}>View the full menu online:</p>
+                    <a 
+                      href={venue.menu_url} 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      style={{ 
+                        display: 'inline-block', 
+                        padding: '12px 24px', 
+                        background: '#D4AF37', 
+                        color: '#000', 
+                        textDecoration: 'none', 
+                        borderRadius: '8px', 
+                        fontWeight: 600 
+                      }}
+                    >
+                      View Menu →
+                    </a>
+                  </div>
+                ) : (
+                  <p style={{ color: '#9AA0A6', fontStyle: 'italic' }}>Menu information not available.</p>
+                )}
+              </div>
+
+              {/* Similar Restaurants Section */}
+              <div id="similar" style={{ background: '#1A1A1A', padding: '32px', borderRadius: '12px', marginBottom: '32px', border: '1px solid #2A2A2A' }}>
+                <h2 style={{ fontSize: '20px', fontWeight: 600, marginBottom: '24px', fontFamily: 'Playfair Display, serif' }}>Similar Restaurants</h2>
+                <p style={{ color: '#9AA0A6', fontStyle: 'italic' }}>Discover more great restaurants in the area.</p>
+                <div style={{ marginTop: '16px' }}>
+                  <a 
+                    href={`/cuisines/${venue.cuisines?.[0]?.toLowerCase().replace(/[^a-z0-9]/g, '-')}`}
+                    style={{ 
+                      display: 'inline-block', 
+                      padding: '12px 24px', 
+                      background: 'rgba(212, 175, 55, 0.1)', 
+                      color: '#D4AF37', 
+                      textDecoration: 'none', 
+                      borderRadius: '8px', 
+                      fontWeight: 600,
+                      border: '1px solid rgba(212, 175, 55, 0.3)'
+                    }}
+                  >
+                    More {venue.cuisines?.[0]} Restaurants →
+                  </a>
+                </div>
+              </div>
 
               {/* Reviews Section */}
               {venue.reviews && venue.reviews.length > 0 && (
