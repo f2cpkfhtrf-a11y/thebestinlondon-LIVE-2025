@@ -1,0 +1,1769 @@
+{
+  "timestamp": "2025-10-21T16:57:58.095Z",
+  "internalLinks": [
+    {
+      "file": "components/BackToHome.tsx",
+      "link": "/"
+    },
+    {
+      "file": "components/CookieConsent.js",
+      "link": "/cookies"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/blog"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/faq"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/terms"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/cookies"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/terms"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/blog"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/faq"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/terms"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/cookies"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "components/Footer.js",
+      "link": "/terms"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/areas"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/near-me"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/blog"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/faq"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/about"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/contact"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/search"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/areas"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/near-me"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/blog"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/faq"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/about"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/contact"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/search"
+    },
+    {
+      "file": "components/Header.js",
+      "link": "/"
+    },
+    {
+      "file": "components/HeroSection.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/HeroSection.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/HeroSection.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/HeroSection.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/logo.svg"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/cafes"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/bars"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/cafes"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/bars"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/cafes"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/bars"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/cafes"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "/bars"
+    },
+    {
+      "file": "components/LegalFooter.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "components/LegalFooter.js",
+      "link": "/terms"
+    },
+    {
+      "file": "components/LegalFooter.js",
+      "link": "/cookies"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/areas"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/near-me"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/restaurants-soho"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/areas"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/near-me"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/restaurants-soho"
+    },
+    {
+      "file": "components/MobileNavigation.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "components/NavigationTabs.js",
+      "link": "/search"
+    },
+    {
+      "file": "components/SEOHead.js",
+      "link": "/favicon.ico"
+    },
+    {
+      "file": "components/SEOHead.js",
+      "link": "/apple-touch-icon.png"
+    },
+    {
+      "file": "components/SEOHead.js",
+      "link": "/favicon-32x32.png"
+    },
+    {
+      "file": "components/SEOHead.js",
+      "link": "/favicon-16x16.png"
+    },
+    {
+      "file": "components/home/FeaturedRestaurants.tsx",
+      "link": "/restaurants"
+    },
+    {
+      "file": "components/home/LatestBlog.tsx",
+      "link": "/blog"
+    },
+    {
+      "file": "pages/404.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/404.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/404.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/404.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/404.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/404.js",
+      "link": "/areas"
+    },
+    {
+      "file": "pages/404.js",
+      "link": "/cuisines"
+    },
+    {
+      "file": "pages/_app.js",
+      "link": "/logo.svg"
+    },
+    {
+      "file": "pages/_app.js",
+      "link": "/logo.svg"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "/logo.svg"
+    },
+    {
+      "file": "pages/about.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/about.js",
+      "link": "/contact"
+    },
+    {
+      "file": "pages/about.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/about.js",
+      "link": "/contact"
+    },
+    {
+      "file": "pages/bars.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/bars.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/bars.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/bars.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/#cuisines"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/#areas"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/best-coffee-shops-london"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/#cuisines"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/#areas"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/best-coffee-shops-london"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/best-cafes-london"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/restaurants-shoreditch"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/best-cafes-london"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "/restaurants-shoreditch"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/#cuisines"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/#areas"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/#cuisines"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/#areas"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/blog"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/blog/[slug].js",
+      "link": "/blog"
+    },
+    {
+      "file": "pages/cafes.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/cafes.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/cafes.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/cafes.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/cookies.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/cookies.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "pages/cookies.js",
+      "link": "/terms"
+    },
+    {
+      "file": "pages/cookies.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/cookies.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "pages/cookies.js",
+      "link": "/terms"
+    },
+    {
+      "file": "pages/east-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/east-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/east-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/east-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/east-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/east-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/faq/[slug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/faq/[slug].js",
+      "link": "/faq"
+    },
+    {
+      "file": "pages/faq/[slug].js",
+      "link": "/faq"
+    },
+    {
+      "file": "pages/faq/[slug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/faq/[slug].js",
+      "link": "/faq"
+    },
+    {
+      "file": "pages/guides.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/guides.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/guides.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/guides.js",
+      "link": "/restaurants-soho"
+    },
+    {
+      "file": "pages/guides.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/guides.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/guides.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/guides.js",
+      "link": "/restaurants-soho"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/halal/near-stations"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/halal/near-stations"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/halal/near-stations"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/halal/near-stations"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/halal/near-stations"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/halal/near-stations"
+    },
+    {
+      "file": "pages/halal/near-stations/[stationSlug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "/terms"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "/terms"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "/bars"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "/bars"
+    },
+    {
+      "file": "pages/restaurants-bethnal-green.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-bethnal-green.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-bethnal-green.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-bethnal-green.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-bethnal-green.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-canary-wharf.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-canary-wharf.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-canary-wharf.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-canary-wharf.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-canary-wharf.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-hackney.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-hackney.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-hackney.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-hackney.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-hackney.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-near-london-eye.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-spitalfields.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-spitalfields.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-spitalfields.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-spitalfields.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-spitalfields.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-stratford.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-stratford.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-stratford.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-stratford.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-stratford.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "/east-london"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/restaurants-soho"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/indian-restaurants-london"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/restaurants-soho"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "pages/seo-demo.js",
+      "link": "/vegan-restaurants-london"
+    },
+    {
+      "file": "pages/terms.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/terms.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "pages/terms.js",
+      "link": "/cookies"
+    },
+    {
+      "file": "pages/terms.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/terms.js",
+      "link": "/privacy"
+    },
+    {
+      "file": "pages/terms.js",
+      "link": "/cookies"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "/restaurants"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "/"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "/restaurants"
+    }
+  ],
+  "externalLinks": [
+    {
+      "file": "components/ImageCredit.js",
+      "link": "https://unsplash.com/?utm_source=thebestinlondon&utm_medium=referral"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "components/Layout.js",
+      "link": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    },
+    {
+      "file": "components/LegalFooter.js",
+      "link": "https://ratings.food.gov.uk"
+    },
+    {
+      "file": "components/SEOHead.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "components/SEOHead.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "components/SEOHead.js",
+      "link": "https://images.unsplash.com"
+    },
+    {
+      "file": "components/SEOHead.js",
+      "link": "https://maps.googleapis.com"
+    },
+    {
+      "file": "pages/404.js",
+      "link": "https://www.thebestinlondon.co.uk/404"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://maps.googleapis.com"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://res.cloudinary.com"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://fonts.gstatic.com/s/playfairdisplay/v36/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEMXxXg.woff2"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiJ-Ek-_EeA.woff2"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/_document.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/about.js",
+      "link": "https://www.thebestinlondon.co.uk/about"
+    },
+    {
+      "file": "pages/areas.js",
+      "link": "https://www.thebestinlondon.co.uk/areas"
+    },
+    {
+      "file": "pages/bars.js",
+      "link": "https://thebestinlondon.co.uk/bars"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "https://thebestinlondon.co.uk/best-cafes-london"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/best-cafes-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "https://thebestinlondon.co.uk/best-coffee-shops-london"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/best-coffee-shops-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "https://thebestinlondon.co.uk/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london-old.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/best-halal-restaurants-london.js",
+      "link": "https://www.thebestinlondon.co.uk/best-halal-restaurants-london"
+    },
+    {
+      "file": "pages/blog.js",
+      "link": "https://www.thebestinlondon.co.uk/blog"
+    },
+    {
+      "file": "pages/cafes.js",
+      "link": "https://thebestinlondon.co.uk/cafes"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "https://thebestinlondon.co.uk/chinese-restaurants-london"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/chinese-restaurants-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/contact.js",
+      "link": "https://www.thebestinlondon.co.uk/contact"
+    },
+    {
+      "file": "pages/cookies.js",
+      "link": "https://thebestinlondon.co.uk/cookies"
+    },
+    {
+      "file": "pages/cuisines.js",
+      "link": "https://www.thebestinlondon.co.uk/cuisines"
+    },
+    {
+      "file": "pages/east-london.js",
+      "link": "https://thebestinlondon.co.uk/east-london"
+    },
+    {
+      "file": "pages/faq.js",
+      "link": "https://www.thebestinlondon.co.uk/faq"
+    },
+    {
+      "file": "pages/halal/near-stations/index.js",
+      "link": "https://thebestinlondon.co.uk/halal/near-stations"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "https://thebestinlondon.co.uk/halal-restaurants-london"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/halal-restaurants-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/index.js",
+      "link": "https://www.thebestinlondon.co.uk"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "https://thebestinlondon.co.uk/indian-restaurants-london"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/indian-restaurants-london-old.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "https://thebestinlondon.co.uk/italian-restaurants-london"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/italian-restaurants-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "https://thebestinlondon.co.uk/japanese-restaurants-london"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/japanese-restaurants-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/near-me.js",
+      "link": "https://thebestinlondon.co.uk/near-me"
+    },
+    {
+      "file": "pages/near-me.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/near-me.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/near-me.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/nearby.js",
+      "link": "https://www.thebestinlondon.co.uk/nearby"
+    },
+    {
+      "file": "pages/privacy.js",
+      "link": "https://thebestinlondon.co.uk/privacy"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/restaurant/[slug].js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/restaurants-bethnal-green.js",
+      "link": "https://thebestinlondon.co.uk/restaurants-bethnal-green"
+    },
+    {
+      "file": "pages/restaurants-canary-wharf.js",
+      "link": "https://thebestinlondon.co.uk/restaurants-canary-wharf"
+    },
+    {
+      "file": "pages/restaurants-hackney.js",
+      "link": "https://thebestinlondon.co.uk/restaurants-hackney"
+    },
+    {
+      "file": "pages/restaurants-near-london-eye.js",
+      "link": "https://thebestinlondon.co.uk/restaurants-near-london-eye"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "https://thebestinlondon.co.uk/restaurants"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/restaurants-old.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/restaurants-shoreditch.js",
+      "link": "https://thebestinlondon.co.uk/restaurants-shoreditch"
+    },
+    {
+      "file": "pages/restaurants-spitalfields.js",
+      "link": "https://thebestinlondon.co.uk/restaurants-spitalfields"
+    },
+    {
+      "file": "pages/restaurants-stratford.js",
+      "link": "https://thebestinlondon.co.uk/restaurants-stratford"
+    },
+    {
+      "file": "pages/restaurants-whitechapel.js",
+      "link": "https://thebestinlondon.co.uk/restaurants-whitechapel"
+    },
+    {
+      "file": "pages/search.js",
+      "link": "https://www.thebestinlondon.co.uk/search"
+    },
+    {
+      "file": "pages/terms.js",
+      "link": "https://thebestinlondon.co.uk/terms"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "https://thebestinlondon.co.uk/thai-restaurants-london"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/thai-restaurants-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "https://thebestinlondon.co.uk/turkish-restaurants-london"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/turkish-restaurants-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "https://thebestinlondon.co.uk/vegan-restaurants-london"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/vegan-restaurants-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "https://thebestinlondon.co.uk/vegetarian-restaurants-london"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "https://fonts.googleapis.com"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "https://fonts.gstatic.com"
+    },
+    {
+      "file": "pages/vegetarian-restaurants-london.js",
+      "link": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap"
+    }
+  ],
+  "issues": [],
+  "summary": {
+    "totalInternalLinks": 338,
+    "totalExternalLinks": 101,
+    "issuesFound": 0
+  }
+}

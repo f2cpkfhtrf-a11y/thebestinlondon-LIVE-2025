@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-10-21T16:57:59.452Z",
+  "components": {
+    "cardFiles": [
+      "components/StandardizedCard.js"
+    ],
+    "heroFiles": [
+      "components/CuisineHero.js",
+      "components/HeroSection.js",
+      "components/HeroTabs.js",
+      "components/PageHero.tsx"
+    ],
+    "issues": []
+  },
+  "pages": {
+    "pageHeroUsage": [
+      "pages/404.js",
+      "pages/[cuisine].js",
+      "pages/areas/[slug].js",
+      "pages/areas.js",
+      "pages/best-halal-restaurants-london.js",
+      "pages/index.js",
+      "pages/restaurant/[slug].js",
+      "pages/restaurants.js",
+      "pages/search.js"
+    ],
+    "breadcrumbUsage": [
+      "pages/[cuisine].js",
+      "pages/best-halal-restaurants-london-old.js",
+      "pages/blog/[slug].js",
+      "pages/faq/[slug].js",
+      "pages/halal/near-stations/[stationSlug].js",
+      "pages/restaurant/[slug].js",
+      "pages/restaurants-near-london-eye.js"
+    ],
+    "tabAnchorUsage": [],
+    "fsaBadgeUsage": [
+      "pages/[cuisine].js",
+      "pages/about.js",
+      "pages/areas/[slug].js",
+      "pages/bars.js",
+      "pages/best-cafes-london.js",
+      "pages/best-coffee-shops-london.js",
+      "pages/best-halal-restaurants-london-old.js",
+      "pages/best-halal-restaurants-london.js",
+      "pages/chinese-restaurants-london.js",
+      "pages/contact.js",
+      "pages/east-london.js",
+      "pages/halal/near-stations/[stationSlug].js",
+      "pages/halal-restaurants-london.js",
+      "pages/indian-restaurants-london-old.js",
+      "pages/italian-restaurants-london.js",
+      "pages/japanese-restaurants-london.js",
+      "pages/near-me.js",
+      "pages/privacy.js",
+      "pages/restaurant/[slug].js",
+      "pages/restaurants-bethnal-green.js",
+      "pages/restaurants-canary-wharf.js",
+      "pages/restaurants-hackney.js",
+      "pages/restaurants-old.js",
+      "pages/restaurants-shoreditch.js",
+      "pages/restaurants-spitalfields.js",
+      "pages/restaurants-stratford.js",
+      "pages/restaurants-whitechapel.js",
+      "pages/thai-restaurants-london.js",
+      "pages/turkish-restaurants-london.js",
+      "pages/vegan-restaurants-london.js",
+      "pages/vegetarian-restaurants-london.js"
+    ]
+  },
+  "issues": [],
+  "summary": {
+    "pagesWithPageHero": 9,
+    "pagesWithBreadcrumbs": 7,
+    "pagesWithTabAnchors": 0,
+    "pagesWithFsaBadges": 31,
+    "componentIssues": 0,
+    "totalIssues": 0
+  }
+}

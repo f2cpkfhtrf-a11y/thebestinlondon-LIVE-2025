@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-10-21T16:58:03.312Z",
+  "fixes": [
+    {
+      "type": "image_versioning",
+      "file": "pages/about.js",
+      "description": "Image URL needs versioning"
+    },
+    {
+      "type": "fsa_validation",
+      "file": "components/BILScore.js",
+      "description": "FSA badge needs validation"
+    },
+    {
+      "type": "fsa_validation",
+      "file": "components/ComparisonTool.js",
+      "description": "FSA badge needs validation"
+    },
+    {
+      "type": "fsa_validation",
+      "file": "components/DataAttribution.js",
+      "description": "FSA badge needs validation"
+    },
+    {
+      "type": "fsa_validation",
+      "file": "components/DataSourceBadge.js",
+      "description": "FSA badge needs validation"
+    },
+    {
+      "type": "fsa_validation",
+      "file": "components/FilterBar.js",
+      "description": "FSA badge needs validation"
+    }
+  ],
+  "issues": [],
+  "summary": {
+    "totalFixes": 6,
+    "versioningFixes": 1,
+    "fsaFixes": 5,
+    "blogTileFixes": 0,
+    "tabFixes": 0,
+    "issuesFound": 0
+  }
+}
