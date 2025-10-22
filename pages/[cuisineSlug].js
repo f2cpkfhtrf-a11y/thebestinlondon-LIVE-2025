@@ -23,8 +23,8 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
   const [filteredVenues, setFilteredVenues] = useState(venues);
   const [hoveredCard, setHoveredCard] = useState(null);
   
-  const cuisineTitle = cuisineSlug.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-  const normalizedSlug = cuisineSlug.toLowerCase().replace(/[^a-z0-9]/g, '-');
+  const cuisineTitle = (cuisineSlug || '').split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  const normalizedSlug = (cuisineSlug || '').toLowerCase().replace(/[^a-z0-9]/g, '-');
   
   // Get enhanced cuisine data with hero image and intro
   const cuisineData = getCuisineData(normalizedSlug);
@@ -71,7 +71,7 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
       <Header />
       
       <main className="min-h-screen bg-black text-warmWhite">
-        <TabContainer currentPath={`/${cuisineSlug}`} pageType="list-cuisine">
+        <TabContainer currentPath={`/${cuisineSlug || ''}`} pageType="list-cuisine">
           {/* Breadcrumbs */}
           <div className="pt-20 pb-4">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -323,7 +323,7 @@ export async function getStaticProps({ params }) {
       return { notFound: true };
     }
 
-    const cuisineParam = params.cuisineSlug.replace(/-/g, ' ').toLowerCase();
+    const cuisineParam = (params.cuisineSlug || '').replace(/-/g, ' ').toLowerCase();
 
     const venues = allVenues.filter(venue => {
       if (!venue.cuisines || !Array.isArray(venue.cuisines)) return false;
