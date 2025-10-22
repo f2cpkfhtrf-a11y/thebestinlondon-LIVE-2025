@@ -153,7 +153,7 @@ export async function getStaticProps() {
   const fs = require('fs');
   const path = require('path');
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let allVenues = JSON.parse(fileContent);
     if (!Array.isArray(allVenues) && allVenues.venues) allVenues = allVenues.venues;

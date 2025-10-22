@@ -5,31 +5,55 @@ import areaImageMap from '../data/areaImageMap';
 import cuisineImageMap from '../data/cuisineImageMap';
 import { logImageFallback } from './logImageIssue';
 
-// --- New: curated tile maps (purely local paths). Do NOT reference external URLs.
+// Omar's enhanced tile system with simple fallback and cache-busting
+function getEnhancedTilePath(slug: string, type: 'cuisine' | 'area'): string {
+  // Try enhanced tile first, fallback to original
+  const enhancedPath = `/tiles_v2/${type}s/${slug}-tile.webp`;
+  const originalPath = `/images/tiles/${type}s/${slug}.webp`;
+  
+  // Use enhanced path for all available enhanced tiles
+  const enhancedTiles = [
+    // Cuisine tiles
+    'british', 'caribbean', 'chinese', 'french', 'indian', 'italian', 'japanese', 
+    'korean', 'mediterranean', 'mexican', 'modern-european', 'spanish', 'thai', 'turkish',
+    // Area tiles
+    'camden', 'central-london', 'hackney', 'havering', 'kensington-and-chelsea', 
+    'newham', 'redbridge', 'southwark', 'tower-hamlets', 'westminster', 'whitechapel'
+  ];
+  
+  if (enhancedTiles.includes(slug)) {
+    // Add cache-busting parameter to force fresh load
+    return `${enhancedPath}?v=enhanced-${Date.now()}`;
+  }
+  
+  return originalPath;
+}
+
+// --- Enhanced tile maps using Omar's workflow
 const CUISINE_TILE_MAP: Record<string, string> = {
-  // Main cuisines from cuisineData.js
-  british: "/images/tiles/cuisines/british.webp",
-  mediterranean: "/images/tiles/cuisines/mediterranean.webp",
-  "modern-european": "/images/tiles/cuisines/modern-european.webp",
-  indian: "/images/tiles/cuisines/indian.webp",
-  turkish: "/images/tiles/cuisines/turkish.webp",
-  japanese: "/images/tiles/cuisines/japanese.webp",
-  italian: "/images/tiles/cuisines/italian.webp",
-  french: "/images/tiles/cuisines/french.webp",
-  thai: "/images/tiles/cuisines/thai.webp",
-  mexican: "/images/tiles/cuisines/mexican.webp",
-  korean: "/images/tiles/cuisines/korean.webp",
-  spanish: "/images/tiles/cuisines/spanish.webp",
-  chinese: "/images/tiles/cuisines/chinese.webp",
-  caribbean: "/images/tiles/cuisines/caribbean.webp",
+  // Main cuisines with enhanced tiles from Omar's workflow
+  british: getEnhancedTilePath('british', 'cuisine'),
+  mediterranean: getEnhancedTilePath('mediterranean', 'cuisine'),
+  "modern-european": getEnhancedTilePath('modern-european', 'cuisine'),
+  indian: getEnhancedTilePath('indian', 'cuisine'),
+  turkish: getEnhancedTilePath('turkish', 'cuisine'),
+  japanese: getEnhancedTilePath('japanese', 'cuisine'),
+  italian: getEnhancedTilePath('italian', 'cuisine'),
+  french: getEnhancedTilePath('french', 'cuisine'),
+  thai: getEnhancedTilePath('thai', 'cuisine'),
+  mexican: getEnhancedTilePath('mexican', 'cuisine'),
+  korean: getEnhancedTilePath('korean', 'cuisine'),
+  spanish: getEnhancedTilePath('spanish', 'cuisine'),
+  chinese: getEnhancedTilePath('chinese', 'cuisine'),
+  caribbean: getEnhancedTilePath('caribbean', 'cuisine'),
+  
+  // Additional cuisines (fallback to original tiles)
   vietnamese: "/images/tiles/cuisines/vietnamese.webp",
   american: "/images/tiles/cuisines/american.webp",
   african: "/images/tiles/cuisines/african.webp",
   seafood: "/images/tiles/cuisines/seafood.webp",
   vegetarian: "/images/tiles/cuisines/vegetarian.webp",
   vegan: "/images/tiles/cuisines/vegan.webp",
-  
-  // Additional cuisines from venues
   afghan: "/images/tiles/cuisines/afghan.webp",
   bakery: "/images/tiles/cuisines/bakery.webp",
   bangladeshi: "/images/tiles/cuisines/bangladeshi.webp",
@@ -46,16 +70,17 @@ const CUISINE_TILE_MAP: Record<string, string> = {
 };
 
 const AREA_TILE_MAP: Record<string, string> = {
-  "central-london": "/images/tiles/areas/central-london.webp",
-  "tower-hamlets": "/images/tiles/areas/tower-hamlets.webp",
-  redbridge: "/images/tiles/areas/redbridge.webp",
-  havering: "/images/tiles/areas/havering.webp",
-  newham: "/images/tiles/areas/newham.webp",
-  camden: "/images/tiles/areas/camden.webp",
-  hackney: "/images/tiles/areas/hackney.webp",
-  southwark: "/images/tiles/areas/southwark.webp",
-  westminster: "/images/tiles/areas/westminster.webp",
-  "kensington-and-chelsea": "/images/tiles/areas/kensington-and-chelsea.webp",
+  // Areas with enhanced tiles from Omar's workflow
+  "central-london": getEnhancedTilePath('central-london', 'area'),
+  "tower-hamlets": getEnhancedTilePath('tower-hamlets', 'area'),
+  redbridge: getEnhancedTilePath('redbridge', 'area'),
+  camden: getEnhancedTilePath('camden', 'area'),
+  hackney: getEnhancedTilePath('hackney', 'area'),
+  havering: getEnhancedTilePath('havering', 'area'),
+  newham: getEnhancedTilePath('newham', 'area'),
+  southwark: getEnhancedTilePath('southwark', 'area'),
+  westminster: getEnhancedTilePath('westminster', 'area'),
+  "kensington-and-chelsea": getEnhancedTilePath('kensington-and-chelsea', 'area'),
 };
 
 const STATION_TILE_MAP: Record<string, string> = {
@@ -72,37 +97,94 @@ const DEFAULTS = {
   site: "/images/heroes/site-default.webp",
 };
 
+// Enhanced tiles are now integrated into the main CUISINE_TILE_MAP and AREA_TILE_MAP above
+
 export function resolveTileImage(opts: { type: "cuisine"|"area"|"station"; slug: string }): string {
   const slug = (opts.slug || "").toLowerCase();
   let candidate: string | undefined;
-  if (opts.type === "cuisine") candidate = CUISINE_TILE_MAP[slug] || DEFAULTS.cuisine;
-  if (opts.type === "area") candidate = AREA_TILE_MAP[slug] || DEFAULTS.area;
-  if (opts.type === "station") candidate = STATION_TILE_MAP[slug] || DEFAULTS.station;
+  
+  // Use updated tile maps with enhanced tiles integrated
+  if (opts.type === "cuisine") {
+    candidate = CUISINE_TILE_MAP[slug] || DEFAULTS.cuisine;
+  } else if (opts.type === "area") {
+    candidate = AREA_TILE_MAP[slug] || DEFAULTS.area;
+  } else if (opts.type === "station") {
+    candidate = STATION_TILE_MAP[slug] || DEFAULTS.station;
+  }
+  
+  // If no specific match found, use a fallback based on slug hash
+  if (!candidate || candidate === DEFAULTS.cuisine || candidate === DEFAULTS.area || candidate === DEFAULTS.station) {
+    // Create a deterministic fallback based on slug
+    const hash = slug.split('').reduce((a, b) => {
+      a = ((a << 5) - a) + b.charCodeAt(0);
+      return a & a;
+    }, 0);
+    const imageIndex = Math.abs(hash) % 20 + 1; // Use images 1-20
+    
+    if (opts.type === "cuisine") {
+      candidate = `/images/tiles/cuisines/cuisine-${imageIndex}.webp`;
+    } else if (opts.type === "area") {
+      candidate = `/images/tiles/areas/area-${imageIndex + 20}.webp`;
+    } else {
+      candidate = DEFAULTS.station;
+    }
+  }
+  
   // Last resort (still local)
   const finalPath = candidate || DEFAULTS.site;
   assertLocalImage(finalPath);
   return withVersion(finalPath);
 }
 
-// --- Venue hero: prefer venue hero > first gallery > cuisine tile > area tile > site default
+// --- Venue hero: prefer REAL VENUE PHOTOS > venue hero > first gallery > cuisine tile > area tile > site default
 export function resolveVenueHero(opts: {
-  venue?: { slug?: string; images?: string[]; hero?: string; cuisine?: string; areaSlug?: string };
+  venue?: { 
+    slug?: string; 
+    images?: string[]; 
+    hero?: string; 
+    cuisine?: string; 
+    areaSlug?: string;
+    image_hero_path?: string;
+    image_card_path?: string;
+    cuisines?: string[];
+    borough?: string;
+    name?: string;
+  };
 }): string {
   const v = opts.venue || {};
   
+  // Primary: Use provided venue hero path if available (REAL PHOTOS)
+  if (v.image_hero_path && !v.image_hero_path.includes('placeholder')) {
+    const imageUrl = v.image_hero_path.replace('/public', '');
+    assertLocalImage(imageUrl);
+    return withVersion(imageUrl);
+  }
+  
+  // Secondary: Try legacy hero field
   if (v.hero) {
     assertLocalImage(v.hero);
     return withVersion(v.hero);
   }
   
+  // Tertiary: Try first gallery image
   if (Array.isArray(v.images) && v.images.length) {
     const imageUrl = v.images[0]!;
     assertLocalImage(imageUrl);
     return withVersion(imageUrl);
   }
   
-  if (v.cuisine) return resolveTileImage({ type: "cuisine", slug: v.cuisine });
-  if (v.areaSlug) return resolveTileImage({ type: "area", slug: v.areaSlug });
+  // Quaternary: Try cuisine-based hero (GENERIC FALLBACK)
+  if (v.cuisines && v.cuisines[0]) {
+    return resolveTileImage({ type: "cuisine", slug: v.cuisines[0] });
+  }
+  if (v.cuisine) {
+    return resolveTileImage({ type: "cuisine", slug: v.cuisine });
+  }
+  
+  // Quinary: Try area-based hero
+  if (v.areaSlug) {
+    return resolveTileImage({ type: "area", slug: v.areaSlug });
+  }
   
   const defaultPath = DEFAULTS.site;
   assertLocalImage(defaultPath);
@@ -258,11 +340,17 @@ export function resolveHeroImage(ctx: {
 
 interface Venue {
   image_card_path?: string;
+  image_hero_path?: string;
   cuisines?: string[];
   area?: string;
   borough?: string;
   slug?: string;
   name?: string;
+  gallery_images?: Array<{
+    filename: string;
+    path: string;
+    attribution?: string;
+  }>;
 }
 
 export async function resolveCardImage(opts: { 
@@ -369,12 +457,30 @@ export function resolveCardImageSync(opts: { venue?: Venue }): string {
 
 // Helper functions for area and cuisine images
 export function resolveAreaImage(areaSlug: string): string {
+  // Try enhanced tile first
+  const enhancedPath = resolveEnhancedTile(areaSlug, 'area');
+  if (enhancedPath !== AREA_TILE_MAP[areaSlug]) {
+    // Enhanced tile exists, use it
+    assertLocalImage(enhancedPath);
+    return withVersion(enhancedPath);
+  }
+  
+  // Fallback to original logic
   const path = areaImageMap[areaSlug] || "/images/heroes/site/default-area.webp";
   assertLocalImage(path);
   return withVersion(path);
 }
 
 export function resolveCuisineImage(cuisineSlug: string): string {
+  // Try enhanced tile first
+  const enhancedPath = resolveEnhancedTile(cuisineSlug, 'cuisine');
+  if (enhancedPath !== CUISINE_TILE_MAP[cuisineSlug]) {
+    // Enhanced tile exists, use it
+    assertLocalImage(enhancedPath);
+    return withVersion(enhancedPath);
+  }
+  
+  // Fallback to original logic
   const path = cuisineImageMap[cuisineSlug] || "/images/heroes/site/default-cuisine.webp";
   assertLocalImage(path);
   return withVersion(path);

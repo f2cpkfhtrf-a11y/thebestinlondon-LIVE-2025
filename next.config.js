@@ -60,6 +60,15 @@ const nextConfig = {
         ],
       },
       {
+        source: '/tiles_v2/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+      {
         source: '/admin/:path*',
         headers: [
           {

@@ -14,13 +14,15 @@ import PageHero from '../../components/PageHero';
 import { generateAboutText } from '../../lib/content/aboutGenerator';
 import ImageWithFallback from '../../components/ImageWithFallback';
 import { isValidFsaScore, getFsaDisplayValue } from '../../lib/fsa';
+import { resolveVenueHero } from '../../lib/resolveHeroImage';
+import EnhancedImageGallery from '../../components/EnhancedImageGallery';
 
 export async function getStaticPaths() {
   const fs = require('fs');
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let venues = JSON.parse(fileContent);
     
@@ -45,7 +47,7 @@ export async function getStaticProps({ params }) {
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'public/venues.json');
+    const filePath = path.join(process.cwd(), 'data/venues.json');
     const fileContent = fs.readFileSync(filePath, 'utf8');
     let venues = JSON.parse(fileContent);
     
@@ -79,8 +81,8 @@ export default function VenueDetailPage({ venue }) {
             // Get hero image for venue detail page using new resolver
             const heroImageSrc = (() => {
               try {
-                const resolved = resolveVenueHero(venue);
-                return resolved.src;
+                const resolved = resolveVenueHero({ venue });
+                return resolved;
               } catch (error) {
                 console.warn(`Failed to resolve hero image for venue ${venue.slug}:`, error);
                 // Fallback to old logic if resolver fails
@@ -301,26 +303,15 @@ export default function VenueDetailPage({ venue }) {
                     </div>
                   )}
                   
-                  {/* Additional Photo Gallery */}
-                  {venue.photos && venue.photos.length > 1 && (
-                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(120px, 1fr))', gap: '8px', marginTop: '16px' }}>
-                      {venue.photos.slice(1, 5).map((photo, index) => (
-                        <img
-                          key={index}
-                          src={photo.url}
-                          alt={`${venue.name} interior ${index + 1}`}
-                          style={{
-                            width: '100%',
-                            height: '80px',
-                            objectFit: 'cover',
-                            borderRadius: '8px',
-                            cursor: 'pointer',
-                            transition: 'transform 0.2s'
-                          }}
-                          onMouseEnter={(e) => e.target.style.transform = 'scale(1.05)'}
-                          onMouseLeave={(e) => e.target.style.transform = 'scale(1)'}
-                        />
-                      ))}
+                  {/* Enhanced Photo Gallery */}
+                  {venue.gallery_images && venue.gallery_images.length > 0 && (
+                    <div className="mt-6">
+                      <h3 className="text-lg font-semibold text-gray-900 mb-4">More Photos</h3>
+                      <EnhancedImageGallery 
+                        images={venue.gallery_images} 
+                        venueName={venue.name}
+                        className="mt-4"
+                      />
                     </div>
                   )}
                 </div>

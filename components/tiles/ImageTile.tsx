@@ -35,6 +35,14 @@ const ImageTile: React.FC<ImageTileProps> = ({
     setImageLoaded(true);
   };
 
+  // Preload the image to ensure it loads
+  React.useEffect(() => {
+    const img = new Image();
+    img.onload = handleImageLoad;
+    img.onerror = handleImageError;
+    img.src = src;
+  }, [src]);
+
   return (
     <Link href={href} className={`group block ${className}`}>
       <div 
@@ -47,15 +55,6 @@ const ImageTile: React.FC<ImageTileProps> = ({
           backgroundColor: '#1A1A1A' // Fallback background color
         }}
       >
-        {/* Image for loading detection and accessibility */}
-        <img
-          src={src}
-          alt={alt}
-          className="sr-only"
-          onLoad={handleImageLoad}
-          onError={handleImageError}
-        />
-        
         {/* Loading state */}
         {!imageLoaded && (
           <div className="absolute inset-0 bg-charcoal-light animate-pulse flex items-center justify-center">
