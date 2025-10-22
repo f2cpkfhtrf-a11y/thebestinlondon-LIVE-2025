@@ -186,7 +186,12 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
 
           {/* Restaurant Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filteredVenues.map((venue, index) => (
+            {filteredVenues.map((venue, index) => {
+              // DEBUG: Log venue data to see what's actually being passed
+              if (index === 0) {
+                console.log('First venue data:', venue.name, venue.user_ratings_total, venue.rating);
+              }
+              return (
               <Link key={venue.id || index} href={`/restaurant/${venue.slug}`}>
                 <article
                   className="group bg-black-light rounded-xl overflow-hidden hover:bg-black-light/80 transition-all duration-300 hover:scale-105 hover:shadow-xl"
@@ -219,8 +224,9 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
                     <div className="flex items-center space-x-2 mb-3">
                       <span className="text-gold text-lg">★</span>
                       <span className="text-warmWhite font-semibold">{venue.rating?.toFixed(1) || 'N/A'}</span>
-                      <span className="text-grey text-sm">({venue.user_ratings_total || 0} reviews) {/* DEBUG: {JSON.stringify(venue.user_ratings_total)} */}</span>
-                        </div>
+                      <span className="text-grey text-sm">({venue.user_ratings_total || 0} reviews)</span>
+                      {/* DEBUG: {console.log('Venue data:', venue.name, venue.user_ratings_total)} */}
+                    </div>
 
                     <div className="text-grey text-sm mb-3">
                       {venue.borough && <span>{venue.borough}</span>}

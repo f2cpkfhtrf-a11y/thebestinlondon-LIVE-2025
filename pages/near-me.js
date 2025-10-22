@@ -172,12 +172,12 @@ export default function NearMePage({ venues }) {
               let distance = null;
               let walkingTime = null;
               
-              if (userLocation && venue.latitude && venue.longitude) {
+              if (userLocation && venue.lat && venue.lng) {
                 distance = calculateDistance(
                   userLocation.lat,
                   userLocation.lng,
-                  venue.latitude,
-                  venue.longitude
+                  venue.lat,
+                  venue.lng
                 );
                 walkingTime = getWalkingTime(distance);
               }

@@ -104,3 +104,5 @@ export function getRelatedBlogPosts(topic: string, limit: number = 3): any[] {
   return relevantPosts.slice(0, limit);
 }
 
+
+
