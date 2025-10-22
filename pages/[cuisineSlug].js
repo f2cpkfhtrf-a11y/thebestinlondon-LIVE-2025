@@ -245,8 +245,9 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
                     </div>
                   </div>
                 </article>
-                  </Link>
-                ))}
+                </Link>
+              );
+            })}
           </div>
 
           {/* Empty State */}
