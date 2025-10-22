@@ -298,7 +298,7 @@ export async function getStaticProps() {
 
     // Filter venues that have location data
     const venuesWithLocation = venues.filter(venue => 
-      venue.latitude && venue.longitude
+      venue.lat && venue.lng
     );
 
     return {
