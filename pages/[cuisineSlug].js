@@ -192,7 +192,7 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
                 console.log('First venue data:', venue.name, venue.user_ratings_total, venue.rating);
               }
               return (
-              <Link key={venue.id || index} href={`/restaurant/${venue.slug}`}>
+                <Link key={venue.id || index} href={`/restaurant/${venue.slug}`}>
                 <article
                   className="group bg-black-light rounded-xl overflow-hidden hover:bg-black-light/80 transition-all duration-300 hover:scale-105 hover:shadow-xl"
                   onMouseEnter={() => setHoveredCard(venue.id || index)}
