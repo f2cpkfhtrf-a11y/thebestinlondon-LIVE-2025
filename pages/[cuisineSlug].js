@@ -44,13 +44,13 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
       <Head>
         <title>{cuisineTitle} Restaurants in London | The Best in London</title>
         <meta name="description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
-        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`} />
+        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/${cuisineSlug}`} />
         
         {/* Open Graph Tags */}
         <meta property="og:title" content={`${cuisineTitle} Restaurants in London | The Best in London`} />
         <meta property="og:description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
         <meta property="og:image" content={`https://www.thebestinlondon.co.uk${cuisineData.heroImage || hero.src}`} />
-        <meta property="og:url" content={`https://www.thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`} />
+        <meta property="og:url" content={`https://www.thebestinlondon.co.uk/${cuisineSlug}`} />
         <meta property="og:type" content="website" />
         
         {/* Twitter Card Tags */}
@@ -62,7 +62,7 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
         {/* JSON-LD via factory */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(asCollectionPage({
           name: `${cuisineTitle} Restaurants in London`,
-          url: `https://www.thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`,
+          url: `https://www.thebestinlondon.co.uk/${cuisineSlug}`,
           itemCount: venues?.length || 0,
           items: venues?.map(venue => ({ name: venue.name, slug: venue.slug }))
         })) }} />
@@ -144,7 +144,7 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
       <FilterBar
         venues={venues}
         onFilteredVenues={setFilteredVenues}
-        cuisine={cuisine}
+        cuisine={cuisineSlug}
         showAreaFilter={true}
         showCuisineFilter={false}
         showDietaryFilter={true}
