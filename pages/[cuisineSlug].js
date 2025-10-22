@@ -209,17 +209,17 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
                     {/* Overlay Badges */}
                     <div className="absolute top-3 right-3">
                       <BestOfLondonBadge venue={venue} size="small" showTooltip={false} showExplanation={false} />
-                          </div>
+                    </div>
                     <div className="absolute top-3 left-3">
                       <FSABadge rating={venue.fsa_rating || 5} size="small" showLabel={false} />
-                          </div>
-                      </div>
+                    </div>
+                  </div>
 
                   {/* Content */}
                   <div className="p-6">
                     <h3 className="text-xl font-serif font-bold text-warmWhite mb-2 group-hover:text-gold transition-colors duration-300">
-                          {venue.name}
-                        </h3>
+                      {venue.name}
+                    </h3>
 
                     <div className="flex items-center space-x-2 mb-3">
                       <span className="text-gold text-lg">★</span>
@@ -232,18 +232,19 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
                       {venue.borough && <span>{venue.borough}</span>}
                       {venue.cuisines && venue.cuisines.length > 0 && (
                         <span className="ml-2">• {venue.cuisines[0]}</span>
-                          )}
-                        </div>
+                      )}
+                    </div>
 
                     <div className="flex items-center justify-between">
                       <div className="text-sm text-grey">
                         {venue.price_level && '£'.repeat(venue.price_level)}
-                          </div>
+                      </div>
                       <div className="text-sm text-gold font-medium group-hover:text-gold/80 transition-colors duration-300">
                         View Details →
                       </div>
                     </div>
-                    </article>
+                  </div>
+                </article>
                   </Link>
                 ))}
           </div>
