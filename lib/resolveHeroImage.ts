@@ -4,7 +4,6 @@ import { withVersion } from './resolveAssets';
 import areaImageMap from '../data/areaImageMap';
 import cuisineImageMap from '../data/cuisineImageMap';
 import { logImageFallback } from './logImageIssue';
-import { getCuisineData } from './cuisineData'; // Import cuisineData
 
 // Omar's enhanced tile system with simple fallback and cache-busting
 function getEnhancedTilePath(slug: string, type: 'cuisine' | 'area'): string {
