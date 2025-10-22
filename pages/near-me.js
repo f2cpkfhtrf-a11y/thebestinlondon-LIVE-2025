@@ -123,7 +123,10 @@ export default function NearMePage({ venues }) {
       {/* Near Me Feature */}
       <NearMeFeature
         venues={venues}
-        onFilteredVenues={setFilteredVenues}
+        onFilteredVenues={(filteredVenues) => {
+          console.log('🔍 Parent received filtered venues:', filteredVenues.length);
+          setFilteredVenues(filteredVenues);
+        }}
       />
 
       {/* Main Content */}

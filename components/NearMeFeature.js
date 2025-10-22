@@ -70,6 +70,10 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
 
   // Calculate venues within specified distance
   const calculateNearbyVenues = (userLat, userLng) => {
+    console.log('🔍 calculateNearbyVenues called with:', userLat, userLng);
+    console.log('🔍 Total venues:', venues.length);
+    console.log('🔍 Max distance:', maxDistance);
+    
     const venuesWithDistance = venues
       .filter(venue => venue.lat && venue.lng)
       .map(venue => {
@@ -84,12 +88,18 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
       .filter(venue => venue.distance <= maxDistance)
       .sort((a, b) => a.distance - b.distance);
 
+    console.log('🔍 Venues with distance:', venuesWithDistance.length);
+    console.log('🔍 Sample venues:', venuesWithDistance.slice(0, 3));
+
     setNearbyVenues(venuesWithDistance);
     setShowNearMe(true);
     
     // Update parent component with nearby venues
     if (onFilteredVenues) {
+      console.log('🔍 Calling onFilteredVenues with:', venuesWithDistance.length, 'venues');
       onFilteredVenues(venuesWithDistance);
+    } else {
+      console.log('🔍 onFilteredVenues callback not provided');
     }
   };
 
