@@ -2,6 +2,8 @@ import { useState, useMemo } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import { theme } from '../utils/theme';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import { enhanceVenueData, sortVenues } from '../utils/venueData';
 import FSABadge from '../components/FSABadge';
 import ReviewBadges from '../components/ReviewBadges';
@@ -52,23 +54,9 @@ export default function BarsLondon({ venues }) {
         <link rel="canonical" href="https://thebestinlondon.co.uk/bars" />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary }}>
+      <div className="min-h-screen bg-black">
         
-        <nav style={{
-          position: 'sticky', top: 0, zIndex: 100,
-          background: 'rgba(17,17,17,0.95)', backdropFilter: 'blur(12px)',
-          borderBottom: `1px solid ${theme.colors.border.subtle}`, padding: '16px 0'
-        }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-              <Link href="/" style={{ textDecoration: 'none' }}>
-                <div style={{ fontFamily: theme.typography.serif, fontSize: '20px', fontWeight: 700, color: theme.colors.text.primary }}>
-                  The Best in London
-                </div>
-              </Link>
-            </div>
-          </div>
-        </nav>
+        <Header />
 
         <header style={{ padding: '80px 20px', background: `linear-gradient(135deg, ${theme.colors.bg.primary} 0%, ${theme.colors.bg.elevated} 100%)` }}>
           <div style={{ maxWidth: '1200px', margin: '0 auto' }}>

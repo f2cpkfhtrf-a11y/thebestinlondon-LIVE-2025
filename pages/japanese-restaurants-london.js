@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import { theme } from '../utils/theme';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import FSABadge from '../components/FSABadge';
 
 export default function JapaneseRestaurants({ venues }) {
@@ -41,33 +43,8 @@ export default function JapaneseRestaurants({ venues }) {
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary }}>
-        <nav style={{
-          position: 'fixed',
-          top: 0,
-          left: 0,
-          right: 0,
-          zIndex: 100,
-          background: scrolled ? 'rgba(11,11,11,0.92)' : 'transparent',
-          backdropFilter: scrolled ? 'blur(12px)' : 'none',
-          borderBottom: scrolled ? `1px solid ${theme.colors.border.subtle}` : 'none',
-          padding: '16px 0',
-          transition: `all ${theme.motion.base} ${theme.motion.ease}`,
-        }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-              <Link href="/" style={{ textDecoration: 'none' }}>
-                <div style={{ fontFamily: theme.typography.serif, fontSize: 'clamp(18px, 4vw, 24px)', fontWeight: 700, color: theme.colors.text.primary, letterSpacing: '-0.02em' }}>
-                  The Best in London
-                </div>
-              </Link>
-              <div style={{ display: 'flex', gap: 'clamp(16px, 3vw, 32px)', fontSize: '14px', fontWeight: 500 }}>
-                <Link href="/" style={{ color: theme.colors.text.secondary, textDecoration: 'none' }}>Home</Link>
-                <Link href="/restaurants" style={{ color: theme.colors.text.secondary, textDecoration: 'none' }}>Restaurants</Link>
-              </div>
-            </div>
-          </div>
-        </nav>
+      <div className="min-h-screen bg-black">
+        <Header />
 
         <section style={{
           position: 'relative',
@@ -182,11 +159,7 @@ export default function JapaneseRestaurants({ venues }) {
           </div>
         </section>
 
-        <footer style={{ background: theme.colors.bg.primary, padding: `${theme.spacing['4xl']} 0 ${theme.spacing['2xl']}`, borderTop: `1px solid ${theme.colors.border.subtle}` }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', textAlign: 'center' }}>
-            <p style={{ fontSize: '14px', color: theme.colors.text.secondary, margin: 0 }}>© 2025 The Best in London. All rights reserved.</p>
-          </div>
-        </footer>
+        <Footer />
       </div>
 
       <style jsx>{`

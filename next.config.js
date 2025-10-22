@@ -8,6 +8,46 @@ const nextConfig = {
     domains: ['thebestinlondon.co.uk', 'www.thebestinlondon.co.uk', 'lh3.googleusercontent.com', 'maps.googleapis.com'],
     formats: ['image/webp', 'image/avif'],
   },
+
+  // Redirects for duplicate routes
+  async redirects() {
+    return [
+      // Halal route consolidation
+      {
+        source: '/best-halal-restaurants-london',
+        destination: '/collections/halal',
+        permanent: true,
+      },
+      // Area route consolidation
+      {
+        source: '/restaurants-central-london',
+        destination: '/areas/central-london',
+        permanent: true,
+      },
+      {
+        source: '/restaurants-redbridge',
+        destination: '/areas/redbridge',
+        permanent: true,
+      },
+      // Old restaurant pages redirect to new structure
+      {
+        source: '/restaurants-old',
+        destination: '/restaurants',
+        permanent: true,
+      },
+      {
+        source: '/indian-restaurants-london-old',
+        destination: '/indian-restaurants-london',
+        permanent: true,
+      },
+      {
+        source: '/best-halal-restaurants-london-old',
+        destination: '/best-halal-restaurants-london',
+        permanent: true,
+      },
+    ];
+  },
+
   async headers() {
     return [
       {

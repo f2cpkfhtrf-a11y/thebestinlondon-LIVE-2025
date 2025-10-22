@@ -2,6 +2,8 @@ import { useState, useMemo } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import { theme } from '../utils/theme';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import FSABadge from '../components/FSABadge';
 
 export async function getStaticProps() {
@@ -79,19 +81,9 @@ export default function ShoreditchRestaurants({ venues, stats, lastUpdated }) {
       }) }} />
     </Head>
 
-    <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary, fontFamily: theme.typography.sans }}>
+    <div className="min-h-screen bg-black">
       
-      <nav style={{ position: 'sticky', top: 0, zIndex: 100, background: 'rgba(11,11,11,0.95)', backdropFilter: 'blur(12px)', borderBottom: `1px solid ${theme.colors.border.subtle}`, padding: '16px 0' }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-            <Link href="/" style={{ textDecoration: 'none' }}><div style={{ fontFamily: theme.typography.serif, fontSize: '20px', fontWeight: 700, color: theme.colors.text.primary }}>The Best in London</div></Link>
-            <div style={{ display: 'flex', gap: '16px', alignItems: 'center' }}>
-              <Link href="/east-london" style={{ fontSize: '14px', color: theme.colors.text.secondary, textDecoration: 'none' }}>East London</Link>
-              <Link href="/" style={{ fontSize: '14px', color: theme.colors.text.secondary, textDecoration: 'none' }}>Home</Link>
-            </div>
-          </div>
-        </div>
-      </nav>
+      <Header />
 
       <header style={{ position: 'relative', height: '50vh', minHeight: '400px', display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden', background: `linear-gradient(to bottom, rgba(11,11,11,0.4), rgba(11,11,11,0.8)), url('https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=2400&q=90')`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
         <div style={{ position: 'relative', zIndex: 2, textAlign: 'center', maxWidth: '700px', padding: '0 20px' }}>
@@ -146,12 +138,7 @@ export default function ShoreditchRestaurants({ venues, stats, lastUpdated }) {
         </div>
       </section>
 
-      <footer style={{ background: theme.colors.bg.primary, padding: `${theme.spacing['4xl']} 0`, borderTop: `1px solid ${theme.colors.border.subtle}` }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', textAlign: 'center' }}>
-          <Link href="/" style={{ fontFamily: theme.typography.serif, fontSize: '20px', fontWeight: 700, color: theme.colors.text.primary, textDecoration: 'none' }}>The Best in London</Link>
-          <p style={{ fontSize: '13px', color: theme.colors.text.secondary, marginTop: theme.spacing.lg }}>© 2025 • Last Updated: {new Date(lastUpdated).toLocaleDateString('en-GB')}</p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   </>);
 }

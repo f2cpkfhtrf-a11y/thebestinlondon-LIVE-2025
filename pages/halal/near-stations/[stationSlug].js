@@ -2,6 +2,8 @@
 import { useState } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import Header from '../../../components/Header';
+import Footer from '../../../components/Footer';
 import { theme } from '../../../utils/theme';
 import FSABadge from '../../../components/FSABadge';
 import BestOfLondonBadge from '../../../components/BestOfLondonBadge';
@@ -35,37 +37,8 @@ export default function HalalNearStation({ station, venuesByRadius }) {
         }) }} />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary }}>
-        {/* Navigation */}
-        <nav style={{
-          position: 'sticky',
-          top: 0,
-          zIndex: 50,
-          background: 'rgba(11,11,11,0.95)',
-          backdropFilter: 'blur(12px)',
-          borderBottom: `1px solid ${theme.colors.border.subtle}`,
-          padding: '16px 0'
-        }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-            <Link href="/" style={{ textDecoration: 'none' }}>
-              <span style={{ 
-                fontFamily: theme.typography.serif,
-                fontSize: '1.5rem',
-                fontWeight: 700,
-                color: theme.colors.text.primary 
-              }}>
-                The Best in London
-              </span>
-            </Link>
-            <Link href="/halal/near-stations" style={{
-              color: theme.colors.accent.gold,
-              textDecoration: 'none',
-              fontSize: '0.875rem'
-            }}>
-              ← All Stations
-            </Link>
-          </div>
-        </nav>
+      <div className="min-h-screen bg-black">
+        <Header />
 
         {/* Breadcrumbs */}
         <div style={{ maxWidth: '1200px', margin: '0 auto', padding: `${theme.spacing.md} 20px` }}>
@@ -349,6 +322,7 @@ export default function HalalNearStation({ station, venuesByRadius }) {
             © 2025 The Best in London. Curated • Verified • Updated Daily
           </p>
         </footer>
+        <Footer />
       </div>
     </>
   );

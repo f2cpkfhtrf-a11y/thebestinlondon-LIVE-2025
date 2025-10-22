@@ -2,6 +2,8 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { theme } from '../utils/theme';
 
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 export default function BestCoffeeShopsLondon() {
   return (
     <>
@@ -14,29 +16,11 @@ export default function BestCoffeeShopsLondon() {
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: theme.colors.bg.primary, color: theme.colors.text.primary, fontFamily: theme.typography.sans }}>
+      <div className="min-h-screen bg-black">
         
-        <nav style={{
-          position: 'sticky', top: 0, zIndex: 100,
-          background: 'rgba(17,17,17,0.95)', backdropFilter: 'blur(12px)',
-          borderBottom: `1px solid ${theme.colors.border.subtle}`, padding: '16px 0'
-        }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-            <Link href="/" style={{ textDecoration: 'none' }}>
-              <div style={{ fontFamily: theme.typography.serif, fontSize: '20px', fontWeight: 700, color: theme.colors.text.primary }}>
-                The Best in London
-              </div>
-            </Link>
-          </div>
-        </nav>
+        <Header />
 
-        <nav style={{ background: theme.colors.bg.elevated, borderBottom: `1px solid ${theme.colors.border.subtle}`, padding: '12px 0' }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', fontSize: '13px', color: theme.colors.text.secondary }}>
-            <Link href="/" style={{ color: 'inherit', textDecoration: 'none' }}>Home</Link>
-            <span style={{ margin: '0 8px', color: theme.colors.border.prominent }}>/</span>
-            <span style={{ color: theme.colors.text.primary, fontWeight: 500 }}>Best Coffee Shops</span>
-          </div>
-        </nav>
+        <Header />
 
         <header style={{ padding: '80px 20px', background: `linear-gradient(135deg, ${theme.colors.bg.primary} 0%, ${theme.colors.bg.elevated} 100%)`, borderBottom: `1px solid ${theme.colors.border.subtle}` }}>
           <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
@@ -72,11 +56,7 @@ export default function BestCoffeeShopsLondon() {
           </div>
         </main>
 
-        <footer style={{ background: theme.colors.bg.primary, padding: `${theme.spacing['4xl']} 0 ${theme.spacing['2xl']}`, borderTop: `1px solid ${theme.colors.border.subtle}` }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', textAlign: 'center', fontSize: '13px', color: theme.colors.text.secondary }}>
-            <p style={{ margin: 0 }}>© 2025 The Best in London. All rights reserved.</p>
-          </div>
-        </footer>
+        <Footer />
 
       </div>
     </>

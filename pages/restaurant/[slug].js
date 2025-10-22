@@ -5,6 +5,8 @@ import { useRouter } from 'next/router';
 import dynamic from 'next/dynamic';
 import { theme } from '../../utils/theme';
 import { generateSEOTitle, generateSEODescription, generateStructuredData, generateBreadcrumbData } from '../../utils/seoOptimization';
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
 import FSABadge from '../../components/FSABadge';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import { TabContainer } from '../../components/HeroTabs';
@@ -171,30 +173,8 @@ export default function VenueDetailPage({ venue }) {
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: '#0B0B0B', color: '#FAFAFA' }}>
-        
-        {/* Navigation */}
-        <nav style={{
-          position: 'sticky',
-          top: 0,
-          zIndex: 100,
-          background: 'rgba(17,17,17,0.95)',
-          backdropFilter: 'blur(12px)',
-          borderBottom: '1px solid #2A2A2A',
-          padding: '16px 0'
-        }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-              <Link href="/" style={{ textDecoration: 'none', fontFamily: 'Playfair Display, serif', fontSize: '20px', fontWeight: 700, color: '#FAFAFA' }}>
-                The Best in London
-              </Link>
-              <div style={{ display: 'flex', gap: '32px', fontSize: '14px', fontWeight: 500 }}>
-                <Link href="/restaurants" style={{ color: '#9AA0A6', textDecoration: 'none' }}>Restaurants</Link>
-                <Link href="/bars" style={{ color: '#9AA0A6', textDecoration: 'none' }}>Bars</Link>
-              </div>
-            </div>
-          </div>
-        </nav>
+      <div className="min-h-screen bg-black">
+        <Header />
 
         <TabContainer currentPath={`/restaurant/${venue.slug}`} pageType="restaurant" venue={venue}>
         
@@ -633,15 +613,8 @@ export default function VenueDetailPage({ venue }) {
           </div>
         </div>
         </main>
-        
-        {/* Footer */}
-        <footer style={{ background: '#0B0B0B', padding: '48px 0 24px', borderTop: '1px solid #2A2A2A', marginTop: '80px' }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px', textAlign: 'center', fontSize: '13px', color: '#666' }}>
-            <p style={{ margin: 0 }}>© 2025 The Best in London. All rights reserved.</p>
-          </div>
-        </footer>
         </TabContainer>
-
+        <Footer />
       </div>
 
       <style jsx global>{`
