@@ -8,7 +8,7 @@ import { logImageFallback } from './logImageIssue';
 // Omar's enhanced tile system with simple fallback and cache-busting
 function getEnhancedTilePath(slug: string, type: 'cuisine' | 'area'): string {
   // Try enhanced tile first, fallback to original
-  const enhancedPath = `/tiles_v2/${type}s/${slug}-tile.webp`;
+  const enhancedPath = `/images/tiles/${type}s-enhanced/${slug}-tile.webp`;
   const originalPath = `/images/tiles/${type}s/${slug}.webp`;
   
   // Use enhanced path for all available enhanced tiles
