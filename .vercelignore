@@ -1,0 +1,12 @@
+# Exclude large directories from Vercel deployment
+backups/
+_quarantine/
+archive/
+reports/
+test-results/
+node_modules/
+.git/
+*.log
+*.tmp
+
+

@@ -13,6 +13,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import BackToHome from '../components/BackToHome';
 import Breadcrumbs from '../components/Breadcrumbs';
+import { asCollectionPage } from '../lib/factory/pageFactory';
 import fs from 'fs';
 import path from 'path';
 
@@ -78,14 +79,13 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
         <meta name="twitter:description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
         <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-          "@context": "https://schema.org",
-          "@type": "CollectionPage",
-          "name": `${cuisineTitle} Restaurants in London`,
-          "description": `Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London with real reviews and FSA ratings`,
-          "url": `https://thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`,
-          "image": `https://www.thebestinlondon.co.uk${hero.src}`,
-        }) }} />
+        {/* JSON-LD via factory */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(asCollectionPage({
+          name: `${cuisineTitle} Restaurants in London`,
+          url: `https://www.thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`,
+          itemCount: venues?.length || 0,
+          items: venues?.map(venue => ({ name: venue.name, slug: venue.slug }))
+        })) }} />
       </Head>
 
       <Header />

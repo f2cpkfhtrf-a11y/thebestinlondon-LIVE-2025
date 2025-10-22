@@ -1,0 +1,140 @@
+
+> the-best-in-london@0.1.0 build:check
+> NEXT_TELEMETRY_DISABLED=1 NODE_OPTIONS=--max_old_space_size=2048 next build
+
+   Linting and checking validity of types ...
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Collecting page data ...
+   Generating static pages (0/676) ...
+   Generating static pages (169/676) 
+   Generating static pages (338/676) 
+   Generating static pages (507/676) 
+ ✓ Generating static pages (676/676) 
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (pages)                                                                 Size     First Load JS
+┌ ● / (ISR: 3600 Seconds)                                                     4.46 kB         105 kB
+├   /_app                                                                     0 B            82.8 kB
+├ ● /[cuisine] (ISR: 3600 Seconds) (1626 ms)                                  8.3 kB          108 kB
+├   ├ /british (462 ms)
+├   ├ /indian
+├   ├ /modern-european
+├   ├ /italian
+├   ├ /japanese
+├   ├ /thai
+├   ├ /turkish
+├   └ [+7 more paths]
+├ ○ /404                                                                      3.66 kB        95.3 kB
+├ ○ /about                                                                    3.52 kB          97 kB
+├ λ /admin                                                                    2 kB           84.8 kB
+├ λ /api/admin/blog-unique                                                    0 B            82.8 kB
+├ λ /api/admin/content-generate                                               0 B            82.8 kB
+├ λ /api/admin/full-audit                                                     0 B            82.8 kB
+├ λ /api/admin/heal-images                                                    0 B            82.8 kB
+├ λ /api/admin/image-audit                                                    0 B            82.8 kB
+├ λ /api/admin/version-bump                                                   0 B            82.8 kB
+├ ● /areas (ISR: 3600 Seconds)                                                4.71 kB         101 kB
+├ ● /areas/[slug] (1341 ms)                                                   4.88 kB         107 kB
+├   ├ /areas/central-london (329 ms)
+├   ├ /areas/tower-hamlets
+├   ├ /areas/redbridge
+├   ├ /areas/havering
+├   ├ /areas/newham
+├   ├ /areas/hackney
+├   ├ /areas/camden
+├   └ [+11 more paths]
+├ ● /bars                                                                     3.98 kB        89.2 kB
+├ ● /best-cafes-london                                                        4.11 kB        89.4 kB
+├ ○ /best-coffee-shops-london                                                 2.16 kB        87.4 kB
+├ ● /best-halal-restaurants-london (ISR: 86400 Seconds)                       5.99 kB         105 kB
+├ ● /best-halal-restaurants-london-old (ISR: 86400 Seconds) (330 ms)          4.78 kB         102 kB
+├ ● /blog (ISR: 3600 Seconds)                                                 3.83 kB         101 kB
+├ ● /blog/[slug] (ISR: 3600 Seconds) (791 ms)                                 3.04 kB         100 kB
+├   ├ /blog/best-british-restaurants-in-london
+├   ├ /blog/best-indian-in-redbridge
+├   ├ /blog/best-indian-restaurants-in-london
+├   └ [+25 more paths]
+├ ● /cafes                                                                    2.51 kB        87.8 kB
+├ ● /chinese-restaurants-london                                               5.14 kB        90.4 kB
+├ ○ /contact                                                                  3.95 kB        97.5 kB
+├ ○ /cookies                                                                  1.83 kB        87.1 kB
+├ ● /cuisines (ISR: 3600 Seconds)                                             3.98 kB        99.9 kB
+├ ● /east-london (ISR: 86400 Seconds) (365 ms)                                5.26 kB        90.5 kB
+├ ● /faq (ISR: 3600 Seconds)                                                  2.71 kB        99.7 kB
+├ ● /faq/[slug] (ISR: 3600 Seconds)                                           2.54 kB        99.5 kB
+├   ├ /faq/are-there-family-friendly-restaurants-in-london
+├   ├ /faq/are-there-kid-friendly-restaurants-with-playgrounds-or-activities
+├   ├ /faq/are-there-late-night-dining-options-in-london
+├   └ [+26 more paths]
+├ ○ /guides                                                                   2.92 kB        96.4 kB
+├ ● /halal-restaurants-london                                                 4.91 kB        90.2 kB
+├ ● /halal/near-stations (ISR: 86400 Seconds)                                 2.83 kB        88.1 kB
+├ ● /halal/near-stations/[stationSlug] (ISR: 86400 Seconds) (469 ms)          3.23 kB        91.8 kB
+├   ├ /halal/near-stations/oxford-circus
+├   ├ /halal/near-stations/tottenham-court-road
+├   ├ /halal/near-stations/bank
+├   └ [+7 more paths]
+├ ● /indian-restaurants-london (ISR: 3600 Seconds)                            3.09 kB        97.4 kB
+├ ● /indian-restaurants-london-old                                            5.15 kB        90.4 kB
+├ ● /italian-restaurants-london                                               5.1 kB         90.4 kB
+├ ● /japanese-restaurants-london                                              5.09 kB        90.3 kB
+├ ● /near-me (ISR: 3600 Seconds)                                              5.03 kB        98.6 kB
+├ ● /nearby (ISR: 3600 Seconds)                                               3.92 kB        99.8 kB
+├ ○ /privacy                                                                  2.6 kB         87.9 kB
+├ ● /restaurant/[slug] (ISR: 86400 Seconds) (19887 ms)                        8.63 kB         106 kB
+├   ├ /restaurant/dishoom-covent-garden-OZ6OHOJw
+├   ├ /restaurant/gymkhana-uPIWeLM0
+├   ├ /restaurant/kricket-soho-2UcQZFVQ
+├   └ [+508 more paths]
+├ ● /restaurants (ISR: 3600 Seconds) (675 ms)                                 3.98 kB        98.3 kB
+├ ● /restaurants-bethnal-green (ISR: 86400 Seconds)                           4.81 kB        90.1 kB
+├ ● /restaurants-bloomsbury                                                   2.02 kB        84.8 kB
+├ ● /restaurants-borough                                                      2.02 kB        84.8 kB
+├ ● /restaurants-brixton                                                      2.02 kB        84.8 kB
+├ ● /restaurants-camden                                                       2.02 kB        84.8 kB
+├ ● /restaurants-canary-wharf (ISR: 86400 Seconds)                            4.81 kB        90.1 kB
+├ ● /restaurants-chelsea                                                      2.02 kB        84.8 kB
+├ ● /restaurants-clapham                                                      2.02 kB        84.8 kB
+├ ● /restaurants-clerkenwell                                                  2.02 kB        84.8 kB
+├ ● /restaurants-covent-garden                                                2.03 kB        84.9 kB
+├ ● /restaurants-fitzrovia                                                    2.02 kB        84.8 kB
+├ ● /restaurants-greenwich                                                    2.02 kB        84.8 kB
+├ ● /restaurants-hackney (ISR: 86400 Seconds)                                 4.8 kB         90.1 kB
+├ ● /restaurants-islington                                                    2.02 kB        84.8 kB
+├ ● /restaurants-kensington                                                   2.02 kB        84.8 kB
+├ ● /restaurants-kings-cross                                                  2.03 kB        84.9 kB
+├ ● /restaurants-marylebone                                                   2.02 kB        84.8 kB
+├ ● /restaurants-mayfair                                                      2.02 kB        84.8 kB
+├ ● /restaurants-near-london-eye                                              5.61 kB        88.4 kB
+├ ● /restaurants-new (ISR: 3600 Seconds)                                      3.51 kB        91.4 kB
+├ ● /restaurants-notting-hill                                                 2.03 kB        84.9 kB
+├ ● /restaurants-old (ISR: 3600 Seconds)                                      5.8 kB         99.6 kB
+├ ● /restaurants-richmond                                                     2.02 kB        84.8 kB
+├ ● /restaurants-shoreditch (ISR: 86400 Seconds)                              4.92 kB        90.2 kB
+├ ● /restaurants-soho                                                         2.02 kB        84.8 kB
+├ ● /restaurants-spitalfields (ISR: 86400 Seconds)                            4.8 kB         90.1 kB
+├ ● /restaurants-stratford (ISR: 86400 Seconds)                               4.8 kB         90.1 kB
+├ ● /restaurants-whitechapel (ISR: 86400 Seconds)                             4.93 kB        90.2 kB
+├ ● /restaurants-wimbledon                                                    2.02 kB        84.8 kB
+├ ● /search (ISR: 3600 Seconds)                                               5.01 kB         101 kB
+├ ○ /seo-demo                                                                 5.3 kB         88.1 kB
+├ ○ /terms                                                                    1.91 kB        87.2 kB
+├ ● /test-data                                                                620 B          83.4 kB
+├ ● /thai-restaurants-london                                                  4.9 kB         90.2 kB
+├ ● /turkish-restaurants-london                                               4.89 kB        90.2 kB
+├ ● /vegan-restaurants-london                                                 5.04 kB        90.3 kB
+└ ● /vegetarian-restaurants-london                                            4.92 kB        90.2 kB
++ First Load JS shared by all                                                 91.3 kB
+  ├ chunks/framework-9387e000915d7b64.js                                      45.4 kB
+  ├ chunks/main-dd71d9db7de8e90e.js                                           32.7 kB
+  ├ chunks/pages/_app-74c0f1c7e8597069.js                                     3.95 kB
+  ├ chunks/webpack-63dea7f82d6d8ac6.js                                        837 B
+  └ css/e233457df20589e0.css                                                  8.51 kB
+
+λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+○  (Static)  automatically rendered as static HTML (uses no initial props)
+●  (SSG)     automatically generated as static HTML + JSON (uses getStaticProps)
+   (ISR)     incremental static regeneration (uses revalidate in getStaticProps)
+

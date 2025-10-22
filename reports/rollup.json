@@ -1,0 +1,1429 @@
+{
+  "timestamp": "2025-10-21T22:39:18.687Z",
+  "summary": {
+    "overallHealth": "warnings",
+    "totalIssues": 0,
+    "totalWarnings": 192,
+    "audits": {
+      "images": {
+        "totalVenues": 511,
+        "categoryTileMisuse": 0,
+        "missingImages": 0,
+        "smallImages": 124
+      },
+      "links": {
+        "totalLinks": 223,
+        "brokenLinks": 0,
+        "externalLinks": 101
+      },
+      "schema": {
+        "totalPages": 73,
+        "pagesWithSchema": 5,
+        "pagesWithoutSchema": 68,
+        "schemaTypes": {
+          "Dynamic": 5
+        }
+      }
+    }
+  },
+  "details": {
+    "images": {
+      "timestamp": "2025-10-21T22:37:56.210Z",
+      "summary": {
+        "totalVenues": 511,
+        "venuesWithImages": 511,
+        "venuesWithFallbacks": 511,
+        "categoryTileMisuse": 0,
+        "smallImages": 124,
+        "missingImages": 0
+      },
+      "issues": [
+        {
+          "venue": "Gymkhana",
+          "slug": "gymkhana-uPIWeLM0",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "Kricket Soho",
+          "slug": "kricket-soho-2UcQZFVQ",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Brigadiers",
+          "slug": "brigadiers-GVEiDv0Y",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Bocca di Lupo",
+          "slug": "bocca-di-lupo-P7Z6jOko",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Zuma London",
+          "slug": "zuma-london-3z813cBw",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "OITA Soho",
+          "slug": "oita-soho-xrSS0hZo",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Maru London",
+          "slug": "maru-london-yQBXwWAI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "SUSHINOEN",
+          "slug": "sushinoen-myiHS2BQ",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "House of Ming",
+          "slug": "house-of-ming-bmTrCQPc",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Noble Palace",
+          "slug": "noble-palace-6iVOz8Kc",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Ma La Sichuan",
+          "slug": "ma-la-sichuan-oHK7UfPw",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "AngloThai",
+          "slug": "anglothai-a6lDN5es",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "Efes Premium",
+          "slug": "efes-premium-kWL5j4TM",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Chez Bruce",
+          "slug": "chez-bruce-gOPPr5VY",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "La Trompette",
+          "slug": "la-trompette-MzysCr2Y",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Salt Yard",
+          "slug": "salt-yard-0mnwGaVU",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "El Pastor Soho",
+          "slug": "el-pastor-soho-vXIanGWc",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (50.0KB)"
+          ]
+        },
+        {
+          "venue": "El Cenote",
+          "slug": "el-cenote-i5Opd7dI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "Yucca London",
+          "slug": "yucca-london-39NTBPjA",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.6KB)"
+          ]
+        },
+        {
+          "venue": "Vegan Yes",
+          "slug": "vegan-yes-dwrPTj8I",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.5KB)"
+          ]
+        },
+        {
+          "venue": "Unity Diner",
+          "slug": "unity-diner-dt_iqx7M",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "Holy Carrot",
+          "slug": "holy-carrot-HULzIPbI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "Vegan Planet",
+          "slug": "vegan-planet-1buWIzYE",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "The Ledbury",
+          "slug": "the-ledbury-x_0-jdo4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Kitchen Table",
+          "slug": "kitchen-table-PUQzy0hI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.5KB)"
+          ]
+        },
+        {
+          "venue": "L'ETO Soho",
+          "slug": "leto-soho-baR_vkeA",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.0KB)"
+          ]
+        },
+        {
+          "venue": "Batch Baby",
+          "slug": "batch-baby-ViOmOjTY",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.5KB)"
+          ]
+        },
+        {
+          "venue": "Coffee Island",
+          "slug": "coffee-island-VVdRiiv0",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Miel Bakery",
+          "slug": "miel-bakery-iBlmtIW4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.5KB)"
+          ]
+        },
+        {
+          "venue": "TOAD Bakery",
+          "slug": "toad-bakery-ikvURs_0",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Eggbreak",
+          "slug": "eggbreak-S_g-oHLs",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "The Table Café",
+          "slug": "the-table-caf-GtGhKWLc",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "SOMA Soho",
+          "slug": "soma-soho-IlFZ8FNU",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Lyaness",
+          "slug": "lyaness-ij-alVfA",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "Wagtail",
+          "slug": "wagtail-Y-XRbe7Q",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "SMOKESTAK",
+          "slug": "smokestak-yhTLOh_I",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "34 Mayfair",
+          "slug": "34-mayfair-BpNd0i98",
+          "issues": [],
+          "warnings": [
+            "Small image: british-34-mayfair-BpNd0i98-card-c0cd4d45.blur.webp (0.7KB)",
+            "Small image: british-34-mayfair-BpNd0i98-hero-5a7bbbde.blur.webp (0.7KB)",
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "Gaia Mayfair",
+          "slug": "gaia-mayfair-vbqjY1fI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Hakkasan",
+          "slug": "hakkasan-HmCM_92o",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Cora Pearl",
+          "slug": "cora-pearl-eKXdNHEQ",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "LUSH & HUSH",
+          "slug": "lush-hush-YfxjzA_Y",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "La Patagonia",
+          "slug": "la-patagonia-m68uICC0",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Jamon Jamon",
+          "slug": "jamon-jamon-u6AtJIpM",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Frida Camden",
+          "slug": "frida-camden-76VT1JVI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Made in Brasil",
+          "slug": "made-in-brasil-ksQdQ3X4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Barbarella",
+          "slug": "barbarella-gNnBy_aM",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Brera Lounge",
+          "slug": "brera-lounge-X1welfDY",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.6KB)"
+          ]
+        },
+        {
+          "venue": "Hotto Potto",
+          "slug": "hotto-potto-5DeFa9E8",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Bocca In Cielo",
+          "slug": "bocca-in-cielo-UoEI-7ps",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Rasoi Ghar",
+          "slug": "rasoi-ghar-PUD8uhPI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "Du'aa Diner",
+          "slug": "duaa-diner-XUMwX5QY",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Tayyabs",
+          "slug": "tayyabs-l8CSRexg",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.0KB)"
+          ]
+        },
+        {
+          "venue": "Janna Cafe",
+          "slug": "janna-cafe-nMggj_hY",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "Sylhet Nights",
+          "slug": "sylhet-nights-V44T35iM",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Madina Grill",
+          "slug": "madina-grill-QHpwcjyU",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "Zaiqa London",
+          "slug": "zaiqa-london-tWxWQYfA",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.6KB)"
+          ]
+        },
+        {
+          "venue": "Maedah Grill",
+          "slug": "maedah-grill-sjGwSDMo",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Grill Guys",
+          "slug": "grill-guys-Rl-Vl4Jg",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.0KB)"
+          ]
+        },
+        {
+          "venue": "Wah Bey",
+          "slug": "wah-bey-571Yc9CI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.0KB)"
+          ]
+        },
+        {
+          "venue": "The Connaught",
+          "slug": "the-connaught-PQ9x2fZo",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Banana Leaf",
+          "slug": "banana-leaf-P-efP54I",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "Meat Street",
+          "slug": "meat-street-q-m6QK-M",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Singam Bay",
+          "slug": "singam-bay-KovaHRxQ",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Sahara Grill",
+          "slug": "sahara-grill-Wifvn5yc",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "PHAT BITE Ilford",
+          "slug": "phat-bite-ilford-WjKbnCMk",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Franzos Ilford",
+          "slug": "franzos-ilford-oL4KwUss",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Naan Staap",
+          "slug": "naan-staap-X_MVkgQI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.6KB)"
+          ]
+        },
+        {
+          "venue": "Grill House",
+          "slug": "grill-house-63U7YUG8",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.0KB)"
+          ]
+        },
+        {
+          "venue": "Ciao Bella",
+          "slug": "ciao-bella-d-nVDUK8",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "Blue Orchid",
+          "slug": "blue-orchid-2gY3jas4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "CREM Kitchen",
+          "slug": "crem-kitchen-he5G487o",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Chef Asia",
+          "slug": "chef-asia-fuWenQ_I",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "Ottomans",
+          "slug": "ottomans-0UMSagt4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Union Social",
+          "slug": "union-social-ZgpCUCxg",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "XIX Nineteen",
+          "slug": "xix-nineteen-72oCuJLc",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Kitchen E20",
+          "slug": "kitchen-e20-1dDNpzJQ",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "BABABOOM",
+          "slug": "bababoom-0glc6m20",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "BISTROTHEQUE",
+          "slug": "bistrotheque-MTg_Ozmw",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Restaurant Elis",
+          "slug": "restaurant-elis-fn1v8I8s",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (50.0KB)"
+          ]
+        },
+        {
+          "venue": "Desi Lounge",
+          "slug": "desi-lounge-hgioaWtM",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.6KB)"
+          ]
+        },
+        {
+          "venue": "Afghan Grill",
+          "slug": "afghan-grill-dT6nJDE8",
+          "issues": [],
+          "warnings": [
+            "Small image: british-afghan-grill-dT6nJDE8-card-4e9f790f.blur.webp (0.6KB)",
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "Chaskaas",
+          "slug": "chaskaas-CRgrwcek",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.5KB)"
+          ]
+        },
+        {
+          "venue": "Rogues.",
+          "slug": "rogues-oRpC_c3U",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "Cafe Cecilia",
+          "slug": "cafe-cecilia-ZRDamZIY",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Shankeys",
+          "slug": "shankeys-j2iOAS1o",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "Casa Fofó",
+          "slug": "casa-fof-9XapQArk",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Oysteria",
+          "slug": "oysteria-kKdBxxT8",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "The Bourbon",
+          "slug": "the-bourbon-80zdKHX4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "Momlette",
+          "slug": "momlette-rIiPcwm4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.8KB)"
+          ]
+        },
+        {
+          "venue": "Morgan Arms",
+          "slug": "morgan-arms-bNumTxgU",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Bun & Sum",
+          "slug": "bun-sum-QBXzgVJ0",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "The Coborn",
+          "slug": "the-coborn-XH3DZKJU",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "The Victoria",
+          "slug": "the-victoria-kub67BuU",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "FoodComa",
+          "slug": "foodcoma-T-0DJCTM",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "Suite 85 Grill",
+          "slug": "suite-85-grill-CUCup5CY",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Slice of Meat",
+          "slug": "slice-of-meat-z2F5wvbo",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Tanjia Garden",
+          "slug": "tanjia-garden-j00ots9k",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Kolapata",
+          "slug": "kolapata-etAjUw6o",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "Needoo Grill",
+          "slug": "needoo-grill-SBTv-wvE",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "Makkah Grill",
+          "slug": "makkah-grill-_FeBBhqw",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.3KB)"
+          ]
+        },
+        {
+          "venue": "Spice Hut",
+          "slug": "spice-hut-SCpfv3a4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.8KB)"
+          ]
+        },
+        {
+          "venue": "Luca Dsq.",
+          "slug": "luca-dsq-28IO_Lr8",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "Eataly London",
+          "slug": "eataly-london-Tva-SGR4",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.5KB)"
+          ]
+        },
+        {
+          "venue": "McDonald's",
+          "slug": "mcdonalds-d-S661TM",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Shezan GCD",
+          "slug": "shezan-gcd-gM3zlYf0",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Famz Peri Peri",
+          "slug": "famz-peri-peri-VP9cAyrk",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Scarpetta",
+          "slug": "scarpetta-8x5Ng0Kw",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.5KB)"
+          ]
+        },
+        {
+          "venue": "Capeesh",
+          "slug": "capeesh-3QllZwKU",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "Italina385",
+          "slug": "italina385-ilgWDFJo",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "The Common E2",
+          "slug": "the-common-e2-x75i-NWk",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Phat For Life",
+          "slug": "phat-for-life-X5YYw1os",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "The Full Monty",
+          "slug": "the-full-monty-JhitfSOo",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.2KB)"
+          ]
+        },
+        {
+          "venue": "Arches Cafe",
+          "slug": "arches-cafe-2ymhxrWw",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.9KB)"
+          ]
+        },
+        {
+          "venue": "Al-Safa Grill",
+          "slug": "al-safa-grill-rN0PRk2U",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.4KB)"
+          ]
+        },
+        {
+          "venue": "La Bella napoli",
+          "slug": "la-bella-napoli-C3MBjGos",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.7KB)"
+          ]
+        },
+        {
+          "venue": "MyShish",
+          "slug": "myshish-KVMQTqBI",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (48.9KB)"
+          ]
+        },
+        {
+          "venue": "E3 Vegan",
+          "slug": "e3-vegan-lgF6HGJ8",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.1KB)"
+          ]
+        },
+        {
+          "venue": "PlantXology",
+          "slug": "plantxology-hU6WCqZc",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.8KB)"
+          ]
+        },
+        {
+          "venue": "Adyar Ananda Bhavan - A2B Veg Restaurant",
+          "slug": "adyar-ananda-bhavan-a2b-veg-restaurant-yTbu__aU",
+          "issues": [],
+          "warnings": [
+            "Small image: british-adyar-ananda-bhavan-a2b-veg-restaurant-yTbu__aU-card-53bad424.blur.webp (0.7KB)",
+            "Small image: british-adyar-ananda-bhavan-a2b-veg-restaurant-yTbu__aU-hero-1d55511b.blur.webp (0.7KB)"
+          ]
+        },
+        {
+          "venue": "Fed By Plants",
+          "slug": "fed-by-plants-pPB54tsM",
+          "issues": [],
+          "warnings": [
+            "Small image: hero.webp (49.6KB)"
+          ]
+        }
+      ],
+      "warnings": [
+        "Blog tile missing: best-indian-in-redbridge",
+        "Blog tile missing: best-japanese-restaurants-in-london",
+        "Blog tile missing: best-modern-european-restaurants-in-london",
+        "Blog tile missing: borough-market-eats",
+        "Blog tile missing: brunch-soho-2025",
+        "Blog tile missing: budget-friendly-restaurants-in-london",
+        "Blog tile missing: coffee-near-liverpool-street",
+        "Blog tile missing: family-friendly-central-london",
+        "Blog tile missing: halal-street-food-london",
+        "Blog tile missing: hidden-gem-restaurants-in-london",
+        "Blog tile missing: kebab-shoreditch-guide",
+        "Blog tile missing: late-night-meals-london",
+        "Blog tile missing: michelin-london-shortlist",
+        "Blog tile missing: pizza-east-london",
+        "Blog tile missing: ramen-hunt-london",
+        "Blog tile missing: romantic-date-night-restaurants-in-london",
+        "Blog tile missing: seafood-by-the-river",
+        "Blog tile missing: steak-london-under-30",
+        "Blog tile missing: top-restaurants-in-central-london",
+        "Blog tile missing: top-restaurants-in-kensington-and-chelsea",
+        "Blog tile missing: top-restaurants-in-southwark",
+        "Blog tile missing: top-restaurants-in-tower-hamlets",
+        "Blog tile missing: top-restaurants-in-westminster",
+        "Blog tile missing: vegan-date-night",
+        "Blog tile missing: winter-warmers-curry-edit"
+      ]
+    },
+    "links": {
+      "timestamp": "2025-10-21T22:38:00.092Z",
+      "summary": {
+        "totalLinks": 223,
+        "brokenLinks": 0,
+        "externalLinks": 101,
+        "internalLinks": 122
+      },
+      "brokenLinks": [],
+      "warnings": []
+    },
+    "schema": {
+      "timestamp": "2025-10-21T22:39:12.900Z",
+      "summary": {
+        "totalPages": 73,
+        "pagesWithSchema": 5,
+        "pagesWithoutSchema": 68,
+        "schemaTypes": {
+          "Dynamic": 5
+        }
+      },
+      "pages": [
+        {
+          "file": "pages/404.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/[cuisine].js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/_app.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/_document.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/about.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/areas/[slug].js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/areas.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/bars.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/best-cafes-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/best-coffee-shops-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/best-halal-restaurants-london-old.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/best-halal-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/blog/[slug].js",
+          "hasSchema": true,
+          "schemaCount": 1
+        },
+        {
+          "file": "pages/blog.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/cafes.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/chinese-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/contact.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/cookies.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/cuisines.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/east-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/faq/[slug].js",
+          "hasSchema": true,
+          "schemaCount": 1
+        },
+        {
+          "file": "pages/faq.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/guides.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/halal/near-stations/[stationSlug].js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/halal/near-stations/index.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/halal-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/index.js",
+          "hasSchema": true,
+          "schemaCount": 1
+        },
+        {
+          "file": "pages/indian-restaurants-london-old.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/indian-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/italian-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/japanese-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/near-me.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/nearby.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/privacy.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurant/[slug].js",
+          "hasSchema": true,
+          "schemaCount": 1
+        },
+        {
+          "file": "pages/restaurants-bethnal-green.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-bloomsbury.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-borough.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-brixton.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-camden.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-canary-wharf.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-chelsea.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-clapham.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-clerkenwell.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-covent-garden.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-fitzrovia.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-greenwich.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-hackney.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-islington.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-kensington.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-kings-cross.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-marylebone.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-mayfair.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-near-london-eye.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-new.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-notting-hill.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-old.js",
+          "hasSchema": true,
+          "schemaCount": 1
+        },
+        {
+          "file": "pages/restaurants-richmond.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-shoreditch.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-soho.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-spitalfields.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-stratford.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-whitechapel.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants-wimbledon.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/restaurants.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/search.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/seo-demo.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/terms.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/test-data.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/thai-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/turkish-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/vegan-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        },
+        {
+          "file": "pages/vegetarian-restaurants-london.js",
+          "hasSchema": false,
+          "schemaCount": 0
+        }
+      ],
+      "warnings": []
+    }
+  },
+  "recommendations": [
+    "Consider optimizing small images for better quality",
+    "Add JSON-LD schema to important pages"
+  ]
+}

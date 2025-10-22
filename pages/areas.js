@@ -8,6 +8,7 @@ import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
 import { resolveHeroImage, resolveTileImage } from '../lib/resolveHeroImage';
 import ImageTile from '../components/tiles/ImageTile';
+import { asCollectionPage } from '../lib/factory/pageFactory';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -80,6 +81,14 @@ export default function Areas({ areas, totalVenues }) {
         <title>Restaurant Areas in London | {areas.length}+ Areas Covered | The Best in London</title>
         <meta name="description" content={`Explore ${areas.length}+ areas across London with our comprehensive restaurant guide. From Soho to Shoreditch, discover the best dining in every neighborhood.`} />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/areas" />
+        
+        {/* JSON-LD */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(asCollectionPage({
+          name: 'London Restaurant Areas',
+          url: 'https://www.thebestinlondon.co.uk/areas',
+          itemCount: areas.length,
+          items: areas.map(area => ({ name: area.name, slug: area.slug }))
+        })) }} />
         
         {/* Open Graph */}
         <meta property="og:title" content="Restaurant Areas in London | The Best in London" />

@@ -1,0 +1,376 @@
+{
+  "timestamp": "2025-10-21T20:35:28.776Z",
+  "summary": {
+    "totalPlaceholders": 0,
+    "totalWarnings": 73,
+    "criticalIssues": 0
+  },
+  "placeholders": [],
+  "warnings": [
+    {
+      "path": "/images/restaurants/34-mayfair-BpNd0i98/hero.webp",
+      "size": 50530,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/afghan-grill-dT6nJDE8/hero.webp",
+      "size": 50370,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/al-safa-grill-rN0PRk2U/hero.webp",
+      "size": 50578,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/arches-cafe-2ymhxrWw/hero.webp",
+      "size": 51066,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/bababoom-0glc6m20/hero.webp",
+      "size": 50966,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/barbarella-gNnBy_aM/hero.webp",
+      "size": 50312,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/blue-orchid-2gY3jas4/hero.webp",
+      "size": 50420,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/bocca-in-cielo-UoEI-7ps/hero.webp",
+      "size": 51118,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/brera-lounge-X1welfDY/hero.webp",
+      "size": 50838,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/bun-sum-QBXzgVJ0/hero.webp",
+      "size": 50124,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/cafe-cecilia-ZRDamZIY/hero.webp",
+      "size": 51102,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/capeesh-3QllZwKU/hero.webp",
+      "size": 50552,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/chaskaas-CRgrwcek/hero.webp",
+      "size": 50642,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/chef-asia-fuWenQ_I/hero.webp",
+      "size": 50334,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/chez-bruce-gOPPr5VY/hero.webp",
+      "size": 50476,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/ciao-bella-d-nVDUK8/hero.webp",
+      "size": 50336,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/cora-pearl-eKXdNHEQ/hero.webp",
+      "size": 50318,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/crem-kitchen-he5G487o/hero.webp",
+      "size": 50888,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/desi-lounge-hgioaWtM/hero.webp",
+      "size": 50764,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/duaa-diner-XUMwX5QY/hero.webp",
+      "size": 50312,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/e3-vegan-lgF6HGJ8/hero.webp",
+      "size": 50228,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/eataly-london-Tva-SGR4/hero.webp",
+      "size": 50738,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/famz-peri-peri-VP9cAyrk/hero.webp",
+      "size": 50544,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/fed-by-plants-pPB54tsM/hero.webp",
+      "size": 50744,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/franzos-ilford-oL4KwUss/hero.webp",
+      "size": 50616,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/gaia-mayfair-vbqjY1fI/hero.webp",
+      "size": 51110,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/grill-guys-Rl-Vl4Jg/hero.webp",
+      "size": 50206,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/grill-house-63U7YUG8/hero.webp",
+      "size": 50136,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/hakkasan-HmCM_92o/hero.webp",
+      "size": 50234,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/hotto-potto-5DeFa9E8/hero.webp",
+      "size": 50310,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/jamon-jamon-u6AtJIpM/hero.webp",
+      "size": 50538,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/janna-cafe-nMggj_hY/hero.webp",
+      "size": 50498,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/kitchen-e20-1dDNpzJQ/hero.webp",
+      "size": 50608,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/kolapata-etAjUw6o/hero.webp",
+      "size": 50264,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/la-patagonia-m68uICC0/hero.webp",
+      "size": 50864,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/la-trompette-MzysCr2Y/hero.webp",
+      "size": 50578,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/lush-hush-YfxjzA_Y/hero.webp",
+      "size": 50626,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/made-in-brasil-ksQdQ3X4/hero.webp",
+      "size": 50978,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/madina-grill-QHpwcjyU/hero.webp",
+      "size": 50384,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/maedah-grill-sjGwSDMo/hero.webp",
+      "size": 50566,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/makkah-grill-_FeBBhqw/hero.webp",
+      "size": 50486,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/mcdonalds-d-S661TM/hero.webp",
+      "size": 50588,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/meat-street-q-m6QK-M/hero.webp",
+      "size": 50858,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/momlette-rIiPcwm4/hero.webp",
+      "size": 50018,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/morgan-arms-bNumTxgU/hero.webp",
+      "size": 50922,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/naan-staap-X_MVkgQI/hero.webp",
+      "size": 50826,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/needoo-grill-SBTv-wvE/hero.webp",
+      "size": 50842,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/oysteria-kKdBxxT8/hero.webp",
+      "size": 50332,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/phat-for-life-X5YYw1os/hero.webp",
+      "size": 50068,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/plantxology-hU6WCqZc/hero.webp",
+      "size": 50974,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/rasoi-ghar-PUD8uhPI/hero.webp",
+      "size": 50524,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/restaurant-elis-fn1v8I8s/hero.webp",
+      "size": 51188,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/rogues-oRpC_c3U/hero.webp",
+      "size": 50066,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/scarpetta-8x5Ng0Kw/hero.webp",
+      "size": 50648,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/shankeys-j2iOAS1o/hero.webp",
+      "size": 50486,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/shezan-gcd-gM3zlYf0/hero.webp",
+      "size": 50944,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/slice-of-meat-z2F5wvbo/hero.webp",
+      "size": 51016,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/smokestak-yhTLOh_I/hero.webp",
+      "size": 51040,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/spice-hut-SCpfv3a4/hero.webp",
+      "size": 50010,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/suite-85-grill-CUCup5CY/hero.webp",
+      "size": 51000,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/sushinoen-myiHS2BQ/hero.webp",
+      "size": 50414,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/sylhet-nights-V44T35iM/hero.webp",
+      "size": 51078,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/tayyabs-l8CSRexg/hero.webp",
+      "size": 50206,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/the-bourbon-80zdKHX4/hero.webp",
+      "size": 50394,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/the-coborn-XH3DZKJU/hero.webp",
+      "size": 50258,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/the-common-e2-x75i-NWk/hero.webp",
+      "size": 51054,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/the-connaught-PQ9x2fZo/hero.webp",
+      "size": 51080,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/the-full-monty-JhitfSOo/hero.webp",
+      "size": 50342,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/the-ledbury-x_0-jdo4/hero.webp",
+      "size": 50282,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/the-victoria-kub67BuU/hero.webp",
+      "size": 50430,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/union-social-ZgpCUCxg/hero.webp",
+      "size": 50592,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/xix-nineteen-72oCuJLc/hero.webp",
+      "size": 50842,
+      "reason": "file_small"
+    },
+    {
+      "path": "/images/restaurants/zaiqa-london-tWxWQYfA/hero.webp",
+      "size": 50828,
+      "reason": "file_small"
+    }
+  ]
+}

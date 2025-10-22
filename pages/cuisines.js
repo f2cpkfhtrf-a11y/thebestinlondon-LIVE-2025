@@ -7,6 +7,7 @@ import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
 import { resolveTileImage } from '../lib/resolveHeroImage';
 import ImageTile from '../components/tiles/ImageTile';
+import { asCollectionPage } from '../lib/factory/pageFactory';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -78,6 +79,14 @@ export default function Cuisines({ cuisines, totalVenues }) {
         <meta name="description" content={`Explore ${cuisines.length} different cuisines across London. From Indian to Italian, discover the best restaurants for every taste.`} />
         <meta name="keywords" content="London cuisines, restaurants by cuisine, Indian restaurants, Italian restaurants, Chinese restaurants London" />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/cuisines" />
+        
+        {/* JSON-LD */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(asCollectionPage({
+          name: 'Restaurant Cuisines in London',
+          url: 'https://www.thebestinlondon.co.uk/cuisines',
+          itemCount: cuisines.length,
+          items: cuisines.map(cuisine => ({ name: cuisine.name, slug: cuisine.slug }))
+        })) }} />
         
         {/* Open Graph */}
         <meta property="og:title" content="Cuisines | The Best in London" />

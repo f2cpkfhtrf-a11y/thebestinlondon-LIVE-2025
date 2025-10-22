@@ -6,6 +6,7 @@ import StandardizedCard from '../components/StandardizedCard';
 import PageHero from '../components/PageHero';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
 import { filterVenuesByCuisine, filterVenuesByDietary, sortVenues, getUniqueCuisines, getUniqueAreas, getDietaryTags, calculateVenueStats } from '../utils/venueDataUtils';
+import { asCollectionPage } from '../lib/factory/pageFactory';
 
 export async function getStaticProps() {
   const fs = require('fs');
@@ -122,6 +123,14 @@ export default function Restaurants({ venues, stats }) {
             __html: JSON.stringify(structuredData)
           }}
         />
+        
+        {/* JSON-LD via factory */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(asCollectionPage({
+          name: 'Best Restaurants in London',
+          url: 'https://www.thebestinlondon.co.uk/restaurants',
+          itemCount: venues.length,
+          items: venues.slice(0, 10).map(venue => ({ name: venue.name, slug: venue.slug }))
+        })) }} />
       </Head>
 
       <div className="min-h-screen bg-black">

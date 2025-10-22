@@ -1,9 +1,11 @@
 {
-  "generated_at": "2025-10-17T22:52:27.857Z",
+  "timestamp": "2025-10-21T23:04:58.930Z",
   "summary": {
-    "total": 174,
-    "valid": 174,
-    "broken": 0
+    "totalLinks": 223,
+    "brokenLinks": 0,
+    "externalLinks": 101,
+    "internalLinks": 122
   },
-  "broken_links": []
+  "brokenLinks": [],
+  "warnings": []
 }

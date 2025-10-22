@@ -1,8 +1,8 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import Header from '../../components/Header';
-import Footer from '../../components/Footer';
-import { asCollectionPage } from '../../lib/factory/pageFactory';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
+import { asCollectionPage } from '../lib/factory/pageFactory';
 
 export default function BestItalianInTowerHamlets2025() {
   const venues = [

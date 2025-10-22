@@ -96,3 +96,4 @@ export function generateAboutText(venue: any): string {
 
   return aboutText;
 }
+

@@ -13,3 +13,4 @@ export function getNormalizedArea(venue: any): string | null {
   }
   return null;
 }
+

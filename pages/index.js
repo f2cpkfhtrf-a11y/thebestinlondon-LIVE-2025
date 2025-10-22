@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { generateSEOTitle, generateSEODescription, generateStructuredData } from '../utils/seoOptimization';
+import { withSEOPage, asWebSite, asOrganization } from '../lib/factory/pageFactory';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { TabContainer } from '../components/HeroTabs';
