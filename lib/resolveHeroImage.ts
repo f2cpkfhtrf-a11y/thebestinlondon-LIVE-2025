@@ -7,6 +7,7 @@ import { logImageFallback } from './logImageIssue';
 
 // --- New: curated tile maps (purely local paths). Do NOT reference external URLs.
 const CUISINE_TILE_MAP: Record<string, string> = {
+  // Main cuisines from cuisineData.js
   british: "/images/tiles/cuisines/british.webp",
   mediterranean: "/images/tiles/cuisines/mediterranean.webp",
   "modern-european": "/images/tiles/cuisines/modern-european.webp",
@@ -21,6 +22,27 @@ const CUISINE_TILE_MAP: Record<string, string> = {
   spanish: "/images/tiles/cuisines/spanish.webp",
   chinese: "/images/tiles/cuisines/chinese.webp",
   caribbean: "/images/tiles/cuisines/caribbean.webp",
+  vietnamese: "/images/tiles/cuisines/vietnamese.webp",
+  american: "/images/tiles/cuisines/american.webp",
+  african: "/images/tiles/cuisines/african.webp",
+  seafood: "/images/tiles/cuisines/seafood.webp",
+  vegetarian: "/images/tiles/cuisines/vegetarian.webp",
+  vegan: "/images/tiles/cuisines/vegan.webp",
+  
+  // Additional cuisines from venues
+  afghan: "/images/tiles/cuisines/afghan.webp",
+  bakery: "/images/tiles/cuisines/bakery.webp",
+  bangladeshi: "/images/tiles/cuisines/bangladeshi.webp",
+  burgers: "/images/tiles/cuisines/burgers.webp",
+  cafe: "/images/tiles/cuisines/cafe.webp",
+  desserts: "/images/tiles/cuisines/desserts.webp",
+  halal: "/images/tiles/cuisines/halal.webp",
+  iranian: "/images/tiles/cuisines/iranian.webp",
+  lebanese: "/images/tiles/cuisines/lebanese.webp",
+  "middle-eastern": "/images/tiles/cuisines/middle-eastern.webp",
+  pakistani: "/images/tiles/cuisines/pakistani.webp",
+  pizza: "/images/tiles/cuisines/pizza.webp",
+  steakhouse: "/images/tiles/cuisines/steakhouse.webp",
 };
 
 const AREA_TILE_MAP: Record<string, string> = {
