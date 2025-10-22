@@ -26,7 +26,7 @@ export const cuisineData = {
   "pakistani": {
     "slug": "pakistani",
     "name": "Pakistani",
-    "heroImage": "/hero_v2/pakistani-hero.webp",
+    "heroImage": "/hero-cuisines/pakistani-hero.svg",
     "heroAlt": "Pakistani biryani and traditional dishes",
     "intro": "Pakistani cuisine features aromatic spices, slow-cooked meats, and traditional dishes like biryani, karahi, and halwa puri — authentic flavors from the subcontinent."
   },
@@ -96,14 +96,14 @@ export const cuisineData = {
   "vietnamese": {
     "slug": "vietnamese",
     "name": "Vietnamese",
-    "heroImage": "/hero_v2/vietnamese-hero.webp",
+    "heroImage": "/hero-cuisines/vietnamese-hero.svg",
     "heroAlt": "Vietnamese pho and fresh herbs",
     "intro": "Vietnamese cuisine celebrates fresh, aromatic flavors — from comforting pho to crispy banh mi, balancing herbs, spices, and textures perfectly."
   },
   "american": {
     "slug": "american",
     "name": "American", 
-    "heroImage": "/hero_v2/american-hero.webp",
+    "heroImage": "/hero-cuisines/american-hero.svg",
     "heroAlt": "American comfort food and burgers",
     "intro": "American cuisine celebrates comfort food and innovation — from classic burgers to modern fusion, representing the melting pot of American culture."
   },
@@ -117,28 +117,28 @@ export const cuisineData = {
   "african": {
     "slug": "african", 
     "name": "African",
-    "heroImage": "/hero_v2/african-hero.webp",
+    "heroImage": "/hero-cuisines/african-hero.svg",
     "heroAlt": "African traditional dishes and spices",
     "intro": "African cuisine showcases incredible diversity — from Ethiopian injera to West African stews, celebrating the continent's rich culinary heritage."
   },
   "seafood": {
     "slug": "seafood",
     "name": "Seafood",
-    "heroImage": "/hero_v2/seafood-hero.webp",
+    "heroImage": "/hero-cuisines/seafood-hero.svg",
     "heroAlt": "Fresh seafood and oysters",
     "intro": "Seafood cuisine celebrates the ocean's bounty — fresh oysters, sustainable catches, and expert preparation that honors marine flavors."
   },
   "vegetarian": {
     "slug": "vegetarian",
     "name": "Vegetarian", 
-    "heroImage": "/hero_v2/vegetarian-hero.webp",
+    "heroImage": "/hero-cuisines/vegetarian-hero.svg",
     "heroAlt": "Creative vegetarian dishes and fresh vegetables",
     "intro": "Vegetarian cuisine proves vegetables can be the star — innovative plant-based creations that celebrate ingredients with creativity and flavor."
   },
   "vegan": {
     "slug": "vegan",
     "name": "Vegan",
-    "heroImage": "/hero_v2/vegan-hero.webp",
+    "heroImage": "/hero-cuisines/vegan-hero.svg",
     "heroAlt": "Vegan plant-based dishes",
     "intro": "Vegan cuisine explores the growing world of plant-based dining — from comfort food classics to innovative creations that satisfy every craving."
   },
