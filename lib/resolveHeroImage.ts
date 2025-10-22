@@ -4,6 +4,7 @@ import { withVersion } from './resolveAssets';
 import areaImageMap from '../data/areaImageMap';
 import cuisineImageMap from '../data/cuisineImageMap';
 import { logImageFallback } from './logImageIssue';
+import { getCuisineData } from './cuisineData'; // Import cuisineData
 
 // Omar's enhanced tile system with simple fallback and cache-busting
 function getEnhancedTilePath(slug: string, type: 'cuisine' | 'area'): string {
@@ -243,8 +244,10 @@ export function resolveHeroImage(ctx: {
   }
   // Cuisine page hero
   else if (ctx.type === "list-cuisine" && ctx.cuisineSlug) {
-    imageSrc = `/images/heroes/cuisines/${ctx.cuisineSlug}.webp`;
-    // Fallback chain: specific cuisine -> default list hero
+    // Use cuisineData.js for hero images
+    const cuisineData = getCuisineData(ctx.cuisineSlug);
+    imageSrc = cuisineData.heroImage;
+    // Fallback chain: cuisineData -> default list hero
     if (!imageSrc || imageSrc.includes('undefined')) {
       imageSrc = "/images/heroes/site/default-list-hero.webp";
     }
