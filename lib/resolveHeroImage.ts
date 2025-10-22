@@ -243,10 +243,8 @@ export function resolveHeroImage(ctx: {
   }
   // Cuisine page hero
   else if (ctx.type === "list-cuisine" && ctx.cuisineSlug) {
-    // Use cuisineData.js for hero images
-    const cuisineData = getCuisineData(ctx.cuisineSlug);
-    imageSrc = cuisineData.heroImage;
-    // Fallback chain: cuisineData -> default list hero
+    imageSrc = `/images/heroes/cuisines/${ctx.cuisineSlug}.webp`;
+    // Fallback chain: specific cuisine -> default list hero
     if (!imageSrc || imageSrc.includes('undefined')) {
       imageSrc = "/images/heroes/site/default-list-hero.webp";
     }

@@ -19,18 +19,18 @@ import { asCollectionPage } from '../lib/factory/pageFactory';
 import fs from 'fs';
 import path from 'path';
 
-export default function CuisinePage({ cuisine, venues, totalVenues, editorial }) {
+export default function CuisinePage({ cuisineSlug, venues, totalVenues, editorial }) {
   const [filteredVenues, setFilteredVenues] = useState(venues);
   const [hoveredCard, setHoveredCard] = useState(null);
   
-  const cuisineTitle = cuisine.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-  const cuisineSlug = cuisine.toLowerCase().replace(/[^a-z0-9]/g, '-');
+  const cuisineTitle = cuisineSlug.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  const normalizedSlug = cuisineSlug.toLowerCase().replace(/[^a-z0-9]/g, '-');
   
   // Get enhanced cuisine data with hero image and intro
-  const cuisineData = getCuisineData(cuisineSlug);
+  const cuisineData = getCuisineData(normalizedSlug);
   
   // Get hero image for cuisine page (fallback to existing resolver)
-  const hero = resolveHeroImage({ type: "list-cuisine", cuisineSlug });
+  const hero = resolveHeroImage({ type: "list-cuisine", cuisineSlug: normalizedSlug });
   
   // Calculate stats
   const avgRating = venues.length > 0 ? (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1) : '0.0';
@@ -297,7 +297,7 @@ export async function getStaticPaths() {
     });
 
     const paths = Array.from(cuisines).map(cuisine => ({
-      params: { cuisine: cuisine.replace(/\s+/g, '-') }
+      params: { cuisineSlug: cuisine.replace(/\s+/g, '-') }
     }));
 
     return { paths, fallback: 'blocking' };
@@ -322,7 +322,7 @@ export async function getStaticProps({ params }) {
       return { notFound: true };
     }
 
-    const cuisineParam = params.cuisine.replace(/-/g, ' ').toLowerCase();
+    const cuisineParam = params.cuisineSlug.replace(/-/g, ' ').toLowerCase();
 
     const venues = allVenues.filter(venue => {
       if (!venue.cuisines || !Array.isArray(venue.cuisines)) return false;
