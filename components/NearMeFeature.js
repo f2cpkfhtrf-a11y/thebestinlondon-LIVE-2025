@@ -71,13 +71,13 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
   // Calculate venues within specified distance
   const calculateNearbyVenues = (userLat, userLng) => {
     const venuesWithDistance = venues
-      .filter(venue => venue.latitude && venue.longitude)
+      .filter(venue => venue.lat && venue.lng)
       .map(venue => {
         const distance = calculateDistance(
           userLat, 
           userLng, 
-          venue.latitude, 
-          venue.longitude
+          venue.lat, 
+          venue.lng
         );
         return { ...venue, distance };
       })
