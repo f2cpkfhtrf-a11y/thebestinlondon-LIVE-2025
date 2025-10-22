@@ -1,9 +1,11 @@
 import { useState, useMemo } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
 import { generateCuisineEditorial } from '../utils/contentGeneration';
 import { theme } from '../utils/theme';
 import { resolveHeroImage } from '../lib/resolveHeroImage';
+import { getCuisineData } from '../lib/cuisineData';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
 import FSABadge from '../components/FSABadge';
@@ -24,40 +26,18 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
   const cuisineTitle = cuisine.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   const cuisineSlug = cuisine.toLowerCase().replace(/[^a-z0-9]/g, '-');
   
-  // Get hero image for cuisine page
+  // Get enhanced cuisine data with hero image and intro
+  const cuisineData = getCuisineData(cuisineSlug);
+  
+  // Get hero image for cuisine page (fallback to existing resolver)
   const hero = resolveHeroImage({ type: "list-cuisine", cuisineSlug });
   
   // Calculate stats
   const avgRating = venues.length > 0 ? (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1) : '0.0';
   const fsaVerified = venues.filter(v => v.fsa_rating && v.fsa_rating >= 4).length;
 
-  // Generate cuisine-specific description
-  const getCuisineDescription = (cuisine) => {
-    const descriptions = {
-      'indian': 'From aromatic curries to tandoori specialties, London\'s Indian dining scene offers authentic flavors and modern interpretations that celebrate centuries of culinary tradition.',
-      'italian': 'Experience the soul of Italy in London with handmade pasta, wood-fired pizzas, and regional specialties that transport you to the heart of Italian cuisine.',
-      'japanese': 'Discover the precision and artistry of Japanese cuisine, from fresh sushi and sashimi to comforting ramen and delicate kaiseki experiences.',
-      'chinese': 'Explore the diverse regions of Chinese cuisine, from Cantonese dim sum to Sichuan spice, showcasing the incredible depth of China\'s culinary heritage.',
-      'thai': 'Savor the perfect balance of sweet, sour, salty, and spicy in London\'s Thai restaurants, where traditional recipes meet contemporary presentation.',
-      'turkish': 'Indulge in the rich flavors of Turkish cuisine, from succulent kebabs to fresh meze, representing the crossroads of Middle Eastern and Mediterranean traditions.',
-      'french': 'Experience the elegance of French cuisine in London, from classic bistro fare to haute cuisine, celebrating the artistry of French culinary tradition.',
-      'spanish': 'Discover the vibrant flavors of Spain, from authentic tapas to paella, showcasing the regional diversity and passion of Spanish cooking.',
-      'korean': 'Explore Korean cuisine\'s bold flavors and fermented traditions, from sizzling BBQ to comforting stews and the art of Korean table culture.',
-      'vietnamese': 'Savor the fresh, aromatic flavors of Vietnamese cuisine, from pho to banh mi, celebrating the balance of herbs, spices, and textures.',
-      'mexican': 'Experience authentic Mexican flavors beyond tacos, from mole to ceviche, showcasing the rich culinary traditions of Mexico\'s diverse regions.',
-      'american': 'Discover American comfort food and modern interpretations, from classic burgers to innovative fusion, celebrating the melting pot of American cuisine.',
-      'caribbean': 'Taste the vibrant flavors of the Caribbean, from jerk spices to coconut curries, representing the fusion of African, Indian, and indigenous traditions.',
-      'african': 'Explore the diverse flavors of African cuisine, from Ethiopian injera to West African stews, celebrating the continent\'s rich culinary heritage.',
-      'mediterranean': 'Savor the healthy, sun-kissed flavors of Mediterranean cuisine, from fresh seafood to olive oil-drenched vegetables and herbs.',
-      'seafood': 'Dive into London\'s finest seafood offerings, from fresh oysters to sustainable catches, celebrating the ocean\'s bounty with expert preparation.',
-      'vegetarian': 'Discover innovative vegetarian cuisine that celebrates plant-based ingredients with creativity and flavor, proving vegetables can be the star.',
-      'vegan': 'Explore the growing world of vegan cuisine, from comfort food classics to innovative plant-based creations that satisfy every craving.',
-      'modern european': 'Experience contemporary European cuisine that blends traditional techniques with modern innovation, creating sophisticated and memorable dining experiences.',
-      'british': 'Discover modern British cuisine that celebrates local ingredients and traditional recipes while embracing contemporary techniques and global influences.'
-    };
-    
-    return descriptions[cuisine.toLowerCase()] || `Explore London's finest ${cuisineTitle.toLowerCase()} restaurants, carefully curated for exceptional quality and authentic flavors.`;
-  };
+  // Use enhanced cuisine data for description
+  const cuisineDescription = cuisineData.intro;
 
   return (
     <>
@@ -69,7 +49,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
         {/* Open Graph Tags */}
         <meta property="og:title" content={`${cuisineTitle} Restaurants in London | The Best in London`} />
         <meta property="og:description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
-        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        <meta property="og:image" content={`https://www.thebestinlondon.co.uk${cuisineData.heroImage || hero.src}`} />
         <meta property="og:url" content={`https://www.thebestinlondon.co.uk/${cuisine.replace(/\s+/g, '-')}`} />
         <meta property="og:type" content="website" />
         
@@ -77,7 +57,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${cuisineTitle} Restaurants in London | The Best in London`} />
         <meta name="twitter:description" content={`Discover ${totalVenues} exceptional ${cuisineTitle.toLowerCase()} restaurants in London. Curated, verified, and updated daily with real reviews and FSA ratings.`} />
-        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
+        <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${cuisineData.heroImage || hero.src}`} />
         
         {/* JSON-LD via factory */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(asCollectionPage({
@@ -99,19 +79,47 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
             </div>
           </div>
           
-          {/* Page Hero */}
-          <PageHero 
-            title={`${cuisineTitle} Restaurants`}
-            subtitle="London's Finest Selection"
-            description={getCuisineDescription(cuisine)}
-            stats={[
-              { label: "Restaurants", value: totalVenues },
-              { label: "Avg Rating", value: avgRating },
-              { label: "FSA Verified", value: fsaVerified },
-            ]}
-            image={hero}
-            center={true}
-          />
+          {/* Enhanced Cuisine Hero Section */}
+          <section className="relative w-full h-64 md:h-96 lg:h-[500px] overflow-hidden">
+            <Image
+              src={cuisineData.heroImage || hero.src}
+              alt={cuisineData.heroAlt || `${cuisineTitle} cuisine in London`}
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 100vw"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
+            <div className="absolute bottom-6 left-6 right-6">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-white drop-shadow-lg mb-4">
+                {cuisineTitle} Restaurants in London
+              </h1>
+              <div className="flex flex-wrap gap-4 text-white">
+                <span className="bg-gold/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm font-medium">
+                  {totalVenues} Restaurants
+                </span>
+                <span className="bg-gold/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm font-medium">
+                  Avg Rating: {avgRating}
+                </span>
+                <span className="bg-gold/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm font-medium">
+                  {fsaVerified} FSA Verified
+                </span>
+              </div>
+            </div>
+          </section>
+
+          {/* Cuisine Introduction */}
+          {cuisineDescription && (
+            <section className="py-12 bg-charcoal-light">
+              <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div className="text-center">
+                  <p className="text-lg md:text-xl leading-relaxed text-warmWhite max-w-3xl mx-auto">
+                    {cuisineDescription}
+                  </p>
+                </div>
+              </div>
+            </section>
+          )}
 
       {/* Editorial Content */}
       {editorial && (
