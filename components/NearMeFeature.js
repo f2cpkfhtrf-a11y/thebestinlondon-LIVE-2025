@@ -6,7 +6,7 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
   const [locationError, setLocationError] = useState(null);
   const [isLoadingLocation, setIsLoadingLocation] = useState(false);
   const [nearbyVenues, setNearbyVenues] = useState([]);
-  const [maxDistance, setMaxDistance] = useState(5); // km
+  const [maxDistance, setMaxDistance] = useState(10); // km - increased from 5
   const [showNearMe, setShowNearMe] = useState(false);
   const locationPermissionRef = useRef(false);
 
@@ -70,10 +70,6 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
 
   // Calculate venues within specified distance
   const calculateNearbyVenues = (userLat, userLng) => {
-    console.log('🔍 calculateNearbyVenues called with:', userLat, userLng);
-    console.log('🔍 Total venues:', venues.length);
-    console.log('🔍 Max distance:', maxDistance);
-    
     const venuesWithDistance = venues
       .filter(venue => venue.lat && venue.lng)
       .map(venue => {
@@ -88,18 +84,27 @@ const NearMeFeature = ({ venues = [], onFilteredVenues }) => {
       .filter(venue => venue.distance <= maxDistance)
       .sort((a, b) => a.distance - b.distance);
 
-    console.log('🔍 Venues with distance:', venuesWithDistance.length);
-    console.log('🔍 Sample venues:', venuesWithDistance.slice(0, 3));
+    // If no venues found within distance, show all venues with distances
+    const finalVenues = venuesWithDistance.length > 0 ? venuesWithDistance : venues
+      .filter(venue => venue.lat && venue.lng)
+      .map(venue => {
+        const distance = calculateDistance(
+          userLat, 
+          userLng, 
+          venue.lat, 
+          venue.lng
+        );
+        return { ...venue, distance };
+      })
+      .sort((a, b) => a.distance - b.distance)
+      .slice(0, 20); // Show top 20 closest
 
-    setNearbyVenues(venuesWithDistance);
+    setNearbyVenues(finalVenues);
     setShowNearMe(true);
     
     // Update parent component with nearby venues
     if (onFilteredVenues) {
-      console.log('🔍 Calling onFilteredVenues with:', venuesWithDistance.length, 'venues');
-      onFilteredVenues(venuesWithDistance);
-    } else {
-      console.log('🔍 onFilteredVenues callback not provided');
+      onFilteredVenues(finalVenues);
     }
   };
 
