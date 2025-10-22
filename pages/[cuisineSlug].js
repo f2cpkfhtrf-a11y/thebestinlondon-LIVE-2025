@@ -243,7 +243,6 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
                         View Details →
                       </div>
                     </div>
-                      </div>
                     </article>
                   </Link>
                 ))}
