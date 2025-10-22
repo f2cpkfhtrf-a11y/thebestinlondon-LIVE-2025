@@ -287,7 +287,7 @@ export default function NearMePage({ venues }) {
 
 export async function getStaticProps() {
   try {
-    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
+    const venuesPath = path.join(process.cwd(), 'data', 'venues.json');
     
     if (!fs.existsSync(venuesPath)) {
       return { notFound: true };

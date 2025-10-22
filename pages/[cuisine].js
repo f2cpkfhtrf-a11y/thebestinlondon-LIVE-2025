@@ -219,7 +219,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
                     <div className="flex items-center space-x-2 mb-3">
                       <span className="text-gold text-lg">★</span>
                       <span className="text-warmWhite font-semibold">{venue.rating?.toFixed(1) || 'N/A'}</span>
-                      <span className="text-grey text-sm">({venue.review_count || 0} reviews)</span>
+                      <span className="text-grey text-sm">({venue.user_ratings_total || 0} reviews)</span>
                         </div>
 
                     <div className="text-grey text-sm mb-3">
@@ -266,7 +266,7 @@ export default function CuisinePage({ cuisine, venues, totalVenues, editorial })
 
 export async function getStaticPaths() {
   try {
-    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
+    const venuesPath = path.join(process.cwd(), 'data', 'venues.json');
     
     if (!fs.existsSync(venuesPath)) {
       return { paths: [], fallback: 'blocking' };
@@ -303,7 +303,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   try {
-    const venuesPath = path.join(process.cwd(), 'public', 'venues.json');
+    const venuesPath = path.join(process.cwd(), 'data', 'venues.json');
     
     if (!fs.existsSync(venuesPath)) {
       return { notFound: true };
