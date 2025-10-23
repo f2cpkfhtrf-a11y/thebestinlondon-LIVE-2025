@@ -250,4 +250,4 @@ export default function BlogPost({ post }) {
       </div>
     </Layout>
   );
-}
+}// Force deployment - Thu Oct 23 23:14:21 BST 2025
