@@ -18,9 +18,6 @@
     "enabled": true,
     "autoAlias": false
   },
-  "routes": [
-    { "src": "/blog/(.*)", "dest": "/blog/$1" }
-  ],
   "headers": [
     {
       "source": "/images/restaurants/(.*).webp",
