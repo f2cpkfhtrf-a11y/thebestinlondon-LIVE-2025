@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Japanese Restaurants in London",
+  "description": "Discover top Japanese restaurants in London serving fresh sushi, ramen, and traditional izakaya cuisine.",
+  "url": "https://www.thebestinlondon.co.uk/japanese",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Best Japanese Restaurants in London",
+    "description": "Discover top Japanese restaurants in London serving fresh sushi, ramen, and traditional izakaya cuisine.",
+    "numberOfItems": "20+",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Top Japanese Restaurants"
+      }
+    ]
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.thebestinlondon.co.uk/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Cuisines",
+        "item": "https://www.thebestinlondon.co.uk/cuisines"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Japanese Restaurants in London",
+        "item": "https://www.thebestinlondon.co.uk/japanese"
+      }
+    ]
+  },
+  "keywords": "Japanese restaurants London, sushi London, ramen London, Japanese cuisine London",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Best in London",
+    "url": "https://www.thebestinlondon.co.uk",
+    "logo": "https://www.thebestinlondon.co.uk/logo.png"
+  }
+}

@@ -5,21 +5,21 @@ export const cuisineData = {
   "turkish": {
     "slug": "turkish",
     "name": "Turkish",
-    "heroImage": "/hero_v2/turkish-hero.webp",
+    "heroImage": "/hero-cuisines/turkish-hero.svg",
     "heroAlt": "Traditional Turkish mezze and grilled kebabs",
     "intro": "Turkish cuisine blends the rich heritage of Ottoman flavors with Mediterranean freshness — known for charcoal-grilled meats, vibrant meze, and indulgent baklava."
   },
   "italian": {
     "slug": "italian", 
     "name": "Italian",
-    "heroImage": "/hero_v2/italian-hero.webp",
+    "heroImage": "/hero-cuisines/italian-hero.svg",
     "heroAlt": "Authentic Italian pasta and antipasti",
     "intro": "Italian dining in London brings handmade pasta, Neapolitan pizza, and elegant trattoria experiences that capture the essence of Mediterranean warmth."
   },
   "indian": {
     "slug": "indian",
     "name": "Indian", 
-    "heroImage": "/hero_v2/indian-hero.webp",
+    "heroImage": "/hero-cuisines/indian-hero.svg",
     "heroAlt": "Indian thali with curries, rice, and naan bread",
     "intro": "Indian cuisine celebrates bold spices, tandoori grills, and regional traditions — from Delhi's street food to South Indian coastal delicacies."
   },
@@ -33,14 +33,14 @@ export const cuisineData = {
   "japanese": {
     "slug": "japanese",
     "name": "Japanese",
-    "heroImage": "/hero_v2/japanese-hero.webp", 
+    "heroImage": "/hero-cuisines/japanese-hero.svg", 
     "heroAlt": "Japanese sushi platter and ramen bowl",
     "intro": "Japanese dining combines simplicity and precision — fresh sushi, ramen, and izakaya-inspired sharing plates crafted to perfection."
   },
   "french": {
     "slug": "french",
     "name": "French",
-    "heroImage": "/hero_v2/french-hero.webp",
+    "heroImage": "/hero-cuisines/french-hero.svg",
     "heroAlt": "Elegant French fine dining setting", 
     "intro": "French cuisine defines refinement — from buttery pastries and bistro classics to Michelin-starred gastronomy in London's heart."
   },

@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Turkish Restaurants in London",
+  "description": "Discover the best Turkish restaurants in London featuring authentic kebabs, mezze, and traditional Ottoman cuisine.",
+  "url": "https://www.thebestinlondon.co.uk/turkish",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Best Turkish Restaurants in London",
+    "description": "Discover the best Turkish restaurants in London featuring authentic kebabs, mezze, and traditional Ottoman cuisine.",
+    "numberOfItems": "20+",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Top Turkish Restaurants"
+      }
+    ]
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.thebestinlondon.co.uk/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Cuisines",
+        "item": "https://www.thebestinlondon.co.uk/cuisines"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Turkish Restaurants in London",
+        "item": "https://www.thebestinlondon.co.uk/turkish"
+      }
+    ]
+  },
+  "keywords": "Turkish restaurants London, kebab London, mezze London, Turkish cuisine London",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Best in London",
+    "url": "https://www.thebestinlondon.co.uk",
+    "logo": "https://www.thebestinlondon.co.uk/logo.png"
+  }
+}

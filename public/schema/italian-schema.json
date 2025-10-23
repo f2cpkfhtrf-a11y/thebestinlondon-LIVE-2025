@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Italian Restaurants in London",
+  "description": "Find the finest Italian restaurants in London serving authentic pasta, pizza, and Mediterranean cuisine.",
+  "url": "https://www.thebestinlondon.co.uk/italian",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Best Italian Restaurants in London",
+    "description": "Find the finest Italian restaurants in London serving authentic pasta, pizza, and Mediterranean cuisine.",
+    "numberOfItems": "20+",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Top Italian Restaurants"
+      }
+    ]
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.thebestinlondon.co.uk/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Cuisines",
+        "item": "https://www.thebestinlondon.co.uk/cuisines"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Italian Restaurants in London",
+        "item": "https://www.thebestinlondon.co.uk/italian"
+      }
+    ]
+  },
+  "keywords": "Italian restaurants London, pasta London, pizza London, Italian cuisine London",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Best in London",
+    "url": "https://www.thebestinlondon.co.uk",
+    "logo": "https://www.thebestinlondon.co.uk/logo.png"
+  }
+}
