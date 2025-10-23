@@ -24,8 +24,7 @@ export async function getStaticProps() {
       props: {
         venues,
         stats
-      },
-      revalidate: 3600 // Revalidate every hour
+      } // Revalidate every hour
     };
   } catch (error) {
     console.error('Error loading venues:', error);
@@ -33,8 +32,7 @@ export async function getStaticProps() {
       props: {
         venues: [],
         stats: { totalVenues: 0, areas: 0, cuisines: 0, halalVenues: 0 }
-      },
-      revalidate: 3600
+      }
     };
   }
 }

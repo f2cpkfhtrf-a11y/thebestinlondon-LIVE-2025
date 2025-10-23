@@ -62,7 +62,7 @@ export async function getStaticProps({ params }) {
       return { notFound: true };
     }
     
-    return { props: { venue }, revalidate: 86400 };
+    return { props: { venue } };
   } catch (error) {
     console.error('getStaticProps error:', error);
     return { notFound: true };

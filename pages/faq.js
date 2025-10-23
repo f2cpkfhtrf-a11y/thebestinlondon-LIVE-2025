@@ -28,8 +28,7 @@ export async function getStaticProps() {
     props: {
       faqs,
       heroImage
-    },
-    revalidate: 3600
+    }
   };
 }
 

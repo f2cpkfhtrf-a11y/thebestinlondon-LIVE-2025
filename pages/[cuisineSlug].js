@@ -340,8 +340,7 @@ export async function getStaticProps({ params }) {
         venues,
         totalVenues: venues.length,
         editorial: generateCuisineEditorial(cuisineParam)
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error in getStaticProps:', error);

@@ -57,8 +57,7 @@ export async function getStaticProps() {
       props: { 
         venues: halalVenues,
         lastUpdated: (typeof venuesData === 'object' && !Array.isArray(venuesData) && venuesData.lastUpdated) ? venuesData.lastUpdated : new Date().toISOString()
-      },
-      revalidate: 86400
+      }
     };
   } catch (error) {
     console.error('Error loading venues:', error);

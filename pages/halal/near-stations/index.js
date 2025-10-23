@@ -49,8 +49,7 @@ export async function getStaticProps() {
         stations: stationsWithCounts,
         totalVenues,
         lastUpdated: (typeof venuesData === 'object' && !Array.isArray(venuesData) && venuesData.lastUpdated) ? venuesData.lastUpdated : new Date().toISOString()
-      },
-      revalidate: 86400
+      }
     };
   } catch (error) {
     console.error('Error loading venues data:', error);
@@ -59,8 +58,7 @@ export async function getStaticProps() {
         stations: LONDON_STATIONS.map(s => ({ ...s, count: 0 })),
         totalVenues: 0,
         lastUpdated: new Date().toISOString()
-      },
-      revalidate: 86400
+      }
     };
   }
 }

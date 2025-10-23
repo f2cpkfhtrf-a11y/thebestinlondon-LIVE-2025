@@ -28,8 +28,7 @@ export async function getStaticProps() {
       props: {
         topVenues,
         totalVenues: venues.length
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error loading venues:', error);

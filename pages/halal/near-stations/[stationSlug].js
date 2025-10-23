@@ -372,7 +372,6 @@ export async function getStaticProps({ params }) {
     props: {
       station,
       venuesByRadius
-    },
-    revalidate: 86400 // Revalidate daily
+    } // Revalidate daily
   };
 }

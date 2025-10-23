@@ -33,8 +33,7 @@ export async function getStaticProps() {
     props: {
       blogs,
       heroImage
-    },
-    revalidate: 3600 // Revalidate every hour
+    } // Revalidate every hour
   };
 }
 

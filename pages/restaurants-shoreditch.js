@@ -35,8 +35,7 @@ export async function getStaticProps() {
     };
     
     return {
-      props: { venues, stats, lastUpdated: (typeof data === 'object' && !Array.isArray(data) && data.lastUpdated) ? data.lastUpdated : new Date().toISOString() },
-      revalidate: 86400
+      props: { venues, stats, lastUpdated: (typeof data === 'object' && !Array.isArray(data) && data.lastUpdated) ? data.lastUpdated : new Date().toISOString() }
     };
   } catch (error) {
     return { props: { venues: [], stats: { totalVenues: 0, halalCount: 0, veganCount: 0, vegetarianCount: 0, avgRating: 0 }, lastUpdated: new Date().toISOString() } };
@@ -64,8 +63,7 @@ export default function ShoreditchRestaurants({ venues, stats, lastUpdated }) {
     { id: 'halal', label: 'Halal', count: stats.halalCount, emoji: '☪️' },
     { id: 'vegan', label: 'Vegan', count: stats.veganCount, emoji: '🌱' },
     { id: 'vegetarian', label: 'Vegetarian', count: stats.vegetarianCount, emoji: '🥗' },
-    { id: 'top-rated', label: 'Top Rated', count: venues.filter(v => v.rating >= 4.5).length, emoji: '⭐' },
-  ];
+    { id: 'top-rated', label: 'Top Rated', count: venues.filter(v => v.rating >= 4.5).length, emoji: '⭐' }];
 
   return (<>
     <Head>

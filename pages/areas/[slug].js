@@ -94,8 +94,7 @@ export async function getStaticProps({ params }) {
         venues: venues.sort((a, b) => (b.rating || 0) - (a.rating || 0)),
         stats,
         topCuisines
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error loading area data:', error);
@@ -152,8 +151,7 @@ export default function AreaPage({ areaName, areaSlug, venues, stats, topCuisine
     { id: 'halal', label: 'Halal', count: stats.halalCount, emoji: '☪️' },
     { id: 'vegan', label: 'Vegan', count: stats.veganCount, emoji: '🌱' },
     { id: 'top-rated', label: 'Top Rated', count: venues.filter(v => v.rating >= 4.5).length, emoji: '⭐' },
-    { id: 'budget', label: 'Budget', count: venues.filter(v => v.price_level <= 2).length, emoji: '💰' },
-  ];
+    { id: 'budget', label: 'Budget', count: venues.filter(v => v.price_level <= 2).length, emoji: '💰' }];
 
   return (
     <>
@@ -210,8 +208,7 @@ export default function AreaPage({ areaName, areaSlug, venues, stats, topCuisine
             stats={[
               { label: "Restaurants", value: stats.totalVenues },
               { label: "Halal Options", value: stats.halalCount },
-              { label: "Avg Rating", value: stats.avgRating },
-            ]}
+              { label: "Avg Rating", value: stats.avgRating }]}
             image={hero}
             center={true}
           />

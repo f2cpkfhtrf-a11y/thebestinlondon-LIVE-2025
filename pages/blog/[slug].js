@@ -126,8 +126,7 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       post: normalizedPost
-    },
-    revalidate: 3600
+    }
   };
 }
 

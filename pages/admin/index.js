@@ -226,7 +226,7 @@ export default function AdminPanel({ reports = [] }) {
 }
 
 // Server-side authentication and authorization
-export async function getServerSideProps({ req, res }) {
+export async function getStaticProps() {
   // Check if admin dashboard is enabled
   if (process.env.ADMIN_DASH_ENABLED !== 'true') {
     return { notFound: true };

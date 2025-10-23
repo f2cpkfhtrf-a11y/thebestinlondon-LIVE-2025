@@ -3,6 +3,7 @@
   "framework": "nextjs",
   "buildCommand": "npm ci && npm run build",
   "installCommand": "npm ci",
+  "includeFiles": "content/blog-seo/v2/**/*",
   "env": {
     "NEXT_TELEMETRY_DISABLED": "1"
   },
@@ -17,6 +18,9 @@
     "enabled": true,
     "autoAlias": false
   },
+  "routes": [
+    { "src": "/blog/(.*)", "dest": "/blog/$1" }
+  ],
   "headers": [
     {
       "source": "/images/restaurants/(.*).webp",

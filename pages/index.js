@@ -91,8 +91,7 @@ export async function getStaticProps() {
         stats,
         popularCuisines,
         blogs
-      },
-      revalidate: 3600
+      }
     };
   } catch (error) {
     console.error('Error loading venues:', error);

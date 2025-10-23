@@ -21,16 +21,14 @@ export async function getStaticProps() {
     return {
       props: {
         venues: indianVenues
-      },
-      revalidate: 3600 // Revalidate every hour
+      } // Revalidate every hour
     };
   } catch (error) {
     console.error('Error loading venues:', error);
     return {
       props: {
         venues: []
-      },
-      revalidate: 3600
+      }
     };
   }
 }
