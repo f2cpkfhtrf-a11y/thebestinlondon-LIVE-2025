@@ -1,86 +1,78 @@
 import Head from 'next/head';
 import Layout from '../../components/Layout';
-import RichMarkdown from '../../components/content/RichMarkdown';
 import Link from 'next/link';
-import { resolveHeroImage } from '../../lib/resolveHeroImage';
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import { marked } from 'marked';
 
-// Helper function to parse YAML frontmatter from Markdown files
-function parseMarkdownFrontmatter(content) {
-  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
-  if (!frontmatterMatch) {
-    return { frontmatter: {}, content: content };
-  }
+// Configure marked for better rendering
+marked.setOptions({
+  breaks: true,
+  gfm: true,
+});
+
+// Robust blog post loader that handles both Markdown and JSON
+const getBlogPost = (slug) => {
+  const directories = [
+    'content/blog/',
+    'content/blog-seo/',
+    'content/blog-seo/v2/'
+  ];
   
-  const frontmatterText = frontmatterMatch[1];
-  const markdownContent = content.replace(/^---\n[\s\S]*?\n---\n/, '');
-  
-  // Parse YAML frontmatter (simplified)
-  const frontmatter = {};
-  const lines = frontmatterText.split('\n');
-  let currentKey = null;
-  let currentObject = null;
-  
-  for (const line of lines) {
-    const trimmedLine = line.trim();
+  for (const dir of directories) {
+    const mdPath = path.join(process.cwd(), dir, `${slug}.md`);
+    const jsonPath = path.join(process.cwd(), dir, `${slug}.json`);
     
-    // Skip empty lines
-    if (!trimmedLine) continue;
+    // Try Markdown first
+    if (fs.existsSync(mdPath)) {
+      const file = fs.readFileSync(mdPath, 'utf8');
+      const { data, content } = matter(file);
+      
+      return {
+        ...data,
+        contentHtml: marked.parse(content || ''),
+        rawContent: content || '',
+        type: 'markdown'
+      };
+    }
     
-    // Check if it's a key-value pair
-    const colonIndex = trimmedLine.indexOf(':');
-    if (colonIndex > 0) {
-      const key = trimmedLine.substring(0, colonIndex).trim();
-      let value = trimmedLine.substring(colonIndex + 1).trim();
+    // Try JSON
+    if (fs.existsSync(jsonPath)) {
+      const json = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
       
-      // Remove quotes
-      if ((value.startsWith('"') && value.endsWith('"')) || 
-          (value.startsWith("'") && value.endsWith("'"))) {
-        value = value.slice(1, -1);
-      }
-      
-      // Check if this is a nested object
-      if (value === '' && (key === 'author' || key === 'publisher' || key === 'tags')) {
-        currentKey = key;
-        currentObject = {};
-        frontmatter[key] = currentObject;
-      } else if (currentKey && currentObject) {
-        // This is a nested property
-        currentObject[key] = value;
-      } else {
-        // Regular key-value pair
-        frontmatter[key] = value;
-        currentKey = null;
-        currentObject = null;
-      }
+      return {
+        ...json,
+        contentHtml: marked.parse(json.bodyMarkdown || json.content || ''),
+        rawContent: json.bodyMarkdown || json.content || '',
+        type: 'json'
+      };
     }
   }
   
-  return { frontmatter, content: markdownContent };
-}
+  return null;
+};
 
-// Helper function to get all blog files from multiple directories
-function getAllBlogFiles() {
-  const fs = require('fs');
-  const path = require('path');
-  
-  const blogDirs = [
-    path.join(process.cwd(), 'content', 'blog'),
-    path.join(process.cwd(), 'content', 'blog-seo'),
-    path.join(process.cwd(), 'content', 'blog-seo', 'v2')
+// Get all blog files from all directories
+const getAllBlogFiles = () => {
+  const directories = [
+    'content/blog/',
+    'content/blog-seo/',
+    'content/blog-seo/v2/'
   ];
   
   const allFiles = [];
   
-  blogDirs.forEach(dir => {
-    if (fs.existsSync(dir)) {
-      const files = fs.readdirSync(dir);
+  directories.forEach(dir => {
+    const fullPath = path.join(process.cwd(), dir);
+    if (fs.existsSync(fullPath)) {
+      const files = fs.readdirSync(fullPath);
       files.forEach(file => {
-        if (file.endsWith('.json') || file.endsWith('.md')) {
+        if (file.endsWith('.md') || file.endsWith('.json')) {
           allFiles.push({
-            path: path.join(dir, file),
-            slug: file.replace(/\.(json|md)$/, ''),
-            type: file.endsWith('.json') ? 'json' : 'markdown',
-            directory: path.basename(dir)
+            slug: file.replace(/\.(md|json)$/, ''),
+            type: file.endsWith('.md') ? 'markdown' : 'json',
+            directory: dir
           });
         }
       });
@@ -88,7 +80,7 @@ function getAllBlogFiles() {
   });
   
   return allFiles;
-}
+};
 
 export async function getStaticPaths() {
   const allFiles = getAllBlogFiles();
@@ -104,88 +96,80 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const fs = require('fs');
-  const path = require('path');
+  const post = getBlogPost(params.slug);
   
-  const allFiles = getAllBlogFiles();
-  const targetFile = allFiles.find(file => file.slug === params.slug);
-  
-  if (!targetFile) {
+  if (!post) {
     return {
       notFound: true
     };
   }
-  
-  let blog;
-  let heroImage;
-  
-  if (targetFile.type === 'json') {
-    // Handle existing JSON blog files
-    blog = JSON.parse(fs.readFileSync(targetFile.path, 'utf8'));
-    heroImage = resolveHeroImage({ type: "venue" });
-  } else {
-    // Handle new Markdown blog files
-    const markdownContent = fs.readFileSync(targetFile.path, 'utf8');
-    const { frontmatter, content } = parseMarkdownFrontmatter(markdownContent);
-    
-    // Convert frontmatter to blog object format
-    blog = {
-      title: frontmatter.title || 'Untitled',
-      description: frontmatter.description || '',
-      slug: frontmatter.slug || params.slug,
-      hero: frontmatter.hero || '/images/heroes/site/default-blog-hero.webp',
-      schema: frontmatter.schema || 'BlogPosting',
-      publishedAt: frontmatter.publishedAt || frontmatter.datePublished || new Date().toISOString(),
-      updatedAt: frontmatter.updatedAt || new Date().toISOString(),
-      tags: frontmatter.tags || ['London', 'restaurants'],
-      author: {
-        name: frontmatter.author || 'Ava Beckett',
-        title: 'Senior Dining Editor',
-        bio: 'Curating London\'s best tables with authentic local insights.',
-        avatar: '/images/brand/author-ava.webp'
-      },
-      readTime: frontmatter.readTime || frontmatter.read_time || '5 min read',
-      content: content,
-      // Additional metadata for new format
-      author_name: frontmatter.author || 'Ava Beckett',
-      author_type: frontmatter.author_type || 'Person',
-      publisher_name: frontmatter.publisher || 'The Best in London',
-      publisher_type: frontmatter.publisher_type || 'Organization',
-      publisher_logo: frontmatter.publisher_logo || '/logo-compact.svg',
-      review_status: frontmatter.review_status || 'pending'
-    };
-    
-    // Resolve hero image
-    if (frontmatter.hero) {
-      heroImage = frontmatter.hero;
-    } else {
-      heroImage = resolveHeroImage({ type: "venue" });
+
+  // Normalize post data
+  const normalizedPost = {
+    ...post,
+    title: post.title || 'Untitled',
+    description: post.description || post.dek || '',
+    slug: params.slug,
+    author: post.author?.name || post.author_name || post.author || 'The Best in London Team',
+    authorObject: post.author || { name: post.author_name || post.author || 'The Best in London Team' },
+    date: post.datePublished || post.publishedAt || post.date || new Date().toISOString(),
+    hero: post.hero || post.coverImage || '/images/heroes/site/default-blog-hero.webp',
+    tags: post.tags || [],
+    readTime: post.readTime || post.read_time || '5 min read',
+    meta: {
+      description: post.description || post.dek || '',
+      tags: post.tags || [],
+      schema: post.schema || 'BlogPosting'
     }
-  }
+  };
 
   return {
     props: {
-      blog,
-      heroImage
+      post: normalizedPost
     },
     revalidate: 3600
   };
 }
 
-export default function BlogPost({ blog, heroImage }) {
+export default function BlogPost({ post }) {
+  // Format date properly
+  const formatDate = (dateString) => {
+    try {
+      const date = new Date(dateString);
+      if (isNaN(date.getTime())) {
+        return new Date().toLocaleDateString('en-GB', { 
+          day: 'numeric', 
+          month: 'short', 
+          year: 'numeric' 
+        });
+      }
+      return date.toLocaleDateString('en-GB', { 
+        day: 'numeric', 
+        month: 'short', 
+        year: 'numeric' 
+      });
+    } catch (error) {
+      return new Date().toLocaleDateString('en-GB', { 
+        day: 'numeric', 
+        month: 'short', 
+        year: 'numeric' 
+      });
+    }
+  };
+
   return (
     <Layout>
       <Head>
-        <title>{blog.title} | The Best in London</title>
-        <meta name="description" content={blog.description} />
-        <meta property="og:title" content={blog.title} />
-        <meta property="og:description" content={blog.description} />
-        <meta property="og:image" content={heroImage} />
+        <title>{post.title} | The Best in London</title>
+        <meta name="description" content={post.description} />
+        <meta property="og:title" content={post.title} />
+        <meta property="og:description" content={post.description} />
+        <meta property="og:image" content={post.hero} />
         <meta property="og:type" content="article" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={blog.title} />
-        <meta name="twitter:description" content={blog.description} />
-        <meta name="twitter:image" content={heroImage} />
+        <meta name="twitter:title" content={post.title} />
+        <meta name="twitter:description" content={post.description} />
+        <meta name="twitter:image" content={post.hero} />
         
         {/* Schema.org structured data */}
         <script
@@ -194,26 +178,26 @@ export default function BlogPost({ blog, heroImage }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "BlogPosting",
-              "headline": blog.title,
-              "description": blog.description,
-              "image": heroImage,
+              "headline": post.title,
+              "description": post.description,
+              "image": post.hero,
               "author": {
-                "@type": blog.author_type || "Person",
-                "name": blog.author?.name || blog.author_name || blog.author
+                "@type": "Person",
+                "name": post.author
               },
               "publisher": {
-                "@type": blog.publisher_type || "Organization",
-                "name": blog.publisher_name || "The Best in London",
+                "@type": "Organization",
+                "name": "The Best in London",
                 "logo": {
                   "@type": "ImageObject",
-                  "url": blog.publisher_logo || "/logo-compact.svg"
+                  "url": "/logo-compact.svg"
                 }
               },
-              "datePublished": blog.publishedAt,
-              "dateModified": blog.updatedAt,
+              "datePublished": post.date,
+              "dateModified": post.date,
               "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": `https://www.thebestinlondon.co.uk/blog/${blog.slug}`
+                "@id": `https://www.thebestinlondon.co.uk/blog/${post.slug}`
               }
             })
           }}
@@ -224,25 +208,25 @@ export default function BlogPost({ blog, heroImage }) {
         {/* Hero Section */}
         <div className="relative h-96 bg-gray-900">
           <img
-            src={heroImage}
-            alt={blog.title}
+            src={post.hero}
+            alt={post.title}
             className="absolute inset-0 w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-black bg-opacity-40" />
           <div className="relative z-10 flex items-center justify-center h-full">
             <div className="text-center text-white px-4 max-w-4xl">
               <h1 className="text-4xl md:text-6xl font-bold mb-4">
-                {blog.title}
+                {post.title}
               </h1>
               <p className="text-xl md:text-2xl mb-6 opacity-90">
-                {blog.description}
+                {post.description}
               </p>
               <div className="flex items-center justify-center space-x-4 text-sm opacity-80">
-                <span>By {blog.author?.name || blog.author_name || blog.author}</span>
+                <span>By {post.author}</span>
                 <span>•</span>
-                <span>{blog.readTime}</span>
+                <span>{post.readTime}</span>
                 <span>•</span>
-                <span>{new Date(blog.publishedAt).toLocaleDateString()}</span>
+                <span>{formatDate(post.date)}</span>
               </div>
             </div>
           </div>
@@ -251,11 +235,7 @@ export default function BlogPost({ blog, heroImage }) {
         {/* Content */}
         <div className="max-w-4xl mx-auto px-4 py-12">
           <div className="prose prose-lg max-w-none">
-            {blog.content ? (
-              <RichMarkdown content={blog.content} />
-            ) : (
-              <div dangerouslySetInnerHTML={{ __html: blog.content }} />
-            )}
+            <div dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
           </div>
         </div>
 
