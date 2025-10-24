@@ -2,102 +2,64 @@ import Head from 'next/head';
 import Layout from '../../components/Layout';
 import Header from '../../components/Header';
 import Link from 'next/link';
-import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
-import { marked } from 'marked';
 import { useEffect, useState } from 'react';
 
-// Configure marked for better rendering
-marked.setOptions({
-  breaks: true,
-  gfm: true,
-});
+// Removed getStaticPaths since we're using getServerSideProps for dynamic rendering
 
-// Robust blog post loader that handles both Markdown and JSON
-const getBlogPost = (slug) => {
-  const directories = [
-    'content/blog/',
-    'content/blog-seo/',
-    'content/blog-seo/v2/'
-  ];
-  
-  for (const dir of directories) {
-    const mdPath = path.join(process.cwd(), dir, `${slug}.md`);
-    const jsonPath = path.join(process.cwd(), dir, `${slug}.json`);
-    
-    // Try Markdown first
-    if (fs.existsSync(mdPath)) {
-      const file = fs.readFileSync(mdPath, 'utf8');
-      const { data, content } = matter(file);
-      
-      return {
-        ...data,
-        contentHtml: marked.parse(content || ''),
-        rawContent: content || '',
-        type: 'markdown'
-      };
-    }
-    
-    // Try JSON
-    if (fs.existsSync(jsonPath)) {
-      const json = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
-      
-      return {
-        ...json,
-        contentHtml: marked.parse(json.bodyMarkdown || json.content || ''),
-        rawContent: json.bodyMarkdown || json.content || '',
-        type: 'json'
-      };
-    }
-  }
-  
-  return null;
-};
+export async function getServerSideProps({ params }) {
+  // Import required modules for server-side only
+  const fs = require('fs');
+  const path = require('path');
+  const matter = require('gray-matter');
+  const { marked } = await import('marked');
 
-// Get all blog files from all directories
-const getAllBlogFiles = () => {
-  const directories = [
-    'content/blog/',
-    'content/blog-seo/',
-    'content/blog-seo/v2/'
-  ];
-  
-  const allFiles = [];
-  
-  directories.forEach(dir => {
-    const fullPath = path.join(process.cwd(), dir);
-    if (fs.existsSync(fullPath)) {
-      const files = fs.readdirSync(fullPath);
-      files.forEach(file => {
-        if (file.endsWith('.md') || file.endsWith('.json')) {
-          allFiles.push({
-            slug: file.replace(/\.(md|json)$/, ''),
-            type: file.endsWith('.md') ? 'markdown' : 'json',
-            directory: dir
-          });
-        }
-      });
-    }
+  // Configure marked for better rendering
+  marked.setOptions({
+    breaks: true,
+    gfm: true,
   });
-  
-  return allFiles;
-};
 
-export async function getStaticPaths() {
-  const allFiles = getAllBlogFiles();
-  
-  const paths = allFiles.map(file => ({
-    params: { slug: file.slug }
-  }));
-
-  return {
-    paths,
-    fallback: 'blocking'
+  // Robust blog post loader that handles both Markdown and JSON
+  const getBlogPost = (slug) => {
+    const directories = [
+      'content/blog/',
+      'content/blog-seo/',
+      'content/blog-seo/v2/'
+    ];
+    
+    for (const dir of directories) {
+      const mdPath = path.join(process.cwd(), dir, `${slug}.md`);
+      const jsonPath = path.join(process.cwd(), dir, `${slug}.json`);
+      
+      // Try Markdown first
+      if (fs.existsSync(mdPath)) {
+        const file = fs.readFileSync(mdPath, 'utf8');
+        const { data, content } = matter(file);
+        
+        return {
+          ...data,
+          contentHtml: marked.parse(content || ''),
+          rawContent: content || '',
+          type: 'markdown'
+        };
+      }
+      
+      // Try JSON
+      if (fs.existsSync(jsonPath)) {
+        const json = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+        
+        return {
+          ...json,
+          contentHtml: marked.parse(json.bodyMarkdown || json.content || ''),
+          rawContent: json.bodyMarkdown || json.content || '',
+          type: 'json'
+        };
+      }
+    }
+    
+    return null;
   };
-}
 
-export async function getStaticProps({ params }) {
   const post = getBlogPost(params.slug);
   
   if (!post) {
@@ -128,7 +90,6 @@ export async function getStaticProps({ params }) {
     props: {
       post: normalizedPost
     }
-    // Removed revalidate to prevent ISR and reduce bundle size
   };
 }
 
