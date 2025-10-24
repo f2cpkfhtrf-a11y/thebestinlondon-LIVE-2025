@@ -14,7 +14,7 @@ import { resolveHeroImage } from '../lib/resolveHeroImage';
 import Link from 'next/link';
 import { useEffect } from 'react';
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const fs = require('fs');
   const path = require('path');
   

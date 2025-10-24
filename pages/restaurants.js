@@ -8,7 +8,7 @@ import { resolveHeroImage } from '../lib/resolveHeroImage';
 import { filterVenuesByCuisine, filterVenuesByDietary, sortVenues, getUniqueCuisines, getUniqueAreas, getDietaryTags, calculateVenueStats } from '../utils/venueDataUtils';
 import { asCollectionPage } from '../lib/factory/pageFactory';
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const fs = require('fs');
   const path = require('path');
   
