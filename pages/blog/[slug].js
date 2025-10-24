@@ -106,18 +106,17 @@ export async function getStaticProps({ params }) {
     };
   }
 
-  // Normalize post data
+  // Normalize post data - keep minimal data to reduce bundle size
   const normalizedPost = {
-    ...post,
     title: post.title || 'Untitled',
     description: post.description || post.dek || '',
     slug: params.slug,
     author: post.author?.name || post.author_name || post.author || 'The Best in London Team',
-    authorObject: post.author || { name: post.author_name || post.author || 'The Best in London Team' },
     date: post.datePublished || post.publishedAt || post.date || new Date().toISOString(),
     hero: (post.hero && post.hero.startsWith('/public/') ? post.hero.replace('/public', '') : post.hero) || post.coverImage || '/images/heroes/site/default-blog-hero.webp',
     tags: post.tags || [],
     readTime: post.readTime || post.read_time || '5 min read',
+    contentHtml: post.contentHtml || '',
     meta: {
       description: post.description || post.dek || '',
       tags: post.tags || [],
@@ -128,8 +127,8 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       post: normalizedPost
-    },
-    revalidate: 3600 // Revalidate every hour
+    }
+    // Removed revalidate to prevent ISR and reduce bundle size
   };
 }
 
