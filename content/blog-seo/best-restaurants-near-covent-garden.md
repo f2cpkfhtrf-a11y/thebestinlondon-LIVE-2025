@@ -2,7 +2,7 @@
 title: "Best Restaurants Near Covent Garden"
 description: "Discover the best restaurants and dining experiences in London."
 slug: "/blog/best-restaurants-near-covent-garden"
-hero: "/public/hero_v2/best-restaurants-near-covent-garden.webp"
+hero: "/hero_v2/best-restaurants-near-covent-garden.jpg"
 schema: "BlogPosting + LocalBusiness"
 publishedAt: "2025-10-23T21:30:58.779Z"
 updatedAt: "2025-10-23T21:30:58.779Z"

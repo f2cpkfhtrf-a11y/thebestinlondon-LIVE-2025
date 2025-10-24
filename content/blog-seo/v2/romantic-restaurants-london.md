@@ -2,7 +2,7 @@
 title: "Romantic Restaurants London"
 description: "Discover the best restaurants and dining experiences in London."
 slug: "/blog/romantic-restaurants-london"
-hero: "/public/hero_v2/romantic-restaurants-london.webp"
+hero: "/hero_v2/romantic-restaurants-london.webp"
 schema: "BlogPosting + LocalBusiness"
 publishedAt: "2025-10-23T21:30:58.779Z"
 updatedAt: "2025-10-23T21:30:58.779Z"
@@ -20,9 +20,61 @@ review_status: "pending"
 
 ## What Makes a Restaurant Truly Romantic?
 
+
+<figure class="my-10">
+  <img 
+    src="/inline/romantic-1.webp" 
+    alt="Candlelit romantic dinner table with elegant setting" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    Intimate dining experiences that create lasting memories
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/romantic-candlelit-table.webp" 
+    alt="Candlelit romantic dinner table with elegant setting" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    Intimate dining experiences that create lasting memories
+  </figcaption>
+</figure>
+
+
 Romance isn't just about candlelight and soft music – it's about creating moments that matter. London's most romantic restaurants understand this, offering intimate atmospheres, exceptional food, and that indefinable quality that makes every meal feel special.
 
 ## The Romantic Legends
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/romantic-2.webp" 
+    alt="London rooftop restaurant with city skyline view" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    Breathtaking views that elevate the romantic dining experience
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/london-rooftop-dining.webp" 
+    alt="London rooftop restaurant with city skyline view" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    Breathtaking views that elevate the romantic dining experience
+  </figcaption>
+</figure>
+
 
 ### [Gloria](/restaurants): Italian Passion in Shoreditch
 **[Gloria](/restaurants)** brings the warmth of Italian hospitality to the heart of Shoreditch. This isn't just a restaurant; it's a love letter to Italian cuisine, served in an atmosphere that's both sophisticated and genuinely welcoming. The pasta is handmade, the wine list is exceptional, and the atmosphere is pure romance.

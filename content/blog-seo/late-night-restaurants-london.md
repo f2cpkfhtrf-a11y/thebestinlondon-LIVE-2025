@@ -2,7 +2,7 @@
 title: "Late Night Restaurants London"
 description: "Discover the best restaurants and dining experiences in London."
 slug: "/blog/late-night-restaurants-london"
-hero: "/public/hero_v2/late-night-restaurants-london.webp"
+hero: "/hero_v2/late-night-restaurants-london.jpg"
 schema: "BlogPosting + LocalBusiness"
 publishedAt: "2025-10-23T21:30:58.779Z"
 updatedAt: "2025-10-23T21:30:58.779Z"

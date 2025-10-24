@@ -9,6 +9,45 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" href="/logo.svg" />
         <link rel="apple-touch-icon" href="/logo.svg" />
         <meta name="theme-color" content="#D4AF37" />
+        
+        {/* Global Schema.org JSON-LD */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "name": "The Best in London",
+              "url": "https://www.thebestinlondon.co.uk",
+              "description": "Discover the best restaurants, cafés and dining spots across London — verified ratings, hygiene scores and real reviews.",
+              "publisher": {
+                "@type": "Organization",
+                "name": "The Best in London",
+                "url": "https://www.thebestinlondon.co.uk",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://www.thebestinlondon.co.uk/logo-compact.svg"
+                },
+                "sameAs": [
+                  "https://www.instagram.com/thebestinlondon",
+                  "https://www.facebook.com/thebestinlondon",
+                  "https://x.com/thebestinlondon"
+                ]
+              },
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.thebestinlondon.co.uk/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+              },
+              "mainEntity": {
+                "@type": "ItemList",
+                "name": "London Restaurants",
+                "description": "Curated list of London's finest restaurants, cafés and dining establishments",
+                "numberOfItems": "760+"
+              }
+            })
+          }}
+        />
       </Head>
       <div className="page-transition-wrapper">
         <Component {...pageProps} />

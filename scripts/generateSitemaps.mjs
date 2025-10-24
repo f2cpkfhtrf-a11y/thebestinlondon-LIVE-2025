@@ -11,7 +11,7 @@ async function generateSitemaps() {
   const reportsDir = path.join(process.cwd(), 'reports');
   
   // Load venues data
-  const venuesPath = path.join(process.cwd(), 'public/venues.json');
+  const venuesPath = path.join(process.cwd(), 'data/venues.json');
   const venuesData = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
   const venues = Array.isArray(venuesData) ? venuesData : venuesData.venues;
 
@@ -50,18 +50,22 @@ ${restaurantUrls.map(url => `  <url>
   </url>`).join('\n')}
 </urlset>`;
 
-  // Generate cuisines sitemap
-  const cuisineUrls = [
-    { url: `${baseUrl}/indian-restaurants-london`, priority: '0.9' },
-    { url: `${baseUrl}/italian-restaurants-london`, priority: '0.9' },
-    { url: `${baseUrl}/japanese-restaurants-london`, priority: '0.9' },
-    { url: `${baseUrl}/chinese-restaurants-london`, priority: '0.9' },
-    { url: `${baseUrl}/turkish-restaurants-london`, priority: '0.9' },
-    { url: `${baseUrl}/korean-restaurants-london`, priority: '0.8' },
-    { url: `${baseUrl}/mediterranean-restaurants-london`, priority: '0.8' },
-    { url: `${baseUrl}/vegan-restaurants-london`, priority: '0.8' },
-    { url: `${baseUrl}/vegetarian-restaurants-london`, priority: '0.8' }
-  ];
+  // Generate cuisines sitemap - extract from actual venue data
+  const cuisines = new Set();
+  venues.forEach(venue => {
+    if (venue.cuisines && Array.isArray(venue.cuisines)) {
+      venue.cuisines.forEach(cuisine => {
+        if (cuisine) {
+          cuisines.add(cuisine.toLowerCase().trim());
+        }
+      });
+    }
+  });
+
+  const cuisineUrls = Array.from(cuisines).map(cuisine => ({
+    url: `${baseUrl}/${cuisine}`,
+    priority: '0.9'
+  }));
 
   const cuisineSitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -73,19 +77,24 @@ ${cuisineUrls.map(url => `  <url>
   </url>`).join('\n')}
 </urlset>`;
 
-  // Generate areas sitemap
-  const areaUrls = [
-    { url: `${baseUrl}/restaurants-central-london`, priority: '0.9' },
-    { url: `${baseUrl}/restaurants-westminster`, priority: '0.9' },
-    { url: `${baseUrl}/restaurants-camden`, priority: '0.8' },
-    { url: `${baseUrl}/restaurants-islington`, priority: '0.8' },
-    { url: `${baseUrl}/restaurants-greenwich`, priority: '0.8' },
-    { url: `${baseUrl}/restaurants-hackney`, priority: '0.8' },
-    { url: `${baseUrl}/restaurants-tower-hamlets`, priority: '0.8' },
-    { url: `${baseUrl}/restaurants-southwark`, priority: '0.8' },
-    { url: `${baseUrl}/restaurants-lambeth`, priority: '0.8' },
-    { url: `${baseUrl}/restaurants-wandsworth`, priority: '0.8' }
+  // Generate areas sitemap - only include core working areas
+  const workingAreas = [
+    'central-london',
+    'tower-hamlets', 
+    'redbridge',
+    'havering',
+    'newham',
+    'hackney',
+    'camden',
+    'westminster',
+    'kensington-and-chelsea',
+    'southwark'
   ];
+  
+  const areaUrls = workingAreas.map(area => ({
+    url: `${baseUrl}/areas/${area}`,
+    priority: '0.9'
+  }));
 
   const areaSitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -97,13 +106,30 @@ ${areaUrls.map(url => `  <url>
   </url>`).join('\n')}
 </urlset>`;
 
-  // Generate blog sitemap
-  const blogUrls = [
-    { url: `${baseUrl}/blog`, priority: '0.8' },
-    { url: `${baseUrl}/blog/london-restaurant-trends-2025`, priority: '0.7' },
-    { url: `${baseUrl}/blog/best-halal-restaurants-central-london`, priority: '0.7' },
-    { url: `${baseUrl}/blog/michelin-starred-restaurants-london`, priority: '0.7' }
+  // Generate blog sitemap - scan actual blog content directories
+  const blogUrls = [{ url: `${baseUrl}/blog`, priority: '0.8' }];
+  
+  const blogDirectories = [
+    'content/blog/',
+    'content/blog-seo/',
+    'content/blog-seo/v2/'
   ];
+  
+  blogDirectories.forEach(dir => {
+    const fullPath = path.join(process.cwd(), dir);
+    if (fs.existsSync(fullPath)) {
+      const files = fs.readdirSync(fullPath);
+      files.forEach(file => {
+        if (file.endsWith('.json') || file.endsWith('.md')) {
+          const slug = file.replace(/\.(json|md)$/, '');
+          blogUrls.push({
+            url: `${baseUrl}/blog/${slug}`,
+            priority: '0.7'
+          });
+        }
+      });
+    }
+  });
 
   const blogSitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -115,13 +141,22 @@ ${blogUrls.map(url => `  <url>
   </url>`).join('\n')}
 </urlset>`;
 
-  // Generate FAQ sitemap
-  const faqUrls = [
-    { url: `${baseUrl}/faq`, priority: '0.7' },
-    { url: `${baseUrl}/faq/halal-restaurants`, priority: '0.6' },
-    { url: `${baseUrl}/faq/fsa-ratings`, priority: '0.6' },
-    { url: `${baseUrl}/faq/restaurant-reviews`, priority: '0.6' }
-  ];
+  // Generate FAQ sitemap - scan actual FAQ content directory
+  const faqUrls = [{ url: `${baseUrl}/faq`, priority: '0.7' }];
+  
+  const faqDir = path.join(process.cwd(), 'content/faq');
+  if (fs.existsSync(faqDir)) {
+    const files = fs.readdirSync(faqDir);
+    files.forEach(file => {
+      if (file.endsWith('.json')) {
+        const slug = file.replace('.json', '');
+        faqUrls.push({
+          url: `${baseUrl}/faq/${slug}`,
+          priority: '0.6'
+        });
+      }
+    });
+  }
 
   const faqSitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -177,13 +212,12 @@ ${collectionPages.map(url => `  <url>
   </sitemap>
 </sitemapindex>`;
 
-  // Generate pages sitemap (static pages)
+  // Generate pages sitemap (static pages) - remove problematic redirects
   const staticPages = [
     { url: `${baseUrl}/`, priority: '1.0' },
     { url: `${baseUrl}/restaurants`, priority: '0.9' },
     { url: `${baseUrl}/cuisines`, priority: '0.9' },
     { url: `${baseUrl}/areas`, priority: '0.9' },
-    { url: `${baseUrl}/best-halal-restaurants-london`, priority: '0.8' },
     { url: `${baseUrl}/about`, priority: '0.6' },
     { url: `${baseUrl}/contact`, priority: '0.6' }
   ];

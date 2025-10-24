@@ -82,12 +82,29 @@ export default function Areas({ areas, totalVenues }) {
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/areas" />
         
         {/* JSON-LD */}
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(asCollectionPage({
-          name: 'London Restaurant Areas',
-          url: 'https://www.thebestinlondon.co.uk/areas',
-          itemCount: areas.length,
-          items: areas.map(area => ({ name: area.name, slug: area.slug }))
-        })) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          "name": "London Restaurant Areas",
+          "description": "Complete list of London areas with restaurants, cafés and dining establishments",
+          "url": "https://www.thebestinlondon.co.uk/areas",
+          "numberOfItems": areas.length,
+          "itemListElement": areas.map((area, index) => ({
+            "@type": "ListItem",
+            "position": index + 1,
+            "item": {
+              "@type": "Place",
+              "name": area.name,
+              "url": `https://www.thebestinlondon.co.uk/areas/${area.slug}`,
+              "description": `${area.count} restaurants in ${area.name}, London`,
+              "containedInPlace": {
+                "@type": "City",
+                "name": "London",
+                "addressCountry": "GB"
+              }
+            }
+          }))
+        }) }} />
         
         {/* Open Graph */}
         <meta property="og:title" content="Restaurant Areas in London | The Best in London" />
@@ -121,8 +138,35 @@ export default function Areas({ areas, totalVenues }) {
           center={true}
         />
 
+        {/* Content Introduction */}
+        <section className="py-16 bg-charcoal-light">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center">
+              <h2 className="text-3xl lg:text-4xl font-serif font-bold text-white mb-6">
+                Discover London's Culinary Neighborhoods
+              </h2>
+              <p className="text-lg text-grey leading-relaxed mb-8">
+                London's dining scene is as diverse as its neighborhoods. From the historic charm of Covent Garden's market restaurants to the vibrant street food culture of Ilford Lane, each area offers its own unique culinary identity. Whether you're seeking Michelin-starred fine dining in Mayfair, authentic halal cuisine in Whitechapel, or trendy brunch spots in Shoreditch, our comprehensive area guides help you discover the perfect dining experience for every occasion.
+              </p>
+              <div className="flex flex-wrap justify-center gap-4 text-sm">
+                <Link href="/cuisines" className="text-gold hover:text-white transition-colors">
+                  Browse by Cuisine →
+                </Link>
+                <span className="text-grey">•</span>
+                <Link href="/restaurants" className="text-gold hover:text-white transition-colors">
+                  All Restaurants →
+                </Link>
+                <span className="text-grey">•</span>
+                <Link href="/collections/halal" className="text-gold hover:text-white transition-colors">
+                  Halal Restaurants →
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* Search */}
-        <section className="py-8 bg-charcoal-light">
+        <section className="py-8 bg-black">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-md mx-auto">
               <input
@@ -194,6 +238,16 @@ export default function Areas({ areas, totalVenues }) {
                 </div>
                 <div className="text-grey font-nav uppercase tracking-wider">Coverage</div>
               </div>
+            </div>
+          </div>
+        </section>
+        {/* Data Attribution */}
+        <section className="py-8 bg-black border-t border-grey-dark">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center">
+              <p className="text-sm text-grey">
+                The Best in London aggregates restaurant data from Google and the Food Standards Agency (FSA). All listings are verified and regularly updated.
+              </p>
             </div>
           </div>
         </section>

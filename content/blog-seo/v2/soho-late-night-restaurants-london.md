@@ -2,7 +2,7 @@
 title: "Soho Late Night Restaurants London"
 description: "Discover the best restaurants and dining experiences in London."
 slug: "/blog/soho-late-night-restaurants-london"
-hero: "/public/hero_v2/soho-late-night-restaurants-london.webp"
+hero: "/hero_v2/soho-late-night-restaurants-london.webp"
 schema: "BlogPosting + LocalBusiness"
 publishedAt: "2025-10-23T21:30:58.779Z"
 updatedAt: "2025-10-23T21:30:58.779Z"
@@ -20,9 +20,61 @@ review_status: "pending"
 
 ## The Soho Spirit
 
+
+<figure class="my-10">
+  <img 
+    src="/inline/soho-1.webp" 
+    alt="Soho street scene with neon signs and vibrant nightlife" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    Soho's electric atmosphere draws diners well into the night
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/soho-nightlife.webp" 
+    alt="Soho street scene with neon signs and vibrant nightlife" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    Soho's electric atmosphere draws diners well into the night
+  </figcaption>
+</figure>
+
+
 Soho has always been London's creative playground, and its dining scene reflects that energy. This is where chefs experiment, where restaurants push boundaries, and where the city's food culture evolves. The area's late-night scene is legendary, with restaurants that keep the kitchen fires burning until the early hours.
 
 ## The Soho Legends
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/soho-2.webp" 
+    alt="Trendy Soho restaurant with modern interior design" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    Contemporary dining spaces that define Soho's culinary identity
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/soho-modern-restaurant.webp" 
+    alt="Trendy Soho restaurant with modern interior design" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    Contemporary dining spaces that define Soho's culinary identity
+  </figcaption>
+</figure>
+
 
 ### Kiln: Thai Fire and Flavor
 **Kiln** isn't just a Thai restaurant; it's a culinary adventure. This tiny Soho gem serves authentic Thai cuisine cooked over charcoal, creating flavors that are both traditional and innovative. The atmosphere is electric, the food is exceptional, and the experience is unforgettable.

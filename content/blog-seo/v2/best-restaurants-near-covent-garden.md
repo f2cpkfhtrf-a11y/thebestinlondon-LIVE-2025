@@ -2,7 +2,7 @@
 title: "Best Restaurants Near Covent Garden"
 description: "Discover the best restaurants and dining experiences in London."
 slug: "/blog/best-restaurants-near-covent-garden"
-hero: "/public/hero_v2/best-restaurants-near-covent-garden.webp"
+hero: "/hero_v2/best-restaurants-near-covent-garden.webp"
 schema: "BlogPosting + LocalBusiness"
 publishedAt: "2025-10-23T21:30:58.779Z"
 updatedAt: "2025-10-23T21:30:58.779Z"
@@ -20,9 +20,61 @@ review_status: "pending"
 
 ## The Covent Garden Dining Scene
 
+
+<figure class="my-10">
+  <img 
+    src="/inline/covent-garden-1.webp" 
+    alt="Covent Garden terrace dining with elegant outdoor setting" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    Al fresco dining in one of London's most picturesque locations
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/covent-garden-terrace.webp" 
+    alt="Covent Garden terrace dining with elegant outdoor setting" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    Al fresco dining in one of London's most picturesque locations
+  </figcaption>
+</figure>
+
+
 Covent Garden's reputation as a tourist magnet often overshadows its incredible dining scene. But look beyond the souvenir shops and street performers, and you'll find restaurants that have been serving Londoners for centuries alongside modern establishments that are redefining the area's culinary landscape.
 
 ## The Covent Garden Legends
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/covent-garden-2.webp" 
+    alt="Historic Covent Garden market with restaurant facades" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    The historic charm that makes Covent Garden dining unforgettable
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/covent-garden-historic.webp" 
+    alt="Historic Covent Garden market with restaurant facades" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    The historic charm that makes Covent Garden dining unforgettable
+  </figcaption>
+</figure>
+
 
 ### [Dishoom Covent Garden](/restaurants): Bombay in the West End
 **[Dishoom Covent Garden](/restaurant/dishoom-covent-garden-OZ6OHOJw)** brings the spirit of Bombay's traditional cafés to the heart of London's West End. This isn't just Indian food – it's an experience. The black daal is legendary, the atmosphere is electric, and the chai is served with the kind of care that makes you feel like you're in Mumbai.

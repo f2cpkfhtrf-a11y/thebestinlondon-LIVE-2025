@@ -2,7 +2,7 @@
 title: "Halal Restaurants Ilford Lane"
 description: "Discover the best restaurants and dining experiences in London."
 slug: "/blog/halal-restaurants-ilford-lane"
-hero: "/public/hero_v2/halal-restaurants-ilford-lane.webp"
+hero: "/hero_v2/halal-restaurants-ilford-lane.jpg"
 schema: "BlogPosting + LocalBusiness"
 publishedAt: "2025-10-23T21:30:58.779Z"
 updatedAt: "2025-10-23T21:30:58.779Z"

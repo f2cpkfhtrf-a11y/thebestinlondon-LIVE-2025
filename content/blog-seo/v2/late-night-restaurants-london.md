@@ -2,7 +2,7 @@
 title: "Late Night Restaurants London"
 description: "Discover the best restaurants and dining experiences in London."
 slug: "/blog/late-night-restaurants-london"
-hero: "/public/hero_v2/late-night-restaurants-london.webp"
+hero: "/hero_v2/late-night-restaurants-london.webp"
 schema: "BlogPosting + LocalBusiness"
 publishedAt: "2025-10-23T21:30:58.779Z"
 updatedAt: "2025-10-23T21:30:58.779Z"
@@ -20,9 +20,61 @@ review_status: "pending"
 
 ## The London Late-Night Scene
 
+
+<figure class="my-10">
+  <img 
+    src="/inline/late-night-1.webp" 
+    alt="London night skyline with neon lights and bustling streets" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    London's vibrant late-night dining scene comes alive after dark
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/london-night-skyline.webp" 
+    alt="London night skyline with neon lights and bustling streets" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    London's vibrant late-night dining scene comes alive after dark
+  </figcaption>
+</figure>
+
+
 London doesn't sleep, and neither should your appetite. The capital's late-night dining scene is as diverse as the city itself – from traditional curry houses that have been serving midnight feasts for decades to modern restaurants that keep the kitchen fires burning until dawn.
 
 ## The Late-Night Legends
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/late-night-2.webp" 
+    alt="Busy late-night restaurant with warm lighting" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    The energy and atmosphere of London's late-night dining
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/late-night-restaurant.webp" 
+    alt="Busy late-night restaurant with warm lighting" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    The energy and atmosphere of London's late-night dining
+  </figcaption>
+</figure>
+
 
 ### [Duck & Waffle](/restaurants): Sky-High Dining
 **[Duck & Waffle](/restaurants)** isn't just a restaurant; it's a London institution. Perched 40 floors above the city, this 24-hour restaurant serves everything from breakfast waffles to late-night cocktails with views that stretch to the horizon. The duck and waffle itself is legendary, but the real magic happens when you're watching the city lights twinkle below.

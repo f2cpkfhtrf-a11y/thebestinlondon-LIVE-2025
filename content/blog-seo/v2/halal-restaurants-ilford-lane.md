@@ -2,7 +2,7 @@
 title: "Halal Restaurants Ilford Lane"
 description: "Discover the best restaurants and dining experiences in London."
 slug: "/blog/halal-restaurants-ilford-lane"
-hero: "/public/hero_v2/halal-restaurants-ilford-lane.webp"
+hero: "/hero_v2/halal-restaurants-ilford-lane.webp"
 schema: "BlogPosting + LocalBusiness"
 publishedAt: "2025-10-23T21:30:58.779Z"
 updatedAt: "2025-10-23T21:30:58.779Z"
@@ -20,9 +20,61 @@ review_status: "pending"
 
 ## The Ilford Lane Phenomenon
 
+
+<figure class="my-10">
+  <img 
+    src="/inline/ilford-lane-1.webp" 
+    alt="Ilford Lane street food stalls bustling with activity" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    Ilford Lane's buzzing late-night dining scene
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/ilford-food-market.webp" 
+    alt="Ilford Lane street food stalls bustling with activity" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    Ilford Lane's buzzing late-night dining scene
+  </figcaption>
+</figure>
+
+
 Walk down Ilford Lane on any given evening and you'll witness something magical: families queuing outside unassuming storefronts, the air thick with the scent of charcoal grills and aromatic spices, and the unmistakable buzz of a community that takes its food seriously. This isn't just dining – it's a cultural experience.
 
 ## The Legends of Ilford Lane
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/ilford-lane-2.webp" 
+    alt="Traditional Pakistani restaurant interior with warm lighting" 
+    class="rounded-2xl shadow-lg border border-grey-dark hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-gold/80 italic text-sm mt-2 text-center">
+    The authentic atmosphere that makes Ilford Lane special
+  </figcaption>
+</figure>
+
+
+
+<figure class="my-10">
+  <img 
+    src="/inline/ilford-restaurant-interior.webp" 
+    alt="Traditional Pakistani restaurant interior with warm lighting" 
+    class="rounded-2xl shadow-lg border border-[#222] hover:scale-105 transition-all duration-500 ease-out"
+  />
+  <figcaption class="text-[#c6a04c]/80 italic text-sm mt-2 text-center">
+    The authentic atmosphere that makes Ilford Lane special
+  </figcaption>
+</figure>
+
 
 ### Royal Nawaab: The Crown Jewel
 **Royal Nawaab** isn't just a restaurant; it's an institution. This Pakistani powerhouse has been serving Ilford's finest for decades, and their biryani is the stuff of local legend. The lamb karahi here will make you question every other curry you've ever had.

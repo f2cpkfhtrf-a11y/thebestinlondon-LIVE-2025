@@ -1,0 +1,49 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#0f0f0f;stop-opacity:1" />
+          <stop offset="30%" style="stop-color:#1a1a1a;stop-opacity:1" />
+          <stop offset="70%" style="stop-color:#2a2a2a;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1" />
+        </linearGradient>
+        <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+        </filter>
+        <filter id="glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge> 
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+      
+      <!-- Background with photo-like gradient -->
+      <rect width="1920" height="1080" fill="url(#bg)"/>
+      
+      <!-- Simulate photo elements with realistic shapes -->
+      <rect x="100" y="400" width="200" height="150" fill="#D4AF37" opacity="0.3" filter="url(#blur)"/>
+      <rect x="350" y="350" width="150" height="120" fill="#D4AF37" opacity="0.4" filter="url(#blur)"/>
+      <rect x="550" y="380" width="180" height="140" fill="#D4AF37" opacity="0.3" filter="url(#blur)"/>
+      <circle cx="200" cy="500" r="25" fill="#D4AF37" opacity="0.4" filter="url(#blur)"/>
+      <circle cx="450" cy="450" r="20" fill="#D4AF37" opacity="0.3" filter="url(#blur)"/>
+      <circle cx="700" cy="480" r="22" fill="#D4AF37" opacity="0.4" filter="url(#blur)"/>
+      
+      <!-- Add some realistic photo-like noise/texture -->
+      <rect x="0" y="0" width="1920" height="1080" fill="url(#bg)" opacity="0.1"/>
+      
+      <!-- Text overlay with photo-realistic styling -->
+      <text x="960" y="300" font-family="Georgia, serif" font-size="80" fill="#D4AF37" text-anchor="middle" dominant-baseline="middle" font-weight="bold" filter="url(#glow)">COVENT GARDEN</text>
+      <text x="960" y="400" font-family="Arial, sans-serif" font-size="40" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">Historic Dining District</text>
+      <text x="960" y="450" font-family="Arial, sans-serif" font-size="32" fill="#D4AF37" text-anchor="middle" dominant-baseline="middle">London's Culinary Heart</text>
+      
+      <!-- Photo-like vignette effect -->
+      <defs>
+        <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" style="stop-color:transparent;stop-opacity:0" />
+          <stop offset="70%" style="stop-color:transparent;stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#000000;stop-opacity:0.4" />
+        </radialGradient>
+      </defs>
+      <rect width="1920" height="1080" fill="url(#vignette)"/>
+    </svg>

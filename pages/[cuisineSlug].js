@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { generateCuisineEditorial } from '../utils/contentGeneration';
 import { theme } from '../utils/theme';
-import { resolveHeroImage } from '../lib/resolveHeroImage';
+// import { resolveHeroImage } from '../lib/resolveHeroImage';
 import { getCuisineData } from '../lib/cuisineData';
 import { TabContainer } from '../components/HeroTabs';
 import PageHero from '../components/PageHero';
@@ -29,8 +29,8 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
   // Get enhanced cuisine data with hero image and intro
   const cuisineData = getCuisineData(normalizedSlug);
   
-  // Get hero image for cuisine page (fallback to existing resolver)
-  const hero = resolveHeroImage({ type: "list-cuisine", cuisineSlug: normalizedSlug });
+  // Get hero image for cuisine page (fallback to default)
+  const hero = '/images/heroes/site/default-list-hero.webp';
   
   // Calculate stats
   const avgRating = venues.length > 0 ? (venues.reduce((sum, v) => sum + (v.rating || 0), 0) / venues.length).toFixed(1) : '0.0';
