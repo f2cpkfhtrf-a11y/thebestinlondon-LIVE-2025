@@ -3,72 +3,45 @@ import Layout from '../components/Layout';
 import Link from 'next/link';
 
 export async function getServerSideProps() {
-  const fs = require('fs');
-  const path = require('path');
-  const matter = require('gray-matter');
-  
-  const directories = [
-    'content/blog/',
-    'content/blog-seo/',
-    'content/blog-seo/v2/'
-  ];
-  
-  let blogs = [];
-  
-  directories.forEach(dir => {
-    const fullPath = path.join(process.cwd(), dir);
-    if (fs.existsSync(fullPath)) {
-      const files = fs.readdirSync(fullPath);
-      files.forEach(file => {
-        if (file.endsWith('.json')) {
-          try {
-            const content = fs.readFileSync(path.join(fullPath, file), 'utf8');
-            const blogData = JSON.parse(content);
-            blogs.push({
-              title: blogData.title || 'Untitled',
-              description: blogData.description || blogData.dek || '',
-              slug: file.replace('.json', ''),
-              date: blogData.datePublished || blogData.publishedAt || blogData.date || new Date().toISOString(),
-              tags: blogData.tags || [],
-              readTime: blogData.readTime || blogData.read_time || '5 min read',
-              type: 'json'
-            });
-          } catch (error) {
-            console.error(`Error parsing ${file}:`, error);
-          }
-        } else if (file.endsWith('.md')) {
-          try {
-            const content = fs.readFileSync(path.join(fullPath, file), 'utf8');
-            const { data } = matter(content);
-            blogs.push({
-              title: data.title || 'Untitled',
-              description: data.description || data.dek || '',
-              slug: file.replace('.md', ''),
-              date: data.datePublished || data.publishedAt || data.date || new Date().toISOString(),
-              tags: data.tags || [],
-              readTime: data.readTime || data.read_time || '5 min read',
-              type: 'markdown'
-            });
-          } catch (error) {
-            console.error(`Error parsing ${file}:`, error);
-          }
+  try {
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.thebestinlondon.co.uk';
+    const res = await fetch(`${baseUrl}/api/blog`);
+    
+    if (!res.ok) {
+      console.error('Failed to fetch blog posts:', res.status);
+      return {
+        props: {
+          blogs: []
         }
-      });
+      };
     }
-  });
-  
-  // Sort by date
-  blogs.sort((a, b) => {
-    const dateA = new Date(a.publishedAtISO || a.datePublished || a.date || 0);
-    const dateB = new Date(b.publishedAtISO || b.datePublished || b.date || 0);
-    return dateB - dateA;
-  });
-
-  return {
-    props: {
-      blogs: blogs || []
-    }
-  };
+    
+    const blogs = await res.json();
+    
+    // Transform data for component
+    const transformedBlogs = blogs.map(blog => ({
+      title: blog.title || 'Untitled',
+      description: blog.description || blog.dek || '',
+      slug: blog.slug,
+      date: blog.datePublished || blog.publishedAt || blog.date || new Date().toISOString(),
+      tags: blog.tags || [],
+      readTime: blog.readTime || blog.read_time || '5 min read',
+      type: blog.type || 'unknown'
+    }));
+    
+    return {
+      props: {
+        blogs: transformedBlogs || []
+      }
+    };
+  } catch (error) {
+    console.error('Error fetching blog posts:', error);
+    return {
+      props: {
+        blogs: []
+      }
+    };
+  }
 }
 
 export default function BlogPage({ blogs }) {

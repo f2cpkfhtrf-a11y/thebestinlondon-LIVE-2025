@@ -7,90 +7,48 @@ import { useEffect, useState } from 'react';
 // Removed getStaticPaths since we're using getServerSideProps for dynamic rendering
 
 export async function getServerSideProps({ params }) {
-  // Import required modules for server-side only
-  const fs = require('fs');
-  const path = require('path');
-  const matter = require('gray-matter');
-  const { marked } = await import('marked');
-
-  // Configure marked for better rendering
-  marked.setOptions({
-    breaks: true,
-    gfm: true,
-  });
-
-  // Robust blog post loader that handles both Markdown and JSON
-  const getBlogPost = (slug) => {
-    const directories = [
-      'content/blog/',
-      'content/blog-seo/',
-      'content/blog-seo/v2/'
-    ];
+  try {
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.thebestinlondon.co.uk';
+    const res = await fetch(`${baseUrl}/api/blog?slug=${params.slug}`);
     
-    for (const dir of directories) {
-      const mdPath = path.join(process.cwd(), dir, `${slug}.md`);
-      const jsonPath = path.join(process.cwd(), dir, `${slug}.json`);
-      
-      // Try Markdown first
-      if (fs.existsSync(mdPath)) {
-        const file = fs.readFileSync(mdPath, 'utf8');
-        const { data, content } = matter(file);
-        
-        return {
-          ...data,
-          contentHtml: marked.parse(content || ''),
-          rawContent: content || '',
-          type: 'markdown'
-        };
-      }
-      
-      // Try JSON
-      if (fs.existsSync(jsonPath)) {
-        const json = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
-        
-        return {
-          ...json,
-          contentHtml: marked.parse(json.bodyMarkdown || json.content || ''),
-          rawContent: json.bodyMarkdown || json.content || '',
-          type: 'json'
-        };
-      }
+    if (!res.ok) {
+      console.error('Failed to fetch blog post:', res.status);
+      return { notFound: true };
     }
     
-    return null;
-  };
-
-  const post = getBlogPost(params.slug);
-  
-  if (!post) {
-    return {
-      notFound: true
-    };
-  }
-
-  // Normalize post data - keep minimal data to reduce bundle size
-  const normalizedPost = {
-    title: post.title || 'Untitled',
-    description: post.description || post.dek || '',
-    slug: params.slug,
-    author: post.author?.name || post.author_name || post.author || 'The Best in London Team',
-    date: post.datePublished || post.publishedAt || post.date || new Date().toISOString(),
-    hero: (post.hero && post.hero.startsWith('/public/') ? post.hero.replace('/public', '') : post.hero) || post.coverImage || '/images/heroes/site/default-blog-hero.webp',
-    tags: post.tags || [],
-    readTime: post.readTime || post.read_time || '5 min read',
-    contentHtml: post.contentHtml || '',
-    meta: {
+    const post = await res.json();
+    
+    if (!post || !post.title) {
+      return { notFound: true };
+    }
+    
+    // Normalize post data - keep minimal data to reduce bundle size
+    const normalizedPost = {
+      title: post.title || 'Untitled',
       description: post.description || post.dek || '',
+      slug: params.slug,
+      author: post.author?.name || post.author_name || post.author || 'The Best in London Team',
+      date: post.datePublished || post.publishedAt || post.date || new Date().toISOString(),
+      hero: (post.hero && post.hero.startsWith('/public/') ? post.hero.replace('/public', '') : post.hero) || post.coverImage || '/images/heroes/site/default-blog-hero.webp',
       tags: post.tags || [],
-      schema: post.schema || 'BlogPosting'
-    }
-  };
-
-  return {
-    props: {
-      post: normalizedPost
-    }
-  };
+      readTime: post.readTime || post.read_time || '5 min read',
+      contentHtml: post.contentHtml || '',
+      meta: {
+        description: post.description || post.dek || '',
+        tags: post.tags || [],
+        schema: post.schema || 'BlogPosting'
+      }
+    };
+    
+    return {
+      props: {
+        post: normalizedPost
+      }
+    };
+  } catch (error) {
+    console.error('Error fetching blog post:', error);
+    return { notFound: true };
+  }
 }
 
 export default function BlogPost({ post }) {
