@@ -3,7 +3,6 @@
   "framework": "nextjs",
   "buildCommand": "npm ci && npm run build",
   "installCommand": "npm ci",
-  "includeFiles": "content/blog-seo/v2/**/*",
   "env": {
     "NEXT_TELEMETRY_DISABLED": "1"
   },
