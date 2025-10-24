@@ -16,8 +16,6 @@ import Footer from '../components/Footer';
 import BackToHome from '../components/BackToHome';
 import Breadcrumbs from '../components/Breadcrumbs';
 import { asCollectionPage } from '../lib/factory/pageFactory';
-import fs from 'fs';
-import path from 'path';
 
 export default function CuisinePage({ cuisineSlug, venues, totalVenues, editorial }) {
   const [filteredVenues, setFilteredVenues] = useState(venues);
@@ -271,79 +269,33 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
   );
 }
 
-export async function getStaticPaths() {
+export async function getServerSideProps({ params }) {
   try {
-    const venuesPath = path.join(process.cwd(), 'data', 'venues.json');
-    
-    if (!fs.existsSync(venuesPath)) {
-      return { paths: [], fallback: 'blocking' };
-    }
-
-    const data = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
-    const venues = Array.isArray(data) ? data : (data.venues || []);
-
-    if (!venues || venues.length === 0) {
-      return { paths: [], fallback: 'blocking' };
-    }
-
-    const cuisines = new Set();
-    venues.forEach(venue => {
-      if (venue.cuisines && Array.isArray(venue.cuisines)) {
-        venue.cuisines.forEach(cuisine => {
-          if (cuisine) {
-            cuisines.add(cuisine.toLowerCase().trim());
-          }
-        });
-      }
-    });
-
-    const paths = Array.from(cuisines).map(cuisine => ({
-      params: { cuisineSlug: cuisine.replace(/\s+/g, '-') }
-    }));
-
-    return { paths, fallback: 'blocking' };
-  } catch (error) {
-    console.error('Error in getStaticPaths:', error);
-    return { paths: [], fallback: 'blocking' };
-  }
-}
-
-export async function getStaticProps({ params }) {
-  try {
-    const venuesPath = path.join(process.cwd(), 'data', 'venues.json');
-    
-    if (!fs.existsSync(venuesPath)) {
-      return { notFound: true };
-    }
-
-    const data = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
-    const allVenues = Array.isArray(data) ? data : (data.venues || []);
-
-    if (!allVenues || allVenues.length === 0) {
-      return { notFound: true };
-    }
-
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.thebestinlondon.co.uk';
     const cuisineParam = (params.cuisineSlug || '').replace(/-/g, ' ').toLowerCase();
-
-    const venues = allVenues.filter(venue => {
-      if (!venue.cuisines || !Array.isArray(venue.cuisines)) return false;
-      return venue.cuisines.some(c => c && c.toLowerCase().trim() === cuisineParam);
-    });
-
-    if (venues.length === 0) {
+    
+    const res = await fetch(`${baseUrl}/api/venues?cuisine=${cuisineParam}`);
+    
+    if (!res.ok) {
       return { notFound: true };
     }
-
+    
+    const venues = await res.json();
+    
+    if (!venues || venues.length === 0) {
+      return { notFound: true };
+    }
+    
     return {
       props: {
-        cuisine: cuisineParam,
+        cuisineSlug: params.cuisineSlug,
         venues,
         totalVenues: venues.length,
         editorial: generateCuisineEditorial(cuisineParam)
       }
     };
   } catch (error) {
-    console.error('Error in getStaticProps:', error);
+    console.error('Error in getServerSideProps:', error);
     return { notFound: true };
   }
 }

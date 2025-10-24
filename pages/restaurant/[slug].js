@@ -17,66 +17,36 @@ import { isValidFsaScore, getFsaDisplayValue } from '../../lib/fsa';
 import { resolveVenueHero } from '../../lib/resolveHeroImage';
 import EnhancedImageGallery from '../../components/EnhancedImageGallery';
 
-export async function getStaticPaths() {
-  const fs = require('fs');
-  const path = require('path');
-  
+export async function getServerSideProps({ params }) {
   try {
-    const filePath = path.join(process.cwd(), 'data/venues.json');
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    let venues = JSON.parse(fileContent);
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.thebestinlondon.co.uk';
+    const res = await fetch(`${baseUrl}/api/venues?slug=${params.slug}`);
     
-    // Handle both flat array and wrapped object
-    if (!Array.isArray(venues) && venues.venues) {
-      venues = venues.venues;
-    }
-    
-    const paths = venues.map(venue => ({
-      params: { slug: venue.slug }
-    }));
-    
-    return { paths, fallback: 'blocking' };
-  } catch (error) {
-    console.error('getStaticPaths error:', error);
-    return { paths: [], fallback: 'blocking' };
-  }
-}
-
-export async function getStaticProps({ params }) {
-  const fs = require('fs');
-  const path = require('path');
-  
-  try {
-    const filePath = path.join(process.cwd(), 'data/venues.json');
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    let venues = JSON.parse(fileContent);
-    
-    // Handle both flat array and wrapped object
-    if (!Array.isArray(venues) && venues.venues) {
-      venues = venues.venues;
-    }
-    
-    const venue = venues.find(v => v.slug === params.slug);
-    
-    if (!venue) {
+    if (!res.ok) {
       return { notFound: true };
     }
     
-    return { props: { venue } };
+    const venues = await res.json();
+    
+    if (!venues || venues.length === 0) {
+      return { notFound: true };
+    }
+    
+    const venue = venues[0]; // API returns filtered results
+    
+    return {
+      props: {
+        venue
+      }
+    };
   } catch (error) {
-    console.error('getStaticProps error:', error);
+    console.error('getServerSideProps error:', error);
     return { notFound: true };
   }
 }
 
 export default function VenueDetailPage({ venue }) {
   const router = useRouter();
-  
-  if (router.isFallback) {
-    return <div style={{ padding: '100px', textAlign: 'center', background: '#0B0B0B', minHeight: '100vh' }}>
-      <p style={{ color: '#FAFAFA' }}>Loading...</p>
-    </div>;
-  }
   
             // Get hero image for venue detail page using new resolver
             const heroImageSrc = (() => {

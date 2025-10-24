@@ -11,57 +11,49 @@ import { resolveHeroImage } from '../../lib/resolveHeroImage';
 import BestOfLondonBadge from '../../components/BestOfLondonBadge';
 import FSABadge from '../../components/FSABadge';
 import StandardizedCard from '../../components/StandardizedCard';
-const { areaList, normaliseArea } = require('../../lib/areas');
-
-export async function getStaticPaths() {
-  try {
-    // Use our normalized area list
-    const areas = areaList();
-    return {
-      paths: areas.map(area => ({
-        params: { slug: area.slug }
-      })),
-      fallback: "blocking"
-    };
-  } catch (error) {
-    console.error('Error generating paths:', error);
-    return {
-      paths: [],
-      fallback: "blocking"
-    };
-  }
-}
-
-export async function getStaticProps({ params }) {
+// Server-side areas data loading
+function getAreaList() {
   const fs = require('fs');
   const path = require('path');
   
   try {
-    const filePath = path.join(process.cwd(), 'data/venues.json');
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    let data = JSON.parse(fileContent);
-    
-    const allVenues = Array.isArray(data) ? data : (data.venues || []);
-    
-    // Find area by slug
+    const areasPath = path.join(process.cwd(), 'data/areas.json');
+    const areasData = JSON.parse(fs.readFileSync(areasPath, 'utf8'));
+    return areasData.areas || [];
+  } catch (error) {
+    console.error('Error loading areas data:', error);
+    return [];
+  }
+}
+
+function normaliseArea(input) {
+  return String(input || "").toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+// Removed getStaticPaths since we're using getServerSideProps
+
+export async function getServerSideProps({ params }) {
+  try {
+    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.thebestinlondon.co.uk';
     const areaSlug = params.slug;
-    const areas = areaList();
+    
+    // Get area name from slug
+    const areas = getAreaList();
     const areaData = areas.find(a => a.slug === areaSlug);
     const areaName = areaData ? areaData.name : areaSlug.split('-').map(word => 
       word.charAt(0).toUpperCase() + word.slice(1)
     ).join(' ');
     
-    // Filter venues for this area using normalized matching
-    const venues = allVenues.filter(venue => {
-      const venueArea = venue.borough || venue.area || venue.address?.borough || '';
-      const normalizedVenueArea = normaliseArea(venueArea);
-      return normalizedVenueArea === areaSlug || normaliseArea(venue.area) === areaSlug;
-    });
+    const res = await fetch(`${baseUrl}/api/venues?area=${areaName}`);
     
-    if (venues.length === 0) {
-      return {
-        notFound: true
-      };
+    if (!res.ok) {
+      return { notFound: true };
+    }
+    
+    const venues = await res.json();
+    
+    if (!venues || venues.length === 0) {
+      return { notFound: true };
     }
     
     // Calculate stats
@@ -98,9 +90,7 @@ export async function getStaticProps({ params }) {
     };
   } catch (error) {
     console.error('Error loading area data:', error);
-    return {
-      notFound: true
-    };
+    return { notFound: true };
   }
 }
 

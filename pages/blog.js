@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Layout from '../components/Layout';
 import Link from 'next/link';
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const fs = require('fs');
   const path = require('path');
   const matter = require('gray-matter');
@@ -25,8 +25,12 @@ export async function getStaticProps() {
             const content = fs.readFileSync(path.join(fullPath, file), 'utf8');
             const blogData = JSON.parse(content);
             blogs.push({
-              ...blogData,
+              title: blogData.title || 'Untitled',
+              description: blogData.description || blogData.dek || '',
               slug: file.replace('.json', ''),
+              date: blogData.datePublished || blogData.publishedAt || blogData.date || new Date().toISOString(),
+              tags: blogData.tags || [],
+              readTime: blogData.readTime || blogData.read_time || '5 min read',
               type: 'json'
             });
           } catch (error) {
@@ -37,8 +41,12 @@ export async function getStaticProps() {
             const content = fs.readFileSync(path.join(fullPath, file), 'utf8');
             const { data } = matter(content);
             blogs.push({
-              ...data,
+              title: data.title || 'Untitled',
+              description: data.description || data.dek || '',
               slug: file.replace('.md', ''),
+              date: data.datePublished || data.publishedAt || data.date || new Date().toISOString(),
+              tags: data.tags || [],
+              readTime: data.readTime || data.read_time || '5 min read',
               type: 'markdown'
             });
           } catch (error) {
@@ -59,8 +67,7 @@ export async function getStaticProps() {
   return {
     props: {
       blogs: blogs || []
-    },
-    revalidate: 3600
+    }
   };
 }
 
