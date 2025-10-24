@@ -10,7 +10,7 @@ import { resolveHeroImage, resolveTileImage } from '../lib/resolveHeroImage';
 import ImageTile from '../components/tiles/ImageTile';
 import { asCollectionPage } from '../lib/factory/pageFactory';
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const fs = require('fs');
   const path = require('path');
   
@@ -38,7 +38,7 @@ export async function getStaticProps() {
         count
       }))
       .sort((a, b) => b.count - a.count);
-
+    
     return {
       props: {
         areas,

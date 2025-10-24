@@ -9,7 +9,7 @@ import { resolveTileImage } from '../lib/resolveHeroImage';
 import ImageTile from '../components/tiles/ImageTile';
 import { asCollectionPage } from '../lib/factory/pageFactory';
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const fs = require('fs');
   const path = require('path');
   
