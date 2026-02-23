@@ -43,7 +43,22 @@ export async function getServerSideProps() {
         // Tertiary: Rating
         return (b.rating || 0) - (a.rating || 0);
       })
-      .slice(0, 8); // Top 8 as specified
+      .slice(0, 8) // Top 8 as specified
+      .map(v => ({
+        place_id: v.place_id,
+        slug: v.slug,
+        name: v.name,
+        cuisines: v.cuisines ? v.cuisines.slice(0, 3) : [],
+        area: v.area || null,
+        borough: v.borough || null,
+        vicinity: v.vicinity || null,
+        rating: v.rating || null,
+        user_ratings_total: v.user_ratings_total || null,
+        image_card_path: v.image_card_path || null,
+        image_url: v.image_url || null,
+        photos: v.photos ? v.photos.slice(0, 1) : [],
+        bil_score: v.bil_score || null,
+      }));
     
     // Calculate stats
     const stats = {
@@ -79,8 +94,18 @@ export async function getServerSideProps() {
         const blogFiles = fs.readdirSync(blogDir).filter(file => file.endsWith('.json'));
         blogs = blogFiles.map(file => {
           const content = fs.readFileSync(path.join(blogDir, file), 'utf8');
-          return JSON.parse(content);
-        }).sort((a, b) => new Date(b.publishedAtISO) - new Date(a.publishedAtISO));
+          const blog = JSON.parse(content);
+          // Only pass fields needed for the homepage blog list
+          return {
+            slug: blog.slug,
+            title: blog.title,
+            excerpt: blog.excerpt || blog.description || '',
+            publishedAtISO: blog.publishedAtISO,
+            image: blog.image || blog.featuredImage || null,
+            author: blog.author || null,
+            category: blog.category || null,
+          };
+        }).sort((a, b) => new Date(b.publishedAtISO) - new Date(a.publishedAtISO)).slice(0, 6);
       }
     } catch (error) {
       console.log('No blog content found:', error.message);
@@ -205,7 +230,7 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
           {/* Page Hero */}
           <div className="container mx-auto px-4 md:px-6 lg:px-8">
             <PageHero 
-              title="Best Restaurants in London {new Date().getFullYear()}"
+              title={`Best Restaurants in London ${new Date().getFullYear()}`}
               subtitle="Discover Top-Rated London Restaurants with Real Reviews | Halal, Vegan & Fine Dining"
               stats={[
                 { label: "Restaurants", value: "760+" },

@@ -42,7 +42,7 @@ export default function OptimizedImage({
         width={width}
         height={height}
         quality={quality}
-        priority={priority}
+        loading={priority ? "eager" : "lazy"}
         onLoad={handleLoad}
         onError={handleError}
         className={`transition-opacity duration-300 ${
