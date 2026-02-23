@@ -218,7 +218,7 @@ export default function BestKoreanInTowerHamlets2025() {
         "ratingValue": 4.9,
         "reviewCount": 187
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/bibimbop-bow-StMWnhyE",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/bibimbop-bow-StMWnhyE",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: Closed",

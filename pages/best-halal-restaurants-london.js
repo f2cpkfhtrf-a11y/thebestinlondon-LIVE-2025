@@ -142,7 +142,7 @@ export default function BestHalalRestaurantsLondon({ venues, lastUpdated }) {
   return (
     <>
       <Head>
-        <title>Best Halal Restaurants in London 2025 — {venues.length}+ Verified Venues | The Best in London</title>
+        <title>Best Halal Restaurants in London {new Date().getFullYear()} — {venues.length}+ Verified Venues | The Best in London</title>
         <meta name="description" content={`Discover ${venues.length}+ best halal restaurants in London. Verified halal options with detailed reviews, FSA ratings, and authentic cuisine across all areas.`} />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk/best-halal-restaurants-london" />
         <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />

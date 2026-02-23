@@ -40,21 +40,6 @@ export default function PageHero({
     }
   };
 
-  // Generate srcSet for responsive variants
-  const generateSrcSet = (): string | undefined => {
-    const srcSet: string[] = [];
-    if (image.srcMd && image.srcMd !== image.src) {
-      srcSet.push(`${image.srcMd} 768w`);
-    }
-    if (image.srcLg && image.srcLg !== image.src) {
-      srcSet.push(`${image.srcLg} 1280w`);
-    }
-    if (image.src) {
-      srcSet.push(`${currentSrc} 0w`);
-    }
-    return srcSet.length > 1 ? srcSet.join(', ') : undefined;
-  };
-
   return (
     <div className="relative w-full overflow-hidden rounded-none lg:rounded-2xl">
       {/* Image */}
@@ -66,13 +51,16 @@ export default function PageHero({
           src={currentSrc}
           alt={image.alt}
           fill
-          sizes="(min-width: 1280px) 1280px, 100vw"
+          sizes={
+            image.srcLg || image.srcMd
+              ? "(min-width: 1280px) 1280px, (min-width: 768px) 768px, 100vw"
+              : "(min-width: 1280px) 1280px, 100vw"
+          }
           className="object-cover transition-opacity duration-300"
           priority={priority}
           onError={handleImageError}
           placeholder={blurDataUrl ? "blur" : "empty"}
           blurDataURL={blurDataUrl}
-          {...(generateSrcSet() && { srcSet: generateSrcSet() })}
         />
         
         {/* Gradient overlay */}

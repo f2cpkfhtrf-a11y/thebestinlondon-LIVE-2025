@@ -69,7 +69,7 @@ export default function RichmondRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Richmond 2025",
     "description": "Directory of top-rated restaurants in Richmond",
-    "url": "https://thebestinlondon.co.uk/restaurants-richmond",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-richmond",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

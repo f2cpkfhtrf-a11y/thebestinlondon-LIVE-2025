@@ -8,10 +8,10 @@ export default function BestCoffeeShopsLondon() {
   return (
     <>
       <Head>
-        <title>Best Coffee Shops in London 2025 | Specialty Coffee & Roasters</title>
+        <title>Best Coffee Shops in London {new Date().getFullYear()} | Specialty Coffee & Roasters</title>
         <meta name="description" content="Discover London's best coffee shops and specialty roasters. From flat whites to pour-overs. Real reviews, FSA verified. Updated daily." />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/best-coffee-shops-london" />
+        <link rel="canonical" href="https://www.thebestinlondon.co.uk/best-coffee-shops-london" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>

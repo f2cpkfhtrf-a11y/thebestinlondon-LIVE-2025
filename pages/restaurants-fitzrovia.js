@@ -69,7 +69,7 @@ export default function FitzroviaRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Fitzrovia 2025",
     "description": "Directory of top-rated restaurants in Fitzrovia",
-    "url": "https://thebestinlondon.co.uk/restaurants-fitzrovia",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-fitzrovia",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

@@ -250,7 +250,7 @@ export default function BestTurkishInTowerHamlets2025() {
         "ratingValue": 5,
         "reviewCount": 36
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/halal-street-kitchen-5e3zUyL0",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/halal-street-kitchen-5e3zUyL0",
       "openingHours": [
         "Monday: 12:00 PM – 12:00 AM",
         "Tuesday: 12:00 PM – 12:00 AM",
@@ -514,7 +514,7 @@ export default function BestTurkishInTowerHamlets2025() {
         "ratingValue": 4.2,
         "reviewCount": 3830
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/efes-restaurant-whitechapel-XQYLbLIY",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/efes-restaurant-whitechapel-XQYLbLIY",
       "openingHours": [
         "Monday: 10:00 AM – 2:00 AM",
         "Tuesday: 10:00 AM – 2:00 AM",

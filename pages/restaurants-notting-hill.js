@@ -69,7 +69,7 @@ export default function NottingHillRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Notting Hill 2025",
     "description": "Directory of top-rated restaurants in Notting Hill",
-    "url": "https://thebestinlondon.co.uk/restaurants-notting-hill",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-notting-hill",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

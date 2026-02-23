@@ -69,7 +69,7 @@ export default function BrixtonRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Brixton 2025",
     "description": "Directory of top-rated restaurants in Brixton",
-    "url": "https://thebestinlondon.co.uk/restaurants-brixton",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-brixton",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

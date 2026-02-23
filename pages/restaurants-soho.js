@@ -69,7 +69,7 @@ export default function SohoRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Soho 2025",
     "description": "Directory of top-rated restaurants in Soho",
-    "url": "https://thebestinlondon.co.uk/restaurants-soho",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-soho",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

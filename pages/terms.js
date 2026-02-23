@@ -10,7 +10,7 @@ export default function TermsOfService() {
       <Head>
         <title>Terms of Service | The Best in London</title>
         <meta name="description" content="Terms and conditions for using The Best in London restaurant directory." />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/terms" />
+        <link rel="canonical" href="https://www.thebestinlondon.co.uk/terms" />
       </Head>
 
       <div className="min-h-screen bg-black">

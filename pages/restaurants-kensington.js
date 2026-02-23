@@ -69,7 +69,7 @@ export default function KensingtonRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Kensington 2025",
     "description": "Directory of top-rated restaurants in Kensington",
-    "url": "https://thebestinlondon.co.uk/restaurants-kensington",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-kensington",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

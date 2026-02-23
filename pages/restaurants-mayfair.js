@@ -69,7 +69,7 @@ export default function MayfairRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Mayfair 2025",
     "description": "Directory of top-rated restaurants in Mayfair",
-    "url": "https://thebestinlondon.co.uk/restaurants-mayfair",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-mayfair",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

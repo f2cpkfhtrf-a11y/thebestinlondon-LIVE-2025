@@ -250,7 +250,7 @@ export default function BestIndianInTowerHamlets2025() {
         "ratingValue": 4.4,
         "reviewCount": 1159
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/sultan-sofrasi-lU11pmVo",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/sultan-sofrasi-lU11pmVo",
       "openingHours": [
         "Monday: 11:00 AM – 11:00 PM",
         "Tuesday: 11:00 AM – 11:00 PM",
@@ -518,7 +518,7 @@ export default function BestIndianInTowerHamlets2025() {
         "ratingValue": 4.3,
         "reviewCount": 1372
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/hichki-indian-restaurant--qOdDlq0",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/hichki-indian-restaurant--qOdDlq0",
       "openingHours": [
         "Monday: 11:30 AM – 10:45 PM",
         "Tuesday: 11:30 AM – 10:45 PM",

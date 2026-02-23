@@ -69,7 +69,7 @@ export default function ClaphamRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Clapham 2025",
     "description": "Directory of top-rated restaurants in Clapham",
-    "url": "https://thebestinlondon.co.uk/restaurants-clapham",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-clapham",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

@@ -1,15 +1,8 @@
 User-agent: *
 Allow: /
 
-# Sitemaps
+# Sitemaps - single index that references all sub-sitemaps
 Sitemap: https://www.thebestinlondon.co.uk/sitemap.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-pages.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-venues.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-cuisines.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-areas.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-blog.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-faq.xml
-Sitemap: https://www.thebestinlondon.co.uk/sitemap-collections.xml
 
 # Image optimization
 Allow: /images/

@@ -81,13 +81,13 @@ export default function HalalNearStationsIndex({ stations, totalVenues, lastUpda
           name="description" 
           content={`Find halal restaurants within walking distance of ${stations.length} major London tube stations. ${totalVenues} verified halal venues across Zone 1-2.`}
         />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/halal/near-stations" />
+        <link rel="canonical" href="https://www.thebestinlondon.co.uk/halal/near-stations" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "CollectionPage",
           "name": "Halal Restaurants Near London Tube Stations",
           "description": `Find halal restaurants within walking distance of ${stations.length} major London tube stations`,
-          "url": "https://thebestinlondon.co.uk/halal/near-stations"
+          "url": "https://www.thebestinlondon.co.uk/halal/near-stations"
         }) }} />
       </Head>
 

@@ -69,7 +69,7 @@ export default function BloomsburyRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Bloomsbury 2025",
     "description": "Directory of top-rated restaurants in Bloomsbury",
-    "url": "https://thebestinlondon.co.uk/restaurants-bloomsbury",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-bloomsbury",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

@@ -85,14 +85,14 @@ export default function WhitechapelRestaurants({ venues, stats, lastUpdated }) {
     <Head>
       <title>Best Restaurants in Whitechapel 2025 — {stats.totalVenues}+ Top Rated | The Best in London</title>
       <meta name="description" content={`Discover ${stats.totalVenues}+ best restaurants in Whitechapel. Halal, vegan, vegetarian options. Real reviews, FSA verified, updated daily.`} />
-      <link rel="canonical" href="https://thebestinlondon.co.uk/restaurants-whitechapel" />
+      <link rel="canonical" href="https://www.thebestinlondon.co.uk/restaurants-whitechapel" />
       
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org",
         "@type": "CollectionPage",
         "name": "Best Restaurants in Whitechapel",
         "description": `Directory of ${stats.totalVenues} top-rated restaurants in Whitechapel`,
-        "url": "https://thebestinlondon.co.uk/restaurants-whitechapel"
+        "url": "https://www.thebestinlondon.co.uk/restaurants-whitechapel"
       }) }} />
     </Head>
 

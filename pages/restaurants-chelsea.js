@@ -69,7 +69,7 @@ export default function ChelseaRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Chelsea 2025",
     "description": "Directory of top-rated restaurants in Chelsea",
-    "url": "https://thebestinlondon.co.uk/restaurants-chelsea",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-chelsea",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

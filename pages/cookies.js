@@ -10,7 +10,7 @@ export default function CookiePolicy() {
       <Head>
         <title>Cookie Policy | The Best in London</title>
         <meta name="description" content="Cookie policy and tracking information for The Best in London." />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/cookies" />
+        <link rel="canonical" href="https://www.thebestinlondon.co.uk/cookies" />
       </Head>
 
       <div className="min-h-screen bg-black">

@@ -256,7 +256,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 2539
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/yiqi-cDLJ0Z8k",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/yiqi-cDLJ0Z8k",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -519,7 +519,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 201
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/maru-london-yQBXwWAI",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/maru-london-yQBXwWAI",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 5:30 – 11:00 PM",
@@ -832,7 +832,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 226
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/noble-palace-6iVOz8Kc",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/noble-palace-6iVOz8Kc",
       "openingHours": [
         "Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
         "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
@@ -1105,7 +1105,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 2717
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/oita-soho-xrSS0hZo",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/oita-soho-xrSS0hZo",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -1416,7 +1416,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 1339
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/rai-restaurant-london-5PZAMF6Q",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/rai-restaurant-london-5PZAMF6Q",
       "openingHours": [
         "Monday: 12:00 – 3:30 PM, 5:30 – 10:30 PM",
         "Tuesday: 5:30 – 10:30 PM",
@@ -1688,7 +1688,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 4320
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/speedboat-bar-FDICmOhQ",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/speedboat-bar-FDICmOhQ",
       "openingHours": [
         "Monday: 12:00 PM – 12:00 AM",
         "Tuesday: 12:00 PM – 12:00 AM",
@@ -1989,7 +1989,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.6,
         "reviewCount": 1629
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/ma-la-sichuan-oHK7UfPw",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/ma-la-sichuan-oHK7UfPw",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 12:00 – 2:30 PM, 5:30 – 10:30 PM",
@@ -2332,7 +2332,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 2748
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/zuma-london-3z813cBw",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/zuma-london-3z813cBw",
       "openingHours": [
         "Monday: 12:00 – 3:00 PM, 6:00 – 11:00 PM",
         "Tuesday: 12:00 – 3:00 PM, 6:00 – 11:00 PM",
@@ -2653,7 +2653,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 255
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/house-of-ming-bmTrCQPc",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/house-of-ming-bmTrCQPc",
       "openingHours": [
         "Monday: 12:00 – 2:45 PM, 6:30 – 10:30 PM",
         "Tuesday: Closed",
@@ -2923,7 +2923,7 @@ export default function BestJapaneseInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 1399
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/the-sichuan-restaurant-939Y8L8U",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/the-sichuan-restaurant-939Y8L8U",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",

@@ -69,7 +69,7 @@ export default function BoroughRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Borough 2025",
     "description": "Directory of top-rated restaurants in Borough",
-    "url": "https://thebestinlondon.co.uk/restaurants-borough",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-borough",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

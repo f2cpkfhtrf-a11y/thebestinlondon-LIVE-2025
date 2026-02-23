@@ -49,9 +49,9 @@ export default function BarsLondon({ venues }) {
   return (
     <>
       <Head>
-        <title>Best Bars in London 2025 | {venues.length}+ Curated Venues</title>
+        <title>Best Bars in London {new Date().getFullYear()} | {venues.length}+ Curated Venues</title>
         <meta name="description" content={`Discover ${venues.length}+ top-rated bars in London. Cocktail bars, pubs, rooftop terraces. Real reviews, verified ratings.`} />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/bars" />
+        <link rel="canonical" href="https://www.thebestinlondon.co.uk/bars" />
       </Head>
 
       <div className="min-h-screen bg-black">

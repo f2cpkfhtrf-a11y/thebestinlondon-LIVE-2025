@@ -48,75 +48,83 @@ const SocialShareButtons = dynamic(() => import('../../components/SocialShareBut
   loading: () => null
 });
 
-export async function getServerSideProps({ params }) {
+export async function getStaticPaths() {
+  const fs = require('fs');
+  const path = require('path');
+
+  try {
+    const venuesPath = path.join(process.cwd(), 'data/venues.json');
+    const allVenuesData = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
+    const allVenues = Array.isArray(allVenuesData) ? allVenuesData : (allVenuesData.venues || []);
+
+    const paths = allVenues
+      .filter(v => v.slug)
+      .map(v => ({ params: { slug: v.slug } }));
+
+    return { paths, fallback: 'blocking' };
+  } catch (error) {
+    console.error('getStaticPaths error:', error);
+    return { paths: [], fallback: 'blocking' };
+  }
+}
+
+export async function getStaticProps({ params }) {
   try {
     const fs = require('fs');
     const path = require('path');
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://www.thebestinlondon.co.uk';
-    
-    // Fetch the specific venue
-    const res = await fetch(`${baseUrl}/api/venues?slug=${params.slug}`);
-    
-    if (!res.ok) {
+
+    // Read venues data directly from the local JSON file (no HTTP roundtrip)
+    const venuesPath = path.join(process.cwd(), 'data/venues.json');
+    const allVenuesData = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
+    const allVenues = Array.isArray(allVenuesData) ? allVenuesData : (allVenuesData.venues || []);
+
+    // Find the specific venue by slug
+    const venue = allVenues.find(v => v.slug === params.slug);
+
+    if (!venue) {
       return { notFound: true };
     }
-    
-    const venues = await res.json();
-    
-    if (!venues || venues.length === 0) {
-      return { notFound: true };
-    }
-    
-    const venue = venues[0]; // API returns filtered results
-    
+
     // Find nearby similar restaurants (same cuisine, within 5km)
     let nearbyVenues = [];
     if (venue.lat && venue.lng && venue.cuisines && venue.cuisines.length > 0) {
-      try {
-        const venuesPath = path.join(process.cwd(), 'data/venues.json');
-        const allVenuesData = JSON.parse(fs.readFileSync(venuesPath, 'utf8'));
-        const allVenues = Array.isArray(allVenuesData) ? allVenuesData : (allVenuesData.venues || []);
-        
-        // Calculate distance and find nearby restaurants
-        const calculateDistance = (lat1, lon1, lat2, lon2) => {
-          const R = 6371; // Earth's radius in km
-          const dLat = (lat2 - lat1) * Math.PI / 180;
-          const dLon = (lon2 - lon1) * Math.PI / 180;
-          const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-                    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-                    Math.sin(dLon/2) * Math.sin(dLon/2);
-          const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-          return R * c;
-        };
-        
-        nearbyVenues = allVenues
-          .filter(v => 
-            v.slug !== venue.slug && 
-            v.lat && 
-            v.lng && 
-            v.cuisines && 
-            v.cuisines.some(c => venue.cuisines.includes(c))
-          )
-          .map(v => {
-            const distance = calculateDistance(venue.lat, venue.lng, v.lat, v.lng);
-            return { ...v, distance };
-          })
-          .filter(v => v.distance <= 5) // Within 5km
-          .sort((a, b) => a.distance - b.distance)
-          .slice(0, 5); // Top 5 nearby
-      } catch (error) {
-        console.warn('Error finding nearby venues:', error);
-      }
+      const calculateDistance = (lat1, lon1, lat2, lon2) => {
+        const R = 6371;
+        const dLat = (lat2 - lat1) * Math.PI / 180;
+        const dLon = (lon2 - lon1) * Math.PI / 180;
+        const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                  Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                  Math.sin(dLon/2) * Math.sin(dLon/2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+        return R * c;
+      };
+
+      nearbyVenues = allVenues
+        .filter(v =>
+          v.slug !== venue.slug &&
+          v.lat &&
+          v.lng &&
+          v.cuisines &&
+          v.cuisines.some(c => venue.cuisines.includes(c))
+        )
+        .map(v => {
+          const distance = calculateDistance(venue.lat, venue.lng, v.lat, v.lng);
+          return { ...v, distance };
+        })
+        .filter(v => v.distance <= 5)
+        .sort((a, b) => a.distance - b.distance)
+        .slice(0, 5);
     }
-    
+
     return {
       props: {
         venue,
         nearbyVenues
-      }
+      },
+      revalidate: 86400 // Revalidate every 24 hours (ISR)
     };
   } catch (error) {
-    console.error('getServerSideProps error:', error);
+    console.error('getStaticProps error:', error);
     return { notFound: true };
   }
 }
@@ -172,7 +180,7 @@ export default function VenueDetailPage({ venue, nearbyVenues = [] }) {
       "latitude": venue.address.lat,
       "longitude": venue.address.lng
     } : null,
-    "url": venue.website || `https://thebestinlondon.co.uk/restaurant/${venue.slug}`,
+    "url": venue.website || `https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`,
     "telephone": venue.phone || '',
     "servesCuisine": venue.cuisines?.[0] || '',
     "priceRange": '£'.repeat(venue.price_level || 2),
@@ -190,13 +198,13 @@ export default function VenueDetailPage({ venue, nearbyVenues = [] }) {
       <Head>
         <title>{generateSEOTitle('restaurant', venue)}</title>
         <meta name="description" content={venue?.about?.text?.slice(0,155) || generateSEODescription('restaurant', venue)} />
-        <link rel="canonical" href={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
+        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`} />
         
         {/* Open Graph Tags */}
         <meta property="og:title" content={generateSEOTitle('restaurant', venue)} />
         <meta property="og:description" content={generateSEODescription('restaurant', venue)} />
         <meta property="og:type" content="restaurant" />
-        <meta property="og:url" content={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
+        <meta property="og:url" content={`https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`} />
         <meta property="og:image" content={venue.image_hero_path?.replace('/public', '') ? `https://www.thebestinlondon.co.uk${venue.image_hero_path.replace('/public', '')}` : 'https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp'} />
         <meta property="og:image:alt" content={venue.image_alt || `${venue.name} restaurant in ${venue.borough || 'London'}`} />
         <meta property="og:site_name" content="The Best in London" />
@@ -217,10 +225,10 @@ export default function VenueDetailPage({ venue, nearbyVenues = [] }) {
         {/* Structured Data */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(generateStructuredData('restaurant', venue)) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(generateBreadcrumbData([
-          { name: 'Home', url: 'https://thebestinlondon.co.uk' },
-          { name: 'Restaurants', url: 'https://thebestinlondon.co.uk/restaurants' },
-          { name: venue.cuisines?.[0] || 'Restaurants', url: `https://thebestinlondon.co.uk/${venue.cuisines?.[0]?.toLowerCase().replace(/\s+/g, '-')}` },
-          { name: venue.name, url: `https://thebestinlondon.co.uk/restaurant/${venue.slug}` }
+          { name: 'Home', url: 'https://www.thebestinlondon.co.uk' },
+          { name: 'Restaurants', url: 'https://www.thebestinlondon.co.uk/restaurants' },
+          { name: venue.cuisines?.[0] || 'Restaurants', url: `https://www.thebestinlondon.co.uk/${venue.cuisines?.[0]?.toLowerCase().replace(/\s+/g, '-')}` },
+          { name: venue.name, url: `https://www.thebestinlondon.co.uk/restaurant/${venue.slug}` }
         ])) }} />
         
         {/* Preconnect to external domains */}

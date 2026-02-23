@@ -274,7 +274,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 298
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/giulia-restaurant-EkK4r0z4",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/giulia-restaurant-EkK4r0z4",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 5:30 – 10:30 PM",
@@ -545,7 +545,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 1356
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/amor-gastronomia-9fVApnuo",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/amor-gastronomia-9fVApnuo",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -818,7 +818,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 32974
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/circolo-popolare-kqYLufoE",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/circolo-popolare-kqYLufoE",
       "openingHours": [
         "Monday: 12:00 – 10:30 PM",
         "Tuesday: 12:00 – 10:30 PM",
@@ -1071,7 +1071,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 3330
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/grasso-VxepVY0I",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/grasso-VxepVY0I",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 12:00 – 10:30 PM",
@@ -1413,7 +1413,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 20227
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/gloria-fPFxdplY",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/gloria-fPFxdplY",
       "openingHours": [
         "Monday: 12:00 – 3:30 PM, 5:15 – 10:30 PM",
         "Tuesday: 12:00 – 3:30 PM, 5:15 – 10:30 PM",
@@ -1676,7 +1676,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 681
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/doppo-MCqb9oIE",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/doppo-MCqb9oIE",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 12:00 – 11:30 PM",
@@ -1946,7 +1946,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 3425
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/osteria-napoletana-JmjibnCw",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/osteria-napoletana-JmjibnCw",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -2210,7 +2210,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 507
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/fatto-a-mano-bethnal-green-iftn5UJA",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/fatto-a-mano-bethnal-green-iftn5UJA",
       "openingHours": [
         "Monday: 12:00 – 10:00 PM",
         "Tuesday: 12:00 – 10:00 PM",
@@ -2474,7 +2474,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 618
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/casa-fof-9XapQArk",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/casa-fof-9XapQArk",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: Closed",
@@ -2819,7 +2819,7 @@ export default function BestItalianInCentralLondon2025() {
         "ratingValue": 4.6,
         "reviewCount": 3376
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/bocca-di-lupo-P7Z6jOko",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/bocca-di-lupo-P7Z6jOko",
       "openingHours": [
         "Monday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",
         "Tuesday: 12:00 – 3:00 PM, 5:00 PM – 12:00 AM",

@@ -69,7 +69,7 @@ export default function KingsCrossRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Kings Cross 2025",
     "description": "Directory of top-rated restaurants in Kings Cross",
-    "url": "https://thebestinlondon.co.uk/restaurants-kings-cross",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-kings-cross",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

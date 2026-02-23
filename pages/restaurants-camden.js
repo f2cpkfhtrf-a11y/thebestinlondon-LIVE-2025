@@ -69,7 +69,7 @@ export default function CamdenRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Camden 2025",
     "description": "Directory of top-rated restaurants in Camden",
-    "url": "https://thebestinlondon.co.uk/restaurants-camden",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-camden",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

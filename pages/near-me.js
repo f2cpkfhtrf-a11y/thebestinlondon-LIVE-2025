@@ -69,7 +69,7 @@ export default function NearMePage({ venues }) {
       <Head>
         <title>Restaurants Near Me | The Best in London</title>
         <meta name="description" content="Find the best restaurants near your location in London. Discover top-rated dining options within walking distance with real reviews and FSA ratings." />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/near-me" />
+        <link rel="canonical" href="https://www.thebestinlondon.co.uk/near-me" />
         
         {/* Additional SEO meta tags */}
         <meta name="robots" content="index, follow, max-image-preview:large" />
@@ -84,7 +84,7 @@ export default function NearMePage({ venues }) {
           "@type": "WebPage",
           "name": "Restaurants Near Me",
           "description": "Find the best restaurants near your location in London with distance and walking time information",
-          "url": "https://thebestinlondon.co.uk/near-me"
+          "url": "https://www.thebestinlondon.co.uk/near-me"
         }) }} />
         
         <link rel="preconnect" href="https://fonts.googleapis.com" />

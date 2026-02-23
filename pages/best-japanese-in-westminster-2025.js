@@ -256,7 +256,7 @@ export default function BestJapaneseInWestminster2025() {
         "ratingValue": 4.5,
         "reviewCount": 551
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/peacock-london-zg_TLvpA",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/peacock-london-zg_TLvpA",
       "openingHours": [
         "Monday: 11:00 AM – 10:30 PM",
         "Tuesday: 11:00 AM – 10:30 PM",

@@ -139,16 +139,16 @@ export default function EastLondon({ venues, stats, areas, lastUpdated }) {
 
   return (<>
     <Head>
-      <title>Best Restaurants in East London 2025 — {stats.totalVenues}+ Curated Venues | The Best in London</title>
+      <title>Best Restaurants in East London {new Date().getFullYear()} — {stats.totalVenues}+ Curated Venues | The Best in London</title>
       <meta name="description" content={`Discover ${stats.totalVenues}+ best restaurants in East London. Halal, vegan, vegetarian options. Whitechapel, Stratford, Canary Wharf & more.`} />
-      <link rel="canonical" href="https://thebestinlondon.co.uk/east-london" />
+      <link rel="canonical" href="https://www.thebestinlondon.co.uk/east-london" />
       
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org",
         "@type": "CollectionPage",
         "name": "Best Restaurants in East London",
         "description": `Directory of ${stats.totalVenues} top-rated restaurants in East London`,
-        "url": "https://thebestinlondon.co.uk/east-london",
+        "url": "https://www.thebestinlondon.co.uk/east-london",
         "mainEntity": {
           "@type": "ItemList",
           "numberOfItems": venues.length,
