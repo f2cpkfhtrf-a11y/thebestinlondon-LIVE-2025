@@ -230,7 +230,7 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
           {/* Page Hero */}
           <div className="container mx-auto px-4 md:px-6 lg:px-8">
             <PageHero 
-              title="Best Restaurants in London {new Date().getFullYear()}"
+              title={`Best Restaurants in London ${new Date().getFullYear()}`}
               subtitle="Discover Top-Rated London Restaurants with Real Reviews | Halal, Vegan & Fine Dining"
               stats={[
                 { label: "Restaurants", value: "760+" },

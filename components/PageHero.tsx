@@ -1,7 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
 import { assertLocalImage } from '../lib/assertLocalImage';
-import { getBlurAndColor, getBlurDataUrl } from '../lib/imagePlaceholders';
 
 interface PageHeroProps {
   title: string;
@@ -28,10 +26,7 @@ export default function PageHero({
     assertLocalImage(image.src);
   }, [image.src]);
 
-  // Get blur and dominant color for the current image
   const currentSrc = imageError ? fallbackSrc : image.src;
-  const { blurSrc, color } = getBlurAndColor(currentSrc);
-  const blurDataUrl = blurSrc ? getBlurDataUrl(blurSrc) : undefined;
 
   const handleImageError = () => {
     if (!imageError && image.src !== fallbackSrc) {
@@ -44,23 +39,16 @@ export default function PageHero({
     <div className="relative w-full overflow-hidden rounded-none lg:rounded-2xl">
       {/* Image */}
       <div 
-        className="relative h-[60vh] min-h-[400px] max-h-[600px]"
-        style={{ backgroundColor: color }}
+        className="relative h-[60vh] min-h-[400px] max-h-[600px] bg-neutral-900"
       >
-        <Image
+        <img
           src={currentSrc}
           alt={image.alt}
-          fill
-          sizes={
-            image.srcLg || image.srcMd
-              ? "(min-width: 1280px) 1280px, (min-width: 768px) 768px, 100vw"
-              : "(min-width: 1280px) 1280px, 100vw"
-          }
-          className="object-cover transition-opacity duration-300"
           loading={priority ? "eager" : "lazy"}
+          fetchpriority={priority ? "high" : "auto"}
           onError={handleImageError}
-          placeholder={blurDataUrl ? "blur" : "empty"}
-          blurDataURL={blurDataUrl}
+          style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }}
+          className="transition-opacity duration-300"
         />
         
         {/* Gradient overlay */}
