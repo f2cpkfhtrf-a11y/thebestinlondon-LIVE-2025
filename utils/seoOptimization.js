@@ -102,7 +102,7 @@ const generateSEODescription = (type, data) => {
 
 // Generate comprehensive structured data
 const generateStructuredData = (type, data) => {
-  const baseUrl = 'https://thebestinlondon.co.uk';
+  const baseUrl = 'https://www.thebestinlondon.co.uk';
   
   switch (type) {
     case 'restaurant':

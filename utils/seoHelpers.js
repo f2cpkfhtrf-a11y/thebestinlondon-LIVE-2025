@@ -3,7 +3,7 @@
 
 export const SEO_CONFIG = {
   siteName: 'The Best in London',
-  siteUrl: 'https://thebestinlondon.co.uk',
+  siteUrl: 'https://www.thebestinlondon.co.uk',
   defaultTitle: "London's Finest Restaurants | Curated Dining Guide 2025",
   defaultDescription: "Discover 500+ of London's best restaurants. Michelin-starred venues, hidden gems, and culinary excellence. Real reviews, FSA verified, updated daily.",
   twitterHandle: '@thebestinlondon',
