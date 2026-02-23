@@ -28,7 +28,7 @@ async function getAllFiles(dir) {
 }
 
 async function fixUrls() {
-  const pagesDir = join(process.cwd(), 'pages');
+  const pagesDir = '/vercel/share/v0-project/pages';
   const files = await getAllFiles(pagesDir);
   
   let totalFixed = 0;
@@ -59,7 +59,7 @@ async function fixUrls() {
         // Simpler count: just count non-www occurrences that aren't part of www
         const nonWwwCount = (step1.match(/https:\/\/thebestinlondon\.co\.uk/g) || []).length;
         totalFixed += nonWwwCount;
-        fixedFiles.push({ file: filePath.replace(process.cwd() + '/', ''), replacements: nonWwwCount });
+        fixedFiles.push({ file: filePath.replace('/vercel/share/v0-project/', ''), replacements: nonWwwCount });
       }
     }
   }
