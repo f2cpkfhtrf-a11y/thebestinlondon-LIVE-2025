@@ -271,9 +271,9 @@ export default function AreaPage({ areaName, areaSlug, venues = [], stats = { to
   return (
     <>
       <Head>
-        <title>Best Restaurants in {areaName} London ${new Date().getFullYear()} | Top Rated {areaName} Restaurants | The Best in London</title>
+        <title>Best Restaurants in {areaName} London {new Date().getFullYear()} | Top Rated {areaName} Restaurants | The Best in London</title>
         <meta name="description" content={`Discover the best restaurants in ${areaName}, London ${new Date().getFullYear()}. Find ${stats.totalVenues}+ top-rated ${areaName} restaurants with verified Google reviews, FSA ratings, and authentic cuisine. Complete guide to dining in ${areaName}, London.`} />
-        <meta name="keywords" content={`best restaurants ${areaName}, restaurants ${areaName} London, ${areaName} restaurants, best restaurants near me ${areaName}, where to eat ${areaName}, ${areaName} dining guide, top restaurants ${areaName} 2025, London restaurants ${areaName}`} />
+        <meta name="keywords" content={`best restaurants ${areaName}, restaurants ${areaName} London, ${areaName} restaurants, best restaurants near me ${areaName}, where to eat ${areaName}, ${areaName} dining guide, top restaurants ${areaName} ${new Date().getFullYear()}, London restaurants ${areaName}`} />
         <link rel="canonical" href={`https://www.thebestinlondon.co.uk/areas/${areaSlug}`} />
         
         {/* Open Graph Tags */}
@@ -349,7 +349,7 @@ export default function AreaPage({ areaName, areaSlug, venues = [], stats = { to
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-serif font-bold text-warmWhite">
-                Best Restaurants in {areaName}, London ${new Date().getFullYear()}
+                Best Restaurants in {areaName}, London {new Date().getFullYear()}
               </h2>
               <div className="text-sm text-grey">
                 Showing {filteredVenues.length} of {stats.totalVenues} restaurants
@@ -376,7 +376,7 @@ export default function AreaPage({ areaName, areaSlug, venues = [], stats = { to
             {/* SEO Content Block - Keyword Rich */}
             <section className="max-w-4xl mx-auto mt-12 py-8">
               <h2 className="text-3xl md:text-4xl font-serif font-bold text-warmWhite mb-6">
-                Discover the Best Restaurants in {areaName}, London ${new Date().getFullYear()}
+                Discover the Best Restaurants in {areaName}, London {new Date().getFullYear()}
               </h2>
               <div className="grid md:grid-cols-2 gap-6 text-grey mb-8">
                 <div>
