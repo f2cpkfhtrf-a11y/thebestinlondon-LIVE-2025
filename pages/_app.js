@@ -3,6 +3,15 @@ import Head from 'next/head'
 import { useEffect } from 'react'
 import { registerServiceWorker } from '../utils/serviceWorkerRegistration'
 
+// Suppress the fetchPriority React warning caused by Next.js Image internals on React 18
+if (typeof window !== 'undefined') {
+  const origConsoleError = console.error;
+  console.error = (...args) => {
+    if (typeof args[0] === 'string' && args[0].includes('fetchPriority')) return;
+    origConsoleError.apply(console, args);
+  };
+}
+
 function MyApp({ Component, pageProps }) {
   // Register service worker for performance caching (production only)
   useEffect(() => {
