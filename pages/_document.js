@@ -1,17 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document';
 
-// Suppress the fetchPriority React 18 warning from Next.js Image internals (fires during SSR)
-const _origError = console.error;
-const _origWarn = console.warn;
-console.error = (...args) => {
-  if (typeof args[0] === 'string' && args[0].includes('fetchPriority')) return;
-  _origError.apply(console, args);
-};
-console.warn = (...args) => {
-  if (typeof args[0] === 'string' && args[0].includes('fetchPriority')) return;
-  _origWarn.apply(console, args);
-};
-
 export default function Document() {
   return (
     <Html lang="en-GB">

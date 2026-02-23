@@ -57,7 +57,7 @@ export default function PageHero({
               : "(min-width: 1280px) 1280px, 100vw"
           }
           className="object-cover transition-opacity duration-300"
-          priority={priority}
+          loading={priority ? "eager" : "lazy"}
           onError={handleImageError}
           placeholder={blurDataUrl ? "blur" : "empty"}
           blurDataURL={blurDataUrl}
