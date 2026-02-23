@@ -153,8 +153,8 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
   return (
     <>
       <Head>
-        <title>Best Restaurants London 2025 | Top Rated London Restaurants | The Best in London</title>
-        <meta name="description" content="Discover the best restaurants in London 2025. Find top-rated London restaurants, halal restaurants, vegan restaurants, and fine dining. 760+ verified restaurants with real reviews. Your complete London dining guide." />
+        <title>Best Restaurants London {new Date().getFullYear()} | Top Rated London Restaurants | The Best in London</title>
+        <meta name="description" content={`Discover the best restaurants in London ${new Date().getFullYear()}. Find top-rated London restaurants, halal restaurants, vegan restaurants, and fine dining. 760+ verified restaurants with real reviews. Your complete London dining guide.`} />
         <meta name="keywords" content="best restaurants London, London restaurants, best restaurants in London, top restaurants London, halal restaurants London, vegan restaurants London, fine dining London, Indian restaurants London, Italian restaurants London, Japanese restaurants London, restaurant guide London, where to eat London, best food London" />
         <link rel="canonical" href="https://www.thebestinlondon.co.uk" />
         
@@ -167,16 +167,16 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
         <link rel="alternate" hrefLang="x-default" href="https://www.thebestinlondon.co.uk" />
         
         {/* Open Graph */}
-        <meta property="og:title" content="Best Restaurants London 2025 | Top Rated London Restaurants" />
-        <meta property="og:description" content="Discover the best restaurants in London 2025. 760+ verified restaurants with real reviews. Find halal restaurants, vegan restaurants, fine dining and more." />
+        <meta property="og:title" content={`Best Restaurants London ${new Date().getFullYear()} | Top Rated London Restaurants`} />
+        <meta property="og:description" content={`Discover the best restaurants in London ${new Date().getFullYear()}. 760+ verified restaurants with real reviews. Find halal restaurants, vegan restaurants, fine dining and more.`} />
         <meta property="og:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp" />
         <meta property="og:url" content="https://www.thebestinlondon.co.uk" />
         <meta property="og:type" content="website" />
         
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Best Restaurants London 2025 | Top Rated London Restaurants" />
-        <meta name="twitter:description" content="Discover the best restaurants in London 2025. 760+ verified restaurants with real reviews. Find halal restaurants, vegan restaurants, fine dining and more." />
+        <meta name="twitter:title" content={`Best Restaurants London ${new Date().getFullYear()} | Top Rated London Restaurants`} />
+        <meta name="twitter:description" content={`Discover the best restaurants in London ${new Date().getFullYear()}. 760+ verified restaurants with real reviews. Find halal restaurants, vegan restaurants, fine dining and more.`} />
         <meta name="twitter:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/home-hero.webp" />
         
         {/* JSON-LD */}
@@ -205,7 +205,7 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
           {/* Page Hero */}
           <div className="container mx-auto px-4 md:px-6 lg:px-8">
             <PageHero 
-              title="Best Restaurants in London 2025"
+              title="Best Restaurants in London {new Date().getFullYear()}"
               subtitle="Discover Top-Rated London Restaurants with Real Reviews | Halal, Vegan & Fine Dining"
               stats={[
                 { label: "Restaurants", value: "760+" },
@@ -224,7 +224,7 @@ export default function Home({ topVenues, stats, popularCuisines, blogs }) {
             {/* SEO Content Block - Keyword Rich Introduction */}
             <section className="max-w-4xl mx-auto text-center py-8">
               <h2 className="text-3xl md:text-4xl font-serif font-bold text-warmWhite mb-6">
-                Find the Best Restaurants in London 2025
+                Find the Best Restaurants in London {new Date().getFullYear()}
               </h2>
               <p className="text-lg md:text-xl text-grey leading-relaxed mb-4">
                 Discover over <strong className="text-gold">760+ verified restaurants</strong> across London. Whether you're looking for 

@@ -255,7 +255,7 @@ export default function BestMediterraneanInTowerHamlets2025() {
         "ratingValue": 4.6,
         "reviewCount": 1550
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/dulce-coffee-london-cO94iwvs",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/dulce-coffee-london-cO94iwvs",
       "openingHours": [
         "Monday: 7:00 AM – 5:00 PM",
         "Tuesday: 7:00 AM – 5:00 PM",

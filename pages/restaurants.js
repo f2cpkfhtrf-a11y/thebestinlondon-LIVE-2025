@@ -135,7 +135,7 @@ export default function Restaurants({ venues, stats }) {
       "item": {
         "@type": "Restaurant",
         "name": venue.name,
-        "url": `https://thebestinlondon.co.uk/restaurant/${venue.slug}`,
+        "url": `https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`,
         "address": venue.address ? {
           "@type": "PostalAddress",
           "streetAddress": venue.address.formatted,
@@ -157,13 +157,13 @@ export default function Restaurants({ venues, stats }) {
         <title>Best Restaurants in London{currentPage > 1 ? ` - Page ${currentPage}` : ''} | The Best in London</title>
         <meta name="description" content={`Discover the finest restaurants across London${currentPage > 1 ? ` (Page ${currentPage})` : ''}. From Michelin-starred dining to hidden gems, find your perfect meal in the capital.`} />
         <meta name="keywords" content="restaurants London, best restaurants, fine dining London, London food, restaurant guide" />
-        <link rel="canonical" href={`https://thebestinlondon.co.uk/restaurants${currentPage > 1 ? `?page=${currentPage}` : ''}`} />
-        {currentPage > 1 && <link rel="prev" href={`https://thebestinlondon.co.uk/restaurants${currentPage > 2 ? `?page=${currentPage - 1}` : ''}`} />}
-        {paginated.pagination.hasNext && <link rel="next" href={`https://thebestinlondon.co.uk/restaurants?page=${currentPage + 1}`} />}
+        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/restaurants${currentPage > 1 ? `?page=${currentPage}` : ''}`} />
+        {currentPage > 1 && <link rel="prev" href={`https://www.thebestinlondon.co.uk/restaurants${currentPage > 2 ? `?page=${currentPage - 1}` : ''}`} />}
+        {paginated.pagination.hasNext && <link rel="next" href={`https://www.thebestinlondon.co.uk/restaurants?page=${currentPage + 1}`} />}
         <meta property="og:title" content={`Best Restaurants in London${currentPage > 1 ? ` - Page ${currentPage}` : ''} | The Best in London`} />
         <meta property="og:description" content="Discover the finest restaurants across London. From Michelin-starred dining to hidden gems, find your perfect meal in the capital." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={`https://thebestinlondon.co.uk/restaurants${currentPage > 1 ? `?page=${currentPage}` : ''}`} />
+        <meta property="og:url" content={`https://www.thebestinlondon.co.uk/restaurants${currentPage > 1 ? `?page=${currentPage}` : ''}`} />
         <meta property="og:image" content="https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp" />
         
         {/* Additional SEO meta tags */}

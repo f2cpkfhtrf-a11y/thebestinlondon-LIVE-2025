@@ -69,7 +69,7 @@ export default function ClerkenwellRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Clerkenwell 2025",
     "description": "Directory of top-rated restaurants in Clerkenwell",
-    "url": "https://thebestinlondon.co.uk/restaurants-clerkenwell",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-clerkenwell",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

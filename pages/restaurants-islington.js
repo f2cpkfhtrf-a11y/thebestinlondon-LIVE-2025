@@ -69,7 +69,7 @@ export default function IslingtonRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Islington 2025",
     "description": "Directory of top-rated restaurants in Islington",
-    "url": "https://thebestinlondon.co.uk/restaurants-islington",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-islington",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

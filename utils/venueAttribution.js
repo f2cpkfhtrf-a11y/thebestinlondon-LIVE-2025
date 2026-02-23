@@ -83,7 +83,7 @@ export const createVenueWithAttribution = (venue) => {
       title: generateSEOTitle(venue),
       description: generateSEODescription(venue),
       keywords: generateKeywords(venue),
-      canonical: `https://thebestinlondon.co.uk/restaurants/${venue.slug || generateSlug(venue.name)}`
+      canonical: `https://www.thebestinlondon.co.uk/restaurants/${venue.slug || generateSlug(venue.name)}`
     }
   };
 };

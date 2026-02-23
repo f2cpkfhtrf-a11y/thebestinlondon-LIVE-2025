@@ -69,7 +69,7 @@ export default function GreenwichRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Greenwich 2025",
     "description": "Directory of top-rated restaurants in Greenwich",
-    "url": "https://thebestinlondon.co.uk/restaurants-greenwich",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-greenwich",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

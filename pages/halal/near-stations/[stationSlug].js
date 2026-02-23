@@ -27,13 +27,13 @@ export default function HalalNearStation({ station, venuesByRadius }) {
           name="description" 
           content={`${venues.length} halal restaurants within ${selectedRadius}km of ${station.name} tube station. Verified halal venues with ratings, reviews, and walking directions.`}
         />
-        <link rel="canonical" href={`https://thebestinlondon.co.uk/halal/near-stations/${station.slug}`} />
+        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/halal/near-stations/${station.slug}`} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "CollectionPage",
           "name": `Halal Restaurants Near ${station.name} Station`,
           "description": `${venues.length} halal restaurants within ${selectedRadius}km of ${station.name} tube station`,
-          "url": `https://thebestinlondon.co.uk/halal/near-stations/${station.slug}`
+          "url": `https://www.thebestinlondon.co.uk/halal/near-stations/${station.slug}`
         }) }} />
       </Head>
 

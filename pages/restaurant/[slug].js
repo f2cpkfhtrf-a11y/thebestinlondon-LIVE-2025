@@ -172,7 +172,7 @@ export default function VenueDetailPage({ venue, nearbyVenues = [] }) {
       "latitude": venue.address.lat,
       "longitude": venue.address.lng
     } : null,
-    "url": venue.website || `https://thebestinlondon.co.uk/restaurant/${venue.slug}`,
+    "url": venue.website || `https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`,
     "telephone": venue.phone || '',
     "servesCuisine": venue.cuisines?.[0] || '',
     "priceRange": '£'.repeat(venue.price_level || 2),
@@ -190,13 +190,13 @@ export default function VenueDetailPage({ venue, nearbyVenues = [] }) {
       <Head>
         <title>{generateSEOTitle('restaurant', venue)}</title>
         <meta name="description" content={venue?.about?.text?.slice(0,155) || generateSEODescription('restaurant', venue)} />
-        <link rel="canonical" href={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
+        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`} />
         
         {/* Open Graph Tags */}
         <meta property="og:title" content={generateSEOTitle('restaurant', venue)} />
         <meta property="og:description" content={generateSEODescription('restaurant', venue)} />
         <meta property="og:type" content="restaurant" />
-        <meta property="og:url" content={`https://thebestinlondon.co.uk/restaurant/${venue.slug}`} />
+        <meta property="og:url" content={`https://www.thebestinlondon.co.uk/restaurant/${venue.slug}`} />
         <meta property="og:image" content={venue.image_hero_path?.replace('/public', '') ? `https://www.thebestinlondon.co.uk${venue.image_hero_path.replace('/public', '')}` : 'https://www.thebestinlondon.co.uk/images/heroes/site/default-list-hero.webp'} />
         <meta property="og:image:alt" content={venue.image_alt || `${venue.name} restaurant in ${venue.borough || 'London'}`} />
         <meta property="og:site_name" content="The Best in London" />
@@ -217,10 +217,10 @@ export default function VenueDetailPage({ venue, nearbyVenues = [] }) {
         {/* Structured Data */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(generateStructuredData('restaurant', venue)) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(generateBreadcrumbData([
-          { name: 'Home', url: 'https://thebestinlondon.co.uk' },
-          { name: 'Restaurants', url: 'https://thebestinlondon.co.uk/restaurants' },
-          { name: venue.cuisines?.[0] || 'Restaurants', url: `https://thebestinlondon.co.uk/${venue.cuisines?.[0]?.toLowerCase().replace(/\s+/g, '-')}` },
-          { name: venue.name, url: `https://thebestinlondon.co.uk/restaurant/${venue.slug}` }
+          { name: 'Home', url: 'https://www.thebestinlondon.co.uk' },
+          { name: 'Restaurants', url: 'https://www.thebestinlondon.co.uk/restaurants' },
+          { name: venue.cuisines?.[0] || 'Restaurants', url: `https://www.thebestinlondon.co.uk/${venue.cuisines?.[0]?.toLowerCase().replace(/\s+/g, '-')}` },
+          { name: venue.name, url: `https://www.thebestinlondon.co.uk/restaurant/${venue.slug}` }
         ])) }} />
         
         {/* Preconnect to external domains */}

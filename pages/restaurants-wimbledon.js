@@ -69,7 +69,7 @@ export default function WimbledonRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Wimbledon 2025",
     "description": "Directory of top-rated restaurants in Wimbledon",
-    "url": "https://thebestinlondon.co.uk/restaurants-wimbledon",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-wimbledon",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

@@ -96,7 +96,7 @@ export default function LondonEyeRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants Near London Eye 2025",
     "description": "Comprehensive directory of top-rated restaurants within walking distance of the London Eye with real reviews, prices, and locations",
-    "url": "https://thebestinlondon.co.uk/restaurants-near-london-eye",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-near-london-eye",
     "mainEntity": {
       "@type": "ItemList",
       "name": "Top Restaurants Near London Eye",
@@ -107,7 +107,7 @@ export default function LondonEyeRestaurants({ venues, lastUpdated }) {
         "position": index + 1,
         "item": {
           "@type": "Restaurant",
-          "@id": `https://thebestinlondon.co.uk/restaurants-near-london-eye#${venue.place_id}`,
+          "@id": `https://www.thebestinlondon.co.uk/restaurants-near-london-eye#${venue.place_id}`,
           "name": venue.name,
           "address": {
             "@type": "PostalAddress",
@@ -182,8 +182,8 @@ export default function LondonEyeRestaurants({ venues, lastUpdated }) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thebestinlondon.co.uk" },
-      { "@type": "ListItem", "position": 2, "name": "Restaurants Near London Eye", "item": "https://thebestinlondon.co.uk/restaurants-near-london-eye" }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thebestinlondon.co.uk" },
+      { "@type": "ListItem", "position": 2, "name": "Restaurants Near London Eye", "item": "https://www.thebestinlondon.co.uk/restaurants-near-london-eye" }
     ]
   };
 
@@ -193,10 +193,10 @@ export default function LondonEyeRestaurants({ venues, lastUpdated }) {
       <meta name="description" content={`Discover ${venues.length} of the best restaurants near London Eye. Expert-curated list with real Google ratings, prices £12-50+, walking distance from the landmark. Updated ${new Date(lastUpdated).toLocaleDateString()}.`} />
       <meta name="keywords" content="restaurants near london eye, south bank restaurants, waterloo restaurants, london eye dining, riverside restaurants london" />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://thebestinlondon.co.uk/restaurants-near-london-eye" />
+      <meta property="og:url" content="https://www.thebestinlondon.co.uk/restaurants-near-london-eye" />
       <meta property="og:title" content={`${venues.length} Best Restaurants Near London Eye 2025`} />
       <meta property="og:description" content="Comprehensive guide to restaurants near London's iconic landmark" />
-      <link rel="canonical" href="https://thebestinlondon.co.uk/restaurants-near-london-eye" />
+      <link rel="canonical" href="https://www.thebestinlondon.co.uk/restaurants-near-london-eye" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />

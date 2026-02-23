@@ -28,10 +28,10 @@ export default function BestCafesLondon({ venues }) {
   return (
     <>
       <Head>
-        <title>Best Cafés in London 2025 | 50+ Top Coffee Shops & Cafés</title>
+        <title>Best Cafés in London {new Date().getFullYear()} | 50+ Top Coffee Shops & Cafés</title>
         <meta name="description" content="Discover London's best cafés. From specialty coffee to all-day brunch spots. Real reviews, FSA verified. Updated daily." />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/best-cafes-london" />
+        <link rel="canonical" href="https://www.thebestinlondon.co.uk/best-cafes-london" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>

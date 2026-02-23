@@ -242,7 +242,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 123
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/london-night-cafe-1dGMkucY",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/london-night-cafe-1dGMkucY",
       "openingHours": [
         "Monday: 6:00 PM – 3:00 AM",
         "Tuesday: 10:00 PM – 3:00 AM",
@@ -516,7 +516,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 571
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/common-breads-tuvgyCWI",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/common-breads-tuvgyCWI",
       "openingHours": [
         "Monday: 8:00 AM – 6:00 PM",
         "Tuesday: 8:00 AM – 6:00 PM",
@@ -789,7 +789,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 350
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/pulse-bar-london-AhX30B_M",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/pulse-bar-london-AhX30B_M",
       "openingHours": [
         "Monday: 12:00 – 10:30 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -1066,7 +1066,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 3360
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/kin-cafe-restaurant-sMYzvisk",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/kin-cafe-restaurant-sMYzvisk",
       "openingHours": [
         "Monday: 9:30 AM – 4:30 PM",
         "Tuesday: 8:30 AM – 10:30 PM",
@@ -1327,7 +1327,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 706
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/ekstedt-at-the-yard-wI_8ELLQ",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/ekstedt-at-the-yard-wI_8ELLQ",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 6:00 – 9:30 PM",
@@ -1629,7 +1629,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 410
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/restaurant-st-barts-0KJsqCRk",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/restaurant-st-barts-0KJsqCRk",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 12:00 – 3:00 PM, 6:00 – 8:00 PM",
@@ -1870,7 +1870,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 546
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/kitchen-table-PUQzy0hI",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/kitchen-table-PUQzy0hI",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 6:30 – 11:30 PM",
@@ -2132,7 +2132,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 2781
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/e-pellicci-Ri5OAXZ4",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/e-pellicci-Ri5OAXZ4",
       "openingHours": [
         "Monday: 8:00 AM – 3:00 PM",
         "Tuesday: 8:00 AM – 3:00 PM",
@@ -2383,7 +2383,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 375
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/rosslyn-coffee-london-wall-7lphil6E",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/rosslyn-coffee-london-wall-7lphil6E",
       "openingHours": [
         "Monday: 6:30 AM – 5:00 PM",
         "Tuesday: 6:30 AM – 5:00 PM",
@@ -2660,7 +2660,7 @@ export default function BestMediterraneanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 408
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/chill-house-coffee-shop--M-c4fvk",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/chill-house-coffee-shop--M-c4fvk",
       "openingHours": [
         "Monday: 7:30 AM – 6:00 PM",
         "Tuesday: 7:30 AM – 6:00 PM",

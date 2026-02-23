@@ -304,7 +304,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 363
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/pravaas-south-kensington-KhMpiz4I",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/pravaas-south-kensington-KhMpiz4I",
       "openingHours": [
         "Monday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
         "Tuesday: 12:00 – 3:00 PM, 5:30 – 10:30 PM",
@@ -576,7 +576,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 1072
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/kricket-shoreditch-kaf-restaurant-bar-T-b-BK14",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/kricket-shoreditch-kaf-restaurant-bar-T-b-BK14",
       "openingHours": [
         "Monday: 8:00 AM – 10:30 PM",
         "Tuesday: 8:00 AM – 10:30 PM",
@@ -843,7 +843,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.9,
         "reviewCount": 41
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/fat-chef-authentic-indian-kitchen-halal-0LfhvXy8",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/fat-chef-authentic-indian-kitchen-halal-0LfhvXy8",
       "openingHours": [
         "Monday: 4:00 – 11:00 PM",
         "Tuesday: 4:00 – 11:00 PM",
@@ -1115,7 +1115,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 9944
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/aladin-brick-lane-FQXF-uoc",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/aladin-brick-lane-FQXF-uoc",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -1391,7 +1391,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 16167
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/dishoom-kensington-1F6d_5-g",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/dishoom-kensington-1F6d_5-g",
       "openingHours": [
         "Monday: 8:00 AM – 11:00 PM",
         "Tuesday: 8:00 AM – 11:00 PM",
@@ -1725,7 +1725,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 5448
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/colonel-saab-D55weEBY",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/colonel-saab-D55weEBY",
       "openingHours": [
         "Monday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
         "Tuesday: 12:00 – 3:00 PM, 5:30 – 10:00 PM",
@@ -1997,7 +1997,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 8349
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/dishoom-canary-wharf-BKRQW0f0",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/dishoom-canary-wharf-BKRQW0f0",
       "openingHours": [
         "Monday: 8:00 AM – 11:00 PM",
         "Tuesday: 8:00 AM – 11:00 PM",
@@ -2273,7 +2273,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 27585
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/dishoom-covent-garden-OZ6OHOJw",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/dishoom-covent-garden-OZ6OHOJw",
       "openingHours": [
         "Monday: 8:00 AM – 11:00 PM",
         "Tuesday: 8:00 AM – 11:00 PM",
@@ -2545,7 +2545,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 13404
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/maharaja-of-india-EVrlil9k",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/maharaja-of-india-EVrlil9k",
       "openingHours": [
         "Monday: 12:00 PM – 12:00 AM",
         "Tuesday: 12:00 PM – 12:00 AM",
@@ -2807,7 +2807,7 @@ export default function BestIndianInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 4317
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/taste-of-lahore-JVquuZ94",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/taste-of-lahore-JVquuZ94",
       "openingHours": [
         "Monday: 8:00 AM – 12:00 AM",
         "Tuesday: 8:00 AM – 12:00 AM",

@@ -248,7 +248,7 @@ export default function BestItalianInTowerHamlets2025() {
         "ratingValue": 4.6,
         "reviewCount": 66
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/buon-appetito-kE4g6r_s",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/buon-appetito-kE4g6r_s",
       "openingHours": [
         "Monday: 10:30 AM – 2:30 AM",
         "Tuesday: 10:30 AM – 2:30 AM",
@@ -513,7 +513,7 @@ export default function BestItalianInTowerHamlets2025() {
         "ratingValue": 4.6,
         "reviewCount": 252
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/la-bella-napoli-C3MBjGos",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/la-bella-napoli-C3MBjGos",
       "openingHours": [
         "Monday: 5:00 PM – 5:00 AM",
         "Tuesday: 5:00 PM – 5:00 AM",
@@ -767,7 +767,7 @@ export default function BestItalianInTowerHamlets2025() {
         "ratingValue": 4.5,
         "reviewCount": 555
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/italina385-ilgWDFJo",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/italina385-ilgWDFJo",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 5:00 – 10:00 PM",

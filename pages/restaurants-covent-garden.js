@@ -69,7 +69,7 @@ export default function CoventGardenRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Covent Garden 2025",
     "description": "Directory of top-rated restaurants in Covent Garden",
-    "url": "https://thebestinlondon.co.uk/restaurants-covent-garden",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-covent-garden",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

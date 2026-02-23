@@ -249,7 +249,7 @@ export default function BestChineseInTowerHamlets2025() {
         "ratingValue": 4.6,
         "reviewCount": 206
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/far-east-kitchen-jNq5Bxyw",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/far-east-kitchen-jNq5Bxyw",
       "openingHours": [
         "Monday: 4:00 – 11:00 PM",
         "Tuesday: 4:00 – 11:00 PM",

@@ -247,7 +247,7 @@ export default function BestChineseInCentralLondon2025() {
         "ratingValue": 4.6,
         "reviewCount": 1164
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/lucky-cat-by-gordon-ramsay-bishopsgate-zN4O2yCQ",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/lucky-cat-by-gordon-ramsay-bishopsgate-zN4O2yCQ",
       "openingHours": [
         "Monday: 11:30 AM – 1:00 AM",
         "Tuesday: 11:30 AM – 1:00 AM",
@@ -511,7 +511,7 @@ export default function BestChineseInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 137
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/gansu-bethnal-green-LhsNVaH0",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/gansu-bethnal-green-LhsNVaH0",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -775,7 +775,7 @@ export default function BestChineseInCentralLondon2025() {
         "ratingValue": 4.4,
         "reviewCount": 328
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/dragons-den-oriental-kitchen-sjUpIGyA",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/dragons-den-oriental-kitchen-sjUpIGyA",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",

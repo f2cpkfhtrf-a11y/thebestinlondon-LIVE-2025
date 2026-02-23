@@ -325,7 +325,7 @@ export default function BestItalianInSouthwark2025() {
         "ratingValue": 4.6,
         "reviewCount": 8228
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/padella-HPngIeq8",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/padella-HPngIeq8",
       "openingHours": [
         "Monday: 11:30 AM – 3:45 PM, 5:00 – 10:00 PM",
         "Tuesday: 11:30 AM – 3:45 PM, 5:00 – 10:00 PM",

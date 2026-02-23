@@ -48,9 +48,9 @@ export default function CafesLondon({ venues }) {
   return (
     <>
       <Head>
-        <title>Best Cafes in London 2025 | {venues.length}+ Coffee Shops & Bakeries</title>
+        <title>Best Cafes in London {new Date().getFullYear()} | {venues.length}+ Coffee Shops & Bakeries</title>
         <meta name="description" content={`Discover ${venues.length}+ top-rated cafes in London. Independent coffee shops, artisan bakeries, brunch spots.`} />
-        <link rel="canonical" href="https://thebestinlondon.co.uk/cafes" />
+        <link rel="canonical" href="https://www.thebestinlondon.co.uk/cafes" />
       </Head>
 
       <div className="min-h-screen bg-black">

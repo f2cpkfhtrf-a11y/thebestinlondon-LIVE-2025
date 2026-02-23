@@ -69,7 +69,7 @@ export default function MaryleboneRestaurants({ venues, lastUpdated }) {
     "@type": "CollectionPage",
     "name": "Best Restaurants in Marylebone 2025",
     "description": "Directory of top-rated restaurants in Marylebone",
-    "url": "https://thebestinlondon.co.uk/restaurants-marylebone",
+    "url": "https://www.thebestinlondon.co.uk/restaurants-marylebone",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": venues.length,

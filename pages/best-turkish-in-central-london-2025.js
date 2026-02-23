@@ -254,7 +254,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 921
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/efes-premium-kWL5j4TM",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/efes-premium-kWL5j4TM",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -524,7 +524,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 1613
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/cirrik-19-numara-bos-aBzE5bwY",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/cirrik-19-numara-bos-aBzE5bwY",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -795,7 +795,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 749
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/fes-restaurant-3kGU0KS4",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/fes-restaurant-3kGU0KS4",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -1067,7 +1067,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 2168
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/the-mantl-GzBtMI-k",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/the-mantl-GzBtMI-k",
       "openingHours": [
         "Monday: 12:00 – 10:45 PM",
         "Tuesday: 12:00 – 10:45 PM",
@@ -1339,7 +1339,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 1689
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/liman-restaurant-GtZA40HM",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/liman-restaurant-GtZA40HM",
       "openingHours": [
         "Monday: 12:00 – 10:00 PM",
         "Tuesday: 12:00 – 10:00 PM",
@@ -1606,7 +1606,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 108
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/shahs-halal-food-walthamstow-e0towDVA",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/shahs-halal-food-walthamstow-e0towDVA",
       "openingHours": [
         "Monday: 11:00 AM – 11:00 PM",
         "Tuesday: 11:00 AM – 11:00 PM",
@@ -1871,7 +1871,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.6,
         "reviewCount": 48
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/tanjia-restaurant-z4mIP1sY",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/tanjia-restaurant-z4mIP1sY",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -2141,7 +2141,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 2725
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/antalya-bGIr-qxs",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/antalya-bGIr-qxs",
       "openingHours": [
         "Monday: 11:30 AM – 11:00 PM",
         "Tuesday: 11:30 AM – 11:30 PM",
@@ -2407,7 +2407,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 432
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/olives-and-oregano-london-caETxpsM",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/olives-and-oregano-london-caETxpsM",
       "openingHours": [
         "Monday: 11:30 AM – 7:30 PM",
         "Tuesday: 11:30 AM – 7:30 PM",
@@ -2674,7 +2674,7 @@ export default function BestTurkishInCentralLondon2025() {
         "ratingValue": 4.4,
         "reviewCount": 1801
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/lokma-westfield-VMXmovgc",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/lokma-westfield-VMXmovgc",
       "openingHours": [
         "Monday: 12:00 – 10:00 PM",
         "Tuesday: 12:00 – 10:00 PM",

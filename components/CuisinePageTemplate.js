@@ -34,9 +34,9 @@ export default function CuisineRestaurants({ venues = [], cuisine, cuisineImages
   return (
     <>
       <Head>
-        <title>Best {cuisineTitle} Restaurants in London 2025 | The Best in London</title>
+        <title>Best {cuisineTitle} Restaurants in London {new Date().getFullYear()} | The Best in London</title>
         <meta name="description" content={`Discover ${venues.length} top-rated ${cuisineTitle} restaurants in London. From fine dining to authentic local favorites.`} />
-        <link rel="canonical" href={`https://thebestinlondon.co.uk/${cuisine}-restaurants-london`} />
+        <link rel="canonical" href={`https://www.thebestinlondon.co.uk/${cuisine}-restaurants-london`} />
         <meta property="og:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${hero.src}`} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -44,7 +44,7 @@ export default function CuisineRestaurants({ venues = [], cuisine, cuisineImages
           "@type": "CollectionPage",
           "name": `${cuisineTitle} Restaurants in London`,
           "description": `Discover ${venues.length} top-rated ${cuisineTitle} restaurants in London`,
-          "url": `https://thebestinlondon.co.uk/${cuisine}-restaurants-london`,
+          "url": `https://www.thebestinlondon.co.uk/${cuisine}-restaurants-london`,
           "image": `https://www.thebestinlondon.co.uk${hero.src}`
         }) }} />
       </Head>

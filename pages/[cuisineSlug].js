@@ -95,22 +95,22 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
   return (
     <>
       <Head>
-        <title>Best {cuisineTitle} Restaurants London 2025 | Top Rated {cuisineTitle} Restaurants | The Best in London</title>
-        <meta name="description" content={`Discover the best ${cuisineTitle.toLowerCase()} restaurants in London 2025. Find ${totalVenues}+ top-rated ${cuisineTitle.toLowerCase()} restaurants with verified Google reviews, FSA ratings, and authentic cuisine. Complete guide to ${cuisineTitle.toLowerCase()} dining in London.`} />
-        <meta name="keywords" content={`best ${cuisineTitle.toLowerCase()} restaurants London, ${cuisineTitle} restaurants London, ${cuisineTitle.toLowerCase()} restaurants near me, best ${cuisineTitle.toLowerCase()} food London, ${cuisineTitle.toLowerCase()} cuisine London, top ${cuisineTitle.toLowerCase()} restaurants London 2025, where to eat ${cuisineTitle.toLowerCase()} London`} />
+        <title>Best {cuisineTitle} Restaurants London {new Date().getFullYear()} | Top Rated {cuisineTitle} Restaurants | The Best in London</title>
+        <meta name="description" content={`Discover the best ${cuisineTitle.toLowerCase()} restaurants in London ${new Date().getFullYear()}. Find ${totalVenues}+ top-rated ${cuisineTitle.toLowerCase()} restaurants with verified Google reviews, FSA ratings, and authentic cuisine. Complete guide to ${cuisineTitle.toLowerCase()} dining in London.`} />
+        <meta name="keywords" content={`best ${cuisineTitle.toLowerCase()} restaurants London, ${cuisineTitle} restaurants London, ${cuisineTitle.toLowerCase()} restaurants near me, best ${cuisineTitle.toLowerCase()} food London, ${cuisineTitle.toLowerCase()} cuisine London, top ${cuisineTitle.toLowerCase()} restaurants London ${new Date().getFullYear()}, where to eat ${cuisineTitle.toLowerCase()} London`} />
         <link rel="canonical" href={`https://www.thebestinlondon.co.uk/${cuisineSlug}`} />
         
         {/* Open Graph Tags */}
-        <meta property="og:title" content={`Best ${cuisineTitle} Restaurants London 2025 | Top Rated ${cuisineTitle} Restaurants`} />
-        <meta property="og:description" content={`Discover the best ${cuisineTitle.toLowerCase()} restaurants in London 2025. ${totalVenues}+ top-rated ${cuisineTitle.toLowerCase()} restaurants with verified reviews and FSA ratings.`} />
+        <meta property="og:title" content={`Best ${cuisineTitle} Restaurants London ${new Date().getFullYear()} | Top Rated ${cuisineTitle} Restaurants`} />
+        <meta property="og:description" content={`Discover the best ${cuisineTitle.toLowerCase()} restaurants in London ${new Date().getFullYear()}. ${totalVenues}+ top-rated ${cuisineTitle.toLowerCase()} restaurants with verified reviews and FSA ratings.`} />
         <meta property="og:image" content={`https://www.thebestinlondon.co.uk${cuisineData.heroImage || hero.src}`} />
         <meta property="og:url" content={`https://www.thebestinlondon.co.uk/${cuisineSlug}`} />
         <meta property="og:type" content="website" />
         
         {/* Twitter Card Tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={`Best ${cuisineTitle} Restaurants London 2025 | Top Rated ${cuisineTitle} Restaurants`} />
-        <meta name="twitter:description" content={`Discover the best ${cuisineTitle.toLowerCase()} restaurants in London 2025. ${totalVenues}+ top-rated ${cuisineTitle.toLowerCase()} restaurants with verified reviews and FSA ratings.`} />
+        <meta name="twitter:title" content={`Best ${cuisineTitle} Restaurants London ${new Date().getFullYear()} | Top Rated ${cuisineTitle} Restaurants`} />
+        <meta name="twitter:description" content={`Discover the best ${cuisineTitle.toLowerCase()} restaurants in London ${new Date().getFullYear()}. ${totalVenues}+ top-rated ${cuisineTitle.toLowerCase()} restaurants with verified reviews and FSA ratings.`} />
         <meta name="twitter:image" content={`https://www.thebestinlondon.co.uk${cuisineData.heroImage || hero.src}`} />
         
         {/* JSON-LD via factory */}
@@ -205,7 +205,7 @@ export default function CuisinePage({ cuisineSlug, venues, totalVenues, editoria
           {/* Results Header */}
           <div className="flex items-center justify-between mb-6">
             <h2 className="text-2xl font-serif font-bold text-warmWhite">
-              Best {cuisineTitle} Restaurants in London 2025
+              Best {cuisineTitle} Restaurants in London {new Date().getFullYear()}
             </h2>
             <div className="text-sm text-grey">
               Showing {filteredVenues.length} of {totalVenues} restaurants

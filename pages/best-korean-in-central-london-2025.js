@@ -244,7 +244,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 18
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/soju-korean-restaurant-4eZHjn3Q",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/soju-korean-restaurant-4eZHjn3Q",
       "openingHours": [
         "Monday: 5:00 – 11:00 PM",
         "Tuesday: Closed",
@@ -517,7 +517,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.8,
         "reviewCount": 2221
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/vegan-yes-dwrPTj8I",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/vegan-yes-dwrPTj8I",
       "openingHours": [
         "Monday: 4:00 – 9:00 PM",
         "Tuesday: 4:00 – 9:00 PM",
@@ -788,7 +788,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 148
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/koko-grill-korean-bbq-restaurant-TiSvAj5c",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/koko-grill-korean-bbq-restaurant-TiSvAj5c",
       "openingHours": [
         "Monday: 12:00 – 10:30 PM",
         "Tuesday: 12:00 – 10:30 PM",
@@ -1049,7 +1049,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.7,
         "reviewCount": 203
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/jang-restaurant-A2kpdsBc",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/jang-restaurant-A2kpdsBc",
       "openingHours": [
         "Monday: 12:00 PM – 12:00 AM",
         "Tuesday: 12:00 PM – 12:00 AM",
@@ -1369,7 +1369,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.6,
         "reviewCount": 1205
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/daebak-dtHO4Ztg",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/daebak-dtHO4Ztg",
       "openingHours": [
         "Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
         "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
@@ -1639,7 +1639,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 2354
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/arang-restaurant-zi1Jg4Ec",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/arang-restaurant-zi1Jg4Ec",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -1899,7 +1899,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 1723
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/korean-dinner-party-ymMXVjzE",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/korean-dinner-party-ymMXVjzE",
       "openingHours": [
         "Monday: Closed",
         "Tuesday: 5:30 – 10:30 PM",
@@ -2169,7 +2169,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.5,
         "reviewCount": 5304
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/yori-piccadilly-circus-korean-bbq-Hpzadwok",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/yori-piccadilly-circus-korean-bbq-Hpzadwok",
       "openingHours": [
         "Monday: 12:00 – 11:00 PM",
         "Tuesday: 12:00 – 11:00 PM",
@@ -2491,7 +2491,7 @@ export default function BestKoreanInCentralLondon2025() {
         "ratingValue": 4.3,
         "reviewCount": 2141
       },
-      "url": "https://thebestinlondon.co.uk/restaurant/bibimbap-soho-VayvElt8",
+      "url": "https://www.thebestinlondon.co.uk/restaurant/bibimbap-soho-VayvElt8",
       "openingHours": [
         "Monday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
         "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM",
